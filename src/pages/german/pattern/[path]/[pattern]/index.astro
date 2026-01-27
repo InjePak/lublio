@@ -58,7 +58,7 @@ export async function getStaticPaths() {
 
     return jsonData.map((post) => ({
       params: {
-        path: chapter.path, // [path] 부분에 들어갈 값
+        path: chapter.path.split("/").pop(), // [path] 부분에 들어갈 값
         pattern: post.id.toString(), // [pattern] 부분에 들어갈 값
       },
       props: {
