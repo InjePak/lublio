@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Ich fühle mich überwältigend ... wegen ...",
+    "kor": "... 때문에 압도적인 ...를 느껴요.",
+    "b1": [
+      "Ich fühle mich überwältigend glücklich wegen meines Geburtstags.",
+      "Ich fühle mich überwältigend müde wegen der langen Reise.",
+      "Ich fühle mich überwältigend nervös wegen der Prüfung.",
+      "Ich fühle mich überwältigend froh wegen deiner Hilfe.",
+      "Ich fühle mich überwältigend traurig wegen des Abschieds."
+    ],
+    "b2": [
+      "Ich fühle mich überwältigend dankbar wegen der großen Unterstützung meiner Kollegen.",
+      "Ich fühle mich überwältigend gestresst wegen der vielen Deadlines in dieser Woche.",
+      "Ich fühle mich überwältigend stolz wegen des Erfolgs unseres gemeinsamen Projekts.",
+      "Ich fühle mich überwältigend unsicher wegen der neuen beruflichen Herausforderungen.",
+      "Ich fühle mich überwältigend motiviert wegen des positiven Feedbacks meiner Vorgesetzten."
+    ],
+    "c1": [
+      "Ich fühle mich überwältigend melancholisch wegen der Vergänglichkeit dieser kostbaren Momente.",
+      "Ich fühle mich überwältigend machtlos wegen der komplexen politischen Entwicklungen weltweit.",
+      "Ich fühle mich überwältigend euphorisiert wegen der intellektuellen Synergien in diesem Diskurs.",
+      "Ich fühle mich überwältigend isoliert wegen der mangelnden Empathie in unserer Gesellschaft.",
+      "Ich fühle mich überwältigend inspiriert wegen der ästhetischen Kraft dieses Kunstwerks."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Es hat mein Herz wirklich berührt, als ...",
+    "kor": "...했을 때 정말 감동받았어요 (마음이 울렸어요).",
+    "b1": [
+      "Es hat mein Herz wirklich berührt, als du mir Blumen geschenkt hast.",
+      "Es hat mein Herz wirklich berührt, als das Kind gelächelt hat.",
+      "Es hat mein Herz wirklich berührt, als wir uns wiedergesehen haben.",
+      "Es hat mein Herz wirklich berührt, als er mir geholfen hat.",
+      "Es hat mein Herz wirklich berührt, als ich den Brief gelesen habe."
+    ],
+    "b2": [
+      "Es hat mein Herz wirklich berührt, als das Team mir zum Abschied ein Lied gesungen hat.",
+      "Es hat mein Herz wirklich berührt, als ich die Dankbarkeit in den Augen der Patienten sah.",
+      "Es hat mein Herz wirklich berührt, als mein alter Lehrer sich an meinen Namen erinnerte.",
+      "Es hat mein Herz wirklich berührt, als fremde Menschen sich gegenseitig in der Not halfen.",
+      "Es hat mein Herz wirklich berührt, als ich die Geschichte seiner schweren Kindheit hörte."
+    ],
+    "c1": [
+      "Es hat mein Herz wirklich berührt, als ich die tiefe Menschlichkeit hinter seiner harten Fassade erkannte.",
+      "Es hat mein Herz wirklich berührt, als die Gemeinschaft trotz ideologischer Differenzen zusammenhielt.",
+      "Es hat mein Herz wirklich berührt, als die Poesie des Augenblicks alle rationalen Zweifel besiegte.",
+      "Es hat mein Herz wirklich berührt, als ich Zeuge einer selbstlosen Tat der Vergebung wurde.",
+      "Es hat mein Herz wirklich berührt, als die Melodie alte Erinnerungen an meine Heimat weckte."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Ich bin zutiefst besorgt wegen ...",
+    "kor": "... 때문에 깊이 우려하고 있습니다.",
+    "b1": [
+      "Ich bin zutiefst besorgt wegen meiner kranken Katze.",
+      "Ich bin zutiefst besorgt wegen der schlechten Noten.",
+      "Ich bin zutiefst besorgt wegen des Wetters morgen.",
+      "Ich bin zutiefst besorgt wegen meiner Mutter.",
+      "Ich bin zutiefst besorgt wegen der hohen Kosten."
+    ],
+    "b2": [
+      "Ich bin zutiefst besorgt wegen der wirtschaftlichen Lage unserer Firma.",
+      "Ich bin zutiefst besorgt wegen der zunehmenden Umweltverschmutzung in der Stadt.",
+      "Ich bin zutiefst besorgt wegen der psychischen Gesundheit meiner Kinder.",
+      "Ich bin zutiefst besorgt wegen der mangelnden Sicherheit am Arbeitsplatz.",
+      "Ich bin zutiefst besorgt wegen der aktuellen politischen Spannungen im Ausland."
+    ],
+    "c1": [
+      "Ich bin zutiefst besorgt wegen der Erosion des sozialen Zusammenhalts in unserer Demokratie.",
+      "Ich bin zutiefst besorgt wegen der ethischen Implikationen der künstlichen Intelligenz.",
+      "Ich bin zutiefst besorgt wegen der irreversiblen Schäden an unserem globalen Ökosystem.",
+      "Ich bin zutiefst besorgt wegen der zunehmenden Polarisierung des öffentlichen Diskurses.",
+      "Ich bin zutiefst besorgt wegen der mangelnden Transparenz bei diesen wichtigen Entscheidungen."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Mir fällt ein riesiger Stein vom Herzen, weil ...",
+    "kor": "...해서 정말 다행이에요 (마음의 짐을 덜었어요).",
+    "b1": [
+      "Mir fällt ein riesiger Stein vom Herzen, weil ich den Schlüssel gefunden habe.",
+      "Mir fällt ein riesiger Stein vom Herzen, weil du gesund bist.",
+      "Mir fällt ein riesiger Stein vom Herzen, weil die Prüfung vorbei ist.",
+      "Mir fällt ein riesiger Stein vom Herzen, weil es nicht regnet.",
+      "Mir fällt ein riesiger Stein vom Herzen, weil ich den Job bekommen habe."
+    ],
+    "b2": [
+      "Mir fällt ein riesiger Stein vom Herzen, weil die Operation gut verlaufen ist.",
+      "Mir fällt ein riesiger Stein vom Herzen, weil wir die Finanzierung endlich gesichert haben.",
+      "Mir fällt ein riesiger Stein vom Herzen, weil das Missverständnis geklärt wurde.",
+      "Mir fällt ein riesiger Stein vom Herzen, weil der Chef mit meinem Bericht zufrieden war.",
+      "Mir fällt ein riesiger Stein vom Herzen, weil meine Familie sicher zu Hause angekommen ist."
+    ],
+    "c1": [
+      "Mir fällt ein riesiger Stein vom Herzen, weil die Verhandlungen trotz aller Widerstände erfolgreich waren.",
+      "Mir fällt ein riesiger Stein vom Herzen, weil die medizinischen Befunde keinerlei Anlass zur Sorge geben.",
+      "Mir fällt ein riesiger Stein vom Herzen, weil die Integrität des Projekts gewahrt werden konnte.",
+      "Mir fällt ein riesiger Stein vom Herzen, weil ein Konsens in dieser prekären Angelegenheit erzielt wurde.",
+      "Mir fällt ein riesiger Stein vom Herzen, weil die existenzielle Bedrohung für den Betrieb abgewendet wurde."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Ich kann nicht verbergen, wie sehr ich ... schätze.",
+    "kor": "제가 얼마나 ...를 소중히 여기는지 숨길 수가 없네요.",
+    "b1": [
+      "Ich kann nicht verbergen, wie sehr ich deine Hilfe schätze.",
+      "Ich kann nicht verbergen, wie sehr ich dieses Geschenk schätze.",
+      "Ich kann nicht verbergen, wie sehr ich meine Freunde schätze.",
+      "Ich kann nicht verbergen, wie sehr ich die Natur schätze.",
+      "Ich kann nicht verbergen, wie sehr ich gutes Essen schätze."
+    ],
+    "b2": [
+      "Ich kann nicht verbergen, wie sehr ich deine Ehrlichkeit in dieser Situation schätze.",
+      "Ich kann nicht verbergen, wie sehr ich die gute Zusammenarbeit in unserem Team schätze.",
+      "Ich kann nicht verbergen, wie sehr ich die Flexibilität meines Arbeitgebers schätze.",
+      "Ich kann nicht verbergen, wie sehr ich das Vertrauen meiner Kunden schätze.",
+      "Ich kann nicht verbergen, wie sehr ich deine Meinung zu diesem Thema schätze."
+    ],
+    "c1": [
+      "Ich kann nicht verbergen, wie sehr ich deine intellektuelle Redlichkeit schätze.",
+      "Ich kann nicht verbergen, wie sehr ich die diskrete Art deiner Unterstützung schätze.",
+      "Ich kann nicht verbergen, wie sehr ich die kulturelle Vielfalt in unserem Umfeld schätze.",
+      "Ich kann nicht verbergen, wie sehr ich deine Standhaftigkeit gegenüber diesen Widerständen schätze.",
+      "Ich kann nicht verbergen, wie sehr ich die feinsinnige Ironie in deinen Worten schätze."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Ich empfinde ein tiefes Gefühl der Traurigkeit wegen ...",
+    "kor": "... 때문에 깊은 슬픔을 느낍니다.",
+    "b1": [
+      "Ich empfinde ein tiefes Gefühl der Traurigkeit wegen des Abschieds.",
+      "Ich empfinde ein tiefes Gefühl der Traurigkeit wegen des toten Hundes.",
+      "Ich empfinde ein tiefes Gefühl der Traurigkeit wegen des alten Hauses.",
+      "Ich empfinde ein tiefes Gefühl der Traurigkeit wegen des Endes vom Urlaub.",
+      "Ich empfinde ein tiefes Gefühl der Traurigkeit wegen der Einsamkeit."
+    ],
+    "b2": [
+      "Ich empfinde ein tiefes Gefühl der Traurigkeit wegen der Ungerechtigkeit in der Welt.",
+      "Ich empfinde ein tiefes Gefühl der Traurigkeit wegen der Zerstörung des Waldes.",
+      "Ich empfinde ein tiefes Gefühl der Traurigkeit wegen der verpassten Gelegenheiten.",
+      "Ich empfinde ein tiefes Gefühl der Traurigkeit wegen der Krankheit meines Vaters.",
+      "Ich empfinde ein tiefes Gefühl der Traurigkeit wegen des Krieges in der Nachbarregion."
+    ],
+    "c1": [
+      "Ich empfinde ein tiefes Gefühl der Traurigkeit wegen der Entfremdung zwischen den Generationen.",
+      "Ich empfinde ein tiefes Gefühl der Traurigkeit wegen des Verlusts unserer kulturellen Identität.",
+      "Ich empfinde ein tiefes Gefühl der Traurigkeit wegen der Ignoranz gegenüber wissenschaftlichen Fakten.",
+      "Ich empfinde ein tiefes Gefühl der Traurigkeit wegen der Vergänglichkeit menschlicher Ambitionen.",
+      "Ich empfinde ein tiefes Gefühl der Traurigkeit wegen der emotionalen Kälte in diesem Umfeld."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Worte können nicht beschreiben, wie sehr ...",
+    "kor": "얼마나 ...한지 말로는 다 설명할 수 없어요.",
+    "b1": [
+      "Worte können nicht beschreiben, wie sehr ich dich liebe.",
+      "Worte können nicht beschreiben, wie sehr ich mich freue.",
+      "Worte können nicht beschreiben, wie sehr ich dir danke.",
+      "Worte können nicht beschreiben, wie sehr ich Deutschland mag.",
+      "Worte können nicht beschreiben, wie sehr ich müde bin."
+    ],
+    "b2": [
+      "Worte können nicht beschreiben, wie sehr mich diese Nachricht schockiert hat.",
+      "Worte können nicht beschreiben, wie sehr ich mich auf das Wiedersehen freue.",
+      "Worte können nicht beschreiben, wie sehr wir deine Arbeit im Verein vermissen werden.",
+      "Worte können nicht beschreiben, wie sehr ich von deiner Leistung beeindruckt bin.",
+      "Worte können nicht beschreiben, wie sehr mir das Klima hier gefällt."
+    ],
+    "c1": [
+      "Worte können nicht beschreiben, wie sehr mich die existenzielle Tiefe dieses Romans bewegt hat.",
+      "Worte können nicht beschreiben, wie sehr die moralische Integrität dieser Frau mich inspiriert.",
+      "Worte können nicht beschreiben, wie sehr ich die Komplexität dieser Situation bedauere.",
+      "Worte können nicht beschreiben, wie sehr die Erhabenheit der Berge mich demütig werden lässt.",
+      "Worte können nicht beschreiben, wie sehr die Enttäuschung über diesen Vertrauensbruch schmerzt."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Ich habe mit dem Gedanken an ... zu kämpfen.",
+    "kor": "...라는 생각 때문에 힘들어요 (고민 중이에요).",
+    "b1": [
+      "Ich habe mit dem Gedanken an die Prüfung zu kämpfen.",
+      "Ich habe mit dem Gedanken an den Umzug zu kämpfen.",
+      "Ich habe mit dem Gedanken an die Arbeit zu kämpfen.",
+      "Ich habe mit dem Gedanken an das Wetter zu kämpfen.",
+      "Ich habe mit dem Gedanken an das Geld zu kämpfen."
+    ],
+    "b2": [
+      "Ich habe mit dem Gedanken an eine Kündigung zu kämpfen.",
+      "Ich habe mit dem Gedanken an ein Leben im Ausland zu kämpfen.",
+      "Ich habe mit dem Gedanken an meine Fehler in der Vergangenheit zu kämpfen.",
+      "Ich habe mit dem Gedanken an die Verantwortung für das Team zu kämpfen.",
+      "Ich habe mit dem Gedanken an das Älterwerden zu kämpfen."
+    ],
+    "c1": [
+      "Ich habe mit dem Gedanken an die ethische Vertretbarkeit meines Handelns zu kämpfen.",
+      "Ich habe mit dem Gedanken an die Unausweichlichkeit des Schicksals zu kämpfen.",
+      "Ich habe mit dem Gedanken an die Sinnhaftigkeit meiner beruflichen Laufbahn zu kämpfen.",
+      "Ich habe mit dem Gedanken an die gesellschaftlichen Folgen dieser Reform zu kämpfen.",
+      "Ich habe mit dem Gedanken an meine eigene Unzulänglichkeit zu kämpfen."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Meine größte Angst ist, dass ...",
+    "kor": "제 가장 큰 두려움은 ...라는 것이에요.",
+    "b1": [
+      "Meine größte Angst ist, dass ich den Test nicht bestehe.",
+      "Meine größte Angst ist, dass es morgen regnet.",
+      "Meine größte Angst ist, dass ich allein bin.",
+      "Meine größte Angst ist, dass ich krank werde.",
+      "Meine größte Angst ist, dass ich zu spät komme."
+    ],
+    "b2": [
+      "Meine größte Angst ist, dass ich meine Kinder nicht richtig beschützen kann.",
+      "Meine größte Angst ist, dass ich im Alter einsam sein werde.",
+      "Meine größte Angst ist, dass wir das Ziel des Projekts nicht erreichen.",
+      "Meine größte Angst ist, dass mein Wissen für den neuen Job nicht ausreicht.",
+      "Meine größte Angst ist, dass die Inflation mein Erspartes vernichtet."
+    ],
+    "c1": [
+      "Meine größte Angst ist, dass die Menschheit aus ihren Fehlern nicht lernt.",
+      "Meine größte Angst ist, dass die individuellen Freiheiten zunehmend eingeschränkt werden.",
+      "Meine größte Angst ist, dass die Wahrheit in einem Meer von Informationen untergeht.",
+      "Meine größte Angst ist, dass ich am Ende meines Lebens wichtige Dinge bereuen muss.",
+      "Meine größte Angst ist, dass die empathische Bindung zwischen den Menschen verloren geht."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Diese Situation hat mich ziemlich ... fühlen lassen.",
+    "kor": "이 상황 때문에 꽤 ...한 기분이 들었어요.",
+    "b1": [
+      "Diese Situation hat mich ziemlich traurig fühlen lassen.",
+      "Diese Situation hat mich ziemlich froh fühlen lassen.",
+      "Diese Situation hat mich ziemlich müde fühlen lassen.",
+      "Diese Situation hat mich ziemlich wütend fühlen lassen.",
+      "Diese Situation hat mich ziemlich einsam fühlen lassen."
+    ],
+    "b2": [
+      "Diese Situation hat mich ziemlich hilflos fühlen lassen.",
+      "Diese Situation hat mich ziemlich enttäuscht fühlen lassen.",
+      "Diese Situation hat mich ziemlich motiviert fühlen lassen.",
+      "Diese Situation hat mich ziemlich unsicher fühlen lassen.",
+      "Diese Situation hat mich ziemlich überrascht fühlen lassen."
+    ],
+    "c1": [
+      "Diese Situation hat mich ziemlich desillusioniert fühlen lassen.",
+      "Diese Situation hat mich ziemlich demaskiert fühlen lassen.",
+      "Diese Situation hat mich ziemlich gelähmt fühlen lassen.",
+      "Diese Situation hat mich ziemlich nachdenklich fühlen lassen.",
+      "Diese Situation hat mich ziemlich entfremdet fühlen lassen."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Es bricht mir das Herz, ... zu sehen.",
+    "kor": "...를 보는 것이 제 가슴을 아프게 해요.",
+    "b1": [
+      "Es bricht mir das Herz, dich weinen zu sehen.",
+      "Es bricht mir das Herz, kranke Tiere zu sehen.",
+      "Es bricht mir das Herz, den Müll im Park zu sehen.",
+      "Es bricht mir das Herz, einsame Menschen zu sehen.",
+      "Es bricht mir das Herz, alte Fotos zu sehen."
+    ],
+    "b2": [
+      "Es bricht mir das Herz, die Zerstörung meiner Heimatstadt zu sehen.",
+      "Es bricht mir das Herz, die Armut in diesem reichen Land zu sehen.",
+      "Es bricht mir das Herz, den Streit in unserer Familie zu sehen.",
+      "Es bricht mir das Herz, das Leiden der unschuldigen Opfer zu sehen.",
+      "Es bricht mir das Herz, die Gleichgültigkeit vieler Menschen zu sehen."
+    ],
+    "c1": [
+      "Es bricht mir das Herz, den langsamen Verfall moralischer Werte zu sehen.",
+      "Es bricht mir das Herz, die systematische Unterdrückung von Minderheiten zu sehen.",
+      "Es bricht mir das Herz, die Hoffnungslosigkeit in den Augen der Jugend zu sehen.",
+      "Es bricht mir das Herz, die rücksichtslose Ausbeutung unserer Ressourcen zu sehen.",
+      "Es bricht mir das Herz, das Verschwinden wertvoller Traditionen zu sehen."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Ich bewundere wirklich deine Stärke bei ...",
+    "kor": "...에 있어서 당신의 강인함에 정말 감탄해요.",
+    "b1": [
+      "Ich bewundere wirklich deine Stärke beim Sport.",
+      "Ich bewundere wirklich deine Stärke beim Lernen.",
+      "Ich bewundere wirklich deine Stärke beim Kochen.",
+      "Ich bewundere wirklich deine Stärke beim Laufen.",
+      "Ich bewundere wirklich deine Stärke bei der Arbeit."
+    ],
+    "b2": [
+      "Ich bewundere wirklich deine Stärke bei der Bewältigung deiner Krankheit.",
+      "Ich bewundere wirklich deine Stärke bei diesem schwierigen Gespräch.",
+      "Ich bewundere wirklich deine Stärke trotz des großen Drucks im Büro.",
+      "Ich bewundere wirklich deine Stärke nach dem schweren Schicksalsschlag.",
+      "Ich bewundere wirklich deine Stärke bei der Erziehung deiner Kinder."
+    ],
+    "c1": [
+      "Ich bewundere wirklich deine Stärke bei der Verteidigung deiner unpopulären Prinzipien.",
+      "Ich bewundere wirklich deine Stärke im Angesicht dieser existenziellen Krise.",
+      "Ich bewundere wirklich deine Stärke bei der Aufrechterhaltung deiner stoischen Ruhe.",
+      "Ich bewundere wirklich deine Stärke während des langwierigen juristischen Konflikts.",
+      "Ich bewundere wirklich deine Stärke bei der Überwindung tiefsitzender Traumata."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Die tiefe Bedeutung hinter ... ist ...",
+    "kor": "... 뒤에 숨겨진 깊은 의미는 ...입니다.",
+    "b1": [
+      "Die tiefe Bedeutung hinter dem Geschenk ist Liebe.",
+      "Die tiefe Bedeutung hinter dem Wort ist Hoffnung.",
+      "Die tiefe Bedeutung hinter dem Bild ist Freiheit.",
+      "Die tiefe Bedeutung hinter dem Lied ist Heimat.",
+      "Die tiefe Bedeutung hinter der Reise ist Erfahrung."
+    ],
+    "b2": [
+      "Die tiefe Bedeutung hinter dieser Tradition ist der Zusammenhalt der Familie.",
+      "Die tiefe Bedeutung hinter seiner Geste ist der Wunsch nach Versöhnung.",
+      "Die tiefe Bedeutung hinter diesem Projekt ist der Schutz der Umwelt.",
+      "Die tiefe Bedeutung hinter ihrer Entscheidung ist der Mut zur Veränderung.",
+      "Die tiefe Bedeutung hinter diesem Buch ist die Suche nach dem Glück."
+    ],
+    "c1": [
+      "Die tiefe Bedeutung hinter diesem philosophischen System ist die Befreiung des Geistes.",
+      "Die tiefe Bedeutung hinter der symbolischen Handlung ist die Anerkennung der Schuld.",
+      "Die tiefe Bedeutung hinter dem künstlerischen Ausdruck ist die Dekonstruktion der Realität.",
+      "Die tiefe Bedeutung hinter dieser gesellschaftlichen Norm ist die Kontrolle des Individuums.",
+      "Die tiefe Bedeutung hinter dem Schweigen ist die Unzulänglichkeit der Sprache."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Ich bin absolut am Boden zerstört durch ...",
+    "kor": "... 때문에 완전히 절망했습니다 (무너졌습니다).",
+    "b1": [
+      "Ich bin absolut am Boden zerstört durch die schlechte Nachricht.",
+      "Ich bin absolut am Boden zerstört durch den Tod meines Hamsters.",
+      "Ich bin absolut am Boden zerstört durch den Regen im Urlaub.",
+      "Ich bin absolut am Boden zerstört durch das kaputte Handy.",
+      "Ich bin absolut am Boden zerstört durch den Streit mit dir."
+    ],
+    "b2": [
+      "Ich bin absolut am Boden zerstört durch das plötzliche Ende meiner Beziehung.",
+      "Ich bin absolut am Boden zerstört durch den Verlust meines Arbeitsplatzes.",
+      "Ich bin absolut am Boden zerstört durch den Vertrauensbruch eines Freundes.",
+      "Ich bin absolut am Boden zerstört durch das Scheitern meiner Pläne.",
+      "Ich bin absolut am Boden zerstört durch die Diagnose des Arztes."
+    ],
+    "c1": [
+      "Ich bin absolut am Boden zerstört durch die moralische Verkommenheit dieser Tat.",
+      "Ich bin absolut am Boden zerstört durch die Zerstörung des kulturellen Erbes.",
+      "Ich bin absolut am Boden zerstört durch die Erkenntnis meiner eigenen Fehlbarkeit.",
+      "Ich bin absolut am Boden zerstört durch die Gleichgültigkeit der Mächtigen.",
+      "Ich bin absolut am Boden zerstört durch das Zerbrechen meiner langjährigen Ideale."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Es ist schwer, die Freude auszudrücken, die ich empfinde, wenn ...",
+    "kor": "...할 때 느끼는 기쁨을 표현하기가 어렵네요.",
+    "b1": [
+      "Es ist schwer, die Freude auszudrücken, die ich empfinde, wenn ich Schokolade esse.",
+      "Es ist schwer, die Freude auszudrücken, die ich empfinde, wenn du da bist.",
+      "Es ist schwer, die Freude auszudrücken, die ich empfinde, wenn die Sonne scheint.",
+      "Es ist schwer, die Freude auszudrücken, die ich empfinde, wenn ich Musik höre.",
+      "Es ist schwer, die Freude auszudrücken, die ich empfinde, wenn ich Urlaub habe."
+    ],
+    "b2": [
+      "Es ist schwer, die Freude auszudrücken, die ich empfinde, wenn meine Kinder lachen.",
+      "Es ist schwer, die Freude auszudrücken, die ich empfinde, wenn ein Projekt erfolgreich endet.",
+      "Es ist schwer, die Freude auszudrücken, die ich empfinde, wenn ich in der Natur wandere.",
+      "Es ist schwer, die Freude auszudrücken, die ich empfinde, wenn ich ein neues Hobby lerne.",
+      "Es ist schwer, die Freude auszudrücken, die ich empfinde, wenn ich anderen Menschen helfe."
+    ],
+    "c1": [
+      "Es ist schwer, die Freude auszudrücken, die ich empfinde, wenn Theorie und Praxis harmonieren.",
+      "Es ist schwer, die Freude auszudrücken, die ich empfinde, wenn intellektuelle Neugier gestillt wird.",
+      "Es ist schwer, die Freude auszudrücken, die ich empfinde, wenn soziale Gerechtigkeit siegt.",
+      "Es ist schwer, die Freude auszudrücken, die ich empfinde, wenn ein Kunstwerk meine Seele berührt.",
+      "Es ist schwer, die Freude auszudrücken, die ich empfinde, wenn ich einen Moment absoluter Stille erlebe."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Diese Erfahrung hat mir eine neue Perspektive auf ... gegeben.",
+    "kor": "이 경험은 저에게 ...에 대한 새로운 관점을 갖게 해주었어요.",
+    "b1": [
+      "Diese Erfahrung hat mir eine neue Perspektive auf Deutschland gegeben.",
+      "Diese Erfahrung hat mir eine neue Perspektive auf die Arbeit gegeben.",
+      "Diese Erfahrung hat mir eine neue Perspektive auf das Leben gegeben.",
+      "Diese Erfahrung hat mir eine neue Perspektive auf meine Familie gegeben.",
+      "Diese Erfahrung hat mir eine neue Perspektive auf das Reisen gegeben."
+    ],
+    "b2": [
+      "Diese Erfahrung hat mir eine neue Perspektive auf soziale Verantwortung gegeben.",
+      "Diese Erfahrung hat mir eine neue Perspektive auf das Glücksempfinden gegeben.",
+      "Diese Erfahrung hat mir eine neue Perspektive auf fremde Kulturen gegeben.",
+      "Diese Erfahrung hat mir eine neue Perspektive auf den Wert der Zeit gegeben.",
+      "Diese Erfahrung hat mir eine neue Perspektive auf meine eigenen Stärken gegeben."
+    ],
+    "c1": [
+      "Diese Erfahrung hat mir eine neue Perspektive auf die Komplexität menschlicher Beziehungen gegeben.",
+      "Diese Erfahrung hat mir eine neue Perspektive auf die Ambivalenz des Fortschritts gegeben.",
+      "Diese Erfahrung hat mir eine neue Perspektive auf die Fragilität unserer Zivilisation gegeben.",
+      "Diese Erfahrung hat mir eine neue Perspektive auf die Notwendigkeit von Empathie gegeben.",
+      "Diese Erfahrung hat mir eine neue Perspektive auf die Strukturen von Macht und Einfluss gegeben."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Ich empfinde ein immenses Gefühl der Erleichterung, dass ...",
+    "kor": "...해서 엄청난 안도감을 느껴요.",
+    "b1": [
+      "Ich empfinde ein immenses Gefühl der Erleichterung, dass der Test vorbei ist.",
+      "Ich empfinde ein immenses Gefühl der Erleichterung, dass du hier bist.",
+      "Ich empfinde ein immenses Gefühl der Erleichterung, dass ich gesund bin.",
+      "Ich empfinde ein immenses Gefühl der Erleichterung, dass wir gewonnen haben.",
+      "Ich empfinde ein immenses Gefühl der Erleichterung, dass das Auto funktioniert."
+    ],
+    "b2": [
+      "Ich empfinde ein immenses Gefühl der Erleichterung, dass der Konflikt friedlich gelöst wurde.",
+      "Ich empfinde ein immenses Gefühl der Erleichterung, dass alle Mitarbeiter ihre Jobs behalten.",
+      "Ich empfinde ein immenses Gefühl der Erleichterung, dass die Gefahr nun vorüber ist.",
+      "Ich empfinde ein immenses Gefühl der Erleichterung, dass wir die Frist eingehalten haben.",
+      "Ich empfinde ein immenses Gefühl der Erleichterung, dass meine Eltern die Reise gut überstanden haben."
+    ],
+    "c1": [
+      "Ich empfinde ein immenses Gefühl der Erleichterung, dass die Wahrheit endlich ans Licht gekommen ist.",
+      "Ich empfinde ein immenses Gefühl der Erleichterung, dass die ethischen Bedenken ernst genommen wurden.",
+      "Ich empfinde ein immenses Gefühl der Erleichterung, dass die Katastrophe durch schnelles Handeln verhindert wurde.",
+      "Ich empfinde ein immenses Gefühl der Erleichterung, dass ein rechtmäßiger Ausgang des Prozesses erzielt wurde.",
+      "Ich empfinde ein immenses Gefühl der Erleichterung, dass die akademische Anerkennung meiner Arbeit erfolgt ist."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Seit ... gibt es ein Gefühl der Leere.",
+    "kor": "... 이후로 공허함이 느껴져요.",
+    "b1": [
+      "Seit deinem Abschied gibt es ein Gefühl der Leere.",
+      "Seit dem Ende vom Urlaub gibt es ein Gefühl der Leere.",
+      "Seit dem Umzug gibt es ein Gefühl der Leere.",
+      "Seit gestern gibt es ein Gefühl der Leere.",
+      "Seit dem Tod meines Hundes gibt es ein Gefühl der Leere."
+    ],
+    "b2": [
+      "Seit ich meine Arbeit verloren habe, gibt es ein Gefühl der Leere in meinem Alltag.",
+      "Seit die Kinder ausgezogen sind, gibt es ein Gefühl der Leere im Haus.",
+      "Seit der Trennung von meiner Partnerin gibt es ein Gefühl der Leere in meinem Herzen.",
+      "Seit ich mein Hobby aufgegeben habe, gibt es ein Gefühl der Leere in meiner Freizeit.",
+      "Seit dem Tod meines besten Freundes gibt es ein Gefühl der Leere in meinem Leben."
+    ],
+    "c1": [
+      "Seit dem Verlust meiner Ideale gibt es ein Gefühl der existenziellen Leere.",
+      "Seit der Einstellung dieses bedeutenden Forschungsprojekts gibt es ein Gefühl der Leere.",
+      "Seit dem Verschwinden der intellektuellen Debatten gibt es ein Gefühl der Leere im Institut.",
+      "Seit dem Bruch mit meiner Vergangenheit gibt es ein Gefühl der inneren Leere.",
+      "Seit der Erkenntnis der Sinnlosigkeit dieses Unterfangens gibt es ein Gefühl der Leere."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Ich übernehme die volle Verantwortung für mein Gefühl der ...",
+    "kor": "제 ...한 감정에 대해 전적으로 책임을 지겠습니다.",
+    "b1": [
+      "Ich übernehme die volle Verantwortung für mein Gefühl der Wut.",
+      "Ich übernehme die volle Verantwortung für mein Gefühl der Trauer.",
+      "Ich übernehme die volle Verantwortung für mein Gefühl der Angst.",
+      "Ich übernehme die volle Verantwortung für mein Gefühl der Freude.",
+      "Ich übernehme die volle Verantwortung für mein Gefühl der Schuld."
+    ],
+    "b2": [
+      "Ich übernehme die volle Verantwortung für mein Gefühl der Eifersucht in unserer Beziehung.",
+      "Ich übernehme die volle Verantwortung für mein Gefühl der Unzufriedenheit im Team.",
+      "Ich übernehme die volle Verantwortung für mein Gefühl der Überforderung im Job.",
+      "Ich übernehme die volle Verantwortung für mein Gefühl der Enttäuschung nach dem Treffen.",
+      "Ich übernehme die volle Verantwortung für mein Gefühl der Unsicherheit bei der Präsentation."
+    ],
+    "c1": [
+      "Ich übernehme die volle Verantwortung für mein Gefühl der moralischen Empörung.",
+      "Ich übernehme die volle Verantwortung für mein Gefühl der intellektuellen Überlegenheit.",
+      "Ich übernehme die volle Verantwortung für mein Gefühl der existenziellen Angst.",
+      "Ich übernehme die volle Verantwortung für mein Gefühl der sozialen Entfremdung.",
+      "Ich übernehme die volle Verantwortung für mein Gefühl der inneren Zerrissenheit."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Die Intensität der Situation ließ mich ... fühlen.",
+    "kor": "상황의 강렬함(심각함) 때문에 ...한 기분이 들었어요.",
+    "b1": [
+      "Die Intensität der Situation ließ mich klein fühlen.",
+      "Die Intensität der Situation ließ mich stark fühlen.",
+      "Die Intensität der Situation ließ mich ängstlich fühlen.",
+      "Die Intensität der Situation ließ mich froh fühlen.",
+      "Die Intensität der Situation ließ mich müde fühlen."
+    ],
+    "b2": [
+      "Die Intensität der Situation ließ mich völlig handlungsunfähig fühlen.",
+      "Die Intensität der Situation ließ mich extrem konzentriert fühlen.",
+      "Die Intensität der Situation ließ mich zutiefst bewegt fühlen.",
+      "Die Intensität der Situation ließ mich sehr verwirrt fühlen.",
+      "Die Intensität der Situation ließ mich absolut verantwortungsvoll fühlen."
+    ],
+    "c1": [
+      "Die Intensität der Situation ließ mich die Fragilität meines Seins fühlen.",
+      "Die Intensität der Situation ließ mich eine transzendentale Ruhe fühlen.",
+      "Die Intensität der Situation ließ mich eine tiefe Verbundenheit mit der Menschheit fühlen.",
+      "Die Intensität der Situation ließ mich die bittere Ironie des Schicksals fühlen.",
+      "Die Intensität der Situation ließ mich eine beispiellose Entschlossenheit fühlen."
+    ]
+  }
+]

@@ -1,0 +1,78 @@
+---
+
+---
+
+<button id="scroll-to-top" class="top-btn" aria-label="맨 위로 이동">
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="24"
+    height="24"
+    viewBox="0 0 24 24"
+    fill="none"
+    stroke="currentColor"
+    stroke-width="2"
+    stroke-linecap="round"
+    stroke-linejoin="round"><path d="m18 15-6-6-6 6"></path></svg
+  >
+</button>
+
+<style>
+  .top-btn {
+    position: fixed;
+    bottom: 2rem;
+    right: 2rem;
+    width: 3.5rem;
+    height: 3.5rem;
+    border-radius: 50%;
+    background-color: var(--zinc800);
+    color: white;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition:
+      opacity 0.3s,
+      transform 0.3s;
+    /* 처음에는 숨겨두기 */
+    opacity: 0;
+    z-index: 9;
+    pointer-events: none;
+  }
+
+  .top-btn svg {
+    width: 2rem; /* 화살표 크기를 버튼의 약 60% 정도로 설정 */
+    height: 2rem;
+    stroke-width: 2.5; /* 화살표가 커진 만큼 선 굵기도 약간 두껍게 설정 */
+  }
+
+  .top-btn.show {
+    opacity: 1;
+    pointer-events: auto;
+  }
+
+  .top-btn:hover {
+    transform: translateY(-5px);
+  }
+</style>
+
+<script>
+  const topBtn = document.getElementById("scroll-to-top");
+
+  // 1. 클릭 시 스크롤을 0으로 이동
+  topBtn?.addEventListener("click", () => {
+    window.scrollTo({
+      top: 0,
+      behavior: "smooth", // 부드럽게 이동
+    });
+  });
+
+  // 2. 일정 거리(예: 200px) 내려왔을 때만 버튼 보이기
+  window.addEventListener("scroll", () => {
+    if (window.scrollY > 200) {
+      topBtn?.classList.add("show");
+    } else {
+      topBtn?.classList.remove("show");
+    }
+  });
+</script>

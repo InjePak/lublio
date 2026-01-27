@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Les deux, ... et ..., sont importants parce que ...",
+    "kor": "...와 ... 둘 다 중요합니다. 왜냐하면 ...이기 때문입니다.",
+    "b1": [
+      "Les deux, le sport et l'alimentation, sont importants parce que c'est bon pour la santé.",
+      "Les deux, lire et écrire, sont importants parce que nous apprenons beaucoup.",
+      "Les deux, le travail et le repos, sont importants parce que nous avons besoin d'équilibre.",
+      "Les deux, la famille et les amis, sont importants parce qu'ils nous rendent heureux.",
+      "Les deux, le soleil et la pluie, sont importants parce que la nature en a besoin."
+    ],
+    "b2": [
+      "Les deux, la théorie et la pratique, sont importants parce que l'un ne va pas sans l'autre.",
+      "Les deux, le profit et l'éthique, sont importants parce que l'entreprise doit être responsable.",
+      "Les deux, la créativité et la discipline, sont importants parce qu'ils mènent au succès durable.",
+      "Les deux, la sécurité et la liberté, sont importants parce qu'ils définissent notre société.",
+      "Les deux, le local et le global, sont importants parce que tout est interconnecté aujourd'hui."
+    ],
+    "c1": [
+      "Les deux, l'intuition et l'analyse de données, sont importants parce qu'ils forment une vision stratégique complète.",
+      "Les deux, la préservation du patrimoine et l'innovation technologique, sont importants parce qu'ils assurent la continuité culturelle.",
+      "Les deux, la souveraineté nationale et la coopération internationale, sont importants parce qu'ils stabilisent les relations mondiales.",
+      "Les deux, l'empathie et l'autorité, sont importants parce qu'ils sont le socle d'un leadership moderne efficace.",
+      "Les deux, la rigueur scientifique et l'audace intellectuelle, sont importants parce qu'ils permettent les découvertes majeures."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Contrairement à ..., cependant, ...",
+    "kor": "...와는 반대로, 하지만, ...",
+    "b1": [
+      "Contrairement à mon frère, cependant, je n'aime pas le football.",
+      "Contrairement à hier, cependant, il fait très beau aujourd'hui.",
+      "Contrairement à Paris, cependant, ma ville est très calme.",
+      "Contrairement au bus, cependant, le train est très rapide.",
+      "Contrairement à toi, cependant, je préfère le thé au café."
+    ],
+    "b2": [
+      "Contrairement à ce que l'on pense, cependant, ce projet est très rentable.",
+      "Contrairement à la France, cependant, l'Allemagne a une structure fédérale.",
+      "Contrairement aux prévisions, cependant, l'inflation a diminué ce mois-ci.",
+      "Contrairement à l'ancien modèle, cependant, celui-ci consomme moins d'énergie.",
+      "Contrairement à ses collègues, cependant, elle travaille souvent tard le soir."
+    ],
+    "c1": [
+      "Contrairement à la rhétorique habituelle, cependant, les faits montrent une réalité bien plus nuancée.",
+      "Contrairement aux idées reçues sur la mondialisation, cependant, nous assistons à une relocalisation de certaines industries.",
+      "Contrairement à l'approche purement quantitative, cependant, notre étude privilégie une analyse qualitative profonde.",
+      "Contrairement aux attentes du marché, cependant, l'entreprise a décidé de ne pas verser de dividendes cette année.",
+      "Contrairement à une vision linéaire du progrès, cependant, l'histoire nous enseigne que des régressions sont toujours possibles."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "La principale différence entre ... et ... est que ...",
+    "kor": "...와 ...의 주요 차이점은 ...라는 것입니다.",
+    "b1": [
+      "La principale différence entre le chien et le chat est que le chien est plus sociable.",
+      "La principale différence entre l'été et l'hiver est qu'il fait plus chaud en été.",
+      "La principale différence entre ce livre et le film est que le livre est plus long.",
+      "La principale différence entre l'avion et le bus est que l'avion est plus cher.",
+      "La principale différence entre moi et toi est que je suis plus grand."
+    ],
+    "b2": [
+      "La principale différence entre ces deux stratégies est que l'une est plus risquée que l'autre.",
+      "La principale différence entre le salariat et l'entrepreneuriat est le niveau de sécurité financière.",
+      "La principale différence entre la 4G et la 5G est la vitesse de transmission des données.",
+      "La principale différence entre ces deux candidats est leur expérience internationale.",
+      "La principale différence entre le bio et le conventionnel est l'utilisation de pesticides chimiques."
+    ],
+    "c1": [
+      "La principale différence entre le droit civil et la common law est la source primordiale de la règle de droit.",
+      "La principale différence entre l'intelligence artificielle et l'intelligence humaine réside dans la capacité d'abstraction.",
+      "La principale différence entre ces deux modèles de gouvernance est le degré de décentralisation du pouvoir.",
+      "La principale différence entre la croissance économique et le développement durable est la prise en compte de la finitude des ressources.",
+      "La principale différence entre ces deux courants de pensée est leur conception du libre arbitre face au déterminisme social."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "... est similaire à ... dans le sens où ...",
+    "kor": "...는 ...라는 점에서 ...와 비슷합니다.",
+    "b1": [
+      "Le français est similaire à l'italien dans le sens où ce sont des langues latines.",
+      "Ce film est similaire au premier dans le sens où il est très drôle.",
+      "Ma maison est similaire à la tienne dans le sens où elle a trois chambres.",
+      "Le tennis est similaire au ping-pong dans le sens où on utilise une raquette.",
+      "Cuisiner est similaire à peindre dans le sens où c'est créatif."
+    ],
+    "b2": [
+      "Le marché actuel est similaire à celui de 2008 dans le sens où l'instabilité est forte.",
+      "Le télétravail est similaire au travail au bureau dans le sens où les objectifs restent les mêmes.",
+      "Cette nouvelle loi est similaire à la précédente dans le sens où elle vise à protéger les mineurs.",
+      "Le management de projet est similaire à la direction d'un orchestre dans le sens où il faut de la coordination.",
+      "La situation en Espagne est similaire à celle du Portugal dans le sens où le tourisme est vital."
+    ],
+    "c1": [
+      "La crise climatique est similaire à une pandémie dans le sens où elle nécessite une réponse globale coordonnée.",
+      "L'évolution de l'IA est similaire à la révolution industrielle dans le sens où elle bouleverse les structures sociales.",
+      "Cette approche philosophique est similaire au stoïcisme dans le sens où elle prône la maîtrise des émotions.",
+      "La structure de cette start-up est similaire à celle d'un organisme vivant dans le sens où elle s'adapte à son environnement.",
+      "L'économie numérique est similaire à l'alchimie dans le sens où elle tente de créer de la valeur à partir de l'immatériel."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Alors que ... a X, ... a Y.",
+    "kor": "...가 X를 가지고 있는 반면에, ...는 Y를 가지고 있습니다.",
+    "b1": [
+      "Alors que Paris a la Tour Eiffel, Séoul a la tour Namsan.",
+      "Alors que j'ai un chat, mon ami a un chien.",
+      "Alors que ce gâteau a du chocolat, l'autre a des fruits.",
+      "Alors que l'avion a des ailes, l'hélicoptère a des pales.",
+      "Alors que le jour a le soleil, la nuit a la lune."
+    ],
+    "b2": [
+      "Alors que le secteur public a la sécurité de l'emploi, le secteur privé a souvent de meilleurs salaires.",
+      "Alors que ce modèle a une grande autonomie, l'autre a une vitesse de charge plus rapide.",
+      "Alors que l'Europe a une population vieillissante, l'Afrique a une population très jeune.",
+      "Alors que le marketing a pour but d'attirer, la vente a pour but de conclure.",
+      "Alors que la peinture à l'huile a un temps de séchage long, l'acrylique sèche très vite."
+    ],
+    "c1": [
+      "Alors que le libéralisme classique a pour pivot l'individu, le socialisme a pour socle la collectivité.",
+      "Alors que la recherche fondamentale a un horizon temporel long, la recherche appliquée a des objectifs immédiats.",
+      "Alors que ce traité a une portée symbolique forte, le protocole additionnel a une valeur juridique contraignante.",
+      "Alors que le système éducatif finlandais a pour priorité l'équité, le système coréen privilégie souvent l'excellence compétitive.",
+      "Alors que l'art classique a une visée esthétique de représentation, l'art moderne a une démarche conceptuelle de déconstruction."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "D'une part ..., mais d'autre part, ...",
+    "kor": "한편으로는 ..., 하지만 다른 한편으로는 ...",
+    "b1": [
+      "D'une part j'aime voyager, mais d'autre part j'aime rester chez moi.",
+      "D'une part ce travail est dur, mais d'autre part le salaire est bon.",
+      "D'une part il veut sortir, mais d'autre part il est fatigué.",
+      "D'une part c'est bon pour la santé, mais d'autre part c'est cher.",
+      "D'une part je comprends, mais d'autre part je ne suis pas d'accord."
+    ],
+    "b2": [
+      "D'une part, la technologie simplifie la vie, mais d'autre part, elle réduit nos interactions sociales.",
+      "D'une part, ce projet est innovant, mais d'autre part, il présente des risques financiers importants.",
+      "D'une part, le tourisme aide l'économie locale, mais d'autre part, il pollue l'environnement.",
+      "D'une part, je suis heureux de ma promotion, mais d'autre part, j'ai beaucoup plus de stress.",
+      "D'une part, nous devons agir vite, mais d'autre part, nous ne devons pas faire d'erreurs."
+    ],
+    "c1": [
+      "D'une part, la dématérialisation optimise les processus, mais d'autre part, elle accroît notre vulnérabilité cybernétique.",
+      "D'une part, la mondialisation favorise les échanges culturels, mais d'autre part, elle uniformise les modes de vie.",
+      "D'une part, l'IA augmente la productivité, mais d'autre part, elle soulève des questions éthiques sans précédent.",
+      "D'une part, nous prônons la transparence, mais d'autre part, nous devons protéger le secret industriel.",
+      "D'une part, l'austérité réduit la dette, mais d'autre part, elle bride l'investissement nécessaire à la croissance."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "En comparaison avec ..., ...",
+    "kor": "...와 비교했을 때, ...",
+    "b1": [
+      "En comparaison avec l'année dernière, il fait plus froid maintenant.",
+      "En comparaison avec ma voiture, la tienne est très petite.",
+      "En comparaison avec ce restaurant, l'autre est moins cher.",
+      "En comparaison avec mon frère, je suis plus timide.",
+      "En comparaison avec le bus, le métro est plus propre."
+    ],
+    "b2": [
+      "En comparaison avec ses concurrents, cette entreprise offre un meilleur service client.",
+      "En comparaison avec le mois précédent, nos ventes ont augmenté de 15 %.",
+      "En comparaison avec l'ancienne version, ce logiciel est beaucoup plus intuitif.",
+      "En comparaison avec d'autres pays européens, le coût de la vie ici est raisonnable.",
+      "En comparaison avec mon ancien poste, j'ai maintenant beaucoup plus d'autonomie."
+    ],
+    "c1": [
+      "En comparaison avec les crises passées, celle-ci présente une dimension systémique inédite.",
+      "En comparaison avec le système éducatif traditionnel, l'apprentissage en ligne offre une flexibilité supérieure.",
+      "En comparaison avec les prévisions initiales, les résultats de l'audit sont particulièrement alarmants.",
+      "En comparaison avec une gestion centralisée, la décentralisation favorise l'innovation locale.",
+      "En comparaison avec le réalisme classique, le surréalisme explore les méandres de l'inconscient."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Inversement, la situation avec ... est assez différente.",
+    "kor": "반대로, ...의 상황은 상당히 다릅니다.",
+    "b1": [
+      "Inversement, la situation avec mon ami est assez différente.",
+      "Inversement, la situation avec ce projet est assez différente.",
+      "Inversement, la situation avec le temps est assez différente.",
+      "Inversement, la situation avec ma famille est assez différente.",
+      "Inversement, la situation avec ce restaurant est assez différente."
+    ],
+    "b2": [
+      "Inversement, la situation avec le marché asiatique est assez différente cette année.",
+      "Inversement, la situation avec les petites entreprises est assez différente de celle des multinationales.",
+      "Inversement, la situation avec le secteur du tourisme est assez différente depuis la crise.",
+      "Inversement, la situation avec les transports en commun est assez différente en banlieue.",
+      "Inversement, la situation avec nos clients fidèles est assez différente des nouveaux prospects."
+    ],
+    "c1": [
+      "Inversement, la situation avec les pays émergents est assez différente en raison de leur croissance démographique.",
+      "Inversement, la situation avec les actifs immatériels est assez différente au regard de la comptabilité classique.",
+      "Inversement, la situation avec les énergies renouvelables est assez différente grâce aux subventions étatiques.",
+      "Inversement, la situation avec le droit d'auteur numérique est assez différente de celle du monde analogique.",
+      "Inversement, la situation avec la stabilité géopolitique actuelle est assez différente des prédictions de la guerre froide."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Ils partagent plusieurs caractéristiques communes, telles que ...",
+    "kor": "그들은 ...와 같은 몇 가지 공통적인 특징을 공유합니다.",
+    "b1": [
+      "Ils partagent plusieurs caractéristiques communes, telles que la couleur et la taille.",
+      "Ils partagent plusieurs caractéristiques communes, telles que le goût et l'odeur.",
+      "Ils partagent plusieurs caractéristiques communes, telles que l'amitié et le respect.",
+      "Ils partagent plusieurs caractéristiques communes, telles que le prix et le style.",
+      "Ils partagent plusieurs caractéristiques communes, telles que le talent et le travail."
+    ],
+    "b2": [
+      "Ils partagent plusieurs caractéristiques communes, telles que la flexibilité et la réactivité face au marché.",
+      "Ils partagent plusieurs caractéristiques communes, telles que l'utilisation de matériaux recyclés et l'économie d'énergie.",
+      "Ils partagent plusieurs caractéristiques communes, telles que la passion pour l'art et l'engagement social.",
+      "Ils partagent plusieurs caractéristiques communes, telles que la facilité d'utilisation et le design épuré.",
+      "Ils partagent plusieurs caractéristiques communes, telles que la rigueur méthodologique et la clarté des objectifs."
+    ],
+    "c1": [
+      "Ils partagent plusieurs caractéristiques communes, telles que la résilience structurelle et la capacité d'adaptation systémique.",
+      "Ils partagent plusieurs caractéristiques communes, telles que l'ancrage territorial et la volonté d'expansion internationale.",
+      "Ils partagent plusieurs caractéristiques communes, telles que la quête d'esthétisme et la remise en question des normes établies.",
+      "Ils partagent plusieurs caractéristiques communes, telles que la volatilité intrinsèque et la dépendance aux flux spéculatifs.",
+      "Ils partagent plusieurs caractéristiques communes, telles que la transparence algorithmique et la protection de la vie privée."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Le degré de ... est beaucoup plus grand dans ... que dans ...",
+    "kor": "...의 정도는 ...에서가 ...에서보다 훨씬 큽니다.",
+    "b1": [
+      "Le degré de bruit est beaucoup plus grand dans la rue que dans la maison.",
+      "Le degré de chaleur est beaucoup plus grand dans la soupe que dans le thé.",
+      "Le degré de difficulté est beaucoup plus grand dans cet exercice que dans l'autre.",
+      "Le degré de joie est beaucoup plus grand dans le mariage que dans l'anniversaire.",
+      "Le degré de peur est beaucoup plus grand dans ce film que dans le livre."
+    ],
+    "b2": [
+      "Le degré d'implication est beaucoup plus grand dans une start-up que dans une grande entreprise.",
+      "Le degré d'automatisation est beaucoup plus grand dans cette usine que dans l'ancienne.",
+      "Le degré de satisfaction est beaucoup plus grand dans le groupe test que dans le groupe témoin.",
+      "Le degré de risque est beaucoup plus grand dans l'investissement boursier que dans l'épargne.",
+      "Le degré de pollution est beaucoup plus grand dans les centres urbains que dans les zones rurales."
+    ],
+    "c1": [
+      "Le degré d'incertitude est beaucoup plus grand dans les marchés émergents que dans les économies développées.",
+      "Le degré d'obsolescence programmée est beaucoup plus grand dans l'électronique grand public que dans l'industrie lourde.",
+      "Le degré de polarisation politique est beaucoup plus grand dans les réseaux sociaux que dans les médias traditionnels.",
+      "Le degré de résilience est beaucoup plus grand dans les écosystèmes diversifiés que dans les monocultures.",
+      "Le degré de transparence financière est beaucoup plus grand dans les sociétés cotées que dans les entreprises familiales."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Bien que ... soit vrai, nous devons également considérer ...",
+    "kor": "...가 사실일지라도, 우리는 또한 ...을 고려해야 합니다.",
+    "b1": [
+      "Bien que ce soit vrai, nous devons également considérer le prix.",
+      "Bien que tu aies raison, nous devons également considérer mon avis.",
+      "Bien que ce travail soit difficile, nous devons également considérer le plaisir.",
+      "Bien que l'avion soit rapide, nous devons également considérer la pollution.",
+      "Bien que ce film soit beau, nous devons également considérer sa durée."
+    ],
+    "b2": [
+      "Bien que l'efficacité soit vraie, nous devons également considérer le bien-être des employés.",
+      "Bien que la hausse des ventes soit vraie, nous devons également considérer l'augmentation des coûts.",
+      "Bien que le succès soit vrai, nous devons également considérer la durabilité de notre modèle.",
+      "Bien que votre talent soit vrai, nous devons également considérer votre manque d'expérience.",
+      "Bien que ce pays soit riche, nous devons également considérer les inégalités sociales."
+    ],
+    "c1": [
+      "Bien que la croissance du PIB soit vraie, nous devons également considérer l'indice de développement humain.",
+      "Bien que la neutralité technologique soit vraie, nous devons également considérer les biais algorithmiques.",
+      "Bien que l'urgence économique soit vraie, nous devons également considérer les impératifs écologiques à long terme.",
+      "Bien que la liberté d'expression soit vraie, nous devons également considérer la responsabilité éthique des plateformes.",
+      "Bien que la souveraineté des États soit vraie, nous devons également considérer les normes du droit international."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Un point de divergence significatif est ...",
+    "kor": "한 가지 중요한 차이점(분기점)은 ...입니다.",
+    "b1": [
+      "Un point de divergence significatif est la couleur.",
+      "Un point de divergence significatif est le prix.",
+      "Un point de divergence significatif est la taille.",
+      "Un point de divergence significatif est l'heure du rendez-vous.",
+      "Un point de divergence significatif est le goût."
+    ],
+    "b2": [
+      "Un point de divergence significatif est la méthode de gestion de l'équipe.",
+      "Un point de divergence significatif est l'approche du service après-vente.",
+      "Un point de divergence significatif est l'utilisation des nouvelles technologies.",
+      "Un point de divergence significatif est la vision à long terme du projet.",
+      "Un point de divergence significatif est le choix du public cible."
+    ],
+    "c1": [
+      "Un point de divergence significatif est l'interprétation juridique de cette clause contractuelle.",
+      "Un point de divergence significatif est le degré d'intervention étatique préconisé par ces deux écoles économiques.",
+      "Un point de divergence significatif est le traitement des données personnelles au sein de ces deux architectures.",
+      "Un point de divergence significatif est la place accordée à l'intuition dans le processus de décision stratégique.",
+      "Un point de divergence significatif est la gestion des actifs immatériels lors d'une fusion-acquisition."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Ils sont fondamentalement similaires, à l'exception de ...",
+    "kor": "...을 제외하고는 근본적으로 비슷합니다.",
+    "b1": [
+      "Ils sont fondamentalement similaires, à l'exception de la couleur.",
+      "Ils sont fondamentalement similaires, à l'exception du prix.",
+      "Ils sont fondamentalement similaires, à l'exception de la taille.",
+      "Ils sont fondamentalement similaires, à l'exception de l'odeur.",
+      "Ils sont fondamentalement similaires, à l'exception de la langue."
+    ],
+    "b2": [
+      "Ils sont fondamentalement similaires, à l'exception de leur stratégie marketing sur les réseaux sociaux.",
+      "Ils sont fondamentalement similaires, à l'exception de la durée de garantie proposée aux clients.",
+      "Ils sont fondamentalement similaires, à l'exception de la source de financement utilisée pour le lancement.",
+      "Ils sont fondamentalement similaires, à l'exception du système d'exploitation installé par défaut.",
+      "Ils sont fondamentalement similaires, à l'exception de la composition chimique de certains composants."
+    ],
+    "c1": [
+      "Ils sont fondamentalement similaires, à l'exception de leur approche de la responsabilité sociétale des entreprises.",
+      "Ils sont fondamentalement similaires, à l'exception de la hiérarchisation de leurs priorités stratégiques respectives.",
+      "Ils sont fondamentalement similaires, à l'exception de l'influence culturelle dominante qui imprègne leur management.",
+      "Ils sont fondamentalement similaires, à l'exception de leur degré de conformité aux normes environnementales internationales.",
+      "Ils sont fondamentalement similaires, à l'exception de la flexibilité de leur chaîne logistique face aux crises."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "... est beaucoup plus efficace que ... parce que ...",
+    "kor": "...는 ...보다 훨씬 효율적입니다. 왜냐하면 ...이기 때문입니다.",
+    "b1": [
+      "Le train est beaucoup plus efficace que la voiture parce que c'est plus rapide.",
+      "Le café est beaucoup plus efficace que le thé parce que j'ai plus d'énergie.",
+      "Ce couteau est beaucoup plus efficace que l'autre parce qu'il coupe mieux.",
+      "Cette méthode est beaucoup plus efficace que la vieille parce qu'on gagne du temps.",
+      "Le dictionnaire est beaucoup plus efficace que Google parce qu'il y a plus d'exemples."
+    ],
+    "b2": [
+      "La publicité en ligne est beaucoup plus efficace que la télévision parce qu'elle cible mieux le public.",
+      "Le télétravail est beaucoup plus efficace que le présentiel parce qu'il réduit les temps de trajet.",
+      "Ce nouveau moteur est beaucoup plus efficace que l'ancien parce qu'il consomme moins de carburant.",
+      "La communication directe est beaucoup plus efficace que les emails parce qu'elle évite les malentendus.",
+      "L'apprentissage par la pratique est beaucoup plus efficace que la théorie seule parce qu'on retient mieux."
+    ],
+    "c1": [
+      "La tarification au carbone est beaucoup plus efficace que les subventions parce qu'elle internalise les externalités négatives.",
+      "La structure décentralisée est beaucoup plus efficace que la bureaucratie parce qu'elle favorise l'agilité décisionnelle.",
+      "Le préventif est beaucoup plus efficace que le curatif parce qu'il réduit les coûts sociaux à long terme.",
+      "La formation continue est beaucoup plus efficace que la formation initiale ponctuelle parce qu'elle s'adapte aux ruptures technologiques.",
+      "Le multilatéralisme est beaucoup plus efficace que l'isolationnisme parce qu'il permet de traiter les enjeux transfrontaliers."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Nous pouvons établir un parallèle entre ... et ...",
+    "kor": "...와 ... 사이의 유사점(평행선)을 설정할 수 있습니다.",
+    "b1": [
+      "Nous pouvons établir un parallèle entre ton histoire et mon histoire.",
+      "Nous pouvons établir un parallèle entre ce film et la vie réelle.",
+      "Nous pouvons établir un parallèle entre le football et la guerre.",
+      "Nous pouvons établir un parallèle entre apprendre une langue et apprendre la musique.",
+      "Nous pouvons établir un parallèle entre la cuisine et la chimie."
+    ],
+    "b2": [
+      "Nous pouvons établir un parallèle entre la crise de 1929 et la situation actuelle.",
+      "Nous pouvons établir un parallèle entre le succès de cette marque et celui de son concurrent.",
+      "Nous pouvons établir un parallèle entre l'éducation des enfants et la gestion d'une équipe.",
+      "Nous pouvons établir un parallèle entre le cycle de vie d'un produit et celui d'une plante.",
+      "Nous pouvons établir un parallèle entre la structure d'une ville et celle d'un réseau informatique."
+    ],
+    "c1": [
+      "Nous pouvons établir un parallèle entre la chute de l'Empire romain et certains déclins contemporains.",
+      "Nous pouvons établir un parallèle entre la plasticité cérébrale et la capacité d'innovation des organisations.",
+      "Nous pouvons établir un parallèle entre la sélection naturelle et la survie des entreprises en période de crise.",
+      "Nous pouvons établir un parallèle entre l'architecture gothique et la structure logique de la scolastique.",
+      "Nous pouvons établir un parallèle entre les mécanismes de l'addiction numérique et ceux des jeux de hasard."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Ni ... ni ... ne fournit ...",
+    "kor": "...도 ...도 ...을 제공하지 않습니다.",
+    "b1": [
+      "Ni ce restaurant ni l'autre ne fournit de café.",
+      "Ni lui ni moi ne fournit d'aide.",
+      "Ni le train ni le bus ne fournit de repas.",
+      "Ni mon père ni ma mère ne fournit d'argent.",
+      "Ni le livre ni le film ne fournit d'explication."
+    ],
+    "b2": [
+      "Ni cette option ni la suivante ne fournit de garantie de réussite à 100 %.",
+      "Ni le contrat actuel ni le nouveau ne fournit de protection contre l'inflation.",
+      "Ni ce logiciel ni son concurrent ne fournit de support technique le dimanche.",
+      "Ni l'un ni l'autre ne fournit de solution satisfaisante à notre problème de budget.",
+      "Ni la publicité papier ni la radio ne fournit un ciblage aussi précis qu'internet."
+    ],
+    "c1": [
+      "Ni le néolibéralisme ni le protectionnisme pur ne fournit de réponse adéquate aux enjeux climatiques.",
+      "Ni l'approche par les coûts ni l'approche par la valeur ne fournit une estimation exacte de cet actif immatériel.",
+      "Ni la science ni la philosophie ne fournit de certitude absolue sur l'origine de la conscience.",
+      "Ni ce traité de paix ni l'accord commercial ne fournit de cadre stable pour la région.",
+      "Ni l'intelligence artificielle générative ni l'analyse prédictive ne fournit une compréhension empathique du réel."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Mis en balance avec ..., ... semble être ...",
+    "kor": "...와 균형을 맞춰 보았을 때(비교해 보았을 때), ...은 ...인 것 같습니다.",
+    "b1": [
+      "Mis en balance avec le prix, ce gâteau semble être bon.",
+      "Mis en balance avec la pluie, ce voyage semble être triste.",
+      "Mis en balance avec ton travail, mon travail semble être facile.",
+      "Mis en balance avec le soleil, le vent semble être froid.",
+      "Mis en balance avec le bus, le train semble être mieux."
+    ],
+    "b2": [
+      "Mis en balance avec les risques, ce profit semble être très intéressant.",
+      "Mis en balance avec la concurrence, notre produit semble être le plus innovant.",
+      "Mis en balance avec les efforts fournis, le résultat semble être décevant.",
+      "Mis en balance avec les autres candidats, votre profil semble être le plus complet.",
+      "Mis en balance avec les avantages, le coût de cet abonnement semble être excessif."
+    ],
+    "c1": [
+      "Mis en balance avec l'urgence écologique, cette réforme semble être une demi-mesure dérisoire.",
+      "Mis en balance avec les enjeux géopolitiques, ce compromis semble être une nécessité stratégique.",
+      "Mis en balance avec la volatilité du marché, cet investissement semble être d'une prudence exemplaire.",
+      "Mis en balance avec les impératifs de sécurité, la restriction des libertés semble être disproportionnée.",
+      "Mis en balance avec le potentiel de croissance, la dette actuelle semble être soutenable."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Il y a un contraste frappant dans leur approche de ...",
+    "kor": "...에 대한 그들의 접근 방식에는 현저한 대조가 있습니다.",
+    "b1": [
+      "Il y a un contraste frappant dans leur approche de l'éducation.",
+      "Il y a un contraste frappant dans leur approche du sport.",
+      "Il y a un contraste frappant dans leur approche de la cuisine.",
+      "Il y a un contraste frappant dans leur approche de l'argent.",
+      "Il y a un contraste frappant dans leur approche de l'amitié."
+    ],
+    "b2": [
+      "Il y a un contraste frappant dans leur approche du service après-vente.",
+      "Il y a un contraste frappant dans leur approche du management de crise.",
+      "Il y a un contraste frappant dans leur approche de la publicité numérique.",
+      "Il y a un contraste frappant dans leur approche de la flexibilité au travail.",
+      "Il y a un contraste frappant dans leur approche de la protection de l'environnement."
+    ],
+    "c1": [
+      "Il y a un contraste frappant dans leur approche de la régulation des marchés financiers.",
+      "Il y a un contraste frappant dans leur approche de l'éthique appliquée à l'intelligence artificielle.",
+      "Il y a un contraste frappant dans leur approche de la souveraineté numérique nationale.",
+      "Il y a un contraste frappant dans leur approche de la redistribution des richesses au niveau mondial.",
+      "Il y a un contraste frappant dans leur approche de la préservation de la biodiversité urbaine."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "La similitude réside dans le fait que ...",
+    "kor": "유사점은 ...라는 사실에 있습니다.",
+    "b1": [
+      "La similitude réside dans le fait que les deux sont rouges.",
+      "La similitude réside dans le fait que nous aimons la pizza.",
+      "La similitude réside dans le fait qu'il pleut souvent ici.",
+      "La similitude réside dans le fait que c'est gratuit.",
+      "La similitude réside dans le fait que les deux sont des chiens."
+    ],
+    "b2": [
+      "La similitude réside dans le fait que les deux entreprises visent le même public jeune.",
+      "La similitude réside dans le fait que ces deux projets ont besoin d'un financement externe.",
+      "La similitude réside dans le fait que les deux pays ont une forte tradition gastronomique.",
+      "La similitude réside dans le fait que les deux logiciels utilisent la même base de données.",
+      "La similitude réside dans le fait que ces deux candidats manquent d'expérience de terrain."
+    ],
+    "c1": [
+      "La similitude réside dans le fait que les deux théories postulent une finitude des ressources.",
+      "La similitude réside dans le fait que ces deux courants artistiques rejettent le classicisme académique.",
+      "La similitude réside dans le fait que les deux systèmes juridiques protègent la propriété intellectuelle.",
+      "La similitude réside dans le fait que ces deux crises économiques ont été déclenchées par une bulle spéculative.",
+      "La similitude réside dans le fait que les deux modèles de gouvernance prônent une transparence accrue."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Comparé côte à côte, ... surpasse clairement ...",
+    "kor": "나란히 비교해 보았을 때, ...이 ...을 분명히 능가합니다.",
+    "b1": [
+      "Comparé côte à côte, ce gâteau surpasse clairement l'autre.",
+      "Comparé côte à côte, l'avion surpasse clairement le bus.",
+      "Comparé côte à côte, ce film surpasse clairement le livre.",
+      "Comparé côte à côte, mon vélo surpasse clairement le tien.",
+      "Comparé côte à côte, ce café surpasse clairement le thé."
+    ],
+    "b2": [
+      "Comparé côte à côte, ce nouveau smartphone surpasse clairement le modèle de l'an dernier.",
+      "Comparé côte à côte, la qualité de ce tissu surpasse clairement celle du concurrent.",
+      "Comparé côte à côte, l'efficacité de cette méthode surpasse clairement la méthode traditionnelle.",
+      "Comparé côte à côte, le confort de cette voiture surpasse clairement celui de l'ancienne.",
+      "Comparé côte à côte, le talent de cet artiste surpasse clairement celui des autres participants."
+    ],
+    "c1": [
+      "Comparé côte à côte, cet algorithme de compression surpasse clairement ses prédécesseurs en termes de rapidité.",
+      "Comparé côte à côte, ce plan de relance économique surpasse clairement les propositions de l'opposition.",
+      "Comparé côte à côte, la résilience de ce modèle économique surpasse clairement celle des systèmes centralisés.",
+      "Comparé côte à côte, l'impact environnemental de ce processus surpasse clairement les normes actuelles.",
+      "Comparé côte à côte, la pertinence stratégique de cette fusion surpasse clairement les risques potentiels identifiés."
+    ]
+  }
+]

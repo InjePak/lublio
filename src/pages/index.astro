@@ -1,0 +1,35 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Button from "../components/Button.astro";
+
+const pageTitle = "Home Page";
+---
+
+<BaseLayout pageTitle={pageTitle}>
+  <h1>Lublio</h1>
+  <h3>현재 블로그 제작중에 있습니다.</h3>
+
+  <Button
+    title="독일어"
+    subtitle="Deutsch"
+    description="CEFR A1 - C1"
+    language="deu"
+    path="/german"
+  />
+
+  <Button
+    title="프랑스어"
+    subtitle="Français"
+    description="CEFR A1 - C1"
+    language="fra"
+    path="/french"
+  />
+
+  <Button
+    title="러시아어"
+    subtitle="Русский"
+    description="CEFR A1 - C1"
+    language="rus"
+    path="/russian"
+  />
+</BaseLayout>

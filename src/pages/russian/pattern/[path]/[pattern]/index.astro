@@ -1,0 +1,236 @@
+---
+import BaseLayout from "../../../../../layouts/BaseLayout.astro";
+import VisibilityController from "../../../../../components/VisibilityController.astro";
+
+import chapters from "../../../../../assets/json/patterns/chapters.json";
+import chapter1 from "../../../../../assets/json/patterns/russian/chapter1.json";
+import chapter2 from "../../../../../assets/json/patterns/russian/chapter2.json";
+import chapter3 from "../../../../../assets/json/patterns/russian/chapter3.json";
+import chapter4 from "../../../../../assets/json/patterns/russian/chapter4.json";
+import chapter5 from "../../../../../assets/json/patterns/russian/chapter5.json";
+import chapter6 from "../../../../../assets/json/patterns/russian/chapter6.json";
+import chapter7 from "../../../../../assets/json/patterns/russian/chapter7.json";
+import chapter8 from "../../../../../assets/json/patterns/russian/chapter8.json";
+import chapter9 from "../../../../../assets/json/patterns/russian/chapter9.json";
+import chapter10 from "../../../../../assets/json/patterns/russian/chapter10.json";
+
+export async function getStaticPaths() {
+  // 모든 경로의 조합을 생성합니다.
+  // 챕터 목록(chapters)과 각 챕터의 상세 데이터(chapter1 등)를 결합해야 합니다.
+
+  return chapters.flatMap((chapter) => {
+    let jsonData;
+    switch (chapter.id) {
+      case 1:
+        jsonData = chapter1;
+        break;
+      case 2:
+        jsonData = chapter2;
+        break;
+      case 3:
+        jsonData = chapter3;
+        break;
+      case 4:
+        jsonData = chapter4;
+        break;
+      case 5:
+        jsonData = chapter5;
+        break;
+      case 6:
+        jsonData = chapter6;
+        break;
+      case 7:
+        jsonData = chapter7;
+        break;
+      case 8:
+        jsonData = chapter8;
+        break;
+      case 9:
+        jsonData = chapter9;
+        break;
+      case 10:
+        jsonData = chapter10;
+        break;
+      default:
+        jsonData = chapter1;
+        break;
+    }
+
+    return jsonData.map((post) => ({
+      params: {
+        path: chapter.path,
+        pattern: post.id.toString(),
+      },
+      props: {
+        chapter,
+        post,
+      },
+    }));
+  });
+}
+
+// Astro.params를 통해 URL의 모든 변수를 가져옵니다.
+const { path, pattern } = Astro.params;
+// getStaticPaths의 props에서 데이터를 가져옵니다.
+const { post, chapter } = Astro.props;
+
+// Title
+const pageTitle = `${post.pattern} | ${chapter.fra}`;
+
+// Visibility Controller
+const navItems = [
+  { id: "phrase-b1", label: "B1" },
+  { id: "phrase-b2", label: "B2" },
+  { id: "phrase-c1", label: "C1" },
+];
+---
+
+<BaseLayout pageTitle={pageTitle}>
+  <div class="title">
+    <h1 class="riseUp_1">{post.id}. {post.pattern}</h1>
+    <hr />
+    <p class="riseUp_2">{post.kor}</p>
+  </div>
+
+  <VisibilityController items={navItems} />
+
+  {
+    !post ? (
+      <p>서버 에러입니다.</p>
+    ) : (
+      <>
+        {[post.b1, post.b2, post.c1].filter(Boolean).map((level, index) => (
+          <>
+            {index === 0 && (
+              <>
+                <div class={`phrase-box phrase-b1`}>
+                  <h2>
+                    <span style="color: var(--indigo400)">●</span> B1
+                  </h2>
+                  <hr />
+                  {level.map((phrase) => (
+                    <>
+                      <p>• {phrase}</p>
+                    </>
+                  ))}
+                </div>
+              </>
+            )}
+            {index === 1 && (
+              <>
+                <div class={`phrase-box phrase-b2`}>
+                  <h2>
+                    <span style="color: var(--indigo400)">●</span> B2
+                  </h2>
+                  <hr />
+                  {level.map((phrase) => (
+                    <>
+                      <p>• {phrase}</p>
+                    </>
+                  ))}
+                </div>
+              </>
+            )}
+            {index === 2 && (
+              <>
+                <div class={`phrase-box phrase-c1`}>
+                  <h2>
+                    <span style="color: var(--indigo400)">●</span> C1
+                  </h2>
+                  <hr />
+                  {level.map((phrase) => (
+                    <>
+                      <p>• {phrase}</p>
+                    </>
+                  ))}
+                </div>
+              </>
+            )}
+          </>
+        ))}
+      </>
+    )
+  }
+
+  <script>
+    // 페이지 내의 모든 체크박스를 가져옵니다.
+    const toggles = document.querySelectorAll(".toggle-lang");
+
+    toggles.forEach((toggle) => {
+      toggle.addEventListener("change", (e) => {
+        const targetClass = (e.target as HTMLInputElement).dataset.target;
+        const isVisible = (e.target as HTMLInputElement).checked;
+
+        // 해당 클래스를 가진 모든 요소를 찾아 숨기거나 보입니다.
+        const elements = document.querySelectorAll(`.${targetClass}`);
+        elements.forEach((el) => {
+          (el as HTMLElement).style.display = isVisible ? "block" : "none";
+        });
+      });
+    });
+  </script>
+</BaseLayout>
+
+<style>
+  /* Title */
+
+  .title {
+    background-color: var(--indigo400);
+    padding: 2rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .title > h1,
+  .title > p {
+    width: 100%;
+  }
+
+  .title > h1 {
+    margin-bottom: 0.5rem;
+  }
+
+  .title > p {
+    color: var(--zinc800);
+    font-weight: 500;
+    margin-bottom: 0rem;
+  }
+
+  .title > p:last-child {
+    margin-bottom: 0;
+  }
+
+  .title > hr {
+    border: 1px solid var(--zinc800);
+    margin: 1.5rem 0;
+  }
+
+  /* Phrase Box */
+
+  .phrase-box {
+    border: 1px solid var(--zinc400);
+    border-radius: 20px;
+    margin-bottom: 1.5rem;
+    padding: 1.5rem;
+  }
+
+  .phrase-box > h2 {
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 1.5rem;
+  }
+
+  .phrase-box > hr {
+    border: 1px solid var(--zinc800);
+    margin: 0;
+    margin-bottom: 1.5rem;
+  }
+
+  .phrase-box > p {
+    font-size: 17px;
+    margin-bottom: 1.5rem;
+  }
+
+  .phrase-box > p > span {
+    margin-right: 10px;
+  }
+</style>

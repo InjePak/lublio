@@ -1,0 +1,76 @@
+---
+import "../styles/colors.css";
+import "../styles/transition.css";
+import "../styles/markdown.css";
+
+import BaseLayout from "./BaseLayout.astro";
+const { frontmatter } = Astro.props;
+
+const language = frontmatter.language;
+const colorMap: Record<string, string> = {
+  eng: "var(--pink400)",
+  fra: "var(--sky400)",
+  deu: "var(--amber400)",
+  rus: "var(--indigo400)",
+};
+const titleBackground = colorMap[language] || "var(--zinc400)";
+
+let pageTitle;
+switch (language) {
+  case "eng":
+    pageTitle = "영어 문법 | Lublio";
+    break;
+  case "fra":
+    pageTitle = "프랑스어 문법 | Lublio";
+    break;
+  case "deu":
+    pageTitle = "독일어 문법 | Lublio";
+    break;
+  case "rus":
+    pageTitle = "러시아어 문법 | Lublio";
+    break;
+  default:
+    pageTitle = "Lublio";
+    break;
+}
+---
+
+<style define:vars={{ titleBackground }}>
+  .post-title {
+    background-color: var(--titleBackground);
+  }
+</style>
+
+<BaseLayout pageTitle={frontmatter.title + " | Lublio"}>
+  <article class="post-container">
+    <div class="post-title">
+      <h1 class="riseUp_1">{frontmatter.title}</h1>
+      <h2 class="riseUp_2">{frontmatter.description}</h2>
+      <hr />
+      <p class="riseUp_3">
+        Published on {frontmatter.pubDate.toString().slice(0, 10)}
+      </p>
+      <p class="riseUp_4">Written by {frontmatter.author}</p>
+    </div>
+
+    <div class="post-body">
+      <slot />
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+  hr {
+    animation: scaling 1s cubic-bezier(0, 0, 0.24, 1.21);
+  }
+
+  @keyframes scaling {
+    0% {
+      width: 0%;
+    }
+
+    100% {
+      width: 100%;
+    }
+  }
+</style>

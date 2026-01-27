@@ -1,0 +1,32 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Box from "../../components/Box.astro";
+import Button from "../../components/Button.astro";
+
+const pageTitle = "프랑스어";
+---
+
+<BaseLayout pageTitle={pageTitle + " | Lublio"}>
+  <Box
+    title="Français"
+    subtitle="프랑스어"
+    description="Le français est la langue de l'amour, de la gastronomie et de la diplomatie. Parlée sur cinq continents, elle se distingue par son élégance, sa richesse culturelle et sa précision analytique."
+    language="fra"
+  />
+
+  <Button
+    title="프랑스어 회화"
+    subtitle="Guide de conversation"
+    description="CEFR A1 - B2"
+    language="fra"
+    path="/french/phrasebook"
+  />
+
+  <Button
+    title="프랑스어 말하기 패턴"
+    subtitle="Speaking Patterns - Français"
+    description="CEFR B1 - C1"
+    language="fra"
+    path="/french/pattern"
+  />
+</BaseLayout>

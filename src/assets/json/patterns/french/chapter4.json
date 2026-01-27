@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Le problème principal semble être ...",
+    "kor": "주요 문제는 ...인 것 같습니다.",
+    "b1": [
+      "Le problème principal semble être le manque de temps.",
+      "Le problème principal semble être le prix trop élevé.",
+      "Le problème principal semble être la météo pour demain.",
+      "Le problème principal semble être que la machine est cassée.",
+      "Le problème principal semble être le bruit dans le bureau."
+    ],
+    "b2": [
+      "Le problème principal semble être le manque de communication entre les services.",
+      "Le problème principal semble être la mauvaise gestion des ressources humaines.",
+      "Le problème principal semble être l'absence d'objectifs clairs pour ce projet.",
+      "Le problème principal semble être la baisse de confiance des consommateurs.",
+      "Le problème principal semble être le retard accumulé durant la phase de test."
+    ],
+    "c1": [
+      "Le problème principal semble être l'incompatibilité de notre stratégie avec les réalités du marché actuel.",
+      "Le problème principal semble être la fragmentation des données au sein de notre architecture numérique.",
+      "Le problème principal semble être l'érosion progressive de la culture d'entreprise au profit de l'individualisme.",
+      "Le problème principal semble être le manque d'anticipation face aux fluctuations géopolitiques.",
+      "Le problème principal semble être une faille structurelle dans notre processus de prise de décision."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Quelle est la meilleure approche pour ...?",
+    "kor": "...을 위한 가장 좋은 접근 방식은 무엇일까요?",
+    "b1": [
+      "Quelle est la meilleure approche pour apprendre le français ?",
+      "Quelle est la meilleure approche pour faire ce gâteau ?",
+      "Quelle est la meilleure approche pour aller au centre-ville ?",
+      "Quelle est la meilleure approche pour parler au patron ?",
+      "Quelle est la meilleure approche pour ranger la chambre ?"
+    ],
+    "b2": [
+      "Quelle est la meilleure approche pour réduire nos dépenses mensuelles ?",
+      "Quelle est la meilleure approche pour motiver une équipe démotivée ?",
+      "Quelle est la meilleure approche pour attirer de nouveaux clients ?",
+      "Quelle est la meilleure approche pour résoudre ce conflit interne ?",
+      "Quelle est la meilleure approche pour présenter ces résultats négatifs ?"
+    ],
+    "c1": [
+      "Quelle est la meilleure approche pour intégrer le développement durable dans notre modèle économique ?",
+      "Quelle est la meilleure approche pour pallier les déficiences de notre système de gestion de crise ?",
+      "Quelle est la meilleure approche pour concilier impératifs éthiques et rentabilité financière ?",
+      "Quelle est la meilleure approche pour mener à bien cette transition technologique complexe ?",
+      "Quelle est la meilleure approche pour redéfinir notre identité de marque sur le marché international ?"
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Je suggère que nous ...",
+    "kor": "저는 우리가 ...할 것을 제안합니다.",
+    "b1": [
+      "Je suggère que nous fassions une pause.",
+      "Je suggère que nous mangions une pizza ce soir.",
+      "Je suggère que nous finissions ce travail demain.",
+      "Je suggère que nous prenions le bus.",
+      "Je suggère que nous regardions un film."
+    ],
+    "b2": [
+      "Je suggère que nous révisions notre budget pour le mois prochain.",
+      "Je suggère que nous demandions l'avis d'un expert extérieur.",
+      "Je suggère que nous changions notre méthode de travail actuelle.",
+      "Je suggère que nous organisions une réunion de brainstorming.",
+      "Je suggère que nous fassions un essai sur un petit groupe."
+    ],
+    "c1": [
+      "Je suggère que nous procédions à une analyse comparative des risques potentiels.",
+      "Je suggère que nous instaurions une veille stratégique plus rigoureuse.",
+      "Je suggère que nous remettions en question les prémisses mêmes de ce projet.",
+      "Je suggère que nous externalisions une partie de la production pour plus de flexibilité.",
+      "Je suggère que nous menions une étude d'impact approfondie avant toute décision finale."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Une solution potentielle est de ...",
+    "kor": "잠재적인 해결책은 ...하는 것입니다.",
+    "b1": [
+      "Une solution potentielle est de partir plus tôt.",
+      "Une solution potentielle est d'acheter un nouveau téléphone.",
+      "Une solution potentielle est de demander de l'aide à un ami.",
+      "Une solution potentielle est de dormir plus.",
+      "Une solution potentielle est de changer de place."
+    ],
+    "b2": [
+      "Une solution potentielle est de recruter un stagiaire pour nous aider.",
+      "Une solution potentielle est d'utiliser un logiciel plus moderne.",
+      "Une solution potentielle est de réduire le prix de vente temporairement.",
+      "Une solution potentielle est de diversifier nos fournisseurs.",
+      "Une solution potentielle est de proposer des formations gratuites."
+    ],
+    "c1": [
+      "Une solution potentielle est de restructurer intégralement le département marketing.",
+      "Une solution potentielle est de pivoter vers un modèle basé sur l'abonnement.",
+      "Une solution potentielle est de créer une alliance stratégique avec nos concurrents directs.",
+      "Une solution potentielle est d'automatiser les processus les plus redondants pour gagner en agilité.",
+      "Une solution potentielle est de lancer une campagne de communication pour redorer notre image."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Et si nous essayions ... au lieu de ...?",
+    "kor": "... 대신 ...을 시도해 보면 어떨까요?",
+    "b1": [
+      "Et si nous essayions le thé au lieu du café ?",
+      "Et si nous essayions le vélo au lieu de la voiture ?",
+      "Et si nous essayions ce restaurant au lieu de l'autre ?",
+      "Et si nous essayions de marcher au lieu de courir ?",
+      "Et si nous essayions le bleu au lieu du rouge ?"
+    ],
+    "b2": [
+      "Et si nous essayions de télétravailler au lieu de venir au bureau tous les jours ?",
+      "Et si nous essayions de louer au lieu d'acheter ?",
+      "Et si nous essayions de collaborer au lieu de rivaliser ?",
+      "Et si nous essayions une approche numérique au lieu du papier ?",
+      "Et si nous essayions de simplifier au lieu de complexifier le processus ?"
+    ],
+    "c1": [
+      "Et si nous essayions une gestion décentralisée au lieu de cette structure pyramidale ?",
+      "Et si nous essayions de miser sur la fidélisation au lieu de la simple acquisition de clients ?",
+      "Et si nous essayions une croissance organique au lieu de procéder à des rachats risqués ?",
+      "Et si nous essayions l'innovation frugale au lieu de l'investissement massif en R&D ?",
+      "Et si nous essayions une transparence totale au lieu de cette communication verrouillée ?"
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Nous devons donner la priorité à ...",
+    "kor": "우리는 ...에 우선순위를 두어야 합니다.",
+    "b1": [
+      "Nous devons donner la priorité à la famille.",
+      "Nous devons donner la priorité à la santé.",
+      "Nous devons donner la priorité aux devoirs.",
+      "Nous devons donner la priorité au repos.",
+      "Nous devons donner la priorité au français."
+    ],
+    "b2": [
+      "Nous devons donner la priorité à la sécurité des travailleurs.",
+      "Nous devons donner la priorité à la satisfaction des clients existants.",
+      "Nous devons donner la priorité à l'innovation technologique.",
+      "Nous devons donner la priorité au respect des délais.",
+      "Nous devons donner la priorité à la réduction de notre empreinte carbone."
+    ],
+    "c1": [
+      "Nous devons donner la priorité à la consolidation de nos actifs immatériels.",
+      "Nous devons donner la priorité à la résilience opérationnelle face aux crises systémiques.",
+      "Nous devons donner la priorité à l'éthique de l'intelligence artificielle au sein de nos services.",
+      "Nous devons donner la priorité au capital humain pour assurer une croissance pérenne.",
+      "Nous devons donner la priorité à la mise en conformité avec les nouvelles normes internationales."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Décomposons le problème en ...",
+    "kor": "문제를 ...로 분해해 봅시다.",
+    "b1": [
+      "Décomposons le problème en deux parties.",
+      "Décomposons le problème en étapes simples.",
+      "Décomposons le problème en petites questions.",
+      "Décomposons le problème en jours de travail.",
+      "Décomposons le problème en listes."
+    ],
+    "b2": [
+      "Décomposons le problème en phases de développement distinctes.",
+      "Décomposons le problème en catégories budgétaires.",
+      "Décomposons le problème en sous-tâches pour chaque membre de l'équipe.",
+      "Décomposons le problème en priorités court terme et long terme.",
+      "Décomposons le problème en facteurs techniques et humains."
+    ],
+    "c1": [
+      "Décomposons le problème en variables macroéconomiques influentes.",
+      "Décomposons le problème en composantes structurelles et conjoncturelles.",
+      "Décomposons le problème en enjeux juridiques, financiers et éthiques.",
+      "Décomposons le problème en silos pour mieux identifier les goulots d'étranglement.",
+      "Décomposons le problème en indicateurs de performance clés pour un suivi rigoureux."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Avez-vous considéré l'impact de ...?",
+    "kor": "...의 영향을 고려해 보셨나요?",
+    "b1": [
+      "Avez-vous considéré l'impact de la pluie ?",
+      "Avez-vous considéré l'impact du bruit ?",
+      "Avez-vous considéré l'impact de ce prix ?",
+      "Avez-vous considéré l'impact de votre décision ?",
+      "Avez-vous considéré l'impact du froid ?"
+    ],
+    "b2": [
+      "Avez-vous considéré l'impact de cette loi sur notre entreprise ?",
+      "Avez-vous considéré l'impact des réseaux sociaux sur les jeunes ?",
+      "Avez-vous considéré l'impact du télétravail sur la productivité ?",
+      "Avez-vous considéré l'impact de l'inflation sur le pouvoir d'achat ?",
+      "Avez-vous considéré l'impact écologique de votre production ?"
+    ],
+    "c1": [
+      "Avez-vous considéré l'impact dévastateur d'une fuite de données sur notre réputation ?",
+      "Avez-vous considéré l'impact psychologique des restructurations sur le moral des troupes ?",
+      "Avez-vous considéré l'impact de l'obsolescence technologique sur notre compétitivité ?",
+      "Avez-vous considéré l'impact de la volatilité des marchés sur nos investissements ?",
+      "Avez-vous considéré l'impact sociétal de l'automatisation dans notre secteur d'activité ?"
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Une façon de contourner cela est de ...",
+    "kor": "이를 우회하는 한 가지 방법은 ...하는 것입니다.",
+    "b1": [
+      "Une façon de contourner cela est de prendre un autre chemin.",
+      "Une façon de contourner cela est de demander à quelqu'un d'autre.",
+      "Une façon de contourner cela est de changer l'heure.",
+      "Une façon de contourner cela est de faire une pause.",
+      "Une façon de contourner cela est de tricher un peu."
+    ],
+    "b2": [
+      "Une façon de contourner cela est de créer un compte temporaire.",
+      "Une façon de contourner cela est de passer par un intermédiaire.",
+      "Une façon de contourner cela est de modifier légèrement le design.",
+      "Une façon de contourner cela est de proposer un service de substitution.",
+      "Une façon de contourner cela est d'utiliser un logiciel open source."
+    ],
+    "c1": [
+      "Une façon de contourner cela est de délocaliser la production dans une zone franche.",
+      "Une façon de contourner cela est de réinterpréter les clauses du contrat en notre faveur.",
+      "Une façon de contourner cela est de mettre en place une structure juridique décentralisée.",
+      "Une façon de contourner cela est d'exploiter les failles du système actuel.",
+      "Une façon de contourner cela est d'initier un lobbying auprès des décideurs politiques."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Nous pourrions atténuer le risque en ...",
+    "kor": "우리는 ...함으로써 위험을 완화할 수 있을 것입니다.",
+    "b1": [
+      "Nous pourrions atténuer le risque en faisant attention.",
+      "Nous pourrions atténuer le risque en portant un casque.",
+      "Nous pourrions atténuer le risque en vérifiant deux fois.",
+      "Nous pourrions atténuer le risque en demandant de l'aide.",
+      "Nous pourrions atténuer le risque en restant calme."
+    ],
+    "b2": [
+      "Nous pourrions atténuer le risque en souscrivant à une assurance complète.",
+      "Nous pourrions atténuer le risque en diversifiant nos investissements.",
+      "Nous pourrions atténuer le risque en formant mieux notre personnel.",
+      "Nous pourrions atténuer le risque en mettant à jour nos systèmes de sécurité.",
+      "Nous pourrions atténuer le risque en réalisant une étude de marché préalable."
+    ],
+    "c1": [
+      "Nous pourrions atténuer le risque en mettant en place des protocoles de conformité stricts.",
+      "Nous pourrions atténuer le risque en adoptant une stratégie de couverture financière.",
+      "Nous pourrions atténuer le risque en créant des redondances au sein de nos infrastructures critiques.",
+      "Nous pourrions atténuer le risque en anticipant les changements législatifs à venir.",
+      "Nous pourrions atténuer le risque en diversifiant nos sources d'approvisionnement à l'échelle mondiale."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Nous devrions peut-être examiner la cause profonde de ...",
+    "kor": "우리는 아마도 ...의 근본 원인을 조사해야 할 것입니다.",
+    "b1": [
+      "Nous devrions peut-être examiner la cause profonde de ta fatigue.",
+      "Nous devrions peut-être examiner la cause profonde de ce bruit.",
+      "Nous devrions peut-être examiner la cause profonde de la panne.",
+      "Nous devrions peut-être examiner la cause profonde de ton retard.",
+      "Nous devrions peut-être examiner la cause profonde de cette erreur."
+    ],
+    "b2": [
+      "Nous devrions peut-être examiner la cause profonde de la baisse des ventes.",
+      "Nous devrions peut-être examiner la cause profonde du mécontentement des clients.",
+      "Nous devrions peut-être examiner la cause profonde du roulement élevé du personnel.",
+      "Nous devrions peut-être examiner la cause profonde des retards de livraison.",
+      "Nous devrions peut-être examiner la cause profonde du manque de motivation."
+    ],
+    "c1": [
+      "Nous devrions peut-être examiner la cause profonde des dysfonctionnements systémiques observés.",
+      "Nous devrions peut-être examiner la cause profonde de l'aliénation au travail dans notre secteur.",
+      "Nous devrions peut-être examiner la cause profonde de l'instabilité chronique du marché financier.",
+      "Nous devrions peut-être examiner la cause profonde de l'érosion de la confiance envers les institutions.",
+      "Nous devrions peut-être examiner la cause profonde de la stagnation de l'innovation interne."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "La prochaine étape immédiate devrait être ...",
+    "kor": "그 다음 즉각적인 단계는 ...이어야 합니다.",
+    "b1": [
+      "La prochaine étape immédiate devrait être de l'appeler.",
+      "La prochaine étape immédiate devrait être de finir ce mail.",
+      "La prochaine étape immédiate devrait être de manger.",
+      "La prochaine étape immédiate devrait être d'acheter du pain.",
+      "La prochaine étape immédiate devrait être de ranger la table."
+    ],
+    "b2": [
+      "La prochaine étape immédiate devrait être de valider le budget final.",
+      "La prochaine étape immédiate devrait être d'informer tous les employés du changement.",
+      "La prochaine étape immédiate devrait être de fixer une date pour la réunion.",
+      "La prochaine étape immédiate devrait être d'envoyer les invitations aux clients.",
+      "La prochaine étape immédiate devrait être de tester le prototype."
+    ],
+    "c1": [
+      "La prochaine étape immédiate devrait être d'instaurer une cellule de crise pour gérer la situation.",
+      "La prochaine étape immédiate devrait être de geler tous les investissements non prioritaires.",
+      "La prochaine étape immédiate devrait être de diligenter un audit interne complet.",
+      "La prochaine étape immédiate devrait être de renégocier les termes de notre partenariat stratégique.",
+      "La prochaine étape immédiate devrait être de redéfinir les indicateurs de réussite pour le trimestre à venir."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Quelqu'un a-t-il une perspective différente sur ...?",
+    "kor": "누가 ...에 대해 다른 시각을 가지고 계신가요?",
+    "b1": [
+      "Quelqu'un a-t-il une perspective différente sur ce film ?",
+      "Quelqu'un a-t-il une perspective différente sur le voyage ?",
+      "Quelqu'un a-t-il une perspective différente sur le prix ?",
+      "Quelqu'un a-t-il une perspective différente sur la nourriture ?",
+      "Quelqu'un a-t-il une perspective différente sur la couleur ?"
+    ],
+    "b2": [
+      "Quelqu'un a-t-il une perspective différente sur la stratégie marketing à adopter ?",
+      "Quelqu'un a-t-il une perspective différente sur la cause de cet échec ?",
+      "Quelqu'un a-t-il une perspective différente sur l'organisation de l'événement ?",
+      "Quelqu'un a-t-il une perspective différente sur les besoins des utilisateurs ?",
+      "Quelqu'un a-t-il une perspective différente sur les prévisions économiques ?"
+    ],
+    "c1": [
+      "Quelqu'un a-t-il une perspective différente sur la viabilité de ce modèle à long terme ?",
+      "Quelqu'un a-t-il une perspective différente sur les implications éthiques de cette technologie ?",
+      "Quelqu'un a-t-il une perspective différente sur la gestion de la diversité culturelle ?",
+      "Quelqu'un a-t-il une perspective différente sur la corrélation entre ces deux phénomènes ?",
+      "Quelqu'un a-t-il une perspective différente sur l'impact de la dématérialisation ?"
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "À court terme, nous pouvons faire ...",
+    "kor": "단기적으로 우리는 ...을 할 수 있습니다.",
+    "b1": [
+      "À court terme, nous pouvons faire une pause.",
+      "À court terme, nous pouvons acheter des sandwichs.",
+      "À court terme, nous pouvons ranger la salle.",
+      "À court terme, nous pouvons demander de l'aide.",
+      "À court terme, nous pouvons utiliser ce vieux vélo."
+    ],
+    "b2": [
+      "À court terme, nous pouvons réduire les coûts de publicité.",
+      "À court terme, nous pouvons recruter un consultant extérieur.",
+      "À court terme, nous pouvons proposer une offre promotionnelle.",
+      "À court terme, nous pouvons organiser une formation interne.",
+      "À court terme, nous pouvons améliorer le service client."
+    ],
+    "c1": [
+      "À court terme, nous pouvons injecter des liquidités pour stabiliser la situation.",
+      "À court terme, nous pouvons optimiser les processus existants sans investissement massif.",
+      "À court terme, nous pouvons renégocier les délais avec nos créanciers.",
+      "À court terme, nous pouvons lancer une campagne de communication de crise.",
+      "À court terme, nous pouvons privilégier la rétention de nos employés clés."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Nous devrions mettre en œuvre un système pour ...",
+    "kor": "우리는 ...를 위한 시스템을 구축해야 합니다.",
+    "b1": [
+      "Nous devrions mettre en œuvre un système pour recycler.",
+      "Nous devrions mettre en œuvre un système pour nettoyer.",
+      "Nous devrions mettre en œuvre un système pour payer.",
+      "Nous devrions mettre en œuvre un système pour ranger.",
+      "Nous devrions mettre en œuvre un système pour voter."
+    ],
+    "b2": [
+      "Nous devrions mettre en œuvre un système pour suivre le temps de travail.",
+      "Nous devrions mettre en œuvre un système pour évaluer la satisfaction client.",
+      "Nous devrions mettre en œuvre un système pour gérer les stocks en temps réel.",
+      "Nous devrions mettre en œuvre un système pour partager les documents en ligne.",
+      "Nous devrions mettre en œuvre un système pour réduire le gaspillage d'énergie."
+    ],
+    "c1": [
+      "Nous devrions mettre en œuvre un système pour détecter les fraudes potentielles.",
+      "Nous devrions mettre en œuvre un système pour automatiser la conformité réglementaire.",
+      "Nous devrions mettre en œuvre un système pour analyser le comportement prédictif des consommateurs.",
+      "Nous devrions mettre en œuvre un système pour assurer la traçabilité complète de nos produits.",
+      "Nous devrions mettre en œuvre un système pour favoriser l'innovation participative."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Évaluons le pour et le contre de ...",
+    "kor": "...의 장단점을 평가해 봅시다.",
+    "b1": [
+      "Évaluons le pour et le contre de ce voyage.",
+      "Évaluons le pour et le contre de cette voiture.",
+      "Évaluons le pour et le contre de ce nouveau travail.",
+      "Évaluons le pour et le contre de manger dehors.",
+      "Évaluons le pour et le contre de ce cadeau."
+    ],
+    "b2": [
+      "Évaluons le pour et le contre de l'externalisation de la production.",
+      "Évaluons le pour et le contre de l'introduction de l'IA dans nos services.",
+      "Évaluons le pour et le contre de la semaine de quatre jours.",
+      "Évaluons le pour et le contre du passage au tout numérique.",
+      "Évaluons le pour et le contre de l'ouverture d'une nouvelle succursale."
+    ],
+    "c1": [
+      "Évaluons le pour et le contre de cette fusion-acquisition risquée.",
+      "Évaluons le pour et le contre d'une décentralisation totale de la gouvernance.",
+      "Évaluons le pour et le contre de l'adoption d'un modèle économique circulaire.",
+      "Évaluons le pour et le contre d'un désengagement progressif des énergies fossiles.",
+      "Évaluons le pour et le contre de la levée de l'anonymat sur notre plateforme."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Pour assurer le succès, nous devons d'abord aborder ...",
+    "kor": "성공을 보장하기 위해 우리는 먼저 ...을 해결해야 합니다.",
+    "b1": [
+      "Pour assurer le succès, nous devons d'abord aborder le problème de l'argent.",
+      "Pour assurer le succès, nous devons d'abord aborder la question du temps.",
+      "Pour assurer le succès, nous devons d'abord aborder l'organisation.",
+      "Pour assurer le succès, nous devons d'abord aborder le choix de la ville.",
+      "Pour assurer le succès, nous devons d'abord aborder la météo."
+    ],
+    "b2": [
+      "Pour assurer le succès, nous devons d'abord aborder le manque de formation technique.",
+      "Pour assurer le succès, nous devons d'abord aborder les problèmes de communication interne.",
+      "Pour assurer le succès, nous devons d'abord aborder les attentes réelles des clients.",
+      "Pour assurer le succès, nous devons d'abord aborder les risques juridiques potentiels.",
+      "Pour assurer le succès, nous devons d'abord aborder la question du financement à long terme."
+    ],
+    "c1": [
+      "Pour assurer le succès, nous devons d'abord aborder les freins culturels au changement.",
+      "Pour assurer le succès, nous devons d'abord aborder la fragilité de notre chaîne logistique.",
+      "Pour assurer le succès, nous devons d'abord aborder l'obsolescence de nos infrastructures informatiques.",
+      "Pour assurer le succès, nous devons d'abord aborder la question de la souveraineté numérique.",
+      "Pour assurer le succès, nous devons d'abord aborder les divergences idéologiques au sein du conseil."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Le plus grand obstacle qui se dresse est ...",
+    "kor": "앞에 놓인 가장 큰 장애물은 ...입니다.",
+    "b1": [
+      "Le plus grand obstacle qui se dresse est la langue.",
+      "Le plus grand obstacle qui se dresse est le prix.",
+      "Le plus grand obstacle qui se dresse est la distance.",
+      "Le plus grand obstacle qui se dresse est la fatigue.",
+      "Le plus grand obstacle qui se dresse est le temps."
+    ],
+    "b2": [
+      "Le plus grand obstacle qui se dresse est le manque d'intérêt du public.",
+      "Le plus grand obstacle qui se dresse est la concurrence féroce dans ce secteur.",
+      "Le plus grand obstacle qui se dresse est la complexité administrative.",
+      "Le plus grand obstacle qui se dresse est l'absence de budget pour cette année.",
+      "Le plus grand obstacle qui se dresse est la résistance au changement des employés."
+    ],
+    "c1": [
+      "Le plus grand obstacle qui se dresse est l'inertie bureaucratique propre aux grandes structures.",
+      "Le plus grand obstacle qui se dresse est l'instabilité législative au niveau international.",
+      "Le plus grand obstacle qui se dresse est la pénurie mondiale de matières premières.",
+      "Le plus grand obstacle qui se dresse est le décalage entre l'offre technologique et la demande sociale.",
+      "Le plus grand obstacle qui se dresse est la polarisation croissante des opinions publiques."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Mon approche proposée implique de ...",
+    "kor": "제가 제안하는 접근 방식은 ...을 포함합니다.",
+    "b1": [
+      "Mon approche proposée implique de parler plus.",
+      "Mon approche proposée implique de travailler ensemble.",
+      "Mon approche proposée implique de lire chaque jour.",
+      "Mon approche proposée implique de faire du sport.",
+      "Mon approche proposée implique de manger sainement."
+    ],
+    "b2": [
+      "Mon approche proposée implique de réduire les réunions inutiles.",
+      "Mon approche proposée implique d'investir dans la publicité en ligne.",
+      "Mon approche proposée implique de former des petites équipes autonomes.",
+      "Mon approche proposée implique de tester le produit sur un échantillon réduit.",
+      "Mon approche proposée implique de collaborer avec des influenceurs."
+    ],
+    "c1": [
+      "Mon approche proposée implique de déconstruire les processus existants pour les simplifier.",
+      "Mon approche proposée implique d'intégrer l'intelligence artificielle à tous les niveaux de production.",
+      "Mon approche proposée implique de privilégier une croissance qualitative plutôt que quantitative.",
+      "Mon approche proposée implique de responsabiliser chaque collaborateur à travers une structure horizontale.",
+      "Mon approche proposée implique de mettre en œuvre une stratégie de résilience face aux chocs externes."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Peut-être que la pièce manquante est ...",
+    "kor": "어쩌면 빠진 조각(해결의 실마리)은 ...일지도 모릅니다.",
+    "b1": [
+      "Peut-être que la pièce manquante est la patience.",
+      "Peut-être que la pièce manquante est le temps.",
+      "Peut-être que la pièce manquante est l'amour.",
+      "Peut-être que la pièce manquante est la musique.",
+      "Peut-être que la pièce manquante est ton sourire."
+    ],
+    "b2": [
+      "Peut-être que la pièce manquante est une meilleure communication interne.",
+      "Peut-être que la pièce manquante est l'avis direct de nos clients.",
+      "Peut-être que la pièce manquante est un budget marketing plus important.",
+      "Peut-être que la pièce manquante est l'utilisation des nouvelles technologies.",
+      "Peut-être que la pièce manquante est la flexibilité de nos horaires."
+    ],
+    "c1": [
+      "Peut-être que la pièce manquante est une vision philosophique du progrès technique.",
+      "Peut-être que la pièce manquante est l'empathie au sein du leadership exécutif.",
+      "Peut-être que la pièce manquante est une véritable volonté politique de changement.",
+      "Peut-être que la pièce manquante est la compréhension des enjeux socioculturels profonds.",
+      "Peut-être que la pièce manquante est la quête de sens au-delà de la performance économique."
+    ]
+  }
+]

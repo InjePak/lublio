@@ -1,0 +1,471 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+
+// src/pages/phrasebook/[level]/[path].astro
+import chapters from "../../../assets/json/phrasebook/chapters.json";
+
+// 1. 빌드 시 생성될 모든 경로를 정의합니다.
+export async function getStaticPaths() {
+  const levels = ["a1", "a2", "b1", "b2"] as const;
+
+  // 모든 레벨의 모든 챕터를 하나의 배열로 평탄화(flatten)하여 경로를 생성합니다.
+  return levels.flatMap((level) => {
+    return chapters[level].map((chapter) => ({
+      params: {
+        level: level, // [level] 부분에 들어갈 값
+        path: chapter.path, // [url] 부분에 들어갈 값
+      },
+      props: { chapter },
+    }));
+  });
+}
+
+// 2. 위에서 넘겨준 props를 받아옵니다.
+const { level, path } = Astro.params;
+const { chapter } = Astro.props;
+
+// 3. 해당 레벨과 챕터에 맞는 데이터를 가져옵니다.
+import phrase_a1_1 from "../../../assets/json/phrasebook/a1/phrase_a1_1.json";
+import phrase_a1_2 from "../../../assets/json/phrasebook/a1/phrase_a1_2.json";
+import phrase_a1_3 from "../../../assets/json/phrasebook/a1/phrase_a1_3.json";
+import phrase_a1_4 from "../../../assets/json/phrasebook/a1/phrase_a1_4.json";
+import phrase_a1_5 from "../../../assets/json/phrasebook/a1/phrase_a1_5.json";
+import phrase_a1_6 from "../../../assets/json/phrasebook/a1/phrase_a1_6.json";
+import phrase_a1_7 from "../../../assets/json/phrasebook/a1/phrase_a1_7.json";
+import phrase_a1_8 from "../../../assets/json/phrasebook/a1/phrase_a1_8.json";
+import phrase_a1_9 from "../../../assets/json/phrasebook/a1/phrase_a1_9.json";
+import phrase_a1_10 from "../../../assets/json/phrasebook/a1/phrase_a1_10.json";
+import phrase_a1_11 from "../../../assets/json/phrasebook/a1/phrase_a1_11.json";
+import phrase_a1_12 from "../../../assets/json/phrasebook/a1/phrase_a1_12.json";
+import phrase_a2_1 from "../../../assets/json/phrasebook/a2/phrase_a2_1.json";
+import phrase_a2_2 from "../../../assets/json/phrasebook/a2/phrase_a2_2.json";
+import phrase_a2_3 from "../../../assets/json/phrasebook/a2/phrase_a2_3.json";
+import phrase_a2_4 from "../../../assets/json/phrasebook/a2/phrase_a2_4.json";
+import phrase_a2_5 from "../../../assets/json/phrasebook/a2/phrase_a2_5.json";
+import phrase_a2_6 from "../../../assets/json/phrasebook/a2/phrase_a2_6.json";
+import phrase_a2_7 from "../../../assets/json/phrasebook/a2/phrase_a2_7.json";
+import phrase_a2_8 from "../../../assets/json/phrasebook/a2/phrase_a2_8.json";
+import phrase_a2_9 from "../../../assets/json/phrasebook/a2/phrase_a2_9.json";
+import phrase_a2_10 from "../../../assets/json/phrasebook/a2/phrase_a2_10.json";
+import phrase_a2_11 from "../../../assets/json/phrasebook/a2/phrase_a2_11.json";
+import phrase_a2_12 from "../../../assets/json/phrasebook/a2/phrase_a2_12.json";
+import phrase_b1_1 from "../../../assets/json/phrasebook/b1/phrase_b1_1.json";
+import phrase_b1_2 from "../../../assets/json/phrasebook/b1/phrase_b1_2.json";
+import phrase_b1_3 from "../../../assets/json/phrasebook/b1/phrase_b1_3.json";
+import phrase_b1_4 from "../../../assets/json/phrasebook/b1/phrase_b1_4.json";
+import phrase_b1_5 from "../../../assets/json/phrasebook/b1/phrase_b1_5.json";
+import phrase_b1_6 from "../../../assets/json/phrasebook/b1/phrase_b1_6.json";
+import phrase_b1_7 from "../../../assets/json/phrasebook/b1/phrase_b1_7.json";
+import phrase_b1_8 from "../../../assets/json/phrasebook/b1/phrase_b1_8.json";
+import phrase_b1_9 from "../../../assets/json/phrasebook/b1/phrase_b1_9.json";
+import phrase_b1_10 from "../../../assets/json/phrasebook/b1/phrase_b1_10.json";
+import phrase_b1_11 from "../../../assets/json/phrasebook/b1/phrase_b1_11.json";
+import phrase_b1_12 from "../../../assets/json/phrasebook/b1/phrase_b1_12.json";
+import phrase_b2_1 from "../../../assets/json/phrasebook/b2/phrase_b2_1.json";
+import phrase_b2_2 from "../../../assets/json/phrasebook/b2/phrase_b2_2.json";
+import phrase_b2_3 from "../../../assets/json/phrasebook/b2/phrase_b2_3.json";
+import phrase_b2_4 from "../../../assets/json/phrasebook/b2/phrase_b2_4.json";
+import phrase_b2_5 from "../../../assets/json/phrasebook/b2/phrase_b2_5.json";
+import phrase_b2_6 from "../../../assets/json/phrasebook/b2/phrase_b2_6.json";
+import phrase_b2_7 from "../../../assets/json/phrasebook/b2/phrase_b2_7.json";
+import phrase_b2_8 from "../../../assets/json/phrasebook/b2/phrase_b2_8.json";
+import phrase_b2_9 from "../../../assets/json/phrasebook/b2/phrase_b2_9.json";
+import phrase_b2_10 from "../../../assets/json/phrasebook/b2/phrase_b2_10.json";
+import phrase_b2_11 from "../../../assets/json/phrasebook/b2/phrase_b2_11.json";
+import phrase_b2_12 from "../../../assets/json/phrasebook/b2/phrase_b2_12.json";
+
+let jsonData;
+switch (level) {
+  case "a1":
+    switch (chapter.id) {
+      case 1:
+        jsonData = phrase_a1_1;
+        break;
+      case 2:
+        jsonData = phrase_a1_2;
+        break;
+      case 3:
+        jsonData = phrase_a1_3;
+        break;
+      case 4:
+        jsonData = phrase_a1_4;
+        break;
+      case 5:
+        jsonData = phrase_a1_5;
+        break;
+      case 6:
+        jsonData = phrase_a1_6;
+        break;
+      case 7:
+        jsonData = phrase_a1_7;
+        break;
+      case 8:
+        jsonData = phrase_a1_8;
+        break;
+      case 9:
+        jsonData = phrase_a1_9;
+        break;
+      case 10:
+        jsonData = phrase_a1_10;
+        break;
+      case 11:
+        jsonData = phrase_a1_11;
+        break;
+      case 12:
+        jsonData = phrase_a1_12;
+        break;
+    }
+    break;
+  case "a2":
+    switch (chapter.id) {
+      case 1:
+        jsonData = phrase_a2_1;
+        break;
+      case 2:
+        jsonData = phrase_a2_2;
+        break;
+      case 3:
+        jsonData = phrase_a2_3;
+        break;
+      case 4:
+        jsonData = phrase_a2_4;
+        break;
+      case 5:
+        jsonData = phrase_a2_5;
+        break;
+      case 6:
+        jsonData = phrase_a2_6;
+        break;
+      case 7:
+        jsonData = phrase_a2_7;
+        break;
+      case 8:
+        jsonData = phrase_a2_8;
+        break;
+      case 9:
+        jsonData = phrase_a2_9;
+        break;
+      case 10:
+        jsonData = phrase_a2_10;
+        break;
+      case 11:
+        jsonData = phrase_a2_11;
+        break;
+      case 12:
+        jsonData = phrase_a2_12;
+        break;
+    }
+    break;
+  case "b1":
+    switch (chapter.id) {
+      case 1:
+        jsonData = phrase_b1_1;
+        break;
+      case 2:
+        jsonData = phrase_b1_2;
+        break;
+      case 3:
+        jsonData = phrase_b1_3;
+        break;
+      case 4:
+        jsonData = phrase_b1_4;
+        break;
+      case 5:
+        jsonData = phrase_b1_5;
+        break;
+      case 6:
+        jsonData = phrase_b1_6;
+        break;
+      case 7:
+        jsonData = phrase_b1_7;
+        break;
+      case 8:
+        jsonData = phrase_b1_8;
+        break;
+      case 9:
+        jsonData = phrase_b1_9;
+        break;
+      case 10:
+        jsonData = phrase_b1_10;
+        break;
+      case 11:
+        jsonData = phrase_b1_11;
+        break;
+      case 12:
+        jsonData = phrase_b1_12;
+        break;
+    }
+    break;
+  case "b2":
+    switch (chapter.id) {
+      case 1:
+        jsonData = phrase_b2_1;
+        break;
+      case 2:
+        jsonData = phrase_b2_2;
+        break;
+      case 3:
+        jsonData = phrase_b2_3;
+        break;
+      case 4:
+        jsonData = phrase_b2_4;
+        break;
+      case 5:
+        jsonData = phrase_b2_5;
+        break;
+      case 6:
+        jsonData = phrase_b2_6;
+        break;
+      case 7:
+        jsonData = phrase_b2_7;
+        break;
+      case 8:
+        jsonData = phrase_b2_8;
+        break;
+      case 9:
+        jsonData = phrase_b2_9;
+        break;
+      case 10:
+        jsonData = phrase_b2_10;
+        break;
+      case 11:
+        jsonData = phrase_b2_11;
+        break;
+      case 12:
+        jsonData = phrase_b2_12;
+        break;
+    }
+    break;
+  default:
+    jsonData = phrase_a1_1;
+    break;
+}
+
+const pageTitle = "다개국어 회화";
+---
+
+<BaseLayout pageTitle={pageTitle + " | Lublio"}>
+  <div class="title">
+    <h1 class="riseUp_1">{chapter.kor}</h1>
+    <hr />
+    <p class="riseUp_2">{chapter.eng}</p>
+    <p class="riseUp_3">{chapter.fra}</p>
+    <p class="riseUp_4">{chapter.deu}</p>
+    <p class="riseUp_5">{chapter.rus}</p>
+  </div>
+
+  <div class="controls">
+    <label>
+      <input
+        type="checkbox"
+        class="toggle-lang"
+        data-target="phrase-eng"
+        checked
+      />
+      <span>영어</span>
+    </label>
+
+    <label>
+      <input
+        type="checkbox"
+        class="toggle-lang"
+        data-target="phrase-deu"
+        checked
+      />
+      <span>독일어</span>
+    </label>
+
+    <label>
+      <input
+        type="checkbox"
+        class="toggle-lang"
+        data-target="phrase-fra"
+        checked
+      />
+      <span>프랑스어</span>
+    </label>
+
+    <label>
+      <input
+        type="checkbox"
+        class="toggle-lang"
+        data-target="phrase-rus"
+        checked
+      />
+      <span>러시아어</span>
+    </label>
+  </div>
+
+  {
+    !jsonData ? (
+      <p>서버 에러입니다.</p>
+    ) : (
+      jsonData.map((data: any, index: number) => (
+        <div class="phrase-box">
+          <h2>
+            {index + 1}. {data.kor}
+          </h2>
+          <hr />
+          <p class="phrase-eng">
+            <span style="color: var(--pink400)">●</span>
+            {data.eng}
+          </p>
+          <p class="phrase-deu">
+            <span style="color: var(--amber400)">●</span>
+            {data.deu}
+          </p>
+          <p class="phrase-fra">
+            <span style="color: var(--sky400)">●</span>
+            {data.fra}
+          </p>
+          <p class="phrase-rus">
+            <span style="color: var(--indigo400)">●</span>
+            {data.rus}
+          </p>
+        </div>
+      ))
+    )
+  }
+
+  <script>
+    // 페이지 내의 모든 체크박스를 가져옵니다.
+    const toggles = document.querySelectorAll(".toggle-lang");
+
+    toggles.forEach((toggle) => {
+      toggle.addEventListener("change", (e) => {
+        const targetClass = (e.target as HTMLInputElement).dataset.target;
+        const isVisible = (e.target as HTMLInputElement).checked;
+
+        // 해당 클래스를 가진 모든 요소를 찾아 숨기거나 보입니다.
+        const elements = document.querySelectorAll(`.${targetClass}`);
+        elements.forEach((el) => {
+          (el as HTMLElement).style.display = isVisible ? "block" : "none";
+        });
+      });
+    });
+  </script>
+</BaseLayout>
+
+<style>
+  /* Title */
+
+  .title {
+    background-color: var(--zinc300);
+    padding: 1.5rem 2rem;
+    margin-bottom: 1.5rem;
+    border-radius: 20px;
+  }
+
+  .title > h1,
+  .title > p {
+    width: 100%;
+  }
+
+  .title > h1 {
+    text-transform: uppercase;
+    margin-bottom: 0.5rem;
+  }
+
+  .title > p {
+    color: var(--zinc800);
+    font-weight: 500;
+    margin-bottom: 0rem;
+  }
+
+  .title > p:last-child {
+    margin-bottom: 0;
+  }
+
+  .title > hr {
+    border: 1px solid var(--zinc800);
+    margin: 1.5rem 0;
+  }
+
+  /* Controls */
+
+  .controls {
+    /* position: sticky; */
+    display: flex;
+    justify-content: space-evenly;
+    top: 0;
+    background: var(--zinc800);
+    padding: 0.5rem 1rem;
+    display: flex;
+    gap: 1rem;
+    border-radius: 20px;
+    margin-bottom: 1.5rem;
+  }
+
+  .controls label {
+    cursor: pointer;
+    font-size: 1rem;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .toggle-lang {
+    display: none;
+  }
+
+  .toggle-lang + span {
+    display: inline-block;
+    padding: 8px 16px;
+    background-color: var(--zinc800);
+    color: var(--zinc200);
+    border-radius: 50px;
+    font-weight: 600;
+    font-size: 16px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+  }
+
+  .toggle-lang:not(:checked) + span {
+    color: var(--zinc200);
+    opacity: 0.3;
+  }
+
+  .toggle-lang:not(:checked) + span:hover {
+    background-color: var(--zinc700);
+  }
+
+  .toggle-lang:checked + span {
+    color: var(--zinc200);
+    opacity: 1;
+  }
+
+  .toggle-lang:checked + span:hover {
+    background-color: var(--zinc700);
+  }
+
+  /* Phrase Box */
+
+  .phrase-box {
+    border: 1px solid var(--zinc400);
+    border-radius: 20px;
+    margin-bottom: 1.5rem;
+    padding: 1.5rem;
+  }
+
+  .phrase-box > h2 {
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 1rem;
+  }
+
+  .phrase-box > hr {
+    border: 1px solid var(--zinc800);
+    margin: 0;
+    margin-bottom: 1.5rem;
+  }
+
+  .phrase-box > p {
+    font-size: 16px;
+    margin-bottom: 1rem;
+  }
+
+  .phrase-box > p > span {
+    margin-right: 10px;
+  }
+</style>

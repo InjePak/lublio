@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Si nous ..., alors nous allons ...",
+    "kor": "만약 우리가 ...한다면, 그때 우리는 ...할 것입니다.",
+    "b1": [
+      "Si nous étudions beaucoup, alors nous allons réussir l'examen.",
+      "Si nous partons maintenant, alors nous allons arriver à l'heure.",
+      "Si nous cuisinons ensemble, alors nous allons passer un bon moment.",
+      "Si nous achetons ce canapé, alors nous allons changer le salon.",
+      "Si nous marchons vite, alors nous allons attraper le bus."
+    ],
+    "b2": [
+      "Si nous réduisons nos dépenses, alors nous allons équilibrer le budget.",
+      "Si nous lançons ce produit en été, alors nous allons attirer plus de clients.",
+      "Si nous acceptons cette offre, alors nous allons augmenter notre chiffre d'affaires.",
+      "Si nous travaillons à distance, alors nous allons économiser sur les frais de bureau.",
+      "Si nous changeons de fournisseur, alors nous allons améliorer la qualité."
+    ],
+    "c1": [
+      "Si nous maintenons ce rythme d'innovation, alors nous allons dominer le marché d'ici deux ans.",
+      "Si nous ignorons les signes de mécontentement, alors nous allons faire face à une crise sociale majeure.",
+      "Si nous investissons dans les énergies renouvelables, alors nous allons assurer la pérennité de l'entreprise.",
+      "Si nous décentralisons la prise de décision, alors nous allons gagner en agilité opérationnelle.",
+      "Si nous adoptons cette réforme, alors nous allons transformer durablement notre modèle économique."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Que se passerait-il si ...?",
+    "kor": "만약 ...한다면 무슨 일이 일어날까요?",
+    "b1": [
+      "Que se passerait-il si je perdais mon sac ?",
+      "Que se passerait-il si nous mangions trop de gâteaux ?",
+      "Que se passerait-il si tu ne venais pas demain ?",
+      "Que se passerait-il s'il pleuvait pendant le pique-nique ?",
+      "Que se passerait-il si on changeait de film ?"
+    ],
+    "b2": [
+      "Que se passerait-il si le gouvernement augmentait les taxes ?",
+      "Que se passerait-il si notre principal client annulait son contrat ?",
+      "Que se passerait-il si l'intelligence artificielle remplaçait nos rédacteurs ?",
+      "Que se passerait-il si nous décidions de déménager à l'étranger ?",
+      "Que se passerait-il si personne ne répondait à notre invitation ?"
+    ],
+    "c1": [
+      "Que se passerait-il si le système bancaire mondial subissait un effondrement soudain ?",
+      "Que se passerait-il si nous devions faire face à une pénurie totale de matières premières ?",
+      "Que se passerait-il si le paradigme de la consommation de masse changeait radicalement ?",
+      "Que se passerait-il si la vérité devenait indissociable du mensonge à cause de la technologie ?",
+      "Que se passerait-il si nous perdions soudainement tout accès aux données numériques ?"
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Si le résultat est ..., nous devons ...",
+    "kor": "만약 결과가 ...라면, 우리는 ...해야 합니다.",
+    "b1": [
+      "Si le résultat est bon, nous devons fêter ça.",
+      "Si le résultat est mauvais, nous devons recommencer.",
+      "Si le résultat est positif, nous devons continuer à travailler.",
+      "Si le résultat est négatif, nous devons appeler le docteur.",
+      "Si le résultat est clair, nous devons prendre une décision."
+    ],
+    "b2": [
+      "Si le résultat est inférieur aux prévisions, nous devons réduire les coûts.",
+      "Si le résultat est encourageant, nous devons investir davantage dans ce projet.",
+      "Si le résultat est contesté, nous devons demander un audit externe.",
+      "Si le résultat est décevant, nous devons analyser les causes de l'échec.",
+      "Si le résultat est validé par l'équipe, nous devons lancer la production."
+    ],
+    "c1": [
+      "Si le résultat est symptomatique d'une faille structurelle, nous devons refondre le système.",
+      "Si le résultat est en deçà de nos exigences éthiques, nous devons rompre le partenariat.",
+      "Si le résultat est le fruit du hasard et non de la stratégie, nous devons rester prudents.",
+      "Si le résultat est révélateur d'une mutation du marché, nous devons pivoter immédiatement.",
+      "Si le résultat est concluant sur le plan scientifique, nous devons publier ces données sans tarder."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Si j'avais su ..., j'aurais ...",
+    "kor": "내가 만약 ...을 알았더라면, ...했을 것입니다.",
+    "b1": [
+      "Si j'avais su pour la pluie, j'aurais pris mon parapluie.",
+      "Si j'avais su la vérité, j'aurais été triste.",
+      "Si j'avais su que tu venais, j'aurais préparé un gâteau.",
+      "Si j'avais su le prix, j'aurais acheté un autre téléphone.",
+      "Si j'avais su l'heure, j'aurais couru plus vite."
+    ],
+    "b2": [
+      "Si j'avais su que ce projet serait si complexe, j'aurais demandé plus de temps.",
+      "Si j'avais su tes intentions réelles, j'aurais agi différemment.",
+      "Si j'avais su pour les risques financiers, j'aurais consulté un expert.",
+      "Si j'avais su que le magasin fermait si tôt, j'y serais allé le matin.",
+      "Si j'avais su que tu avais besoin d'aide, je serais venu tout de suite."
+    ],
+    "c1": [
+      "Si j'avais su les conséquences géopolitiques de cet accord, j'aurais voté contre.",
+      "Si j'avais su que l'obsolescence de ce système arriverait si vite, j'aurais anticipé la migration.",
+      "Si j'avais su que la culture d'entreprise se dégraderait ainsi, j'aurais instauré d'autres valeurs.",
+      "Si j'avais su l'impact psychologique de cette décision, j'aurais privilégié une approche plus humaine.",
+      "Si j'avais su que ce marché serait saturé si rapidement, j'aurais diversifié nos actifs."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "En supposant que ..., il est probable que ...",
+    "kor": "...라고 가정하면, ...일 가능성이 높습니다.",
+    "b1": [
+      "En supposant qu'il fasse beau, il est probable que nous allions à la plage.",
+      "En supposant que tu travailles, il est probable que tu gagnes de l'argent.",
+      "En supposant que le bus passe, il est probable que j'arrive à midi.",
+      "En supposant qu'elle dise oui, il est probable que nous soyons heureux.",
+      "En supposant que l'examen soit facile, il est probable que tout le monde réussisse."
+    ],
+    "b2": [
+      "En supposant que la tendance se confirme, il est probable que les ventes augmentent.",
+      "En supposant que le budget soit voté, il est probable que nous recrutions bientôt.",
+      "En supposant que le vaccin soit efficace, il est probable que la vie reprenne normalement.",
+      "En supposant que le retard soit rattrapé, il est probable que nous finissions à temps.",
+      "En supposant que vous acceptiez nos conditions, il est probable que nous signions demain."
+    ],
+    "c1": [
+      "En supposant que les taux d'intérêt baissent, il est probable que l'investissement reparte.",
+      "En supposant que la transition numérique s'accélère, il est probable que certains métiers disparaissent.",
+      "En supposant que le conflit s'enlise, il est probable que l'inflation persiste durablement.",
+      "En supposant que l'IA atteigne ce niveau de performance, il est probable que nous devions légiférer.",
+      "En supposant que la cohésion sociale soit préservée, il est probable que la réforme réussisse."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Je prédis que ... va se produire.",
+    "kor": "저는 ...이 일어날 것이라고 예측합니다.",
+    "b1": [
+      "Je prédis qu'il va pleuvoir ce soir.",
+      "Je prédis que ton équipe va gagner.",
+      "Je prédis que ce film va être super.",
+      "Je prédis qu'il va être en retard.",
+      "Je prédis que tu vas aimer ce plat."
+    ],
+    "b2": [
+      "Je prédis qu'un grand changement va se produire dans l'entreprise.",
+      "Je prédis qu'une nouvelle crise économique va se produire bientôt.",
+      "Je prédis qu'un accord diplomatique va se produire d'ici la fin du mois.",
+      "Je prédis que ce nouveau produit va se produire un énorme succès commercial.",
+      "Je prédis qu'une hausse des prix immobiliers va se produire l'année prochaine."
+    ],
+    "c1": [
+      "Je prédis qu'un bouleversement des équilibres géopolitiques va se produire prochainement.",
+      "Je prédis qu'une rupture technologique majeure va se produire dans le secteur de l'énergie.",
+      "Je prédis qu'une prise de conscience écologique radicale va se produire chez les jeunes générations.",
+      "Je prédis qu'une redéfinition du contrat social va se produire à l'échelle européenne.",
+      "Je prédis qu'une saturation des réseaux de communication va se produire si nous ne modérons pas nos usages."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "À moins que ... ne se produise, nous ne pourrons pas ...",
+    "kor": "...이 일어나지 않는 한, 우리는 ...할 수 없을 것입니다.",
+    "b1": [
+      "À moins qu'il ne s'excuse, nous ne pourrons pas être amis.",
+      "À moins qu'il ne fasse beau, nous ne pourrons pas aller dehors.",
+      "À moins que tu ne manges, nous ne pourrons pas partir.",
+      "À moins que le train n'arrive, nous ne pourrons pas rentrer.",
+      "À moins que tu n'étudies, tu ne pourras pas réussir."
+    ],
+    "b2": [
+      "À moins qu'un miracle ne se produise, nous ne pourrons pas finir ce projet ce soir.",
+      "À moins que le directeur ne donne son accord, nous ne pourrons pas changer de bureau.",
+      "À moins qu'un financement ne se produise, nous ne pourrons pas lancer l'application.",
+      "À moins que la situation ne s'améliore, nous ne pourrons pas maintenir les prix actuels.",
+      "À moins qu'une erreur ne se produise, nous ne pourrons pas contester ces résultats."
+    ],
+    "c1": [
+      "À moins qu'un changement de paradigme ne se produise, nous ne pourrons pas résoudre la crise climatique.",
+      "À moins qu'une réforme structurelle ne se produise, nous ne pourrons pas redresser l'économie.",
+      "À moins qu'un consensus politique ne se produise, nous ne pourrons pas ratifier ce traité.",
+      "À moins qu'une innovation de rupture ne se produise, nous ne pourrons pas rester compétitifs.",
+      "À moins qu'une prise de conscience éthique ne se produise, nous ne pourrons pas réguler l'intelligence artificielle."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "En cas de ..., nous devrions ...",
+    "kor": "...할 경우에 대비해, 우리는 ...해야 합니다.",
+    "b1": [
+      "En cas de pluie, nous devrions rester à la maison.",
+      "En cas de faim, nous devrions acheter des fruits.",
+      "En cas de problème, nous devrions appeler maman.",
+      "En cas de retard, nous devrions envoyer un message.",
+      "En cas de fatigue, nous devrions dormir."
+    ],
+    "b2": [
+      "En cas d'urgence médicale, nous devrions contacter les pompiers immédiatement.",
+      "En cas de panne informatique, nous devrions utiliser les dossiers papier.",
+      "En cas de désaccord, nous devrions voter pour trancher la question.",
+      "En cas de forte demande, nous devrions recruter du personnel temporaire.",
+      "En cas d'échec de la négociation, nous devrions chercher un autre partenaire."
+    ],
+    "c1": [
+      "En cas de cyberattaque massive, nous devrions activer le protocole de sécurité de niveau 4.",
+      "En cas de volatilité excessive des marchés, nous devrions geler nos investissements risqués.",
+      "En cas de vacance du pouvoir, nous devrions organiser des élections anticipées sous trente jours.",
+      "En cas de non-respect des clauses contractuelles, nous devrions engager des poursuites judiciaires.",
+      "En cas de divergence stratégique majeure, nous devrions scinder l'entreprise en deux entités."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Il y a une forte probabilité que ...",
+    "kor": "...할 가능성이 매우 높습니다.",
+    "b1": [
+      "Il y a une forte probabilité qu'il pleuve demain.",
+      "Il y a une forte probabilité que tu gagnes au loto.",
+      "Il y a une forte probabilité qu'elle vienne à la fête.",
+      "Il y a une forte probabilité que le cours soit annulé.",
+      "Il y a une forte probabilité que ce soit bon."
+    ],
+    "b2": [
+      "Il y a une forte probabilité que les prix du pétrole augmentent encore cet hiver.",
+      "Il y a une forte probabilité que nous devions changer nos plans de voyage.",
+      "Il y a une forte probabilité que l'entreprise soit rachetée par un groupe étranger.",
+      "Il y a une forte probabilité que de nouveaux règlements soient mis en place.",
+      "Il y a une forte probabilité que vous soyez promu l'année prochaine."
+    ],
+    "c1": [
+      "Il y a une forte probabilité que la dévaluation de la monnaie entraîne une inflation galopante.",
+      "Il y a une forte probabilité que l'automatisation transforme radicalement le marché de l'emploi.",
+      "Il y a une forte probabilité que cette instabilité politique débouche sur un conflit armé.",
+      "Il y a une forte probabilité que les ressources en eau deviennent l'enjeu majeur du siècle.",
+      "Il y a une forte probabilité que nous assistions à une mutation profonde des valeurs sociales."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Nous pourrions voir ... si ...",
+    "kor": "만약 ...한다면 우리는 ...을 보게 될 수도 있습니다.",
+    "b1": [
+      "Nous pourrions voir des dauphins si nous allons en mer.",
+      "Nous pourrions voir des étoiles si le ciel est clair.",
+      "Nous pourrions voir la Tour Eiffel si nous marchons un peu.",
+      "Nous pourrions voir le patron si nous attendons ici.",
+      "Nous pourrions voir des fleurs si c'est le printemps."
+    ],
+    "b2": [
+      "Nous pourrions voir une amélioration si nous suivons ce régime alimentaire.",
+      "Nous pourrions voir des résultats concrets si nous travaillons en équipe.",
+      "Nous pourrions voir une baisse du chômage si la croissance repart.",
+      "Nous pourrions voir de nouveaux visages si nous changeons de quartier.",
+      "Nous pourrions voir une réaction positive si nous expliquons bien les choses."
+    ],
+    "c1": [
+      "Nous pourrions voir une dégradation irréversible de la biodiversité si nous n'agissons pas.",
+      "Nous pourrions voir un exode rural massif si les conditions climatiques se durcissent.",
+      "Nous pourrions voir une résurgence des idéologies extrémistes si la crise s'aggrave.",
+      "Nous pourrions voir une révolution industrielle verte si les investissements suivent.",
+      "Nous pourrions voir un basculement de l'hégémonie économique si les pays émergents s'allient."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Cela suggère que l'avenir réserve ...",
+    "kor": "이것은 미래에 ...이 기다리고 있음을 암시합니다.",
+    "b1": [
+      "Cela suggère que l'avenir réserve de bonnes surprises.",
+      "Cela suggère que l'avenir réserve beaucoup de travail.",
+      "Cela suggère que l'avenir réserve de la pluie.",
+      "Cela suggère que l'avenir réserve du soleil.",
+      "Cela suggère que l'avenir réserve des voyages."
+    ],
+    "b2": [
+      "Cela suggère que l'avenir réserve de grands défis pour notre génération.",
+      "Cela suggère que l'avenir réserve des opportunités incroyables dans le domaine du numérique.",
+      "Cela suggère que l'avenir réserve des changements importants dans notre façon de vivre.",
+      "Cela suggère que l'avenir réserve une concurrence de plus en plus forte.",
+      "Cela suggère que l'avenir réserve une vie plus facile grâce à la technologie."
+    ],
+    "c1": [
+      "Cela suggère que l'avenir réserve une reconfiguration totale de nos systèmes de santé.",
+      "Cela suggère que l'avenir réserve une instabilité chronique pour les marchés financiers.",
+      "Cela suggère que l'avenir réserve des tensions croissantes autour des ressources énergétiques.",
+      "Cela suggère que l'avenir réserve une redéfinition radicale de la notion de vie privée.",
+      "Cela suggère que l'avenir réserve un glissement vers des formes de gouvernance plus locales."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Le résultat dépend entièrement de ...",
+    "kor": "결과는 전적으로 ...에 달려 있습니다.",
+    "b1": [
+      "Le résultat dépend entièrement de ton travail.",
+      "Le résultat dépend entièrement de la météo.",
+      "Le résultat dépend entièrement de ton choix.",
+      "Le résultat dépend entièrement de l'argent.",
+      "Le résultat dépend entièrement de ta réponse."
+    ],
+    "b2": [
+      "Le résultat dépend entièrement de notre capacité à collaborer efficacement.",
+      "Le résultat dépend entièrement de la décision finale du directeur général.",
+      "Le résultat dépend entièrement de la qualité des matières premières utilisées.",
+      "Le résultat dépend entièrement du soutien que nous recevrons du public.",
+      "Le résultat dépend entièrement de l'évolution de la situation sanitaire mondiale."
+    ],
+    "c1": [
+      "Le résultat dépend entièrement de la synergie entre les différents acteurs du projet.",
+      "Le résultat dépend entièrement de la flexibilité de notre structure opérationnelle.",
+      "Le résultat dépend entièrement de la rigueur avec laquelle nous appliquerons ces normes.",
+      "Le résultat dépend entièrement de l'adéquation entre notre offre et la demande réelle.",
+      "Le résultat dépend entièrement de la pérennité des financements alloués à la recherche."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Si la tendance se maintient, alors ...",
+    "kor": "만약 추세가 유지된다면, 그때는 ...할 것입니다.",
+    "b1": [
+      "Si la tendance se maintient, alors il va faire très chaud.",
+      "Si la tendance se maintient, alors nous allons gagner le match.",
+      "Si la tendance se maintient, alors tout le monde va venir.",
+      "Si la tendance se maintient, alors les prix vont baisser.",
+      "Si la tendance se maintient, alors nous allons finir tôt."
+    ],
+    "b2": [
+      "Si la tendance se maintient, alors notre entreprise deviendra leader du marché l'année prochaine.",
+      "Si la tendance se maintient, alors les ressources naturelles s'épuiseront rapidement.",
+      "Si la tendance se maintient, alors le télétravail deviendra la norme pour tous.",
+      "Si la tendance se maintient, alors nous devrons doubler notre capacité de production.",
+      "Si la tendance se maintient, alors les tensions sociales risquent de s'intensifier."
+    ],
+    "c1": [
+      "Si la tendance se maintient, alors nous assisterons à une désertification des zones rurales.",
+      "Si la tendance se maintient, alors l'endettement public atteindra un seuil critique d'ici dix ans.",
+      "Si la tendance se maintient, alors l'obsolescence des compétences s'accélérera considérablement.",
+      "Si la tendance se maintient, alors la polarisation de l'opinion publique rendra tout dialogue impossible.",
+      "Si la tendance se maintient, alors la part des énergies fossiles dans le mix énergétique chutera drastiquement."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "S'ils avaient considéré ..., le résultat aurait été ...",
+    "kor": "만약 그들이 ...을 고려했더라면, 결과는 ...였을 것입니다.",
+    "b1": [
+      "S'ils avaient considéré le prix, le résultat aurait été différent.",
+      "S'ils avaient considéré la météo, le résultat aurait été meilleur.",
+      "S'ils avaient considéré mon avis, le résultat aurait été positif.",
+      "S'ils avaient considéré le temps, le résultat aurait été rapide.",
+      "S'ils avaient considéré les enfants, le résultat aurait été joyeux."
+    ],
+    "b2": [
+      "S'ils avaient considéré les risques environnementaux, le résultat aurait été moins catastrophique.",
+      "S'ils avaient considéré l'opinion des clients, le résultat aurait été un succès commercial.",
+      "S'ils avaient considéré les coûts de maintenance, le résultat aurait été plus réaliste.",
+      "S'ils avaient considéré la concurrence, le résultat aurait été une stratégie plus agressive.",
+      "S'ils avaient considéré la législation en vigueur, le résultat aurait été légal."
+    ],
+    "c1": [
+      "S'ils avaient considéré les implications sociologiques, le résultat aurait été une intégration plus fluide.",
+      "S'ils avaient considéré la volatilité du marché boursier, le résultat aurait été une gestion plus prudente.",
+      "S'ils avaient considéré la fragilité des alliances diplomatiques, le résultat aurait été la paix.",
+      "S'ils avaient considéré l'impact de l'automatisation sur l'emploi, le résultat aurait été une réforme sociale.",
+      "S'ils avaient considéré la saturation du réseau, le résultat aurait été une infrastructure plus robuste."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Nous avons besoin d'un plan de secours au cas où ...",
+    "kor": "...할 경우를 대비해 예비 계획이 필요합니다.",
+    "b1": [
+      "Nous avons besoin d'un plan de secours au cas où il pleuvrait.",
+      "Nous avons besoin d'un plan de secours au cas où le train serait en retard.",
+      "Nous avons besoin d'un plan de secours au cas où le restaurant serait fermé.",
+      "Nous avons besoin d'un plan de secours au cas où j'oublierais mes clés.",
+      "Nous avons besoin d'un plan de secours au cas où nous n'aurions plus d'argent."
+    ],
+    "b2": [
+      "Nous avons besoin d'un plan de secours au cas où le financement principal serait refusé.",
+      "Nous avons besoin d'un plan de secours au cas où le système informatique tomberait en panne.",
+      "Nous avons besoin d'un plan de secours au cas où notre fournisseur ferait faillite.",
+      "Nous avons besoin d'un plan de secours au cas où les ventes chuteraient brutalement.",
+      "Nous avons besoin d'un plan de secours au cas où la réunion serait annulée à la dernière minute."
+    ],
+    "c1": [
+      "Nous avons besoin d'un plan de secours au cas où une crise géopolitique bloquerait les exportations.",
+      "Nous avons besoin d'un plan de secours au cas où la cyber-résilience de l'entreprise serait compromise.",
+      "Nous avons besoin d'un plan de secours au cas où la nouvelle réglementation rendrait notre produit obsolète.",
+      "Nous avons besoin d'un plan de secours au cas où un scandale ternirait notre réputation mondiale.",
+      "Nous avons besoin d'un plan de secours au cas où l'inflation rendrait les coûts de production insupportables."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Il est concevable que ...",
+    "kor": "...라는 것을 생각할 수 있습니다 (가능합니다).",
+    "b1": [
+      "Il est concevable que tu sois fatigué.",
+      "Il est concevable qu'il pleuve cet après-midi.",
+      "Il est concevable que ce soit difficile au début.",
+      "Il est concevable que nous mangions au restaurant.",
+      "Il est concevable que le prix baisse bientôt."
+    ],
+    "b2": [
+      "Il est concevable que les deux parties ne trouvent jamais d'accord amiable.",
+      "Il est concevable que la technologie actuelle soit obsolète d'ici cinq ans.",
+      "Il est concevable que nous devions revoir toute notre organisation interne.",
+      "Il est concevable que l'intérêt pour ce produit diminue avec le temps.",
+      "Il est concevable que le télétravail devienne une obligation légale."
+    ],
+    "c1": [
+      "Il est concevable que l'humanité doive coloniser d'autres planètes pour survivre.",
+      "Il est concevable que la structure même de l'État-nation soit remise en question.",
+      "Il est concevable que l'intelligence artificielle finisse par développer une forme de conscience.",
+      "Il est concevable que nous assistions à une décroissance subie plutôt que choisie.",
+      "Il est concevable que la monnaie physique disparaisse totalement au profit du numérique."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Sans ..., il est impossible de ...",
+    "kor": "... 없이는 ...하는 것이 불가능합니다.",
+    "b1": [
+      "Sans argent, il est impossible d'acheter cette voiture.",
+      "Sans eau, il est impossible de vivre.",
+      "Sans clé, il est impossible d'ouvrir la porte.",
+      "Sans études, il est impossible de réussir cet examen.",
+      "Sans soleil, il est impossible d'aller à la plage."
+    ],
+    "b2": [
+      "Sans une communication claire, il est impossible de mener à bien ce projet.",
+      "Sans le soutien de la direction, il est impossible de changer la culture d'entreprise.",
+      "Sans un investissement massif, il est impossible de rester compétitif sur ce marché.",
+      "Sans la confiance des clients, il est impossible de pérenniser notre activité.",
+      "Sans des outils modernes, il est impossible d'augmenter la productivité."
+    ],
+    "c1": [
+      "Sans une vision stratégique cohérente, il est impossible d'anticiper les ruptures du marché.",
+      "Sans une éthique rigoureuse, il est impossible de garantir l'intégrité de la recherche scientifique.",
+      "Sans un consensus international, il est impossible de réguler les flux financiers mondiaux.",
+      "Sans une résilience psychologique forte, il est impossible de surmonter une telle crise systémique.",
+      "Sans une remise en question de nos modes de vie, il est impossible d'atteindre la neutralité carbone."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Les preuves indiquent que ... va se produire.",
+    "kor": "증거들은 ...이 일어날 것이라는 점을 나타냅니다.",
+    "b1": [
+      "Les preuves indiquent qu'il va pleuvoir.",
+      "Les preuves indiquent que tu as raison.",
+      "Les preuves indiquent que le train est parti.",
+      "Les preuves indiquent que le film est bien.",
+      "Les preuves indiquent que c'est cassé."
+    ],
+    "b2": [
+      "Les preuves indiquent qu'une augmentation des températures va se produire cette décennie.",
+      "Les preuves indiquent qu'une baisse de la consommation va se produire prochainement.",
+      "Les preuves indiquent qu'un changement de direction va se produire dans le groupe.",
+      "Les preuves indiquent qu'un ralentissement économique va se produire à l'automne.",
+      "Les preuves indiquent qu'une révolution technologique va se produire dans la médecine."
+    ],
+    "c1": [
+      "Les preuves indiquent qu'un effondrement de la biodiversité marine va se produire sans mesures urgentes.",
+      "Les preuves indiquent qu'un basculement géopolitique vers l'Asie va se produire inexorablement.",
+      "Les preuves indiquent qu'une crise de la dette souveraine va se produire si les taux remontent.",
+      "Les preuves indiquent qu'une mutation génétique de ce virus va se produire naturellement.",
+      "Les preuves indiquent qu'une déstabilisation des institutions démocratiques va se produire à cause de la désinformation."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "À condition que ..., nous pouvons procéder à ...",
+    "kor": "...라는 조건 하에, 우리는 ...을 진행할 수 있습니다.",
+    "b1": [
+      "À condition qu'il fasse beau, nous pouvons procéder à la promenade.",
+      "À condition que tu finisses tes devoirs, nous pouvons procéder au jeu.",
+      "À condition que tout soit prêt, nous pouvons procéder au départ.",
+      "À condition que tu sois d'accord, nous pouvons procéder au mariage.",
+      "À condition que le prix baisse, nous pouvons procéder à l'achat."
+    ],
+    "b2": [
+      "À condition que le contrat soit signé, nous pouvons procéder à l'envoi de la marchandise.",
+      "À condition que les fonds soient débloqués, nous pouvons procéder aux travaux de rénovation.",
+      "À condition que les tests soient positifs, nous pouvons procéder au lancement national.",
+      "À condition que vous respectiez les consignes, nous pouvons procéder à l'entretien.",
+      "À condition que la sécurité soit garantie, nous pouvons procéder à l'ouverture du site."
+    ],
+    "c1": [
+      "À condition que l'audit soit favorable, nous pouvons procéder à la fusion-acquisition.",
+      "À condition que le cadre législatif soit clarifié, nous pouvons procéder à l'implantation en zone franche.",
+      "À condition que la souveraineté numérique soit assurée, nous pouvons procéder à la migration des données.",
+      "À condition que les actionnaires valident le plan, nous pouvons procéder à la restructuration du capital.",
+      "À condition que la paix soit rétablie, nous pouvons procéder à la reconstruction des infrastructures."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "L'implication à long terme est ...",
+    "kor": "장기적인 영향(함의)은 ...입니다.",
+    "b1": [
+      "L'implication à long terme est que nous serons en bonne santé.",
+      "L'implication à long terme est que nous économiserons de l'argent.",
+      "L'implication à long terme est que nous apprendrons mieux le français.",
+      "L'implication à long terme est que notre jardin sera beau.",
+      "L'implication à long terme est que nous serons plus calmes."
+    ],
+    "b2": [
+      "L'implication à long terme est une dépendance accrue aux énergies importées.",
+      "L'implication à long terme est la disparition de certains commerces de proximité.",
+      "L'implication à long terme est une amélioration de la qualité de vie des citadins.",
+      "L'implication à long terme est la création de nouveaux secteurs d'emploi.",
+      "L'implication à long terme est une réduction significative de notre empreinte écologique."
+    ],
+    "c1": [
+      "L'implication à long terme est une érosion inéluctable du pouvoir d'achat des classes moyennes.",
+      "L'implication à long terme est un changement radical des structures familiales traditionnelles.",
+      "L'implication à long terme est la perte de notre autonomie stratégique face aux géants du web.",
+      "L'implication à long terme est une mutation de la conscience collective vis-à-vis du travail.",
+      "L'implication à long terme est le risque d'une instabilité sociale chronique due aux inégalités."
+    ]
+  }
+]

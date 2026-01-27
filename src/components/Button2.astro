@@ -1,0 +1,69 @@
+---
+import "../styles/fonts.css";
+import "../styles/colors.css";
+import "../styles/transition.css";
+
+const { id, title, subtitle, language, path } = Astro.props;
+const colorMap: Record<string, string> = {
+  eng: "var(--pink400)",
+  fra: "var(--sky400)",
+  deu: "var(--amber400)",
+  rus: "var(--indigo400)",
+};
+const borderColor = colorMap[language] || "var(--zinc400)";
+---
+
+<style define:vars={{ borderColor }}>
+  .btn:hover {
+    border: 2px solid var(--borderColor);
+    border-left: 15px solid var(--borderColor);
+  }
+</style>
+
+<a href={path}>
+  <div class="btn">
+    <h1>{id}. {title}</h1>
+    <h2>{subtitle}</h2>
+  </div>
+</a>
+
+<style>
+  .btn {
+    position: relative;
+    border: 2px dashed var(--zinc800);
+    padding: 1rem 1.5rem;
+    margin-bottom: 2rem;
+    transition: all 0.4s;
+  }
+
+  .btn > h1 {
+    position: relative;
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+  }
+
+  .btn > h2 {
+    position: relative;
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 0rem;
+  }
+
+  .btn > p {
+    position: absolute;
+    left: 1.5rem;
+    bottom: 0;
+  }
+
+  /* Mobile */
+  @media (max-width: 688px) {
+    .btn > h1 {
+      font-size: 22px;
+    }
+
+    .btn > h2 {
+      font-size: 15px;
+    }
+  }
+</style>

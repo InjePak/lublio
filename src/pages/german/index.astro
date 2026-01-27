@@ -1,0 +1,32 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Box from "../../components/Box.astro";
+import Button from "../../components/Button.astro";
+
+const pageTitle = "독일어";
+---
+
+<BaseLayout pageTitle={pageTitle + " | Lublio"}>
+  <Box
+    title="Deutsch"
+    subtitle="독일어"
+    description="Deutsch ist die Sprache der Dichter und Denker. Als wichtige Wissenschafts- und Wirtschaftssprache in Europa überzeugt sie durch ihre logische Struktur und ihre Tiefe in Philosophie und Technik."
+    language="deu"
+  />
+
+  <Button
+    title="독일어 회화"
+    subtitle="Sprachführer"
+    description="CEFR A1 - B2"
+    language="deu"
+    path="/german/phrasebook"
+  />
+
+  <Button
+    title="독일어 말하기 패턴"
+    subtitle="Speaking Patterns - Deutsch"
+    description="CEFR B1 - C1"
+    language="deu"
+    path="/german/pattern"
+  />
+</BaseLayout>

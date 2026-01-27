@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Je voudrais vous informer que ...",
+    "kor": "...라는 것을 알려드리고 싶습니다.",
+    "b1": [
+      "Je voudrais vous informer que le magasin est fermé aujourd'hui.",
+      "Je voudrais vous informer que le train a dix minutes de retard.",
+      "Je voudrais vous informer que j'ai bien reçu votre message.",
+      "Je voudrais vous informer que nous avons un nouveau menu.",
+      "Je voudrais vous informer que la réunion commence à 10 heures."
+    ],
+    "b2": [
+      "Je voudrais vous informer que votre candidature a été retenue pour l'entretien.",
+      "Je voudrais vous informer que les conditions générales de vente ont changé.",
+      "Je voudrais vous informer que nous avons terminé la première phase du projet.",
+      "Je voudrais vous informer que le stock de ce produit est actuellement épuisé.",
+      "Je voudrais vous informer que votre commande sera expédiée dès demain matin."
+    ],
+    "c1": [
+      "Je voudrais vous informer que nous avons procédé à une restructuration globale du service.",
+      "Je voudrais vous informer que la nouvelle réglementation entrera en vigueur le mois prochain.",
+      "Je voudrais vous informer que les indicateurs de performance sont en nette progression.",
+      "Je voudrais vous informer que nous avons conclu un accord de partenariat stratégique.",
+      "Je voudrais vous informer que l'audit interne n'a révélé aucune anomalie majeure."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Le point clé à retenir ici est ...",
+    "kor": "여기서 기억해야 할 핵심은 ...입니다.",
+    "b1": [
+      "Le point clé à retenir ici est qu'il faut être à l'heure.",
+      "Le point clé à retenir ici est que ce livre est important.",
+      "Le point clé à retenir ici est de bien fermer la porte.",
+      "Le point clé à retenir ici est que c'est gratuit aujourd'hui.",
+      "Le point clé à retenir ici est d'apporter votre passeport."
+    ],
+    "b2": [
+      "Le point clé à retenir ici est l'importance de la satisfaction client.",
+      "Le point clé à retenir ici est que nous devons réduire nos coûts de production.",
+      "Le point clé à retenir ici est la sécurité avant tout le reste.",
+      "Le point clé à retenir ici est la collaboration entre nos deux équipes.",
+      "Le point clé à retenir ici est que le marché est en pleine mutation."
+    ],
+    "c1": [
+      "Le point clé à retenir ici est la corrélation directe entre innovation et croissance.",
+      "Le point clé à retenir ici est la résilience structurelle de notre modèle économique.",
+      "Le point clé à retenir ici est la nécessité d'une veille technologique constante.",
+      "Le point clé à retenir ici est l'impact de la dématérialisation sur nos processus.",
+      "Le point clé à retenir ici est le maintien de notre avantage concurrentiel à long terme."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Pour clarifier, j'entends ...",
+    "kor": "명확히 하자면, 제가 의미하는 것은 ...입니다.",
+    "b1": [
+      "Pour clarifier, j'entends que nous partons à midi.",
+      "Pour clarifier, j'entends que c'est un cadeau pour toi.",
+      "Pour clarifier, j'entends que le prix est de vingt euros.",
+      "Pour clarifier, j'entends que nous devons travailler ensemble.",
+      "Pour clarifier, j'entends que je ne peux pas venir demain."
+    ],
+    "b2": [
+      "Pour clarifier, j'entends que le projet doit être fini avant vendredi soir.",
+      "Pour clarifier, j'entends que nous devons changer de stratégie marketing.",
+      "Pour clarifier, j'entends que chaque membre de l'équipe a une responsabilité précise.",
+      "Pour clarifier, j'entends que ce budget inclut toutes les taxes prévues.",
+      "Pour clarifier, j'entends que nous ne ferons aucune exception à la règle."
+    ],
+    "c1": [
+      "Pour clarifier, j'entends par là une refonte totale de notre identité visuelle.",
+      "Pour clarifier, j'entends que la pérennité de l'entreprise dépend de cet investissement.",
+      "Pour clarifier, j'entends instaurer un dialogue plus transparent avec les actionnaires.",
+      "Pour clarifier, j'entends que la flexibilité opérationnelle est notre priorité absolue.",
+      "Pour clarifier, j'entends que nous devons anticiper les fluctuations du marché monétaire."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Selon le rapport, ...",
+    "kor": "보고서에 따르면, ...",
+    "b1": [
+      "Selon le rapport, il va faire chaud cet été.",
+      "Selon le rapport, beaucoup de gens aiment le chocolat.",
+      "Selon le rapport, la ville est très sûre.",
+      "Selon le rapport, nous avons fini le travail.",
+      "Selon le rapport, il y a beaucoup de voitures ici."
+    ],
+    "b2": [
+      "Selon le rapport annuel, nos bénéfices ont augmenté de 5 %.",
+      "Selon le rapport de police, il n'y a pas de preuves suffisantes.",
+      "Selon le rapport médical, le patient doit se reposer une semaine.",
+      "Selon le rapport d'activité, la productivité est stable cette année.",
+      "Selon le rapport d'enquête, l'accident est dû à une erreur humaine."
+    ],
+    "c1": [
+      "Selon le rapport de prospective, l'intelligence artificielle transformera le secteur.",
+      "Selon le rapport du commissaire aux comptes, la situation financière est saine.",
+      "Selon le rapport d'expertise, les dommages structurels sont irréversibles.",
+      "Selon le rapport environnemental, nous devons réduire nos émissions de CO2.",
+      "Selon le rapport de conjoncture, la croissance ralentira au second semestre."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Permettez-moi de reformuler : ...",
+    "kor": "다시 말씀드려 보겠습니다(바꿔 말하자면): ...",
+    "b1": [
+      "Permettez-moi de reformuler : c'est trop cher pour nous.",
+      "Permettez-moi de reformuler : je suis d'accord avec toi.",
+      "Permettez-moi de reformuler : nous partons maintenant.",
+      "Permettez-moi de reformuler : ce gâteau est délicieux.",
+      "Permettez-moi de reformuler : je ne comprends pas la question."
+    ],
+    "b2": [
+      "Permettez-moi de reformuler : nous devons trouver une solution plus rapide.",
+      "Permettez-moi de reformuler : le client n'est pas satisfait de la qualité actuelle.",
+      "Permettez-moi de reformuler : il est nécessaire de revoir notre budget annuel.",
+      "Permettez-moi de reformuler : nous ne pouvons pas accepter ces conditions de paiement.",
+      "Permettez-moi de reformuler : votre proposition manque de détails techniques."
+    ],
+    "c1": [
+      "Permettez-moi de reformuler : la viabilité de ce projet repose sur notre agilité.",
+      "Permettez-moi de reformuler : nous assistons à un changement de paradigme majeur.",
+      "Permettez-moi de reformuler : l'absence de consensus freine notre expansion internationale.",
+      "Permettez-moi de reformuler : il s'agit d'une optimisation structurelle et non budgétaire.",
+      "Permettez-moi de reformuler : la priorité est la mise en conformité réglementaire immédiate."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Ce que je voulais dire, c'était ...",
+    "kor": "제가 말하고 싶었던 것은 ...이었습니다.",
+    "b1": [
+      "Ce que je voulais dire, c'était que je t'aime.",
+      "Ce que je voulais dire, c'était que je suis désolé.",
+      "Ce que je voulais dire, c'était que c'est une bonne idée.",
+      "Ce que je voulais dire, c'était que je suis fatigué.",
+      "Ce que je voulais dire, c'était que j'ai besoin d'aide."
+    ],
+    "b2": [
+      "Ce que je voulais dire, c'était que nous manquons de temps pour finir.",
+      "Ce que je voulais dire, c'était que la réunion est annulée pour demain.",
+      "Ce que je voulais dire, c'était que vous avez fait un excellent travail.",
+      "Ce que je voulais dire, c'était que le prix est négociable sous conditions.",
+      "Ce que je voulais say, c'était que la sécurité est notre priorité absolue."
+    ],
+    "c1": [
+      "Ce que je voulais dire, c'était que l'impact socio-économique est sous-estimé.",
+      "Ce que je voulais dire, c'était que nous devons privilégier la croissance qualitative.",
+      "Ce que je voulais dire, c'était que la synergie entre les pôles est insuffisante.",
+      "Ce que je voulais dire, c'était que la pérennité du modèle est en jeu.",
+      "Ce que je voulais dire, c'était que l'innovation doit être au cœur de notre stratégie."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "L'état actuel est que ...",
+    "kor": "현재 상태는 ...입니다.",
+    "b1": [
+      "L'état actuel est que nous avons fini le projet.",
+      "L'état actuel est que le magasin est ouvert.",
+      "L'état actuel est que tout le monde est prêt.",
+      "L'état actuel est que le téléphone ne marche pas.",
+      "L'état actuel est que nous attendons le bus."
+    ],
+    "b2": [
+      "L'état actuel est que le budget a été approuvé par la direction.",
+      "L'état actuel est que les travaux avancent conformément au planning.",
+      "L'état actuel est que nous recherchons toujours un nouveau directeur.",
+      "L'état actuel est que le contrat est en cours de signature.",
+      "L'état actuel est que les serveurs sont temporairement hors ligne."
+    ],
+    "c1": [
+      "L'état actuel est que nous faisons face à une saturation du marché intérieur.",
+      "L'état actuel est que la phase de diagnostic est officiellement close.",
+      "L'état actuel est que les négociations sont au point mort pour l'instant.",
+      "L'état actuel est que nous opérons une transition vers le cloud intégral.",
+      "L'état actuel est que la conformité aux normes RGPD est assurée à 90 %."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "En d'autres termes, ...",
+    "kor": "다시 말하면, ...",
+    "b1": [
+      "En d'autres termes, c'est gratuit.",
+      "En d'autres termes, je ne peux pas venir.",
+      "En d'autres termes, c'est trop loin.",
+      "En d'autres termes, nous avons gagné.",
+      "En d'autres termes, c'est fini."
+    ],
+    "b2": [
+      "En d'autres termes, nous devons recommencer depuis le début.",
+      "En d'autres termes, votre candidature a été refusée pour ce poste.",
+      "En d'autres termes, il n'y a pas assez d'argent pour ce projet.",
+      "En d'autres termes, la qualité n'est pas au rendez-vous.",
+      "En d'autres termes, nous changeons complètement d'avis."
+    ],
+    "c1": [
+      "En d'autres termes, nous subissons une érosion de nos marges bénéficiaires.",
+      "En d'autres termes, le modèle économique actuel n'est plus viable.",
+      "En d'autres termes, l'innovation est le seul levier de croissance restant.",
+      "En d'autres termes, nous devons opérer une restructuration en profondeur.",
+      "En d'autres termes, la volatilité du marché impose une prudence extrême."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Juste pour s'assurer que nous sommes sur la même longueur d'onde, ...",
+    "kor": "우리가 같은 생각을 하고 있는지 확인하자면, ...",
+    "b1": [
+      "Juste pour s'assurer que nous sommes sur la même longueur d'onde, on part à 8h ?",
+      "Juste pour s'assurer que nous sommes sur la même longueur d'onde, c'est toi qui payes ?",
+      "Juste pour s'assurer que nous sommes sur la même longueur d'onde, on mange italien ?",
+      "Juste pour s'assurer que nous sommes sur la même longueur d'onde, c'est un secret ?",
+      "Juste pour s'assurer que nous sommes sur la même longueur d'onde, tu viens seul ?"
+    ],
+    "b2": [
+      "Juste pour s'assurer que nous sommes sur la même longueur d'onde, le rapport est pour lundi ?",
+      "Juste pour s'assurer que nous sommes sur la même longueur d'onde, vous acceptez le prix ?",
+      "Juste pour s'assurer que nous sommes sur la même longueur d'onde, l'objectif est d'augmenter les ventes ?",
+      "Juste pour s'assurer que nous sommes sur la même longueur d'onde, vous avez compris la consigne ?",
+      "Juste pour s'assurer que nous sommes sur la même longueur d'onde, le projet dure six mois ?"
+    ],
+    "c1": [
+      "Juste pour s'assurer que nous sommes sur la même longueur d'onde, la vision stratégique reste inchangée ?",
+      "Juste pour s'assurer que nous sommes sur la même longueur d'onde, les clauses de confidentialité s'appliquent ici ?",
+      "Juste pour s'assurer que nous sommes sur la même longueur d'onde, la fusion est toujours d'actualité ?",
+      "Juste pour s'assurer que nous sommes sur la même longueur d'onde, l'audit porte sur l'exercice précédent ?",
+      "Juste pour s'assurer que nous sommes sur la même longueur d'onde, la priorité est la réduction des risques ?"
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Cela confirme que ...",
+    "kor": "이것은 ...라는 점을 확인해 줍니다.",
+    "b1": [
+      "Cela confirme que tu as raison.",
+      "Cela confirme que le train est en retard.",
+      "Cela confirme que c'est une bonne idée.",
+      "Cela confirme que nous avons fini à temps.",
+      "Cela confirme que le magasin est fermé."
+    ],
+    "b2": [
+      "Cela confirme que notre stratégie marketing fonctionne très bien.",
+      "Cela confirme que les clients préfèrent ce nouveau design.",
+      "Cela confirme que nous avons besoin de plus de personnel cet été.",
+      "Cela confirme que la sécurité doit être améliorée dans l'usine.",
+      "Cela confirme que le budget est insuffisant pour l'année prochaine."
+    ],
+    "c1": [
+      "Cela confirme que les prévisions macroéconomiques étaient exactes.",
+      "Cela confirme que l'innovation est le moteur de notre compétitivité.",
+      "Cela confirme que la saturation du marché est une réalité tangible.",
+      "Cela confirme que notre politique de conformité est rigoureuse.",
+      "Cela confirme que la transformation numérique est une étape incontournable."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Permettez-moi de développer sur …",
+    "kor": "...에 대해 좀 더 상세히 설명하겠습니다.",
+    "b1": [
+      "Permettez-moi de développer sur mon voyage.",
+      "Permettez-moi de développer sur ma famille.",
+      "Permettez-moi de développer sur mon travail.",
+      "Permettez-moi de développer sur mes études.",
+      "Permettez-moi de développer sur ce livre."
+    ],
+    "b2": [
+      "Permettez-moi de développer sur les raisons de notre choix technique.",
+      "Permettez-moi de développer sur les avantages de ce nouveau logiciel.",
+      "Permettez-moi de développer sur le calendrier prévisionnel des travaux.",
+      "Permettez-moi de développer sur les résultats du dernier sondage client.",
+      "Permettez-moi de développer sur les modalités d'inscription au concours."
+    ],
+    "c1": [
+      "Permettez-moi de développer sur les implications éthiques de notre recherche.",
+      "Permettez-moi de développer sur les leviers de croissance à l'international.",
+      "Permettez-moi de développer sur les spécificités de la réglementation bancaire.",
+      "Permettez-moi de développer sur les conclusions de l'étude d'impact environnemental.",
+      "Permettez-moi de développer sur la synergie entre nos différents pôles d'expertise."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Les détails sont les suivants : ...",
+    "kor": "세부 사항은 다음과 같습니다: ...",
+    "b1": [
+      "Les détails sont les suivants : le prix est de dix euros.",
+      "Les détails sont les suivants : rendez-vous à midi.",
+      "Les détails sont les suivants : apportez votre livre.",
+      "Les détails sont les suivants : la fête est samedi soir.",
+      "Les détails sont les suivants : le cours est en ligne."
+    ],
+    "b2": [
+      "Les détails sont les suivants : le contrat dure trois ans renouvelables.",
+      "Les détails sont les suivants : le vol part à 8h de l'aéroport CDG.",
+      "Les détails sont les suivants : vous recevrez votre commande sous 48h.",
+      "Les détails sont les suivants : la formation aura lieu en salle B204.",
+      "Les détails sont les suivants : le paiement se fait par virement bancaire."
+    ],
+    "c1": [
+      "Les détails sont les suivants : la clause de non-concurrence s'applique mondialement.",
+      "Les détails sont les suivants : les actifs seront répartis entre les filiales.",
+      "Les détails sont les suivants : le protocole de sécurité doit être scrupuleusement suivi.",
+      "Les détails sont les suivants : les dividendes seront versés au prorata des parts sociales.",
+      "Les détails sont les suivants : le plan d'action opérationnel s'étalera sur dix-huit mois."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Le point important ici n'est pas ..., mais ...",
+    "kor": "여기서 중요한 점은 ...이 아니라 ...입니다.",
+    "b1": [
+      "Le point important ici n'est pas le prix, mais la qualité.",
+      "Le point important ici n'est pas le temps, mais le plaisir.",
+      "Le point important ici n'est pas de gagner, mais de participer.",
+      "Le point important ici n'est pas manger, mais se reposer.",
+      "Le point important ici n'est pas parler, mais écouter."
+    ],
+    "b2": [
+      "Le point important ici n'est pas la quantité, mais la satisfaction du client.",
+      "Le point important ici n'est pas l'erreur, mais comment nous la réparons.",
+      "Le point important ici n'est pas le passé, mais nos objectifs futurs.",
+      "Le point important ici n'est pas d'avoir raison, mais de trouver un accord.",
+      "Le point important ici n'est pas de travailler dur, mais de travailler intelligemment."
+    ],
+    "c1": [
+      "Le point important ici n'est pas la rentabilité immédiate, mais la pérennité stratégique.",
+      "Le point important ici n'est pas la forme, mais la cohérence structurelle du projet.",
+      "Le point important ici n'est pas la sanction, mais la prévention des risques juridiques.",
+      "Le point important ici n'est pas le produit, mais l'expérience utilisateur globale.",
+      "Le point important ici n'est pas la concurrence, mais notre propre capacité d'innovation."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Par exemple, considérez ...",
+    "kor": "예를 들어, ...을 고려해 보세요.",
+    "b1": [
+      "Par exemple, considérez ce beau temps.",
+      "Par exemple, considérez ce prix bas.",
+      "Par exemple, considérez cette voiture rouge.",
+      "Par exemple, considérez ton travail ici.",
+      "Par exemple, considérez ce restaurant italien."
+    ],
+    "b2": [
+      "Par exemple, considérez l'impact des réseaux sociaux sur les ventes.",
+      "Par exemple, considérez les avantages du télétravail pour les employés.",
+      "Par exemple, considérez la situation de nos concurrents directs.",
+      "Par exemple, considérez les changements climatiques récents.",
+      "Par exemple, considérez le succès de notre dernier produit."
+    ],
+    "c1": [
+      "Par exemple, considérez les répercussions d'une instabilité géopolitique sur nos prix.",
+      "Par exemple, considérez l'adoption massive de la technologie blockchain dans la finance.",
+      "Par exemple, considérez les implications éthiques du génie génétique.",
+      "Par exemple, considérez la corrélation entre éducation et croissance économique.",
+      "Par exemple, considérez la volatilité des marchés émergents sur les dix dernières années."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "L'essentiel est …",
+    "kor": "가장 중요한 것은 ...입니다.",
+    "b1": [
+      "L'essentiel est d'être heureux.",
+      "L'essentiel est de manger sainement.",
+      "L'essentiel est de finir son travail.",
+      "L'essentiel est d'être à l'heure.",
+      "L'essentiel est d'avoir des amis."
+    ],
+    "b2": [
+      "L'essentiel est que le projet soit rentable à long terme.",
+      "L'essentiel est de respecter les règles de sécurité.",
+      "L'essentiel est d'écouter les besoins de nos clients.",
+      "L'essentiel est de garder une attitude positive au travail.",
+      "L'essentiel est d'obtenir des résultats concrets."
+    ],
+    "c1": [
+      "L'essentiel est d'assurer la pérennité financière de l'institution.",
+      "L'essentiel est de maintenir notre intégrité face à l'adversité.",
+      "L'essentiel est de favoriser l'innovation par une culture de l'expérimentation.",
+      "L'essentiel est de garantir la transparence de nos processus de décision.",
+      "L'essentiel est d'anticiper les ruptures technologiques majeures."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Passons en revue les principales conclusions : ...",
+    "kor": "주요 결론을 검토해 봅시다: ...",
+    "b1": [
+      "Passons en revue les principales conclusions : nous avons fini.",
+      "Passons en revue les principales conclusions : c'est trop cher.",
+      "Passons en revue les principales conclusions : tout le monde est d'accord.",
+      "Passons en revue les principales conclusions : on part demain.",
+      "Passons en revue les principales conclusions : c'est un succès."
+    ],
+    "b2": [
+      "Passons en revue les principales conclusions : nous devons changer de fournisseur.",
+      "Passons en revue les principales conclusions : la campagne de pub est efficace.",
+      "Passons en revue les principales conclusions : le budget sera dépassé cette année.",
+      "Passons en revue les principales conclusions : les employés veulent plus de flexibilité.",
+      "Passons en revue les principales conclusions : la qualité s'est améliorée de 20 %."
+    ],
+    "c1": [
+      "Passons en revue les principales conclusions : l'audit confirme une saine gestion.",
+      "Passons en revue les principales conclusions : la fusion présente des synergies réelles.",
+      "Passons en revue les principales conclusions : le positionnement haut de gamme est validé.",
+      "Passons en revue les principales conclusions : la transition énergétique est irréversible.",
+      "Passons en revue les principales conclusions : la résilience opérationnelle est notre atout majeur."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Pour résumer la situation, ...",
+    "kor": "상황을 요약하자면, ...",
+    "b1": [
+      "Pour résumer la situation, nous sommes en retard.",
+      "Pour résumer la situation, nous n'avons plus d'argent.",
+      "Pour résumer la situation, le travail est fait.",
+      "Pour résumer la situation, tout va bien.",
+      "Pour résumer la situation, il y a un problème."
+    ],
+    "b2": [
+      "Pour résumer la situation, le marché est saturé et les prix baissent.",
+      "Pour résumer la situation, nous avons perdu notre client le plus important.",
+      "Pour résumer la situation, les nouveaux locaux sont presque prêts.",
+      "Pour résumer la situation, l'équipe manque de motivation actuellement.",
+      "Pour résumer la situation, nous avons besoin d'une nouvelle stratégie."
+    ],
+    "c1": [
+      "Pour résumer la situation, nous assistons à une convergence des crises économiques et sociales.",
+      "Pour résumer la situation, le diagnostic révèle des failles structurelles majeures.",
+      "Pour résumer la situation, l'expansion internationale est suspendue pour l'instant.",
+      "Pour résumer la situation, nous opérons dans un cadre réglementaire extrêmement instable.",
+      "Pour résumer la situation, la pérennité du modèle dépend de notre capacité à innover."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Ce que je comprends, c'est que ...",
+    "kor": "제가 이해한 바로는 ...입니다.",
+    "b1": [
+      "Ce que je comprends, c'est que tu es fatigué.",
+      "Ce que je comprends, c'est que le film est fini.",
+      "Ce que je comprends, c'est que nous devons partir.",
+      "Ce que je comprends, c'est que c'est difficile.",
+      "Ce que je comprends, c'est que tu es d'accord."
+    ],
+    "b2": [
+      "Ce que je comprends, c'est que le budget ne sera pas augmenté cette année.",
+      "Ce que je comprends, c'est que vous cherchez une personne plus expérimentée.",
+      "Ce que je comprends, c'est que le projet est reporté à une date ultérieure.",
+      "Ce que je comprends, c'est que la satisfaction client est en baisse.",
+      "Ce que je comprends, c'est que nous devons former l'équipe aux nouveaux outils."
+    ],
+    "c1": [
+      "Ce que je comprends, c'est que la viabilité stratégique repose sur notre agilité.",
+      "Ce que je comprends, c'est que l'optimisation fiscale est une priorité pour le groupe.",
+      "Ce que je comprends, c'est que vous préconisez un changement radical de gouvernance.",
+      "Ce que je comprends, c'est que l'impact environnemental est un critère éliminatoire.",
+      "Ce que je comprends, c'est que la synergie opérationnelle est insuffisante entre les pôles."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Juste pour être clair, …",
+    "kor": "분명히 하자면, ...",
+    "b1": [
+      "Juste pour être clair, c'est mon stylo.",
+      "Juste pour être clair, je ne viens pas ce soir.",
+      "Juste pour être clair, le rendez-vous est à midi.",
+      "Juste pour être clair, c'est interdit de fumer ici.",
+      "Juste pour être clair, je suis d'accord."
+    ],
+    "b2": [
+      "Juste pour être clair, ce n'est pas une promesse d'embauche immédiate.",
+      "Juste pour être clair, les frais de voyage ne sont pas remboursés.",
+      "Juste pour être clair, nous ne travaillerons plus avec ce fournisseur.",
+      "Juste pour être clair, vous devez porter un équipement de protection.",
+      "Juste pour être clair, le prix indiqué est hors taxes."
+    ],
+    "c1": [
+      "Juste pour être clair, mon aval est conditionné à une révision des clauses.",
+      "Juste pour être clair, il s'agit d'une recommandation et non d'une injonction.",
+      "Juste pour être clair, la pérennité du contrat dépend de ces résultats.",
+      "Juste pour être clair, nous n'assumerons aucune responsabilité juridique.",
+      "Juste pour être clair, l'audit sera exhaustif et portera sur les cinq dernières années."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Le résultat final était ...",
+    "kor": "최종 결과는 ...이었습니다.",
+    "b1": [
+      "Le résultat final était un succès.",
+      "Le résultat final était décevant.",
+      "Le résultat final était magnifique.",
+      "Le résultat final était un match nul.",
+      "Le résultat final était conforme à nos attentes."
+    ],
+    "b2": [
+      "Le résultat final était une augmentation de 10 % de notre chiffre d'affaires.",
+      "Le résultat final était la création d'un nouveau département marketing.",
+      "Le résultat final était un accord entre les deux parties après huit heures de discussion.",
+      "Le résultat final était l'annulation pure et simple du projet.",
+      "Le résultat final était la mise en place d'un système de recyclage efficace."
+    ],
+    "c1": [
+      "Le résultat final était une restructuration profonde de la gouvernance de l'entreprise.",
+      "Le résultat final était la validation par les autorités de régulation du marché.",
+      "Le résultat final était une amélioration substantielle de notre résilience opérationnelle.",
+      "Le résultat final était l'obtention d'une certification environnementale internationale.",
+      "Le résultat final était une fusion réussie malgré les obstacles culturels initiaux."
+    ]
+  }
+]

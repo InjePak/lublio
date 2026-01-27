@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Jeden Morgen mache ich gewöhnlich ...",
+    "kor": "매일 아침 저는 보통 ...을 합니다.",
+    "b1": [
+      "Jeden Morgen mache ich gewöhnlich mein Frühstück.",
+      "Jeden Morgen mache ich gewöhnlich eine kurze Pause.",
+      "Jeden Morgen mache ich gewöhnlich mein Bett.",
+      "Jeden Morgen mache ich gewöhnlich das Fenster auf.",
+      "Jeden Morgen mache ich gewöhnlich ein bisschen Sport."
+    ],
+    "b2": [
+      "Jeden Morgen mache ich gewöhnlich eine Liste mit meinen wichtigsten Aufgaben.",
+      "Jeden Morgen mache ich gewöhnlich Atemübungen, um mich zu konzentrieren.",
+      "Jeden Morgen mache ich gewöhnlich einen kurzen Spaziergang mit dem Hund.",
+      "Jeden Morgen mache ich gewöhnlich die Nachrichten an, um informiert zu bleiben.",
+      "Jeden Morgen mache ich gewöhnlich Dehnübungen für meinen Rücken."
+    ],
+    "c1": [
+      "Jeden Morgen mache ich gewöhnlich eine mentale Inventur meiner langfristigen Ziele.",
+      "Jeden Morgen mache ich gewöhnlich eine kurze Meditation zur Steigerung meiner Resilienz.",
+      "Jeden Morgen mache ich gewöhnlich Notizen in meinem Tagebuch über meine Träume.",
+      "Jeden Morgen mache ich gewöhnlich eine kritische Durchsicht der globalen Markttrends.",
+      "Jeden Morgen mache ich gewöhnlich Entspannungsübungen, um dem Alltagsstress vorzubeugen."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Ich neige dazu, ... wenn ...",
+    "kor": "...할 때 ...하는 경향이 있습니다.",
+    "b1": [
+      "Ich neige dazu, viel zu essen, wenn ich Hunger habe.",
+      "Ich neige dazu, müde zu sein, wenn ich viel arbeite.",
+      "Ich neige dazu, Musik zu hören, wenn ich traurig bin.",
+      "Ich neige dazu, schnell zu sprechen, wenn ich nervös bin.",
+      "Ich neige dazu, zu Hause zu bleiben, wenn es regnet."
+    ],
+    "b2": [
+      "Ich neige dazu, Aufgaben aufzuschieben, wenn sie zu komplex erscheinen.",
+      "Ich neige dazu, ungeduldig zu werden, wenn die Technik nicht funktioniert.",
+      "Ich neige dazu, mehr Kaffee zu trinken, wenn ich eine Deadline einhalten muss.",
+      "Ich neige dazu, mich zurückzuziehen, wenn ich zu viel sozialen Stress habe.",
+      "Ich neige dazu, Fehler zu machen, wenn ich unter Zeitdruck stehe."
+    ],
+    "c1": [
+      "Ich neige dazu, Situationen überzuanalysieren, wenn keine klaren Fakten vorliegen.",
+      "Ich neige dazu, perfektionistisch zu agieren, wenn ich ein Projekt leite.",
+      "Ich neige dazu, skeptisch zu reagieren, wenn Versprechen zu optimistisch klingen.",
+      "Ich neige dazu, meine Prioritäten neu zu bewerten, wenn sich die Umstände ändern.",
+      "Ich neige dazu, sehr akribisch zu arbeiten, wenn es um juristische Details geht."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "In der Regel ... ich nie.",
+    "kor": "대개 저는 절대 ...하지 않습니다.",
+    "b1": [
+      "In der Regel rauche ich nie.",
+      "In der Regel trinke ich nie Alkohol am Vormittag.",
+      "In der Regel esse ich nie Fleisch.",
+      "In der Regel vergesse ich nie meine Schlüssel.",
+      "In der Regel komme ich nie zu spät."
+    ],
+    "b2": [
+      "In der Regel arbeite ich nie am Wochenende, um mich zu erholen.",
+      "In der Regel treffe ich nie wichtige Entscheidungen ohne vorherige Überlegung.",
+      "In der Regel beantworte ich nie geschäftliche E-Mails nach 20 Uhr.",
+      "In der Regel kritisiere ich nie jemanden vor versammelter Mannschaft.",
+      "In der Regel gebe ich nie Geld aus, das ich noch nicht verdient habe."
+    ],
+    "c1": [
+      "In der Regel unterschätze ich nie die Komplexität soziokultureller Dynamiken.",
+      "In der Regel lasse ich mich nie von kurzfristigen Marktschwankungen beunruhigen.",
+      "In der Regel verlasse ich mich nie ausschließlich auf eine einzige Informationsquelle.",
+      "In der Regel toleriere ich nie einen Mangel an Transparenz in meinem Team.",
+      "In der Regel weiche ich nie von meinen ethischen Grundprinzipien ab."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Ich lege Wert darauf, mindestens einmal täglich ...",
+    "kor": "저는 적어도 하루에 한 번은 ...하는 것을 중요하게 생각합니다.",
+    "b1": [
+      "Ich lege Wert darauf, mindestens einmal täglich Wasser zu trinken.",
+      "Ich lege Wert darauf, mindestens einmal täglich meine Mutter anzurufen.",
+      "Ich lege Wert darauf, mindestens einmal täglich Deutsch zu üben.",
+      "Ich lege Wert darauf, mindestens einmal täglich draußen zu sein.",
+      "Ich lege Wert darauf, mindestens einmal täglich Obst zu essen."
+    ],
+    "b2": [
+      "Ich lege Wert darauf, mindestens einmal täglich meine E-Mails zu sortieren.",
+      "Ich lege Wert darauf, mindestens einmal täglich frische Luft zu schnappen.",
+      "Ich lege Wert darauf, mindestens einmal täglich etwas Neues zu lernen.",
+      "Ich lege Wert darauf, mindestens einmal täglich in Ruhe ein Buch zu lesen.",
+      "Ich lege Wert darauf, mindestens einmal täglich meine Ziele zu überprüfen."
+    ],
+    "c1": [
+      "Ich lege Wert darauf, mindestens einmal täglich meine kognitiven Fähigkeiten herauszufordern.",
+      "Ich lege Wert darauf, mindestens einmal täglich über den Tellerrand hinauszuschauen.",
+      "Ich lege Wert darauf, mindestens einmal täglich eine Phase der absoluten Stille zu genießen.",
+      "Ich lege Wert darauf, mindestens einmal täglich meine zwischenmenschlichen Beziehungen zu pflegen.",
+      "Ich lege Wert darauf, mindestens einmal täglich meine berufliche Strategie zu reflektieren."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Bevor irgendetwas anderes, ... ich immer.",
+    "kor": "다른 무엇보다 먼저, 저는 항상 ...을 합니다.",
+    "b1": [
+      "Bevor irgendetwas anderes, trinke ich immer einen Kaffee.",
+      "Bevor irgendetwas anderes, dusche ich immer.",
+      "Bevor irgendetwas anderes, putze ich immer meine Zähne.",
+      "Bevor irgendetwas anderes, füttere ich immer die Katze.",
+      "Bevor irgendetwas anderes, mache ich immer das Licht an."
+    ],
+    "b2": [
+      "Bevor irgendetwas anderes, prüfe ich immer meinen Terminkalender für den Tag.",
+      "Bevor irgendetwas anderes, lüfte ich immer das ganze Haus gründlich.",
+      "Bevor irgendetwas anderes, trinke ich immer ein großes Glas Wasser mit Zitrone.",
+      "Bevor irgendetwas anderes, schreibe ich immer eine kurze To-do-Liste.",
+      "Bevor irgendetwas anderes, checke ich immer die wichtigsten Schlagzeilen."
+    ],
+    "c1": [
+      "Bevor irgendetwas anderes, etabliere ich immer einen klaren Fokus für meine tägliche Arbeit.",
+      "Bevor irgendetwas anderes, widme ich mich immer einer kurzen Achtsamkeitsübung.",
+      "Bevor irgendetwas anderes, sichte ich immer die dringlichsten Korrespondenzen.",
+      "Bevor irgendetwas anderes, visualisiere ich immer den erfolgreichen Abschluss meiner Projekte.",
+      "Bevor irgendetwas anderes, stelle ich immer sicher, dass meine digitale Arbeitsumgebung geordnet ist."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Ich habe mir die Gewohnheit angeeignet, ...",
+    "kor": "저는 ...하는 습관을 들였습니다.",
+    "b1": [
+      "Ich habe mir die Gewohnheit angeeignet, früh schlafen zu gehen.",
+      "Ich habe mir die Gewohnheit angeeignet, viel Wasser zu trinken.",
+      "Ich habe mir die Gewohnheit angeeignet, jeden Tag zu kochen.",
+      "Ich habe mir die Gewohnheit angeeignet, öfter danke zu sagen.",
+      "Ich habe mir die Gewohnheit angeeignet, die Treppe zu nehmen."
+    ],
+    "b2": [
+      "Ich habe mir die Gewohnheit angeeignet, mir abends die Kleidung für den nächsten Tag herauszulegen.",
+      "Ich habe mir die Gewohnheit angeeignet, während der Arbeit regelmäßig kurze Pausen einzulegen.",
+      "Ich habe mir die Gewohnheit angeeignet, meine Ausgaben in einer App zu dokumentieren.",
+      "Ich habe mir die Gewohnheit angeeignet, Feedback nicht mehr persönlich zu nehmen.",
+      "Ich habe mir die Gewohnheit angeeignet, zweimal pro Woche zum Fitnessstudio zu gehen."
+    ],
+    "c1": [
+      "Ich habe mir die Gewohnheit angeeignet, komplexe Sachverhalte stets aus verschiedenen Perspektiven zu beleuchten.",
+      "Ich habe mir die Gewohnheit angeeignet, meine Komfortzone regelmäßig zu verlassen.",
+      "Ich habe mir die Gewohnheit angeeignet, proaktiv auf potenzielle Konflikte zuzugehen.",
+      "Ich habe mir die Gewohnheit angeeignet, Fachliteratur in Originalsprache zu konsumieren.",
+      "Ich habe mir die Gewohnheit angeeignet, meine Zeitressourcen nach dem Pareto-Prinzip zu managen."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Meine Routine beinhaltet typischerweise ...",
+    "kor": "제 일과는 일반적으로 ...을 포함합니다.",
+    "b1": [
+      "Meine Routine beinhaltet typischerweise Arbeit und Sport.",
+      "Meine Routine beinhaltet typischerweise Kochen und Essen.",
+      "Meine Routine beinhaltet typischerweise Lernen am Nachmittag.",
+      "Meine Routine beinhaltet typischerweise Einkaufen am Samstag.",
+      "Meine Routine beinhaltet typischerweise Fernsehen am Abend."
+    ],
+    "b2": [
+      "Meine Routine beinhaltet typischerweise eine Stunde intensives Sprachtraining.",
+      "Meine Routine beinhaltet typischerweise das Vorbereiten gesunder Mahlzeiten für die Woche.",
+      "Meine Routine beinhaltet typischerweise ein wöchentliches Meeting mit meinem Team.",
+      "Meine Routine beinhaltet typischerweise die Pflege meines Gartens am Wochenende.",
+      "Meine Routine beinhaltet typischerweise das Beantworten von Kundenanfragen am Vormittag."
+    ],
+    "c1": [
+      "Meine Routine beinhaltet typischerweise eine fundierte Analyse der aktuellen Wirtschaftslage.",
+      "Meine Routine beinhaltet typischerweise die kontinuierliche Optimierung meiner Arbeitsprozesse.",
+      "Meine Routine beinhaltet typischerweise den Austausch mit Experten aus verschiedenen Fachbereichen.",
+      "Meine Routine beinhaltet typischerweise Phasen des tiefen Arbeitens ohne jegliche Ablenkung.",
+      "Meine Routine beinhaltet typischerweise die kritische Evaluation meiner wöchentlichen Fortschritte."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Die meisten Abende ... ich.",
+    "kor": "대부분의 저녁에 저는 ...합니다.",
+    "b1": [
+      "Die meisten Abende lese ich.",
+      "Die meisten Abende koche ich zu Hause.",
+      "Die meisten Abende höre ich Musik.",
+      "Die meisten Abende treffe ich Freunde.",
+      "Die meisten Abende gehe ich spazieren."
+    ],
+    "b2": [
+      "Die meisten Abende entspanne ich mich bei einer interessanten Dokumentation.",
+      "Die meisten Abende bereite ich mich auf den kommenden Arbeitstag vor.",
+      "Die meisten Abende telefoniere ich mit meiner Familie im Ausland.",
+      "Die meisten Abende versuche ich, auf digitale Geräte zu verzichten.",
+      "Die meisten Abende gehe ich rechtzeitig ins Bett, um genug Schlaf zu bekommen."
+    ],
+    "c1": [
+      "Die meisten Abende reflektiere ich über die Ereignisse und Lektionen des Tages.",
+      "Die meisten Abende widme ich mich anspruchsvoller Literatur zur persönlichen Weiterentwicklung.",
+      "Die meisten Abende nutze ich für kreative Projekte außerhalb meines Berufsfeldes.",
+      "Die meisten Abende pflege ich mein berufliches Netzwerk durch informelle Gespräche.",
+      "Die meisten Abende praktiziere ich autogenes Training zur Stressbewältigung."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Was ich oft mache, ist ...",
+    "kor": "제가 자주 하는 것은 ...입니다.",
+    "b1": [
+      "Was ich oft mache, ist im Park laufen.",
+      "Was ich oft mache, ist Pizza backen.",
+      "Was ich oft mache, ist Fotos machen.",
+      "Was ich oft mache, ist Radio hören.",
+      "Was ich oft mache, ist Freunde besuchen."
+    ],
+    "b2": [
+      "Was ich oft mache, ist Podcasts über Psychologie zu hören.",
+      "Was ich oft mache, ist neue Rezepte aus aller Welt auszuprobieren.",
+      "Was ich oft mache, ist ehrenamtlich in einem Verein mitzuhelfen.",
+      "Was ich oft mache, ist meine Wohnung gründlich auszumisten.",
+      "Was ich oft mache, ist Kurztrips in die Natur zu planen."
+    ],
+    "c1": [
+      "Was ich oft mache, ist die Validität meiner eigenen Standpunkte infrage zu stellen.",
+      "Was ich oft mache, ist mich mit komplexen philosophischen Fragestellungen auseinanderzusetzen.",
+      "Was ich oft mache, ist innovative Lösungsansätze für bestehende Probleme zu entwerfen.",
+      "Was ich oft mache, ist mich in neue Softwareanwendungen autodidaktisch einzuarbeiten.",
+      "Was ich oft mache, ist die soziopolitischen Entwicklungen in verschiedenen Ländern zu vergleichen."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Ich lasse den Schritt des ... selten aus.",
+    "kor": "저는 ... 단계를 거의 거르지 않습니다.",
+    "b1": [
+      "Ich lasse den Schritt des Frühstücks selten aus.",
+      "Ich lasse den Schritt des Händewaschens selten aus.",
+      "Ich lasse den Schritt des Lernens selten aus.",
+      "Ich lasse den Schritt des Duschens selten aus.",
+      "Ich lasse den Schritt des Aufräumens selten aus."
+    ],
+    "b2": [
+      "Ich lasse den Schritt des Aufwärmens vor dem Sport selten aus.",
+      "Ich lasse den Schritt des Korrekturlesens bei E-Mails selten aus.",
+      "Ich lasse den Schritt des Sonnenschutzes am Morgen selten aus.",
+      "Ich lasse den Schritt der Planung am Wochenanfang selten aus.",
+      "Ich lasse den Schritt des Datenspeicherns selten aus."
+    ],
+    "c1": [
+      "Ich lasse den Schritt des kritischen Hinterfragens von Quellen selten aus.",
+      "Ich lasse den Schritt der gründlichen Recherche vor einer Präsentation selten aus.",
+      "Ich lasse den Schritt der Qualitätssicherung in meinen Projekten selten aus.",
+      "Ich lasse den Schritt der Selbstreflexion nach wichtigen Gesprächen selten aus.",
+      "Ich lasse den Schritt des Einholens einer Zweitmeinung selten aus."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Es ist ein tägliches Ritual für mich, ...",
+    "kor": "...은 저에게 일상의 의식과도 같습니다.",
+    "b1": [
+      "Es ist ein tägliches Ritual für mich, Kaffee zu trinken.",
+      "Es ist ein tägliches Ritual für mich, Musik zu hören.",
+      "Es ist ein tägliches Ritual für mich, spazieren zu gehen.",
+      "Es ist ein tägliches Ritual für mich, Tagebuch zu schreiben.",
+      "Es ist ein tägliches Ritual für mich, Obst zu essen."
+    ],
+    "b2": [
+      "Es ist ein tägliches Ritual für mich, abends meine Kerzen anzuzünden und zu entspannen.",
+      "Es ist ein tägliches Ritual für mich, morgens kalt zu duschen, um wach zu werden.",
+      "Es ist ein tägliches Ritual für mich, nach der Arbeit kurz zu meditieren.",
+      "Es ist ein tägliches Ritual für mich, beim Pendeln ein Hörbuch zu hören.",
+      "Es ist ein tägliches Ritual für mich, meine Pflanzen zu gießen und zu pflegen."
+    ],
+    "c1": [
+      "Es ist ein tägliches Ritual für mich, die Stille des frühen Morgens für geistige Arbeit zu nutzen.",
+      "Es ist ein tägliches Ritual für mich, meine persönliche Dankbarkeit schriftlich zu formulieren.",
+      "Es ist ein tägliches Ritual für mich, mich intensiv mit einer fremden Kultur zu beschäftigen.",
+      "Es ist ein tägliches Ritual für mich, meine physische und mentale Vitalität durch Yoga zu stärken.",
+      "Es ist ein tägliches Ritual für mich, eine bewusste Trennung zwischen Berufs- und Privatleben zu schaffen."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Normalerweise folge ich dem mit ...",
+    "kor": "보통 그 다음에 저는 ...을 합니다.",
+    "b1": [
+      "Normalerweise folge ich dem mit einem Kaffee.",
+      "Normalerweise folge ich dem mit der Arbeit.",
+      "Normalerweise folge ich dem mit dem Schlafen.",
+      "Normalerweise folge ich dem mit dem Essen.",
+      "Normalerweise folge ich dem mit dem Lernen."
+    ],
+    "b2": [
+      "Normalerweise folge ich dem mit einer kurzen Sporteinheit im Wohnzimmer.",
+      "Normalerweise folge ich dem mit dem Checken meiner Social-Media-Kanäle.",
+      "Normalerweise folge ich dem mit einer Tasse Kräutertee zur Entspannung.",
+      "Normalerweise folge ich dem mit dem Vorbereiten der Unterlagen für das Meeting.",
+      "Normalerweise folge ich dem mit einem Telefonat mit meinen besten Freunden."
+    ],
+    "c1": [
+      "Normalerweise folge ich dem mit einer systematischen Auswertung der erzielten Ergebnisse.",
+      "Normalerweise folge ich dem mit der Priorisierung der verbleibenden Tagesordnungspunkte.",
+      "Normalerweise folge ich dem mit einer vertieften Recherche zu den aufgekommenen Fragen.",
+      "Normalerweise folge ich dem mit einer konstruktiven Feedbackrunde im Kollegenkreis.",
+      "Normalerweise folge ich dem mit der Planung der nächsten strategischen Meilensteine."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Ohne Ausnahme, jeden ...",
+    "kor": "예외 없이, 매 ...마다",
+    "b1": [
+      "Ohne Ausnahme, jeden Montag gehe ich zum Sport.",
+      "Ohne Ausnahme, jeden Morgen trinke ich Wasser.",
+      "Ohne Ausnahme, jeden Abend putze ich meine Zähne.",
+      "Ohne Ausnahme, jeden Samstag kaufe ich ein.",
+      "Ohne Ausnahme, jeden Sonntag besuche ich meine Oma."
+    ],
+    "b2": [
+      "Ohne Ausnahme, jeden ersten Freitag im Monat treffen wir uns zum Stammtisch.",
+      "Ohne Ausnahme, jeden Vormittag erledige ich die schwierigste Aufgabe zuerst.",
+      "Ohne Ausnahme, jeden Abend reflektiere ich meine Erfolge des Tages.",
+      "Ohne Ausnahme, jeden Urlaub nehme ich mir mindestens ein Fachbuch mit.",
+      "Ohne Ausnahme, jeden Winter fahre ich in die Berge zum Skifahren."
+    ],
+    "c1": [
+      "Ohne Ausnahme, jeden Quartalsabschluss führe ich eine detaillierte Budgetanalyse durch.",
+      "Ohne Ausnahme, jeden Arbeitstag beginne ich mit einer klaren Zielsetzung.",
+      "Ohne Ausnahme, jeden Konflikt versuche ich durch einen sachlichen Dialog zu lösen.",
+      "Ohne Ausnahme, jeden neuen Trend im IT-Bereich verfolge ich mit großem Interesse.",
+      "Ohne Ausnahme, jeden Meilenstein feiere ich gemeinsam mit meinem Team."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Ich versuche ständig daran zu denken, ...",
+    "kor": "저는 항상 ...하는 것을 기억하려고 노력합니다.",
+    "b1": [
+      "Ich versuche ständig daran zu denken, mehr Wasser zu trinken.",
+      "Ich versuche ständig daran zu denken, pünktlich zu sein.",
+      "Ich versuche ständig daran zu denken, den Schlüssel mitzunehmen.",
+      "Ich versuche ständig daran zu denken, Deutsch zu sprechen.",
+      "Ich versuche ständig daran zu denken, das Licht auszuschalten."
+    ],
+    "b2": [
+      "Ich versuche ständig daran zu denken, meine Haltung am Schreibtisch zu verbessern.",
+      "Ich versuche ständig daran zu denken, Pausen für meine Augen einzulegen.",
+      "Ich versuche ständig daran zu denken, freundlich zu meinen Mitmenschen zu sein.",
+      "Ich versuche ständig daran zu denken, meine Passwörter regelmäßig zu ändern.",
+      "Ich versuche ständig daran zu denken, Plastikmüll so gut es geht zu vermeiden."
+    ],
+    "c1": [
+      "Ich versuche ständig daran zu denken, die langfristigen Konsequenzen meines Handelns zu bedenken.",
+      "Ich versuche ständig daran zu denken, die Perspektiven meiner Kontrahenten einzunehmen.",
+      "Ich versuche ständig daran zu denken, meine intrinsische Motivation aufrechtzuerhalten.",
+      "Ich versuche ständig daran zu denken, die Work-Life-Balance meines Teams zu schützen.",
+      "Ich versuche ständig daran zu denken, Wissen großzügig mit anderen zu teilen."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Meine Gewohnheit entwickelte sich, weil ...",
+    "kor": "제 습관은 ... 때문에 생겼습니다.",
+    "b1": [
+      "Meine Gewohnheit entwickelte sich, weil ich gesund sein wollte.",
+      "Meine Gewohnheit entwickelte sich, weil meine Mutter es mir gesagt hat.",
+      "Meine Gewohnheit entwickelte sich, weil ich Zeit sparen wollte.",
+      "Meine Gewohnheit entwickelte sich, weil es mir Spaß macht.",
+      "Meine Gewohnheit entwickelte sich, weil ich in Deutschland lebe."
+    ],
+    "b2": [
+      "Meine Gewohnheit entwickelte sich, weil ich gemerkt habe, dass ich morgens produktiver bin.",
+      "Meine Gewohnheit entwickelte sich, weil ich meinen Stresspegel senken musste.",
+      "Meine Gewohnheit entwickelte sich, weil ich mich beruflich weiterentwickeln wollte.",
+      "Meine Gewohnheit entwickelte sich, weil ich Vorbild für meine Kinder sein möchte.",
+      "Meine Gewohnheit entwickelte sich, weil ich durch regelmäßiges Training weniger Schmerzen habe."
+    ],
+    "c1": [
+      "Meine Gewohnheit entwickelte sich, weil ich die Notwendigkeit einer strukturierten Lebensweise erkannte.",
+      "Meine Gewohnheit entwickelte sich, weil ich nach einer effizienteren Methode des Wissenserwerbs suchte.",
+      "Meine Gewohnheit entwickelte sich, weil ich die Auswirkungen von Schlafmangel auf meine kognitive Leistung unterschätzt hatte.",
+      "Meine Gewohnheit entwickelte sich, weil ich eine resiliente Einstellung gegenüber Rückschlägen aufbauen wollte.",
+      "Meine Gewohnheit entwickelte sich, weil ich die Bedeutung von Achtsamkeit in einer hektischen Welt schätzen lernte."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Normalerweise reserviere ich Zeit für ...",
+    "kor": "보통 저는 ...을 위한 시간을 따로 떼어 둡니다.",
+    "b1": [
+      "Normalerweise reserviere ich Zeit für meine Freunde.",
+      "Normalerweise reserviere ich Zeit für Sport.",
+      "Normalerweise reserviere ich Zeit für meine Hausaufgaben.",
+      "Normalerweise reserviere ich Zeit für mein Hobby.",
+      "Normalerweise reserviere ich Zeit für das Kochen."
+    ],
+    "b2": [
+      "Normalerweise reserviere ich Zeit für die intensive Vorbereitung meiner Präsentationen.",
+      "Normalerweise reserviere ich Zeit für die Pflege meiner sozialen Kontakte am Wochenende.",
+      "Normalerweise reserviere ich Zeit für meine persönliche Weiterbildung am Abend.",
+      "Normalerweise reserviere ich Zeit für die Planung meiner nächsten Urlaubsreise.",
+      "Normalerweise reserviere ich Zeit für eine gründliche Reinigung meiner Wohnung am Samstag."
+    ],
+    "c1": [
+      "Normalerweise reserviere ich Zeit für die vertiefte Auseinandersetzung mit wissenschaftlichen Publikationen.",
+      "Normalerweise reserviere ich Zeit für das Mentoring von Nachwuchskräften in meiner Abteilung.",
+      "Normalerweise reserviere ich Zeit für die strategische Neuausrichtung meiner beruflichen Ziele.",
+      "Normalerweise reserviere ich Zeit für ehrenamtliches Engagement in meiner Gemeinde.",
+      "Normalerweise reserviere ich Zeit für die Pflege meiner kreativen und intellektuellen Interessen."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Es ist mir zur zweiten Natur geworden, ...",
+    "kor": "...은 이제 저에게 제2의 천성(습관)이 되었습니다.",
+    "b1": [
+      "Es ist mir zur zweiten Natur geworden, Deutsch zu sprechen.",
+      "Es ist mir zur zweiten Natur geworden, früh aufzustehen.",
+      "Es ist mir zur zweiten Natur geworden, immer danke zu sagen.",
+      "Es ist mir zur zweiten Natur geworden, die Schuhe auszuziehen.",
+      "Es ist mir zur zweiten Natur geworden, Wasser statt Saft zu trinken."
+    ],
+    "b2": [
+      "Es ist mir zur zweiten Natur geworden, meine E-Mails sofort zu archivieren.",
+      "Es ist mir zur zweiten Natur geworden, vor dem Schlafengehen den Tag Revue passieren zu lassen.",
+      "Es ist mir zur zweiten Natur geworden, beim Einkaufen auf regionale Produkte zu achten.",
+      "Es ist mir zur zweiten Natur geworden, Treppen statt den Aufzug zu nehmen.",
+      "Es ist mir zur zweiten Natur geworden, während Telefonaten Notizen zu machen."
+    ],
+    "c1": [
+      "Es ist mir zur zweiten Natur geworden, komplexe Probleme analytisch und strukturiert anzugehen.",
+      "Es ist mir zur zweiten Natur geworden, in stressigen Situationen Ruhe und Gelassenheit zu bewahren.",
+      "Es ist mir zur zweiten Natur geworden, die Bedürfnisse anderer in meine Entscheidungen miteinzubeziehen.",
+      "Es ist mir zur zweiten Natur geworden, meine Arbeitsergebnisse stets kritisch zu hinterfragen.",
+      "Es ist mir zur zweiten Natur geworden, lebenslanges Lernen als integralen Bestandteil meines Lebens zu sehen."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Mein typischer Arbeitstag beginnt mit ...",
+    "kor": "저의 전형적인 업무 일과는 ...으로 시작합니다.",
+    "b1": [
+      "Mein typischer Arbeitstag beginnt mit einem Kaffee.",
+      "Mein typischer Arbeitstag beginnt mit dem Computer.",
+      "Mein typischer Arbeitstag beginnt mit einer Besprechung.",
+      "Mein typischer Arbeitstag beginnt mit dem Telefon.",
+      "Mein typischer Arbeitstag beginnt mit der Fahrt ins Büro."
+    ],
+    "b2": [
+      "Mein typischer Arbeitstag beginnt mit dem Sichten und Beantworten dringender E-Mails.",
+      "Mein typischer Arbeitstag beginnt mit einem kurzen Stand-up-Meeting mit meinem Team.",
+      "Mein typischer Arbeitstag beginnt mit der Priorisierung meiner heutigen To-do-Liste.",
+      "Mein typischer Arbeitstag beginnt mit dem Lesen der wichtigsten Branchennachrichten.",
+      "Mein typischer Arbeitstag beginnt mit der Vorbereitung des ersten Kundentermins."
+    ],
+    "c1": [
+      "Mein typischer Arbeitstag beginnt mit einer fokussierten Analyse der gestrigen Kennzahlen.",
+      "Mein typischer Arbeitstag beginnt mit der Koordination der strategischen Aufgaben für die Woche.",
+      "Mein typischer Arbeitstag beginnt mit der Bearbeitung der komplexesten Herausforderung des Tages.",
+      "Mein typischer Arbeitstag beginnt mit einem inspirierenden Austausch über neue Innovationsansätze.",
+      "Mein typischer Arbeitstag beginnt mit der Definition der wesentlichen Kernziele für den heutigen Tag."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Ich versuche, ... so weit wie möglich zu vermeiden.",
+    "kor": "저는 가능한 한 ...을 피하려고 노력합니다.",
+    "b1": [
+      "Ich versuche, Zucker so weit wie möglich zu vermeiden.",
+      "Ich versuche, Stress so weit wie möglich zu vermeiden.",
+      "Ich versuche, Verspätungen so weit wie möglich zu vermeiden.",
+      "Ich versuche, Fehler so weit wie möglich zu vermeiden.",
+      "Ich versuche, Streit so weit wie möglich zu vermeiden."
+    ],
+    "b2": [
+      "Ich versuche, Plastikverpackungen beim Einkaufen so weit wie möglich zu vermeiden.",
+      "Ich versuche, unnötige Überstunden so weit wie möglich zu vermeiden.",
+      "Ich versuche, Ablenkungen durch das Smartphone während der Arbeit so weit wie möglich zu vermeiden.",
+      "Ich versuche, negative Gedanken über meine Zukunft so weit wie möglich zu vermeiden.",
+      "Ich versuche, Fast Food in meiner Ernährung so weit wie möglich zu vermeiden."
+    ],
+    "c1": [
+      "Ich versuche, kognitive Verzerrungen in meinen Entscheidungsprozessen so weit wie möglich zu vermeiden.",
+      "Ich versuche, Redundanzen in meiner Kommunikation so weit wie möglich zu vermeiden.",
+      "Ich versuche, die Prokrastination bei anspruchsvollen Projekten so weit wie möglich zu vermeiden.",
+      "Ich versuche, Dogmatismus in wissenschaftlichen Diskussionen so weit wie möglich zu vermeiden.",
+      "Ich versuche, eine einseitige Perspektive auf globale Konflikte so weit wie möglich zu vermeiden."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Das Letzte, was ich vor ... mache, ist ...",
+    "kor": "...하기 전에 마지막으로 하는 일은 ...입니다.",
+    "b1": [
+      "Das Letzte, was ich vor dem Schlafen mache, ist Zähne putzen.",
+      "Das Letzte, was ich vor der Arbeit mache, ist Schuhe anziehen.",
+      "Das Letzte, was ich vor dem Essen mache, ist Hände waschen.",
+      "Das Letzte, was ich vor der Reise mache, ist den Koffer packen.",
+      "Das Letzte, was ich vor dem Gehen mache, ist die Tür abschließen."
+    ],
+    "b2": [
+      "Das Letzte, was ich vor dem Schlafengehen mache, ist meinen Wecker für den nächsten Morgen zu stellen.",
+      "Das Letzte, was ich vor dem Verlassen des Hauses mache, ist zu prüfen, ob alle Fenster zu sind.",
+      "Das Letzte, was ich vor einem wichtigen Meeting mache, ist tief durchzuatmen.",
+      "Das Letzte, was ich vor dem Sport mache, ist genug Wasser zu trinken.",
+      "Das Letzte, was ich vor dem Wochenende mache, ist meinen Schreibtisch im Büro aufzuräumen."
+    ],
+    "c1": [
+      "Das Letzte, was ich vor einer großen Entscheidung mache, ist alle Alternativen noch einmal kritisch zu beleuchten.",
+      "Das Letzte, was ich vor dem Ende meines Arbeitstages mache, ist eine kurze Planung für den nächsten Morgen.",
+      "Das Letzte, was ich vor einer Präsentation mache, ist mich auf meine Kernbotschaft zu fokussieren.",
+      "Das Letzte, was ich vor dem Beginn eines neuen Projekts mache, ist die Ressourcen sorgfältig zu evaluieren.",
+      "Das Letzte, was ich vor dem Schlafengehen mache, ist eine kurze Dankbarkeitsmeditation zur mentalen Entspannung."
+    ]
+  }
+]

@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Ich erinnere mich, als ...",
+    "kor": "저는 ...했을 때가 기억나요.",
+    "b1": [
+      "Ich erinnere mich, als ich mein erstes Fahrrad bekam.",
+      "Ich erinnere mich, als wir zusammen im Urlaub waren.",
+      "Ich erinnere mich, als das Wetter im Sommer so heiß war.",
+      "Ich erinnere mich, als ich meine erste Deutschprüfung bestanden habe.",
+      "Ich erinnere mich, als wir jeden Tag im Park gespielt haben."
+    ],
+    "b2": [
+      "Ich erinnere mich, als ich zum ersten Mal allein in eine fremde Stadt gezogen bin.",
+      "Ich erinnere mich, als die Technologie begann, unseren Arbeitsalltag massiv zu verändern.",
+      "Ich erinnere mich, als ich vor der Herausforderung stand, eine Rede vor vielen Menschen zu halten.",
+      "Ich erinnere mich, als wir uns leidenschaftlich über politische Themen gestritten haben.",
+      "Ich erinnere mich, als ich die Entscheidung traf, meinen sicheren Job zu kündigen."
+    ],
+    "c1": [
+      "Ich erinnere mich, als die gesellschaftliche Stimmung aufgrund der Krise spürbar kippte.",
+      "Ich erinnere mich, als ich die tiefgreifende Bedeutung von zwischenmenschlichem Vertrauen begriff.",
+      "Ich erinnere mich, als die Grenzen zwischen beruflicher Ambition und privatem Glück verschwammen.",
+      "Ich erinnere mich, als die ersten Anzeichen einer globalen Transformation unübersehbar wurden.",
+      "Ich erinnere mich lebhaft daran, als ich mit der Vergänglichkeit meiner eigenen Ideale konfrontiert wurde."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Es war einmal, ...",
+    "kor": "옛날 옛적에 ... (이야기의 시작)",
+    "b1": [
+      "Es war einmal ein kleiner Junge, der im Wald wohnte.",
+      "Es war einmal eine schöne Prinzessin in einem Schloss.",
+      "Es war einmal ein Hund, der keine Freunde hatte.",
+      "Es war einmal ein armer Mann, der sehr glücklich war.",
+      "Es war einmal ein Dorf, in dem es immer regnete."
+    ],
+    "b2": [
+      "Es war einmal eine Zeit, in der die Menschen noch keine Smartphones besaßen.",
+      "Es war einmal ein visionärer Unternehmer, der die Welt verändern wollte.",
+      "Es war einmal eine kleine Firma, die durch eine innovative Idee weltberühmt wurde.",
+      "Es war einmal ein Dorf, das sich gegen den Bau einer Autobahn wehrte.",
+      "Es war einmal eine Gesellschaft, die großen Wert auf Zusammenhalt legte."
+    ],
+    "c1": [
+      "Es war einmal ein philosophisches Paradigma, das die gesamte wissenschaftliche Welt dominierte.",
+      "Es war einmal ein utopischer Entwurf einer Stadt, der an der menschlichen Natur scheiterte.",
+      "Es war einmal eine Ära des ungebremsten Optimismus, bevor die ökologischen Folgen sichtbar wurden.",
+      "Es war einmal ein intellektueller Diskurs, der die Grundfesten der Tradition erschütterte.",
+      "Es war einmal ein kulturelles Phänomen, dessen Ursprünge heute fast völlig in Vergessenheit geraten sind."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Die Geschichte beginnt mit ...",
+    "kor": "이야기는 ...로 시작합니다.",
+    "b1": [
+      "Die Geschichte beginnt mit einem Brief.",
+      "Die Geschichte beginnt mit einer Reise nach Berlin.",
+      "Die Geschichte beginnt mit einem kleinen Unfall.",
+      "Die Geschichte beginnt mit einem Treffen im Café.",
+      "Die Geschichte beginnt mit einem Geschenk von meiner Oma."
+    ],
+    "b2": [
+      "Die Geschichte beginnt mit einem mysteriösen Anruf mitten in der Nacht.",
+      "Die Geschichte beginnt mit einem Missverständnis zwischen zwei engen Freunden.",
+      "Die Geschichte beginnt mit dem mutigen Entschluss, alles hinter sich zu lassen.",
+      "Die Geschichte beginnt mit einer zufälligen Begegnung am Flughafen.",
+      "Die Geschichte beginnt mit der Entdeckung eines alten Tagebuchs auf dem Dachboden."
+    ],
+    "c1": [
+      "Die Geschichte beginnt mit einer subtilen Veränderung der politischen Rahmenbedingungen.",
+      "Die Geschichte beginnt mit der Dekonstruktion eines lang gehegten Mythos.",
+      "Die Geschichte beginnt mit einem moralischen Dilemma, das den Protagonisten zerreißt.",
+      "Die Geschichte beginnt mit der Konfrontation zwischen Tradition und radikaler Moderne.",
+      "Die Geschichte beginnt mit einer Reflexion über die Unausweichlichkeit des Schicksals."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Das erinnert mich an eine Zeit, als ...",
+    "kor": "그것은 저에게 ...했던 시절을 떠올리게 하네요.",
+    "b1": [
+      "Das erinnert mich an eine Zeit, als ich noch ein Kind war.",
+      "Das erinnert mich an eine Zeit, als wir kein Internet hatten.",
+      "Das erinnert mich an eine Zeit, als ich viel Sport gemacht habe.",
+      "Das erinnert mich an eine Zeit, als wir in Italien gewohnt haben.",
+      "Das erinnert mich an eine Zeit, als alles einfacher war."
+    ],
+    "b2": [
+      "Das erinnert mich an eine Zeit, als die Arbeitslosenquote extrem hoch war.",
+      "Das erinnert mich an eine Zeit, als wir uns ohne soziale Medien verabreden mussten.",
+      "Das erinnert mich an eine Zeit, als ich vor einer schwierigen beruflichen Entscheidung stand.",
+      "Das erinnert mich an eine Zeit, als die Umweltbewegung gerade erst anfing.",
+      "Das erinnert mich an eine Zeit, als ich meine Leidenschaft für die Fotografie entdeckte."
+    ],
+    "c1": [
+      "Das erinnert mich an eine Zeit, als der intellektuelle Austausch noch von gegenseitigem Respekt geprägt war.",
+      "Das erinnert mich an eine Zeit, als die sozioökonomische Instabilität das tägliche Leben dominierte.",
+      "Das erinnert mich an eine Zeit, als wir die Auswirkungen der Globalisierung noch euphorisch begrüßten.",
+      "Das erinnert mich an eine Zeit, als die Grenzen zwischen Fiktion und Realität zu verschwimmen begannen.",
+      "Das erinnert mich an eine Zeit, als die ethischen Implikationen des Fortschritts kaum hinterfragt wurden."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Lass mich dir von ... erzählen.",
+    "kor": "...에 대해 이야기해 줄게.",
+    "b1": [
+      "Lass mich dir von meinem neuen Hund erzählen.",
+      "Lass mich dir von meinem Urlaub in Spanien erzählen.",
+      "Lass mich dir von meiner Schule erzählen.",
+      "Lass mich dir von meinem Hobby erzählen.",
+      "Lass mich dir von meiner Familie erzählen."
+    ],
+    "b2": [
+      "Lass mich dir von meinem aufregenden Auslandsjahr in Japan erzählen.",
+      "Lass mich dir von dem Projekt erzählen, an dem ich gerade arbeite.",
+      "Lass mich dir von einer merkwürdigen Begegnung im Zug erzählen.",
+      "Lass mich dir von den Schwierigkeiten beim Hausbau erzählen.",
+      "Lass mich dir von meinem Erfolg bei der letzten Meisterschaft erzählen."
+    ],
+    "c1": [
+      "Lass mich dir von der komplexen Dynamik innerhalb unseres Forschungsteams erzählen.",
+      "Lass mich dir von den tiefgreifenden Erkenntnissen meiner letzten Studienreise erzählen.",
+      "Lass mich dir von den moralischen Hürden bei der Umsetzung dieser Reform erzählen.",
+      "Lass mich dir von der ambivalenten Wahrnehmung dieses Kunstwerkes erzählen.",
+      "Lass mich dir von den soziologischen Hintergründen dieses Phänomens erzählen."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Wir waren gerade dabei, ... als plötzlich ...",
+    "kor": "우리가 막 ...하려던 참이었는데, 갑자기 ...",
+    "b1": [
+      "Wir waren gerade dabei zu essen, als plötzlich das Telefon klingelte.",
+      "Wir waren gerade dabei zu gehen, als plötzlich der Regen anfing.",
+      "Wir waren gerade dabei den Film zu sehen, als plötzlich das Licht ausging.",
+      "Wir waren gerade dabei zu spielen, als plötzlich mein Vater kam.",
+      "Wir waren gerade dabei zu kochen, als plötzlich das Wasser fehlte."
+    ],
+    "b2": [
+      "Wir waren gerade dabei die Präsentation zu starten, als plötzlich die Technik versagte.",
+      "Wir were gerade dabei den Vertrag zu unterschreiben, als plötzlich neue Zweifel aufkamen.",
+      "Wir waren gerade dabei den Berg zu besteigen, als plötzlich ein Sturm aufzog.",
+      "Wir waren gerade dabei das Problem zu lösen, als plötzlich eine neue Schwierigkeit auftrat.",
+      "Wir waren gerade dabei das Fest zu eröffnen, als plötzlich ein Ehrengast eintraf."
+    ],
+    "c1": [
+      "Wir waren gerade dabei die Hypothese zu verifizieren, als plötzlich ein unerwartetes Datenrauschen auftrat.",
+      "Wir waren gerade dabei den Konsens zu formulieren, als plötzlich eine kontroverse Debatte entbrannte.",
+      "Wir waren gerade dabei die Strategie zu implementieren, als plötzlich die Marktbedingungen kollabierten.",
+      "Wir waren gerade dabei die Verhandlungen abzuschließen, als plötzlich neue geopolitische Spannungen entstanden.",
+      "Wir waren gerade dabei das Manuskript zu veröffentlichen, als plötzlich brisante Informationen auftauchten."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Und dann geschah das Unerwartetste: ...",
+    "kor": "그리고 그때 가장 예상치 못한 일이 일어났어요: ...",
+    "b1": [
+      "Und dann geschah das Unerwartetste: Er kam zurück.",
+      "Und dann geschah das Unerwartetste: Ich habe gewonnen.",
+      "Und dann geschah das Unerwartetste: Die Sonne schien plötzlich.",
+      "Und dann geschah das Unerwartetste: Er hat gelacht.",
+      "Und dann geschah das Unerwartetste: Die Katze sprach."
+    ],
+    "b2": [
+      "Und dann geschah das Unerwartetste: Wir fanden den verloren geglaubten Schlüssel in der Tiefkühltruhe.",
+      "Und dann geschah das Unerwartetste: Mein Chef bot mir plötzlich eine Beförderung an.",
+      "Und dann geschah das Unerwartetste: Der schüchterne Kollege hielt die beste Rede des Abends.",
+      "Und dann geschah das Unerwartetste: Die alte Maschine funktionierte plötzlich wieder einwandfrei.",
+      "Und dann geschah das Unerwartetste: Der Fremde stellte sich als ein alter Schulfreund heraus."
+    ],
+    "c1": [
+      "Und dann geschah das Unerwartetste: Die eigentlich sicher geglaubte Investition erwies sich als Totalverlust.",
+      "Und dann geschah das Unerwartetste: Eine völlig unbekannte Variable veränderte das gesamte Testergebnis.",
+      "Und dann geschah das Unerwartetste: Die öffentliche Meinung wendete sich innerhalb weniger Stunden.",
+      "Und dann geschah das Unerwartetste: Ein simpler Programmierfehler legte das gesamte Netzwerk lahm.",
+      "Und dann geschah das Unerwartetste: Die Protagonisten fanden eine Lösung, die alle logischen Erwartungen übertraf."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Ich werde den Moment nie vergessen, als ...",
+    "kor": "저는 ...했던 그 순간을 결코 잊지 못할 거예요.",
+    "b1": [
+      "Ich werde den Moment nie vergessen, als ich dich zum ersten Mal sah.",
+      "Ich werde den Moment nie vergessen, als wir am Meer waren.",
+      "Ich werde den Moment nie vergessen, als ich mein Diplom bekam.",
+      "Ich werde den Moment nie vergessen, als wir das Tor geschossen haben.",
+      "Ich werde den Moment nie vergessen, als ich in meine erste Wohnung einzog."
+    ],
+    "b2": [
+      "Ich werde den Moment nie vergessen, als ich die Nachricht von meiner Zusage erhielt.",
+      "Ich werde den Moment nie vergessen, als wir den Gipfel nach zehn Stunden Aufstieg erreichten.",
+      "Ich werde den Moment nie vergessen, als mir klar wurde, dass ich meinen Traum verwirklichen kann.",
+      "Ich werde den Moment nie vergessen, als das gesamte Publikum plötzlich aufstand und applaudierte.",
+      "Ich werde den Moment nie vergessen, als ich zum ersten Mal mein neugeborenes Kind im Arm hielt."
+    ],
+    "c1": [
+      "Ich werde den Moment nie vergessen, als die existenzielle Tragweite meiner Entscheidung offensichtlich wurde.",
+      "Ich werde den Moment nie vergessen, als die akademische Anerkennung meine jahrelange Arbeit krönte.",
+      "Ich werde den Moment nie vergessen, als die Stille im Saal eine fast greifbare Intensität annahm.",
+      "Ich werde den Moment nie vergessen, als ich die Zerbrechlichkeit unserer zivilisatorischen Errungenschaften erkannte.",
+      "Ich werde den Moment nie vergessen, als eine einzige Geste der Menschlichkeit alle Vorurteile entkräftete."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Zuerst dachte ich ..., aber später wurde mir klar, ...",
+    "kor": "처음에는 ...라고 생각했지만, 나중에는 ...라는 것을 깨달았어요.",
+    "b1": [
+      "Zuerst dachte ich, Deutsch ist schwer, aber später wurde mir klar, dass es Spaß macht.",
+      "Zuerst dachte ich, er ist unfreundlich, aber später wurde mir klar, dass er nur schüchtern ist.",
+      "Zuerst dachte ich, ich habe den Schlüssel verloren, aber später wurde mir klar, dass er in der Tasche ist.",
+      "Zuerst dachte ich, der Film ist langweilig, aber später wurde mir klar, wie gut er ist.",
+      "Zuerst dachte ich, ich bin allein, aber später wurde mir klar, dass meine Freunde da sind."
+    ],
+    "b2": [
+      "Zuerst dachte ich, das Projekt sei unmöglich, aber später wurde mir klar, dass wir nur mehr Zeit brauchten.",
+      "Zuerst dachte ich, Geld sei das Wichtigste, aber später wurde mir klar, dass Gesundheit vorgeht.",
+      "Zuerst dachte ich, die Technik sei kompliziert, aber später wurde mir klar, wie intuitiv sie ist.",
+      "Zuerst dachte ich, ich hätte einen Fehler gemacht, aber später wurde mir klar, dass es eine Chance war.",
+      "Zuerst dachte ich, das Dorf sei zu ruhig, aber später wurde mir klar, wie sehr ich die Stille genieße."
+    ],
+    "c1": [
+      "Zuerst dachte ich, die Theorie sei lückenlos, aber später wurde mir klar, dass signifikante Faktoren fehlten.",
+      "Zuerst dachte ich, die Reform sei kontraproduktiv, aber später wurde mir klar, welche positiven Synergien sie freisetzt.",
+      "Zuerst dachte ich, die Kommunikation sei gescheitert, aber später wurde mir klar, dass ein tieferes Verständnis entstanden war.",
+      "Zuerst dachte ich, die Innovation sei nur ein Hype, aber später wurde mir klar, dass sie das gesamte Paradigma verschiebt.",
+      "Zuerst dachte ich, die Isolation sei eine Strafe, aber später wurde mir klar, dass sie der notwendigen Introspektion diente."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Alles änderte sich nach ...",
+    "kor": "... 이후에 모든 것이 변했습니다.",
+    "b1": [
+      "Alles änderte sich nach meinem Umzug.",
+      "Alles änderte sich nach dem Unfall.",
+      "Alles änderte sich nach dem Treffen mit ihr.",
+      "Alles änderte sich nach der Schule.",
+      "Alles änderte sich nach diesem Urlaub."
+    ],
+    "b2": [
+      "Alles änderte sich nach der Einführung der neuen Gesetze.",
+      "Alles änderte sich nach dem plötzlichen Tod des Firmengründers.",
+      "Alles änderte sich nach meiner Entscheidung, ins Ausland zu gehen.",
+      "Alles änderte sich nach der großen Wirtschaftskrise.",
+      "Alles änderte sich nach der Entdeckung dieser neuen Technologie."
+    ],
+    "c1": [
+      "Alles änderte sich nach der Veröffentlichung der brisanten Enthüllungsberichte.",
+      "Alles änderte sich nach dem Paradigmenwechsel innerhalb der Führungsetage.",
+      "Alles änderte sich nach der Eskalation der diplomatischen Spannungen.",
+      "Alles änderte sich nach der Erkenntnis, dass das bisherige Wachstum nicht nachhaltig war.",
+      "Alles änderte sich nach der Implementierung der radikalen sozioökonomischen Reformen."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Bevor ich mich versah, ...",
+    "kor": "어느샌가 / 정신을 차리기도 전에, ...",
+    "b1": [
+      "Bevor ich mich versah, war der Tag schon zu Ende.",
+      "Bevor ich mich versah, hatte ich den Bus verpasst.",
+      "Bevor ich mich versah, war das Essen fertig.",
+      "Bevor ich mich versah, war der Urlaub vorbei.",
+      "Bevor ich mich versah, hatte ich alles vergessen."
+    ],
+    "b2": [
+      "Bevor ich mich versah, steckte ich mitten in einer hitzigen Diskussion.",
+      "Bevor ich mich versah, war ich für das gesamte Projekt verantwortlich.",
+      "Bevor ich mich versah, hatte sich die Situation komplett gedreht.",
+      "Bevor ich mich versah, war das Jahr vergangen und ich hatte meine Ziele erreicht.",
+      "Bevor ich mich versah, war aus der kleinen Idee ein großes Unternehmen geworden."
+    ],
+    "c1": [
+      "Bevor ich mich versah, war ich in einen Strudel aus bürokratischen Hindernissen geraten.",
+      "Bevor ich mich versah, hatten die algorithmischen Prozesse die menschliche Kontrolle überholt.",
+      "Bevor ich mich versah, war die subtile Manipulation zu einer manifesten Bedrohung geworden.",
+      "Bevor ich mich versah, befand ich mich im Zentrum eines globalen Medienskandals.",
+      "Bevor ich mich versah, waren die ethischen Bedenken pragmatischen Erwägungen gewichen."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Die ganze Erfahrung lehrte mich, ...",
+    "kor": "그 모든 경험은 저에게 ...라는 것을 가르쳐 주었습니다.",
+    "b1": [
+      "Die ganze Erfahrung lehrte mich, geduldig zu sein.",
+      "Die ganze Erfahrung lehrte mich, dass Freunde wichtig sind.",
+      "Die ganze Erfahrung lehrte mich, mehr zu lernen.",
+      "Die ganze Erfahrung lehrte mich, vorsichtig zu sein.",
+      "Die ganze Erfahrung lehrte mich, dass das Leben schön ist."
+    ],
+    "b2": [
+      "Die ganze Erfahrung lehrte mich, dass man niemals aufgeben darf.",
+      "Die ganze Erfahrung lehrte mich, wie wichtig gute Vorbereitung ist.",
+      "Die ganze Erfahrung lehrte mich, anderen Menschen mit Offenheit zu begegnen.",
+      "Die ganze Erfahrung lehrte mich, meine eigenen Grenzen zu respektieren.",
+      "Die ganze Erfahrung lehrte mich, dass Teamarbeit oft effektiver ist als Einzelarbeit."
+    ],
+    "c1": [
+      "Die ganze Erfahrung lehrte mich, die Ambivalenz der menschlichen Natur zu akzeptieren.",
+      "Die ganze Erfahrung lehrte mich, dass radikale Veränderungen oft im Stillen beginnen.",
+      "Die ganze Erfahrung lehrte mich die Notwendigkeit einer kritischen Selbstreflexion.",
+      "Die ganze Erfahrung lehrte mich, dass moralische Integrität unbezahlbar ist.",
+      "Die ganze Erfahrung lehrte mich, die Komplexität globaler Zusammenhänge differenzierter zu betrachten."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Das Erste, was passierte, war ...",
+    "kor": "가장 먼저 일어난 일은 ...였어요.",
+    "b1": [
+      "Das Erste, was passierte, war ein lautes Geräusch.",
+      "Das Erste, was passierte, war, dass er mich anrief.",
+      "Das Erste, was passierte, war das Frühstück.",
+      "Das Erste, was passierte, war, dass wir uns trafen.",
+      "Das Erste, was passierte, war die Abfahrt des Zuges."
+    ],
+    "b2": [
+      "Das Erste, was passierte, war der totale Ausfall der Stromversorgung im ganzen Gebäude.",
+      "Das Erste, was passierte, war eine hitzige Debatte über die neuen Sicherheitsvorschriften.",
+      "Das Erste, was passierte, war, dass alle Gäste gleichzeitig den Raum betraten.",
+      "Das Erste, was passierte, war die Erkenntnis, dass wir am falschen Ort waren.",
+      "Das Erste, was passierte, war die Veröffentlichung einer offiziellen Stellungnahme."
+    ],
+    "c1": [
+      "Das Erste, was passierte, war die Defragmentierung der bestehenden Organisationsstrukturen.",
+      "Das Erste, was passierte, war eine unmittelbare Reaktion der Finanzmärkte auf die Nachricht.",
+      "Das Erste, was passierte, war die Infragestellung der bisherigen wissenschaftlichen Axiome.",
+      "Das Erste, was passierte, war die Mobilisierung zivilgesellschaftlicher Kräfte gegen das Vorhaben.",
+      "Das Erste, was passierte, war eine kaskadenartige Ausweitung der ursprünglichen Problematik."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Wenn ich jetzt zurückblicke, sehe ich, dass ...",
+    "kor": "지금 돌이켜보니, ...라는 것을 알겠어요.",
+    "b1": [
+      "Wenn ich jetzt zurückblicke, sehe ich, dass ich glücklich war.",
+      "Wenn ich jetzt zurückblicke, sehe ich, dass es ein Fehler war.",
+      "Wenn ich jetzt zurückblicke, sehe ich, dass ich viel gelernt habe.",
+      "Wenn ich jetzt zurückblicke, sehe ich, dass du recht hattest.",
+      "Wenn ich jetzt zurückblicke, sehe ich, dass die Zeit schnell verging."
+    ],
+    "b2": [
+      "Wenn ich jetzt zurückblicke, sehe ich, dass diese Krise notwendig für mein persönliches Wachstum war.",
+      "Wenn ich jetzt zurückblicke, sehe ich, dass wir damals sehr naiv waren.",
+      "Wenn ich jetzt zurückblicke, sehe ich, dass die kleinen Momente die wichtigsten waren.",
+      "Wenn ich jetzt zurückblicke, sehe ich, dass die harte Arbeit sich gelohnt hat.",
+      "Wenn ich jetzt zurückblicke, sehe ich, dass wir die Warnsignale ignoriert haben."
+    ],
+    "c1": [
+      "Wenn ich jetzt zurückblicke, sehe ich, dass die kausalen Zusammenhänge weitaus komplexer waren.",
+      "Wenn ich jetzt zurückblicke, sehe ich, dass die Weichenstellung damals alternativlos war.",
+      "Wenn ich jetzt zurückblicke, sehe ich, wie sehr die zeitgenössischen Diskurse mein Handeln prägten.",
+      "Wenn ich jetzt zurückblicke, sehe ich, dass die vermeintliche Stabilität nur eine Illusion war.",
+      "Wenn ich jetzt zurückblicke, sehe ich die ethische Tragweite der damaligen Versäumnisse deutlich."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Ich fühlte mich völlig ...",
+    "kor": "저는 완전히 ...한 기분이었어요.",
+    "b1": [
+      "Ich fühlte mich völlig müde nach der Arbeit.",
+      "Ich fühlte mich völlig glücklich über das Geschenk.",
+      "Ich fühlte mich völlig allein im dunklen Zimmer.",
+      "Ich fühlte mich völlig frei im Urlaub.",
+      "Ich fühlte mich völlig krank am Montag."
+    ],
+    "b2": [
+      "Ich fühlte mich völlig überfordert mit der neuen Situation im Büro.",
+      "Ich fühlte mich völlig missverstanden während der Diskussion.",
+      "Ich fühlte mich völlig motiviert, das neue Projekt zu starten.",
+      "Ich fühlte mich völlig erleichtert, als die Prüfung vorbei war.",
+      "Ich fühlte mich völlig hilflos, als ich den Schlüssel im Auto sah."
+    ],
+    "c1": [
+      "Ich fühlte mich völlig isoliert in meiner wissenschaftlichen Überzeugung.",
+      "Ich fühlte mich völlig desillusioniert angesichts der politischen Entwicklungen.",
+      "Ich fühlte mich völlig euphorisiert durch die intellektuelle Synergie des Austauschs.",
+      "Ich fühlte mich völlig gelähmt durch die moralische Schwere der Entscheidung.",
+      "Ich fühlte mich völlig entfremdet von der herrschenden gesellschaftlichen Norm."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Das war der Moment, als ...",
+    "kor": "그때가 바로 ...했던 순간이었어요.",
+    "b1": [
+      "Das war der Moment, als ich den Bus sah.",
+      "Das war der Moment, als sie lachte.",
+      "Das war der Moment, als das Licht anging.",
+      "Das war der Moment, als ich Hunger bekam.",
+      "Das war der Moment, als wir ankamen."
+    ],
+    "b2": [
+      "Das war der Moment, als mir klar wurde, dass ich meinen Job kündigen muss.",
+      "Das war der Moment, als die Wahrheit endlich ans Licht kam.",
+      "Das war der Moment, als wir als Team endlich zusammenfanden.",
+      "Das war der Moment, als der Groschen fiel und ich die Lösung verstand.",
+      "Das war der Moment, als die gesamte Planung über den Haufen geworfen wurde."
+    ],
+    "c1": [
+      "Das war der Moment, als die epistemologische Krise ihren Höhepunkt erreichte.",
+      "Das war der Moment, als die fragile Balance zwischen Macht und Moral zerbrach.",
+      "Das war der Moment, als die gesellschaftliche Akzeptanz für das Projekt schwand.",
+      "Das war der Moment, als die technologische Singularität greifbar nahe schien.",
+      "Das war der Moment, als die historische Relevanz unseres Handelns offensichtlich wurde."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Um es kurz zu machen, ...",
+    "kor": "요약하자면 / 짧게 말하자면, ...",
+    "b1": [
+      "Um es kurz zu machen, wir sind nach Hause gegangen.",
+      "Um es kurz zu machen, das Auto ist kaputt.",
+      "Um es kurz zu machen, er kommt nicht.",
+      "Um es kurz zu machen, der Urlaub war schön.",
+      "Um es kurz zu machen, ich habe den Job."
+    ],
+    "b2": [
+      "Um es kurz zu machen, das gesamte Projekt war ein riesiger Erfolg.",
+      "Um es kurz zu machen, wir mussten den Termin leider absagen.",
+      "Um es kurz zu machen, es gab viele Probleme, aber wir haben sie gelöst.",
+      "Um es kurz zu machen, die Verhandlungen sind gescheitert.",
+      "Um es kurz zu machen, die neue Strategie funktioniert besser als erwartet."
+    ],
+    "c1": [
+      "Um es kurz zu machen, die ökonomische Effizienz rechtfertigt nicht die ökologischen Kosten.",
+      "Um es kurz zu machen, die empirischen Daten widersprechen der ursprünglichen Hypothese.",
+      "Um es kurz zu machen, eine systemische Reform ist unumgänglich geworden.",
+      "Um es kurz zu machen, die ethische Vertretbarkeit des Vorhabens bleibt fragwürdig.",
+      "Um es kurz zu machen, die Diskrepanz zwischen Anspruch und Wirklichkeit war zu groß."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Die Atmosphäre war sehr ...",
+    "kor": "분위기가 매우 ...했어요.",
+    "b1": [
+      "Die Atmosphäre war sehr gut auf der Party.",
+      "Die Atmosphäre war sehr ruhig im Wald.",
+      "Die Atmosphäre war sehr kalt im Zimmer.",
+      "Die Atmosphäre war sehr lustig beim Essen.",
+      "Die Atmosphäre war sehr traurig im Film."
+    ],
+    "b2": [
+      "Die Atmosphäre war sehr angespannt während der Verhandlung.",
+      "Die Atmosphäre war sehr feierlich bei der Eröffnung des neuen Gebäudes.",
+      "Die Atmosphäre war sehr inspirierend bei dem Workshop.",
+      "Die Atmosphäre war sehr freundschaftlich trotz der Konkurrenz.",
+      "Die Atmosphäre war sehr drückend wegen des bevorstehenden Sturms."
+    ],
+    "c1": [
+      "Die Atmosphäre war sehr kontrovers aufgrund der gegensätzlichen Standpunkte.",
+      "Die Atmosphäre war sehr unterkühlt durch die mangelnde Transparenz der Führung.",
+      "Die Atmosphäre war sehr euphorisch angesichts des wissenschaftlichen Durchbruchs.",
+      "Die Atmosphäre war sehr andächtig während der Gedenkzeremonie.",
+      "Die Atmosphäre war sehr geladen mit Erwartungen an die künftige Entwicklung."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Wenn ich es mit einem Wort beschreiben müsste, würde ich sagen ...",
+    "kor": "한 마디로 표현해야 한다면, ...라고 하겠어요.",
+    "b1": [
+      "Wenn ich es mit einem Wort beschreiben müsste, würde ich sagen: schön.",
+      "Wenn ich es mit einem Wort beschreiben müsste, würde ich sagen: schwer.",
+      "Wenn ich es mit einem Wort beschreiben müsste, würde ich sagen: laut.",
+      "Wenn ich es mit einem Wort beschreiben müsste, würde ich sagen: toll.",
+      "Wenn ich es mit einem Wort beschreiben müsste, würde ich sagen: teuer."
+    ],
+    "b2": [
+      "Wenn ich es mit einem Wort beschreiben müsste, würde ich sagen: lehrreich.",
+      "Wenn ich es mit einem Wort beschreiben müsste, würde ich sagen: enttäuschend.",
+      "Wenn ich es mit einem Wort beschreiben müsste, würde ich sagen: herausfordernd.",
+      "Wenn ich es mit einem Wort beschreiben müsste, würde ich sagen: chaotisch.",
+      "Wenn ich es mit einem Wort beschreiben müsste, würde ich sagen: unvergesslich."
+    ],
+    "c1": [
+      "Wenn ich es mit einem Wort beschreiben müsste, würde ich sagen: transformativ.",
+      "Wenn ich es mit einem Wort beschreiben müsste, würde ich sagen: ambivalent.",
+      "Wenn ich es mit einem Wort beschreiben müsste, würde ich sagen: desillusionierend.",
+      "Wenn ich es mit einem Wort beschreiben müsste, würde ich sagen: wegweisend.",
+      "Wenn ich es mit einem Wort beschreiben müsste, würde ich sagen: kontrovers."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Der lustigste Teil der ganzen Sache war ...",
+    "kor": "그 모든 일 중 가장 웃겼던 부분은 ...였어요.",
+    "b1": [
+      "Der lustigste Teil der ganzen Sache war das Kostüm.",
+      "Der lustigste Teil der ganzen Sache war sein Witz.",
+      "Der lustigste Teil der ganzen Sache war, als er hinfiel (ohne Schmerz).",
+      "Der lustigste Teil der ganzen Sache war der tanzende Hund.",
+      "Der lustigste Teil der ganzen Sache war das Missverständnis beim Essen."
+    ],
+    "b2": [
+      "Der lustigste Teil der ganzen Sache war, dass wir am Ende im falschen Kino saßen.",
+      "Der lustigste Teil der ganzen Sache war die Reaktion meines Chefs auf den Scherz.",
+      "Der lustigste Teil der ganzen Sache war unser Versuch, das Zelt im Dunkeln aufzubauen.",
+      "Der lustigste Teil der ganzen Sache war das völlig unpassende Lied im Radio.",
+      "Der lustigste Teil der ganzen Sache war, als die Katze plötzlich über das Buffet lief."
+    ],
+    "c1": [
+      "Der lustigste Teil der ganzen Sache war die Ironie der Situation angesichts unserer strengen Planung.",
+      "Der lustigste Teil der ganzen Sache war die satirische Aufarbeitung der Ereignisse durch die Kollegen.",
+      "Der lustigste Teil der ganzen Sache war die groteske Diskrepanz zwischen Protokoll und Realität.",
+      "Der lustigste Teil der ganzen Sache war die absurde Wendung, die die Diskussion am Ende nahm.",
+      "Der lustigste Teil der ganzen Sache war, wie der vermeintliche Experte durch eine banale Frage entlarvt wurde."
+    ]
+  }
+]

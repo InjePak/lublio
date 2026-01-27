@@ -1,0 +1,30 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import Box2 from "../../../components/Box2.astro";
+import Button2 from "../../../components/Button2.astro";
+
+import chapters from "../../../assets/json/patterns/chapters.json";
+
+const pageTitle = "프랑스어";
+---
+
+<BaseLayout pageTitle={pageTitle + " | Lublio"}>
+  <Box2
+    title="프랑스어 말하기 패턴"
+    subtitle="Speaking Patterns - Français"
+    description="Le français est la langue de l'amour, de la gastronomie et de la diplomatie. Parlée sur cinq continents, elle se distingue par son élégance, sa richesse culturelle et sa précision analytique."
+    language="fra"
+  />
+
+  {
+    chapters.map((post: any) => (
+      <Button2
+        id={post.id}
+        title={post.fra}
+        subtitle={post.kor}
+        language="fra"
+        path={"/french/pattern/" + post.path}
+      />
+    ))
+  }
+</BaseLayout>

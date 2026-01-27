@@ -1,0 +1,97 @@
+---
+const { items } = Astro.props;
+---
+
+<>
+  <div class="controller">
+    {
+      items.map((item: any) => (
+        <label>
+          <input
+            type="checkbox"
+            class="visibility-toggle"
+            data-target={item.id}
+            checked
+          />
+          <span>{item.label}</span>
+        </label>
+      ))
+    }
+  </div>
+</>
+
+<style>
+  .controller {
+    display: flex;
+    justify-content: space-evenly;
+    top: 0;
+    background: var(--zinc800);
+    border-radius: 50px;
+    padding: 0.5rem 1rem;
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .controller label {
+    cursor: pointer;
+    font-size: 1rem;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .visibility-toggle {
+    display: none;
+  }
+
+  .visibility-toggle + span {
+    display: inline-block;
+    padding: 8px 16px;
+    background-color: var(--zinc800);
+    color: var(--zinc200);
+    border-radius: 50px;
+    font-weight: 600;
+    font-size: 16px;
+    cursor: pointer;
+    font-family: "Google Sans", sans-serif;
+    transition: all 0.2s ease;
+  }
+
+  .visibility-toggle:not(:checked) + span {
+    color: var(--zinc200);
+    opacity: 0.3;
+  }
+
+  .visibility-toggle:not(:checked) + span:hover {
+    background-color: var(--zinc700);
+  }
+
+  .visibility-toggle:checked + span {
+    color: var(--zinc200);
+    opacity: 1;
+  }
+
+  .visibility-toggle:checked + span:hover {
+    background-color: var(--zinc700);
+  }
+</style>
+
+<script>
+  // 페이지 내의 모든 체크박스를 가져옵니다.
+  const toggles = document.querySelectorAll(".visibility-toggle");
+
+  toggles.forEach((toggle) => {
+    toggle.addEventListener("change", (e) => {
+      const targetClass = (e.target as HTMLInputElement).dataset.target;
+      const isVisible = (e.target as HTMLInputElement).checked;
+
+      // 해당 클래스를 가진 모든 요소를 찾아 숨기거나 보입니다.
+      const elements = document.querySelectorAll(`.${targetClass}`);
+      elements.forEach((el) => {
+        (el as HTMLElement).style.display = isVisible ? "block" : "none";
+      });
+    });
+  });
+</script>

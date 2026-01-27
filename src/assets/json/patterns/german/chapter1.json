@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Meiner Meinung nach ...",
+    "kor": "제 의견으로는 ...",
+    "b1": [
+      "Meiner Meinung nach ist das Wetter heute sehr schön.",
+      "Meiner Meinung nach sollten wir mehr Sport treiben.",
+      "Meiner Meinung nach ist Deutsch eine interessante Sprache.",
+      "Meiner Meinung nach ist gesundes Essen wichtig.",
+      "Meiner Meinung nach ist dieser Film zu lang."
+    ],
+    "b2": [
+      "Meiner Meinung nach spielt die Digitalisierung eine zentrale Rolle in der modernen Bildung.",
+      "Meiner Meinung nach sollten Firmen mehr Verantwortung für die Umwelt übernehmen.",
+      "Meiner Meinung nach ist ein bedingungsloses Grundeinkommen schwer zu finanzieren.",
+      "Meiner Meinung nach hat das Internet unsere Kommunikation grundlegend verändert.",
+      "Meiner Meinung nach ist die Vereinbarkeit von Beruf und Familie ein großes Problem."
+    ],
+    "c1": [
+      "Meiner Meinung nach bedarf es einer grundlegenden Reform des aktuellen Rentensystems.",
+      "Meiner Meinung nach lässt sich die zunehmende soziale Ungleichheit nicht allein durch Steuern lösen.",
+      "Meiner Meinung nach ist die ethische Vertretbarkeit von KI-Entwicklungen noch unzureichend geklärt.",
+      "Meiner Meinung nach fungiert die Kunst als Spiegel der gesellschaftlichen Missstände.",
+      "Meiner Meinung nach ist die Globalisierung ein zweischneidiges Schwert mit weitreichenden Konsequenzen."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Ich glaube, dass …",
+    "kor": "...라고 믿습니다 / 생각합니다.",
+    "b1": [
+      "Ich glaube, dass er heute später kommt.",
+      "Ich glaube, dass wir die Prüfung bestehen können.",
+      "Ich glaube, dass dieses Restaurant gut ist.",
+      "Ich glaube, dass man jeden Tag spazieren gehen sollte.",
+      "Ich glaube, dass Reisen sehr wichtig für die Bildung ist."
+    ],
+    "b2": [
+      "Ich glaube, dass der Umweltschutz die wichtigste Aufgabe unserer Generation ist.",
+      "Ich glaube, dass lebenslanges Lernen in der heutigen Arbeitswelt unverzichtbar ist.",
+      "Ich glaube, dass soziale Medien sowohl Vorteile als auch Nachteile mit sich bringen.",
+      "Ich glaube, dass die Automatisierung viele Arbeitsplätze überflüssig machen wird.",
+      "Ich glaube, dass wir mehr in erneuerbare Energien investieren müssen."
+    ],
+    "c1": [
+      "Ich glaube, dass die Integrität der Wissenschaft durch wirtschaftliche Interessen gefährdet sein könnte.",
+      "Ich glaube, dass eine pluralistische Gesellschaft nur durch kontinuierlichen Dialog bestehen kann.",
+      "Ich glaube, dass die psychologischen Auswirkungen der ständigen Erreichbarkeit oft unterschätzt werden.",
+      "Ich glaube, dass die geopolitische Lage eine engere Zusammenarbeit der EU-Staaten erfordert.",
+      "Ich glaube, dass innovative Technologien das Potenzial haben, globale Krisen zu bewältigen."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Es scheint mir, dass …",
+    "kor": "...인 것 같습니다 / ...처럼 보입니다.",
+    "b1": [
+      "Es scheint mir, dass es bald regnen wird.",
+      "Es scheint mir, dass er heute sehr müde ist.",
+      "Es scheint mir, dass das Handy kaputt ist.",
+      "Es scheint mir, dass sie keine Zeit für uns hat.",
+      "Es scheint mir, dass der Termin verschoben wurde."
+    ],
+    "b2": [
+      "Es scheint mir, dass viele Menschen mit der aktuellen politischen Lage unzufrieden sind.",
+      "Es scheint mir, dass die Mietpreise in Großstädten unaufhaltsam steigen.",
+      "Es scheint mir, dass junge Leute heute weniger Wert auf materielle Dinge legen.",
+      "Es scheint mir, dass die Anforderungen im Berufsleben ständig zunehmen.",
+      "Es scheint mir, dass die Bedeutung von Printmedien immer weiter abnimmt."
+    ],
+    "c1": [
+      "Es scheint mir, dass die Diskrepanz zwischen öffentlicher Meinung und politischem Handeln wächst.",
+      "Es scheint mir, dass eine holistische Herangehensweise an dieses Problem zwingend erforderlich ist.",
+      "Es scheint mir, dass die subtilen Nuancen in dieser Debatte oft übersehen werden.",
+      "Es scheint mir, dass die ökonomische Stabilität von unvorhersehbaren Faktoren abhängt.",
+      "Es scheint mir, dass die Implementierung dieser Maßnahmen eine signifikante Herausforderung darstellt."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Aus meiner Sicht …",
+    "kor": "제 관점에서는 ...",
+    "b1": [
+      "Aus meiner Sicht ist das Frühstück die wichtigste Mahlzeit.",
+      "Aus meiner Sicht ist das Auto zu teuer.",
+      "Aus meiner Sicht sollten Kinder früher schlafen gehen.",
+      "Aus meiner Sicht ist Deutsch lernen nicht so schwer.",
+      "Aus meiner Sicht ist die Wohnung zu klein für zwei Personen."
+    ],
+    "b2": [
+      "Aus meiner Sicht ist die Digitalisierung der Schulen längst überfällig.",
+      "Aus meiner Sicht stellt der Klimawandel die größte Bedrohung für die Menschheit dar.",
+      "Aus meiner Sicht sollten Überstunden grundsätzlich finanziell vergütet werden.",
+      "Aus meiner Sicht ist die Work-Life-Balance entscheidend für die Gesundheit.",
+      "Aus meiner Sicht bietet Homeoffice mehr Flexibilität für Eltern."
+    ],
+    "c1": [
+      "Aus meiner Sicht ist die Korrelation zwischen Bildungschancen und sozialer Herkunft alarmierend.",
+      "Aus meiner Sicht muss die Nachhaltigkeit zum obersten Prinzip ökonomischen Handelns werden.",
+      "Aus meiner Sicht ist die Fragmentierung der Gesellschaft ein Resultat mangelnder Empathie.",
+      "Aus meiner Sicht bedarf es einer differenzierten Betrachtung der Migrationsströme.",
+      "Aus meiner Sicht sind die ethischen Implikationen der Gentechnik noch nicht hinreichend debattiert."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Ich bin fest davon überzeugt, dass …",
+    "kor": "저는 ...라고 굳게 확신합니다.",
+    "b1": [
+      "Ich bin fest davon überzeugt, dass wir gewinnen werden.",
+      "Ich bin fest davon überzeugt, dass Lernen Spaß macht.",
+      "Ich bin fest davon überzeugt, dass Obst gesund ist.",
+      "Ich bin fest davon überzeugt, dass er die Wahrheit sagt.",
+      "Ich bin fest davon überzeugt, dass Übung den Meister macht."
+    ],
+    "b2": [
+      "Ich bin fest davon überzeugt, dass künstliche Intelligenz unseren Alltag dominieren wird.",
+      "Ich bin fest davon überzeugt, dass Bildung der Schlüssel zur Armutsbekämpfung ist.",
+      "Ich bin fest davon überzeugt, dass wir den Fleischkonsum drastisch reduzieren müssen.",
+      "Ich bin fest davon überzeugt, dass jeder Einzelne einen Beitrag zum Umweltschutz leisten kann.",
+      "Ich bin fest davon überzeugt, dass Teamarbeit produktiver ist als Einzelarbeit."
+    ],
+    "c1": [
+      "Ich bin fest davon überzeugt, dass die Resilienz einer Demokratie auf der Partizipation ihrer Bürger beruht.",
+      "Ich bin fest davon überzeugt, dass eine ökologische Transformation der Wirtschaft unumgänglich ist.",
+      "Ich bin fest davon überzeugt, dass kulturelle Diversität die Innovationskraft eines Landes stärkt.",
+      "Ich bin fest davon überzeugt, dass die Wahrung der Menschenrechte oberste Priorität haben muss.",
+      "Ich bin fest davon überzeugt, dass technischer Fortschritt mit ethischer Verantwortung einhergehen muss."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Ich würde behaupten, dass …",
+    "kor": "저는 ...라고 주장하고 싶습니다.",
+    "b1": [
+      "Ich würde behaupten, dass Tee besser als Kaffee ist.",
+      "Ich würde behaupten, dass es im Sommer zu heiß ist.",
+      "Ich würde behaupten, dass man im Ausland viel lernt.",
+      "Ich würde behaupten, dass Hunde die besten Haustiere sind.",
+      "Ich würde behaupten, dass das Fahrrad schneller als der Bus ist."
+    ],
+    "b2": [
+      "Ich würde behaupten, dass viele Menschen die Gefahren des Internets unterschätzen.",
+      "Ich würde behaupten, dass die Schulnoten nicht immer die Intelligenz widerspiegeln.",
+      "Ich würde behaupten, dass die Globalisierung die Kluft zwischen Arm und Reich vergrößert.",
+      "Ich würde behaupten, dass Fremdsprachenkenntnisse die Karrierechancen erheblich verbessern.",
+      "Ich würde behaupten, dass Werbung unser Kaufverhalten unbewusst steuert."
+    ],
+    "c1": [
+      "Ich würde behaupten, dass die herkömmliche Definition von Arbeit in Zeiten der KI obsolet wird.",
+      "Ich würde behaupten, dass die mediale Berichterstattung oft eine verzerrte Realität vermittelt.",
+      "Ich würde behaupten, dass das Bildungssystem die Kreativität der Schüler eher unterdrückt als fördert.",
+      "Ich würde behaupten, dass wirtschaftliches Wachstum allein kein Maßstab für Wohlstand sein darf.",
+      "Ich würde behaupten, dass die Souveränität des Individuums durch die Datenspeicherung gefährdet ist."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Was ich meine, ist, dass …",
+    "kor": "제 말은 ...라는 것입니다.",
+    "b1": [
+      "Was ich meine, ist, dass wir mehr Zeit brauchen.",
+      "Was ich meine, ist, dass der Test nicht einfach war.",
+      "Was ich meine, ist, dass man mehr Wasser trinken sollte.",
+      "Was ich meine, ist, dass das Hotel zu weit weg ist.",
+      "Was ich meine, ist, dass wir zusammenarbeiten müssen."
+    ],
+    "b2": [
+      "Was ich meine, ist, dass die Theorie allein ohne Praxis nicht ausreicht.",
+      "Was ich meine, ist, dass man Kritik konstruktiv äußern sollte.",
+      "Was ich meine, ist, dass die Flexibilität im Beruf immer wichtiger wird.",
+      "Was ich meine, ist, dass wir unsere Konsumgewohnheiten überdenken müssen.",
+      "Was ich meine, ist, dass soziale Gerechtigkeit eine Grundvoraussetzung für Frieden ist."
+    ],
+    "c1": [
+      "Was ich meine, ist, dass die strukturelle Diskriminierung tief in der Gesellschaft verwurzelt ist.",
+      "Was ich meine, ist, dass die ökonomische Effizienz nicht zulasten der ökologischen Integrität gehen darf.",
+      "Was ich meine, ist, dass eine fundierte Diskussionskultur die Basis jeder demokratischen Ordnung bildet.",
+      "Was ich meine, ist, dass die epistemologischen Grundlagen unserer Erkenntnis kritisch hinterfragt werden müssen.",
+      "Was ich meine, ist, dass die technologische Disruption eine gesellschaftliche Anpassung erfordert."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Wenn du mich fragst, ...",
+    "kor": "나에게 묻는다면, ... / 내 생각에는 ...",
+    "b1": [
+      "Wenn du mich fragst, ist das eine gute Idee.",
+      "Wenn du mich fragst, schmeckt das Essen wunderbar.",
+      "Wenn du mich fragst, sollten wir heute zu Hause bleiben.",
+      "Wenn du mich fragst, ist der Rock zu kurz.",
+      "Wenn du mich fragst, ist Deutschlernen wichtig für den Job."
+    ],
+    "b2": [
+      "Wenn du mich fragst, wird das E-Auto den Verbrennungsmotor bald ablösen.",
+      "Wenn du mich fragst, ist das Bildungssystem in Deutschland zu kompliziert.",
+      "Wenn du mich fragst, sollten wir die Arbeitszeit auf vier Tage reduzieren.",
+      "Wenn du mich fragst, ist die Bedeutung von Traditionen heute geringer als früher.",
+      "Wenn du mich fragst, ist der Einfluss der Influencer auf Jugendliche besorgniserregend."
+    ],
+    "c1": [
+      "Wenn du mich fragst, ist die aktuelle Fiskalpolitik kontraproduktiv für das langfristige Wachstum.",
+      "Wenn du mich fragst, mangelt es der heutigen Politik an visionärer Weitsicht.",
+      "Wenn du mich fragst, ist die Gentrifizierung ein Symptom einer verfehlten Stadtentwicklungspolitik.",
+      "Wenn du mich fragst, ist die Digitalisierung kein Selbstzweck, sondern ein Werkzeug.",
+      "Wenn du mich fragst, sollte die Philosophie wieder einen zentralen Platz im Diskurs einnehmen."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Ich stimme ... voll und ganz zu.",
+    "kor": "...에 전적으로 동의합니다.",
+    "b1": [
+      "Ich stimme dir voll und ganz zu.",
+      "Ich stimme diesem Plan voll und ganz zu.",
+      "Ich stimme deiner Meinung voll und ganz zu.",
+      "Ich stimme dem Lehrer voll und ganz zu.",
+      "Ich stimme dem Vorschlag voll und ganz zu."
+    ],
+    "b2": [
+      "Ich stimme Ihrer Einschätzung der Marktlage voll und ganz zu.",
+      "Ich stimme dem Argument für mehr Umweltschutz voll und ganz zu.",
+      "Ich stimme der Behauptung, dass Sport gesund ist, voll und ganz zu.",
+      "Ich stimme der neuen Regelung im Büro voll und ganz zu.",
+      "Ich stimme dem Experten in diesem Punkt voll und ganz zu."
+    ],
+    "c1": [
+      "Ich stimme Ihrer Analyse der sozioökonomischen Auswirkungen voll und ganz zu.",
+      "Ich stimme der These, dass Bildung die primäre Ressource ist, voll und ganz zu.",
+      "Ich stimme der Notwendigkeit einer systemischen Veränderung voll und ganz zu.",
+      "Ich stimme der Kritik an der mangelnden Transparenz voll und ganz zu.",
+      "Ich stimme der Forderung nach einer ethischen Regulierung von Algorithmen voll und ganz zu."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Das ist ein guter Punkt, aber …",
+    "kor": "좋은 지적입니다만, ...",
+    "b1": [
+      "Das ist ein guter Punkt, aber es ist zu teuer.",
+      "Das ist ein guter Punkt, aber wir haben keine Zeit.",
+      "Das ist ein guter Punkt, aber ich bin anderer Meinung.",
+      "Das ist ein guter Punkt, aber das Wetter ist schlecht.",
+      "Das ist ein guter Punkt, aber die Kinder sind noch klein."
+    ],
+    "b2": [
+      "Das ist ein guter Punkt, aber wir müssen auch die Kosten berücksichtigen.",
+      "Das ist ein guter Punkt, aber es gibt auch Risiken bei dieser Methode.",
+      "Das ist ein guter Punkt, aber die Umsetzung wird in der Praxis schwierig sein.",
+      "Das ist ein guter Punkt, aber wir dürfen die Traditionen nicht vergessen.",
+      "Das ist ein guter Punkt, aber die langfristigen Folgen sind noch unklar."
+    ],
+    "c1": [
+      "Das ist ein guter Punkt, aber die empirische Datenlage stützt diese Hypothese nur teilweise.",
+      "Das ist ein guter Punkt, aber die rechtlichen Rahmenbedingungen lassen dies momentan nicht zu.",
+      "Das ist ein guter Punkt, aber wir müssen die Kausalität kritisch hinterfragen.",
+      "Das ist ein guter Punkt, aber die soziokulturelle Dimension bleibt dabei unberücksichtigt.",
+      "Das ist ein guter Punkt, aber die ökonomische Machbarkeit steht in krassem Gegensatz zur Theorie."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Was ... angeht, bin ich anderer Meinung.",
+    "kor": "...에 관해서는 생각이 다릅니다.",
+    "b1": [
+      "Was das Essen angeht, bin ich anderer Meinung.",
+      "Was den Film angeht, bin ich anderer Meinung.",
+      "Was die Musik angeht, bin ich anderer Meinung.",
+      "Was den Urlaub angeht, bin ich anderer Meinung.",
+      "Was das Auto angeht, bin ich anderer Meinung."
+    ],
+    "b2": [
+      "Was die neue Steuerreform angeht, bin ich anderer Meinung.",
+      "Was die Nutzung von Atomkraft angeht, bin ich anderer Meinung.",
+      "Was das Verbot von Plastik angeht, bin ich anderer Meinung.",
+      "Was die Einführung der Frauenquote angeht, bin ich anderer Meinung.",
+      "Was die Wirksamkeit von Online-Unterricht angeht, bin ich anderer Meinung."
+    ],
+    "c1": [
+      "Was die Interpretation dieser statistischen Daten angeht, bin ich anderer Meinung.",
+      "Was die Validität dieser wissenschaftlichen Studie angeht, bin ich anderer Meinung.",
+      "Was die prognostizierte Entwicklung des Arbeitsmarktes angeht, bin ich anderer Meinung.",
+      "Was die Priorisierung der politischen Ziele angeht, bin ich anderer Meinung.",
+      "Was die moralische Bewertung dieses Vorhabens angeht, bin ich anderer Meinung."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Ich verstehe zwar, dass ..., aber ich finde trotzdem …",
+    "kor": "...라는 점은 이해합니다만, 그럼에도 불구하고 ...라고 생각합니다.",
+    "b1": [
+      "Ich verstehe zwar, dass du müde bist, aber ich finde trotzdem, wir sollten gehen.",
+      "Ich verstehe zwar, dass es regnet, aber ich finde trotzdem, wir können spazieren gehen.",
+      "Ich verstehe zwar, dass es teuer ist, aber ich finde trotzdem, wir sollten es kaufen.",
+      "Ich verstehe zwar, dass Deutsch schwer ist, aber ich finde trotzdem, es macht Spaß.",
+      "Ich verstehe zwar, dass er keine Zeit hat, aber ich finde trotzdem, er könnte anrufen."
+    ],
+    "b2": [
+      "Ich verstehe zwar, dass Sicherheit wichtig ist, aber ich finde trotzdem, dass Freiheit vorgeht.",
+      "Ich verstehe zwar, dass Profit wichtig ist, aber ich finde trotzdem, dass Moral zählt.",
+      "Ich verstehe zwar, dass das Projekt komplex ist, aber ich finde trotzdem, wir müssen es versuchen.",
+      "Ich verstehe zwar, dass neue Technik teuer ist, aber ich finde trotzdem, dass wir sie brauchen.",
+      "Ich verstehe zwar, dass Kritik wehtun kann, aber ich finde trotzdem, dass sie notwendig ist."
+    ],
+    "c1": [
+      "Ich verstehe zwar, dass ökonomische Zwänge existieren, aber ich finde trotzdem, dass Ethik Priorität hat.",
+      "Ich verstehe zwar, dass die Datenlage dünn ist, aber ich finde trotzdem, dass wir handeln müssen.",
+      "Ich verstehe zwar, dass Reformen Zeit brauchen, aber ich finde trotzdem, dass das Tempo zu langsam ist.",
+      "Ich verstehe zwar, dass Traditionen Schutz bieten, aber ich finde trotzdem, dass Wandel essenziell ist.",
+      "Ich verstehe zwar, dass Kompromisse nötig sind, aber ich finde trotzdem, dass Grundwerte unantastbar sind."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Bei aller Höflichkeit ... / Mit Verlaub ...",
+    "kor": "실례지만 / 외람된 말씀이지만 ...",
+    "b1": [
+      "Bei aller Höflichkeit, ich glaube, Sie irren sich.",
+      "Bei aller Höflichkeit, das ist nicht wahr.",
+      "Bei aller Höflichkeit, ich möchte das nicht machen.",
+      "Mit Verlaub, das sehe ich nicht so.",
+      "Mit Verlaub, können wir das später besprechen?"
+    ],
+    "b2": [
+      "Bei aller Höflichkeit, Ihre Argumentation ist nicht ganz schlüssig.",
+      "Bei aller Höflichkeit, wir müssen die Fakten genauer prüfen.",
+      "Mit Verlaub, diese Entscheidung halte ich für einen großen Fehler.",
+      "Mit Verlaub, Sie haben die Situation falsch eingeschätzt.",
+      "Bei aller Höflichkeit, das entspricht nicht ganz der Realität."
+    ],
+    "c1": [
+      "Mit Verlaub, diese Schlussfolgerung entbehrt jeglicher wissenschaftlichen Grundlage.",
+      "Bei aller Höflichkeit, Ihre Prämisse ist in sich bereits widersprüchlich.",
+      "Mit Verlaub, diese Vorgehensweise ist ethisch höchst fragwürdig.",
+      "Bei aller Höflichkeit, Sie unterschätzen die Komplexität dieser Thematik erheblich.",
+      "Mit Verlaub, diese Pauschalisierung wird den Betroffenen nicht gerecht."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Ich bin mir nicht ganz sicher, ob/was …",
+    "kor": "...인지 아닌지 잘 모르겠습니다.",
+    "b1": [
+      "Ich bin mir nicht ganz sicher, ob er kommt.",
+      "Ich bin mir nicht ganz sicher, was ich essen soll.",
+      "Ich bin mir nicht ganz sicher, ob das richtig ist.",
+      "Ich bin mir nicht ganz sicher, was du meinst.",
+      "Ich bin mir nicht ganz sicher, ob wir Zeit haben."
+    ],
+    "b2": [
+      "Ich bin mir nicht ganz sicher, ob diese Strategie zum Erfolg führen wird.",
+      "Ich bin mir nicht ganz sicher, was die beste Lösung für dieses Problem ist.",
+      "Ich bin mir nicht ganz sicher, ob wir alle Konsequenzen bedacht haben.",
+      "Ich bin mir nicht ganz sicher, was die Kunden wirklich wollen.",
+      "Ich bin mir nicht ganz sicher, ob dieser Trend von Dauer sein wird."
+    ],
+    "c1": [
+      "Ich bin mir nicht ganz sicher, ob die Kausalität hier eindeutig nachgewiesen werden kann.",
+      "Ich bin mir nicht ganz sicher, was die langfristigen sozioökonomischen Implikationen sein werden.",
+      "Ich bin mir nicht ganz sicher, ob dieses Modell auf andere Kontexte übertragbar ist.",
+      "Ich bin mir nicht ganz sicher, ob der Nutzen die immensen Kosten tatsächlich rechtfertigt.",
+      "Ich bin mir nicht ganz sicher, ob die aktuelle Gesetzgebung dafür ausreichend ist."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Könnten Sie … näher erläutern?",
+    "kor": "...를 좀 더 자세히 설명해 주시겠습니까?",
+    "b1": [
+      "Könnten Sie das Wort näher erläutern?",
+      "Könnten Sie Ihre Idee näher erläutern?",
+      "Könnten Sie den Plan näher erläutern?",
+      "Könnten Sie die Hausaufgabe näher erläutern?",
+      "Könnten Sie den Weg näher erläutern?"
+    ],
+    "b2": [
+      "Könnten Sie Ihre Argumente für dieses Projekt näher erläutern?",
+      "Könnten Sie die technischen Details der Maschine näher erläutern?",
+      "Könnten Sie die Vorteile dieser neuen Software näher erläutern?",
+      "Könnten Sie Ihre Meinung zur aktuellen Wirtschaftslage näher erläutern?",
+      "Könnten Sie die Kriterien für die Auswahl näher erläutern?"
+    ],
+    "c1": [
+      "Könnten Sie die methodische Vorgehensweise Ihrer Studie näher erläutern?",
+      "Könnten Sie die theoretischen Grundlagen Ihres Konzepts näher erläutern?",
+      "Könnten Sie die Diskrepanz zwischen Theorie und Praxis näher erläutern?",
+      "Könnten Sie die epistemologische Relevanz Ihrer Forschung näher erläutern?",
+      "Könnten Sie die potenziellen Risiken dieser Intervention näher erläutern?"
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Ich habe gemischte Gefühle, was ... angeht.",
+    "kor": "...에 대해 복잡한 감정(반반의 마음)이 듭니다.",
+    "b1": [
+      "Ich habe gemischte Gefühle, was den Umzug angeht.",
+      "Ich habe gemischte Gefühle, was den neuen Job angeht.",
+      "Ich habe gemischte Gefühle, was das Wetter angeht.",
+      "Ich habe gemischte Gefühle, was die Reise angeht.",
+      "Ich habe gemischte Gefühle, was die Prüfung angeht."
+    ],
+    "b2": [
+      "Ich habe gemischte Gefühle, was die Digitalisierung im Kinderzimmer angeht.",
+      "Ich habe gemischte Gefühle, was die Globalisierung der Märkte angeht.",
+      "Ich habe gemischte Gefühle, was das neue Gesetz zum Datenschutz angeht.",
+      "Ich habe gemischte Gefühle, was die künstliche Intelligenz in der Kunst angeht.",
+      "Ich habe gemischte Gefühle, was die schnelle Entwicklung der Technik angeht."
+    ],
+    "c1": [
+      "Ich habe gemischte Gefühle, was die ethische Vertretbarkeit dieses Experiments angeht.",
+      "Ich habe gemischte Gefühle, was die Effizienz dieser politischen Maßnahmen angeht.",
+      "Ich habe gemischte Gefühle, was die langfristige Stabilität der Eurozone angeht.",
+      "Ich habe gemischte Gefühle, was die Kommerzialisierung der Bildung angeht.",
+      "Ich habe gemischte Gefühle, was die Auswirkungen der sozialen Medien auf die Demokratie angeht."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Lassen Sie uns bei ... uneinig bleiben.",
+    "kor": "...에 대해서는 각자의 의견을 존중합시다 (합의에 이르지 않음을 합의하다).",
+    "b1": [
+      "Lassen Sie uns bei diesem Thema uneinig bleiben.",
+      "Lassen Sie uns bei der Wahl des Restaurants uneinig bleiben.",
+      "Lassen Sie uns bei der Farbe uneinig bleiben.",
+      "Lassen Sie uns bei diesem kleinen Punkt uneinig bleiben.",
+      "Lassen Sie uns bei der Musik uneinig bleiben."
+    ],
+    "b2": [
+      "Lassen Sie uns bei der politischen Bewertung dieser Krise uneinig bleiben.",
+      "Lassen Sie uns bei der Frage nach der besten Erziehungsmethode uneinig bleiben.",
+      "Lassen Sie uns bei der Interpretation des Films uneinig bleiben.",
+      "Lassen Sie uns bei der Beurteilung der wirtschaftlichen Lage uneinig bleiben.",
+      "Lassen Sie uns bei der Priorisierung der Aufgaben uneinig bleiben."
+    ],
+    "c1": [
+      "Lassen Sie uns bei der philosophischen Deutung dieses Begriffs uneinig bleiben.",
+      "Lassen Sie uns bei der Gewichtung der ethischen Argumente uneinig bleiben.",
+      "Lassen Sie uns bei der Prognose der künftigen Weltordnung uneinig bleiben.",
+      "Lassen Sie uns bei der Validierung dieser Forschungsergebnisse uneinig bleiben.",
+      "Lassen Sie uns bei der normativen Ausrichtung des Projekts uneinig bleiben."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Haben Sie ... in Betracht gezogen?",
+    "kor": "...를 고려해 보셨습니까?",
+    "b1": [
+      "Haben Sie die Kosten in Betracht gezogen?",
+      "Haben Sie das Wetter in Betracht gezogen?",
+      "Haben Sie andere Optionen in Betracht gezogen?",
+      "Haben Sie die Zeit in Betracht gezogen?",
+      "Haben Sie ein kleineres Auto in Betracht gezogen?"
+    ],
+    "b2": [
+      "Haben Sie die Auswirkungen auf die Umwelt in Betracht gezogen?",
+      "Haben Sie die Meinung der Mitarbeiter in Betracht gezogen?",
+      "Haben Sie die langfristigen Risiken in Betracht gezogen?",
+      "Haben Sie alternative Energiequellen in Betracht gezogen?",
+      "Haben Sie die rechtlichen Konsequenzen in Betracht gezogen?"
+    ],
+    "c1": [
+      "Haben Sie die soziokulturellen Implikationen Ihrer Entscheidung in Betracht gezogen?",
+      "Haben Sie die potenziellen Wechselwirkungen mit anderen Systemen in Betracht gezogen?",
+      "Haben Sie eine alternative hermeneutische Herangehensweise in Betracht gezogen?",
+      "Haben Sie die psychologische Wirkung auf die Zielgruppe in Betracht gezogen?",
+      "Haben Sie die Möglichkeit eines systemischen Scheiterns in Betracht gezogen?"
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Das ist nicht immer der Fall, weil …",
+    "kor": "항상 그런 것은 아닙니다. 왜냐하면 ...",
+    "b1": [
+      "Das ist nicht immer der Fall, weil jeder Mensch anders ist.",
+      "Das ist nicht immer der Fall, weil das Wetter oft wechselt.",
+      "Das ist nicht immer der Fall, weil manche Leute kein Auto haben.",
+      "Das ist nicht immer der Fall, weil es auch billige Hotels gibt.",
+      "Das ist nicht immer der Fall, weil nicht alle Kinder Sport mögen."
+    ],
+    "b2": [
+      "Das ist nicht immer der Fall, weil die wirtschaftliche Lage variiert.",
+      "Das ist nicht immer der Fall, weil technischer Fortschritt auch Nachteile hat.",
+      "Das ist nicht immer der Fall, weil Bildungschancen oft ungerecht verteilt sind.",
+      "Das ist nicht immer der Fall, weil Statistiken manchmal täuschen können.",
+      "Das ist nicht immer der Fall, weil individuelle Erfahrungen oft abweichen."
+    ],
+    "c1": [
+      "Das ist nicht immer der Fall, weil komplexe Systeme unvorhersehbare Variablen enthalten.",
+      "Das ist nicht immer der Fall, weil die Korrelation nicht zwingend eine Kausalität impliziert.",
+      "Das ist nicht immer der Fall, weil kulturelle Kontexte die Wahrnehmung beeinflussen.",
+      "Das ist nicht immer der Fall, weil strukturelle Barrieren den Erfolg oft verhindern.",
+      "Das ist nicht immer der Fall, weil theoretische Modelle oft die Realität vereinfachen."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Ich sehe das ... (anders / genauso).",
+    "kor": "저는 그것을 ... (다르게 / 똑같이) 봅니다.",
+    "b1": [
+      "Ich sehe das genauso wie du.",
+      "Ich sehe das ganz anders als er.",
+      "Ich sehe das genauso, es ist wichtig.",
+      "Ich sehe das anders, das ist zu teuer.",
+      "Ich sehe das genauso, wir brauchen Urlaub."
+    ],
+    "b2": [
+      "Ich sehe das genauso, wir müssen die Umwelt schützen.",
+      "Ich sehe das anders, die Digitalisierung ist eine Chance, kein Risiko.",
+      "Ich sehe das genauso, Bildung sollte kostenlos sein.",
+      "Ich sehe das anders, man braucht nicht immer viel Geld zum Glück.",
+      "Ich sehe das genauso, Teamwork ist der Schlüssel zum Erfolg."
+    ],
+    "c1": [
+      "Ich sehe das genauso, eine strukturelle Transformation ist unumgänglich.",
+      "Ich sehe das grundlegend anders, da die Prämissen Ihrer Analyse fehlerhaft sind.",
+      "Ich sehe das genauso, die ethische Dimension darf nicht vernachlässigt werden.",
+      "Ich sehe das völlig anders, wenn man die historische Entwicklung betrachtet.",
+      "Ich sehe das genauso, die soziale Kohäsion ist durch diese Politik gefährdet."
+    ]
+  }
+]

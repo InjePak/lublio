@@ -1,0 +1,38 @@
+/*
+* ——————————————————————————————
+* Emoji
+* ——————————————————————————————
+*/
+
+@import url("https://fonts.googleapis.com/css2?family=Noto+Color+Emoji&display=swap");
+/* font-family: "Noto Color Emoji", sans-serif; */
+
+/*
+* ——————————————————————————————
+* Latin, Cyrillic, Greek
+* ——————————————————————————————
+*/
+
+@import url("https://fonts.googleapis.com/css2?family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&display=swap");
+/* font-family: "Google Sans", sans-serif; */
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap");
+/* font-family: "Roboto Slab", serif; */
+
+/*
+* ——————————————————————————————
+* Ivriah
+* ——————————————————————————————
+*/
+
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+Hebrew:wght@100..900&display=swap");
+/* font-family: "Noto Sans Hebrew", sans-serif; */
+
+/*
+* ——————————————————————————————
+* Kazariah
+* ——————————————————————————————
+*/
+
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap");
+/* font-family: "Noto Sans", sans-serif; */

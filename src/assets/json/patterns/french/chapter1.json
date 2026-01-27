@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "À mon avis, ...",
+    "kor": "제 의견으로는 ...",
+    "b1": [
+      "À mon avis, ce film est très intéressant.",
+      "À mon avis, nous devrions manger plus de légumes.",
+      "À mon avis, la ville est trop bruyante en été.",
+      "À mon avis, apprendre le français est un bon défi.",
+      "À mon avis, il va pleuvoir cet après-midi."
+    ],
+    "b2": [
+      "À mon avis, le gouvernement devrait investir davantage dans les énergies renouvelables.",
+      "À mon avis, le télétravail favorise un meilleur équilibre entre vie professionnelle et vie privée.",
+      "À mon avis, cette réforme ne répond pas aux attentes des citoyens.",
+      "À mon avis, il est primordial de sensibiliser les jeunes à la protection de l'environnement.",
+      "À mon avis, la mondialisation a un impact complexe sur les cultures locales."
+    ],
+    "c1": [
+      "À mon avis, l'omniprésence du numérique altère insidieusement nos capacités de concentration.",
+      "À mon avis, cette problématique ne peut être résolue sans une concertation internationale accrue.",
+      "À mon avis, l'esthétique de cette œuvre transcende les codes traditionnels de l'époque.",
+      "À mon avis, il serait illusoire de croire que la croissance économique peut être infinie.",
+      "À mon avis, la précarisation de l'emploi constitue un frein majeur à l'épanouissement social."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Je crois que ...",
+    "kor": "저는 ...라고 믿습니다/생각합니다.",
+    "b1": [
+      "Je crois que c'est une bonne idée.",
+      "Je crois que Paul est déjà parti.",
+      "Je crois que nous avons oublié les clés.",
+      "Je crois que ce restaurant est fermé le lundi.",
+      "Je crois que tu as raison."
+    ],
+    "b2": [
+      "Je crois que nous devons repenser notre manière de consommer.",
+      "Je crois que le succès dépend avant tout de la persévérance.",
+      "Je crois que cette solution est la plus viable à long terme.",
+      "Je crois que les réseaux sociaux isolent plus qu'ils ne connectent.",
+      "Je crois qu'il est nécessaire d'instaurer un dialogue entre les deux parties."
+    ],
+    "c1": [
+      "Je crois que l'éthique doit rester au cœur de toute innovation technologique.",
+      "Je crois que la résilience d'une société se mesure à sa capacité à protéger les plus vulnérables.",
+      "Je crois que nous assistons à un changement de paradigme sans précédent.",
+      "Je crois que l'éducation artistique est fondamentale pour cultiver l'esprit critique.",
+      "Je crois que l'on ne saurait occulter les conséquences géopolitiques de cette décision."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Il me semble que ...",
+    "kor": "...인 것 같습니다.",
+    "b1": [
+      "Il me semble que tu es fatigué.",
+      "Il me semble que le bus est en retard.",
+      "Il me semble que j'ai déjà vu ce visage.",
+      "Il me semble que c'est ici.",
+      "Il me semble qu'il fait plus chaud aujourd'hui."
+    ],
+    "b2": [
+      "Il me semble que les mentalités évoluent lentement sur ce sujet.",
+      "Il me semble que cette stratégie manque de clarté pour être efficace.",
+      "Il me semble que nous avons sous-estimé l'importance de ce projet.",
+      "Il me semble que la jeunesse d'aujourd'hui est très engagée politiquement.",
+      "Il me semble que ce débat est loin d'être clos."
+    ],
+    "c1": [
+      "Il me semble que l'argumentation de l'auteur repose sur un postulat erroné.",
+      "Il me semble que la corrélation entre ces deux phénomènes est indéniable.",
+      "Il me semble que les enjeux identitaires occultent souvent les réalités économiques.",
+      "Il me semble que cette mesure risque d'exacerber les tensions sociales existantes.",
+      "Il me semble que l'on fait fausse route en négligeant l'aspect psychologique de la crise."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "De mon point de vue, ...",
+    "kor": "제 관점에서는 ...",
+    "b1": [
+      "De mon point de vue, c'est trop cher.",
+      "De mon point de vue, le sport est important.",
+      "De mon point de vue, ce n'est pas difficile.",
+      "De mon point de vue, il faut partir maintenant.",
+      "De mon point de vue, elle chante très bien."
+    ],
+    "b2": [
+      "De mon point de vue, la diversité culturelle est une richesse pour l'entreprise.",
+      "De mon point de vue, l'interdiction du plastique est une étape nécessaire.",
+      "De mon point de vue, cette application simplifie énormément la vie quotidienne.",
+      "De mon point de vue, les critères de sélection sont un peu flous.",
+      "De mon point de vue, le voyage forge la jeunesse et l'ouverture d'esprit."
+    ],
+    "c1": [
+      "De mon point de vue, la souveraineté numérique est un enjeu majeur du XXIe siècle.",
+      "De mon point de vue, cette réforme s'inscrit dans une logique purement comptable.",
+      "De mon point de vue, l'obsolescence programmée est un fléau pour l'économie durable.",
+      "De mon point de vue, il faut analyser ce texte à la lumière du contexte historique.",
+      "De mon point de vue, la méritocratie est souvent un concept mal compris ou dévoyé."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Je suis convaincu(e) que ...",
+    "kor": "저는 ...라고 확신합니다.",
+    "b1": [
+      "Je suis convaincu que tu vas réussir.",
+      "Je suis convaincue qu'elle va venir.",
+      "Je suis convaincu que c'est le bon chemin.",
+      "Je suis convaincue que ce livre est génial.",
+      "Je suis convaincu que nous avons fait le bon choix."
+    ],
+    "b2": [
+      "Je suis convaincu que l'éducation est la clé du développement.",
+      "Je suis convaincue que nous pouvons atteindre nos objectifs cette année.",
+      "Je suis convaincu que la bienveillance améliore la productivité au travail.",
+      "Je suis convaincue que le recyclage n'est qu'une partie de la solution.",
+      "Je suis convaincu que l'intelligence artificielle va transformer nos métiers."
+    ],
+    "c1": [
+      "Je suis convaincu que la transition écologique nécessite une refonte globale de notre système économique.",
+      "Je suis convaincue que la liberté d'expression ne doit souffrir d'aucune concession arbitraire.",
+      "Je suis convaincu que l'empathie est une compétence de leadership indispensable à l'avenir.",
+      "Je suis convaincue que la stagnation actuelle n'est que le prélude à un bouleversement majeur.",
+      "Je suis convaincu que la coopération internationale est l'unique rempart contre le repli identitaire."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Je dirais que ...",
+    "kor": "저는 ...라고 말하고 싶네요.",
+    "b1": [
+      "Je dirais que c'est un bon début.",
+      "Je dirais que la fête était sympa.",
+      "Je dirais qu'il est environ huit heures.",
+      "Je dirais que ce gâteau est trop sucré.",
+      "Je dirais que tu as besoin de vacances."
+    ],
+    "b2": [
+      "Je dirais que le projet manque encore un peu de maturité.",
+      "Je dirais que l'influence des médias est souvent exagérée.",
+      "Je dirais que cette mesure aura des conséquences imprévues.",
+      "Je dirais que la flexibilité est l'atout principal de ce candidat.",
+      "Je dirais que la situation actuelle exige une grande prudence."
+    ],
+    "c1": [
+      "Je dirais que cette œuvre se situe à la confluence de plusieurs courants artistiques.",
+      "Je dirais que la pertinence de ce modèle économique est aujourd'hui remise en question.",
+      "Je dirais que l'on ne peut faire l'économie d'une réflexion approfondie sur la bioéthique.",
+      "Je dirais que la rhétorique employée cherche plus à séduire qu'à convaincre par les faits.",
+      "Je dirais que l'équilibre entre sécurité et liberté individuelle est de plus en plus précaire."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Ce que je veux dire, c'est que ...",
+    "kor": "제가 말하고 싶은 것은 ...",
+    "b1": [
+      "Ce que je veux dire, c'est que c'est important.",
+      "Ce que je veux dire, c'est que je suis désolé.",
+      "Ce que je veux dire, c'est que j'aime mon travail.",
+      "Ce que je veux dire, c'est qu'il faut faire attention.",
+      "Ce que je veux dire, c'est que tout va bien."
+    ],
+    "b2": [
+      "Ce que je veux dire, c'est que nous devons être plus efficaces.",
+      "Ce que je veux dire, c'est que la qualité prime sur la quantité.",
+      "Ce que je veux dire, c'est que tout le monde n'a pas les mêmes chances.",
+      "Ce que je veux dire, c'est que la communication est la base de tout.",
+      "Ce que je veux dire, c'est que nous avons besoin de plus de temps."
+    ],
+    "c1": [
+      "Ce que je veux dire, c'est que la sémantique utilisée ici biaise la compréhension du problème.",
+      "Ce que je veux dire, c'est que l'innovation ne doit pas se faire au détriment de l'éthique.",
+      "Ce que je veux dire, c'est que la croissance n'est pas une fin en soi, mais un moyen.",
+      "Ce que je veux dire, c'est que la complexité du réel échappe souvent aux analyses binaires.",
+      "Ce que je veux dire, c'est que la responsabilité individuelle est indissociable du contrat social."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Si vous voulez mon avis, ...",
+    "kor": "제 의견을 물으신다면, ...",
+    "b1": [
+      "Si vous voulez mon avis, il ne viendra pas.",
+      "Si vous voulez mon avis, c'est trop tard.",
+      "Si vous voulez mon avis, vous devriez choisir le bleu.",
+      "Si vous voulez mon avis, ce n'est pas grave.",
+      "Si vous voulez mon avis, le café est meilleur ici."
+    ],
+    "b2": [
+      "Si vous voulez mon avis, cette entreprise a un bel avenir devant elle.",
+      "Si vous voulez mon avis, les transports en commun devraient être gratuits.",
+      "Si vous voulez mon avis, il y a trop de publicités à la télévision.",
+      "Si vous voulez mon avis, la formation continue est indispensable aujourd'hui.",
+      "Si vous voulez mon avis, nous devrions changer notre approche marketing."
+    ],
+    "c1": [
+      "Si vous voulez mon avis, la dérégulation des marchés a conduit à une instabilité chronique.",
+      "Si vous voulez mon avis, ce projet pèche par un manque flagrant d'ambition.",
+      "Si vous voulez mon avis, la culture ne doit pas être traitée comme une simple marchandise.",
+      "Si vous voulez mon avis, l'érosion de la biodiversité est la menace la plus urgente à traiter.",
+      "Si vous voulez mon avis, le débat actuel est pollué par des considérations purement électoralistes."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Je suis tout à fait d'accord avec ...",
+    "kor": "저는 ...에 전적으로 동의합니다.",
+    "b1": [
+      "Je suis tout à fait d'accord avec toi.",
+      "Je suis tout à fait d'accord avec cette idée.",
+      "Je suis tout à fait d'accord avec le professeur.",
+      "Je suis tout à fait d'accord avec vous.",
+      "Je suis tout à fait d'accord avec ce plan."
+    ],
+    "b2": [
+      "Je suis tout à fait d'accord avec votre analyse de la situation.",
+      "Je suis tout à fait d'accord avec le fait de limiter les écrans pour les enfants.",
+      "Je suis tout à fait d'accord avec les conclusions de ce rapport.",
+      "Je suis tout à fait d'accord avec l'importance de la diversité en entreprise.",
+      "Je suis tout à fait d'accord avec l'idée d'une semaine de quatre jours."
+    ],
+    "c1": [
+      "Je suis tout à fait d'accord avec la thèse de l'auteur concernant la fragmentation sociale.",
+      "Je suis tout à fait d'accord avec la nécessité d'une régulation plus stricte du secteur financier.",
+      "Je suis tout à fait d'accord avec le postulat selon lequel l'éducation est le premier levier de l'émancipation.",
+      "Je suis tout à fait d'accord avec cette vision holistique de la santé publique.",
+      "Je suis tout à fait d'accord avec les arguments avancés lors de la dernière conférence climat."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "C'est un point valable, mais ...",
+    "kor": "일리 있는 말씀입니다만, ...",
+    "b1": [
+      "C'est un point valable, mais c'est trop cher.",
+      "C'est un point valable, mais je n'ai pas le temps.",
+      "C'est un point valable, mais il fait froid dehors.",
+      "C'est un point valable, mais je préfère le thé.",
+      "C'est un point valable, mais nous devons partir."
+    ],
+    "b2": [
+      "C'est un point valable, mais les coûts de mise en œuvre sont trop élevés.",
+      "C'est un point valable, mais cette solution ne fonctionne pas partout.",
+      "C'est un point valable, mais il faut aussi considérer l'impact social.",
+      "C'est un point valable, mais les délais sont beaucoup trop courts.",
+      "C'est un point valable, mais les clients pourraient être mécontents."
+    ],
+    "c1": [
+      "C'est un point valable, mais il occulte une partie fondamentale de la problématique.",
+      "C'est un point valable, mais il repose sur des données qui sont aujourd'hui obsolètes.",
+      "C'est un point valable, mais la faisabilité politique d'une telle mesure reste à prouver.",
+      "C'est un point valable, mais cela ne résout en rien la cause profonde du dysfonctionnement.",
+      "C'est un point valable, mais l'arbitrage rendu semble quelque peu déséquilibré."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Je me permets de ne pas être d'accord sur ...",
+    "kor": "...에 대해서는 실례지만 동의할 수 없습니다.",
+    "b1": [
+      "Je me permets de ne pas être d'accord sur le prix.",
+      "Je me permets de ne pas être d'accord sur la couleur.",
+      "Je me permets de ne pas être d'accord sur ce choix.",
+      "Je me permets de ne pas être d'accord sur la date du rendez-vous.",
+      "Je me permets de ne pas être d'accord sur la musique."
+    ],
+    "b2": [
+      "Je me permets de ne pas être d'accord sur l'interprétation des résultats.",
+      "Je me permets de ne pas être d'accord sur les causes de cet échec.",
+      "Je me permets de ne pas être d'accord sur l'ordre des priorités de ce projet.",
+      "Je me permets de ne pas être d'accord sur l'efficacité de cette méthode pédagogique.",
+      "Je me permets de ne pas être d'accord sur l'impact environnemental de ce produit."
+    ],
+    "c1": [
+      "Je me permets de ne pas être d'accord sur les prémisses mêmes de votre raisonnement.",
+      "Je me permets de ne pas être d'accord sur la pertinence de cet indicateur macroéconomique.",
+      "Je me permets de ne pas être d'accord sur la vision pessimiste que vous dressez de la situation.",
+      "Je me permets de ne pas être d'accord sur les conclusions hâtives tirées de cette étude.",
+      "Je me permets de ne pas être d'accord sur la légitimité de cette intervention sur la scène internationale."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Bien que je comprenne que ..., je pense toujours que …",
+    "kor": "...라는 점은 이해하지만, 저는 여전히 ...라고 생각합니다.",
+    "b1": [
+      "Bien que je comprenne que tu es occupé, je pense toujours que tu devrais venir.",
+      "Bien que je comprenne que c'est difficile, je pense toujours que c'est possible.",
+      "Bien que je comprenne que tu aimes ce café, je pense toujours qu'il est trop cher.",
+      "Bien que je comprenne que tu sois fatigué, je pense toujours que nous devons finir.",
+      "Bien que je comprenne que tu n'aimes pas courir, je pense toujours que c'est bon pour la santé."
+    ],
+    "b2": [
+      "Bien que je comprenne que le budget soit limité, je pense toujours que la qualité est primordiale.",
+      "Bien que je comprenne que les changements fassent peur, je pense toujours qu'ils sont nécessaires.",
+      "Bien que je comprenne que cette règle soit stricte, je pense toujours qu'elle est juste.",
+      "Bien que je comprenne que vous ayez des doutes, je pense toujours que c'est le bon moment.",
+      "Bien que je comprenne que la technologie aide, je pense toujours que l'humain reste central."
+    ],
+    "c1": [
+      "Bien que je comprenne que les impératifs économiques soient pressants, je pense toujours que l'éthique ne doit pas être sacrifiée.",
+      "Bien que je comprenne que le consensus soit difficile à atteindre, je pense toujours que l'inaction est plus coûteuse.",
+      "Bien que je comprenne que cette réforme soit impopulaire, je pense toujours qu'elle est structurellement indispensable.",
+      "Bien que je comprenne que les données soient complexes, je pense toujours que la tendance générale est claire.",
+      "Bien que je comprenne que le risque zéro n'existe pas, je pense toujours que le principe de précaution doit s'appliquer."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Sauf votre respect, ...",
+    "kor": "무례할 수도 있지만 말씀드리자면 (외람된 말씀이지만), ...",
+    "b1": [
+      "Sauf votre respect, je ne suis pas d'accord.",
+      "Sauf votre respect, vous avez oublié un détail.",
+      "Sauf votre respect, c'est mon tour.",
+      "Sauf votre respect, ce n'est pas ce que j'ai dit.",
+      "Sauf votre respect, je préfère faire autrement."
+    ],
+    "b2": [
+      "Sauf votre respect, cette décision semble un peu précipitée.",
+      "Sauf votre respect, vos chiffres ne correspondent pas à la réalité du terrain.",
+      "Sauf votre respect, je pense que vous faites fausse route.",
+      "Sauf votre respect, cette méthode est un peu dépassée.",
+      "Sauf votre respect, nous ne pouvons pas accepter ces conditions."
+    ],
+    "c1": [
+      "Sauf votre respect, votre analyse omet des variables pourtant déterminantes.",
+      "Sauf votre respect, la rhétorique utilisée ici frise la démagogie.",
+      "Sauf votre respect, la gestion de ce dossier a été entachée de graves lacunes.",
+      "Sauf votre respect, cette interprétation des textes me semble juridiquement fragile.",
+      "Sauf votre respect, on ne peut décemment pas cautionner une telle dérive autoritaire."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Je ne suis pas entièrement sûr(e) de …",
+    "kor": "...에 대해 전적으로 확신하지는 못하겠습니다.",
+    "b1": [
+      "Je ne suis pas entièrement sûr de l'heure.",
+      "Je ne suis pas entièrement sûre de ton nom.",
+      "Je ne suis pas entièrement sûr de l'adresse.",
+      "Je ne suis pas entièrement sûre de vouloir y aller.",
+      "Je ne suis pas entièrement sûr du prix."
+    ],
+    "b2": [
+      "Je ne suis pas entièrement sûr de l'efficacité de ce médicament.",
+      "Je ne suis pas entièrement sûre de comprendre vos intentions.",
+      "Je ne suis pas entièrement sûr que ce soit la meilleure solution.",
+      "Je ne suis pas entièrement sûre de la fiabilité de ces sources.",
+      "Je ne suis pas entièrement sûr du résultat final."
+    ],
+    "c1": [
+      "Je ne suis pas entièrement sûr de la pertinence épistémologique de cette approche.",
+      "Je ne suis pas entièrement sûre que les retombées économiques justifient un tel investissement.",
+      "Je ne suis pas entièrement sûr de la validité de ce postulat dans le contexte actuel.",
+      "Je ne suis pas entièrement sûre que la neutralité soit possible dans un tel débat.",
+      "Je ne suis pas entièrement sûr que les garde-fous actuels suffisent à prévenir les dérives."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Pourriez-vous développer sur ... ?",
+    "kor": "...에 대해 좀 더 자세히 설명해 주시겠습니까?",
+    "b1": [
+      "Pourriez-vous développer sur ce point ?",
+      "Pourriez-vous développer sur votre idée ?",
+      "Pourriez-vous développer sur votre projet ?",
+      "Pourriez-vous développer sur ce mot ?",
+      "Pourriez-vous développer sur votre famille ?"
+    ],
+    "b2": [
+      "Pourriez-vous développer sur les avantages de cette méthode ?",
+      "Pourriez-vous développer sur les conséquences de ce choix ?",
+      "Pourriez-vous développer sur les aspects techniques du produit ?",
+      "Pourriez-vous développer sur la stratégie marketing à adopter ?",
+      "Pourriez-vous développer sur les critères de sélection ?"
+    ],
+    "c1": [
+      "Pourriez-vous développer sur les implications éthiques de votre proposition ?",
+      "Pourriez-vous développer sur les fondements théoriques de votre recherche ?",
+      "Pourriez-vous développer sur les nuances sémantiques de ce concept ?",
+      "Pourriez-vous développer sur la pérennité de ce modèle économique ?",
+      "Pourriez-vous développer sur la corrélation que vous établissez entre ces deux variables ?"
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "J'ai des sentiments mitigés à propos de …",
+    "kor": "...에 대해 복잡한 심경입니다 (좋기도 하고 나쁘기도 합니다).",
+    "b1": [
+      "J'ai des sentiments mitigés à propos de ce livre.",
+      "J'ai des sentiments mitigés à propos de mon nouveau travail.",
+      "J'ai des sentiments mitigés à propos de ce voyage.",
+      "J'ai des sentiments mitigés à propos de cette musique.",
+      "J'ai des sentiments mitigés à propos de la ville."
+    ],
+    "b2": [
+      "J'ai des sentiments mitigés à propos de la nouvelle réforme scolaire.",
+      "J'ai des sentiments mitigés à propos de l'impact des réseaux sociaux.",
+      "J'ai des sentiments mitigés à propos de cette proposition de collaboration.",
+      "J'ai des sentiments mitigés à propos de l'évolution du quartier.",
+      "J'ai des sentiments mitigés à propos de ce film expérimental."
+    ],
+    "c1": [
+      "J'ai des sentiments mitigés à propos de l'accélération technologique actuelle.",
+      "J'ai des sentiments mitigés à propos de la légitimité de cette intervention étatique.",
+      "J'ai des sentiments mitigés à propos de la gestion de cette crise sanitaire.",
+      "J'ai des sentiments mitigés à propos de l'influence de l'intelligence artificielle sur l'art.",
+      "J'ai des sentiments mitigés à propos du bilan de la dernière décennie."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Mettons-nous d'accord pour ne pas être d'accord sur …",
+    "kor": "...에 대해서는 의견이 다른 것으로 결론지읍시다 (서로의 차이를 인정합시다).",
+    "b1": [
+      "Mettons-nous d'accord pour ne pas être d'accord sur ce film.",
+      "Mettons-nous d'accord pour ne pas être d'accord sur la musique.",
+      "Mettons-nous d'accord pour ne pas être d'accord sur le sport.",
+      "Mettons-nous d'accord pour ne pas être d'accord sur ce restaurant.",
+      "Mettons-nous d'accord pour ne pas être d'accord sur la couleur."
+    ],
+    "b2": [
+      "Mettons-nous d'accord pour ne pas être d'accord sur la politique fiscale.",
+      "Mettons-nous d'accord pour ne pas être d'accord sur les priorités du projet.",
+      "Mettons-nous d'accord pour ne pas être d'accord sur cette analyse des faits.",
+      "Mettons-nous d'accord pour ne pas être d'accord sur l'origine du problème.",
+      "Mettons-nous d'accord pour ne pas être d'accord sur l'avenir de cette technologie."
+    ],
+    "c1": [
+      "Mettons-nous d'accord pour ne pas être d'accord sur les fondements idéologiques de cette mesure.",
+      "Mettons-nous d'accord pour ne pas être d'accord sur l'interprétation de ces données statistiques.",
+      "Mettons-nous d'accord pour ne pas être d'accord sur la vision du progrès social présentée ici.",
+      "Mettons-nous d'accord pour ne pas être d'accord sur l'issue de ce dilemme éthique.",
+      "Mettons-nous d'accord pour ne pas être d'accord sur la hiérarchie des valeurs en jeu."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Avez-vous considéré ...?",
+    "kor": "...을 고려해 보셨나요?",
+    "b1": [
+      "Avez-vous considéré cette option ?",
+      "Avez-vous considéré le prix ?",
+      "Avez-vous considéré d'aller en France ?",
+      "Avez-vous considéré d'acheter une voiture ?",
+      "Avez-vous considéré de changer d'avis ?"
+    ],
+    "b2": [
+      "Avez-vous considéré les conséquences à long terme de votre décision ?",
+      "Avez-vous considéré l'avis des experts sur la question ?",
+      "Avez-vous considéré une approche plus écologique pour votre projet ?",
+      "Avez-vous considéré les besoins réels des utilisateurs ?",
+      "Avez-vous considéré la possibilité d'un échec ?"
+    ],
+    "c1": [
+      "Avez-vous considéré les externalités négatives de ce modèle industriel ?",
+      "Avez-vous considéré l'impact sociologique de cette mutation urbaine ?",
+      "Avez-vous considéré les enjeux géopolitiques sous-jacents à cet accord ?",
+      "Avez-vous considéré la fragilité des infrastructures face au changement climatique ?",
+      "Avez-vous considéré la dimension psychologique du comportement des consommateurs ?"
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Ce n'est pas toujours le cas parce que …",
+    "kor": "...이기 때문에 항상 그런 것은 아닙니다.",
+    "b1": [
+      "Ce n'est pas toujours le cas parce que c'est difficile.",
+      "Ce n'est pas toujours le cas parce que les gens changent.",
+      "Ce n'est pas toujours le cas parce qu'il fait froid.",
+      "Ce n'est pas toujours le cas parce que c'est cher.",
+      "Ce n'est pas toujours le cas parce que je suis occupé."
+    ],
+    "b2": [
+      "Ce n'est pas toujours le cas parce que chaque situation est unique.",
+      "Ce n'est pas toujours le cas parce que les règles peuvent varier.",
+      "Ce n'est pas toujours le cas parce que les prévisions sont parfois fausses.",
+      "Ce n'est pas toujours le cas parce que les technologies évoluent vite.",
+      "Ce n'est pas toujours le cas parce que l'opinion publique est instable."
+    ],
+    "c1": [
+      "Ce n'est pas toujours le cas parce que les déterminismes sociaux jouent un rôle crucial.",
+      "Ce n'est pas toujours le cas parce que les interactions systémiques sont imprévisibles.",
+      "Ce n'est pas toujours le cas parce que la subjectivité individuelle altère la perception.",
+      "Ce n'est pas toujours le cas parce que les contextes historiques diffèrent radicalement.",
+      "Ce n'est pas toujours le cas parce que les mécanismes de régulation sont parfois défaillants."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Je vois les choses …",
+    "kor": "저는 상황을 ...게 봅니다.",
+    "b1": [
+      "Je vois les choses différemment.",
+      "Je vois les choses positivement.",
+      "Je vois les choses simplement.",
+      "Je vois les choses ainsi.",
+      "Je vois les choses d'une autre façon."
+    ],
+    "b2": [
+      "Je vois les choses de manière très optimiste pour l'année prochaine.",
+      "Je vois les choses sous un angle nouveau grâce à vos explications.",
+      "Je vois les choses globalement, sans m'arrêter aux petits détails.",
+      "Je vois les choses avec beaucoup de prudence pour le moment.",
+      "Je vois les choses de façon pragmatique avant tout."
+    ],
+    "c1": [
+      "Je vois les choses sous le prisme de la sociologie contemporaine.",
+      "Je vois les choses de manière dialectique, en opposant les contraires.",
+      "Je vois les choses avec une certaine lucidité teintée de pessimisme.",
+      "Je vois les choses à travers une perspective historique de longue durée.",
+      "Je vois les choses comme une opportunité de redéfinir nos priorités fondamentales."
+    ]
+  }
+]
