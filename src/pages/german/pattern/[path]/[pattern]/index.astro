@@ -58,11 +58,10 @@ export async function getStaticPaths() {
 
     return jsonData.map((post) => ({
       params: {
-        path: chapter.path,
-        pattern: post.id.toString(),
+        path: chapter.path, // [path] 부분에 들어갈 값
+        pattern: post.id.toString(), // [pattern] 부분에 들어갈 값
       },
       props: {
-        chapter,
         post,
       },
     }));
@@ -72,10 +71,10 @@ export async function getStaticPaths() {
 // Astro.params를 통해 URL의 모든 변수를 가져옵니다.
 const { path, pattern } = Astro.params;
 // getStaticPaths의 props에서 데이터를 가져옵니다.
-const { post, chapter } = Astro.props;
+const { post } = Astro.props;
 
 // Title
-const pageTitle = `${post.pattern} | ${chapter.fra}`;
+const pageTitle = `${post.pattern}`;
 
 // Visibility Controller
 const navItems = [
