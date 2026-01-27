@@ -209,7 +209,6 @@ const navItems = [
 
   .phrase-box {
     border: 1px solid var(--zinc400);
-    border-radius: 20px;
     margin-bottom: 1.5rem;
     padding: 1.5rem;
   }
@@ -233,5 +232,38 @@ const navItems = [
 
   .phrase-box > p > span {
     margin-right: 10px;
+  }
+
+  /* Mobile */
+  @media (max-width: 768px) {
+    .title {
+      background-color: var(--sky400);
+      padding: 1.5rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .title > h1,
+    .title > p {
+      width: 100%;
+    }
+
+    .title > h1 {
+      font-size: 22px;
+    }
+
+    .title > p {
+      font-size: 15px;
+    }
+
+    .phrase-box > h2 {
+      font-size: 18px;
+      margin-top: 1rem;
+    }
+
+    .phrase-box > p {
+      font-size: 15px;
+      margin-bottom: 1.2rem;
+      line-height: 1.5rem;
+    }
   }
 </style>

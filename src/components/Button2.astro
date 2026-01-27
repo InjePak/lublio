@@ -48,6 +48,7 @@ const borderColor = colorMap[language] || "var(--zinc400)";
     font-size: 16px;
     font-weight: 500;
     margin-bottom: 0rem;
+    color: var(--zinc500);
   }
 
   .btn > p {
@@ -57,13 +58,17 @@ const borderColor = colorMap[language] || "var(--zinc400)";
   }
 
   /* Mobile */
-  @media (max-width: 688px) {
+  @media (max-width: 768px) {
     .btn > h1 {
-      font-size: 22px;
+      font-size: 18px;
     }
 
     .btn > h2 {
       font-size: 15px;
+    }
+
+    .btn > p {
+      font-size: 14px;
     }
   }
 </style>

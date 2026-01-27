@@ -45,7 +45,7 @@ hr {
 }
 
 /* Mobile */
-@media (max-width: 688px) {
+@media (max-width: 768px) {
   hr {
     margin: 2rem 0;
   }
@@ -125,7 +125,7 @@ p {
 }
 
 /* Mobile */
-@media (max-width: 688px) {
+@media (max-width: 768px) {
   h1 {
     font-size: 24px;
   }
@@ -249,7 +249,7 @@ ol > li > a:hover {
 }
 
 /* Mobile */
-@media (max-width: 688px) {
+@media (max-width: 768px) {
   ul > li > a,
   ol > li > a {
     font-size: 15px;
@@ -284,7 +284,7 @@ ol > li > a:hover {
 }
 
 /* Mobile */
-@media (max-width: 688px) {
+@media (max-width: 768px) {
   .text-box > p {
     font-size: 15px;
   }
@@ -354,7 +354,7 @@ ol > li > a:hover {
 }
 
 /* Mobile */
-@media (max-width: 688px) {
+@media (max-width: 768px) {
   .styled-list {
     font-size: 16px;
   }
@@ -429,7 +429,7 @@ select > option:hover {
 }
 
 /* Mobile */
-@media (max-width: 688px) {
+@media (max-width: 768px) {
   select {
     font-size: 15px;
   }
@@ -495,7 +495,7 @@ button:focus {
 }
 
 /* Mobile */
-@media (max-width: 688px) {
+@media (max-width: 768px) {
   button {
     width: calc(100% - 10px);
     max-width: none;
