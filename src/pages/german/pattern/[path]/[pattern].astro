@@ -56,11 +56,14 @@ export async function getStaticPaths() {
         break;
     }
 
+    const cleanPath = chapter.path
+      .replace(/^\/|\/$/g, "") // 앞뒤 슬래시 제거
+      .split("/") // 배열로 분리
+      .pop(); // 마지막 요소만 선택
+
     return jsonData.map((post) => ({
       params: {
-        path: chapter.path.includes("/")
-          ? chapter.path.split("/").pop()
-          : chapter.path, // [path] 부분에 들어갈 값
+        path: cleanPath, // [path] 부분에 들어갈 값
         pattern: post.id.toString(), // [pattern] 부분에 들어갈 값
       },
       props: {
