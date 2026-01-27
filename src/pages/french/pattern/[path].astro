@@ -1,19 +1,19 @@
 ---
-import BaseLayout from "../../../../layouts/BaseLayout.astro";
-import Box2 from "../../../../components/Box2.astro";
-import Button2 from "../../../../components/Button2.astro";
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import Box2 from "../../../components/Box2.astro";
+import Button2 from "../../../components/Button2.astro";
 
-import chapters from "../../../../assets/json/patterns/chapters.json";
-import chapter1 from "../../../../assets/json/patterns/french/chapter1.json";
-import chapter2 from "../../../../assets/json/patterns/french/chapter2.json";
-import chapter3 from "../../../../assets/json/patterns/french/chapter3.json";
-import chapter4 from "../../../../assets/json/patterns/french/chapter4.json";
-import chapter5 from "../../../../assets/json/patterns/french/chapter5.json";
-import chapter6 from "../../../../assets/json/patterns/french/chapter6.json";
-import chapter7 from "../../../../assets/json/patterns/french/chapter7.json";
-import chapter8 from "../../../../assets/json/patterns/french/chapter8.json";
-import chapter9 from "../../../../assets/json/patterns/french/chapter9.json";
-import chapter10 from "../../../../assets/json/patterns/french/chapter10.json";
+import chapters from "../../../assets/json/patterns/chapters.json";
+import chapter1 from "../../../assets/json/patterns/french/chapter1.json";
+import chapter2 from "../../../assets/json/patterns/french/chapter2.json";
+import chapter3 from "../../../assets/json/patterns/french/chapter3.json";
+import chapter4 from "../../../assets/json/patterns/french/chapter4.json";
+import chapter5 from "../../../assets/json/patterns/french/chapter5.json";
+import chapter6 from "../../../assets/json/patterns/french/chapter6.json";
+import chapter7 from "../../../assets/json/patterns/french/chapter7.json";
+import chapter8 from "../../../assets/json/patterns/french/chapter8.json";
+import chapter9 from "../../../assets/json/patterns/french/chapter9.json";
+import chapter10 from "../../../assets/json/patterns/french/chapter10.json";
 
 // 1. 빌드 시 생성될 모든 경로를 정의합니다.
 export async function getStaticPaths() {
@@ -86,7 +86,7 @@ const pageTitle = "프랑스어";
         title={post.pattern}
         subtitle={post.kor}
         language="fra"
-        path={path + "/" + post.id}
+        path={"/french/pattern/" + path + "/" + post.id}
       />
     ))
   }

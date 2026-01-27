@@ -1,18 +1,18 @@
 ---
-import BaseLayout from "../../../../../layouts/BaseLayout.astro";
-import VisibilityController from "../../../../../components/VisibilityController.astro";
+import BaseLayout from "../../../../layouts/BaseLayout.astro";
+import VisibilityController from "../../../../components/VisibilityController.astro";
 
-import chapters from "../../../../../assets/json/patterns/chapters.json";
-import chapter1 from "../../../../../assets/json/patterns/russian/chapter1.json";
-import chapter2 from "../../../../../assets/json/patterns/russian/chapter2.json";
-import chapter3 from "../../../../../assets/json/patterns/russian/chapter3.json";
-import chapter4 from "../../../../../assets/json/patterns/russian/chapter4.json";
-import chapter5 from "../../../../../assets/json/patterns/russian/chapter5.json";
-import chapter6 from "../../../../../assets/json/patterns/russian/chapter6.json";
-import chapter7 from "../../../../../assets/json/patterns/russian/chapter7.json";
-import chapter8 from "../../../../../assets/json/patterns/russian/chapter8.json";
-import chapter9 from "../../../../../assets/json/patterns/russian/chapter9.json";
-import chapter10 from "../../../../../assets/json/patterns/russian/chapter10.json";
+import chapters from "../../../../assets/json/patterns/chapters.json";
+import chapter1 from "../../../../assets/json/patterns/russian/chapter1.json";
+import chapter2 from "../../../../assets/json/patterns/russian/chapter2.json";
+import chapter3 from "../../../../assets/json/patterns/russian/chapter3.json";
+import chapter4 from "../../../../assets/json/patterns/russian/chapter4.json";
+import chapter5 from "../../../../assets/json/patterns/russian/chapter5.json";
+import chapter6 from "../../../../assets/json/patterns/russian/chapter6.json";
+import chapter7 from "../../../../assets/json/patterns/russian/chapter7.json";
+import chapter8 from "../../../../assets/json/patterns/russian/chapter8.json";
+import chapter9 from "../../../../assets/json/patterns/russian/chapter9.json";
+import chapter10 from "../../../../assets/json/patterns/russian/chapter10.json";
 
 export async function getStaticPaths() {
   // 모든 경로의 조합을 생성합니다.
@@ -56,13 +56,14 @@ export async function getStaticPaths() {
         break;
     }
 
+    const slug = chapter.path.split("/").filter(Boolean).pop();
+
     return jsonData.map((post) => ({
       params: {
-        path: chapter.path,
-        pattern: post.id.toString(),
+        path: slug, // [path] 부분에 들어갈 값
+        pattern: post.id.toString(), // [pattern] 부분에 들어갈 값
       },
       props: {
-        chapter,
         post,
       },
     }));
@@ -72,10 +73,10 @@ export async function getStaticPaths() {
 // Astro.params를 통해 URL의 모든 변수를 가져옵니다.
 const { path, pattern } = Astro.params;
 // getStaticPaths의 props에서 데이터를 가져옵니다.
-const { post, chapter } = Astro.props;
+const { post } = Astro.props;
 
 // Title
-const pageTitle = `${post.pattern} | ${chapter.fra}`;
+const pageTitle = `${post.pattern}`;
 
 // Visibility Controller
 const navItems = [
