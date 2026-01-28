@@ -240,11 +240,9 @@ switch (level) {
     jsonData = phrase_a1_1;
     break;
 }
-
-const pageTitle = "독일어 회화";
 ---
 
-<BaseLayout pageTitle={pageTitle + " | Lublio"}>
+<BaseLayout pageTitle={chapter.kor + " | Lublio"}>
   <div class="title">
     <h1 class="riseUp_1">{chapter.kor}</h1>
     <hr />
@@ -278,7 +276,6 @@ const pageTitle = "독일어 회화";
     background-color: var(--amber400);
     padding: 1.5rem 2rem;
     margin-bottom: 1.5rem;
-    border-radius: 20px;
   }
 
   .title > h1,
@@ -338,7 +335,6 @@ const pageTitle = "독일어 회화";
   /* Mobile */
   @media (max-width: 768px) {
     .title {
-      background-color: var(--amber400);
       padding: 1.5rem;
       margin-bottom: 1.5rem;
     }

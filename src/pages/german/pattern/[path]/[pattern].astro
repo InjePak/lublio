@@ -75,9 +75,6 @@ const { path, pattern } = Astro.params;
 // getStaticPaths의 props에서 데이터를 가져옵니다.
 const { post } = Astro.props;
 
-// Title
-const pageTitle = `${post.pattern}`;
-
 // Visibility Controller
 const navItems = [
   { id: "phrase-b1", label: "B1" },
@@ -86,7 +83,7 @@ const navItems = [
 ];
 ---
 
-<BaseLayout pageTitle={pageTitle}>
+<BaseLayout pageTitle={post.kor + " | Lublio"}>
   <div class="title">
     <h1 class="riseUp_1">{post.id}. {post.pattern}</h1>
     <hr />
@@ -104,7 +101,7 @@ const navItems = [
           <>
             {index === 0 && (
               <>
-                <div class={`phrase-box phrase-b1`}>
+                <div class={`phrase-box phrase-b1 riseUp_1`}>
                   <h2>
                     <span style="color: var(--amber400)">●</span> B1
                   </h2>
@@ -119,7 +116,7 @@ const navItems = [
             )}
             {index === 1 && (
               <>
-                <div class={`phrase-box phrase-b2`}>
+                <div class={`phrase-box phrase-b2 riseUp_1`}>
                   <h2>
                     <span style="color: var(--amber400)">●</span> B2
                   </h2>
@@ -134,7 +131,7 @@ const navItems = [
             )}
             {index === 2 && (
               <>
-                <div class={`phrase-box phrase-c1`}>
+                <div class={`phrase-box phrase-c1 riseUp_1`}>
                   <h2>
                     <span style="color: var(--amber400)">●</span> C1
                   </h2>
@@ -237,7 +234,6 @@ const navItems = [
   /* Mobile */
   @media (max-width: 768px) {
     .title {
-      background-color: var(--amber400);
       padding: 1.5rem;
       margin-bottom: 1.5rem;
     }

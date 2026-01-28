@@ -25,7 +25,7 @@ const { items } = Astro.props;
     display: flex;
     justify-content: space-evenly;
     top: 0;
-    background: var(--zinc800);
+    border: 1px solid var(--zinc400);
     border-radius: 50px;
     padding: 0.5rem 1rem;
     display: flex;
@@ -49,9 +49,7 @@ const { items } = Astro.props;
   .visibility-toggle + span {
     display: inline-block;
     padding: 8px 16px;
-    background-color: var(--zinc800);
-    color: var(--zinc200);
-    border-radius: 50px;
+    border-radius: 10px;
     font-weight: 600;
     font-size: 16px;
     cursor: pointer;
@@ -60,21 +58,19 @@ const { items } = Astro.props;
   }
 
   .visibility-toggle:not(:checked) + span {
-    color: var(--zinc200);
-    opacity: 0.3;
+    color: var(--zinc400);
   }
 
   .visibility-toggle:not(:checked) + span:hover {
-    background-color: var(--zinc700);
+    background-color: var(--zinc300);
   }
 
   .visibility-toggle:checked + span {
-    color: var(--zinc200);
-    opacity: 1;
+    color: var(--zinc800);
   }
 
   .visibility-toggle:checked + span:hover {
-    background-color: var(--zinc700);
+    background-color: var(--zinc300);
   }
 </style>
 

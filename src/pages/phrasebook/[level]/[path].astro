@@ -1,5 +1,6 @@
 ---
 import BaseLayout from "../../../layouts/BaseLayout.astro";
+import VisibilityController from "../../../components/VisibilityController.astro";
 
 // src/pages/phrasebook/[level]/[path].astro
 import chapters from "../../../assets/json/phrasebook/chapters.json";
@@ -241,7 +242,16 @@ switch (level) {
     break;
 }
 
+// Title
 const pageTitle = "다개국어 회화";
+
+// Visibility Controller
+const navItems = [
+  { id: "phrase-eng", label: "영어" },
+  { id: "phrase-deu", label: "독일어" },
+  { id: "phrase-fra", label: "프랑스어" },
+  { id: "phrase-rus", label: "러시아어" },
+];
 ---
 
 <BaseLayout pageTitle={pageTitle + " | Lublio"}>
@@ -254,47 +264,7 @@ const pageTitle = "다개국어 회화";
     <p class="riseUp_5">{chapter.rus}</p>
   </div>
 
-  <div class="controls">
-    <label>
-      <input
-        type="checkbox"
-        class="toggle-lang"
-        data-target="phrase-eng"
-        checked
-      />
-      <span>영어</span>
-    </label>
-
-    <label>
-      <input
-        type="checkbox"
-        class="toggle-lang"
-        data-target="phrase-deu"
-        checked
-      />
-      <span>독일어</span>
-    </label>
-
-    <label>
-      <input
-        type="checkbox"
-        class="toggle-lang"
-        data-target="phrase-fra"
-        checked
-      />
-      <span>프랑스어</span>
-    </label>
-
-    <label>
-      <input
-        type="checkbox"
-        class="toggle-lang"
-        data-target="phrase-rus"
-        checked
-      />
-      <span>러시아어</span>
-    </label>
-  </div>
+  <VisibilityController items={navItems} />
 
   {
     !jsonData ? (
@@ -353,7 +323,6 @@ const pageTitle = "다개국어 회화";
     background-color: var(--zinc300);
     padding: 1.5rem 2rem;
     margin-bottom: 1.5rem;
-    border-radius: 20px;
   }
 
   .title > h1,
@@ -443,7 +412,6 @@ const pageTitle = "다개국어 회화";
 
   .phrase-box {
     border: 1px solid var(--zinc400);
-    border-radius: 20px;
     margin-bottom: 1.5rem;
     padding: 1.5rem;
   }
@@ -451,7 +419,7 @@ const pageTitle = "다개국어 회화";
   .phrase-box > h2 {
     font-size: 20px;
     font-weight: 500;
-    margin-top: 1rem;
+    margin-top: 1.5rem;
   }
 
   .phrase-box > hr {
@@ -461,11 +429,43 @@ const pageTitle = "다개국어 회화";
   }
 
   .phrase-box > p {
-    font-size: 16px;
-    margin-bottom: 1rem;
+    font-size: 17px;
+    margin-bottom: 1.5rem;
   }
 
   .phrase-box > p > span {
     margin-right: 10px;
+  }
+
+  /* Mobile */
+  @media (max-width: 768px) {
+    .title {
+      padding: 1.5rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .title > h1,
+    .title > p {
+      width: 100%;
+    }
+
+    .title > h1 {
+      font-size: 22px;
+    }
+
+    .title > p {
+      font-size: 15px;
+    }
+
+    .phrase-box > h2 {
+      font-size: 16px;
+      margin-top: 1rem;
+    }
+
+    .phrase-box > p {
+      font-size: 15px;
+      margin-bottom: 1.2rem;
+      line-height: 1.5rem;
+    }
   }
 </style>
