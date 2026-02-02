@@ -1,0 +1,61 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Box from "../../components/Box.astro";
+import Button from "../../components/Button.astro";
+
+const pageTitle = "Turkish";
+---
+
+<BaseLayout pageTitle={pageTitle + " | Lublio"}>
+  <Box
+    title="Türkçe"
+    subtitle="Turkish"
+    description="Türkçe, dünya çapında milyonlarca insan tarafından konuşulan dinamik ve melodik bir dildir. Moğolca ve Korece ile benzer yapısal özelliklere sahip olan bu dil, zengin tarihi ve modern yapısıyla size Orta Doğu ile Avrupa arasında bir köprü kurar."
+    language="tur"
+  />
+
+  <Button
+    title="İlk Adımlar"
+    subtitle="Absolute Beginner"
+    description="CEFR A0"
+    language="tur"
+    path="/turkish/a0"
+    level="a0"
+  />
+
+  <Button
+    title="Temelleri Oluşturmak"
+    subtitle="Beginner"
+    description="CEFR A1"
+    language="tur"
+    path="/turkish/a1"
+    level="a1"
+  />
+
+  <Button
+    title="Günlük Konuşmalar"
+    subtitle="Elementary"
+    description="CEFR A2"
+    language="tur"
+    path="/turkish/a2"
+    level="a2"
+  />
+
+  <Button
+    title="Özgüvenli İletişim"
+    subtitle="Intermediate"
+    description="CEFR B1"
+    language="tur"
+    path="/turkish/b1"
+    level="b1"
+  />
+
+  <Button
+    title="Akıcılığa Ulaşmak"
+    subtitle="Upper Intermediate"
+    description="CEFR B2"
+    language="tur"
+    path="/turkish/b2"
+    level="b2"
+  />
+</BaseLayout>

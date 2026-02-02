@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "I feel overwhelmingly ... about ...",
+    "kor": "...에 대해 압도적으로 ...함을 느낍니다",
+    "b1": [
+      "I feel overwhelmingly happy about my graduation.",
+      "I feel overwhelmingly positive about the new job.",
+      "I feel overwhelmingly busy about the upcoming trip.",
+      "I feel overwhelmingly excited about the party tonight.",
+      "I feel overwhelmingly grateful about your help."
+    ],
+    "b2": [
+      "I feel overwhelmingly optimistic about the future of our project.",
+      "I feel overwhelmingly stressed about the mounting pressure at work.",
+      "I feel overwhelmingly passionate about environmental protection.",
+      "I feel overwhelmingly curious about the local culture here.",
+      "I feel overwhelmingly confident about passing the final exam."
+    ],
+    "c1": [
+      "I feel overwhelmingly nostalgic about the era of handwritten letters.",
+      "I feel overwhelmingly apprehensive about the ethical implications of AI.",
+      "I feel overwhelmingly cynical about the current political discourse.",
+      "I feel overwhelmingly ambivalent about the prospect of relocating abroad.",
+      "I feel overwhelmingly inspired by the resilience of the human spirit."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "It truly touched my heart when ...",
+    "kor": "...했을 때 정말 감동받았어요 (가슴에 와닿았어요)",
+    "b1": [
+      "It truly touched my heart when you sent me a gift.",
+      "It truly touched my heart when she said thank you.",
+      "It truly touched my heart when the dog waited for me.",
+      "It truly touched my heart when my friends visited me.",
+      "It truly touched my heart when I saw the beautiful sunset."
+    ],
+    "b2": [
+      "It truly touched my heart when the community came together to help.",
+      "It truly touched my heart when I read your sincere apology letter.",
+      "It truly touched my heart when he shared his lunch with the poor.",
+      "It truly touched my heart when my students showed their progress.",
+      "It truly touched my heart when I saw the old couple holding hands."
+    ],
+    "c1": [
+      "It truly touched my heart when I witnessed the selfless devotion of the volunteers.",
+      "It truly touched my heart when the artist explained the tragedy behind the painting.",
+      "It truly touched my heart when the stranger offered words of comfort in my darkest hour.",
+      "It truly touched my heart when I realized the sacrifices my parents made for my education.",
+      "It truly touched my heart when the silent crowd stood in solidarity during the protest."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "I'm deeply concerned about ...",
+    "kor": "저는 ...에 대해 깊이 우려하고 있습니다",
+    "b1": [
+      "I'm deeply concerned about my health these days.",
+      "I'm deeply concerned about the heavy rain tonight.",
+      "I'm deeply concerned about the test results.",
+      "I'm deeply concerned about my friend's problem.",
+      "I'm deeply concerned about the safety of our neighborhood."
+    ],
+    "b2": [
+      "I'm deeply concerned about the rising cost of living in the city.",
+      "I'm deeply concerned about the lack of communication in our team.",
+      "I'm deeply concerned about the impact of social media on teenagers.",
+      "I'm deeply concerned about the sustainability of our current lifestyle.",
+      "I'm deeply concerned about the quality of education in rural areas."
+    ],
+    "c1": [
+      "I'm deeply concerned about the erosion of democratic values globally.",
+      "I'm deeply concerned about the widening gap between the rich and the poor.",
+      "I'm deeply concerned about the long-term ramifications of climate change.",
+      "I'm deeply concerned about the psychological toll of digital isolation.",
+      "I'm deeply concerned about the lack of transparency in the government's decision."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "There's a huge weight lifted off my shoulders because ...",
+    "kor": "... 덕분에 마음의 짐을 크게 덜었어요",
+    "b1": [
+      "There's a huge weight lifted off my shoulders because the exam is over.",
+      "There's a huge weight lifted off my shoulders because I found my keys.",
+      "There's a huge weight lifted off my shoulders because you helped me.",
+      "There's a huge weight lifted off my shoulders because I finished the work.",
+      "There's a huge weight lifted off my shoulders because the cat returned."
+    ],
+    "b2": [
+      "There's a huge weight lifted off my shoulders because I finally paid off my debt.",
+      "There's a huge weight lifted off my shoulders because the surgery was successful.",
+      "There's a huge weight lifted off my shoulders because I told her the truth.",
+      "There's a huge weight lifted off my shoulders because the project got approved.",
+      "There's a huge weight lifted off my shoulders because my car is fixed."
+    ],
+    "c1": [
+      "There's a huge weight lifted off my shoulders because the legal dispute has been settled.",
+      "There's a huge weight lifted off my shoulders because I’ve finally come to terms with my past.",
+      "There's a huge weight lifted off my shoulders because the audit showed no major issues.",
+      "There's a huge weight lifted off my shoulders because I’ve delegated some of my burdens.",
+      "There's a huge weight lifted off my shoulders because we reached a consensus on the strategy."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "I can't hide how much I appreciate ...",
+    "kor": "제가 얼마나 ...에 감사하는지 숨길 수가 없네요",
+    "b1": [
+      "I can't hide how much I appreciate your kind words.",
+      "I can't hide how much I appreciate the nice dinner.",
+      "I can't hide how much I appreciate your warm welcome.",
+      "I can't hide how much I appreciate this beautiful gift.",
+      "I can't hide how much I appreciate your time."
+    ],
+    "b2": [
+      "I can't hide how much I appreciate your unwavering support during this crisis.",
+      "I can't hide how much I appreciate the hard work of everyone in the team.",
+      "I can't hide how much I appreciate the opportunity to work here.",
+      "I can't hide how much I appreciate your honest feedback on my work.",
+      "I can't hide how much I appreciate the freedom to express my ideas."
+    ],
+    "c1": [
+      "I can't hide how much I appreciate the intellectual stimulation this group provides.",
+      "I can't hide how much I appreciate the nuance and depth in your latest research.",
+      "I can't hide how much I appreciate the sacrifices you've made for our community.",
+      "I can't hide how much I appreciate the meticulous attention to detail in the design.",
+      "I can't hide how much I appreciate the profound wisdom shared in today's lecture."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "I feel a profound sense of sadness over ...",
+    "kor": "...에 대해 깊은 슬픔을 느낍니다",
+    "b1": [
+      "I feel a profound sense of sadness over the lost dog.",
+      "I feel a profound sense of sadness over the end of the holiday.",
+      "I feel a profound sense of sadness over the broken window.",
+      "I feel a profound sense of sadness over my friend leaving.",
+      "I feel a profound sense of sadness over the sad news."
+    ],
+    "b2": [
+      "I feel a profound sense of sadness over the closure of the local library.",
+      "I feel a profound sense of sadness over the loss of a great mentor.",
+      "I feel a profound sense of sadness over the damage caused by the storm.",
+      "I feel a profound sense of sadness over the misunderstanding between us.",
+      "I feel a profound sense of sadness over how quickly time is passing."
+    ],
+    "c1": [
+      "I feel a profound sense of sadness over the gradual erosion of cultural heritage.",
+      "I feel a profound sense of sadness over the missed opportunities for peace.",
+      "I feel a profound sense of sadness over the collective apathy regarding poverty.",
+      "I feel a profound sense of sadness over the tragic disintegration of the ecosystem.",
+      "I feel a profound sense of sadness over the unfulfilled potential of our youth."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Words can’t describe how much ...",
+    "kor": "얼마나 ...한지 말로 다 표현할 수가 없어요",
+    "b1": [
+      "Words can’t describe how much I love this cake.",
+      "Words can’t describe how much I enjoyed the movie.",
+      "Words can’t describe how much I miss my family.",
+      "Words can’t describe how much I want to go there.",
+      "Words can’t describe how much I thank you."
+    ],
+    "b2": [
+      "Words can’t describe how much this promotion means to me.",
+      "Words can’t describe how much I admire your courage.",
+      "Words can’t describe how much I regret my past mistakes.",
+      "Words can’t describe how much I learned from this experience.",
+      "Words can’t describe how much I value our friendship."
+    ],
+    "c1": [
+      "Words can’t describe how much the landscape has transformed in a decade.",
+      "Words can’t describe how much your mentorship has shaped my professional identity.",
+      "Words can’t describe how much the tragedy has affected the local psyche.",
+      "Words can’t describe how much I cherish the ephemeral beauty of art.",
+      "Words can’t describe how much the philosophical insights have changed my life."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "I have been struggling with the thought of ...",
+    "kor": "...라는 생각 때문에 괴로워하고 있어요",
+    "b1": [
+      "I have been struggling with the thought of failing the test.",
+      "I have been struggling with the thought of moving away.",
+      "I have been struggling with the thought of losing my job.",
+      "I have been struggling with the thought of my cat being sick.",
+      "I have been struggling with the thought of being alone."
+    ],
+    "b2": [
+      "I have been struggling with the thought of whether to quit my current role.",
+      "I have been struggling with the thought of making the wrong life choice.",
+      "I have been struggling with the thought of how to tell him the truth.",
+      "I have been struggling with the thought of living in an uncertain future.",
+      "I have been struggling with the thought of not being good enough for the task."
+    ],
+    "c1": [
+      "I have been struggling with the thought of the moral ambiguity of our actions.",
+      "I have been struggling with the thought of the existential void in modern life.",
+      "I have been struggling with the thought of the inevitable decline of our industry.",
+      "I have been struggling with the thought of the inherent unfairness in the system.",
+      "I have been struggling with the thought of leaving a meaningful legacy behind."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "My greatest fear is that ...",
+    "kor": "제 가장 큰 두려움은 ...라는 거예요",
+    "b1": [
+      "My greatest fear is that I might get lost.",
+      "My greatest fear is that it will rain on my wedding.",
+      "My greatest fear is that I will forget my speech.",
+      "My greatest fear is that the dark will be scary.",
+      "My greatest fear is that I won't finish in time."
+    ],
+    "b2": [
+      "My greatest fear is that I will never reach my full potential.",
+      "My greatest fear is that our children will inherit a broken world.",
+      "My greatest fear is that I'll look back on my life with regret.",
+      "My greatest fear is that people will misunderstand my true intentions.",
+      "My greatest fear is that technology will eventually replace human connection."
+    ],
+    "c1": [
+      "My greatest fear is that systemic corruption will become the new norm.",
+      "My greatest fear is that we are losing the ability to think critically as a society.",
+      "My greatest fear is that intellectual curiosity is being stifled by convenience.",
+      "My greatest fear is that the lessons of history are being systematically ignored.",
+      "My greatest fear is that our pursuit of progress is masking a profound moral decay."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "This situation has left me feeling quite ...",
+    "kor": "이 상황 때문에 꽤나 ...한 기분이 드네요",
+    "b1": [
+      "This situation has left me feeling quite tired.",
+      "This situation has left me feeling quite happy.",
+      "This situation has left me feeling quite surprised.",
+      "This situation has left me feeling quite sad.",
+      "This situation has left me feeling quite confused."
+    ],
+    "b2": [
+      "This situation has left me feeling quite overwhelmed by all the tasks.",
+      "This situation has left me feeling quite frustrated with the lack of progress.",
+      "This situation has left me feeling quite hopeful about the new changes.",
+      "This situation has left me feeling quite isolated from the rest of the team.",
+      "This situation has left me feeling quite curious about what will happen next."
+    ],
+    "c1": [
+      "This situation has left me feeling quite disillusioned with the organizational culture.",
+      "This situation has left me feeling quite skeptical about the proposed solutions.",
+      "This situation has left me feeling quite apprehensive about the fiscal outlook.",
+      "This situation has left me feeling quite intrigued by the underlying complexities.",
+      "This situation has left me feeling quite alienated by the recent policy shifts."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "It breaks my heart to see ...",
+    "kor": "...를 보는 것이 정말 마음이 아픕니다",
+    "b1": [
+      "It breaks my heart to see a sad child.",
+      "It breaks my heart to see hungry dogs.",
+      "It breaks my heart to see old trees cut down.",
+      "It breaks my heart to see my friend crying.",
+      "It breaks my heart to see people fighting."
+    ],
+    "b2": [
+      "It breaks my heart to see people living on the streets without help.",
+      "It breaks my heart to see talented individuals being ignored.",
+      "It breaks my heart to see how much pollution is in the ocean.",
+      "It breaks my heart to see families separated by war.",
+      "It breaks my heart to see the decline of this historic neighborhood."
+    ],
+    "c1": [
+      "It breaks my heart to see the systematic destruction of biodiversity.",
+      "It breaks my heart to see truth being sacrificed for political gain.",
+      "It breaks my heart to see the erosion of empathy in our digital interactions.",
+      "It breaks my heart to see brilliant minds wasted in repetitive labor.",
+      "It breaks my heart to see the cynicism that pervades our modern discourse."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "I genuinely admire your strength in ...",
+    "kor": "...에 있어 당신의 강인함을 진심으로 존경합니다",
+    "b1": [
+      "I genuinely admire your strength in finishing the race.",
+      "I genuinely admire your strength in saying no.",
+      "I genuinely admire your strength in working hard.",
+      "I genuinely admire your strength in moving to a new city.",
+      "I genuinely admire your strength in being kind to everyone."
+    ],
+    "b2": [
+      "I genuinely admire your strength in dealing with such a difficult boss.",
+      "I genuinely admire your strength in recovering from the accident so quickly.",
+      "I genuinely admire your strength in raising three children on your own.",
+      "I genuinely admire your strength in speaking up for what you believe in.",
+      "I genuinely admire your strength in starting over after a major failure."
+    ],
+    "c1": [
+      "I genuinely admire your strength in navigating the ethical complexities of your role.",
+      "I genuinely admire your strength in maintaining your integrity despite immense pressure.",
+      "I genuinely admire your strength in confronting the systemic injustices in our society.",
+      "I genuinely admire your strength in fostering dialogue between opposing factions.",
+      "I genuinely admire your strength in articulating such a sophisticated yet humble perspective."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "The deep meaning behind ... is ...",
+    "kor": "... 뒤에 숨겨진 깊은 의미는 ...입니다",
+    "b1": [
+      "The deep meaning behind this song is love.",
+      "The deep meaning behind this picture is family.",
+      "The deep meaning behind the gift is friendship.",
+      "The deep meaning behind his words is hope.",
+      "The deep meaning behind the book is being kind."
+    ],
+    "b2": [
+      "The deep meaning behind his decision is to protect his privacy.",
+      "The deep meaning behind the holiday is to remember our ancestors.",
+      "The deep meaning behind this tradition is to foster community spirit.",
+      "The deep meaning behind the painting is the struggle for freedom.",
+      "The deep meaning behind her silence is her disappointment."
+    ],
+    "c1": [
+      "The deep meaning behind the ritual is the cyclical nature of existence.",
+      "The deep meaning behind the protagonist's journey is the search for authenticity.",
+      "The deep meaning behind the minimalist design is a rejection of consumerism.",
+      "The deep meaning behind the legislative change is a shift in social values.",
+      "The deep meaning behind the metaphor is the inherent fragility of human memory."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "I’m absolutely devastated by ...",
+    "kor": "...에 의해 정말 큰 충격(슬픔)을 받았습니다",
+    "b1": [
+      "I’m absolutely devastated by the bad news.",
+      "I’m absolutely devastated by my cat's death.",
+      "I’m absolutely devastated by the car accident.",
+      "I’m absolutely devastated by losing the competition.",
+      "I’m absolutely devastated by the forest fire."
+    ],
+    "b2": [
+      "I’m absolutely devastated by the betrayal of my closest friend.",
+      "I’m absolutely devastated by the sudden closure of my favorite school.",
+      "I’m absolutely devastated by the loss of my family home in the flood.",
+      "I’m absolutely devastated by the rejection of my scholarship application.",
+      "I’m absolutely devastated by the state of our local park after the event."
+    ],
+    "c1": [
+      "I’m absolutely devastated by the sheer lack of empathy shown by the authorities.",
+      "I’m absolutely devastated by the collapse of the peace negotiations.",
+      "I’m absolutely devastated by the ethical breach within our organization.",
+      "I’m absolutely devastated by the profound isolation felt in large urban centers.",
+      "I’m absolutely devastated by the loss of a visionary who shaped our industry."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "It’s hard to articulate the joy I feel when ...",
+    "kor": "...할 때 느끼는 기쁨을 표현하기가 어렵네요",
+    "b1": [
+      "It’s hard to articulate the joy I feel when I see my family.",
+      "It’s hard to articulate the joy I feel when I eat good food.",
+      "It’s hard to articulate the joy I feel when it is sunny.",
+      "It’s hard to articulate the joy I feel when I win a game.",
+      "It’s hard to articulate the joy I feel when I am on holiday."
+    ],
+    "b2": [
+      "It’s hard to articulate the joy I feel when a project finally comes to fruition.",
+      "It’s hard to articulate the joy I feel when I see my children succeeding.",
+      "It’s hard to articulate the joy I feel when I help someone in need.",
+      "It’s hard to articulate the joy I feel when I learn something completely new.",
+      "It’s hard to articulate the joy I feel when I am surrounded by nature."
+    ],
+    "c1": [
+      "It’s hard to articulate the joy I feel when I witness a moment of pure creative genius.",
+      "It’s hard to articulate the joy I feel when I find harmony between my work and my values.",
+      "It’s hard to articulate the joy I feel when intellectual discovery leads to a paradigm shift.",
+      "It’s hard to articulate the joy I feel when a long-standing conflict is peacefully resolved.",
+      "It’s hard to articulate the joy I feel when I experience the sublime beauty of classical music."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "This experience has given me a new perspective on ...",
+    "kor": "이 경험은 제게 ...에 대한 새로운 관점을 갖게 해주었습니다",
+    "b1": [
+      "This experience has given me a new perspective on working.",
+      "This experience has given me a new perspective on food.",
+      "This experience has given me a new perspective on friendship.",
+      "This experience has given me a new perspective on school.",
+      "This experience has given me a new perspective on life."
+    ],
+    "b2": [
+      "This experience has given me a new perspective on the importance of mental health.",
+      "This experience has given me a new perspective on how other cultures live.",
+      "This experience has given me a new perspective on our responsibility to the planet.",
+      "This experience has given me a new perspective on what success actually looks like.",
+      "This experience has given me a new perspective on the power of teamwork."
+    ],
+    "c1": [
+      "This experience has given me a new perspective on the fragility of social constructs.",
+      "This experience has given me a new perspective on the intersection of ethics and technology.",
+      "This experience has given me a new perspective on the inherent biases in our legal system.",
+      "This experience has given me a new perspective on the psychological roots of human resilience.",
+      "This experience has given me a new perspective on the complexity of global migration."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "I feel an immense sense of relief that ...",
+    "kor": "...해서 정말 큰 안도감을 느낍니다",
+    "b1": [
+      "I feel an immense sense of relief that the rain stopped.",
+      "I feel an immense sense of relief that I found my phone.",
+      "I feel an immense sense of relief that the cat is home.",
+      "I feel an immense sense of relief that the test is over.",
+      "I feel an immense sense of relief that you are okay."
+    ],
+    "b2": [
+      "I feel an immense sense of relief that the misunderstanding has been cleared up.",
+      "I feel an immense sense of relief that the project was finished on time.",
+      "I feel an immense sense of relief that the results came back negative.",
+      "I feel an immense sense of relief that we reached our sales target this month.",
+      "I feel an immense sense of relief that I finally moved out of that noisy apartment."
+    ],
+    "c1": [
+      "I feel an immense sense of relief that the legislative hurdle has been overcome.",
+      "I feel an immense sense of relief that the humanitarian aid has finally reached its destination.",
+      "I feel an immense sense of relief that a potential diplomatic crisis was averted.",
+      "I feel an immense sense of relief that the scientific community has validated our findings.",
+      "I feel an immense sense of relief that the transition to the new system was seamless."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "There is a feeling of emptiness since ...",
+    "kor": "... 이후로 공허한 기분이 듭니다",
+    "b1": [
+      "There is a feeling of emptiness since the party ended.",
+      "There is a feeling of emptiness since my best friend moved.",
+      "There is a feeling of emptiness since the school closed.",
+      "There is a feeling of emptiness since the dog died.",
+      "There is a feeling of emptiness since the shop shut down."
+    ],
+    "b2": [
+      "There is a feeling of emptiness since I finished that amazing book series.",
+      "There is a feeling of emptiness since the project I worked on for a year ended.",
+      "There is a feeling of emptiness since the children moved out for college.",
+      "There is a feeling of emptiness since I stopped working at my old office.",
+      "There is a feeling of emptiness since we lost that beautiful park to a new building."
+    ],
+    "c1": [
+      "There is a feeling of emptiness since the intellectual fervor of the movement subsided.",
+      "There is a feeling of emptiness since the paradigm shift rendered our old methods obsolete.",
+      "There is a feeling of emptiness since the sudden passing of the visionary leader.",
+      "There is a feeling of emptiness since I realized the superficiality of my previous goals.",
+      "There is a feeling of emptiness since the community's collective spirit began to wane."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "I take full responsibility for my feeling of ...",
+    "kor": "제 ...한 감정에 대해 전적으로 책임을 느낍니다",
+    "b1": [
+      "I take full responsibility for my feeling of anger.",
+      "I take full responsibility for my feeling of sadness.",
+      "I take full responsibility for my feeling of guilt.",
+      "I take full responsibility for my feeling of being late.",
+      "I take full responsibility for my feeling of loneliness."
+    ],
+    "b2": [
+      "I take full responsibility for my feeling of dissatisfaction with the current results.",
+      "I take full responsibility for my feeling of anxiety regarding the upcoming changes.",
+      "I take full responsibility for my feeling of doubt about the new strategy.",
+      "I take full responsibility for my feeling of resentment towards the old management.",
+      "I take full responsibility for my feeling of pride in our team's achievement."
+    ],
+    "c1": [
+      "I take full responsibility for my feeling of alienation in this corporate environment.",
+      "I take full responsibility for my feeling of skepticism toward the proposed theoretical model.",
+      "I take full responsibility for my feeling of ethical unease about the project's direction.",
+      "I take full responsibility for my feeling of disillusionment with the modern educational system.",
+      "I take full responsibility for my feeling of complacency that led to the missed opportunity."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "The intensity of the situation made me feel ...",
+    "kor": "상황의 격렬함(강도) 때문에 ...한 기분이 들었습니다",
+    "b1": [
+      "The intensity of the situation made me feel scared.",
+      "The intensity of the situation made me feel excited.",
+      "The intensity of the situation made me feel tired.",
+      "The intensity of the situation made me feel fast.",
+      "The intensity of the situation made me feel nervous."
+    ],
+    "b2": [
+      "The intensity of the situation made me feel completely energized and focused.",
+      "The intensity of the situation made me feel quite vulnerable and exposed.",
+      "The intensity of the situation made me feel determined to find a solution.",
+      "The intensity of the situation made me feel like I was losing control.",
+      "The intensity of the situation made me feel a sense of unity with the crowd."
+    ],
+    "c1": [
+      "The intensity of the situation made me feel a profound sense of existential clarity.",
+      "The intensity of the situation made me feel oddly detached and analytical.",
+      "The intensity of the situation made me feel the heavy weight of historical consequence.",
+      "The intensity of the situation made me feel an urgent need for collective action.",
+      "The intensity of the situation made me feel the inherent fragility of social order."
+    ]
+  }
+]

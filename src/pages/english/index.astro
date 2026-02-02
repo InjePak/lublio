@@ -1,0 +1,79 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Box from "../../components/Box.astro";
+import Button from "../../components/Button.astro";
+
+const pageTitle = "영어";
+---
+
+<BaseLayout pageTitle={pageTitle + " | Lublio"}>
+  <Box
+    title="English"
+    subtitle="영어"
+    description="English is a global lingua franca, connecting people across business, science, and culture. Mastering it opens doors to endless information and international opportunities. It’s your key to the world."
+    language="eng"
+  />
+
+  <!-- <Button
+    title="Absolute Beginner"
+    subtitle="영어 첫걸음"
+    description="CEFR A0"
+    language="eng"
+    path="/english/a0"
+    level="a0"
+  />
+
+  <Button
+    title="Beginner"
+    subtitle="기초 영어"
+    description="CEFR A1"
+    language="eng"
+    path="/english/a1"
+    level="a1"
+  />
+
+  <Button
+    title="Elementary"
+    subtitle="초급 영어"
+    description="CEFR A2"
+    language="eng"
+    path="/english/a2"
+    level="a2"
+  />
+
+  <Button
+    title="Intermediate"
+    subtitle="중급 영어"
+    description="CEFR B1"
+    language="eng"
+    path="/english/b1"
+    level="b1"
+  />
+
+  <Button
+    title="Upper Intermediate"
+    subtitle="중고급 영어"
+    description="CEFR B2"
+    language="eng"
+    path="/english/b2"
+    level="b2"
+  /> -->
+
+  <Button
+    title="Phrasebook"
+    subtitle="영어 회화"
+    description="CEFR A1 - B2"
+    language="eng"
+    path="/english/phrasebook"
+    level="phrase"
+  />
+
+  <Button
+    title="Sentence Patterns"
+    subtitle="영어 패턴"
+    description="CEFR B1 - C1"
+    language="eng"
+    path="/english/pattern"
+    level="pattern"
+  />
+</BaseLayout>

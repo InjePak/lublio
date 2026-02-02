@@ -1,0 +1,61 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Box from "../../components/Box.astro";
+import Button from "../../components/Button.astro";
+
+const pageTitle = "Kazakh";
+---
+
+<BaseLayout pageTitle={pageTitle + " | Lublio"}>
+  <Box
+    title="Қазақша"
+    subtitle="Kazakh"
+    description="Қазақ тілі — Қазақстанның мемлекеттік тілі және түркі тілдерінің бірі. Бұл тіл өзінің бай ауыз әдебиетімен және ұлттық мәдениетімен ерекшеленеді. Көшпенділер рухын сезінгіңіз келсе, қазақ тілін үйренуді бастаңыз."
+    language="kaz"
+  />
+
+  <Button
+    title="Мүлдем жаңа бастаушы"
+    subtitle="Absolute Beginner"
+    description="CEFR A0"
+    language="kaz"
+    path="/kazakh/a0"
+    level="a0"
+  />
+
+  <Button
+    title="Бастаушы"
+    subtitle="Beginner"
+    description="CEFR A1"
+    language="kaz"
+    path="/kazakh/a1"
+    level="a1"
+  />
+
+  <Button
+    title="Жалпы бастауыш"
+    subtitle="Elementary"
+    description="CEFR A2"
+    language="kaz"
+    path="/kazakh/a2"
+    level="a2"
+  />
+
+  <Button
+    title="Орта деңгей"
+    subtitle="Intermediate"
+    description="CEFR B1"
+    language="kaz"
+    path="/kazakh/b1"
+    level="b1"
+  />
+
+  <Button
+    title="Ортадан жоғары деңгей"
+    subtitle="Upper Intermediate"
+    description="CEFR B2"
+    language="kaz"
+    path="/kazakh/b2"
+    level="b2"
+  />
+</BaseLayout>

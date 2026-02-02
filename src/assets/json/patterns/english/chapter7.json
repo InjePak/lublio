@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "If we ..., then we will ...",
+    "kor": "만약 우리가 ...한다면, 그때 우리는 ...할 것입니다",
+    "b1": [
+      "If we leave now, then we will arrive on time.",
+      "If we study together, then we will pass the test.",
+      "If we save money, then we will buy a new car.",
+      "If we practice every day, then we will speak better.",
+      "If we clean the house, then we will feel happy."
+    ],
+    "b2": [
+      "If we reduce our expenses, then we will increase our profit this year.",
+      "If we launch the product in May, then we will lead the market.",
+      "If we improve our communication, then we will avoid misunderstandings.",
+      "If we invest in training, then we will have more skilled workers.",
+      "If we follow the instructions, then we will complete the project safely."
+    ],
+    "c1": [
+      "If we ignore the environmental impact, then we will face severe legal consequences.",
+      "If we adopt this innovative strategy, then we will gain a competitive advantage.",
+      "If we prioritize long-term growth, then we will secure the firm's stability.",
+      "If we address the systemic issues now, then we will prevent future crises.",
+      "If we leverage our data effectively, then we will optimize our workflow."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "What would happen if ...?",
+    "kor": "만약 ...한다면 무슨 일이 일어날까요?",
+    "b1": [
+      "What would happen if it rains tomorrow?",
+      "What would happen if I lose my phone?",
+      "What would happen if we are late?",
+      "What would happen if the shop is closed?",
+      "What would happen if he doesn't come?"
+    ],
+    "b2": [
+      "What would happen if we decided to change the project goal?",
+      "What would happen if the client rejected our proposal?",
+      "What would happen if we worked from home permanently?",
+      "What would happen if the budget was cut by half?",
+      "What would happen if a major competitor entered the market?"
+    ],
+    "c1": [
+      "What would happen if the global supply chain were to collapse entirely?",
+      "What would happen if we chose to ignore these ethical considerations?",
+      "What would happen if the regulatory framework changed overnight?",
+      "What would happen if there were a sudden shift in consumer paradigm?",
+      "What would happen if we integrated AI into our core decision-making?"
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Should the outcome be ..., we must ...",
+    "kor": "결과가 ...라면, 우리는 ...해야 합니다",
+    "b1": [
+      "Should the outcome be bad, we must try again.",
+      "Should the outcome be good, we must celebrate.",
+      "Should the outcome be a tie, we must play another game.",
+      "Should the outcome be positive, we must continue.",
+      "Should the outcome be a failure, we must learn from it."
+    ],
+    "b2": [
+      "Should the outcome be negative, we must revise our current strategy.",
+      "Should the outcome be delayed, we must inform the stakeholders immediately.",
+      "Should the outcome be successful, we must expand our operations.",
+      "Should the outcome be uncertain, we must wait for more data.",
+      "Should the outcome be a loss, we must cut our expenses."
+    ],
+    "c1": [
+      "Should the outcome be unfavorable, we must initiate our contingency plan.",
+      "Should the outcome be inconclusive, we must conduct a more rigorous analysis.",
+      "Should the outcome be controversial, we must prepare a formal statement.",
+      "Should the outcome be transformative, we must adapt our organizational culture.",
+      "Should the outcome be a breach of contract, we must seek legal counsel."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "If I had known ..., I would have ...",
+    "kor": "만약 내가 ...을 알았더라면, 나는 ...했을 것입니다",
+    "b1": [
+      "If I had known you were coming, I would have cooked.",
+      "If I had known about the rain, I would have taken an umbrella.",
+      "If I had known the time, I would have been early.",
+      "If I had known you were sick, I would have visited you.",
+      "If I had known it was free, I would have gone."
+    ],
+    "b2": [
+      "If I had known the project was so urgent, I would have worked late.",
+      "If I had known about the traffic, I would have taken the subway.",
+      "If I had known his real intention, I would have refused the offer.",
+      "If I had known the software was buggy, I would have waited to buy it.",
+      "If I had known about the meeting, I would have prepared the report."
+    ],
+    "c1": [
+      "If I had known about the fiscal discrepancies, I would have requested an audit.",
+      "If I had known the geopolitical risks, I would have advised against the merger.",
+      "If I had known the long-term implications, I would have chosen differently.",
+      "If I had known the research was flawed, I would have questioned the results.",
+      "If I had known the extent of the crisis, I would have acted more decisively."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Assuming that ..., it is likely that ...",
+    "kor": "...라고 가정하면, ...할 가능성이 높습니다",
+    "b1": [
+      "Assuming that it is sunny, it is likely that we will go out.",
+      "Assuming that he is busy, it is likely that he will be late.",
+      "Assuming that the car is fixed, it is likely that we can travel.",
+      "Assuming that you study, it is likely that you will pass.",
+      "Assuming that the shop is open, it is likely that I will buy it."
+    ],
+    "b2": [
+      "Assuming that the market stays stable, it is likely that our sales will grow.",
+      "Assuming that everyone agrees, it is likely that the plan will succeed.",
+      "Assuming that we get the funding, it is likely that we can start in June.",
+      "Assuming that the technology works, it is likely that we will save time.",
+      "Assuming that she accepts the role, it is likely that the team will improve."
+    ],
+    "c1": [
+      "Assuming that the current trend persists, it is likely that inflation will rise.",
+      "Assuming that the data is accurate, it is likely that we have found a solution.",
+      "Assuming that the legislation passes, it is likely that the industry will change.",
+      "Assuming that the merger proceeds, it is likely that we will dominate the sector.",
+      "Assuming that the theory holds, it is likely that the results will be replicated."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "I predict that ... will happen.",
+    "kor": "저는 ...이 일어날 것이라고 예측합니다",
+    "b1": [
+      "I predict that it will snow tomorrow.",
+      "I predict that our team will win the game.",
+      "I predict that he will be very happy.",
+      "I predict that the price will go up.",
+      "I predict that everyone will like the food."
+    ],
+    "b2": [
+      "I predict that electric cars will become more popular next year.",
+      "I predict that the company will expand to other countries soon.",
+      "I predict that the interest rates will decrease in the next quarter.",
+      "I predict that remote work will change the way we live in the city.",
+      "I predict that this new technology will revolutionize the industry."
+    ],
+    "c1": [
+      "I predict that a paradigm shift in consumer behavior will occur shortly.",
+      "I predict that the geopolitical tensions will lead to further economic instability.",
+      "I predict that the integration of AI will redefine professional roles globally.",
+      "I predict that the environmental crisis will necessitate radical policy changes.",
+      "I predict that the fiscal deficit will have long-term structural implications."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Unless ... happens, we won't be able to ...",
+    "kor": "...이 일어나지 않는 한, 우리는 ...할 수 없을 것입니다",
+    "b1": [
+      "Unless it stops raining, we won't be able to play.",
+      "Unless you help me, I won't be able to finish.",
+      "Unless he comes soon, we won't be able to start.",
+      "Unless I find my keys, I won't be able to drive.",
+      "Unless we save money, we won't be able to travel."
+    ],
+    "b2": [
+      "Unless we get more staff, we won't be able to meet the deadline.",
+      "Unless the weather improves, we won't be able to launch the boat.",
+      "Unless the manager approves it, we won't be able to spend the budget.",
+      "Unless we fix the bug, we won't be able to release the app.",
+      "Unless the client pays, we won't be able to continue the work."
+    ],
+    "c1": [
+      "Unless the government intervenes, we won't be able to stabilize the market.",
+      "Unless there is a systemic reform, we won't be able to achieve equality.",
+      "Unless we secure further funding, we won't be able to complete the research.",
+      "Unless all stakeholders agree, we won't be able to implement the policy.",
+      "Unless the legal dispute is settled, we won't be able to finalize the merger."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "In the event of ..., we should ...",
+    "kor": "...할 경우에, 우리는 ...해야 합니다",
+    "b1": [
+      "In the event of rain, we should stay home.",
+      "In the event of fire, we should use the stairs.",
+      "In the event of a mistake, we should say sorry.",
+      "In the event of a tie, we should play again.",
+      "In the event of an emergency, we should call 911."
+    ],
+    "b2": [
+      "In the event of a power outage, we should use the backup generator.",
+      "In the event of a delay, we should notify our customers immediately.",
+      "In the event of a cancellation, we should offer a full refund.",
+      "In the event of a conflict, we should try to find a compromise.",
+      "In the event of a security breach, we should change all our passwords."
+    ],
+    "c1": [
+      "In the event of a hostile takeover, we should consult our legal advisors.",
+      "In the event of a market crash, we should reconsider our investment portfolio.",
+      "In the event of a public scandal, we should issue a formal clarification.",
+      "In the event of a natural disaster, we should activate the crisis protocol.",
+      "In the event of a policy shift, we should adapt our strategic objectives."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "There's a high probability that ...",
+    "kor": "...할 확률이 높습니다",
+    "b1": [
+      "There's a high probability that it will rain.",
+      "There's a high probability that he will win.",
+      "There's a high probability that the shop is open.",
+      "There's a high probability that you will pass the test.",
+      "There's a high probability that we will be late."
+    ],
+    "b2": [
+      "There's a high probability that the project will be completed on time.",
+      "There's a high probability that the stock market will recover next month.",
+      "There's a high probability that we will need to hire more people soon.",
+      "There's a high probability that the client will accept our new terms.",
+      "There's a high probability that technology will continue to advance rapidly."
+    ],
+    "c1": [
+      "There's a high probability that the recent trends will lead to inflation.",
+      "There's a high probability that the proposed merger will face legal hurdles.",
+      "There's a high probability that systemic issues will hinder our progress.",
+      "There's a high probability that the new legislation will affect our profits.",
+      "There's a high probability that a paradigm shift is currently underway."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "We might see ... if ...",
+    "kor": "만약 ...한다면 우리는 ...을 볼 수도 있습니다",
+    "b1": [
+      "We might see a rainbow if the sun comes out.",
+      "We might see a bird if we go to the park.",
+      "We might see him if we wait here.",
+      "We might see a movie if we have time.",
+      "We might see some snow if it gets colder."
+    ],
+    "b2": [
+      "We might see a rise in sales if we lower the price.",
+      "We might see more customers if we improve our website.",
+      "We might see a change in policy if the workers protest.",
+      "We might see better results if we change our strategy.",
+      "We might see a decrease in costs if we automate the process."
+    ],
+    "c1": [
+      "We might see social unrest if the economic disparity continues to grow.",
+      "We might see a significant innovation if we foster a creative culture.",
+      "We might see a shift in power if the new legislation is implemented.",
+      "We might see a decline in biodiversity if we don't protect the forest.",
+      "We might see a global recession if the trade war escalates further."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "This suggests that the future holds ...",
+    "kor": "이것은 미래가 ...할 것임을 시사합니다",
+    "b1": [
+      "This suggests that the future holds more rain.",
+      "This suggests that the future holds happy days.",
+      "This suggests that the future holds new technology.",
+      "This suggests that the future holds more work.",
+      "This suggests that the future holds better cars."
+    ],
+    "b2": [
+      "This suggests that the future holds many opportunities for our company.",
+      "This suggests that the future holds significant challenges for small businesses.",
+      "This suggests that the future holds a more digital way of living.",
+      "This suggests that the future holds a greater focus on health and wellness.",
+      "This suggests that the future holds a change in how we communicate."
+    ],
+    "c1": [
+      "This suggests that the future holds a radical transformation of the labor market.",
+      "This suggests that the future holds a shift towards more sustainable energy sources.",
+      "This suggests that the future holds a complex geopolitical landscape.",
+      "This suggests that the future holds an increase in global interconnectedness.",
+      "This suggests that the future holds profound ethical dilemmas regarding AI."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "The outcome depends entirely on whether or not ...",
+    "kor": "그 결과는 전적으로 ...인지 아닌지에 달려 있습니다",
+    "b1": [
+      "The outcome depends entirely on whether or not it rains.",
+      "The outcome depends entirely on whether or not he comes.",
+      "The outcome depends entirely on whether or not you help.",
+      "The outcome depends entirely on whether or not we win.",
+      "The outcome depends entirely on whether or not it is free."
+    ],
+    "b2": [
+      "The outcome depends entirely on whether or not we get the funding.",
+      "The outcome depends entirely on whether or not the client agrees to the terms.",
+      "The outcome depends entirely on whether or not we meet the deadline.",
+      "The outcome depends entirely on whether or not the technology is reliable.",
+      "The outcome depends entirely on whether or not the team works together."
+    ],
+    "c1": [
+      "The outcome depends entirely on whether or not the legislation is enacted.",
+      "The outcome depends entirely on whether or not we address the systemic flaws.",
+      "The outcome depends entirely on whether or not the market stabilizes soon.",
+      "The outcome depends entirely on whether or not the merger is approved by the board.",
+      "The outcome depends entirely on whether or not the ethical guidelines are followed."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "If the trend continues, then ...",
+    "kor": "만약 이러한 추세가 계속된다면, 그때는 ...",
+    "b1": [
+      "If the trend continues, then prices will go up.",
+      "If the trend continues, then we will have more work.",
+      "If the trend continues, then it will be very hot.",
+      "If the trend continues, then people will stay home.",
+      "If the trend continues, then the park will be crowded."
+    ],
+    "b2": [
+      "If the trend continues, then our market share will increase significantly.",
+      "If the trend continues, then the company will need to hire more staff.",
+      "If the trend continues, then more people will shop online than in stores.",
+      "If the trend continues, then we will reach our annual goal by October.",
+      "If the trend continues, then the demand for electric cars will double."
+    ],
+    "c1": [
+      "If the trend continues, then the socio-economic divide will become insurmountable.",
+      "If the trend continues, then the long-term fiscal stability of the firm is at risk.",
+      "If the trend continues, then a paradigm shift in urban planning will be necessary.",
+      "If the trend continues, then the environmental damage will be irreversible.",
+      "If the trend continues, then we will witness a total transformation of the industry."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Had they considered ..., the result would have been ...",
+    "kor": "만약 그들이 ...을 고려했더라면, 결과는 ...였을 것입니다",
+    "b1": [
+      "Had they considered the price, the result would have been better.",
+      "Had they considered the weather, the result would have been different.",
+      "Had they considered the time, the result would have been good.",
+      "Had they considered the rules, the result would have been fair.",
+      "Had they considered the children, the result would have been nice."
+    ],
+    "b2": [
+      "Had they considered the risks, the result would have been more positive.",
+      "Had they considered the feedback, the result would have been much better.",
+      "Had they considered the competition, the result would have been more successful.",
+      "Had they considered the budget, the result would have been more realistic.",
+      "Had they considered the customer's needs, the result would have been profitable."
+    ],
+    "c1": [
+      "Had they considered the legal ramifications, the result would have been favorable.",
+      "Had they considered the ethical implications, the result would have been different.",
+      "Had they considered the geopolitical climate, the result would have been stable.",
+      "Had they considered the long-term impact, the result would have been sustainable.",
+      "Had they considered the systemic vulnerabilities, the result would have been safer."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "We need a backup plan in case ...",
+    "kor": "...할 경우를 대비해 보조 계획(B플랜)이 필요합니다",
+    "b1": [
+      "We need a backup plan in case it rains.",
+      "We need a backup plan in case the bus is late.",
+      "We need a backup plan in case the shop is closed.",
+      "We need a backup plan in case he doesn't come.",
+      "We need a backup plan in case we get lost."
+    ],
+    "b2": [
+      "We need a backup plan in case the main server fails during the launch.",
+      "We need a backup plan in case our primary supplier cannot deliver on time.",
+      "We need a backup plan in case the budget is not approved by the manager.",
+      "We need a backup plan in case the event needs to be moved indoors.",
+      "We need a backup plan in case the technology doesn't work as expected."
+    ],
+    "c1": [
+      "We need a backup plan in case the merger faces unexpected regulatory hurdles.",
+      "We need a backup plan in case the geopolitical situation deteriorates further.",
+      "We need a backup plan in case the project's long-term funding is cut.",
+      "We need a backup plan in case our strategic partnership is dissolved.",
+      "We need a backup plan in case the new legislation negatively affects us."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "It is conceivable that ...",
+    "kor": "...라는 것은 상상할 수 있는 일입니다(가능성이 있습니다)",
+    "b1": [
+      "It is conceivable that we will finish early.",
+      "It is conceivable that he will win the race.",
+      "It is conceivable that the price will go down.",
+      "It is conceivable that she will say yes.",
+      "It is conceivable that it will be cold today."
+    ],
+    "b2": [
+      "It is conceivable that the company will relocate its headquarters next year.",
+      "It is conceivable that we will need to update our entire system soon.",
+      "It is conceivable that the market will become more competitive in the future.",
+      "It is conceivable that the project will require more resources than planned.",
+      "It is conceivable that a new law will be passed regarding remote work."
+    ],
+    "c1": [
+      "It is conceivable that the current economic trends will lead to a recession.",
+      "It is conceivable that a paradigm shift will occur in the energy sector.",
+      "It is conceivable that the merger will create a monopoly in the market.",
+      "It is conceivable that systemic failures will occur if no reform is made.",
+      "It is conceivable that the long-term effects of AI will be unpredictable."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Without ..., it is impossible to ...",
+    "kor": "... 없이는 ...하는 것이 불가능합니다",
+    "b1": [
+      "Without money, it is impossible to buy this.",
+      "Without a map, it is impossible to find the way.",
+      "Without water, it is impossible to live.",
+      "Without help, it is impossible to finish.",
+      "Without time, it is impossible to study."
+    ],
+    "b2": [
+      "Without the manager's approval, it is impossible to start the project.",
+      "Without a clear strategy, it is impossible to succeed in this market.",
+      "Without effective communication, it is impossible to manage a large team.",
+      "Without sufficient funding, it is impossible to expand our operations.",
+      "Without the right tools, it is impossible to fix the broken machine."
+    ],
+    "c1": [
+      "Without a robust regulatory framework, it is impossible to ensure safety.",
+      "Without addressing the root cause, it is impossible to solve the problem.",
+      "Without the stakeholders' cooperation, it is impossible to implement reform.",
+      "Without empirical evidence, it is impossible to validate the hypothesis.",
+      "Without long-term strategic planning, it is impossible to remain competitive."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "The evidence points towards ... happening.",
+    "kor": "증거는 ...이 일어나는 쪽을 향하고 있습니다",
+    "b1": [
+      "The evidence points towards rain happening.",
+      "The evidence points towards him winning.",
+      "The evidence points towards a mistake happening.",
+      "The evidence points towards the shop closing.",
+      "The evidence points towards a fight happening."
+    ],
+    "b2": [
+      "The evidence points towards a slow recovery of the economy happening.",
+      "The evidence points towards a shift in customer preferences happening.",
+      "The evidence points towards a significant increase in sales happening.",
+      "The evidence points towards a failure of the current system happening.",
+      "The evidence points towards a change in the management team happening."
+    ],
+    "c1": [
+      "The evidence points towards a systemic breakdown of the network happening.",
+      "The evidence points towards a radical transformation of the industry happening.",
+      "The evidence points towards a long-term decline in market demand happening.",
+      "The evidence points towards a major geopolitical conflict happening.",
+      "The evidence points towards a paradigm shift in scientific thought happening."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "On the condition that ..., we can proceed with ...",
+    "kor": "...라는 조건 하에, 우리는 ...를 진행할 수 있습니다",
+    "b1": [
+      "On the condition that it is sunny, we can proceed with the picnic.",
+      "On the condition that you help, we can proceed with the work.",
+      "On the condition that it is cheap, we can proceed with the buy.",
+      "On the condition that we have time, we can proceed with the game.",
+      "On the condition that he says yes, we can proceed with the plan."
+    ],
+    "b2": [
+      "On the condition that the budget is approved, we can proceed with the hiring.",
+      "On the condition that the safety checks are done, we can proceed with the launch.",
+      "On the condition that the client signs the contract, we can proceed with the project.",
+      "On the condition that we find a partner, we can proceed with the expansion.",
+      "On the condition that the technology is ready, we can proceed with the update."
+    ],
+    "c1": [
+      "On the condition that the legal issues are resolved, we can proceed with the merger.",
+      "On the condition that the ethical guidelines are met, we can proceed with the study.",
+      "On the condition that the board agrees, we can proceed with the strategic shift.",
+      "On the condition that the market remains stable, we can proceed with the investment.",
+      "On the condition that the systemic flaws are fixed, we can proceed with the rollout."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "The long-term implication is ...",
+    "kor": "장기적인 영향(함축적 의미)은 ...입니다",
+    "b1": [
+      "The long-term implication is more work.",
+      "The long-term implication is better health.",
+      "The long-term implication is a new house.",
+      "The long-term implication is being happy.",
+      "The long-term implication is a clean park."
+    ],
+    "b2": [
+      "The long-term implication is a significant change in our business model.",
+      "The long-term implication is an increase in the cost of production.",
+      "The long-term implication is a more diverse and inclusive workplace.",
+      "The long-term implication is a stronger relationship with our customers.",
+      "The long-term implication is a decrease in our dependency on oil."
+    ],
+    "c1": [
+      "The long-term implication is a fundamental shift in global power dynamics.",
+      "The long-term implication is the total erosion of digital privacy rights.",
+      "The long-term implication is the irreversible loss of several ecosystems.",
+      "The long-term implication is a paradigm shift in our understanding of labor.",
+      "The long-term implication is the necessity for a new moral framework in tech."
+    ]
+  }
+]

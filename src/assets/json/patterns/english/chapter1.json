@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "In my opinion, ...",
+    "kor": "제 의견으로는 ...",
+    "b1": [
+      "In my opinion, learning English is fun.",
+      "In my opinion, we should travel more often.",
+      "In my opinion, this book is very interesting.",
+      "In my opinion, healthy food is important for everyone.",
+      "In my opinion, the movie was too long."
+    ],
+    "b2": [
+      "In my opinion, the government should invest more in public transport.",
+      "In my opinion, remote work increases overall productivity.",
+      "In my opinion, social media has a negative impact on teenagers.",
+      "In my opinion, learning a second language opens up many career opportunities.",
+      "In my opinion, we need to find a balance between work and life."
+    ],
+    "c1": [
+      "In my opinion, the socio-economic implications of this policy are far-reaching.",
+      "In my opinion, the current educational system fails to foster critical thinking.",
+      "In my opinion, aesthetic value is subjective and varies across different cultures.",
+      "In my opinion, technological advancement must be accompanied by ethical regulations.",
+      "In my opinion, the inherent complexity of the issue requires a multi-faceted approach."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "I believe that ...",
+    "kor": "저는 ...라고 믿습니다/생각합니다",
+    "b1": [
+      "I believe that honesty is the best policy.",
+      "I believe that everyone can learn to cook.",
+      "I believe that exercise helps us stay healthy.",
+      "I believe that we will win the game tomorrow.",
+      "I believe that music can make people happy."
+    ],
+    "b2": [
+      "I believe that sustainable living is essential for our future.",
+      "I believe that technology will continue to change the way we communicate.",
+      "I believe that practical experience is more valuable than theoretical knowledge.",
+      "I believe that education is the most powerful tool for social change.",
+      "I believe that creativity is a skill that can be developed over time."
+    ],
+    "c1": [
+      "I believe that the integration of AI into our daily lives is inevitable.",
+      "I believe that rigorous scientific research is the cornerstone of progress.",
+      "I believe that systemic changes are necessary to address the climate crisis.",
+      "I believe that the preservation of cultural heritage is vital for national identity.",
+      "I believe that philosophical inquiry provides a deeper understanding of human existence."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "It seems to me that ...",
+    "kor": "제가 보기에는 ...인 것 같습니다",
+    "b1": [
+      "It seems to me that it is going to rain.",
+      "It seems to me that he is very busy today.",
+      "It seems to me that this is the wrong way.",
+      "It seems to me that the price is too high.",
+      "It seems to me that you are tired."
+    ],
+    "b2": [
+      "It seems to me that the project is falling behind schedule.",
+      "It seems to me that there is a misunderstanding between the teams.",
+      "It seems to me that the company needs a new marketing strategy.",
+      "It seems to me that people are becoming more health-conscious lately.",
+      "It seems to me that we should consider alternative solutions."
+    ],
+    "c1": [
+      "It seems to me that the underlying cause of the problem has been overlooked.",
+      "It seems to me that the proposed legislation might have unintended consequences.",
+      "It seems to me that there is a significant disparity between the two theories.",
+      "It seems to me that the CEO's remarks were intentionally ambiguous.",
+      "It seems to me that the global economy is entering a period of unprecedented volatility."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "From my perspective, ...",
+    "kor": "제 관점에서는 ...",
+    "b1": [
+      "From my perspective, the test was easy.",
+      "From my perspective, this room is too small.",
+      "From my perspective, she is a great teacher.",
+      "From my perspective, we need more time to finish.",
+      "From my perspective, summer is the best season."
+    ],
+    "b2": [
+      "From my perspective, the new law will benefit small businesses.",
+      "From my perspective, we should prioritize quality over quantity.",
+      "From my perspective, the benefits of this plan outweigh the risks.",
+      "From my perspective, effective communication is the key to success.",
+      "From my perspective, travel broadens one's horizons significantly."
+    ],
+    "c1": [
+      "From my perspective, the paradigm shift in the industry is quite remarkable.",
+      "From my perspective, the argument lacks empirical evidence to support its claims.",
+      "From my perspective, a holistic approach is required to solve urban poverty.",
+      "From my perspective, the nuance of the language is lost in translation.",
+      "From my perspective, the current geopolitical climate is increasingly polarized."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "I strongly feel that ...",
+    "kor": "저는 ...라고 강력하게 느낍니다",
+    "b1": [
+      "I strongly feel that we should go now.",
+      "I strongly feel that this is a good idea.",
+      "I strongly feel that he should say sorry.",
+      "I strongly feel that safety is very important.",
+      "I strongly feel that kids should play outside."
+    ],
+    "b2": [
+      "I strongly feel that animal testing should be banned worldwide.",
+      "I strongly feel that everyone deserves equal opportunities.",
+      "I strongly feel that we need to act now to protect the environment.",
+      "I strongly feel that art education is vital for children's development.",
+      "I strongly feel that the company culture needs to change."
+    ],
+    "c1": [
+      "I strongly feel that the erosion of privacy in the digital age is a grave concern.",
+      "I strongly feel that fiscal responsibility should be a priority for the board.",
+      "I strongly feel that the curriculum should be revamped to meet modern demands.",
+      "I strongly feel that the witness's testimony was highly questionable.",
+      "I strongly feel that we must confront the institutional biases within our organization."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "I would argue that ...",
+    "kor": "저는 ...라고 주장하고 싶습니다",
+    "b1": [
+      "I would argue that pizza is better than pasta.",
+      "I would argue that we need a break.",
+      "I would argue that reading is better than watching TV.",
+      "I would argue that dogs are the best pets.",
+      "I would argue that city life is exciting."
+    ],
+    "b2": [
+      "I would argue that technology has made us more lonely.",
+      "I would argue that free healthcare is a basic human right.",
+      "I would argue that competition in schools can be harmful.",
+      "I would argue that we should focus more on renewable energy.",
+      "I would argue that early childhood education is a sound investment."
+    ],
+    "c1": [
+      "I would argue that the data suggests a correlation rather than causation.",
+      "I would argue that the philosophical foundations of this theory are flawed.",
+      "I would argue that the expansion of the market has led to cultural homogenization.",
+      "I would argue that the rhetoric used in the debate was unnecessarily divisive.",
+      "I would argue that sustainable development is the only viable path forward."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "What I mean is, ...",
+    "kor": "제 말의 뜻은, ...",
+    "b1": [
+      "What I mean is, it's too expensive.",
+      "What I mean is, I'm busy on Friday.",
+      "What I mean is, the food was okay but not great.",
+      "What I mean is, we should try again.",
+      "What I mean is, I like the color red."
+    ],
+    "b2": [
+      "What I mean is, we need to improve our customer service.",
+      "What I mean is, the results were not as good as we expected.",
+      "What I mean is, we should consider the long-term effects.",
+      "What I mean is, the policy is good but difficult to implement.",
+      "What I mean is, communication is more than just talking."
+    ],
+    "c1": [
+      "What I mean is, the qualitative data provides a more nuanced perspective.",
+      "What I mean is, the infrastructure is insufficient to support such a rapid growth.",
+      "What I mean is, his silence was a tacit approval of the situation.",
+      "What I mean is, we need to scrutinize the underlying assumptions of this study.",
+      "What I mean is, the complexity of the narrative transcends simple categorization."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "If you ask me, ...",
+    "kor": "저에게 물으신다면, ...",
+    "b1": [
+      "If you ask me, it's a great day for a walk.",
+      "If you ask me, you should buy the blue shirt.",
+      "If you ask me, the cake is too sweet.",
+      "If you ask me, we should start early.",
+      "If you ask me, he is a nice person."
+    ],
+    "b2": [
+      "If you ask me, the current system is outdated.",
+      "If you ask me, they should have planned the event better.",
+      "If you ask me, success depends on hard work and luck.",
+      "If you ask me, the news focuses too much on negative stories.",
+      "If you ask me, we are spending too much money on marketing."
+    ],
+    "c1": [
+      "If you ask me, the decision was driven by political expediency rather than merit.",
+      "If you ask me, the fundamental flaws in the design are irreparable.",
+      "If you ask me, the CEO's leadership style is detrimental to employee morale.",
+      "If you ask me, the rapid urbanisation has led to a loss of community identity.",
+      "If you ask me, the theory fails to account for the psychological factors involved."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "I couldn't agree more with ...",
+    "kor": "...에 전적으로 동의합니다",
+    "b1": [
+      "I couldn't agree more with your idea.",
+      "I couldn't agree more with the teacher.",
+      "I couldn't agree more with what you said.",
+      "I couldn't agree more with this plan.",
+      "I couldn't agree more with your choice."
+    ],
+    "b2": [
+      "I couldn't agree more with the need for better public schools.",
+      "I couldn't agree more with your assessment of the situation.",
+      "I couldn't agree more with the importance of teamwork.",
+      "I couldn't agree more with the points raised in the meeting.",
+      "I couldn't agree more with the decision to postpone the project."
+    ],
+    "c1": [
+      "I couldn't agree more with your stance on environmental sustainability.",
+      "I couldn't agree more with the assertion that ethics must guide innovation.",
+      "I couldn't agree more with the critique of the current economic model.",
+      "I couldn't agree more with the emphasis on interdisciplinary collaboration.",
+      "I couldn't agree more with the notion that culture is a dynamic entity."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "That's a valid point, but ...",
+    "kor": "타당한 말씀입니다만, ...",
+    "b1": [
+      "That's a valid point, but I like the other one.",
+      "That's a valid point, but it's too late now.",
+      "That's a valid point, but it's very expensive.",
+      "That's a valid point, but I don't agree.",
+      "That's a valid point, but we have no choice."
+    ],
+    "b2": [
+      "That's a valid point, but we need to consider the budget constraints.",
+      "That's a valid point, but there are other factors to think about.",
+      "That's a valid point, but the implementation will be difficult.",
+      "That's a valid point, but our customers might not like the change.",
+      "That's a valid point, but it doesn't solve the core problem."
+    ],
+    "c1": [
+      "That's a valid point, but the empirical evidence suggests otherwise.",
+      "That's a valid point, but it fails to address the underlying systemic issues.",
+      "That's a valid point, but the long-term ramifications could be catastrophic.",
+      "That's a valid point, but we must weigh it against the potential risks.",
+      "That's a valid point, but it relies on a somewhat reductive interpretation of the data."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "I beg to differ on ...",
+    "kor": "...에 대해서는 의견이 다릅니다",
+    "b1": [
+      "I beg to differ on that topic.",
+      "I beg to differ on this answer.",
+      "I beg to differ on the price.",
+      "I beg to differ on your opinion.",
+      "I beg to differ on the schedule."
+    ],
+    "b2": [
+      "I beg to differ on the best way to handle this crisis.",
+      "I beg to differ on the effectiveness of the new policy.",
+      "I beg to differ on the importance of this specific task.",
+      "I beg to differ on the conclusion of the report.",
+      "I beg to differ on the necessity of this investment."
+    ],
+    "c1": [
+      "I beg to differ on the interpretation of these historical events.",
+      "I beg to differ on the methodology used in this scientific study.",
+      "I beg to differ on the ethical implications of the proposed experiment.",
+      "I beg to differ on the viability of the current business model.",
+      "I beg to differ on the claim that globalization has benefited everyone equally."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "While I understand that ..., I still feel ...",
+    "kor": "...라는 점은 이해하지만, 여전히 ...라고 느낍니다",
+    "b1": [
+      "While I understand that it's raining, I still feel we should go.",
+      "While I understand that you're tired, I still feel we need to finish.",
+      "While I understand that it's far, I still feel we should visit.",
+      "While I understand that it's hard, I still feel you can do it.",
+      "While I understand that it's expensive, I still feel it's worth it."
+    ],
+    "b2": [
+      "While I understand that the deadline is tight, I still feel we can improve the quality.",
+      "While I understand that the rules are strict, I still feel they are necessary.",
+      "While I understand that you are busy, I still feel this meeting is important.",
+      "While I understand that changes are scary, I still feel they are for the better.",
+      "While I understand that costs are rising, I still feel we must hire more staff."
+    ],
+    "c1": [
+      "While I understand that the data is preliminary, I still feel we should act cautiously.",
+      "While I understand that the theory is popular, I still feel it lacks empirical support.",
+      "While I understand that the project is ambitious, I still feel it is achievable with the right resources.",
+      "While I understand that there are opposing views, I still feel our approach is the most ethical.",
+      "While I understand that the market is volatile, I still feel this is a sound long-term investment."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "With all due respect, ...",
+    "kor": "실례지만/송구스럽지만, ...",
+    "b1": [
+      "With all due respect, I think you're wrong.",
+      "With all due respect, I don't like this idea.",
+      "With all due respect, we need more help.",
+      "With all due respect, that's not true.",
+      "With all due respect, I want to try another way."
+    ],
+    "b2": [
+      "With all due respect, I believe your assessment of the situation is inaccurate.",
+      "With all due respect, the proposed plan does not meet our requirements.",
+      "With all due respect, I think we are focusing on the wrong issues.",
+      "With all due respect, your decision might have negative consequences.",
+      "With all due respect, I disagree with the way this project is being managed."
+    ],
+    "c1": [
+      "With all due respect, the conclusion you've reached seems somewhat premature.",
+      "With all due respect, the evidence provided does not sufficiently support your claim.",
+      "With all due respect, your interpretation of the statute is somewhat narrow.",
+      "With all due respect, the methodology employed in this study is fundamentally flawed.",
+      "With all due respect, I find the proposed strategy to be somewhat shortsighted."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "I'm not entirely sure about ...",
+    "kor": "...에 대해 전적으로 확신하지는 못하겠습니다",
+    "b1": [
+      "I'm not entirely sure about the time.",
+      "I'm not entirely sure about this answer.",
+      "I'm not entirely sure about the location.",
+      "I'm not entirely sure about his name.",
+      "I'm not entirely sure about the plan."
+    ],
+    "b2": [
+      "I'm not entirely sure about the long-term benefits of this project.",
+      "I'm not entirely sure about the accuracy of these statistics.",
+      "I'm not entirely sure about the feasibility of the proposed solution.",
+      "I'm not entirely sure about the impact of the new regulations.",
+      "I'm not entirely sure about the direction the company is taking."
+    ],
+    "c1": [
+      "I'm not entirely sure about the validity of the underlying assumptions.",
+      "I'm not entirely sure about the ethical ramifications of this research.",
+      "I'm not entirely sure about the sustainability of the current growth model.",
+      "I'm not entirely sure about the reliability of the data sources used in the report.",
+      "I'm not entirely sure about the effectiveness of the proposed intervention strategy."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Could you elaborate on ...?",
+    "kor": "...에 대해 좀 더 자세히 설명해주시겠어요?",
+    "b1": [
+      "Could you elaborate on your idea?",
+      "Could you elaborate on the rules?",
+      "Could you elaborate on the plan?",
+      "Could you elaborate on your answer?",
+      "Could you elaborate on the project?"
+    ],
+    "b2": [
+      "Could you elaborate on the specific details of the proposal?",
+      "Could you elaborate on the reasons behind your decision?",
+      "Could you elaborate on the potential risks involved in this project?",
+      "Could you elaborate on how this new system will work in practice?",
+      "Could you elaborate on the expected outcomes of the marketing campaign?"
+    ],
+    "c1": [
+      "Could you elaborate on the theoretical framework that informs your analysis?",
+      "Could you elaborate on the nuances of the proposed legislative changes?",
+      "Could you elaborate on the methodology used to collect and analyze the data?",
+      "Could you elaborate on the potential socio-economic implications of this policy?",
+      "Could you elaborate on the underlying philosophical principles of your argument?"
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "I have mixed feelings about ...",
+    "kor": "...에 대해 복잡한 감정이 듭니다/좋기도 하고 싫기도 합니다",
+    "b1": [
+      "I have mixed feelings about the movie.",
+      "I have mixed feelings about the party.",
+      "I have mixed feelings about the news.",
+      "I have mixed feelings about my new job.",
+      "I have mixed feelings about moving to a new city."
+    ],
+    "b2": [
+      "I have mixed feelings about the introduction of new technology in the workplace.",
+      "I have mixed feelings about the decision to outsource our customer service.",
+      "I have mixed feelings about the impact of social media on our daily lives.",
+      "I have mixed feelings about the new government policy on education.",
+      "I have mixed feelings about the proposed changes to the company structure."
+    ],
+    "c1": [
+      "I have mixed feelings about the ethical implications of genetic engineering.",
+      "I have mixed feelings about the rapid pace of globalization and its cultural impact.",
+      "I have mixed feelings about the effectiveness of international aid programs.",
+      "I have mixed feelings about the balance between security and privacy in the digital age.",
+      "I have mixed feelings about the philosophical arguments presented in the book."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Let's agree to disagree on ...",
+    "kor": "...에 대해서는 각자의 의견을 존중하기로 하죠(결론이 안 날 때)",
+    "b1": [
+      "Let's agree to disagree on the best food.",
+      "Let's agree to disagree on the movie ending.",
+      "Let's agree to disagree on the music.",
+      "Let's agree to disagree on the game score.",
+      "Let's agree to disagree on our hobbies."
+    ],
+    "b2": [
+      "Let's agree to disagree on the best approach to this problem.",
+      "Let's agree to disagree on the interpretation of the results.",
+      "Let's agree to disagree on the value of this particular project.",
+      "Let's agree to disagree on the future of the industry.",
+      "Let's agree to disagree on the necessity of these changes."
+    ],
+    "c1": [
+      "Let's agree to disagree on the fundamental causes of the economic crisis.",
+      "Let's agree to disagree on the ethical justification for the proposed research.",
+      "Let's agree to disagree on the long-term impact of the geopolitical shift.",
+      "Let's agree to disagree on the validity of the underlying theoretical framework.",
+      "Let's agree to disagree on the optimal balance between regulation and free market."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Have you considered ...?",
+    "kor": "...을 고려해 보셨나요?",
+    "b1": [
+      "Have you considered going to the park?",
+      "Have you considered buying a new bike?",
+      "Have you considered taking a nap?",
+      "Have you considered learning a new language?",
+      "Have you considered calling your friend?"
+    ],
+    "b2": [
+      "Have you considered the potential impact of this decision on the team?",
+      "Have you considered alternative ways to solve this problem?",
+      "Have you considered the possibility of working from home?",
+      "Have you considered the long-term consequences of your actions?",
+      "Have you considered attending the professional development workshop?"
+    ],
+    "c1": [
+      "Have you considered the ethical ramifications of implementing such a policy?",
+      "Have you considered the socio-economic disparities that this project might address?",
+      "Have you considered the potential for a paradigm shift in the current industry?",
+      "Have you considered the implications of the latest research findings in your field?",
+      "Have you considered the broader cultural context in which this issue resides?"
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "That's not always the case because ...",
+    "kor": "항상 그런 것은 아닙니다, 왜냐하면 ...",
+    "b1": [
+      "That's not always the case because it depends on the weather.",
+      "That's not always the case because people are different.",
+      "That's not always the case because sometimes it's free.",
+      "That's not always the case because plans can change.",
+      "That's not always the case because some books are boring."
+    ],
+    "b2": [
+      "That's not always the case because market conditions can vary significantly.",
+      "That's not always the case because individual experiences often differ.",
+      "That's not always the case because there are exceptions to every rule.",
+      "That's not always the case because external factors can influence the outcome.",
+      "That's not always the case because technology is constantly evolving."
+    ],
+    "c1": [
+      "That's not always the case because the empirical data shows a high degree of variability.",
+      "That's not always the case because cultural nuances can significantly alter perceptions.",
+      "That's not always the case because the theory fails to account for idiosyncratic factors.",
+      "That's not always the case because systemic biases can lead to disparate outcomes.",
+      "That's not always the case because the complexity of the situation defies simple generalization."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "I see things ...",
+    "kor": "저는 상황을 ...게 봅니다/저는 사물을 ...게 생각합니다",
+    "b1": [
+      "I see things differently.",
+      "I see things clearly now.",
+      "I see things in a positive way.",
+      "I see things as they are.",
+      "I see things through his eyes."
+    ],
+    "b2": [
+      "I see things from a different perspective than you do.",
+      "I see things getting better in the near future.",
+      "I see things in a more realistic light now.",
+      "I see things as a great opportunity for growth.",
+      "I see things through the lens of my previous experience."
+    ],
+    "c1": [
+      "I see things evolving into a much more complex set of challenges.",
+      "I see things from a holistic and interdisciplinary point of view.",
+      "I see things as being deeply intertwined with socio-political issues.",
+      "I see things through the perspective of a critical theorist.",
+      "I see things as a manifestation of the underlying structural inequalities."
+    ]
+  }
+]

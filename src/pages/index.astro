@@ -1,33 +1,46 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
-import Button from "../components/Button.astro";
+import ButtonMain from "../components/ButtonMain.astro";
+import Typewriter from "../components/Typewriter.astro";
 
 const pageTitle = "Lublio";
 ---
 
 <BaseLayout pageTitle={pageTitle}>
   <h1>Lublio</h1>
-  <h3>현재 블로그 제작중에 있습니다.</h3>
+  <h3>
+    Lublio는 <Typewriter
+      texts={["디지털 노마드", "글로벌 프리랜서", "1인 사업가"]}
+    /> 여러분들의 열정을 응원합니다. ✨
+  </h3>
 
-  <Button
-    title="독일어"
-    subtitle="Deutsch"
+  <ButtonMain
+    title="English"
+    subtitle="영어"
     description="CEFR A1 - C1"
-    language="deu"
-    path="/german"
+    language="eng"
+    path="/english"
   />
 
-  <Button
-    title="프랑스어"
-    subtitle="Français"
+  <ButtonMain
+    title="Français"
+    subtitle="프랑스어"
     description="CEFR A1 - C1"
     language="fra"
     path="/french"
   />
 
-  <Button
-    title="러시아어"
-    subtitle="Русский"
+  <ButtonMain
+    title="Deutsch"
+    subtitle="독일어"
+    description="CEFR A1 - C1"
+    language="deu"
+    path="/german"
+  />
+
+  <ButtonMain
+    title="Русский"
+    subtitle="러시아어"
     description="CEFR A1 - C1"
     language="rus"
     path="/russian"

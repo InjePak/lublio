@@ -4,7 +4,7 @@ import "../styles/colors.css";
 import "../styles/transition.css";
 import { Icon } from "astro-icon/components";
 
-const { title, subtitle, description, language, path, level } = Astro.props;
+const { id, title, subtitle, language, path, level } = Astro.props;
 
 const colorMap1: Record<string, string> = {
   eng: "var(--pink400)",
@@ -42,14 +42,15 @@ const levelIcon = levelMap[level] || "mdi:chess-pawn";
 <style define:vars={{ borderColor, backgroundColor }}>
   .btn:hover {
     border: 2px solid var(--borderColor);
-    background: linear-gradient(
+    /* background: linear-gradient(
       -45deg,
       var(--backgroundColor),
       var(--zinc200),
       var(--zinc200)
     );
     background-size: 300% 300%;
-    animation: gradient 4s ease infinite;
+    animation: gradient 4s ease infinite; */
+    box-shadow: 5px 5px var(--borderColor);
   }
 
   @keyframes gradient {
@@ -74,80 +75,66 @@ const levelIcon = levelMap[level] || "mdi:chess-pawn";
 
 <a href={path}>
   <div class="btn">
-    <h1>{title}</h1>
+    <h1>{id}. {title}</h1>
     <h2>{subtitle}</h2>
-    <p>{description}</p>
     {level && <Icon name={levelIcon} />}
   </div>
 </a>
 
 <style>
-  .btn,
-  .btn2 {
+  .btn {
     position: relative;
     border: 2px dashed var(--zinc800);
-    padding: 1.5rem;
-    margin-bottom: 1.5rem;
-    min-height: 150px;
+    padding: 1rem 1.5rem;
+    margin-bottom: 2rem;
     transition: all 0.4s;
   }
 
-  .btn > h1,
-  .btn2 > h1 {
+  .btn > h1 {
     position: relative;
-    font-size: 26px;
+    font-size: 22px;
     font-weight: 600;
     margin-bottom: 0.5rem;
   }
 
-  .btn > h2,
-  .btn2 > h2 {
+  .btn > h2 {
     position: relative;
     font-size: 16px;
     font-weight: 500;
-    margin-bottom: 0.5rem;
+    margin-bottom: 0rem;
+    color: var(--zinc500);
   }
 
-  .btn > p,
-  .btn2 > p {
-    display: inline-block;
-    text-align: right;
-    margin-top: 2rem;
-    margin-bottom: 0rem;
-    font-size: 14px;
+  .btn > p {
+    position: absolute;
+    left: 1.5rem;
+    bottom: 0;
   }
 
   .btn > svg {
     position: absolute;
-    top: 1.5rem;
+    top: 50%;
+    transform: translateY(-50%);
     right: 1.5rem;
     width: 30px;
     height: 30px;
-    opacity: 0;
-    color: var(--zinc800);
-    transition: all 0.6s;
-  }
-
-  .btn:hover,
-  .btn2:hover {
-    border-radius: 15px;
+    opacity: 1;
+    color: var(--zinc300);
+    transition: all 0.4s;
   }
 
   /* Mobile */
   @media (max-width: 768px) {
-    .btn > h1,
-    .btn2 > h1 {
+    .btn > h1 {
       font-size: 22px;
       width: 90%;
     }
 
-    .btn > h2,
-    .btn2 > h2 {
+    .btn > h2 {
       font-size: 15px;
     }
 
-    .btn > p,
-    .btn2 > p {
+    .btn > p {
       font-size: 12px;
     }
   }

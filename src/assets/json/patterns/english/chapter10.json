@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "I truly appreciate your help with ...",
+    "kor": "...에 대한 당신의 도움에 진심으로 감사드립니다",
+    "b1": [
+      "I truly appreciate your help with my homework.",
+      "I truly appreciate your help with moving the boxes.",
+      "I truly appreciate your help with cooking dinner.",
+      "I truly appreciate your help with finding the keys.",
+      "I truly appreciate your help with the heavy bags."
+    ],
+    "b2": [
+      "I truly appreciate your help with organizing the charity event.",
+      "I truly appreciate your help with preparing the presentation slides.",
+      "I truly appreciate your help with solving the technical issues.",
+      "I truly appreciate your help with navigating the new city.",
+      "I truly appreciate your help with proofreading my final essay."
+    ],
+    "c1": [
+      "I truly appreciate your help with streamlining our internal processes.",
+      "I truly appreciate your help with reconciling the budget discrepancies.",
+      "I truly appreciate your help with facilitating the delicate negotiations.",
+      "I truly appreciate your help with assessing the long-term project risks.",
+      "I truly appreciate your help with drafting the comprehensive legal report."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "You have a remarkable talent for ...",
+    "kor": "당신은 ...에 놀라운 재능이 있군요",
+    "b1": [
+      "You have a remarkable talent for singing songs.",
+      "You have a remarkable talent for drawing pictures.",
+      "You have a remarkable talent for making friends.",
+      "You have a remarkable talent for playing piano.",
+      "You have a remarkable talent for telling jokes."
+    ],
+    "b2": [
+      "You have a remarkable talent for explaining complex ideas simply.",
+      "You have a remarkable talent for managing difficult people.",
+      "You have a remarkable talent for designing beautiful websites.",
+      "You have a remarkable talent for spotting errors in reports.",
+      "You have a remarkable talent for public speaking and debate."
+    ],
+    "c1": [
+      "You have a remarkable talent for synthesizing disparate data into clear insights.",
+      "You have a remarkable talent for navigating complex political landscapes.",
+      "You have a remarkable talent for fostering a culture of innovation.",
+      "You have a remarkable talent for identifying emerging market trends.",
+      "You have a remarkable talent for articulating vision with profound clarity."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "That was incredibly thoughtful of you to ...",
+    "kor": "...해주시다니 정말 사려 깊으시네요",
+    "b1": [
+      "That was incredibly thoughtful of you to buy me flowers.",
+      "That was incredibly thoughtful of you to remember my birthday.",
+      "That was incredibly thoughtful of you to hold the door open.",
+      "That was incredibly thoughtful of you to share your lunch.",
+      "That was incredibly thoughtful of you to call me yesterday."
+    ],
+    "b2": [
+      "That was incredibly thoughtful of you to offer a ride during the storm.",
+      "That was incredibly thoughtful of you to bring coffee for everyone.",
+      "That was incredibly thoughtful of you to send a card after my surgery.",
+      "That was incredibly thoughtful of you to keep me updated on the news.",
+      "That was incredibly thoughtful of you to help me study for the test."
+    ],
+    "c1": [
+      "That was incredibly thoughtful of you to consider the ethical implications first.",
+      "That was incredibly thoughtful of you to anticipate our needs before we asked.",
+      "That was incredibly thoughtful of you to acknowledge the team's minor efforts.",
+      "That was incredibly thoughtful of you to provide such nuanced feedback.",
+      "That was incredibly thoughtful of you to sacrifice your time for our cause."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "I'm so grateful for the fact that ...",
+    "kor": "...라는 사실에 정말 감사합니다",
+    "b1": [
+      "I'm so grateful for the fact that you are my friend.",
+      "I'm so grateful for the fact that it is sunny today.",
+      "I'm so grateful for the fact that we have a nice house.",
+      "I'm so grateful for the fact that everyone is safe.",
+      "I'm so grateful for the fact that I passed the exam."
+    ],
+    "b2": [
+      "I'm so grateful for the fact that the company supports flexible work.",
+      "I'm so grateful for the fact that we were able to meet the deadline.",
+      "I'm so grateful for the fact that my family is always healthy.",
+      "I'm so grateful for the fact that I learned a new language this year.",
+      "I'm so grateful for the fact that we resolved the conflict peacefully."
+    ],
+    "c1": [
+      "I'm so grateful for the fact that our partnership is built on mutual trust.",
+      "I'm so grateful for the fact that we have access to such advanced technology.",
+      "I'm so grateful for the fact that we can operate in a transparent environment.",
+      "I'm so grateful for the fact that our strategy yielded sustainable results.",
+      "I'm so grateful for the fact that my voice was heard during the discussion."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Your attention to detail on ... is outstanding.",
+    "kor": "...에 대한 당신의 세심한 배려(관찰)는 뛰어납니다",
+    "b1": [
+      "Your attention to detail on the cake is outstanding.",
+      "Your attention to detail on the gift wrapping is outstanding.",
+      "Your attention to detail on the garden is outstanding.",
+      "Your attention to detail on the drawing is outstanding.",
+      "Your attention to detail on the table setting is outstanding."
+    ],
+    "b2": [
+      "Your attention to detail on the financial report is outstanding.",
+      "Your attention to detail on the marketing plan is outstanding.",
+      "Your attention to detail on the event schedule is outstanding.",
+      "Your attention to detail on the code review is outstanding.",
+      "Your attention to detail on the interior design is outstanding."
+    ],
+    "c1": [
+      "Your attention to detail on the legislative nuances is outstanding.",
+      "Your attention to detail on the statistical analysis is outstanding.",
+      "Your attention to detail on the quality assurance process is outstanding.",
+      "Your attention to detail on the strategic alignment is outstanding.",
+      "Your attention to detail on the structural integrity is outstanding."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "I wanted to thank you specifically for ...",
+    "kor": "특히 ...에 대해 당신에게 감사하고 싶었습니다",
+    "b1": [
+      "I wanted to thank you specifically for the delicious dinner.",
+      "I wanted to thank you specifically for the nice present.",
+      "I wanted to thank you specifically for helping me today.",
+      "I wanted to thank you specifically for the kind words.",
+      "I wanted to thank you specifically for coming to the party."
+    ],
+    "b2": [
+      "I wanted to thank you specifically for taking the lead on this project.",
+      "I wanted to thank you specifically for providing the necessary data.",
+      "I wanted to thank you specifically for your patience during the meeting.",
+      "I wanted to thank you specifically for introducing me to the team.",
+      "I wanted to thank you specifically for managing the social media ads."
+    ],
+    "c1": [
+      "I wanted to thank you specifically for your invaluable insights on the merger.",
+      "I wanted to thank you specifically for maintaining professionalism under pressure.",
+      "I wanted to thank you specifically for advocating for these ethical reforms.",
+      "I wanted to thank you specifically for your contribution to the research.",
+      "I wanted to thank you specifically for resolving the crisis so efficiently."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "You handled that situation with such grace and ...",
+    "kor": "당신은 그 상황을 매우 품위 있게 그리고 ...하게 처리했습니다",
+    "b1": [
+      "You handled that situation with such grace and kindness.",
+      "You handled that situation with such grace and a smile.",
+      "You handled that situation with such grace and care.",
+      "You handled that situation with such grace and patience.",
+      "You handled that situation with such grace and love."
+    ],
+    "b2": [
+      "You handled that situation with such grace and professionalism.",
+      "You handled that situation with such grace and confidence.",
+      "You handled that situation with such grace and maturity.",
+      "You handled that situation with such grace and wisdom.",
+      "You handled that situation with such grace and efficiency."
+    ],
+    "c1": [
+      "You handled that situation with such grace and diplomatic finesse.",
+      "You handled that situation with such grace and intellectual humility.",
+      "You handled that situation with such grace and composure.",
+      "You handled that situation with such grace and strategic insight.",
+      "You handled that situation with such grace and unwavering integrity."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "I couldn't have done this without your ...",
+    "kor": "당신의 ...가 없었다면 이것을 해낼 수 없었을 거예요",
+    "b1": [
+      "I couldn't have done this without your help.",
+      "I couldn't have done this without your support.",
+      "I couldn't have done this without your love.",
+      "I couldn't have done this without your idea.",
+      "I couldn't have done this without your smile."
+    ],
+    "b2": [
+      "I couldn't have done this without your constant encouragement.",
+      "I couldn't have done this without your technical expertise.",
+      "I couldn't have done this without your detailed feedback.",
+      "I couldn't have done this without your organizational skills.",
+      "I couldn't have done this without your positive influence."
+    ],
+    "c1": [
+      "I couldn't have done this without your strategic guidance.",
+      "I couldn't have done this without your unwavering dedication.",
+      "I couldn't have done this without your invaluable mentorship.",
+      "I couldn't have done this without your profound understanding of the issue.",
+      "I couldn't have done this without your collaborative approach."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Your positive attitude is truly inspiring to ...",
+    "kor": "당신의 긍정적인 태도는 ...에게 정말 영감을 줍니다",
+    "b1": [
+      "Your positive attitude is truly inspiring to me.",
+      "Your positive attitude is truly inspiring to my kids.",
+      "Your positive attitude is truly inspiring to my family.",
+      "Your positive attitude is truly inspiring to the class.",
+      "Your positive attitude is truly inspiring to your friends."
+    ],
+    "b2": [
+      "Your positive attitude is truly inspiring to everyone on the team.",
+      "Your positive attitude is truly inspiring to our new employees.",
+      "Your positive attitude is truly inspiring to the entire community.",
+      "Your positive attitude is truly inspiring to people in this company.",
+      "Your positive attitude is truly inspiring to those who work with you."
+    ],
+    "c1": [
+      "Your positive attitude is truly inspiring to the next generation of leaders.",
+      "Your positive attitude is truly inspiring to the global network of researchers.",
+      "Your positive attitude is truly inspiring to the stakeholders and investors.",
+      "Your positive attitude is truly inspiring to the marginalized groups in our field.",
+      "Your positive attitude is truly inspiring to the leadership board of the firm."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Thank you for going above and beyond to ...",
+    "kor": "...하기 위해 기대 이상으로 노력해 주셔서 감사합니다",
+    "b1": [
+      "Thank you for going above and beyond to help me.",
+      "Thank you for going above and beyond to clean the house.",
+      "Thank you for going above and beyond to find my dog.",
+      "Thank you for going above and beyond to bake the cake.",
+      "Thank you for going above and beyond to organize the party."
+    ],
+    "b2": [
+      "Thank you for going above and beyond to meet the project deadline.",
+      "Thank you for going above and beyond to satisfy the client's needs.",
+      "Thank you for going above and beyond to solve the technical error.",
+      "Thank you for going above and beyond to provide extra training.",
+      "Thank you for going above and beyond to research the market trends."
+    ],
+    "c1": [
+      "Thank you for going above and beyond to ensure the firm's compliance.",
+      "Thank you for going above and beyond to promote diversity and inclusion.",
+      "Thank you for going above and beyond to mitigate the long-term project risks.",
+      "Thank you for going above and beyond to finalize the complex merger.",
+      "Thank you for going above and beyond to establish our strategic vision."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "I really admire the way you ...",
+    "kor": "당신이 ...하는 방식이 정말 존경스러워요",
+    "b1": [
+      "I really admire the way you speak English.",
+      "I really admire the way you cook pasta.",
+      "I really admire the way you talk to people.",
+      "I really admire the way you take care of plants.",
+      "I really admire the way you help your mom."
+    ],
+    "b2": [
+      "I really admire the way you balance work and life.",
+      "I really admire the way you handle difficult customers.",
+      "I really admire the way you organize your daily schedule.",
+      "I really admire the way you explain new things to the team.",
+      "I really admire the way you stay calm under heavy pressure."
+    ],
+    "c1": [
+      "I really admire the way you integrate ethical considerations into business.",
+      "I really admire the way you foster intellectual curiosity in the lab.",
+      "I really admire the way you navigate complex geopolitical shifts.",
+      "I really admire the way you articulate the firm's long-term objectives.",
+      "I really admire the way you empower others to achieve their full potential."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "What a wonderful job you did on ...",
+    "kor": "...에 대해 정말 멋진 일을 해내셨네요",
+    "b1": [
+      "What a wonderful job you did on the homework.",
+      "What a wonderful job you did on the painting.",
+      "What a wonderful job you did on the clean room.",
+      "What a wonderful job you did on the dinner party.",
+      "What a wonderful job you did on the school play."
+    ],
+    "b2": [
+      "What a wonderful job you did on the annual report.",
+      "What a wonderful job you did on the new marketing campaign.",
+      "What a wonderful job you did on the software update.",
+      "What a wonderful job you did on the customer survey.",
+      "What a wonderful job you did on the budget presentation."
+    ],
+    "c1": [
+      "What a wonderful job you did on the environmental assessment.",
+      "What a wonderful job you did on the strategic restructuring.",
+      "What a wonderful job you did on the legal compliance audit.",
+      "What a wonderful job you did on the stakeholder engagement.",
+      "What a wonderful job you did on the crisis management plan."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "It means the world to me that ...",
+    "kor": "...라는 사실은 저에게 무엇보다 소중합니다",
+    "b1": [
+      "It means the world to me that you came to my party.",
+      "It means the world to me that you remembered my birthday.",
+      "It means the world to me that you are my friend.",
+      "It means the world to me that you helped me clean.",
+      "It means the world to me that you called me today."
+    ],
+    "b2": [
+      "It means the world to me that the team supported my idea.",
+      "It means the world to me that the client was happy with our work.",
+      "It means the world to me that I can work in such a positive team.",
+      "It means the world to me that we could finish the project together.",
+      "It means the world to me that you offered such useful advice."
+    ],
+    "c1": [
+      "It means the world to me that our values remain aligned as we grow.",
+      "It means the world to me that you recognized the effort behind the project.",
+      "It means the world to me that we can have such open and honest dialogue.",
+      "It means the world to me that we prioritize long-term sustainability.",
+      "It means the world to me that my contribution was acknowledged by the board."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Your perspective on ... is incredibly valuable.",
+    "kor": "...에 대한 당신의 관점은 정말 가치 있습니다",
+    "b1": [
+      "Your perspective on the book is incredibly valuable.",
+      "Your perspective on the movie is incredibly valuable.",
+      "Your perspective on the city is incredibly valuable.",
+      "Your perspective on the game is incredibly valuable.",
+      "Your perspective on the food is incredibly valuable."
+    ],
+    "b2": [
+      "Your perspective on the marketing strategy is incredibly valuable.",
+      "Your perspective on the new project is incredibly valuable.",
+      "Your perspective on the workplace culture is incredibly valuable.",
+      "Your perspective on the customer feedback is incredibly valuable.",
+      "Your perspective on the technical issues is incredibly valuable."
+    ],
+    "c1": [
+      "Your perspective on the geopolitical landscape is incredibly valuable.",
+      "Your perspective on the fiscal policy is incredibly valuable.",
+      "Your perspective on the ethical dilemmas is incredibly valuable.",
+      "Your perspective on the long-term market trends is incredibly valuable.",
+      "Your perspective on the strategic realignment is incredibly valuable."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "I want to express my deepest gratitude for ...",
+    "kor": "...에 대해 깊은 감사의 말씀을 전하고 싶습니다",
+    "b1": [
+      "I want to express my deepest gratitude for the gift.",
+      "I want to express my deepest gratitude for your kindness.",
+      "I want to express my deepest gratitude for the food.",
+      "I want to express my deepest gratitude for the help.",
+      "I want to express my deepest gratitude for the visit."
+    ],
+    "b2": [
+      "I want to express my deepest gratitude for your hard work on the project.",
+      "I want to express my deepest gratitude for your leadership during the crisis.",
+      "I want to express my deepest gratitude for your mentorship and advice.",
+      "I want to express my deepest gratitude for your support of our new policy.",
+      "I want to express my deepest gratitude for your patience and understanding."
+    ],
+    "c1": [
+      "I want to express my deepest gratitude for your dedication to our shared mission.",
+      "I want to express my deepest gratitude for your unwavering commitment to ethics.",
+      "I want to express my deepest gratitude for your contribution to the industry.",
+      "I want to express my deepest gratitude for your visionary guidance.",
+      "I want to express my deepest gratitude for your role in our firm's success."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "You've made a huge difference in ...",
+    "kor": "당신은 ...에 큰 변화를 일으켰습니다",
+    "b1": [
+      "You've made a huge difference in my life.",
+      "You've made a huge difference in our garden.",
+      "You've made a huge difference in our school.",
+      "You've made a huge difference in our house.",
+      "You've made a huge difference in our team."
+    ],
+    "b2": [
+      "You've made a huge difference in the productivity of our department.",
+      "You've made a huge difference in the way we handle customer complaints.",
+      "You've made a huge difference in our company's social media presence.",
+      "You've made a huge difference in the quality of our latest products.",
+      "You've made a huge difference in the office atmosphere this year."
+    ],
+    "c1": [
+      "You've made a huge difference in the long-term sustainability of the firm.",
+      "You've made a huge difference in the public perception of our organization.",
+      "You've made a huge difference in the lives of the marginalized communities.",
+      "You've made a huge difference in the ethical standards of our research.",
+      "You've made a huge difference in the strategic direction of our industry."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "I’m so impressed by your ability to ...",
+    "kor": "당신의 ...하는 능력에 정말 깊은 인상을 받았습니다",
+    "b1": [
+      "I’m so impressed by your ability to cook well.",
+      "I’m so impressed by your ability to learn fast.",
+      "I’m so impressed by your ability to speak clearly.",
+      "I’m so impressed by your ability to draw beautifully.",
+      "I’m so impressed by your ability to run fast."
+    ],
+    "b2": [
+      "I’m so impressed by your ability to multi-task under pressure.",
+      "I’m so impressed by your ability to solve complex problems easily.",
+      "I’m so impressed by your ability to manage a large team effectively.",
+      "I’m so impressed by your ability to adapt to new technology quickly.",
+      "I’m so impressed by your ability to communicate with diverse clients."
+    ],
+    "c1": [
+      "I’m so impressed by your ability to synthesize vast amounts of data.",
+      "I’m so impressed by your ability to maintain composure in volatile situations.",
+      "I’m so impressed by your ability to foster collaboration across departments.",
+      "I’m so impressed by your ability to anticipate emerging market challenges.",
+      "I’m so impressed by your ability to lead with both empathy and authority."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Thank you for taking the time to ...",
+    "kor": "시간을 내어 ...해주셔서 감사합니다",
+    "b1": [
+      "Thank you for taking the time to talk to me.",
+      "Thank you for taking the time to help me study.",
+      "Thank you for taking the time to come to my house.",
+      "Thank you for taking the time to read my letter.",
+      "Thank you for taking the time to walk with me."
+    ],
+    "b2": [
+      "Thank you for taking the time to provide such detailed feedback.",
+      "Thank you for taking the time to meet with the new team members.",
+      "Thank you for taking the time to review the contract thoroughly.",
+      "Thank you for taking the time to mentor the junior staff this month.",
+      "Thank you for taking the time to explain the new policy to everyone."
+    ],
+    "c1": [
+      "Thank you for taking the time to deliberate on the long-term implications.",
+      "Thank you for taking the time to conduct a comprehensive risk assessment.",
+      "Thank you for taking the time to address the concerns of the stakeholders.",
+      "Thank you for taking the time to evaluate the ethical nuances of the project.",
+      "Thank you for taking the time to facilitate this strategic planning session."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "We are fortunate to have someone who can ...",
+    "kor": "...할 수 있는 분이 계셔서 정말 다행입니다",
+    "b1": [
+      "We are fortunate to have someone who can cook so well.",
+      "We are fortunate to have someone who can speak English.",
+      "We are fortunate to have someone who can drive a car.",
+      "We are fortunate to have someone who can help us clean.",
+      "We are fortunate to have someone who can fix the computer."
+    ],
+    "b2": [
+      "We are fortunate to have someone who can lead the team with confidence.",
+      "We are fortunate to have someone who can manage the budget so carefully.",
+      "We are fortunate to have someone who can communicate with the clients.",
+      "We are fortunate to have someone who can design such creative ads.",
+      "We are fortunate to have someone who can solve the technical issues."
+    ],
+    "c1": [
+      "We are fortunate to have someone who can navigate complex legal frameworks.",
+      "We are fortunate to have someone who can articulate our firm's vision.",
+      "We are fortunate to have someone who can foster a culture of integrity.",
+      "We are fortunate to have someone who can analyze the global market shifts.",
+      "We are fortunate to have someone who can bridge the gap between sectors."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Your willingness to ... really stands out.",
+    "kor": "...하려는 당신의 의지(기꺼이 함)가 정말 돋보입니다",
+    "b1": [
+      "Your willingness to help really stands out.",
+      "Your willingness to share really stands out.",
+      "Your willingness to listen really stands out.",
+      "Your willingness to clean really stands out.",
+      "Your willingness to learn really stands out."
+    ],
+    "b2": [
+      "Your willingness to take on extra responsibilities really stands out.",
+      "Your willingness to work late during the project really stands out.",
+      "Your willingness to mentor new team members really stands out.",
+      "Your willingness to accept constructive feedback really stands out.",
+      "Your willingness to adapt to new work schedules really stands out."
+    ],
+    "c1": [
+      "Your willingness to address systemic inequalities really stands out.",
+      "Your willingness to prioritize ethical standards over profit really stands out.",
+      "Your willingness to challenge the existing paradigms really stands out.",
+      "Your willingness to invest in long-term sustainability really stands out.",
+      "Your willingness to foster a transparent work environment really stands out."
+    ]
+  }
+]

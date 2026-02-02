@@ -1,0 +1,83 @@
+---
+import "../styles/colors.css";
+
+// 컴포넌트 프롭스 정의
+interface Props {
+  texts: string[]; // 출력할 문구 배열
+  typingSpeed?: number; // 타이핑 속도 (ms)
+  deletingSpeed?: number; // 지워지는 속도 (ms)
+  delay?: number; // 문장 사이 대기 시간 (ms)
+}
+
+const {
+  texts = ["안녕하세요!", "Astro로 만든 타자기입니다."],
+  typingSpeed = 100,
+  deletingSpeed = 100,
+  delay = 2000,
+} = Astro.props;
+---
+
+<span id="typewriter" class="typewriter-text"></span>
+<span class="cursor">|</span>
+
+<style>
+  .typewriter-text {
+    font-weight: bold;
+    color: var(--zinc800);
+  }
+
+  .cursor {
+    font-weight: bold;
+    color: var(--zinc800);
+    animation: blink 0.5s infinite;
+  }
+
+  @keyframes blink {
+    0%,
+    100% {
+      opacity: 1;
+    }
+    50% {
+      opacity: 0;
+    }
+  }
+</style>
+
+<script is:inline define:vars={{ texts, typingSpeed, deletingSpeed, delay }}>
+  const element = document.getElementById("typewriter");
+  let textIndex = 0;
+  let charIndex = 0;
+  let isDeleting = false;
+
+  function type() {
+    const currentFullText = texts[textIndex];
+
+    if (isDeleting) {
+      // 글자 지우기
+      element.textContent = currentFullText.substring(0, charIndex - 1);
+      charIndex--;
+    } else {
+      // 글자 타이핑
+      element.textContent = currentFullText.substring(0, charIndex + 1);
+      charIndex++;
+    }
+
+    // 속도 결정
+    let typeSpeed = isDeleting ? deletingSpeed : typingSpeed;
+
+    // 한 문장 완료 시
+    if (!isDeleting && charIndex === currentFullText.length) {
+      typeSpeed = delay; // 다 쳤을 때 대기
+      isDeleting = true;
+    } else if (isDeleting && charIndex === 0) {
+      isDeleting = false;
+      textIndex = (textIndex + 1) % texts.length; // 다음 문장으로
+      typeSpeed = 500;
+    }
+
+    setTimeout(type, typeSpeed);
+  }
+
+  // 실행
+  document.addEventListener("DOMContentLoaded", type);
+</script>

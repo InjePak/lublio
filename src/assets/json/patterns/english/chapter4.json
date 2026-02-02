@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "The main issue seems to be ...",
+    "kor": "주요 문제는 ...인 것 같습니다",
+    "b1": [
+      "The main issue seems to be the lack of time.",
+      "The main issue seems to be the price of the product.",
+      "The main issue seems to be the noise in the office.",
+      "The main issue seems to be the bad weather.",
+      "The main issue seems to be that he is always late."
+    ],
+    "b2": [
+      "The main issue seems to be the miscommunication between the two teams.",
+      "The main issue seems to be the outdated software we are using.",
+      "The main issue seems to be the high cost of maintenance.",
+      "The main issue seems to be the negative feedback from our customers.",
+      "The main issue seems to be the lack of resources for the new project."
+    ],
+    "c1": [
+      "The main issue seems to be the inherent instability of the current market.",
+      "The main issue seems to be the systemic failure of the quality control process.",
+      "The main issue seems to be the discrepancy between the theoretical model and the empirical data.",
+      "The main issue seems to be the deep-seated cultural resistance to change within the organization.",
+      "The main issue seems to be the potential conflict of interest among the stakeholders."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "How can we best approach ...?",
+    "kor": "...에 어떻게 가장 잘 접근할 수 있을까요?",
+    "b1": [
+      "How can we best approach this problem?",
+      "How can we best approach our new neighbors?",
+      "How can we best approach the final exam?",
+      "How can we best approach the travel planning?",
+      "How can we best approach learning a new language?"
+    ],
+    "b2": [
+      "How can we best approach the negotiation with the supplier?",
+      "How can we best approach the task of restructuring the department?",
+      "How can we best approach the challenge of reducing our carbon footprint?",
+      "How can we best approach the launch of our new marketing campaign?",
+      "How can we best approach the difficult conversation with the client?"
+    ],
+    "c1": [
+      "How can we best approach the integration of AI into our existing workflows?",
+      "How can we best approach the sensitive issue of ethical implications in research?",
+      "How can we best approach the complex task of global brand repositioning?",
+      "How can we best approach the long-term sustainability of our business model?",
+      "How can we best approach the multi-faceted challenges of urban poverty?"
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "I suggest that we ...",
+    "kor": "저는 우리가 ...할 것을 제안합니다",
+    "b1": [
+      "I suggest that we take a short break.",
+      "I suggest that we go to the park together.",
+      "I suggest that we study more for the test.",
+      "I suggest that we buy a new printer.",
+      "I suggest that we talk to the teacher."
+    ],
+    "b2": [
+      "I suggest that we implement a more flexible work schedule.",
+      "I suggest that we conduct a survey to get customer feedback.",
+      "I suggest that we invest more in employee training programs.",
+      "I suggest that we revise the current budget plan for next year.",
+      "I suggest that we hire a professional consultant to help us."
+    ],
+    "c1": [
+      "I suggest that we adopt a more proactive approach to risk management.",
+      "I suggest that we leverage our existing data to optimize the supply chain.",
+      "I suggest that we re-evaluate our long-term objectives in light of current trends.",
+      "I suggest that we establish a multi-disciplinary task force to address the issue.",
+      "I suggest that we foster a culture of transparency and accountability."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "A potential solution is to ...",
+    "kor": "잠재적인 해결책은 ...하는 것입니다",
+    "b1": [
+      "A potential solution is to ask for help.",
+      "A potential solution is to save more money.",
+      "A potential solution is to buy a better lock.",
+      "A potential solution is to walk instead of driving.",
+      "A potential solution is to practice every day."
+    ],
+    "b2": [
+      "A potential solution is to automate the data entry process.",
+      "A potential solution is to offer discounts to loyal customers.",
+      "A potential solution is to relocate the office to a more central area.",
+      "A potential solution is to simplify the user interface of our app.",
+      "A potential solution is to establish a more rigorous screening process."
+    ],
+    "c1": [
+      "A potential solution is to diversify our investment portfolio to mitigate risks.",
+      "A potential solution is to implement a decentralized decision-making system.",
+      "A potential solution is to integrate advanced analytics into our strategic planning.",
+      "A potential solution is to overhaul the entire regulatory framework governing this industry.",
+      "A potential solution is to foster collaborative partnerships with our competitors."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "What if we tried ... instead of ...?",
+    "kor": "... 대신 ...을 해보는 건 어떨까요?",
+    "b1": [
+      "What if we tried tea instead of coffee?",
+      "What if we tried walking instead of taking the bus?",
+      "What if we tried studying at night instead of in the morning?",
+      "What if we tried the red one instead of the blue one?",
+      "What if we tried a different restaurant instead of this one?"
+    ],
+    "b2": [
+      "What if we tried digital marketing instead of traditional advertising?",
+      "What if we tried a collaborative approach instead of a competitive one?",
+      "What if we tried hiring freelancers instead of full-time employees?",
+      "What if we tried a subscription model instead of a one-time purchase?",
+      "What if we tried a more informal tone instead of a professional one?"
+    ],
+    "c1": [
+      "What if we tried a qualitative assessment instead of a purely quantitative one?",
+      "What if we tried an incremental implementation strategy instead of a total overhaul?",
+      "What if we tried leveraging open-source solutions instead of proprietary software?",
+      "What if we tried a bottom-up approach to management instead of a top-down one?",
+      "What if we tried focusing on niche markets instead of competing in the mass market?"
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "We need to prioritize ...",
+    "kor": "우리는 ...을 우선시해야 합니다",
+    "b1": [
+      "We need to prioritize safety.",
+      "We need to prioritize our health.",
+      "We need to prioritize the children's needs.",
+      "We need to prioritize finishing this task.",
+      "We need to prioritize saving water."
+    ],
+    "b2": [
+      "We need to prioritize customer satisfaction over short-term profits.",
+      "We need to prioritize the most urgent tasks on the list.",
+      "We need to prioritize the development of new security features.",
+      "We need to prioritize effective communication within the team.",
+      "We need to prioritize the quality of the product over the speed of production."
+    ],
+    "c1": [
+      "We need to prioritize the long-term sustainability of our environmental initiatives.",
+      "We need to prioritize the ethical implications of our data collection policies.",
+      "We need to prioritize the psychological well-being of our workforce.",
+      "We need to prioritize the allocation of resources to high-impact research areas.",
+      "We need to prioritize fiscal responsibility to ensure the firm's stability."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Let's break the problem down into ...",
+    "kor": "문제를 ...로 나누어 봅시다",
+    "b1": [
+      "Let's break the problem down into small steps.",
+      "Let's break the problem down into three parts.",
+      "Let's break the problem down into easy tasks.",
+      "Let's break the problem down into day and night work.",
+      "Let's break the problem down into groups."
+    ],
+    "b2": [
+      "Let's break the problem down into manageable components.",
+      "Let's break the problem down into short-term and long-term goals.",
+      "Let's break the problem down into technical and administrative issues.",
+      "Let's break the problem down into different stages of production.",
+      "Let's break the problem down into individual responsibilities."
+    ],
+    "c1": [
+      "Let's break the problem down into its fundamental constituent elements.",
+      "Let's break the problem down into discrete analytical categories.",
+      "Let's break the problem down into chronological sequences to identify the root cause.",
+      "Let's break the problem down into socio-economic and political factors.",
+      "Let's break the problem down into internal vulnerabilities and external threats."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Have you considered the impact of ...?",
+    "kor": "...의 영향력을 고려해 보셨나요?",
+    "b1": [
+      "Have you considered the impact of the rain?",
+      "Have you considered the impact of the noise?",
+      "Have you considered the impact of social media?",
+      "Have you considered the impact of your words?",
+      "Have you considered the impact of the new rules?"
+    ],
+    "b2": [
+      "Have you considered the impact of inflation on our project budget?",
+      "Have you considered the impact of remote work on employee productivity?",
+      "Have you considered the impact of the new competitor in the market?",
+      "Have you considered the impact of these changes on the local community?",
+      "Have you considered the impact of the technological shift on our industry?"
+    ],
+    "c1": [
+      "Have you considered the long-term environmental impact of the proposed factory?",
+      "Have you considered the potential socio-political impact of the new legislation?",
+      "Have you considered the cumulative impact of these minor technical glitches?",
+      "Have you considered the psychological impact of the restructuring on the staff?",
+      "Have you considered the economic impact of the global supply chain disruption?"
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "One way around this is to ...",
+    "kor": "이를 해결하는 한 가지 방법은 ...하는 것입니다",
+    "b1": [
+      "One way around this is to use a map.",
+      "One way around this is to ask a friend.",
+      "One way around this is to try again later.",
+      "One way around this is to take a different road.",
+      "One way around this is to use a cheaper option."
+    ],
+    "b2": [
+      "One way around this is to outsource the technical support.",
+      "One way around this is to negotiate a more flexible deadline.",
+      "One way around this is to use cloud-based storage instead of physical servers.",
+      "One way around this is to collaborate with a local partner.",
+      "One way around this is to simplify the requirements for the applicants."
+    ],
+    "c1": [
+      "One way around this is to implement a modular design that allows for future scalability.",
+      "One way around this is to utilize a workaround that bypasses the legacy system.",
+      "One way around this is to establish a legal entity in another jurisdiction.",
+      "One way around this is to leverage existing open-source frameworks to reduce costs.",
+      "One way around this is to adopt a hybrid approach that combines both theories."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "We could mitigate the risk by ...",
+    "kor": "우리는 ...함으로써 위험을 완화할 수 있습니다",
+    "b1": [
+      "We could mitigate the risk by wearing a helmet.",
+      "We could mitigate the risk by checking the weather.",
+      "We could mitigate the risk by going slowly.",
+      "We could mitigate the risk by saving money.",
+      "We could mitigate the risk by being careful."
+    ],
+    "b2": [
+      "We could mitigate the risk by diversifying our suppliers.",
+      "We could mitigate the risk by conducting thorough background checks.",
+      "We could mitigate the risk by purchasing comprehensive insurance.",
+      "We could mitigate the risk by setting up a backup server.",
+      "We could mitigate the risk by training staff on safety protocols."
+    ],
+    "c1": [
+      "We could mitigate the risk by implementing a rigorous auditing system.",
+      "We could mitigate the risk by hedging our foreign exchange exposure.",
+      "We could mitigate the risk by incorporating contingency clauses into the contract.",
+      "We could mitigate the risk by conducting a series of pilot studies before the full launch.",
+      "We could mitigate the risk by establishing an independent oversight committee."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Perhaps we should look at the root cause of ...",
+    "kor": "어쩌면 우리는 ...의 근본 원인을 살펴봐야 할 것 같습니다",
+    "b1": [
+      "Perhaps we should look at the root cause of the noise.",
+      "Perhaps we should look at the root cause of the smell.",
+      "Perhaps we should look at the root cause of the mistake.",
+      "Perhaps we should look at the root cause of the fight.",
+      "Perhaps we should look at the root cause of the broken toy."
+    ],
+    "b2": [
+      "Perhaps we should look at the root cause of the high employee turnover.",
+      "Perhaps we should look at the root cause of the declining sales figures.",
+      "Perhaps we should look at the root cause of the frequent system failures.",
+      "Perhaps we should look at the root cause of the misunderstanding between the teams.",
+      "Perhaps we should look at the root cause of the budget overruns."
+    ],
+    "c1": [
+      "Perhaps we should look at the root cause of the systemic inefficiencies within the department.",
+      "Perhaps we should look at the root cause of the psychological barriers to innovation.",
+      "Perhaps we should look at the root cause of the recurring socio-economic disparities.",
+      "Perhaps we should look at the root cause of the discrepancy in the experimental data.",
+      "Perhaps we should look at the root cause of the cultural friction during the merger."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "The immediate next step should be ...",
+    "kor": "즉각적인 다음 단계는 ...여야 합니다",
+    "b1": [
+      "The immediate next step should be to call the police.",
+      "The immediate next step should be to clean the floor.",
+      "The immediate next step should be to find a map.",
+      "The immediate next step should be to say sorry.",
+      "The immediate next step should be to eat lunch."
+    ],
+    "b2": [
+      "The immediate next step should be to notify all the stakeholders about the delay.",
+      "The immediate next step should be to conduct an emergency meeting with the board.",
+      "The immediate next step should be to fix the bug in the system.",
+      "The immediate next step should be to gather more data on customer behavior.",
+      "The immediate next step should be to secure additional funding for the project."
+    ],
+    "c1": [
+      "The immediate next step should be to initiate a comprehensive forensic audit of the finances.",
+      "The immediate next step should be to establish a crisis management protocol.",
+      "The immediate next step should be to issue a formal statement to the press.",
+      "The immediate next step should be to assess the legal ramifications of the breach.",
+      "The immediate next step should be to stabilize the primary infrastructure to prevent further loss."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Does anyone have a different perspective on ...?",
+    "kor": "...에 대해 다른 의견이 있는 분 계신가요?",
+    "b1": [
+      "Does anyone have a different perspective on this movie?",
+      "Does anyone have a different perspective on the food?",
+      "Does anyone have a different perspective on the music?",
+      "Does anyone have a different perspective on the game?",
+      "Does anyone have a different perspective on this plan?"
+    ],
+    "b2": [
+      "Does anyone have a different perspective on the new office policy?",
+      "Does anyone have a different perspective on the results of the survey?",
+      "Does anyone have a different perspective on the proposed marketing strategy?",
+      "Does anyone have a different perspective on the impact of technology in schools?",
+      "Does anyone have a different perspective on how to handle the customer's complaint?"
+    ],
+    "c1": [
+      "Does anyone have a different perspective on the ethical considerations of the project?",
+      "Does anyone have a different perspective on the theoretical framework we are using?",
+      "Does anyone have a different perspective on the socio-economic implications of the crisis?",
+      "Does anyone have a different perspective on the validity of the research methodology?",
+      "Does anyone have a different perspective on the long-term strategic direction of the firm?"
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "In the short term, we can do ...",
+    "kor": "단기적으로는 ...을 할 수 있습니다",
+    "b1": [
+      "In the short term, we can do more exercise.",
+      "In the short term, we can save some money.",
+      "In the short term, we can buy a new phone.",
+      "In the short term, we can wait for the bus.",
+      "In the short term, we can use a fan."
+    ],
+    "b2": [
+      "In the short term, we can reduce our unnecessary expenses.",
+      "In the short term, we can hire a temporary assistant to help with the workload.",
+      "In the short term, we can focus on improving our current product line.",
+      "In the short term, we can implement a temporary fix for the software bug.",
+      "In the short term, we can increase our presence on social media."
+    ],
+    "c1": [
+      "In the short term, we can implement cost-cutting measures to preserve liquidity.",
+      "In the short term, we can utilize a tactical approach to address the immediate crisis.",
+      "In the short term, we can reallocate internal resources to the most critical tasks.",
+      "In the short term, we can provide temporary relief to the affected communities.",
+      "In the short term, we can initiate a pilot program to test the new strategy."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "We should implement a system for ...",
+    "kor": "...을 위한 시스템을 도입해야 합니다",
+    "b1": [
+      "We should implement a system for cleaning the house.",
+      "We should implement a system for saving water.",
+      "We should implement a system for recycling trash.",
+      "We should implement a system for doing homework.",
+      "We should implement a system for checking the mail."
+    ],
+    "b2": [
+      "We should implement a system for tracking employee performance.",
+      "We should implement a system for managing customer complaints efficiently.",
+      "We should implement a system for automatic data backup.",
+      "We should implement a system for internal knowledge sharing.",
+      "We should implement a system for more rigorous quality control."
+    ],
+    "c1": [
+      "We should implement a system for monitoring ethical compliance across the organization.",
+      "We should implement a system for assessing the environmental impact of our operations.",
+      "We should implement a system for fostering inter-departmental collaboration.",
+      "We should implement a system for the continuous professional development of our staff.",
+      "We should implement a system for proactive risk detection and mitigation."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Let's evaluate the pros and cons of ...",
+    "kor": "...의 장단점을 평가해 봅시다",
+    "b1": [
+      "Let's evaluate the pros and cons of living in a city.",
+      "Let's evaluate the pros and cons of having a dog.",
+      "Let's evaluate the pros and cons of walking to school.",
+      "Let's evaluate the pros and cons of this new game.",
+      "Let's evaluate the pros and cons of online shopping."
+    ],
+    "b2": [
+      "Let's evaluate the pros and cons of working remotely full-time.",
+      "Let's evaluate the pros and cons of outsourcing our technical support.",
+      "Let's evaluate the pros and cons of the proposed merger.",
+      "Let's evaluate the pros and cons of adopting a new software platform.",
+      "Let's evaluate the pros and cons of entering the Asian market."
+    ],
+    "c1": [
+      "Let's evaluate the pros and cons of the different theoretical frameworks.",
+      "Let's evaluate the pros and cons of the current fiscal policy on long-term growth.",
+      "Let's evaluate the pros and cons of decentralized management versus a hierarchical one.",
+      "Let's evaluate the pros and cons of prioritizing shareholder value over stakeholder well-being.",
+      "Let's evaluate the pros and cons of using genetic engineering in agriculture."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "To ensure success, we must first address ...",
+    "kor": "성공을 보장하기 위해서는 먼저 ...을 해결해야 합니다",
+    "b1": [
+      "To ensure success, we must first address the money problem.",
+      "To ensure success, we must first address the time issue.",
+      "To ensure success, we must first address the rules.",
+      "To ensure success, we must first address the team work.",
+      "To ensure success, we must first address the plan."
+    ],
+    "b2": [
+      "To ensure success, we must first address the communication gaps within the team.",
+      "To ensure success, we must first address the technical limitations of our current infrastructure.",
+      "To ensure success, we must first address the concerns raised by our investors.",
+      "To ensure success, we must first address the recent decline in customer satisfaction.",
+      "To ensure success, we must first address the potential legal issues with the project."
+    ],
+    "c1": [
+      "To ensure success, we must first address the fundamental systemic biases in our recruitment process.",
+      "To ensure success, we must first address the discrepancy between our vision and our execution.",
+      "To ensure success, we must first address the ethical implications of our strategic shift.",
+      "To ensure success, we must first address the psychological factors that impede innovation.",
+      "To ensure success, we must first address the inherent vulnerabilities in our supply chain."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "The biggest obstacle standing in the way is ...",
+    "kor": "앞길을 가로막는 가장 큰 장애물은 ...입니다",
+    "b1": [
+      "The biggest obstacle standing in the way is the rain.",
+      "The biggest obstacle standing in the way is the high price.",
+      "The biggest obstacle standing in the way is the lack of time.",
+      "The biggest obstacle standing in the way is my fear.",
+      "The biggest obstacle standing in the way is the closed road."
+    ],
+    "b2": [
+      "The biggest obstacle standing in the way is the lack of funding for the new department.",
+      "The biggest obstacle standing in the way is the strict government regulations.",
+      "The biggest obstacle standing in the way is the lack of skilled personnel in the region.",
+      "The biggest obstacle standing in the way is the resistance to change from the management.",
+      "The biggest obstacle standing in the way is the outdated technology we are using."
+    ],
+    "c1": [
+      "The biggest obstacle standing in the way is the pervasive sense of complacency within the industry.",
+      "The biggest obstacle standing in the way is the complex geopolitical tension in the target market.",
+      "The biggest obstacle standing in the way is the inherent fragility of the global financial system.",
+      "The biggest obstacle standing in the way is the deep-seated cultural divide among the participants.",
+      "The biggest obstacle standing in the way is the absence of a clear ethical framework for the project."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "My proposed approach involves ...",
+    "kor": "제가 제안하는 접근 방식은 ...을 포함합니다",
+    "b1": [
+      "My proposed approach involves a lot of practice.",
+      "My proposed approach involves asking for help.",
+      "My proposed approach involves working together.",
+      "My proposed approach involves using a different book.",
+      "My proposed approach involves saving more time."
+    ],
+    "b2": [
+      "My proposed approach involves a combination of online and offline marketing.",
+      "My proposed approach involves hiring an external team of specialists.",
+      "My proposed approach involves a series of small, incremental changes to the system.",
+      "My proposed approach involves direct engagement with our target audience.",
+      "My proposed approach involves a thorough re-evaluation of our current budget."
+    ],
+    "c1": [
+      "My proposed approach involves a multi-disciplinary integration of theories.",
+      "My proposed approach involves the utilization of advanced algorithmic models for prediction.",
+      "My proposed approach involves a fundamental restructuring of the organizational hierarchy.",
+      "My proposed approach involves a proactive strategy for identifying and mitigating risks.",
+      "My proposed approach involves a holistic analysis of both qualitative and quantitative data."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Perhaps the missing piece is ...",
+    "kor": "어쩌면 빠진 조각(중요한 요소)은 ...인 것 같습니다",
+    "b1": [
+      "Perhaps the missing piece is the right tool.",
+      "Perhaps the missing piece is more time.",
+      "Perhaps the missing piece is a good map.",
+      "Perhaps the missing piece is your help.",
+      "Perhaps the missing piece is a new idea."
+    ],
+    "b2": [
+      "Perhaps the missing piece is a clear vision from the leadership.",
+      "Perhaps the missing piece is effective communication between departments.",
+      "Perhaps the missing piece is a better understanding of our competitors.",
+      "Perhaps the missing piece is a more flexible approach to the problem.",
+      "Perhaps the missing piece is a more reliable source of data."
+    ],
+    "c1": [
+      "Perhaps the missing piece is a robust ethical framework for decision-making.",
+      "Perhaps the missing piece is a nuanced appreciation of the cultural context.",
+      "Perhaps the missing piece is the psychological safety required for innovation.",
+      "Perhaps the missing piece is a long-term strategic alignment among the stakeholders.",
+      "Perhaps the missing piece is a deep dive into the underlying systemic issues."
+    ]
+  }
+]
