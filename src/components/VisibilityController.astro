@@ -33,6 +33,18 @@ const { items } = Astro.props;
     margin-bottom: 1.5rem;
   }
 
+  /* Mobile */
+  @media (max-width: 768px) {
+    /* label이 4개 이상일 때 적용되는 스타일 */
+    .controller:has(label:nth-last-child(n + 4)) {
+      display: grid; /* Grid로 변경 */
+      grid-template-columns: 1fr 1fr; /* 1:1 비율로 2열 배치 */
+      border-radius: 20px; /* 2줄이 되면 캡슐형보다는 약간 각진 게 예쁩니다 */
+      justify-items: center; /* 아이템들을 왼쪽 정렬 (취향껏 선택) */
+      padding: 1rem;
+    }
+  }
+
   .controller label {
     cursor: pointer;
     font-size: 1rem;
