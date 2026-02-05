@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "path": "politics",
+    "kor": "정치",
+    "eng": "Politics",
+    "fra": "Politique",
+    "deu": "Politik",
+    "rus": "Политика"
+  },
+  {
+    "id": 2,
+    "path": "global-issues",
+    "kor": "글로벌 이슈",
+    "eng": "Global Issues",
+    "fra": "Problèmes mondiaux",
+    "deu": "Globale Fragen",
+    "rus": "Глобальные проблемы"
+  },
+  {
+    "id": 3,
+    "path": "psychology",
+    "kor": "심리학",
+    "eng": "Psychology",
+    "fra": "Psychologie",
+    "deu": "Psychologie",
+    "rus": "Психология"
+  },
+  {
+    "id": 4,
+    "path": "finance",
+    "kor": "금융",
+    "eng": "Finance",
+    "fra": "Finance",
+    "deu": "Finanzen",
+    "rus": "Финансы"
+  },
+  {
+    "id": 5,
+    "path": "legal-system",
+    "kor": "법률 시스템",
+    "eng": "Legal System",
+    "fra": "Système juridique",
+    "deu": "Rechtssystem",
+    "rus": "Правовая система"
+  },
+  {
+    "id": 6,
+    "path": "academic-terms",
+    "kor": "학술 용어",
+    "eng": "Academic Terms",
+    "fra": "Termes académiques",
+    "deu": "Akademische Begriffe",
+    "rus": "Академические термины"
+  },
+  {
+    "id": 7,
+    "path": "inventions",
+    "kor": "발명",
+    "eng": "Inventions",
+    "fra": "Inventions",
+    "deu": "Erfindungen",
+    "rus": "Изобретения"
+  },
+  {
+    "id": 8,
+    "path": "marketing",
+    "kor": "마케팅",
+    "eng": "Marketing",
+    "fra": "Marketing",
+    "deu": "Marketing",
+    "rus": "Марке팅"
+  },
+  {
+    "id": 9,
+    "path": "media-and-press",
+    "kor": "미디어와 언론",
+    "eng": "Media and Press",
+    "fra": "Médias et Presse",
+    "deu": "Medien und Presse",
+    "rus": "СМИ и пресса"
+  },
+  {
+    "id": 10,
+    "path": "industry",
+    "kor": "산업",
+    "eng": "Industry",
+    "fra": "Industrie",
+    "deu": "Industrie",
+    "rus": "Промышленность"
+  },
+  {
+    "id": 11,
+    "path": "ethics",
+    "kor": "윤리",
+    "eng": "Ethics",
+    "fra": "Éthique",
+    "deu": "Ethik",
+    "rus": "Этика"
+  },
+  {
+    "id": 12,
+    "path": "architecture",
+    "kor": "건축",
+    "eng": "Architecture",
+    "fra": "Architecture",
+    "deu": "Architektur",
+    "rus": "Архитектура"
+  },
+  {
+    "id": 13,
+    "path": "genetics-and-bio",
+    "kor": "유전과 바이오",
+    "eng": "Genetics and Bio",
+    "fra": "Génétique et Bio",
+    "deu": "Genetik und Bio",
+    "rus": "Генетика и био"
+  },
+  {
+    "id": 14,
+    "path": "urbanization",
+    "kor": "도시화",
+    "eng": "Urbanization",
+    "fra": "Urbanisation",
+    "deu": "Urbanisierung",
+    "rus": "Ур바низация"
+  },
+  {
+    "id": 15,
+    "path": "philosophy",
+    "kor": "철학",
+    "eng": "Philosophy",
+    "fra": "Philosophie",
+    "deu": "Philosophie",
+    "rus": "Философия"
+  }
+]

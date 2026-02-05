@@ -45,7 +45,7 @@ const {
 
 <script is:inline define:vars={{ texts, typingSpeed, deletingSpeed, delay }}>
   const element = document.getElementById("typewriter");
-  let textIndex = 0;
+  let textIndex = Math.floor(Math.random() * texts.length);
   let charIndex = 0;
   let isDeleting = false;
 

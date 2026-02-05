@@ -17,13 +17,23 @@ const colorMap1: Record<string, string> = {
   eng: "var(--pink400)",
   fra: "var(--sky400)",
   deu: "var(--amber400)",
+  ita: "var(--emerald400)",
+  esp: "var(--orange400)",
   rus: "var(--indigo400)",
+  tur: "var(--rose400)",
+  ces: "var(--blue400)",
+  hun: "var(--lime400)",
 };
 const colorMap2: Record<string, string> = {
   eng: "var(--pink200)",
   fra: "var(--sky200)",
   deu: "var(--amber200)",
+  ita: "var(--emerald200)",
+  esp: "var(--orange200)",
   rus: "var(--indigo200)",
+  tur: "var(--rose200)",
+  ces: "var(--blue200)",
+  hun: "var(--lime200)",
 };
 const borderColor = colorMap1[language] || "var(--zinc400)";
 const backgroundColor = colorMap2[language] || "var(--zinc300)";
@@ -32,7 +42,12 @@ const greetingMap: Record<string, string> = {
   eng: "Hello",
   fra: "Bonjour",
   deu: "Hallo",
+  ita: "Ciao",
+  esp: "Hola",
   rus: "Здравствуйте",
+  tur: "Merhaba",
+  ces: "Ahoj",
+  hun: "Szia",
 };
 const greeting = greetingMap[language] || "Hello";
 ---
@@ -44,6 +59,7 @@ const greeting = greetingMap[language] || "Hello";
 
   .btn:hover {
     border: 2px solid var(--borderColor);
+    border-radius: 20px;
     background: linear-gradient(
       -45deg,
       var(--backgroundColor),
@@ -72,6 +88,16 @@ const greeting = greetingMap[language] || "Hello";
     opacity: 1;
     top: 2rem;
   }
+
+  /* Mobile */
+  @media (max-width: 768px) {
+    .btn:hover > h3 {
+      opacity: 1;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+    }
+  }
 </style>
 
 <a href={path}>
@@ -89,20 +115,20 @@ const greeting = greetingMap[language] || "Hello";
     border: 2px dashed var(--zinc800);
     padding: 1.5rem;
     margin-bottom: 1.5rem;
-    min-height: 180px;
+    min-height: 200px;
     transition: all 0.4s;
   }
 
   .btn > h1 {
     position: relative;
-    font-size: 28px;
+    font-size: 24px;
     font-weight: 600;
     margin-bottom: 0.5rem;
   }
 
   .btn > h2 {
     position: relative;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 500;
     margin-bottom: 0.5rem;
   }
@@ -136,16 +162,25 @@ const greeting = greetingMap[language] || "Hello";
   /* Mobile */
   @media (max-width: 768px) {
     .btn > h1 {
-      font-size: 26px;
+      font-size: 22px;
       width: 90%;
     }
 
     .btn > h2 {
-      font-size: 16px;
+      font-size: 15px;
     }
 
     .btn > p {
       font-size: 12px;
+    }
+
+    .btn > h3 {
+      font-size: 20px;
+      text-align: center;
+      margin: 0;
+      top: 60%;
+      left: 50%;
+      transform: translate(-50%, -50%);
     }
   }
 </style>

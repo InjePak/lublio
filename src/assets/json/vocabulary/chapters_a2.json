@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "path": "daily-routine",
+    "kor": "일과",
+    "eng": "Daily Routine",
+    "fra": "Routine quotidienne",
+    "deu": "Alltagsroutine",
+    "rus": "Распорядок дня"
+  },
+  {
+    "id": 2,
+    "path": "shopping",
+    "kor": "쇼핑",
+    "eng": "Shopping",
+    "fra": "Achats",
+    "deu": "Einkaufen",
+    "rus": "Покупки"
+  },
+  {
+    "id": 3,
+    "path": "health",
+    "kor": "건강",
+    "eng": "Health",
+    "fra": "Santé",
+    "deu": "Gesundheit",
+    "rus": "Здоровье"
+  },
+  {
+    "id": 4,
+    "path": "travel",
+    "kor": "여행",
+    "eng": "Travel",
+    "fra": "Voyage",
+    "deu": "Reisen",
+    "rus": "Путешествие"
+  },
+  {
+    "id": 5,
+    "path": "kitchenware",
+    "kor": "주방 도구",
+    "eng": "Kitchenware",
+    "fra": "Ustensiles de cuisine",
+    "deu": "Küchenutensilien",
+    "rus": "Кухонные принадлежности"
+  },
+  {
+    "id": 6,
+    "path": "nature",
+    "kor": "자연",
+    "eng": "Nature",
+    "fra": "Nature",
+    "deu": "Natur",
+    "rus": "Природа"
+  },
+  {
+    "id": 7,
+    "path": "technology",
+    "kor": "기술",
+    "eng": "Technology",
+    "fra": "Technologie",
+    "deu": "Technologie",
+    "rus": "Технологии"
+  },
+  {
+    "id": 8,
+    "path": "events",
+    "kor": "행사",
+    "eng": "Events",
+    "fra": "Événements",
+    "deu": "Ereignisse",
+    "rus": "События"
+  },
+  {
+    "id": 9,
+    "path": "media",
+    "kor": "미디어",
+    "eng": "Media",
+    "fra": "Médias",
+    "deu": "Medien",
+    "rus": "Медиа"
+  },
+  {
+    "id": 10,
+    "path": "feelings",
+    "kor": "감정",
+    "eng": "Feelings",
+    "fra": "Sentiments",
+    "deu": "Gefühle",
+    "rus": "Чувства"
+  },
+  {
+    "id": 11,
+    "path": "buildings",
+    "kor": "건물",
+    "eng": "Buildings",
+    "fra": "Bâtiments",
+    "deu": "Gebäude",
+    "rus": "Здания"
+  },
+  {
+    "id": 12,
+    "path": "office",
+    "kor": "사무실",
+    "eng": "Office",
+    "fra": "Bureau",
+    "deu": "Büro",
+    "rus": "Офис"
+  },
+  {
+    "id": 13,
+    "path": "seasons",
+    "kor": "계절",
+    "eng": "Seasons",
+    "fra": "Saisons",
+    "deu": "Jahreszeiten",
+    "rus": "Времена года"
+  },
+  {
+    "id": 14,
+    "path": "directions",
+    "kor": "방향",
+    "eng": "Directions",
+    "fra": "Directions",
+    "deu": "Richtungen",
+    "rus": "Направления"
+  },
+  {
+    "id": 15,
+    "path": "materials",
+    "kor": "재질",
+    "eng": "Materials",
+    "fra": "Matériaux",
+    "deu": "Materialien",
+    "rus": "Материалы"
+  }
+]

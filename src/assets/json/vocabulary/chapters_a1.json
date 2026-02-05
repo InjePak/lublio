@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "path": "family",
+    "kor": "가족",
+    "eng": "Family",
+    "fra": "Famille",
+    "deu": "Familie",
+    "rus": "Семья"
+  },
+  {
+    "id": 2,
+    "path": "food-and-drinks",
+    "kor": "음식과 음료",
+    "eng": "Food and Drinks",
+    "fra": "Nourriture et Boissons",
+    "deu": "Essen und Trinken",
+    "rus": "Еда и напитки"
+  },
+  {
+    "id": 3,
+    "path": "clothes",
+    "kor": "의류",
+    "eng": "Clothes",
+    "fra": "Vêtements",
+    "deu": "Kleidung",
+    "rus": "Одежда"
+  },
+  {
+    "id": 4,
+    "path": "body-parts",
+    "kor": "신체 부위",
+    "eng": "Body Parts",
+    "fra": "Parties du corps",
+    "deu": "Körperteile",
+    "rus": "Части тела"
+  },
+  {
+    "id": 5,
+    "path": "house",
+    "kor": "집과 가구",
+    "eng": "House",
+    "fra": "Maison",
+    "deu": "Haus",
+    "rus": "Дом"
+  },
+  {
+    "id": 6,
+    "path": "school",
+    "kor": "학교",
+    "eng": "School",
+    "fra": "École",
+    "deu": "Schule",
+    "rus": "Школа"
+  },
+  {
+    "id": 7,
+    "path": "animals",
+    "kor": "동물",
+    "eng": "Animals",
+    "fra": "Animaux",
+    "deu": "Tiere",
+    "rus": "Животные"
+  },
+  {
+    "id": 8,
+    "path": "time",
+    "kor": "시간",
+    "eng": "Time",
+    "fra": "Temps",
+    "deu": "Zeit",
+    "rus": "Время"
+  },
+  {
+    "id": 9,
+    "path": "weather",
+    "kor": "날씨",
+    "eng": "Weather",
+    "fra": "Météo",
+    "deu": "Wetter",
+    "rus": "Погода"
+  },
+  {
+    "id": 10,
+    "path": "colors",
+    "kor": "색상",
+    "eng": "Colors",
+    "fra": "Couleurs",
+    "deu": "Farben",
+    "rus": "Цвета"
+  },
+  {
+    "id": 11,
+    "path": "transport",
+    "kor": "교통 수단",
+    "eng": "Transport",
+    "fra": "Transport",
+    "deu": "Verkehrsmittel",
+    "rus": "Транспорт"
+  },
+  {
+    "id": 12,
+    "path": "hobbies",
+    "kor": "취미",
+    "eng": "Hobbies",
+    "fra": "Loisirs",
+    "deu": "Hobbys",
+    "rus": "Хобби"
+  },
+  {
+    "id": 13,
+    "path": "places-in-town",
+    "kor": "마을 장소",
+    "eng": "Places in Town",
+    "fra": "Lieux en ville",
+    "deu": "Orte in der Stadt",
+    "rus": "Места в городе"
+  },
+  {
+    "id": 14,
+    "path": "jobs",
+    "kor": "직업",
+    "eng": "Jobs",
+    "fra": "Métiers",
+    "deu": "Berufe",
+    "rus": "Профессии"
+  },
+  {
+    "id": 15,
+    "path": "numbers-and-currency",
+    "kor": "숫자와 화폐",
+    "eng": "Numbers and Currency",
+    "fra": "Nombres et Monnaie",
+    "deu": "Zahlen und Währung",
+    "rus": "Числа и валюта"
+  }
+]
