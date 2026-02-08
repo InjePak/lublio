@@ -72,12 +72,7 @@ const pageTitle = "프랑스어 패턴";
 ---
 
 <BaseLayout pageTitle={pageTitle + " | Lublio"}>
-  <Box2
-    title={chapter.kor}
-    subtitle={chapter.fra}
-    description="Le français est la langue de l'amour, de la gastronomie et de la diplomatie. Parlée sur cinq continents, elle se distingue par son élégance, sa richesse culturelle et sa précision analytique."
-    language="fra"
-  />
+  <Box2 title={chapter.fra} subtitle={chapter.kor} language="fra" />
 
   {
     jsonData.map((post: any) => (

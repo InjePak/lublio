@@ -1,5 +1,6 @@
 ---
 import BaseLayout from "../../../../layouts/BaseLayout.astro";
+import Box2 from "../../../../components/Box2.astro";
 
 // src/pages/phrasebook/[level]/[path].astro
 import chapters from "../../../../assets/json/phrasebook/chapters.json";
@@ -243,11 +244,7 @@ switch (level) {
 ---
 
 <BaseLayout pageTitle={chapter.kor + " | Lublio"}>
-  <div class="title">
-    <h1 class="riseUp_1">{chapter.kor}</h1>
-    <hr />
-    <p class="riseUp_2">{chapter.deu}</p>
-  </div>
+  <Box2 title={chapter.deu} subtitle={chapter.kor} language="deu" />
 
   {
     !jsonData ? (
@@ -258,7 +255,6 @@ switch (level) {
           <h2>
             {index + 1}. {data.kor}
           </h2>
-          <hr />
           <p>
             <span style="color: var(--amber400)">●</span>
             {data.deu}
@@ -270,61 +266,24 @@ switch (level) {
 </BaseLayout>
 
 <style>
-  /* Title */
-
-  .title {
-    background-color: var(--amber400);
-    padding: 1.5rem 2rem;
-    margin-bottom: 1.5rem;
-  }
-
-  .title > h1,
-  .title > p {
-    width: 100%;
-  }
-
-  .title > h1 {
-    text-transform: uppercase;
-    margin-bottom: 0.5rem;
-  }
-
-  .title > p {
-    color: var(--zinc800);
-    font-weight: 500;
-    margin-bottom: 0rem;
-  }
-
-  .title > p:last-child {
-    margin-bottom: 0;
-  }
-
-  .title > hr {
-    border: 1px solid var(--zinc800);
-    margin: 1.5rem 0;
-  }
-
   /* Phrase Box */
 
   .phrase-box {
-    border: 1px solid var(--zinc400);
+    background-color: var(--neutral50);
     margin-bottom: 1.5rem;
     padding: 1.5rem;
   }
 
   .phrase-box > h2 {
-    font-size: 20px;
-    font-weight: 500;
+    font-family: "Roboto Condensed", sans-serif;
+    text-transform: uppercase;
+    font-size: 24px;
+    font-weight: 700;
     margin-top: 1.5rem;
   }
 
-  .phrase-box > hr {
-    border: 1px solid var(--zinc800);
-    margin: 0;
-    margin-bottom: 1.5rem;
-  }
-
   .phrase-box > p {
-    font-size: 17px;
+    font-size: 20px;
     margin-bottom: 1.5rem;
   }
 
@@ -333,33 +292,15 @@ switch (level) {
   }
 
   /* Mobile */
-  @media (max-width: 768px) {
-    .title {
-      padding: 1.5rem;
-      margin-bottom: 1.5rem;
-    }
-
-    .title > h1,
-    .title > p {
-      width: 100%;
-    }
-
-    .title > h1 {
-      font-size: 22px;
-    }
-
-    .title > p {
-      font-size: 15px;
-    }
-
+  @media (max-width: 480px) {
     .phrase-box > h2 {
-      font-size: 16px;
+      font-size: 20px;
       margin-top: 1rem;
     }
 
     .phrase-box > p {
-      font-size: 15px;
-      margin-bottom: 1.2rem;
+      font-size: 18px;
+      margin-bottom: 1.5rem;
       line-height: 1.5rem;
     }
   }

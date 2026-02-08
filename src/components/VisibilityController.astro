@@ -26,7 +26,7 @@ const { items } = Astro.props;
     justify-content: space-evenly;
     top: 0;
     border: 1px solid var(--zinc400);
-    border-radius: 50px;
+    background-color: var(--zinc700);
     padding: 0.5rem 1rem;
     display: flex;
     gap: 1rem;
@@ -34,7 +34,7 @@ const { items } = Astro.props;
   }
 
   /* Mobile */
-  @media (max-width: 768px) {
+  @media (max-width: 480px) {
     /* label이 4개 이상일 때 적용되는 스타일 */
     .controller:has(label:nth-last-child(n + 4)) {
       display: grid; /* Grid로 변경 */
@@ -61,28 +61,25 @@ const { items } = Astro.props;
   .visibility-toggle + span {
     display: inline-block;
     padding: 8px 16px;
-    border-radius: 10px;
     font-weight: 600;
-    font-size: 16px;
+    font-size: 18px;
     cursor: pointer;
-    font-family: "Google Sans", sans-serif;
+    font-family: "Roboto Condensed", sans-serif;
+    text-transform: uppercase;
     transition: all 0.2s ease;
   }
 
   .visibility-toggle:not(:checked) + span {
-    color: var(--zinc400);
+    color: var(--zinc500);
   }
 
-  .visibility-toggle:not(:checked) + span:hover {
-    background-color: var(--zinc300);
+  .visibility-toggle:not(:checked) + span:hover,
+  .visibility-toggle:checked + span:hover {
+    background-color: var(--zinc600);
   }
 
   .visibility-toggle:checked + span {
-    color: var(--zinc800);
-  }
-
-  .visibility-toggle:checked + span:hover {
-    background-color: var(--zinc300);
+    color: var(--zinc200);
   }
 </style>
 

@@ -1,6 +1,7 @@
 ---
 import BaseLayout from "../../../../layouts/BaseLayout.astro";
 import VisibilityController from "../../../../components/VisibilityController.astro";
+import Box2 from "../../../../components/Box2.astro";
 
 import chapters from "../../../../assets/json/patterns/chapters.json";
 import chapter1 from "../../../../assets/json/patterns/french/chapter1.json";
@@ -84,11 +85,11 @@ const navItems = [
 ---
 
 <BaseLayout pageTitle={post.kor + " | Lublio"}>
-  <div class="title">
-    <h1 class="riseUp_1">{post.id}. {post.pattern}</h1>
-    <hr />
-    <p class="riseUp_2">{post.kor}</p>
-  </div>
+  <Box2
+    title=`${post.id}. ${post.pattern}`
+    subtitle={post.kor}
+    language="fra"
+  />
 
   <VisibilityController items={navItems} />
 
@@ -102,13 +103,12 @@ const navItems = [
             {index === 0 && (
               <>
                 <div class={`phrase-box phrase-b1 riseUp_1`}>
-                  <h2>
-                    <span style="color: var(--sky400)">●</span> B1
-                  </h2>
-                  <hr />
+                  <h2>B1</h2>
                   {level.map((phrase) => (
                     <>
-                      <p>• {phrase}</p>
+                      <p>
+                        <span style="color: var(--sky400)">●</span> {phrase}
+                      </p>
                     </>
                   ))}
                 </div>
@@ -117,13 +117,12 @@ const navItems = [
             {index === 1 && (
               <>
                 <div class={`phrase-box phrase-b2 riseUp_1`}>
-                  <h2>
-                    <span style="color: var(--sky400)">●</span> B2
-                  </h2>
-                  <hr />
+                  <h2>B2</h2>
                   {level.map((phrase) => (
                     <>
-                      <p>• {phrase}</p>
+                      <p>
+                        <span style="color: var(--sky400)">●</span> {phrase}
+                      </p>
                     </>
                   ))}
                 </div>
@@ -132,13 +131,12 @@ const navItems = [
             {index === 2 && (
               <>
                 <div class={`phrase-box phrase-c1 riseUp_1`}>
-                  <h2>
-                    <span style="color: var(--sky400)">●</span> C1
-                  </h2>
-                  <hr />
+                  <h2>C1</h2>
                   {level.map((phrase) => (
                     <>
-                      <p>• {phrase}</p>
+                      <p>
+                        <span style="color: var(--sky400)">●</span> {phrase}
+                      </p>
                     </>
                   ))}
                 </div>
@@ -170,60 +168,24 @@ const navItems = [
 </BaseLayout>
 
 <style>
-  /* Title */
-
-  .title {
-    background-color: var(--sky400);
-    padding: 2rem;
-    margin-bottom: 1.5rem;
-  }
-
-  .title > h1,
-  .title > p {
-    width: 100%;
-  }
-
-  .title > h1 {
-    margin-bottom: 0.5rem;
-  }
-
-  .title > p {
-    color: var(--zinc800);
-    font-weight: 500;
-    margin-bottom: 0rem;
-  }
-
-  .title > p:last-child {
-    margin-bottom: 0;
-  }
-
-  .title > hr {
-    border: 1px solid var(--zinc800);
-    margin: 1.5rem 0;
-  }
-
   /* Phrase Box */
 
   .phrase-box {
-    border: 1px solid var(--zinc400);
+    background-color: var(--neutral50);
     margin-bottom: 1.5rem;
     padding: 1.5rem;
   }
 
   .phrase-box > h2 {
-    font-size: 20px;
-    font-weight: 500;
+    font-family: "Roboto Condensed", sans-serif;
+    text-transform: uppercase;
+    font-size: 32px;
+    font-weight: 700;
     margin-top: 1.5rem;
   }
 
-  .phrase-box > hr {
-    border: 1px solid var(--zinc800);
-    margin: 0;
-    margin-bottom: 1.5rem;
-  }
-
   .phrase-box > p {
-    font-size: 17px;
+    font-size: 20px;
     margin-bottom: 1.5rem;
   }
 
@@ -232,33 +194,15 @@ const navItems = [
   }
 
   /* Mobile */
-  @media (max-width: 768px) {
-    .title {
-      padding: 1.5rem;
-      margin-bottom: 1.5rem;
-    }
-
-    .title > h1,
-    .title > p {
-      width: 100%;
-    }
-
-    .title > h1 {
-      font-size: 22px;
-    }
-
-    .title > p {
-      font-size: 15px;
-    }
-
+  @media (max-width: 480px) {
     .phrase-box > h2 {
-      font-size: 18px;
+      font-size: 28px;
       margin-top: 1rem;
     }
 
     .phrase-box > p {
-      font-size: 15px;
-      margin-bottom: 1.2rem;
+      font-size: 18px;
+      margin-bottom: 1.5rem;
       line-height: 1.5rem;
     }
   }

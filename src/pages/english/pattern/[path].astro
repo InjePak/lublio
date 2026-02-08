@@ -72,12 +72,7 @@ const pageTitle = "영어 패턴";
 ---
 
 <BaseLayout pageTitle={pageTitle + " | Lublio"}>
-  <Box2
-    title={chapter.kor}
-    subtitle={chapter.eng}
-    description="English is a global lingua franca, connecting people across business, science, and culture. Mastering it opens doors to endless information and international opportunities. It’s your key to the world."
-    language="eng"
-  />
+  <Box2 title={chapter.eng} subtitle={chapter.kor} language="eng" />
 
   {
     jsonData.map((post: any) => (
