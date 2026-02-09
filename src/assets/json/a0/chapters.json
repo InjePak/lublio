@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "kor": "안녕! 나는 루블리오야.",
+    "eng": "Hello, I'm Lublio.",
+    "fra": "Bonjour ! Je m'appelle Lublio.",
+    "deu": "Hallo! Ich heiße Lublio.",
+    "rus": "Привет! Меня зовут Lublio."
+  },
+  {
+    "id": 2,
+    "kor": "만나서 반가워!",
+    "eng": "Nice to meet you!",
+    "fra": "Enchanté(e) !",
+    "deu": "Freut mich!",
+    "rus": "Очень приятно!"
+  },
+  {
+    "id": 3,
+    "kor": "화장실이 어디인가요?",
+    "eng": "Where is the restroom?",
+    "fra": "Où sont les toilettes ?",
+    "deu": "Wo ist die Toilette?",
+    "rus": "Где туалет?"
+  },
+  {
+    "id": 4,
+    "kor": "커피 한 잔 주세요.",
+    "eng": "I'd like a coffee, please.",
+    "fra": "Un café, s'il vous plaît.",
+    "deu": "Ich hätte gerne einen Kaffee.",
+    "rus": "Кофе, пожалуйста."
+  },
+  {
+    "id": 5,
+    "kor": "이거 얼마예요?",
+    "eng": "How much is this?",
+    "fra": "C'est combien ?",
+    "deu": "Was kostet das?",
+    "rus": "Сколько это стоит?"
+  },
+  {
+    "id": 6,
+    "kor": "정말 맛있어요!",
+    "eng": "It’s really delicious!",
+    "fra": "C'est très bon !",
+    "deu": "Das ist sehr lecker!",
+    "rus": "Это очень вкусно!"
+  },
+  {
+    "id": 7,
+    "kor": "이해하지 못했어요.",
+    "eng": "I don't understand.",
+    "fra": "Je ne comprends pas.",
+    "deu": "Ich verstehe nicht.",
+    "rus": "Я не понимаю."
+  },
+  {
+    "id": 8,
+    "kor": "길을 잃었어요. 도와주세요.",
+    "eng": "I'm lost. Help me.",
+    "fra": "Je suis perdu(e). Aidez-moi.",
+    "deu": "Ich habe mich verlaufen. Hilfe.",
+    "rus": "Я заб루дился. Помогите."
+  },
+  {
+    "id": 9,
+    "kor": "괜찮아요, 감사합니다!",
+    "eng": "It's okay, thank you!",
+    "fra": "Ça va, merci !",
+    "deu": "Alles klar, danke!",
+    "rus": "Всё в порядке, спасибо!"
+  },
+  {
+    "id": 10,
+    "kor": "다음에 봐요. 안녕!",
+    "eng": "See you later. Bye!",
+    "fra": "À bientôt, au revoir !",
+    "deu": "Bis bald, tschüss!",
+    "rus": "До встречи, пока!"
+  }
+]

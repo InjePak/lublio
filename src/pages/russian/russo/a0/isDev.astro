@@ -1,0 +1,25 @@
+---
+import BaseLayout from "../../../../layouts/BaseLayout.astro";
+import Box2 from "../../../../components/Box2.astro";
+import Button2 from "../../../../components/Button2.astro";
+
+import chapters from "../../../../assets/json/a0/chapters.json";
+
+const pageTitle = "러시아어 첫걸음";
+---
+
+<BaseLayout pageTitle={pageTitle + " - Lublio"}>
+  <Box2 title="Абсолютный новичок" subtitle="러시아어 첫걸음" language="rus" />
+
+  {
+    chapters.map((post: any) => (
+      <Button2
+        id={post.id}
+        title={post.rus}
+        subtitle={post.kor}
+        language="rus"
+        path={"/russian/russo/a0/" + post.path}
+      />
+    ))
+  }
+</BaseLayout>

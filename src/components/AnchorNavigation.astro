@@ -34,8 +34,23 @@ const { items } = Astro.props;
     height: 100%;
   }
 
+  /* li이 4개 이상일 때 적용되는 스타일 */
+  ul:has(li:nth-last-child(n + 5)) {
+    display: grid; /* Grid로 변경 */
+    grid-template-columns: 1fr 1fr; /* 1:1 비율로 2열 배치 */
+    justify-items: center; /* 아이템들을 왼쪽 정렬 (취향껏 선택) */
+  }
+
+  @media (max-width: 480px) {
+    ul {
+      display: grid; /* Grid로 변경 */
+      grid-template-columns: 1fr 1fr; /* 1:1 비율로 2열 배치 */
+      justify-items: center; /* 아이템들을 왼쪽 정렬 (취향껏 선택) */
+    }
+  }
+
   li {
-    width: 20%;
+    width: 100%;
     text-align: center;
   }
 

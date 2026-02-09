@@ -1,0 +1,30 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import Box3 from "../../../components/Box3.astro";
+import Button2 from "../../../components/Button2.astro";
+
+import chapters from "../../../assets/json/a0/chapters.json";
+
+const pageTitle = "모두의 영어";
+---
+
+<BaseLayout pageTitle={pageTitle + " - Lublio"}>
+  <Box3
+    title="English for Everyone"
+    subtitle="모두의 영어"
+    description="영어를 넘어 세상을 만나는 가장 쉬운 방법! 기초 회화부터 필수 문법까지, 전 세계 누구와도 거침없이 소통할 수 있도록 당신의 자신감을 깨워드립니다."
+    language="eng"
+  />
+
+  {
+    chapters.map((post: any) => (
+      <Button2
+        id={post.id}
+        title={post.eng}
+        subtitle={post.kor}
+        language="eng"
+        path={"/english/a0/" + post.path}
+      />
+    ))
+  }
+</BaseLayout>

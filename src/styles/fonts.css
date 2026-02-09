@@ -1,47 +1,66 @@
-/*
-* ——————————————————————————————
-* Emoji
-* ——————————————————————————————
-*/
-
-@import url("https://fonts.googleapis.com/css2?family=Noto+Color+Emoji&display=swap");
-/* font-family: "Noto Color Emoji", sans-serif; */
-
-/*
-* ——————————————————————————————
-* Latin, Cyrillic
-* ——————————————————————————————
-*/
-
-@import url("https://fonts.googleapis.com/css2?family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&display=swap");
-/* font-family: "Google Sans", sans-serif; */
-
-@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap");
-/* font-family: "Roboto Slab", serif; */
-
-@import url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
-/* font-family: "Prata", serif; */
-
-@import url('https://fonts.googleapis.com/css2?family=Brygada+1918:ital,wght@0,400..700;1,400..700&display=swap');
-/* font-family: "Brygada 1918", serif; */
-
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+@font-face {
+  font-family: "Roboto Condensed";
+  src: url("/fonts/RobotoCondensed-VariableFont_wght.ttf") format("truetype");
+  font-display: swap;
+}
 /* font-family: "Roboto Condensed", sans-serif; */
 
-/*
-* ——————————————————————————————
-* Ivriah
-* ——————————————————————————————
-*/
+@font-face {
+  font-family: "Inter";
+  src: url("/fonts/Inter-VariableFont_opsz\,wght.ttf") format("truetype");
+  font-display: swap;
+}
+/* font-family: "Inter", sans-serif; */
 
-@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+Hebrew:wght@100..900&display=swap");
-/* font-family: "Noto Sans Hebrew", sans-serif; */
+@font-face {
+  font-family: "Noto Hebrew";
+  src: url("/fonts/NotoSansHebrew-VariableFont_wdth\,wght.ttf")
+    format("truetype");
+  font-display: swap;
+}
+/* font-family: "Noto Hebrew", sans-serif; */
 
-/*
-* ——————————————————————————————
-* Kazariah
-* ——————————————————————————————
-*/
+@font-face {
+  font-family: "Noto Arabic";
+  src: url("/fonts/NotoSansArabic-VariableFont_wdth\,wght.ttf")
+    format("truetype");
+  font-display: swap;
+}
+/* font-family: "Noto Arabic", sans-serif; */
 
-@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap");
-/* font-family: "Noto Sans", sans-serif; */
+@font-face {
+  font-family: "Noto Georgian";
+  src: url("/fonts/NotoSansGeorgian-VariableFont_wdth\,wght.ttf")
+    format("truetype");
+  font-display: swap;
+}
+/* font-family: "Noto Georgian", sans-serif; */
+
+@font-face {
+  font-family: "Noto Armenian";
+  src: url("/fonts/NotoSansArmenian-VariableFont_wdth\,wght.ttf")
+    format("truetype");
+  font-display: swap;
+}
+/* font-family: "Noto Armenian", sans-serif; */
+
+@font-face {
+  font-family: "Noto Korean";
+  src: url("/fonts/NotoSansKR-VariableFont_wght.ttf") format("truetype");
+  font-display: swap;
+}
+/* font-family: "Noto Korean", sans-serif; */
+
+@font-face {
+  font-family: "Noto Japanese";
+  src: url("/fonts/NotoSansJP-VariableFont_wght.ttf") format("truetype");
+  font-display: swap;
+}
+/* font-family: "Noto Japanese", sans-serif; */
+
+@font-face {
+  font-family: "Noto Chinese";
+  src: url("/fonts/NotoSansSC-VariableFont_wght.ttf") format("truetype");
+  font-display: swap;
+}
+/* font-family: "Noto Chinese", sans-serif; */

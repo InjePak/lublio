@@ -4,7 +4,8 @@ import "../styles/colors.css";
 import "../styles/transition.css";
 import { Icon } from "astro-icon/components";
 
-const { title, subtitle, description, language, path, level } = Astro.props;
+const { title, subtitle, description, language, path, level, isDev } =
+  Astro.props;
 
 const colorMap1: Record<string, string> = {
   eng: "var(--pink500)",
@@ -76,6 +77,7 @@ const levelMap: Record<string, string> = {
   grammar: "mdi:cube-outline",
   phrase: "mdi:tooltip-text-outline",
   pattern: "mdi:puzzle-outline",
+  composite: "mdi:key-outline",
 };
 const levelIcon = levelMap[level] || "mdi:chess-pawn";
 ---
@@ -91,7 +93,8 @@ const levelIcon = levelMap[level] || "mdi:chess-pawn";
     color: var(--color500);
   }
 
-  .btn:hover > svg {
+  .btn:hover > svg,
+  .btn:hover > span {
     opacity: 1;
     color: var(--color500);
   }
@@ -103,6 +106,7 @@ const levelIcon = levelMap[level] || "mdi:chess-pawn";
     <h2>{subtitle}</h2>
     <p>{description}</p>
     {level && <Icon name={levelIcon} />}
+    {isDev && <span>Coming Soon</span>}
   </div>
 </a>
 
@@ -135,18 +139,34 @@ const levelIcon = levelMap[level] || "mdi:chess-pawn";
   }
 
   .btn > p {
-    display: inline-block;
+    position: absolute;
+    display: block;
+    margin: 0;
     text-align: right;
-    margin-top: 2rem;
-    margin-bottom: 0rem;
+    bottom: 1rem;
+    right: 1rem;
     font-size: 14px;
+    transition: 0.4s all;
+  }
+
+  .btn > span {
+    position: absolute;
+    display: block;
+    bottom: 1rem;
+    left: 1rem;
+    font-weight: 600;
+    font-size: 18px;
+    font-family: "Roboto Condensed", sans-serif;
+    text-transform: uppercase;
+    color: var(--zinc800);
+    opacity: 0;
     transition: 0.4s all;
   }
 
   .btn > svg {
     position: absolute;
-    top: 1.5rem;
-    right: 1.5rem;
+    top: 1rem;
+    right: 1rem;
     width: 30px;
     height: 30px;
     opacity: 0;
@@ -156,7 +176,7 @@ const levelIcon = levelMap[level] || "mdi:chess-pawn";
 
   /* Mobile */
   @media (max-width: 480px) {
-    /* .btn > h1 {
+    .btn > h1 {
       font-size: 22px;
       width: 90%;
     }
@@ -167,6 +187,15 @@ const levelIcon = levelMap[level] || "mdi:chess-pawn";
 
     .btn > p {
       font-size: 12px;
-    } */
+    }
+
+    .btn > span {
+      font-size: 14px;
+    }
+
+    .btn > svg {
+      width: 24px;
+      height: 24px;
+    }
   }
 </style>

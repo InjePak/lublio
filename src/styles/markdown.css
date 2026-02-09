@@ -2,7 +2,7 @@
 @import "./colors.css";
 
 .post-container {
-  background-color: var(--zinc200);
+  background-color: var(--zinc100);
   width: 100%;
   height: auto;
   margin: 0 auto;
@@ -115,8 +115,8 @@
 }
 
 .post-body code {
-  background-color: var(--zinc800);
-  color: var(--zinc200);
+  background-color: var(--stone700);
+  color: var(--stone200);
   padding: 0.2rem 0.4rem;
   border-radius: 0px;
 }
@@ -218,30 +218,30 @@
 }
 
 .post-body th {
-  background-color: var(--zinc300);
+  background-color: var(--stone200);
   font-weight: bold;
   padding: 12px;
-  border: 1px solid var(--zinc400);
+  border: 1px solid var(--stone400);
 }
 
 .post-body td {
   padding: 12px;
-  border: 1px solid var(--zinc400);
+  border: 1px solid var(--stone400);
   vertical-align: middle;
   transition: all 0.3s;
 }
 
 .post-body td:hover {
-  background-color: var(--zinc100);
+  background-color: var(--stone100);
 }
 
 /* 모든 행의 첫 번째 칸(열)만 타겟팅 */
 .post-body table td:first-child {
-  background-color: var(--zinc300); /* 헤더와 같은 배경색 */
+  background-color: var(--stone200); /* 헤더와 같은 배경색 */
   font-weight: bold; /* 글자 강조 */
   color: var(--zinc800);
   width: 150px; /* 제목 열이라서 너비를 고정하고 싶을 때 */
-  border-right: 1px solid var(--zinc400); /* 강조를 위한 오른쪽 선 */
+  border-right: 1px solid var(--stone400); /* 강조를 위한 오른쪽 선 */
 }
 
 /* (선택사항) 만약 상단 헤더(th)를 아예 안 쓰고 싶다면 */

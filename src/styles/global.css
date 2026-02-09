@@ -90,7 +90,7 @@ p {
   height: auto;
   color: var(--zinc800);
   margin-bottom: 1.5rem;
-  font-family: "Google Sans", sans-serif;
+  font-family: "Inter", sans-serif;
 }
 
 h1::selection,
