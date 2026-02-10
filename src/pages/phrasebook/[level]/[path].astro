@@ -1,6 +1,7 @@
 ---
 import BaseLayout from "../../../layouts/BaseLayout.astro";
 import VisibilityController from "../../../components/VisibilityController.astro";
+import Box2 from "../../../components/Box2.astro";
 
 // src/pages/phrasebook/[level]/[path].astro
 import chapters from "../../../assets/json/phrasebook/chapters.json";
@@ -255,14 +256,13 @@ const navItems = [
 ---
 
 <BaseLayout pageTitle={pageTitle + " | Lublio"}>
-  <div class="title">
-    <h1 class="riseUp_1">{chapter.kor}</h1>
-    <hr />
-    <p class="riseUp_2">{chapter.eng}</p>
-    <p class="riseUp_3">{chapter.fra}</p>
-    <p class="riseUp_4">{chapter.deu}</p>
-    <p class="riseUp_5">{chapter.rus}</p>
-  </div>
+  <Box2
+    title={chapter.kor}
+    eng={chapter.eng}
+    fra={chapter.fra}
+    deu={chapter.deu}
+    rus={chapter.rus}
+  />
 
   <VisibilityController items={navItems} />
 
@@ -275,7 +275,6 @@ const navItems = [
           <h2>
             {index + 1}. {data.kor}
           </h2>
-          <hr />
           <p class="phrase-eng">
             <span style="color: var(--pink400)">●</span>
             {data.eng}
@@ -411,25 +410,21 @@ const navItems = [
   /* Phrase Box */
 
   .phrase-box {
-    border: 1px solid var(--zinc400);
+    background-color: var(--neutral50);
     margin-bottom: 1.5rem;
     padding: 1.5rem;
   }
 
   .phrase-box > h2 {
-    font-size: 20px;
-    font-weight: 500;
+    font-family: "Roboto Condensed", sans-serif;
+    text-transform: uppercase;
+    font-size: 24px;
+    font-weight: 700;
     margin-top: 1.5rem;
   }
 
-  .phrase-box > hr {
-    border: 1px solid var(--zinc800);
-    margin: 0;
-    margin-bottom: 1.5rem;
-  }
-
   .phrase-box > p {
-    font-size: 17px;
+    font-size: 20px;
     margin-bottom: 1.5rem;
   }
 
@@ -438,33 +433,15 @@ const navItems = [
   }
 
   /* Mobile */
-  @media (max-width: 768px) {
-    .title {
-      padding: 1.5rem;
-      margin-bottom: 1.5rem;
-    }
-
-    .title > h1,
-    .title > p {
-      width: 100%;
-    }
-
-    .title > h1 {
-      font-size: 22px;
-    }
-
-    .title > p {
-      font-size: 15px;
-    }
-
+  @media (max-width: 480px) {
     .phrase-box > h2 {
-      font-size: 16px;
+      font-size: 20px;
       margin-top: 1rem;
     }
 
     .phrase-box > p {
-      font-size: 15px;
-      margin-bottom: 1.2rem;
+      font-size: 18px;
+      margin-bottom: 1.5rem;
       line-height: 1.5rem;
     }
   }

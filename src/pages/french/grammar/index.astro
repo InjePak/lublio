@@ -1,0 +1,271 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import { getCollection } from "astro:content";
+import Box from "../../../components/Box.astro";
+import Button2 from "../../../components/Button2.astro";
+import AnchorNavigation from "../../../components/AnchorNavigation.astro";
+
+const posts1 = await getCollection("grammar", ({ id }) => {
+  return id.startsWith("english/nouns/");
+});
+
+const posts2 = await getCollection("grammar", ({ id }) => {
+  return id.startsWith("english/pronouns/");
+});
+
+const posts3 = await getCollection("grammar", ({ id }) => {
+  return id.startsWith("english/adjectives/");
+});
+
+const posts4 = await getCollection("grammar", ({ id }) => {
+  return id.startsWith("english/verbs/");
+});
+
+const posts5 = await getCollection("grammar", ({ id }) => {
+  return id.startsWith("english/prepositions/");
+});
+
+const posts6 = await getCollection("grammar", ({ id }) => {
+  return id.startsWith("english/numerals/");
+});
+
+const posts7 = await getCollection("grammar", ({ id }) => {
+  return id.startsWith("english/conjunctions/");
+});
+
+// Title
+const pageTitle = "영어 문법";
+
+// Anchor Navigation
+const navItems = [
+  { id: "group-nouns", label: "명사 & 관사" },
+  { id: "group-pronouns", label: "대명사" },
+  { id: "group-adjectives", label: "형용사 & 부사" },
+  { id: "group-verbs", label: "동사" },
+  { id: "group-prepositions", label: "전치사" },
+  { id: "group-numerals", label: "수사" },
+  { id: "group-conjunctions", label: "접속사 & 문장구조" },
+];
+---
+
+<BaseLayout pageTitle={pageTitle + " - Lublio"}>
+  <Box
+    title="Grammaire"
+    subtitle="프랑스어 문법"
+    description="생각을 문장으로 바꾸는 가장 명확한 가이드라인. 기초부터 탄탄하게 다져진 문법으로 흔들림 없는 회화 실력을 갖춰보세요."
+    language="fra"
+  />
+
+  <AnchorNavigation items={navItems} />
+
+  <main>
+    <section id="group-nouns">
+      <h2>
+        <span class="animated-underline-fra">Ⅰ. 명사 &amp; 관사</span>
+      </h2>
+      <ul>
+        {
+          posts1.map((post: any, index: number) => {
+            // URL 추출 로직
+            // entry.id 예시: "english/nouns/basics.md" -> "nouns/basics"
+            const slugWithoutLang = post.id
+              .replace("english/", "")
+              .replace(".md", "");
+
+            const postUrl = `/english/grammar/${slugWithoutLang}`;
+
+            return (
+              <Button2
+                id={index + 1}
+                title={post.data.title}
+                subtitle={post.data.translation}
+                language="fra"
+                path={postUrl}
+              />
+            );
+          })
+        }
+      </ul>
+    </section>
+
+    <section id="group-pronouns">
+      <h2>
+        <span class="animated-underline-fra">Ⅱ. 대명사</span>
+      </h2>
+      <ul>
+        {
+          posts2.map((post: any, index: number) => {
+            // URL 추출 로직
+            // entry.id 예시: "english/nouns/basics.md" -> "nouns/basics"
+            const slugWithoutLang = post.id
+              .replace("english/", "")
+              .replace(".md", "");
+
+            const postUrl = `/english/grammar/${slugWithoutLang}`;
+
+            return (
+              <Button2
+                id={index + 1}
+                title={post.data.title}
+                subtitle={post.data.translation}
+                language="fra"
+                path={postUrl}
+              />
+            );
+          })
+        }
+      </ul>
+    </section>
+
+    <section id="group-adjectives">
+      <h2>
+        <span class="animated-underline-fra">Ⅲ. 형용사 &amp; 부사</span>
+      </h2>
+      <ul>
+        {
+          posts3.map((post: any, index: number) => {
+            // URL 추출 로직
+            // entry.id 예시: "english/nouns/basics.md" -> "nouns/basics"
+            const slugWithoutLang = post.id
+              .replace("english/", "")
+              .replace(".md", "");
+
+            const postUrl = `/english/grammar/${slugWithoutLang}`;
+
+            return (
+              <Button2
+                id={index + 1}
+                title={post.data.title}
+                subtitle={post.data.translation}
+                language="fra"
+                path={postUrl}
+              />
+            );
+          })
+        }
+      </ul>
+    </section>
+
+    <section id="group-verbs">
+      <h2>
+        <span class="animated-underline-fra">Ⅳ. 동사</span>
+      </h2>
+      <ul>
+        {
+          posts4.map((post: any, index: number) => {
+            // URL 추출 로직
+            // entry.id 예시: "english/nouns/basics.md" -> "nouns/basics"
+            const slugWithoutLang = post.id
+              .replace("english/", "")
+              .replace(".md", "");
+
+            const postUrl = `/english/grammar/${slugWithoutLang}`;
+
+            return (
+              <Button2
+                id={index + 1}
+                title={post.data.title}
+                subtitle={post.data.translation}
+                language="fra"
+                path={postUrl}
+              />
+            );
+          })
+        }
+      </ul>
+    </section>
+
+    <section id="group-prepositions">
+      <h2>
+        <span class="animated-underline-fra">Ⅴ. 전치사</span>
+      </h2>
+      <ul>
+        {
+          posts5.map((post: any, index: number) => {
+            // URL 추출 로직
+            // entry.id 예시: "english/nouns/basics.md" -> "nouns/basics"
+            const slugWithoutLang = post.id
+              .replace("english/", "")
+              .replace(".md", "");
+
+            const postUrl = `/english/grammar/${slugWithoutLang}`;
+
+            return (
+              <Button2
+                id={index + 1}
+                title={post.data.title}
+                subtitle={post.data.translation}
+                language="fra"
+                path={postUrl}
+              />
+            );
+          })
+        }
+      </ul>
+    </section>
+
+    <section id="group-numerals">
+      <h2>
+        <span class="animated-underline-fra">Ⅵ. 수사</span>
+      </h2>
+      <ul>
+        {
+          posts6.map((post: any, index: number) => {
+            // URL 추출 로직
+            // entry.id 예시: "english/nouns/basics.md" -> "nouns/basics"
+            const slugWithoutLang = post.id
+              .replace("english/", "")
+              .replace(".md", "");
+
+            const postUrl = `/english/grammar/${slugWithoutLang}`;
+
+            return (
+              <Button2
+                id={index + 1}
+                title={post.data.title}
+                subtitle={post.data.translation}
+                language="fra"
+                path={postUrl}
+              />
+            );
+          })
+        }
+      </ul>
+    </section>
+
+    <section id="group-conjunctions">
+      <h2>
+        <span class="animated-underline-fra">Ⅶ. 접속사 &amp; 문장구조</span>
+      </h2>
+      <ul>
+        {
+          posts7.map((post: any, index: number) => {
+            // URL 추출 로직
+            // entry.id 예시: "english/nouns/basics.md" -> "nouns/basics"
+            const slugWithoutLang = post.id
+              .replace("english/", "")
+              .replace(".md", "");
+
+            const postUrl = `/english/grammar/${slugWithoutLang}`;
+
+            return (
+              <Button2
+                id={index + 1}
+                title={post.data.title}
+                subtitle={post.data.translation}
+                language="fra"
+                path={postUrl}
+              />
+            );
+          })
+        }
+      </ul>
+    </section>
+  </main>
+</BaseLayout>
+
+<style>
+  section {
+    padding-top: 1.5rem;
+  }
+</style>

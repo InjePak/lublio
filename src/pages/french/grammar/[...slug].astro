@@ -1,0 +1,43 @@
+---
+import "../../../styles/markdown.css";
+import { getCollection } from "astro:content";
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import Box2 from "../../../components/Box2.astro";
+
+export async function getStaticPaths() {
+  const grammarEntries = await getCollection("grammar");
+
+  return grammarEntries.map((entry) => {
+    // entry.id 예시: "english/nouns/pronouns.md"
+    const parts = entry.id.split("/");
+    const lang = parts.shift(); // 첫 번째 요소(english)를 추출하고 배열에서 제거
+    const slug = parts.join("/").replace(/\.md$/, ""); // 나머지(nouns/pronouns)를 다시 합침
+
+    return {
+      params: {
+        lang: lang, // "english"
+        slug: slug, // "nouns/pronouns"
+      },
+      props: { entry },
+    };
+  });
+}
+
+const { entry } = Astro.props;
+const { Content } = await entry.render();
+---
+
+<BaseLayout pageTitle={entry.data.title + " - Lublio"}>
+  <article class="post-container">
+    <Box2
+      title={entry.data.title}
+      subtitle={entry.data.translation}
+      description={entry.data.description}
+      language="eng"
+    />
+
+    <div class="post-body">
+      <Content />
+    </div>
+  </article>
+</BaseLayout>
