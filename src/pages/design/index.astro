@@ -1,0 +1,216 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Box2 from "../../components/Box2.astro";
+import Cube from "../../components/Cube.astro";
+
+// Title
+const pageTitle = "Design Section";
+
+// Visibility Controller
+const navItems = [
+  { id: "phrase-eng", label: "영어" },
+  { id: "phrase-deu", label: "독일어" },
+  { id: "phrase-fra", label: "프랑스어" },
+  { id: "phrase-rus", label: "러시아어" },
+];
+---
+
+<BaseLayout pageTitle={pageTitle + " | Lublio"}>
+  <Box2
+    title="Design"
+    subtitle="디자인 테스트"
+    description="컴포넌트 디자인을 위한 테스트 페이지 입니다."
+  />
+
+  <h1>Lublio H1</h1>
+  <h2>Lublio H2</h2>
+  <h3>Lublio H3</h3>
+  <h1 class="kor">루블리오 H1</h1>
+  <h2 class="kor">루블리오 H2</h2>
+  <h3 class="kor">루블리오 H3</h3>
+
+  <p>
+    Lublio isn't just about learning a language; it's about embracing the
+    freedom to explore the world with confidence. Our app is tailored for the
+    modern wanderer, offering: French, German, and any other European languages.
+  </p>
+
+  <p class="kor">
+    루블리오는 단순히 언어를 배우는 것이 아닙니다. 자신감 있게 세상을 탐험할
+    자유를 누리는 것입니다. 현대적인 방랑자를 위해 맞춤 제작된 저희 앱은
+    프랑스어, 독일어 및 기타 유럽 언어들을 제공합니다.
+  </p>
+
+  <div style="margin-top: 60px;">
+    <h2>Text Box</h2>
+
+    <div class="text-box">
+      <p>
+        Lublio isn't just about learning a language; it's about embracing the
+        freedom to explore the world with confidence. Our app is tailored for
+        the modern wanderer, offering:
+      </p>
+      <ul class="styled-list">
+        <li>Quick, practical lessons focused on real-world travel scenarios</li>
+        <li>Cultural insights that help you blend in and avoid faux pas</li>
+        <li>Location-based content that adapts to your travel destination</li>
+        <li>Offline mode for learning on-the-go, even in remote areas</li>
+        <li>Interactive challenges that make learning fun and addictive</li>
+      </ul>
+    </div>
+  </div>
+
+  <div style="margin-top: 60px;">
+    <h2>Buttons</h2>
+    <ul style={{ listStyle: "none" }}>
+      <button>
+        Welche Art von Visum benötige ich für die Einreise ins Land?
+      </button>
+      <button>Какой тип визы мне нужен для въезда в страну?</button>
+      <button>
+        Quel type de visa ai-je besoin pour entrer dans le pays?
+      </button>
+      <button>What type of visa do I need to enter the country?</button>
+    </ul>
+  </div>
+
+  <div style="margin-top: 100px; margin-bottom: 100px;">
+    <h2>Cubes</h2>
+    <Cube language="eng" />
+    <Cube language="fra" />
+    <Cube language="deu" />
+    <Cube language="rus" />
+  </div>
+</BaseLayout>
+
+<style>
+  /* Title */
+
+  .title {
+    background-color: var(--zinc300);
+    padding: 1.5rem 2rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .title > h1,
+  .title > p {
+    width: 100%;
+  }
+
+  .title > h1 {
+    text-transform: uppercase;
+    margin-bottom: 0.5rem;
+  }
+
+  .title > p {
+    color: var(--zinc800);
+    font-weight: 500;
+    margin-bottom: 0rem;
+  }
+
+  .title > p:last-child {
+    margin-bottom: 0;
+  }
+
+  .title > hr {
+    border: 1px solid var(--zinc800);
+    margin: 1.5rem 0;
+  }
+
+  /* Controls */
+
+  .controls {
+    /* position: sticky; */
+    display: flex;
+    justify-content: space-evenly;
+    top: 0;
+    background: var(--zinc800);
+    padding: 0.5rem 1rem;
+    display: flex;
+    gap: 1rem;
+    border-radius: 20px;
+    margin-bottom: 1.5rem;
+  }
+
+  .controls label {
+    cursor: pointer;
+    font-size: 1rem;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .toggle-lang {
+    display: none;
+  }
+
+  .toggle-lang + span {
+    display: inline-block;
+    padding: 8px 16px;
+    background-color: var(--zinc800);
+    color: var(--zinc200);
+    border-radius: 50px;
+    font-weight: 600;
+    font-size: 16px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+  }
+
+  .toggle-lang:not(:checked) + span {
+    color: var(--zinc200);
+    opacity: 0.3;
+  }
+
+  .toggle-lang:not(:checked) + span:hover {
+    background-color: var(--zinc700);
+  }
+
+  .toggle-lang:checked + span {
+    color: var(--zinc200);
+    opacity: 1;
+  }
+
+  .toggle-lang:checked + span:hover {
+    background-color: var(--zinc700);
+  }
+
+  /* Phrase Box */
+
+  .phrase-box {
+    background-color: var(--neutral50);
+    margin-bottom: 1.5rem;
+    padding: 1.5rem;
+  }
+
+  .phrase-box > h2 {
+    font-family: "Roboto Condensed", sans-serif;
+    text-transform: uppercase;
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 1.5rem;
+  }
+
+  .phrase-box > p {
+    font-size: 20px;
+    margin-bottom: 1.5rem;
+  }
+
+  .phrase-box > p > span {
+    margin-right: 10px;
+  }
+
+  /* Mobile */
+  @media (max-width: 480px) {
+    .phrase-box > h2 {
+      font-size: 20px;
+      margin-top: 1rem;
+    }
+
+    .phrase-box > p {
+      font-size: 18px;
+      margin-bottom: 1.5rem;
+      line-height: 1.5rem;
+    }
+  }
+</style>

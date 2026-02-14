@@ -1,0 +1,89 @@
+---
+// src/components/WordSlider.astro
+const { words } = Astro.props;
+---
+
+<div class="slider-container">
+  <div class="word-card" id="word-display">
+    <h2 id="current-word">{words[0].term}</h2>
+    <p id="current-definition">{words[0].definition}</p>
+  </div>
+
+  <div class="controls">
+    <button id="prev-btn" class="nav-btn">Previous</button>
+    <span id="counter">1 / {words.length}</span>
+    <button id="next-btn" class="nav-btn">Next</button>
+  </div>
+</div>
+
+<script define:vars={{ words }}>
+  let currentIndex = 0;
+
+  const wordEl = document.getElementById("current-word");
+  const defEl = document.getElementById("current-definition");
+  const counterEl = document.getElementById("counter");
+  const prevBtn = document.getElementById("prev-btn");
+  const nextBtn = document.getElementById("next-btn");
+
+  function updateDisplay() {
+    wordEl.textContent = words[currentIndex].term;
+    defEl.textContent = words[currentIndex].definition;
+    counterEl.textContent = `${currentIndex + 1} / ${words.length}`;
+  }
+
+  nextBtn.addEventListener("click", () => {
+    currentIndex = (currentIndex + 1) % words.length;
+    updateDisplay();
+  });
+
+  prevBtn.addEventListener("click", () => {
+    currentIndex = (currentIndex - 1 + words.length) % words.length;
+    updateDisplay();
+  });
+</script>
+
+<style>
+  .slider-container {
+    max-width: 400px;
+    margin: 2rem auto;
+    text-align: center;
+    font-family: system-ui, sans-serif;
+  }
+  .word-card {
+    background: white;
+    padding: 3rem;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    min-height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 1rem;
+    border: 1px solid #eaeaea;
+  }
+  .word-card h2 {
+    font-size: 2.5rem;
+    margin: 0;
+    color: #333;
+  }
+  .word-card p {
+    color: #666;
+    font-style: italic;
+  }
+  .controls {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .nav-btn {
+    background: #007bff;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 6px;
+    cursor: pointer;
+  }
+  .nav-btn:hover {
+    background: #0056b3;
+  }
+</style>

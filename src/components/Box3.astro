@@ -1,0 +1,197 @@
+---
+import "../styles/fonts.css";
+import "../styles/colors.css";
+import "../styles/transition.css";
+import Cube from "./Cube.astro";
+
+const { title, subtitle, description, language } = Astro.props;
+
+const colorMap1: Record<string, string> = {
+  eng: "var(--pink500)",
+  fra: "var(--sky500)",
+  deu: "var(--amber500)",
+  ita: "var(--emerald500)",
+  esp: "var(--orange500)",
+  rus: "var(--indigo500)",
+  tur: "var(--rose500)",
+  ces: "var(--blue500)",
+  hun: "var(--lime500)",
+};
+const colorMap2: Record<string, string> = {
+  eng: "var(--pink400)",
+  fra: "var(--sky400)",
+  deu: "var(--amber400)",
+  ita: "var(--emerald400)",
+  esp: "var(--orange400)",
+  rus: "var(--indigo400)",
+  tur: "var(--rose400)",
+  ces: "var(--blue400)",
+  hun: "var(--lime400)",
+};
+const colorMap3: Record<string, string> = {
+  eng: "var(--pink300)",
+  fra: "var(--sky300)",
+  deu: "var(--amber300)",
+  ita: "var(--emerald300)",
+  esp: "var(--orange300)",
+  rus: "var(--indigo300)",
+  tur: "var(--rose300)",
+  ces: "var(--blue300)",
+  hun: "var(--lime300)",
+};
+const colorMap4: Record<string, string> = {
+  eng: "var(--pink200)",
+  fra: "var(--sky200)",
+  deu: "var(--amber200)",
+  ita: "var(--emerald200)",
+  esp: "var(--orange200)",
+  rus: "var(--indigo200)",
+  tur: "var(--rose200)",
+  ces: "var(--blue200)",
+  hun: "var(--lime200)",
+};
+const colorMap5: Record<string, string> = {
+  eng: "var(--pink100)",
+  fra: "var(--sky100)",
+  deu: "var(--amber100)",
+  ita: "var(--emerald100)",
+  esp: "var(--orange100)",
+  rus: "var(--indigo100)",
+  tur: "var(--rose100)",
+  ces: "var(--blue100)",
+  hun: "var(--lime100)",
+};
+const color500 = colorMap1[language] || "var(--zinc500)";
+const color400 = colorMap2[language] || "var(--zinc400)";
+const color300 = colorMap3[language] || "var(--zinc300)";
+const color200 = colorMap4[language] || "var(--zinc200)";
+const color100 = colorMap5[language] || "var(--zinc100)";
+---
+
+<style define:vars={{ color500, color400, color300, color200, color100 }}>
+  .box {
+    background-color: transparent;
+  }
+
+  .box > h2,
+  .box > h3,
+  .box > p {
+    color: var(--zinc800);
+  }
+
+  .box > h2::after {
+    background-color: var(--color400);
+  }
+
+  .box .loader::before,
+  .box .loader::after {
+    background-color: var(--color400);
+  }
+</style>
+
+<div class="box riseUp_1">
+  <div class="box-left">
+    <h2 class="riseUp_2">{title}</h2>
+    <h3 class="riseUp_3">{subtitle}</h3>
+    <p class="riseUp_4">{description}</p>
+  </div>
+  <div class="box-right">
+    <Cube language={language} />
+  </div>
+</div>
+
+<style>
+  .box {
+    position: relative;
+    display: flex;
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    max-height: 360px;
+    margin-bottom: 2rem;
+    outline: none;
+    z-index: 0;
+    text-decoration: none;
+    transition: all 1s cubic-bezier(0.19, 1, 0.22, 1);
+  }
+
+  .box-left {
+    width: 50%;
+  }
+
+  .box-left > h2 {
+    position: relative;
+    font-family: "Roboto Condensed", sans-serif;
+    text-transform: uppercase;
+    display: inline;
+    font-size: 60px;
+    font-weight: 600;
+    line-height: 1;
+    word-break: keep-all;
+    word-wrap: break-word;
+    transition: all 0.4s;
+  }
+
+  .box-left > h3 {
+    position: relative;
+    display: block;
+    font-size: 28px;
+    font-weight: 600;
+    letter-spacing: 0px;
+    line-height: 1;
+    margin-top: 10px;
+    transition: all 0.4s;
+  }
+
+  .box-left > p {
+    position: relative;
+    width: 100%;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 0px;
+    line-height: 1.4;
+    transition: all 0.4s;
+  }
+
+  .box > p:last-child {
+    margin-bottom: 0px;
+  }
+
+  .box-left > h2,
+  .box-left > h3,
+  .box-left > p {
+    color: var(--zinc800);
+  }
+
+  .box-right {
+    width: 50%;
+  }
+
+  /* Mobile */
+  @media (max-width: 480px) {
+    .box {
+      flex-direction: column;
+      max-height: 530px;
+    }
+
+    .box-left,
+    .box-right {
+      width: 100%;
+    }
+
+    .box-left > h2 {
+      font-size: 50px;
+    }
+
+    .box-left > h3 {
+      font-size: 24px;
+    }
+
+    .box-left > p {
+      font-size: 16px;
+    }
+
+    .box-right {
+      transform: translateY(-60px);
+    }
+  }
+</style>

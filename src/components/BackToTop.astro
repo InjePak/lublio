@@ -1,18 +1,19 @@
 ---
-
+import { Icon } from "astro-icon/components";
 ---
 
 <button id="scroll-to-top" class="top-btn" aria-label="맨 위로 이동">
-  <span>&#8593;</span>
+  <span><Icon name="mdi:arrow-up-thick" /></span>
 </button>
 
 <style>
   .top-btn {
     position: fixed;
-    width: 3.5rem;
-    height: 3.5rem;
+    width: 3rem;
+    height: 3rem;
     bottom: 2rem;
     right: 2rem;
+    padding: 0;
     border-radius: 50%;
     background-color: rgba(39, 39, 42, 0.9);
     color: white;
@@ -27,8 +28,9 @@
     pointer-events: none;
   }
 
-  .top-btn > span {
-    font-size: 20px;
+  .top-btn > span > svg {
+    width: 20px;
+    height: 20px;
   }
 
   .top-btn.show {
@@ -41,17 +43,18 @@
   }
 
   /* Mobile */
-  @media (max-width: 768px) {
+  @media (max-width: 480px) {
     .top-btn {
       bottom: 1rem;
       right: 1rem;
-      width: 3rem;
-      height: 3rem;
+      width: 2.5rem;
+      height: 2.5rem;
       padding: 0;
     }
 
-    .top-btn > span {
-      font-size: 16px;
+    .top-btn > span > svg {
+      width: 15px;
+      height: 15px;
     }
   }
 </style>
