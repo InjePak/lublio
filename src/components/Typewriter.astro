@@ -49,7 +49,7 @@ const {
 
 <script is:inline define:vars={{ texts, delay }}>
   const element = document.getElementById("slide-text");
-  let textIndex = 0;
+  let textIndex = Math.floor(Math.random() * texts.length);
 
   function showNextText() {
     // 이전 애니메이션 클래스 제거 (재실행을 위해)
