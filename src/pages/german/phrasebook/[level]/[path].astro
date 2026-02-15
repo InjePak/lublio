@@ -253,7 +253,7 @@ switch (level) {
       jsonData.map((data: any, index: number) => (
         <div class="phrase-box">
           <h1>{index + 1}</h1>
-          <h2>{data.deu}</h2>
+          <h2 lang="de">{data.deu}</h2>
           <p>{data.kor}</p>
         </div>
       ))
@@ -282,6 +282,8 @@ switch (level) {
     font-family: "Inter", sans-serif;
     font-size: 20px;
     font-weight: 600;
+    hyphens: auto;
+    overflow-wrap: break-word;
   }
 
   .phrase-box > p {

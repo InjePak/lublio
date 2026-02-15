@@ -106,7 +106,7 @@ const navItems = [
                   {level.map((phrase, index) => {
                     return (
                       <>
-                        <p>
+                        <p lang="de">
                           <span>{index + 1}.</span>
                           <br />
                           {phrase}
@@ -124,7 +124,7 @@ const navItems = [
                   {level.map((phrase, index) => {
                     return (
                       <>
-                        <p>
+                        <p lang="de">
                           <span>{index + 1}.</span>
                           {phrase}
                         </p>
@@ -141,7 +141,7 @@ const navItems = [
                   {level.map((phrase, index) => {
                     return (
                       <>
-                        <p>
+                        <p lang="de">
                           <span>{index + 1}.</span>
                           {phrase}
                         </p>
@@ -203,6 +203,8 @@ const navItems = [
     font-weight: 600;
     line-height: 1.5rem;
     margin-bottom: 1.5rem;
+    hyphens: auto;
+    overflow-wrap: break-word;
   }
 
   .phrase-box > p > span {
