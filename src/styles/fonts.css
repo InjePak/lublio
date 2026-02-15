@@ -13,6 +13,13 @@
 /* font-family: "Inter", sans-serif; */
 
 @font-face {
+  font-family: "Noto Emoji";
+  src: url("/fonts/NotoColorEmoji-Regular.ttf") format("truetype");
+  font-display: swap;
+}
+/* font-family: "Noto Emoji"; */
+
+@font-face {
   font-family: "Noto Hebrew";
   src: url("/fonts/NotoSansHebrew-VariableFont_wdth\,wght.ttf")
     format("truetype");
