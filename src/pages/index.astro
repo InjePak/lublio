@@ -15,6 +15,7 @@ const pageTitle = "Lublio";
       <Fragment set:html={LogoSVG} />
     </a>
   </div>
+
   <h2>
     <Typewriter
       texts={[
@@ -33,83 +34,137 @@ const pageTitle = "Lublio";
     당신을 응원합니다.
   </h2>
 
-  <!-- <ButtonMain
-    title="English"
-    subtitle="영어"
-    description="CEFR A1 - C1"
-    language="eng"
-    path="/english"
-  /> -->
+  <div class="button-wrapper">
+    <ButtonMain
+      title="English"
+      subtitle="영어"
+      description="CEFR A1 - C1"
+      language="eng"
+      path="/english"
+    />
 
-  <ButtonMain
-    title="Deutsch"
-    subtitle="독일어"
-    description="CEFR A1 - C1"
-    language="deu"
-    path="/german"
-  />
+    <ButtonMain
+      title="Deutsch"
+      subtitle="독일어"
+      description="CEFR A1 - C1"
+      language="deu"
+      path="/german"
+    />
 
-  <ButtonMain
-    title="Français"
-    subtitle="프랑스어"
-    description="CEFR A1 - C1"
-    language="fra"
-    path="/french"
-  />
+    <ButtonMain
+      title="Français"
+      subtitle="프랑스어"
+      description="CEFR A1 - C1"
+      language="fra"
+      path="/french"
+    />
 
-  <ButtonMain
-    title="Русский"
-    subtitle="러시아어"
-    description="CEFR A1 - C1"
-    language="rus"
-    path="/russian"
-  />
-</BaseLayout>
+    <ButtonMain
+      title="Русский"
+      subtitle="러시아어"
+      description="CEFR A1 - C1"
+      language="rus"
+      path="/russian"
+    />
+    <!-- 
+    <ButtonMain
+      title="Español"
+      subtitle="스페인어"
+      description="CEFR A1 - C1"
+      language="esp"
+      path="/spanish"
+    />
 
-<style>
-  .icon-wrapper {
-    position: relative;
-    width: 60px; /* 원하는 크기 조절 */
-    padding-top: 10px;
-    padding-left: 10px;
-    padding-right: 10px;
-    padding-bottom: 5px;
-    height: auto;
-    margin-left: auto;
-    border-bottom: 2px solid transparent;
-    transition: 0.4s all;
-  }
+    <ButtonMain
+      title="Italiano"
+      subtitle="이탈리아어"
+      description="CEFR A1 - C1"
+      language="ita"
+      path="/italian"
+    />
 
-  /* SVG 내부의 path나 circle 등을 직접 제어 */
-  .icon-wrapper :global(svg) {
-    width: 100%;
-    height: 100%;
-  }
+    <ButtonMain
+      title="Čeština"
+      subtitle="체코어"
+      description="CEFR A1 - C1"
+      language="ces"
+      path="/czech"
+    />
 
-  /* 호버 시 색상 변경 예시 */
-  .icon-wrapper:hover {
-    cursor: pointer;
-    background-color: var(--neutral200);
-  }
+    <ButtonMain
+      title="Magyar"
+      subtitle="헝가리어"
+      description="CEFR A1 - C1"
+      language="hun"
+      path="/hungarian"
+    />
 
-  h2 {
-    font-family: "Noto Korean", sans-serif;
-    margin-top: 100px;
-    font-size: 50px;
-    line-height: 60px;
-    margin-bottom: 2rem;
-  }
+    <ButtonMain
+      title="Türkçe"
+      subtitle="튀르키예어"
+      description="CEFR A1 - C1"
+      language="tur"
+      path="/turkish"
+    />
+  </div> -->
+  </div>
 
-  /* Mobile */
-  @media (max-width: 480px) {
+  <style>
     .icon-wrapper {
-      width: 50px; /* 원하는 크기 조절 */
+      position: relative;
+      width: 60px; /* 원하는 크기 조절 */
+      padding-top: 10px;
+      padding-left: 10px;
+      padding-right: 10px;
+      padding-bottom: 5px;
+      height: auto;
+      margin-left: auto;
+      border-bottom: 2px solid transparent;
+      transition: 0.4s all;
+    }
+
+    /* SVG 내부의 path나 circle 등을 직접 제어 */
+    .icon-wrapper :global(svg) {
+      width: 100%;
+      height: 100%;
+    }
+
+    /* 호버 시 색상 변경 예시 */
+    .icon-wrapper:hover {
+      cursor: pointer;
+      background-color: var(--neutral200);
     }
 
     h2 {
+      font-family: "Noto Korean", sans-serif;
       margin-top: 100px;
-      font-size: 25px;
-      line-height: 35px;
+      font-size: 50px;
+      line-height: 60px;
+      margin-bottom: 2rem;
     }
-  }
-</style>
+
+    .button-wrapper {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      justify-items: stretch;
+      gap: 1rem;
+    }
+
+    /* Mobile */
+    @media (max-width: 480px) {
+      .icon-wrapper {
+        width: 50px; /* 원하는 크기 조절 */
+      }
+
+      h2 {
+        margin-top: 100px;
+        font-size: 25px;
+        line-height: 35px;
+      }
+
+      .button-wrapper {
+        gap: 10px;
+      }
+    }
+  </style>
+</BaseLayout>

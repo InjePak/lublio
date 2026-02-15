@@ -93,7 +93,7 @@ const color100 = colorMap5[language] || "var(--neutral100)";
     border-left: 4px solid var(--neutral200);
     background-color: var(--neutral200);
     padding: 1rem;
-    margin-bottom: 2rem;
+    margin-bottom: 1.5rem;
     transition: all 0.4s;
   }
 
@@ -124,6 +124,10 @@ const color100 = colorMap5[language] || "var(--neutral100)";
 
   /* Mobile */
   @media (max-width: 480px) {
+    .btn {
+      margin-bottom: 10px;
+    }
+
     .btn > h1 {
       font-size: 20px;
     }

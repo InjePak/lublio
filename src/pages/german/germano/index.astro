@@ -3,56 +3,58 @@ import BaseLayout from "../../../layouts/BaseLayout.astro";
 import Box3 from "../../../components/Box3.astro";
 import Button from "../../../components/Button.astro";
 
-const pageTitle = "종합 독일어";
+const pageTitle = "모두의 독일어";
 ---
 
 <BaseLayout pageTitle={pageTitle + " - Lublio"}>
   <Box3
     title="Germano"
-    subtitle="종합 독일어"
+    subtitle="모두의 독일어"
     description="독일어는 정교한 논리의 질서 위에서 깊은 통찰의 세계를 구축하는 지혜의 언어입니다. 단단한 지적 매력을 지닌 게르마노폰(Germanophone)으로 거듭나는 지적 여정을 시작해볼까요?"
     language="deu"
   />
 
-  <Button
-    title="Absoluter Anfänger"
-    subtitle="독일어 첫걸음"
-    description="CEFR A0"
-    language="deu"
-    path="/german/germano/a0"
-    level="a0"
-    isDev="true"
-  />
+  <div class="button-wrapper">
+    <Button
+      title="Absoluter Anfänger"
+      subtitle="독일어 첫걸음"
+      description="CEFR A0"
+      language="deu"
+      path="/german/germano/a0"
+      level="a0"
+      isDev="true"
+    />
 
-  <Button
-    title="Anfänger"
-    subtitle="기초 독일어"
-    description="CEFR A1"
-    language="deu"
-    path="/german/germano/a1"
-    level="a1"
-    isDev="true"
-  />
+    <Button
+      title="Anfänger"
+      subtitle="기초 독일어"
+      description="CEFR A1"
+      language="deu"
+      path="/german/germano/a1"
+      level="a1"
+      isDev="true"
+    />
 
-  <Button
-    title="Grundlagen"
-    subtitle="초급 독일어"
-    description="CEFR A2"
-    language="deu"
-    path="/german/germano/a2"
-    level="a2"
-    isDev="true"
-  />
+    <Button
+      title="Grundlagen"
+      subtitle="초급 독일어"
+      description="CEFR A2"
+      language="deu"
+      path="/german/germano/a2"
+      level="a2"
+      isDev="true"
+    />
 
-  <Button
-    title="Mittelstufe"
-    subtitle="중급 독일어"
-    description="CEFR B1"
-    language="deu"
-    path="/german/germano/b1"
-    level="b1"
-    isDev="true"
-  />
+    <Button
+      title="Mittelstufe"
+      subtitle="중급 독일어"
+      description="CEFR B1"
+      language="deu"
+      path="/german/germano/b1"
+      level="b1"
+      isDev="true"
+    />
+  </div>
 
   <Button
     title="Fortgeschrittene"
@@ -64,3 +66,21 @@ const pageTitle = "종합 독일어";
     isDev="true"
   />
 </BaseLayout>
+
+<style>
+  .button-wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-items: stretch;
+    gap: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  /* Mobile */
+  @media (max-width: 480px) {
+    .button-wrapper {
+      gap: 10px;
+      margin-bottom: 10px;
+    }
+  }
+</style>

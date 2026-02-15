@@ -14,15 +14,35 @@ const pageTitle = "프랑스어";
     language="fra"
   />
 
-  <!-- <Button
-    title="Franco"
-    subtitle="종합 프랑스어"
-    description="CEFR A0 - B2"
-    language="fra"
-    path="/french/franco"
-    level="composite"
-    isDev="true"
-  /> -->
+  <div class="button-wrapper">
+    <Button
+      title="Phrases"
+      subtitle="프랑스어 회화"
+      description="CEFR A1 - B2"
+      language="fra"
+      path="/french/phrasebook"
+      level="phrase"
+    />
+
+    <Button
+      title="Modèles"
+      subtitle="프랑스어 패턴"
+      description="CEFR B1 - C1"
+      language="fra"
+      path="/french/pattern"
+      level="pattern"
+    />
+
+    <!-- <Button
+      title="Franco"
+      subtitle="모두의 프랑스어"
+      description="CEFR A0 - B2"
+      language="fra"
+      path="/french/franco"
+      level="composite"
+      isDev="true"
+    /> -->
+  </div>
 
   <!-- <Button
     title="Grammaire"
@@ -31,23 +51,24 @@ const pageTitle = "프랑스어";
     language="fra"
     path="/french/grammar"
     level="grammar"
+    isDev="true"
   /> -->
-
-  <Button
-    title="Phrases"
-    subtitle="프랑스어 회화"
-    description="CEFR A1 - B2"
-    language="fra"
-    path="/french/phrasebook"
-    level="phrase"
-  />
-
-  <Button
-    title="Modèles"
-    subtitle="프랑스어 패턴"
-    description="CEFR B1 - C1"
-    language="fra"
-    path="/french/pattern"
-    level="pattern"
-  />
 </BaseLayout>
+
+<style>
+  .button-wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-items: stretch;
+    gap: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  /* Mobile */
+  @media (max-width: 480px) {
+    .button-wrapper {
+      gap: 10px;
+      margin-bottom: 10px;
+    }
+  }
+</style>

@@ -14,60 +14,35 @@ const pageTitle = "러시아어";
     language="rus"
   />
 
-  <!-- <Button
-    title="Russo"
-    subtitle="종합 러시아어"
-    description="CEFR A0 - B2"
-    language="rus"
-    path="/russian/russo"
-    level="composite"
-    isDev="true"
-  /> -->
+  <div class="button-wrapper">
+    <Button
+      title="Фразы"
+      subtitle="러시아어 회화"
+      description="CEFR A1 - B2"
+      language="rus"
+      path="/russian/phrasebook"
+      level="phrase"
+    />
 
-  <!-- <Button
-    title="Абсолютный новичок"
-    subtitle="러시아어 첫걸음"
-    description="CEFR A0"
-    language="rus"
-    path="/russian/a0"
-    level="a0"
-  />
+    <Button
+      title="Схемы"
+      subtitle="러시아어 패턴"
+      description="CEFR B1 - C1"
+      language="rus"
+      path="/russian/pattern"
+      level="pattern"
+    />
 
-  <Button
-    title="Начинающий"
-    subtitle="기초 러시아어"
-    description="CEFR A1"
-    language="rus"
-    path="/russian/a1"
-    level="a1"
-  />
-
-  <Button
-    title="Элементарный"
-    subtitle="초급 러시아어"
-    description="CEFR A2"
-    language="rus"
-    path="/russian/a2"
-    level="a2"
-  />
-
-  <Button
-    title="Средний"
-    subtitle="중급 러시아어"
-    description="CEFR B1"
-    language="rus"
-    path="/russian/b1"
-    level="b1"
-  />
-
-  <Button
-    title="Выше среднего"
-    subtitle="중고급 러시아어"
-    description="CEFR B2"
-    language="rus"
-    path="/russian/b2"
-    level="b2"
-  /> -->
+    <!-- <Button
+      title="Russo"
+      subtitle="종합 러시아어"
+      description="CEFR A0 - B2"
+      language="rus"
+      path="/russian/russo"
+      level="composite"
+      isDev="true"
+    /> -->
+  </div>
 
   <!-- <Button
     title="Грамматика"
@@ -76,23 +51,24 @@ const pageTitle = "러시아어";
     language="rus"
     path="/russian/grammar"
     level="grammar"
+    isDev="true"
   /> -->
-
-  <Button
-    title="Фразы"
-    subtitle="러시아어 회화"
-    description="CEFR A1 - B2"
-    language="rus"
-    path="/russian/phrasebook"
-    level="phrase"
-  />
-
-  <Button
-    title="Схемы"
-    subtitle="러시아어 패턴"
-    description="CEFR B1 - C1"
-    language="rus"
-    path="/russian/pattern"
-    level="pattern"
-  />
 </BaseLayout>
+
+<style>
+  .button-wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-items: stretch;
+    gap: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  /* Mobile */
+  @media (max-width: 480px) {
+    .button-wrapper {
+      gap: 10px;
+      margin-bottom: 10px;
+    }
+  }
+</style>
