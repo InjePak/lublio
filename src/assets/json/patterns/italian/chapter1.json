@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Secondo me, ...",
+    "kor": "제 의견으로는 ...",
+    "b1": [
+      "Secondo me, questo ristorante è molto buono.",
+      "Secondo me, dovresti studiare di più per l'esame.",
+      "Secondo me, il film non è stato molto interessante.",
+      "Secondo me, viaggiare in treno è più comodo.",
+      "Secondo me, l'italiano è una lingua bellissima."
+    ],
+    "b2": [
+      "Secondo me, la tecnologia ha cambiato troppo le nostre relazioni.",
+      "Secondo me, dovremmo investire di più nelle energie rinnovabili.",
+      "Secondo me, è necessario trovare un equilibrio tra lavoro e vita privata.",
+      "Secondo me, la riforma proposta non risolverà il problema economico.",
+      "Secondo me, i giovani di oggi sono molto più consapevoli del passato."
+    ],
+    "c1": [
+      "Secondo me, l'attuale crisi geopolitica richiede un intervento diplomatico senza precedenti.",
+      "Secondo me, l'alienazione sociale è un sottoprodotto inevitabile dell'urbanizzazione sfrenata.",
+      "Secondo me, il valore intrinseco dell'arte non dovrebbe mai essere subordinato a logiche di mercato.",
+      "Secondo me, la resilienza di un sistema democratico si misura dalla sua capacità di proteggere le minoranze.",
+      "Secondo me, l'evoluzione dell'intelligenza artificiale solleva dilemmi etici che non possiamo più ignorare."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Credo che...",
+    "kor": "...라고 믿어요 / 생각해요",
+    "b1": [
+      "Credo che lui sia molto simpatico.",
+      "Credo che domani faccia bel tempo.",
+      "Credo che questo libro sia utile.",
+      "Credo che tu abbia ragione.",
+      "Credo che il negozio chiuda alle otto."
+    ],
+    "b2": [
+      "Credo che sia fondamentale promuovere uno stile di vita sano.",
+      "Credo che la globalizzazione abbia sia vantaggi che svantaggi.",
+      "Credo che le autorità debbano intervenire per migliorare i trasporti.",
+      "Credo che la formazione continua sia la chiave del successo professionale.",
+      "Credo che non si possa ignorare l'impatto ambientale della moda."
+    ],
+    "c1": [
+      "Credo che si stia delineando un nuovo paradigma socioculturale nel panorama europeo.",
+      "Credo che l'attuazione di tali politiche richieda una profonda riflessione sulle priorità collettive.",
+      "Credo che sia doveroso interrogarsi sulla sostenibilità a lungo termine di questo modello economico.",
+      "Credo che l'integrazione tra diverse discipline sia l'unico modo per affrontare la complessità moderna.",
+      "Credo che la meritocrazia, se non accompagnata da pari opportunità, rischi di diventare una vuota retorica."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Mi sembra che...",
+    "kor": "...인 것 같아요",
+    "b1": [
+      "Mi sembra che tu sia stanco.",
+      "Mi sembra che il prezzo sia troppo alto.",
+      "Mi sembra che questa strada sia sbagliata.",
+      "Mi sembra che Maria non voglia uscire oggi.",
+      "Mi sembra che il cibo sia pronto."
+    ],
+    "b2": [
+      "Mi sembra che il governo stia sottovalutando la rabbia sociale.",
+      "Mi sembra che questa strategia non sia adatta al mercato attuale.",
+      "Mi sembra che ci sia una mancanza di comunicazione tra i reparti.",
+      "Mi sembra che la situazione stia migliorando gradualmente.",
+      "Mi sembra che tu non abbia considerato tutte le conseguenze."
+    ],
+    "c1": [
+      "Mi sembra che sussista una palese discrepanza tra le promesse elettorali e l'azione di governo.",
+      "Mi sembra che l'opinione pubblica sia eccessivamente polarizzata su questioni di marginale importanza.",
+      "Mi sembra che l'approccio adottato pecchi di un certo riduzionismo scientifico.",
+      "Mi sembra che si tenda a trascurare l'aspetto sociologico a favore di quello meramente statistico.",
+      "Mi sembra che la narrazione mediatica stia distorcendo la realtà dei fatti storici."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Dal mio punto di vista, ...",
+    "kor": "제 관점에서는, ...",
+    "b1": [
+      "Dal mio punto di vista, questo è un errore.",
+      "Dal mio punto di vista, la città è troppo rumorosa.",
+      "Dal mio punto di vista, l'esame è stato facile.",
+      "Dal mio punto di vista, dobbiamo partire presto.",
+      "Dal mio punto di vista, il blu è meglio del rosso."
+    ],
+    "b2": [
+      "Dal mio punto di vista, l'educazione digitale dovrebbe essere obbligatoria nelle scuole.",
+      "Dal mio punto di vista, la flessibilità lavorativa favorisce la produttività.",
+      "Dal mio punto di vista, la censura online è un tema estremamente delicato.",
+      "Dal mio punto di vista, le sanzioni non sono lo strumento più efficace in questo caso.",
+      "Dal mio punto di vista, la protezione della privacy è un diritto inalienabile."
+    ],
+    "c1": [
+      "Dal mio punto di vista, l'attuale architettura finanziaria globale è intrinsecamente instabile.",
+      "Dal mio punto di vista, l'intersezionalità è un parametro imprescindibile per l'analisi dei fenomeni sociali.",
+      "Dal mio punto di vista, l'eccessiva burocratizzazione soffoca lo spirito imprenditoriale e l'innovazione.",
+      "Dal mio punto di vista, la deriva populista è il sintomo di un malessere democratico più profondo.",
+      "Dal mio punto di vista, l'antropocentrismo radicale ha portato a un'irreversibile degradazione ecosistemica."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Sento fortemente che...",
+    "kor": "...라고 강하게 느껴요 (확신해요)",
+    "b1": [
+      "Sento fortemente che questa è la scelta giusta.",
+      "Sento fortemente che lui mi sta dicendo la verità.",
+      "Sento fortemente che vinceremo la partita.",
+      "Sento fortemente che dobbiamo aiutare questa persona.",
+      "Sento fortemente che il mio italiano sta migliorando."
+    ],
+    "b2": [
+      "Sento fortemente che la diversità sia una risorsa preziosa per l'azienda.",
+      "Sento fortemente che abbiamo la responsabilità morale di agire ora.",
+      "Sento fortemente che la cultura debba essere accessibile a tutti.",
+      "Sento fortemente che questo progetto avrà un impatto positivo sulla comunità.",
+      "Sento fortemente che non stiamo facendo abbastanza per i rifugiati."
+    ],
+    "c1": [
+      "Sento fortemente che l'erosione dei diritti civili sia un campanello d'allarme per l'intera società.",
+      "Sento fortemente che la ricerca di un profitto immediato stia compromettendo il futuro delle prossime generazioni.",
+      "Sento fortemente che l'integrità accademica debba essere preservata dalle influenze commerciali.",
+      "Sento fortemente che la mancanza di empatia istituzionale stia alimentando il dissenso radicale.",
+      "Sento fortemente che sia imperativo ridefinire il concetto di cittadinanza nell'era digitale."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Sosterrei che...",
+    "kor": "...라고 주장하고 싶습니다 (지지합니다)",
+    "b1": [
+      "Sosterrei che è meglio camminare che usare la macchina.",
+      "Sosterrei che studiare le lingue è importante oggi.",
+      "Sosterrei che questa pizza è la migliore della città.",
+      "Sosterrei che dobbiamo risparmiare acqua.",
+      "Sosterrei che ascoltare musica aiuta a rilassarsi."
+    ],
+    "b2": [
+      "Sosterrei che l'introduzione della settimana lavorativa di quattro giorni sia vantaggiosa.",
+      "Sosterrei che la libertà di espressione non debba mai giustificare l'incitamento all'odio.",
+      "Sosterrei che l'istruzione pubblica debba ricevere maggiori finanziamenti statali.",
+      "Sosterrei che il turismo di massa stia danneggiando l'identità delle città d'arte.",
+      "Sosterrei che l'intelligenza emotiva sia importante quanto il quoziente intellettivo."
+    ],
+    "c1": [
+      "Sosterrei che la dicotomia tra natura e cultura sia un costrutto ormai superato dalla scienza moderna.",
+      "Sosterrei che la sovranità nazionale debba essere armonizzata con i trattati internazionali vincolanti.",
+      "Sosterrei che la precarietà lavorativa costituisca l'ostacolo principale alla pianificazione familiare.",
+      "Sosterrei che l'estetica post-moderna rifletta frammentariamente la nostra identità fluida.",
+      "Sosterrei che la decentralizzazione del potere possa favorire una democrazia più partecipativa e diretta."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Quello che intendo è...",
+    "kor": "제 말의 뜻은...",
+    "b1": [
+      "Quello che intendo è che non ho tempo oggi.",
+      "Quello che intendo è che il libro è troppo difficile.",
+      "Quello che intendo è che dobbiamo collaborare di più.",
+      "Quello che intendo è che preferisco il mare alla montagna.",
+      "Quello que intendo è che sei un bravo amico."
+    ],
+    "b2": [
+      "Quello che intendo è che non basta cambiare le regole, bisogna cambiare la mentalità.",
+      "Quello che intendo è che l'innovazione non deve andare a scapito della sicurezza.",
+      "Quello che intendo è che i dati statistici vanno analizzati con spirito critico.",
+      "Quello che intendo è che la qualità è più importante della quantità nel nostro lavoro.",
+      "Quello che intendo è che non possiamo ignorare le proteste dei cittadini."
+    ],
+    "c1": [
+      "Quello che intendo è che la semantica del discorso politico è stata svuotata dei suoi contenuti valoriali.",
+      "Quello che intendo è che l'automazione industriale non comporta necessariamente un'alienazione del lavoratore.",
+      "Quello che intendo è che la cooperazione internazionale è l'unica via d'uscita dall'impasse diplomatica.",
+      "Quello che intendo è che esiste una correlazione diretta tra degrado urbano e tassi di criminalità.",
+      "Quello che intendo è che l'epistemologia classica non è sufficiente a spiegare i nuovi fenomeni quantistici."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Se lo chiedi a me, ...",
+    "kor": "저에게 물으신다면, ...",
+    "b1": [
+      "Se lo chiedi a me, dovresti comprare la macchina rossa.",
+      "Se lo chiedi a me, la torta è troppo dolce.",
+      "Se lo chiedi a me, non vale la pena andare a quel concerto.",
+      "Se lo chiedi a me, oggi fa troppo freddo per uscire.",
+      "Se lo chiedi a me, lei è la persona più gentile che conosco."
+    ],
+    "b2": [
+      "Se lo chiedi a me, l'attuale sistema scolastico è un po' superato.",
+      "Se lo chiedi a me, hanno gestito la crisi in modo poco professionale.",
+      "Se lo chiedi a me, dovremmo dare più spazio ai giovani talenti in azienda.",
+      "Se lo chiedi a me, il problema principale è la mancanza di trasparenza.",
+      "Se lo chiedi a me, non c'è una soluzione univoca a questo conflitto d'interessi."
+    ],
+    "c1": [
+      "Se lo chiedi a me, l'eccessiva dipendenza dagli algoritmi sta atrofizzando la nostra capacità di giudizio critico.",
+      "Se lo chiedi a me, la retorica nazionalista è un palliativo inefficace contro le sfide della globalizzazione.",
+      "Se lo chiedi a me, il declino delle istituzioni tradizionali è un processo irreversibile ma non necessariamente negativo.",
+      "Se lo chiedi a me, l'architettura contemporanea dovrebbe dialogare maggiormente con il contesto storico preesistente.",
+      "Se lo chiedi a me, la bioetica deve porre dei limiti invalicabili alla manipolazione genetica a scopi commerciali."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Non potrei essere più d'accordo con...",
+    "kor": "...에 전적으로 동의합니다",
+    "b1": [
+      "Non potrei essere più d'accordo con te.",
+      "Non potrei essere più d'accordo con la tua idea.",
+      "Non potrei essere più d'accordo con quello che ha detto il professore.",
+      "Non potrei essere più d'accordo con la decisione del gruppo.",
+      "Non potrei essere più d'accordo con la scelta del ristorante."
+    ],
+    "b2": [
+      "Non potrei essere più d'accordo con la necessità di proteggere l'ambiente.",
+      "Non potrei essere più d'accordo con chi sostiene che l'arte sia fondamentale per la società.",
+      "Non potrei essere più d'accordo con le tue critiche alla gestione del progetto.",
+      "Non potrei essere più d'accordo con la proposta di ridurre le ore lavorative.",
+      "Non potrei essere più d'accordo con la tesi secondo cui l'educazione parta dalla famiglia."
+    ],
+    "c1": [
+      "Non potrei essere più d'accordo con l'analisi lucida fornita dal comitato tecnico-scientifico.",
+      "Non potrei essere più d'accordo con la visione lungimirante espressa nell'ultimo saggio del sociologo.",
+      "Non potrei essere più d'accordo con la condanna ferma di ogni forma di discriminazione sistemica.",
+      "Non potrei essere più d'accordo con l'esigenza di una redistribuzione della ricchezza su scala globale.",
+      "Non potrei essere più d'accordo con l'idea che la sovranità digitale sia la sfida del prossimo decennio."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "È un punto valido, ma...",
+    "kor": "일리가 있는 말씀입니다만, ...",
+    "b1": [
+      "È un punto valido, ma penso che sia troppo costoso.",
+      "È un punto valido, ma non abbiamo abbastanza tempo.",
+      "È un punto valido, ma io preferisco l'altra opzione.",
+      "È un punto valido, ma dobbiamo chiedere a Maria.",
+      "È un punto valido, ma fa troppo caldo oggi."
+    ],
+    "b2": [
+      "È un punto valido, ma dobbiamo considerare anche l'impatto a lungo termine.",
+      "È un punto valido, ma la realtà dei fatti sembra indicare il contrario.",
+      "È un punto valido, ma non credo che la maggioranza sia d'accordo.",
+      "È un punto valido, ma mancano le risorse finanziarie per attuarlo.",
+      "È un punto valido, ma la tua analisi ignora alcuni dati fondamentali."
+    ],
+    "c1": [
+      "È un punto valido, ma si scontra con i vincoli normativi attualmente in vigore nel nostro ordinamento.",
+      "È un punto valido, ma occorre ponderare attentamente le ricadute etiche di tale approccio.",
+      "È un punto valido, ma la letteratura accademica recente suggerisce una prospettiva divergente.",
+      "È un punto valido, ma rischia di essere un mero esercizio teorico privo di riscontri pratici.",
+      "È un punto valido, ma la complessità del fenomeno non permette generalizzazioni così nette."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Mi permetto di dissentire su...",
+    "kor": "...에 대해서는 의견을 달리합니다",
+    "b1": [
+      "Mi permetto di dissentire su questo punto.",
+      "Mi permetto di dissentire su quello che hai detto prima.",
+      "Mi permetto di dissentire sulla scelta del colore.",
+      "Mi permetto di dissentire sul prezzo del biglietto.",
+      "Mi permetto di dissentire sulla data dell'appuntamento."
+    ],
+    "b2": [
+      "Mi permetto di dissentire sulla tua interpretazione dei risultati del sondaggio.",
+      "Mi permetto di dissentire sulla necessità di chiudere la filiale.",
+      "Mi permetto di dissentire sulle conclusioni tratte dal comitato.",
+      "Mi permetto di dissentire sul fatto che la tecnologia risolva ogni problema.",
+      "Mi permetto di dissentire sulla tua valutazione della situazione politica attuale."
+    ],
+    "c1": [
+      "Mi permetto di dissentire radicalmente sulla validità metodologica di questo studio.",
+      "Mi permetto di dissentire sulla presunta inevitabilità di questo processo economico.",
+      "Mi permetto di dissentire sull'efficacia di tali misure restrittive nel lungo periodo.",
+      "Mi permetto di dissentire sulla visione pessimistica riguardo al futuro dell'integrazione europea.",
+      "Mi permetto di dissentire sulla pertinenza di tale analogia storica nel contesto contemporaneo."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Pur capendo che..., sento ancora...",
+    "kor": "...라는 점은 이해하지만, 여전히 ...라고 생각합니다",
+    "b1": [
+      "Pur capendo che sei stanco, sento ancora che dobbiamo finire il lavoro.",
+      "Pur capendo che costa molto, sento ancora che sia necessario comprarlo.",
+      "Pur capendo che è difficile, sento ancora che puoi farcela.",
+      "Pur capendo che piove, sento ancora che dovremmo uscire a fare una passeggiata.",
+      "Pur capendo la tua idea, sento ancora che la mia sia migliore."
+    ],
+    "b2": [
+      "Pur capendo che ci siano dei rischi, sento ancora che valga la pena tentare l'investimento.",
+      "Pur capendo le ragioni della tua protesta, sento ancora che il dialogo sia la strada migliore.",
+      "Pur capendo che la situazione è complessa, sento ancora che manchi una chiara direzione politica.",
+      "Pur capendo la necessità di tagliare i costi, sento ancora che non si debba risparmiare sull'istruzione.",
+      "Pur capendo il tuo punto di vista, sento ancora che non abbiamo esplorato tutte le alternative."
+    ],
+    "c1": [
+      "Pur capendo che le contingenze economiche siano sfavorevoli, sento ancora che sia imperativo investire nella ricerca di base.",
+      "Pur capendo la logica sottesa a tale provvedimento, sento ancora che esso leda i principi fondamentali di equità.",
+      "Pur capendo che la narrazione ufficiale sia rassicurante, sento ancora una profonda inquietudine per le tendenze autoritarie.",
+      "Pur capendo che il progresso tecnologico sia inarrestabile, sento ancora il bisogno di tutelare l'umanesimo classico.",
+      "Pur capendo le difficoltà oggettive nell'implementazione della riforma, sento ancora che l'immobilismo sia il rischio peggiore."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Con tutto il rispetto, ...",
+    "kor": "송구스럽지만 / 외람된 말씀이지만, ...",
+    "b1": [
+      "Con tutto il rispetto, non sono d'accordo con lei.",
+      "Con tutto il rispetto, penso che tu stia sbagliando.",
+      "Con tutto il rispetto, questa non è la soluzione migliore.",
+      "Con tutto il rispetto, preferirei fare in un altro modo.",
+      "Con tutto il rispetto, non mi piace questa proposta."
+    ],
+    "b2": [
+      "Con tutto il rispetto, la sua analisi mi sembra un po' superficiale.",
+      "Con tutto il rispetto, credo che non abbiate considerato l'opinione dei clienti.",
+      "Con tutto il rispetto, i dati che hai presentato non sono aggiornati.",
+      "Con tutto il rispetto, non credo che questa strategia porterà ai risultati sperati.",
+      "Con tutto il rispetto, penso che la sua posizione sia un po' troppo rigida."
+    ],
+    "c1": [
+      "Con tutto il rispetto, la sua argomentazione poggia su premesse che ritengo fallaci.",
+      "Con tutto il rispetto, trovo che la sua critica manchi di oggettività scientifica.",
+      "Con tutto il rispetto, la sua visione omette deliberatamente aspetti cruciali del problema.",
+      "Con tutto il rispetto, dissento profondamente dalla sua interpretazione della dottrina giuridica.",
+      "Con tutto il rispetto, la sua gestione della crisi è stata a mio avviso inadeguata rispetto alle aspettative."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Non sono del tutto sicuro di...",
+    "kor": "...에 대해 전적으로 확신하지는 못하겠어요",
+    "b1": [
+      "Non sono del tutto sicuro di questa risposta.",
+      "Non sono del tutto sicuro di voler andare alla festa.",
+      "Non sono del tutto sicuro di aver capito bene.",
+      "Non sono del tutto sicuro di dove sia il ristorante.",
+      "Non sono del tutto sicuro di poter finire oggi."
+    ],
+    "b2": [
+      "Non sono del tutto sicuro di condividere la tua opinione su questo film.",
+      "Non sono del tutto sicuro di come funzionerà il nuovo software in ufficio.",
+      "Non sono del tutto sicuro di quali saranno le conseguenze della nostra scelta.",
+      "Non sono del tutto sicuro di voler accettare questa offerta di lavoro.",
+      "Non sono del tutto sicuro di aver preso in considerazione tutti i rischi possibili."
+    ],
+    "c1": [
+      "Non sono del tutto sicuro di voler sottoscrivere una tesi così radicale senza ulteriori prove.",
+      "Non sono del tutto sicuro di aver colto tutte le sfumature della sua complessa dissertazione.",
+      "Non sono del tutto sicuro di quanto sia sostenibile questo modello di crescita nel lungo periodo.",
+      "Non sono del tutto sicuro di poter avallare una decisione che implica tali dilemmi etici.",
+      "Non sono del tutto sicuro di come la pubblica opinione reagirà a questa drastica inversione di rotta."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Potresti approfondire...?",
+    "kor": "...에 대해 더 자세히 설명해주시겠어요?",
+    "b1": [
+      "Potresti approfondire questo punto?",
+      "Potresti approfondire la tua idea?",
+      "Potresti approfondire quello che hai detto?",
+      "Potresti approfondire l'argomento?",
+      "Potresti approfondire la spiegazione?"
+    ],
+    "b2": [
+      "Potresti approfondire le ragioni del tuo dissenso?",
+      "Potresti approfondire gli aspetti tecnici della proposta?",
+      "Potresti approfondire le possibili conseguenze economiche di questo piano?",
+      "Potresti approfondire il motivo per cui hai scelto questo approccio?",
+      "Potresti approfondire come intendi gestire i potenziali conflitti?"
+    ],
+    "c1": [
+      "Potresti approfondire la genesi concettuale della tua teoria?",
+      "Potresti approfondire le implicazioni socio-politiche del tuo studio?",
+      "Potresti approfondire il quadro normativo in cui si inserisce questo progetto?",
+      "Potresti approfondire la correlazione tra queste due variabili apparentemente indipendenti?",
+      "Potresti approfondire gli elementi di rottura rispetto alla tradizione precedente?"
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Ho sentimenti contrastanti su...",
+    "kor": "...에 대해 복잡한 심경이에요 (좋기도 하고 나쁘기도 해요)",
+    "b1": [
+      "Ho sentimenti contrastanti su questo nuovo lavoro.",
+      "Ho sentimenti contrastanti sull'idea di traslocare.",
+      "Ho sentimenti contrastanti su quel film che abbiamo visto.",
+      "Ho sentimenti contrastanti sulla città in cui vivo.",
+      "Ho sentimenti contrastanti sulla scelta che ho fatto."
+    ],
+    "b2": [
+      "Ho sentimenti contrastanti sull'impatto dei social media sulla nostra vita.",
+      "Ho sentimenti contrastanti sulla decisione della direzione di cambiare il logo.",
+      "Ho sentimenti contrastanti sull'efficacia delle lezioni online rispetto a quelle in presenza.",
+      "Ho sentimenti contrastanti sulla nuova riforma fiscale proposta dal governo.",
+      "Ho sentimenti contrastanti sull'opportunità di espandere l'azienda all'estero."
+    ],
+    "c1": [
+      "Ho sentimenti contrastanti sull'ambivalenza etica derivante dall'uso di tecnologie predittive.",
+      "Ho sentimenti contrastanti sulla mercificazione dell'esperienza turistica nelle città storiche.",
+      "Ho sentimenti contrastanti sulla validità dei parametri utilizzati per misurare il benessere sociale.",
+      "Ho sentimenti contrastanti sulla necessità di un intervento statale così pervasivo nell'economia.",
+      "Ho sentimenti contrastanti sulla capacità della democrazia rappresentativa di evolversi nell'era digitale."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Accettiamo di non essere d'accordo su...",
+    "kor": "...에 대해서는 서로 의견이 다름을 인정합시다",
+    "b1": [
+      "Accettiamo di non essere d'accordo su questo punto.",
+      "Accettiamo di non essere d'accordo sulla scelta della pizza.",
+      "Accettiamo di non essere d'accordo sul film più bello.",
+      "Accettiamo di non essere d'accordo sulla destinazione delle vacanze.",
+      "Accettiamo di non essere d'accordo su chi ha vinto la partita."
+    ],
+    "b2": [
+      "Accettiamo di non essere d'accordo sulla gestione del budget familiare.",
+      "Accettiamo di non essere d'accordo sulla migliore strategia di marketing per il prodotto.",
+      "Accettiamo di non essere d'accordo sulle cause del fallimento del progetto.",
+      "Accettiamo di non essere d'accordo sull'importanza dei titoli di studio oggi.",
+      "Accettiamo di non essere d'accordo sul ruolo della religione nella società moderna."
+    ],
+    "c1": [
+      "Accettiamo di non essere d'accordo sull'interpretazione ermeneutica di questo testo classico.",
+      "Accettiamo di non essere d'accordo sulla legittimità dell'intervento umanitario in contesti sovrani.",
+      "Accettiamo di non essere d'accordo sul peso relativo dell'eredità biologica rispetto a quella culturale.",
+      "Accettiamo di non essere d'accordo sulla visione teleologica dello sviluppo storico.",
+      "Accettiamo di non essere d'accordo sui limiti invalicabili della libertà di ricerca scientifica."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Hai considerato...?",
+    "kor": "...를 고려해 보셨나요?",
+    "b1": [
+      "Hai considerato di andare in treno?",
+      "Hai considerato il prezzo di questo oggetto?",
+      "Hai considerato di parlare con lei?",
+      "Hai considerato di cambiare idea?",
+      "Hai considerato di studiare la sera?"
+    ],
+    "b2": [
+      "Hai considerato le possibili ripercussioni sulla tua carriera?",
+      "Hai considerato la possibilità di collaborare con un'altra azienda?",
+      "Hai considerato l'impatto ambientale delle tue scelte quotidiane?",
+      "Hai considerato i vantaggi di una dieta più equilibrata?",
+      "Hai considerato l'opinione degli esperti in questo settore?"
+    ],
+    "c1": [
+      "Hai considerato l'eventualità che questa variabile possa invalidare l'intero esperimento?",
+      "Hai considerato le implicazioni di natura etica e deontologica della tua condotta professionale?",
+      "Hai considerato la possibilità di un effetto domino sui mercati finanziari emergenti?",
+      "Hai considerato la discrepanza tra la percezione soggettiva e il dato oggettivo della realtà?",
+      "Hai considerato come il contesto storico-culturale abbia influenzato la tua analisi attuale?"
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Non è sempre così perché...",
+    "kor": "항상 그렇지는 않아요, 왜냐하면 ...",
+    "b1": [
+      "Non è sempre così perché ogni persona è diversa.",
+      "Non è sempre così perché a volte piove d'estate.",
+      "Non è sempre così perché i prezzi possono cambiare.",
+      "Non è sempre così perché lei non ha sempre ragione.",
+      "Non è sempre così perché il lavoro può essere difficile."
+    ],
+    "b2": [
+      "Non è sempre così perché la teoria non coincide sempre con la pratica.",
+      "Non è sempre così perché i risultati dipendono da molti fattori esterni.",
+      "Non è sempre così perché la percezione del successo varia da individuo a individuo.",
+      "Non è sempre così perché le eccezioni alla regola sono più comuni di quanto si pensi.",
+      "Non è sempre così perché la tecnologia può anche creare nuovi problemi invece di risolverli."
+    ],
+    "c1": [
+      "Non è sempre così perché la causalità non implica necessariamente una correlazione lineare.",
+      "Non è sempre così perché il relativismo culturale impone una lettura più articolata dei fatti.",
+      "Non è sempre così perché la dinamicità dei mercati smentisce spesso le previsioni statistiche.",
+      "Non è sempre così perché l'agire umano è spesso guidato da impulsi irrazionali e imprevedibili.",
+      "Non è sempre così perché le strutture di potere tendono ad autoriprodursi in modi molto sottili."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Vedo le cose...",
+    "kor": "저는 상황을 ...게 봅니다 (제 생각은 ...)",
+    "b1": [
+      "Vedo le cose in modo diverso da te.",
+      "Vedo le cose in modo positivo.",
+      "Vedo le cose in modo semplice.",
+      "Vedo le cose con ottimismo.",
+      "Vedo le cose come un'opportunità."
+    ],
+    "b2": [
+      "Vedo le cose da una prospettiva più realistica e meno idealizzata.",
+      "Vedo le cose come una sfida necessaria per la nostra crescita professionale.",
+      "Vedo le cose in un contesto globale, non solo locale.",
+      "Vedo le cose con una certa preoccupazione per il futuro dei giovani.",
+      "Vedo le cose come il risultato di una serie di decisioni sbagliate."
+    ],
+    "c1": [
+      "Vedo le cose attraverso il prisma di una rigorosa analisi sociologica.",
+      "Vedo le cose come un sintomo di una profonda crisi dei valori della modernità.",
+      "Vedo le cose in una dimensione olistica che integra aspetti economici e ambientali.",
+      "Vedo le cose come una dicotomia irrisolta tra libertà individuale e bene comune.",
+      "Vedo le cose con il distacco critico necessario per evitare giudizi affrettati."
+    ]
+  }
+]

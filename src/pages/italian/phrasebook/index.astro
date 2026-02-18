@@ -11,7 +11,7 @@ const chapters_b1 = chapters["b1"];
 const chapters_b2 = chapters["b2"];
 
 // Title
-const pageTitle = "러시아어 회화";
+const pageTitle = "이탈리아어 회화";
 
 // Anchor Navigation
 const navItems = [
@@ -24,10 +24,10 @@ const navItems = [
 
 <BaseLayout pageTitle={pageTitle + " - Lublio"}>
   <Box
-    title="Фразы"
-    subtitle="러시아어 회화"
-    description="모스크바의 붉은 광장을 거닐며 현지인과 나누는 대화. 낯선 도시에서의 연결을 돕는 필수 문구들을 확인해 보세요."
-    language="rus"
+    title="Frasi"
+    subtitle="이탈리아어 회화"
+    description="로마의 햇살 아래 테라스에서 즐기는 에스프레소 한 잔의 여유. 현지의 낭만과 업무의 효율을 동시에 잡는 세련된 표현들을 학습해보세요."
+    language="ita"
   />
 
   <AnchorNavigation items={navItems} />
@@ -42,10 +42,10 @@ const navItems = [
           chapters_a1.map((post: any) => (
             <Button2
               id={post.id}
-              title={post.rus}
+              title={post.ita}
               subtitle={post.kor}
-              language="rus"
-              path={"/russian/phrasebook/a1/" + post.path}
+              language="ita"
+              path={"/italian/phrasebook/a1/" + post.path}
             />
           ))
         }
@@ -61,10 +61,10 @@ const navItems = [
           chapters_a2.map((post: any) => (
             <Button2
               id={post.id}
-              title={post.rus}
+              title={post.ita}
               subtitle={post.kor}
-              language="rus"
-              path={"/russian/phrasebook/a2/" + post.path}
+              language="ita"
+              path={"/italian/phrasebook/a2/" + post.path}
             />
           ))
         }
@@ -80,10 +80,10 @@ const navItems = [
           chapters_b1.map((post: any) => (
             <Button2
               id={post.id}
-              title={post.rus}
+              title={post.ita}
               subtitle={post.kor}
-              language="rus"
-              path={"/russian/phrasebook/b1/" + post.path}
+              language="ita"
+              path={"/italian/phrasebook/b1/" + post.path}
             />
           ))
         }
@@ -99,10 +99,10 @@ const navItems = [
           chapters_b2.map((post: any) => (
             <Button2
               id={post.id}
-              title={post.rus}
+              title={post.ita}
               subtitle={post.kor}
-              language="rus"
-              path={"/russian/phrasebook/b2/" + post.path}
+              language="ita"
+              path={"/italian/phrasebook/b2/" + post.path}
             />
           ))
         }

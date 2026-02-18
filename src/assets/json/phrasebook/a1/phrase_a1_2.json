@@ -4,174 +4,224 @@
     "eng": "Good morning.",
     "fra": "Bonjour.",
     "deu": "Guten Morgen.",
-    "rus": "Доброе утро."
+    "ita": "Buongiorno.",
+    "esp": "Buenos días.",
+    "nld": "Goedemorgen."
   },
   {
     "kor": "안녕히 가세요.",
     "eng": "Goodbye.",
     "fra": "Au revoir.",
     "deu": "Auf Wiedersehen.",
-    "rus": "До свидания."
+    "ita": "Arrivederci.",
+    "esp": "Adiós.",
+    "nld": "Tot ziens."
   },
   {
     "kor": "감사합니다.",
     "eng": "Thank you.",
     "fra": "Merci.",
     "deu": "Danke.",
-    "rus": "Спасибо."
+    "ita": "Grazie.",
+    "esp": "Gracias.",
+    "nld": "Dank u wel."
   },
   {
     "kor": "대단히 감사합니다.",
     "eng": "Thank you very much.",
     "fra": "Merci beaucoup.",
     "deu": "Vielen Dank.",
-    "rus": "Большое спасибо."
+    "ita": "Grazie mille.",
+    "esp": "Muchas gracias.",
+    "nld": "Hartelijk dank."
   },
   {
     "kor": "천만에요.",
     "eng": "You're welcome.",
     "fra": "De rien.",
     "deu": "Bitte sehr.",
-    "rus": "Пожалуйста."
+    "ita": "Prego.",
+    "esp": "De nada.",
+    "nld": "Graag gedaan."
   },
   {
     "kor": "실례합니다.",
     "eng": "Excuse me.",
     "fra": "Excusez-moi.",
     "deu": "Entschuldigung.",
-    "rus": "Извините."
+    "ita": "Mi scusi.",
+    "esp": "Disculpe.",
+    "nld": "Excuseer mij."
   },
   {
     "kor": "미안합니다.",
     "eng": "I'm sorry.",
     "fra": "Désolé(e).",
     "deu": "Es tut mir leid.",
-    "rus": "Простите."
+    "ita": "Mi dispiace.",
+    "esp": "Lo siento.",
+    "nld": "Het spijt me."
   },
   {
     "kor": "괜찮아요.",
     "eng": "That's alright.",
     "fra": "Ça va.",
     "deu": "Das ist in Ordnung.",
-    "rus": "Ничего страшного."
+    "ita": "Va bene così.",
+    "esp": "Está bien.",
+    "nld": "Het is goed."
   },
   {
     "kor": "부탁합니다.",
     "eng": "Please.",
     "fra": "S'il vous plaît.",
     "deu": "Bitte.",
-    "rus": "Пожалуйста."
+    "ita": "Per favore.",
+    "esp": "Por favor.",
+    "nld": "Alstublieft."
   },
   {
     "kor": "어떻게 지내세요?",
     "eng": "How are you?",
     "fra": "Comment allez-vous ?",
     "deu": "Wie geht es Ihnen?",
-    "rus": "Как дела?"
+    "ita": "Come sta?",
+    "esp": "¿Cómo está?",
+    "nld": "Hoe gaat het met u?"
   },
   {
     "kor": "잘 지내요, 감사합니다.",
     "eng": "I'm fine, thanks.",
     "fra": "Ça va bien, merci.",
     "deu": "Mir geht es gut, danke.",
-    "rus": "Хорошо, спасибо."
+    "ita": "Sto bene, grazie.",
+    "esp": "Estoy bien, gracias.",
+    "nld": "Goed, dank u."
   },
   {
     "kor": "당신은요?",
     "eng": "And you?",
     "fra": "Et vous ?",
     "deu": "Und Ihnen?",
-    "rus": "А у вас?"
+    "ita": "E Lei?",
+    "esp": "¿Y usted?",
+    "nld": "En met u?"
   },
   {
     "kor": "잘 자요.",
     "eng": "Good night.",
     "fra": "Bonne nuit.",
     "deu": "Gute Nacht.",
-    "rus": "Спокойной ночи."
+    "ita": "Buonanotte.",
+    "esp": "Buenas noches.",
+    "nld": "Welterusten."
   },
   {
     "kor": "나중에 봐요.",
     "eng": "See you later.",
     "fra": "À plus tard.",
     "deu": "Bis später.",
-    "rus": "До встречи."
+    "ita": "A più tardi.",
+    "esp": "Hasta luego.",
+    "nld": "Tot later."
   },
   {
     "kor": "내일 봐요.",
     "eng": "See you tomorrow.",
     "fra": "À demain.",
     "deu": "Bis morgen.",
-    "rus": "До завтра."
+    "ita": "A domani.",
+    "esp": "Hasta mañana.",
+    "nld": "Tot morgen."
   },
   {
     "kor": "만나서 반가워요.",
     "eng": "Pleased to meet you.",
     "fra": "Enchanté(e).",
     "deu": "Freut mich.",
-    "rus": "Рад знакомству."
+    "ita": "Piacere di conoscerla.",
+    "esp": "Encantado.",
+    "nld": "Aangenaam."
   },
   {
     "kor": "도와드릴까요?",
     "eng": "Can I help you?",
     "fra": "Puis-je vous aider ?",
     "deu": "Kann ich Ihnen helfen?",
-    "rus": "Могу ли я вам помочь?"
+    "ita": "Posso aiutarla?",
+    "esp": "¿Puedo ayudarle?",
+    "nld": "Kan ik u helpen?"
   },
   {
     "kor": "네, 부탁해요.",
     "eng": "Yes, please.",
     "fra": "Oui, s'il vous plaît.",
     "deu": "Ja, bitte.",
-    "rus": "Да, пожалуйста."
+    "ita": "Sì, grazie.",
+    "esp": "Sí, por favor.",
+    "nld": "Ja, graag."
   },
   {
     "kor": "아니요, 괜찮습니다.",
     "eng": "No, thank you.",
     "fra": "Non, merci.",
     "deu": "Nein, danke.",
-    "rus": "Нет, спасибо."
+    "ita": "No, grazie.",
+    "esp": "No, gracias.",
+    "nld": "Nee, dank u."
   },
   {
     "kor": "조금만 천천히 말씀해 주시겠어요?",
     "eng": "Could you speak more slowly, please?",
     "fra": "Pouvez-vous parler plus lentement, s'il vous plaît ?",
     "deu": "Können Sie bitte langsamer sprechen?",
-    "rus": "Говорите, пожалуйста, помедленнее."
+    "ita": "Può parlare più lentamente, per favore?",
+    "esp": "¿Podría hablar más despacio, por favor?",
+    "nld": "Kunt u langzamer praten, alstublieft?"
   },
   {
     "kor": "다시 한번 말씀해 주시겠어요?",
     "eng": "Pardon?",
     "fra": "Pardon ?",
     "deu": "Wie bitte?",
-    "rus": "Повторите, пожалуйста."
+    "ita": "Come, scusi?",
+    "esp": "¿Perdón?",
+    "nld": "Wat zegt u?"
   },
   {
     "kor": "이해하지 못했습니다.",
     "eng": "I don't understand.",
     "fra": "Je ne comprends pas.",
     "deu": "Ich verstehe nicht.",
-    "rus": "Я не понимаю."
+    "ita": "Non capisco.",
+    "esp": "No entiendo.",
+    "nld": "Ik begrijp het niet."
   },
   {
     "kor": "좋은 주말 보내세요.",
     "eng": "Have a nice weekend.",
     "fra": "Bon week-end.",
     "deu": "Schönes Wochenende.",
-    "rus": "Приятных выходных."
+    "ita": "Buon fine settimana.",
+    "esp": "Buen fin de semana.",
+    "nld": "Prettig weekend."
   },
   {
     "kor": "즐거운 시간 보내세요.",
     "eng": "Have a good time.",
     "fra": "Amusez-vous bien.",
     "deu": "Viel Spaß.",
-    "rus": "Хорошо вам провести время."
+    "ita": "Buon divertimento.",
+    "esp": "Que te diviertas.",
+    "nld": "Veel plezier."
   },
   {
     "kor": "조심하세요.",
     "eng": "Take care.",
     "fra": "Prenez soin de vous.",
     "deu": "Pass auf dich auf.",
-    "rus": "Берегите себя."
+    "ita": "Si riguardi.",
+    "esp": "Cuídese.",
+    "nld": "Pas goed op jezelf."
   }
 ]

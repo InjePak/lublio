@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Mi sento sopraffatto/a da... per...",
+    "kor": "~때문에 ~로 압도당하는 기분이에요 (벅차요)",
+    "b1": [
+      "Mi sento sopraffatto dal lavoro per le troppe email.",
+      "Mi sento sopraffatta dallo studio per l'esame di domani.",
+      "Mi sento sopraffatto dal rumore per il traffico della città.",
+      "Mi sento sopraffatta dalla stanchezza per il lungo viaggio.",
+      "Mi sento sopraffatto dalla felicità per il tuo regalo."
+    ],
+    "b2": [
+      "Mi sento sopraffatto dalle responsabilità per il mio nuovo ruolo in azienda.",
+      "Mi sento sopraffatta dalle emozioni per il ritorno di mio fratello dall'estero.",
+      "Mi sento sopraffatto dalle scadenze per la gestione di tre progetti contemporaneamente.",
+      "Mi sento sopraffatta dai dubbi per la scelta difficile che devo prendere.",
+      "Mi sento sopraffatto dalla nostalgia per i ricordi della mia infanzia."
+    ],
+    "c1": [
+      "Mi sento sopraffatto dall'angoscia per l'incertezza del panorama geopolitico attuale.",
+      "Mi sento sopraffatta dalla complessità della situazione per le implicazioni etiche coinvolte.",
+      "Mi sento sopraffatto dal senso di impotenza per l'impossibilità di cambiare gli eventi.",
+      "Mi sento sopraffatta dalla vastità della conoscenza per la profondità di questo studio filosofico.",
+      "Mi sento sopraffatto dalla malinconia per la consapevolezza del tempo che scorre inesorabile."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Mi ha davvero toccato il cuore quando...",
+    "kor": "~했을 때 정말 감동받았어요 (마음이 울렸어요)",
+    "b1": [
+      "Mi ha davvero toccato il cuore quando mi hai sorriso.",
+      "Mi ha davvero toccato il cuore quando hai scritto quella lettera.",
+      "Mi ha davvero toccato il cuore quando ho visto quel film.",
+      "Mi ha davvero toccato il cuore quando mi hanno aiutato.",
+      "Mi ha davvero toccato il cuore quando il bambino ha riso."
+    ],
+    "b2": [
+      "Mi ha davvero toccato il cuore quando hai ricordato quel piccolo dettaglio del nostro primo incontro.",
+      "Mi ha davvero toccato il cuore quando ho letto il messaggio di ringraziamento dei miei studenti.",
+      "Mi ha davvero toccato il cuore quando il cane ha aspettato il suo padrone fuori dall'ospedale.",
+      "Mi ha davvero toccato il cuore quando ho visto la solidarietà della gente dopo l'incidente.",
+      "Mi ha davvero toccato il cuore quando mio nonno mi ha raccontato la sua storia d'amore."
+    ],
+    "c1": [
+      "Mi ha davvero toccato il cuore quando ho percepito la purezza disinteressata del tuo gesto altruistico.",
+      "Mi ha davvero toccato il cuore quando la melodia ha evocato immagini di un'epoca ormai perduta.",
+      "Mi ha davvero toccato il cuore quando il poeta ha descritto la fragilità dell'anima con tale precisione.",
+      "Mi ha davvero toccato il cuore quando ho assistito alla riconciliazione silenziosa tra i due vecchi rivali.",
+      "Mi ha davvero toccato il cuore quando la luce del tramonto ha illuminato le rovine con una bellezza quasi divina."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Sono profondamente preoccupato/a per...",
+    "kor": "~에 대해 깊이 우려하고 있습니다 (걱정입니다)",
+    "b1": [
+      "Sono profondamente preoccupato per la tua salute.",
+      "Sono profondamente preoccupata per il tempo domani.",
+      "Sono profondamente preoccupato per il mio gatto malato.",
+      "Sono profondamente preoccupata per l'esame di matematica.",
+      "Sono profondamente preoccupato per i miei genitori."
+    ],
+    "b2": [
+      "Sono profondamente preoccupato per le conseguenze del cambiamento climatico sulla nostra regione.",
+      "Sono profondamente preoccupata per la situazione economica instabile del paese.",
+      "Sono profondamente preoccupato per il futuro professionale dei giovani laureati.",
+      "Sono profondamente preoccupata per la mancanza di comunicazione all'interno del team.",
+      "Sono profondamente preoccupato per la sicurezza dei dati sensibili online."
+    ],
+    "c1": [
+      "Sono profondamente preoccupato per l'erosione dei valori democratici nella società contemporanea.",
+      "Sono profondamente preoccupata per l'impatto etico dell'intelligenza artificiale sull'identità umana.",
+      "Sono profondamente preoccupato per la deriva nichilista delle nuove generazioni in cerca di senso.",
+      "Sono profondamente preoccupata per la polarizzazione ideologica che impedisce un dialogo costruttivo.",
+      "Sono profondamente preoccupato per la vulnerabilità dei sistemi ecologici di fronte allo sfruttamento intensivo."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Mi sono tolto un gran peso di dosso perché...",
+    "kor": "~해서 큰 짐을 덜었어요 (홀가분해요)",
+    "b1": [
+      "Mi sono tolto un gran peso di dosso perché ho finito i compiti.",
+      "Mi sono tolto un gran peso di dosso perché ho trovato le chiavi.",
+      "Mi sono tolto un gran peso di dosso perché la febbre è passata.",
+      "Mi sono tolto un gran peso di dosso perché ho parlato con lei.",
+      "Mi sono tolto un gran peso di dosso perché il viaggio è finito."
+    ],
+    "b2": [
+      "Mi sono tolto un gran peso di dosso perché ho finalmente consegnato il progetto finale.",
+      "Mi sono tolto un gran peso di dosso perché il capo ha approvato la mia richiesta di ferie.",
+      "Mi sono tolto un gran peso di dosso perché ho chiarito il malinteso con il mio migliore amico.",
+      "Mi sono tolto un gran peso di dosso perché l'operazione di mia madre è andata bene.",
+      "Mi sono tolto un gran peso di dosso perché ho estinto il debito con la banca."
+    ],
+    "c1": [
+      "Mi sono tolto un gran peso di dosso perché la confessione ha liberato la mia coscienza tormentata.",
+      "Mi sono tolto un gran peso di dosso perché ho sciolto quel nodo emotivo che mi soffocava da anni.",
+      "Mi sono tolto un gran peso di dosso perché la risoluzione della controversia legale ha ridato serenità alla famiglia.",
+      "Mi sono tolto un gran peso di dosso perché ho rinunciato all'ossessione per il successo materiale.",
+      "Mi sono tolto un gran peso di dosso perché ho finalmente accettato la mia vulnerabilità senza timore del giudizio."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Non posso nascondere quanto apprezzi...",
+    "kor": "제가 얼마나 ~를 고마워하는지 숨길 수가 없네요",
+    "b1": [
+      "Non posso nascondere quanto apprezzi il tuo aiuto.",
+      "Non posso nascondere quanto apprezzi questo caffè.",
+      "Non posso nascondere quanto apprezzi il tuo tempo.",
+      "Non posso nascondere quanto apprezzi la tua gentilezza.",
+      "Non posso nascondere quanto apprezzi questo regalo."
+    ],
+    "b2": [
+      "Non posso nascondere quanto apprezzi la tua onestà in questa situazione difficile.",
+      "Non posso nascondere quanto apprezzi il supporto che la tua azienda ci ha offerto.",
+      "Non posso nascondere quanto apprezzi la dedizione che metti nel tuo lavoro quotidiano.",
+      "Non posso nascondere quanto apprezzi la tua capacità di ascoltare senza giudicare.",
+      "Non posso nascondere quanto apprezzi l'opportunità di imparare da un mentore come te."
+    ],
+    "c1": [
+      "Non posso nascondere quanto apprezzi la squisita sensibilità con cui hai affrontato un tema così delicato.",
+      "Non posso nascondere quanto apprezzi la profondità intellettuale della tua analisi sociologica.",
+      "Non posso nascondere quanto apprezzi la coerenza morale che dimostri nonostante le pressioni esterne.",
+      "Non posso nascondere quanto apprezzi l'eleganza stilistica di questa tua ultima opera letteraria.",
+      "Non posso nascondere quanto apprezzi la lungimiranza della tua visione strategica per il futuro."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Provo un profondo senso di tristezza per...",
+    "kor": "~에 대해 깊은 슬픔을 느낍니다",
+    "b1": [
+      "Provo un profondo senso di tristezza per la fine delle vacanze.",
+      "Provo un profondo senso di tristezza per il film triste.",
+      "Provo un profondo senso di tristezza per l'addio dell'amico.",
+      "Provo un profondo senso di tristezza per il tempo brutto.",
+      "Provo un profondo senso di tristezza per il mio errore."
+    ],
+    "b2": [
+      "Provo un profondo senso di tristezza per la perdita del mio caro cane che mi ha accompagnato per anni.",
+      "Provo un profondo senso di tristezza per la chiusura della storica libreria del centro.",
+      "Provo un profondo senso di tristezza per l'indifferenza delle persone verso chi soffre.",
+      "Provo un profondo senso di tristezza per non essere riuscito a salutare mio nonno prima che partisse.",
+      "Provo un profondo senso di tristezza per la distruzione della foresta dopo l'incendio."
+    ],
+    "c1": [
+      "Provo un profondo senso di tristezza per l'inevitabile decadenza delle grandi civiltà del passato.",
+      "Provo un profondo senso di tristezza per l'inaridimento spirituale dell'uomo moderno iper-connesso.",
+      "Provo un profondo senso di tristezza per la solitudine ontologica che traspare dai tuoi occhi.",
+      "Provo un profondo senso di tristezza per il tramonto di un'utopia che sembrava poter cambiare il mondo.",
+      "Provo un profondo senso di tristezza per la fragilità dei legami umani nell'era dell'effimero."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Le parole non possono descrivere quanto...",
+    "kor": "말로 다 설명할 수 없을 만큼 ~해요",
+    "b1": [
+      "Le parole non possono descrivere quanto ti voglio bene.",
+      "Le parole non possono descrivere quanto sono felice.",
+      "Le parole non possono descrivere quanto mi manchi.",
+      "Le parole non possono descrivere quanto è bello questo posto.",
+      "Le parole non possono descrivere quanto sono stanco."
+    ],
+    "b2": [
+      "Le parole non possono descrivere quanto io sia grato per il tuo sostegno durante il lutto.",
+      "Le parole non possono descrivere quanto sia stato emozionante vedere la nascita di mia figlia.",
+      "Le parole non possono descrivere quanto mi senta onorato di ricevere questo premio prestigioso.",
+      "Le parole non possono descrivere quanto sia rimasto deluso dal tuo comportamento egoista.",
+      "Le parole non possono descrivere quanto la musica riesca a curare le ferite dell'anima."
+    ],
+    "c1": [
+      "Le parole non possono descrivere quanto la maestosità delle Alpi induca un senso di sublime nell'osservatore.",
+      "Le parole non possono descrivere quanto l'intensità del tuo sguardo travalichi i confini della comunicazione verbale.",
+      "Le parole non possono descrivere quanto l'ingiustizia sistematica ferisca la dignità profonda di un popolo.",
+      "Le parole non possono descrivere quanto la scoperta della verità possa essere catartica e dolorosa allo stesso tempo.",
+      "Le parole non possono descrivere quanto l'essenza dell'amore platonico si discosti dalle manifestazioni terrene."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Sto lottando con il pensiero di...",
+    "kor": "~라는 생각 때문에 힘들어요 (고심 중이에요)",
+    "b1": [
+      "Sto lottando con il pensiero di cambiare lavoro.",
+      "Sto lottando con il pensiero di lasciare la mia città.",
+      "Sto lottando con il pensiero di aver fatto un errore.",
+      "Sto lottando con il pensiero di non farcela.",
+      "Sto lottando con il pensiero di dirgli la verità."
+    ],
+    "b2": [
+      "Sto lottando con il pensiero di dover vendere la casa dove sono cresciuto.",
+      "Sto lottando con il pensiero di aver deluso le aspettative dei miei genitori.",
+      "Sto lottando con il pensiero di non essere all'altezza delle nuove sfide professionali.",
+      "Sto lottando con il pensiero di quanto tempo ho sprecato in attività inutili.",
+      "Sto lottando con il pensiero di ricominciare tutto da capo a quarant'anni."
+    ],
+    "c1": [
+      "Sto lottando con il pensiero della vacuità delle ambizioni umane di fronte all'eternità.",
+      "Sto lottando con il pensiero che la libertà individuale sia solo un'illusione sociologica.",
+      "Sto lottando con il pensiero di aver tradito i miei ideali giovanili per una vita agiata.",
+      "Sto lottando con il pensiero della precarietà esistenziale che caratterizza la nostra condizione.",
+      "Sto lottando con il pensiero che la sofferenza sia una componente intrinseca e necessaria della saggezza."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "La mia più grande paura è che...",
+    "kor": "제 가장 큰 두려움은 ~라는 것이에요",
+    "b1": [
+      "La mia più grande paura è che piova domani.",
+      "La mia più grande paura è che tu sia arrabbiato.",
+      "La mia più grande paura è che io perda il treno.",
+      "La mia più grande paura è che lui non mi chiami.",
+      "La mia più grande paura è che il cane scappi."
+    ],
+    "b2": [
+      "La mia più grande paura è che i miei figli non riescano a trovare la loro strada nella vita.",
+      "La mia più grande paura è che tutto il mio impegno lavorativo non serva a nulla.",
+      "La mia più grande paura è che la nostra amicizia si rovini per un banale malinteso.",
+      "La mia più grande paura è che la tecnologia sostituisca completamente il contatto umano.",
+      "La mia più grande paura è che io possa perdere la memoria in vecchiaia."
+    ],
+    "c1": [
+      "La mia più grande paura è che l'indifferenza diventi la cifra distintiva della nostra civiltà.",
+      "La mia più grande paura è che il progresso scientifico superi la nostra capacità di giudizio etico.",
+      "La mia più grande paura è che l'oblio cancelli le lezioni fondamentali apprese dalla storia.",
+      "La mia più grande paura è che l'alienazione digitale ci renda incapaci di empatia reale.",
+      "La mia più grande paura è che la verità venga definitivamente sommersa da un oceano di menzogne plausibili."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Questa situazione mi ha lasciato...",
+    "kor": "이 상황 때문에 ~하게 되었어요 (이 상황이 저를 ~하게 만들었어요)",
+    "b1": [
+      "Questa situazione mi ha lasciato senza parole.",
+      "Questa situazione mi ha lasciato triste.",
+      "Questa situazione mi ha lasciato molto stanco.",
+      "Questa situazione mi ha lasciato sorpreso.",
+      "Questa situazione mi ha lasciato un po' confuso."
+    ],
+    "b2": [
+      "Questa situazione mi ha lasciato con l'amaro in bocca per come sono andate le cose.",
+      "Questa situazione mi ha lasciato profondamente deluso dal comportamento della mia squadra.",
+      "Questa situazione mi ha lasciato una sensazione di vuoto che non so come colmare.",
+      "Questa situazione mi ha lasciato interdetto, non mi aspettavo una reazione simile.",
+      "Questa situazione mi ha lasciato con molti interrogativi sul futuro della nostra collaborazione."
+    ],
+    "c1": [
+      "Questa situazione mi ha lasciato in uno stato di sospensione emotiva quasi alienante.",
+      "Questa situazione mi ha lasciato profondamente amareggiato per l'ipocrisia dilagante.",
+      "Questa situazione mi ha lasciato con una consapevolezza rinnovata circa la fragilità degli accordi umani.",
+      "Questa situazione mi ha lasciato in balia di sentimenti contrastanti e difficilmente conciliabili.",
+      "Questa situazione mi ha lasciato esausto, avendo prosciugato ogni mia risorsa psicofisica."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Mi si spezza il cuore a vedere...",
+    "kor": "~를 보는 것이 너무 가슴이 아파요",
+    "b1": [
+      "Mi si spezza il cuore a vedere il bambino piangere.",
+      "Mi si spezza il cuore a vedere il mio cane solo.",
+      "Mi si spezza il cuore a vedere i fiori secchi.",
+      "Mi si spezza il cuore a vedere la tua tristezza.",
+      "Mi si spezza il cuore a vedere i vecchi giocattoli."
+    ],
+    "b2": [
+      "Mi si spezza il cuore a vedere tante persone senza casa che dormono per strada al freddo.",
+      "Mi si spezza il cuore a vedere il degrado di questa bellissima città d'arte.",
+      "Mi si spezza il cuore a vedere come gli anziani vengano spesso dimenticati dalle loro famiglie.",
+      "Mi si spezza il cuore a vedere il talento di un giovane sprecato per mancanza di opportunità.",
+      "Mi si spezza il cuore a vedere le immagini degli animali vittime dell'inquinamento marino."
+    ],
+    "c1": [
+      "Mi si spezza il cuore a vedere la rassegnazione negli occhi di chi ha perso ogni speranza nel futuro.",
+      "Mi si spezza il cuore a vedere la distruzione sistematica del nostro patrimonio culturale in nome del profitto.",
+      "Mi si spezza il cuore a vedere l'innocenza dei bambini violata dai conflitti insensati degli adulti.",
+      "Mi si spezza il cuore a vedere la solitudine metafisica che avvolge le grandi metropoli moderne.",
+      "Mi si spezza il cuore a vedere la deriva d'odio che avvelena il dibattito pubblico quotidiano."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Ammiro sinceramente la tua forza nel...",
+    "kor": "~하는 당신의 강인함을 진심으로 존경해요",
+    "b1": [
+      "Ammiro sinceramente la tua forza nel lavorare tanto.",
+      "Ammiro sinceramente la tua forza nel dire di no.",
+      "Ammiro sinceramente la tua forza nel sorridere sempre.",
+      "Ammiro sinceramente la tua forza nello studio.",
+      "Ammiro sinceramente la tua forza nel fare sport."
+    ],
+    "b2": [
+      "Ammiro sinceramente la tua forza nel gestire questa crisi familiare con così tanta calma.",
+      "Ammiro sinceramente la tua forza nel ricominciare da zero dopo quel fallimento professionale.",
+      "Ammiro sinceramente la tua forza nel combattere contro la malattia senza mai perdere la speranza.",
+      "Ammiro sinceramente la tua forza nel difendere i tuoi valori anche quando sei solo contro tutti.",
+      "Ammiro sinceramente la tua forza nel perdonare chi ti ha fatto soffrire così profondamente."
+    ],
+    "c1": [
+      "Ammiro sinceramente la tua forza nel mantenere un'integrità morale inattaccabile in un contesto corrotto.",
+      "Ammiro sinceramente la tua forza nel trasformare il dolore personale in un'energia creativa straordinaria.",
+      "Ammiro sinceramente la tua forza nel navigare attraverso l'incertezza esistenziale con tale dignità.",
+      "Ammiro sinceramente la tua forza nel perseguire la verità nonostante l'ostracismo sociale.",
+      "Ammiro sinceramente la tua forza nell'accogliere il cambiamento come un'opportunità di evoluzione spirituale."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Il significato profondo dietro... è...",
+    "kor": "~ 뒤에 숨겨진 깊은 의미는 ~입니다",
+    "b1": [
+      "Il significato profondo dietro questo regalo è l'amicizia.",
+      "Il significato profondo dietro le sue parole è l'amore.",
+      "Il significato profondo dietro questa festa è stare insieme.",
+      "Il significato profondo dietro questo quadro è la pace.",
+      "Il significato profondo dietro il silenzio è la tristezza."
+    ],
+    "b2": [
+      "Il significato profondo dietro il suo gesto apparentemente semplice è un grande spirito di sacrificio.",
+      "Il significato profondo dietro questa tradizione secolare è il legame indissolubile con la terra.",
+      "Il significato profondo dietro la scelta di cambiare vita è la ricerca della propria autenticità.",
+      "Il significato profondo dietro questa poesia è il superamento della paura della morte.",
+      "Il significato profondo dietro quel lungo abbraccio era il perdono reciproco dopo anni di silenzio."
+    ],
+    "c1": [
+      "Il significato profondo dietro l'allegoria dantesca è il percorso di purificazione dell'anima umana.",
+      "Il significato profondo dietro la simbologia architettonica delle cattedrali è l'aspirazione al divino.",
+      "Il significato profondo dietro il silenzio degli asceti è il rifiuto della vacuità del mondo fenomenico.",
+      "Il significato profondo dietro la crisi attuale è la necessità di un nuovo paradigma di civiltà.",
+      "Il significato profondo dietro l'opera kafkiana è l'alienazione dell'individuo di fronte al potere burocratico."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Sono assolutamente devastato/a da...",
+    "kor": "~ 때문에 정말 참담합니다 (망연자실해요)",
+    "b1": [
+      "Sono assolutamente devastato dalla notizia.",
+      "Sono assolutamente devastato dalla fine della storia.",
+      "Sono assolutamente devastata dal troppo lavoro.",
+      "Sono assolutamente devastato dal brutto voto.",
+      "Sono assolutamente devastata dalla pioggia."
+    ],
+    "b2": [
+      "Sono assolutamente devastato dalla perdita improvvisa del mio migliore amico in quell'incidente.",
+      "Sono assolutamente devastata dal tradimento di una persona di cui mi fidavo ciecamente.",
+      "Sono assolutamente devastato dal fallimento della mia azienda dopo anni di sacrifici.",
+      "Sono assolutamente devastata dalle immagini della guerra che vedo ogni giorno al telegiornale.",
+      "Sono assolutamente devastato dalla scoperta di quella verità che cambia tutto il mio passato."
+    ],
+    "c1": [
+      "Sono assolutamente devastato dalla consapevolezza della crudeltà gratuita di cui è capace l'essere umano.",
+      "Sono assolutamente devastata dall'implosione delle mie certezze metafisiche di fronte al dolore innocente.",
+      "Sono assolutamente devastato dalla visione apocalittica di un futuro senza speranza per il pianeta.",
+      "Sono assolutamente devastata dallo sfacelo morale che caratterizza l'attuale classe dirigente.",
+      "Sono assolutamente devastato dalla solitudine siderale che segue la fine di un grande amore intellettuale."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "È difficile esprimere a parole la gioia che provo quando...",
+    "kor": "~할 때 느끼는 기쁨을 말로 표현하기 어렵네요",
+    "b1": [
+      "È difficile esprimere a parole la gioia che provo quando ti vedo.",
+      "È difficile esprimere a parole la gioia che provo quando mangio la pizza.",
+      "È difficile esprimere a parole la gioia che provo quando viaggio.",
+      "È difficile esprimere a parole la gioia che provo quando gioco a calcio.",
+      "È difficile esprimere a parole la gioia che provo quando ascolto musica."
+    ],
+    "b2": [
+      "È difficile esprimere a parole la gioia che provo quando vedo i miei figli raggiungere i loro piccoli traguardi.",
+      "È difficile esprimere a parole la gioia che provo quando riesco finalmente a risolvere un problema complesso.",
+      "È difficile esprimere a parole la gioia che provo quando torno a casa dopo un lungo periodo all'estero.",
+      "È difficile esprimere a parole la gioia che provo quando leggo un libro che cambia la mia prospettiva.",
+      "È difficile esprimere a parole la gioia che provo quando aiuto qualcuno che ne ha veramente bisogno."
+    ],
+    "c1": [
+      "È difficile esprimere a parole la gioia che provo quando contemplo l'armonia perfetta della natura incontaminata.",
+      "È difficile esprimere a parole la gioia che provo quando si realizza quella rara sintonia intellettuale con un altro essere umano.",
+      "È difficile esprimere a parole la gioia che provo quando assisto al trionfo della giustizia su una lunga oppressione.",
+      "È difficile esprimere a parole la gioia che provo quando l'ispirazione artistica si traduce in una forma compiuta e vibrante.",
+      "È difficile esprimere a parole la gioia che provo quando sperimento un senso di unione mistica con l'universo intero."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Questa esperienza mi ha dato una nuova prospettiva su...",
+    "kor": "이 경험은 저에게 ~에 대한 새로운 관점을 주었습니다",
+    "b1": [
+      "Questa esperienza mi ha dato una nuova prospettiva sul lavoro.",
+      "Questa esperienza mi ha dato una nuova prospettiva sulla vita.",
+      "Questa esperienza mi ha dato una nuova prospettiva sulla cucina.",
+      "Questa esperienza mi ha dato una nuova prospettiva sulla famiglia.",
+      "Questa esperienza mi ha dato una nuova prospettiva sullo sport."
+    ],
+    "b2": [
+      "Questa esperienza di volontariato in Africa mi ha dato una nuova prospettiva sul valore della felicità.",
+      "Questa esperienza lavorativa all'estero mi ha dato una nuova prospettiva sulla mia cultura di origine.",
+      "Questa esperienza di fallimento mi ha dato una nuova prospettiva sull'importanza della resilienza.",
+      "Questa esperienza di solitudine forzata mi ha dato una nuova prospettiva sull'importanza dei legami sociali.",
+      "Questa esperienza di studio mi ha dato una nuova prospettiva sulla complessità della storia moderna."
+    ],
+    "c1": [
+      "Questa esperienza traumatica mi ha dato una nuova prospettiva sulla caducità dell'esistenza e sull'essenzialità dell'attimo.",
+      "Questa esperienza di ricerca accademica mi ha dato una nuova prospettiva sulla relatività del concetto di verità.",
+      "Questa esperienza di meditazione profonda mi ha dato una nuova prospettiva sul rapporto tra mente e corpo.",
+      "Questa esperienza di viaggio solitario mi ha dato una nuova prospettiva sull'identità fluida dell'essere umano contemporaneo.",
+      "Questa esperienza di confronto dialettico mi ha dato una nuova prospettiva sull'interdipendenza tra libertà e responsabilità."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Provo un immenso senso di sollievo perché...",
+    "kor": "~해서 정말 다행이에요 (엄청난 안도감을 느껴요)",
+    "b1": [
+      "Provo un immenso senso di sollievo perché ho passato l'esame.",
+      "Provo un immenso senso di sollievo perché il gatto è tornato.",
+      "Provo un immenso senso di sollievo perché non piove più.",
+      "Provo un immenso senso di sollievo perché ti senti meglio.",
+      "Provo un immenso senso di sollievo perché abbiamo finito."
+    ],
+    "b2": [
+      "Provo un immenso senso di sollievo perché i risultati della biopsia sono finalmente negativi.",
+      "Provo un immenso senso di sollievo perché la tempesta è passata senza causare danni gravi alla nostra casa.",
+      "Provo un immenso senso di sollievo perché ho chiarito quella brutta situazione con il mio capo.",
+      "Provo un immenso senso di sollievo perché mio figlio ha trovato un lavoro stabile dopo mesi di ricerca.",
+      "Provo un immenso senso di sollievo perché ho finalmente ritrovato il passaporto prima della partenza."
+    ],
+    "c1": [
+      "Provo un immenso senso di sollievo perché la verità è finalmente emersa, ponendo fine a mesi di calunnie ingiuste.",
+      "Provo un immenso senso di sollievo perché ho trovato la forza di perdonare me stesso per gli errori del passato.",
+      "Provo un immenso senso di sollievo perché il conflitto diplomatico si è risolto senza spargimento di sangue.",
+      "Provo un immenso senso di sollievo perché ho abbandonato quella maschera sociale che mi soffocava da troppo tempo.",
+      "Provo un immenso senso di sollievo perché ho percepito una scintilla di speranza in un mondo che sembrava perduto."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "C'è un senso di vuoto da quando...",
+    "kor": "~한 이후로 공허함이 느껴져요",
+    "b1": [
+      "C'è un senso di vuoto da quando sei partito.",
+      "C'è un senso di vuoto da quando la festa è finita.",
+      "C've un senso di vuoto da quando ho finito il libro.",
+      "C'è un senso di vuoto da quando non lavoriamo più insieme.",
+      "C'è un senso di vuoto da quando il mio amico è andato via."
+    ],
+    "b2": [
+      "C'è un senso di vuoto in casa da quando i figli si sono trasferiti all'università.",
+      "C'è un senso di vuoto nella mia vita da quando ho smesso di praticare la mia passione per la pittura.",
+      "C'è un senso di vuoto in questo quartiere da quando hanno abbattuto il vecchio cinema.",
+      "C'è un senso di vuoto nel mio cuore da quando ho perso il mio caro nonno l'anno scorso.",
+      "C'è un senso di vuoto nelle nostre domeniche da quando non ci riuniamo più per il pranzo di famiglia."
+    ],
+    "c1": [
+      "C'è un senso di vuoto esistenziale che mi pervade da quando ho compreso la natura effimera del successo.",
+      "C'è un senso di vuoto nel dibattito culturale da quando mancano figure intellettuali di riferimento.",
+      "C'è un senso di vuoto nella narrazione storica da quando certe voci minoritarie sono state messe a tacere.",
+      "C'è un senso di vuoto metafisico che emerge prepotentemente nel silenzio della notte stellata.",
+      "C'è un senso di vuoto nell'anima della città da quando il turismo di massa ne ha cancellato l'autenticità."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Mi assumo la piena responsabilità per il mio sentimento di...",
+    "kor": "저의 ~라는 감정에 대해 온전히 책임을 지겠습니다",
+    "b1": [
+      "Mi assumo la piena responsabilità per il mio sentimento di rabbia.",
+      "Mi assumo la piena responsabilità per il mio sentimento di paura.",
+      "Mi assumo la piena responsabilità per il mio sentimento di gelosia.",
+      "Mi assumo la piena responsabilità per il mio sentimento di tristezza.",
+      "Mi assumo la piena responsabilità per il mio sentimento di colpa."
+    ],
+    "b2": [
+      "Mi assumo la piena responsabilità per il mio sentimento di frustrazione riguardo ai ritardi del progetto.",
+      "Mi assumo la piena responsabilità per il mio sentimento di insicurezza durante la presentazione di ieri.",
+      "Mi assumo la piena responsabilità per il mio sentimento di diffidenza nei confronti della nuova proposta.",
+      "Mi assumo la piena responsabilità per il mio sentimento di impazienza verso i colleghi meno esperti.",
+      "Mi assumo la piena responsabilità per il mio sentimento di nostalgia che a volte mi impedisce di agire."
+    ],
+    "c1": [
+      "Mi assumo la piena responsabilità per il mio sentimento di alienazione rispetto alle dinamiche del gruppo.",
+      "Mi assumo la piena responsabilità per il mio sentimento di scetticismo verso le soluzioni troppo sbandierate.",
+      "Mi assumo la piena responsabilità per il mio sentimento di risentimento che ha inquinato la nostra dialettica.",
+      "Mi assumo la piena responsabilità per il mio sentimento di inquietudine di fronte alla trasformazione del paesaggio.",
+      "Mi assumo la piena responsabilità per il mio sentimento di disillusione nei confronti delle istituzioni vigenti."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "L'intensità della situazione mi ha fatto sentire...",
+    "kor": "상황의 강렬함 때문에 ~하게 느껴졌어요",
+    "b1": [
+      "L'intensità della situazione mi ha fatto sentire vivo.",
+      "L'intensità della situazione mi ha fatto sentire piccolo.",
+      "L'intensità della situazione mi ha fatto sentire forte.",
+      "L'intensità della situazione mi ha fatto sentire strano.",
+      "L'intensità della situazione mi ha fatto sentire spaventato."
+    ],
+    "b2": [
+      "L'intensità della situazione mi ha fatto sentire parte di qualcosa di veramente grande e importante.",
+      "L'intensità della situazione mi ha fatto sentire impotente di fronte alla forza inarrestabile della natura.",
+      "L'intensità della situazione mi ha fatto sentire un'adrenalina incredibile che non provavo da tempo.",
+      "L'intensità della situazione mi ha fatto sentire vulnerabile nonostante avessi tutto sotto controllo.",
+      "L'intensità della situazione mi ha fatto sentire il peso enorme delle decisioni che stavamo prendendo."
+    ],
+    "c1": [
+      "L'intensità della situazione mi ha fatto sentire la vertigine etica di chi deve scegliere tra due mali necessari.",
+      "L'intensità della situazione mi ha fatto sentire una profonda connessione trascendentale con il dolore altrui.",
+      "L'intensità della situazione mi ha fatto sentire l'insignificanza delle mie beghe quotidiane di fronte alla tragedia.",
+      "L'intensità della situazione mi ha fatto sentire investito di una responsabilità storica quasi insostenibile.",
+      "L'intensità della situazione mi ha fatto sentire la sacralità di un istante che avrebbe cambiato il corso della vita."
+    ]
+  }
+]

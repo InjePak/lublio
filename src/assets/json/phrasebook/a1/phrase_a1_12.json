@@ -4,174 +4,224 @@
     "eng": "Excuse me, can I ask for directions?",
     "fra": "Excusez-moi, puis-je vous demander mon chemin ?",
     "deu": "Entschuldigung, kann ich Sie nach dem Weg fragen?",
-    "rus": "Извините, вы не подскажете дорогу?"
+    "ita": "Scusi, posso chiedere indicazioni?",
+    "esp": "Disculpe, ¿puedo pedir indicaciones?",
+    "nld": "Pardon, mag ik u de weg vragen?"
   },
   {
     "kor": "기차역이 어디에 있나요?",
     "eng": "Where is the railway station?",
     "fra": "Où est la gare ?",
     "deu": "Wo ist der Bahnhof?",
-    "rus": "Где находится железнодорожный вокзал?"
+    "ita": "Dov'è la stazione ferroviaria?",
+    "esp": "¿Dónde está la estación de tren?",
+    "nld": "Waar is het treinstation?"
   },
   {
     "kor": "가장 가까운 지하철역이 어디인가요?",
     "eng": "Where is the nearest underground station?",
     "fra": "Où est la station de métro la plus proche ?",
     "deu": "Wo ist die nächste U-Bahn-Station?",
-    "rus": "Где ближайшая станция метро?"
+    "ita": "Dov'è la stazione della metropolitana più vicina?",
+    "esp": "¿Dónde está la estación de metro más cercana?",
+    "nld": "Waar is het dichtstbijzijnde metrostation?"
   },
   {
     "kor": "박물관에 어떻게 가나요?",
     "eng": "How do I get to the museum?",
     "fra": "Comment aller au musée ?",
     "deu": "Wie komme ich zum Museum?",
-    "rus": "Как мне добраться до музея?"
+    "ita": "Come arrivo al museo?",
+    "esp": "¿Cómo llego al museo?",
+    "nld": "Hoe kom ik bij het museum?"
   },
   {
     "kor": "여기서 먼가요?",
     "eng": "Is it far from here?",
     "fra": "Est-ce que c'est loin d'ici ?",
     "deu": "Ist es weit von hier?",
-    "rus": "Это далеко отсюда?"
+    "ita": "È lontano da qui?",
+    "esp": "¿Está lejos de aquí?",
+    "nld": "Is het ver van hier?"
   },
   {
     "kor": "걸어서 갈 수 있나요?",
     "eng": "Can I walk there?",
     "fra": "Puis-je y aller à pied ?",
     "deu": "Kann ich zu Fuß dorthin gehen?",
-    "rus": "Можно ли туда дойти пешком?"
+    "ita": "Posso andarci a piedi?",
+    "esp": "¿Puedo ir a pie?",
+    "nld": "Kan ik erheen lopen?"
   },
   {
     "kor": "똑바로 가세요.",
     "eng": "Go straight on.",
     "fra": "Allez tout droit.",
     "deu": "Gehen Sie geradeaus.",
-    "rus": "Идите прямо."
+    "ita": "Vada dritto.",
+    "esp": "Siga recto.",
+    "nld": "Ga rechtdoor."
   },
   {
     "kor": "왼쪽으로 도세요.",
     "eng": "Turn left.",
     "fra": "Tournez à gauche.",
     "deu": "Biegen Sie links ab.",
-    "rus": "Поверните налево."
+    "ita": "Giri a sinistra.",
+    "esp": "Gire a la izquierda.",
+    "nld": "Sla linksaf."
   },
   {
     "kor": "오른쪽으로 도세요.",
     "eng": "Turn right.",
     "fra": "Tournez à droite.",
     "deu": "Biegen Sie rechts ab.",
-    "rus": "Поверните направо."
+    "ita": "Giri a destra.",
+    "esp": "Gire a la derecha.",
+    "nld": "Sla rechtsaf."
   },
   {
     "kor": "길을 잃었습니다.",
     "eng": "I'm lost.",
     "fra": "Je suis perdu(e).",
     "deu": "Ich habe mich verlaufen.",
-    "rus": "Я заблудился (заблудилась)."
+    "ita": "Mi sono perso/a.",
+    "esp": "Me he perdido.",
+    "nld": "Ik ben verdwaald."
   },
   {
     "kor": "지도가 있나요?",
     "eng": "Do you have a map?",
     "fra": "Avez-vous un plan ?",
     "deu": "Haben Sie einen Stadtplan?",
-    "rus": "У вас есть карта?"
+    "ita": "Ha una mappa?",
+    "esp": "¿Tiene un mapa?",
+    "nld": "Heeft u een kaart?"
   },
   {
     "kor": "이 근처에 은행이 있나요?",
     "eng": "Is there a bank near here?",
     "fra": "Y a-t-il une banque près d'ici ?",
     "deu": "Gibt es hier in der Nähe eine Bank?",
-    "rus": "Есть ли здесь поблизости банк?"
+    "ita": "C'è una banca qui vicino?",
+    "esp": "¿Hay un banco cerca de aquí?",
+    "nld": "Is er een bank in de buurt?"
   },
   {
     "kor": "모퉁이에 있습니다.",
     "eng": "It is on the corner.",
     "fra": "C'est au coin.",
     "deu": "Es ist an der Ecke.",
-    "rus": "Это на углу."
+    "ita": "È all'angolo.",
+    "esp": "Está en la esquina.",
+    "nld": "Het is op de hoek."
   },
   {
     "kor": "슈퍼마켓 옆에 있습니다.",
     "eng": "It is next to the supermarket.",
     "fra": "C'est à côté du supermarché.",
     "deu": "Es ist neben dem Supermarkt.",
-    "rus": "Это рядом с супермаркетом."
+    "ita": "È accanto al supermercato.",
+    "esp": "Está al lado del supermercado.",
+    "nld": "Het is naast de supermarkt."
   },
   {
     "kor": "병원은 공원 맞은편에 있습니다.",
     "eng": "The hospital is opposite the park.",
     "fra": "L'hôpital est en face du parc.",
     "deu": "Das Krankenhaus ist gegenüber dem Park.",
-    "rus": "Больница находится напротив парка."
+    "ita": "L'ospedale è di fronte al parco.",
+    "esp": "El hospital está frente al parque.",
+    "nld": "Het ziekenhuis is tegenover het park."
   },
   {
     "kor": "두 번째 골목에서 왼쪽으로 도세요.",
     "eng": "Take the second left.",
     "fra": "Prenez la deuxième à gauche.",
     "deu": "Biegen Sie an der zweiten Straße links ab.",
-    "rus": "Поверните налево на втором повороте."
+    "ita": "Prenda la seconda a sinistra.",
+    "esp": "Gire en la segunda a la izquierda.",
+    "nld": "Neem de tweede straat links."
   },
   {
     "kor": "신호등에서 멈추세요.",
     "eng": "Stop at the traffic lights.",
     "fra": "Arrêtez-vous aux feux.",
     "deu": "Halten Sie an der Ampel an.",
-    "rus": "Остановитесь на светофоре."
+    "ita": "Si fermi al semaforo.",
+    "esp": "Pare en el semáforo.",
+    "nld": "Stop bij de verkeerslichten."
   },
   {
     "kor": "다리를 건너세요.",
     "eng": "Cross the bridge.",
     "fra": "Traversez le pont.",
     "deu": "Überqueren Sie die Brücke.",
-    "rus": "Перейдите через мост."
+    "ita": "Attraversi il ponte.",
+    "esp": "Cruza el puente.",
+    "nld": "Steek de brug over."
   },
   {
     "kor": "버스 정류장은 어디인가요?",
     "eng": "Where is the bus stop?",
     "fra": "Où est l'arrêt de bus ?",
     "deu": "Wo ist die Bushaltestelle?",
-    "rus": "Где автобусная остановка?"
+    "ita": "Dov'è la fermata dell'autobus?",
+    "esp": "¿Dónde está la parada de autobús?",
+    "nld": "Waar is de bushalte?"
   },
   {
     "kor": "화장실이 어디에 있나요?",
     "eng": "Where are the toilets?",
     "fra": "Où sont les toilettes ?",
     "deu": "Wo sind die Toiletten?",
-    "rus": "Где находится туалет?"
+    "ita": "Dove sono i bagni?",
+    "esp": "¿Dónde están los baños?",
+    "nld": "Waar zijn de toiletten?"
   },
   {
     "kor": "엘리베이터가 어디 있나요?",
     "eng": "Where is the lift?",
     "fra": "Où est l'ascenseur ?",
     "deu": "Wo ist der Aufzug?",
-    "rus": "Где лифт?"
+    "ita": "Dov'è l'ascensore?",
+    "esp": "¿Dónde está el ascensor?",
+    "nld": "Waar is de lift?"
   },
   {
     "kor": "이 주소로 가고 싶습니다.",
     "eng": "I want to go to this address.",
     "fra": "Je veux aller à cette adresse.",
     "deu": "Ich möchte zu dieser Adresse.",
-    "rus": "Я хочу поехать по этому адресу."
+    "ita": "Voglio andare a questo indirizzo.",
+    "esp": "Quiero ir a esta dirección.",
+    "nld": "Ik wil naar dit adres gaan."
   },
   {
     "kor": "걸어서 5분 걸립니다.",
     "eng": "It takes five minutes on foot.",
     "fra": "C'est à cinq minutes à pied.",
     "deu": "Es dauert fünf Minuten zu Fuß.",
-    "rus": "Это в пяти минутах ходьбы."
+    "ita": "Ci vogliono cinque minuti a piedi.",
+    "esp": "Se tarda cinco minutos a pie.",
+    "nld": "Het duurt vijf minuten te voet."
   },
   {
     "kor": "근처에 주유소가 있나요?",
     "eng": "Is there a petrol station nearby?",
     "fra": "Y a-t-il une station-service à proximité ?",
     "deu": "Gibt es eine Tankstelle in der Nähe?",
-    "rus": "Есть ли поблизости заправка?"
+    "ita": "C'è un benzinaio nelle vicinanze?",
+    "esp": "¿Hay una gasolinera cerca?",
+    "nld": "Is er een tankstation in de buurt?"
   },
   {
     "kor": "가르쳐 주셔서 감사합니다.",
     "eng": "Thank you for the directions.",
     "fra": "Merci pour les indications.",
     "deu": "Vielen Dank für die Wegbeschreibung.",
-    "rus": "Спасибо, что объяснили дорогу."
+    "ita": "Grazie per le indicazioni.",
+    "esp": "Gracias por las indicaciones.",
+    "nld": "Bedankt voor de routebeschrijving."
   }
 ]

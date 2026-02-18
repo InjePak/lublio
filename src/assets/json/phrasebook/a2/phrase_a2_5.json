@@ -4,174 +4,224 @@
     "eng": "I need to go to the doctor's surgery.",
     "fra": "Je dois aller au cabinet médical.",
     "deu": "Ich muss in die Arztpraxis gehen.",
-    "rus": "Мне нужно сходить к врачу в поликлинику."
+    "ita": "Devo andare allo studio medico.",
+    "esp": "Tengo que ir al consultorio médico.",
+    "nld": "Ik moet naar de dokterspraktijk gaan."
   },
   {
     "kor": "오늘 아침부터 몸이 좋지 않았습니다.",
     "eng": "I have not felt well since this morning.",
     "fra": "Je ne me sens pas bien depuis ce matin.",
     "deu": "Ich fühle mich seit heute Morgen nicht gut.",
-    "rus": "Я плохо себя чувствую с самого утра."
+    "ita": "Non mi sento bene da stamattina.",
+    "esp": "No me he sentido bien desde esta mañana.",
+    "nld": "Ik voel me sinds vanochtend niet lekker."
   },
   {
     "kor": "어디가 아픈지 설명해 주시겠어요?",
     "eng": "Can you describe where the pain is?",
     "fra": "Pouvez-vous décrire où est la douleur ?",
     "deu": "Können Sie beschreiben, wo der Schmerz ist?",
-    "rus": "Вы можете описать, где именно болит?"
+    "ita": "Può descrivere dove sente dolore?",
+    "esp": "¿Puede describir dónde siente el dolor?",
+    "nld": "Kunt u beschrijven waar de pijn zit?"
   },
   {
     "kor": "며칠 동안 계속 등이 아팠습니다.",
     "eng": "I have had a backache for a few days.",
     "fra": "J'ai mal au dos depuis quelques jours.",
     "deu": "Ich habe seit ein paar Tagen Rückenschmerzen.",
-    "rus": "У меня болит спина уже несколько дней."
+    "ita": "Ho mal di schiena da qualche giorno.",
+    "esp": "He tenido dolor de espalda durante unos días.",
+    "nld": "Ik heb al een paar dagen rugpijn."
   },
   {
     "kor": "알레르기가 있으신가요?",
     "eng": "Are you allergic to anything?",
     "fra": "Êtes-vous allergique à quelque chose ?",
     "deu": "Sind Sie gegen etwas allergisch?",
-    "rus": "У вас есть на что-нибудь аллергия?"
+    "ita": "È allergico a qualcosa?",
+    "esp": "¿Es alérgico a algo?",
+    "nld": "Bent u ergens allergisch voor?"
   },
   {
     "kor": "열을 재봐야 할 것 같습니다.",
     "eng": "I think I should take your temperature.",
     "fra": "Je pense que je devrais prendre votre température.",
     "deu": "Ich glaube, ich sollte Ihre Temperatur messen.",
-    "rus": "Думаю, мне нужно измерить вам температуру."
+    "ita": "Penso di doverle misurare la febbre.",
+    "esp": "Creo que debería tomarle la temperatura.",
+    "nld": "Ik denk dat ik uw temperatuur moet opnemen."
   },
   {
     "kor": "이 약을 먹으면 졸릴 수도 있습니다.",
     "eng": "This medicine might make you feel sleepy.",
     "fra": "Ce médicament peut vous donner envie de dormir.",
     "deu": "Dieses Medikament kann Sie schläfrig machen.",
-    "rus": "Это лекарство может вызвать сонливость."
+    "ita": "Questo medicinale potrebbe causare sonnolenza.",
+    "esp": "Esta medicina podría darle sueño.",
+    "nld": "Dit medicijn kan u slaperig maken."
   },
   {
     "kor": "의사가 며칠간 휴식을 취하라고 권했습니다.",
     "eng": "The doctor advised me to rest for a few days.",
     "fra": "Le médecin m'a conseillé de me reposer quelques jours.",
     "deu": "Der Arzt hat mir geraten, mich ein paar Tage auszuruhen.",
-    "rus": "Врач посоветовал мне отдохнуть несколько дней."
+    "ita": "Il medico mi ha consigliato di riposare per qualche giorno.",
+    "esp": "El médico me aconsejó descansar durante unos días.",
+    "nld": "De dokter adviseerde me om een paar dagen te rusten."
   },
   {
     "kor": "혈액 검사를 위해 내일 다시 오세요.",
     "eng": "Please come back tomorrow for a blood test.",
     "fra": "Veuillez revenir demain pour une prise de sang.",
     "deu": "Bitte kommen Sie morgen zur Blutuntersuchung wieder.",
-    "rus": "Пожалуйста, приходите завтра на анализ крови."
+    "ita": "Per favore, torni domani per un esame del sangue.",
+    "esp": "Por favor, vuelva mañana para un análisis de sangre.",
+    "nld": "Kom morgen alstublieft terug voor een bloedonderzoek."
   },
   {
     "kor": "건강을 위해 운동을 더 많이 해야 합니다.",
     "eng": "I need to do more exercise to stay healthy.",
     "fra": "Je dois faire plus d'exercice pour rester en bonne santé.",
     "deu": "Ich muss mehr Sport treiben, um gesund zu bleiben.",
-    "rus": "Мне нужно больше заниматься спортом, чтобы быть здоровым."
+    "ita": "Devo fare più esercizio per mantenermi in salute.",
+    "esp": "Necesito hacer más ejercicio para mantenerme saludable.",
+    "nld": "Ik moet meer bewegen om gezond te blijven."
   },
   {
     "kor": "식후에 이 알약을 복용하세요.",
     "eng": "Take these tablets after your meals.",
     "fra": "Prenez ces comprimés après les repas.",
     "deu": "Nehmen Sie diese Tabletten nach den Mahlzeiten ein.",
-    "rus": "Принимайте эти таблетки после еды."
+    "ita": "Prenda queste pastiglie dopo i pasti.",
+    "esp": "Tome estas pastillas después de las comidas.",
+    "nld": "Neem deze tabletten na de maaltijd in."
   },
   {
     "kor": "치과 예약이 오후 3시에 있습니다.",
     "eng": "I have a dentist appointment at three p.m.",
     "fra": "J'ai rendez-vous chez le dentiste à quinze heures.",
     "deu": "Ich habe um fünfzehn Uhr einen Termin beim Zahnarzt.",
-    "rus": "Я записан к стоматологу на три часа дня."
+    "ita": "Ho un appuntamento dal dentista alle quindici.",
+    "esp": "Tengo una cita con el dentista a las tres de la tarde.",
+    "nld": "Ik heb om drie uur 's middags een afspraak bij de tandarts."
   },
   {
     "kor": "목이 붓고 침 삼키기가 어렵습니다.",
     "eng": "My throat is swollen and it is hard to swallow.",
     "fra": "Ma gorge est gonflée et j'ai du mal à avaler.",
     "deu": "Mein Hals ist geschwollen und es ist schwer zu schlucken.",
-    "rus": "У меня опухло горло, и мне трудно глотать."
+    "ita": "Ho la gola gonfia ed è difficile deglutire.",
+    "esp": "Mi garganta está hinchada y es difícil tragar.",
+    "nld": "Mijn keel is gezwollen en het is moeilijk om te slikken."
   },
   {
     "kor": "스트레스가 너무 많아서 잠을 잘 수가 없습니다.",
     "eng": "I have too much stress and I cannot sleep.",
     "fra": "J'ai trop de stress et je n'arrive pas à dormir.",
     "deu": "Ich habe zu viel Stress und kann nicht schlafen.",
-    "rus": "У меня сильный стресс, и я не могу уснуть."
+    "ita": "Ho troppo stress e non riesco a dormire.",
+    "esp": "Tengo demasiado estrés y no puedo dormir.",
+    "nld": "Ik heb te veel stress en ik kan niet slapen."
   },
   {
     "kor": "처방전은 약국에 가져가시면 됩니다.",
     "eng": "You can take the prescription to the chemist's.",
     "fra": "Vous pouvez apporter l'ordonnance à la pharmacie.",
     "deu": "Sie können das Rezept in die Apotheke bringen.",
-    "rus": "Вы можете отнести рецепт в аптеку."
+    "ita": "Può portare la ricetta in farmacia.",
+    "esp": "Puede llevar la receta a la farmacia.",
+    "nld": "U kunt het recept naar de apotheek brengen."
   },
   {
     "kor": "독감 예방 주사를 맞고 싶습니다.",
     "eng": "I would like to get a flu jab.",
     "fra": "Je voudrais me faire vacciner contre la grippe.",
     "deu": "Ich möchte eine Grippeschutzimpfung bekommen.",
-    "rus": "Я хотел бы сделать прививку от гриппа."
+    "ita": "Vorrei fare il vaccino antinfluenzale.",
+    "esp": "Me gustaría ponerme la vacuna contra la gripe.",
+    "nld": "Ik zou graag een griepprik willen halen."
   },
   {
     "kor": "운동하다가 발목을 삐었습니다.",
     "eng": "I sprained my ankle while exercising.",
     "fra": "Je me suis foulé la cheville en faisant de l'exercice.",
     "deu": "Ich habe mir beim Sport den Knöchel verstaucht.",
-    "rus": "Я подвернул ногу во время тренировки."
+    "ita": "Mi sono slogato la caviglia facendo esercizio.",
+    "esp": "Me torcí el tobillo mientras hacía ejercicio.",
+    "nld": "Ik heb mijn enkel verzwikt tijdens het sporten."
   },
   {
     "kor": "비타민을 챙겨 먹는 것이 중요합니다.",
     "eng": "It is important to take your vitamins.",
     "fra": "Il est important de prendre ses vitamines.",
     "deu": "Es ist wichtig, seine Vitamine einzunehmen.",
-    "rus": "Важно принимать витамины."
+    "ita": "È importante assumere le vitamine.",
+    "esp": "Es importante tomar sus vitaminas.",
+    "nld": "Het is belangrijk om uw vitamines in te nemen."
   },
   {
     "kor": "지난밤에 심한 두통이 있었습니다.",
     "eng": "I had a bad headache last night.",
     "fra": "J'ai eu un violent mal de tête hier soir.",
     "deu": "Ich hatte gestern Abend starke Kopfschmerzen.",
-    "rus": "Вчера вечером у меня сильно болела голова."
+    "ita": "Ho avuto un forte mal di testa ieri sera.",
+    "esp": "Tuve un fuerte dolor de cabeza anoche.",
+    "nld": "Ik had gisteravond hevige hoofdpijn."
   },
   {
     "kor": "과일과 채소를 더 많이 먹으려고 노력 중입니다.",
     "eng": "I am trying to eat more fruit and vegetables.",
     "fra": "J'essaie de manger plus de fruits et de légumes.",
     "deu": "Ich versuche, mehr Obst und Gemüse zu essen.",
-    "rus": "Я стараюсь есть больше фруктов и овощей."
+    "ita": "Sto cercando di mangiare più frutta e verdura.",
+    "esp": "Estoy tratando de comer más frutas y verduras.",
+    "nld": "Ik probeer meer fruit en groenten te eten."
   },
   {
     "kor": "의사가 담배를 끊으라고 말했습니다.",
     "eng": "The doctor told me to quit smoking.",
     "fra": "Le médecin m'a dit d'arrêter de fumer.",
     "deu": "Der Arzt hat mir gesagt, ich soll mit dem Rauchen aufhören.",
-    "rus": "Врач сказал мне бросить курить."
+    "ita": "Il medico mi ha detto di smettere di fumare.",
+    "esp": "El médico me dijo que dejara de fumar.",
+    "nld": "De dokter zei dat ik moet stoppen met roken."
   },
   {
     "kor": "이 증상이 얼마나 오래되었나요?",
     "eng": "How long have you had these symptoms?",
     "fra": "Depuis combien de temps avez-vous ces symptômes ?",
     "deu": "Wie lange haben Sie diese Symptome schon?",
-    "rus": "Как долго у вас эти симптомы?"
+    "ita": "Da quanto tempo ha questi sintomi?",
+    "esp": "¿Cuánto tiempo ha tenido estos síntomas?",
+    "nld": "Hoe lang heeft u deze symptomen al?"
   },
   {
     "kor": "심호흡을 하세요, 그러면 좀 나아질 거예요.",
     "eng": "Take a deep breath and you will feel better.",
     "fra": "Respirez profondément et vous vous sentirez mieux.",
     "deu": "Atmen Sie tief durch, dann werden Sie sich besser fühlen.",
-    "rus": "Сделайте глубокий вдох, и вам станет лучше."
+    "ita": "Faccia un respiro profondo e si sentirà meglio.",
+    "esp": "Respire profundo y se sentirá mejor.",
+    "nld": "Haal diep adem, dan voelt u zich beter."
   },
   {
     "kor": "치료비는 얼마인가요?",
     "eng": "How much is the treatment fee?",
     "fra": "Quel est le prix du traitement ?",
     "deu": "Wie hoch sind die Behandlungskosten?",
-    "rus": "Сколько стоит лечение?"
+    "ita": "A quanto ammonta il costo del trattamento?",
+    "esp": "¿Cuánto cuesta el tratamiento?",
+    "nld": "Hoeveel kost de behandeling?"
   },
   {
     "kor": "충분한 물을 마시는 것이 건강에 좋습니다.",
     "eng": "Drinking enough water is good for your health.",
     "fra": "Boire assez d'eau est bon pour la santé.",
     "deu": "Genug Wasser zu trinken ist gut für die Gesundheit.",
-    "rus": "Пить достаточно воды полезно для здоровья."
+    "ita": "Bere abbastanza acqua fa bene alla salute.",
+    "esp": "Beber suficiente agua es bueno para la salud.",
+    "nld": "Voldoende water drinken is goed voor je gezondheid."
   }
 ]
