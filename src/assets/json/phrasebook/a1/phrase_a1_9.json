@@ -4,224 +4,174 @@
     "eng": "I do not feel well.",
     "fra": "Je ne me sens pas bien.",
     "deu": "Ich fühle mich nicht gut.",
-    "ita": "Non mi sento bene.",
-    "esp": "No me siento bien.",
-    "nld": "Ik voel me niet goed."
+    "rus": "Я плохо себя чувствую."
   },
   {
     "kor": "어디가 아프신가요?",
     "eng": "Where does it hurt?",
     "fra": "Où avez-vous mal ?",
     "deu": "Wo tut es weh?",
-    "ita": "Dove ti fa male?",
-    "esp": "¿Dónde le duele?",
-    "nld": "Waar doet het pijn?"
+    "rus": "Что у вас болит?"
   },
   {
     "kor": "머리가 아파요.",
     "eng": "I have a headache.",
     "fra": "J'ai mal à la tête.",
     "deu": "Ich habe Kopfschmerzen.",
-    "ita": "Ho mal di testa.",
-    "esp": "Tengo dolor de cabeza.",
-    "nld": "Ik heb hoofdpijn."
+    "rus": "У меня болит голова."
   },
   {
     "kor": "배가 아파요.",
     "eng": "I have a stomach ache.",
     "fra": "J'ai mal au ventre.",
     "deu": "Ich habe Bauchschmerzen.",
-    "ita": "Ho mal di pancia.",
-    "esp": "Tengo dolor de estómago.",
-    "nld": "Ik heb buikpijn."
+    "rus": "У меня болит живот."
   },
   {
     "kor": "목이 아파요.",
     "eng": "I have a sore throat.",
     "fra": "J'ai mal à la gorge.",
     "deu": "Ich habe Halsschmerzen.",
-    "ita": "Ho il mal di gola.",
-    "esp": "Tengo dolor de garganta.",
-    "nld": "Ik heb keelpijn."
+    "rus": "У меня болит горло."
   },
   {
     "kor": "감기에 걸렸어요.",
     "eng": "I have a cold.",
     "fra": "J'ai un rhume.",
     "deu": "Ich habe eine Erkältung.",
-    "ita": "Ho il raffreddore.",
-    "esp": "Tengo un resfriado.",
-    "nld": "Ik ben verkouden."
+    "rus": "Я простудился (простудилась)."
   },
   {
     "kor": "열이 나요.",
     "eng": "I have a temperature.",
     "fra": "J'ai de la fièvre.",
     "deu": "Ich habe Fieber.",
-    "ita": "Ho la febbre.",
-    "esp": "Tengo fiebre.",
-    "nld": "Ik heb koorts."
+    "rus": "У меня температура."
   },
   {
     "kor": "기침을 많이 해요.",
     "eng": "I have a bad cough.",
     "fra": "Je tousse beaucoup.",
     "deu": "Ich habe starken Husten.",
-    "ita": "Ho una brutta tosse.",
-    "esp": "Tengo mucha tos.",
-    "nld": "Ik heb een nare hoest."
+    "rus": "У меня сильный кашель."
   },
   {
     "kor": "피곤해요.",
-    "eng": "I'm tired.",
+    "eng": "I am tired.",
     "fra": "Je suis fatigué(e).",
     "deu": "Ich bin müde.",
-    "ita": "Sono stanco/a.",
-    "esp": "Estoy cansado/a.",
-    "nld": "Ik ben moe."
+    "rus": "Я устал (устала)."
   },
   {
     "kor": "의사가 필요해요.",
     "eng": "I need a doctor.",
     "fra": "J'ai besoin d'un médecin.",
     "deu": "Ich brauche einen Arzt.",
-    "ita": "Ho bisogno di un medico.",
-    "esp": "Necesito un médico.",
-    "nld": "Ik heb een dokter nodig."
+    "rus": "Мне нужен врач."
   },
   {
     "kor": "병원에 가야 해요.",
     "eng": "I must go to the hospital.",
     "fra": "Je dois aller à l'hôpital.",
-    "deu": "Ich muss ins Krankenhaus.",
-    "ita": "Devo andare in ospedale.",
-    "esp": "Debo ir al hospital.",
-    "nld": "Ik moet naar het ziekenhuis."
+    "deu": "Ich muss в больницу.",
+    "rus": "Мне нужно в больницу."
   },
   {
     "kor": "약국이 어디에 있나요?",
     "eng": "Where is the chemist's?",
     "fra": "Où est la pharmacie ?",
-    "deu": "Wo ist die Apotheke?",
-    "ita": "Dov'è la farmacia?",
-    "esp": "¿Dónde está la farmacia?",
-    "nld": "Waar is de apotheek?"
+    "deu": "Wo ist die Apotheке?",
+    "rus": "Где находится аптека?"
   },
   {
     "kor": "약이 좀 필요합니다.",
     "eng": "I need some medicine.",
     "fra": "J'ai besoin de médicaments.",
     "deu": "Ich brauche etwas Medizin.",
-    "ita": "Ho bisogno di una medicina.",
-    "esp": "Necesito un poco de medicina.",
-    "nld": "Ik heb medicijnen nodig."
+    "rus": "Мне нужны лекарства."
   },
   {
     "kor": "눈이 아파요.",
     "eng": "My eyes hurt.",
     "fra": "J'ai mal aux yeux.",
     "deu": "Meine Augen tun weh.",
-    "ita": "Mi fanno male gli occhi.",
-    "esp": "Me duelen los ojos.",
-    "nld": "Mijn ogen doen pijn."
+    "rus": "У меня болят глаза."
   },
   {
     "kor": "다리가 부러졌어요.",
     "eng": "I have broken my leg.",
     "fra": "Je me suis cassé la jambe.",
     "deu": "Ich habe mir das Bein gebrochen.",
-    "ita": "Mi sono rotto la gamba.",
-    "esp": "Me he roto la pierna.",
-    "nld": "Ik heb mijn been gebroken."
+    "rus": "Я сломал (сломала) ногу."
   },
   {
     "kor": "손을 씻으세요.",
     "eng": "Wash your hands.",
     "fra": "Lavez-vous les mains.",
     "deu": "Waschen Sie Ihre Hände.",
-    "ita": "Lavati le mani.",
-    "esp": "Lávate las manos.",
-    "nld": "Was je handen."
+    "rus": "Мойте руки."
   },
   {
     "kor": "건강에 좋은 음식을 드세요.",
     "eng": "Eat healthy food.",
     "fra": "Mangez sainement.",
     "deu": "Essen Sie gesund.",
-    "ita": "Mangia cibo sano.",
-    "esp": "Come comida saludable.",
-    "nld": "Eet gezond voedsel."
+    "rus": "Ешьте здоровую пищу."
   },
   {
     "kor": "충분히 자야 해요.",
     "eng": "You need enough sleep.",
     "fra": "Vous avez besoin de sommeil.",
     "deu": "Du brauchst genug Schlaf.",
-    "ita": "Hai bisogno di dormire a sufficienza.",
-    "esp": "Necesitas dormir lo suficiente.",
-    "nld": "Je hebt genoeg slaap nodig."
+    "rus": "Вам нужно достаточно спать."
   },
   {
     "kor": "숨을 깊게 들이마시세요.",
     "eng": "Take a deep breath.",
     "fra": "Respirez profondément.",
     "deu": "Atmen Sie tief ein.",
-    "ita": "Fai un respiro profondo.",
-    "esp": "Respira profundamente.",
-    "nld": "Haal diep adem."
+    "rus": "Сделайте глубокий вдох."
   },
   {
     "kor": "혈압이 높아요.",
     "eng": "My blood pressure is high.",
     "fra": "Ma tension est élevée.",
     "deu": "Mein Blutdruck ist hoch.",
-    "ita": "Ho la pressione alta.",
-    "esp": "Mi presión arterial está alta.",
-    "nld": "Mijn bloeddruk is hoog."
+    "rus": "У меня высокое давление."
   },
   {
     "kor": "알레르기가 있나요?",
     "eng": "Do you have any allergies?",
     "fra": "Avez-vous des allergies ?",
     "deu": "Hast du Allergien?",
-    "ita": "Hai delle allergie?",
-    "esp": "¿Tienes alguna alergia?",
-    "nld": "Heb je allergieën?"
+    "rus": "У вас есть аллергия?"
   },
   {
     "kor": "저는 견과류 알레르기가 있어요.",
-    "eng": "I'm allergic to nuts.",
+    "eng": "I am allergic to nuts.",
     "fra": "Je suis allergique aux noix.",
     "deu": "Ich bin allergisch gegen Nüsse.",
-    "ita": "Sono allergico/a alle noci.",
-    "esp": "Soy alérgico/a a los frutos secos.",
-    "nld": "Ik ben allergisch voor noten."
+    "rus": "У меня аллергия на орехи."
   },
   {
     "kor": "이 약을 하루에 세 번 드세요.",
     "eng": "Take this medicine three times a day.",
     "fra": "Prenez ce médicament trois fois par jour.",
     "deu": "Nehmen Sie diese Medizin dreimal täglich.",
-    "ita": "Prendi questa medicina tre volte al giorno.",
-    "esp": "Tome esta medicina tres veces al día.",
-    "nld": "Neem dit medicijn drie keer per dag."
+    "rus": "Принимайте это лекарство три раза в день."
   },
   {
     "kor": "안경을 써야 해요.",
     "eng": "I need to wear glasses.",
     "fra": "Je dois porter des lunettes.",
     "deu": "Ich muss eine Brille tragen.",
-    "ita": "Devo portare gli occhiali.",
-    "esp": "Necesito usar gafas.",
-    "nld": "Ik moet een bril dragen."
+    "rus": "Мне нужно носить очки."
   },
   {
     "kor": "빨리 낫길 바라요.",
     "eng": "Get well soon.",
     "fra": "Bon rétablissement.",
     "deu": "Gute Besserung.",
-    "ita": "Guarisci presto.",
-    "esp": "Que te mejores pronto.",
-    "nld": "Beterschap."
+    "rus": "Поправляйтесь скорее."
   }
 ]

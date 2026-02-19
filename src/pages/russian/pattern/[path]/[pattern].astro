@@ -4,16 +4,16 @@ import VisibilityController from "../../../../components/VisibilityController.as
 import Box2 from "../../../../components/Box2.astro";
 
 import chapters from "../../../../assets/json/patterns/chapters.json";
-import chapter1 from "../../../../assets/json/patterns/italian/chapter1.json";
-import chapter2 from "../../../../assets/json/patterns/italian/chapter2.json";
-import chapter3 from "../../../../assets/json/patterns/italian/chapter3.json";
-import chapter4 from "../../../../assets/json/patterns/italian/chapter4.json";
-import chapter5 from "../../../../assets/json/patterns/italian/chapter5.json";
-import chapter6 from "../../../../assets/json/patterns/italian/chapter6.json";
-import chapter7 from "../../../../assets/json/patterns/italian/chapter7.json";
-import chapter8 from "../../../../assets/json/patterns/italian/chapter8.json";
-import chapter9 from "../../../../assets/json/patterns/italian/chapter9.json";
-import chapter10 from "../../../../assets/json/patterns/italian/chapter10.json";
+import chapter1 from "../../../../assets/json/patterns/russian/chapter1.json";
+import chapter2 from "../../../../assets/json/patterns/russian/chapter2.json";
+import chapter3 from "../../../../assets/json/patterns/russian/chapter3.json";
+import chapter4 from "../../../../assets/json/patterns/russian/chapter4.json";
+import chapter5 from "../../../../assets/json/patterns/russian/chapter5.json";
+import chapter6 from "../../../../assets/json/patterns/russian/chapter6.json";
+import chapter7 from "../../../../assets/json/patterns/russian/chapter7.json";
+import chapter8 from "../../../../assets/json/patterns/russian/chapter8.json";
+import chapter9 from "../../../../assets/json/patterns/russian/chapter9.json";
+import chapter10 from "../../../../assets/json/patterns/russian/chapter10.json";
 
 export async function getStaticPaths() {
   // 모든 경로의 조합을 생성합니다.
@@ -88,7 +88,7 @@ const navItems = [
   <Box2
     title=`${post.id}. ${post.pattern}`
     subtitle={post.kor}
-    language="ita"
+    language="rus"
   />
   <VisibilityController items={navItems} />
 
@@ -106,7 +106,7 @@ const navItems = [
                   {level.map((phrase, index) => {
                     return (
                       <>
-                        <p lang="it">
+                        <p lang="ru">
                           <span>{index + 1}.</span>
                           <br />
                           {phrase}
@@ -124,7 +124,7 @@ const navItems = [
                   {level.map((phrase, index) => {
                     return (
                       <>
-                        <p lang="it">
+                        <p lang="ru">
                           <span>{index + 1}.</span>
                           {phrase}
                         </p>
@@ -141,7 +141,7 @@ const navItems = [
                   {level.map((phrase, index) => {
                     return (
                       <>
-                        <p lang="it">
+                        <p lang="ru">
                           <span>{index + 1}.</span>
                           {phrase}
                         </p>
@@ -213,7 +213,7 @@ const navItems = [
     display: inline-block;
     width: 100%;
     font-weight: 700;
-    color: var(--emerald400);
+    color: var(--indigo400);
     font-size: 22px;
     margin-bottom: 0.5rem;
   }

@@ -4,224 +4,174 @@
     "eng": "Can I help you?",
     "fra": "Puis-je vous aider ?",
     "deu": "Kann ich Ihnen helfen?",
-    "ita": "Posso aiutarla?",
-    "esp": "¿Le puedo ayudar?",
-    "nld": "Kan ik u helpen?"
+    "rus": "Я могу вам помочь?"
   },
   {
     "kor": "그냥 구경하는 중이에요.",
-    "eng": "I'm just looking, thank you.",
+    "eng": "I am just looking, thank you.",
     "fra": "Je regarde juste, merci.",
     "deu": "Ich schaue nur, danke.",
-    "ita": "Sto solo guardando, grazie.",
-    "esp": "Solo estoy mirando, gracias.",
-    "nld": "Ik kijk alleen even, bedankt."
+    "rus": "Я просто смотрю, спасибо."
   },
   {
     "kor": "이것은 얼마인가요?",
     "eng": "How much is this?",
     "fra": "Combien ça coûte ?",
     "deu": "Wie viel kostet das?",
-    "ita": "Quanto costa questo?",
-    "esp": "¿Cuánto cuesta esto?",
-    "nld": "Hoeveel kost dit?"
+    "rus": "Сколько это стоит?"
   },
   {
     "kor": "너무 비싸요.",
     "eng": "It is too expensive.",
     "fra": "C'est trop cher.",
-    "deu": "Das ist zu teuer.",
-    "ita": "È troppo caro.",
-    "esp": "Es demasiado caro.",
-    "nld": "Het is te duur."
+    "deu": "Это слишком дорого.",
+    "rus": "Это слишком дорого."
   },
   {
     "kor": "할인 중인가요?",
     "eng": "Is it on sale?",
     "fra": "Est-ce en solde ?",
     "deu": "Ist das im Ausverkauf?",
-    "ita": "È in saldo?",
-    "esp": "¿Está en oferta?",
-    "nld": "Is het in de uitverkoop?"
+    "rus": "Это со скидкой?"
   },
   {
     "kor": "티셔츠를 찾고 있어요.",
-    "eng": "I'm looking for a T-shirt.",
+    "eng": "I am looking for a T-shirt.",
     "fra": "Je cherche un t-shirt.",
     "deu": "Ich suche ein T-Shirt.",
-    "ita": "Cerco una maglietta.",
-    "esp": "Estoy buscando una camiseta.",
-    "nld": "Ik zoek een T-shirt."
+    "rus": "Я ищу футболку."
   },
   {
     "kor": "다른 색상이 있나요?",
     "eng": "Do you have this in a different colour?",
     "fra": "Avez-vous ceci dans une autre couleur ?",
     "deu": "Haben Sie das in einer anderen Farbe?",
-    "ita": "Lo avete in un altro colore?",
-    "esp": "¿Tiene esto en otro color?",
-    "nld": "Heeft u dit in een andere kleur?"
+    "rus": "У вас есть такая другого цвета?"
   },
   {
     "kor": "더 큰 사이즈가 있나요?",
     "eng": "Do you have a larger size?",
     "fra": "Avez-vous une taille plus grande ?",
     "deu": "Haben Sie das eine Nummer größer?",
-    "ita": "Avete una taglia più grande?",
-    "esp": "¿Tiene una talla más grande?",
-    "nld": "Heeft u een grotere maat?"
+    "rus": "У вас есть размер побольше?"
   },
   {
     "kor": "더 작은 사이즈가 있나요?",
     "eng": "Do you have a smaller size?",
     "fra": "Avez-vous une taille plus petite ?",
     "deu": "Haben Sie das eine Nummer kleiner?",
-    "ita": "Avete una taglia più piccola?",
-    "esp": "¿Tiene una talla más pequeña?",
-    "nld": "Heeft u een kleinere maat?"
+    "rus": "У вас есть размер поменьше?"
   },
   {
     "kor": "이것을 입어봐도 될까요?",
     "eng": "Can I try this on?",
     "fra": "Puis-je l'essayer ?",
     "deu": "Kann ich das anprobieren?",
-    "ita": "Posso provarlo?",
-    "esp": "¿Puedo probármelo?",
-    "nld": "Kan ik dit passen?"
+    "rus": "Можно это примерить?"
   },
   {
     "kor": "탈의실은 어디에 있나요?",
     "eng": "Where is the fitting room?",
     "fra": "Où est la cabine d'essayage ?",
     "deu": "Wo ist die Umkleidekabine?",
-    "ita": "Dov'è il camerino?",
-    "esp": "¿Dónde está el probador?",
-    "nld": "Waar is de paskamer?"
+    "rus": "Где находится примерочная?"
   },
   {
     "kor": "잘 어울리네요.",
     "eng": "It suits you well.",
     "fra": "Ça vous va bien.",
     "deu": "Das steht Ihnen gut.",
-    "ita": "Le sta molto bene.",
-    "esp": "Le queda muy bien.",
-    "nld": "Het staat u goed."
+    "rus": "Вам это очень идет."
   },
   {
     "kor": "사이즈가 맞지 않아요.",
     "eng": "It is not my size.",
     "fra": "Ce n'est pas ma taille.",
     "deu": "Das ist nicht meine Größe.",
-    "ita": "Non è la mia taglia.",
-    "esp": "No es mi talla.",
-    "nld": "Het is niet mijn maat."
+    "rus": "Это не мой размер."
   },
   {
     "kor": "이것으로 살게요.",
     "eng": "I will take this one.",
     "fra": "Je vais prendre celui-ci.",
     "deu": "Ich nehme das hier.",
-    "ita": "Prendo questo.",
-    "esp": "Me llevo este.",
-    "nld": "Ik neem deze."
+    "rus": "Я возьму это."
   },
   {
     "kor": "계산대는 어디인가요?",
     "eng": "Where is the till?",
     "fra": "Où est la caisse ?",
     "deu": "Wo ist die Kasse?",
-    "ita": "Dov'è la cassa?",
-    "esp": "¿Dónde está la caja?",
-    "nld": "Waar is de kassa?"
+    "rus": "Где касса?"
   },
   {
     "kor": "신용카드로 결제할 수 있나요?",
     "eng": "Can I pay by credit card?",
     "fra": "Puis-je payer par carte de crédit ?",
     "deu": "Kann ich mit Kreditkarte bezahlen?",
-    "ita": "Posso pagare con carta di credito?",
-    "esp": "¿Puedo pagar con tarjeta de crédito?",
-    "nld": "Kan ik met een creditcard betalen?"
+    "rus": "Можно оплатить кредитной картой?"
   },
   {
     "kor": "현금 여기 있습니다.",
     "eng": "Here is the cash.",
     "fra": "Voici l'argent liquide.",
     "deu": "Hier ist das Bargeld.",
-    "ita": "Ecco il contante.",
-    "esp": "Aquí tiene el efectivo.",
-    "nld": "Hier is het contante geld."
+    "rus": "Вот наличные."
   },
   {
     "kor": "영수증 주시겠어요?",
     "eng": "Could I have a receipt, please?",
     "fra": "Puis-je avoir un reçu, s'il vous plaît ?",
     "deu": "Kann ich bitte eine Quittung haben?",
-    "ita": "Posso avere lo scontrino, per favore?",
-    "esp": "¿Me da el recibo, por favor?",
-    "nld": "Mag ik een bonnetje, alstublieft?"
+    "rus": "Можно мне чек, пожалуйста?"
   },
   {
     "kor": "봉투가 필요하신가요?",
     "eng": "Do you need a bag?",
     "fra": "Avez-vous besoin d'un sac ?",
     "deu": "Brauchen Sie eine Tüte?",
-    "ita": "Serve una busta?",
-    "esp": "¿Necesita una bolsa?",
-    "nld": "Heeft u een tasje nodig?"
+    "rus": "Вам нужен пакет?"
   },
   {
     "kor": "이것을 환불하고 싶습니다.",
     "eng": "I would like a refund, please.",
     "fra": "Je voudrais un remboursement, s'il vous plaît.",
     "deu": "Ich möchte bitte eine Rückerstattung.",
-    "ita": "Vorrei un rimborso, per favore.",
-    "esp": "Me gustaría un reembolso, por favor.",
-    "nld": "Ik zou graag mijn geld terug willen, alstublieft."
+    "rus": "Я хотел бы оформить возврат."
   },
   {
     "kor": "이것을 교환할 수 있나요?",
     "eng": "Can I exchange this?",
     "fra": "Puis-je échanger ceci ?",
     "deu": "Kann ich das umtauschen?",
-    "ita": "Posso cambiare questo?",
-    "esp": "¿Puedo cambiar esto?",
-    "nld": "Kan ik dit ruilen?"
+    "rus": "Можно это обменять?"
   },
   {
     "kor": "가게는 몇 시에 닫나요?",
     "eng": "What time does the shop close?",
     "fra": "À quelle heure ferme le magasin ?",
     "deu": "Wann schließt der Laden?",
-    "ita": "A che ora chiude il negozio?",
-    "esp": "¿A qué hora cierra la tienda?",
-    "nld": "Hoe laat sluit de winkel?"
+    "rus": "Во сколько закрывается магазин?"
   },
   {
     "kor": "장바구니는 어디에 있나요?",
     "eng": "Where are the shopping baskets?",
     "fra": "Où sont les paniers ?",
     "deu": "Wo sind die Einkaufskörbe?",
-    "ita": "Dove sono i cestini per la spesa?",
-    "esp": "¿Dónde están las cestas de compra?",
-    "nld": "Waar staan de winkelmandjes?"
+    "rus": "Где корзины для покупок?"
   },
   {
     "kor": "줄을 서 계신 건가요?",
     "eng": "Are you in the queue?",
     "fra": "Faites-vous la queue ?",
     "deu": "Stehen Sie an?",
-    "ita": "È in coda?",
-    "esp": "¿Está en la cola?",
-    "nld": "Staat u in de rij?"
+    "rus": "Вы стоите в очереди?"
   },
   {
     "kor": "도와주셔서 감사합니다.",
     "eng": "Thank you for your help.",
     "fra": "Merci pour votre aide.",
     "deu": "Vielen Dank für Ihre Hilfe.",
-    "ita": "Grazie per l'aiuto.",
-    "esp": "Gracias por su ayuda.",
-    "nld": "Bedankt voor uw hulp."
+    "rus": "Спасибо за помощь."
   }
 ]

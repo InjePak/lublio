@@ -4,224 +4,174 @@
     "eng": "I live in a flat.",
     "fra": "J'habite dans un appartement.",
     "deu": "Ich wohne in einer Wohnung.",
-    "ita": "Abito in un appartamento.",
-    "esp": "Vivo en un apartamento.",
-    "nld": "Ik woon in een appartement."
+    "rus": "Я живу в квартире."
   },
   {
     "kor": "제 집은 작지만 편안합니다.",
     "eng": "My house is small but comfortable.",
     "fra": "Ma maison est petite mais confortable.",
     "deu": "Mein Haus ist klein, aber gemütlich.",
-    "ita": "La mia casa è piccola ma confortevole.",
-    "esp": "Mi casa es pequeña pero cómoda.",
-    "nld": "Mijn huis is klein maar comfortabel."
+    "rus": "Мой дом маленький, но уютный."
   },
   {
     "kor": "우리 집에는 방이 세 개 있습니다.",
     "eng": "There are three rooms in my house.",
     "fra": "Il y a trois pièces dans ma maison.",
     "deu": "Es gibt drei Zimmer in meinem Haus.",
-    "ita": "Ci sono tre stanze nella mia casa.",
-    "esp": "Hay tres habitaciones en mi casa.",
-    "nld": "Er zijn drie kamers in mijn huis."
+    "rus": "В моем доме три комнаты."
   },
   {
     "kor": "이곳은 거실입니다.",
     "eng": "This is the living room.",
     "fra": "C'est le salon.",
     "deu": "Das ist das Wohnzimmer.",
-    "ita": "Questo è il soggiorno.",
-    "esp": "Esta es la sala de estar.",
-    "nld": "Dit is de woonkamer."
+    "rus": "Это гостиная."
   },
   {
     "kor": "부엌은 어디에 있나요?",
     "eng": "Where is the kitchen?",
     "fra": "Où est la cuisine ?",
     "deu": "Wo ist die Küche?",
-    "ita": "Dov'è la cucina?",
-    "esp": "¿Dónde está la cocina?",
-    "nld": "Waar is de keuken?"
+    "rus": "Где находится кухня?"
   },
   {
     "kor": "침실은 위층에 있습니다.",
     "eng": "The bedroom is upstairs.",
     "fra": "La chambre est à l'étage.",
     "deu": "Das Schlafzimmer ist oben.",
-    "ita": "La camera da letto è al piano di sopra.",
-    "esp": "El dormitorio está en el piso de arriba.",
-    "nld": "De slaapkamer is boven."
+    "rus": "Спальня находится наверху."
   },
   {
     "kor": "화장실은 깨끗합니다.",
     "eng": "The bathroom is clean.",
     "fra": "La salle de bain est propre.",
     "deu": "Das Badezimmer ist sauber.",
-    "ita": "Il bagno è pulito.",
-    "esp": "El baño está limpio.",
-    "nld": "De badkamer is schoon."
+    "rus": "Ванная комната чистая."
   },
   {
     "kor": "거실에 소파가 있습니다.",
     "eng": "There is a sofa in the living room.",
     "fra": "Il y a un canapé dans le salon.",
     "deu": "Es gibt ein Sofa im Wohnzimmer.",
-    "ita": "C'è un divano in soggiorno.",
-    "esp": "Hay un sofá en la sala de estar.",
-    "nld": "Er staat een bank in de woonkamer."
+    "rus": "В гостиной есть диван."
   },
   {
     "kor": "침대 위에 베개가 있습니다.",
     "eng": "There is a pillow on the bed.",
     "fra": "Il y a un oreiller sur le lit.",
     "deu": "Es gibt ein Kissen auf dem Bett.",
-    "ita": "C'è un cuscino sul letto.",
-    "esp": "Hay una almohada en la cama.",
-    "nld": "Er ligt een kussen op het bed."
+    "rus": "На кровати лежит подушка."
   },
   {
     "kor": "저는 제 방에 책상이 있습니다.",
     "eng": "I have a desk in my room.",
-    "fra": "J'ai un bureau dans ma chambre.",
+    "fra": "J'<a>i un bureau dans ma chambre.",
     "deu": "Ich habe einen Schreibtisch in meinem Zimmer.",
-    "ita": "Ho una scrivania nella mia stanza.",
-    "esp": "Tengo un escritorio en mi habitación.",
-    "nld": "Ik heb een bureau in mijn kamer."
+    "rus": "В моей комнате есть письменный стол."
   },
   {
     "kor": "벽에 시계가 걸려 있습니다.",
     "eng": "There is a clock on the wall.",
     "fra": "Il y a une horloge au mur.",
     "deu": "Es hängt eine Uhr an der Wand.",
-    "ita": "C'è un orologio sulla parete.",
-    "esp": "Hay un reloj en la pared.",
-    "nld": "Er hangt een klok aan de muur."
+    "rus": "На стене висят часы."
   },
   {
     "kor": "창문을 열어 주세요.",
     "eng": "Please open the window.",
     "fra": "Ouvrez la fenêtre, s'il vous plaît.",
     "deu": "Bitte öffne das Fenster.",
-    "ita": "Apri la finestra, per favore.",
-    "esp": "Por favor, abre la ventana.",
-    "nld": "Doe het raam open, alstublieft."
+    "rus": "Открой окно, пожалуйста."
   },
   {
     "kor": "문을 닫아 주세요.",
     "eng": "Please close the door.",
     "fra": "Fermez la porte, s'il vous plaît.",
     "deu": "Bitte schließ die Tür.",
-    "ita": "Chiudi la porta, per favore.",
-    "esp": "Por favor, cierra la puerta.",
-    "nld": "Doe de deur dicht, alstublieft."
+    "rus": "Закрой дверь, пожалуйста."
   },
   {
     "kor": "텔레비전이 켜져 있습니다.",
     "eng": "The television is on.",
     "fra": "La télévision est allumée.",
     "deu": "Der Fernseher ist an.",
-    "ita": "La televisione è accesa.",
-    "esp": "La televisión está encendida.",
-    "nld": "De televisie staat aan."
+    "rus": "Телевизор включен."
   },
   {
     "kor": "부엌에 냉장고가 있습니다.",
     "eng": "There is a fridge in the kitchen.",
     "fra": "Il y a un frigo dans la cuisine.",
     "deu": "Es gibt einen Kühlschrank in der Küche.",
-    "ita": "C'è un frigorifero in cucina.",
-    "esp": "Hay una nevera en la cocina.",
-    "nld": "Er staat een koelkast in de keuken."
+    "rus": "На кухне есть холодильник."
   },
   {
     "kor": "우리 집에는 작은 정원이 있습니다.",
     "eng": "My house has a small garden.",
     "fra": "Ma maison a un petit jardin.",
     "deu": "Mein Haus hat einen kleinen Garten.",
-    "ita": "La mia casa ha un piccolo giardino.",
-    "esp": "Mi casa tiene un jardín pequeño.",
-    "nld": "Mijn huis heeft een kleine tuin."
+    "rus": "У моего дома есть маленький сад."
   },
   {
     "kor": "저는 가족과 함께 삽니다.",
     "eng": "I live with my family.",
     "fra": "J'habite avec ma famille.",
     "deu": "Ich wohne bei meiner Familie.",
-    "ita": "Vivo con la mia famiglia.",
-    "esp": "Vivo con mi familia.",
-    "nld": "Ik woon bij mijn familie."
+    "rus": "Я живу со своей семьей."
   },
   {
     "kor": "열쇠를 찾을 수 없습니다.",
-    "eng": "I can't find the keys.",
+    "eng": "I cannot find the keys.",
     "fra": "Je ne trouve pas les clés.",
     "deu": "Ich kann die Schlüssel nicht finden.",
-    "ita": "Non riesco a trovare le chiavi.",
-    "esp": "No puedo encontrar las llaves.",
-    "nld": "Ik kan de sleutels niet vinden."
+    "rus": "Я не могу найти ключи."
   },
   {
     "kor": "탁자 위에 책이 있습니다.",
     "eng": "There is a book on the table.",
     "fra": "Il y a un livre sur la table.",
     "deu": "Es liegt ein Buch auf dem Tisch.",
-    "ita": "C'è un libro sul tavolo.",
-    "esp": "Hay un libro sobre la mesa.",
-    "nld": "Er ligt een boek op de tafel."
+    "rus": "На столе лежит книга."
   },
   {
     "kor": "저는 매일 방을 청소합니다.",
     "eng": "I clean my room every day.",
     "fra": "Je nettoie ma chambre tous les jours.",
     "deu": "Ich putze jeden Tag mein Zimmer.",
-    "ita": "Pulisco la mia stanza ogni giorno.",
-    "esp": "Limpio mi habitación todos los días.",
-    "nld": "Ik maak mijn kamer elke dag schoon."
+    "rus": "Я убираю свою комнату каждый день."
   },
   {
     "kor": "전등을 꺼 주세요.",
     "eng": "Please turn off the light.",
     "fra": "Éteignez la lumière, s'il vous plaît.",
     "deu": "Bitte mach das Licht aus.",
-    "ita": "Spegni la luce, per favore.",
-    "esp": "Por favor, apaga la luz.",
-    "nld": "Doe het licht uit, alstublieft."
+    "rus": "Выключи свет, пожалуйста."
   },
   {
     "kor": "바닥에 카페트가 있습니다.",
     "eng": "There is a carpet on the floor.",
     "fra": "Il y a un tapis sur le sol.",
     "deu": "Es liegt ein Teppich auf dem Boden.",
-    "ita": "C'è un tappeto sul pavimento.",
-    "esp": "Hay una alfombra en el suelo.",
-    "nld": "Er ligt een tapijt op de vloer."
+    "rus": "На полу лежит ковер."
   },
   {
     "kor": "옷장 안에 옷이 많습니다.",
     "eng": "There are many clothes in the wardrobe.",
     "fra": "Il y a beaucoup de vêtements dans l'armoire.",
     "deu": "Im Kleiderschrank sind viele Kleider.",
-    "ita": "Ci sono molti vestiti nell'armadio.",
-    "esp": "Hay mucha ropa en el armario.",
-    "nld": "Er hangt veel kleding in de kledingkast."
+    "rus": "В шкафу много одежды."
   },
   {
     "kor": "거울 앞에 서 있습니다.",
-    "eng": "I'm standing in front of the mirror.",
+    "eng": "I am standing in front of the mirror.",
     "fra": "Je suis devant le miroir.",
     "deu": "Ich stehe vor dem Spiegel.",
-    "ita": "Sono in piedi davanti allo specchio.",
-    "esp": "Estoy de pie frente al espejo.",
-    "nld": "Ik sta voor de spiegel."
+    "rus": "Я стою перед зеркалом."
   },
   {
     "kor": "우리 집은 학교 근처에 있습니다.",
     "eng": "My house is near the school.",
     "fra": "Ma maison est près de l'école.",
     "deu": "Mein Haus ist in der Nähe der Schule.",
-    "ita": "La mia casa è vicino alla scuola.",
-    "esp": "Mi casa está cerca de la escuela.",
-    "nld": "Mijn huis is vlakbij de school."
+    "rus": "Мой дом находится рядом со школой."
   }
 ]

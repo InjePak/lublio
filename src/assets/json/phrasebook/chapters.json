@@ -7,9 +7,7 @@
       "eng": "Self-introduction",
       "fra": "Se présenter",
       "deu": "Sich vorstellen",
-      "ita": "Presentarsi",
-      "esp": "Presentación personal",
-      "nld": "Jezelf voorstellen"
+      "rus": "Знакомство"
     },
     {
       "id": 2,
@@ -18,9 +16,7 @@
       "eng": "Greetings & Manners",
       "fra": "Salutations et politesse",
       "deu": "Begrüßung & Höflichkeit",
-      "ita": "Saluti e cortesia",
-      "esp": "Saludos y modales",
-      "nld": "Groeten en etiquette"
+      "rus": "Приветствия и этикет"
     },
     {
       "id": 3,
@@ -29,9 +25,7 @@
       "eng": "Family & Friends",
       "fra": "Famille et amis",
       "deu": "Familie & Freunde",
-      "ita": "Famiglia e amici",
-      "esp": "Familia y amigos",
-      "nld": "Familie en vrienden"
+      "rus": "Семья и друзья"
     },
     {
       "id": 4,
@@ -40,9 +34,7 @@
       "eng": "Numbers & Time",
       "fra": "Nombres et heure",
       "deu": "Zahlen & Zeit",
-      "ita": "Numeri e ora",
-      "esp": "Números y tiempo",
-      "nld": "Getallen en tijd"
+      "rus": "Числа и время"
     },
     {
       "id": 5,
@@ -51,9 +43,7 @@
       "eng": "Favourites",
       "fra": "Mes goûts",
       "deu": "Vorlieben",
-      "ita": "I miei gusti",
-      "esp": "Mis favoritos",
-      "nld": "Favorieten"
+      "rus": "Любимые вещи"
     },
     {
       "id": 6,
@@ -62,9 +52,7 @@
       "eng": "My Home",
       "fra": "Ma maison",
       "deu": "Mein Zuhause",
-      "ita": "La mia casa",
-      "esp": "Mi casa",
-      "nld": "Mijn huis"
+      "rus": "Мой дом"
     },
     {
       "id": 7,
@@ -73,9 +61,7 @@
       "eng": "Food & Restaurants",
       "fra": "Nourriture et restaurant",
       "deu": "Essen & Restaurant",
-      "ita": "Cibo e ristoranti",
-      "esp": "Comida y restaurantes",
-      "nld": "Eten en restaurants"
+      "rus": "Еда и ресторан"
     },
     {
       "id": 8,
@@ -84,9 +70,7 @@
       "eng": "Daily Routine",
       "fra": "Routine quotidienne",
       "deu": "Tagesablauf",
-      "ita": "Routine quotidiana",
-      "esp": "Rutina diaria",
-      "nld": "Dagelijkse routine"
+      "rus": "Распорядок дня"
     },
     {
       "id": 9,
@@ -95,9 +79,7 @@
       "eng": "Body & Health",
       "fra": "Corps et santé",
       "deu": "Körper & Gesundheit",
-      "ita": "Corpo e salute",
-      "esp": "Cuerpo y salud",
-      "nld": "Lichaam en gezondheid"
+      "rus": "Тело и здоровье"
     },
     {
       "id": 10,
@@ -106,9 +88,7 @@
       "eng": "Shopping",
       "fra": "Achats",
       "deu": "Einkaufen",
-      "ita": "Shopping",
-      "esp": "Compras",
-      "nld": "Winkelen"
+      "rus": "Покупки"
     },
     {
       "id": 11,
@@ -117,9 +97,7 @@
       "eng": "Weather",
       "fra": "Météo",
       "deu": "Wetter",
-      "ita": "Tempo atmosferico",
-      "esp": "Clima",
-      "nld": "Het weer"
+      "rus": "Погода"
     },
     {
       "id": 12,
@@ -128,9 +106,7 @@
       "eng": "Asking the Way",
       "fra": "Demander son chemin",
       "deu": "Wegbeschreibung",
-      "ita": "Chiedere la strada",
-      "esp": "Preguntar el camino",
-      "nld": "De weg vragen"
+      "rus": "Как пройти"
     }
   ],
   "a2": [
@@ -141,9 +117,7 @@
       "eng": "Past Experiences",
       "fra": "Expériences passées",
       "deu": "Vergangene Erlebnisse",
-      "ita": "Esperienze passate",
-      "esp": "Experiencias pasadas",
-      "nld": "Ervaringen uit het verleden"
+      "rus": "Прошлый опыт"
     },
     {
       "id": 2,
@@ -152,9 +126,7 @@
       "eng": "Work & Workplace",
       "fra": "Travail et bureau",
       "deu": "Beruf & Arbeitsplatz",
-      "ita": "Lavoro e ufficio",
-      "esp": "Trabajo y lugar de trabajo",
-      "nld": "Werk en werkplek"
+      "rus": "Работа и офис"
     },
     {
       "id": 3,
@@ -163,9 +135,7 @@
       "eng": "Travel & Accommodation",
       "fra": "Voyage et hébergement",
       "deu": "Reisen & Unterkunft",
-      "ita": "Viaggi e alloggio",
-      "esp": "Viajes y alojamiento",
-      "nld": "Reizen en accommodatie"
+      "rus": "Путешествие и отель"
     },
     {
       "id": 4,
@@ -174,9 +144,7 @@
       "eng": "Shopping & Services",
       "fra": "Achats et services",
       "deu": "Einkaufen & Service",
-      "ita": "Shopping e servizi",
-      "esp": "Compras y servicios",
-      "nld": "Winkelen en service"
+      "rus": "Покупки и услуги"
     },
     {
       "id": 5,
@@ -185,9 +153,7 @@
       "eng": "Health & Hospital",
       "fra": "Santé et hôpital",
       "deu": "Gesundheit & Krankenhaus",
-      "ita": "Salute e ospedale",
-      "esp": "Salud y hospital",
-      "nld": "Gezondheid en het ziekenhuis"
+      "rus": "Здоровье и больница"
     },
     {
       "id": 6,
@@ -196,9 +162,7 @@
       "eng": "Plans & Appointments",
       "fra": "Projets et rendez-vous",
       "deu": "Pläne & Termine",
-      "ita": "Piani e appuntamenti",
-      "esp": "Planes y citas",
-      "nld": "Plannen en afspraken"
+      "rus": "Планы и встречи"
     },
     {
       "id": 7,
@@ -207,9 +171,7 @@
       "eng": "Transport",
       "fra": "Transports",
       "deu": "Verkehrsmittel",
-      "ita": "Mezzi di trasporto",
-      "esp": "Transporte",
-      "nld": "Vervoer"
+      "rus": "Транспорт"
     },
     {
       "id": 8,
@@ -218,9 +180,7 @@
       "eng": "Appearance & Personality",
       "fra": "Apparence et caractère",
       "deu": "Aussehen & Charakter",
-      "ita": "Aspetto e personalità",
-      "esp": "Apariencia y personalidad",
-      "nld": "Uiterlijk en persoonlijkheid"
+      "rus": "Внешность и характер"
     },
     {
       "id": 9,
@@ -229,9 +189,7 @@
       "eng": "Neighbourhood & Facilities",
       "fra": "Quartier et commodités",
       "deu": "Nachbarschaft & Einrichtungen",
-      "ita": "Quartiere e servizi",
-      "esp": "Barrio e instalaciones",
-      "nld": "Buurt en voorzieningen"
+      "rus": "Район и удобства"
     },
     {
       "id": 10,
@@ -240,9 +198,7 @@
       "eng": "Fashion & Style",
       "fra": "Mode et style",
       "deu": "Mode & Stil",
-      "ita": "Moda e stile",
-      "esp": "Moda y estilo",
-      "nld": "Mode en stijl"
+      "rus": "Мода и стиль"
     },
     {
       "id": 11,
@@ -250,10 +206,8 @@
       "kor": "축제와 문화",
       "eng": "Festivals & Culture",
       "fra": "Festivals et culture",
-      "deu": "Feste & Cultura",
-      "ita": "Festival e cultura",
-      "esp": "Festivales y cultura",
-      "nld": "Festivals en cultuur"
+      "deu": "Feste & Kultur",
+      "rus": "Фестивали и культура"
     },
     {
       "id": 12,
@@ -262,9 +216,7 @@
       "eng": "Making Comparisons",
       "fra": "Comparaisons",
       "deu": "Vergleichen",
-      "ita": "Fare confronti",
-      "esp": "Hacer comparaciones",
-      "nld": "Vergelijkingen maken"
+      "rus": "Сравнение"
     }
   ],
   "b1": [
@@ -275,9 +227,7 @@
       "eng": "Dreams & Hopes",
       "fra": "Rêves et espoirs",
       "deu": "Träume & Hoffnungen",
-      "ita": "Sogni e speranze",
-      "esp": "Sueños y esperanzas",
-      "nld": "Dromen en hoop"
+      "rus": "Мечты и надежды"
     },
     {
       "id": 2,
@@ -286,9 +236,7 @@
       "eng": "Problem Solving",
       "fra": "Résolution de problèmes",
       "deu": "Problemlösung",
-      "ita": "Risoluzione di problemi",
-      "esp": "Resolución de problemas",
-      "nld": "Probleemoplossing"
+      "rus": "Решение проблем"
     },
     {
       "id": 3,
@@ -297,9 +245,7 @@
       "eng": "Cinema & Literature",
       "fra": "Cinéma et littérature",
       "deu": "Film & Literatur",
-      "ita": "Cinema e letteratura",
-      "esp": "Cine y literatura",
-      "nld": "Film en literatuur"
+      "rus": "Кино и литература"
     },
     {
       "id": 4,
@@ -308,9 +254,7 @@
       "eng": "Feelings & Psychology",
       "fra": "Sentiments et psychologie",
       "deu": "Gefühle & Psychologie",
-      "ita": "Sentimenti e psicologia",
-      "esp": "Sentimientos y psicología",
-      "nld": "Gevoelens en psychologie"
+      "rus": "Чувства и психология"
     },
     {
       "id": 5,
@@ -319,9 +263,7 @@
       "eng": "Environmental Issues",
       "fra": "Questions environnementales",
       "deu": "Umweltprobleme",
-      "ita": "Questioni ambientali",
-      "esp": "Problemas ambientales",
-      "nld": "Milieuproblematiek"
+      "rus": "Экология"
     },
     {
       "id": 6,
@@ -330,9 +272,7 @@
       "eng": "Internet & Technology",
       "fra": "Internet et technologie",
       "deu": "Internet & Technologie",
-      "ita": "Internet e tecnologia",
-      "esp": "Internet y tecnología",
-      "nld": "Internet en technologie"
+      "rus": "Интернет и технологии"
     },
     {
       "id": 7,
@@ -341,9 +281,7 @@
       "eng": "Education & Learning",
       "fra": "Éducation et apprentissage",
       "deu": "Bildung & Lernen",
-      "ita": "Istruzione e apprendimento",
-      "esp": "Educación y aprendizaje",
-      "nld": "Onderwijs en leren"
+      "rus": "Образование и учеба"
     },
     {
       "id": 8,
@@ -352,9 +290,7 @@
       "eng": "Travel Stories",
       "fra": "Anecdotes de voyage",
       "deu": "Reiseerlebnisse",
-      "ita": "Racconti di viaggio",
-      "esp": "Historias de viaje",
-      "nld": "Reisverhalen"
+      "rus": "Истории из поездок"
     },
     {
       "id": 9,
@@ -363,9 +299,7 @@
       "eng": "Work Ethics & Attitude",
       "fra": "Éthique et attitude",
       "deu": "Arbeitsmoral & Einstellung",
-      "ita": "Etica e attitudine",
-      "esp": "Ética y actitud laboral",
-      "nld": "Arbeidsethiek en instelling"
+      "rus": "Рабочая этика"
     },
     {
       "id": 10,
@@ -374,9 +308,7 @@
       "eng": "Traditions & Customs",
       "fra": "Traditions et coutumes",
       "deu": "Traditionen & Bräuche",
-      "ita": "Tradizioni e costumi",
-      "esp": "Tradiciones y costumbres",
-      "nld": "Tradities en gewoonten"
+      "rus": "Традиции и обычаи"
     },
     {
       "id": 11,
@@ -385,9 +317,7 @@
       "eng": "Healthy Living",
       "fra": "Vie saine",
       "deu": "Gesundes Leben",
-      "ita": "Vita sana",
-      "esp": "Vida saludable",
-      "nld": "Gezond leven"
+      "rus": "Здоровый образ жизни"
     },
     {
       "id": 12,
@@ -396,9 +326,7 @@
       "eng": "Expressing Opinions",
       "fra": "Exprimer son opinion",
       "deu": "Meinung ausdrücken",
-      "ita": "Esprimere opinioni",
-      "esp": "Expresar opiniones",
-      "nld": "Mening uiten"
+      "rus": "Выражение мнения"
     }
   ],
   "b2": [
@@ -409,9 +337,7 @@
       "eng": "Social Issues",
       "fra": "Problèmes sociaux",
       "deu": "Soziale Themen",
-      "ita": "Questioni sociali",
-      "esp": "Problemas sociales",
-      "nld": "Sociale kwesties"
+      "rus": "Социальные вопросы"
     },
     {
       "id": 2,
@@ -420,9 +346,7 @@
       "eng": "Career Development",
       "fra": "Développement de carrière",
       "deu": "Karriereentwicklung",
-      "ita": "Sviluppo di carriera",
-      "esp": "Desarrollo de carrera",
-      "nld": "Carrièreontwikkeling"
+      "rus": "Развитие карьеры"
     },
     {
       "id": 3,
@@ -431,9 +355,7 @@
       "eng": "Hypothetical Situations",
       "fra": "Situations hypothétiques",
       "deu": "Hypothesen",
-      "ita": "Situazioni ipotetiche",
-      "esp": "Situaciones hipotéticas",
-      "nld": "Hypothetische situaties"
+      "rus": "Гипотетические ситуации"
     },
     {
       "id": 4,
@@ -442,9 +364,7 @@
       "eng": "Media & Advertising",
       "fra": "Médias et publicité",
       "deu": "Medien & Werbung",
-      "ita": "Media e pubblicità",
-      "esp": "Medios y publicidad",
-      "nld": "Media en reclame"
+      "rus": "СМИ и реклама"
     },
     {
       "id": 5,
@@ -453,9 +373,7 @@
       "eng": "Conflicts in Society",
       "fra": "Conflits sociaux",
       "deu": "Gesellschaftliche Konflikte",
-      "ita": "Conflitti sociali",
-      "esp": "Conflictos en la sociedad",
-      "nld": "Maatschappelijke conflicten"
+      "rus": "Конфликты в обществе"
     },
     {
       "id": 6,
@@ -464,9 +382,7 @@
       "eng": "Economy & Consumption",
       "fra": "Économie et consommation",
       "deu": "Wirtschaft & Konsum",
-      "ita": "Economia e consumo",
-      "esp": "Economía y consumo",
-      "nld": "Economie en consumptie"
+      "rus": "Экономика и потребление"
     },
     {
       "id": 7,
@@ -475,9 +391,7 @@
       "eng": "Science & Innovation",
       "fra": "Science et innovation",
       "deu": "Wissenschaft & Innovation",
-      "ita": "Scienza e innovazione",
-      "esp": "Ciencia e innovación",
-      "nld": "Wetenschap en innovatie"
+      "rus": "Наука и инновации"
     },
     {
       "id": 8,
@@ -486,9 +400,7 @@
       "eng": "Art & Aesthetics",
       "fra": "Art et esthétique",
       "deu": "Kunst & Ästhetik",
-      "ita": "Arte ed estetica",
-      "esp": "Arte y estética",
-      "nld": "Kunst en esthetiek"
+      "rus": "Искусство и эстетика"
     },
     {
       "id": 9,
@@ -497,9 +409,7 @@
       "eng": "Identity & Belonging",
       "fra": "Identité et appartenance",
       "deu": "Identität & Zugehörigkeit",
-      "ita": "Identità e appartenenza",
-      "esp": "Identidad y pertenencia",
-      "nld": "Identiteit en erbij horen"
+      "rus": "Идентичность"
     },
     {
       "id": 10,
@@ -508,9 +418,7 @@
       "eng": "Persuasion & Negotiation",
       "fra": "Persuasion et négociation",
       "deu": "Überzeugung & Verhandlung",
-      "ita": "Persuasione e negoziazione",
-      "esp": "Persuasión y negociación",
-      "nld": "Overtuiging en onderhandeling"
+      "rus": "Убеждение и переговоры"
     },
     {
       "id": 11,
@@ -519,9 +427,7 @@
       "eng": "Abstract Concepts",
       "fra": "Concepts abstraits",
       "deu": "Abstrakte Begriffe",
-      "ita": "Concetti astratti",
-      "esp": "Conceptos abstractos",
-      "nld": "Abstracte begrippen"
+      "rus": "Абстрактные понятия"
     },
     {
       "id": 12,
@@ -530,9 +436,7 @@
       "eng": "Talks & Presentations",
       "fra": "Conférences et présentations",
       "deu": "Vorträge & Präsentationen",
-      "ita": "Discorsi e presentazioni",
-      "esp": "Charlas y presentaciones",
-      "nld": "Lezingen en presentaties"
+      "rus": "Лекции и презентации"
     }
   ]
 }
