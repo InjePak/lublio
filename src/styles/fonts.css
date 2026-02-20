@@ -13,45 +13,6 @@
 /* font-family: "Inter", sans-serif; */
 
 @font-face {
-  font-family: "Noto Emoji";
-  src: url("/fonts/NotoColorEmoji-Regular.ttf") format("truetype");
-  font-display: swap;
-}
-/* font-family: "Noto Emoji"; */
-
-@font-face {
-  font-family: "Noto Hebrew";
-  src: url("/fonts/NotoSansHebrew-VariableFont_wdth\,wght.ttf")
-    format("truetype");
-  font-display: swap;
-}
-/* font-family: "Noto Hebrew", sans-serif; */
-
-@font-face {
-  font-family: "Noto Arabic";
-  src: url("/fonts/NotoSansArabic-VariableFont_wdth\,wght.ttf")
-    format("truetype");
-  font-display: swap;
-}
-/* font-family: "Noto Arabic", sans-serif; */
-
-@font-face {
-  font-family: "Noto Georgian";
-  src: url("/fonts/NotoSansGeorgian-VariableFont_wdth\,wght.ttf")
-    format("truetype");
-  font-display: swap;
-}
-/* font-family: "Noto Georgian", sans-serif; */
-
-@font-face {
-  font-family: "Noto Armenian";
-  src: url("/fonts/NotoSansArmenian-VariableFont_wdth\,wght.ttf")
-    format("truetype");
-  font-display: swap;
-}
-/* font-family: "Noto Armenian", sans-serif; */
-
-@font-face {
   font-family: "Noto Korean";
   src: url("/fonts/NotoSansKR-VariableFont_wght.ttf") format("truetype");
   font-display: swap;
