@@ -1,0 +1,114 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import BoxMain from "../../components/BoxMain.astro";
+import Button from "../../components/Button.astro";
+
+const pageTitle = "FRANCO by Lublio";
+---
+
+<BaseLayout pageTitle={pageTitle}>
+  <BoxMain
+    title="Franco"
+    subtitle="프로젝트 프랑코"
+    description="프랑스어는 미학적 섬세함과 논리적 엄밀함이 공존하는 지성의 언어입니다. 수세기 동안 유럽의 외교와 예술, 철학을 지탱해온 이 언어는 단순한 소통의 도구를 넘어 세상을 바라보는 정교한 틀을 제공합니다. 진정한 프랑코폰(Francophone)으로 거듭날 지적 여정을 시작해볼까요?"
+    language="fra"
+  />
+
+  <div class="button-wrapper">
+    <Button
+      title="Phrases"
+      subtitle="프랑스어 회화"
+      description="CEFR A1 - B2"
+      language="fra"
+      path="/franco/phrasebook"
+      level="phrase"
+    />
+
+    <Button
+      title="Modèles"
+      subtitle="프랑스어 패턴"
+      description="CEFR B1 - C1"
+      language="fra"
+      path="/franco/pattern"
+      level="pattern"
+    />
+
+    <!-- <Button
+      title="Débutant complet"
+      subtitle="프랑스어 첫걸음"
+      description="CEFR A0"
+      language="fra"
+      path="/franco/a0"
+      level="a0"
+      isDev="true"
+    />
+
+    <Button
+      title="Débutant"
+      subtitle="기초 프랑스어"
+      description="CEFR A1"
+      language="fra"
+      path="/franco/a1"
+      level="a1"
+      isDev="true"
+    />
+
+    <Button
+      title="Élémentaire"
+      subtitle="초급 프랑스어"
+      description="CEFR A2"
+      language="fra"
+      path="/franco/a2"
+      level="a2"
+      isDev="true"
+    />
+
+    <Button
+      title="Intermédiaire"
+      subtitle="중급 프랑스어"
+      description="CEFR B1"
+      language="fra"
+      path="/franco/b1"
+      level="b1"
+      isDev="true"
+    />
+
+    <Button
+      title="Intermédiaire supérieur"
+      subtitle="중고급 프랑스어"
+      description="CEFR B2"
+      language="fra"
+      path="/franco/b2"
+      level="b2"
+      isDev="true"
+    /> -->
+  </div>
+
+  <!-- <Button
+    title="Grammaire"
+    subtitle="프랑스어 문법"
+    description="CEFR A1 - B2"
+    language="fra"
+    path="/franco/grammar"
+    level="grammar"
+    isDev="true"
+  /> -->
+</BaseLayout>
+
+<style>
+  .button-wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-items: stretch;
+    gap: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  /* Mobile */
+  @media (max-width: 480px) {
+    .button-wrapper {
+      gap: 10px;
+      margin-bottom: 10px;
+    }
+  }
+</style>

@@ -38,36 +38,28 @@ const pageTitle = "Lublio";
 
   <div class="button-wrapper">
     <ButtonMain
-      title="English"
-      subtitle="영어"
-      description="CEFR A1 - C1"
-      language="eng"
-      path="/english"
+      title="Franco"
+      subtitle="프로젝트 프랑코"
+      description="프랑스어 학습 페이지"
+      language="fra"
+      path="/franco"
     />
 
     <ButtonMain
+      title="Russo"
+      subtitle="프로젝트 루소"
+      description="러시아어 학습 페이지"
+      language="rus"
+      path="/russo"
+    />
+
+    <!-- <ButtonMain
       title="Deutsch"
       subtitle="독일어"
       description="CEFR A1 - C1"
       language="deu"
       path="/german"
-    />
-
-    <ButtonMain
-      title="Français"
-      subtitle="프랑스어"
-      description="CEFR A1 - C1"
-      language="fra"
-      path="/french"
-    />
-
-    <ButtonMain
-      title="Русский"
-      subtitle="러시아어"
-      description="CEFR A1 - C1"
-      language="rus"
-      path="/russian"
-    />
+    /> -->
 
     <!-- 
         <ButtonMain
@@ -159,7 +151,9 @@ const pageTitle = "Lublio";
       }
 
       .button-wrapper {
-        gap: 10px;
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
       }
     }
   </style>
