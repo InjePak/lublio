@@ -1,67 +1,32 @@
 ---
-
+// Logo
+import LogoSVG from "../../public/lublio-logo-light.svg?raw";
 ---
 
 <header id="main-header" class="header">
   <div class="logo">
     <a href="/">
-      <h1>Lublio</h1>
+      <Fragment set:html={LogoSVG} />
     </a>
   </div>
 
-  <nav class="mainMenu">
-    <ul>
-      <li><a href="/explore" class="mainMenuLink">Explore</a></li>
-      <li><a href="/" class="mainMenuLink">Blog</a></li>
-      <li><a href="/" class="mainMenuLink">About</a></li>
-    </ul>
-  </nav>
-
-  <a href="/auth">
-    <span id="profile" class="material-symbols-outlined">account_circle</span>
-  </a>
-
-  <span id="menu-trigger" class="material-symbols-outlined">menu</span>
+  <!-- <span id="menu-trigger" class="material-symbols-outlined">menu</span> -->
 </header>
 
 <style>
   .header {
     position: fixed;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    width: 100%;
-    height: 80px;
+    top: 0;
+    justify-self: right;
+    width: auto;
+    max-width: 768px;
+    margin: 0 auto;
+    height: 40px;
     z-index: 99;
-    padding: 0 30px;
     transition: all 0.4s;
+    opacity: 0;
     background-color: transparent;
-  }
-
-  #profile,
-  #menu {
-    position: relative;
-    display: block;
-    color: var(--stone700);
-    font-size: 24px;
-    font-weight: 300;
-    width: 24px;
-    transition: all 0.3s;
-  }
-
-  #profile {
-    display: flex;
-    justify-content: flex-end;
-  }
-
-  #menu {
-    display: none;
-  }
-
-  #profile:hover,
-  #menu:hover {
-    cursor: pointer;
-    color: var(--stone500);
+    transform: translateY(-50px);
   }
 
   .overlay {
@@ -69,261 +34,37 @@
   }
 
   .logo {
-    display: block;
     position: relative;
+    width: 40px; /* 원하는 크기 조절 */
     height: auto;
-    width: 100px;
-  }
-
-  .logo > a > h1 {
-    display: block;
-    font-size: 24px;
-    font-weight: 600;
-    margin-bottom: 0px;
+    margin-left: auto;
+    padding: 0.5rem;
     transition: 0.4s all;
   }
 
-  .logo > a > h1:hover {
-    color: var(--stone500);
+  .logo > a {
+    width: 100%;
+    height: 100%;
+  }
+
+  .logo :global(svg) {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
   }
 
   .sticky {
-    height: 50px;
-    background-color: var(--stone300);
-    border-bottom: 2px solid var(--stone700);
+    background-color: rgba(228, 228, 231, 0.8);
     backdrop-filter: blur(2px);
+    margin-top: 1.5rem;
+    padding: 0;
+    opacity: 1;
+    transform: translateY(0px);
   }
 
-  .mainMenu {
-    position: absolute;
-    display: block;
-    left: 50%;
-    transform: translateX(-50%);
-  }
-
-  .mainMenu > ul {
-    display: flex;
-    list-style: none;
-    width: 100%;
-    border-radius: 50px;
-    padding: 10px 20px;
-    border: 2px solid var(--stone700);
-    background-color: rgba(255, 255, 255, 0);
-    transition: 0.4s all;
-  }
-
-  .sticky .mainMenu > ul {
-    border-radius: 10px;
-    border: 1px solid rgba(255, 255, 255, 0);
-  }
-
-  .mainMenu > ul > li {
-    margin: 0 10px;
-    transform: translateY(-0.5px);
-  }
-
-  .mainMenuLink {
-    color: var(--stone700);
-    font-size: 15px;
-    font-weight: 500;
-    text-transform: uppercase;
-    padding: 10px 30px;
-    border-radius: 50px;
-    transition: all 0.4s;
-  }
-
-  .mainMenuLink:hover {
-    cursor: pointer;
-    color: var(--stone300);
-    background-color: var(--stone700);
-  }
-
-  /* Mobile & Tablet */
+  /* Mobile */
   @media (max-width: 992px) {
-    .header {
-      position: fixed;
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      width: 100%;
-      height: 60px;
-      z-index: 99;
-      padding: 0 30px;
-      border-bottom: 1px solid rgba(255, 255, 255, 0);
-      transition: all 0.4s;
-    }
-
-    .header > #menu {
-      display: block;
-    }
-
-    .header > #profile,
-    .header > #menu {
-      position: relative;
-      display: block;
-      color: var(--stone700);
-      font-size: 24px;
-      font-weight: 300;
-      transition: all 0.3s;
-    }
-
-    .header > #profile {
-      left: 0px;
-      bottom: 0px;
-      width: 30px;
-      transform: none;
-    }
-
-    .header > #profile:hover,
-    .header > #menu:hover {
-      cursor: pointer;
-      color: var(--stone500);
-    }
-
-    .mainMenu {
-      display: none;
-    }
-
-    .logo {
-      display: none;
-    }
-
-    /*
- * ──────────────────────────────
- * STICKY
- * ──────────────────────────────
- */
-
-    .sticky {
-      height: 50px;
-      background-color: var(--stone300);
-      border-bottom: 2px solid var(--stone700);
-      backdrop-filter: blur(2px);
-    }
-
-    /*
- * ──────────────────────────────
- * OVERLAY
- * ──────────────────────────────
- */
-
-    .overlay {
-      position: fixed;
-      display: flex;
-      flex-direction: column;
-      justify-content: end;
-      opacity: 0;
-      height: 50vh;
-      width: 50px;
-      z-index: 999;
-      right: -50px;
-      top: 50%;
-      transform: translateY(-50%);
-      border: 2px solid var(--stone700);
-      border-right: 0px solid var(--stone700);
-      background-color: var(--stone300);
-      border-top-left-radius: 20px;
-      border-bottom-left-radius: 20px;
-      transition: all 0.6s ease 0s;
-    }
-
-    .overlayActive {
-      opacity: 1;
-      right: 0px;
-    }
-
-    .close {
-      display: none;
-      opacity: 0;
-      width: 100%;
-      text-align: center;
-      z-index: 999;
-      transition: all 0.5s;
-    }
-
-    .overlayActive .close {
-      display: block;
-      position: absolute;
-      opacity: 1;
-      background-color: transparent;
-      top: 15px;
-      left: 50%;
-      transform: translateX(-50%);
-      font-size: 25px;
-      text-decoration: none;
-      color: var(--stone700);
-      cursor: pointer;
-      transition: all 0.3s;
-    }
-
-    .overlayActive .close:hover {
-      cursor: pointer;
-      color: var(--stone500);
-    }
-
-    .overlayContent {
-      position: absolute;
-      top: 50%;
-      transform: translateY(-50%);
-      display: flex;
-      height: auto;
-      width: 100%;
-      flex-direction: column;
-      align-items: center;
-      margin-left: auto;
-      margin-right: auto;
-    }
-
-    .menuList {
-      opacity: 0;
-      list-style: none;
-    }
-
-    .overlayActive .menuList {
-      opacity: 1;
-      width: 100%;
-      margin-top: 80px;
-    }
-
-    .menuList li {
-      display: block;
-      width: auto;
-      height: 30px;
-      margin: 0 auto;
-      margin-top: 15px;
-      background-color: transparent;
-      transition: all 0.4s ease-in-out;
-    }
-
-    .menuLink {
-      display: block;
-      width: 100%;
-      height: 100%;
-      position: relative;
-      margin: 0px;
-      text-decoration: none;
-      border-bottom: 2px solid transparent;
-      transition: all 0.4s;
-    }
-
-    .menuLink > span {
-      position: absolute;
-      display: block;
-      text-align: center;
-      width: 100%;
-      height: 100%;
-      color: var(--stone700);
-      transition: all 0.5s;
-    }
-
-    .menuLink:hover {
-      cursor: pointer;
-    }
-
-    .menuLink:hover > span {
-      color: var(--stone500);
-      cursor: pointer;
-    }
   }
 </style>
 
