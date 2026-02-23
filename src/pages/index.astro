@@ -19,58 +19,61 @@ const pageTitle = "Lublio";
   <h2>
     <Typewriter
       texts={[
-        "스스로 길을 만들어가는",
-        "일상이 곧 모험인",
-        "두려움보다 설렘을 선택한",
-        "매일 새로운 나를 발견하는",
-        "세상에 없던 길을 그려가는",
-        "포기 대신 한 걸음을 택한",
-        "어제의 나를 뛰어넘는",
-        "자신만의 우주를 펼쳐가는",
-        "오늘보다 나은 내일을 만드는",
+        "Beyond just 'Bonjour',", // [프랑스어] 단순히 '봉주르'를 넘어,
+        "A 'Ciao' that leads to friendship,", // [이탈리아어] 우정으로 이어지는 '챠오',
+        "Finding your 'Buen Camino',", // [스페인어] 당신만의 '좋은 길(여정)'을 찾는,
+        "More than a 'Danke' in Berlin,", // [독일어] 베를린에서의 '당케' 그 이상의 진심,
+        "The 'Saudade' of Lisbon streets,", // [포르투갈어] 리스본 거리의 '그리움(사우다드)',
+        "Whispering 'Ahoj' in Prague,", // [체코어] 프라하에서 '안녕(아호이)'이라고 속삭이는,
+        "A 'Fiesta' that never ends,", // [스페인어] 끝나지 않는 '축제',
+        "Every 'Oui' is a new beginning,", // [프랑스어] 모든 '응(위)'은 새로운 시작,
       ]}
     />
-    <br />
-    당신을 응원합니다.
   </h2>
-
-  <!-- <Button3 title="Frontier" path="/frontier" isDev="true" /> -->
+  <h2 id="fixed-title">start your journey here.</h2>
 
   <div class="button-wrapper">
     <ButtonMain
-      title="Franco"
-      subtitle="프로젝트 프랑코"
-      description="프랑스어 학습 페이지"
-      language="fra"
-      path="/franco"
-    />
-
-    <ButtonMain
-      title="Russo"
-      subtitle="프로젝트 루소"
-      description="러시아어 학습 페이지"
-      language="rus"
-      path="/russo"
-    />
-
-    <!-- <ButtonMain
       title="Deutsch"
-      subtitle="독일어"
+      subtitle="German"
       description="CEFR A1 - C1"
       language="deu"
       path="/german"
+    />
+
+    <ButtonMain
+      title="Français"
+      subtitle="French"
+      description="CEFR A1-C1"
+      language="fra"
+      path="/french"
+    />
+
+    <ButtonMain
+      title="Русский"
+      subtitle="Russian"
+      description="CEFR A1-C1"
+      language="rus"
+      path="/russian"
+    />
+
+    <!-- <ButtonMain
+      title="Español"
+      subtitle="Spanish"
+      description="CEFR A1 - C1"
+      language="esp"
+      path="/spanish"
+    />
+
+    <ButtonMain
+      title="Italiano"
+      subtitle="Italian"
+      description="CEFR A1 - C1"
+      language="ita"
+      path="/italian"
     /> -->
 
     <!-- 
-        <ButtonMain
-        title="Español"
-        subtitle="스페인어"
-        description="CEFR A1 - C1"
-        language="esp"
-        path="/spanish"
-        />
-        
-        
         <ButtonMain
         title="Čeština"
         subtitle="체코어"
@@ -124,17 +127,27 @@ const pageTitle = "Lublio";
     }
 
     h2 {
-      font-family: "Noto Korean", sans-serif;
-      margin-top: 100px;
-      font-size: 50px;
-      line-height: 60px;
+      font-family: "Inter", sans-serif;
+      margin-top: 150px;
+      font-size: 28px;
+      line-height: 30px;
+      margin-bottom: 0.5rem;
+      font-weight: 400;
+    }
+
+    #fixed-title {
+      font-family: "Roboto Condensed", sans-serif;
+      margin-top: 0px;
+      text-transform: uppercase;
+      font-size: 40px;
+      line-height: 40px;
       margin-bottom: 2rem;
+      font-weight: 700;
     }
 
     .button-wrapper {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      justify-items: stretch;
+      display: flex;
+      flex-direction: column;
       gap: 1rem;
     }
 
@@ -144,15 +157,19 @@ const pageTitle = "Lublio";
         width: 50px; /* 원하는 크기 조절 */
       }
 
+      h3 {
+        margin-top: 100px;
+        font-size: 20px;
+        line-height: 20px;
+      }
+
       h2 {
         margin-top: 100px;
-        font-size: 25px;
-        line-height: 35px;
+        font-size: 20px;
+        line-height: 20px;
       }
 
       .button-wrapper {
-        display: flex;
-        flex-direction: column;
         gap: 20px;
       }
     }

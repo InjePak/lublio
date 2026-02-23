@@ -1,35 +1,35 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
-import BoxMain from "../../components/BoxMain.astro";
+import Box from "../../components/Box.astro";
 import Button from "../../components/Button.astro";
 
-const pageTitle = "Franco by Lublio";
+const pageTitle = "French";
 ---
 
-<BaseLayout pageTitle={pageTitle}>
-  <BoxMain
-    title="Franco"
-    subtitle="프로젝트 프랑코"
-    description="프랑스어는 미학적 섬세함과 논리적 엄밀함이 공존하는 지성의 언어입니다. 수세기 동안 유럽의 외교와 예술, 철학을 지탱해온 이 언어는 단순한 소통의 도구를 넘어 세상을 바라보는 정교한 틀을 제공합니다. 진정한 프랑코폰(Francophone)으로 거듭날 지적 여정을 시작해볼까요?"
+<BaseLayout pageTitle={pageTitle + " - Lublio"}>
+  <Box
+    title="Français"
+    subtitle="French"
+    description="Le français est la langue de l'amour et de la diplomatie. Reconnue pour son élégance et sa précision, elle brille à travers le monde comme un vecteur essentiel de la culture, de la gastronomie et des arts libéraux."
     language="fra"
   />
 
   <div class="button-wrapper">
     <Button
       title="Phrases"
-      subtitle="프랑스어 회화"
+      subtitle="Phrasebook"
       description="CEFR A1 - B2"
       language="fra"
-      path="/franco/phrasebook"
+      path="/french/phrasebook"
       level="phrase"
     />
 
     <Button
       title="Modèles"
-      subtitle="프랑스어 패턴"
+      subtitle="Patterns"
       description="CEFR B1 - C1"
       language="fra"
-      path="/franco/pattern"
+      path="/french/pattern"
       level="pattern"
     />
 
@@ -38,7 +38,7 @@ const pageTitle = "Franco by Lublio";
       subtitle="프랑스어 첫걸음"
       description="CEFR A0"
       language="fra"
-      path="/franco/a0"
+      path="/french/a0"
       level="a0"
       isDev="true"
     />
@@ -48,7 +48,7 @@ const pageTitle = "Franco by Lublio";
       subtitle="기초 프랑스어"
       description="CEFR A1"
       language="fra"
-      path="/franco/a1"
+      path="/french/a1"
       level="a1"
       isDev="true"
     />
@@ -58,7 +58,7 @@ const pageTitle = "Franco by Lublio";
       subtitle="초급 프랑스어"
       description="CEFR A2"
       language="fra"
-      path="/franco/a2"
+      path="/french/a2"
       level="a2"
       isDev="true"
     />
@@ -68,7 +68,7 @@ const pageTitle = "Franco by Lublio";
       subtitle="중급 프랑스어"
       description="CEFR B1"
       language="fra"
-      path="/franco/b1"
+      path="/french/b1"
       level="b1"
       isDev="true"
     />
@@ -78,7 +78,7 @@ const pageTitle = "Franco by Lublio";
       subtitle="중고급 프랑스어"
       description="CEFR B2"
       language="fra"
-      path="/franco/b2"
+      path="/french/b2"
       level="b2"
       isDev="true"
     /> -->
@@ -89,7 +89,7 @@ const pageTitle = "Franco by Lublio";
     subtitle="프랑스어 문법"
     description="CEFR A1 - B2"
     language="fra"
-    path="/franco/grammar"
+    path="/french/grammar"
     level="grammar"
     isDev="true"
   /> -->
