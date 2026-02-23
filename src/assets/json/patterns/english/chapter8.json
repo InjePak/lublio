@@ -2,7 +2,7 @@
   {
     "id": 1,
     "pattern": "Both ... and ... are important because ...",
-    "kor": "...와 ... 둘 다 중요합니다. 왜냐하면 ...이기 때문입니다",
+    "translation": "...와 ... 둘 다 중요합니다. 왜냐하면 ...이기 때문입니다",
     "b1": [
       "Both food and water are important because we need them to live.",
       "Both exercise and sleep are important because they keep us healthy.",
@@ -28,7 +28,7 @@
   {
     "id": 2,
     "pattern": "Unlike ..., however, ...",
-    "kor": "...와는 다르게, 그러나 ...은 ...합니다",
+    "translation": "...와는 다르게, 그러나 ...은 ...합니다",
     "b1": [
       "Unlike dogs, however, cats are very quiet.",
       "Unlike summer, however, winter is very cold.",
@@ -54,7 +54,7 @@
   {
     "id": 3,
     "pattern": "The main difference between ... and ... is that ...",
-    "kor": "...와 ...의 주요 차이점은 ...라는 것입니다",
+    "translation": "...와 ...의 주요 차이점은 ...라는 것입니다",
     "b1": [
       "The main difference between apples and oranges is that oranges have more juice.",
       "The main difference between a house and a flat is that a house has a garden.",
@@ -80,7 +80,7 @@
   {
     "id": 4,
     "pattern": "... is similar to ... in that ...",
-    "kor": "...은 ...와 ...라는 점에서 비슷합니다",
+    "translation": "...은 ...와 ...라는 점에서 비슷합니다",
     "b1": [
       "A bike is similar to a car in that it can take you to places.",
       "An orange is similar to a lemon in that it is a fruit.",
@@ -106,7 +106,7 @@
   {
     "id": 5,
     "pattern": "While ... has X, ... has Y.",
-    "kor": "...가 X를 가지고 있는 반면, ...는 Y를 가지고 있습니다",
+    "translation": "...가 X를 가지고 있는 반면, ...는 Y를 가지고 있습니다",
     "b1": [
       "While summer has sun, winter has snow.",
       "While birds have wings, fish have fins.",
@@ -132,7 +132,7 @@
   {
     "id": 6,
     "pattern": "On the one hand ..., but on the other hand, ...",
-    "kor": "한편으로는 ...하지만, 다른 한편으로는 ...합니다",
+    "translation": "한편으로는 ...하지만, 다른 한편으로는 ...합니다",
     "b1": [
       "On the one hand I want to go out, but on the other hand it is raining.",
       "On the one hand the car is fast, but on the other hand it is expensive.",
@@ -158,7 +158,7 @@
   {
     "id": 7,
     "pattern": "In comparison to ..., ...",
-    "kor": "...와 비교했을 때, ...은 ...합니다",
+    "translation": "...와 비교했을 때, ...은 ...합니다",
     "b1": [
       "In comparison to a cat, a dog is much louder.",
       "In comparison to summer, spring is more beautiful.",
@@ -184,7 +184,7 @@
   {
     "id": 8,
     "pattern": "Conversely, the situation with ... is quite different.",
-    "kor": "반대로, ...의 상황은 아주 다릅니다",
+    "translation": "반대로, ...의 상황은 아주 다릅니다",
     "b1": [
       "I love rain. Conversely, the situation with my cat is quite different; he hates it.",
       "Summer is hot. Conversely, the situation with winter is quite different.",
@@ -210,7 +210,7 @@
   {
     "id": 9,
     "pattern": "They share several common characteristics, such as ...",
-    "kor": "그들은 ...와 같은 몇 가지 공통점을 공유합니다",
+    "translation": "그들은 ...와 같은 몇 가지 공통점을 공유합니다",
     "b1": [
       "They share several common characteristics, such as being small and friendly.",
       "They share several common characteristics, such as color and size.",
@@ -236,7 +236,7 @@
   {
     "id": 10,
     "pattern": "The degree of ... is much greater in ... than in ...",
-    "kor": "...의 정도는 ...보다 ...에서 훨씬 큽니다",
+    "translation": "...의 정도는 ...보다 ...에서 훨씬 큽니다",
     "b1": [
       "The degree of noise is much greater in the city than in the village.",
       "The degree of heat is much greater in summer than in spring.",
@@ -262,7 +262,7 @@
   {
     "id": 11,
     "pattern": "Although ... is true, we must also consider ...",
-    "kor": "...이 사실임에도 불구하고, 우리는 ...도 고려해야 합니다",
+    "translation": "...이 사실임에도 불구하고, 우리는 ...도 고려해야 합니다",
     "b1": [
       "Although the car is fast, we must also consider its high price.",
       "Although the food is good, we must also consider the small portions.",
@@ -288,7 +288,7 @@
   {
     "id": 12,
     "pattern": "A significant point of divergence is ...",
-    "kor": "중요한 차이점(분기점)은 ...입니다",
+    "translation": "중요한 차이점(분기점)은 ...입니다",
     "b1": [
       "A significant point of divergence is the price.",
       "A significant point of divergence is the color of the car.",
@@ -314,7 +314,7 @@
   {
     "id": 13,
     "pattern": "They are fundamentally similar, except for ...",
-    "kor": "...을 제외하고는 근본적으로 비슷합니다",
+    "translation": "...을 제외하고는 근본적으로 비슷합니다",
     "b1": [
       "They are fundamentally similar, except for the color.",
       "They are fundamentally similar, except for the size.",
@@ -340,7 +340,7 @@
   {
     "id": 14,
     "pattern": "... is far more effective than ... because ...",
-    "kor": "...가 ...보다 훨씬 더 효과적입니다. 왜냐하면 ...이기 때문입니다",
+    "translation": "...가 ...보다 훨씬 더 효과적입니다. 왜냐하면 ...이기 때문입니다",
     "b1": [
       "A car is far more effective than a bike because it is faster.",
       "Walking is far more effective than driving because it is healthier.",
@@ -366,7 +366,7 @@
   {
     "id": 15,
     "pattern": "We can draw a parallel between ... and ...",
-    "kor": "...와 ... 사이의 유사점을 찾을 수 있습니다",
+    "translation": "...와 ... 사이의 유사점을 찾을 수 있습니다",
     "b1": [
       "We can draw a parallel between learning to ride a bike and learning to swim.",
       "We can draw a parallel between the two stories.",
@@ -392,7 +392,7 @@
   {
     "id": 16,
     "pattern": "Neither ... nor ... provides ...",
-    "kor": "...도 ...도 ...을 제공하지 않습니다",
+    "translation": "...도 ...도 ...을 제공하지 않습니다",
     "b1": [
       "Neither the bus nor the train provides a direct route.",
       "Neither my mom nor my dad provides the answer.",
@@ -418,7 +418,7 @@
   {
     "id": 17,
     "pattern": "When balanced against ..., ... appears to be ...",
-    "kor": "...와 비교해 균형을 맞춰 보았을 때, ...은 ...한 것 같습니다",
+    "translation": "...와 비교해 균형을 맞춰 보았을 때, ...은 ...한 것 같습니다",
     "b1": [
       "When balanced against the cost, the car appears to be a good deal.",
       "When balanced against the rain, the trip appears to be a bad idea.",
@@ -444,7 +444,7 @@
   {
     "id": 18,
     "pattern": "There is a stark contrast in their approach to ...",
-    "kor": "...에 대한 그들의 접근 방식에는 뚜렷한 대조가 있습니다",
+    "translation": "...에 대한 그들의 접근 방식에는 뚜렷한 대조가 있습니다",
     "b1": [
       "There is a stark contrast in their approach to learning.",
       "There is a stark contrast in their approach to money.",
@@ -470,7 +470,7 @@
   {
     "id": 19,
     "pattern": "The similarity lies in the fact that ...",
-    "kor": "유사점은 ...라는 사실에 있습니다",
+    "translation": "유사점은 ...라는 사실에 있습니다",
     "b1": [
       "The similarity lies in the fact that they are both fruits.",
       "The similarity lies in the fact that they are both fast.",
@@ -496,7 +496,7 @@
   {
     "id": 20,
     "pattern": "Compared side by side, ... clearly outperforms ...",
-    "kor": "나란히 비교해 보았을 때, ...이 ...보다 확실히 우수합니다",
+    "translation": "나란히 비교해 보았을 때, ...이 ...보다 확실히 우수합니다",
     "b1": [
       "Compared side by side, the red car clearly outperforms the blue one.",
       "Compared side by side, this phone clearly outperforms my old one.",

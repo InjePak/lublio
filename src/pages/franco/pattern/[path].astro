@@ -68,10 +68,10 @@ switch (chapter.id) {
     break;
 }
 
-const pageTitle = "프랑스어 패턴";
+const pageTitle = "French Sentence Patterns";
 ---
 
-<BaseLayout pageTitle={pageTitle + " - Lublio"}>
+<BaseLayout pageTitle={pageTitle + " - Franco"}>
   <Box2 title={chapter.fra} subtitle={chapter.kor} language="fra" />
 
   {
@@ -79,7 +79,7 @@ const pageTitle = "프랑스어 패턴";
       <Button2
         id={post.id}
         title={post.pattern}
-        subtitle={post.kor}
+        subtitle={post.translation}
         language="fra"
         path={"/franco/pattern/" + path + "/" + post.id}
       />

@@ -2,7 +2,7 @@
   {
     "id": 1,
     "pattern": "I feel overwhelmingly ... about ...",
-    "kor": "...에 대해 압도적으로 ...함을 느낍니다",
+    "translation": "...에 대해 압도적으로 ...함을 느낍니다",
     "b1": [
       "I feel overwhelmingly happy about my graduation.",
       "I feel overwhelmingly positive about the new job.",
@@ -28,7 +28,7 @@
   {
     "id": 2,
     "pattern": "It truly touched my heart when ...",
-    "kor": "...했을 때 정말 감동받았어요 (가슴에 와닿았어요)",
+    "translation": "...했을 때 정말 감동받았어요 (가슴에 와닿았어요)",
     "b1": [
       "It truly touched my heart when you sent me a gift.",
       "It truly touched my heart when she said thank you.",
@@ -54,7 +54,7 @@
   {
     "id": 3,
     "pattern": "I'm deeply concerned about ...",
-    "kor": "저는 ...에 대해 깊이 우려하고 있습니다",
+    "translation": "저는 ...에 대해 깊이 우려하고 있습니다",
     "b1": [
       "I'm deeply concerned about my health these days.",
       "I'm deeply concerned about the heavy rain tonight.",
@@ -80,7 +80,7 @@
   {
     "id": 4,
     "pattern": "There's a huge weight lifted off my shoulders because ...",
-    "kor": "... 덕분에 마음의 짐을 크게 덜었어요",
+    "translation": "... 덕분에 마음의 짐을 크게 덜었어요",
     "b1": [
       "There's a huge weight lifted off my shoulders because the exam is over.",
       "There's a huge weight lifted off my shoulders because I found my keys.",
@@ -106,7 +106,7 @@
   {
     "id": 5,
     "pattern": "I can't hide how much I appreciate ...",
-    "kor": "제가 얼마나 ...에 감사하는지 숨길 수가 없네요",
+    "translation": "제가 얼마나 ...에 감사하는지 숨길 수가 없네요",
     "b1": [
       "I can't hide how much I appreciate your kind words.",
       "I can't hide how much I appreciate the nice dinner.",
@@ -132,7 +132,7 @@
   {
     "id": 6,
     "pattern": "I feel a profound sense of sadness over ...",
-    "kor": "...에 대해 깊은 슬픔을 느낍니다",
+    "translation": "...에 대해 깊은 슬픔을 느낍니다",
     "b1": [
       "I feel a profound sense of sadness over the lost dog.",
       "I feel a profound sense of sadness over the end of the holiday.",
@@ -158,7 +158,7 @@
   {
     "id": 7,
     "pattern": "Words can’t describe how much ...",
-    "kor": "얼마나 ...한지 말로 다 표현할 수가 없어요",
+    "translation": "얼마나 ...한지 말로 다 표현할 수가 없어요",
     "b1": [
       "Words can’t describe how much I love this cake.",
       "Words can’t describe how much I enjoyed the movie.",
@@ -184,7 +184,7 @@
   {
     "id": 8,
     "pattern": "I have been struggling with the thought of ...",
-    "kor": "...라는 생각 때문에 괴로워하고 있어요",
+    "translation": "...라는 생각 때문에 괴로워하고 있어요",
     "b1": [
       "I have been struggling with the thought of failing the test.",
       "I have been struggling with the thought of moving away.",
@@ -210,7 +210,7 @@
   {
     "id": 9,
     "pattern": "My greatest fear is that ...",
-    "kor": "제 가장 큰 두려움은 ...라는 거예요",
+    "translation": "제 가장 큰 두려움은 ...라는 거예요",
     "b1": [
       "My greatest fear is that I might get lost.",
       "My greatest fear is that it will rain on my wedding.",
@@ -236,7 +236,7 @@
   {
     "id": 10,
     "pattern": "This situation has left me feeling quite ...",
-    "kor": "이 상황 때문에 꽤나 ...한 기분이 드네요",
+    "translation": "이 상황 때문에 꽤나 ...한 기분이 드네요",
     "b1": [
       "This situation has left me feeling quite tired.",
       "This situation has left me feeling quite happy.",
@@ -262,7 +262,7 @@
   {
     "id": 11,
     "pattern": "It breaks my heart to see ...",
-    "kor": "...를 보는 것이 정말 마음이 아픕니다",
+    "translation": "...를 보는 것이 정말 마음이 아픕니다",
     "b1": [
       "It breaks my heart to see a sad child.",
       "It breaks my heart to see hungry dogs.",
@@ -288,7 +288,7 @@
   {
     "id": 12,
     "pattern": "I genuinely admire your strength in ...",
-    "kor": "...에 있어 당신의 강인함을 진심으로 존경합니다",
+    "translation": "...에 있어 당신의 강인함을 진심으로 존경합니다",
     "b1": [
       "I genuinely admire your strength in finishing the race.",
       "I genuinely admire your strength in saying no.",
@@ -314,7 +314,7 @@
   {
     "id": 13,
     "pattern": "The deep meaning behind ... is ...",
-    "kor": "... 뒤에 숨겨진 깊은 의미는 ...입니다",
+    "translation": "... 뒤에 숨겨진 깊은 의미는 ...입니다",
     "b1": [
       "The deep meaning behind this song is love.",
       "The deep meaning behind this picture is family.",
@@ -340,7 +340,7 @@
   {
     "id": 14,
     "pattern": "I’m absolutely devastated by ...",
-    "kor": "...에 의해 정말 큰 충격(슬픔)을 받았습니다",
+    "translation": "...에 의해 정말 큰 충격(슬픔)을 받았습니다",
     "b1": [
       "I’m absolutely devastated by the bad news.",
       "I’m absolutely devastated by my cat's death.",
@@ -366,7 +366,7 @@
   {
     "id": 15,
     "pattern": "It’s hard to articulate the joy I feel when ...",
-    "kor": "...할 때 느끼는 기쁨을 표현하기가 어렵네요",
+    "translation": "...할 때 느끼는 기쁨을 표현하기가 어렵네요",
     "b1": [
       "It’s hard to articulate the joy I feel when I see my family.",
       "It’s hard to articulate the joy I feel when I eat good food.",
@@ -392,7 +392,7 @@
   {
     "id": 16,
     "pattern": "This experience has given me a new perspective on ...",
-    "kor": "이 경험은 제게 ...에 대한 새로운 관점을 갖게 해주었습니다",
+    "translation": "이 경험은 제게 ...에 대한 새로운 관점을 갖게 해주었습니다",
     "b1": [
       "This experience has given me a new perspective on working.",
       "This experience has given me a new perspective on food.",
@@ -418,7 +418,7 @@
   {
     "id": 17,
     "pattern": "I feel an immense sense of relief that ...",
-    "kor": "...해서 정말 큰 안도감을 느낍니다",
+    "translation": "...해서 정말 큰 안도감을 느낍니다",
     "b1": [
       "I feel an immense sense of relief that the rain stopped.",
       "I feel an immense sense of relief that I found my phone.",
@@ -444,7 +444,7 @@
   {
     "id": 18,
     "pattern": "There is a feeling of emptiness since ...",
-    "kor": "... 이후로 공허한 기분이 듭니다",
+    "translation": "... 이후로 공허한 기분이 듭니다",
     "b1": [
       "There is a feeling of emptiness since the party ended.",
       "There is a feeling of emptiness since my best friend moved.",
@@ -470,7 +470,7 @@
   {
     "id": 19,
     "pattern": "I take full responsibility for my feeling of ...",
-    "kor": "제 ...한 감정에 대해 전적으로 책임을 느낍니다",
+    "translation": "제 ...한 감정에 대해 전적으로 책임을 느낍니다",
     "b1": [
       "I take full responsibility for my feeling of anger.",
       "I take full responsibility for my feeling of sadness.",
@@ -496,7 +496,7 @@
   {
     "id": 20,
     "pattern": "The intensity of the situation made me feel ...",
-    "kor": "상황의 격렬함(강도) 때문에 ...한 기분이 들었습니다",
+    "translation": "상황의 격렬함(강도) 때문에 ...한 기분이 들었습니다",
     "b1": [
       "The intensity of the situation made me feel scared.",
       "The intensity of the situation made me feel excited.",

@@ -2,7 +2,7 @@
   {
     "id": 1,
     "pattern": "Pourriez-vous éventuellement ...?",
-    "kor": "혹시 ...해주실 수 있을까요?",
+    "translation": "혹시 ...해주실 수 있을까요?",
     "b1": [
       "Pourriez-vous éventuellement m'aider avec mes bagages ?",
       "Pourriez-vous éventuellement m'envoyer votre adresse ?",
@@ -28,7 +28,7 @@
   {
     "id": 2,
     "pattern": "Je vous serais reconnaissant(e) de bien vouloir ...",
-    "kor": "...해주시면 감사하겠습니다.",
+    "translation": "...해주시면 감사하겠습니다.",
     "b1": [
       "Je vous serais reconnaissant de bien vouloir m'aider.",
       "Je vous serais reconnaissante de bien vouloir répondre à mon message.",
@@ -54,7 +54,7 @@
   {
     "id": 3,
     "pattern": "Cela vous dérangerait-il de ...?",
-    "kor": "...하는 것이 괜찮으시겠습니까? (실례가 안 된다면 ...해주시겠어요?)",
+    "translation": "...하는 것이 괜찮으시겠습니까? (실례가 안 된다면 ...해주시겠어요?)",
     "b1": [
       "Cela vous dérangerait-il de baisser le son ?",
       "Cela vous dérangerait-il de prendre une photo pour nous ?",
@@ -80,7 +80,7 @@
   {
     "id": 4,
     "pattern": "Je vous écris pour demander ...",
-    "kor": "...을 요청하기 위해 편지를 씁니다.",
+    "translation": "...을 요청하기 위해 편지를 씁니다.",
     "b1": [
       "Je vous écris pour demander des informations sur les cours de français.",
       "Je vous écris pour demander votre aide.",
@@ -106,7 +106,7 @@
   {
     "id": 5,
     "pattern": "J'ai besoin de ... d'ici la fin de ...",
-    "kor": "... 말까지 ...이 필요합니다.",
+    "translation": "... 말까지 ...이 필요합니다.",
     "b1": [
       "J'ai besoin de mon passeport d'ici la fin de la journée.",
       "J'ai besoin de ces documents d'ici la fin de la semaine.",
@@ -132,7 +132,7 @@
   {
     "id": 6,
     "pattern": "Y a-t-il une chance de ...?",
-    "kor": "...할 수 있는 가능성이 있을까요?",
+    "translation": "...할 수 있는 가능성이 있을까요?",
     "b1": [
       "Y a-t-il une chance de gagner ?",
       "Y a-t-il une chance de beau temps demain ?",
@@ -158,7 +158,7 @@
   {
     "id": 7,
     "pattern": "Pourrais-je vous demander de vous concentrer spécifiquement sur ...?",
-    "kor": "특히 ...에 집중해 주시기를 요청해도 될까요?",
+    "translation": "특히 ...에 집중해 주시기를 요청해도 될까요?",
     "b1": [
       "Pourrais-je vous demander de vous concentrer spécifiquement sur la lecture ?",
       "Pourrais-je vous demander de vous concentrer spécifiquement sur ce problème ?",
@@ -184,7 +184,7 @@
   {
     "id": 8,
     "pattern": "Veuillez vous assurer d'inclure ...",
-    "kor": "반드시 ...을 포함해 주십시오.",
+    "translation": "반드시 ...을 포함해 주십시오.",
     "b1": [
       "Veuillez vous assurer d'inclure votre nom.",
       "Veuillez vous assurer d'inclure les photos.",
@@ -210,7 +210,7 @@
   {
     "id": 9,
     "pattern": "Serait-il possible pour vous de fournir des détails sur ...?",
-    "kor": "...에 대한 세부 사항을 알려주시는 것이 가능할까요?",
+    "translation": "...에 대한 세부 사항을 알려주시는 것이 가능할까요?",
     "b1": [
       "Serait-il possible pour vous de fournir des détails sur le prix ?",
       "Serait-il possible pour vous de fournir des détails sur la fête ?",
@@ -236,7 +236,7 @@
   {
     "id": 10,
     "pattern": "Malheureusement, je ne serai pas en mesure de ...",
-    "kor": "불행히도 ...을 할 수 없을 것 같습니다.",
+    "translation": "불행히도 ...을 할 수 없을 것 같습니다.",
     "b1": [
       "Malheureusement, je ne serai pas en mesure de venir ce soir.",
       "Malheureusement, je ne serai pas en mesure de finir à l'heure.",
@@ -262,7 +262,7 @@
   {
     "id": 11,
     "pattern": "J'ai bien peur de devoir refuser ...",
-    "kor": "유감스럽게도 ...을 거절해야 할 것 같습니다.",
+    "translation": "유감스럽게도 ...을 거절해야 할 것 같습니다.",
     "b1": [
       "J'ai bien peur de devoir refuser votre invitation.",
       "J'ai bien peur de devoir refuser ce cadeau.",
@@ -288,7 +288,7 @@
   {
     "id": 12,
     "pattern": "Cela semble difficile parce que ...",
-    "kor": "... 때문에 어려울 것 같습니다.",
+    "translation": "... 때문에 어려울 것 같습니다.",
     "b1": [
       "Cela semble difficile parce que c'est trop cher.",
       "Cela semble difficile parce que je n'ai pas le temps.",
@@ -314,7 +314,7 @@
   {
     "id": 13,
     "pattern": "Bien que j'apprécie l'offre, je dois respectueusement refuser ...",
-    "kor": "제안은 감사하지만, 정중히 ...을 거절해야겠습니다.",
+    "translation": "제안은 감사하지만, 정중히 ...을 거절해야겠습니다.",
     "b1": [
       "Bien que j'apprécie l'offre, je dois respectueusement refuser votre aide.",
       "Bien que j'apprécie l'offre, je dois respectueusement refuser ce gâteau.",
@@ -340,7 +340,7 @@
   {
     "id": 14,
     "pattern": "Mon emploi du temps ne me permet pas de ...",
-    "kor": "제 일정상 ...을 할 수가 없습니다.",
+    "translation": "제 일정상 ...을 할 수가 없습니다.",
     "b1": [
       "Mon emploi du temps ne me permet pas de sortir ce soir.",
       "Mon emploi du temps ne me permet pas de voyager cette semaine.",
@@ -366,7 +366,7 @@
   {
     "id": 15,
     "pattern": "J'aimerais pouvoir ..., mais je suis actuellement occupé(e) par ...",
-    "kor": "...할 수 있으면 좋겠지만, 지금은 ... 때문에 바쁩니다.",
+    "translation": "...할 수 있으면 좋겠지만, 지금은 ... 때문에 바쁩니다.",
     "b1": [
       "J'aimerais pouvoir t'aider, mais je suis actuellement occupé par mes devoirs.",
       "J'aimerais pouvoir venir, mais je suis actuellement occupée par mon travail.",
@@ -392,7 +392,7 @@
   {
     "id": 16,
     "pattern": "Nous pourrons reconsidérer ... plus tard.",
-    "kor": "...은 나중에 다시 고려해 볼 수 있습니다.",
+    "translation": "...은 나중에 다시 고려해 볼 수 있습니다.",
     "b1": [
       "Nous pourrons reconsidérer cette idée plus tard.",
       "Nous pourrons reconsidérer votre demande plus tard.",
@@ -418,7 +418,7 @@
   {
     "id": 17,
     "pattern": "Je recommande de parler à ... de ...",
-    "kor": "...에게 ...에 대해 이야기해 보시길 추천합니다.",
+    "translation": "...에게 ...에 대해 이야기해 보시길 추천합니다.",
     "b1": [
       "Je recommande de parler à mon frère de ce problème.",
       "Je recommande de parler au professeur de ta note.",
@@ -444,7 +444,7 @@
   {
     "id": 18,
     "pattern": "Ma priorité actuelle est ..., je dois donc refuser.",
-    "kor": "저의 현재 우선순위는 ...라 거절해야 할 것 같습니다.",
+    "translation": "저의 현재 우선순위는 ...라 거절해야 할 것 같습니다.",
     "b1": [
       "Ma priorité actuelle est ma santé, je dois donc refuser.",
       "Ma priorité actuelle est mon examen, je dois donc refuser.",
@@ -470,7 +470,7 @@
   {
     "id": 19,
     "pattern": "Pourriez-vous s'il vous plaît clarifier ce que vous entendez par ...?",
-    "kor": "...라고 말씀하신 의미를 명확히 해주실 수 있을까요?",
+    "translation": "...라고 말씀하신 의미를 명확히 해주실 수 있을까요?",
     "b1": [
       "Pourriez-vous s'il vous plaît clarifier ce que vous entendez par 'plus tard' ?",
       "Pourriez-vous s'il vous plaît clarifier ce que vous entendez par 'cher' ?",
@@ -496,7 +496,7 @@
   {
     "id": 20,
     "pattern": "Si vous pouviez juste ..., ce serait d'une grande aide.",
-    "kor": "...만 해주신다면 큰 도움이 될 것 같습니다.",
+    "translation": "...만 해주신다면 큰 도움이 될 것 같습니다.",
     "b1": [
       "Si vous pouviez juste m'aider, ce serait d'une grande aide.",
       "Si vous pouviez juste ouvrir la porte, ce serait d'une grande aide.",

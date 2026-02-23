@@ -2,7 +2,7 @@
   {
     "id": 1,
     "pattern": "Could you possibly ...?",
-    "kor": "혹시 ...해 주실 수 있을까요?",
+    "translation": "혹시 ...해 주실 수 있을까요?",
     "b1": [
       "Could you possibly help me with this box?",
       "Could you possibly send me the address again?",
@@ -28,7 +28,7 @@
   {
     "id": 2,
     "pattern": "I would be grateful if you could ...",
-    "kor": "...해 주시면 감사하겠습니다",
+    "translation": "...해 주시면 감사하겠습니다",
     "b1": [
       "I would be grateful if you could answer my question.",
       "I would be grateful if you could send the pictures.",
@@ -54,7 +54,7 @@
   {
     "id": 3,
     "pattern": "Would you mind ...?",
-    "kor": "...해 주시는 게 실례가 될까요? / ...해 주시겠어요?",
+    "translation": "...해 주시는 게 실례가 될까요? / ...해 주시겠어요?",
     "b1": [
       "Would you mind closing the door?",
       "Would you mind helping me with my homework?",
@@ -80,7 +80,7 @@
   {
     "id": 4,
     "pattern": "I'm writing to request ...",
-    "kor": "...을 요청드리고자 연락드렸습니다 (메일 등)",
+    "translation": "...을 요청드리고자 연락드렸습니다 (메일 등)",
     "b1": [
       "I'm writing to request more information about the course.",
       "I'm writing to request a refund for this shirt.",
@@ -106,7 +106,7 @@
   {
     "id": 5,
     "pattern": "I need ... by the end of ...",
-    "kor": "...까지 ...이 필요합니다",
+    "translation": "...까지 ...이 필요합니다",
     "b1": [
       "I need your answer by the end of the day.",
       "I need the book back by the end of the week.",
@@ -132,7 +132,7 @@
   {
     "id": 6,
     "pattern": "Is there any chance of ...?",
-    "kor": "...할 수 있는 가능성이 있을까요?",
+    "translation": "...할 수 있는 가능성이 있을까요?",
     "b1": [
       "Is there any chance of getting a discount?",
       "Is there any chance of meeting you today?",
@@ -158,7 +158,7 @@
   {
     "id": 7,
     "pattern": "Could I ask you to specifically focus on ...?",
-    "kor": "특별히 ...에 집중해 달라고 부탁드려도 될까요?",
+    "translation": "특별히 ...에 집중해 달라고 부탁드려도 될까요?",
     "b1": [
       "Could I ask you to specifically focus on your homework?",
       "Could I ask you to specifically focus on the spelling?",
@@ -184,7 +184,7 @@
   {
     "id": 8,
     "pattern": "Please make sure to include ...",
-    "kor": "...을 꼭 포함시켜 주세요",
+    "translation": "...을 꼭 포함시켜 주세요",
     "b1": [
       "Please make sure to include your name on the test.",
       "Please make sure to include your phone number.",
@@ -210,7 +210,7 @@
   {
     "id": 9,
     "pattern": "Would it be possible for you to provide details on ...?",
-    "kor": "...에 대한 세부 사항을 알려주실 수 있을까요?",
+    "translation": "...에 대한 세부 사항을 알려주실 수 있을까요?",
     "b1": [
       "Would it be possible for you to provide details on the price?",
       "Would it be possible for you to provide details on the party?",
@@ -236,7 +236,7 @@
   {
     "id": 10,
     "pattern": "Unfortunately, I won't be able to ...",
-    "kor": "안타깝게도, 제가 ...할 수 없을 것 같습니다",
+    "translation": "안타깝게도, 제가 ...할 수 없을 것 같습니다",
     "b1": [
       "Unfortunately, I won't be able to come to the party.",
       "Unfortunately, I won't be able to help you today.",
@@ -262,7 +262,7 @@
   {
     "id": 11,
     "pattern": "I'm afraid I have to decline ...",
-    "kor": "유감스럽게도 ...를 거절해야 할 것 같습니다",
+    "translation": "유감스럽게도 ...를 거절해야 할 것 같습니다",
     "b1": [
       "I'm afraid I have to decline your invitation.",
       "I'm afraid I have to decline the offer.",
@@ -288,7 +288,7 @@
   {
     "id": 12,
     "pattern": "That sounds challenging because ...",
-    "kor": "... 때문에 그것은 조금 어려울 것 같네요 (도전적이네요)",
+    "translation": "... 때문에 그것은 조금 어려울 것 같네요 (도전적이네요)",
     "b1": [
       "That sounds challenging because I am busy.",
       "That sounds challenging because it's very expensive.",
@@ -314,7 +314,7 @@
   {
     "id": 13,
     "pattern": "While I appreciate the offer, I must respectfully refuse ...",
-    "kor": "제안은 감사하지만, 정중히 ...를 거절해야겠습니다",
+    "translation": "제안은 감사하지만, 정중히 ...를 거절해야겠습니다",
     "b1": [
       "While I appreciate the offer, I must respectfully refuse the cake.",
       "While I appreciate the offer, I must respectfully refuse your help.",
@@ -340,7 +340,7 @@
   {
     "id": 14,
     "pattern": "My schedule doesn't permit me to ...",
-    "kor": "제 일정이 ...하는 것을 허락하지 않네요 (시간이 안 되네요)",
+    "translation": "제 일정이 ...하는 것을 허락하지 않네요 (시간이 안 되네요)",
     "b1": [
       "My schedule doesn't permit me to go to the party.",
       "My schedule doesn't permit me to meet you today.",
@@ -366,7 +366,7 @@
   {
     "id": 15,
     "pattern": "I wish I could ..., but currently I'm occupied with ...",
-    "kor": "...할 수 있으면 좋겠지만, 지금은 ... 때문에 바쁩니다",
+    "translation": "...할 수 있으면 좋겠지만, 지금은 ... 때문에 바쁩니다",
     "b1": [
       "I wish I could help you, but currently I'm occupied with my homework.",
       "I wish I could go out, but currently I'm occupied with cleaning.",
@@ -392,7 +392,7 @@
   {
     "id": 16,
     "pattern": "We can revisit ... later.",
-    "kor": "...는 나중에 다시 논의할 수 있습니다",
+    "translation": "...는 나중에 다시 논의할 수 있습니다",
     "b1": [
       "We can revisit this idea later.",
       "We can revisit the price later.",
@@ -418,7 +418,7 @@
   {
     "id": 17,
     "pattern": "I recommend speaking to ... about ...",
-    "kor": "...에 관해서는 ...와 이야기해 보시는 걸 추천합니다",
+    "translation": "...에 관해서는 ...와 이야기해 보시는 걸 추천합니다",
     "b1": [
       "I recommend speaking to the teacher about your grade.",
       "I recommend speaking to your doctor about your health.",
@@ -444,7 +444,7 @@
   {
     "id": 18,
     "pattern": "My priority right now is ..., so I must decline.",
-    "kor": "지금 제 우선순위는 ...라서, 거절해야 할 것 같습니다",
+    "translation": "지금 제 우선순위는 ...라서, 거절해야 할 것 같습니다",
     "b1": [
       "My priority right now is studying, so I must decline.",
       "My priority right now is my family, so I must decline.",
@@ -470,7 +470,7 @@
   {
     "id": 19,
     "pattern": "Could you please clarify what you mean by ...?",
-    "kor": "...이 무슨 뜻인지 명확히 해주실 수 있을까요?",
+    "translation": "...이 무슨 뜻인지 명확히 해주실 수 있을까요?",
     "b1": [
       "Could you please clarify what you mean by 'soon'?",
       "Could you please clarify what you mean by 'late'?",
@@ -496,7 +496,7 @@
   {
     "id": 20,
     "pattern": "If you could just ..., that would be a great help.",
-    "kor": "...만 해주신다면 큰 도움이 될 것 같습니다",
+    "translation": "...만 해주신다면 큰 도움이 될 것 같습니다",
     "b1": [
       "If you could just send the email, that would be a great help.",
       "If you could just wait here, that would be a great help.",

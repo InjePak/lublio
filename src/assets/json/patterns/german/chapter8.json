@@ -2,7 +2,7 @@
   {
     "id": 1,
     "pattern": "Sowohl ... als auch ... sind wichtig, weil ...",
-    "kor": "...뿐만 아니라 ...도 중요한데, 왜냐하면 ...이기 때문입니다.",
+    "translation": "...뿐만 아니라 ...도 중요한데, 왜냐하면 ...이기 때문입니다.",
     "b1": [
       "Sowohl Obst als auch Gemüse sind wichtig, weil sie gesund sind.",
       "Sowohl Lesen als auch Schreiben sind wichtig, weil man sie in der Schule braucht.",
@@ -28,7 +28,7 @@
   {
     "id": 2,
     "pattern": "Im Gegensatz zu ..., jedoch, ...",
-    "kor": "...와는 대조적으로, 하지만 ...",
+    "translation": "...와는 대조적으로, 하지만 ...",
     "b1": [
       "Im Gegensatz zu gestern ist es heute jedoch sehr warm.",
       "Im Gegensatz zu meinem Bruder mag ich jedoch keinen Fisch.",
@@ -54,7 +54,7 @@
   {
     "id": 3,
     "pattern": "Der Hauptunterschied zwischen ... und ... ist, dass ...",
-    "kor": "...와 ...의 주요 차이점은 ...라는 것입니다.",
+    "translation": "...와 ...의 주요 차이점은 ...라는 것입니다.",
     "b1": [
       "Der Hauptunterschied zwischen Tee und Kaffee ist, dass Kaffee mehr Koffein hat.",
       "Der Hauptunterschied zwischen Stadt und Land ist, dass es in der Stadt mehr Geschäfte gibt.",
@@ -80,7 +80,7 @@
   {
     "id": 4,
     "pattern": "... ist ähnlich wie ... insofern, als ...",
-    "kor": "...는 ...와 비슷합니다, ...라는 점에서 말이죠.",
+    "translation": "...는 ...와 비슷합니다, ...라는 점에서 말이죠.",
     "b1": [
       "Spanisch ist ähnlich wie Italienisch insofern, als viele Wörter gleich sind.",
       "Radfahren ist ähnlich wie Laufen insofern, als man Sport macht.",
@@ -106,7 +106,7 @@
   {
     "id": 5,
     "pattern": "Während ... X hat, hat ... Y.",
-    "kor": "...는 X를 가지고 있는 반면, ...는 Y를 가지고 있습니다.",
+    "translation": "...는 X를 가지고 있는 반면, ...는 Y를 가지고 있습니다.",
     "b1": [
       "Während Berlin viele Museen hat, hat München schöne Berge.",
       "Während ich einen Hund habe, hat meine Schwester eine Katze.",
@@ -132,7 +132,7 @@
   {
     "id": 6,
     "pattern": "Einerseits ..., aber andererseits, ...",
-    "kor": "한편으로는 ...하지만, 다른 한편으로는 ...",
+    "translation": "한편으로는 ...하지만, 다른 한편으로는 ...",
     "b1": [
       "Einerseits ist die Stadt laut, aber andererseits gibt es dort viel Arbeit.",
       "Einerseits ist Sport anstrengend, aber andererseits macht er gesund.",
@@ -158,7 +158,7 @@
   {
     "id": 7,
     "pattern": "Im Vergleich zu ..., ...",
-    "kor": "...와 비교해서, ...",
+    "translation": "...와 비교해서, ...",
     "b1": [
       "Im Vergleich zu gestern ist es heute kälter.",
       "Im Vergleich zu meinem alten Handy ist das neue viel schneller.",
@@ -184,7 +184,7 @@
   {
     "id": 8,
     "pattern": "Umgekehrt ist die Situation bei ... ganz anders.",
-    "kor": "반대로 ...의 상황은 완전히 다릅니다.",
+    "translation": "반대로 ...의 상황은 완전히 다릅니다.",
     "b1": [
       "Ich mag Pizza, aber umgekehrt ist die Situation bei Suppe ganz anders.",
       "Im Sommer ist es hell, umgekehrt ist die Situation im Winter ganz anders.",
@@ -210,7 +210,7 @@
   {
     "id": 9,
     "pattern": "Sie teilen mehrere gemeinsame Merkmale, wie zum Beispiel ...",
-    "kor": "그들은 몇 가지 공통점을 공유하는데, 예를 들면 ...와 같은 것들입니다.",
+    "translation": "그들은 몇 가지 공통점을 공유하는데, 예를 들면 ...와 같은 것들입니다.",
     "b1": [
       "Sie teilen mehrere gemeinsame Merkmale, wie zum Beispiel die Farbe und die Größe.",
       "Obst und Gemüse teilen mehrere gemeinsame Merkmale, wie zum Beispiel Vitamine.",
@@ -236,7 +236,7 @@
   {
     "id": 10,
     "pattern": "Der Grad an ... ist in ... viel größer als in ...",
-    "kor": "...의 정도는 ...보다 ...에서 훨씬 더 큽니다.",
+    "translation": "...의 정도는 ...보다 ...에서 훨씬 더 큽니다.",
     "b1": [
       "Der Grad an Lärm ist in der Stadt viel größer als im Dorf.",
       "Der Grad an Freiheit ist im Urlaub viel größer als bei der Arbeit.",
@@ -262,7 +262,7 @@
   {
     "id": 11,
     "pattern": "Obwohl ... wahr ist, müssen wir auch ... berücksichtigen.",
-    "kor": "...가 사실일지라도, 우리는 또한 ...를 고려해야 합니다.",
+    "translation": "...가 사실일지라도, 우리는 또한 ...를 고려해야 합니다.",
     "b1": [
       "Obwohl das Auto schön ist, müssen wir auch den Preis berücksichtigen.",
       "Obwohl es regnet, müssen wir auch den Termin berücksichtigen.",
@@ -288,7 +288,7 @@
   {
     "id": 12,
     "pattern": "Ein wichtiger Unterschied ist ...",
-    "kor": "중요한 차이점 하나는 ...입니다.",
+    "translation": "중요한 차이점 하나는 ...입니다.",
     "b1": [
       "Ein wichtiger Unterschied ist der Preis.",
       "Ein wichtiger Unterschied ist die Farbe.",
@@ -314,7 +314,7 @@
   {
     "id": 13,
     "pattern": "Sie sind grundsätzlich ähnlich, außer in Bezug auf ...",
-    "kor": "그들은 ...를 제외하고는 기본적으로 비슷합니다.",
+    "translation": "그들은 ...를 제외하고는 기본적으로 비슷합니다.",
     "b1": [
       "Sie sind grundsätzlich ähnlich, außer in Bezug auf den Preis.",
       "Sie sind grundsätzlich ähnlich, außer in Bezug auf die Farbe.",
@@ -340,7 +340,7 @@
   {
     "id": 14,
     "pattern": "... ist weitaus effektiver als ..., weil ...",
-    "kor": "...는 ...보다 훨씬 더 효과적인데, 왜냐하면 ...이기 때문입니다.",
+    "translation": "...는 ...보다 훨씬 더 효과적인데, 왜냐하면 ...이기 때문입니다.",
     "b1": [
       "Lernen ist weitaus effektiver als nur Lesen, weil man mehr behält.",
       "Sport ist weitaus effektiver als Diät, weil man sich besser fühlt.",
@@ -366,7 +366,7 @@
   {
     "id": 15,
     "pattern": "Wir können eine Parallele ziehen zwischen ... und ...",
-    "kor": "우리는 ...와 ... 사이의 유사점을 찾을 수(평행선을 그을 수) 있습니다.",
+    "translation": "우리는 ...와 ... 사이의 유사점을 찾을 수(평행선을 그을 수) 있습니다.",
     "b1": [
       "Wir können eine Parallele ziehen zwischen heute und gestern.",
       "Wir können eine Parallele ziehen zwischen dir und deinem Vater.",
@@ -392,7 +392,7 @@
   {
     "id": 16,
     "pattern": "Weder ... noch ... bietet ...",
-    "kor": "...도 ...도 ...를 제공하지 않습니다.",
+    "translation": "...도 ...도 ...를 제공하지 않습니다.",
     "b1": [
       "Weder das Hotel noch die Wohnung bietet Frühstück.",
       "Weder Montag noch Dienstag bietet einen freien Termin.",
@@ -418,7 +418,7 @@
   {
     "id": 17,
     "pattern": "Im Gleichgewicht mit ..., scheint ... ... zu sein.",
-    "kor": "...와 균형을 이룰 때, ...는 ...인 것처럼 보입니다.",
+    "translation": "...와 균형을 이룰 때, ...는 ...인 것처럼 보입니다.",
     "b1": [
       "Im Gleichgewicht mit der Natur scheint das Leben besser zu sein.",
       "Im Gleichgewicht mit der Arbeit scheint die Freizeit schöner zu sein.",
@@ -444,7 +444,7 @@
   {
     "id": 18,
     "pattern": "Es gibt einen starken Kontrast in ihrem Ansatz zu ...",
-    "kor": "...에 대한 그들의 접근 방식에는 강한 대조가 있습니다.",
+    "translation": "...에 대한 그들의 접근 방식에는 강한 대조가 있습니다.",
     "b1": [
       "Es gibt einen starken Kontrast in ihrem Ansatz zu Sport.",
       "Es gibt einen starken Kontrast in ihrem Ansatz zu Erziehung.",
@@ -470,7 +470,7 @@
   {
     "id": 19,
     "pattern": "Die Ähnlichkeit liegt in der Tatsache, dass ...",
-    "kor": "유사점은 ...라는 사실에 있습니다.",
+    "translation": "유사점은 ...라는 사실에 있습니다.",
     "b1": [
       "Die Ähnlichkeit liegt in der Tatsache, dass beide rot sind.",
       "Die Ähnlichkeit liegt in der Tatsache, dass beide aus Berlin kommen.",
@@ -496,7 +496,7 @@
   {
     "id": 20,
     "pattern": "Im direkten Vergleich schneidet ... eindeutig besser ab als ...",
-    "kor": "직접적인 비교에서 ...는 ...보다 확실히 더 나은 결과를 보여줍니다.",
+    "translation": "직접적인 비교에서 ...는 ...보다 확실히 더 나은 결과를 보여줍니다.",
     "b1": [
       "Im direkten Vergleich schneidet das neue Handy eindeutig besser ab als das alte.",
       "Im direkten Vergleich schneidet der Zug eindeutig besser ab als der Bus.",

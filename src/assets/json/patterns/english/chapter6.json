@@ -2,7 +2,7 @@
   {
     "id": 1,
     "pattern": "I'd like to inform you that ...",
-    "kor": "...을 알려드리고자 합니다",
+    "translation": "...을 알려드리고자 합니다",
     "b1": [
       "I'd like to inform you that the office is closed today.",
       "I'd like to inform you that your package has arrived.",
@@ -28,7 +28,7 @@
   {
     "id": 2,
     "pattern": "The key takeaway here is ...",
-    "kor": "여기서 핵심 요점은 ...입니다",
+    "translation": "여기서 핵심 요점은 ...입니다",
     "b1": [
       "The key takeaway here is to be on time.",
       "The key takeaway here is that we need to save money.",
@@ -54,7 +54,7 @@
   {
     "id": 3,
     "pattern": "To clarify, I mean ...",
-    "kor": "명확히 하자면, 제 말은 ...라는 뜻입니다",
+    "translation": "명확히 하자면, 제 말은 ...라는 뜻입니다",
     "b1": [
       "To clarify, I mean we should meet at the station.",
       "To clarify, I mean the red book, not the blue one.",
@@ -80,7 +80,7 @@
   {
     "id": 4,
     "pattern": "According to the report, ...",
-    "kor": "보고서에 따르면, ...",
+    "translation": "보고서에 따르면, ...",
     "b1": [
       "According to the report, it will rain tomorrow.",
       "According to the report, the project is going well.",
@@ -106,7 +106,7 @@
   {
     "id": 5,
     "pattern": "Let me rephrase that: ...",
-    "kor": "다시 말하자면(바꿔 말하자면): ...",
+    "translation": "다시 말하자면(바꿔 말하자면): ...",
     "b1": [
       "Let me rephrase that: the shop is closed.",
       "Let me rephrase that: we are too late.",
@@ -132,7 +132,7 @@
   {
     "id": 6,
     "pattern": "What I meant to say was ...",
-    "kor": "제가 말하려던 의도는 ...였습니다",
+    "translation": "제가 말하려던 의도는 ...였습니다",
     "b1": [
       "What I meant to say was I am sorry.",
       "What I meant to say was thank you for the help.",
@@ -158,7 +158,7 @@
   {
     "id": 7,
     "pattern": "The current status is that ...",
-    "kor": "현재 상태는 ...입니다",
+    "translation": "현재 상태는 ...입니다",
     "b1": [
       "The current status is that we are waiting for the bus.",
       "The current status is that the work is finished.",
@@ -184,7 +184,7 @@
   {
     "id": 8,
     "pattern": "In other words, ...",
-    "kor": "즉, 다시 말하면 ...",
+    "translation": "즉, 다시 말하면 ...",
     "b1": [
       "In other words, we are lost.",
       "In other words, it's free.",
@@ -210,7 +210,7 @@
   {
     "id": 9,
     "pattern": "Just to make sure we're on the same page, ...",
-    "kor": "우리가 같은 생각을 하고 있는지 확인하기 위해, ...",
+    "translation": "우리가 같은 생각을 하고 있는지 확인하기 위해, ...",
     "b1": [
       "Just to make sure we're on the same page, the party is at 7 PM.",
       "Just to make sure we're on the same page, I'll bring the pizza.",
@@ -236,7 +236,7 @@
   {
     "id": 10,
     "pattern": "This confirms that ...",
-    "kor": "이것은 ...라는 사실을 확인해 줍니다",
+    "translation": "이것은 ...라는 사실을 확인해 줍니다",
     "b1": [
       "This confirms that the shop is open.",
       "This confirms that you are the winner.",
@@ -262,7 +262,7 @@
   {
     "id": 11,
     "pattern": "Allow me to elaborate on …",
-    "kor": "...에 대해 좀 더 자세히 설명하겠습니다",
+    "translation": "...에 대해 좀 더 자세히 설명하겠습니다",
     "b1": [
       "Allow me to elaborate on my plan for the trip.",
       "Allow me to elaborate on the rules of the game.",
@@ -288,7 +288,7 @@
   {
     "id": 12,
     "pattern": "The details are as follows: ...",
-    "kor": "세부 사항은 다음과 같습니다: ...",
+    "translation": "세부 사항은 다음과 같습니다: ...",
     "b1": [
       "The details are as follows: the price is $10.",
       "The details are as follows: the meeting is at 2 PM.",
@@ -314,7 +314,7 @@
   {
     "id": 13,
     "pattern": "The important point here is not ..., but ...",
-    "kor": "여기서 중요한 점은 ...이 아니라, ...입니다",
+    "translation": "여기서 중요한 점은 ...이 아니라, ...입니다",
     "b1": [
       "The important point here is not the price, but the quality.",
       "The important point here is not the time, but the effort.",
@@ -340,7 +340,7 @@
   {
     "id": 14,
     "pattern": "For example, consider ...",
-    "kor": "예를 들어, ...를 생각해 보세요",
+    "translation": "예를 들어, ...를 생각해 보세요",
     "b1": [
       "For example, consider the weather.",
       "For example, consider your health.",
@@ -366,7 +366,7 @@
   {
     "id": 15,
     "pattern": "The bottom line is …",
-    "kor": "결론적으로 말하자면(가장 중요한 것은) …",
+    "translation": "결론적으로 말하자면(가장 중요한 것은) …",
     "b1": [
       "The bottom line is we need more time.",
       "The bottom line is the car is too expensive.",
@@ -392,7 +392,7 @@
   {
     "id": 16,
     "pattern": "Let's review the main findings: ...",
-    "kor": "주요 결과(조사 내용)를 검토해 봅시다: ...",
+    "translation": "주요 결과(조사 내용)를 검토해 봅시다: ...",
     "b1": [
       "Let's review the main findings: people like the new food.",
       "Let's review the main findings: the shop is busy.",
@@ -418,7 +418,7 @@
   {
     "id": 17,
     "pattern": "To sum up the situation, ...",
-    "kor": "상황을 요약하자면, ...",
+    "translation": "상황을 요약하자면, ...",
     "b1": [
       "To sum up the situation, we are late.",
       "To sum up the situation, the cake is gone.",
@@ -444,7 +444,7 @@
   {
     "id": 18,
     "pattern": "My understanding is that ...",
-    "kor": "제가 이해하기로는 ...",
+    "translation": "제가 이해하기로는 ...",
     "b1": [
       "My understanding is that the meeting is at 3 PM.",
       "My understanding is that it's free for kids.",
@@ -470,7 +470,7 @@
   {
     "id": 19,
     "pattern": "Just to be clear, …",
-    "kor": "분명히 해두자면, …",
+    "translation": "분명히 해두자면, …",
     "b1": [
       "Just to be clear, I am not coming today.",
       "Just to be clear, you need a ticket.",
@@ -496,7 +496,7 @@
   {
     "id": 20,
     "pattern": "The final outcome was ...",
-    "kor": "최종 결과는 ...였습니다",
+    "translation": "최종 결과는 ...였습니다",
     "b1": [
       "The final outcome was that we won.",
       "The final outcome was a great party.",

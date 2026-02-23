@@ -2,7 +2,7 @@
   {
     "id": 1,
     "pattern": "Ich möchte Sie darüber informieren, dass ...",
-    "kor": "...에 대해 귀하에게 알려드리고자 합니다.",
+    "translation": "...에 대해 귀하에게 알려드리고자 합니다.",
     "b1": [
       "Ich möchte Sie darüber informieren, dass der Kurs morgen ausfällt.",
       "Ich möchte Sie darüber informieren, dass ich Ihre E-Mail erhalten habe.",
@@ -28,7 +28,7 @@
   {
     "id": 2,
     "pattern": "Die wichtigste Erkenntnis hier ist ...",
-    "kor": "여기서 가장 중요한 시사점(결론)은 ...입니다.",
+    "translation": "여기서 가장 중요한 시사점(결론)은 ...입니다.",
     "b1": [
       "Die wichtigste Erkenntnis hier ist, dass wir mehr Zeit brauchen.",
       "Die wichtigste Erkenntnis hier ist, dass Deutschlernen Spaß macht.",
@@ -54,7 +54,7 @@
   {
     "id": 3,
     "pattern": "Um es klarzustellen, meine ich ...",
-    "kor": "분명히 하자면, 제 말은 ...라는 뜻입니다.",
+    "translation": "분명히 하자면, 제 말은 ...라는 뜻입니다.",
     "b1": [
       "Um es klarzustellen, meine ich das kleine Buch, nicht das große.",
       "Um es klarzustellen, meine ich, dass wir morgen um 9 Uhr anfangen.",
@@ -80,7 +80,7 @@
   {
     "id": 4,
     "pattern": "Dem Bericht zufolge, ...",
-    "kor": "보고서에 따르면, ...",
+    "translation": "보고서에 따르면, ...",
     "b1": [
       "Dem Bericht zufolge ist das Wetter heute gut.",
       "Dem Bericht zufolge haben wir viele neue Kunden.",
@@ -106,7 +106,7 @@
   {
     "id": 5,
     "pattern": "Lass mich das anders formulieren: ...",
-    "kor": "다르게 표현해 볼게요. 즉 ...",
+    "translation": "다르게 표현해 볼게요. 즉 ...",
     "b1": [
       "Lass mich das anders formulieren: Wir haben keine Zeit mehr.",
       "Lass mich das anders formulieren: Das ist zu teuer.",
@@ -132,7 +132,7 @@
   {
     "id": 6,
     "pattern": "Was ich sagen wollte, war ...",
-    "kor": "제가 말하고 싶었던 것은 ...였습니다.",
+    "translation": "제가 말하고 싶었던 것은 ...였습니다.",
     "b1": [
       "Was ich sagen wollte, war: Danke für alles.",
       "Was ich sagen wollte, war: Ich komme später.",
@@ -158,7 +158,7 @@
   {
     "id": 7,
     "pattern": "Der aktuelle Stand ist, dass ...",
-    "kor": "현재 상황은 ...입니다.",
+    "translation": "현재 상황은 ...입니다.",
     "b1": [
       "Der aktuelle Stand ist, dass wir fertig sind.",
       "Der aktuelle Stand ist, dass der Zug Verspätung hat.",
@@ -184,7 +184,7 @@
   {
     "id": 8,
     "pattern": "Mit anderen Worten, ...",
-    "kor": "다시 말하면 (즉), ...",
+    "translation": "다시 말하면 (즉), ...",
     "b1": [
       "Mit anderen Worten, wir haben gewonnen.",
       "Mit anderen Worten, es ist zu spät.",
@@ -210,7 +210,7 @@
   {
     "id": 9,
     "pattern": "Nur um sicherzustellen, dass wir uns einig sind, ...",
-    "kor": "우리가 같은 생각인지 확인하기 위해 말하자면, ...",
+    "translation": "우리가 같은 생각인지 확인하기 위해 말하자면, ...",
     "b1": [
       "Nur um sicherzustellen, dass wir uns einig sind, wir treffen uns um 8 Uhr.",
       "Nur um sicherzustellen, dass wir uns einig sind, jeder bringt etwas mit.",
@@ -236,7 +236,7 @@
   {
     "id": 10,
     "pattern": "Dies bestätigt, dass ...",
-    "kor": "이것은 ...라는 것을 확인해 줍니다.",
+    "translation": "이것은 ...라는 것을 확인해 줍니다.",
     "b1": [
       "Dies bestätigt, dass wir recht hatten.",
       "Dies bestätigt, dass das Wetter besser wird.",
@@ -262,7 +262,7 @@
   {
     "id": 11,
     "pattern": "Erlauben Sie mir, ... näher auszuführen.",
-    "kor": "제가 ...에 대해 더 자세히 설명하겠습니다.",
+    "translation": "제가 ...에 대해 더 자세히 설명하겠습니다.",
     "b1": [
       "Erlauben Sie mir, den Plan näher auszuführen.",
       "Erlauben Sie mir, die Regeln näher auszuführen.",
@@ -288,7 +288,7 @@
   {
     "id": 12,
     "pattern": "Die Details sind wie folgt: ...",
-    "kor": "상세 내용은 다음과 같습니다. ...",
+    "translation": "상세 내용은 다음과 같습니다. ...",
     "b1": [
       "Die Details sind wie folgt: Treffen um 10 Uhr, Preis 20 Euro.",
       "Die Details sind wie folgt: Montag ist Deutschkurs, Dienstag ist Sport.",
@@ -314,7 +314,7 @@
   {
     "id": 13,
     "pattern": "Der wichtige Punkt hier ist nicht ..., sondern ...",
-    "kor": "여기서 중요한 점은 ...가 아니라 ...입니다.",
+    "translation": "여기서 중요한 점은 ...가 아니라 ...입니다.",
     "b1": [
       "Der wichtige Punkt hier ist nicht der Preis, sondern die Qualität.",
       "Der wichtige Punkt hier ist nicht die Schnelligkeit, sondern die Sicherheit.",
@@ -340,7 +340,7 @@
   {
     "id": 14,
     "pattern": "Betrachten Sie zum Beispiel ...",
-    "kor": "예를 들어 ...를 보십시오.",
+    "translation": "예를 들어 ...를 보십시오.",
     "b1": [
       "Betrachten Sie zum Beispiel dieses Bild.",
       "Betrachten Sie zum Beispiel das Beispiel im Buch.",
@@ -366,7 +366,7 @@
   {
     "id": 15,
     "pattern": "Das Fazit ist …",
-    "kor": "결론은 …입니다.",
+    "translation": "결론은 …입니다.",
     "b1": [
       "Das Fazit ist: Wir müssen mehr lernen.",
       "Das Fazit ist: Die Reise war toll.",
@@ -392,7 +392,7 @@
   {
     "id": 16,
     "pattern": "Lassen Sie uns die Hauptergebnisse überprüfen: ...",
-    "kor": "주요 결과를 검토해 봅시다. ...",
+    "translation": "주요 결과를 검토해 봅시다. ...",
     "b1": [
       "Lassen Sie uns die Hauptergebnisse überprüfen: Wir sind fertig und alle sind froh.",
       "Lassen Sie uns die Hauptergebnisse überprüfen: Der Test war gut, die Noten sind da.",
@@ -418,7 +418,7 @@
   {
     "id": 17,
     "pattern": "Um die Situation zusammenzufassen, ...",
-    "kor": "상황을 요약하자면, ...",
+    "translation": "상황을 요약하자면, ...",
     "b1": [
       "Um die Situation zusammenzufassen, wir haben keine Zeit mehr.",
       "Um die Situation zusammenzufassen, alles ist gut.",
@@ -444,7 +444,7 @@
   {
     "id": 18,
     "pattern": "Mein Verständnis ist, dass ...",
-    "kor": "제가 이해한 바로는 ...입니다.",
+    "translation": "제가 이해한 바로는 ...입니다.",
     "b1": [
       "Mein Verständnis ist, dass wir morgen frei haben.",
       "Mein Verständnis ist, dass das Buch 10 Euro kostet.",
@@ -470,7 +470,7 @@
   {
     "id": 19,
     "pattern": "Nur um klar zu sein, …",
-    "kor": "명확히 짚고 넘어가자면, …",
+    "translation": "명확히 짚고 넘어가자면, …",
     "b1": [
       "Nur um klar zu sein, wir treffen uns heute um 8.",
       "Nur um klar zu sein, du bezahlst das Essen.",
@@ -496,7 +496,7 @@
   {
     "id": 20,
     "pattern": "Das Endergebnis war ...",
-    "kor": "최종 결과는 ...였습니다.",
+    "translation": "최종 결과는 ...였습니다.",
     "b1": [
       "Das Endergebnis war eine gute Note.",
       "Das Endergebnis war ein schöner Abend.",

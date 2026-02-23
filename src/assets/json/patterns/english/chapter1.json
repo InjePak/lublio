@@ -2,7 +2,7 @@
   {
     "id": 1,
     "pattern": "In my opinion, ...",
-    "kor": "제 의견으로는 ...",
+    "translation": "제 의견으로는 ...",
     "b1": [
       "In my opinion, learning English is fun.",
       "In my opinion, we should travel more often.",
@@ -28,7 +28,7 @@
   {
     "id": 2,
     "pattern": "I believe that ...",
-    "kor": "저는 ...라고 믿습니다/생각합니다",
+    "translation": "저는 ...라고 믿습니다/생각합니다",
     "b1": [
       "I believe that honesty is the best policy.",
       "I believe that everyone can learn to cook.",
@@ -54,7 +54,7 @@
   {
     "id": 3,
     "pattern": "It seems to me that ...",
-    "kor": "제가 보기에는 ...인 것 같습니다",
+    "translation": "제가 보기에는 ...인 것 같습니다",
     "b1": [
       "It seems to me that it is going to rain.",
       "It seems to me that he is very busy today.",
@@ -80,7 +80,7 @@
   {
     "id": 4,
     "pattern": "From my perspective, ...",
-    "kor": "제 관점에서는 ...",
+    "translation": "제 관점에서는 ...",
     "b1": [
       "From my perspective, the test was easy.",
       "From my perspective, this room is too small.",
@@ -106,7 +106,7 @@
   {
     "id": 5,
     "pattern": "I strongly feel that ...",
-    "kor": "저는 ...라고 강력하게 느낍니다",
+    "translation": "저는 ...라고 강력하게 느낍니다",
     "b1": [
       "I strongly feel that we should go now.",
       "I strongly feel that this is a good idea.",
@@ -132,7 +132,7 @@
   {
     "id": 6,
     "pattern": "I would argue that ...",
-    "kor": "저는 ...라고 주장하고 싶습니다",
+    "translation": "저는 ...라고 주장하고 싶습니다",
     "b1": [
       "I would argue that pizza is better than pasta.",
       "I would argue that we need a break.",
@@ -158,7 +158,7 @@
   {
     "id": 7,
     "pattern": "What I mean is, ...",
-    "kor": "제 말의 뜻은, ...",
+    "translation": "제 말의 뜻은, ...",
     "b1": [
       "What I mean is, it's too expensive.",
       "What I mean is, I'm busy on Friday.",
@@ -184,7 +184,7 @@
   {
     "id": 8,
     "pattern": "If you ask me, ...",
-    "kor": "저에게 물으신다면, ...",
+    "translation": "저에게 물으신다면, ...",
     "b1": [
       "If you ask me, it's a great day for a walk.",
       "If you ask me, you should buy the blue shirt.",
@@ -210,7 +210,7 @@
   {
     "id": 9,
     "pattern": "I couldn't agree more with ...",
-    "kor": "...에 전적으로 동의합니다",
+    "translation": "...에 전적으로 동의합니다",
     "b1": [
       "I couldn't agree more with your idea.",
       "I couldn't agree more with the teacher.",
@@ -236,7 +236,7 @@
   {
     "id": 10,
     "pattern": "That's a valid point, but ...",
-    "kor": "타당한 말씀입니다만, ...",
+    "translation": "타당한 말씀입니다만, ...",
     "b1": [
       "That's a valid point, but I like the other one.",
       "That's a valid point, but it's too late now.",
@@ -262,7 +262,7 @@
   {
     "id": 11,
     "pattern": "I beg to differ on ...",
-    "kor": "...에 대해서는 의견이 다릅니다",
+    "translation": "...에 대해서는 의견이 다릅니다",
     "b1": [
       "I beg to differ on that topic.",
       "I beg to differ on this answer.",
@@ -288,7 +288,7 @@
   {
     "id": 12,
     "pattern": "While I understand that ..., I still feel ...",
-    "kor": "...라는 점은 이해하지만, 여전히 ...라고 느낍니다",
+    "translation": "...라는 점은 이해하지만, 여전히 ...라고 느낍니다",
     "b1": [
       "While I understand that it's raining, I still feel we should go.",
       "While I understand that you're tired, I still feel we need to finish.",
@@ -314,7 +314,7 @@
   {
     "id": 13,
     "pattern": "With all due respect, ...",
-    "kor": "실례지만/송구스럽지만, ...",
+    "translation": "실례지만/송구스럽지만, ...",
     "b1": [
       "With all due respect, I think you're wrong.",
       "With all due respect, I don't like this idea.",
@@ -340,7 +340,7 @@
   {
     "id": 14,
     "pattern": "I'm not entirely sure about ...",
-    "kor": "...에 대해 전적으로 확신하지는 못하겠습니다",
+    "translation": "...에 대해 전적으로 확신하지는 못하겠습니다",
     "b1": [
       "I'm not entirely sure about the time.",
       "I'm not entirely sure about this answer.",
@@ -366,7 +366,7 @@
   {
     "id": 15,
     "pattern": "Could you elaborate on ...?",
-    "kor": "...에 대해 좀 더 자세히 설명해주시겠어요?",
+    "translation": "...에 대해 좀 더 자세히 설명해주시겠어요?",
     "b1": [
       "Could you elaborate on your idea?",
       "Could you elaborate on the rules?",
@@ -392,7 +392,7 @@
   {
     "id": 16,
     "pattern": "I have mixed feelings about ...",
-    "kor": "...에 대해 복잡한 감정이 듭니다/좋기도 하고 싫기도 합니다",
+    "translation": "...에 대해 복잡한 감정이 듭니다/좋기도 하고 싫기도 합니다",
     "b1": [
       "I have mixed feelings about the movie.",
       "I have mixed feelings about the party.",
@@ -418,7 +418,7 @@
   {
     "id": 17,
     "pattern": "Let's agree to disagree on ...",
-    "kor": "...에 대해서는 각자의 의견을 존중하기로 하죠(결론이 안 날 때)",
+    "translation": "...에 대해서는 각자의 의견을 존중하기로 하죠(결론이 안 날 때)",
     "b1": [
       "Let's agree to disagree on the best food.",
       "Let's agree to disagree on the movie ending.",
@@ -444,7 +444,7 @@
   {
     "id": 18,
     "pattern": "Have you considered ...?",
-    "kor": "...을 고려해 보셨나요?",
+    "translation": "...을 고려해 보셨나요?",
     "b1": [
       "Have you considered going to the park?",
       "Have you considered buying a new bike?",
@@ -470,7 +470,7 @@
   {
     "id": 19,
     "pattern": "That's not always the case because ...",
-    "kor": "항상 그런 것은 아닙니다, 왜냐하면 ...",
+    "translation": "항상 그런 것은 아닙니다, 왜냐하면 ...",
     "b1": [
       "That's not always the case because it depends on the weather.",
       "That's not always the case because people are different.",
@@ -496,7 +496,7 @@
   {
     "id": 20,
     "pattern": "I see things ...",
-    "kor": "저는 상황을 ...게 봅니다/저는 사물을 ...게 생각합니다",
+    "translation": "저는 상황을 ...게 봅니다/저는 사물을 ...게 생각합니다",
     "b1": [
       "I see things differently.",
       "I see things clearly now.",

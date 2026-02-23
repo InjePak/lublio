@@ -2,7 +2,7 @@
   {
     "id": 1,
     "pattern": "I truly appreciate your help with ...",
-    "kor": "...에 대한 당신의 도움에 진심으로 감사드립니다",
+    "translation": "...에 대한 당신의 도움에 진심으로 감사드립니다",
     "b1": [
       "I truly appreciate your help with my homework.",
       "I truly appreciate your help with moving the boxes.",
@@ -28,7 +28,7 @@
   {
     "id": 2,
     "pattern": "You have a remarkable talent for ...",
-    "kor": "당신은 ...에 놀라운 재능이 있군요",
+    "translation": "당신은 ...에 놀라운 재능이 있군요",
     "b1": [
       "You have a remarkable talent for singing songs.",
       "You have a remarkable talent for drawing pictures.",
@@ -54,7 +54,7 @@
   {
     "id": 3,
     "pattern": "That was incredibly thoughtful of you to ...",
-    "kor": "...해주시다니 정말 사려 깊으시네요",
+    "translation": "...해주시다니 정말 사려 깊으시네요",
     "b1": [
       "That was incredibly thoughtful of you to buy me flowers.",
       "That was incredibly thoughtful of you to remember my birthday.",
@@ -80,7 +80,7 @@
   {
     "id": 4,
     "pattern": "I'm so grateful for the fact that ...",
-    "kor": "...라는 사실에 정말 감사합니다",
+    "translation": "...라는 사실에 정말 감사합니다",
     "b1": [
       "I'm so grateful for the fact that you are my friend.",
       "I'm so grateful for the fact that it is sunny today.",
@@ -106,7 +106,7 @@
   {
     "id": 5,
     "pattern": "Your attention to detail on ... is outstanding.",
-    "kor": "...에 대한 당신의 세심한 배려(관찰)는 뛰어납니다",
+    "translation": "...에 대한 당신의 세심한 배려(관찰)는 뛰어납니다",
     "b1": [
       "Your attention to detail on the cake is outstanding.",
       "Your attention to detail on the gift wrapping is outstanding.",
@@ -132,7 +132,7 @@
   {
     "id": 6,
     "pattern": "I wanted to thank you specifically for ...",
-    "kor": "특히 ...에 대해 당신에게 감사하고 싶었습니다",
+    "translation": "특히 ...에 대해 당신에게 감사하고 싶었습니다",
     "b1": [
       "I wanted to thank you specifically for the delicious dinner.",
       "I wanted to thank you specifically for the nice present.",
@@ -158,7 +158,7 @@
   {
     "id": 7,
     "pattern": "You handled that situation with such grace and ...",
-    "kor": "당신은 그 상황을 매우 품위 있게 그리고 ...하게 처리했습니다",
+    "translation": "당신은 그 상황을 매우 품위 있게 그리고 ...하게 처리했습니다",
     "b1": [
       "You handled that situation with such grace and kindness.",
       "You handled that situation with such grace and a smile.",
@@ -184,7 +184,7 @@
   {
     "id": 8,
     "pattern": "I couldn't have done this without your ...",
-    "kor": "당신의 ...가 없었다면 이것을 해낼 수 없었을 거예요",
+    "translation": "당신의 ...가 없었다면 이것을 해낼 수 없었을 거예요",
     "b1": [
       "I couldn't have done this without your help.",
       "I couldn't have done this without your support.",
@@ -210,7 +210,7 @@
   {
     "id": 9,
     "pattern": "Your positive attitude is truly inspiring to ...",
-    "kor": "당신의 긍정적인 태도는 ...에게 정말 영감을 줍니다",
+    "translation": "당신의 긍정적인 태도는 ...에게 정말 영감을 줍니다",
     "b1": [
       "Your positive attitude is truly inspiring to me.",
       "Your positive attitude is truly inspiring to my kids.",
@@ -236,7 +236,7 @@
   {
     "id": 10,
     "pattern": "Thank you for going above and beyond to ...",
-    "kor": "...하기 위해 기대 이상으로 노력해 주셔서 감사합니다",
+    "translation": "...하기 위해 기대 이상으로 노력해 주셔서 감사합니다",
     "b1": [
       "Thank you for going above and beyond to help me.",
       "Thank you for going above and beyond to clean the house.",
@@ -262,7 +262,7 @@
   {
     "id": 11,
     "pattern": "I really admire the way you ...",
-    "kor": "당신이 ...하는 방식이 정말 존경스러워요",
+    "translation": "당신이 ...하는 방식이 정말 존경스러워요",
     "b1": [
       "I really admire the way you speak English.",
       "I really admire the way you cook pasta.",
@@ -288,7 +288,7 @@
   {
     "id": 12,
     "pattern": "What a wonderful job you did on ...",
-    "kor": "...에 대해 정말 멋진 일을 해내셨네요",
+    "translation": "...에 대해 정말 멋진 일을 해내셨네요",
     "b1": [
       "What a wonderful job you did on the homework.",
       "What a wonderful job you did on the painting.",
@@ -314,7 +314,7 @@
   {
     "id": 13,
     "pattern": "It means the world to me that ...",
-    "kor": "...라는 사실은 저에게 무엇보다 소중합니다",
+    "translation": "...라는 사실은 저에게 무엇보다 소중합니다",
     "b1": [
       "It means the world to me that you came to my party.",
       "It means the world to me that you remembered my birthday.",
@@ -340,7 +340,7 @@
   {
     "id": 14,
     "pattern": "Your perspective on ... is incredibly valuable.",
-    "kor": "...에 대한 당신의 관점은 정말 가치 있습니다",
+    "translation": "...에 대한 당신의 관점은 정말 가치 있습니다",
     "b1": [
       "Your perspective on the book is incredibly valuable.",
       "Your perspective on the movie is incredibly valuable.",
@@ -366,7 +366,7 @@
   {
     "id": 15,
     "pattern": "I want to express my deepest gratitude for ...",
-    "kor": "...에 대해 깊은 감사의 말씀을 전하고 싶습니다",
+    "translation": "...에 대해 깊은 감사의 말씀을 전하고 싶습니다",
     "b1": [
       "I want to express my deepest gratitude for the gift.",
       "I want to express my deepest gratitude for your kindness.",
@@ -392,7 +392,7 @@
   {
     "id": 16,
     "pattern": "You've made a huge difference in ...",
-    "kor": "당신은 ...에 큰 변화를 일으켰습니다",
+    "translation": "당신은 ...에 큰 변화를 일으켰습니다",
     "b1": [
       "You've made a huge difference in my life.",
       "You've made a huge difference in our garden.",
@@ -418,7 +418,7 @@
   {
     "id": 17,
     "pattern": "I’m so impressed by your ability to ...",
-    "kor": "당신의 ...하는 능력에 정말 깊은 인상을 받았습니다",
+    "translation": "당신의 ...하는 능력에 정말 깊은 인상을 받았습니다",
     "b1": [
       "I’m so impressed by your ability to cook well.",
       "I’m so impressed by your ability to learn fast.",
@@ -444,7 +444,7 @@
   {
     "id": 18,
     "pattern": "Thank you for taking the time to ...",
-    "kor": "시간을 내어 ...해주셔서 감사합니다",
+    "translation": "시간을 내어 ...해주셔서 감사합니다",
     "b1": [
       "Thank you for taking the time to talk to me.",
       "Thank you for taking the time to help me study.",
@@ -470,7 +470,7 @@
   {
     "id": 19,
     "pattern": "We are fortunate to have someone who can ...",
-    "kor": "...할 수 있는 분이 계셔서 정말 다행입니다",
+    "translation": "...할 수 있는 분이 계셔서 정말 다행입니다",
     "b1": [
       "We are fortunate to have someone who can cook so well.",
       "We are fortunate to have someone who can speak English.",
@@ -496,7 +496,7 @@
   {
     "id": 20,
     "pattern": "Your willingness to ... really stands out.",
-    "kor": "...하려는 당신의 의지(기꺼이 함)가 정말 돋보입니다",
+    "translation": "...하려는 당신의 의지(기꺼이 함)가 정말 돋보입니다",
     "b1": [
       "Your willingness to help really stands out.",
       "Your willingness to share really stands out.",

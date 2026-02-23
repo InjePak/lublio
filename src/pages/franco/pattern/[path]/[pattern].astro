@@ -84,13 +84,12 @@ const navItems = [
 ];
 ---
 
-<BaseLayout pageTitle={post.kor + " - Lublio"}>
+<BaseLayout pageTitle={post.translation + " - Franco"}>
   <Box2
     title=`${post.id}. ${post.pattern}`
-    subtitle={post.kor}
+    subtitle={post.translation}
     language="fra"
   />
-
   <VisibilityController items={navItems} />
 
   {

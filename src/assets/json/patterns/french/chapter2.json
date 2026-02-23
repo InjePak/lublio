@@ -2,7 +2,7 @@
   {
     "id": 1,
     "pattern": "Je me souviens quand ...",
-    "kor": "저는 ...했을 때가 기억나요.",
+    "translation": "저는 ... 때를 기억합니다.",
     "b1": [
       "Je me souviens quand nous sommes allés à la mer.",
       "Je me souviens quand j'ai eu mon premier vélo.",
@@ -28,7 +28,7 @@
   {
     "id": 2,
     "pattern": "Il était une fois, ...",
-    "kor": "옛날 옛적에 ...",
+    "translation": "옛날 옛적에, ...",
     "b1": [
       "Il était une fois une petite fille qui aimait les fleurs.",
       "Il était une fois un roi qui vivait dans un grand château.",
@@ -54,7 +54,7 @@
   {
     "id": 3,
     "pattern": "L'histoire commence par ...",
-    "kor": "이야기는 ...로 시작됩니다.",
+    "translation": "이야기는 ...로 시작합니다.",
     "b1": [
       "L'histoire commence par un beau matin d'été.",
       "L'histoire commence par une rencontre au parc.",
@@ -80,7 +80,7 @@
   {
     "id": 4,
     "pattern": "Cela me rappelle une époque où ...",
-    "kor": "그것은 저에게 ...했던 시절을 떠올리게 하네요.",
+    "translation": "그것은 저에게 ...했던 때를 상기시킵니다.",
     "b1": [
       "Cela me rappelle une époque où j'avais beaucoup de temps libre.",
       "Cela me rappelle une époque où nous mangions souvent ensemble.",
@@ -106,7 +106,7 @@
   {
     "id": 5,
     "pattern": "Laissez-moi vous parler de ...",
-    "kor": "제가 ...에 대해 이야기해 드릴게요.",
+    "translation": "제가 당신에게 ...에 대해 이야기해 드릴게요.",
     "b1": [
       "Laissez-moi vous parler de mon chien.",
       "Laissez-moi vous parler de mes dernières vacances.",
@@ -132,7 +132,7 @@
   {
     "id": 6,
     "pattern": "Nous étions sur le point de ... quand soudain ...",
-    "kor": "막 ...하려던 참이었는데, 갑자기 ...했습니다.",
+    "translation": "우리는 막 ...하려던 참이었는데, 갑자기 ...",
     "b1": [
       "Nous étions sur le point de partir quand soudain il a commencé à pleuvoir.",
       "Nous étions sur le point de manger quand soudain le téléphone a sonné.",
@@ -158,7 +158,7 @@
   {
     "id": 7,
     "pattern": "Et puis, la chose la plus inattendue s'est produite : ...",
-    "kor": "그리고 나서 가장 예상치 못한 일이 일어났어요: ...",
+    "translation": "그러더니, 가장 예상치 못한 일이 일어났습니다: ...",
     "b1": [
       "Et puis, la chose la plus inattendue s'est produite : j'ai gagné le concours.",
       "Et puis, la chose la plus inattendue s'est produite : mon frère est venu me voir.",
@@ -184,7 +184,7 @@
   {
     "id": 8,
     "pattern": "Je n'oublierai jamais le moment où ...",
-    "kor": "저는 ...했던 순간을 절대 잊지 못할 거예요.",
+    "translation": "저는 ...했던 순간을 절대 잊지 못할 거예요.",
     "b1": [
       "Je n'oublierai jamais le moment où j'ai vu la tour Eiffel.",
       "Je n'oublierai jamais le moment où j'ai eu mon diplôme.",
@@ -210,7 +210,7 @@
   {
     "id": 9,
     "pattern": "Au début, je pensais ..., mais plus tard j'ai réalisé ...",
-    "kor": "처음에는 ...라고 생각했지만, 나중에는 ...라는 것을 깨달았습니다.",
+    "translation": "처음에는 ...라고 생각했지만, 나중에는 ...라는 것을 깨달았습니다.",
     "b1": [
       "Au début, je pensais que c'était facile, mais plus tard j'ai réalisé que c'était difficile.",
       "Au début, je pensais qu'il était méchant, mais plus tard j'ai réalisé qu'il était gentil.",
@@ -236,7 +236,7 @@
   {
     "id": 10,
     "pattern": "Tout a changé après ...",
-    "kor": "... 후에 모든 것이 변했습니다.",
+    "translation": "... 후에 모든 것이 변했습니다.",
     "b1": [
       "Tout a changé après mon voyage en France.",
       "Tout a changé après notre mariage.",
@@ -262,7 +262,7 @@
   {
     "id": 11,
     "pattern": "Avant que je m'en rende compte, ...",
-    "kor": "제가 깨닫기도 전에 ...",
+    "translation": "제가 깨닫기도 전에 ...",
     "b1": [
       "Avant que je m'en rende compte, il était déjà minuit.",
       "Avant que je m'en rende compte, j'avais fini tout le gâteau.",
@@ -288,7 +288,7 @@
   {
     "id": 12,
     "pattern": "Toute cette expérience m'a appris que ...",
-    "kor": "이 모든 경험은 저에게 ...라는 것을 가르쳐 주었습니다.",
+    "translation": "이 모든 경험은 저에게 ...라는 것을 가르쳐 주었습니다.",
     "b1": [
       "Toute cette expérience m'a appris que la famille est importante.",
       "Toute cette expérience m'a appris qu'il faut être patient.",
@@ -314,7 +314,7 @@
   {
     "id": 13,
     "pattern": "La première chose qui s'est passée, c'est ...",
-    "kor": "가장 먼저 일어난 일은 ...입니다.",
+    "translation": "가장 먼저 일어난 일은 ...입니다.",
     "b1": [
       "La première chose qui s'est passée, c'est que j'ai perdu mes clés.",
       "La première chose qui s'est passée, c'est qu'il a crié.",
@@ -340,7 +340,7 @@
   {
     "id": 14,
     "pattern": "Avec le recul, je peux voir que ...",
-    "kor": "되돌아보니, ...라는 것을 알 수 있겠네요.",
+    "translation": "되돌아보니, ...라는 것을 알 수 있겠네요.",
     "b1": [
       "Avec le recul, je peux voir que j'avais tort.",
       "Avec le recul, je peux voir que c'était une bonne idée.",
@@ -366,7 +366,7 @@
   {
     "id": 15,
     "pattern": "Je me suis senti(e) complètement ...",
-    "kor": "저는 완전히 ...한 기분이었어요.",
+    "translation": "저는 완전히 ...한 기분이었어요.",
     "b1": [
       "Je me suis senti complètement perdu dans la ville.",
       "Je me suis sentie complètement fatiguée après le travail.",
@@ -392,7 +392,7 @@
   {
     "id": 16,
     "pattern": "C'était le moment où ...",
-    "kor": "그때가 바로 ...했던 순간이었어요.",
+    "translation": "그때가 바로 ...했던 순간이었어요.",
     "b1": [
       "C'était le moment où nous avons mangé la pizza.",
       "C'était le moment où il a commencé à danser.",
@@ -418,7 +418,7 @@
   {
     "id": 17,
     "pattern": "Pour faire court, ...",
-    "kor": "짧게 말하자면 (요약하자면), ...",
+    "translation": "짧게 말하자면 (요약하자면), ...",
     "b1": [
       "Pour faire court, nous avons passé une bonne journée.",
       "Pour faire court, le film était nul.",
@@ -444,7 +444,7 @@
   {
     "id": 18,
     "pattern": "L'atmosphère était très ...",
-    "kor": "분위기가 매우 ...했어요.",
+    "translation": "분위기가 매우 ...했어요.",
     "b1": [
       "L'atmosphère était très calme au bord du lac.",
       "L'atmosphère était très joyeuse pendant la fête.",
@@ -470,7 +470,7 @@
   {
     "id": 19,
     "pattern": "Si je devais le décrire en un mot, je dirais ...",
-    "kor": "한 마디로 표현하자면 ...라고 말하고 싶네요.",
+    "translation": "한 마디로 표현하자면 ...라고 말하고 싶네요.",
     "b1": [
       "Si je devais le décrire en un mot, je dirais génial.",
       "Si je devais le décrire en un mot, je dirais bizarre.",
@@ -496,7 +496,7 @@
   {
     "id": 20,
     "pattern": "La partie la plus drôle de tout ça, c'est ...",
-    "kor": "이 모든 것 중 가장 웃긴 부분은 ...예요.",
+    "translation": "이 모든 것 중 가장 웃긴 부분은 ...예요.",
     "b1": [
       "La partie la plus drôle de tout ça, c'est quand mon chien a mangé mon gâteau.",
       "La partie la plus drôle de tout ça, c'est sa tête sur la photo.",

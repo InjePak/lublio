@@ -2,7 +2,7 @@
   {
     "id": 1,
     "pattern": "Je voudrais vous informer que ...",
-    "kor": "...라는 것을 알려드리고 싶습니다.",
+    "translation": "...라는 것을 알려드리고 싶습니다.",
     "b1": [
       "Je voudrais vous informer que le magasin est fermé aujourd'hui.",
       "Je voudrais vous informer que le train a dix minutes de retard.",
@@ -28,7 +28,7 @@
   {
     "id": 2,
     "pattern": "Le point clé à retenir ici est ...",
-    "kor": "여기서 기억해야 할 핵심은 ...입니다.",
+    "translation": "여기서 기억해야 할 핵심은 ...입니다.",
     "b1": [
       "Le point clé à retenir ici est qu'il faut être à l'heure.",
       "Le point clé à retenir ici est que ce livre est important.",
@@ -54,7 +54,7 @@
   {
     "id": 3,
     "pattern": "Pour clarifier, j'entends ...",
-    "kor": "명확히 하자면, 제가 의미하는 것은 ...입니다.",
+    "translation": "명확히 하자면, 제가 의미하는 것은 ...입니다.",
     "b1": [
       "Pour clarifier, j'entends que nous partons à midi.",
       "Pour clarifier, j'entends que c'est un cadeau pour toi.",
@@ -80,7 +80,7 @@
   {
     "id": 4,
     "pattern": "Selon le rapport, ...",
-    "kor": "보고서에 따르면, ...",
+    "translation": "보고서에 따르면, ...",
     "b1": [
       "Selon le rapport, il va faire chaud cet été.",
       "Selon le rapport, beaucoup de gens aiment le chocolat.",
@@ -106,7 +106,7 @@
   {
     "id": 5,
     "pattern": "Permettez-moi de reformuler : ...",
-    "kor": "다시 말씀드려 보겠습니다(바꿔 말하자면): ...",
+    "translation": "다시 말씀드려 보겠습니다(바꿔 말하자면): ...",
     "b1": [
       "Permettez-moi de reformuler : c'est trop cher pour nous.",
       "Permettez-moi de reformuler : je suis d'accord avec toi.",
@@ -132,7 +132,7 @@
   {
     "id": 6,
     "pattern": "Ce que je voulais dire, c'était ...",
-    "kor": "제가 말하고 싶었던 것은 ...이었습니다.",
+    "translation": "제가 말하고 싶었던 것은 ...이었습니다.",
     "b1": [
       "Ce que je voulais dire, c'était que je t'aime.",
       "Ce que je voulais dire, c'était que je suis désolé.",
@@ -158,7 +158,7 @@
   {
     "id": 7,
     "pattern": "L'état actuel est que ...",
-    "kor": "현재 상태는 ...입니다.",
+    "translation": "현재 상태는 ...입니다.",
     "b1": [
       "L'état actuel est que nous avons fini le projet.",
       "L'état actuel est que le magasin est ouvert.",
@@ -184,7 +184,7 @@
   {
     "id": 8,
     "pattern": "En d'autres termes, ...",
-    "kor": "다시 말하면, ...",
+    "translation": "다시 말하면, ...",
     "b1": [
       "En d'autres termes, c'est gratuit.",
       "En d'autres termes, je ne peux pas venir.",
@@ -210,7 +210,7 @@
   {
     "id": 9,
     "pattern": "Juste pour s'assurer que nous sommes sur la même longueur d'onde, ...",
-    "kor": "우리가 같은 생각을 하고 있는지 확인하자면, ...",
+    "translation": "우리가 같은 생각을 하고 있는지 확인하자면, ...",
     "b1": [
       "Juste pour s'assurer que nous sommes sur la même longueur d'onde, on part à 8h ?",
       "Juste pour s'assurer que nous sommes sur la même longueur d'onde, c'est toi qui payes ?",
@@ -236,7 +236,7 @@
   {
     "id": 10,
     "pattern": "Cela confirme que ...",
-    "kor": "이것은 ...라는 점을 확인해 줍니다.",
+    "translation": "이것은 ...라는 점을 확인해 줍니다.",
     "b1": [
       "Cela confirme que tu as raison.",
       "Cela confirme que le train est en retard.",
@@ -262,7 +262,7 @@
   {
     "id": 11,
     "pattern": "Permettez-moi de développer sur …",
-    "kor": "...에 대해 좀 더 상세히 설명하겠습니다.",
+    "translation": "...에 대해 좀 더 상세히 설명하겠습니다.",
     "b1": [
       "Permettez-moi de développer sur mon voyage.",
       "Permettez-moi de développer sur ma famille.",
@@ -288,7 +288,7 @@
   {
     "id": 12,
     "pattern": "Les détails sont les suivants : ...",
-    "kor": "세부 사항은 다음과 같습니다: ...",
+    "translation": "세부 사항은 다음과 같습니다: ...",
     "b1": [
       "Les détails sont les suivants : le prix est de dix euros.",
       "Les détails sont les suivants : rendez-vous à midi.",
@@ -314,7 +314,7 @@
   {
     "id": 13,
     "pattern": "Le point important ici n'est pas ..., mais ...",
-    "kor": "여기서 중요한 점은 ...이 아니라 ...입니다.",
+    "translation": "여기서 중요한 점은 ...이 아니라 ...입니다.",
     "b1": [
       "Le point important ici n'est pas le prix, mais la qualité.",
       "Le point important ici n'est pas le temps, mais le plaisir.",
@@ -340,7 +340,7 @@
   {
     "id": 14,
     "pattern": "Par exemple, considérez ...",
-    "kor": "예를 들어, ...을 고려해 보세요.",
+    "translation": "예를 들어, ...을 고려해 보세요.",
     "b1": [
       "Par exemple, considérez ce beau temps.",
       "Par exemple, considérez ce prix bas.",
@@ -366,7 +366,7 @@
   {
     "id": 15,
     "pattern": "L'essentiel est …",
-    "kor": "가장 중요한 것은 ...입니다.",
+    "translation": "가장 중요한 것은 ...입니다.",
     "b1": [
       "L'essentiel est d'être heureux.",
       "L'essentiel est de manger sainement.",
@@ -392,7 +392,7 @@
   {
     "id": 16,
     "pattern": "Passons en revue les principales conclusions : ...",
-    "kor": "주요 결론을 검토해 봅시다: ...",
+    "translation": "주요 결론을 검토해 봅시다: ...",
     "b1": [
       "Passons en revue les principales conclusions : nous avons fini.",
       "Passons en revue les principales conclusions : c'est trop cher.",
@@ -418,7 +418,7 @@
   {
     "id": 17,
     "pattern": "Pour résumer la situation, ...",
-    "kor": "상황을 요약하자면, ...",
+    "translation": "상황을 요약하자면, ...",
     "b1": [
       "Pour résumer la situation, nous sommes en retard.",
       "Pour résumer la situation, nous n'avons plus d'argent.",
@@ -444,7 +444,7 @@
   {
     "id": 18,
     "pattern": "Ce que je comprends, c'est que ...",
-    "kor": "제가 이해한 바로는 ...입니다.",
+    "translation": "제가 이해한 바로는 ...입니다.",
     "b1": [
       "Ce que je comprends, c'est que tu es fatigué.",
       "Ce que je comprends, c'est que le film est fini.",
@@ -470,7 +470,7 @@
   {
     "id": 19,
     "pattern": "Juste pour être clair, …",
-    "kor": "분명히 하자면, ...",
+    "translation": "분명히 하자면, ...",
     "b1": [
       "Juste pour être clair, c'est mon stylo.",
       "Juste pour être clair, je ne viens pas ce soir.",
@@ -496,7 +496,7 @@
   {
     "id": 20,
     "pattern": "Le résultat final était ...",
-    "kor": "최종 결과는 ...이었습니다.",
+    "translation": "최종 결과는 ...이었습니다.",
     "b1": [
       "Le résultat final était un succès.",
       "Le résultat final était décevant.",

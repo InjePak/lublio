@@ -2,7 +2,7 @@
   {
     "id": 1,
     "pattern": "If we ..., then we will ...",
-    "kor": "만약 우리가 ...한다면, 그때 우리는 ...할 것입니다",
+    "translation": "만약 우리가 ...한다면, 그때 우리는 ...할 것입니다",
     "b1": [
       "If we leave now, then we will arrive on time.",
       "If we study together, then we will pass the test.",
@@ -28,7 +28,7 @@
   {
     "id": 2,
     "pattern": "What would happen if ...?",
-    "kor": "만약 ...한다면 무슨 일이 일어날까요?",
+    "translation": "만약 ...한다면 무슨 일이 일어날까요?",
     "b1": [
       "What would happen if it rains tomorrow?",
       "What would happen if I lose my phone?",
@@ -54,7 +54,7 @@
   {
     "id": 3,
     "pattern": "Should the outcome be ..., we must ...",
-    "kor": "결과가 ...라면, 우리는 ...해야 합니다",
+    "translation": "결과가 ...라면, 우리는 ...해야 합니다",
     "b1": [
       "Should the outcome be bad, we must try again.",
       "Should the outcome be good, we must celebrate.",
@@ -80,7 +80,7 @@
   {
     "id": 4,
     "pattern": "If I had known ..., I would have ...",
-    "kor": "만약 내가 ...을 알았더라면, 나는 ...했을 것입니다",
+    "translation": "만약 내가 ...을 알았더라면, 나는 ...했을 것입니다",
     "b1": [
       "If I had known you were coming, I would have cooked.",
       "If I had known about the rain, I would have taken an umbrella.",
@@ -106,7 +106,7 @@
   {
     "id": 5,
     "pattern": "Assuming that ..., it is likely that ...",
-    "kor": "...라고 가정하면, ...할 가능성이 높습니다",
+    "translation": "...라고 가정하면, ...할 가능성이 높습니다",
     "b1": [
       "Assuming that it is sunny, it is likely that we will go out.",
       "Assuming that he is busy, it is likely that he will be late.",
@@ -132,7 +132,7 @@
   {
     "id": 6,
     "pattern": "I predict that ... will happen.",
-    "kor": "저는 ...이 일어날 것이라고 예측합니다",
+    "translation": "저는 ...이 일어날 것이라고 예측합니다",
     "b1": [
       "I predict that it will snow tomorrow.",
       "I predict that our team will win the game.",
@@ -158,7 +158,7 @@
   {
     "id": 7,
     "pattern": "Unless ... happens, we won't be able to ...",
-    "kor": "...이 일어나지 않는 한, 우리는 ...할 수 없을 것입니다",
+    "translation": "...이 일어나지 않는 한, 우리는 ...할 수 없을 것입니다",
     "b1": [
       "Unless it stops raining, we won't be able to play.",
       "Unless you help me, I won't be able to finish.",
@@ -184,7 +184,7 @@
   {
     "id": 8,
     "pattern": "In the event of ..., we should ...",
-    "kor": "...할 경우에, 우리는 ...해야 합니다",
+    "translation": "...할 경우에, 우리는 ...해야 합니다",
     "b1": [
       "In the event of rain, we should stay home.",
       "In the event of fire, we should use the stairs.",
@@ -210,7 +210,7 @@
   {
     "id": 9,
     "pattern": "There's a high probability that ...",
-    "kor": "...할 확률이 높습니다",
+    "translation": "...할 확률이 높습니다",
     "b1": [
       "There's a high probability that it will rain.",
       "There's a high probability that he will win.",
@@ -236,7 +236,7 @@
   {
     "id": 10,
     "pattern": "We might see ... if ...",
-    "kor": "만약 ...한다면 우리는 ...을 볼 수도 있습니다",
+    "translation": "만약 ...한다면 우리는 ...을 볼 수도 있습니다",
     "b1": [
       "We might see a rainbow if the sun comes out.",
       "We might see a bird if we go to the park.",
@@ -262,7 +262,7 @@
   {
     "id": 11,
     "pattern": "This suggests that the future holds ...",
-    "kor": "이것은 미래가 ...할 것임을 시사합니다",
+    "translation": "이것은 미래가 ...할 것임을 시사합니다",
     "b1": [
       "This suggests that the future holds more rain.",
       "This suggests that the future holds happy days.",
@@ -288,7 +288,7 @@
   {
     "id": 12,
     "pattern": "The outcome depends entirely on whether or not ...",
-    "kor": "그 결과는 전적으로 ...인지 아닌지에 달려 있습니다",
+    "translation": "그 결과는 전적으로 ...인지 아닌지에 달려 있습니다",
     "b1": [
       "The outcome depends entirely on whether or not it rains.",
       "The outcome depends entirely on whether or not he comes.",
@@ -314,7 +314,7 @@
   {
     "id": 13,
     "pattern": "If the trend continues, then ...",
-    "kor": "만약 이러한 추세가 계속된다면, 그때는 ...",
+    "translation": "만약 이러한 추세가 계속된다면, 그때는 ...",
     "b1": [
       "If the trend continues, then prices will go up.",
       "If the trend continues, then we will have more work.",
@@ -340,7 +340,7 @@
   {
     "id": 14,
     "pattern": "Had they considered ..., the result would have been ...",
-    "kor": "만약 그들이 ...을 고려했더라면, 결과는 ...였을 것입니다",
+    "translation": "만약 그들이 ...을 고려했더라면, 결과는 ...였을 것입니다",
     "b1": [
       "Had they considered the price, the result would have been better.",
       "Had they considered the weather, the result would have been different.",
@@ -366,7 +366,7 @@
   {
     "id": 15,
     "pattern": "We need a backup plan in case ...",
-    "kor": "...할 경우를 대비해 보조 계획(B플랜)이 필요합니다",
+    "translation": "...할 경우를 대비해 보조 계획(B플랜)이 필요합니다",
     "b1": [
       "We need a backup plan in case it rains.",
       "We need a backup plan in case the bus is late.",
@@ -392,7 +392,7 @@
   {
     "id": 16,
     "pattern": "It is conceivable that ...",
-    "kor": "...라는 것은 상상할 수 있는 일입니다(가능성이 있습니다)",
+    "translation": "...라는 것은 상상할 수 있는 일입니다(가능성이 있습니다)",
     "b1": [
       "It is conceivable that we will finish early.",
       "It is conceivable that he will win the race.",
@@ -418,7 +418,7 @@
   {
     "id": 17,
     "pattern": "Without ..., it is impossible to ...",
-    "kor": "... 없이는 ...하는 것이 불가능합니다",
+    "translation": "... 없이는 ...하는 것이 불가능합니다",
     "b1": [
       "Without money, it is impossible to buy this.",
       "Without a map, it is impossible to find the way.",
@@ -444,7 +444,7 @@
   {
     "id": 18,
     "pattern": "The evidence points towards ... happening.",
-    "kor": "증거는 ...이 일어나는 쪽을 향하고 있습니다",
+    "translation": "증거는 ...이 일어나는 쪽을 향하고 있습니다",
     "b1": [
       "The evidence points towards rain happening.",
       "The evidence points towards him winning.",
@@ -470,7 +470,7 @@
   {
     "id": 19,
     "pattern": "On the condition that ..., we can proceed with ...",
-    "kor": "...라는 조건 하에, 우리는 ...를 진행할 수 있습니다",
+    "translation": "...라는 조건 하에, 우리는 ...를 진행할 수 있습니다",
     "b1": [
       "On the condition that it is sunny, we can proceed with the picnic.",
       "On the condition that you help, we can proceed with the work.",
@@ -496,7 +496,7 @@
   {
     "id": 20,
     "pattern": "The long-term implication is ...",
-    "kor": "장기적인 영향(함축적 의미)은 ...입니다",
+    "translation": "장기적인 영향(함축적 의미)은 ...입니다",
     "b1": [
       "The long-term implication is more work.",
       "The long-term implication is better health.",
