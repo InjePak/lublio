@@ -2,7 +2,7 @@
   {
     "id": 1,
     "pattern": "À mon avis, ...",
-    "translation": "제 의견으로는, ...",
+    "translation": "In my opinion, ...",
     "b1": [
       "À mon avis, ce film est très intéressant.",
       "À mon avis, nous devrions manger plus de légumes.",
@@ -28,7 +28,7 @@
   {
     "id": 2,
     "pattern": "Je crois que ...",
-    "translation": "저는 ...라고 생각합니다.",
+    "translation": "I believe that ...",
     "b1": [
       "Je crois que c'est une bonne idée.",
       "Je crois que Paul est déjà parti.",
@@ -54,7 +54,7 @@
   {
     "id": 3,
     "pattern": "Il me semble que ...",
-    "translation": "제게는 ...인 것 같습니다.",
+    "translation": "It seems to me that ...",
     "b1": [
       "Il me semble que tu es fatigué.",
       "Il me semble que le bus est en retard.",
@@ -80,7 +80,7 @@
   {
     "id": 4,
     "pattern": "De mon point de vue, ...",
-    "translation": "제 관점에서는, ...",
+    "translation": "From my perspective, ...",
     "b1": [
       "De mon point de vue, c'est trop cher.",
       "De mon point de vue, le sport est important.",
@@ -106,7 +106,7 @@
   {
     "id": 5,
     "pattern": "Je suis convaincu(e) que ...",
-    "translation": "저는 ...라고 강하게 느낍니다.",
+    "translation": "I strongly feel that ...",
     "b1": [
       "Je suis convaincu que tu vas réussir.",
       "Je suis convaincue qu'elle va venir.",
@@ -132,7 +132,7 @@
   {
     "id": 6,
     "pattern": "Je dirais que ...",
-    "translation": "저는 ...라고 주장하고 싶습니다.",
+    "translation": "I would argue that ...",
     "b1": [
       "Je dirais que c'est un bon début.",
       "Je dirais que la fête était sympa.",
@@ -158,7 +158,7 @@
   {
     "id": 7,
     "pattern": "Ce que je veux dire, c'est que ...",
-    "translation": "제가 의미하는 것은, ...",
+    "translation": "What I mean is, ...",
     "b1": [
       "Ce que je veux dire, c'est que c'est important.",
       "Ce que je veux dire, c'est que je suis désolé.",
@@ -184,7 +184,7 @@
   {
     "id": 8,
     "pattern": "Si vous voulez mon avis, ...",
-    "translation": "제 의견을 물으신다면, ...",
+    "translation": "If you ask me, ...",
     "b1": [
       "Si vous voulez mon avis, il ne viendra pas.",
       "Si vous voulez mon avis, c'est trop tard.",
@@ -210,7 +210,7 @@
   {
     "id": 9,
     "pattern": "Je suis tout à fait d'accord avec ...",
-    "translation": "저는 ...에 전적으로 동의합니다.",
+    "translation": "I couldn't agree more with ...",
     "b1": [
       "Je suis tout à fait d'accord avec toi.",
       "Je suis tout à fait d'accord avec cette idée.",
@@ -236,7 +236,7 @@
   {
     "id": 10,
     "pattern": "C'est un point valable, mais ...",
-    "translation": "그것은 일리가 있지만, ...",
+    "translation": "That's a valid point, but ...",
     "b1": [
       "C'est un point valable, mais c'est trop cher.",
       "C'est un point valable, mais je n'ai pas le temps.",
@@ -262,7 +262,7 @@
   {
     "id": 11,
     "pattern": "Je me permets de ne pas être d'accord sur ...",
-    "translation": "저는 ...에 대해 이의를 제기합니다.",
+    "translation": "I beg to differ on ...",
     "b1": [
       "Je me permets de ne pas être d'accord sur le prix.",
       "Je me permets de ne pas être d'accord sur la couleur.",
@@ -288,7 +288,7 @@
   {
     "id": 12,
     "pattern": "Bien que je comprenne que ..., je pense toujours que …",
-    "translation": "...라는 것을 이해하지만, 저는 여전히 ...라고 생각합니다.",
+    "translation": "While I understand that ..., I still feel ...",
     "b1": [
       "Bien que je comprenne que tu es occupé, je pense toujours que tu devrais venir.",
       "Bien que je comprenne que c'est difficile, je pense toujours que c'est possible.",
@@ -314,7 +314,7 @@
   {
     "id": 13,
     "pattern": "Sauf votre respect, ...",
-    "translation": "죄송하지만 (정중히), ...",
+    "translation": "With all due respect, ...",
     "b1": [
       "Sauf votre respect, je ne suis pas d'accord.",
       "Sauf votre respect, vous avez oublié un détail.",
@@ -340,7 +340,7 @@
   {
     "id": 14,
     "pattern": "Je ne suis pas entièrement sûr(e) de …",
-    "translation": "저는 ...에 대해 완전히 확신하지 못합니다.",
+    "translation": "I'm not entirely sure about ...",
     "b1": [
       "Je ne suis pas entièrement sûr de l'heure.",
       "Je ne suis pas entièrement sûre de ton nom.",
@@ -366,7 +366,7 @@
   {
     "id": 15,
     "pattern": "Pourriez-vous développer sur ... ?",
-    "translation": "...에 대해 더 자세히 설명해 주시겠어요?",
+    "translation": "Could you elaborate on ...?",
     "b1": [
       "Pourriez-vous développer sur ce point ?",
       "Pourriez-vous développer sur votre idée ?",
@@ -392,7 +392,7 @@
   {
     "id": 16,
     "pattern": "J'ai des sentiments mitigés à propos de …",
-    "translation": "저는 ...에 대해 복합적인 감정이 있습니다.",
+    "translation": "I have mixed feelings about ...",
     "b1": [
       "J'ai des sentiments mitigés à propos de ce livre.",
       "J'ai des sentiments mitigés à propos de mon nouveau travail.",
@@ -418,7 +418,7 @@
   {
     "id": 17,
     "pattern": "Mettons-nous d'accord pour ne pas être d'accord sur …",
-    "translation": "...에 대해서는 서로 의견이 다르다는 점에 동의합시다.",
+    "translation": "Let's agree to disagree on ...",
     "b1": [
       "Mettons-nous d'accord pour ne pas être d'accord sur ce film.",
       "Mettons-nous d'accord pour ne pas être d'accord sur la musique.",
@@ -444,7 +444,7 @@
   {
     "id": 18,
     "pattern": "Avez-vous considéré ...?",
-    "translation": "...를 고려해 보셨나요?",
+    "translation": "Have you considered ...?",
     "b1": [
       "Avez-vous considéré cette option ?",
       "Avez-vous considéré le prix ?",
@@ -470,7 +470,7 @@
   {
     "id": 19,
     "pattern": "Ce n'est pas toujours le cas parce que …",
-    "translation": "...이기 때문에 항상 그런 것은 아닙니다.",
+    "translation": "That's not always the case because ...",
     "b1": [
       "Ce n'est pas toujours le cas parce que c'est difficile.",
       "Ce n'est pas toujours le cas parce que les gens changent.",
@@ -496,7 +496,7 @@
   {
     "id": 20,
     "pattern": "Je vois les choses …",
-    "translation": "저는 그것을 …라고 봅니다.",
+    "translation": "I see things ...",
     "b1": [
       "Je vois les choses différemment.",
       "Je vois les choses positivement.",

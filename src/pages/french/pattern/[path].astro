@@ -71,8 +71,8 @@ switch (chapter.id) {
 const pageTitle = "French Sentence Patterns";
 ---
 
-<BaseLayout pageTitle={pageTitle + " - Franco"}>
-  <Box2 title={chapter.fra} subtitle={chapter.kor} language="fra" />
+<BaseLayout pageTitle={pageTitle + " - Lublio"}>
+  <Box2 title={chapter.fra} subtitle={chapter.eng} language="fra" />
 
   {
     jsonData.map((post: any) => (
@@ -81,7 +81,7 @@ const pageTitle = "French Sentence Patterns";
         title={post.pattern}
         subtitle={post.translation}
         language="fra"
-        path={"/franco/pattern/" + path + "/" + post.id}
+        path={"/french/pattern/" + path + "/" + post.id}
       />
     ))
   }

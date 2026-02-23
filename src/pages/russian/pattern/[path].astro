@@ -68,11 +68,11 @@ switch (chapter.id) {
     break;
 }
 
-const pageTitle = "러시아어 패턴";
+const pageTitle = "Russian Sentence Patterns";
 ---
 
 <BaseLayout pageTitle={pageTitle + " - Lublio"}>
-  <Box2 title={chapter.rus} subtitle={chapter.kor} language="rus" />
+  <Box2 title={chapter.rus} subtitle={chapter.eng} language="rus" />
 
   {
     jsonData.map((post: any) => (
@@ -81,7 +81,7 @@ const pageTitle = "러시아어 패턴";
         title={post.pattern}
         subtitle={post.translation}
         language="rus"
-        path={"/russo/pattern/" + path + "/" + post.id}
+        path={"/russian/pattern/" + path + "/" + post.id}
       />
     ))
   }
