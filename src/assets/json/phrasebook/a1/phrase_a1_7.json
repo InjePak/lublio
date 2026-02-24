@@ -4,174 +4,224 @@
     "eng": "I'm hungry.",
     "fra": "J'ai faim.",
     "deu": "Ich habe Hunger.",
-    "rus": "Я хочу есть."
+    "rus": "Я хочу есть.",
+    "esp": "Tengo hambre.",
+    "ita": "Ho fame."
   },
   {
     "kor": "목이 말라요.",
     "eng": "I'm thirsty.",
     "fra": "J'ai soif.",
     "deu": "Ich habe Durst.",
-    "rus": "Я хочу пить."
+    "rus": "Я хочу пить.",
+    "esp": "Tengo sed.",
+    "ita": "Ho sete."
   },
   {
     "kor": "예약을 하고 싶습니다.",
     "eng": "I would like to book a table.",
     "fra": "Je voudrais réserver une table.",
     "deu": "Ich möchte einen Tisch reservieren.",
-    "rus": "Я хотел бы забронировать столик."
+    "rus": "Я хотел бы забронировать столик.",
+    "esp": "Me gustaría reservar una mesa.",
+    "ita": "Vorrei prenotare un tavolo."
   },
   {
     "kor": "두 명 자리가 있나요?",
     "eng": "Do you have a table for two?",
     "fra": "Avez-vous une table pour deux ?",
     "deu": "Haben Sie einen Tisch für zwei Personen?",
-    "rus": "У вас есть столик на двоих?"
+    "rus": "У вас есть столик на двоих?",
+    "esp": "¿Tiene mesa para dos?",
+    "ita": "Avete un tavolo per due?"
   },
   {
     "kor": "메뉴판 좀 보여주시겠어요?",
     "eng": "Could I see the menu, please?",
     "fra": "Puis-je avoir la carte, s'il vous plaît ?",
     "deu": "Könnte ich bitte die Speisekarte haben?",
-    "rus": "Можно мне меню, пожалуйста?"
+    "rus": "Можно мне меню, пожалуйста?",
+    "esp": "¿Puedo ver el menú, por favor?",
+    "ita": "Posso vedere il menù, per favore?"
   },
   {
     "kor": "주문하시겠습니까?",
     "eng": "Are you ready to order?",
     "fra": "Voulez-vous commander ?",
     "deu": "Möchten Sie bestellen?",
-    "rus": "Вы готовы сделать заказ?"
+    "rus": "Вы готовы сделать заказ?",
+    "esp": "¿Está listo para pedir?",
+    "ita": "Siete pronti per ordinare?"
   },
   {
     "kor": "물 한 병 주세요.",
     "eng": "A bottle of water, please.",
     "fra": "Une bouteille d'eau, s'il vous plaît.",
     "deu": "Eine Flasche Wasser, bitte.",
-    "rus": "Бутылку воды, пожалуйста."
+    "rus": "Бутылку воды, пожалуйста.",
+    "esp": "Una botella de agua, por favor.",
+    "ita": "Una bottiglia d'acqua, per favore."
   },
   {
     "kor": "저는 피쉬 앤 칩스를 먹겠습니다.",
     "eng": "I will have the fish and chips.",
     "fra": "Je vais prendre le fish and chips.",
     "deu": "Ich nehme Fish and Chips.",
-    "rus": "Я возьму рыбу и картофель фри."
+    "rus": "Я возьму рыбу и картофель фри.",
+    "esp": "Tomaré el pescado con patatas fritas.",
+    "ita": "Prendo il fish and chips."
   },
   {
     "kor": "오늘의 요리는 무엇인가요?",
     "eng": "What is the soup of the day?",
     "fra": "Quelle est la soupe du jour ?",
     "deu": "Was ist die heutige Suppe?",
-    "rus": "Какой сегодня суп дня?"
+    "rus": "Какой сегодня суп дня?",
+    "esp": "¿Cuál es la sopa del día?",
+    "ita": "Qual è la zuppa del giorno?"
   },
   {
     "kor": "저는 채식주의자입니다.",
     "eng": "I'm a vegetarian.",
     "fra": "Je suis végétarien(ne).",
     "deu": "Ich bin Vegetarier / Vegetarierin.",
-    "rus": "Я вегетарианец."
+    "rus": "Я вегетарианец.",
+    "esp": "Soy vegetariano.",
+    "ita": "Sono vegetariano."
   },
   {
     "kor": "매운 음식인가요?",
     "eng": "Is it spicy?",
     "fra": "Est-ce que c'est épicé ?",
     "deu": "Ist das scharf?",
-    "rus": "Это острое блюдо?"
+    "rus": "Это острое блюдо?",
+    "esp": "¿Es picante?",
+    "ita": "È piccante?"
   },
   {
     "kor": "소금 좀 건네주시겠어요?",
     "eng": "Could you pass the salt, please?",
     "fra": "Pouvez-vous me passer le sel, s'il vous plaît ?",
     "deu": "Können Sie mir bitte das Salz reichen?",
-    "rus": "Передайте, пожалуйста, соль."
+    "rus": "Передайте, пожалуйста, соль.",
+    "esp": "¿Me pasa la sal, por favor?",
+    "ita": "Mi passa il sale, per favore?"
   },
   {
     "kor": "아침 식사는 몇 시에 하나요?",
     "eng": "What time is breakfast?",
     "fra": "À quelle heure est le petit-déjeuner ?",
     "deu": "Wann gibt es Frühstück?",
-    "rus": "Во сколько завтрак?"
+    "rus": "Во сколько завтрак?",
+    "esp": "¿A qué hora es el desayuno?",
+    "ita": "A che ora è la colazione?"
   },
   {
     "kor": "맛있게 드세요!",
     "eng": "Enjoy your meal!",
     "fra": "Bon appétit !",
     "deu": "Guten Appetit!",
-    "rus": "Приятного аппетита!"
+    "rus": "Приятного аппетита!",
+    "esp": "¡Buen provecho!",
+    "ita": "Buon appetito!"
   },
   {
     "kor": "정말 맛있어요.",
     "eng": "It is delicious.",
     "fra": "C'est délicieux.",
     "deu": "Das ist lecker.",
-    "rus": "Это очень вкусно."
+    "rus": "Это очень вкусно.",
+    "esp": "Está delicioso.",
+    "ita": "È delizioso."
   },
   {
     "kor": "우유를 넣은 차 한 잔 주세요.",
     "eng": "A cup of tea with milk, please.",
     "fra": "Un thé au lait, s'il vous plaît.",
     "deu": "Eine Tasse Tee mit Milch, bitte.",
-    "rus": "Чашку чая с молоком, пожалуйста."
+    "rus": "Чашку чая с молоком, пожалуйста.",
+    "esp": "Una taza de té con leche, por favor.",
+    "ita": "Una tazza di tè al latte, per favore."
   },
   {
     "kor": "설탕은 넣지 마세요.",
     "eng": "No sugar, please.",
     "fra": "Pas de sucre, s'il vous plaît.",
     "deu": "Ohne Zucker, bitte.",
-    "rus": "Без сахара, пожалуйста."
+    "rus": "Без сахара, пожалуйста.",
+    "esp": "Sin azúcar, por favor.",
+    "ita": "Senza zucchero, per favore."
   },
   {
     "kor": "포크를 떨어뜨렸어요.",
     "eng": "I dropped my fork.",
     "fra": "J'ai fait tomber ma fourchette.",
     "deu": "Ich habe meine Gabel fallen lassen.",
-    "rus": "Я уронил вилку."
+    "rus": "Я уронил вилку.",
+    "esp": "Se me cayó el tenedor.",
+    "ita": "Mi è caduta la forchetta."
   },
   {
     "kor": "이 요리는 너무 짭니다.",
     "eng": "This dish is too salty.",
     "fra": "Ce plat est trop salé.",
     "deu": "Dieses Gericht ist zu salzig.",
-    "rus": "Это блюдо слишком соленое."
+    "rus": "Это блюдо слишком соленое.",
+    "esp": "Este plato está demasiado salado.",
+    "ita": "Questo piatto è troppo salato."
   },
   {
     "kor": "디저트 메뉴가 있나요?",
     "eng": "Is there a dessert menu?",
     "fra": "Y a-t-il une carte des desserts ?",
     "deu": "Gibt es eine Nachtischkarte?",
-    "rus": "У вас есть десертное меню?"
+    "rus": "У вас есть десертное меню?",
+    "esp": "¿Tienen menú de postres?",
+    "ita": "C'è un menù dei dolci?"
   },
   {
     "kor": "계산서 좀 주시겠어요?",
     "eng": "Could I have the bill, please?",
     "fra": "L'addition, s'il vous plaît.",
     "deu": "Die Rechnung, bitte.",
-    "rus": "Можно счет, пожалуйста?"
+    "rus": "Можно счет, пожалуйста?",
+    "esp": "La cuenta, por favor.",
+    "ita": "Il conto, per favore."
   },
   {
     "kor": "카드로 결제할 수 있나요?",
     "eng": "Can I pay by card?",
     "fra": "Puis-je payer par carte ?",
     "deu": "Kann ich mit Karte zahlen?",
-    "rus": "Можно ли оплатить картой?"
+    "rus": "Можно ли оплатить картой?",
+    "esp": "¿Puedo pagar con tarjeta?",
+    "ita": "Posso pagare con la carta?"
   },
   {
     "kor": "현금으로 계산할게요.",
     "eng": "I will pay in cash.",
     "fra": "Je vais payer en espèces.",
     "deu": "Ich bezahle bar.",
-    "rus": "Я заплачу наличными."
+    "rus": "Я заплачу наличными.",
+    "esp": "Pagaré en efectivo.",
+    "ita": "Pagherò in contanti."
   },
   {
     "kor": "남은 음식을 포장해 주시겠어요?",
     "eng": "Could I have a doggy bag, please?",
     "fra": "Puis-je avoir un sac pour les restes ?",
     "deu": "Kann ich das bitte mitnehmen?",
-    "rus": "Можно мне упаковать остатки с собой?"
+    "rus": "Можно мне упаковать остатки с собой?",
+    "esp": "¿Me lo puede poner para llevar, por favor?",
+    "ita": "Può portarmi un contenitore per gli avanzi?"
   },
   {
     "kor": "거스름돈은 가지세요.",
     "eng": "Keep the change.",
     "fra": "Gardez la monnaie.",
     "deu": "Stimmt so.",
-    "rus": "Сдачи не надо."
+    "rus": "Сдачи не надо.",
+    "esp": "Quédese con el cambio.",
+    "ita": "Tenga pure il resto."
   }
 ]

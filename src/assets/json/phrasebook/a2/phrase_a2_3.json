@@ -4,174 +4,224 @@
     "eng": "I would like to book a single room for two nights.",
     "fra": "Je voudrais réserver une chambre simple pour deux nuits.",
     "deu": "Ich möchte ein Einzelzimmer für zwei Nächte buchen.",
-    "rus": "Я хотел бы забронировать одноместный номер на две ночи."
+    "rus": "Я хотел бы забронировать одноместный номер на две ночи.",
+    "esp": "Me gustaría reservar una habitación individual por dos noches.",
+    "ita": "Vorrei prenotare una camera singola per due notti."
   },
   {
     "kor": "조식이 숙박 요금에 포함되어 있나요?",
     "eng": "Is breakfast included in the price?",
     "fra": "Est-ce que le petit-déjeuner est inclus dans le prix ?",
     "deu": "Ist das Frühstück im Preis inbegriffen?",
-    "rus": "Завтрак включен в стоимость?"
+    "rus": "Завтрак включен в стоимость?",
+    "esp": "¿El desayuno está incluido en el precio?",
+    "ita": "La colazione è inclusa nel prezzo?"
   },
   {
     "kor": "체크인은 몇 시부터 할 수 있나요?",
     "eng": "What time can I check in?",
     "fra": "À quelle heure puis-je faire le check-in ?",
     "deu": "Ab wann kann ich einchecken?",
-    "rus": "Во сколько начинается регистрация?"
+    "rus": "Во сколько начинается регистрация?",
+    "esp": "¿A qué hora puedo hacer el registro de entrada?",
+    "ita": "A che ora posso fare il check-in?"
   },
   {
     "kor": "시내 중심가로 가는 지도가 있나요?",
     "eng": "Do you have a map of the city centre?",
     "fra": "Avez-vous un plan du centre-ville ?",
     "deu": "Haben Sie einen Stadtplan vom Zentrum?",
-    "rus": "У вас есть карта центра города?"
+    "rus": "У вас есть карта центра города?",
+    "esp": "¿Tiene un mapa del centro de la ciudad?",
+    "ita": "Ha una mappa del centro città?"
   },
   {
     "kor": "공항까지 셔틀 버스가 있나요?",
     "eng": "Is there a shuttle bus to the airport?",
     "fra": "Y a-t-il une navette pour l'aéroport ?",
     "deu": "Gibt es einen Shuttlebus zum Flughafen?",
-    "rus": "Есть ли шаттл до аэропорта?"
+    "rus": "Есть ли шаттл до аэропорта?",
+    "esp": "¿Hay un autobús de enlace al aeropuerto?",
+    "ita": "C'è una navetta per l'aeroporto?"
   },
   {
     "kor": "제 방에 수건이 더 필요합니다.",
     "eng": "I need more towels in my room.",
     "fra": "J'ai besoin de plus de serviettes dans ma chambre.",
     "deu": "Ich brauche mehr Handtücher in meinem Zimmer.",
-    "rus": "Мне нужно больше полотенец в номер."
+    "rus": "Мне нужно больше полотенец в номер.",
+    "esp": "Necesito más toallas en mi habitación.",
+    "ita": "Ho bisogno di più asciugamani nella mia camera."
   },
   {
     "kor": "런던행 기차표 두 장을 사고 싶습니다.",
     "eng": "I would like to buy two tickets to London.",
     "fra": "Je voudrais acheter deux billets pour Londres.",
     "deu": "Ich möchte zwei Fahrkarten nach London kaufen.",
-    "rus": "Я хотел бы купить два билета до Лондона."
+    "rus": "Я хотел бы купить два билета до Лондона.",
+    "esp": "Me gustaría comprar dos billetes para Londres.",
+    "ita": "Vorrei comprare due biglietti per Londra."
   },
   {
     "kor": "다음 기차는 몇 시에 출발하나요?",
     "eng": "What time does the next train leave?",
     "fra": "À quelle heure part le prochain train ?",
     "deu": "Wann fährt der nächste Zug ab?",
-    "rus": "Во сколько отправляется следующий поезд?"
+    "rus": "Во сколько отправляется следующий поезд?",
+    "esp": "¿A qué hora sale el próximo tren?",
+    "ita": "A che ora parte il prossimo treno?"
   },
   {
     "kor": "이 버스는 시청 근처에 서나요?",
     "eng": "Does this bus stop near the town hall?",
     "fra": "Est-ce que ce bus s'arrête près de l'hôtel de ville ?",
     "deu": "Hält dieser Bus in der Nähe des Rathauses?",
-    "rus": "Этот автобус останавливается возле ратуши?"
+    "rus": "Этот автобус останавливается возле ратуши?",
+    "esp": "¿Este autobús para cerca del ayuntamiento?",
+    "ita": "Questo autobus ferma vicino al municipio?"
   },
   {
     "kor": "수하물을 맡길 수 있는 곳이 있나요?",
     "eng": "Is there somewhere I can leave my luggage?",
     "fra": "Y a-t-il un endroit où je peux laisser mes bagages ?",
     "deu": "Gibt es einen Ort, an dem ich mein Gepäck lassen kann?",
-    "rus": "Есть ли здесь место, где я могу оставить свой багаж?"
+    "rus": "Есть ли здесь место, где я могу оставить свой багаж?",
+    "esp": "¿Hay algún lugar donde pueda dejar mi equipaje?",
+    "ita": "C'è un posto dove posso lasciare i bagagli?"
   },
   {
     "kor": "방에서 와이파이를 사용할 수 있나요?",
     "eng": "Can I use the Wi-Fi in the room?",
     "fra": "Puis-je utiliser le Wi-Fi dans la chambre ?",
     "deu": "Kann ich das WLAN im Zimmer nutzen?",
-    "rus": "Можно ли пользоваться Wi-Fi в номере?"
+    "rus": "Можно ли пользоваться Wi-Fi в номере?",
+    "esp": "¿Puedo usar el Wi-Fi en la habitación?",
+    "ita": "Posso usare il Wi-Fi in camera?"
   },
   {
     "kor": "엘리베이터가 작동하지 않습니다.",
     "eng": "The lift is not working.",
     "fra": "L'ascenseur ne fonctionne pas.",
     "deu": "Der Aufzug funktioniert nicht.",
-    "rus": "Лифт не работает."
+    "rus": "Лифт не работает.",
+    "esp": "El ascensor no funciona.",
+    "ita": "L'ascensore non funziona."
   },
   {
     "kor": "창가 좌석으로 부탁드립니다.",
     "eng": "A window seat, please.",
     "fra": "Un siège côté fenêtre, s'il vous plaît.",
     "deu": "Einen Fensterplatz, bitte.",
-    "rus": "Место у окна, пожалуйста."
+    "rus": "Место у окна, пожалуйста.",
+    "esp": "Un asiento de ventanilla, por favor.",
+    "ita": "Un posto vicino al finestrino, per favore."
   },
   {
     "kor": "택시를 불러 주시겠어요?",
     "eng": "Could you call a taxi for me, please?",
     "fra": "Pourriez-vous m'appeler un taxi, s'il vous plaît ?",
     "deu": "Könnten Sie mir bitte ein Taxi rufen?",
-    "rus": "Вы не могли бы вызвать мне такси?"
+    "rus": "Вы не могли бы вызвать мне такси?",
+    "esp": "¿Podría pedirme un taxi, por favor?",
+    "ita": "Potrebbe chiamarmi un taxi, per favore?"
   },
   {
     "kor": "근처에 좋은 이탈리아 식당을 추천해 주시겠어요?",
     "eng": "Can you recommend a good Italian restaurant nearby?",
     "fra": "Pouvez-vous recommander un bon restaurant italien à proximité ?",
     "deu": "Können Sie ein gutes italienisches Restaurant in der Nähe empfehlen?",
-    "rus": "Вы можете порекомендовать хороший итальянский ресторан поблизости?"
+    "rus": "Вы можете порекомендовать хороший итальянский ресторан поблизости?",
+    "esp": "¿Puede recomendarme un buen restaurante italiano cerca?",
+    "ita": "Può consigliarmi un buon ristorante italiano qui vicino?"
   },
   {
     "kor": "왕복 티켓인가요, 편도 티켓인가요?",
     "eng": "Is it a return ticket or a single ticket?",
     "fra": "Est-ce un aller-retour ou un aller simple ?",
     "deu": "Ist das eine Rückfahrkarte oder eine einfache Fahrt?",
-    "rus": "Билет в обе стороны или в одну?"
+    "rus": "Билет в обе стороны или в одну?",
+    "esp": "¿Es un billete de ida y vuelta o solo de ida?",
+    "ita": "È un biglietto di andata e ritorno o solo andata?"
   },
   {
     "kor": "체크아웃은 오전 11시까지 해야 합니다.",
     "eng": "You must check out by eleven a.m.",
     "fra": "Vous devez libérer la chambre avant onze heures.",
     "deu": "Sie müssen bis elf Uhr auschecken.",
-    "rus": "Вы должны выехать до одиннадцати утра."
+    "rus": "Вы должны выехать до одиннадцати утра.",
+    "esp": "Debe realizar la salida antes de las once de la mañana.",
+    "ita": "Deve fare il check-out entro le undici del mattino."
   },
   {
     "kor": "신용카드로 결제할 수 있나요?",
     "eng": "Can I pay by credit card?",
     "fra": "Puis-je payer par carte de crédit ?",
     "deu": "Kann ich mit Kreditkarte bezahlen?",
-    "rus": "Можно ли оплатить кредитной картой?"
+    "rus": "Можно ли оплатить кредитной картой?",
+    "esp": "¿Puedo pagar con tarjeta de crédito?",
+    "ita": "Posso pagare con carta di credito?"
   },
   {
     "kor": "방이 너무 시끄러워서 잠을 잘 수가 없어요.",
     "eng": "The room is too noisy and I can't sleep.",
     "fra": "La chambre est trop bruyante et je ne peux pas dormir.",
     "deu": "Das Zimmer ist zu laut und ich kann nicht schlafen.",
-    "rus": "В номере слишком шумно, я не могу уснуть."
+    "rus": "В номере слишком шумно, я не могу уснуть.",
+    "esp": "La habitación es muy ruidosa y no puedo dormir.",
+    "ita": "La camera è troppo rumorosa e non riesco a dormire."
   },
   {
     "kor": "에어컨을 어떻게 켜나요?",
     "eng": "How do I turn on the air conditioning?",
     "fra": "Comment allumer la climatisation ?",
     "deu": "Wie schalte ich die Klimaanlage ein?",
-    "rus": "Как включить кондиционер?"
+    "rus": "Как включить кондиционер?",
+    "esp": "¿Cómo se enciende el aire acondicionado?",
+    "ita": "Come si accende l'aria condizionata?"
   },
   {
     "kor": "이 주소로 가주세요.",
     "eng": "Please take me to this address.",
     "fra": "S'il vous plaît, emmenez-moi à cette adresse.",
     "deu": "Bitte bringen Sie mich zu dieser Adresse.",
-    "rus": "Пожалуйста, отвезите меня по этому адресу."
+    "rus": "Пожалуйста, отвезите меня по этому адресу.",
+    "esp": "Por favor, lléveme a esta dirección.",
+    "ita": "Per favore, mi porti a questo indirizzo."
   },
   {
     "kor": "비행기가 2시간 지연되었습니다.",
     "eng": "The flight is delayed by two hours.",
     "fra": "Le vol est retardé de deux heures.",
     "deu": "Der Flug hat zwei Stunden Verspätung.",
-    "rus": "Рейс задерживается на два часа."
+    "rus": "Рейс задерживается на два часа.",
+    "esp": "El vuelo se ha retrasado dos horas.",
+    "ita": "Il volo è in ritardo di due ore."
   },
   {
     "kor": "가장 가까운 은행이 어디에 있나요?",
     "eng": "Where is the nearest bank?",
     "fra": "Où se trouve la banque la plus proche ?",
     "deu": "Wo ist die nächste Bank?",
-    "rus": "Где находится ближайший банк?"
+    "rus": "Где находится ближайший банк?",
+    "esp": "¿Dónde está el banco más cercano?",
+    "ita": "Dov'è la banca più vicina?"
   },
   {
     "kor": "여기서 사진을 찍어도 되나요?",
     "eng": "Is it okay to take photos here?",
     "fra": "Est-ce qu'on peut prendre des photos ici ?",
     "deu": "Darf man hier Fotos machen?",
-    "rus": "Здесь можно фотографировать?"
+    "rus": "Здесь можно фотографировать?",
+    "esp": "¿Está bien tomar fotos aquí?",
+    "ita": "È possibile scattare foto qui?"
   },
   {
     "kor": "영수증을 주시겠어요?",
     "eng": "Could I have a receipt, please?",
     "fra": "Puis-je avoir un reçu, s'il vous plaît ?",
     "deu": "Könnte ich bitte eine Quittung haben?",
-    "rus": "Можно мне чек, пожалуйста?"
+    "rus": "Можно мне чек, пожалуйста?",
+    "esp": "¿Me puede dar un recibo, por favor?",
+    "ita": "Posso avere lo scontrino, per favore?"
   }
 ]

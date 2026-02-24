@@ -4,174 +4,224 @@
     "eng": "What do you like?",
     "fra": "Qu'est-ce que vous aimez ?",
     "deu": "Was magst du?",
-    "rus": "Что вам нравится?"
+    "rus": "Что вам нравится?",
+    "esp": "¿Qué te gusta?",
+    "ita": "Cosa ti piace?"
   },
   {
     "kor": "저는 초콜릿을 좋아합니다.",
     "eng": "I like chocolate.",
     "fra": "J'aime le chocolat.",
     "deu": "Ich mag Schokolade.",
-    "rus": "Я люблю шоколад."
+    "rus": "Я люблю шоколад.",
+    "esp": "Me gusta el chocolate.",
+    "ita": "Mi piace il cioccolato."
   },
   {
     "kor": "가장 좋아하는 음식은 무엇입니까?",
     "eng": "What is your favourite food?",
     "fra": "Quel est votre plat préféré ?",
     "deu": "Was ist dein Lieblingsessen?",
-    "rus": "Какая ваша любимая еда?"
+    "rus": "Какая ваша любимая еда?",
+    "esp": "¿Cuál es tu comida favorita?",
+    "ita": "Qual è il tuo cibo preferito?"
   },
   {
     "kor": "저는 피자를 가장 좋아합니다.",
     "eng": "My favourite food is pizza.",
     "fra": "Mon plat préféré est la pizza.",
     "deu": "Mein Lieblingsessen ist Pizza.",
-    "rus": "Моя любимая еда — пицца."
+    "rus": "Моя любимая еда — пицца.",
+    "esp": "Mi comida favorita es la pizza.",
+    "ita": "Il mio cibo preferito è la pizza."
   },
   {
     "kor": "커피 좋아하세요?",
     "eng": "Do you like coffee?",
     "fra": "Aimez-vous le café ?",
     "deu": "Magst du Kaffee?",
-    "rus": "Вы любите кофе?"
+    "rus": "Вы любите кофе?",
+    "esp": "¿Te gusta el café?",
+    "ita": "Ti piace il caffè?"
   },
   {
     "kor": "네, 정말 좋아합니다.",
     "eng": "Yes, I love it.",
     "fra": "Oui, j'adore ça.",
     "deu": "Ja, ich liebe es.",
-    "rus": "Да, я его обожаю."
+    "rus": "Да, я его обожаю.",
+    "esp": "Sí, me encanta.",
+    "ita": "Sì, mi piace molto."
   },
   {
     "kor": "저는 고양이를 좋아합니다.",
     "eng": "I like cats.",
     "fra": "J'aime les chats.",
     "deu": "Ich mag Katzen.",
-    "rus": "Я люблю кошек."
+    "rus": "Я люблю кошек.",
+    "esp": "Me gustan los gatos.",
+    "ita": "Mi piacciono i gatti."
   },
   {
     "kor": "어떤 스포츠를 좋아하세요?",
     "eng": "Which sports do you like?",
     "fra": "Quels sports aimez-vous ?",
     "deu": "Welchen Sport magst du?",
-    "rus": "Какой спорт вам нравится?"
+    "rus": "Какой спорт вам нравится?",
+    "esp": "¿Qué deportes te gustan?",
+    "ita": "Quali sport ti piacciono?"
   },
   {
     "kor": "저는 축구 팬입니다.",
     "eng": "I'm a football fan.",
     "fra": "Je suis fan de football.",
     "deu": "Ich bin ein Fußballfan.",
-    "rus": "Я футбольный болельщик."
+    "rus": "Я футбольный болельщик.",
+    "esp": "Soy fanático del fútbol.",
+    "ita": "Sono un tifoso di calcio."
   },
   {
     "kor": "수영하는 것을 좋아하세요?",
     "eng": "Do you like swimming?",
     "fra": "Aimez-vous nager ?",
     "deu": "Schwimmst du gerne?",
-    "rus": "Вы любите плавать?"
+    "rus": "Вы любите плавать?",
+    "esp": "¿Te gusta nadar?",
+    "ita": "Ti piace nuotare?"
   },
   {
     "kor": "가장 좋아하는 색깔은 무엇인가요?",
     "eng": "What is your favourite colour?",
     "fra": "Quelle est votre couleur préférée ?",
     "deu": "Was ist deine Lieblingsfarbe?",
-    "rus": "Какой ваш любимый цвет?"
+    "rus": "Какой ваш любимый цвет?",
+    "esp": "¿Cuál es tu color favorito?",
+    "ita": "Qual è il tuo colore preferito?"
   },
   {
     "kor": "저는 초록색을 좋아합니다.",
     "eng": "I like green.",
     "fra": "J'aime le vert.",
     "deu": "Ich mag Grün.",
-    "rus": "Мне нравится зеленый цвет."
+    "rus": "Мне нравится зеленый цвет.",
+    "esp": "Me gusta el verde.",
+    "ita": "Mi piace il verde."
   },
   {
     "kor": "저는 책 읽는 것을 정말 좋아합니다.",
     "eng": "I really like reading books.",
     "fra": "J'aime beaucoup lire des livres.",
     "deu": "Ich lese sehr gerne Bücher.",
-    "rus": "Я очень люблю читать книги."
+    "rus": "Я очень люблю читать книги.",
+    "esp": "Me gusta mucho leer libros.",
+    "ita": "Mi piace molto leggere libri."
   },
   {
     "kor": "저는 공원에서 걷는 것을 좋아합니다.",
     "eng": "I like walking in the park.",
     "fra": "J'aime marcher dans le parc.",
     "deu": "Ich gehe gerne im Park spazieren.",
-    "rus": "Мне нравится гулять в парке."
+    "rus": "Мне нравится гулять в парке.",
+    "esp": "Me gusta caminar en el parque.",
+    "ita": "Mi piace camminare nel parco."
   },
   {
     "kor": "저는 영화관에 가는 것을 좋아합니다.",
     "eng": "I like going to the cinema.",
     "fra": "J'aime aller au cinéma.",
     "deu": "Ich gehe gerne ins Kino.",
-    "rus": "Я люблю ходить в кино."
+    "rus": "Я люблю ходить в кино.",
+    "esp": "Me gusta ir al cine.",
+    "ita": "Mi piace andare al cinema."
   },
   {
     "kor": "어떤 음악을 좋아하세요?",
     "eng": "What kind of music do you like?",
     "fra": "Quel genre de musique aimez-vous ?",
     "deu": "Was für Musik magst du?",
-    "rus": "Какая музыка вам нравится?"
+    "rus": "Какая музыка вам нравится?",
+    "esp": "¿Qué tipo de música te gusta?",
+    "ita": "Che genere di musica ti piace?"
   },
   {
     "kor": "저는 팝 음악을 좋아합니다.",
     "eng": "I like pop music.",
     "fra": "J'aime la musique pop.",
     "deu": "Ich mag Popmusik.",
-    "rus": "Я люблю поп-музыку."
+    "rus": "Я люблю поп-музыку.",
+    "esp": "Me gusta la música pop.",
+    "ita": "Mi piace la musica pop."
   },
   {
     "kor": "저는 여행하는 것을 정말 좋아합니다.",
     "eng": "I love travelling.",
     "fra": "J'adore voyager.",
     "deu": "Ich reise sehr gerne.",
-    "rus": "Я очень люблю путешествовать."
+    "rus": "Я очень люблю путешествовать.",
+    "esp": "Me encanta viajar.",
+    "ita": "Amo viaggiare."
   },
   {
     "kor": "그는 사진 찍는 것을 좋아합니다.",
     "eng": "He likes taking photos.",
     "fra": "Il aime prendre des photos.",
     "deu": "Er fotografiert gerne.",
-    "rus": "Ему нравится фотографировать."
+    "rus": "Ему нравится фотографировать.",
+    "esp": "A él le gusta tomar fotos.",
+    "ita": "Gli piace scattare foto."
   },
   {
     "kor": "그녀는 춤추는 것을 좋아합니다.",
     "eng": "She likes dancing.",
     "fra": "Elle aime danser.",
     "deu": "Sie tanzt gerne.",
-    "rus": "Ей нравится танцевать."
+    "rus": "Ей нравится танцевать.",
+    "esp": "A ella le gusta bailar.",
+    "ita": "Le piace ballare."
   },
   {
     "kor": "저는 쇼핑하는 것을 좋아하지 않습니다.",
     "eng": "I don't like shopping.",
     "fra": "Je n'aime pas faire du shopping.",
     "deu": "Ich gehe nicht gerne shoppen.",
-    "rus": "Я не люблю ходить по магазинам."
+    "rus": "Я не люблю ходить по магазинам.",
+    "esp": "No me gusta ir de compras.",
+    "ita": "Non mi piace fare shopping."
   },
   {
     "kor": "저는 요리하는 것에 관심이 있습니다.",
     "eng": "I'm interested in cooking.",
     "fra": "Je m'intéresse à la cuisine.",
     "deu": "Ich interessiere mich für Kochen.",
-    "rus": "Я интересуюсь кулинарией."
+    "rus": "Я интересуюсь кулинарией.",
+    "esp": "Me interesa la cocina.",
+    "ita": "Mi interessa cucinare."
   },
   {
     "kor": "겨울보다 여름을 더 좋아합니다.",
     "eng": "I prefer summer to winter.",
     "fra": "Je préfère l'été à l'hiver.",
     "deu": "Ich mag den Sommer lieber als den Winter.",
-    "rus": "Я предпочитаю лето зиме."
+    "rus": "Я предпочитаю лето зиме.",
+    "esp": "Prefiero el verano al invierno.",
+    "ita": "Preferisco l'estate all'inverno."
   },
   {
     "kor": "저는 집에서 쉬는 것을 좋아합니다.",
     "eng": "I like relaxing at home.",
     "fra": "J'aime me détendre à la maison.",
     "deu": "Ich entspanne mich gerne zu Hause.",
-    "rus": "Мне нравится отдыхать дома."
+    "rus": "Мне нравится отдыхать дома.",
+    "esp": "Me gusta relajarme en casa.",
+    "ita": "Mi piace rilassarmi a casa."
   },
   {
     "kor": "저는 과일을 아주 좋아합니다.",
     "eng": "I like fruit very much.",
     "fra": "J'aime beaucoup les fruits.",
     "deu": "Ich mag Obst sehr gerne.",
-    "rus": "Я очень люблю фрукты."
+    "rus": "Я очень люблю фрукты.",
+    "esp": "Me gusta mucho la fruta.",
+    "ita": "Mi piace molto la frutta."
   }
 ]

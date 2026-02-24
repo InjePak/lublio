@@ -2,7 +2,7 @@
   {
     "id": 1,
     "pattern": "Ich erinnere mich, als ...",
-    "translation": "저는 ...했을 때가 기억나요.",
+    "translation": "I remember when ...",
     "b1": [
       "Ich erinnere mich, als ich mein erstes Fahrrad bekam.",
       "Ich erinnere mich, als wir zusammen im Urlaub waren.",
@@ -28,7 +28,7 @@
   {
     "id": 2,
     "pattern": "Es war einmal, ...",
-    "translation": "옛날 옛적에 ... (이야기의 시작)",
+    "translation": "Once upon a time, ...",
     "b1": [
       "Es war einmal ein kleiner Junge, der im Wald wohnte.",
       "Es war einmal eine schöne Prinzessin in einem Schloss.",
@@ -54,7 +54,7 @@
   {
     "id": 3,
     "pattern": "Die Geschichte beginnt mit ...",
-    "translation": "이야기는 ...로 시작합니다.",
+    "translation": "The story begins with ...",
     "b1": [
       "Die Geschichte beginnt mit einem Brief.",
       "Die Geschichte beginnt mit einer Reise nach Berlin.",
@@ -80,7 +80,7 @@
   {
     "id": 4,
     "pattern": "Das erinnert mich an eine Zeit, als ...",
-    "translation": "그것은 저에게 ...했던 시절을 떠올리게 하네요.",
+    "translation": "That reminds me of a time when ...",
     "b1": [
       "Das erinnert mich an eine Zeit, als ich noch ein Kind war.",
       "Das erinnert mich an eine Zeit, als wir kein Internet hatten.",
@@ -106,7 +106,7 @@
   {
     "id": 5,
     "pattern": "Lass mich dir von ... erzählen.",
-    "translation": "...에 대해 이야기해 줄게.",
+    "translation": "Let me tell you about ...",
     "b1": [
       "Lass mich dir von meinem neuen Hund erzählen.",
       "Lass mich dir von meinem Urlaub in Spanien erzählen.",
@@ -132,7 +132,7 @@
   {
     "id": 6,
     "pattern": "Wir waren gerade dabei, ... als plötzlich ...",
-    "translation": "우리가 막 ...하려던 참이었는데, 갑자기 ...",
+    "translation": "We were just about to ... when suddenly ...",
     "b1": [
       "Wir waren gerade dabei zu essen, als plötzlich das Telefon klingelte.",
       "Wir waren gerade dabei zu gehen, als plötzlich der Regen anfing.",
@@ -158,7 +158,7 @@
   {
     "id": 7,
     "pattern": "Und dann geschah das Unerwartetste: ...",
-    "translation": "그리고 그때 가장 예상치 못한 일이 일어났어요: ...",
+    "translation": "And then, the most unexpected thing happened: ...",
     "b1": [
       "Und dann geschah das Unerwartetste: Er kam zurück.",
       "Und dann geschah das Unerwartetste: Ich habe gewonnen.",
@@ -184,7 +184,7 @@
   {
     "id": 8,
     "pattern": "Ich werde den Moment nie vergessen, als ...",
-    "translation": "저는 ...했던 그 순간을 결코 잊지 못할 거예요.",
+    "translation": "I'll never forget the moment when ...",
     "b1": [
       "Ich werde den Moment nie vergessen, als ich dich zum ersten Mal sah.",
       "Ich werde den Moment nie vergessen, als wir am Meer waren.",
@@ -210,7 +210,7 @@
   {
     "id": 9,
     "pattern": "Zuerst dachte ich ..., aber später wurde mir klar, ...",
-    "translation": "처음에는 ...라고 생각했지만, 나중에는 ...라는 것을 깨달았어요.",
+    "translation": "At first, I thought ..., but later I realized ...",
     "b1": [
       "Zuerst dachte ich, Deutsch ist schwer, aber später wurde mir klar, dass es Spaß macht.",
       "Zuerst dachte ich, er ist unfreundlich, aber später wurde mir klar, dass er nur schüchtern ist.",
@@ -236,7 +236,7 @@
   {
     "id": 10,
     "pattern": "Alles änderte sich nach ...",
-    "translation": "... 이후에 모든 것이 변했습니다.",
+    "translation": "Everything changed after ...",
     "b1": [
       "Alles änderte sich nach meinem Umzug.",
       "Alles änderte sich nach dem Unfall.",
@@ -262,7 +262,7 @@
   {
     "id": 11,
     "pattern": "Bevor ich mich versah, ...",
-    "translation": "어느샌가 / 정신을 차리기도 전에, ...",
+    "translation": "Before I knew it, ...",
     "b1": [
       "Bevor ich mich versah, war der Tag schon zu Ende.",
       "Bevor ich mich versah, hatte ich den Bus verpasst.",
@@ -288,7 +288,7 @@
   {
     "id": 12,
     "pattern": "Die ganze Erfahrung lehrte mich, ...",
-    "translation": "그 모든 경험은 저에게 ...라는 것을 가르쳐 주었습니다.",
+    "translation": "The whole experience taught me ...",
     "b1": [
       "Die ganze Erfahrung lehrte mich, geduldig zu sein.",
       "Die ganze Erfahrung lehrte mich, dass Freunde wichtig sind.",
@@ -314,7 +314,7 @@
   {
     "id": 13,
     "pattern": "Das Erste, was passierte, war ...",
-    "translation": "가장 먼저 일어난 일은 ...였어요.",
+    "translation": "The first thing that happened was ...",
     "b1": [
       "Das Erste, was passierte, war ein lautes Geräusch.",
       "Das Erste, was passierte, war, dass er mich anrief.",
@@ -340,7 +340,7 @@
   {
     "id": 14,
     "pattern": "Wenn ich jetzt zurückblicke, sehe ich, dass ...",
-    "translation": "지금 돌이켜보니, ...라는 것을 알겠어요.",
+    "translation": "Looking back now, I can see that ...",
     "b1": [
       "Wenn ich jetzt zurückblicke, sehe ich, dass ich glücklich war.",
       "Wenn ich jetzt zurückblicke, sehe ich, dass es ein Fehler war.",
@@ -366,7 +366,7 @@
   {
     "id": 15,
     "pattern": "Ich fühlte mich völlig ...",
-    "translation": "저는 완전히 ...한 기분이었어요.",
+    "translation": "I felt completely ...",
     "b1": [
       "Ich fühlte mich völlig müde nach der Arbeit.",
       "Ich fühlte mich völlig glücklich über das Geschenk.",
@@ -392,7 +392,7 @@
   {
     "id": 16,
     "pattern": "Das war der Moment, als ...",
-    "translation": "그때가 바로 ...했던 순간이었어요.",
+    "translation": "It was the moment when ...",
     "b1": [
       "Das war der Moment, als ich den Bus sah.",
       "Das war der Moment, als sie lachte.",
@@ -418,7 +418,7 @@
   {
     "id": 17,
     "pattern": "Um es kurz zu machen, ...",
-    "translation": "요약하자면 / 짧게 말하자면, ...",
+    "translation": "To cut a long story short, ...",
     "b1": [
       "Um es kurz zu machen, wir sind nach Hause gegangen.",
       "Um es kurz zu machen, das Auto ist kaputt.",
@@ -444,7 +444,7 @@
   {
     "id": 18,
     "pattern": "Die Atmosphäre war sehr ...",
-    "translation": "분위기가 매우 ...했어요.",
+    "translation": "The atmosphere was very ...",
     "b1": [
       "Die Atmosphäre war sehr gut auf der Party.",
       "Die Atmosphäre war sehr ruhig im Wald.",
@@ -470,7 +470,7 @@
   {
     "id": 19,
     "pattern": "Wenn ich es mit einem Wort beschreiben müsste, würde ich sagen ...",
-    "translation": "한 마디로 표현해야 한다면, ...라고 하겠어요.",
+    "translation": "If I had to describe it in one word, I'd say ...",
     "b1": [
       "Wenn ich es mit einem Wort beschreiben müsste, würde ich sagen: schön.",
       "Wenn ich es mit einem Wort beschreiben müsste, würde ich sagen: schwer.",
@@ -496,7 +496,7 @@
   {
     "id": 20,
     "pattern": "Der lustigste Teil der ganzen Sache war ...",
-    "translation": "그 모든 일 중 가장 웃겼던 부분은 ...였어요.",
+    "translation": "The funniest part of the whole thing was ...",
     "b1": [
       "Der lustigste Teil der ganzen Sache war das Kostüm.",
       "Der lustigste Teil der ganzen Sache war sein Witz.",

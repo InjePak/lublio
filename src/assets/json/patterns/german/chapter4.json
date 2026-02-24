@@ -2,7 +2,7 @@
   {
     "id": 1,
     "pattern": "Das Hauptproblem scheint ... zu sein.",
-    "translation": "주요 문제는 ...인 것으로 보입니다.",
+    "translation": "The main issue seems to be ...",
     "b1": [
       "Das Hauptproblem scheint das Wetter zu sein.",
       "Das Hauptproblem scheint der Preis zu sein.",
@@ -28,7 +28,7 @@
   {
     "id": 2,
     "pattern": "Wie können wir ... am besten angehen?",
-    "translation": "...를 어떻게 가장 잘 해결할 수 있을까요?",
+    "translation": "How can we best approach ...?",
     "b1": [
       "Wie können wir diese Hausaufgabe am besten angehen?",
       "Wie können wir die Reise am besten angehen?",
@@ -54,7 +54,7 @@
   {
     "id": 3,
     "pattern": "Ich schlage vor, dass wir ...",
-    "translation": "저는 우리가 ...할 것을 제안합니다.",
+    "translation": "I suggest that we ...",
     "b1": [
       "Ich schlage vor, dass wir morgen ins Kino gehen.",
       "Ich schlage vor, dass wir mehr Deutsch üben.",
@@ -80,7 +80,7 @@
   {
     "id": 4,
     "pattern": "Eine mögliche Lösung ist es, ...",
-    "translation": "가능한 해결책 중 하나는 ...하는 것입니다.",
+    "translation": "A potential solution is to ...",
     "b1": [
       "Eine mögliche Lösung ist es, früher aufzustehen.",
       "Eine mögliche Lösung ist es, ein Wörterbuch zu benutzen.",
@@ -106,7 +106,7 @@
   {
     "id": 5,
     "pattern": "Was wäre, wenn wir ... anstelle von ... versuchen würden?",
-    "translation": "... 대신 ...를 시도해 보면 어떨까요?",
+    "translation": "What if we tried ... instead of ...?",
     "b1": [
       "Was wäre, wenn wir Tee anstelle von Kaffee versuchen würden?",
       "Was wäre, wenn wir den Bus anstelle vom Auto versuchen würden?",
@@ -132,7 +132,7 @@
   {
     "id": 6,
     "pattern": "Wir müssen ... priorisieren.",
-    "translation": "우리는 ...를 우선시해야 합니다.",
+    "translation": "We need to prioritize ...",
     "b1": [
       "Wir müssen die Hausaufgaben priorisieren.",
       "Wir müssen die Gesundheit priorisieren.",
@@ -158,7 +158,7 @@
   {
     "id": 7,
     "pattern": "Lass uns das Problem in ... aufschlüsseln.",
-    "translation": "문제를 ...로 나누어(분석해) 봅시다.",
+    "translation": "Let's break the problem down into ...",
     "b1": [
       "Lass uns das Problem in kleine Teile aufschlüsseln.",
       "Lass uns das Problem in Schritte aufschlüsseln.",
@@ -184,7 +184,7 @@
   {
     "id": 8,
     "pattern": "Hast du die Auswirkungen von ... in Betracht gezogen?",
-    "translation": "...의 영향을 고려해 보셨나요?",
+    "translation": "Have you considered the impact of ...?",
     "b1": [
       "Hast du die Auswirkungen von dem Wetter in Betracht gezogen?",
       "Hast du die Auswirkungen von dem Lärm in Betracht gezogen?",
@@ -210,7 +210,7 @@
   {
     "id": 9,
     "pattern": "Eine Möglichkeit, dies zu umgehen, ist es, ...",
-    "translation": "이를 피하는(우회하는) 한 가지 방법은 ...하는 것입니다.",
+    "translation": "One way around this is to ...",
     "b1": [
       "Eine Möglichkeit, dies zu umgehen, ist es, einen anderen Weg zu nehmen.",
       "Eine Möglichkeit, dies zu umgehen, ist es, später zu kommen.",
@@ -236,7 +236,7 @@
   {
     "id": 10,
     "pattern": "Wir könnten das Risiko mindern, indem wir ...",
-    "translation": "...함으로써 위험을 줄일 수 있을 것입니다.",
+    "translation": "We could mitigate the risk by ...",
     "b1": [
       "Wir könnten das Risiko mindern, indem wir vorsichtig sind.",
       "Wir könnten das Risiko mindern, indem wir langsam fahren.",
@@ -262,7 +262,7 @@
   {
     "id": 11,
     "pattern": "Vielleicht sollten wir uns die Grundursache von ... ansehen.",
-    "translation": "어쩌면 ...의 근본 원인을 살펴봐야 할지도 모릅니다.",
+    "translation": "Perhaps we should look at the root cause of ...",
     "b1": [
       "Vielleicht sollten wir uns die Grundursache von deinem Fehler ansehen.",
       "Vielleicht sollten wir uns die Grundursache von dem Streit ansehen.",
@@ -288,7 +288,7 @@
   {
     "id": 12,
     "pattern": "Der unmittelbar nächste Schritt sollte ... sein.",
-    "translation": "직후의 다음 단계는 ...여야 합니다.",
+    "translation": "The immediate next step should be ...",
     "b1": [
       "Der unmittelbar nächste Schritt sollte das Lernen sein.",
       "Der unmittelbar nächste Schritt sollte das Essen sein.",
@@ -314,7 +314,7 @@
   {
     "id": 13,
     "pattern": "Hat jemand eine andere Perspektive auf ...?",
-    "translation": "...에 대해 다른 의견(관점)이 있는 분 계신가요?",
+    "translation": "Does anyone have a different perspective on ...?",
     "b1": [
       "Hat jemand eine andere Perspektive auf den Film?",
       "Hat jemand eine andere Perspektive auf das Buch?",
@@ -340,7 +340,7 @@
   {
     "id": 14,
     "pattern": "Kurzfristig können wir ... tun.",
-    "translation": "단기적으로 우리는 ...를 할 수 있습니다.",
+    "translation": "In the short term, we can do ...",
     "b1": [
       "Kurzfristig können wir eine Pause tun.",
       "Kurzfristig können wir das Fenster öffnen.",
@@ -366,7 +366,7 @@
   {
     "id": 15,
     "pattern": "Wir sollten ein System für ... implementieren.",
-    "translation": "우리는 ...를 위한 시스템을 구축(도입)해야 합니다.",
+    "translation": "We should implement a system for ...",
     "b1": [
       "Wir sollten ein System für das Lernen implementieren.",
       "Wir sollten ein System für das Sparen implementieren.",
@@ -392,7 +392,7 @@
   {
     "id": 16,
     "pattern": "Lass uns die Vor- und Nachteile von ... bewerten.",
-    "translation": "...의 장단점을 평가해 봅시다.",
+    "translation": "Let's evaluate the pros and cons of ...",
     "b1": [
       "Lass uns die Vor- und Nachteile von dem Auto bewerten.",
       "Lass uns die Vor- und Nachteile von der Stadt bewerten.",
@@ -418,7 +418,7 @@
   {
     "id": 17,
     "pattern": "Um den Erfolg zu gewährleisten, müssen wir zuerst ... angehen.",
-    "translation": "성공을 보장하려면 먼저 ...를 해결(처리)해야 합니다.",
+    "translation": "To ensure success, we must first address ...",
     "b1": [
       "Um den Erfolg zu gewährleisten, müssen wir zuerst die Grammatik angehen.",
       "Um den Erfolg zu gewährleisten, müssen wir zuerst das Vokabellernen angehen.",
@@ -444,7 +444,7 @@
   {
     "id": 18,
     "pattern": "Das größte Hindernis, das im Weg steht, ist ...",
-    "translation": "앞길을 가로막는 가장 큰 장애물은 ...입니다.",
+    "translation": "The biggest obstacle standing in the way is ...",
     "b1": [
       "Das größte Hindernis, das im Weg steht, ist die Sprache.",
       "Das größte Hindernis, das im Weg steht, ist das Geld.",
@@ -470,7 +470,7 @@
   {
     "id": 19,
     "pattern": "Mein vorgeschlagener Ansatz beinhaltet ...",
-    "translation": "제가 제안하는 접근 방식은 ...를 포함합니다.",
+    "translation": "My proposed approach involves ...",
     "b1": [
       "Mein vorgeschlagener Ansatz beinhaltet tägliches Lernen.",
       "Mein vorgeschlagener Ansatz beinhaltet gesundes Essen.",
@@ -496,7 +496,7 @@
   {
     "id": 20,
     "pattern": "Vielleicht ist das fehlende Teil ...",
-    "translation": "어쩌면 빠진 퍼즐 조각(부족한 부분)은 ...일지도 모릅니다.",
+    "translation": "Perhaps the missing piece is ...",
     "b1": [
       "Vielleicht ist das fehlende Teil mehr Zeit.",
       "Vielleicht ist das fehlende Teil mehr Geld.",

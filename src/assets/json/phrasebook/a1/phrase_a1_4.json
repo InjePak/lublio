@@ -4,174 +4,224 @@
     "eng": "What time is it now?",
     "fra": "Quelle heure est-il ?",
     "deu": "Wie spät ist es?",
-    "rus": "Который час?"
+    "rus": "Который час?",
+    "esp": "¿Qué hora es?",
+    "ita": "Che ore sono?"
   },
   {
     "kor": "현재 시각은 오후 3시입니다.",
     "eng": "It is three o'clock in the afternoon.",
     "fra": "Il est trois heures de l'après-midi.",
     "deu": "Es ist drei Uhr nachmittags.",
-    "rus": "Сейчас три часа дня."
+    "rus": "Сейчас три часа дня.",
+    "esp": "Son las tres de la tarde.",
+    "ita": "Sono le tre del pomeriggio."
   },
   {
     "kor": "8시 30분입니다.",
     "eng": "It is half past eight.",
     "fra": "Il est huit heures et demie.",
     "deu": "Es ist halb neun.",
-    "rus": "Сейчас полдевятого."
+    "rus": "Сейчас полдевятого.",
+    "esp": "Son las ocho y media.",
+    "ita": "Sono le otto e mezza."
   },
   {
     "kor": "10시 15분 전입니다.",
     "eng": "It is a quarter to ten.",
     "fra": "Il est dix heures moins le quart.",
     "deu": "Es ist Viertel vor zehn.",
-    "rus": "Без пятнадцати десять."
+    "rus": "Без пятнадцати десять.",
+    "esp": "Son las diez menos cuarto.",
+    "ita": "Sono le dieci meno un quarto."
   },
   {
     "kor": "오늘은 무슨 요일인가요?",
     "eng": "What day is it today?",
     "fra": "Quel jour sommes-nous aujourd'hui ?",
     "deu": "Welcher Tag ist heute?",
-    "rus": "Какой сегодня день недели?"
+    "rus": "Какой сегодня день недели?",
+    "esp": "¿Qué día es hoy?",
+    "ita": "Che giorno è oggi?"
   },
   {
     "kor": "오늘은 월요일입니다.",
     "eng": "Today is Monday.",
     "fra": "Aujourd'hui c'est lundi.",
     "deu": "Heute ist Montag.",
-    "rus": "Сегодня понедельник."
+    "rus": "Сегодня понедельник.",
+    "esp": "Hoy es lunes.",
+    "ita": "Oggi è lunedì."
   },
   {
     "kor": "내일은 5월 1일입니다.",
     "eng": "Tomorrow is the first of May.",
     "fra": "Demain, c'est le premier mai.",
     "deu": "Morgen ist der erste Mai.",
-    "rus": "Завтра первое мая."
+    "rus": "Завтра первое мая.",
+    "esp": "Mañana es el primero de mayo.",
+    "ita": "Domani è il primo maggio."
   },
   {
     "kor": "제 생일은 10월입니다.",
     "eng": "My birthday is in October.",
     "fra": "Mon anniversaire est en octobre.",
     "deu": "Mein Geburtstag ist im Oktober.",
-    "rus": "Мой день рождения в октябре."
+    "rus": "Мой день рождения в октябре.",
+    "esp": "Mi cumpleaños es en octubre.",
+    "ita": "Il mio compleanno è a ottobre."
   },
   {
     "kor": "저는 아침 7시에 일어납니다.",
     "eng": "I get up at seven o'clock.",
     "fra": "Je me lève à sept heures.",
     "deu": "Ich stehe um sieben Uhr auf.",
-    "rus": "Я встаю в семь часов утра."
+    "rus": "Я встаю в семь часов утра.",
+    "esp": "Me levanto a las siete.",
+    "ita": "Mi sveglio alle sette."
   },
   {
     "kor": "수업은 언제 시작하나요?",
     "eng": "When does the lesson start?",
     "fra": "Quand commence le cours ?",
     "deu": "Wann beginnt der Unterricht?",
-    "rus": "Когда начинается урок?"
+    "rus": "Когда начинается урок?",
+    "esp": "¿Cuándo empieza la clase?",
+    "ita": "Quando inizia la lezione?"
   },
   {
     "kor": "이것은 얼마인가요?",
     "eng": "How much is this?",
     "fra": "Combien ça coûte ?",
     "deu": "Wie viel kostet das?",
-    "rus": "Сколько это стоит?"
+    "rus": "Сколько это стоит?",
+    "esp": "¿Cuánto cuesta esto?",
+    "ita": "Quanto costa questo?"
   },
   {
     "kor": "그것은 20파운드입니다.",
     "eng": "It is twenty pounds.",
     "fra": "C'est vingt livres.",
     "deu": "Das kostet zwanzig Pfund.",
-    "rus": "Это стоит двадцать фунтов."
+    "rus": "Это стоит двадцать фунтов.",
+    "esp": "Son veinte libras.",
+    "ita": "Sono venti sterline."
   },
   {
     "kor": "전화번호가 무엇인가요?",
     "eng": "What is your phone number?",
     "fra": "Quel est votre numéro de téléphone ?",
     "deu": "Wie ist deine Telefonnummer?",
-    "rus": "Какой у вас номер телефона?"
+    "rus": "Какой у вас номер телефона?",
+    "esp": "¿Cuál es tu número de teléfono?",
+    "ita": "Qual è il tuo numero di telefono?"
   },
   {
     "kor": "저는 100까지 셀 수 있습니다.",
     "eng": "I can count to a hundred.",
     "fra": "Je peux compter jusqu'à cent.",
     "deu": "Ich kann bis hundert zählen.",
-    "rus": "Я умею считать до ста."
+    "rus": "Я умею считать до ста.",
+    "esp": "Puedo contar hasta cien.",
+    "ita": "Posso contare fino a cento."
   },
   {
     "kor": "사과 다섯 개 주세요.",
     "eng": "Five apples, please.",
     "fra": "Cinq pommes, s'il vous plaît.",
     "deu": "Fünf Äpfel, bitte.",
-    "rus": "Пять яблок, пожалуйста."
+    "rus": "Пять яблок, пожалуйста.",
+    "esp": "Cinco manzanas, por favor.",
+    "ita": "Cinque mele, per favore."
   },
   {
     "kor": "10분 기다려 주세요.",
     "eng": "Please wait for ten minutes.",
     "fra": "Attendez dix minutes, s'il vous plaît.",
     "deu": "Bitte warten Sie zehn Minuten.",
-    "rus": "Пожалуйста, подождите десять минут."
+    "rus": "Пожалуйста, подождите десять минут.",
+    "esp": "Espere diez minutos, por favor.",
+    "ita": "Aspetta dieci minuti, per favore."
   },
   {
     "kor": "일주일은 7일입니다.",
     "eng": "There are seven days in a week.",
     "fra": "Il y a sept jours dans une semaine.",
     "deu": "Eine Woche hat sieben Tage.",
-    "rus": "В неделе семь дней."
+    "rus": "В неделе семь дней.",
+    "esp": "Una semana tiene siete días.",
+    "ita": "Una settimana ha sette giorni."
   },
   {
     "kor": "지금은 정오입니다.",
     "eng": "It is midday now.",
     "fra": "Il est midi maintenant.",
     "deu": "Es ist jetzt Mittag.",
-    "rus": "Сейчас полдень."
+    "rus": "Сейчас полдень.",
+    "esp": "Ahora es mediodía.",
+    "ita": "È mezzogiorno adesso."
   },
   {
     "kor": "한 시간 후에 만나요.",
     "eng": "See you in an hour.",
     "fra": "On se voit dans une heure.",
     "deu": "Bis in einer Stunde.",
-    "rus": "Увидимся через час."
+    "rus": "Увидимся через час.",
+    "esp": "Nos vemos en una hora.",
+    "ita": "Ci vediamo tra un'ora."
   },
   {
     "kor": "저는 매일 8시간씩 잡니다.",
     "eng": "I sleep for eight hours every day.",
     "fra": "Je dors huit heures par jour.",
-    "deu": "Ich schлаfe jeden Tag acht Stunden.",
-    "rus": "Я сплю по восемь часов каждый день."
+    "deu": "Ich schlafe jeden Tag acht Stunden.",
+    "rus": "Я сплю по восемь часов каждый день.",
+    "esp": "Duermo ocho horas cada día.",
+    "ita": "Dormo otto ore al giorno."
   },
   {
     "kor": "그는 30살입니다.",
     "eng": "He is thirty years old.",
     "fra": "Il a trente ans.",
     "deu": "Er ist dreißig Jahre alt.",
-    "rus": "Ему тридцать лет."
+    "rus": "Ему тридцать лет.",
+    "esp": "Él tiene treinta años.",
+    "ita": "Lui ha trent'anni."
   },
   {
     "kor": "박물관은 9시에 엽니다.",
     "eng": "The museum opens at nine.",
     "fra": "Le musée ouvre à neuf heures.",
     "deu": "Das Museum öffnet um neun Uhr.",
-    "rus": "Музей открывается в девять часов."
+    "rus": "Музей открывается в девять часов.",
+    "esp": "El museo abre a las nueve.",
+    "ita": "Il museo apre alle nove."
   },
   {
     "kor": "버스는 15분마다 옵니다.",
     "eng": "The bus comes every fifteen minutes.",
     "fra": "Le bus passe toutes les quinze minutes.",
     "deu": "Der Bus kommt alle fünfzehn Minuten.",
-    "rus": "Автобус ходит каждые пятнадцать минут."
+    "rus": "Автобус ходит каждые пятнадцать минут.",
+    "esp": "El autobús pasa cada quince minutos.",
+    "ita": "L'autobus passa ogni quindici minuti."
   },
   {
     "kor": "오늘은 2024년 6월 10일입니다.",
     "eng": "Today is the tenth of June, 2024.",
     "fra": "Aujourd'hui, nous sommes le 10 juin 2024.",
     "deu": "Heute ist der zehnte Juni zweitausendvierundzwanzig.",
-    "rus": "Сегодня десятое июня две тысячи двадцать четвертого года."
+    "rus": "Сегодня десятое июня две тысячи двадцать четвертого года.",
+    "esp": "Hoy es el diez de junio de dos mil veinticuatro.",
+    "ita": "Oggi è il dieci giugno duemilaventiquattro."
   },
   {
     "kor": "시간이 거의 다 됐어요.",
     "eng": "Time is almost up.",
     "fra": "Le temps est presque écoulé.",
     "deu": "Die Zeit ist fast um.",
-    "rus": "Время почти вышло."
+    "rus": "Время почти вышло.",
+    "esp": "El tiempo casi se ha acabado.",
+    "ita": "Il tempo è quasi finito."
   }
 ]

@@ -2,7 +2,7 @@
   {
     "id": 1,
     "pattern": "Wenn wir ..., dann werden wir ...",
-    "translation": "우리가 ...한다면, 우리는 ...하게 될 것입니다.",
+    "translation": "If we ..., then we will ...",
     "b1": [
       "Wenn wir fleißig lernen, dann werden wir die Prüfung bestehen.",
       "Wenn wir heute sparen, dann werden wir im Urlaub mehr Geld haben.",
@@ -28,7 +28,7 @@
   {
     "id": 2,
     "pattern": "Was würde passieren, wenn ...?",
-    "translation": "만약 ...한다면 무슨 일이 일어날까요?",
+    "translation": "What would happen if ...?",
     "b1": [
       "Was würde passieren, wenn es morgen regnet?",
       "Was würde passieren, wenn ich den Schlüssel verliere?",
@@ -54,7 +54,7 @@
   {
     "id": 3,
     "pattern": "Sollte das Ergebnis ... sein, müssen wir ...",
-    "translation": "결과가 ...라면, 우리는 ...해야 합니다.",
+    "translation": "Should the outcome be ..., we must ...",
     "b1": [
       "Sollte das Ergebnis schlecht sein, müssen wir mehr üben.",
       "Sollte das Ergebnis positiv sein, müssen wir feiern.",
@@ -80,7 +80,7 @@
   {
     "id": 4,
     "pattern": "Wenn ich ... gewusst hätte, hätte ich ...",
-    "translation": "내가 ...를 알았더라면, ...했을 텐데.",
+    "translation": "If I had known ..., I would have ...",
     "b1": [
       "Wenn ich das gewusst hätte, hätte ich dir geholfen.",
       "Wenn ich die Zeit gewusst hätte, hätte ich mich beeilt.",
@@ -106,7 +106,7 @@
   {
     "id": 5,
     "pattern": "Angenommen, dass ..., ist es wahrscheinlich, dass ...",
-    "translation": "...라고 가정하면, ...일 가능성이 높습니다.",
+    "translation": "Assuming that ..., it is likely that ...",
     "b1": [
       "Angenommen, dass es morgen sonnig ist, ist es wahrscheinlich, dass wir wandern gehen.",
       "Angenommen, dass du Zeit hast, ist es wahrscheinlich, dass wir uns treffen.",
@@ -132,7 +132,7 @@
   {
     "id": 6,
     "pattern": "Ich sage voraus, dass ... passieren wird.",
-    "translation": "저는 ...일이 일어날 것이라고 예측합니다.",
+    "translation": "I predict that ... will happen.",
     "b1": [
       "Ich sage voraus, dass es morgen regnen wird.",
       "Ich sage voraus, dass unsere Mannschaft gewinnen wird.",
@@ -158,7 +158,7 @@
   {
     "id": 7,
     "pattern": "Solange ... nicht passiert, werden wir nicht in der Lage sein, ...",
-    "translation": "...가 일어나지 않는 한, 우리는 ...할 수 없을 것입니다.",
+    "translation": "Unless ... happens, we won't be able to ...",
     "b1": [
       "Solange es nicht aufhört zu regnen, werden wir nicht in der Lage sein, spazieren zu gehen.",
       "Solange ich kein Geld habe, werde ich nicht in der Lage sein, das Auto zu kaufen.",
@@ -184,7 +184,7 @@
   {
     "id": 8,
     "pattern": "Im Falle von ..., sollten wir ...",
-    "translation": "...의 경우에, 우리는 ...해야 합니다.",
+    "translation": "In the event of ..., we should ...",
     "b1": [
       "Im Falle von Regen sollten wir zu Hause bleiben.",
       "Im Falle von Hunger sollten wir etwas essen.",
@@ -210,7 +210,7 @@
   {
     "id": 9,
     "pattern": "Es besteht eine hohe Wahrscheinlichkeit, dass ...",
-    "translation": "...일 확률이 매우 높습니다.",
+    "translation": "There's a high probability that ...",
     "b1": [
       "Es besteht eine hohe Wahrscheinlichkeit, dass es heute schneit.",
       "Es besteht eine hohe Wahrscheinlichkeit, dass er gewinnt.",
@@ -236,7 +236,7 @@
   {
     "id": 10,
     "pattern": "Wir könnten ... sehen, wenn ...",
-    "translation": "만약 ...한다면 우리는 ...를 보게 될 수도 있습니다.",
+    "translation": "We might see ... if ...",
     "b1": [
       "Wir könnten Tiere sehen, wenn wir im Wald spazieren gehen.",
       "Wir könnten Sterne sehen, wenn der Himmel klar ist.",
@@ -262,7 +262,7 @@
   {
     "id": 11,
     "pattern": "Dies deutet darauf hin, dass die Zukunft ... bereithält.",
-    "translation": "이것은 미래에 ...가 기다리고 있음을 암시합니다.",
+    "translation": "This suggests that the future holds ...",
     "b1": [
       "Dies deutet darauf hin, dass die Zukunft viel Arbeit bereithält.",
       "Dies deutet darauf hin, dass die Zukunft viel Spaß bereithält.",
@@ -288,7 +288,7 @@
   {
     "id": 12,
     "pattern": "Das Ergebnis hängt völlig davon ab, ob ... oder nicht.",
-    "translation": "결과는 ...인지 아닌지에 전적으로 달려 있습니다.",
+    "translation": "The outcome depends entirely on whether or not ...",
     "b1": [
       "Das Ergebnis hängt völlig davon ab, ob du lernst oder nicht.",
       "Das Ergebnis hängt völlig davon ab, ob das Wetter gut ist oder nicht.",
@@ -314,7 +314,7 @@
   {
     "id": 13,
     "pattern": "Wenn sich der Trend fortsetzt, dann ...",
-    "translation": "이 추세가 계속된다면, ...",
+    "translation": "If the trend continues, then ...",
     "b1": [
       "Wenn sich der Trend fortsetzt, dann wird es im Sommer sehr heiß.",
       "Wenn sich der Trend fortsetzt, dann werden wir bald kein Geld haben.",
@@ -340,7 +340,7 @@
   {
     "id": 14,
     "pattern": "Hätten sie ... in Betracht gezogen, wäre das Ergebnis ... gewesen.",
-    "translation": "만약 그들이 ...를 고려했더라면, 결과는 ...였을 것입니다.",
+    "translation": "Had they considered ..., the result would have been ...",
     "b1": [
       "Hätten sie das Wetter in Betracht gezogen, wäre das Ergebnis besser gewesen.",
       "Hätten sie den Preis in Betracht gezogen, wäre das Ergebnis anders gewesen.",
@@ -366,7 +366,7 @@
   {
     "id": 15,
     "pattern": "Wir brauchen einen Notfallplan, falls ...",
-    "translation": "...할 경우를 대비해 우리는 비상 계획이 필요합니다.",
+    "translation": "We need a backup plan in case ...",
     "b1": [
       "Wir brauchen einen Notfallplan, falls es regnet.",
       "Wir brauchen einen Notfallplan, falls der Bus nicht kommt.",
@@ -392,7 +392,7 @@
   {
     "id": 16,
     "pattern": "Es ist denkbar, dass ...",
-    "translation": "...라는 것은 충분히 생각할 수 있는 일입니다 (가능성이 있습니다).",
+    "translation": "It is conceivable that ...",
     "b1": [
       "Es ist denkbar, dass er heute kommt.",
       "Es ist denkbar, dass wir morgen frei haben.",
@@ -418,7 +418,7 @@
   {
     "id": 17,
     "pattern": "Ohne ..., ist es unmöglich, ... zu ...",
-    "translation": "... 없이는 ...를 ...하는 것이 불가능합니다.",
+    "translation": "Without ..., it is impossible to ...",
     "b1": [
       "Ohne Geld ist es unmöglich, ein Auto zu kaufen.",
       "Ohne Wasser ist es unmöglich, zu überleben.",
@@ -444,7 +444,7 @@
   {
     "id": 18,
     "pattern": "Die Beweise deuten darauf hin, dass ... passieren wird.",
-    "translation": "증거들은 ...일이 일어날 것임을 나타냅니다.",
+    "translation": "The evidence points towards ... happening.",
     "b1": [
       "Die Beweise deuten darauf hin, dass es regnen wird.",
       "Die Beweise deuten darauf hin, dass er die Wahrheit sagt.",
@@ -470,7 +470,7 @@
   {
     "id": 19,
     "pattern": "Unter der Bedingung, dass ..., können wir mit ... fortfahren.",
-    "translation": "...라는 조건 하에, 우리는 ...를 계속할 수 있습니다.",
+    "translation": "On the condition that ..., we can proceed with ...",
     "b1": [
       "Unter der Bedingung, dass du hilfst, können wir mit der Arbeit fortfahren.",
       "Unter der Bedingung, dass es nicht regnet, können wir mit dem Spiel fortfahren.",
@@ -496,7 +496,7 @@
   {
     "id": 20,
     "pattern": "Die langfristige Auswirkung ist ...",
-    "translation": "장기적인 영향은 ...입니다.",
+    "translation": "The long-term implication is ...",
     "b1": [
       "Die langfristige Auswirkung ist eine gute Gesundheit.",
       "Die langfristige Auswirkung ist, dass wir mehr Geld haben.",

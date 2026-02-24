@@ -4,174 +4,224 @@
     "eng": "What is the weather like today?",
     "fra": "Quel temps fait-il aujourd'hui ?",
     "deu": "Wie ist das Wetter heute?",
-    "rus": "Какая сегодня погода?"
+    "rus": "Какая сегодня погода?",
+    "esp": "¿Qué tiempo hace hoy?",
+    "ita": "Com'è il tempo oggi?"
   },
   {
     "kor": "날씨가 아주 좋습니다.",
     "eng": "The weather is lovely.",
     "fra": "Il fait très beau.",
     "deu": "Das Wetter ist sehr schön.",
-    "rus": "Погода очень хорошая."
+    "rus": "Погода очень хорошая.",
+    "esp": "Hace muy buen tiempo.",
+    "ita": "Il tempo è bellissimo."
   },
   {
     "kor": "오늘은 화창합니다.",
     "eng": "It is sunny today.",
     "fra": "Il fait du soleil aujourd'hui.",
     "deu": "Heute ist es sonnig.",
-    "rus": "Сегодня солнечно."
+    "rus": "Сегодня солнечно.",
+    "esp": "Hoy está soleado.",
+    "ita": "Oggi c'è il sole."
   },
   {
     "kor": "밖은 덥습니다.",
     "eng": "It is hot outside.",
     "fra": "Il fait chaud dehors.",
     "deu": "Es ist heiß draußen.",
-    "rus": "На улице жарко."
+    "rus": "На улице жарко.",
+    "esp": "Hace calor fuera.",
+    "ita": "Fa caldo fuori."
   },
   {
     "kor": "조금 춥네요.",
     "eng": "It is a bit cold.",
     "fra": "Il fait un peu froid.",
     "deu": "Es ist ein bisschen kalt.",
-    "rus": "Немного холодно."
+    "rus": "Немного холодно.",
+    "esp": "Hace un poco de frío.",
+    "ita": "Fa un po' freddo."
   },
   {
     "kor": "비가 오고 있어요.",
     "eng": "It is raining.",
     "fra": "Il pleut.",
     "deu": "Es regnet.",
-    "rus": "Идет дождь."
+    "rus": "Идет дождь.",
+    "esp": "Está lloviendo.",
+    "ita": "Sta piovendo."
   },
   {
     "kor": "하늘에 구름이 많아요.",
     "eng": "It is cloudy.",
     "fra": "Il y a des nuages.",
     "deu": "Es ist bewölkt.",
-    "rus": "Облачно."
+    "rus": "Облачно.",
+    "esp": "Está nublado.",
+    "ita": "È nuvoloso."
   },
   {
     "kor": "바람이 많이 불어요.",
     "eng": "It is very windy.",
     "fra": "Il y a beaucoup de vent.",
     "deu": "Es ist sehr windig.",
-    "rus": "Очень ветрено."
+    "rus": "Очень ветрено.",
+    "esp": "Hace mucho viento.",
+    "ita": "Tira molto vento."
   },
   {
     "kor": "눈이 오고 있습니다.",
     "eng": "It is snowing.",
     "fra": "Il neige.",
     "deu": "Es schneit.",
-    "rus": "Идет снег."
+    "rus": "Идет снег.",
+    "esp": "Está nevando.",
+    "ita": "Sta nevicando."
   },
   {
     "kor": "안개가 꼈어요.",
     "eng": "It is foggy.",
     "fra": "Il y a du brouillard.",
     "deu": "Es ist neblig.",
-    "rus": "Туманно."
+    "rus": "Туманно.",
+    "esp": "Hay niebla.",
+    "ita": "C'è nebbia."
   },
   {
     "kor": "오늘은 시원합니다.",
     "eng": "It is cool today.",
     "fra": "Il fait frais aujourd'hui.",
     "deu": "Heute ist es kühl.",
-    "rus": "Сегодня прохладно."
+    "rus": "Сегодня прохладно.",
+    "esp": "Hoy hace fresco.",
+    "ita": "Oggi fa fresco."
   },
   {
     "kor": "날씨가 따뜻해지고 있어요.",
     "eng": "The weather is getting warmer.",
     "fra": "Le temps se réchauffe.",
     "deu": "Das Wetter wird wärmer.",
-    "rus": "Погода становится теплее."
+    "rus": "Погода становится теплее.",
+    "esp": "El tiempo está calentando.",
+    "ita": "Il tempo si sta riscaldando."
   },
   {
     "kor": "우산이 필요해요.",
     "eng": "I need an umbrella.",
     "fra": "J'ai besoin d'un parapluie.",
     "deu": "Ich brauche einen Regenschirm.",
-    "rus": "Мне нужен зонт."
+    "rus": "Мне нужен зонт.",
+    "esp": "Necesito un paraguas.",
+    "ita": "Ho bisogno di un ombrello."
   },
   {
     "kor": "하늘이 파랗습니다.",
     "eng": "The sky is blue.",
     "fra": "Le ciel est bleu.",
     "deu": "Der Himmel ist blau.",
-    "rus": "Небо голубое."
+    "rus": "Небо голубое.",
+    "esp": "El cielo está azul.",
+    "ita": "Il cielo è azzurro."
   },
   {
     "kor": "기온이 몇 도인가요?",
     "eng": "What is the temperature?",
     "fra": "Quelle est la température ?",
     "deu": "Wie hoch ist die Temperatur?",
-    "rus": "Какая сейчас температура?"
+    "rus": "Какая сейчас температура?",
+    "esp": "¿Cuál es la temperatura?",
+    "ita": "Qual è la temperatura?"
   },
   {
     "kor": "영하 5도입니다.",
     "eng": "It is minus five degrees.",
     "fra": "Il fait moins cinq degrés.",
     "deu": "Es sind minus fünf Grad.",
-    "rus": "Сейчас пять градусов мороза."
+    "rus": "Сейчас пять градусов мороза.",
+    "esp": "Hace cinco grados bajo cero.",
+    "ita": "Ci sono meno cinque gradi."
   },
   {
     "kor": "저는 여름을 좋아합니다.",
     "eng": "I like summer.",
     "fra": "J'aime l'été.",
     "deu": "Ich mag den Sommer.",
-    "rus": "Я люблю лето."
+    "rus": "Я люблю лето.",
+    "esp": "Me gusta el verano.",
+    "ita": "Mi piace l'estate."
   },
   {
     "kor": "겨울은 너무 추워요.",
     "eng": "Winter is too cold.",
     "fra": "L'hiver est trop froid.",
     "deu": "Der Winter ist zu kalt.",
-    "rus": "Зима слишком холодная."
+    "rus": "Зима слишком холодная.",
+    "esp": "El invierno es demasiado frío.",
+    "ita": "L'inverno è troppo freddo."
   },
   {
     "kor": "봄에는 꽃이 피어요.",
     "eng": "Flowers bloom in spring.",
     "fra": "Les fleurs poussent au printemps.",
     "deu": "Im Frühling blühen die Blumen.",
-    "rus": "Весной цветут цветы."
+    "rus": "Весной цветут цветы.",
+    "esp": "Las flores florecen en primavera.",
+    "ita": "I fiori sbocciano in primavera."
   },
   {
     "kor": "가을은 아름답습니다.",
     "eng": "Autumn is beautiful.",
     "fra": "L'automne est magnifique.",
     "deu": "Der Herbst ist schön.",
-    "rus": "Осень прекрасна."
+    "rus": "Осень прекрасна.",
+    "esp": "El otoño es hermoso.",
+    "ita": "L'autunno è bellissimo."
   },
   {
     "kor": "내일 날씨 예보는 어때요?",
     "eng": "What is the weather forecast for tomorrow?",
     "fra": "Quelle est la météo pour demain ?",
     "deu": "Wie ist die Wettervorhersage für morgen?",
-    "rus": "Какой прогноз погоды на завтра?"
+    "rus": "Какой прогноз погоды на завтра?",
+    "esp": "¿Cuál es el pronóstico del tiempo para mañana?",
+    "ita": "Quali sono le previsioni del tempo per domani?"
   },
   {
     "kor": "폭풍이 오고 있어요.",
     "eng": "A storm is coming.",
     "fra": "Un orage arrive.",
     "deu": "Ein Sturm zieht auf.",
-    "rus": "Приближается шторм."
+    "rus": "Приближается шторм.",
+    "esp": "Se acerca una tormenta.",
+    "ita": "Sta arrivando un temporale."
   },
   {
     "kor": "해가 떴어요.",
     "eng": "The sun is out.",
     "fra": "Le soleil brille.",
     "deu": "Die Sonne scheint.",
-    "rus": "Вышло солнце."
+    "rus": "Вышло солнце.",
+    "esp": "Salió el sol.",
+    "ita": "È uscito il sole."
   },
   {
     "kor": "공기가 매우 건조합니다.",
     "eng": "The air is very dry.",
     "fra": "L'air est très sec.",
     "deu": "Die Luft ist sehr trocken.",
-    "rus": "Воздух очень сухой."
+    "rus": "Воздух очень сухой.",
+    "esp": "El aire está muy seco.",
+    "ita": "L'aria è molto secca."
   },
   {
     "kor": "코트를 입으세요.",
     "eng": "Wear a coat.",
     "fra": "Mettez un manteau.",
     "deu": "Zieh einen Mantel an.",
-    "rus": "Надень пальто."
+    "rus": "Надень пальто.",
+    "esp": "Ponte un abrigo.",
+    "ita": "Mettiti il cappotto."
   }
 ]
