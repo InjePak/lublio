@@ -1,0 +1,74 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Box from "../../components/Box.astro";
+import Button from "../../components/Button.astro";
+
+const pageTitle = "Italian";
+---
+
+<BaseLayout pageTitle={pageTitle + " - Lublio"}>
+  <Box
+    title="Italiano"
+    subtitle="Italian"
+    description="L'italiano è la lingua dell'arte, della musica e della bellezza. Con la sua melodia armoniosa e la sua ricca storia rinascimentale, incanta il mondo intero attraverso l'opera, il design e l'eccellenza culinaria."
+    language="ita"
+  />
+
+  <div class="button-wrapper">
+    <Button
+      title="Frasi"
+      subtitle="Phrasebook"
+      description="CEFR A1 - B2"
+      language="ita"
+      path="/italian/phrasebook"
+      level="phrase"
+    />
+
+    <Button
+      title="Modelli"
+      subtitle="Patterns"
+      description="CEFR B1 - C1"
+      language="ita"
+      path="/italian/pattern"
+      level="pattern"
+    />
+
+    <!-- <Button
+      title="Germano"
+      subtitle="모두의 독일어"
+      description="CEFR A0 - B2"
+      language="ita"
+      path="/italian/germano"
+      level="composite"
+      isDev="true"
+    /> -->
+  </div>
+
+  <!-- <Button
+    title="Grammatik"
+    subtitle="독일어 문법"
+    description="CEFR A1 - B2"
+    language="ita"
+    path="/italian/grammar"
+    level="grammar"
+    isDev="true"
+  /> -->
+</BaseLayout>
+
+<style>
+  .button-wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-items: stretch;
+    gap: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  /* Mobile */
+  @media (max-width: 480px) {
+    .button-wrapper {
+      gap: 10px;
+      margin-bottom: 10px;
+    }
+  }
+</style>

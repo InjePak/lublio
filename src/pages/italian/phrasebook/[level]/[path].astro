@@ -1,0 +1,319 @@
+---
+import BaseLayout from "../../../../layouts/BaseLayout.astro";
+import Box2 from "../../../../components/Box2.astro";
+
+// src/pages/phrasebook/[level]/[path].astro
+import chapters from "../../../../assets/json/phrasebook/chapters.json";
+
+// 1. 빌드 시 생성될 모든 경로를 정의합니다.
+export async function getStaticPaths() {
+  const levels = ["a1", "a2", "b1", "b2"] as const;
+
+  // 모든 레벨의 모든 챕터를 하나의 배열로 평탄화(flatten)하여 경로를 생성합니다.
+  return levels.flatMap((level) => {
+    return chapters[level].map((chapter) => ({
+      params: {
+        level: level, // [level] 부분에 들어갈 값
+        path: chapter.path, // [url] 부분에 들어갈 값
+      },
+      props: { chapter },
+    }));
+  });
+}
+
+// 2. 위에서 넘겨준 props를 받아옵니다.
+const { level, path } = Astro.params;
+const { chapter } = Astro.props;
+
+// 3. 해당 레벨과 챕터에 맞는 데이터를 가져옵니다.
+import phrase_a1_1 from "../../../../assets/json/phrasebook/a1/phrase_a1_1.json";
+import phrase_a1_2 from "../../../../assets/json/phrasebook/a1/phrase_a1_2.json";
+import phrase_a1_3 from "../../../../assets/json/phrasebook/a1/phrase_a1_3.json";
+import phrase_a1_4 from "../../../../assets/json/phrasebook/a1/phrase_a1_4.json";
+import phrase_a1_5 from "../../../../assets/json/phrasebook/a1/phrase_a1_5.json";
+import phrase_a1_6 from "../../../../assets/json/phrasebook/a1/phrase_a1_6.json";
+import phrase_a1_7 from "../../../../assets/json/phrasebook/a1/phrase_a1_7.json";
+import phrase_a1_8 from "../../../../assets/json/phrasebook/a1/phrase_a1_8.json";
+import phrase_a1_9 from "../../../../assets/json/phrasebook/a1/phrase_a1_9.json";
+import phrase_a1_10 from "../../../../assets/json/phrasebook/a1/phrase_a1_10.json";
+import phrase_a1_11 from "../../../../assets/json/phrasebook/a1/phrase_a1_11.json";
+import phrase_a1_12 from "../../../../assets/json/phrasebook/a1/phrase_a1_12.json";
+import phrase_a2_1 from "../../../../assets/json/phrasebook/a2/phrase_a2_1.json";
+import phrase_a2_2 from "../../../../assets/json/phrasebook/a2/phrase_a2_2.json";
+import phrase_a2_3 from "../../../../assets/json/phrasebook/a2/phrase_a2_3.json";
+import phrase_a2_4 from "../../../../assets/json/phrasebook/a2/phrase_a2_4.json";
+import phrase_a2_5 from "../../../../assets/json/phrasebook/a2/phrase_a2_5.json";
+import phrase_a2_6 from "../../../../assets/json/phrasebook/a2/phrase_a2_6.json";
+import phrase_a2_7 from "../../../../assets/json/phrasebook/a2/phrase_a2_7.json";
+import phrase_a2_8 from "../../../../assets/json/phrasebook/a2/phrase_a2_8.json";
+import phrase_a2_9 from "../../../../assets/json/phrasebook/a2/phrase_a2_9.json";
+import phrase_a2_10 from "../../../../assets/json/phrasebook/a2/phrase_a2_10.json";
+import phrase_a2_11 from "../../../../assets/json/phrasebook/a2/phrase_a2_11.json";
+import phrase_a2_12 from "../../../../assets/json/phrasebook/a2/phrase_a2_12.json";
+import phrase_b1_1 from "../../../../assets/json/phrasebook/b1/phrase_b1_1.json";
+import phrase_b1_2 from "../../../../assets/json/phrasebook/b1/phrase_b1_2.json";
+import phrase_b1_3 from "../../../../assets/json/phrasebook/b1/phrase_b1_3.json";
+import phrase_b1_4 from "../../../../assets/json/phrasebook/b1/phrase_b1_4.json";
+import phrase_b1_5 from "../../../../assets/json/phrasebook/b1/phrase_b1_5.json";
+import phrase_b1_6 from "../../../../assets/json/phrasebook/b1/phrase_b1_6.json";
+import phrase_b1_7 from "../../../../assets/json/phrasebook/b1/phrase_b1_7.json";
+import phrase_b1_8 from "../../../../assets/json/phrasebook/b1/phrase_b1_8.json";
+import phrase_b1_9 from "../../../../assets/json/phrasebook/b1/phrase_b1_9.json";
+import phrase_b1_10 from "../../../../assets/json/phrasebook/b1/phrase_b1_10.json";
+import phrase_b1_11 from "../../../../assets/json/phrasebook/b1/phrase_b1_11.json";
+import phrase_b1_12 from "../../../../assets/json/phrasebook/b1/phrase_b1_12.json";
+import phrase_b2_1 from "../../../../assets/json/phrasebook/b2/phrase_b2_1.json";
+import phrase_b2_2 from "../../../../assets/json/phrasebook/b2/phrase_b2_2.json";
+import phrase_b2_3 from "../../../../assets/json/phrasebook/b2/phrase_b2_3.json";
+import phrase_b2_4 from "../../../../assets/json/phrasebook/b2/phrase_b2_4.json";
+import phrase_b2_5 from "../../../../assets/json/phrasebook/b2/phrase_b2_5.json";
+import phrase_b2_6 from "../../../../assets/json/phrasebook/b2/phrase_b2_6.json";
+import phrase_b2_7 from "../../../../assets/json/phrasebook/b2/phrase_b2_7.json";
+import phrase_b2_8 from "../../../../assets/json/phrasebook/b2/phrase_b2_8.json";
+import phrase_b2_9 from "../../../../assets/json/phrasebook/b2/phrase_b2_9.json";
+import phrase_b2_10 from "../../../../assets/json/phrasebook/b2/phrase_b2_10.json";
+import phrase_b2_11 from "../../../../assets/json/phrasebook/b2/phrase_b2_11.json";
+import phrase_b2_12 from "../../../../assets/json/phrasebook/b2/phrase_b2_12.json";
+
+let jsonData;
+switch (level) {
+  case "a1":
+    switch (chapter.id) {
+      case 1:
+        jsonData = phrase_a1_1;
+        break;
+      case 2:
+        jsonData = phrase_a1_2;
+        break;
+      case 3:
+        jsonData = phrase_a1_3;
+        break;
+      case 4:
+        jsonData = phrase_a1_4;
+        break;
+      case 5:
+        jsonData = phrase_a1_5;
+        break;
+      case 6:
+        jsonData = phrase_a1_6;
+        break;
+      case 7:
+        jsonData = phrase_a1_7;
+        break;
+      case 8:
+        jsonData = phrase_a1_8;
+        break;
+      case 9:
+        jsonData = phrase_a1_9;
+        break;
+      case 10:
+        jsonData = phrase_a1_10;
+        break;
+      case 11:
+        jsonData = phrase_a1_11;
+        break;
+      case 12:
+        jsonData = phrase_a1_12;
+        break;
+    }
+    break;
+  case "a2":
+    switch (chapter.id) {
+      case 1:
+        jsonData = phrase_a2_1;
+        break;
+      case 2:
+        jsonData = phrase_a2_2;
+        break;
+      case 3:
+        jsonData = phrase_a2_3;
+        break;
+      case 4:
+        jsonData = phrase_a2_4;
+        break;
+      case 5:
+        jsonData = phrase_a2_5;
+        break;
+      case 6:
+        jsonData = phrase_a2_6;
+        break;
+      case 7:
+        jsonData = phrase_a2_7;
+        break;
+      case 8:
+        jsonData = phrase_a2_8;
+        break;
+      case 9:
+        jsonData = phrase_a2_9;
+        break;
+      case 10:
+        jsonData = phrase_a2_10;
+        break;
+      case 11:
+        jsonData = phrase_a2_11;
+        break;
+      case 12:
+        jsonData = phrase_a2_12;
+        break;
+    }
+    break;
+  case "b1":
+    switch (chapter.id) {
+      case 1:
+        jsonData = phrase_b1_1;
+        break;
+      case 2:
+        jsonData = phrase_b1_2;
+        break;
+      case 3:
+        jsonData = phrase_b1_3;
+        break;
+      case 4:
+        jsonData = phrase_b1_4;
+        break;
+      case 5:
+        jsonData = phrase_b1_5;
+        break;
+      case 6:
+        jsonData = phrase_b1_6;
+        break;
+      case 7:
+        jsonData = phrase_b1_7;
+        break;
+      case 8:
+        jsonData = phrase_b1_8;
+        break;
+      case 9:
+        jsonData = phrase_b1_9;
+        break;
+      case 10:
+        jsonData = phrase_b1_10;
+        break;
+      case 11:
+        jsonData = phrase_b1_11;
+        break;
+      case 12:
+        jsonData = phrase_b1_12;
+        break;
+    }
+    break;
+  case "b2":
+    switch (chapter.id) {
+      case 1:
+        jsonData = phrase_b2_1;
+        break;
+      case 2:
+        jsonData = phrase_b2_2;
+        break;
+      case 3:
+        jsonData = phrase_b2_3;
+        break;
+      case 4:
+        jsonData = phrase_b2_4;
+        break;
+      case 5:
+        jsonData = phrase_b2_5;
+        break;
+      case 6:
+        jsonData = phrase_b2_6;
+        break;
+      case 7:
+        jsonData = phrase_b2_7;
+        break;
+      case 8:
+        jsonData = phrase_b2_8;
+        break;
+      case 9:
+        jsonData = phrase_b2_9;
+        break;
+      case 10:
+        jsonData = phrase_b2_10;
+        break;
+      case 11:
+        jsonData = phrase_b2_11;
+        break;
+      case 12:
+        jsonData = phrase_b2_12;
+        break;
+    }
+    break;
+  default:
+    jsonData = phrase_a1_1;
+    break;
+}
+---
+
+<BaseLayout pageTitle={chapter.eng + " - Lublio"}>
+  <Box2 title={chapter.ita} subtitle={chapter.eng} language="ita" />
+
+  {
+    !jsonData ? (
+      <p>서버 에러입니다.</p>
+    ) : (
+      jsonData.map((data: any, index: number) => (
+        <div class="phrase-box">
+          <h1>{index + 1}</h1>
+          <h2 lang="it">{data.ita}</h2>
+          <p>{data.eng}</p>
+        </div>
+      ))
+    )
+  }
+</BaseLayout>
+
+<style>
+  /* Phrase Box */
+
+  .phrase-box {
+    background-color: var(--neutral50);
+    margin-bottom: 1.5rem;
+    padding: 1.5rem;
+  }
+
+  .phrase-box > h1 {
+    width: 100px;
+    border-left: 4px solid var(--emerald400);
+    padding: 5px 10px;
+    font-size: 16px;
+    margin-bottom: 2rem;
+  }
+
+  .phrase-box > h2 {
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    hyphens: auto;
+    overflow-wrap: break-word;
+  }
+
+  .phrase-box > p {
+    font-size: 18px;
+    margin-bottom: 1rem;
+    line-height: 1.6rem;
+    color: var(--zinc500);
+  }
+
+  .phrase-box > p > span {
+    margin-right: 10px;
+  }
+
+  /* Mobile */
+  @media (max-width: 480px) {
+    .phrase-box > h1 {
+      border-left: 3px solid var(--emerald400);
+      font-size: 14px;
+      margin-bottom: 1rem;
+    }
+
+    .phrase-box > h2 {
+      font-size: 18px;
+      margin-top: 1rem;
+    }
+
+    .phrase-box > p {
+      font-size: 16px;
+      margin-bottom: 0.5rem;
+      line-height: 1.5rem;
+    }
+  }
+</style>

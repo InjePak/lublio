@@ -1,0 +1,30 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import Box from "../../../components/Box.astro";
+import Button2 from "../../../components/Button2.astro";
+
+import chapters from "../../../assets/json/patterns/chapters.json";
+
+const pageTitle = "Spanish Sentence Patterns";
+---
+
+<BaseLayout pageTitle={pageTitle + " - Lublio"}>
+  <Box
+    title="Patrones"
+    subtitle="Sentence Patterns"
+    description="Create tens of thousands of sentences with just one pattern, without complicated thinking. Experience the most efficient learning that gets you speaking quickly."
+    language="esp"
+  />
+
+  {
+    chapters.map((post: any) => (
+      <Button2
+        id={post.id}
+        title={post.esp}
+        subtitle={post.eng}
+        language="esp"
+        path={"/spanish/pattern/" + post.path}
+      />
+    ))
+  }
+</BaseLayout>

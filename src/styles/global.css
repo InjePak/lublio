@@ -153,7 +153,9 @@ p {
 .animated-underline-eng,
 .animated-underline-fra,
 .animated-underline-deu,
-.animated-underline-rus {
+.animated-underline-rus,
+.animated-underline-esp,
+.animated-underline-ita {
   position: relative;
   display: inline-block;
 }
@@ -162,7 +164,9 @@ p {
 .animated-underline-eng::after,
 .animated-underline-fra::after,
 .animated-underline-deu::after,
-.animated-underline-rus::after {
+.animated-underline-rus::after,
+.animated-underline-esp::after,
+.animated-underline-ita::after {
   content: "";
   position: absolute;
   width: 100%;
@@ -194,11 +198,21 @@ p {
   background-color: var(--indigo400);
 }
 
+.animated-underline-esp::after {
+  background-color: var(--orange400);
+}
+
+.animated-underline-ita::after {
+  background-color: var(--emerald400);
+}
+
 .animated-underline:hover,
 .animated-underline-eng:hover,
 .animated-underline-fra:hover,
 .animated-underline-deu:hover,
-.animated-underline-rus:hover {
+.animated-underline-rus:hover,
+.animated-underline-esp:hover,
+.animated-underline-ita:hover {
   cursor: default;
 }
 
@@ -206,7 +220,9 @@ p {
 .animated-underline-eng:hover::after,
 .animated-underline-fra:hover::after,
 .animated-underline-deu:hover::after,
-.animated-underline-rus:hover::after {
+.animated-underline-rus:hover::after,
+.animated-underline-esp:hover::after,
+.animated-underline-ita:hover::after {
   transform: scaleX(1); /* 호버 시 가로 길이를 100%로 */
   transform-origin: bottom left;
 }
