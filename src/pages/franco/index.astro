@@ -1,14 +1,14 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
-import Box from "../../components/Box.astro";
+import BoxMain from "../../components/BoxMain.astro";
 import Button from "../../components/Button.astro";
 
-const pageTitle = "French";
+const pageTitle = "Franco";
 ---
 
 <BaseLayout pageTitle={pageTitle + " - Lublio"}>
-  <Box
-    title="Français"
+  <BoxMain
+    title="Franco"
     subtitle="French"
     description="Le français est la langue de l'amour et de la diplomatie. Reconnue pour son élégance et sa précision, elle brille à travers le monde comme un vecteur essentiel de la culture, de la gastronomie et des arts libéraux."
     language="fra"
@@ -20,7 +20,7 @@ const pageTitle = "French";
       subtitle="Phrasebook"
       description="CEFR A1 - B2"
       language="fra"
-      path="/french/phrasebook"
+      path="/franco/phrasebook"
       level="phrase"
     />
 
@@ -29,7 +29,7 @@ const pageTitle = "French";
       subtitle="Patterns"
       description="CEFR B1 - C1"
       language="fra"
-      path="/french/pattern"
+      path="/franco/pattern"
       level="pattern"
     />
 
@@ -38,7 +38,7 @@ const pageTitle = "French";
       subtitle="프랑스어 첫걸음"
       description="CEFR A0"
       language="fra"
-      path="/french/a0"
+      path="/franco/a0"
       level="a0"
       isDev="true"
     />
@@ -48,7 +48,7 @@ const pageTitle = "French";
       subtitle="기초 프랑스어"
       description="CEFR A1"
       language="fra"
-      path="/french/a1"
+      path="/franco/a1"
       level="a1"
       isDev="true"
     />
@@ -58,7 +58,7 @@ const pageTitle = "French";
       subtitle="초급 프랑스어"
       description="CEFR A2"
       language="fra"
-      path="/french/a2"
+      path="/franco/a2"
       level="a2"
       isDev="true"
     />
@@ -68,7 +68,7 @@ const pageTitle = "French";
       subtitle="중급 프랑스어"
       description="CEFR B1"
       language="fra"
-      path="/french/b1"
+      path="/franco/b1"
       level="b1"
       isDev="true"
     />
@@ -78,18 +78,28 @@ const pageTitle = "French";
       subtitle="중고급 프랑스어"
       description="CEFR B2"
       language="fra"
-      path="/french/b2"
+      path="/franco/b2"
       level="b2"
       isDev="true"
     /> -->
   </div>
 
-  <!-- <Button
+  <Button
     title="Grammaire"
-    subtitle="프랑스어 문법"
+    subtitle="Grammar"
     description="CEFR A1 - B2"
     language="fra"
-    path="/french/grammar"
+    path="/franco/grammar"
+    level="grammar"
+    isDev="true"
+  />
+
+  <!-- <Button
+    title="Grammaire"
+    subtitle="Grammar"
+    description="CEFR A1 - B2"
+    language="fra"
+    path="/franco/grammar"
     level="grammar"
     isDev="true"
   /> -->

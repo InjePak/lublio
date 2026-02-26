@@ -10,7 +10,7 @@ export async function getStaticPaths() {
   return grammarEntries.map((entry) => {
     // entry.id 예시: "english/nouns/pronouns.md"
     const parts = entry.id.split("/");
-    const lang = parts.shift(); // 첫 번째 요소(english)를 추출하고 배열에서 제거
+    const lang = parts.shift(); // 첫 번째 요소를 추출하고 배열에서 제거
     const slug = parts.join("/").replace(/\.md$/, ""); // 나머지(nouns/pronouns)를 다시 합침
 
     return {
@@ -33,7 +33,7 @@ const { Content } = await entry.render();
       title={entry.data.title}
       subtitle={entry.data.translation}
       description={entry.data.description}
-      language="eng"
+      language="fra"
     />
 
     <div class="post-body">

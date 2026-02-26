@@ -19,14 +19,14 @@ const pageTitle = "Lublio";
   <h2>
     <Typewriter
       texts={[
-        "Beyond just 'Bonjour',", // [프랑스어] 단순히 '봉주르'를 넘어,
-        "A 'Ciao' that leads to friendship,", // [이탈리아어] 우정으로 이어지는 '챠오',
-        "Finding your 'Buen Camino',", // [스페인어] 당신만의 '좋은 길(여정)'을 찾는,
-        "More than a 'Danke' in Berlin,", // [독일어] 베를린에서의 '당케' 그 이상의 진심,
-        "The 'Saudade' of Lisbon streets,", // [포르투갈어] 리스본 거리의 '그리움(사우다드)',
-        "Whispering 'Ahoj' in Prague,", // [체코어] 프라하에서 '안녕(아호이)'이라고 속삭이는,
-        "A 'Fiesta' that never ends,", // [스페인어] 끝나지 않는 '축제',
-        "Every 'Oui' is a new beginning,", // [프랑스어] 모든 '응(위)'은 새로운 시작,
+        "Going beyond just a simple 'Bonjour',", // [FR] 단순히 '봉주르'를 넘어,
+        "Whispering 'Privet' to the Red Square,", // [RU] 붉은 광장에 '프리벳'이라고 속삭이는,
+        "Finding your 'Joie de vivre' in Paris,", // [FR] 파리에서 삶의 기쁨(조아 드 비브르)을 찾는,
+        "Chasing the 'White Nights' of St. Petersburg,", // [RU] 상트페테르부르크의 백야를 쫓는 여정,
+        "A 'Flâneur' wandering through old streets,", // [FR] 오래된 거리를 거니는 산책자(플라뇌르),
+        "The deep 'Dusha' found in a winter train,", // [RU] 겨울 기차 안에서 발견한 깊은 영혼(두샤),
+        "Every 'Petit bonheur' becomes a memory,", // [FR] 모든 소소한 행복(쁘띠 보뇌르)이 추억이 되는,
+        "Unlocking the 'Mir' of the vast East,", // [RU] 광활한 동쪽의 세계(미르)를 여는 열쇠,
       ]}
     />
   </h2>
@@ -34,14 +34,30 @@ const pageTitle = "Lublio";
 
   <div class="button-wrapper">
     <ButtonMain
-      title="Français"
+      title="Franco"
       subtitle="French"
       description="CEFR A1-C1"
       language="fra"
-      path="/french"
+      path="/franco"
     />
 
     <ButtonMain
+      title="Russo"
+      subtitle="Russian"
+      description="CEFR A1-C1"
+      language="rus"
+      path="/russo"
+    />
+
+    <!-- <ButtonMain
+      title="Deutsch"
+      subtitle="German"
+      description="CEFR A1 - C1"
+      language="deu"
+      path="/german"
+    /> -->
+
+    <!-- <ButtonMain
       title="Español"
       subtitle="Spanish"
       description="CEFR A1 - C1"
@@ -50,28 +66,12 @@ const pageTitle = "Lublio";
     />
 
     <ButtonMain
-      title="Deutsch"
-      subtitle="German"
-      description="CEFR A1 - C1"
-      language="deu"
-      path="/german"
-    />
-
-    <ButtonMain
       title="Italiano"
       subtitle="Italian"
       description="CEFR A1 - C1"
       language="ita"
       path="/italian"
-    />
-
-    <ButtonMain
-      title="Русский"
-      subtitle="Russian"
-      description="CEFR A1-C1"
-      language="rus"
-      path="/russian"
-    />
+    /> -->
 
     <!-- 
         <ButtonMain
@@ -129,7 +129,7 @@ const pageTitle = "Lublio";
     h2 {
       font-family: "Inter", sans-serif;
       margin-top: 150px;
-      font-size: 28px;
+      font-size: 24px;
       line-height: 30px;
       margin-bottom: 0.5rem;
       font-weight: 400;
@@ -146,9 +146,11 @@ const pageTitle = "Lublio";
     }
 
     .button-wrapper {
-      display: flex;
-      flex-direction: column;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      justify-items: stretch;
       gap: 1rem;
+      margin-bottom: 1rem;
     }
 
     /* Mobile */
@@ -164,13 +166,21 @@ const pageTitle = "Lublio";
       }
 
       h2 {
-        margin-top: 100px;
+        height: 40px;
+        margin-top: 120px;
         font-size: 20px;
-        line-height: 20px;
+        line-height: 24px;
+        width: 85%;
+      }
+
+      #fixed-title {
+        height: 70px;
+        margin-top: 1rem;
+        margin-bottom: 2rem;
       }
 
       .button-wrapper {
-        gap: 20px;
+        gap: 10px;
       }
     }
   </style>

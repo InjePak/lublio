@@ -6,35 +6,35 @@ import Button2 from "../../../components/Button2.astro";
 import AnchorNavigation from "../../../components/AnchorNavigation.astro";
 
 const posts1 = await getCollection("grammar", ({ id }) => {
-  return id.startsWith("english/nouns/");
+  return id.startsWith("french/nouns/");
 });
 
 const posts2 = await getCollection("grammar", ({ id }) => {
-  return id.startsWith("english/pronouns/");
+  return id.startsWith("french/pronouns/");
 });
 
 const posts3 = await getCollection("grammar", ({ id }) => {
-  return id.startsWith("english/adjectives/");
+  return id.startsWith("french/adjectives/");
 });
 
 const posts4 = await getCollection("grammar", ({ id }) => {
-  return id.startsWith("english/verbs/");
+  return id.startsWith("french/verbs/");
 });
 
 const posts5 = await getCollection("grammar", ({ id }) => {
-  return id.startsWith("english/prepositions/");
+  return id.startsWith("french/prepositions/");
 });
 
 const posts6 = await getCollection("grammar", ({ id }) => {
-  return id.startsWith("english/numerals/");
+  return id.startsWith("french/numerals/");
 });
 
 const posts7 = await getCollection("grammar", ({ id }) => {
-  return id.startsWith("english/conjunctions/");
+  return id.startsWith("french/conjunctions/");
 });
 
 // Title
-const pageTitle = "영어 문법";
+const pageTitle = "French Grammar";
 
 // Anchor Navigation
 const navItems = [
@@ -51,7 +51,7 @@ const navItems = [
 <BaseLayout pageTitle={pageTitle + " - Lublio"}>
   <Box
     title="Grammaire"
-    subtitle="프랑스어 문법"
+    subtitle="French Grammar"
     description="생각을 문장으로 바꾸는 가장 명확한 가이드라인. 기초부터 탄탄하게 다져진 문법으로 흔들림 없는 회화 실력을 갖춰보세요."
     language="fra"
   />
@@ -67,12 +67,12 @@ const navItems = [
         {
           posts1.map((post: any, index: number) => {
             // URL 추출 로직
-            // entry.id 예시: "english/nouns/basics.md" -> "nouns/basics"
+            // entry.id 예시: "french/nouns/basics.md" -> "nouns/basics"
             const slugWithoutLang = post.id
-              .replace("english/", "")
+              .replace("french/", "")
               .replace(".md", "");
 
-            const postUrl = `/english/grammar/${slugWithoutLang}`;
+            const postUrl = `/french/grammar/${slugWithoutLang}`;
 
             return (
               <Button2
@@ -96,12 +96,12 @@ const navItems = [
         {
           posts2.map((post: any, index: number) => {
             // URL 추출 로직
-            // entry.id 예시: "english/nouns/basics.md" -> "nouns/basics"
+            // entry.id 예시: "french/nouns/basics.md" -> "nouns/basics"
             const slugWithoutLang = post.id
-              .replace("english/", "")
+              .replace("french/", "")
               .replace(".md", "");
 
-            const postUrl = `/english/grammar/${slugWithoutLang}`;
+            const postUrl = `/french/grammar/${slugWithoutLang}`;
 
             return (
               <Button2
@@ -125,12 +125,12 @@ const navItems = [
         {
           posts3.map((post: any, index: number) => {
             // URL 추출 로직
-            // entry.id 예시: "english/nouns/basics.md" -> "nouns/basics"
+            // entry.id 예시: "french/nouns/basics.md" -> "nouns/basics"
             const slugWithoutLang = post.id
-              .replace("english/", "")
+              .replace("french/", "")
               .replace(".md", "");
 
-            const postUrl = `/english/grammar/${slugWithoutLang}`;
+            const postUrl = `/french/grammar/${slugWithoutLang}`;
 
             return (
               <Button2
@@ -154,12 +154,12 @@ const navItems = [
         {
           posts4.map((post: any, index: number) => {
             // URL 추출 로직
-            // entry.id 예시: "english/nouns/basics.md" -> "nouns/basics"
+            // entry.id 예시: "french/nouns/basics.md" -> "nouns/basics"
             const slugWithoutLang = post.id
-              .replace("english/", "")
+              .replace("french/", "")
               .replace(".md", "");
 
-            const postUrl = `/english/grammar/${slugWithoutLang}`;
+            const postUrl = `/french/grammar/${slugWithoutLang}`;
 
             return (
               <Button2
@@ -183,12 +183,12 @@ const navItems = [
         {
           posts5.map((post: any, index: number) => {
             // URL 추출 로직
-            // entry.id 예시: "english/nouns/basics.md" -> "nouns/basics"
+            // entry.id 예시: "french/nouns/basics.md" -> "nouns/basics"
             const slugWithoutLang = post.id
-              .replace("english/", "")
+              .replace("french/", "")
               .replace(".md", "");
 
-            const postUrl = `/english/grammar/${slugWithoutLang}`;
+            const postUrl = `/french/grammar/${slugWithoutLang}`;
 
             return (
               <Button2
@@ -212,12 +212,12 @@ const navItems = [
         {
           posts6.map((post: any, index: number) => {
             // URL 추출 로직
-            // entry.id 예시: "english/nouns/basics.md" -> "nouns/basics"
+            // entry.id 예시: "french/nouns/basics.md" -> "nouns/basics"
             const slugWithoutLang = post.id
-              .replace("english/", "")
+              .replace("french/", "")
               .replace(".md", "");
 
-            const postUrl = `/english/grammar/${slugWithoutLang}`;
+            const postUrl = `/french/grammar/${slugWithoutLang}`;
 
             return (
               <Button2
@@ -241,12 +241,12 @@ const navItems = [
         {
           posts7.map((post: any, index: number) => {
             // URL 추출 로직
-            // entry.id 예시: "english/nouns/basics.md" -> "nouns/basics"
+            // entry.id 예시: "french/nouns/basics.md" -> "nouns/basics"
             const slugWithoutLang = post.id
-              .replace("english/", "")
+              .replace("french/", "")
               .replace(".md", "");
 
-            const postUrl = `/english/grammar/${slugWithoutLang}`;
+            const postUrl = `/french/grammar/${slugWithoutLang}`;
 
             return (
               <Button2
