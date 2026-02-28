@@ -15,57 +15,52 @@ const { title, subtitle, description, language, path, level } = Astro.props;
 
 const colorMap1: Record<string, string> = {
   eng: "var(--pink500)",
-  fra: "var(--sky500)",
+  fra: "var(--blue500)",
   deu: "var(--amber500)",
   ita: "var(--emerald500)",
-  esp: "var(--orange500)",
-  rus: "var(--indigo500)",
-  tur: "var(--rose500)",
-  ces: "var(--blue500)",
+  swe: "var(--cyan500)",
+  spa: "var(--rose500)",
+  nld: "var(--orange500)",
   hun: "var(--lime500)",
 };
 const colorMap2: Record<string, string> = {
   eng: "var(--pink400)",
-  fra: "var(--sky400)",
+  fra: "var(--blue400)",
   deu: "var(--amber400)",
   ita: "var(--emerald400)",
-  esp: "var(--orange400)",
-  rus: "var(--indigo400)",
-  tur: "var(--rose400)",
-  ces: "var(--blue400)",
+  swe: "var(--cyan400)",
+  spa: "var(--rose400)",
+  nld: "var(--orange400)",
   hun: "var(--lime400)",
 };
 const colorMap3: Record<string, string> = {
   eng: "var(--pink300)",
-  fra: "var(--sky300)",
+  fra: "var(--blue300)",
   deu: "var(--amber300)",
   ita: "var(--emerald300)",
-  esp: "var(--orange300)",
-  rus: "var(--indigo300)",
-  tur: "var(--rose300)",
-  ces: "var(--blue300)",
+  swe: "var(--cyan300)",
+  spa: "var(--rose300)",
+  nld: "var(--orange300)",
   hun: "var(--lime300)",
 };
 const colorMap4: Record<string, string> = {
   eng: "var(--pink200)",
-  fra: "var(--sky200)",
+  fra: "var(--blue200)",
   deu: "var(--amber200)",
   ita: "var(--emerald200)",
-  esp: "var(--orange200)",
-  rus: "var(--indigo200)",
-  tur: "var(--rose200)",
-  ces: "var(--blue200)",
+  swe: "var(--cyan200)",
+  spa: "var(--rose200)",
+  nld: "var(--orange200)",
   hun: "var(--lime200)",
 };
 const colorMap5: Record<string, string> = {
   eng: "var(--pink100)",
-  fra: "var(--sky100)",
+  fra: "var(--blue100)",
   deu: "var(--amber100)",
   ita: "var(--emerald100)",
-  esp: "var(--orange100)",
-  rus: "var(--indigo100)",
-  tur: "var(--rose100)",
-  ces: "var(--blue100)",
+  swe: "var(--cyan100)",
+  spa: "var(--rose100)",
+  nld: "var(--orange100)",
   hun: "var(--lime100)",
 };
 const color500 = colorMap1[language] || "var(--zinc500)";
@@ -75,17 +70,17 @@ const color200 = colorMap4[language] || "var(--zinc200)";
 const color100 = colorMap5[language] || "var(--zinc100)";
 
 const greetingMap: Record<string, string> = {
-  eng: "Hello",
-  fra: "Bonjour",
-  deu: "Hallo",
-  ita: "Ciao",
-  esp: "Hola",
-  rus: "Привет",
-  tur: "Merhaba",
-  ces: "Ahoj",
-  hun: "Szia",
+  eng: "Welcome",
+  fra: "Bienvenue",
+  deu: "Willkommen",
+  ita: "Benvenuti",
+  swe: "Välkommen",
+  spa: "Bienvenido",
+  nld: "Welkom",
+  ces: "Vítejte",
+  hun: "Üdvözöljük",
 };
-const greeting = greetingMap[language] || "Hello";
+const greeting = greetingMap[language] || "Welcome";
 ---
 
 <style define:vars={{ color500, color400, color300, color200, color100 }}>
@@ -146,7 +141,7 @@ const greeting = greetingMap[language] || "Hello";
     position: relative;
     background-color: var(--neutral200);
     padding: 1rem;
-    min-height: 400px;
+    min-height: 200px;
     width: 100%;
     height: 100%;
     transition: all 0.4s;
@@ -204,7 +199,7 @@ const greeting = greetingMap[language] || "Hello";
   /* Mobile */
   @media (max-width: 480px) {
     .btn {
-      min-height: 400px;
+      min-height: 160px;
     }
 
     .btn > h1 {

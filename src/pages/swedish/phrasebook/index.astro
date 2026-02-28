@@ -11,7 +11,7 @@ const chapters_b1 = chapters["b1"];
 const chapters_b2 = chapters["b2"];
 
 // Title
-const pageTitle = "Francophone Studies";
+const pageTitle = "Russian Phrasebook";
 
 // Anchor Navigation
 const navItems = [
@@ -24,10 +24,10 @@ const navItems = [
 
 <BaseLayout pageTitle={pageTitle + " - Lublio"}>
   <Box
-    title="Francophone"
-    subtitle="Francophone Studies"
-    description="This section provides a deep dive into France as a global economic powerhouse and the epicenter of the Francophone market. We analyze France’s leadership in high-tech industries, luxury goods, and green energy, alongside its role as a gateway to the European Union. Our focus extends to the strategic human resources and professional networks driving innovation and trade across the French-speaking world, offering a roadmap for navigating the complexities of its sophisticated business ecosystem."
-    language="fra"
+    title="Фразы"
+    subtitle="Phrasebook"
+    description="A crisp 'Privet' exchanged in the sleek tech districts of modern Moscow. Tap into the powerful, direct, and intellectual depth of a language that fuels the city's relentless drive and innovative spirit."
+    language="rus"
   />
 
   <AnchorNavigation items={navItems} />
@@ -35,17 +35,17 @@ const navItems = [
   <main>
     <section id="group-a1">
       <h2>
-        <span class="animated-underline-fra">CEFR A1</span>
+        <span class="animated-underline-rus">CEFR A1</span>
       </h2>
       <ul>
         {
           chapters_a1.map((post: any) => (
             <Button2
               id={post.id}
-              title={post.fra}
+              title={post.rus}
               subtitle={post.eng}
-              language="fra"
-              path={"/franco/phrasebook/a1/" + post.path}
+              language="rus"
+              path={"/russo/phrasebook/a1/" + post.path}
             />
           ))
         }
@@ -54,17 +54,17 @@ const navItems = [
 
     <section id="group-a2">
       <h2>
-        <span class="animated-underline-fra">CEFR A2</span>
+        <span class="animated-underline-rus">CEFR A2</span>
       </h2>
       <ul>
         {
           chapters_a2.map((post: any) => (
             <Button2
               id={post.id}
-              title={post.fra}
+              title={post.rus}
               subtitle={post.eng}
-              language="fra"
-              path={"/franco/phrasebook/a2/" + post.path}
+              language="rus"
+              path={"/russo/phrasebook/a2/" + post.path}
             />
           ))
         }
@@ -73,17 +73,17 @@ const navItems = [
 
     <section id="group-b1">
       <h2>
-        <span class="animated-underline-fra">CEFR B1</span>
+        <span class="animated-underline-rus">CEFR B1</span>
       </h2>
       <ul>
         {
           chapters_b1.map((post: any) => (
             <Button2
               id={post.id}
-              title={post.fra}
+              title={post.rus}
               subtitle={post.eng}
-              language="fra"
-              path={"/franco/phrasebook/b1/" + post.path}
+              language="rus"
+              path={"/russo/phrasebook/b1/" + post.path}
             />
           ))
         }
@@ -92,17 +92,17 @@ const navItems = [
 
     <section id="group-b2">
       <h2>
-        <span class="animated-underline-fra">CEFR B2</span>
+        <span class="animated-underline-rus">CEFR B2</span>
       </h2>
       <ul>
         {
           chapters_b2.map((post: any) => (
             <Button2
               id={post.id}
-              title={post.fra}
+              title={post.rus}
               subtitle={post.eng}
-              language="fra"
-              path={"/franco/phrasebook/b2/" + post.path}
+              language="rus"
+              path={"/russo/phrasebook/b2/" + post.path}
             />
           ))
         }
