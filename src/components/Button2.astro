@@ -5,61 +5,78 @@ import "../styles/transition.css";
 
 const { id, title, subtitle, language, path } = Astro.props;
 
-const colorMap1: Record<string, string> = {
+const colorMap800: Record<string, string> = {
+  eng: "var(--pink800)",
+  fra: "var(--sky800)",
+  deu: "var(--amber800)",
+  ita: "var(--emerald800)",
+  esp: "var(--orange800)",
+  rus: "var(--indigo800)",
+};
+const colorMap700: Record<string, string> = {
+  eng: "var(--pink700)",
+  fra: "var(--sky700)",
+  deu: "var(--amber700)",
+  ita: "var(--emerald700)",
+  esp: "var(--orange700)",
+  rus: "var(--indigo700)",
+};
+const colorMap600: Record<string, string> = {
+  eng: "var(--pink600)",
+  fra: "var(--sky600)",
+  deu: "var(--amber600)",
+  ita: "var(--emerald600)",
+  esp: "var(--orange600)",
+  rus: "var(--indigo600)",
+};
+const colorMap500: Record<string, string> = {
   eng: "var(--pink500)",
-  fra: "var(--blue500)",
+  fra: "var(--sky500)",
   deu: "var(--amber500)",
   ita: "var(--emerald500)",
-  swe: "var(--cyan500)",
-  spa: "var(--rose500)",
-  nld: "var(--orange500)",
-  hun: "var(--lime500)",
+  esp: "var(--orange500)",
+  rus: "var(--indigo500)",
 };
-const colorMap2: Record<string, string> = {
+const colorMap400: Record<string, string> = {
   eng: "var(--pink400)",
-  fra: "var(--blue400)",
+  fra: "var(--sky400)",
   deu: "var(--amber400)",
   ita: "var(--emerald400)",
-  swe: "var(--cyan400)",
-  spa: "var(--rose400)",
-  nld: "var(--orange400)",
-  hun: "var(--lime400)",
+  esp: "var(--orange400)",
+  rus: "var(--indigo400)",
 };
-const colorMap3: Record<string, string> = {
+const colorMap300: Record<string, string> = {
   eng: "var(--pink300)",
-  fra: "var(--blue300)",
+  fra: "var(--sky300)",
   deu: "var(--amber300)",
   ita: "var(--emerald300)",
-  swe: "var(--cyan300)",
-  spa: "var(--rose300)",
-  nld: "var(--orange300)",
-  hun: "var(--lime300)",
+  esp: "var(--orange300)",
+  rus: "var(--indigo300)",
 };
-const colorMap4: Record<string, string> = {
+const colorMap200: Record<string, string> = {
   eng: "var(--pink200)",
-  fra: "var(--blue200)",
+  fra: "var(--sky200)",
   deu: "var(--amber200)",
   ita: "var(--emerald200)",
-  swe: "var(--cyan200)",
-  spa: "var(--rose200)",
-  nld: "var(--orange200)",
-  hun: "var(--lime200)",
+  esp: "var(--orange200)",
+  rus: "var(--indigo200)",
 };
-const colorMap5: Record<string, string> = {
+const colorMap100: Record<string, string> = {
   eng: "var(--pink100)",
-  fra: "var(--blue100)",
+  fra: "var(--sky100)",
   deu: "var(--amber100)",
   ita: "var(--emerald100)",
-  swe: "var(--cyan100)",
-  spa: "var(--rose100)",
-  nld: "var(--orange100)",
-  hun: "var(--lime100)",
+  esp: "var(--orange100)",
+  rus: "var(--indigo100)",
 };
-const color500 = colorMap1[language] || "var(--neutral500)";
-const color400 = colorMap2[language] || "var(--neutral400)";
-const color300 = colorMap3[language] || "var(--neutral300)";
-const color200 = colorMap4[language] || "var(--neutral200)";
-const color100 = colorMap5[language] || "var(--neutral100)";
+const color800 = colorMap800[language] || "var(--zinc800)";
+const color700 = colorMap700[language] || "var(--zinc700)";
+const color600 = colorMap600[language] || "var(--zinc600)";
+const color500 = colorMap500[language] || "var(--zinc500)";
+const color400 = colorMap400[language] || "var(--zinc400)";
+const color300 = colorMap300[language] || "var(--zinc300)";
+const color200 = colorMap200[language] || "var(--zinc200)";
+const color100 = colorMap100[language] || "var(--zinc100)";
 ---
 
 <style define:vars={{ color500, color400, color300, color200, color100 }}>

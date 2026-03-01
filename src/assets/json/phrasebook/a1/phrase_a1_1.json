@@ -4,249 +4,224 @@
     "eng": "Hello.",
     "fra": "Bonjour.",
     "deu": "Hallo.",
+    "rus": "Здравствуйте.",
     "esp": "Hola.",
-    "ita": "Ciao.",
-    "nld": "Hallo.",
-    "swe": "Hej."
+    "ita": "Ciao."
   },
   {
     "kor": "만나서 반가워요.",
     "eng": "Nice to meet you.",
     "fra": "Enchanté(e).",
     "deu": "Freut mich, dich kennenzulernen.",
+    "rus": "Приятно познакомиться.",
     "esp": "Mucho gusto.",
-    "ita": "Piacere di conoscerti.",
-    "nld": "Aangenaam kennis te maken.",
-    "swe": "Trevligt att träffas."
+    "ita": "Piacere di conoscerti."
   },
   {
     "kor": "제 이름은 Ryan입니다.",
     "eng": "My name is Ryan.",
     "fra": "Je m'appelle Ryan.",
     "deu": "Mein Name ist Ryan.",
+    "rus": "Меня зовут Райан.",
     "esp": "Mi nombre es Ryan.",
-    "ita": "Mi chiamo Ryan.",
-    "nld": "Mijn naam is Ryan.",
-    "swe": "Mitt namn är Ryan."
+    "ita": "Mi chiamo Ryan."
   },
   {
     "kor": "저는 미국에서 왔습니다.",
     "eng": "I'm from the US.",
     "fra": "Je viens des États-Unis.",
     "deu": "Ich komme aus den USA.",
+    "rus": "Я из США.",
     "esp": "Soy de Estados Unidos.",
-    "ita": "Vengo dagli Stati Uniti.",
-    "nld": "Ik kom uit de VS.",
-    "swe": "Jag kommer från USA."
+    "ita": "Vengo dagli Stati Uniti."
   },
   {
     "kor": "저는 LA에 삽니다.",
     "eng": "I live in LA.",
     "fra": "J'habite à Los Angeles.",
     "deu": "Ich wohne in LA.",
+    "rus": "Я живу в Лос-Анджелесе.",
     "esp": "Vivo en Los Ángeles.",
-    "ita": "Vivo a Los Angeles.",
-    "nld": "Ik woon in LA.",
-    "swe": "Jag bor i LA."
+    "ita": "Vivo a Los Angeles."
   },
   {
     "kor": "저는 20살입니다.",
     "eng": "I'm twenty years old.",
     "fra": "J'ai vingt ans.",
     "deu": "Ich bin zwanzig Jahre alt.",
+    "rus": "Мне двадцать лет.",
     "esp": "Tengo veinte años.",
-    "ita": "Ho vent'anni.",
-    "nld": "Ik ben twintig jaar oud.",
-    "swe": "Jag är tjugo år gammal."
+    "ita": "Ho vent'anni."
   },
   {
     "kor": "저는 학생입니다.",
     "eng": "I'm a student.",
     "fra": "Je suis étudiant(e).",
     "deu": "Ich bin Student(in).",
+    "rus": "Я студент.",
     "esp": "Soy estudiante.",
-    "ita": "Sono uno studente.",
-    "nld": "Ik ben een student.",
-    "swe": "Jag är student."
+    "ita": "Sono uno studente."
   },
   {
     "kor": "저는 회사원입니다.",
     "eng": "I work in an office.",
     "fra": "Je travaille dans un bureau.",
     "deu": "Ich bin Büroangestellte(r).",
+    "rus": "Я офисный работник.",
     "esp": "Soy oficinista.",
-    "ita": "Sono un impiegato.",
-    "nld": "Ik ben een kantoormedewerker.",
-    "swe": "Jag är kontorsarbetare."
+    "ita": "Sono un impiegato."
   },
   {
     "kor": "저는 스페인어를 조금 할 수 있습니다.",
     "eng": "I can speak a little Spanish.",
     "fra": "Je parle un peu espagnol.",
     "deu": "Ich spreche ein bisschen Spanisch.",
+    "rus": "Я немного говорю по-испански.",
     "esp": "Hablo un poco de español.",
-    "ita": "Parlo un po' di spagnolo.",
-    "nld": "Ik spreek een beetje Spaans.",
-    "swe": "Jag pratar lite spanska."
+    "ita": "Parlo un po' di spagnolo."
   },
   {
     "kor": "제 취미는 요리입니다.",
     "eng": "My hobby is cooking.",
     "fra": "Mon loisir est la cuisine.",
     "deu": "Mein Hobby ist Kochen.",
+    "rus": "Мое хобби — готовить.",
     "esp": "Mi pasatiempo es cocinar.",
-    "ita": "Il mio hobby è cucinare.",
-    "nld": "Mijn hobby is koken.",
-    "swe": "Min hobby är matlagning."
+    "ita": "Il mio hobby è cucinare."
   },
   {
     "kor": "음악 듣는 것을 좋아합니다.",
     "eng": "I like listening to music.",
     "fra": "J'aime écouter de la musique.",
     "deu": "Ich höre gerne Musik.",
+    "rus": "Я люблю слушать музыку.",
     "esp": "Me gusta escuchar música.",
-    "ita": "Mi piace ascoltare musica.",
-    "nld": "Ik luister graag naar muziek.",
-    "swe": "Jag gillar att lyssna på musik."
+    "ita": "Mi piace ascoltare musica."
   },
   {
     "kor": "저는 혼자 삽니다.",
     "eng": "I live alone.",
     "fra": "Je vis seul(e).",
     "deu": "Ich wohne allein.",
+    "rus": "Я живу один.",
     "esp": "Vivo solo.",
-    "ita": "Vivo da solo.",
-    "nld": "Ik woon alleen.",
-    "swe": "Jag bor ensam."
+    "ita": "Vivo da solo."
   },
   {
     "kor": "저는 형제가 한 명 있습니다.",
     "eng": "I have one brother.",
     "fra": "J'ai un frère.",
     "deu": "Ich habe einen Bruder.",
+    "rus": "У меня есть брат.",
     "esp": "Tengo un hermano.",
-    "ita": "Ho un fratello.",
-    "nld": "Ik heb een broer.",
-    "swe": "Jag har en bror."
+    "ita": "Ho un fratello."
   },
   {
     "kor": "저는 자매가 한 명 있습니다.",
     "eng": "I have one sister.",
     "fra": "J'ai une sœur.",
     "deu": "Ich habe eine Schwester.",
+    "rus": "У меня есть сестра.",
     "esp": "Tengo una hermana.",
-    "ita": "Ho una sorella.",
-    "nld": "Ik heb een zus.",
-    "swe": "Jag har en syster."
+    "ita": "Ho una sorella."
   },
   {
     "kor": "저는 개를 한 마리 키웁니다.",
     "eng": "I have a dog.",
     "fra": "J'ai un chien.",
     "deu": "Ich habe einen Hund.",
+    "rus": "У меня есть собака.",
     "esp": "Tengo un perro.",
-    "ita": "Ho un cane.",
-    "nld": "Ik heb een hond.",
-    "swe": "Jag har en hund."
+    "ita": "Ho un cane."
   },
   {
     "kor": "제가 가장 좋아하는 색은 파란색입니다.",
     "eng": "My favourite colour is blue.",
     "fra": "Ma couleur préférée est le bleu.",
     "deu": "Meine Lieblingsfarbe ist Blau.",
+    "rus": "Мой любимый цвет — синий.",
     "esp": "Mi color favorito es el azul.",
-    "ita": "Il mio colore preferito è il blu.",
-    "nld": "Mijn lievelingskleur is blauw.",
-    "swe": "Min favoritfärg är blå."
+    "ita": "Il mio colore preferito è il blu."
   },
   {
     "kor": "저는 매일 운동합니다.",
     "eng": "I exercise every day.",
     "fra": "Je fais du sport tous les jours.",
     "deu": "Ich treibe jeden Tag Sport.",
+    "rus": "Я занимаюсь спортом каждый день.",
     "esp": "Hago ejercicio todos los días.",
-    "ita": "Faccio esercizio ogni giorno.",
-    "nld": "Ik sport elke dag.",
-    "swe": "Jag tränar varje dag."
+    "ita": "Faccio esercizio ogni giorno."
   },
   {
     "kor": "만나서 반가웠습니다.",
     "eng": "It was nice meeting you.",
     "fra": "Ravi(e) de vous avoir rencontré(e).",
     "deu": "Es war schön, Sie kennenzulernen.",
+    "rus": "Был рад с вами познакомиться.",
     "esp": "Fue un gusto conocerte.",
-    "ita": "È stato un piacere conoscerti.",
-    "nld": "Het was leuk je te ontmoeten.",
-    "swe": "Det var trevligt att träffas."
+    "ita": "È stato un piacere conoscerti."
   },
   {
     "kor": "좋은 하루 보내세요.",
     "eng": "Have a lovely day.",
     "fra": "Bonne journée.",
     "deu": "Schönen Tag noch.",
+    "rus": "Хорошего дня.",
     "esp": "Que tengas un buen día.",
-    "ita": "Buona giornata.",
-    "nld": "Nog een prettige dag.",
-    "swe": "Ha en bra dag."
+    "ita": "Buona giornata."
   },
   {
     "kor": "저는 영화 보는 것을 좋아합니다.",
     "eng": "I like watching films.",
     "fra": "J'aime regarder des films.",
     "deu": "Ich schaue gerne Filme.",
+    "rus": "Я люблю смотреть фильмы.",
     "esp": "Me gusta ver películas.",
-    "ita": "Mi piace guardare film.",
-    "nld": "Ik kijk graag films.",
-    "swe": "Jag gillar att se på film."
+    "ita": "Mi piace guardare film."
   },
   {
     "kor": "저는 여행하는 것을 좋아합니다.",
     "eng": "I love travelling.",
     "fra": "J'adore voyager.",
     "deu": "Ich reise gerne.",
+    "rus": "Я люблю путешествовать.",
     "esp": "Me encanta viajar.",
-    "ita": "Mi piace viaggiare.",
-    "nld": "Ik houd van reizen.",
-    "swe": "Jag älskar att resa."
+    "ita": "Mi piace viaggiare."
   },
   {
     "kor": "저는 매운 음식을 잘 못 먹습니다.",
     "eng": "I can't eat spicy food well.",
     "fra": "Je ne mange pas très épicé.",
     "deu": "Ich esse nicht gerne scharf.",
+    "rus": "Я не очень хорошо ем острую пищу.",
     "esp": "No como muy bien la comida picante.",
-    "ita": "Non mangio molto bene il cibo piccante.",
-    "nld": "Ik kan niet goed tegen pittig eten.",
-    "swe": "Jag äter inte stark mat så bra."
+    "ita": "Non mangio molto bene il cibo piccante."
   },
   {
     "kor": "주말에는 보통 쉽니다.",
     "eng": "I usually relax at weekends.",
     "fra": "D'habitude, je me repose le week-end.",
     "deu": "Am Wochenende ruhe ich mich meistens aus.",
+    "rus": "Обычно я отдыхаю по выходным.",
     "esp": "Normalmente descanso los fines de semana.",
-    "ita": "Di solito mi riposo nei fine settimana.",
-    "nld": "In het weekend rust ik meestal uit.",
-    "swe": "På helgerna brukar jag vila."
+    "ita": "Di solito mi riposo nei fine settimana."
   },
   {
     "kor": "저는 커피보다 차를 더 좋아합니다.",
     "eng": "I prefer tea to coffee.",
     "fra": "Je préfère le thé au café.",
     "deu": "Ich mag Tee lieber als Kaffee.",
+    "rus": "Я предпочитаю чай кофе.",
     "esp": "Prefiero el té al café.",
-    "ita": "Preferisco il tè al caffè.",
-    "nld": "Ik drink liever thee dan koffie.",
-    "swe": "Jag föredrar te framför kaffe."
+    "ita": "Preferisco il tè al caffè."
   },
   {
     "kor": "나중에 또 봐요.",
     "eng": "See you later.",
     "fra": "À plus tard.",
     "deu": "Bis später.",
+    "rus": "До встречи.",
     "esp": "Hasta luego.",
-    "ita": "A dopo.",
-    "nld": "Tot later.",
-    "swe": "Vi ses senare."
+    "ita": "A dopo."
   }
 ]

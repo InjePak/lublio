@@ -1,35 +1,35 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
-import Box from "../../components/Box.astro";
+import BoxMain from "../../components/BoxMain.astro";
 import Button from "../../components/Button.astro";
 
 const pageTitle = "Swedish";
 ---
 
 <BaseLayout pageTitle={pageTitle + " - Lublio"}>
-  <Box
-    title="Svenska"
-    subtitle="Swedish"
-    description="Svenska är språket för hisnande natur, tidlös design och filosofin om 'lagom'. Med sin melodiska klang och fokus på hållbarhet ger det tillgång till den innovativa skandinaviska kulturen och en värld där balans och enkelhet står i centrum."
-    language="swe"
+  <BoxMain
+    title="Russo"
+    subtitle="Russian"
+    description="Русский — это язык великой литературы и космоса. Обладая невероятной силой выражения и эмоциональной глубиной, он открывает доступ к богатейшему культурному наследию и передовым научным достижениям."
+    language="rus"
   />
 
   <div class="button-wrapper">
     <Button
-      title="Fraser"
+      title="Фразы"
       subtitle="Phrasebook"
       description="CEFR A1 - B2"
-      language="swe"
-      path="/swedish/phrasebook"
+      language="rus"
+      path="/russo/phrasebook"
       level="phrase"
     />
 
     <Button
-      title="Mönster"
+      title="Схемы"
       subtitle="Patterns"
       description="CEFR B1 - C1"
-      language="swe"
-      path="/swedish/pattern"
+      language="rus"
+      path="/russo/pattern"
       level="pattern"
     />
 
@@ -37,8 +37,8 @@ const pageTitle = "Swedish";
       title="Абсолютный новичок"
       subtitle="러시아어 첫걸음"
       description="CEFR A0"
-      language="swe"
-      path="/swedish/a0"
+      language="rus"
+      path="/russo/a0"
       level="a0"
       isDev="true"
     />
@@ -47,8 +47,8 @@ const pageTitle = "Swedish";
       title="Элементарный"
       subtitle="기초 러시아어"
       description="CEFR A1"
-      language="swe"
-      path="/swedish/a1"
+      language="rus"
+      path="/russo/a1"
       level="a1"
       isDev="true"
     />
@@ -57,8 +57,8 @@ const pageTitle = "Swedish";
       title="Предпороговый"
       subtitle="초급 러시아어"
       description="CEFR A2"
-      language="swe"
-      path="/swedish/a2"
+      language="rus"
+      path="/russo/a2"
       level="a2"
       isDev="true"
     />
@@ -67,8 +67,8 @@ const pageTitle = "Swedish";
       title="Пороговый"
       subtitle="중급 러시아어"
       description="CEFR B1"
-      language="swe"
-      path="/swedish/b1"
+      language="rus"
+      path="/russo/b1"
       level="b1"
       isDev="true"
     />
@@ -77,22 +77,22 @@ const pageTitle = "Swedish";
       title="Постпороговый"
       subtitle="중고급 러시아어"
       description="CEFR B2"
-      language="swe"
-      path="/swedish/b2"
+      language="rus"
+      path="/russo/b2"
       level="b2"
       isDev="true"
     /> -->
   </div>
 
-  <!-- <Button
+  <Button
     title="Грамматика"
-    subtitle="러시아어 문법"
+    subtitle="Grammar"
     description="CEFR A1 - B2"
-    language="swe"
-    path="/swedish/grammar"
+    language="rus"
+    path="/russo/grammar"
     level="grammar"
     isDev="true"
-  /> -->
+  />
 </BaseLayout>
 
 <style>

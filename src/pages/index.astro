@@ -19,17 +19,14 @@ const pageTitle = "Lublio";
   <h2>
     <Typewriter
       texts={[
-        "Going beyond just a simple 'Bonjour' in a Parisian café,",
-        "A warm 'Ciao' that leads to a lifelong Roman friendship,",
-        "Finding your 'Buen Camino' on the dusty trails of Spain,",
-        "Discovering more than just a 'Danke' in the heart of Berlin,",
-        "Feeling the deep 'Saudade' echoing through Lisbon streets,",
-        "Whispering a friendly 'Ahoj' across the bridges of Prague,",
-        "Joining a vibrant 'Fiesta' that never ends under the sun,",
-        "Saying a soulful 'Privet' amidst the grandeur of Moscow,",
-        "A welcoming 'Merhaba' as you cross the Bosphorus in Istanbul,",
-        "The quiet 'Hygge' of a candlelit evening in Copenhagen,",
-        "Chasing the 'Meraki' in a hidden tavern on a Greek island,",
+        "Going beyond just a simple 'Bonjour',", // [FR] 단순히 '봉주르'를 넘어,
+        "Whispering 'Privet' to the Red Square,", // [RU] 붉은 광장에 '프리벳'이라고 속삭이는,
+        "Finding your 'Joie de vivre' in Paris,", // [FR] 파리에서 삶의 기쁨(조아 드 비브르)을 찾는,
+        "Chasing the 'White Nights' of St. Petersburg,", // [RU] 상트페테르부르크의 백야를 쫓는 여정,
+        "A 'Flâneur' wandering through old streets,", // [FR] 오래된 거리를 거니는 산책자(플라뇌르),
+        "The deep 'Dusha' found in a winter train,", // [RU] 겨울 기차 안에서 발견한 깊은 영혼(두샤),
+        "Every 'Petit bonheur' becomes a memory,", // [FR] 모든 소소한 행복(쁘띠 보뇌르)이 추억이 되는,
+        "Unlocking the 'Mir' of the vast East,", // [RU] 광활한 동쪽의 세계(미르)를 여는 열쇠,
       ]}
     />
   </h2>
@@ -37,14 +34,22 @@ const pageTitle = "Lublio";
 
   <div class="button-wrapper">
     <ButtonMain
-      title="Français"
+      title="Franco"
       subtitle="French"
       description="CEFR A1-C1"
       language="fra"
-      path="/french"
+      path="/franco"
     />
 
     <ButtonMain
+      title="Russo"
+      subtitle="Russian"
+      description="CEFR A1-C1"
+      language="rus"
+      path="/russo"
+    />
+
+    <!-- <ButtonMain
       title="Español"
       subtitle="Spanish"
       description="CEFR A1 - C1"
@@ -66,23 +71,7 @@ const pageTitle = "Lublio";
       description="CEFR A1 - C1"
       language="ita"
       path="/italian"
-    />
-
-    <ButtonMain
-      title="Nederlands"
-      subtitle="Dutch"
-      description="CEFR A1-C1"
-      language="nld"
-      path="/dutch"
-    />
-
-    <ButtonMain
-      title="Svenska"
-      subtitle="Swedish"
-      description="CEFR A1-C1"
-      language="swe"
-      path="/swedish"
-    />
+    /> -->
   </div>
 
   <style>
@@ -131,8 +120,9 @@ const pageTitle = "Lublio";
     }
 
     .button-wrapper {
-      display: flex;
-      flex-direction: column;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      justify-items: stretch;
       gap: 1rem;
       margin-bottom: 1rem;
     }
