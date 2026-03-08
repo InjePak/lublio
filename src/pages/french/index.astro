@@ -1,13 +1,13 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
-import BoxMain from "../../components/BoxMain.astro";
+import Box from "../../components/Box.astro";
 import Button from "../../components/Button.astro";
 
 const pageTitle = "French";
 ---
 
 <BaseLayout pageTitle={pageTitle + " - Lublio"}>
-  <BoxMain
+  <Box
     title="Français"
     subtitle="French"
     description="Le français est la langue de l'amour et de la diplomatie. Reconnue pour son élégance et sa précision, elle brille à travers le monde comme un vecteur essentiel de la culture, de la gastronomie et des arts libéraux."
@@ -84,7 +84,7 @@ const pageTitle = "French";
     /> -->
   </div>
 
-  <Button
+  <!-- <Button
     title="Grammaire"
     subtitle="Grammar"
     description="CEFR A1 - B2"
@@ -92,7 +92,7 @@ const pageTitle = "French";
     path="/french/grammar"
     level="grammar"
     isDev="true"
-  />
+  /> -->
 </BaseLayout>
 
 <style>

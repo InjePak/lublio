@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "En mi opinión, ...",
+    "translation": "In my opinion, ...",
+    "b1": [
+      "En mi opinión, esta película es muy interesante.",
+      "En mi opinión, deberíamos comer más verduras.",
+      "En mi opinión, la ciudad es demasiado ruidosa en verano.",
+      "En mi opinión, aprender español es un buen desafío.",
+      "En mi opinión, va a llover esta tarde."
+    ],
+    "b2": [
+      "En mi opinión, el gobierno debería invertir más en energías renovables.",
+      "En mi opinión, el teletrabajo favorece un mejor equilibrio entre la vida profesional y la privada.",
+      "En mi opinión, esta reforma no responde a las expectativas de los ciudadanos.",
+      "En mi opinión, es primordial sensibilizar a los jóvenes sobre la protección del medio ambiente.",
+      "En mi opinión, la globalización tiene un impacto complejo en las culturas locales."
+    ],
+    "c1": [
+      "En mi opinión, la omnipresencia de lo digital altera insidiosamente nuestra capacidad de concentración.",
+      "En mi opinión, esta problemática no puede resolverse sin una mayor concertación internacional.",
+      "En mi opinión, la estética de esta obra trasciende los códigos tradicionales de la época.",
+      "En mi opinión, sería ilusorio creer que el crecimiento económico puede ser infinito.",
+      "En mi opinión, la precarización del empleo constituye un freno mayor al florecimiento social."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Creo que ...",
+    "translation": "I believe that ...",
+    "b1": [
+      "Creo que es una buena idea.",
+      "Creo que Pablo ya se ha ido.",
+      "Creo que hemos olvidado las llaves.",
+      "Creo que este restaurante está cerrado los lunes.",
+      "Creo que tienes razón."
+    ],
+    "b2": [
+      "Creo que debemos repensar nuestra manera de consumir.",
+      "Creo que el éxito depende ante todo de la perseverancia.",
+      "Creo que esta solución es la más viable a largo plazo.",
+      "Creo que las redes sociales aíslan más de lo que conectan.",
+      "Creo que es necesario instaurar un diálogo entre ambas partes."
+    ],
+    "c1": [
+      "Creo que la ética debe permanecer en el corazón de toda innovación tecnológica.",
+      "Creo que la resiliencia de una sociedad se mide por su capacidad de proteger a los más vulnerables.",
+      "Creo que asistimos a un cambio de paradigma sin precedentes.",
+      "Creo que la educación artística es fundamental para cultivar el espíritu crítico.",
+      "Creo que no se podrían ocultar las consecuencias geopolíticas de esta decisión."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Me parece que ...",
+    "translation": "It seems to me that ...",
+    "b1": [
+      "Me parece que estás cansado.",
+      "Me parece que el autobús llega tarde.",
+      "Me parece que ya he visto esta cara.",
+      "Me parece que es aquí.",
+      "Me parece que hace más calor hoy."
+    ],
+    "b2": [
+      "Me parece que las mentalidades evolucionan lentamente sobre este tema.",
+      "Me parece que esta estrategia carece de claridad para ser eficaz.",
+      "Me parece que hemos subestimado la importancia de este proyecto.",
+      "Me parece que la juventud de hoy está muy comprometida políticamente.",
+      "Me parece que este debate está lejos de cerrarse."
+    ],
+    "c1": [
+      "Me parece que la argumentación del autor se basa en un postulado erróneo.",
+      "Me parece que la correlación entre estos dos fenómenos es innegable.",
+      "Me parece que los conflictos identitarios ocultan a menudo las realidades económicas.",
+      "Me parece que esta medida corre el riesgo de exacerbar las tensiones sociales existentes.",
+      "Me parece que vamos por mal camino al descuidar el aspecto psicológico de la crisis."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Desde mi punto de vista, ...",
+    "translation": "From my perspective, ...",
+    "b1": [
+      "Desde mi punto de vista, es demasiado caro.",
+      "Desde mi punto de vista, el deporte es importante.",
+      "Desde mi punto de vista, no es difícil.",
+      "Desde mi punto de vista, hay que irse ahora.",
+      "Desde mi punto de vista, ella canta muy bien."
+    ],
+    "b2": [
+      "Desde mi punto de vista, la diversidad cultural es una riqueza para la empresa.",
+      "Desde mi punto de vista, la prohibición del plástico es una etapa necesaria.",
+      "Desde mi punto de vista, esta aplicación simplifica enormemente la vida cotidiana.",
+      "Desde mi punto de vista, los criterios de selección son un poco difusos.",
+      "Desde mi punto de vista, el viaje forja la juventud y la apertura mental."
+    ],
+    "c1": [
+      "Desde mi punto de vista, la soberanía digital es un desafío mayor del siglo XXI.",
+      "Desde mi punto de vista, esta reforma se inscribe en una lógica puramente contable.",
+      "Desde mi punto de vista, la obsolescencia programada es una plaga para la economía sostenible.",
+      "Desde mi punto de vista, hay que analizar este texto a la luz del contexto histórico.",
+      "Desde mi punto de vista, la meritocracia es a menudo un concepto mal comprendido o desvirtuado."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Estoy convencido/a de que ...",
+    "translation": "I strongly feel that ...",
+    "b1": [
+      "Estoy convencido de que vas a tener éxito.",
+      "Estoy convencida de que ella vendrá.",
+      "Estoy convencido de que es el camino correcto.",
+      "Estoy convencida de que este libro es genial.",
+      "Estoy convencido de que hemos tomado la decisión correcta."
+    ],
+    "b2": [
+      "Estoy convencido de que la educación es la clave del desarrollo.",
+      "Estoy convencida de que podemos alcanzar nuestros objetivos este año.",
+      "Estoy convencido de que la amabilidad mejora la productividad en el trabajo.",
+      "Estoy convencida de que el reciclaje es solo una parte de la solución.",
+      "Estoy convencido de que la inteligencia artificial va a transformar nuestros oficios."
+    ],
+    "c1": [
+      "Estoy convencido de que la transición ecológica requiere una reforma global de nuestro sistema económico.",
+      "Estoy convencida de que la libertad de expresión no debe sufrir ninguna concesión arbitraria.",
+      "Estoy convencido de que la empatía es una competencia de liderazgo indispensable en el futuro.",
+      "Estoy convencida de que el estancamiento actual es solo el preludio de una transformación mayor.",
+      "Estoy convencido de que la cooperación internacional es el único baluarte contra el repliegue identitario."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Yo diría que ...",
+    "translation": "I would argue that ...",
+    "b1": [
+      "Yo diría que es un buen comienzo.",
+      "Yo diría que la fiesta estuvo bien.",
+      "Yo diría que son aproximadamente las ocho.",
+      "Yo diría que este pastel tiene demasiada azúcar.",
+      "Yo diría que necesitas vacaciones."
+    ],
+    "b2": [
+      "Yo diría que el proyecto carece todavía de un poco de madurez.",
+      "Yo diría que la influencia de los medios es a menudo exagerada.",
+      "Yo diría que esta medida tendrá consecuencias imprevistas.",
+      "Yo diría que la flexibilidad es el principal activo de este candidato.",
+      "Yo diría que la situación actual exige una gran prudencia."
+    ],
+    "c1": [
+      "Yo diría que esta obra se sitúa en la confluencia de varias corrientes artísticas.",
+      "Yo diría que la pertinencia de este modelo económico está hoy en entredicho.",
+      "Yo diría que no se puede prescindir de una reflexión profunda sobre la bioética.",
+      "Yo diría que la retórica empleada busca más seducir que convencer mediante hechos.",
+      "Yo diría que el equilibrio entre seguridad y libertad individual es cada vez más precario."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Lo que quiero decir es que ...",
+    "translation": "What I mean is, ...",
+    "b1": [
+      "Lo que quiero decir es que es importante.",
+      "Lo que quiero decir es que lo siento.",
+      "Lo que quiero decir es que amo mi trabajo.",
+      "Lo que quiero decir es que hay que tener cuidado.",
+      "Lo que quiero decir es que todo va bien."
+    ],
+    "b2": [
+      "Lo que quiero decir es que debemos ser más eficientes.",
+      "Lo que quiero decir es que la calidad prima sobre la cantidad.",
+      "Lo que quiero decir es que no todo el mundo tiene las mismas oportunidades.",
+      "Lo que quiero decir es que la comunicación es la base de todo.",
+      "Lo que quiero decir es que necesitamos más tiempo."
+    ],
+    "c1": [
+      "Lo que quiero decir es que la semántica utilizada aquí sesga la comprensión del problema.",
+      "Lo que quiero decir es que la innovación no debe hacerse a expensas de la ética.",
+      "Lo que quiero decir es que el crecimiento no es un fin en sí mismo, sino un medio.",
+      "Lo que quiero decir es que la complejidad de lo real escapa a menudo a los análisis binarios.",
+      "Lo que quiero decir es que la responsabilidad individual es inseparable del contrato social."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Si quiere mi opinión, ...",
+    "translation": "If you ask me, ...",
+    "b1": [
+      "Si quiere mi opinión, no vendrá.",
+      "Si quiere mi opinión, es demasiado tarde.",
+      "Si quiere mi opinión, debería elegir el azul.",
+      "Si quiere mi opinión, no es grave.",
+      "Si quiere mi opinión, el café es mejor aquí."
+    ],
+    "b2": [
+      "Si quiere mi opinión, esta empresa tiene un gran futuro por delante.",
+      "Si quiere mi opinión, el transporte público debería ser gratuito.",
+      "Si quiere mi opinión, hay demasiados anuncios en la televisión.",
+      "Si quiere mi opinión, la formación continua es indispensable hoy en día.",
+      "Si quiere mi opinión, deberíamos cambiar nuestro enfoque de marketing."
+    ],
+    "c1": [
+      "Si quiere mi opinión, la desregulación de los mercados ha conducido a una inestabilidad crónica.",
+      "Si quiere mi opinión, este proyecto cojea por una falta flagrante de ambición.",
+      "Si quiere mi opinión, la cultura no debe ser tratada como una simple mercancía.",
+      "Si quiere mi opinión, la erosión de la biodiversidad es la amenaza más urgente a tratar.",
+      "Si quiere mi opinión, el debate actual está contaminado por consideraciones puramente electoralistas."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Estoy totalmente de acuerdo con ...",
+    "translation": "I couldn't agree more with ...",
+    "b1": [
+      "Estoy totalmente de acuerdo contigo.",
+      "Estoy totalmente de acuerdo con esta idea.",
+      "Estoy totalmente de acuerdo con el profesor.",
+      "Estoy totalmente de acuerdo con usted.",
+      "Estoy totalmente de acuerdo con este plan."
+    ],
+    "b2": [
+      "Estoy totalmente de acuerdo con su análisis de la situación.",
+      "Estoy totalmente de acuerdo con el hecho de limitar las pantallas para los niños.",
+      "Estoy totalmente de acuerdo con las conclusiones de este informe.",
+      "Estoy totalmente de acuerdo con la importancia de la diversidad en la empresa.",
+      "Estoy totalmente de acuerdo con la idea de una semana de cuatro días."
+    ],
+    "c1": [
+      "Estoy totalmente de acuerdo con la tesis del autor relativa a la fragmentación social.",
+      "Estoy totalmente de acuerdo con la necesidad de una regulación más estricta del sector financiero.",
+      "Estoy totalmente de acuerdo con el postulado según el cual la educación es el primer motor de la emancipación.",
+      "Estoy totalmente de acuerdo con esta visión holística de la salud pública.",
+      "Estoy totalmente de acuerdo con los argumentos esgrimidos en la última conferencia sobre el clima."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Es un punto válido, pero ...",
+    "translation": "That's a valid point, but ...",
+    "b1": [
+      "Es un punto válido, pero es demasiado caro.",
+      "Es un punto válido, pero no tengo tiempo.",
+      "Es un punto válido, pero hace frío fuera.",
+      "Es un punto válido, pero prefiero el té.",
+      "Es un punto válido, pero tenemos que irnos."
+    ],
+    "b2": [
+      "Es un punto válido, pero los costes de implementación son demasiado altos.",
+      "Es un punto válido, pero esta solución no funciona en todas partes.",
+      "Es un punto válido, pero también hay que considerar el impacto social.",
+      "Es un punto válido, pero los plazos son demasiado cortos.",
+      "Es un punto válido, pero los clientes podrían estar descontentos."
+    ],
+    "c1": [
+      "Es un punto válido, pero oculta una parte fundamental de la problemática.",
+      "Es un punto válido, pero se basa en datos que hoy en día están obsoletos.",
+      "Es un punto válido, pero la viabilidad política de tal medida está por demostrarse.",
+      "Es un punto válido, pero no resuelve en absoluto la causa profunda del mal funcionamiento.",
+      "Es un punto válido, pero el arbitraje realizado parece algo desequilibrado."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Me permito no estar de acuerdo en ...",
+    "translation": "I beg to differ on ...",
+    "b1": [
+      "Me permito no estar de acuerdo en el precio.",
+      "Me permito no estar de acuerdo en el color.",
+      "Me permito no estar de acuerdo en esta elección.",
+      "Me permito no estar de acuerdo en la fecha de la cita.",
+      "Me permito no estar de acuerdo en la música."
+    ],
+    "b2": [
+      "Me permito no estar de acuerdo en la interpretación de los resultados.",
+      "Me permito no estar de acuerdo en las causas de este fracaso.",
+      "Me permito no estar de acuerdo en el orden de prioridades de este proyecto.",
+      "Me permito no estar de acuerdo en la eficacia de este método pedagógico.",
+      "Me permito no estar de acuerdo en el impacto ambiental de este producto."
+    ],
+    "c1": [
+      "Me permito no estar de acuerdo en las premisas mismas de su razonamiento.",
+      "Me permito no estar de acuerdo en la pertinencia de este indicador macroeconómico.",
+      "Me permito no estar de acuerdo en la visión pesimista que usted dibuja de la situación.",
+      "Me permito no estar de acuerdo en las conclusiones apresuradas extraídas de este estudio.",
+      "Me permito no estar de acuerdo en la legitimidad de esta intervención en la escena internacional."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Aunque entiendo que ..., sigo pensando que ...",
+    "translation": "While I understand that ..., I still feel ...",
+    "b1": [
+      "Aunque entiendo que estás ocupado, sigo pensando que deberías venir.",
+      "Aunque entiendo que es difícil, sigo pensando que es posible.",
+      "Aunque entiendo que te gusta este café, sigo pensando que es demasiado caro.",
+      "Aunque entiendo que estés cansado, sigo pensando que debemos terminar.",
+      "Aunque entiendo que no te guste correr, sigo pensando que es bueno para la salud."
+    ],
+    "b2": [
+      "Aunque entiendo que el presupuesto sea limitado, sigo pensando que la calidad es primordial.",
+      "Aunque entiendo que los cambios den miedo, sigo pensando que son necesarios.",
+      "Aunque entiendo que esta regla sea estricta, sigo pensando que es justa.",
+      "Aunque entiendo que tenga dudas, sigo pensando que es el momento adecuado.",
+      "Aunque entiendo que la tecnología ayude, sigo pensando que lo humano sigue siendo central."
+    ],
+    "c1": [
+      "Aunque entiendo que los imperativos económicos sean apremiantes, sigo pensando que la ética no debe sacrificarse.",
+      "Aunque entiendo que el consenso sea difícil de alcanzar, sigo pensando que la inacción es más costosa.",
+      "Aunque entiendo que esta reforma sea impopular, sigo pensando que es estructuralmente indispensable.",
+      "Aunque entiendo que los datos sean complejos, sigo pensando que la tendencia general es clara.",
+      "Aunque entiendo que el riesgo cero no existe, sigo pensando que el principio de precaución debe aplicarse."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Con el debido respeto, ...",
+    "translation": "With all due respect, ...",
+    "b1": [
+      "Con el debido respeto, no estoy de acuerdo.",
+      "Con el debido respeto, ha olvidado un detalle.",
+      "Con el debido respeto, es mi turno.",
+      "Con el debido respeto, no es lo que he dicho.",
+      "Con el debido respeto, prefiero hacerlo de otra manera."
+    ],
+    "b2": [
+      "Con el debido respeto, esta decisión parece un poco precipitada.",
+      "Con el debido respeto, sus cifras no corresponden a la realidad del terreno.",
+      "Con el debido respeto, creo que va por mal camino.",
+      "Con el debido respeto, este método está un poco anticuado.",
+      "Con el debido respeto, no podemos aceptar estas condiciones."
+    ],
+    "c1": [
+      "Con el debido respeto, su análisis omite variables que son, no obstante, determinantes.",
+      "Con el debido respeto, la retórica utilizada aquí roza la demagogia.",
+      "Con el debido respeto, la gestión de este expediente ha estado empañada por graves deficiencias.",
+      "Con el debido respeto, esta interpretación de los textos me parece jurídicamente frágil.",
+      "Con el debido respeto, no se puede tolerar decentemente tal deriva autoritaria."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "No estoy del todo seguro/a de ...",
+    "translation": "I'm not entirely sure about ...",
+    "b1": [
+      "No estoy del todo seguro de la hora.",
+      "No estoy del todo segura de tu nombre.",
+      "No estoy del todo seguro de la dirección.",
+      "No estoy del todo segura de querer ir.",
+      "No estoy del todo seguro del precio."
+    ],
+    "b2": [
+      "No estoy del todo seguro de la eficacia de este medicamento.",
+      "No estoy del todo segura de entender sus intenciones.",
+      "No estoy del todo seguro de que sea la mejor solución.",
+      "No estoy del todo segura de la fiabilidad de estas fuentes.",
+      "No estoy del todo seguro del resultado final."
+    ],
+    "c1": [
+      "No estoy del todo seguro de la pertinencia epistemológica de este enfoque.",
+      "No estoy del todo segura de que los beneficios económicos justifiquen tal inversión.",
+      "No estoy del todo seguro de la validez de este postulado en el contexto actual.",
+      "No estoy del todo segura de que la neutralidad sea posible en tal debate.",
+      "No estoy del todo seguro de que las salvaguardias actuales basten para prevenir derivas."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "¿Podría profundizar en ... ?",
+    "translation": "Could you elaborate on ...?",
+    "b1": [
+      "¿Podría profundizar en este punto?",
+      "¿Podría profundizar en su idea?",
+      "¿Podría profundizar en su proyecto?",
+      "¿Podría profundizar en esta palabra?",
+      "¿Podría profundizar en su familia?"
+    ],
+    "b2": [
+      "¿Podría profundizar en las ventajas de este método?",
+      "¿Podría profundizar en las consecuencias de esta elección?",
+      "¿Podría profundizar en los aspectos técnicos del producto?",
+      "¿Podría profundizar en la estrategia de marketing a adoptar?",
+      "¿Podría profundizar en los criterios de selección?"
+    ],
+    "c1": [
+      "¿Podría profundizar en las implicaciones éticas de su propuesta?",
+      "¿Podría profundizar en los fundamentos teóricos de su investigación?",
+      "¿Podría profundizar en los matices semánticos de este concepto?",
+      "¿Podría profundizar en la sostenibilidad de este modelo económico?",
+      "¿Podría profundizar en la correlación que establece entre estas dos variables?"
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Tengo sentimientos encontrados sobre ...",
+    "translation": "I have mixed feelings about ...",
+    "b1": [
+      "Tengo sentimientos encontrados sobre este libro.",
+      "Tengo sentimientos encontrados sobre mi nuevo trabajo.",
+      "Tengo sentimientos encontrados sobre este viaje.",
+      "Tengo sentimientos encontrados sobre esta música.",
+      "Tengo sentimientos encontrados sobre la ciudad."
+    ],
+    "b2": [
+      "Tengo sentimientos encontrados sobre la nueva reforma escolar.",
+      "Tengo sentimientos encontrados sobre el impacto de las redes sociales.",
+      "Tengo sentimientos encontrados sobre esta propuesta de colaboración.",
+      "Tengo sentimientos encontrados sobre la evolución del barrio.",
+      "Tengo sentimientos encontrados sobre esta película experimental."
+    ],
+    "c1": [
+      "Tengo sentimientos encontrados sobre la aceleración tecnológica actual.",
+      "Tengo sentimientos encontrados sobre la legitimidad de esta intervención estatal.",
+      "Tengo sentimientos encontrados sobre la gestión de esta crisis sanitaria.",
+      "Tengo sentimientos encontrados sobre la influencia de la inteligencia artificial en el arte.",
+      "Tengo sentimientos encontrados sobre el balance de la última década."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Pongámonos de acuerdo en no estar de acuerdo en ...",
+    "translation": "Let's agree to disagree on ...",
+    "b1": [
+      "Pongámonos de acuerdo en no estar de acuerdo en esta película.",
+      "Pongámonos de acuerdo en no estar de acuerdo en la música.",
+      "Pongámonos de acuerdo en no estar de acuerdo en el deporte.",
+      "Pongámonos de acuerdo en no estar de acuerdo en este restaurante.",
+      "Pongámonos de acuerdo en no estar de acuerdo en el color."
+    ],
+    "b2": [
+      "Pongámonos de acuerdo en no estar de acuerdo en la política fiscal.",
+      "Pongámonos de acuerdo en no estar de acuerdo en las prioridades del proyecto.",
+      "Pongámonos de acuerdo en no estar de acuerdo en este análisis de los hechos.",
+      "Pongámonos de acuerdo en no estar de acuerdo en el origen del problema.",
+      "Pongámonos de acuerdo en no estar de acuerdo en el futuro de esta tecnología."
+    ],
+    "c1": [
+      "Pongámonos de acuerdo en no estar de acuerdo en los fundamentos ideológicos de esta medida.",
+      "Pongámonos de acuerdo en no estar de acuerdo en la interpretación de estos datos estadísticos.",
+      "Pongámonos de acuerdo en no estar de acuerdo en la visión del progreso social presentada aquí.",
+      "Pongámonos de acuerdo en no estar de acuerdo en el desenlace de este dilema ético.",
+      "Pongámonos de acuerdo en no estar de acuerdo en la jerarquía de valores en juego."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "¿Ha considerado ...?",
+    "translation": "Have you considered ...?",
+    "b1": [
+      "¿Ha considerado esta opción?",
+      "¿Ha considerado el precio?",
+      "¿Ha considerado ir a Francia?",
+      "¿Ha considerado comprar un coche?",
+      "¿Ha considerado cambiar de opinión?"
+    ],
+    "b2": [
+      "¿Ha considerado las consecuencias a largo plazo de su decisión?",
+      "¿Ha considerado la opinión de los expertos sobre el tema?",
+      "¿Ha considerado un enfoque más ecológico para su proyecto?",
+      "¿Ha considerado las necesidades reales de los usuarios?",
+      "¿Ha considerado la posibilidad de un fracaso?"
+    ],
+    "c1": [
+      "¿Ha considerado las externalidades negativas de este modelo industrial?",
+      "¿Ha considerado el impacto sociológico de esta mutación urbana?",
+      "¿Ha considerado los desafíos geopolíticos subyacentes a este acuerdo?",
+      "¿Ha considerado la fragilidad de las infraestructuras ante el cambio climático?",
+      "¿Ha considerado la dimensión psicológica del comportamiento de los consumidores?"
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "No siempre es el caso porque ...",
+    "translation": "That's not always the case because ...",
+    "b1": [
+      "No siempre es el caso porque es difícil.",
+      "No siempre es el caso porque la gente cambia.",
+      "No siempre es el caso porque hace frío.",
+      "No siempre es el caso porque es caro.",
+      "No siempre es el caso porque estoy ocupado."
+    ],
+    "b2": [
+      "No siempre es el caso porque cada situación es única.",
+      "No siempre es el caso porque las reglas pueden variar.",
+      "No siempre es el caso porque las previsiones son a veces falsas.",
+      "No siempre es el caso porque las tecnologías evolucionan rápido.",
+      "No siempre es el caso porque la opinión pública es inestable."
+    ],
+    "c1": [
+      "No siempre es el caso porque los determinismos sociales juegan un papel crucial.",
+      "No siempre es el caso porque las interacciones sistémicas son imprevisibles.",
+      "No siempre es el caso porque la subjetividad individual altera la percepción.",
+      "No siempre es el caso porque los contextos históricos difieren radicalmente.",
+      "No siempre es el caso porque los mecanismos de regulación son a veces defectuosos."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Veo las cosas ...",
+    "translation": "I see things ...",
+    "b1": [
+      "Veo las cosas de manera diferente.",
+      "Veo las cosas positivamente.",
+      "Veo las cosas de forma sencilla.",
+      "Veo las cosas así.",
+      "Veo las cosas de otra manera."
+    ],
+    "b2": [
+      "Veo las cosas de manera muy optimista para el próximo año.",
+      "Veo las cosas bajo un ángulo nuevo gracias a sus explicaciones.",
+      "Veo las cosas globalmente, sin detenerme en los pequeños detalles.",
+      "Veo las cosas con mucha prudencia por el momento.",
+      "Veo las cosas de forma pragmática ante todo."
+    ],
+    "c1": [
+      "Veo las cosas bajo el prisma de la sociología contemporánea.",
+      "Veo las cosas de manera dialéctica, oponiendo los contrarios.",
+      "Veo las cosas con una cierta lucidez teñida de pesimismo.",
+      "Veo las cosas a través de una perspectiva histórica de larga duración.",
+      "Veo las cosas como una oportunidad de redefinir nuestras prioridades fundamentales."
+    ]
+  }
+]

@@ -6,7 +6,8 @@
     "deu": "Wie spät ist es?",
     "rus": "Который час?",
     "esp": "¿Qué hora es?",
-    "ita": "Che ore sono?"
+    "ita": "Che ore sono?",
+    "nld": "Hoe laat is het?"
   },
   {
     "kor": "현재 시각은 오후 3시입니다.",
@@ -15,7 +16,8 @@
     "deu": "Es ist drei Uhr nachmittags.",
     "rus": "Сейчас три часа дня.",
     "esp": "Son las tres de la tarde.",
-    "ita": "Sono le tre del pomeriggio."
+    "ita": "Sono le tre del pomeriggio.",
+    "nld": "Het is drie uur 's middags."
   },
   {
     "kor": "8시 30분입니다.",
@@ -24,7 +26,8 @@
     "deu": "Es ist halb neun.",
     "rus": "Сейчас полдевятого.",
     "esp": "Son las ocho y media.",
-    "ita": "Sono le otto e mezza."
+    "ita": "Sono le otto e mezza.",
+    "nld": "Het is half negen."
   },
   {
     "kor": "10시 15분 전입니다.",
@@ -33,7 +36,8 @@
     "deu": "Es ist Viertel vor zehn.",
     "rus": "Без пятнадцати десять.",
     "esp": "Son las diez menos cuarto.",
-    "ita": "Sono le dieci meno un quarto."
+    "ita": "Sono le dieci meno un quarto.",
+    "nld": "Het is kwart voor tien."
   },
   {
     "kor": "오늘은 무슨 요일인가요?",
@@ -42,7 +46,8 @@
     "deu": "Welcher Tag ist heute?",
     "rus": "Какой сегодня день недели?",
     "esp": "¿Qué día es hoy?",
-    "ita": "Che giorno è oggi?"
+    "ita": "Che giorno è oggi?",
+    "nld": "Welke dag is het vandaag?"
   },
   {
     "kor": "오늘은 월요일입니다.",
@@ -51,7 +56,8 @@
     "deu": "Heute ist Montag.",
     "rus": "Сегодня понедельник.",
     "esp": "Hoy es lunes.",
-    "ita": "Oggi è lunedì."
+    "ita": "Oggi è lunedì.",
+    "nld": "Vandaag is het maandag."
   },
   {
     "kor": "내일은 5월 1일입니다.",
@@ -60,7 +66,8 @@
     "deu": "Morgen ist der erste Mai.",
     "rus": "Завтра первое мая.",
     "esp": "Mañana es el primero de mayo.",
-    "ita": "Domani è il primo maggio."
+    "ita": "Domani è il primo maggio.",
+    "nld": "Morgen is het één mei."
   },
   {
     "kor": "제 생일은 10월입니다.",
@@ -69,7 +76,8 @@
     "deu": "Mein Geburtstag ist im Oktober.",
     "rus": "Мой день рождения в октябре.",
     "esp": "Mi cumpleaños es en octubre.",
-    "ita": "Il mio compleanno è a ottobre."
+    "ita": "Il mio compleanno è a ottobre.",
+    "nld": "Mijn verjaardag is in oktober."
   },
   {
     "kor": "저는 아침 7시에 일어납니다.",
@@ -78,7 +86,8 @@
     "deu": "Ich stehe um sieben Uhr auf.",
     "rus": "Я встаю в семь часов утра.",
     "esp": "Me levanto a las siete.",
-    "ita": "Mi sveglio alle sette."
+    "ita": "Mi sveglio alle sette.",
+    "nld": "Ik sta om zeven uur op."
   },
   {
     "kor": "수업은 언제 시작하나요?",
@@ -87,7 +96,8 @@
     "deu": "Wann beginnt der Unterricht?",
     "rus": "Когда начинается урок?",
     "esp": "¿Cuándo empieza la clase?",
-    "ita": "Quando inizia la lezione?"
+    "ita": "Quando inizia la lezione?",
+    "nld": "Wanneer begint de les?"
   },
   {
     "kor": "이것은 얼마인가요?",
@@ -96,7 +106,8 @@
     "deu": "Wie viel kostet das?",
     "rus": "Сколько это стоит?",
     "esp": "¿Cuánto cuesta esto?",
-    "ita": "Quanto costa questo?"
+    "ita": "Quanto costa questo?",
+    "nld": "Hoeveel kost dit?"
   },
   {
     "kor": "그것은 20파운드입니다.",
@@ -105,7 +116,8 @@
     "deu": "Das kostet zwanzig Pfund.",
     "rus": "Это стоит двадцать фунтов.",
     "esp": "Son veinte libras.",
-    "ita": "Sono venti sterline."
+    "ita": "Sono venti sterline.",
+    "nld": "Het is twintig pond."
   },
   {
     "kor": "전화번호가 무엇인가요?",
@@ -113,8 +125,9 @@
     "fra": "Quel est votre numéro de téléphone ?",
     "deu": "Wie ist deine Telefonnummer?",
     "rus": "Какой у вас номер телефона?",
-    "esp": "¿Cuál es tu número de teléfono?",
-    "ita": "Qual è il tuo numero di telefono?"
+    "esp": "¿Cuál es tu número de téléphone?",
+    "ita": "Qual è il tuo numero di telefono?",
+    "nld": "Wat is je telefoonnummer?"
   },
   {
     "kor": "저는 100까지 셀 수 있습니다.",
@@ -123,7 +136,8 @@
     "deu": "Ich kann bis hundert zählen.",
     "rus": "Я умею считать до ста.",
     "esp": "Puedo contar hasta cien.",
-    "ita": "Posso contare fino a cento."
+    "ita": "Posso contare fino a cento.",
+    "nld": "Ik kan tot honderd tellen."
   },
   {
     "kor": "사과 다섯 개 주세요.",
@@ -132,7 +146,8 @@
     "deu": "Fünf Äpfel, bitte.",
     "rus": "Пять яблок, пожалуйста.",
     "esp": "Cinco manzanas, por favor.",
-    "ita": "Cinque mele, per favore."
+    "ita": "Cinque mele, per favore.",
+    "nld": "Vijf appels, alstublieft."
   },
   {
     "kor": "10분 기다려 주세요.",
@@ -141,7 +156,8 @@
     "deu": "Bitte warten Sie zehn Minuten.",
     "rus": "Пожалуйста, подождите десять минут.",
     "esp": "Espere diez minutos, por favor.",
-    "ita": "Aspetta dieci minuti, per favore."
+    "ita": "Aspetta dieci minuti, per favore.",
+    "nld": "Wacht tien minuten, alstublieft."
   },
   {
     "kor": "일주일은 7일입니다.",
@@ -150,7 +166,8 @@
     "deu": "Eine Woche hat sieben Tage.",
     "rus": "В неделе семь дней.",
     "esp": "Una semana tiene siete días.",
-    "ita": "Una settimana ha sette giorni."
+    "ita": "Una settimana ha sette giorni.",
+    "nld": "Er zitten zeven dagen in een week."
   },
   {
     "kor": "지금은 정오입니다.",
@@ -159,7 +176,8 @@
     "deu": "Es ist jetzt Mittag.",
     "rus": "Сейчас полдень.",
     "esp": "Ahora es mediodía.",
-    "ita": "È mezzogiorno adesso."
+    "ita": "È mezzogiorno adesso.",
+    "nld": "Het is nu middag."
   },
   {
     "kor": "한 시간 후에 만나요.",
@@ -168,7 +186,8 @@
     "deu": "Bis in einer Stunde.",
     "rus": "Увидимся через час.",
     "esp": "Nos vemos en una hora.",
-    "ita": "Ci vediamo tra un'ora."
+    "ita": "Ci vediamo tra un'ora.",
+    "nld": "Tot over een uur."
   },
   {
     "kor": "저는 매일 8시간씩 잡니다.",
@@ -177,7 +196,8 @@
     "deu": "Ich schlafe jeden Tag acht Stunden.",
     "rus": "Я сплю по восемь часов каждый день.",
     "esp": "Duermo ocho horas cada día.",
-    "ita": "Dormo otto ore al giorno."
+    "ita": "Dormo otto ore al giorno.",
+    "nld": "Ik slaap acht uur per dag."
   },
   {
     "kor": "그는 30살입니다.",
@@ -186,7 +206,8 @@
     "deu": "Er ist dreißig Jahre alt.",
     "rus": "Ему тридцать лет.",
     "esp": "Él tiene treinta años.",
-    "ita": "Lui ha trent'anni."
+    "ita": "Lui ha trent'anni.",
+    "nld": "Hij is dertig jaar oud."
   },
   {
     "kor": "박물관은 9시에 엽니다.",
@@ -195,7 +216,8 @@
     "deu": "Das Museum öffnet um neun Uhr.",
     "rus": "Музей открывается в девять часов.",
     "esp": "El museo abre a las nueve.",
-    "ita": "Il museo apre alle nove."
+    "ita": "Il museo apre alle nove.",
+    "nld": "Het museum opent om negen uur."
   },
   {
     "kor": "버스는 15분마다 옵니다.",
@@ -204,7 +226,8 @@
     "deu": "Der Bus kommt alle fünfzehn Minuten.",
     "rus": "Автобус ходит каждые пятнадцать минут.",
     "esp": "El autobús pasa cada quince minutos.",
-    "ita": "L'autobus passa ogni quindici minuti."
+    "ita": "L'autobus passa ogni quindici minuti.",
+    "nld": "De bus komt om de vijftien minuten."
   },
   {
     "kor": "오늘은 2024년 6월 10일입니다.",
@@ -213,7 +236,8 @@
     "deu": "Heute ist der zehnte Juni zweitausendvierundzwanzig.",
     "rus": "Сегодня десятое июня две тысячи двадцать четвертого года.",
     "esp": "Hoy es el diez de junio de dos mil veinticuatro.",
-    "ita": "Oggi è il dieci giugno duemilaventiquattro."
+    "ita": "Oggi è il dieci giugno duemilaventiquattro.",
+    "nld": "Vandaag is het tien juni tweeduizend vierentwintig."
   },
   {
     "kor": "시간이 거의 다 됐어요.",
@@ -222,6 +246,7 @@
     "deu": "Die Zeit ist fast um.",
     "rus": "Время почти вышло.",
     "esp": "El tiempo casi se ha acabado.",
-    "ita": "Il tempo è quasi finito."
+    "ita": "Il tempo è quasi finito.",
+    "nld": "De tijd is bijna om."
   }
 ]

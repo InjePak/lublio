@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Si nosotros ..., entonces vamos a ...",
+    "translation": "If we ..., then we will ...",
+    "b1": [
+      "Si nosotros estudiamos mucho, entonces vamos a aprobar el examen.",
+      "Si nosotros salimos ahora, entonces vamos a llegar a tiempo.",
+      "Si nosotros cocinamos juntos, entonces vamos a pasar un buen rato.",
+      "Si nosotros compramos este sofá, entonces vamos a cambiar el salón.",
+      "Si nosotros caminamos rápido, entonces vamos a alcanzar el autobús."
+    ],
+    "b2": [
+      "Si nosotros reducimos nuestros gastos, entonces vamos a equilibrar el presupuesto.",
+      "Si nosotros lanzamos este producto en verano, entonces vamos a atraer a más clientes.",
+      "Si nosotros aceptamos esta oferta, entonces vamos a aumentar nuestra facturación.",
+      "Si nosotros trabajamos a distancia, entonces vamos a ahorrar en gastos de oficina.",
+      "Si nosotros cambiamos de proveedor, entonces vamos a mejorar la calidad."
+    ],
+    "c1": [
+      "Si nosotros mantenemos este ritmo de innovación, entonces vamos a dominar el mercado en dos años.",
+      "Si nosotros ignoramos las señales de descontento, entonces vamos a enfrentar una crisis social mayor.",
+      "Si nosotros invertimos en energías renovables, entonces vamos a asegurar la viabilidad de la empresa.",
+      "Si nosotros descentralizamos la toma de decisiones, entonces vamos a ganar agilidad operativa.",
+      "Si nosotros adoptamos esta reforma, entonces vamos a transformar duraderamente nuestro modelo económico."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "¿Qué pasaría si ...?",
+    "translation": "What would happen if ...?",
+    "b1": [
+      "¿Qué pasaría si perdiera mi bolso?",
+      "¿Qué pasaría si comiéramos demasiados pasteles?",
+      "¿Qué pasaría si no vinieras mañana?",
+      "¿Qué pasaría si lloviera durante el picnic?",
+      "¿Qué pasaría si cambiáramos de película?"
+    ],
+    "b2": [
+      "¿Qué pasaría si el gobierno aumentara los impuestos?",
+      "¿Qué pasaría si nuestro principal cliente cancelara su contrato?",
+      "¿Qué pasaría si la inteligencia artificial reemplazara a nuestros redactores?",
+      "¿Qué pasaría si decidiéramos mudarnos al extranjero?",
+      "¿Qué pasaría si nadie respondiera a nuestra invitación?"
+    ],
+    "c1": [
+      "¿Qué pasaría si el sistema bancario mundial sufriera un colapso repentino?",
+      "¿Qué pasaría si tuviéramos que enfrentar una escasez total de materias primas?",
+      "¿Qué pasaría si el paradigma del consumo de masas cambiara radicalmente?",
+      "¿Qué pasaría si la verdad se volviera indistinguible de la mentira debido a la tecnología?",
+      "¿Qué pasaría si perdiéramos repentinamente todo acceso a los datos digitales?"
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Si el resultado es ..., debemos ...",
+    "translation": "Should the outcome be ..., we must ...",
+    "b1": [
+      "Si el resultado es bueno, debemos celebrar.",
+      "Si el resultado es malo, debemos empezar de nuevo.",
+      "Si el resultado es positivo, debemos seguir trabajando.",
+      "Si el resultado es negativo, debemos llamar al médico.",
+      "Si el resultado es claro, debemos tomar una decisión."
+    ],
+    "b2": [
+      "Si el resultado es inferior a las previsiones, debemos reducir los costes.",
+      "Si el resultado es alentador, debemos invertir más en este proyecto.",
+      "Si el resultado es cuestionado, debemos solicitar una auditoría externa.",
+      "Si el resultado es decepcionante, debemos analizar las causas del fracaso.",
+      "Si el resultado es validado por el equipo, debemos lanzar la producción."
+    ],
+    "c1": [
+      "Si el resultado es sintomático de un fallo estructural, debemos reformar el sistema.",
+      "Si el resultado está por debajo de nuestras exigencias éticas, debemos romper la asociación.",
+      "Si el resultado es fruto del azar y no de la estrategia, debemos ser prudentes.",
+      "Si el resultado es revelador de una mutación del mercado, debemos pivotar inmediatamente.",
+      "Si el resultado es concluyente a nivel científico, debemos publicar estos datos sin demora."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Si hubiera sabido ..., habría ...",
+    "translation": "If I had known ..., I would have ...",
+    "b1": [
+      "Si hubiera sabido lo de la lluvia, habría traído mi paraguas.",
+      "Si hubiera sabido la verdad, habría estado triste.",
+      "Si hubiera sabido que venías, habría preparado un pastel.",
+      "Si hubiera sabido el precio, habría comprado otro teléfono.",
+      "Si hubiera sabido la hora, habría corrido más rápido."
+    ],
+    "b2": [
+      "Si hubiera sabido que este proyecto sería tan complejo, habría pedido más tiempo.",
+      "Si hubiera sabido tus intenciones reales, habría actuado de manera diferente.",
+      "Si hubiera sabido los riesgos financieros, habría consultado a un experto.",
+      "Si hubiera sabido que la tienda cerraba tan pronto, habría ido por la mañana.",
+      "Si hubiera sabido que necesitabas ayuda, habría venido enseguida."
+    ],
+    "c1": [
+      "Si hubiera sabido las consecuencias geopolíticas de este acuerdo, habría votado en contra.",
+      "Si hubiera sabido que la obsolescencia de este sistema llegaría tan pronto, habría anticipado la migración.",
+      "Si hubiera sabido que la cultura corporativa se degradaría así, habría instaurado otros valores.",
+      "Si hubiera sabido el impacto psicológico de esta decisión, habría priorizado un enfoque más humano.",
+      "Si hubiera sabido que este mercado se saturaría tan rápido, habría diversificado nuestros activos."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Suponiendo que ..., es probable que ...",
+    "translation": "Assuming that ..., it is likely that ...",
+    "b1": [
+      "Suponiendo que haga buen tiempo, es probable que vayamos a la playa.",
+      "Suponiendo que trabajes, es probable que ganes dinero.",
+      "Suponiendo que pase el autobús, es probable que llegue a mediodía.",
+      "Suponiendo que ella diga que sí, es probable que seamos felices.",
+      "Suponiendo que el examen sea fácil, es probable que todos aprueben."
+    ],
+    "b2": [
+      "Suponiendo que la tendencia se confirme, es probable que las ventas aumenten.",
+      "Suponiendo que se vote el presupuesto, es probable que contratemos pronto.",
+      "Suponiendo que la vacuna sea eficaz, es probable que la vida se normalice.",
+      "Suponiendo que se recupere el retraso, es probable que terminemos a tiempo.",
+      "Suponiendo que acepten nuestras condiciones, es probable que firmemos mañana."
+    ],
+    "c1": [
+      "Suponiendo que los tipos de interés bajen, es probable que la inversión se reactive.",
+      "Suponiendo que la transición digital se acelere, es probable que algunos oficios desaparezcan.",
+      "Suponiendo que el conflicto se estanque, es probable que la inflación persista duraderamente.",
+      "Suponiendo que la IA alcance este nivel de rendimiento, es probable que debamos legislar.",
+      "Suponiendo que la cohesión social se preserve, es probable que la reforma tenga éxito."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Predigo que ... va a ocurrir.",
+    "translation": "I predict that ... will happen.",
+    "b1": [
+      "Predigo que va a llover esta noche.",
+      "Predigo que tu equipo va a ganar.",
+      "Predigo que esta película va a ser genial.",
+      "Predigo que va a llegar tarde.",
+      "Predigo que te va a gustar este plato."
+    ],
+    "b2": [
+      "Predigo que un gran cambio va a ocurrir en la empresa.",
+      "Predigo que una nueva crisis económica va a ocurrir pronto.",
+      "Predigo que un acuerdo diplomático va a ocurrir antes de fin de mes.",
+      "Predigo que este nuevo producto va a ser un éxito comercial enorme.",
+      "Predigo que un aumento de los precios inmobiliarios va a ocurrir el próximo año."
+    ],
+    "c1": [
+      "Predigo que una alteración de los equilibrios geopolíticos va a ocurrir próximamente.",
+      "Predigo que una ruptura tecnológica mayor va a ocurrir en el sector energético.",
+      "Predigo que una conciencia ecológica radical va a ocurrir en las generaciones jóvenes.",
+      "Predigo que una redefinición del contrato social va a ocurrir a escala europea.",
+      "Predigo que una saturación de las redes de comunicación va a ocurrir si no moderamos nuestros usos."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "A menos que ocurra ..., no podremos ...",
+    "translation": "Unless ... happens, we won't be able to ...",
+    "b1": [
+      "A menos que pida perdón, no podremos ser amigos.",
+      "A menos que haga buen tiempo, no podremos salir.",
+      "A menos que comas, no podremos irnos.",
+      "A menos que llegue el tren, no podremos volver.",
+      "A menos que estudies, no podrás aprobar."
+    ],
+    "b2": [
+      "A menos que ocurra un milagro, no podremos terminar este proyecto esta noche.",
+      "A menos que el director dé su aprobación, no podremos cambiar de oficina.",
+      "A menos que ocurra una financiación, no podremos lanzar la aplicación.",
+      "A menos que la situación mejore, no podremos mantener los precios actuales.",
+      "A menos que ocurra un error, no podremos impugnar estos resultados."
+    ],
+    "c1": [
+      "A menos que ocurra un cambio de paradigma, no podremos resolver la crisis climática.",
+      "A menos que ocurra una reforma estructural, no podremos enderezar la economía.",
+      "A menos que ocurra un consenso político, no podremos ratificar este tratado.",
+      "A menos que ocurra una innovación disruptiva, no podremos seguir siendo competitivos.",
+      "A menos que ocurra una toma de conciencia ética, no podremos regular la inteligencia artificial."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "En caso de ..., deberíamos ...",
+    "translation": "In the event of ..., we should ...",
+    "b1": [
+      "En caso de lluvia, deberíamos quedarnos en casa.",
+      "En caso de hambre, deberíamos comprar fruta.",
+      "En caso de problemas, deberíamos llamar a mamá.",
+      "En caso de retraso, deberíamos enviar un mensaje.",
+      "En caso de cansancio, deberíamos dormir."
+    ],
+    "b2": [
+      "En caso de urgencia médica, deberíamos contactar con los bomberos inmediatamente.",
+      "En caso de fallo informático, deberíamos usar los archivos de papel.",
+      "En caso de desacuerdo, deberíamos votar para decidir la cuestión.",
+      "En caso de fuerte demanda, deberíamos contratar personal temporal.",
+      "En caso de fracaso en la negociación, deberíamos buscar otro socio."
+    ],
+    "c1": [
+      "En caso de ciberataque masivo, deberíamos activar el protocolo de seguridad de nivel 4.",
+      "En caso de volatilidad excesiva de los mercados, deberíamos congelar nuestras inversiones de riesgo.",
+      "En caso de vacante de poder, deberíamos organizar elecciones anticipadas en treinta días.",
+      "En caso de incumplimiento de las cláusulas contractuales, deberíamos emprender acciones legales.",
+      "En caso de divergencia estratégica mayor, deberíamos dividir la empresa en dos entidades."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Hay una alta probabilidad de que ...",
+    "translation": "There's a high probability that ...",
+    "b1": [
+      "Hay una alta probabilidad de que llueva mañana.",
+      "Hay una alta probabilidad de que ganes la lotería.",
+      "Hay una alta probabilidad de que ella venga a la fiesta.",
+      "Hay una alta probabilidad de que la clase se cancele.",
+      "Hay una alta probabilidad de que esté bueno."
+    ],
+    "b2": [
+      "Hay una alta probabilidad de que los precios del petróleo aumenten de nuevo este invierno.",
+      "Hay una alta probabilidad de que tengamos que cambiar nuestros planes de viaje.",
+      "Hay una alta probabilidad de que la empresa sea comprada por un grupo extranjero.",
+      "Hay una alta probabilidad de que se implementen nuevas regulaciones.",
+      "Hay una alta probabilidad de que seas ascendido el próximo año."
+    ],
+    "c1": [
+      "Hay una alta probabilidad de que la devaluación de la moneda provoque una inflación galopante.",
+      "Hay una alta probabilidad de que la automatización transforme radicalmente el mercado laboral.",
+      "Hay una alta probabilidad de que esta inestabilidad política desemboque en un conflicto armado.",
+      "Hay una alta probabilidad de que los recursos hídricos se conviertan en el gran desafío del siglo.",
+      "Hay una alta probabilidad de que asistamos a una mutación profunda de los valores sociales."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Podríamos ver ... si ...",
+    "translation": "We might see ... if ...",
+    "b1": [
+      "Podríamos ver delfines si vamos al mar.",
+      "Podríamos ver estrellas si el cielo está despejado.",
+      "Podríamos ver la Torre Eiffel si caminamos un poco.",
+      "Podríamos ver al jefe si esperamos aquí.",
+      "Podríamos ver flores si es primavera."
+    ],
+    "b2": [
+      "Podríamos ver una mejora si seguimos esta dieta.",
+      "Podríamos ver resultados concretos si trabajamos en equipo.",
+      "Podríamos ver una bajada del desempleo si el crecimiento se reactiva.",
+      "Podríamos ver caras nuevas si cambiamos de barrio.",
+      "Podríamos ver una reacción positiva si explicamos bien las cosas."
+    ],
+    "c1": [
+      "Podríamos ver una degradación irreversible de la biodiversidad si no actuamos.",
+      "Podríamos ver un éxodo rural masivo si las condiciones climáticas se endurecen.",
+      "Podríamos ver un resurgimiento de ideologías extremistas si la crisis empeora.",
+      "Podríamos ver una revolución industrial verde si las inversiones acompañan.",
+      "Podríamos ver un cambio en la hegemonía económica si los países emergentes se alían."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Esto sugiere que el futuro depara ...",
+    "translation": "This suggests that the future holds ...",
+    "b1": [
+      "Esto sugiere que el futuro depara buenas sorpresas.",
+      "Esto sugiere que el futuro depara mucho trabajo.",
+      "Esto sugiere que el futuro depara lluvia.",
+      "Esto sugiere que el futuro depara sol.",
+      "Esto sugiere que el futuro depara viajes."
+    ],
+    "b2": [
+      "Esto sugiere que el futuro depara grandes desafíos para nuestra generación.",
+      "Esto sugiere que el futuro depara oportunidades increíbles en el ámbito digital.",
+      "Esto sugiere que el futuro depara cambios importantes en nuestra forma de vivir.",
+      "Esto sugiere que el futuro depara una competencia cada vez más fuerte.",
+      "Esto sugiere que el futuro depara una vida más fácil gracias a la tecnología."
+    ],
+    "c1": [
+      "Esto sugiere que el futuro depara una reconfiguración total de nuestros sistemas de salud.",
+      "Esto sugiere que el futuro depara una inestabilidad crónica para los mercados financieros.",
+      "Esto sugiere que el futuro depara tensiones crecientes en torno a los recursos energéticos.",
+      "Esto sugiere que el futuro depara una redefinición radical de la noción de privacidad.",
+      "Esto sugiere que el futuro depara un deslizamiento hacia formas de gobernanza más locales."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "El resultado depende totalmente de ...",
+    "translation": "The outcome depends entirely on whether or not ...",
+    "b1": [
+      "El resultado depende totalmente de tu trabajo.",
+      "El resultado depende totalmente del tiempo.",
+      "El resultado depende totalmente de tu elección.",
+      "El resultado depende totalmente del dinero.",
+      "El resultado depende totalmente de tu respuesta."
+    ],
+    "b2": [
+      "El resultado depende totalmente de nuestra capacidad para colaborar eficazmente.",
+      "El resultado depende totalmente de la decisión final del director general.",
+      "El resultado depende totalmente de la calidad de las materias primas utilizadas.",
+      "El resultado depende totalmente del apoyo que recibamos del público.",
+      "El resultado depende totalmente de la evolución de la situación sanitaria mundial."
+    ],
+    "c1": [
+      "El resultado depende totalmente de la sinergia entre los diferentes actores del proyecto.",
+      "El resultado depende totalmente de la flexibilidad de nuestra estructura operativa.",
+      "El resultado depende totalmente del rigor con el que apliquemos estas normas.",
+      "El resultado depende totalmente de la adecuación entre nuestra oferta y la demanda real.",
+      "El resultado depende totalmente de la sostenibilidad de la financiación asignada a la investigación."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Si la tendencia se mantiene, entonces ...",
+    "translation": "If the trend continues, then ...",
+    "b1": [
+      "Si la tendencia se mantiene, entonces va a hacer mucho calor.",
+      "Si la tendencia se mantiene, entonces vamos a ganar el partido.",
+      "Si la tendencia se mantiene, entonces todo el mundo va a venir.",
+      "Si la tendencia se mantiene, entonces los precios van a bajar.",
+      "Si la tendencia se mantiene, entonces vamos a terminar temprano."
+    ],
+    "b2": [
+      "Si la tendencia se mantiene, entonces nuestra empresa será líder del mercado el próximo año.",
+      "Si la tendencia se mantiene, entonces los recursos naturales se agotarán rápidamente.",
+      "Si la tendencia se mantiene, entonces el teletrabajo será la norma para todos.",
+      "Si la tendencia se mantiene, entonces tendremos que duplicar nuestra capacidad de producción.",
+      "Si la tendencia se mantiene, entonces las tensiones sociales corren el riesgo de intensificarse."
+    ],
+    "c1": [
+      "Si la tendencia se mantiene, entonces asistiremos a una desertificación de las zonas rurales.",
+      "Si la tendencia se mantiene, entonces la deuda pública alcanzará un umbral crítico en diez años.",
+      "Si la tendencia se mantiene, entonces la obsolescencia de las competencias se acelerará considerablemente.",
+      "Si la tendencia se mantiene, entonces la polarización de la opinión pública hará imposible cualquier diálogo.",
+      "Si la tendencia se mantiene, entonces la cuota de energías fósiles en el mix energético caerá drásticamente."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Si hubieran considerado ..., el resultado habría sido ...",
+    "translation": "Had they considered ..., the result would have been ...",
+    "b1": [
+      "Si hubieran considerado el precio, el resultado habría sido diferente.",
+      "Si hubieran considerado el tiempo, el resultado habría sido mejor.",
+      "Si hubieran considerado mi opinión, el resultado habría sido positivo.",
+      "Si hubieran considerado el horario, el resultado habría sido rápido.",
+      "Si hubieran considerado a los niños, el resultado habría sido alegre."
+    ],
+    "b2": [
+      "Si hubieran considerado los riesgos ambientales, el resultado habría sido menos catastrófico.",
+      "Si hubieran considerado la opinión de los clientes, el resultado habría sido un éxito comercial.",
+      "Si hubieran considerado los costes de mantenimiento, el resultado habría sido más realista.",
+      "Si hubieran considerado a la competencia, el resultado habría sido una estrategia más agresiva.",
+      "Si hubieran considerado la legislación vigente, el resultado habría sido legal."
+    ],
+    "c1": [
+      "Si hubieran considerado las implicaciones sociológicas, el resultado habría sido una integración más fluida.",
+      "Si hubieran considerado la volatilidad del mercado de valores, el resultado habría sido una gestión más prudente.",
+      "Si hubieran considerado la fragilidad de las alianzas diplomáticas, el resultado habría sido la paz.",
+      "Si hubieran considerado el impacto de la automatización en el empleo, el resultado habría sido una reforma social.",
+      "Si hubieran considerado la saturación de la red, el resultado habría sido una infraestructura más robusta."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Necesitamos un plan de respaldo en caso de que ...",
+    "translation": "We need a backup plan in case ...",
+    "b1": [
+      "Necesitamos un plan de respaldo en caso de que llueva.",
+      "Necesitamos un plan de respaldo en caso de que el tren se retrase.",
+      "Necesitamos un plan de respaldo en caso de que el restaurante esté cerrado.",
+      "Necesitamos un plan de respaldo en caso de que olvide mis llaves.",
+      "Necesitamos un plan de respaldo en caso de que no tengamos más dinero."
+    ],
+    "b2": [
+      "Necesitamos un plan de respaldo en caso de que la financiación principal sea rechazada.",
+      "Necesitamos un plan de respaldo en caso de que el sistema informático falle.",
+      "Necesitamos un plan de respaldo en caso de que nuestro proveedor quiebre.",
+      "Necesitamos un plan de respaldo en case de que las ventas caigan bruscamente.",
+      "Necesitamos un plan de respaldo en caso de que la reunión se cancele en el último minuto."
+    ],
+    "c1": [
+      "Necesitamos un plan de respaldo en caso de que una crisis geopolítica bloquee las exportaciones.",
+      "Necesitamos un plan de respaldo en caso de que la ciberresiliencia de la empresa se vea comprometida.",
+      "Necesitamos un plan de respaldo en caso de que la nueva regulación haga que nuestro producto quede obsoleto.",
+      "Necesitamos un plan de respaldo en caso de que un escándalo empañe nuestra reputación mundial.",
+      "Necesitamos un plan de respaldo en caso de que la inflación haga que los costes de producción sean insoportables."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Es concebible que ...",
+    "translation": "It is conceivable that ...",
+    "b1": [
+      "Es concebible que estés cansado.",
+      "Es concebible que llueva esta tarde.",
+      "Es concebible que sea difícil al principio.",
+      "Es concebible que comamos en el restaurante.",
+      "Es concebible que el precio baje pronto."
+    ],
+    "b2": [
+      "Es concebible que las dos partes nunca encuentren un acuerdo amistoso.",
+      "Es concebible que la tecnología actual quede obsoleta en cinco años.",
+      "Es concebible que tengamos que revisar toda nuestra organización interna.",
+      "Es concebible que el interés por este producto disminuya con el tiempo.",
+      "Es concebible que el teletrabajo se convierta en una obligación legal."
+    ],
+    "c1": [
+      "Es concebible que la humanidad deba colonizar otros planetas para sobrevivir.",
+      "Es concebible que la estructura misma del Estado-nación sea cuestionada.",
+      "Es concebible que la inteligencia artificial termine por desarrollar una forma de conciencia.",
+      "Es concebible que asistamos a un decrecimiento forzado en lugar de elegido.",
+      "Es concebible que la moneda física desaparezca totalmente en favor de lo digital."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Sin ..., es imposible ...",
+    "translation": "Without ..., it is impossible to ...",
+    "b1": [
+      "Sin dinero, es imposible comprar este coche.",
+      "Sin agua, es imposible vivir.",
+      "Sin llave, es imposible abrir la puerta.",
+      "Sin estudios, es imposible aprobar este examen.",
+      "Sin sol, es imposible ir a la playa."
+    ],
+    "b2": [
+      "Sin una comunicación clara, es imposible llevar a cabo este proyecto.",
+      "Sin el apoyo de la dirección, es imposible cambiar la cultura corporativa.",
+      "Sin una inversión masiva, es imposible seguir siendo competitivo en este mercado.",
+      "Sin la confianza de los clientes, es imposible perpetuar nuestra actividad.",
+      "Sin herramientas modernas, es imposible aumentar la productividad."
+    ],
+    "c1": [
+      "Sin una visión estratégica coherente, es imposible anticipar las rupturas del mercado.",
+      "Sin una ética rigurosa, es imposible garantizar la integridad de la investigación científica.",
+      "Sin un consenso internacional, es imposible regular los flujos financieros mundiales.",
+      "Sin una resiliencia psicológica fuerte, es imposible superar una crisis sistémica de tal magnitud.",
+      "Sin un cuestionamiento de nuestros estilos de vida, es imposible alcanzar la neutralidad de carbono."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Las pruebas indican que ... va a ocurrir.",
+    "translation": "The evidence points towards ... happening.",
+    "b1": [
+      "Las pruebas indican que va a llover.",
+      "Las pruebas indican que tienes razón.",
+      "Las pruebas indican que el tren se ha ido.",
+      "Las pruebas indican que la película está bien.",
+      "Las pruebas indican que está roto."
+    ],
+    "b2": [
+      "Las pruebas indican que un aumento de las temperaturas va a ocurrir esta década.",
+      "Las pruebas indican que una bajada del consumo va a ocurrir próximamente.",
+      "Las pruebas indican que un cambio de dirección va a ocurrir en el grupo.",
+      "Las pruebas indican que un frenazo económico va a ocurrir en otoño.",
+      "Las pruebas indican que una revolución tecnológica va a ocurrir en la medicina."
+    ],
+    "c1": [
+      "Las pruebas indican que un colapso de la biodiversidad marina va a ocurrir sin medidas urgentes.",
+      "Las pruebas indican que un vuelco geopolítico hacia Asia va a ocurrir inexorablemente.",
+      "Las pruebas indican que una crisis de la deuda soberana va a ocurrir si los tipos suben.",
+      "Las pruebas indican que una mutación genética de este virus va a ocurrir naturalmente.",
+      "Las pruebas indican que una desestabilización de las instituciones democráticas va a ocurrir debido a la desinformación."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "A condición de que ..., podemos proceder a ...",
+    "translation": "On the condition that ..., we can proceed with ...",
+    "b1": [
+      "A condición de que haga buen tiempo, podemos proceder al paseo.",
+      "A condición de que termines tus deberes, podemos proceder al juego.",
+      "A condición de que todo esté listo, podemos proceder a la salida.",
+      "A condición de que estés de acuerdo, podemos proceder a la boda.",
+      "A condición de que el precio baje, podemos proceder a la compra."
+    ],
+    "b2": [
+      "A condición de que el contrato esté firmado, podemos proceder al envío de la mercancía.",
+      "A condición de que los fondos se desbloqueen, podemos proceder a las obras de renovación.",
+      "A condición de que las pruebas sean positivas, podemos proceder al lanzamiento nacional.",
+      "A condición de que respeten las instrucciones, podemos proceder a la entrevista.",
+      "A condición de que la seguridad esté garantizada, podemos proceder a la apertura del sitio."
+    ],
+    "c1": [
+      "A condición de que la auditoría sea favorable, podemos proceder a la fusión-adquisición.",
+      "A condición de que el marco legislativo se aclare, podemos proceder a la implantación en zona franca.",
+      "A condición de que la soberanía digital esté asegurada, podemos proceder a la migración de datos.",
+      "A condición de que los accionistas validen el plan, podemos proceder a la reestructuración del capital.",
+      "A condición de que la paz se restablezca, podemos proceder a la reconstrucción de las infraestructuras."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "La implicación a largo plazo es ...",
+    "translation": "The long-term implication is ...",
+    "b1": [
+      "La implicación a largo plazo es que estaremos sanos.",
+      "La implicación a largo plazo es que ahorraremos dinero.",
+      "La implicación a largo plazo es que aprenderemos mejor el español.",
+      "La implicación a largo plazo es que nuestro jardín será hermoso.",
+      "La implicación a largo plazo es que estaremos más tranquilos."
+    ],
+    "b2": [
+      "La implicación a largo plazo es una dependencia mayor de las energías importadas.",
+      "La implicación a largo plazo es la desaparición de algunos comercios de proximidad.",
+      "La implicación a largo plazo es una mejora de la calidad de vida de los ciudadanos.",
+      "La implicación a largo plazo es la creación de nuevos sectores de empleo.",
+      "La implicación a largo plazo es una reducción significativa de nuestra huella ecológica."
+    ],
+    "c1": [
+      "La implicación a largo plazo es una erosión inevitable del poder adquisitivo de las clases medias.",
+      "La implicación a largo plazo es un cambio radical de las estructuras familiares tradicionales.",
+      "La implicación a largo plazo es la pérdida de nuestra autonomía estratégica frente a los gigantes de la web.",
+      "La implicación a largo plazo es una mutación de la conciencia colectiva respecto al trabajo.",
+      "La implicación a largo plazo es el riesgo de una inestabilidad social crónica debido a las desigualdades."
+    ]
+  }
+]

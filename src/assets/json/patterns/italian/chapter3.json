@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Potrebbe eventualmente ...?",
+    "translation": "Could you possibly ...?",
+    "b1": [
+      "Potrebbe eventualmente aiutarmi con i bagagli?",
+      "Potrebbe eventualmente mandarmi il suo indirizzo?",
+      "Potrebbe eventualmente parlare un po' più lentamente?",
+      "Potrebbe eventualmente chiudere la finestra, per favore?",
+      "Potrebbe eventualmente indicarmi la strada per la stazione?"
+    ],
+    "b2": [
+      "Potrebbe eventualmente spostare il nostro appuntamento a domani pomeriggio?",
+      "Potrebbe eventualmente trasmettermi il verbale della riunione?",
+      "Potrebbe eventualmente verificare se questi documenti sono completi?",
+      "Potrebbe eventualmente concederci un piccolo sconto su questo servizio?",
+      "Potrebbe eventualmente spiegare questo punto un'altra volta?"
+    ],
+    "c1": [
+      "Potrebbe eventualmente riconsiderare la sua posizione alla luce dei nuovi elementi?",
+      "Potrebbe eventualmente fornire precisazioni sulle modalità di applicazione di questo contratto?",
+      "Potrebbe eventualmente prendere in considerazione una collaborazione a lungo termine?",
+      "Potrebbe eventualmente fornirci un'analisi più dettagliata dei rischi?",
+      "Potrebbe eventualmente intervenire durante il nostro prossimo seminario?"
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Le sarei grato/a se volesse ...",
+    "translation": "I would be grateful if you could ...",
+    "b1": [
+      "Le sarei grato se volesse aiutarmi.",
+      "Le sarei grata se volesse rispondere al mio messaggio.",
+      "Le sarei grato se volesse mandarmi le foto.",
+      "Le sarei grata se volesse aspettarmi qualche minuto.",
+      "Le sarei grato se volesse firmare questo documento."
+    ],
+    "b2": [
+      "Le sarei grato se volesse confermarmi la sua presenza per e-mail.",
+      "Le sarei grata se volesse trattare la mia richiesta con priorità.",
+      "Le sarei grato se volesse farci pervenire le sue osservazioni.",
+      "Le sarei grata se volesse rispettare le scadenze previste.",
+      "Le sarei grato se volesse compilare il questionario allegato."
+    ],
+    "c1": [
+      "Le sarei grato se volesse presentare la sua proposta revisionata entro lunedì.",
+      "Le sarei grata se volesse esaminare questo dossier con la massima attenzione.",
+      "Le sarei grato se volesse chiarire i punti di divergenza sollevati.",
+      "Le sarei grata se volesse delegare un responsabile per supervisionare questo progetto.",
+      "Le sarei grato se volesse concederci un colloquio quanto prima possibile."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Le dispiacerebbe ...?",
+    "translation": "Would you mind ...?",
+    "b1": [
+      "Le dispiacerebbe abbassare il volume?",
+      "Le dispiacerebbe fare una foto per noi?",
+      "Le dispiacerebbe cambiare posto?",
+      "Le dispiacerebbe aprire la porta?",
+      "Le dispiacerebbe prestarmi una penna?"
+    ],
+    "b2": [
+      "Le dispiacerebbe riprendere questo lavoro già da domani mattina?",
+      "Le dispiacerebbe inviarci una copia del suo passaporto?",
+      "Le dispiacerebbe aspettare qualche istante in sala d'attesa?",
+      "Le dispiacerebbe riformulare la sua domanda?",
+      "Le dispiacerebbe partecipare al nostro sondaggio?"
+    ],
+    "c1": [
+      "Le dispiacerebbe posticipare la data di consegna per ragioni logistiche?",
+      "Le dispiacerebbe esporre brevemente la sua metodologia durante la sessione?",
+      "Le dispiacerebbe condividere i suoi dati preliminari con il resto del team?",
+      "Le dispiacerebbe rivedere le clausole di riservatezza di questo accordo?",
+      "Le dispiacerebbe assumere il coordinamento di questo gruppo di lavoro?"
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Le scrivo per richiedere ...",
+    "translation": "I'm writing to request ...",
+    "b1": [
+      "Le scrivo per richiedere informazioni sui corsi di italiano.",
+      "Le scrivo per richiedere il suo aiuto.",
+      "Le scrivo per richiedere un opuscolo sul suo hotel.",
+      "Le scrivo per richiedere un appuntamento con il medico.",
+      "Le scrivo per richiedere il menu della settimana."
+    ],
+    "b2": [
+      "Le scrivo per richiedere il rimborso del mio ordine.",
+      "Le scrivo per richiedere una proroga del termine di pagamento.",
+      "Le scrivo per richiedere precisazioni riguardo alla sua ultima offerta di lavoro.",
+      "Le scrivo per richiedere una lettera di referenza.",
+      "Le scrivo per richiedere l'autorizzazione a utilizzare la sua sala."
+    ],
+    "c1": [
+      "Le scrivo per richiedere un audit esterno dei nostri processi attuali.",
+      "Le scrivo per richiedere una deroga eccezionale al regolamento interno.",
+      "Le scrivo per richiedere chiarimenti sulla nuova strategia fiscale.",
+      "Le scrivo per richiedere una rivalutazione del mio piano di carriera all'interno del gruppo.",
+      "Le scrivo per richiedere una borsa di ricerca per il nostro prossimo progetto."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Ho bisogno di ... entro la fine di ...",
+    "translation": "I need ... by the end of ...",
+    "b1": [
+      "Ho bisogno del mio passaporto entro la fine della giornata.",
+      "Ho bisogno di questi documenti entro la fine della settimana.",
+      "Ho bisogno della tua risposta entro la fine della mattinata.",
+      "Ho bisogno di questo libro entro la fine del mese.",
+      "Ho bisogno di una decisione entro la fine del pomeriggio."
+    ],
+    "b2": [
+      "Ho bisogno del rapporto completo entro la fine della settimana prossima.",
+      "Ho bisogno della vostra conferma entro la fine di questo trimestre.",
+      "Ho bisogno delle fatture originali entro la fine dell'anno fiscale.",
+      "Ho bisogno di un nuovo piano operativo entro la fine di questa sessione.",
+      "Ho bisogno del parere legale entro la fine del periodo di prova."
+    ],
+    "c1": [
+      "Ho bisogno di uno studio di fattibilità rigoroso entro la fine del semestre.",
+      "Ho bisogno di un'analisi comparativa entro la fine dell'esercizio contabile.",
+      "Ho bisogno di un piano d'azione operativo entro la fine della fase diagnostica.",
+      "Ho bisogno della sua validazione strategica entro la fine dell'audit interno.",
+      "Ho bisogno dell'elenco esaustivo dei fornitori entro la fine della consultazione."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "C'è qualche possibilità di ...?",
+    "translation": "Is there any chance of ...?",
+    "b1": [
+      "C'è qualche possibilità di vincere?",
+      "C'è qualche possibilità di bel tempo domani?",
+      "C'è qualche possibilità di vedervi stasera?",
+      "C'è qualche possibilità di trovare un biglietto?",
+      "C'è qualche possibilità di finire prima oggi?"
+    ],
+    "b2": [
+      "C'è qualche possibilità di ottenere una promozione quest'anno?",
+      "C'è qualche possibilità di cambiare le date del mio volo?",
+      "C'è qualche possibilità di convincere il direttore a cambiare idea?",
+      "C'è qualche possibilità che il progetto venga accettato senza modifiche?",
+      "C'è qualche possibilità di trovare una soluzione amichevole?"
+    ],
+    "c1": [
+      "C'è qualche possibilità di rinegoziare le condizioni di questo partenariato?",
+      "C'è qualche possibilità di influenzare la politica attuale dell'azienda?",
+      "C'è qualche possibilità di vedere un miglioramento significativo della congiuntura?",
+      "C'è qualche possibilità di colmare questa mancanza di risorse attraverso un'assunzione esterna?",
+      "C'è qualche possibilità di ristabilire la fiducia tra le parti interessate?"
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Potrei chiederle di concentrarsi specificamente su ...?",
+    "translation": "Could I ask you to specifically focus on ...?",
+    "b1": [
+      "Potrei chiederle di concentrarsi specificamente sulla lettura?",
+      "Potrei chiederle di concentrarsi specificamente su questo problema?",
+      "Potrei chiederle di concentrarsi specificamente sul vocabolario?",
+      "Potrei chiederle di concentrarsi specificamente sul suo lavoro?",
+      "Potrei chiederle di concentrarsi specificamente sulla strada?"
+    ],
+    "b2": [
+      "Potrei chiederle di concentrarsi specificamente sull'analisi dei costi?",
+      "Potrei chiederle di concentrarsi specificamente sulla soddisfazione del cliente?",
+      "Potrei chiederle di concentrarsi specificamente sui riscontri del team?",
+      "Potrei chiederle di concentrarsi specificamente sulla sicurezza del sito?",
+      "Potrei chiederle di concentrarsi specificamente sulla redazione del rapporto?"
+    ],
+    "c1": [
+      "Potrei chiederle di concentrarsi specificamente sulle implicazioni giuridiche del contratto?",
+      "Potrei chiederle di concentrarsi specificamente sull'ottimizzazione delle risorse?",
+      "Potrei chiederle di concentrarsi specificamente sulle leve di crescita esterna?",
+      "Potrei chiederle di concentrarsi specificamente sull'impatto socioeconomico del progetto?",
+      "Potrei chiederle di concentrarsi specificamente sulla coerenza globale dell'argomentazione?"
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Assicurarsi di includere ...",
+    "translation": "Please make sure to include ...",
+    "b1": [
+      "Assicurarsi di includere il proprio nome.",
+      "Assicurarsi di includere le foto.",
+      "Assicurarsi di includere la data.",
+      "Assicurarsi di includere il proprio indirizzo.",
+      "Assicurarsi di includere le chiavi."
+    ],
+    "b2": [
+      "Assicurarsi di includere tutte le ricevute di spesa.",
+      "Assicurarsi di includere il numero d'ordine nel messaggio.",
+      "Assicurarsi di includere i commenti dei clienti.",
+      "Assicurarsi di includere i grafici nella presentazione.",
+      "Assicurarsi di includere le raccomandazioni tecniche."
+    ],
+    "c1": [
+      "Assicurarsi di includere una bibliografia esaustiva nella propria tesi.",
+      "Assicurarsi di includere le clausole di esclusione di responsabilità nel documento finale.",
+      "Assicurarsi di includere un'analisi dettagliata dell'impatto ambientale.",
+      "Assicurarsi di includere le statistiche comparative degli ultimi cinque anni.",
+      "Assicurarsi di includere i protocolli di sicurezza specifici del settore."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Sarebbe possibile per lei fornire dettagli su ...?",
+    "translation": "Would it be possible for you to provide details on ...?",
+    "b1": [
+      "Sarebbe possibile per lei fornire dettagli sul prezzo?",
+      "Sarebbe possibile per lei fornire dettagli sulla festa?",
+      "Sarebbe possibile per lei fornire dettagli sul menù?",
+      "Sarebbe possibile per lei fornire dettagli sul viaggio?",
+      "Sarebbe possibile per lei fornire dettagli sul corso?"
+    ],
+    "b2": [
+      "Sarebbe possibile per lei fornire dettagli sulle opzioni assicurative?",
+      "Sarebbe possibile per lei fornire dettagli sul calendario di produzione?",
+      "Sarebbe possibile per lei fornire dettagli sui criteri di valutazione?",
+      "Sarebbe possibile per lei fornire dettagli sul funzionamento del software?",
+      "Sarebbe possibile per lei fornire dettagli sulle condizioni di vendita?"
+    ],
+    "c1": [
+      "Sarebbe possibile per lei fornire dettagli sulla metodologia di campionamento?",
+      "Sarebbe possibile per lei fornire dettagli sulla struttura azionaria?",
+      "Sarebbe possibile per lei fornire dettagli sui meccanismi di compensazione previsti?",
+      "Sarebbe possibile per lei fornire dettagli sulla sostenibilità finanziaria a lungo termine?",
+      "Sarebbe possibile per lei fornire dettagli sui fondamenti etici del suo studio?"
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Purtroppo, non sarò in grado di ...",
+    "translation": "Unfortunately, I won't be able to ...",
+    "b1": [
+      "Purtroppo, non sarò in grado di venire stasera.",
+      "Purtroppo, non sarò in grado di finire in tempo.",
+      "Purtroppo, non sarò in grado di pagare adesso.",
+      "Purtroppo, non sarò in grado di aiutarla.",
+      "Purtroppo, non sarò in grado di mangiare con voi."
+    ],
+    "b2": [
+      "Purtroppo, non sarò in grado di rispettare questa scadenza.",
+      "Purtroppo, non sarò in grado di partecipare alla riunione di domani.",
+      "Purtroppo, non sarò in grado di trattare la sua pratica prima di lunedì.",
+      "Purtroppo, non sarò in grado di concederle uno sconto.",
+      "Purtroppo, non sarò in grado di spostarmi per questo colloquio."
+    ],
+    "c1": [
+      "Purtroppo, non sarò in grado di dare seguito alla sua proposta di partenariato.",
+      "Purtroppo, non sarò in grado di avallare queste pratiche manageriali.",
+      "Purtroppo, non sarò in grado di validare il suo rapporto nello stato attuale.",
+      "Purtroppo, non sarò in grado di assumere la presidenza di questa commissione.",
+      "Purtroppo, non sarò in grado di reperire i fondi necessari per questo progetto."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Temo di dover declinare ...",
+    "translation": "I'm afraid I have to decline ...",
+    "b1": [
+      "Temo di dover declinare il suo invito.",
+      "Temo di dover declinare questo regalo.",
+      "Temo di dover declinare questa offerta.",
+      "Temo di dover declinare il tuo aiuto.",
+      "Temo di dover declinare questa richiesta."
+    ],
+    "b2": [
+      "Temo di dover declinare la sua proposta di collaborazione per il momento.",
+      "Temo di dover declinare l'accesso a questo servizio senza abbonamento.",
+      "Temo di dover declinare questa modifica contrattuale.",
+      "Temo di dover declinare la sua richiesta di congedo straordinario.",
+      "Temo di dover declinare queste condizioni di pagamento."
+    ],
+    "c1": [
+      "Temo di dover declinare qualsiasi compromesso che sacrifichi la qualità del prodotto.",
+      "Temo di dover declinare la ratifica di una decisione dalle conseguenze così gravi.",
+      "Temo di dover declinare di ottemperare a questa ingiunzione paradossale.",
+      "Temo di dover declinare il mio avallo all'attuazione di questa strategia.",
+      "Temo di dover declinare la partecipazione al consiglio di amministrazione quest'anno."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Sembra difficile perché ...",
+    "translation": "That sounds challenging because ...",
+    "b1": [
+      "Sembra difficile perché è troppo caro.",
+      "Sembra difficile perché non ho tempo.",
+      "Sembra difficile perché è lontano.",
+      "Sembra difficile perché piove.",
+      "Sembra difficile perché sono solo."
+    ],
+    "b2": [
+      "Sembra difficile perché manca il personale qualificato.",
+      "Sembra difficile perché il budget è già stato assegnato.",
+      "Sembra difficile perché i tempi sono troppo stretti.",
+      "Sembra difficile perché la normativa è cambiata di recente.",
+      "Sembra difficile perché il mercato è già saturo."
+    ],
+    "c1": [
+      "Sembra difficile perché i vincoli strutturali sono troppo gravosi.",
+      "Sembra difficile perché il consenso politico è attualmente assente.",
+      "Sembra difficile perché gli indicatori macroeconomici sono sfavorevoli.",
+      "Sembra difficile perché la fattibilità tecnica non è ancora dimostrata.",
+      "Sembra difficile perché l'inerzia amministrativa frena qualsiasi innovazione."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Pur apprezzando l'offerta, devo rispettosamente declinare ...",
+    "translation": "While I appreciate the offer, I must respectfully refuse ...",
+    "b1": [
+      "Pur apprezzando l'offerta, devo rispettosamente declinare il suo aiuto.",
+      "Pur apprezzando l'offerta, devo rispettosamente declinare questa torta.",
+      "Pur apprezzando l'offerta, devo rispettosamente declinare questo invito.",
+      "Pur apprezzando l'offerta, devo rispettosamente declinare questo lavoro.",
+      "Pur apprezzando l'offerta, devo rispettosamente declinare questo premio."
+    ],
+    "b2": [
+      "Pur apprezzando l'offerta, devo rispettosamente declinare questo incarico per ragioni familiari.",
+      "Pur apprezzando l'offerta, devo rispettosamente declinare questo sconto del 10 %.",
+      "Pur apprezzando l'offerta, devo rispettosamente declinare la sua proposta di acquisizione.",
+      "Pur apprezzando l'offerta, devo rispettosamente declinare la partecipazione a questo seminario.",
+      "Pur apprezzando l'offerta, devo rispettosamente declinare la sua ospitalità."
+    ],
+    "c1": [
+      "Pur apprezzando l'offerta, devo rispettosamente declinare questa opportunità per preservare la mia indipendenza.",
+      "Pur apprezzando l'offerta, devo rispettosamente declinare l'adesione a questo nuovo raggruppamento.",
+      "Pur apprezzando l'offerta, devo rispettosamente declinare l'integrazione di questi attivi nel mio portafoglio.",
+      "Pur apprezzando l'offerta, devo rispettosamente declinare il ruolo di intermediario.",
+      "Pur apprezzando l'offerta, devo rispettosamente declinare l'avallo a questo progetto di fusione."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "I miei impegni non mi permettono di ...",
+    "translation": "My schedule doesn't permit me to ...",
+    "b1": [
+      "I miei impegni non mi permettono di uscire stasera.",
+      "I miei impegni non mi permettono di viaggiare questa settimana.",
+      "I miei impegni non mi permettono di vederti domani.",
+      "I miei impegni non mi permettono di fare sport.",
+      "I miei impegni non mi permettono di venire alla festa."
+    ],
+    "b2": [
+      "I miei impegni non mi permettono di accettare nuovi incarichi per il momento.",
+      "I miei impegni non mi permettono di partecipare alla conferenza stampa.",
+      "I miei impegni non mi permettono di occuparmi di questa pratica prima di lunedì.",
+      "I miei impegni non mi permettono di seguire una formazione quest'anno.",
+      "I miei impegni non mi permettono di partecipare alle riunioni settimanali."
+    ],
+    "c1": [
+      "I miei impegni non mi permettono di assicurare il coordinamento trasversale del progetto.",
+      "I miei impegni non mi permettono di investirmi pienamente in questa nuova istanza.",
+      "I miei impegni non mi permettono di onorare il mio impegno con la vostra associazione.",
+      "I miei impegni non mi permettono di occuparmi della revisione del suo manoscritto.",
+      "I miei impegni non mi permettono di effettuare frequenti spostamenti internazionali."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Vorrei poter ..., ma attualmente sono impegnato/a con ...",
+    "translation": "I wish I could ..., but currently I'm occupied with ...",
+    "b1": [
+      "Vorrei poter aiutarti, ma attualmente sono impegnato con i compiti.",
+      "Vorrei poter venire, ma attualmente sono impegnata con il lavoro.",
+      "Vorrei poter cucinare, ma attualmente sono impegnato con le pulizie.",
+      "Vorrei poter viaggiare, ma attualmente sono impegnata con i corsi.",
+      "Vorrei poter giocare, ma attualmente sono impegnato con il mio cane."
+    ],
+    "b2": [
+      "Vorrei poter accettare il suo invito, ma attualmente sono impegnato con il lancio di un nuovo prodotto.",
+      "Vorrei poter risponderle più in fretta, ma attualmente sono impegnata con un audit interno.",
+      "Vorrei poter entrare nel suo team, ma attualmente sono impegnato con la fine del mio contratto attuale.",
+      "Vorrei poter organizzare questo evento, ma attualmente sono impegnata con la gestione della crisi.",
+      "Vorrei poter leggere questo libro, ma attualmente sono impegnato con la stesura della mia tesi."
+    ],
+    "c1": [
+      "Vorrei poter approfondire questa questione con lei, ma attualmente sono impegnato con la ristrutturazione del dipartimento.",
+      "Vorrei poter avallare il suo approccio, ma attualmente sono impegnato con imperativi etici contraddittori.",
+      "Vorrei poter dedicarmi a questa ricerca, ma attualmente sono impegnata con obblighi contrattuali rilevanti.",
+      "Vorrei poter arbitrare questo conflitto, ma attualmente sono impegnato con la rinegoziazione dei nostri accordi quadro.",
+      "Vorrei poter sostenere la sua candidatura, ma attualmente sono impegnata con il pilotaggio strategico della fusione."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Potremo riconsiderare ... in seguito.",
+    "translation": "We can revisit ... later.",
+    "b1": [
+      "Potremo riconsiderare questa idea in seguito.",
+      "Potremo riconsiderare la sua richiesta in seguito.",
+      "Potremo riconsiderare il prezzo in seguito.",
+      "Potremo riconsiderare il viaggio in seguito.",
+      "Potremo riconsiderare il piano in seguito."
+    ],
+    "b2": [
+      "Potremo riconsiderare la sua candidatura durante la prossima sessione di selezione.",
+      "Potremo riconsiderare l'apertura di un nuovo negozio in seguito.",
+      "Potremo riconsiderare i termini del contratto dopo sei mesi di prova.",
+      "Potremo riconsiderare il suo budget l'anno prossimo.",
+      "Potremo riconsiderare la nostra strategia di comunicazione in seguito."
+    ],
+    "c1": [
+      "Potremo riconsiderare l'opportunità di questo investimento una volta superata la fase di instabilità.",
+      "Potremo riconsiderare le modalità del nostro partenariato dopo la valutazione dei risultati intermedi.",
+      "Potremo riconsiderare la sua proposta di fusione se le condizioni di mercato migliorano.",
+      "Potremo riconsiderare la pertinenza di questo modello economico alla luce dei nuovi dati.",
+      "Potremo riconsiderare l'allocazione di queste risorse durante il prossimo consiglio di amministrazione."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Raccomando di parlare con ... di ...",
+    "translation": "I recommend speaking to ... about ...",
+    "b1": [
+      "Raccomando di parlare con mio fratello di questo problema.",
+      "Raccomando di parlare con il professore del tuo voto.",
+      "Raccomando di parlare con il medico della tua salute.",
+      "Raccomando di parlare con tua madre del tuo viaggio.",
+      "Raccomando di parlare con il capo del tuo stipendio."
+    ],
+    "b2": [
+      "Raccomando di parlare con il responsabile tecnico di questo bug informatico.",
+      "Raccomando di parlare con il commercialista delle sue opzioni fiscali.",
+      "Raccomando di parlare con il consulente di orientamento dei suoi progetti futuri.",
+      "Raccomando di parlare con il servizio clienti del suo reclamo.",
+      "Raccomando di parlare con un avvocato di questo contratto."
+    ],
+    "c1": [
+      "Raccomando di parlare con il mediatore di queste tensioni persistenti all'interno del team.",
+      "Raccomando di parlare con il direttore delle risorse umane della politica sulla diversità.",
+      "Raccomando di parlare con il revisore dei conti di queste irregolarità finanziarie.",
+      "Raccomando di parlare con il delegato sindacale delle condizioni di sicurezza sul sito.",
+      "Raccomando di parlare con il suo mentore della gestione della sua leadership."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "La mia priorità attuale è ..., quindi devo declinare.",
+    "translation": "My priority right now is ..., so I must decline.",
+    "b1": [
+      "La mia priorità attuale è la mia salute, quindi devo declinare.",
+      "La mia priorità attuale è il mio esame, quindi devo declinare.",
+      "La mia priorità attuale è la mia famiglia, quindi devo declinare.",
+      "La mia priorità attuale è il mio lavoro, quindi devo declinare.",
+      "La mia priorità attuale è riposarmi, quindi devo declinare."
+    ],
+    "b2": [
+      "La mia priorità attuale è terminare questo progetto in tempo, quindi devo declinare la sua proposta.",
+      "La mia priorità attuale è la riduzione dei costi, quindi devo declinare questo investimento.",
+      "La mia priorità attuale è la mia riconversione professionale, quindi devo declinare questo incarico.",
+      "La mia priorità attuale è stabilizzare il team, quindi devo declinare qualsiasi cambiamento.",
+      "La mia priorità attuale è il miglioramento della qualità, quindi devo declinare di accelerare la produzione."
+    ],
+    "c1": [
+      "La mia priorità attuale è la sostenibilità finanziaria della struttura, quindi devo declinare qualsiasi spesa superflua.",
+      "La mia priorità attuale è il rispetto dei nostri impegni etici, quindi devo declinare questo cliente.",
+      "La mia priorità attuale è il pilotaggio della transizione digitale, quindi devo declinare di disperdermi.",
+      "La mia priorità attuale è il consolidamento delle nostre quote di mercato, quindi devo declinare questa diversificazione.",
+      "La mia priorità attuale è la conformità normativa, quindi devo declinare questo progetto innovativo ma rischioso."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Potrebbe per favore chiarire cosa intende con ...?",
+    "translation": "Could you please clarify what you mean by ...?",
+    "b1": [
+      "Potrebbe per favore chiarire cosa intende con 'più tardi'?",
+      "Potrebbe per favore chiarire cosa intende con 'caro'?",
+      "Potrebbe per favore chiarire cosa intende con 'facile'?",
+      "Potrebbe per favore chiarire cosa intende con 'presto'?",
+      "Potrebbe per favore chiarire cosa intende con 'difficile'?"
+    ],
+    "b2": [
+      "Potrebbe per favore chiarire cosa intende con 'risultati soddisfacenti'?",
+      "Potrebbe per favore chiarire cosa intende con 'flessibilità degli orari'?",
+      "Potrebbe per favore chiarire cosa intende con 'impatto ambientale minimo'?",
+      "Potrebbe per favore chiarire cosa intende con 'costi aggiuntivi eventuali'?",
+      "Potrebbe per favore chiarire cosa intende con 'collaborazione stretta'?"
+    ],
+    "c1": [
+      "Potrebbe per favore chiarire cosa intende con 'rottura di paradigma'?",
+      "Potrebbe per favore chiarire cosa intende con 'ottimizzazione fiscale responsabile'?",
+      "Potrebbe per favore chiarire cosa intende con 'asimmetria informativa'?",
+      "Potrebbe per favore chiarire cosa intende con 'governance partecipativa'?",
+      "Potrebbe per favore chiarire cosa intende con 'obsolescenza programmata'?"
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Se potesse solo ..., sarebbe di grande aiuto.",
+    "translation": "If you could just ..., that would be a great help.",
+    "b1": [
+      "Se potesse solo aiutarmi, sarebbe di grande aiuto.",
+      "Se potesse solo aprire la porta, sarebbe di grande aiuto.",
+      "Se potesse solo ascoltarmi, sarebbe di grande aiuto.",
+      "Se potesse solo mandarmi un messaggio, sarebbe di grande aiuto.",
+      "Se potesse solo sorridere, sarebbe di grande aiuto."
+    ],
+    "b2": [
+      "Se potesse solo rileggere questo documento, sarebbe di grande aiuto.",
+      "Se potesse solo spostare la riunione di dieci minuti, sarebbe di grande aiuto.",
+      "Se potesse solo fornirci un esempio concreto, sarebbe di grande aiuto.",
+      "Se potesse solo avvisare il team del mio ritardo, sarebbe di grande aiuto.",
+      "Se potesse solo confermare la ricezione di questa e-mail, sarebbe di grande aiuto."
+    ],
+    "c1": [
+      "Se potesse solo sintetizzare le questioni principali del dossier, sarebbe di grande aiuto.",
+      "Se potesse solo fungere da interlocutore presso la direzione, sarebbe di grande aiuto.",
+      "Se potesse solo validare la coerenza del nostro approccio strategico, sarebbe di grande aiuto.",
+      "Se potesse solo chiarire le zone d'ombra di questo rapporto finanziario, sarebbe di grande aiuto.",
+      "Se potesse solo concederci una proroga del periodo di garanzia, sarebbe di grande aiuto."
+    ]
+  }
+]

@@ -4,16 +4,16 @@ import Box2 from "../../../components/Box2.astro";
 import Button2 from "../../../components/Button2.astro";
 
 import chapters from "../../../assets/json/patterns/chapters.json";
-import chapter1 from "../../../assets/json/patterns/german/chapter1.json";
-import chapter2 from "../../../assets/json/patterns/german/chapter2.json";
-import chapter3 from "../../../assets/json/patterns/german/chapter3.json";
-import chapter4 from "../../../assets/json/patterns/german/chapter4.json";
-import chapter5 from "../../../assets/json/patterns/german/chapter5.json";
-import chapter6 from "../../../assets/json/patterns/german/chapter6.json";
-import chapter7 from "../../../assets/json/patterns/german/chapter7.json";
-import chapter8 from "../../../assets/json/patterns/german/chapter8.json";
-import chapter9 from "../../../assets/json/patterns/german/chapter9.json";
-import chapter10 from "../../../assets/json/patterns/german/chapter10.json";
+import chapter1 from "../../../assets/json/patterns/italian/chapter1.json";
+import chapter2 from "../../../assets/json/patterns/italian/chapter2.json";
+import chapter3 from "../../../assets/json/patterns/italian/chapter3.json";
+import chapter4 from "../../../assets/json/patterns/italian/chapter4.json";
+import chapter5 from "../../../assets/json/patterns/italian/chapter5.json";
+import chapter6 from "../../../assets/json/patterns/italian/chapter6.json";
+import chapter7 from "../../../assets/json/patterns/italian/chapter7.json";
+import chapter8 from "../../../assets/json/patterns/italian/chapter8.json";
+import chapter9 from "../../../assets/json/patterns/italian/chapter9.json";
+import chapter10 from "../../../assets/json/patterns/italian/chapter10.json";
 
 // 1. 빌드 시 생성될 모든 경로를 정의합니다.
 export async function getStaticPaths() {
@@ -68,11 +68,11 @@ switch (chapter.id) {
     break;
 }
 
-const pageTitle = "German Sentence Patterns";
+const pageTitle = "Italian Sentence Patterns";
 ---
 
 <BaseLayout pageTitle={pageTitle + " - Lublio"}>
-  <Box2 title={chapter.deu} subtitle={chapter.eng} language="deu" />
+  <Box2 title={chapter.ita} subtitle={chapter.eng} language="ita" />
 
   {
     jsonData.map((post: any) => (
@@ -80,8 +80,8 @@ const pageTitle = "German Sentence Patterns";
         id={post.id}
         title={post.pattern}
         subtitle={post.translation}
-        language="deu"
-        path={"/german/pattern/" + path + "/" + post.id}
+        language="ita"
+        path={"/italian/pattern/" + path + "/" + post.id}
       />
     ))
   }

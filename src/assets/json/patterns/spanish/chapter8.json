@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Los dos, ... y ..., son importantes porque ...",
+    "translation": "Both ... and ... are important because ...",
+    "b1": [
+      "Los dos, el deporte y la alimentación, son importantes porque son buenos para la salud.",
+      "Los dos, leer y escribir, son importantes porque aprendemos mucho.",
+      "Los dos, el trabajo y el descanso, son importantes porque necesitamos equilibrio.",
+      "Los dos, la familia y los amigos, son importantes porque nos hacen felices.",
+      "Los dos, el sol y la lluvia, son importantes porque la naturaleza los necesita."
+    ],
+    "b2": [
+      "Los dos, la teoría y la práctica, son importantes porque una no funciona sin la otra.",
+      "Los dos, el beneficio y la ética, son importantes porque la empresa debe ser responsable.",
+      "Los dos, la creatividad y la disciplina, son importantes porque conducen al éxito duradero.",
+      "Los dos, la seguridad y la libertad, son importantes porque definen nuestra sociedad.",
+      "Los dos, lo local y lo global, son importantes porque todo está interconectado hoy en día."
+    ],
+    "c1": [
+      "Los dos, la intuición y el análisis de datos, son importantes porque conforman una visión estratégica completa.",
+      "Los dos, la preservación del patrimonio y la innovación tecnológica, son importantes porque garantizan la continuidad cultural.",
+      "Los dos, la soberanía nacional y la cooperación internacional, son importantes porque estabilizan las relaciones mundiales.",
+      "Los dos, la empatía y la autoridad, son importantes porque constituyen la base de un liderazgo moderno eficaz.",
+      "Los dos, el rigor científico y la audacia intelectual, son importantes porque permiten los grandes descubrimientos."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "A diferencia de ..., sin embargo, ...",
+    "translation": "Unlike ..., however, ...",
+    "b1": [
+      "A diferencia de mi hermano, sin embargo, yo no me gusta el fútbol.",
+      "A diferencia de ayer, sin embargo, hoy hace muy buen tiempo.",
+      "A diferencia de París, sin embargo, mi ciudad es muy tranquila.",
+      "A diferencia del autobús, sin embargo, el tren es muy rápido.",
+      "A diferencia de ti, sin embargo, yo prefiero el té al café."
+    ],
+    "b2": [
+      "A diferencia de lo que se piensa, sin embargo, este proyecto es muy rentable.",
+      "A diferencia de Francia, sin embargo, Alemania tiene una estructura federal.",
+      "A diferencia de las previsiones, sin embargo, la inflación ha disminuido este mes.",
+      "A diferencia del modelo anterior, sin embargo, este consume menos energía.",
+      "A diferencia de sus colegas, sin embargo, ella trabaja a menudo hasta tarde."
+    ],
+    "c1": [
+      "A diferencia de la retórica habitual, sin embargo, los hechos muestran una realidad mucho más matizada.",
+      "A diferencia de las ideas preconcebidas sobre la globalización, sin embargo, asistimos a una relocalización de ciertas industrias.",
+      "A diferencia del enfoque puramente cuantitativo, sin embargo, nuestro estudio privilegia un análisis cualitativo profundo.",
+      "A diferencia de las expectativas del mercado, sin embargo, la empresa decidió no repartir dividendos este año.",
+      "A diferencia de una visión lineal del progreso, sin embargo, la historia nos enseña que las regresiones siempre son posibles."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "La principal diferencia entre ... y ... es que ...",
+    "translation": "The main difference between ... and ... is that ...",
+    "b1": [
+      "La principal diferencia entre el perro y el gato es que el perro es más sociable.",
+      "La principal diferencia entre el verano y el invierno es que en verano hace más calor.",
+      "La principal diferencia entre este libro y la película es que el libro es más largo.",
+      "La principal diferencia entre el avión y el autobús es que el avión es más caro.",
+      "La principal diferencia entre tú y yo es que yo soy más alto."
+    ],
+    "b2": [
+      "La principal diferencia entre estas dos estrategias es que una es más arriesgada que la otra.",
+      "La principal diferencia entre el trabajo asalariado y el emprendimiento es el nivel de seguridad financiera.",
+      "La principal diferencia entre el 4G y el 5G es la velocidad de transmisión de datos.",
+      "La principal diferencia entre estos dos candidatos es su experiencia internacional.",
+      "La principal diferencia entre lo ecológico y lo convencional es el uso de pesticidas químicos."
+    ],
+    "c1": [
+      "La principal diferencia entre el derecho civil y el common law es la fuente primordial de la norma jurídica.",
+      "La principal diferencia entre la inteligencia artificial y la inteligencia humana reside en la capacidad de abstracción.",
+      "La principal diferencia entre estos dos modelos de gobernanza es el grado de descentralización del poder.",
+      "La principal diferencia entre el crecimiento económico y el desarrollo sostenible es la consideración de la finitud de los recursos.",
+      "La principal diferencia entre estas dos corrientes de pensamiento es su concepción del libre albedrío frente al determinismo social."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "... es similar a ... en el sentido de que ...",
+    "translation": "... is similar to ... in that ...",
+    "b1": [
+      "El francés es similar al italiano en el sentido de que ambas son lenguas latinas.",
+      "Esta película es similar a la primera en el sentido de que es muy divertida.",
+      "Mi casa es similar a la tuya en el sentido de que tiene tres habitaciones.",
+      "El tenis es similar al ping-pong en el sentido de que se usa una raqueta.",
+      "Cocinar es similar a pintar en el sentido de que es creativo."
+    ],
+    "b2": [
+      "El mercado actual es similar al de 2008 en el sentido de que la inestabilidad es grande.",
+      "El teletrabajo es similar al trabajo en la oficina en el sentido de que los objetivos siguen siendo los mismos.",
+      "Esta nueva ley es similar a la anterior en el sentido de que busca proteger a los menores.",
+      "La gestión de proyectos es similar a dirigir una orquesta en el sentido de que requiere coordinación.",
+      "La situación en España es similar a la de Portugal en el sentido de que el turismo es vital."
+    ],
+    "c1": [
+      "La crisis climática es similar a una pandemia en el sentido de que requiere una respuesta global coordinada.",
+      "La evolución de la IA es similar a la revolución industrial en el sentido de que transforma las estructuras sociales.",
+      "Este enfoque filosófico es similar al estoicismo en el sentido de que promueve el dominio de las emociones.",
+      "La estructura de esta start-up es similar a la de un organismo vivo en el sentido de que se adapta a su entorno.",
+      "La economía digital es similar a la alquimia en el sentido de que intenta crear valor a partir de lo inmaterial."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Mientras que ... tiene X, ... tiene Y.",
+    "translation": "While ... has X, ... has Y.",
+    "b1": [
+      "Mientras que París tiene la Torre Eiffel, Seúl tiene la torre Namsan.",
+      "Mientras que yo tengo un gato, mi amigo tiene un perro.",
+      "Mientras que este pastel tiene chocolate, el otro tiene frutas.",
+      "Mientras que el avión tiene alas, el helicóptero tiene aspas.",
+      "Mientras que el día tiene el sol, la noche tiene la luna."
+    ],
+    "b2": [
+      "Mientras que el sector público tiene la seguridad laboral, el sector privado suele tener mejores salarios.",
+      "Mientras que este modelo tiene una gran autonomía, el otro tiene una velocidad de carga más rápida.",
+      "Mientras que Europa tiene una población envejecida, África tiene una población muy joven.",
+      "Mientras que el marketing tiene como objetivo atraer, las ventas tienen como objetivo cerrar.",
+      "Mientras que la pintura al óleo tiene un tiempo de secado largo, el acrílico seca muy rápido."
+    ],
+    "c1": [
+      "Mientras que el liberalismo clásico tiene como eje al individuo, el socialismo tiene como base la colectividad.",
+      "Mientras que la investigación fundamental tiene un horizonte temporal largo, la investigación aplicada tiene objetivos inmediatos.",
+      "Mientras que este tratado tiene un fuerte alcance simbólico, el protocolo adicional tiene valor jurídico vinculante.",
+      "Mientras que el sistema educativo finlandés tiene como prioridad la equidad, el sistema coreano suele privilegiar la excelencia competitiva.",
+      "Mientras que el arte clásico tiene una finalidad estética de representación, el arte moderno tiene un enfoque conceptual de deconstrucción."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Por un lado ..., pero por otro lado, ...",
+    "translation": "On the one hand ..., but on the other hand, ...",
+    "b1": [
+      "Por un lado me gusta viajar, pero por otro lado me gusta quedarme en casa.",
+      "Por un lado este trabajo es duro, pero por otro lado el sueldo es bueno.",
+      "Por un lado quiere salir, pero por otro lado está cansado.",
+      "Por un lado es bueno para la salud, pero por otro lado es caro.",
+      "Por un lado lo entiendo, pero por otro lado no estoy de acuerdo."
+    ],
+    "b2": [
+      "Por un lado, la tecnología simplifica la vida, pero por otro lado, reduce nuestras interacciones sociales.",
+      "Por un lado, este proyecto es innovador, pero por otro lado, presenta riesgos financieros importantes.",
+      "Por un lado, el turismo ayuda a la economía local, pero por otro lado, contamina el medio ambiente.",
+      "Por un lado, estoy contento con mi ascenso, pero por otro lado, tengo mucho más estrés.",
+      "Por un lado, debemos actuar rápido, pero por otro lado, no debemos cometer errores."
+    ],
+    "c1": [
+      "Por un lado, la desmaterialización optimiza los procesos, pero por otro lado, aumenta nuestra vulnerabilidad cibernética.",
+      "Por un lado, la globalización favorece los intercambios culturales, pero por otro lado, uniformiza los estilos de vida.",
+      "Por un lado, la IA aumenta la productividad, pero por otro lado, plantea cuestiones éticas sin precedentes.",
+      "Por un lado, defendemos la transparencia, pero por otro lado, debemos proteger el secreto industrial.",
+      "Por un lado, la austeridad reduce la deuda, pero por otro lado, frena la inversión necesaria para el crecimiento."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "En comparación con ..., ...",
+    "translation": "In comparison to ..., ...",
+    "b1": [
+      "En comparación con el año pasado, ahora hace más frío.",
+      "En comparación con mi coche, el tuyo es muy pequeño.",
+      "En comparación con ese restaurante, el otro es más barato.",
+      "En comparación con mi hermano, yo soy más tímido.",
+      "En comparación con el autobús, el metro está más limpio."
+    ],
+    "b2": [
+      "En comparación con sus competidores, esta empresa ofrece un mejor servicio al cliente.",
+      "En comparación con el mes anterior, nuestras ventas han aumentado un 15 %.",
+      "En comparación con la versión anterior, este software es mucho más intuitivo.",
+      "En comparación con otros países europeos, el coste de vida aquí es razonable.",
+      "En comparación con mi antiguo puesto, ahora tengo mucha más autonomía."
+    ],
+    "c1": [
+      "En comparación con las crisis pasadas, esta presenta una dimensión sistémica inédita.",
+      "En comparación con el sistema educativo tradicional, el aprendizaje en línea ofrece una flexibilidad superior.",
+      "En comparación con las previsiones iniciales, los resultados de la auditoría son especialmente alarmantes.",
+      "En comparación con una gestión centralizada, la descentralización favorece la innovación local.",
+      "En comparación con el realismo clásico, el surrealismo explora los meandros del inconsciente."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "A la inversa, la situación con ... es bastante diferente.",
+    "translation": "Conversely, the situation with ... is quite different.",
+    "b1": [
+      "A la inversa, la situación con mi amigo es bastante diferente.",
+      "A la inversa, la situación con este proyecto es bastante diferente.",
+      "A la inversa, la situación con el tiempo es bastante diferente.",
+      "A la inversa, la situación con mi familia es bastante diferente.",
+      "A la inversa, la situación con este restaurante es bastante diferente."
+    ],
+    "b2": [
+      "A la inversa, la situación con el mercado asiático es bastante diferente este año.",
+      "A la inversa, la situación con las pequeñas empresas es bastante diferente a la de las multinacionales.",
+      "A la inversa, la situación con el sector turístico es bastante diferente desde la crisis.",
+      "A la inversa, la situación con el transporte público es bastante diferente en las afueras.",
+      "A la inversa, la situación con nuestros clientes habituales es bastante diferente a la de los nuevos prospectos."
+    ],
+    "c1": [
+      "A la inversa, la situación con los países emergentes es bastante diferente debido a su crecimiento demográfico.",
+      "A la inversa, la situación con los activos intangibles es bastante diferente desde la perspectiva de la contabilidad clásica.",
+      "A la inversa, la situación con las energías renovables es bastante diferente gracias a las subvenciones estatales.",
+      "A la inversa, la situación con los derechos de autor digitales es bastante diferente a la del mundo analógico.",
+      "A la inversa, la situación con la estabilidad geopolítica actual es bastante diferente de las predicciones de la Guerra Fría."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Comparten varias características comunes, tales como ...",
+    "translation": "They share several common characteristics, such as ...",
+    "b1": [
+      "Comparten varias características comunes, tales como el color y el tamaño.",
+      "Comparten varias características comunes, tales como el sabor y el olor.",
+      "Comparten varias características comunes, tales como la amistad y el respeto.",
+      "Comparten varias características comunes, tales como el precio y el estilo.",
+      "Comparten varias características comunes, tales como el talento y el trabajo."
+    ],
+    "b2": [
+      "Comparten varias características comunes, tales como la flexibilidad y la capacidad de reacción ante el mercado.",
+      "Comparten varias características comunes, tales como el uso de materiales reciclados y el ahorro energético.",
+      "Comparten varias características comunes, tales como la pasión por el arte y el compromiso social.",
+      "Comparten varias características comunes, tales como la facilidad de uso y el diseño limpio.",
+      "Comparten varias características comunes, tales como el rigor metodológico y la claridad de los objetivos."
+    ],
+    "c1": [
+      "Comparten varias características comunes, tales como la resiliencia estructural y la capacidad de adaptación sistémica.",
+      "Comparten varias características comunes, tales como el arraigo territorial y la voluntad de expansión internacional.",
+      "Comparten varias características comunes, tales como la búsqueda de la estética y el cuestionamiento de las normas establecidas.",
+      "Comparten varias características comunes, tales como la volatilidad intrínseca y la dependencia de los flujos especulativos.",
+      "Comparten varias características comunes, tales como la transparencia algorítmica y la protección de la privacidad."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "El grado de ... es mucho mayor en ... que en ...",
+    "translation": "The degree of ... is much greater in ... than in ...",
+    "b1": [
+      "El grado de ruido es mucho mayor en la calle que en casa.",
+      "El grado de calor es mucho mayor en la sopa que en el té.",
+      "El grado de dificultad es mucho mayor en este ejercicio que en el otro.",
+      "El grado de alegría es mucho mayor en la boda que en el cumpleaños.",
+      "El grado de miedo es mucho mayor en esta película que en el libro."
+    ],
+    "b2": [
+      "El grado de implicación es mucho mayor en una start-up que en una gran empresa.",
+      "El grado de automatización es mucho mayor en esta fábrica que en la antigua.",
+      "El grado de satisfacción es mucho mayor en el grupo de prueba que en el grupo de control.",
+      "El grado de riesgo es mucho mayor en la inversión en bolsa que en el ahorro.",
+      "El grado de contaminación es mucho mayor en los centros urbanos que en las zonas rurales."
+    ],
+    "c1": [
+      "El grado de incertidumbre es mucho mayor en los mercados emergentes que en las economías desarrolladas.",
+      "El grado de obsolescencia programada es mucho mayor en la electrónica de consumo que en la industria pesada.",
+      "El grado de polarización política es mucho mayor en las redes sociales que en los medios tradicionales.",
+      "El grado de resiliencia es mucho mayor en los ecosistemas diversificados que en los monocultivos.",
+      "El grado de transparencia financiera es mucho mayor en las sociedades cotizadas que en las empresas familiares."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Aunque ... sea cierto, también debemos considerar ...",
+    "translation": "Although ... is true, we must also consider ...",
+    "b1": [
+      "Aunque eso sea cierto, también debemos considerar el precio.",
+      "Aunque tengas razón, también debemos considerar mi opinión.",
+      "Aunque este trabajo sea difícil, también debemos considerar el placer.",
+      "Aunque el avión sea rápido, también debemos considerar la contaminación.",
+      "Aunque esta película sea bonita, también debemos considerar su duración."
+    ],
+    "b2": [
+      "Aunque la eficacia sea cierta, también debemos considerar el bienestar de los empleados.",
+      "Aunque el aumento de las ventas sea cierto, también debemos considerar el incremento de los costes.",
+      "Aunque el éxito sea cierto, también debemos considerar la sostenibilidad de nuestro modelo.",
+      "Aunque su talento sea cierto, también debemos considerar su falta de experiencia.",
+      "Aunque este país sea rico, también debemos considerar las desigualdades sociales."
+    ],
+    "c1": [
+      "Aunque el crecimiento del PIB sea cierto, también debemos considerar el índice de desarrollo humano.",
+      "Aunque la neutralidad tecnológica sea cierta, también debemos considerar los sesgos algorítmicos.",
+      "Aunque la urgencia económica sea cierta, también debemos considerar los imperativos ecológicos a largo plazo.",
+      "Aunque la libertad de expresión sea cierta, también debemos considerar la responsabilidad ética de las plataformas.",
+      "Aunque la soberanía de los estados sea cierta, también debemos considerar las normas del derecho internacional."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Un punto de divergencia significativo es ...",
+    "translation": "A significant point of divergence is ...",
+    "b1": [
+      "Un punto de divergencia significativo es el color.",
+      "Un punto de divergencia significativo es el precio.",
+      "Un punto de divergencia significativo es el tamaño.",
+      "Un punto de divergencia significativo es la hora de la cita.",
+      "Un punto de divergencia significativo es el sabor."
+    ],
+    "b2": [
+      "Un punto de divergencia significativo es el método de gestión del equipo.",
+      "Un punto de divergencia significativo es el enfoque del servicio posventa.",
+      "Un punto de divergencia significativo es el uso de las nuevas tecnologías.",
+      "Un punto de divergencia significativo es la visión a largo plazo del proyecto.",
+      "Un punto de divergencia significativo es la elección del público objetivo."
+    ],
+    "c1": [
+      "Un punto de divergencia significativo es la interpretación jurídica de esta cláusula contractual.",
+      "Un punto de divergencia significativo es el grado de intervención estatal preconizado por estas dos escuelas económicas.",
+      "Un punto de divergencia significativo es el tratamiento de los datos personales en estas dos arquitecturas.",
+      "Un punto de divergencia significativo es el lugar otorgado a la intuición en el proceso de decisión estratégica.",
+      "Un punto de divergencia significativo es la gestión de los activos intangibles durante una fusión y adquisición."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Son fundamentalmente similares, a excepción de ...",
+    "translation": "They are fundamentally similar, except for ...",
+    "b1": [
+      "Son fundamentalmente similares, a excepción del color.",
+      "Son fundamentalmente similares, a excepción del precio.",
+      "Son fundamentalmente similares, a excepción del tamaño.",
+      "Son fundamentalmente similares, a excepción del olor.",
+      "Son fundamentalmente similares, a excepción del idioma."
+    ],
+    "b2": [
+      "Son fundamentalmente similares, a excepción de su estrategia de marketing en redes sociales.",
+      "Son fundamentalmente similares, a excepción del período de garantía ofrecido a los clientes.",
+      "Son fundamentalmente similares, a excepción de la fuente de financiación utilizada para el lanzamiento.",
+      "Son fundamentalmente similares, a excepción del sistema operativo instalado por defecto.",
+      "Son fundamentalmente similares, a excepción de la composición química de ciertos componentes."
+    ],
+    "c1": [
+      "Son fundamentalmente similares, a excepción de su enfoque de la responsabilidad social corporativa.",
+      "Son fundamentalmente similares, a excepción de la jerarquización de sus respectivas prioridades estratégicas.",
+      "Son fundamentalmente similares, a excepción de la influencia cultural dominante que impregna su gestión.",
+      "Son fundamentalmente similares, a excepción de su grado de conformidad con las normas medioambientales internacionales.",
+      "Son fundamentalmente similares, a excepción de la flexibilidad de su cadena logística ante las crisis."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "... es mucho más eficaz que ... porque ...",
+    "translation": "... is far more effective than ... because ...",
+    "b1": [
+      "El tren es mucho más eficaz que el coche porque es más rápido.",
+      "El café es mucho más eficaz que el té porque me da más energía.",
+      "Este cuchillo es mucho más eficaz que el otro porque corta mejor.",
+      "Este método es mucho más eficaz que el antiguo porque ahorramos tiempo.",
+      "El diccionario es mucho más eficaz que Google porque tiene más ejemplos."
+    ],
+    "b2": [
+      "La publicidad en línea es mucho más eficaz que la televisión porque llega mejor al público objetivo.",
+      "El teletrabajo es mucho más eficaz que la presencialidad porque reduce los tiempos de desplazamiento.",
+      "Este nuevo motor es mucho más eficaz que el antiguo porque consume menos combustible.",
+      "La comunicación directa es mucho más eficaz que los correos electrónicos porque evita los malentendidos.",
+      "El aprendizaje práctico es mucho más eficaz que la teoría sola porque se retiene mejor."
+    ],
+    "c1": [
+      "La tarificación del carbono es mucho más eficaz que las subvenciones porque internaliza las externalidades negativas.",
+      "La estructura descentralizada es mucho más eficaz que la burocracia porque favorece la agilidad en la toma de decisiones.",
+      "Lo preventivo es mucho más eficaz que lo curativo porque reduce los costes sociales a largo plazo.",
+      "La formación continua es mucho más eficaz que la formación inicial puntual porque se adapta a las rupturas tecnológicas.",
+      "El multilateralismo es mucho más eficaz que el aislacionismo porque permite abordar los desafíos transfronterizos."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Podemos establecer un paralelismo entre ... y ...",
+    "translation": "We can draw a parallel between ... and ...",
+    "b1": [
+      "Podemos establecer un paralelismo entre tu historia y la mía.",
+      "Podemos establecer un paralelismo entre esta película y la vida real.",
+      "Podemos establecer un paralelismo entre el fútbol y la guerra.",
+      "Podemos establecer un paralelismo entre aprender una lengua y aprender música.",
+      "Podemos establecer un paralelismo entre la cocina y la química."
+    ],
+    "b2": [
+      "Podemos establecer un paralelismo entre la crisis de 1929 y la situación actual.",
+      "Podemos establecer un paralelismo entre el éxito de esta marca y el de su competidor.",
+      "Podemos establecer un paralelismo entre la educación de los hijos y la gestión de un equipo.",
+      "Podemos establecer un paralelismo entre el ciclo de vida de un producto y el de una planta.",
+      "Podemos establecer un paralelismo entre la estructura de una ciudad y la de una red informática."
+    ],
+    "c1": [
+      "Podemos establecer un paralelismo entre la caída del Imperio romano y ciertos declives contemporáneos.",
+      "Podemos establecer un paralelismo entre la plasticidad cerebral y la capacidad de innovación de las organizaciones.",
+      "Podemos establecer un paralelismo entre la selección natural y la supervivencia de las empresas en tiempos de crisis.",
+      "Podemos establecer un paralelismo entre la arquitectura gótica y la estructura lógica de la escolástica.",
+      "Podemos establecer un paralelismo entre los mecanismos de la adicción digital y los de los juegos de azar."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Ni ... ni ... proporciona ...",
+    "translation": "Neither ... nor ... provides ...",
+    "b1": [
+      "Ni este restaurante ni el otro proporciona café.",
+      "Ni él ni yo proporcionamos ayuda.",
+      "Ni el tren ni el autobús proporciona comidas.",
+      "Ni mi padre ni mi madre proporciona dinero.",
+      "Ni el libro ni la película proporciona una explicación."
+    ],
+    "b2": [
+      "Ni esta opción ni la siguiente proporciona una garantía de éxito al 100 %.",
+      "Ni el contrato actual ni el nuevo proporciona protección contra la inflación.",
+      "Ni este software ni su competidor proporciona soporte técnico los domingos.",
+      "Ni uno ni otro proporciona una solución satisfactoria a nuestro problema de presupuesto.",
+      "Ni la publicidad impresa ni la radio proporciona una segmentación tan precisa como internet."
+    ],
+    "c1": [
+      "Ni el neoliberalismo ni el proteccionismo puro proporciona una respuesta adecuada a los desafíos climáticos.",
+      "Ni el enfoque por costes ni el enfoque por valor proporciona una estimación exacta de este activo intangible.",
+      "Ni la ciencia ni la filosofía proporciona una certeza absoluta sobre el origen de la conciencia.",
+      "Ni este tratado de paz ni el acuerdo comercial proporciona un marco estable para la región.",
+      "Ni la inteligencia artificial generativa ni el análisis predictivo proporciona una comprensión empática de la realidad."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Ponderado frente a ..., ... parece ser ...",
+    "translation": "When balanced against ..., ... appears to be ...",
+    "b1": [
+      "Ponderado frente al precio, este pastel parece ser bueno.",
+      "Ponderado frente a la lluvia, este viaje parece ser triste.",
+      "Ponderado frente a tu trabajo, mi trabajo parece ser fácil.",
+      "Ponderado frente al sol, el viento parece ser frío.",
+      "Ponderado frente al autobús, el tren parece ser mejor."
+    ],
+    "b2": [
+      "Ponderado frente a los riesgos, este beneficio parece ser muy interesante.",
+      "Ponderado frente a la competencia, nuestro producto parece ser el más innovador.",
+      "Ponderado frente al esfuerzo realizado, el resultado parece ser decepcionante.",
+      "Ponderado frente a los demás candidatos, su perfil parece ser el más completo.",
+      "Ponderado frente a las ventajas, el coste de esta suscripción parece ser excesivo."
+    ],
+    "c1": [
+      "Ponderado frente a la urgencia ecológica, esta reforma parece ser una medida irrisoria a medias.",
+      "Ponderado frente a los desafíos geopolíticos, este compromiso parece ser una necesidad estratégica.",
+      "Ponderado frente a la volatilidad del mercado, esta inversión parece ser de una prudencia ejemplar.",
+      "Ponderado frente a los imperativos de seguridad, la restricción de libertades parece ser desproporcionada.",
+      "Ponderado frente al potencial de crecimiento, la deuda actual parece ser sostenible."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Hay un contraste llamativo en su enfoque de ...",
+    "translation": "There is a stark contrast in their approach to ...",
+    "b1": [
+      "Hay un contraste llamativo en su enfoque de la educación.",
+      "Hay un contraste llamativo en su enfoque del deporte.",
+      "Hay un contraste llamativo en su enfoque de la cocina.",
+      "Hay un contraste llamativo en su enfoque del dinero.",
+      "Hay un contraste llamativo en su enfoque de la amistad."
+    ],
+    "b2": [
+      "Hay un contraste llamativo en su enfoque del servicio posventa.",
+      "Hay un contraste llamativo en su enfoque de la gestión de crisis.",
+      "Hay un contraste llamativo en su enfoque de la publicidad digital.",
+      "Hay un contraste llamativo en su enfoque de la flexibilidad laboral.",
+      "Hay un contraste llamativo en su enfoque de la protección del medio ambiente."
+    ],
+    "c1": [
+      "Hay un contraste llamativo en su enfoque de la regulación de los mercados financieros.",
+      "Hay un contraste llamativo en su enfoque de la ética aplicada a la inteligencia artificial.",
+      "Hay un contraste llamativo en su enfoque de la soberanía digital nacional.",
+      "Hay un contraste llamativo en su enfoque de la redistribución de la riqueza a nivel mundial.",
+      "Hay un contraste llamativo en su enfoque de la preservación de la biodiversidad urbana."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "La similitud radica en el hecho de que ...",
+    "translation": "The similarity lies in the fact that ...",
+    "b1": [
+      "La similitud radica en el hecho de que los dos son rojos.",
+      "La similitud radica en el hecho de que nos gusta la pizza.",
+      "La similitud radica en el hecho de que aquí llueve a menudo.",
+      "La similitud radica en el hecho de que es gratuito.",
+      "La similitud radica en el hecho de que los dos son perros."
+    ],
+    "b2": [
+      "La similitud radica en el hecho de que las dos empresas se dirigen al mismo público joven.",
+      "La similitud radica en el hecho de que estos dos proyectos necesitan financiación externa.",
+      "La similitud radica en el hecho de que los dos países tienen una fuerte tradición gastronómica.",
+      "La similitud radica en el hecho de que los dos programas utilizan la misma base de datos.",
+      "La similitud radica en el hecho de que estos dos candidatos carecen de experiencia de campo."
+    ],
+    "c1": [
+      "La similitud radica en el hecho de que las dos teorías postulan una finitud de los recursos.",
+      "La similitud radica en el hecho de que estas dos corrientes artísticas rechazan el clasicismo académico.",
+      "La similitud radica en el hecho de que los dos sistemas jurídicos protegen la propiedad intelectual.",
+      "La similitud radica en el hecho de que estas dos crisis económicas fueron desencadenadas por una burbuja especulativa.",
+      "La similitud radica en el hecho de que los dos modelos de gobernanza defienden una mayor transparencia."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Comparado uno al lado del otro, ... supera claramente a ...",
+    "translation": "Compared side by side, ... clearly outperforms ...",
+    "b1": [
+      "Comparado uno al lado del otro, este pastel supera claramente al otro.",
+      "Comparado uno al lado del otro, el avión supera claramente al autobús.",
+      "Comparado uno al lado del otro, esta película supera claramente al libro.",
+      "Comparado uno al lado del otro, mi bicicleta supera claramente a la tuya.",
+      "Comparado uno al lado del otro, este café supera claramente al té."
+    ],
+    "b2": [
+      "Comparado uno al lado del otro, este nuevo smartphone supera claramente al modelo del año pasado.",
+      "Comparado uno al lado del otro, la calidad de esta tela supera claramente a la del competidor.",
+      "Comparado uno al lado del otro, la eficacia de este método supera claramente al método tradicional.",
+      "Comparado uno al lado del otro, el confort de este coche supera claramente al del antiguo.",
+      "Comparado uno al lado del otro, el talento de este artista supera claramente al de los demás participantes."
+    ],
+    "c1": [
+      "Comparado uno al lado del otro, este algoritmo de compresión supera claramente a sus predecesores en términos de velocidad.",
+      "Comparado uno al lado del otro, este plan de recuperación económica supera claramente las propuestas de la oposición.",
+      "Comparado uno al lado del otro, la resiliencia de este modelo económico supera claramente a la de los sistemas centralizados.",
+      "Comparado uno al lado del otro, el impacto medioambiental de este proceso supera claramente las normas actuales.",
+      "Comparado uno al lado del otro, la pertinencia estratégica de esta fusión supera claramente los riesgos potenciales identificados."
+    ]
+  }
+]

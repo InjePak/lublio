@@ -6,7 +6,8 @@
     "deu": "Kann ich Ihnen helfen?",
     "rus": "Я могу вам помочь?",
     "esp": "¿En qué puedo ayudarle?",
-    "ita": "Posso aiutarla?"
+    "ita": "Posso aiutarla?",
+    "nld": "Kan ik u helpen?"
   },
   {
     "kor": "그냥 구경하는 중이에요.",
@@ -15,7 +16,8 @@
     "deu": "Ich schaue nur, danke.",
     "rus": "Я просто смотрю, спасибо.",
     "esp": "Solo estoy mirando, gracias.",
-    "ita": "Sto solo dando un'occhiata, grazie."
+    "ita": "Sto solo dando un'occhiata, grazie.",
+    "nld": "Ik kijk alleen even, bedankt."
   },
   {
     "kor": "이것은 얼마인가요?",
@@ -23,17 +25,19 @@
     "fra": "Combien ça coûte ?",
     "deu": "Wie viel kostet das?",
     "rus": "Сколько это стоит?",
-    "esp": "¿Cuánto cuesta esto?",
-    "ita": "Quanto costa questo?"
+    "esp": "¿Quanto cuesta esto?",
+    "ita": "Quanto costa questo?",
+    "nld": "Hoeveel kost dit?"
   },
   {
     "kor": "너무 비싸요.",
     "eng": "It is too expensive.",
     "fra": "C'est trop cher.",
-    "deu": "Das ist слишком дорого.",
+    "deu": "Das ist zu teuer.",
     "rus": "Это слишком дорого.",
     "esp": "Es demasiado caro.",
-    "ita": "È troppo costoso."
+    "ita": "È troppo costoso.",
+    "nld": "Het is te duur."
   },
   {
     "kor": "할인 중인가요?",
@@ -42,7 +46,8 @@
     "deu": "Ist das im Ausverkauf?",
     "rus": "Это со скидкой?",
     "esp": "¿Está en oferta?",
-    "ita": "È in saldo?"
+    "ita": "È in saldo?",
+    "nld": "Is het in de uitverkoop?"
   },
   {
     "kor": "티셔츠를 찾고 있어요.",
@@ -51,7 +56,8 @@
     "deu": "Ich suche ein T-Shirt.",
     "rus": "Я ищу футболку.",
     "esp": "Busco una camiseta.",
-    "ita": "Sto cercando una maglietta."
+    "ita": "Sto cercando una maglietta.",
+    "nld": "Ik zoek een T-shirt."
   },
   {
     "kor": "다른 색상이 있나요?",
@@ -60,7 +66,8 @@
     "deu": "Haben Sie das in einer anderen Farbe?",
     "rus": "У вас есть такая другого цвета?",
     "esp": "¿Lo tiene en otro color?",
-    "ita": "Lo avete in un altro colore?"
+    "ita": "Lo avete in un altro colore?",
+    "nld": "Heeft u dit in een andere kleur?"
   },
   {
     "kor": "더 큰 사이즈가 있나요?",
@@ -69,7 +76,8 @@
     "deu": "Haben Sie das eine Nummer größer?",
     "rus": "У вас есть размер побольше?",
     "esp": "¿Tiene una talla más grande?",
-    "ita": "Avete una taglia più grande?"
+    "ita": "Avete una taglia più grande?",
+    "nld": "Heeft u een grotere maat?"
   },
   {
     "kor": "더 작은 사이즈가 있나요?",
@@ -78,7 +86,8 @@
     "deu": "Haben Sie das eine Nummer kleiner?",
     "rus": "У вас есть размер поменьше?",
     "esp": "¿Tiene una talla más pequeña?",
-    "ita": "Avete una taglia più piccola?"
+    "ita": "Avete una taglia più piccola?",
+    "nld": "Heeft u een kleinere maat?"
   },
   {
     "kor": "이것을 입어봐도 될까요?",
@@ -87,7 +96,8 @@
     "deu": "Kann ich das anprobieren?",
     "rus": "Можно это примерить?",
     "esp": "¿Puedo probármelo?",
-    "ita": "Posso provarlo?"
+    "ita": "Posso provarlo?",
+    "nld": "Mag ik dit passen?"
   },
   {
     "kor": "탈의실은 어디에 있나요?",
@@ -96,7 +106,8 @@
     "deu": "Wo ist die Umkleidekabine?",
     "rus": "Где находится примерочная?",
     "esp": "¿Dónde están los probadores?",
-    "ita": "Dove sono i camerini?"
+    "ita": "Dove sono i camerini?",
+    "nld": "Waar zijn de paskamers?"
   },
   {
     "kor": "잘 어울리네요.",
@@ -105,7 +116,8 @@
     "deu": "Das steht Ihnen gut.",
     "rus": "Вам это очень идет.",
     "esp": "Le queda muy bien.",
-    "ita": "Le sta molto bene."
+    "ita": "Le sta molto bene.",
+    "nld": "Het staat u goed."
   },
   {
     "kor": "사이즈가 맞지 않아요.",
@@ -114,7 +126,8 @@
     "deu": "Das ist nicht meine Größe.",
     "rus": "Это не мой размер.",
     "esp": "No es mi talla.",
-    "ita": "Non è la mia taglia."
+    "ita": "Non è la mia taglia.",
+    "nld": "Het is niet mijn maat."
   },
   {
     "kor": "이것으로 살게요.",
@@ -123,7 +136,8 @@
     "deu": "Ich nehme das hier.",
     "rus": "Я возьму это.",
     "esp": "Me llevo este.",
-    "ita": "Prendo questo."
+    "ita": "Prendo questo.",
+    "nld": "Ik neem deze."
   },
   {
     "kor": "계산대는 어디인가요?",
@@ -132,7 +146,8 @@
     "deu": "Wo ist die Kasse?",
     "rus": "Где касса?",
     "esp": "¿Dónde está la caja?",
-    "ita": "Dov'è la cassa?"
+    "ita": "Dov'è la cassa?",
+    "nld": "Waar is de kassa?"
   },
   {
     "kor": "신용카드로 결제할 수 있나요?",
@@ -141,7 +156,8 @@
     "deu": "Kann ich mit Kreditkarte bezahlen?",
     "rus": "Можно оплатить кредитной картой?",
     "esp": "¿Puedo pagar con tarjeta de crédito?",
-    "ita": "Posso pagare con carta di credito?"
+    "ita": "Posso pagare con carta di credito?",
+    "nld": "Kan ik met een creditcard betalen?"
   },
   {
     "kor": "현금 여기 있습니다.",
@@ -150,7 +166,8 @@
     "deu": "Hier ist das Bargeld.",
     "rus": "Вот наличные.",
     "esp": "Aquí tiene el efectivo.",
-    "ita": "Ecco il contante."
+    "ita": "Ecco il contante.",
+    "nld": "Hier is het contant geld."
   },
   {
     "kor": "영수증 주시겠어요?",
@@ -159,7 +176,8 @@
     "deu": "Kann ich bitte eine Quittung haben?",
     "rus": "Можно мне чек, пожалуйста?",
     "esp": "¿Me da el recibo, por favor?",
-    "ita": "Posso avere lo scontrino, per favore?"
+    "ita": "Posso avere lo scontrino, per favore?",
+    "nld": "Mag ik een bonnetje, alstublieft?"
   },
   {
     "kor": "봉투가 필요하신가요?",
@@ -168,7 +186,8 @@
     "deu": "Brauchen Sie eine Tüte?",
     "rus": "Вам нужен пакет?",
     "esp": "¿Necesita una bolsa?",
-    "ita": "Serve una busta?"
+    "ita": "Serve una busta?",
+    "nld": "Wilt u er een tasje bij?"
   },
   {
     "kor": "이것을 환불하고 싶습니다.",
@@ -177,7 +196,8 @@
     "deu": "Ich möchte bitte eine Rückerstattung.",
     "rus": "Я хотел бы оформить возврат.",
     "esp": "Me gustaría un reembolso, por favor.",
-    "ita": "Vorrei un rimborso, per favore."
+    "ita": "Vorrei un rimborso, per favore.",
+    "nld": "Ik wil graag mijn geld terug, alstublieft."
   },
   {
     "kor": "이것을 교환할 수 있나요?",
@@ -186,7 +206,8 @@
     "deu": "Kann ich das umtauschen?",
     "rus": "Можно это обменять?",
     "esp": "¿Puedo cambiar esto?",
-    "ita": "Posso cambiare questo?"
+    "ita": "Posso cambiare questo?",
+    "nld": "Kan ik dit ruilen?"
   },
   {
     "kor": "가게는 몇 시에 닫나요?",
@@ -195,16 +216,18 @@
     "deu": "Wann schließt der Laden?",
     "rus": "Во сколько закрывается магазин?",
     "esp": "¿A qué hora cierra la tienda?",
-    "ita": "A che ora chiude il negozio?"
+    "ita": "A che ora chiude il negozio?",
+    "nld": "Hoe laat sluit de winkel?"
   },
   {
     "kor": "장바구니는 어디에 있나요?",
     "eng": "Where are the shopping baskets?",
     "fra": "Où sont les paniers ?",
     "deu": "Wo sind die Einkaufskörbe?",
-    "rus": "Где корзины для покупок?",
+    "rus": "Г데 корзины для покупок?",
     "esp": "¿Dónde están las cestas?",
-    "ita": "Dove sono i cestini?"
+    "ita": "Dove sono i cestini?",
+    "nld": "Waar staan de winkelmandjes?"
   },
   {
     "kor": "줄을 서 계신 건가요?",
@@ -213,7 +236,8 @@
     "deu": "Stehen Sie an?",
     "rus": "Вы стоите в очереди?",
     "esp": "¿Está en la cola?",
-    "ita": "È in coda?"
+    "ita": "È in coda?",
+    "nld": "Staat u in de rij?"
   },
   {
     "kor": "도와주셔서 감사합니다.",
@@ -222,6 +246,7 @@
     "deu": "Vielen Dank für Ihre Hilfe.",
     "rus": "Спасибо за помощь.",
     "esp": "Gracias por su ayuda.",
-    "ita": "Grazie per l'aiuto."
+    "ita": "Grazie per l'aiuto.",
+    "nld": "Bedankt voor uw hulp."
   }
 ]

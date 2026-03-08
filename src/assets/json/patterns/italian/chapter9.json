@@ -1,0 +1,158 @@
+[
+  {
+    "id": 1,
+    "pattern": "Ogni mattina, di solito faccio ...",
+    "translation": "Every morning, I usually ...",
+    "b1": [
+      "Ogni mattina, di solito faccio il letto.",
+      "Ogni mattina, di solito faccio un po' di sport.",
+      "Ogni mattina, di solito faccio il caffè.",
+      "Ogni mattina, di solito faccio una passeggiata con il mio cane.",
+      "Ogni mattina, di solito faccio i miei compiti di italiano."
+    ],
+    "b2": [
+      "Ogni mattina, di solito faccio una sessione di meditazione per rimanere calmo.",
+      "Ogni mattina, di solito faccio un giro delle mie e-mail di lavoro.",
+      "Ogni mattina, di solito faccio una lista dei miei obiettivi prioritari.",
+      "Ogni mattina, di solito faccio un po' di stretching per risvegliare il corpo.",
+      "Ogni mattina, di solito faccio una rapida rassegna delle notizie mondiali."
+    ],
+    "c1": [
+      "Ogni mattina, di solito faccio un'analisi retrospettiva delle mie prestazioni del giorno precedente.",
+      "Ogni mattina, di solito faccio prova di disciplina praticando la visualizzazione creativa.",
+      "Ogni mattina, di solito faccio il punto sugli indicatori chiave di prestazione del mio team.",
+      "Ogni mattina, di solito faccio un'analisi strategica approfondita del mio settore di attività.",
+      "Ogni mattina, di solito faccio uno sforzo consapevole per disconnettermi dai social network."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Tendo a ... quando ...",
+    "translation": "I tend to ... when ...",
+    "b1": [
+      "Tendo a mangiare il cioccolato quando sono triste.",
+      "Tendo a dormire molto quando sono stanco.",
+      "Tendo a cantare quando sono sotto la doccia.",
+      "Tendo a parlare velocemente quando sono nervoso.",
+      "Tendo a leggere un libro quando fuori piove."
+    ],
+    "b2": [
+      "Tendo a procrastinare quando il compito è troppo complesso.",
+      "Tendo a perdere la pazienza quando le persone non sono puntuali.",
+      "Tendo a controllare i miei messaggi quando mi annoio in riunione.",
+      "Tendo a fare errori quando lavoro nel rumore.",
+      "Tendo a isolarmi quando ho bisogno di riflettere seriamente."
+    ],
+    "c1": [
+      "Tendo a privilegiare l'analisi razionale quando affronto una crisi.",
+      "Tendo a mettere in discussione lo status quo quando i risultati ristagnano.",
+      "Tendo ad assumere un atteggiamento difensivo quando le mie convinzioni sono scosse.",
+      "Tendo a sovrastimare la mia capacità di lavoro quando sono appassionato di un progetto.",
+      "Tendo a trascurare i dettagli tecnici quando mi concentro sulla visione globale."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "In linea di massima, non ... mai.",
+    "translation": "As a rule, I never ...",
+    "b1": [
+      "In linea di massima, non mangio mai carne.",
+      "In linea di massima, non guardo mai la televisione al mattino.",
+      "In linea di massima, non esco mai senza il mio telefono.",
+      "In linea di massima, non bevo mai bibite gassate.",
+      "In linea di massima, non dormo mai dopo mezzanotte."
+    ],
+    "b2": [
+      "In linea di massima, non prendo mai decisioni importanti sotto l'effetto della rabbia.",
+      "In linea di massima, non salto mai le mie sessioni di sport settimanali.",
+      "In linea di massima, non rispondo mai a chiamate sconosciute la sera.",
+      "In linea di massima, non inizio mai un nuovo progetto senza un piano chiaro.",
+      "In linea di massima, non condivido mai informazioni riservate online."
+    ],
+    "c1": [
+      "In linea di massima, non scendo mai a compromessi sui miei principi etici fondamentali.",
+      "In linea di massima, non delego mai un compito senza aver verificato le competenze richieste.",
+      "In linea di massima, non reagisco mai impulsivamente alle fluttuazioni del mercato finanziario.",
+      "In linea di massima, non trascuro mai l'impatto psicologico delle mie parole sui miei subordinati.",
+      "In linea di massima, non convalidò mai un contratto senza il previo parere del mio consulente legale."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Ci tengo a ... almeno una volta al giorno.",
+    "translation": "I make it a point to ... at least once a day.",
+    "b1": [
+      "Ci tengo a leggere almeno una volta al giorno.",
+      "Ci tengo a chiamare mia madre almeno una volta al giorno.",
+      "Ci tengo a bere acqua almeno una volta al giorno.",
+      "Ci tengo a cucinare almeno una volta al giorno.",
+      "Ci tengo a camminare almeno una volta al giorno."
+    ],
+    "b2": [
+      "Ci tengo a imparare una parola nuova almeno una volta al giorno.",
+      "Ci tengo a ringraziare qualcuno almeno una volta al giorno.",
+      "Ci tengo a riordinare la mia scrivania almeno una volta al giorno.",
+      "Ci tengo a praticare una lingua straniera almeno una volta al giorno.",
+      "Ci tengo a prendermi del tempo per me stesso almeno una volta al giorno."
+    ],
+    "c1": [
+      "Ci tengo a stimolare la mia curiosità intellettuale almeno una volta al giorno.",
+      "Ci tengo a uscire dalla mia zona di comfort almeno una volta al giorno.",
+      "Ci tengo a coltivare la mia rete professionale almeno una volta al giorno.",
+      "Ci tengo a rivalutare le mie priorità strategiche almeno una volta al giorno.",
+      "Ci tengo a praticare la gratitudine per mantenere il mio equilibrio mentale almeno una volta al giorno."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Prima di tutto, ... sempre.",
+    "translation": "Before anything else, I always ...",
+    "b1": [
+      "Prima di tutto, mi lavo sempre le mani.",
+      "Prima di tutto, bevo sempre un bicchiere d'acqua.",
+      "Prima di tutto, saluto sempre i miei colleghi.",
+      "Prima di tutto, controllo sempre il meteo.",
+      "Prima di tutto, cerco sempre le mie chiavi."
+    ],
+    "b2": [
+      "Prima di tutto, preparo sempre i miei vestiti per l'indomani.",
+      "Prima di tutto, verifico sempre che tutte le porte siano chiuse.",
+      "Prima di tutto, definisco sempre i tre compiti più importanti della giornata.",
+      "Prima di tutto, mi prendo sempre un momento per respirare profondamente.",
+      "Prima di tutto, mi assicuro sempre che il mio computer sia ben carico."
+    ],
+    "c1": [
+      "Prima di tutto, consulto sempre gli ultimi indicatori di prestazione.",
+      "Prima di tutto, mi informo sempre sul benessere dei miei collaboratori.",
+      "Prima di tutto, procedo sempre a un'analisi dei rischi potenziali del progetto.",
+      "Prima di tutto, mi assicuro sempre della coerenza delle mie azioni con la strategia globale.",
+      "Prima di tutto, verifico sempre l'accuratezza delle fonti di informazione di cui dispongo."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Ho preso l'abitudine di ...",
+    "translation": "I've gotten into the habit of ...",
+    "b1": [
+      "Ho preso l'abitudine di mangiare frutta al mattino.",
+      "Ho preso l'abitudine di camminare fino al lavoro.",
+      "Ho preso l'abitudine di leggere prima di dormire.",
+      "Ho preso l'abitudine di dire spesso grazie.",
+      "Ho preso l'abitudine di riordinare le mie cose."
+    ],
+    "b2": [
+      "Ho preso l'abitudine di annotare tutte le mie idee in un taccuino.",
+      "Ho preso l'abitudine di prendere le scale invece dell'ascensore.",
+      "Ho preso l'abitudine di bere tè verde al posto del caffè.",
+      "Ho preso l'abitudine di limitare il mio tempo sui social network.",
+      "Ho preso l'abitudine di fare una pausa di cinque minuti ogni ora."
+    ],
+    "c1": [
+      "Ho preso l'abitudine di anticipare le obiezioni dei miei interlocutori.",
+      "Ho preso l'abitudine di privilegiare la qualità rispetto alla quantità nelle mie relazioni.",
+      "Ho preso l'abitudine di praticare un monitoraggio tecnologico rigoroso ogni weekend.",
+      "Ho preso l'abitudine di decostruire i miei pregiudizi cognitivi durante il processo decisionale.",
+      "Ho preso l'abitudine di tradurre i miei obiettivi astratti in azioni concrete e misurabili."
+    ]
+  }
+]

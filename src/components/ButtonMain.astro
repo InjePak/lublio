@@ -14,68 +14,68 @@ interface Props {
 const { title, subtitle, description, language, path, level } = Astro.props;
 
 const colorMap800: Record<string, string> = {
+  nld: "var(--orange800)",
   fra: "var(--sky800)",
   deu: "var(--amber800)",
+  ita: "var(--emerald800)",
+  spa: "var(--rose800)",
   rus: "var(--indigo800)",
-  tur: "var(--orange800)",
-  fas: "var(--emerald800)",
-  kaz: "var(--cyan800)",
 };
 const colorMap700: Record<string, string> = {
+  nld: "var(--orange700)",
   fra: "var(--sky700)",
   deu: "var(--amber700)",
+  ita: "var(--emerald700)",
+  spa: "var(--rose700)",
   rus: "var(--indigo700)",
-  tur: "var(--orange700)",
-  fas: "var(--emerald700)",
-  kaz: "var(--cyan700)",
 };
 const colorMap600: Record<string, string> = {
+  nld: "var(--orange600)",
   fra: "var(--sky600)",
   deu: "var(--amber600)",
+  ita: "var(--emerald600)",
+  spa: "var(--rose600)",
   rus: "var(--indigo600)",
-  tur: "var(--orange600)",
-  fas: "var(--emerald600)",
-  kaz: "var(--cyan600)",
 };
 const colorMap500: Record<string, string> = {
+  nld: "var(--orange500)",
   fra: "var(--sky500)",
   deu: "var(--amber500)",
+  ita: "var(--emerald500)",
+  spa: "var(--rose500)",
   rus: "var(--indigo500)",
-  tur: "var(--orange500)",
-  fas: "var(--emerald500)",
-  kaz: "var(--cyan500)",
 };
 const colorMap400: Record<string, string> = {
+  nld: "var(--orange400)",
   fra: "var(--sky400)",
   deu: "var(--amber400)",
+  ita: "var(--emerald400)",
+  spa: "var(--rose400)",
   rus: "var(--indigo400)",
-  tur: "var(--orange400)",
-  fas: "var(--emerald400)",
-  kaz: "var(--cyan400)",
 };
 const colorMap300: Record<string, string> = {
+  nld: "var(--orange300)",
   fra: "var(--sky300)",
   deu: "var(--amber300)",
+  ita: "var(--emerald300)",
+  spa: "var(--rose300)",
   rus: "var(--indigo300)",
-  tur: "var(--orange300)",
-  fas: "var(--emerald300)",
-  kaz: "var(--cyan300)",
 };
 const colorMap200: Record<string, string> = {
+  nld: "var(--orange200)",
   fra: "var(--sky200)",
   deu: "var(--amber200)",
+  ita: "var(--emerald200)",
+  spa: "var(--rose200)",
   rus: "var(--indigo200)",
-  tur: "var(--orange200)",
-  fas: "var(--emerald200)",
-  kaz: "var(--cyan200)",
 };
 const colorMap100: Record<string, string> = {
+  nld: "var(--orange100)",
   fra: "var(--sky100)",
   deu: "var(--amber100)",
+  ita: "var(--emerald100)",
+  spa: "var(--rose100)",
   rus: "var(--indigo100)",
-  tur: "var(--orange100)",
-  fas: "var(--emerald100)",
-  kaz: "var(--cyan100)",
 };
 const color800 = colorMap800[language] || "var(--zinc800)";
 const color700 = colorMap700[language] || "var(--zinc700)";
@@ -87,12 +87,12 @@ const color200 = colorMap200[language] || "var(--zinc200)";
 const color100 = colorMap100[language] || "var(--zinc100)";
 
 const greetingMap: Record<string, string> = {
-  kaz: "Hi",
   fra: "Salut",
   rus: "Привет",
   deu: "Hallo",
-  tur: "Merhaba",
-  fas: "",
+  nld: "Hallo",
+  ita: "Ciao",
+  spa: "Hola",
 };
 const greeting = greetingMap[language] || "Welcome";
 ---
@@ -213,7 +213,7 @@ const greeting = greetingMap[language] || "Welcome";
   /* Mobile */
   @media (max-width: 480px) {
     .btn {
-      min-height: 360px;
+      min-height: 300px;
     }
 
     .btn > h1 {

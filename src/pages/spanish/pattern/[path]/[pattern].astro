@@ -4,16 +4,16 @@ import VisibilityController from "../../../../components/VisibilityController.as
 import Box2 from "../../../../components/Box2.astro";
 
 import chapters from "../../../../assets/json/patterns/chapters.json";
-import chapter1 from "../../../../assets/json/patterns/german/chapter1.json";
-import chapter2 from "../../../../assets/json/patterns/german/chapter2.json";
-import chapter3 from "../../../../assets/json/patterns/german/chapter3.json";
-import chapter4 from "../../../../assets/json/patterns/german/chapter4.json";
-import chapter5 from "../../../../assets/json/patterns/german/chapter5.json";
-import chapter6 from "../../../../assets/json/patterns/german/chapter6.json";
-import chapter7 from "../../../../assets/json/patterns/german/chapter7.json";
-import chapter8 from "../../../../assets/json/patterns/german/chapter8.json";
-import chapter9 from "../../../../assets/json/patterns/german/chapter9.json";
-import chapter10 from "../../../../assets/json/patterns/german/chapter10.json";
+import chapter1 from "../../../../assets/json/patterns/spanish/chapter1.json";
+import chapter2 from "../../../../assets/json/patterns/spanish/chapter2.json";
+import chapter3 from "../../../../assets/json/patterns/spanish/chapter3.json";
+import chapter4 from "../../../../assets/json/patterns/spanish/chapter4.json";
+import chapter5 from "../../../../assets/json/patterns/spanish/chapter5.json";
+import chapter6 from "../../../../assets/json/patterns/spanish/chapter6.json";
+import chapter7 from "../../../../assets/json/patterns/spanish/chapter7.json";
+import chapter8 from "../../../../assets/json/patterns/spanish/chapter8.json";
+import chapter9 from "../../../../assets/json/patterns/spanish/chapter9.json";
+import chapter10 from "../../../../assets/json/patterns/spanish/chapter10.json";
 
 export async function getStaticPaths() {
   // 모든 경로의 조합을 생성합니다.
@@ -88,7 +88,7 @@ const navItems = [
   <Box2
     title=`${post.id}. ${post.pattern}`
     subtitle={post.translation}
-    language="deu"
+    language="spa"
   />
   <VisibilityController items={navItems} />
 
@@ -106,7 +106,7 @@ const navItems = [
                   {level.map((phrase, index) => {
                     return (
                       <>
-                        <p lang="de">
+                        <p lang="es">
                           <span>{index + 1}.</span>
                           <br />
                           {phrase}
@@ -124,7 +124,7 @@ const navItems = [
                   {level.map((phrase, index) => {
                     return (
                       <>
-                        <p lang="de">
+                        <p lang="es">
                           <span>{index + 1}.</span>
                           {phrase}
                         </p>
@@ -141,7 +141,7 @@ const navItems = [
                   {level.map((phrase, index) => {
                     return (
                       <>
-                        <p lang="de">
+                        <p lang="es">
                           <span>{index + 1}.</span>
                           {phrase}
                         </p>
@@ -180,9 +180,8 @@ const navItems = [
   /* Phrase Box */
 
   .phrase-box {
-    background-color: var(--neutral50);
+    /* background-color: var(--neutral50); */
     margin-bottom: 1.5rem;
-    padding: 1rem 1.5rem;
   }
 
   .phrase-box > h1 {
@@ -198,13 +197,14 @@ const navItems = [
   .phrase-box > p {
     display: inline-block;
     width: 100%;
-    padding: 1rem 0;
+    padding: 2rem 1.5rem;
     font-size: 18px;
-    font-weight: 600;
+    font-weight: 500;
     line-height: 1.5rem;
-    margin-bottom: 1.5rem;
+    margin-bottom: 1rem;
     hyphens: auto;
     overflow-wrap: break-word;
+    background-color: var(--neutral50);
   }
 
   .phrase-box > p > span {
@@ -213,9 +213,10 @@ const navItems = [
     display: inline-block;
     width: 100%;
     font-weight: 700;
-    color: var(--amber400);
-    font-size: 22px;
-    margin-bottom: 0.5rem;
+    border-left: 4px solid var(--orange400);
+    font-size: 20px;
+    margin-bottom: 1rem;
+    padding: 0.3rem 0.6rem;
   }
 
   /* Mobile */
