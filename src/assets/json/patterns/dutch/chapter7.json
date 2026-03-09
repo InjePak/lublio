@@ -1,522 +1,522 @@
 [
   {
     "id": 1,
-    "pattern": "Si nous ..., alors nous allons ...",
+    "pattern": "Als we ..., dan zullen we ...",
     "translation": "If we ..., then we will ...",
     "b1": [
-      "Si nous étudions beaucoup, alors nous allons réussir l'examen.",
-      "Si nous partons maintenant, alors nous allons arriver à l'heure.",
-      "Si nous cuisinons ensemble, alors nous allons passer un bon moment.",
-      "Si nous achetons ce canapé, alors nous allons changer le salon.",
-      "Si nous marchons vite, alors nous allons attraper le bus."
+      "Als we veel studeren, dan zullen we het examen halen.",
+      "Als we nu vertrekken, dan zullen we op tijd aankomen.",
+      "Als we samen koken, dan zullen we een fijne avond hebben.",
+      "Als we deze bank kopen, dan zullen we de woonkamer veranderen.",
+      "Als we snel lopen, dan zullen we de bus halen."
     ],
     "b2": [
-      "Si nous réduisons nos dépenses, alors nous allons équilibrer le budget.",
-      "Si nous lançons ce produit en été, alors nous allons attirer plus de clients.",
-      "Si nous acceptons cette offre, alors nous allons augmenter notre chiffre d'affaires.",
-      "Si nous travaillons à distance, alors nous allons économiser sur les frais de bureau.",
-      "Si nous changeons de fournisseur, alors nous allons améliorer la qualité."
+      "Als we onze uitgaven verminderen, dan zullen we het budget in evenwicht brengen.",
+      "Als we dit product in de zomer lanceren, dan zullen we meer klanten aantrekken.",
+      "Als we dit aanbod aanvaarden, dan zullen we onze omzet verhogen.",
+      "Als we op afstand werken, dan zullen we besparen op kantoorkosten.",
+      "Als we van leverancier veranderen, dan zullen we de kwaliteit verbeteren."
     ],
     "c1": [
-      "Si nous maintenons ce rythme d'innovation, alors nous allons dominer le marché d'ici deux ans.",
-      "Si nous ignorons les signes de mécontentement, alors nous allons faire face à une crise sociale majeure.",
-      "Si nous investissons dans les énergies renouvelables, alors nous allons assurer la pérennité de l'entreprise.",
-      "Si nous décentralisons la prise de décision, alors nous allons gagner en agilité opérationnelle.",
-      "Si nous adoptons cette réforme, alors nous allons transformer durablement notre modèle économique."
+      "Als we dit innovatietempo volhouden, dan zullen we de markt binnen twee jaar domineren.",
+      "Als we de tekenen van ontevredenheid negeren, dan zullen we een grote sociale crisis tegemoet gaan.",
+      "Als we investeren in hernieuwbare energie, dan zullen we de continuïteit van het bedrijf waarborgen.",
+      "Als we de besluitvorming decentraliseren, dan zullen we aan operationele wendbaarheid winnen.",
+      "Als we deze hervorming doorvoeren, dan zullen we ons bedrijfsmodel duurzaam transformeren."
     ]
   },
   {
     "id": 2,
-    "pattern": "Que se passerait-il si ...?",
+    "pattern": "Wat zou er gebeuren als ...?",
     "translation": "What would happen if ...?",
     "b1": [
-      "Que se passerait-il si je perdais mon sac ?",
-      "Que se passerait-il si nous mangions trop de gâteaux ?",
-      "Que se passerait-il si tu ne venais pas demain ?",
-      "Que se passerait-il s'il pleuvait pendant le pique-nique ?",
-      "Que se passerait-il si on changeait de film ?"
+      "Wat zou er gebeuren als ik mijn tas verloor?",
+      "Wat zou er gebeuren als we te veel taart aten?",
+      "Wat zou er gebeuren als jij morgen niet kwam?",
+      "Wat zou er gebeuren als het regende tijdens de picknick?",
+      "Wat zou er gebeuren als we van film wisselden?"
     ],
     "b2": [
-      "Que se passerait-il si le gouvernement augmentait les taxes ?",
-      "Que se passerait-il si notre principal client annulait son contrat ?",
-      "Que se passerait-il si l'intelligence artificielle remplaçait nos rédacteurs ?",
-      "Que se passerait-il si nous décidions de déménager à l'étranger ?",
-      "Que se passerait-il si personne ne répondait à notre invitation ?"
+      "Wat zou er gebeuren als de overheid de belastingen verhoogde?",
+      "Wat zou er gebeuren als onze belangrijkste klant zijn contract opzegde?",
+      "Wat zou er gebeuren als kunstmatige intelligentie onze redacteurs verving?",
+      "Wat zou er gebeuren als we besloten naar het buitenland te verhuizen?",
+      "Wat zou er gebeuren als niemand op onze uitnodiging reageerde?"
     ],
     "c1": [
-      "Que se passerait-il si le système bancaire mondial subissait un effondrement soudain ?",
-      "Que se passerait-il si nous devions faire face à une pénurie totale de matières premières ?",
-      "Que se passerait-il si le paradigme de la consommation de masse changeait radicalement ?",
-      "Que se passerait-il si la vérité devenait indissociable du mensonge à cause de la technologie ?",
-      "Que se passerait-il si nous perdions soudainement tout accès aux données numériques ?"
+      "Wat zou er gebeuren als het wereldwijde banksysteem plotseling ineenstortte?",
+      "Wat zou er gebeuren als we geconfronteerd werden met een totaal tekort aan grondstoffen?",
+      "Wat zou er gebeuren als het paradigma van massale consumptie radicaal veranderde?",
+      "Wat zou er gebeuren als de waarheid door technologie onlosmakelijk verbonden raakte met leugens?",
+      "Wat zou er gebeuren als we plotseling alle toegang tot digitale gegevens verloren?"
     ]
   },
   {
     "id": 3,
-    "pattern": "Si le résultat est ..., nous devons ...",
+    "pattern": "Als het resultaat ... is, moeten we ...",
     "translation": "Should the outcome be ..., we must ...",
     "b1": [
-      "Si le résultat est bon, nous devons fêter ça.",
-      "Si le résultat est mauvais, nous devons recommencer.",
-      "Si le résultat est positif, nous devons continuer à travailler.",
-      "Si le résultat est négatif, nous devons appeler le docteur.",
-      "Si le résultat est clair, nous devons prendre une décision."
+      "Als het resultaat goed is, moeten we dat vieren.",
+      "Als het resultaat slecht is, moeten we opnieuw beginnen.",
+      "Als het resultaat positief is, moeten we blijven werken.",
+      "Als het resultaat negatief is, moeten we de dokter bellen.",
+      "Als het resultaat duidelijk is, moeten we een beslissing nemen."
     ],
     "b2": [
-      "Si le résultat est inférieur aux prévisions, nous devons réduire les coûts.",
-      "Si le résultat est encourageant, nous devons investir davantage dans ce projet.",
-      "Si le résultat est contesté, nous devons demander un audit externe.",
-      "Si le résultat est décevant, nous devons analyser les causes de l'échec.",
-      "Si le résultat est validé par l'équipe, nous devons lancer la production."
+      "Als het resultaat onder de verwachtingen ligt, moeten we de kosten verlagen.",
+      "Als het resultaat bemoedigend is, moeten we meer in dit project investeren.",
+      "Als het resultaat wordt betwist, moeten we een externe audit aanvragen.",
+      "Als het resultaat teleurstellend is, moeten we de oorzaken van het falen analyseren.",
+      "Als het resultaat door het team is goedgekeurd, moeten we de productie opstarten."
     ],
     "c1": [
-      "Si le résultat est symptomatique d'une faille structurelle, nous devons refondre le système.",
-      "Si le résultat est en deçà de nos exigences éthiques, nous devons rompre le partenariat.",
-      "Si le résultat est le fruit du hasard et non de la stratégie, nous devons rester prudents.",
-      "Si le résultat est révélateur d'une mutation du marché, nous devons pivoter immédiatement.",
-      "Si le résultat est concluant sur le plan scientifique, nous devons publier ces données sans tarder."
+      "Als het resultaat symptomatisch is voor een structureel gebrek, moeten we het systeem grondig herzien.",
+      "Als het resultaat onder onze ethische normen valt, moeten we het partnerschap beëindigen.",
+      "Als het resultaat het gevolg is van toeval en niet van strategie, moeten we voorzichtig blijven.",
+      "Als het resultaat een marktomwenteling onthult, moeten we onmiddellijk pivotten.",
+      "Als het resultaat wetenschappelijk overtuigend is, moeten we deze gegevens onverwijld publiceren."
     ]
   },
   {
     "id": 4,
-    "pattern": "Si j'avais su ..., j'aurais ...",
+    "pattern": "Als ik had geweten ..., had ik ...",
     "translation": "If I had known ..., I would have ...",
     "b1": [
-      "Si j'avais su pour la pluie, j'aurais pris mon parapluie.",
-      "Si j'avais su la vérité, j'aurais été triste.",
-      "Si j'avais su que tu venais, j'aurais préparé un gâteau.",
-      "Si j'avais su le prix, j'aurais acheté un autre téléphone.",
-      "Si j'avais su l'heure, j'aurais couru plus vite."
+      "Als ik had geweten dat het zou regenen, had ik mijn paraplu meegenomen.",
+      "Als ik had geweten wat de waarheid was, had ik verdrietig geweest.",
+      "Als ik had geweten dat jij zou komen, had ik een taart gebakken.",
+      "Als ik had geweten wat de prijs was, had ik een andere telefoon gekocht.",
+      "Als ik had geweten hoe laat het was, had ik sneller gelopen."
     ],
     "b2": [
-      "Si j'avais su que ce projet serait si complexe, j'aurais demandé plus de temps.",
-      "Si j'avais su tes intentions réelles, j'aurais agi différemment.",
-      "Si j'avais su pour les risques financiers, j'aurais consulté un expert.",
-      "Si j'avais su que le magasin fermait si tôt, j'y serais allé le matin.",
-      "Si j'avais su que tu avais besoin d'aide, je serais venu tout de suite."
+      "Als ik had geweten dat dit project zo complex zou zijn, had ik meer tijd gevraagd.",
+      "Als ik had geweten wat jouw werkelijke bedoelingen waren, had ik anders gehandeld.",
+      "Als ik had geweten van de financiële risico's, had ik een expert geraadpleegd.",
+      "Als ik had geweten dat de winkel zo vroeg sloot, was ik 's ochtends gegaan.",
+      "Als ik had geweten dat jij hulp nodig had, was ik meteen gekomen."
     ],
     "c1": [
-      "Si j'avais su les conséquences géopolitiques de cet accord, j'aurais voté contre.",
-      "Si j'avais su que l'obsolescence de ce système arriverait si vite, j'aurais anticipé la migration.",
-      "Si j'avais su que la culture d'entreprise se dégraderait ainsi, j'aurais instauré d'autres valeurs.",
-      "Si j'avais su l'impact psychologique de cette décision, j'aurais privilégié une approche plus humaine.",
-      "Si j'avais su que ce marché serait saturé si rapidement, j'aurais diversifié nos actifs."
+      "Als ik had geweten wat de geopolitieke gevolgen van dit akkoord waren, had ik tegengestemd.",
+      "Als ik had geweten dat dit systeem zo snel verouderd zou raken, had ik de migratie geanticipeerd.",
+      "Als ik had geweten dat de bedrijfscultuur zo zou verslechteren, had ik andere waarden ingevoerd.",
+      "Als ik had geweten wat de psychologische impact van deze beslissing was, had ik een menselijkere aanpak verkozen.",
+      "Als ik had geweten dat deze markt zo snel verzadigd zou raken, had ik onze activa gediversifieerd."
     ]
   },
   {
     "id": 5,
-    "pattern": "En supposant que ..., il est probable que ...",
+    "pattern": "Ervan uitgaande dat ..., is het waarschijnlijk dat ...",
     "translation": "Assuming that ..., it is likely that ...",
     "b1": [
-      "En supposant qu'il fasse beau, il est probable que nous allions à la plage.",
-      "En supposant que tu travailles, il est probable que tu gagnes de l'argent.",
-      "En supposant que le bus passe, il est probable que j'arrive à midi.",
-      "En supposant qu'elle dise oui, il est probable que nous soyons heureux.",
-      "En supposant que l'examen soit facile, il est probable que tout le monde réussisse."
+      "Ervan uitgaande dat het mooi weer is, is het waarschijnlijk dat we naar het strand gaan.",
+      "Ervan uitgaande dat jij werkt, is het waarschijnlijk dat jij geld verdient.",
+      "Ervan uitgaande dat de bus rijdt, is het waarschijnlijk dat ik om twaalf uur aankom.",
+      "Ervan uitgaande dat zij ja zegt, is het waarschijnlijk dat we gelukkig zijn.",
+      "Ervan uitgaande dat het examen makkelijk is, is het waarschijnlijk dat iedereen slaagt."
     ],
     "b2": [
-      "En supposant que la tendance se confirme, il est probable que les ventes augmentent.",
-      "En supposant que le budget soit voté, il est probable que nous recrutions bientôt.",
-      "En supposant que le vaccin soit efficace, il est probable que la vie reprenne normalement.",
-      "En supposant que le retard soit rattrapé, il est probable que nous finissions à temps.",
-      "En supposant que vous acceptiez nos conditions, il est probable que nous signions demain."
+      "Ervan uitgaande dat de trend zich bevestigt, is het waarschijnlijk dat de verkoop stijgt.",
+      "Ervan uitgaande dat het budget wordt goedgekeurd, is het waarschijnlijk dat we binnenkort aanwerven.",
+      "Ervan uitgaande dat het vaccin werkt, is het waarschijnlijk dat het leven zich normaliseert.",
+      "Ervan uitgaande dat de achterstand wordt ingehaald, is het waarschijnlijk dat we op tijd klaarzijn.",
+      "Ervan uitgaande dat u onze voorwaarden aanvaardt, is het waarschijnlijk dat we morgen tekenen."
     ],
     "c1": [
-      "En supposant que les taux d'intérêt baissent, il est probable que l'investissement reparte.",
-      "En supposant que la transition numérique s'accélère, il est probable que certains métiers disparaissent.",
-      "En supposant que le conflit s'enlise, il est probable que l'inflation persiste durablement.",
-      "En supposant que l'IA atteigne ce niveau de performance, il est probable que nous devions légiférer.",
-      "En supposant que la cohésion sociale soit préservée, il est probable que la réforme réussisse."
+      "Ervan uitgaande dat de rentevoeten dalen, is het waarschijnlijk dat de investeringen weer op gang komen.",
+      "Ervan uitgaande dat de digitale transitie versnelt, is het waarschijnlijk dat sommige beroepen verdwijnen.",
+      "Ervan uitgaande dat het conflict aanhoudt, is het waarschijnlijk dat de inflatie hardnekkig blijft.",
+      "Ervan uitgaande dat de AI dit prestatieniveau bereikt, is het waarschijnlijk dat we wetgeving nodig hebben.",
+      "Ervan uitgaande dat de sociale cohesie bewaard blijft, is het waarschijnlijk dat de hervorming slaagt."
     ]
   },
   {
     "id": 6,
-    "pattern": "Je prédis que ... va se produire.",
+    "pattern": "Ik voorspel dat ... zal gebeuren.",
     "translation": "I predict that ... will happen.",
     "b1": [
-      "Je prédis qu'il va pleuvoir ce soir.",
-      "Je prédis que ton équipe va gagner.",
-      "Je prédis que ce film va être super.",
-      "Je prédis qu'il va être en retard.",
-      "Je prédis que tu vas aimer ce plat."
+      "Ik voorspel dat het vanavond zal regenen.",
+      "Ik voorspel dat jouw team zal winnen.",
+      "Ik voorspel dat deze film geweldig zal zijn.",
+      "Ik voorspel dat hij te laat zal zijn.",
+      "Ik voorspel dat jij dit gerecht lekker zal vinden."
     ],
     "b2": [
-      "Je prédis qu'un grand changement va se produire dans l'entreprise.",
-      "Je prédis qu'une nouvelle crise économique va se produire bientôt.",
-      "Je prédis qu'un accord diplomatique va se produire d'ici la fin du mois.",
-      "Je prédis que ce nouveau produit va se produire un énorme succès commercial.",
-      "Je prédis qu'une hausse des prix immobiliers va se produire l'année prochaine."
+      "Ik voorspel dat een grote verandering in het bedrijf zal gebeuren.",
+      "Ik voorspel dat een nieuwe economische crisis binnenkort zal gebeuren.",
+      "Ik voorspel dat een diplomatisch akkoord voor het einde van de maand zal gebeuren.",
+      "Ik voorspel dat een enorm commercieel succes met dit nieuwe product zal gebeuren.",
+      "Ik voorspel dat een stijging van de vastgoedprijzen volgend jaar zal gebeuren."
     ],
     "c1": [
-      "Je prédis qu'un bouleversement des équilibres géopolitiques va se produire prochainement.",
-      "Je prédis qu'une rupture technologique majeure va se produire dans le secteur de l'énergie.",
-      "Je prédis qu'une prise de conscience écologique radicale va se produire chez les jeunes générations.",
-      "Je prédis qu'une redéfinition du contrat social va se produire à l'échelle européenne.",
-      "Je prédis qu'une saturation des réseaux de communication va se produire si nous ne modérons pas nos usages."
+      "Ik voorspel dat een omwenteling van de geopolitieke evenwichten binnenkort zal gebeuren.",
+      "Ik voorspel dat een grote technologische breuk in de energiesector zal gebeuren.",
+      "Ik voorspel dat een radicale ecologische bewustwording bij jonge generaties zal gebeuren.",
+      "Ik voorspel dat een herdefiniëring van het sociaal contract op Europese schaal zal gebeuren.",
+      "Ik voorspel dat een verzadiging van communicatienetwerken zal gebeuren als we ons gebruik niet matigen."
     ]
   },
   {
     "id": 7,
-    "pattern": "À moins que ... ne se produise, nous ne pourrons pas ...",
+    "pattern": "Tenzij ... gebeurt, zullen we niet in staat zijn om ...",
     "translation": "Unless ... happens, we won't be able to ...",
     "b1": [
-      "À moins qu'il ne s'excuse, nous ne pourrons pas être amis.",
-      "À moins qu'il ne fasse beau, nous ne pourrons pas aller dehors.",
-      "À moins que tu ne manges, nous ne pourrons pas partir.",
-      "À moins que le train n'arrive, nous ne pourrons pas rentrer.",
-      "À moins que tu n'étudies, tu ne pourras pas réussir."
+      "Tenzij hij zich verontschuldigt, zullen we niet in staat zijn om vrienden te zijn.",
+      "Tenzij het mooi weer wordt, zullen we niet in staat zijn om buiten te gaan.",
+      "Tenzij jij eet, zullen we niet in staat zijn om te vertrekken.",
+      "Tenzij de trein aankomt, zullen we niet in staat zijn om terug te keren.",
+      "Tenzij jij studeert, zul jij niet in staat zijn om te slagen."
     ],
     "b2": [
-      "À moins qu'un miracle ne se produise, nous ne pourrons pas finir ce projet ce soir.",
-      "À moins que le directeur ne donne son accord, nous ne pourrons pas changer de bureau.",
-      "À moins qu'un financement ne se produise, nous ne pourrons pas lancer l'application.",
-      "À moins que la situation ne s'améliore, nous ne pourrons pas maintenir les prix actuels.",
-      "À moins qu'une erreur ne se produise, nous ne pourrons pas contester ces résultats."
+      "Tenzij er een wonder gebeurt, zullen we niet in staat zijn om dit project vanavond af te ronden.",
+      "Tenzij de directeur zijn akkoord geeft, zullen we niet in staat zijn om van bureau te wisselen.",
+      "Tenzij er financiering vrijkomt, zullen we niet in staat zijn om de applicatie te lanceren.",
+      "Tenzij de situatie verbetert, zullen we niet in staat zijn om de huidige prijzen te handhaven.",
+      "Tenzij er een fout wordt vastgesteld, zullen we niet in staat zijn om deze resultaten te betwisten."
     ],
     "c1": [
-      "À moins qu'un changement de paradigme ne se produise, nous ne pourrons pas résoudre la crise climatique.",
-      "À moins qu'une réforme structurelle ne se produise, nous ne pourrons pas redresser l'économie.",
-      "À moins qu'un consensus politique ne se produise, nous ne pourrons pas ratifier ce traité.",
-      "À moins qu'une innovation de rupture ne se produise, nous ne pourrons pas rester compétitifs.",
-      "À moins qu'une prise de conscience éthique ne se produise, nous ne pourrons pas réguler l'intelligence artificielle."
+      "Tenzij er een paradigmaverschuiving gebeurt, zullen we niet in staat zijn om de klimaatcrisis op te lossen.",
+      "Tenzij er een structurele hervorming gebeurt, zullen we niet in staat zijn om de economie te saneren.",
+      "Tenzij er een politieke consensus bereikt wordt, zullen we niet in staat zijn om dit verdrag te ratificeren.",
+      "Tenzij er een disruptieve innovatie gebeurt, zullen we niet in staat zijn om concurrentieel te blijven.",
+      "Tenzij er een ethische bewustwording plaatsvindt, zullen we niet in staat zijn om kunstmatige intelligentie te reguleren."
     ]
   },
   {
     "id": 8,
-    "pattern": "En cas de ..., nous devrions ...",
+    "pattern": "In het geval van ..., zouden we ...",
     "translation": "In the event of ..., we should ...",
     "b1": [
-      "En cas de pluie, nous devrions rester à la maison.",
-      "En cas de faim, nous devrions acheter des fruits.",
-      "En cas de problème, nous devrions appeler maman.",
-      "En cas de retard, nous devrions envoyer un message.",
-      "En cas de fatigue, nous devrions dormir."
+      "In het geval van regen, zouden we binnenblijven.",
+      "In het geval van honger, zouden we fruit kopen.",
+      "In het geval van problemen, zouden we mama bellen.",
+      "In het geval van vertraging, zouden we een bericht sturen.",
+      "In het geval van vermoeidheid, zouden we slapen."
     ],
     "b2": [
-      "En cas d'urgence médicale, nous devrions contacter les pompiers immédiatement.",
-      "En cas de panne informatique, nous devrions utiliser les dossiers papier.",
-      "En cas de désaccord, nous devrions voter pour trancher la question.",
-      "En cas de forte demande, nous devrions recruter du personnel temporaire.",
-      "En cas d'échec de la négociation, nous devrions chercher un autre partenaire."
+      "In het geval van een medische noodsituatie, zouden we onmiddellijk de brandweer contacteren.",
+      "In het geval van een computerstoring, zouden we papieren dossiers gebruiken.",
+      "In het geval van een meningsverschil, zouden we stemmen om de kwestie te beslechten.",
+      "In het geval van grote vraag, zouden we tijdelijk personeel aanwerven.",
+      "In het geval van een mislukte onderhandeling, zouden we op zoek gaan naar een andere partner."
     ],
     "c1": [
-      "En cas de cyberattaque massive, nous devrions activer le protocole de sécurité de niveau 4.",
-      "En cas de volatilité excessive des marchés, nous devrions geler nos investissements risqués.",
-      "En cas de vacance du pouvoir, nous devrions organiser des élections anticipées sous trente jours.",
-      "En cas de non-respect des clauses contractuelles, nous devrions engager des poursuites judiciaires.",
-      "En cas de divergence stratégique majeure, nous devrions scinder l'entreprise en deux entités."
+      "In het geval van een massale cyberaanval, zouden we het veiligheidsprotocol niveau 4 activeren.",
+      "In het geval van buitensporige marktvolatiliteit, zouden we onze risicovolle investeringen bevriezen.",
+      "In het geval van een machtsvacuüm, zouden we binnen dertig dagen vervroegde verkiezingen organiseren.",
+      "In het geval van niet-naleving van de contractclausules, zouden we gerechtelijke stappen ondernemen.",
+      "In het geval van een grote strategische meningsverschil, zouden we het bedrijf in twee entiteiten splitsen."
     ]
   },
   {
     "id": 9,
-    "pattern": "Il y a une forte probabilité que ...",
+    "pattern": "Er is een grote kans dat ...",
     "translation": "There's a high probability that ...",
     "b1": [
-      "Il y a une forte probabilité qu'il pleuve demain.",
-      "Il y a une forte probabilité que tu gagnes au loto.",
-      "Il y a une forte probabilité qu'elle vienne à la fête.",
-      "Il y a une forte probabilité que le cours soit annulé.",
-      "Il y a une forte probabilité que ce soit bon."
+      "Er is een grote kans dat het morgen regent.",
+      "Er is een grote kans dat jij de loterij wint.",
+      "Er is een grote kans dat zij naar het feest komt.",
+      "Er is een grote kans dat de les geannuleerd wordt.",
+      "Er is een grote kans dat het lekker is."
     ],
     "b2": [
-      "Il y a une forte probabilité que les prix du pétrole augmentent encore cet hiver.",
-      "Il y a une forte probabilité que nous devions changer nos plans de voyage.",
-      "Il y a une forte probabilité que l'entreprise soit rachetée par un groupe étranger.",
-      "Il y a une forte probabilité que de nouveaux règlements soient mis en place.",
-      "Il y a une forte probabilité que vous soyez promu l'année prochaine."
+      "Er is een grote kans dat de olieprijzen deze winter nog stijgen.",
+      "Er is een grote kans dat we onze reisplannen moeten wijzigen.",
+      "Er is een grote kans dat het bedrijf door een buitenlandse groep overgenomen wordt.",
+      "Er is een grote kans dat er nieuwe regelgevingen worden ingevoerd.",
+      "Er is een grote kans dat u volgend jaar bevorderd wordt."
     ],
     "c1": [
-      "Il y a une forte probabilité que la dévaluation de la monnaie entraîne une inflation galopante.",
-      "Il y a une forte probabilité que l'automatisation transforme radicalement le marché de l'emploi.",
-      "Il y a une forte probabilité que cette instabilité politique débouche sur un conflit armé.",
-      "Il y a une forte probabilité que les ressources en eau deviennent l'enjeu majeur du siècle.",
-      "Il y a une forte probabilité que nous assistions à une mutation profonde des valeurs sociales."
+      "Er is een grote kans dat de devaluatie van de munt een galopperende inflatie veroorzaakt.",
+      "Er is een grote kans dat automatisering de arbeidsmarkt radicaal transformeert.",
+      "Er is een grote kans dat deze politieke instabiliteit uitmondt in een gewapend conflict.",
+      "Er is een grote kans dat watervoorraden de grote uitdaging van de eeuw worden.",
+      "Er is een grote kans dat we getuige zijn van een diepgaande mutatie van sociale waarden."
     ]
   },
   {
     "id": 10,
-    "pattern": "Nous pourrions voir ... si ...",
+    "pattern": "We zouden ... kunnen zien als ...",
     "translation": "We might see ... if ...",
     "b1": [
-      "Nous pourrions voir des dauphins si nous allons en mer.",
-      "Nous pourrions voir des étoiles si le ciel est clair.",
-      "Nous pourrions voir la Tour Eiffel si nous marchons un peu.",
-      "Nous pourrions voir le patron si nous attendons ici.",
-      "Nous pourrions voir des fleurs si c'est le printemps."
+      "We zouden dolfijnen kunnen zien als we naar zee gaan.",
+      "We zouden sterren kunnen zien als de hemel helder is.",
+      "We zouden de Eiffeltoren kunnen zien als we een stukje lopen.",
+      "We zouden de baas kunnen zien als we hier wachten.",
+      "We zouden bloemen kunnen zien als het lente is."
     ],
     "b2": [
-      "Nous pourrions voir une amélioration si nous suivons ce régime alimentaire.",
-      "Nous pourrions voir des résultats concrets si nous travaillons en équipe.",
-      "Nous pourrions voir une baisse du chômage si la croissance repart.",
-      "Nous pourrions voir de nouveaux visages si nous changeons de quartier.",
-      "Nous pourrions voir une réaction positive si nous expliquons bien les choses."
+      "We zouden een verbetering kunnen zien als we dit dieet volgen.",
+      "We zouden concrete resultaten kunnen zien als we samenwerken.",
+      "We zouden een daling van de werkloosheid kunnen zien als de groei aantrekt.",
+      "We zouden nieuwe gezichten kunnen zien als we van wijk wisselen.",
+      "We zouden een positieve reactie kunnen zien als we de zaken goed uitleggen."
     ],
     "c1": [
-      "Nous pourrions voir une dégradation irréversible de la biodiversité si nous n'agissons pas.",
-      "Nous pourrions voir un exode rural massif si les conditions climatiques se durcissent.",
-      "Nous pourrions voir une résurgence des idéologies extrémistes si la crise s'aggrave.",
-      "Nous pourrions voir une révolution industrielle verte si les investissements suivent.",
-      "Nous pourrions voir un basculement de l'hégémonie économique si les pays émergents s'allient."
+      "We zouden een onomkeerbare achteruitgang van de biodiversiteit kunnen zien als we niet handelen.",
+      "We zouden een massale plattelandsvlucht kunnen zien als de klimaatomstandigheden verslechteren.",
+      "We zouden een opleving van extremistische ideologieën kunnen zien als de crisis verergert.",
+      "We zouden een groene industriële revolutie kunnen zien als de investeringen volgen.",
+      "We zouden een verschuiving van de economische hegemonie kunnen zien als de opkomende landen zich verbinden."
     ]
   },
   {
     "id": 11,
-    "pattern": "Cela suggère que l'avenir réserve ...",
+    "pattern": "Dit suggereert dat de toekomst ... in petto heeft",
     "translation": "This suggests that the future holds ...",
     "b1": [
-      "Cela suggère que l'avenir réserve de bonnes surprises.",
-      "Cela suggère que l'avenir réserve beaucoup de travail.",
-      "Cela suggère que l'avenir réserve de la pluie.",
-      "Cela suggère que l'avenir réserve du soleil.",
-      "Cela suggère que l'avenir réserve des voyages."
+      "Dit suggereert dat de toekomst mooie verrassingen in petto heeft.",
+      "Dit suggereert dat de toekomst veel werk in petto heeft.",
+      "Dit suggereert dat de toekomst regen in petto heeft.",
+      "Dit suggereert dat de toekomst zonneschijn in petto heeft.",
+      "Dit suggereert dat de toekomst reizen in petto heeft."
     ],
     "b2": [
-      "Cela suggère que l'avenir réserve de grands défis pour notre generation.",
-      "Cela suggère que l'avenir réserve des opportunités incroyables dans le domaine du numérique.",
-      "Cela suggère que l'avenir réserve des changements importants dans notre façon de vivre.",
-      "Cela suggère que l'avenir réserve une concurrence de plus en plus forte.",
-      "Cela suggère que l'avenir réserve une vie plus facile grâce à la technologie."
+      "Dit suggereert dat de toekomst grote uitdagingen voor onze generatie in petto heeft.",
+      "Dit suggereert dat de toekomst ongelooflijke kansen in de digitale wereld in petto heeft.",
+      "Dit suggereert dat de toekomst belangrijke veranderingen in onze manier van leven in petto heeft.",
+      "Dit suggereert dat de toekomst steeds fellere concurrentie in petto heeft.",
+      "Dit suggereert dat de toekomst een eenvoudiger leven dankzij technologie in petto heeft."
     ],
     "c1": [
-      "Cela suggère que l'avenir réserve une reconfiguration totale de nos systèmes de santé.",
-      "Cela suggère que l'avenir réserve une instabilité chronique pour les marchés financiers.",
-      "Cela suggère que l'avenir réserve des tensions croissantes autour des ressources énergétiques.",
-      "Cela suggère que l'avenir réserve une redéfinition radicale de la notion de vie privée.",
-      "Cela suggère que l'avenir réserve un glissement vers des formes de gouvernance plus locales."
+      "Dit suggereert dat de toekomst een volledige herziening van onze gezondheidsstelsels in petto heeft.",
+      "Dit suggereert dat de toekomst chronische instabiliteit voor de financiële markten in petto heeft.",
+      "Dit suggereert dat de toekomst toenemende spanningen rond energiebronnen in petto heeft.",
+      "Dit suggereert dat de toekomst een radicale herdefiniëring van het begrip privacy in petto heeft.",
+      "Dit suggereert dat de toekomst een verschuiving naar meer lokale bestuursvormen in petto heeft."
     ]
   },
   {
     "id": 12,
-    "pattern": "Le résultat dépend entièrement de ...",
+    "pattern": "Het resultaat hangt volledig af van ...",
     "translation": "The outcome depends entirely on whether or not ...",
     "b1": [
-      "Le résultat dépend entièrement de ton travail.",
-      "Le résultat dépend entièrement de la météo.",
-      "Le résultat dépend entièrement de ton choix.",
-      "Le résultat dépend entièrement de l'argent.",
-      "Le résultat dépend entièrement de ta réponse."
+      "Het resultaat hangt volledig af van jouw werk.",
+      "Het resultaat hangt volledig af van het weer.",
+      "Het resultaat hangt volledig af van jouw keuze.",
+      "Het resultaat hangt volledig af van het geld.",
+      "Het resultaat hangt volledig af van jouw antwoord."
     ],
     "b2": [
-      "Le résultat dépend entièrement de notre capacité à collaborer efficacement.",
-      "Le résultat dépend entièrement de la décision finale du directeur général.",
-      "Le résultat dépend entièrement de la qualité des matières premières utilisées.",
-      "Le résultat dépend entièrement du soutien que nous recevrons du public.",
-      "Le résultat dépend entièrement de l'évolution de la situation sanitaire mondiale."
+      "Het resultaat hangt volledig af van ons vermogen om effectief samen te werken.",
+      "Het resultaat hangt volledig af van de eindbeslissing van de algemeen directeur.",
+      "Het resultaat hangt volledig af van de kwaliteit van de gebruikte grondstoffen.",
+      "Het resultaat hangt volledig af van de steun die we van het publiek ontvangen.",
+      "Het resultaat hangt volledig af van de evolutie van de wereldwijde gezondheidssituatie."
     ],
     "c1": [
-      "Le résultat dépend entièrement de la synergie entre les différents acteurs du projet.",
-      "Le résultat dépend entièrement de la flexibilité de notre structure opérationnelle.",
-      "Le résultat dépend entièrement de la rigueur avec laquelle nous appliquerons ces normes.",
-      "Le résultat dépend entièrement de l'adéquation entre notre offre et la demande réelle.",
-      "Le résultat dépend entièrement de la pérennité des financements alloués à la recherche."
+      "Het resultaat hangt volledig af van de synergie tussen de verschillende projectpartners.",
+      "Het resultaat hangt volledig af van de flexibiliteit van onze operationele structuur.",
+      "Het resultaat hangt volledig af van de nauwgezetheid waarmee we deze normen zullen toepassen.",
+      "Het resultaat hangt volledig af van de afstemming tussen ons aanbod en de werkelijke vraag.",
+      "Het resultaat hangt volledig af van de continuïteit van de aan onderzoek toegewezen financiering."
     ]
   },
   {
     "id": 13,
-    "pattern": "Si la tendance se maintient, alors ...",
+    "pattern": "Als de trend zich voortzet, dan ...",
     "translation": "If the trend continues, then ...",
     "b1": [
-      "Si la tendance se maintient, alors il va faire très chaud.",
-      "Si la tendance se maintient, alors nous allons gagner le match.",
-      "Si la tendance se maintient, alors tout le monde va venir.",
-      "Si la tendance se maintient, alors les prix vont baisser.",
-      "Si la tendance se maintient, alors nous allons finir tôt."
+      "Als de trend zich voortzet, dan wordt het heel warm.",
+      "Als de trend zich voortzet, dan zullen we de wedstrijd winnen.",
+      "Als de trend zich voortzet, dan zal iedereen komen.",
+      "Als de trend zich voortzet, dan zullen de prijzen dalen.",
+      "Als de trend zich voortzet, dan zullen we vroeg klaar zijn."
     ],
     "b2": [
-      "Si la tendance se maintient, alors notre entreprise deviendra leader du marché l'année prochaine.",
-      "Si la tendance se maintient, alors les ressources naturelles s'épuiseront rapidement.",
-      "Si la tendance se maintient, alors le télétravail deviendra la norme pour tous.",
-      "Si la tendance se maintient, alors nous devrons doubler notre capacité de production.",
-      "Si la tendance se maintient, alors les tensions sociales risquent de s'intensifier."
+      "Als de trend zich voortzet, dan zal ons bedrijf volgend jaar marktleider worden.",
+      "Als de trend zich voortzet, dan zullen de natuurlijke hulpbronnen snel uitgeput raken.",
+      "Als de trend zich voortzet, dan zal thuiswerken de norm worden voor iedereen.",
+      "Als de trend zich voortzet, dan zullen we onze productiecapaciteit moeten verdubbelen.",
+      "Als de trend zich voortzet, dan dreigen de sociale spanningen te verhevigen."
     ],
     "c1": [
-      "Si la tendance se maintient, alors nous assisterons à une désertification des zones rurales.",
-      "Si la tendance se maintient, alors l'endettement public atteindra un seuil critique d'ici dix ans.",
-      "Si la tendance se maintient, alors l'obsolescence des compétences s'accélérera considérablement.",
-      "Si la tendance se maintient, alors la polarisation de l'opinion publique rendra tout dialogue impossible.",
-      "Si la tendance se maintient, alors la part des énergies fossiles dans le mix énergétique chutera drastiquement."
+      "Als de trend zich voortzet, dan zullen we een ontvolking van landelijke gebieden zien.",
+      "Als de trend zich voortzet, dan bereikt de overheidsschuld binnen tien jaar een kritieke drempel.",
+      "Als de trend zich voortzet, dan zal de veroudering van competenties aanzienlijk versnellen.",
+      "Als de trend zich voortzet, dan zal de polarisering van de publieke opinie elke dialoog onmogelijk maken.",
+      "Als de trend zich voortzet, dan zal het aandeel van fossiele brandstoffen in de energiemix drastisch dalen."
     ]
   },
   {
     "id": 14,
-    "pattern": "S'ils avaient considéré ..., le résultat aurait été ...",
+    "pattern": "Als ze ... hadden overwogen, zou het resultaat ... geweest zijn",
     "translation": "Had they considered ..., the result would have been ...",
     "b1": [
-      "S'ils avaient considéré le prix, le résultat aurait été différent.",
-      "S'ils avaient considéré la météo, le résultat aurait été meilleur.",
-      "S'ils avaient considéré mon avis, le résultat aurait été positif.",
-      "S'ils avaient considéré le temps, le résultat aurait été rapide.",
-      "S'ils avaient considéré les enfants, le résultat aurait été joyeux."
+      "Als ze de prijs hadden overwogen, zou het resultaat anders geweest zijn.",
+      "Als ze het weer hadden overwogen, zou het resultaat beter geweest zijn.",
+      "Als ze mijn mening hadden overwogen, zou het resultaat positief geweest zijn.",
+      "Als ze de tijd hadden overwogen, zou het resultaat sneller geweest zijn.",
+      "Als ze de kinderen hadden overwogen, zou het resultaat vrolijker geweest zijn."
     ],
     "b2": [
-      "S'ils avaient considéré les risques environnementaux, le résultat aurait été moins catastrophique.",
-      "S'ils avaient considéré l'opinion des clients, le résultat aurait été un succès commercial.",
-      "S'ils avaient considéré les coûts de maintenance, le résultat aurait été plus réaliste.",
-      "S'ils avaient considéré la concurrence, le résultat aurait été une stratégie plus agressive.",
-      "S'ils avaient considéré la législation en vigueur, le résultat aurait été légal."
+      "Als ze de milieurisico's hadden overwogen, zou het resultaat minder catastrofaal geweest zijn.",
+      "Als ze de mening van de klanten hadden overwogen, zou het resultaat een commercieel succes geweest zijn.",
+      "Als ze de onderhoudskosten hadden overwogen, zou het resultaat realistischer geweest zijn.",
+      "Als ze de concurrentie hadden overwogen, zou het resultaat een agressievere strategie geweest zijn.",
+      "Als ze de geldende wetgeving hadden overwogen, zou het resultaat legaal geweest zijn."
     ],
     "c1": [
-      "S'ils avaient considéré les implications sociologiques, le résultat aurait été une intégration plus fluide.",
-      "S'ils avaient considéré la volatilité du marché boursier, le résultat aurait été une gestion plus prudente.",
-      "S'ils avaient considéré la fragilité des alliances diplomatiques, le résultat aurait été la paix.",
-      "S'ils avaient considéré l'impact de l'automatisation sur l'emploi, le résultat aurait été une réforme sociale.",
-      "S'ils avaient considéré la saturation du réseau, le résultat aurait été une infrastructure plus robuste."
+      "Als ze de sociologische implicaties hadden overwogen, zou het resultaat een soepelere integratie geweest zijn.",
+      "Als ze de volatiliteit van de aandelenmarkt hadden overwogen, zou het resultaat een voorzichtiger beheer geweest zijn.",
+      "Als ze de fragiliteit van de diplomatieke allianties hadden overwogen, zou het resultaat vrede geweest zijn.",
+      "Als ze de impact van automatisering op de werkgelegenheid hadden overwogen, zou het resultaat een sociale hervorming geweest zijn.",
+      "Als ze de verzadiging van het netwerk hadden overwogen, zou het resultaat een robuustere infrastructuur geweest zijn."
     ]
   },
   {
     "id": 15,
-    "pattern": "Nous avons besoin d'un plan de secours au cas où ...",
+    "pattern": "We hebben een noodplan nodig voor het geval dat ...",
     "translation": "We need a backup plan in case ...",
     "b1": [
-      "Nous avons besoin d'un plan de secours au cas où il pleuvrait.",
-      "Nous avons besoin d'un plan de secours au cas où le train serait en retard.",
-      "Nous avons besoin d'un plan de secours au cas où le restaurant serait fermé.",
-      "Nous avons besoin d'un plan de secours au cas où j'oublierais mes clés.",
-      "Nous avons besoin d'un plan de secours au cas où nous n'aurions plus d'argent."
+      "We hebben een noodplan nodig voor het geval dat het regent.",
+      "We hebben een noodplan nodig voor het geval dat de trein vertraging heeft.",
+      "We hebben een noodplan nodig voor het geval dat het restaurant gesloten is.",
+      "We hebben een noodplan nodig voor het geval dat ik mijn sleutels vergeet.",
+      "We hebben een noodplan nodig voor het geval dat we geen geld meer hebben."
     ],
     "b2": [
-      "Nous avons besoin d'un plan de secours au cas où le financement principal serait refusé.",
-      "Nous avons besoin d'un plan de secours au cas où le système informatique tomberait en panne.",
-      "Nous avons besoin d'un plan de secours au cas où notre fournisseur ferait faillite.",
-      "Nous avons besoin d'un plan de secours au cas où les ventes chuteraient brutalement.",
-      "Nous avons besoin d'un plan de secours au cas où la réunion serait annulée à la dernière minute."
+      "We hebben een noodplan nodig voor het geval dat de hoofdfinanciering wordt geweigerd.",
+      "We hebben een noodplan nodig voor het geval dat het computersysteem uitvalt.",
+      "We hebben een noodplan nodig voor het geval dat onze leverancier failliet gaat.",
+      "We hebben een noodplan nodig voor het geval dat de verkoop plots inzakt.",
+      "We hebben een noodplan nodig voor het geval dat de vergadering op het laatste moment wordt geannuleerd."
     ],
     "c1": [
-      "Nous avons besoin d'un plan de secours au cas où une crise géopolitique bloquerait les exportations.",
-      "Nous avons besoin d'un plan de secours au cas où la cyber-résilience de l'entreprise serait compromise.",
-      "Nous avons besoin d'un plan de secours au cas où la nouvelle réglementation rendrait notre produit obsolète.",
-      "Nous avons besoin d'un plan de secours au cas où un scandale ternirait notre réputation mondiale.",
-      "Nous avons besoin d'un plan de secours au cas où l'inflation rendrait les coûts de production insupportables."
+      "We hebben een noodplan nodig voor het geval dat een geopolitieke crisis de uitvoer blokkeert.",
+      "We hebben een noodplan nodig voor het geval dat de cyberweerbaarheid van het bedrijf in gevaar komt.",
+      "We hebben een noodplan nodig voor het geval dat de nieuwe regelgeving ons product overbodig maakt.",
+      "We hebben een noodplan nodig voor het geval dat een schandaal onze wereldwijde reputatie schaadt.",
+      "We hebben een noodplan nodig voor het geval dat de inflatie de productiekosten onhoudbaar maakt."
     ]
   },
   {
     "id": 16,
-    "pattern": "Il est concevable que ...",
+    "pattern": "Het is denkbaar dat ...",
     "translation": "It is conceivable that ...",
     "b1": [
-      "Il est concevable que tu sois fatigué.",
-      "Il est concevable qu'il pleuve cet après-midi.",
-      "Il est concevable que ce soit difficile au début.",
-      "Il est concevable que nous mangions au restaurant.",
-      "Il est concevable que le prix baisse bientôt."
+      "Het is denkbaar dat jij moe bent.",
+      "Het is denkbaar dat het vanmiddag regent.",
+      "Het is denkbaar dat het in het begin moeilijk is.",
+      "Het is denkbaar dat we in een restaurant eten.",
+      "Het is denkbaar dat de prijs binnenkort daalt."
     ],
     "b2": [
-      "Il est concevable que les deux parties ne trouvent jamais d'accord amiable.",
-      "Il est concevable que la technologie actuelle soit obsolète d'ici cinq ans.",
-      "Il est concevable que nous devions revoir toute notre organisation interne.",
-      "Il est concevable que l'intérêt pour ce produit diminue avec le temps.",
-      "Il est concevable que le télétravail devienne une obligation légale."
+      "Het is denkbaar dat de twee partijen nooit tot een minnelijk akkoord komen.",
+      "Het is denkbaar dat de huidige technologie over vijf jaar achterhaald is.",
+      "Het is denkbaar dat we onze volledige interne organisatie moeten herzien.",
+      "Het is denkbaar dat de interesse voor dit product na verloop van tijd afneemt.",
+      "Het is denkbaar dat thuiswerken een wettelijke verplichting wordt."
     ],
     "c1": [
-      "Il est concevable que l'humanité doive coloniser d'autres planètes pour survivre.",
-      "Il est concevable que la structure même de l'État-nation soit remise en question.",
-      "Il est concevable que l'intelligence artificielle finisse par développer une forme de conscience.",
-      "Il est concevable que nous assistions à une décroissance subie plutôt que choisie.",
-      "Il est concevable que la monnaie physique disparaisse totalement au profit du numérique."
+      "Het is denkbaar dat de mensheid andere planeten zal moeten koloniseren om te overleven.",
+      "Het is denkbaar dat de structuur van de natiestaat zelf ter discussie wordt gesteld.",
+      "Het is denkbaar dat kunstmatige intelligentie uiteindelijk een vorm van bewustzijn ontwikkelt.",
+      "Het is denkbaar dat we een opgelegde krimp meemaken in plaats van een gekozen een.",
+      "Het is denkbaar dat fysiek geld volledig verdwijnt ten gunste van digitale valuta."
     ]
   },
   {
     "id": 17,
-    "pattern": "Sans ..., il est impossible de ...",
+    "pattern": "Zonder ..., is het onmogelijk om ...",
     "translation": "Without ..., it is impossible to ...",
     "b1": [
-      "Sans argent, il est impossible d'acheter cette voiture.",
-      "Sans eau, il est impossible de vivre.",
-      "Sans clé, il est impossible d'ouvrir la porte.",
-      "Sans études, il est impossible de réussir cet examen.",
-      "Sans soleil, il est impossible d'aller à la plage."
+      "Zonder geld, is het onmogelijk om deze auto te kopen.",
+      "Zonder water, is het onmogelijk om te leven.",
+      "Zonder sleutel, is het onmogelijk om de deur te openen.",
+      "Zonder te studeren, is het onmogelijk om dit examen te halen.",
+      "Zonder zon, is het onmogelijk om naar het strand te gaan."
     ],
     "b2": [
-      "Sans une communication claire, il est impossible de mener à bien ce projet.",
-      "Sans le soutien de la direction, il est impossible de changer la culture d'entreprise.",
-      "Sans un investissement massif, il est impossible de rester compétitif sur ce marché.",
-      "Sans la confiance des clients, il est impossible de pérenniser notre activité.",
-      "Sans des outils modernes, il est impossible d'augmenter la productivité."
+      "Zonder duidelijke communicatie, is het onmogelijk om dit project tot een goed einde te brengen.",
+      "Zonder steun van de directie, is het onmogelijk om de bedrijfscultuur te veranderen.",
+      "Zonder een massale investering, is het onmogelijk om concurrentieel te blijven op deze markt.",
+      "Zonder het vertrouwen van klanten, is het onmogelijk om onze activiteit te bestendigen.",
+      "Zonder moderne tools, is het onmogelijk om de productiviteit te verhogen."
     ],
     "c1": [
-      "Sans une vision stratégique cohérente, il est impossible d'anticiper les ruptures du marché.",
-      "Sans une éthique rigoureuse, il est impossible de garantir l'intégrité de la recherche scientifique.",
-      "Sans un consensus international, il est impossible de réguler les flux financiers mondiaux.",
-      "Sans une résilience psychologique forte, il est impossible de surmonter une telle crise systémique.",
-      "Sans une remise en question de nos modes de vie, il est impossible d'atteindre la neutralité carbone."
+      "Zonder een coherente strategische visie, is het onmogelijk om marktontwrichtingen te anticiperen.",
+      "Zonder een strenge ethiek, is het onmogelijk om de integriteit van wetenschappelijk onderzoek te garanderen.",
+      "Zonder een internationaal consensus, is het onmogelijk om de wereldwijde financiële stromen te reguleren.",
+      "Zonder een sterke psychologische weerbaarheid, is het onmogelijk om zo'n systemische crisis te overwinnen.",
+      "Zonder een herziening van onze levensstijlen, is het onmogelijk om koolstofneutraliteit te bereiken."
     ]
   },
   {
     "id": 18,
-    "pattern": "Les preuves indiquent que ... va se produire.",
+    "pattern": "Het bewijs wijst erop dat ... zal gebeuren.",
     "translation": "The evidence points towards ... happening.",
     "b1": [
-      "Les preuves indiquent qu'il va pleuvoir.",
-      "Les preuves indiquent que tu as raison.",
-      "Les preuves indiquent que le train est parti.",
-      "Les preuves indiquent que le film est bien.",
-      "Les preuves indiquent que c'est cassé."
+      "Het bewijs wijst erop dat het zal regenen.",
+      "Het bewijs wijst erop dat jij gelijk hebt.",
+      "Het bewijs wijst erop dat de trein is vertrokken.",
+      "Het bewijs wijst erop dat de film goed is.",
+      "Het bewijs wijst erop dat het kapot is."
     ],
     "b2": [
-      "Les preuves indiquent qu'une augmentation des températures va se produire cette décennie.",
-      "Les preuves indiquent qu'une baisse de la consommation va se produire prochainement.",
-      "Les preuves indiquent qu'un changement de direction va se produire dans le groupe.",
-      "Les preuves indiquent qu'un ralentissement économique va se produire à l'automne.",
-      "Les preuves indiquent qu'une révolution technologique va se produire dans la médecine."
+      "Het bewijs wijst erop dat een temperatuurstijging dit decennium zal gebeuren.",
+      "Het bewijs wijst erop dat een daling van de consumptie binnenkort zal gebeuren.",
+      "Het bewijs wijst erop dat een leiderschapswissel in de groep zal gebeuren.",
+      "Het bewijs wijst erop dat een economische vertraging in het najaar zal gebeuren.",
+      "Het bewijs wijst erop dat een technologische revolutie in de geneeskunde zal gebeuren."
     ],
     "c1": [
-      "Les preuves indiquent qu'un effondrement de la biodiversité marine va se produire sans mesures urgentes.",
-      "Les preuves indiquent qu'un basculement géopolitique vers l'Asie va se produire inexorablement.",
-      "Les preuves indiquent qu'une crise de la dette souveraine va se produire si les taux remontent.",
-      "Les preuves indiquent qu'une mutation génétique de ce virus va se produire naturellement.",
-      "Les preuves indiquent qu'une déstabilisation des institutions démocratiques va se produire à cause de la désinformation."
+      "Het bewijs wijst erop dat een instorting van de mariene biodiversiteit zal gebeuren zonder dringende maatregelen.",
+      "Het bewijs wijst erop dat een geopolitieke verschuiving richting Azië onherroepelijk zal gebeuren.",
+      "Het bewijs wijst erop dat een staatsschuldencrisis zal gebeuren als de rentes stijgen.",
+      "Het bewijs wijst erop dat een genetische mutatie van dit virus van nature zal gebeuren.",
+      "Het bewijs wijst erop dat een destabilisering van democratische instellingen door desinformatie zal gebeuren."
     ]
   },
   {
     "id": 19,
-    "pattern": "À condition que ..., nous pouvons procéder à ...",
+    "pattern": "Op voorwaarde dat ..., kunnen we overgaan tot ...",
     "translation": "On the condition that ..., we can proceed with ...",
     "b1": [
-      "À condition qu'il fasse beau, nous pouvons procéder à la promenade.",
-      "À condition que tu finisses tes devoirs, nous pouvons procéder au jeu.",
-      "À condition que tout soit prêt, nous pouvons procéder au départ.",
-      "À condition que tu sois d'accord, nous pouvons procéder au mariage.",
-      "À condition que le prix baisse, nous pouvons procéder à l'achat."
+      "Op voorwaarde dat het mooi weer is, kunnen we overgaan tot de wandeling.",
+      "Op voorwaarde dat jij je huiswerk afmaakt, kunnen we overgaan tot het spel.",
+      "Op voorwaarde dat alles klaar is, kunnen we overgaan tot het vertrek.",
+      "Op voorwaarde dat jij het ermee eens bent, kunnen we overgaan tot het huwelijk.",
+      "Op voorwaarde dat de prijs daalt, kunnen we overgaan tot de aankoop."
     ],
     "b2": [
-      "À condition que le contrat soit signé, nous pouvons procéder à l'envoi de la marchandise.",
-      "À condition que les fonds soient débloqués, nous pouvons procéder aux travaux de rénovation.",
-      "À condition que les tests soient positifs, nous pouvons procéder au lancement national.",
-      "À condition que vous respectiez les consignes, nous pouvons procéder à l'entretien.",
-      "À condition que la sécurité soit garantie, nous pouvons procéder à l'ouverture du site."
+      "Op voorwaarde dat het contract is getekend, kunnen we overgaan tot de verzending van de goederen.",
+      "Op voorwaarde dat de middelen zijn vrijgemaakt, kunnen we overgaan tot de renovatiewerken.",
+      "Op voorwaarde dat de tests positief zijn, kunnen we overgaan tot de nationale lancering.",
+      "Op voorwaarde dat u de richtlijnen respecteert, kunnen we overgaan tot het gesprek.",
+      "Op voorwaarde dat de veiligheid is gewaarborgd, kunnen we overgaan tot de opening van de site."
     ],
     "c1": [
-      "À condition que l'audit soit favorable, nous pouvons procéder à la fusion-acquisition.",
-      "À condition que le cadre législatif soit clarifié, nous pouvons procéder à l'implantation en zone franche.",
-      "À condition que la souveraineté numérique soit assurée, nous pouvons procéder à la migration des données.",
-      "À condition que les actionnaires valident le plan, nous pouvons procéder à la restructuration du capital.",
-      "À condition que la paix soit rétablie, nous pouvons procéder à la reconstruction des infrastructures."
+      "Op voorwaarde dat de audit gunstig uitvalt, kunnen we overgaan tot de fusie-overname.",
+      "Op voorwaarde dat het wetgevend kader is verduidelijkt, kunnen we overgaan tot de vestiging in de vrijhandelszone.",
+      "Op voorwaarde dat de digitale soevereiniteit is verzekerd, kunnen we overgaan tot de gegevensmigratie.",
+      "Op voorwaarde dat de aandeelhouders het plan valideren, kunnen we overgaan tot de herstructurering van het kapitaal.",
+      "Op voorwaarde dat de vrede is hersteld, kunnen we overgaan tot de wederopbouw van de infrastructuren."
     ]
   },
   {
     "id": 20,
-    "pattern": "L'implication à long terme est ...",
+    "pattern": "De implicatie op lange termijn is ...",
     "translation": "The long-term implication is ...",
     "b1": [
-      "L'implication à long terme est que nous serons en bonne santé.",
-      "L'implication à long terme est que nous économiserons de l'argent.",
-      "L'implication à long terme est que nous apprendrons mieux le français.",
-      "L'implication à long terme est que notre jardin sera beau.",
-      "L'implication à long terme est que nous serons plus calmes."
+      "De implicatie op lange termijn is dat we gezond zullen zijn.",
+      "De implicatie op lange termijn is dat we geld zullen besparen.",
+      "De implicatie op lange termijn is dat we beter Nederlands zullen leren.",
+      "De implicatie op lange termijn is dat onze tuin mooi zal zijn.",
+      "De implicatie op lange termijn is dat we rustiger zullen zijn."
     ],
     "b2": [
-      "L'implication à long terme est une dépendance accrue aux énergies importées.",
-      "L'implication à long terme est la disparition de certains commerces de proximité.",
-      "L'implication à long terme est une amélioration de la qualité de vie des citadins.",
-      "L'implication à long terme est la création de nouveaux secteurs d'emploi.",
-      "L'implication à long terme est une réduction significative de notre empreinte écologique."
+      "De implicatie op lange termijn is een toenemende afhankelijkheid van ingevoerde energie.",
+      "De implicatie op lange termijn is de verdwijning van bepaalde buurtwinkels.",
+      "De implicatie op lange termijn is een verbetering van de levenskwaliteit van stedelingen.",
+      "De implicatie op lange termijn is de creatie van nieuwe tewerkstellingssectoren.",
+      "De implicatie op lange termijn is een aanzienlijke vermindering van onze ecologische voetafdruk."
     ],
     "c1": [
-      "L'implication à long terme est une érosion inéluctable du pouvoir d'achat des classes moyennes.",
-      "L'implication à long terme est un changement radical des structures familiales traditionnelles.",
-      "L'implication à long terme est la perte de notre autonomie stratégique face aux géants du web.",
-      "L'implication à long terme est une mutation de la conscience collective vis-à-vis du travail.",
-      "L'implication à long terme est le risque d'une instabilité sociale chronique due aux inégalités."
+      "De implicatie op lange termijn is een onvermijdelijke erosie van de koopkracht van de middenklasse.",
+      "De implicatie op lange termijn is een radicale verandering van traditionele gezinsstructuren.",
+      "De implicatie op lange termijn is het verlies van onze strategische autonomie tegenover techgiganten.",
+      "De implicatie op lange termijn is een verschuiving van het collectief bewustzijn ten aanzien van werk.",
+      "De implicatie op lange termijn is het risico op chronische sociale instabiliteit door ongelijkheid."
     ]
   }
 ]
