@@ -1,0 +1,88 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import Box2 from "../../../components/Box2.astro";
+import Button2 from "../../../components/Button2.astro";
+
+import chapters from "../../../assets/json/patterns/chapters.json";
+import chapter1 from "../../../assets/json/patterns/french/chapter1.json";
+import chapter2 from "../../../assets/json/patterns/french/chapter2.json";
+import chapter3 from "../../../assets/json/patterns/french/chapter3.json";
+import chapter4 from "../../../assets/json/patterns/french/chapter4.json";
+import chapter5 from "../../../assets/json/patterns/french/chapter5.json";
+import chapter6 from "../../../assets/json/patterns/french/chapter6.json";
+import chapter7 from "../../../assets/json/patterns/french/chapter7.json";
+import chapter8 from "../../../assets/json/patterns/french/chapter8.json";
+import chapter9 from "../../../assets/json/patterns/french/chapter9.json";
+import chapter10 from "../../../assets/json/patterns/french/chapter10.json";
+
+// 1. 빌드 시 생성될 모든 경로를 정의합니다.
+export async function getStaticPaths() {
+  // 모든 레벨의 모든 챕터를 하나의 배열로 평탄화(flatten)하여 경로를 생성합니다.
+  return chapters.map((chapter) => ({
+    params: {
+      path: chapter.path, // [path] 부분에 들어갈 값
+    },
+    props: { chapter },
+  }));
+}
+
+// 2. 위에서 넘겨준 props를 받아옵니다.
+const { path } = Astro.params;
+const { chapter } = Astro.props;
+
+// Chapter 지정
+let jsonData;
+switch (chapter.id) {
+  case 1:
+    jsonData = chapter1;
+    break;
+  case 2:
+    jsonData = chapter2;
+    break;
+  case 3:
+    jsonData = chapter3;
+    break;
+  case 4:
+    jsonData = chapter4;
+    break;
+  case 5:
+    jsonData = chapter5;
+    break;
+  case 6:
+    jsonData = chapter6;
+    break;
+  case 7:
+    jsonData = chapter7;
+    break;
+  case 8:
+    jsonData = chapter8;
+    break;
+  case 9:
+    jsonData = chapter9;
+    break;
+  case 10:
+    jsonData = chapter10;
+    break;
+  default:
+    jsonData = chapter1;
+    break;
+}
+
+const pageTitle = "French Sentence Patterns";
+---
+
+<BaseLayout pageTitle={pageTitle + " - Lublio"}>
+  <Box2 title={chapter.fra} subtitle={chapter.eng} language="fra" />
+
+  {
+    jsonData.map((post: any) => (
+      <Button2
+        id={post.id}
+        title={post.pattern}
+        subtitle={post.translation}
+        language="fra"
+        path={"/french/pattern/" + path + "/" + post.id}
+      />
+    ))
+  }
+</BaseLayout>

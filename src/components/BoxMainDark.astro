@@ -1,0 +1,209 @@
+---
+import "../styles/fonts.css";
+import "../styles/colors.css";
+import "../styles/transition.css";
+import CubeDark from "./CubeDark.astro";
+
+const { title, subtitle, description, language } = Astro.props;
+
+const colorMap800: Record<string, string> = {
+  nld: "var(--orange800)",
+  fra: "var(--sky800)",
+  deu: "var(--amber800)",
+  ita: "var(--emerald800)",
+  spa: "var(--rose800)",
+  rus: "var(--indigo800)",
+};
+const colorMap700: Record<string, string> = {
+  nld: "var(--orange700)",
+  fra: "var(--sky700)",
+  deu: "var(--amber700)",
+  ita: "var(--emerald700)",
+  spa: "var(--rose700)",
+  rus: "var(--indigo700)",
+};
+const colorMap600: Record<string, string> = {
+  nld: "var(--orange600)",
+  fra: "var(--sky600)",
+  deu: "var(--amber600)",
+  ita: "var(--emerald600)",
+  spa: "var(--rose600)",
+  rus: "var(--indigo600)",
+};
+const colorMap500: Record<string, string> = {
+  nld: "var(--orange500)",
+  fra: "var(--sky500)",
+  deu: "var(--amber500)",
+  ita: "var(--emerald500)",
+  spa: "var(--rose500)",
+  rus: "var(--indigo500)",
+};
+const colorMap400: Record<string, string> = {
+  nld: "var(--orange400)",
+  fra: "var(--sky400)",
+  deu: "var(--amber400)",
+  ita: "var(--emerald400)",
+  spa: "var(--rose400)",
+  rus: "var(--indigo400)",
+};
+const colorMap300: Record<string, string> = {
+  nld: "var(--orange300)",
+  fra: "var(--sky300)",
+  deu: "var(--amber300)",
+  ita: "var(--emerald300)",
+  spa: "var(--rose300)",
+  rus: "var(--indigo300)",
+};
+const colorMap200: Record<string, string> = {
+  nld: "var(--orange200)",
+  fra: "var(--sky200)",
+  deu: "var(--amber200)",
+  ita: "var(--emerald200)",
+  spa: "var(--rose200)",
+  rus: "var(--indigo200)",
+};
+const colorMap100: Record<string, string> = {
+  nld: "var(--orange100)",
+  fra: "var(--sky100)",
+  deu: "var(--amber100)",
+  ita: "var(--emerald100)",
+  spa: "var(--rose100)",
+  rus: "var(--indigo100)",
+};
+const color800 = colorMap800[language] || "var(--zinc800)";
+const color700 = colorMap700[language] || "var(--zinc700)";
+const color600 = colorMap600[language] || "var(--zinc600)";
+const color500 = colorMap500[language] || "var(--zinc500)";
+const color400 = colorMap400[language] || "var(--zinc400)";
+const color300 = colorMap300[language] || "var(--zinc300)";
+const color200 = colorMap200[language] || "var(--zinc200)";
+const color100 = colorMap100[language] || "var(--zinc100)";
+---
+
+<style define:vars={{ color500, color400, color300, color200, color100 }}>
+  .box {
+    background-color: transparent;
+  }
+
+  .box > h2,
+  .box > h3,
+  .box > p {
+    color: var(--zinc800);
+  }
+
+  .box > h2::after {
+    background-color: var(--color400);
+  }
+
+  .box .loader::before,
+  .box .loader::after {
+    background-color: var(--color400);
+  }
+</style>
+
+<div class="box riseUp_1">
+  <div class="box-left">
+    <h2 class="riseUp_2">{title}</h2>
+    <h3 class="riseUp_3">{subtitle}</h3>
+    <p class="riseUp_4">{description}</p>
+  </div>
+  <div class="box-right">
+    <CubeDark language={language} />
+  </div>
+</div>
+
+<style>
+  .box {
+    position: relative;
+    display: flex;
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    max-height: 340px;
+    margin-bottom: 2rem;
+    outline: none;
+    z-index: 0;
+    text-decoration: none;
+    transition: all 1s cubic-bezier(0.19, 1, 0.22, 1);
+  }
+
+  .box-left {
+    width: 50%;
+  }
+
+  .box-left > h2 {
+    position: relative;
+    font-family: "Roboto Condensed", sans-serif;
+    text-transform: uppercase;
+    display: inline;
+    font-size: 60px;
+    font-weight: 600;
+    line-height: 1;
+    word-break: keep-all;
+    word-wrap: break-word;
+    transition: all 0.4s;
+  }
+
+  .box-left > h3 {
+    position: relative;
+    display: block;
+    font-size: 28px;
+    font-weight: 600;
+    letter-spacing: 0px;
+    line-height: 1;
+    margin-top: 10px;
+    transition: all 0.4s;
+  }
+
+  .box-left > p {
+    position: relative;
+    width: 100%;
+    font-size: 15px;
+    font-weight: 500;
+    letter-spacing: 0px;
+    line-height: 1.4;
+    transition: all 0.4s;
+  }
+
+  .box > p:last-child {
+    margin-bottom: 0px;
+  }
+
+  .box-left > h2,
+  .box-left > h3,
+  .box-left > p {
+    color: var(--zinc50);
+  }
+
+  .box-right {
+    width: 50%;
+  }
+
+  /* Mobile */
+  @media (max-width: 480px) {
+    .box {
+      flex-direction: column;
+      max-height: 510px;
+    }
+
+    .box-left,
+    .box-right {
+      width: 100%;
+    }
+
+    .box-left > h2 {
+      font-size: 50px;
+    }
+
+    .box-left > h3 {
+      font-size: 24px;
+    }
+
+    .box-left > p {
+      font-size: 13px;
+    }
+
+    .box-right {
+      transform: translateY(-60px);
+    }
+  }
+</style>

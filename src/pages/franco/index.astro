@@ -1,0 +1,114 @@
+---
+import FrancoLayout from "../../layouts/FrancoLayout.astro";
+import BoxMainDark from "../../components/BoxMainDark.astro";
+import Button from "../../components/Button.astro";
+
+const pageTitle = "French";
+---
+
+<FrancoLayout pageTitle={pageTitle + " - Lublio"}>
+  <BoxMainDark
+    title="Franco"
+    subtitle="프로젝트 프랑코"
+    description="Le français est la langue de l'amour et de la diplomatie. Reconnue pour son élégance et sa précision, elle brille à travers le monde comme un vecteur essentiel de la culture, de la gastronomie et des arts libéraux."
+    language="fra"
+  />
+
+  <div class="button-wrapper">
+    <Button
+      title="Phrases"
+      subtitle="Phrasebook"
+      description="CEFR A1 - B2"
+      language="fra"
+      path="/french/phrasebook"
+      level="phrase"
+    />
+
+    <Button
+      title="Modèles"
+      subtitle="Patterns"
+      description="CEFR B1 - C1"
+      language="fra"
+      path="/french/pattern"
+      level="pattern"
+    />
+
+    <!-- <Button
+      title="Débutant complet"
+      subtitle="프랑스어 첫걸음"
+      description="CEFR A0"
+      language="fra"
+      path="/french/a0"
+      level="a0"
+      isDev="true"
+    />
+
+    <Button
+      title="Débutant"
+      subtitle="기초 프랑스어"
+      description="CEFR A1"
+      language="fra"
+      path="/french/a1"
+      level="a1"
+      isDev="true"
+    />
+
+    <Button
+      title="Élémentaire"
+      subtitle="초급 프랑스어"
+      description="CEFR A2"
+      language="fra"
+      path="/french/a2"
+      level="a2"
+      isDev="true"
+    />
+
+    <Button
+      title="Intermédiaire"
+      subtitle="중급 프랑스어"
+      description="CEFR B1"
+      language="fra"
+      path="/french/b1"
+      level="b1"
+      isDev="true"
+    />
+
+    <Button
+      title="Intermédiaire supérieur"
+      subtitle="중고급 프랑스어"
+      description="CEFR B2"
+      language="fra"
+      path="/french/b2"
+      level="b2"
+      isDev="true"
+    /> -->
+  </div>
+
+  <!-- <Button
+    title="Grammaire"
+    subtitle="Grammar"
+    description="CEFR A1 - B2"
+    language="fra"
+    path="/french/grammar"
+    level="grammar"
+    isDev="true"
+  /> -->
+</BaseLayout>
+
+<style>
+  .button-wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-items: stretch;
+    gap: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  /* Mobile */
+  @media (max-width: 480px) {
+    .button-wrapper {
+      gap: 10px;
+      margin-bottom: 10px;
+    }
+  }
+</style>

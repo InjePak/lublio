@@ -1,0 +1,198 @@
+---
+import "../styles/fonts.css";
+import "../styles/colors.css";
+import "../styles/transition.css";
+
+const { language, level } = Astro.props;
+
+const colorMap800: Record<string, string> = {
+  eng: "var(--pink800)",
+  fra: "var(--sky800)",
+  deu: "var(--amber800)",
+  ita: "var(--emerald800)",
+  esp: "var(--orange800)",
+  rus: "var(--indigo800)",
+};
+const colorMap700: Record<string, string> = {
+  eng: "var(--pink700)",
+  fra: "var(--sky700)",
+  deu: "var(--amber700)",
+  ita: "var(--emerald700)",
+  esp: "var(--orange700)",
+  rus: "var(--indigo700)",
+};
+const colorMap600: Record<string, string> = {
+  eng: "var(--pink600)",
+  fra: "var(--sky600)",
+  deu: "var(--amber600)",
+  ita: "var(--emerald600)",
+  esp: "var(--orange600)",
+  rus: "var(--indigo600)",
+};
+const colorMap500: Record<string, string> = {
+  eng: "var(--pink500)",
+  fra: "var(--sky500)",
+  deu: "var(--amber500)",
+  ita: "var(--emerald500)",
+  esp: "var(--orange500)",
+  rus: "var(--indigo500)",
+};
+const colorMap400: Record<string, string> = {
+  eng: "var(--pink400)",
+  fra: "var(--sky400)",
+  deu: "var(--amber400)",
+  ita: "var(--emerald400)",
+  esp: "var(--orange400)",
+  rus: "var(--indigo400)",
+};
+const colorMap300: Record<string, string> = {
+  eng: "var(--pink300)",
+  fra: "var(--sky300)",
+  deu: "var(--amber300)",
+  ita: "var(--emerald300)",
+  esp: "var(--orange300)",
+  rus: "var(--indigo300)",
+};
+const colorMap200: Record<string, string> = {
+  eng: "var(--pink200)",
+  fra: "var(--sky200)",
+  deu: "var(--amber200)",
+  ita: "var(--emerald200)",
+  esp: "var(--orange200)",
+  rus: "var(--indigo200)",
+};
+const colorMap100: Record<string, string> = {
+  eng: "var(--pink100)",
+  fra: "var(--sky100)",
+  deu: "var(--amber100)",
+  ita: "var(--emerald100)",
+  esp: "var(--orange100)",
+  rus: "var(--indigo100)",
+};
+const color800 = colorMap800[language] || "var(--zinc800)";
+const color700 = colorMap700[language] || "var(--zinc700)";
+const color600 = colorMap600[language] || "var(--zinc600)";
+const color500 = colorMap500[language] || "var(--zinc500)";
+const color400 = colorMap400[language] || "var(--zinc400)";
+const color300 = colorMap300[language] || "var(--zinc300)";
+const color200 = colorMap200[language] || "var(--zinc200)";
+const color100 = colorMap100[language] || "var(--zinc100)";
+
+let colorLightest = color200;
+let colorDarkest = color700;
+---
+
+<style define:vars={{ colorLightest, colorDarkest }}>
+  .cube > div > span {
+    background: linear-gradient(var(--colorLightest), var(--colorDarkest));
+  }
+
+  .top {
+    background-color: var(--colorLightest);
+  }
+
+  .top::before {
+    background-color: var(--colorDarkest);
+    box-shadow:
+      0 0 120px var(--colorDarkest),
+      0 0 200px var(--colorDarkest);
+  }
+
+  .bottom {
+    background-color: var(--colorDarkest);
+  }
+</style>
+
+<div class="cube">
+  <div class="top"></div>
+  <div>
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+  <div class="bottom"></div>
+</div>
+
+<style>
+  .cube {
+    position: relative;
+    width: 150px;
+    height: 150px;
+    margin: 100px auto;
+    transform-style: preserve-3d;
+    transform: rotateX(-30deg);
+    animation: animate 3s linear infinite;
+  }
+
+  @keyframes animate {
+    0% {
+      transform: rotateX(-20deg) rotateY(0deg);
+    }
+    100% {
+      transform: rotateX(-20deg) rotateY(360deg);
+    }
+  }
+
+  .cube > div {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    transform-style: preserve-3d;
+  }
+
+  .cube > div > span {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .cube > div > span:nth-child(1) {
+    transform: rotateY(calc(90deg * 0)) translateZ(75px);
+  }
+
+  .cube > div > span:nth-child(2) {
+    transform: rotateY(calc(90deg * 1)) translateZ(75px);
+  }
+
+  .cube > div > span:nth-child(3) {
+    transform: rotateY(calc(90deg * 2)) translateZ(75px);
+  }
+
+  .cube > div > span:nth-child(4) {
+    transform: rotateY(calc(90deg * 3)) translateZ(75px);
+  }
+
+  .top {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 150px;
+    height: 150px;
+    transform: rotateX(90deg) translateZ(75px);
+  }
+
+  .bottom {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 150px;
+    height: 150px;
+    transform: rotateX(90deg) translateZ(-75px);
+  }
+
+  .top::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 150px;
+    height: 150px;
+    transform: translateZ(-200px);
+    filter: blur(20px);
+  }
+</style>
