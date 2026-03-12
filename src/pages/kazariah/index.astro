@@ -1,0 +1,106 @@
+---
+import KazariahLayout from "../../layouts/KazariahLayout.astro";
+import BoxMainFrontier from "../../components/BoxMainFrontier.astro";
+import ButtonFrontier from "../../components/ButtonFrontier.astro";
+
+const pageTitle = "Kazariah";
+---
+
+<KazariahLayout pageTitle={pageTitle + " | Powered by Lublio"}>
+  <BoxMainFrontier
+    title="Kazariah"
+    subtitle="프로젝트 카자리아"
+    description="카자흐어는 드넓은 초원의 바람처럼 자유롭고 깊은 언어입니다. 유목민의 발자취를 따라 수천 킬로미터를 가로지른 이야기들이 구비 문학의 형태로 살아남아 오늘에 전해지며, 돔브라의 선율을 닮은 유려한 음성 속에는 대지를 닮은 너그러움과 오랜 역사가 쌓아 올린 지혜가 고스란히 담겨 있습니다. 카자흐어는 단순한 소통의 수단이 아닌, 한 민족의 영혼이 빚어낸 살아있는 유산입니다."
+    language="kaz"
+  />
+
+  <div class="button-wrapper">
+    <ButtonFrontier
+      title="Kenda"
+      subtitle="카자흐어 첫걸음"
+      description="CEFR A0"
+      language="kaz"
+      path="/kazariah/a0"
+      level="a0"
+      isDev="true"
+    />
+
+    <ButtonFrontier
+      title="Temir"
+      subtitle="기초 카자흐어"
+      description="CEFR A1"
+      language="kaz"
+      path="/kazariah/a1"
+      level="a1"
+      isDev="true"
+    />
+
+    <ButtonFrontier
+      title="Qola"
+      subtitle="초급 카자흐어"
+      description="CEFR A2"
+      language="kaz"
+      path="/kazariah/a2"
+      level="a2"
+      isDev="true"
+    />
+
+    <ButtonFrontier
+      title="Kümis"
+      subtitle="중급 카자흐어"
+      description="CEFR B1"
+      language="kaz"
+      path="/kazariah/b1"
+      level="b1"
+      isDev="true"
+    />
+
+    <ButtonFrontier
+      title="Altyn"
+      subtitle="중고급 카자흐어"
+      description="CEFR B2"
+      language="kaz"
+      path="/kazariah/b2"
+      level="b2"
+      isDev="true"
+    />
+
+    <ButtonFrontier
+      title="Almas"
+      subtitle="고급 카자흐어"
+      description="CEFR C1"
+      language="kaz"
+      path="/kazariah/c1"
+      level="c1"
+      isDev="true"
+    />
+  </div>
+
+  <!-- <ButtonFrontier
+    title="Grammaire"
+    subtitle="Grammar"
+    description="CEFR A1 - B2"
+    language="kaz"
+    path="/kazariah/grammar"
+    level="grammar"
+    isDev="true"
+  /> -->
+</KazariahLayout>
+
+<style>
+  .button-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-items: stretch;
+    gap: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  /* Mobile */
+  @media (max-width: 480px) {
+    .button-wrapper {
+      gap: 10px;
+      margin-bottom: 10px;
+    }
+  }
+</style>

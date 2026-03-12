@@ -5,101 +5,39 @@ import "../styles/transition.css";
 
 const { language, level } = Astro.props;
 
-const colorMap800: Record<string, string> = {
-  eng: "var(--pink800)",
-  fra: "var(--sky800)",
-  deu: "var(--amber800)",
-  ita: "var(--emerald800)",
-  esp: "var(--orange800)",
-  rus: "var(--indigo800)",
-};
 const colorMap700: Record<string, string> = {
-  eng: "var(--pink700)",
-  fra: "var(--sky700)",
-  deu: "var(--amber700)",
-  ita: "var(--emerald700)",
-  esp: "var(--orange700)",
-  rus: "var(--indigo700)",
-};
-const colorMap600: Record<string, string> = {
-  eng: "var(--pink600)",
-  fra: "var(--sky600)",
-  deu: "var(--amber600)",
-  ita: "var(--emerald600)",
-  esp: "var(--orange600)",
-  rus: "var(--indigo600)",
-};
-const colorMap500: Record<string, string> = {
-  eng: "var(--pink500)",
-  fra: "var(--sky500)",
-  deu: "var(--amber500)",
-  ita: "var(--emerald500)",
-  esp: "var(--orange500)",
-  rus: "var(--indigo500)",
+  heb: "rgba(29, 78, 216, 0.2)",
+  kaz: "rgba(15, 118, 110, 0.2)",
 };
 const colorMap400: Record<string, string> = {
-  eng: "var(--pink400)",
-  fra: "var(--sky400)",
-  deu: "var(--amber400)",
-  ita: "var(--emerald400)",
-  esp: "var(--orange400)",
-  rus: "var(--indigo400)",
+  heb: "rgba(96, 165, 250, 0.7)",
+  kaz: "rgba(45, 212, 191, 0.7)",
 };
-const colorMap300: Record<string, string> = {
-  eng: "var(--pink300)",
-  fra: "var(--sky300)",
-  deu: "var(--amber300)",
-  ita: "var(--emerald300)",
-  esp: "var(--orange300)",
-  rus: "var(--indigo300)",
-};
-const colorMap200: Record<string, string> = {
-  eng: "var(--pink200)",
-  fra: "var(--sky200)",
-  deu: "var(--amber200)",
-  ita: "var(--emerald200)",
-  esp: "var(--orange200)",
-  rus: "var(--indigo200)",
-};
-const colorMap100: Record<string, string> = {
-  eng: "var(--pink100)",
-  fra: "var(--sky100)",
-  deu: "var(--amber100)",
-  ita: "var(--emerald100)",
-  esp: "var(--orange100)",
-  rus: "var(--indigo100)",
-};
-const color800 = colorMap800[language] || "var(--zinc800)";
 const color700 = colorMap700[language] || "var(--zinc700)";
-const color600 = colorMap600[language] || "var(--zinc600)";
-const color500 = colorMap500[language] || "var(--zinc500)";
 const color400 = colorMap400[language] || "var(--zinc400)";
-const color300 = colorMap300[language] || "var(--zinc300)";
-const color200 = colorMap200[language] || "var(--zinc200)";
-const color100 = colorMap100[language] || "var(--zinc100)";
 
-let colorLightest = color200;
+let colorLightest = color400;
 let colorDarkest = color700;
 ---
 
 <style define:vars={{ colorLightest, colorDarkest }}>
   .cube > div > span {
-    background: linear-gradient(var(--colorLightest), var(--colorDarkest));
+    background: linear-gradient(var(--colorDarkest), var(--colorLightest));
   }
 
   .top {
-    background-color: var(--colorLightest);
+    background-color: var(--colorDarkest);
   }
 
   .top::before {
-    background-color: var(--colorDarkest);
+    background-color: var(--colorLightest);
     box-shadow:
-      0 0 120px var(--colorDarkest),
-      0 0 200px var(--colorDarkest);
+      0 0 120px var(--colorLightest);
+      0 0 200px var(--colorLightest);
   }
 
   .bottom {
-    background-color: var(--colorDarkest);
+    background-color: var(--colorLightest);
   }
 </style>
 

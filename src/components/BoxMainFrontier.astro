@@ -2,73 +2,41 @@
 import "../styles/fonts.css";
 import "../styles/colors.css";
 import "../styles/transition.css";
-import CubeDark from "./CubeDark.astro";
+import CubeFrontier from "./CubeFrontier.astro";
 
 const { title, subtitle, description, language } = Astro.props;
 
 const colorMap800: Record<string, string> = {
-  nld: "var(--orange800)",
-  fra: "var(--sky800)",
-  deu: "var(--amber800)",
-  ita: "var(--emerald800)",
-  spa: "var(--rose800)",
-  rus: "var(--indigo800)",
+  heb: "var(--blue800)",
+  kaz: "var(--teal800)",
 };
 const colorMap700: Record<string, string> = {
-  nld: "var(--orange700)",
-  fra: "var(--sky700)",
-  deu: "var(--amber700)",
-  ita: "var(--emerald700)",
-  spa: "var(--rose700)",
-  rus: "var(--indigo700)",
+  heb: "var(--blue700)",
+  kaz: "var(--teal700)",
 };
 const colorMap600: Record<string, string> = {
-  nld: "var(--orange600)",
-  fra: "var(--sky600)",
-  deu: "var(--amber600)",
-  ita: "var(--emerald600)",
-  spa: "var(--rose600)",
-  rus: "var(--indigo600)",
+  heb: "var(--blue600)",
+  kaz: "var(--teal600)",
 };
 const colorMap500: Record<string, string> = {
-  nld: "var(--orange500)",
-  fra: "var(--sky500)",
-  deu: "var(--amber500)",
-  ita: "var(--emerald500)",
-  spa: "var(--rose500)",
-  rus: "var(--indigo500)",
+  heb: "var(--blue500)",
+  kaz: "var(--teal500)",
 };
 const colorMap400: Record<string, string> = {
-  nld: "var(--orange400)",
-  fra: "var(--sky400)",
-  deu: "var(--amber400)",
-  ita: "var(--emerald400)",
-  spa: "var(--rose400)",
-  rus: "var(--indigo400)",
+  heb: "var(--blue400)",
+  kaz: "var(--teal400)",
 };
 const colorMap300: Record<string, string> = {
-  nld: "var(--orange300)",
-  fra: "var(--sky300)",
-  deu: "var(--amber300)",
-  ita: "var(--emerald300)",
-  spa: "var(--rose300)",
-  rus: "var(--indigo300)",
+  heb: "var(--blue300)",
+  kaz: "var(--teal300)",
 };
 const colorMap200: Record<string, string> = {
-  nld: "var(--orange200)",
-  fra: "var(--sky200)",
-  deu: "var(--amber200)",
-  ita: "var(--emerald200)",
-  spa: "var(--rose200)",
-  rus: "var(--indigo200)",
+  heb: "var(--blue200)",
+  kaz: "var(--teal200)",
 };
 const colorMap100: Record<string, string> = {
-  nld: "var(--orange100)",
-  fra: "var(--sky100)",
-  deu: "var(--amber100)",
-  ita: "var(--emerald100)",
-  spa: "var(--rose100)",
-  rus: "var(--indigo100)",
+  heb: "var(--blue100)",
+  kaz: "var(--teal100)",
 };
 const color800 = colorMap800[language] || "var(--zinc800)";
 const color700 = colorMap700[language] || "var(--zinc700)";
@@ -108,7 +76,7 @@ const color100 = colorMap100[language] || "var(--zinc100)";
     <p class="riseUp_4">{description}</p>
   </div>
   <div class="box-right">
-    <CubeDark language={language} />
+    <CubeFrontier language={language} />
   </div>
 </div>
 
@@ -136,7 +104,7 @@ const color100 = colorMap100[language] || "var(--zinc100)";
     text-transform: uppercase;
     display: inline;
     font-size: 60px;
-    font-weight: 600;
+    font-weight: 500;
     line-height: 1;
     word-break: keep-all;
     word-wrap: break-word;
@@ -146,8 +114,8 @@ const color100 = colorMap100[language] || "var(--zinc100)";
   .box-left > h3 {
     position: relative;
     display: block;
-    font-size: 28px;
-    font-weight: 600;
+    font-size: 24px;
+    font-weight: 500;
     letter-spacing: 0px;
     line-height: 1;
     margin-top: 10px;
@@ -158,7 +126,7 @@ const color100 = colorMap100[language] || "var(--zinc100)";
     position: relative;
     width: 100%;
     font-size: 15px;
-    font-weight: 500;
+    font-weight: 400;
     letter-spacing: 0px;
     line-height: 1.4;
     transition: all 0.4s;
@@ -171,7 +139,7 @@ const color100 = colorMap100[language] || "var(--zinc100)";
   .box-left > h2,
   .box-left > h3,
   .box-left > p {
-    color: var(--zinc50);
+    color: var(--neutral100);
   }
 
   .box-right {

@@ -1,0 +1,106 @@
+---
+import IvriahLayout from "../../layouts/IvriahLayout.astro";
+import BoxMainFrontier from "../../components/BoxMainFrontier.astro";
+import ButtonFrontier from "../../components/ButtonFrontier.astro";
+
+const pageTitle = "Ivriah";
+---
+
+<IvriahLayout pageTitle={pageTitle + " | Powered by Lublio"}>
+  <BoxMainFrontier
+    title="Ivriah"
+    subtitle="프로젝트 이브리아"
+    description="히브리어는 시간을 초월한 언어입니다. 수천 년 전 성경의 언어가 오늘날 살아 숨 쉬는 현대어로 부활한 유일무이한 기적 속에서, 고대의 지혜와 현대의 창조성이 하나의 목소리로 울려 퍼집니다. 영원을 품은 문자 하나하나에는 인류의 기억과 끊임없이 새로워지는 생명력이 깃들어, 세계를 향해 조용하지만 강렬한 빛을 발합니다."
+    language="heb"
+  />
+
+  <div class="button-wrapper">
+    <ButtonFrontier
+      title="Ophra"
+      subtitle="히브리어 첫걸음"
+      description="CEFR A0"
+      language="heb"
+      path="/ivriah/a0"
+      level="a0"
+      isDev="true"
+    />
+
+    <ButtonFrontier
+      title="Barzel"
+      subtitle="기초 히브리어"
+      description="CEFR A1"
+      language="heb"
+      path="/ivriah/a1"
+      level="a1"
+      isDev="true"
+    />
+
+    <ButtonFrontier
+      title="Arad"
+      subtitle="초급 히브리어"
+      description="CEFR A2"
+      language="heb"
+      path="/ivriah/a2"
+      level="a2"
+      isDev="true"
+    />
+
+    <ButtonFrontier
+      title="Kesef"
+      subtitle="중급 히브리어"
+      description="CEFR B1"
+      language="heb"
+      path="/ivriah/b1"
+      level="b1"
+      isDev="true"
+    />
+
+    <ButtonFrontier
+      title="Zahav"
+      subtitle="중고급 히브리어"
+      description="CEFR B2"
+      language="heb"
+      path="/ivriah/b2"
+      level="b2"
+      isDev="true"
+    />
+
+    <ButtonFrontier
+      title="Yahalom"
+      subtitle="고급 히브리어"
+      description="CEFR C1"
+      language="heb"
+      path="/ivriah/c1"
+      level="c1"
+      isDev="true"
+    />
+  </div>
+
+  <!-- <ButtonFrontier
+    title="Grammaire"
+    subtitle="Grammar"
+    description="CEFR A1 - B2"
+    language="heb"
+    path="/ivriah/grammar"
+    level="grammar"
+    isDev="true"
+  /> -->
+</IvriahLayout>
+
+<style>
+  .button-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-items: stretch;
+    gap: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  /* Mobile */
+  @media (max-width: 480px) {
+    .button-wrapper {
+      gap: 10px;
+      margin-bottom: 10px;
+    }
+  }
+</style>

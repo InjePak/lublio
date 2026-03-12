@@ -1,0 +1,191 @@
+---
+import "../styles/fonts.css";
+import "../styles/colors.css";
+import "../styles/transition.css";
+import { Icon } from "astro-icon/components";
+
+const { title, subtitle, description, language, path, level, isDev } =
+  Astro.props;
+
+const colorMap800: Record<string, string> = {
+  heb: "var(--blue800)",
+  kaz: "var(--teal800)",
+};
+const colorMap700: Record<string, string> = {
+  heb: "var(--blue700)",
+  kaz: "var(--teal700)",
+};
+const colorMap600: Record<string, string> = {
+  heb: "var(--blue600)",
+  kaz: "var(--teal600)",
+};
+const colorMap500: Record<string, string> = {
+  heb: "var(--blue500)",
+  kaz: "var(--teal500)",
+};
+const colorMap400: Record<string, string> = {
+  heb: "var(--blue400)",
+  kaz: "var(--teal400)",
+};
+const colorMap300: Record<string, string> = {
+  heb: "var(--blue300)",
+  kaz: "var(--teal300)",
+};
+const colorMap200: Record<string, string> = {
+  heb: "var(--blue200)",
+  kaz: "var(--teal200)",
+};
+const colorMap100: Record<string, string> = {
+  heb: "var(--blue100)",
+  kaz: "var(--teal100)",
+};
+const color800 = colorMap800[language] || "var(--zinc800)";
+const color700 = colorMap700[language] || "var(--zinc700)";
+const color600 = colorMap600[language] || "var(--zinc600)";
+const color500 = colorMap500[language] || "var(--zinc500)";
+const color400 = colorMap400[language] || "var(--zinc400)";
+const color300 = colorMap300[language] || "var(--zinc300)";
+const color200 = colorMap200[language] || "var(--zinc200)";
+const color100 = colorMap100[language] || "var(--zinc100)";
+
+const levelMap: Record<string, string> = {
+  a0: "mdi:chess-pawn",
+  a1: "mdi:chess-knight",
+  a2: "mdi:chess-bishop",
+  b1: "mdi:chess-rook",
+  b2: "mdi:chess-queen",
+  c1: "mdi:chess-king",
+};
+const levelIcon = levelMap[level] || "mdi:chess-pawn";
+---
+
+<style define:vars={{ color500, color400, color300, color200, color100 }}>
+  .btn:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+    border: 1px solid var(--color400);
+  }
+
+  .btn:hover > svg {
+    opacity: 1;
+    color: var(--color400);
+  }
+
+  .btn:hover > span {
+    opacity: 1;
+    color: var(--neutral50);
+  }
+</style>
+
+<a href={path}>
+  <div class="btn">
+    <h1>{title}</h1>
+    <h2>{subtitle}</h2>
+    <p>{description}</p>
+    {level && <Icon name={levelIcon} />}
+    {isDev && <span>Coming Soon</span>}
+  </div>
+</a>
+
+<style>
+  .btn {
+    position: relative;
+    margin-bottom: 0.5rem;
+    padding: 1rem;
+    min-height: 200px;
+    width: 100%;
+    height: 100%;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    background-color: rgba(255, 255, 255, 0.1);
+    transition: all 1s cubic-bezier(0.19, 1, 0.22, 1);
+  }
+
+  .btn > h1 {
+    position: relative;
+    font-family: "Roboto Condensed", sans-serif;
+    text-transform: uppercase;
+    font-size: 32px;
+    font-weight: 600;
+    margin-bottom: 0rem;
+    color: var(--neutral50);
+    transition: 0.4s all;
+  }
+
+  .btn > h2 {
+    position: relative;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 0.5rem;
+    color: var(--neutral50);
+    transition: 0.4s all;
+  }
+
+  .btn > p {
+    position: absolute;
+    display: block;
+    margin: 0;
+    text-align: right;
+    bottom: 1rem;
+    right: 1rem;
+    width: calc(100% - 2rem);
+    font-size: 14px;
+    transition: 0.4s all;
+    color: var(--neutral50);
+  }
+
+  .btn > span {
+    position: absolute;
+    display: block;
+    bottom: 1rem;
+    left: 1rem;
+    font-weight: 500;
+    font-size: 18px;
+    font-family: "Roboto Condensed", sans-serif;
+    text-transform: uppercase;
+    color: var(--zinc800);
+    opacity: 0;
+    transition: 0.4s all;
+  }
+
+  .btn > svg {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 30px;
+    height: 30px;
+    margin: 0;
+    opacity: 0;
+    color: var(--zinc800);
+    transition: all 0.4s;
+  }
+
+  /* Mobile */
+  @media (max-width: 480px) {
+    .btn {
+      min-height: 150px;
+    }
+
+    .btn > h1 {
+      font-size: 17px;
+    }
+
+    .btn > h2 {
+      font-size: 14px;
+    }
+
+    .btn > p {
+      font-size: 12px;
+    }
+
+    .btn > span {
+      opacity: 0;
+      font-size: 13px;
+      height: 13px;
+    }
+
+    .btn > svg {
+      width: 24px;
+      height: 24px;
+    }
+  }
+</style>
