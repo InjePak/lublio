@@ -79,15 +79,28 @@ const color200 = colorMap200[language] || "var(--zinc200)";
 const color100 = colorMap100[language] || "var(--zinc100)";
 ---
 
-<style define:vars={{ color500, color400, color300, color200, color100 }}>
+<style
+  define:vars={{
+    color800,
+    color700,
+    color600,
+    color500,
+    color400,
+    color300,
+    color200,
+    color100,
+  }}
+>
   .box {
+    border-top: 3px solid var(--neutral800);
+    border-bottom: 3px solid var(--neutral800);
     background-color: transparent;
   }
 
   .box > h2,
   .box > h3,
   .box > p {
-    color: var(--zinc800);
+    color: var(--neutral800);
   }
 
   .box > h2::after {
@@ -116,6 +129,7 @@ const color100 = colorMap100[language] || "var(--zinc100)";
     aspect-ratio: 1 / 1;
     max-height: 300px;
     margin-bottom: 2rem;
+    padding: 1rem;
     outline: none;
     z-index: 0;
     text-decoration: none;
@@ -171,9 +185,9 @@ const color100 = colorMap100[language] || "var(--zinc100)";
 
   .box > p {
     position: absolute;
-    width: 100%;
-    left: 0rem;
-    bottom: 0rem;
+    width: calc(100% - 2rem);
+    left: 1rem;
+    bottom: 1rem;
     font-size: 16px;
     font-weight: 500;
     letter-spacing: 0px;
@@ -198,8 +212,8 @@ const color100 = colorMap100[language] || "var(--zinc100)";
   .box .item {
     position: absolute;
     display: grid;
-    top: 1rem;
-    right: 1rem;
+    top: 2rem;
+    right: 2rem;
     place-items: center;
     transition: all 0.4s ease;
   }

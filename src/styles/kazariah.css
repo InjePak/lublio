@@ -19,8 +19,8 @@ html {
   background: linear-gradient(
     -45deg,
     var(--black),
-    var(--teal950),
-    var(--teal800)
+    var(--neutral950),
+    var(--teal900)
   );
   background-size: 300% 300%;
   animation: gradient 6s ease infinite;

@@ -1,21 +1,41 @@
 ---
-import KazariahLayout from "../../layouts/KazariahLayout.astro";
-import BoxMainFrontier from "../../components/BoxMainFrontier.astro";
-import ButtonFrontier from "../../components/ButtonFrontier.astro";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import BoxMain from "../../components/BoxMain.astro";
+import Button from "../../components/Button.astro";
 
 const pageTitle = "Kazariah";
 ---
 
-<KazariahLayout pageTitle={pageTitle + " | Powered by Lublio"}>
-  <BoxMainFrontier
+<BaseLayout pageTitle={pageTitle + " | Powered by Lublio"}>
+  <BoxMain
     title="Kazariah"
     subtitle="프로젝트 카자리아"
-    description="카자흐어는 드넓은 초원의 바람처럼 자유롭고 깊은 언어입니다. 유목민의 발자취를 따라 수천 킬로미터를 가로지른 이야기들이 구비 문학의 형태로 살아남아 오늘에 전해지며, 돔브라의 선율을 닮은 유려한 음성 속에는 대지를 닮은 너그러움과 오랜 역사가 쌓아 올린 지혜가 고스란히 담겨 있습니다. 카자흐어는 단순한 소통의 수단이 아닌, 한 민족의 영혼이 빚어낸 살아있는 유산입니다."
+    description="카자흐어는 광활한 초원과 함께 살아온 언어입니다. 유목민의 삶과 이야기가 구전으로 이어져 오늘날까지 전해지고 있습니다. 돔브라 선율처럼 부드럽고 깊은 이 언어를 함께 만나보세요."
     language="kaz"
   />
 
   <div class="button-wrapper">
-    <ButtonFrontier
+    <Button
+      title="Tirkeser"
+      subtitle="카자흐어 회화"
+      description="CEFR A1 - B2"
+      language="kaz"
+      path="/kazariah/phrase"
+      level="phrase"
+      isDev="true"
+    />
+
+    <Button
+      title="Ülgiler"
+      subtitle="카자흐어 패턴"
+      description="CEFR B1 - C1"
+      language="kaz"
+      path="/kazariah/pattern"
+      level="pattern"
+      isDev="true"
+    />
+
+    <Button
       title="Kenda"
       subtitle="카자흐어 첫걸음"
       description="CEFR A0"
@@ -25,7 +45,7 @@ const pageTitle = "Kazariah";
       isDev="true"
     />
 
-    <ButtonFrontier
+    <Button
       title="Temir"
       subtitle="기초 카자흐어"
       description="CEFR A1"
@@ -35,7 +55,7 @@ const pageTitle = "Kazariah";
       isDev="true"
     />
 
-    <ButtonFrontier
+    <Button
       title="Qola"
       subtitle="초급 카자흐어"
       description="CEFR A2"
@@ -45,7 +65,7 @@ const pageTitle = "Kazariah";
       isDev="true"
     />
 
-    <ButtonFrontier
+    <Button
       title="Kümis"
       subtitle="중급 카자흐어"
       description="CEFR B1"
@@ -55,7 +75,7 @@ const pageTitle = "Kazariah";
       isDev="true"
     />
 
-    <ButtonFrontier
+    <Button
       title="Altyn"
       subtitle="중고급 카자흐어"
       description="CEFR B2"
@@ -65,7 +85,7 @@ const pageTitle = "Kazariah";
       isDev="true"
     />
 
-    <ButtonFrontier
+    <Button
       title="Almas"
       subtitle="고급 카자흐어"
       description="CEFR C1"
@@ -76,7 +96,7 @@ const pageTitle = "Kazariah";
     />
   </div>
 
-  <!-- <ButtonFrontier
+  <!-- <Button
     title="Grammaire"
     subtitle="Grammar"
     description="CEFR A1 - B2"

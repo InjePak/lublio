@@ -55,6 +55,10 @@ const levelMap: Record<string, string> = {
   b1: "mdi:chess-rook",
   b2: "mdi:chess-queen",
   c1: "mdi:chess-king",
+  grammar: "mdi:cube-outline",
+  phrase: "mdi:tooltip-text-outline",
+  pattern: "mdi:puzzle-outline",
+  composite: "mdi:asterisk",
 };
 const levelIcon = levelMap[level] || "mdi:chess-pawn";
 ---
@@ -162,11 +166,11 @@ const levelIcon = levelMap[level] || "mdi:chess-pawn";
   /* Mobile */
   @media (max-width: 480px) {
     .btn {
-      min-height: 150px;
+      min-height: 160px;
     }
 
     .btn > h1 {
-      font-size: 17px;
+      font-size: 22px;
     }
 
     .btn > h2 {

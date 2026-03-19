@@ -243,8 +243,8 @@ switch (level) {
 }
 ---
 
-<BaseLayout pageTitle={chapter.eng + " - Lublio"}>
-  <Box2 title={chapter.rus} subtitle={chapter.eng} language="rus" />
+<BaseLayout pageTitle={chapter.kor + " | Russo"}>
+  <Box2 title={chapter.rus} subtitle={chapter.kor} language="rus" />
 
   {
     !jsonData ? (
@@ -254,7 +254,7 @@ switch (level) {
         <div class="phrase-box">
           <h1>{index + 1}</h1>
           <h2 lang="ru">{data.rus}</h2>
-          <p>{data.eng}</p>
+          <p>{data.kor}</p>
         </div>
       ))
     )

@@ -11,7 +11,7 @@ const chapters_b1 = chapters["b1"];
 const chapters_b2 = chapters["b2"];
 
 // Title
-const pageTitle = "Russian Phrasebook";
+const pageTitle = "러시아어 회화";
 
 // Anchor Navigation
 const navItems = [
@@ -22,11 +22,11 @@ const navItems = [
 ];
 ---
 
-<BaseLayout pageTitle={pageTitle + " - Lublio"}>
+<BaseLayout pageTitle={pageTitle + " | Russo"}>
   <Box
     title="Фразы"
     subtitle="Phrasebook"
-    description="A crisp 'Privet' exchanged in the sleek tech districts of modern Moscow. Tap into the powerful, direct, and intellectual depth of a language that fuels the city's relentless drive and innovative spirit."
+    description="모스크바의 세련된 거리에서 힘 있게 울려 퍼지는 Привет. 직설적이면서도 깊이 있는 러시아어 특유의 표현들로, 이 도시가 품은 지성과 열정을 고스란히 느낄 수 있습니다."
     language="rus"
   />
 
@@ -43,9 +43,9 @@ const navItems = [
             <Button2
               id={post.id}
               title={post.rus}
-              subtitle={post.eng}
+              subtitle={post.kor}
               language="rus"
-              path={"/russian/phrasebook/a1/" + post.path}
+              path={"/russo/phrasebook/a1/" + post.path}
             />
           ))
         }
@@ -62,9 +62,9 @@ const navItems = [
             <Button2
               id={post.id}
               title={post.rus}
-              subtitle={post.eng}
+              subtitle={post.kor}
               language="rus"
-              path={"/russian/phrasebook/a2/" + post.path}
+              path={"/russo/phrasebook/a2/" + post.path}
             />
           ))
         }
@@ -81,9 +81,9 @@ const navItems = [
             <Button2
               id={post.id}
               title={post.rus}
-              subtitle={post.eng}
+              subtitle={post.kor}
               language="rus"
-              path={"/russian/phrasebook/b1/" + post.path}
+              path={"/russo/phrasebook/b1/" + post.path}
             />
           ))
         }
@@ -100,9 +100,9 @@ const navItems = [
             <Button2
               id={post.id}
               title={post.rus}
-              subtitle={post.eng}
+              subtitle={post.kor}
               language="rus"
-              path={"/russian/phrasebook/b2/" + post.path}
+              path={"/russo/phrasebook/b2/" + post.path}
             />
           ))
         }

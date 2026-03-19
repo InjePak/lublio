@@ -19,34 +19,40 @@ const pageTitle = "Lublio";
   <h2>
     <Typewriter
       texts={[
-        "Finding your 'Joie de vivre' in Paris,", // [프랑스] 파리에서 삶의 기쁨을 찾는,
-        "Sipping 'Espresso' in a Roman piazza,", // [이탈리아] 로마 광장에서 에스프레소를 마시는,
-        "Dancing to the 'Flamenco' rhythm in Seville,", // [스페인] 세비야의 플라멩코 리듬에 맞춰 춤추는,
-        "Tracing the 'Hygge' warmth of Stockholm,", // [스웨덴] 스톡홀름의 따스한 안락함을 쫓는,
-        "A 'Flâneur' wandering through Berlin walls,", // [독일] 베를린 장벽 사이를 거니는 산책자,
-        "Chasing the 'Golden City' glow in Prague,", // [체코] 황금빛 프라하의 잔상을 쫓는,
-        "Sailing the 'Grachten' of Amsterdam,", // [네덜란드] 암스테르담의 운하를 항해하는,
-        "Listening to 'Fado' echoes in Lisbon,", // [포르투갈] 리스본에 울려 퍼지는 파도를 듣는,
-        "Soaking in the 'Termál' baths of Budapest,", // [헝가리] 부다페스트 온천에 몸을 녹이는,
-        "Getting lost in the 'Grand Bazaar' colors,", // [튀르키예] 그랜드 바자르의 색감에 길을 잃는,
-        "Unlocking the 'Mir' of the vast East,", // [러시아] 광활한 동쪽의 세계를 여는,
-        "Where every 'Petit bonheur' becomes a map,", // 모든 소소한 행복이 하나의 지도가 되는 곳,
+        "두려움보다 설렘을 선택한",
+        "작은 시작으로 큰 변화를 이끄는",
+        "자신만의 우주를 펼쳐가는",
+        "오늘보다 나은 내일을 만드는",
+        "스스로 길을 만들어가는",
+        "일상이 곧 모험인",
+        "매일 새로운 나를 발견하는",
+        "세상에 없던 길을 그려가는",
+        "어제의 나를 뛰어넘는",
+        "불가능을 가능으로 바꾸는",
       ]}
     />
   </h2>
 
-  <h2 id="fixed-title">start your journey here</h2>
+  <h2 id="fixed-title">여러분을 응원합니다 ✨</h2>
 
   <div class="button-wrapper">
     <ButtonMain
-      title="Français"
-      subtitle="French"
-      description="CEFR A1-C1"
+      title="Franco"
+      subtitle="프로젝트 프랑코"
+      description="프랑스어 학습 블로그"
       language="fra"
-      path="/french"
+      path="/franco"
     />
 
     <ButtonMain
+      title="Russo"
+      subtitle="프로젝트 루소"
+      description="러시아어 학습 블로그"
+      language="rus"
+      path="/russo"
+    />
+
+    <!-- <ButtonMain
       title="Español"
       subtitle="Spanish"
       description="CEFR A1-C1"
@@ -76,15 +82,7 @@ const pageTitle = "Lublio";
       description="CEFR A1-C1"
       language="nld"
       path="/dutch"
-    />
-
-    <ButtonMain
-      title="Русский"
-      subtitle="Russian"
-      description="CEFR A1-C1"
-      language="rus"
-      path="/russian"
-    />
+    /> -->
   </div>
 
   <style>
@@ -119,7 +117,7 @@ const pageTitle = "Lublio";
       font-size: 24px;
       line-height: 34px;
       margin-bottom: 0.5rem;
-      font-weight: 500;
+      font-weight: 600;
     }
 
     #fixed-title {
@@ -133,9 +131,8 @@ const pageTitle = "Lublio";
     }
 
     .button-wrapper {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      justify-items: stretch;
+      display: flex;
+      flex-direction: column;
       gap: 1rem;
       margin-bottom: 1rem;
     }

@@ -2,87 +2,38 @@
 import "../styles/fonts.css";
 import "../styles/colors.css";
 import "../styles/transition.css";
-import Cube from "./Cube.astro";
 
 const { title, subtitle, description, language } = Astro.props;
 
 const colorMap800: Record<string, string> = {
-  nld: "var(--orange800)",
-  fra: "var(--sky800)",
-  deu: "var(--amber800)",
-  ita: "var(--emerald800)",
-  spa: "var(--rose800)",
-  rus: "var(--indigo800)",
   heb: "var(--blue800)",
   kaz: "var(--teal800)",
 };
 const colorMap700: Record<string, string> = {
-  nld: "var(--orange700)",
-  fra: "var(--sky700)",
-  deu: "var(--amber700)",
-  ita: "var(--emerald700)",
-  spa: "var(--rose700)",
-  rus: "var(--indigo700)",
   heb: "var(--blue700)",
   kaz: "var(--teal700)",
 };
 const colorMap600: Record<string, string> = {
-  nld: "var(--orange600)",
-  fra: "var(--sky600)",
-  deu: "var(--amber600)",
-  ita: "var(--emerald600)",
-  spa: "var(--rose600)",
-  rus: "var(--indigo600)",
   heb: "var(--blue600)",
   kaz: "var(--teal600)",
 };
 const colorMap500: Record<string, string> = {
-  nld: "var(--orange500)",
-  fra: "var(--sky500)",
-  deu: "var(--amber500)",
-  ita: "var(--emerald500)",
-  spa: "var(--rose500)",
-  rus: "var(--indigo500)",
   heb: "var(--blue500)",
   kaz: "var(--teal500)",
 };
 const colorMap400: Record<string, string> = {
-  nld: "var(--orange400)",
-  fra: "var(--sky400)",
-  deu: "var(--amber400)",
-  ita: "var(--emerald400)",
-  spa: "var(--rose400)",
-  rus: "var(--indigo400)",
   heb: "var(--blue400)",
   kaz: "var(--teal400)",
 };
 const colorMap300: Record<string, string> = {
-  nld: "var(--orange300)",
-  fra: "var(--sky300)",
-  deu: "var(--amber300)",
-  ita: "var(--emerald300)",
-  spa: "var(--rose300)",
-  rus: "var(--indigo300)",
   heb: "var(--blue300)",
   kaz: "var(--teal300)",
 };
 const colorMap200: Record<string, string> = {
-  nld: "var(--orange200)",
-  fra: "var(--sky200)",
-  deu: "var(--amber200)",
-  ita: "var(--emerald200)",
-  spa: "var(--rose200)",
-  rus: "var(--indigo200)",
   heb: "var(--blue200)",
   kaz: "var(--teal200)",
 };
 const colorMap100: Record<string, string> = {
-  nld: "var(--orange100)",
-  fra: "var(--sky100)",
-  deu: "var(--amber100)",
-  ita: "var(--emerald100)",
-  spa: "var(--rose100)",
-  rus: "var(--indigo100)",
   heb: "var(--blue100)",
   kaz: "var(--teal100)",
 };
@@ -118,23 +69,20 @@ const color100 = colorMap100[language] || "var(--zinc100)";
 </style>
 
 <div class="box riseUp_1">
-  <div class="box-left">
-    <h2 class="riseUp_2">{title}</h2>
-    <h3 class="riseUp_3">{subtitle}</h3>
-    <p class="riseUp_4">{description}</p>
+  <h2 class="riseUp_2">{title}</h2>
+  <h3 class="riseUp_3">{subtitle}</h3>
+  <div class="item">
+    <i class="loader"></i>
   </div>
-  <div class="box-right">
-    <Cube language={language} />
-  </div>
+  <p class="riseUp_4">{description}</p>
 </div>
 
 <style>
   .box {
     position: relative;
-    display: flex;
     width: 100%;
     aspect-ratio: 1 / 1;
-    max-height: 340px;
+    max-height: 300px;
     margin-bottom: 2rem;
     outline: none;
     z-index: 0;
@@ -142,11 +90,7 @@ const color100 = colorMap100[language] || "var(--zinc100)";
     transition: all 1s cubic-bezier(0.19, 1, 0.22, 1);
   }
 
-  .box-left {
-    width: 50%;
-  }
-
-  .box-left > h2 {
+  .box > h2 {
     position: relative;
     font-family: "Roboto Condensed", sans-serif;
     text-transform: uppercase;
@@ -159,7 +103,30 @@ const color100 = colorMap100[language] || "var(--zinc100)";
     transition: all 0.4s;
   }
 
-  .box-left > h3 {
+  .box > h2::after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 15px;
+    bottom: 10px;
+    left: 0;
+    opacity: 0.8;
+    z-index: -1;
+    transform-origin: bottom left;
+    animation: underline 2.4s cubic-bezier(0, 0, 0.24, 1.21);
+  }
+
+  @keyframes underline {
+    0% {
+      transform: scaleX(0);
+    }
+
+    100% {
+      transform: scaleX(1);
+    }
+  }
+
+  .box > h3 {
     position: relative;
     display: block;
     font-size: 28px;
@@ -170,10 +137,12 @@ const color100 = colorMap100[language] || "var(--zinc100)";
     transition: all 0.4s;
   }
 
-  .box-left > p {
-    position: relative;
+  .box > p {
+    position: absolute;
     width: 100%;
-    font-size: 15px;
+    left: 0rem;
+    bottom: 0rem;
+    font-size: 16px;
     font-weight: 500;
     letter-spacing: 0px;
     line-height: 1.4;
@@ -184,42 +153,124 @@ const color100 = colorMap100[language] || "var(--zinc100)";
     margin-bottom: 0px;
   }
 
-  .box-left > h2,
-  .box-left > h3,
-  .box-left > p {
+  .box > h2,
+  .box > h3,
+  .box > h4,
+  .box > span,
+  .box > p {
     color: var(--zinc800);
   }
 
-  .box-right {
+  /* Moving Item */
+
+  .box .item {
+    position: absolute;
+    display: grid;
+    top: 1rem;
+    right: 1rem;
+    place-items: center;
+    transition: all 0.4s ease;
+  }
+
+  .box .loader {
+    display: block;
+    position: relative;
     width: 50%;
+    display: grid;
+    place-items: center;
+    cursor: default;
+  }
+
+  .box .loader::before,
+  .box .loader::after {
+    content: "";
+    box-sizing: border-box;
+    position: absolute;
+    width: 10px;
+    height: 10px;
+  }
+
+  .box .loader::before,
+  .box .loader::after {
+    background-color: var(--zinc400);
+  }
+
+  .box .loader::before {
+    top: calc(50% - 10px);
+    left: calc(50% - 10px);
+    animation: loader1 2.4s cubic-bezier(0, 0, 0.24, 1.21) infinite;
+  }
+
+  .box .loader::after {
+    top: 50%;
+    left: 50%;
+    animation: loader2 2.4s cubic-bezier(0, 0, 0.24, 1.21) infinite;
+  }
+
+  @keyframes loader1 {
+    0%,
+    100% {
+      transform: none;
+    }
+
+    25% {
+      transform: translateX(100%);
+    }
+
+    50% {
+      transform: translateX(100%) translateY(100%);
+    }
+
+    75% {
+      transform: translateY(100%);
+    }
+  }
+
+  @keyframes loader2 {
+    0%,
+    100% {
+      transform: none;
+    }
+
+    25% {
+      transform: translateX(-100%);
+    }
+
+    50% {
+      transform: translateX(-100%) translateY(-100%);
+    }
+
+    75% {
+      transform: translateY(-100%);
+    }
   }
 
   /* Mobile */
   @media (max-width: 480px) {
     .box {
-      flex-direction: column;
-      max-height: 510px;
+      max-height: 360px;
     }
 
-    .box-left,
-    .box-right {
-      width: 100%;
+    .box > h2 {
+      font-size: 42px;
     }
 
-    .box-left > h2 {
-      font-size: 50px;
+    .box > h2::after {
+      height: 10px;
+      bottom: 6px;
+      left: 0;
+      opacity: 0.8;
+      z-index: -1;
+      transform-origin: bottom left;
+      animation: underline 2.4s cubic-bezier(0, 0, 0.24, 1.21);
     }
 
-    .box-left > h3 {
-      font-size: 24px;
+    .box > h3 {
+      font-size: 20px;
     }
 
-    .box-left > p {
+    .box > p {
       font-size: 13px;
-    }
-
-    .box-right {
-      transform: translateY(-60px);
     }
   }
 </style>

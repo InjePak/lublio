@@ -24,6 +24,10 @@ import LogoSVG from "../../public/lublio-logo-dark.svg?raw";
   <div class="overlay-panel panel-4"></div>
   <div class="overlay-panel panel-5"></div>
   <div class="overlay-panel panel-6"></div>
+  <div class="overlay-panel panel-7"></div>
+  <div class="overlay-panel panel-8"></div>
+  <div class="overlay-panel panel-9"></div>
+  <div class="overlay-panel panel-10"></div>
 
   <div class="overlayContent">
     <a id="menu-close-btn" class="close">&times;</a>
@@ -141,33 +145,49 @@ import LogoSVG from "../../public/lublio-logo-dark.svg?raw";
     right: 0;
     width: 0%;
     height: 100%;
-    transition: width 0.5s cubic-bezier(0.77, 0, 0.175, 1);
+    transition: width 1s cubic-bezier(0.77, 0, 0.175, 1);
   }
 
   /* Gradation Style */
   .panel-1 {
-    background-color: var(--neutral500);
+    background-color: rgba(23, 23, 23, 0.1);
     transition-delay: 0s;
   }
   .panel-2 {
-    background-color: var(--neutral600);
+    background-color: rgba(23, 23, 23, 0.2);
     transition-delay: 0.1s;
   }
   .panel-3 {
-    background-color: var(--neutral700);
+    background-color: rgba(23, 23, 23, 0.3);
     transition-delay: 0.2s;
   }
   .panel-4 {
-    background-color: var(--neutral800);
+    background-color: rgba(23, 23, 23, 0.4);
     transition-delay: 0.3s;
   }
   .panel-5 {
-    background-color: var(--neutral900);
+    background-color: rgba(23, 23, 23, 0.5);
     transition-delay: 0.4s;
   }
   .panel-6 {
-    background-color: var(--neutral950);
+    background-color: rgba(23, 23, 23, 0.6);
     transition-delay: 0.5s;
+  }
+  .panel-7 {
+    background-color: rgba(23, 23, 23, 0.7);
+    transition-delay: 0.6s;
+  }
+  .panel-8 {
+    background-color: rgba(23, 23, 23, 0.8);
+    transition-delay: 0.7s;
+  }
+  .panel-9 {
+    background-color: rgba(23, 23, 23, 0.9);
+    transition-delay: 0.8s;
+  }
+  .panel-10 {
+    background-color: rgba(23, 23, 23, 1);
+    transition-delay: 0.9s;
   }
 
   .overlayActive .overlay-panel {
@@ -175,27 +195,39 @@ import LogoSVG from "../../public/lublio-logo-dark.svg?raw";
   }
 
   .overlay:not(.overlayActive) .panel-1 {
-    transition-delay: 0.5s;
+    transition-delay: 0.9s;
   }
   .overlay:not(.overlayActive) .panel-2 {
-    transition-delay: 0.4s;
+    transition-delay: 0.8s;
   }
   .overlay:not(.overlayActive) .panel-3 {
-    transition-delay: 0.3s;
+    transition-delay: 0.7s;
   }
   .overlay:not(.overlayActive) .panel-4 {
-    transition-delay: 0.2s;
+    transition-delay: 0.6s;
   }
   .overlay:not(.overlayActive) .panel-5 {
-    transition-delay: 0.1s;
+    transition-delay: 0.5s;
   }
   .overlay:not(.overlayActive) .panel-6 {
+    transition-delay: 0.4s;
+  }
+  .overlay:not(.overlayActive) .panel-7 {
+    transition-delay: 0.3s;
+  }
+  .overlay:not(.overlayActive) .panel-8 {
+    transition-delay: 0.2s;
+  }
+  .overlay:not(.overlayActive) .panel-9 {
+    transition-delay: 0.1s;
+  }
+  .overlay:not(.overlayActive) .panel-10 {
     transition-delay: 0s;
   }
 
   .overlayActive .overlayContent {
     opacity: 1;
-    transition: opacity 0.7s ease 0.7s; /* 패널이 다 덮인 후 텍스트 등장 */
+    transition: opacity 1s ease 1s; /* 패널이 다 덮인 후 텍스트 등장 */
   }
 
   .close {
@@ -205,7 +237,7 @@ import LogoSVG from "../../public/lublio-logo-dark.svg?raw";
     height: auto;
     text-align: center;
     z-index: 999;
-    transition: all 0.7s ease 0.7s;
+    transition: all 1s ease 1s;
   }
 
   .overlayActive .close {
@@ -249,6 +281,7 @@ import LogoSVG from "../../public/lublio-logo-dark.svg?raw";
     opacity: 0;
     list-style: none;
     transform: translateX(200px);
+    background-color: rgba(255, 255, 255, 0.1);
   }
 
   .overlayActive .menuList {
@@ -265,7 +298,6 @@ import LogoSVG from "../../public/lublio-logo-dark.svg?raw";
     text-align: left;
     width: auto;
     margin-bottom: 0rem;
-    background-color: transparent;
     transition: all 0.4s ease-in-out;
   }
 
@@ -285,9 +317,6 @@ import LogoSVG from "../../public/lublio-logo-dark.svg?raw";
     font-weight: 500;
     color: var(--neutral50);
     padding: 2rem;
-    margin-bottom: 2rem;
-    border: 1px solid rgba(255, 255, 255, 0.3);
-    background-color: rgba(255, 255, 255, 0.1);
     transition: all 0.4s;
   }
 
@@ -307,8 +336,7 @@ import LogoSVG from "../../public/lublio-logo-dark.svg?raw";
   /* Mobile */
   @media (max-width: 480px) {
     .overlayActive .menuList {
-      padding: 1rem;
-      max-width: 280px;
+      max-width: 240px;
     }
 
     .menuLink {

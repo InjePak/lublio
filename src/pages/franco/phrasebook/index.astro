@@ -11,7 +11,7 @@ const chapters_b1 = chapters["b1"];
 const chapters_b2 = chapters["b2"];
 
 // Title
-const pageTitle = "French Phrasebook";
+const pageTitle = "프랑스어 회화";
 
 // Anchor Navigation
 const navItems = [
@@ -22,11 +22,11 @@ const navItems = [
 ];
 ---
 
-<BaseLayout pageTitle={pageTitle + " - Lublio"}>
+<BaseLayout pageTitle={pageTitle + " | Franco"}>
   <Box
     title="Phrases"
-    subtitle="French Phrasebook"
-    description="A morning 'Salut' shared over an espresso in a bustling Paris atelier. Master the chic and effortless phrases that allow you to navigate the city’s sophisticated social scene with confidence and flair."
+    subtitle="프랑스어 회화"
+    description="파리의 작은 카페, 에스프레소 한 잔과 함께 오가는 Salut. 파리지앵의 일상에 녹아든 시크하고 자연스러운 표현들로, 프랑스어가 가진 우아함과 여유를 그대로 담았습니다."
     language="fra"
   />
 
@@ -43,9 +43,9 @@ const navItems = [
             <Button2
               id={post.id}
               title={post.fra}
-              subtitle={post.eng}
+              subtitle={post.kor}
               language="fra"
-              path={"/french/phrasebook/a1/" + post.path}
+              path={"/franco/phrasebook/a1/" + post.path}
             />
           ))
         }
@@ -62,9 +62,9 @@ const navItems = [
             <Button2
               id={post.id}
               title={post.fra}
-              subtitle={post.eng}
+              subtitle={post.kor}
               language="fra"
-              path={"/french/phrasebook/a2/" + post.path}
+              path={"/franco/phrasebook/a2/" + post.path}
             />
           ))
         }
@@ -81,9 +81,9 @@ const navItems = [
             <Button2
               id={post.id}
               title={post.fra}
-              subtitle={post.eng}
+              subtitle={post.kor}
               language="fra"
-              path={"/french/phrasebook/b1/" + post.path}
+              path={"/franco/phrasebook/b1/" + post.path}
             />
           ))
         }
@@ -100,9 +100,9 @@ const navItems = [
             <Button2
               id={post.id}
               title={post.fra}
-              subtitle={post.eng}
+              subtitle={post.kor}
               language="fra"
-              path={"/french/phrasebook/b2/" + post.path}
+              path={"/franco/phrasebook/b2/" + post.path}
             />
           ))
         }

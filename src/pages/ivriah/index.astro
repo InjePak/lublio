@@ -1,21 +1,41 @@
 ---
-import IvriahLayout from "../../layouts/IvriahLayout.astro";
-import BoxMainFrontier from "../../components/BoxMainFrontier.astro";
-import ButtonFrontier from "../../components/ButtonFrontier.astro";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import BoxMain from "../../components/BoxMain.astro";
+import Button from "../../components/Button.astro";
 
 const pageTitle = "Ivriah";
 ---
 
-<IvriahLayout pageTitle={pageTitle + " | Powered by Lublio"}>
-  <BoxMainFrontier
+<BaseLayout pageTitle={pageTitle + " | Powered by Lublio"}>
+  <BoxMain
     title="Ivriah"
     subtitle="프로젝트 이브리아"
-    description="히브리어는 시간을 초월한 언어입니다. 수천 년 전 성경의 언어가 오늘날 살아 숨 쉬는 현대어로 부활한 유일무이한 기적 속에서, 고대의 지혜와 현대의 창조성이 하나의 목소리로 울려 퍼집니다. 영원을 품은 문자 하나하나에는 인류의 기억과 끊임없이 새로워지는 생명력이 깃들어, 세계를 향해 조용하지만 강렬한 빛을 발합니다."
+    description="히브리어는 한 번 사라졌다가 다시 살아난 언어입니다. 고대 성경의 문장이 오늘날 이스라엘 사람들의 일상 속에서 그대로 쓰이고 있습니다. 3,000년의 시간을 건너온 이 언어를 함께 배워보세요."
     language="heb"
   />
 
   <div class="button-wrapper">
-    <ButtonFrontier
+    <Button
+      title="Bituyim"
+      subtitle="히브리어 회화"
+      description="CEFR A1 - B2"
+      language="heb"
+      path="/ivriah/phrase"
+      level="phrase"
+      isDev="true"
+    />
+
+    <Button
+      title="Tavniyot"
+      subtitle="히브리어 패턴"
+      description="CEFR B1 - C1"
+      language="heb"
+      path="/ivriah/pattern"
+      level="pattern"
+      isDev="true"
+    />
+
+    <Button
       title="Ophra"
       subtitle="히브리어 첫걸음"
       description="CEFR A0"
@@ -25,7 +45,7 @@ const pageTitle = "Ivriah";
       isDev="true"
     />
 
-    <ButtonFrontier
+    <Button
       title="Barzel"
       subtitle="기초 히브리어"
       description="CEFR A1"
@@ -35,7 +55,7 @@ const pageTitle = "Ivriah";
       isDev="true"
     />
 
-    <ButtonFrontier
+    <Button
       title="Arad"
       subtitle="초급 히브리어"
       description="CEFR A2"
@@ -45,7 +65,7 @@ const pageTitle = "Ivriah";
       isDev="true"
     />
 
-    <ButtonFrontier
+    <Button
       title="Kesef"
       subtitle="중급 히브리어"
       description="CEFR B1"
@@ -55,7 +75,7 @@ const pageTitle = "Ivriah";
       isDev="true"
     />
 
-    <ButtonFrontier
+    <Button
       title="Zahav"
       subtitle="중고급 히브리어"
       description="CEFR B2"
@@ -65,7 +85,7 @@ const pageTitle = "Ivriah";
       isDev="true"
     />
 
-    <ButtonFrontier
+    <Button
       title="Yahalom"
       subtitle="고급 히브리어"
       description="CEFR C1"
@@ -76,7 +96,7 @@ const pageTitle = "Ivriah";
     />
   </div>
 
-  <!-- <ButtonFrontier
+  <!-- <Button
     title="Grammaire"
     subtitle="Grammar"
     description="CEFR A1 - B2"
@@ -85,7 +105,7 @@ const pageTitle = "Ivriah";
     level="grammar"
     isDev="true"
   /> -->
-</IvriahLayout>
+</BaseLayout>
 
 <style>
   .button-wrapper {
