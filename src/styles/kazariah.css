@@ -109,7 +109,7 @@ p {
   display: inline-block;
   width: 100%;
   height: auto;
-  color: var(--zinc800);
+  color: var(--neutral100);
   margin-bottom: 1.5rem;
   font-family: "Inter", sans-serif;
 }
@@ -118,8 +118,8 @@ h1::selection,
 h2::selection,
 h3::selection,
 p::selection {
-  color: var(--zinc200);
-  background-color: var(--zinc800);
+  color: var(--neutral800);
+  background-color: var(--neutral300);
 }
 
 h1 {
@@ -142,7 +142,7 @@ p {
   font-weight: 500;
   letter-spacing: 0px;
   line-height: 1.8;
-  color: var(--zinc700);
+  color: var(--neutral200);
 }
 
 /* Mobile */
@@ -170,24 +170,12 @@ p {
 * ——————————————————————————————
 */
 
-.animated-underline,
-.animated-underline-eng,
-.animated-underline-fra,
-.animated-underline-deu,
-.animated-underline-rus,
-.animated-underline-esp,
-.animated-underline-ita {
+.animated-underline-kaz {
   position: relative;
   display: inline-block;
 }
 
-.animated-underline::after,
-.animated-underline-eng::after,
-.animated-underline-fra::after,
-.animated-underline-deu::after,
-.animated-underline-rus::after,
-.animated-underline-esp::after,
-.animated-underline-ita::after {
+.animated-underline-kaz::after {
   content: "";
   position: absolute;
   width: 100%;
@@ -199,51 +187,15 @@ p {
   transition: transform 0.25s ease-out;
 }
 
-.animated-underline::after {
-  background-color: var(--zinc400);
-}
-
-.animated-underline-eng::after {
-  background-color: var(--pink400);
-}
-
-.animated-underline-fra::after {
-  background-color: var(--sky400);
-}
-
-.animated-underline-deu::after {
-  background-color: var(--amber400);
-}
-
-.animated-underline-rus::after {
-  background-color: var(--indigo400);
-}
-
-.animated-underline-esp::after {
-  background-color: var(--orange400);
-}
-
-.animated-underline-ita::after {
+.animated-underline-kaz::after {
   background-color: var(--emerald400);
 }
 
-.animated-underline:hover,
-.animated-underline-eng:hover,
-.animated-underline-fra:hover,
-.animated-underline-deu:hover,
-.animated-underline-rus:hover,
-.animated-underline-esp:hover,
-.animated-underline-ita:hover {
+.animated-underline-kaz:hover {
   cursor: default;
 }
 
-.animated-underline:hover::after,
-.animated-underline-eng:hover::after,
-.animated-underline-fra:hover::after,
-.animated-underline-deu:hover::after,
-.animated-underline-rus:hover::after,
-.animated-underline-esp:hover::after,
-.animated-underline-ita:hover::after {
+.animated-underline-kaz:hover::after {
   transform: scaleX(1); /* 호버 시 가로 길이를 100%로 */
   transform-origin: bottom left;
 }

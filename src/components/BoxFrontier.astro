@@ -6,36 +6,36 @@ import "../styles/transition.css";
 const { title, subtitle, description, language } = Astro.props;
 
 const colorMap800: Record<string, string> = {
-  heb: "var(--blue800)",
-  kaz: "var(--teal800)",
+  heb: "rgba(30, 64, 175, 1)",
+  kaz: "rgba(17, 94, 89, 1)",
 };
 const colorMap700: Record<string, string> = {
-  heb: "var(--blue700)",
-  kaz: "var(--teal700)",
+  heb: "rgba(29, 78, 216, 1)",
+  kaz: "rgba(15, 118, 110, 1)",
 };
 const colorMap600: Record<string, string> = {
-  heb: "var(--blue600)",
-  kaz: "var(--teal600)",
+  heb: "rgba(37, 99, 235, 1)",
+  kaz: "rgba(13, 148, 136, 1)",
 };
 const colorMap500: Record<string, string> = {
-  heb: "var(--blue500)",
-  kaz: "var(--teal500)",
+  heb: "rgba(59, 130, 246, 1)",
+  kaz: "rgba(20, 184, 166, 1)",
 };
 const colorMap400: Record<string, string> = {
-  heb: "var(--blue400)",
-  kaz: "var(--teal400)",
+  heb: "rgba(96, 165, 250, 1)",
+  kaz: "rgba(45, 212, 191, 1)",
 };
 const colorMap300: Record<string, string> = {
-  heb: "var(--blue300)",
-  kaz: "var(--teal300)",
+  heb: "rgba(147, 197, 253, 1)",
+  kaz: "rgba(94, 234, 212, 1)",
 };
 const colorMap200: Record<string, string> = {
-  heb: "var(--blue200)",
-  kaz: "var(--teal200)",
+  heb: "rgba(191, 219, 254, 1)",
+  kaz: "rgba(153, 246, 228, 1)",
 };
 const colorMap100: Record<string, string> = {
-  heb: "var(--blue100)",
-  kaz: "var(--teal100)",
+  heb: "rgba(219, 234, 254, 1)",
+  kaz: "rgba(204, 251, 241, 1)",
 };
 const color800 = colorMap800[language] || "var(--zinc800)";
 const color700 = colorMap700[language] || "var(--zinc700)";
@@ -48,18 +48,10 @@ const color100 = colorMap100[language] || "var(--zinc100)";
 ---
 
 <style define:vars={{ color500, color400, color300, color200, color100 }}>
-  .box {
-    background-color: transparent;
-  }
-
   .box > h2,
   .box > h3,
   .box > p {
-    color: var(--zinc800);
-  }
-
-  .box > h2::after {
-    background-color: var(--color400);
+    color: var(--neutral100);
   }
 
   .box .loader::before,
@@ -69,12 +61,12 @@ const color100 = colorMap100[language] || "var(--zinc100)";
 </style>
 
 <div class="box riseUp_1">
-  <h2 class="riseUp_2">{title}</h2>
-  <h3 class="riseUp_3">{subtitle}</h3>
+  <h2 class="fade_2">{title}</h2>
+  <h3 class="fade_3">{subtitle}</h3>
   <div class="item">
     <i class="loader"></i>
   </div>
-  <p class="riseUp_4">{description}</p>
+  <p class="fade_4">{description}</p>
 </div>
 
 <style>
@@ -87,6 +79,9 @@ const color100 = colorMap100[language] || "var(--zinc100)";
     outline: none;
     z-index: 0;
     text-decoration: none;
+    padding: 1rem;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    background-color: rgba(255, 255, 255, 0.1);
     transition: all 1s cubic-bezier(0.19, 1, 0.22, 1);
   }
 
@@ -96,41 +91,18 @@ const color100 = colorMap100[language] || "var(--zinc100)";
     text-transform: uppercase;
     display: inline;
     font-size: 60px;
-    font-weight: 600;
+    font-weight: 500;
     line-height: 1;
     word-break: keep-all;
     word-wrap: break-word;
     transition: all 0.4s;
   }
 
-  .box > h2::after {
-    content: "";
-    position: absolute;
-    width: 100%;
-    height: 15px;
-    bottom: 10px;
-    left: 0;
-    opacity: 0.8;
-    z-index: -1;
-    transform-origin: bottom left;
-    animation: underline 2.4s cubic-bezier(0, 0, 0.24, 1.21);
-  }
-
-  @keyframes underline {
-    0% {
-      transform: scaleX(0);
-    }
-
-    100% {
-      transform: scaleX(1);
-    }
-  }
-
   .box > h3 {
     position: relative;
     display: block;
     font-size: 28px;
-    font-weight: 600;
+    font-weight: 500;
     letter-spacing: 0px;
     line-height: 1;
     margin-top: 10px;
@@ -139,11 +111,11 @@ const color100 = colorMap100[language] || "var(--zinc100)";
 
   .box > p {
     position: absolute;
-    width: 100%;
-    left: 0rem;
-    bottom: 0rem;
-    font-size: 16px;
-    font-weight: 500;
+    width: calc(100% - 2rem);
+    left: 1rem;
+    bottom: 1rem;
+    font-size: 15px;
+    font-weight: 400;
     letter-spacing: 0px;
     line-height: 1.4;
     transition: all 0.4s;
@@ -166,8 +138,8 @@ const color100 = colorMap100[language] || "var(--zinc100)";
   .box .item {
     position: absolute;
     display: grid;
-    top: 1rem;
-    right: 1rem;
+    top: 2rem;
+    right: 2rem;
     place-items: center;
     transition: all 0.4s ease;
   }

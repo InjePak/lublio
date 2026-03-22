@@ -12,6 +12,14 @@
 }
 /* font-family: "Inter", sans-serif; */
 
+/* HEBREW */
+@font-face {
+  font-family: "Noto Hebrew";
+  src: url("/fonts/NotoSansHebrew-VariableFont_wdth\,wght.ttf")
+    format("truetype");
+  font-display: swap;
+}
+
 @font-face {
   font-family: "Noto Korean";
   src: url("/fonts/NotoSansKR-VariableFont_wght.ttf") format("truetype");
