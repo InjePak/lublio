@@ -1,12 +1,12 @@
 ---
-import BaseLayout from "../../layouts/BaseLayout.astro";
-import BoxMain from "../../components/BoxMain.astro";
-import Button from "../../components/Button.astro";
+import Layout from "../../layouts/KazariahLayout.astro";
+import BoxMain from "../../components/BoxMainFrontier.astro";
+import Button from "../../components/ButtonFrontier.astro";
 
 const pageTitle = "Kazariah";
 ---
 
-<BaseLayout pageTitle={pageTitle + " | Powered by Lublio"}>
+<Layout pageTitle={pageTitle + " | Powered by Lublio"}>
   <BoxMain
     title="Kazariah"
     subtitle="프로젝트 카자리아"
@@ -35,7 +35,7 @@ const pageTitle = "Kazariah";
       isDev="true"
     />
 
-    <Button
+    <!-- <Button
       title="Kenda"
       subtitle="카자흐어 첫걸음"
       description="CEFR A0"
@@ -93,24 +93,14 @@ const pageTitle = "Kazariah";
       path="/kazariah/c1"
       level="c1"
       isDev="true"
-    />
+    /> -->
   </div>
-
-  <!-- <Button
-    title="Grammaire"
-    subtitle="Grammar"
-    description="CEFR A1 - B2"
-    language="kaz"
-    path="/kazariah/grammar"
-    level="grammar"
-    isDev="true"
-  /> -->
 </KazariahLayout>
 
 <style>
   .button-wrapper {
-    display: flex;
-    flex-direction: column;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
     justify-items: stretch;
     gap: 1rem;
     margin-bottom: 1rem;
