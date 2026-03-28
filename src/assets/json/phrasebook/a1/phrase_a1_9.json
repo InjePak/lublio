@@ -5,8 +5,7 @@
     "fra": "Je ne me sens pas bien.",
     "deu": "Ich fühle mich nicht gut.",
     "rus": "Я плохо себя чувствую.",
-    "heb": "אני לא מרגיש טוב.",
-    "kaz": "Өзімді нашар сезініп тұрмын."
+    "ita": "Non mi sento bene."
   },
   {
     "kor": "어디가 아프신가요?",
@@ -14,8 +13,7 @@
     "fra": "Où avez-vous mal ?",
     "deu": "Wo tut es weh?",
     "rus": "Что у вас болит?",
-    "heb": "איפה כואב לך?",
-    "kaz": "Қай жеріңіз ауырады?"
+    "ita": "Dove ti fa male?"
   },
   {
     "kor": "머리가 아파요.",
@@ -23,8 +21,7 @@
     "fra": "J'ai mal à la tête.",
     "deu": "Ich habe Kopfschmerzen.",
     "rus": "У меня болит голова.",
-    "heb": "כואב לי הראש.",
-    "kaz": "Басым ауырып тұр."
+    "ita": "Ho mal di testa."
   },
   {
     "kor": "배가 아파요.",
@@ -32,8 +29,7 @@
     "fra": "J'ai mal au ventre.",
     "deu": "Ich habe Bauchschmerzen.",
     "rus": "У меня болит живот.",
-    "heb": "כואב לי הבטן.",
-    "kaz": "Ішім ауырып тұр."
+    "ita": "Ho mal di pancia."
   },
   {
     "kor": "목이 아파요.",
@@ -41,8 +37,7 @@
     "fra": "J'ai mal à la gorge.",
     "deu": "Ich habe Halsschmerzen.",
     "rus": "У меня болит горло.",
-    "heb": "כואב לי הגרון.",
-    "kaz": "Тамағым ауырып тұр."
+    "ita": "Ho mal di gola."
   },
   {
     "kor": "감기에 걸렸어요.",
@@ -50,8 +45,7 @@
     "fra": "J'ai un rhume.",
     "deu": "Ich habe eine Erkältung.",
     "rus": "Я простудился (простудилась).",
-    "heb": "הצטננתי.",
-    "kaz": "Мен суық тигізіп алдым."
+    "ita": "Ho il raffreddore."
   },
   {
     "kor": "열이 나요.",
@@ -59,8 +53,7 @@
     "fra": "J'ai de la fièvre.",
     "deu": "Ich habe Fieber.",
     "rus": "У меня температура.",
-    "heb": "יש לי חום.",
-    "kaz": "Қызуым көтеріліп тұр."
+    "ita": "Ho la febbre."
   },
   {
     "kor": "기침을 많이 해요.",
@@ -68,8 +61,7 @@
     "fra": "Je tousse beaucoup.",
     "deu": "Ich habe starken Husten.",
     "rus": "У меня сильный кашель.",
-    "heb": "יש לי שיעול חזק.",
-    "kaz": "Мен қатты жөтеліп жүрмін."
+    "ita": "Ho una brutta tosse."
   },
   {
     "kor": "피곤해요.",
@@ -77,8 +69,7 @@
     "fra": "Je suis fatigué(e).",
     "deu": "Ich bin müde.",
     "rus": "Я устал (устала).",
-    "heb": "אני עייף/ה.",
-    "kaz": "Мен шаршадым."
+    "ita": "Sono stanco / stanca."
   },
   {
     "kor": "의사가 필요해요.",
@@ -86,8 +77,7 @@
     "fra": "J'ai besoin d'un médecin.",
     "deu": "Ich brauche einen Arzt.",
     "rus": "Мне нужен врач.",
-    "heb": "אני צריך רופא.",
-    "kaz": "Маған дәрігер керек."
+    "ita": "Ho bisogno di un medico."
   },
   {
     "kor": "병원에 가야 해요.",
@@ -95,8 +85,7 @@
     "fra": "Je dois aller à l'hôpital.",
     "deu": "Ich muss in die Klinik.",
     "rus": "Мне нужно в больницу.",
-    "heb": "אני חייב ללכת לבית החולים.",
-    "kaz": "Маған ауруханаға бару керек."
+    "ita": "Devo andare in ospedale."
   },
   {
     "kor": "약국이 어디에 있나요?",
@@ -104,8 +93,7 @@
     "fra": "Où est la pharmacie ?",
     "deu": "Wo ist die Apotheke?",
     "rus": "Где находится аптека?",
-    "heb": "איפה בית המרקחת?",
-    "kaz": "Дәріхана қайда?"
+    "ita": "Dov'è la farmacia?"
   },
   {
     "kor": "약이 좀 필요합니다.",
@@ -113,8 +101,7 @@
     "fra": "J'ai besoin de médicaments.",
     "deu": "Ich brauche etwas Medizin.",
     "rus": "Мне нужны лекарства.",
-    "heb": "אני צריך תרופה.",
-    "kaz": "Маған дәрі-дәрмек керек."
+    "ita": "Ho bisogno di medicine."
   },
   {
     "kor": "눈이 아파요.",
@@ -122,17 +109,15 @@
     "fra": "J'ai mal aux yeux.",
     "deu": "Meine Augen tun weh.",
     "rus": "У меня болят глаза.",
-    "heb": "כואבות לי העיניים.",
-    "kaz": "Көзім ауырып тұр."
+    "ita": "Mi fanno male gli occhi."
   },
   {
     "kor": "다리가 부러졌어요.",
     "eng": "I have broken my leg.",
     "fra": "Je me suis cassé la jambe.",
-    "deu": "Ich habe mir das Bein gebроchen.",
+    "deu": "Ich habe mir das Bein gebrochen.",
     "rus": "Я сломал (сломала) ногу.",
-    "heb": "שברתי את הרגל.",
-    "kaz": "Аяғымды сындырып алдым."
+    "ita": "Mi sono rotto la gamba."
   },
   {
     "kor": "손을 씻으세요.",
@@ -140,8 +125,7 @@
     "fra": "Lavez-vous les mains.",
     "deu": "Waschen Sie Ihre Hände.",
     "rus": "Мойте руки.",
-    "heb": "שטוף את הידיים.",
-    "kaz": "Қолыңызды жуыңыз."
+    "ita": "Lavati le mani."
   },
   {
     "kor": "건강에 좋은 음식을 드세요.",
@@ -149,8 +133,7 @@
     "fra": "Mangez sainement.",
     "deu": "Essen Sie gesund.",
     "rus": "Ешьте здоровую пищу.",
-    "heb": "תאכל אוכל בריא.",
-    "kaz": "Дұрыс тамақтаныңыз."
+    "ita": "Mangia cibo sano."
   },
   {
     "kor": "충분히 자야 해요.",
@@ -158,8 +141,7 @@
     "fra": "Vous avez besoin de sommeil.",
     "deu": "Du brauchst genug Schlaf.",
     "rus": "Вам нужно достаточно спать.",
-    "heb": "אתה צריך לישון מספיק.",
-    "kaz": "Сізге ұйқыңызды қандыру керек."
+    "ita": "Hai bisogno di dormire a sufficienza."
   },
   {
     "kor": "숨을 깊게 들이마시세요.",
@@ -167,8 +149,7 @@
     "fra": "Respirez profondément.",
     "deu": "Atmen Sie tief ein.",
     "rus": "Сделайте глубокий вдох.",
-    "heb": "קח נשימה עמוקה.",
-    "kaz": "Терең тыныс алыңыз."
+    "ita": "Fai un respiro profondo."
   },
   {
     "kor": "혈압이 높아요.",
@@ -176,8 +157,7 @@
     "fra": "Ma tension est élevée.",
     "deu": "Mein Blutdruck ist hoch.",
     "rus": "У меня высокое давление.",
-    "heb": "לחץ הדם שלי גבוה.",
-    "kaz": "Қан қысымым жоғары."
+    "ita": "Ho la pressione alta."
   },
   {
     "kor": "알레르기가 있나요?",
@@ -185,8 +165,7 @@
     "fra": "Avez-vous des allergies ?",
     "deu": "Hast du Allergien?",
     "rus": "У вас есть аллергия?",
-    "heb": "יש לך אלרגיות?",
-    "kaz": "Аллергияңыз бар ма?"
+    "ita": "Hai delle allergie?"
   },
   {
     "kor": "저는 견과류 알레르기가 있어요.",
@@ -194,8 +173,7 @@
     "fra": "Je suis allergique aux noix.",
     "deu": "Ich bin allergisch gegen Nüsse.",
     "rus": "У меня аллергия на орехи.",
-    "heb": "אני אלרגי לאגוזים.",
-    "kaz": "Менің жаңғаққа аллергиям бар."
+    "ita": "Sono allergico alle noci."
   },
   {
     "kor": "이 약을 하루에 세 번 드세요.",
@@ -203,8 +181,7 @@
     "fra": "Prenez ce médicament trois fois par jour.",
     "deu": "Nehmen Sie diese Medizin dreimal täglich.",
     "rus": "Принимайте это лекарство три раза в день.",
-    "heb": "קח את התרופה הזו שלוש פעמים ביום.",
-    "kaz": "Бұл дәріні күніне үш рет ішіңіз."
+    "ita": "Prendi questa medicina tre volte al giorno."
   },
   {
     "kor": "안경을 써야 해요.",
@@ -212,8 +189,7 @@
     "fra": "Je dois porter des lunettes.",
     "deu": "Ich muss eine Brille tragen.",
     "rus": "Мне нужно носить очки.",
-    "heb": "אני צריך להרכיב משקפיים.",
-    "kaz": "Маған көзілдірік кию керек."
+    "ita": "Devo portare gli occhiali."
   },
   {
     "kor": "빨리 낫길 바라요.",
@@ -221,7 +197,6 @@
     "fra": "Bon rétablissement.",
     "deu": "Gute Besserung.",
     "rus": "Поправляйтесь скорее.",
-    "heb": "תהיה בריא בקרוב.",
-    "kaz": "Тезірек сауығып кетіңіз."
+    "ita": "Guarisci presto."
   }
 ]
