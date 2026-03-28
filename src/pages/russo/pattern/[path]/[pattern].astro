@@ -1,7 +1,7 @@
 ---
-import BaseLayout from "../../../../layouts/BaseLayout.astro";
-import VisibilityController from "../../../../components/VisibilityController.astro";
-import Box2 from "../../../../components/Box2.astro";
+import RussoLayout from "../../../../layouts/RussoLayout.astro";
+import VisibilityControllerFrontier from "../../../../components/VisibilityControllerFrontier.astro";
+import BoxFrontier2 from "../../../../components/BoxFrontier2.astro";
 
 import chapters from "../../../../assets/json/patterns/chapters.json";
 import chapter1 from "../../../../assets/json/patterns/russian/chapter1.json";
@@ -84,13 +84,13 @@ const navItems = [
 ];
 ---
 
-<BaseLayout pageTitle={post.translation + " - Lublio"}>
-  <Box2
+<RussoLayout pageTitle={post.translation + " - Lublio"}>
+  <BoxFrontier2
     title=`${post.id}. ${post.pattern}`
     subtitle={post.translation}
     language="rus"
   />
-  <VisibilityController items={navItems} />
+  <VisibilityControllerFrontier items={navItems} />
 
   {
     !post ? (
@@ -174,7 +174,7 @@ const navItems = [
       });
     });
   </script>
-</BaseLayout>
+</RussoLayout>
 
 <style>
   /* Phrase Box */
@@ -185,10 +185,10 @@ const navItems = [
   }
 
   .phrase-box > h1 {
-    font-family: "Roboto Condensed", sans-serif;
+    font-family: "Inter", sans-serif;
     text-transform: uppercase;
     font-size: 28px;
-    font-weight: 700;
+    font-weight: 600;
     margin-top: 1.5rem;
     margin-bottom: 2rem;
     width: 100%;
@@ -199,20 +199,21 @@ const navItems = [
     width: 100%;
     padding: 2rem 1.5rem;
     font-size: 18px;
-    font-weight: 500;
+    font-weight: 400;
     line-height: 1.5rem;
     margin-bottom: 1rem;
     hyphens: auto;
     overflow-wrap: break-word;
-    background-color: var(--neutral50);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    background-color: rgba(255, 255, 255, 0.1);
   }
 
   .phrase-box > p > span {
-    font-family: "Roboto Condensed", sans-serif;
+    font-family: "Inter", sans-serif;
     text-transform: uppercase;
     display: inline-block;
     width: 100%;
-    font-weight: 700;
+    font-weight: 600;
     border-left: 4px solid var(--indigo400);
     font-size: 20px;
     margin-bottom: 1rem;

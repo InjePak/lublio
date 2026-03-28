@@ -8,10 +8,14 @@ const { language, level } = Astro.props;
 const colorMap700: Record<string, string> = {
   heb: "rgba(29, 78, 216, 0.2)",
   kaz: "rgba(15, 118, 110, 0.2)",
+  fra: "rgba(3, 105, 161, 0.2)",
+  rus: "rgba(67, 56, 202, 0.2)",
 };
 const colorMap400: Record<string, string> = {
   heb: "rgba(96, 165, 250, 0.7)",
   kaz: "rgba(45, 212, 191, 0.7)",
+  fra: "rgba(56, 189, 248, 0.7)",
+  rus: "rgba(129, 140, 248, 0.7)",
 };
 const color700 = colorMap700[language] || "var(--zinc700)";
 const color400 = colorMap400[language] || "var(--zinc400)";

@@ -1,39 +1,39 @@
 ---
-import BaseLayout from "../../layouts/BaseLayout.astro";
-import Box from "../../components/Box.astro";
-import Button from "../../components/Button.astro";
+import RussoLayout from "../../layouts/RussoLayout.astro";
+import BoxMainFrontier from "../../components/BoxMainFrontier.astro";
+import ButtonFrontier from "../../components/ButtonFrontier.astro";
 
-const pageTitle = "러시아어 학습 블로그";
+const pageTitle = "Russo";
 ---
 
-<BaseLayout pageTitle={pageTitle + "  Russo"}>
-  <Box
+<RussoLayout pageTitle={pageTitle + " | Powered by Lublio"}>
+  <BoxMainFrontier
     title="Russo"
-    subtitle="프로젝트 루소"
+    subtitle="Russian"
     description="Русский — это язык великой литературы и космоса. Обладая невероятной силой выражения и эмоциональной глубиной, он открывает доступ к богатейшему культурному наследию и передовым научным достижениям."
     language="rus"
   />
 
   <div class="button-wrapper">
-    <Button
+    <ButtonFrontier
       title="Фразы"
-      subtitle="러시아어 회화"
+      subtitle="Phrasebook"
       description="CEFR A1 - B2"
       language="rus"
       path="/russo/phrasebook"
       level="phrase"
     />
 
-    <Button
+    <ButtonFrontier
       title="Схемы"
-      subtitle="러시아어 패턴"
+      subtitle="Sentence Pattern"
       description="CEFR B1 - C1"
       language="rus"
       path="/russo/pattern"
       level="pattern"
     />
 
-    <!-- <Button
+    <!-- <ButtonFrontier
       title="Абсолютный новичок"
       subtitle="러시아어 첫걸음"
       description="CEFR A0"
@@ -43,7 +43,7 @@ const pageTitle = "러시아어 학습 블로그";
       isDev="true"
     />
 
-    <Button
+    <ButtonFrontier
       title="Элементарный"
       subtitle="기초 러시아어"
       description="CEFR A1"
@@ -53,7 +53,7 @@ const pageTitle = "러시아어 학습 블로그";
       isDev="true"
     />
 
-    <Button
+    <ButtonFrontier
       title="Предпороговый"
       subtitle="초급 러시아어"
       description="CEFR A2"
@@ -63,7 +63,7 @@ const pageTitle = "러시아어 학습 블로그";
       isDev="true"
     />
 
-    <Button
+    <ButtonFrontier
       title="Пороговый"
       subtitle="중급 러시아어"
       description="CEFR B1"
@@ -73,7 +73,7 @@ const pageTitle = "러시아어 학습 블로그";
       isDev="true"
     />
 
-    <Button
+    <ButtonFrontier
       title="Постпороговый"
       subtitle="중고급 러시아어"
       description="CEFR B2"
@@ -84,7 +84,7 @@ const pageTitle = "러시아어 학습 블로그";
     /> -->
   </div>
 
-  <!-- <Button
+  <!-- <ButtonFrontier
     title="Грамматика"
     subtitle="Grammar"
     description="CEFR A1 - B2"
@@ -93,7 +93,7 @@ const pageTitle = "러시아어 학습 블로그";
     level="grammar"
     isDev="true"
   /> -->
-</BaseLayout>
+</RussoLayout>
 
 <style>
   .button-wrapper {

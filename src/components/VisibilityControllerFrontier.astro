@@ -1,0 +1,105 @@
+---
+const { items } = Astro.props;
+---
+
+<>
+  <div class="controller">
+    {
+      items.map((item: any) => (
+        <label>
+          <input
+            type="checkbox"
+            class="visibility-toggle"
+            data-target={item.id}
+            checked
+          />
+          <span>{item.label}</span>
+        </label>
+      ))
+    }
+  </div>
+</>
+
+<style>
+  .controller {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-items: stretch;
+    font-size: 1rem;
+    font-weight: 500;
+    gap: 1rem;
+    width: 100%;
+    height: 100%;
+    margin-bottom: 1.5rem;
+  }
+
+  /* label이 4개 이상일 때 적용되는 스타일 */
+  .controller:has(label:nth-last-child(n + 4)) {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-items: stretch;
+  }
+
+  .controller label {
+    cursor: pointer;
+    font-size: 1rem;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  /* 홀수인 경우 첫번째 width 100% */
+  .controller:has(label:nth-last-child(odd):first-child) > label:last-child {
+    grid-column: 1 / -1;
+  }
+
+  .visibility-toggle {
+    display: none;
+  }
+
+  .visibility-toggle + span {
+    display: inline-block;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    background-color: rgba(255, 255, 255, 0.1);
+    width: 100%;
+    padding: 0.7rem;
+    font-family: "Inter", sans-serif;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 18px;
+    text-align: center;
+    transition: all 0.2s ease;
+  }
+
+  .visibility-toggle:not(:checked) + span {
+    color: var(--neutral600);
+  }
+
+  .visibility-toggle:not(:checked) + span:hover,
+  .visibility-toggle:checked + span:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+  }
+
+  .visibility-toggle:checked + span {
+    color: var(--neutral100);
+  }
+</style>
+
+<script>
+  // 페이지 내의 모든 체크박스를 가져옵니다.
+  const toggles = document.querySelectorAll(".visibility-toggle");
+
+  toggles.forEach((toggle) => {
+    toggle.addEventListener("change", (e) => {
+      const targetClass = (e.target as HTMLInputElement).dataset.target;
+      const isVisible = (e.target as HTMLInputElement).checked;
+
+      // 해당 클래스를 가진 모든 요소를 찾아 숨기거나 보입니다.
+      const elements = document.querySelectorAll(`.${targetClass}`);
+      elements.forEach((el) => {
+        (el as HTMLElement).style.display = isVisible ? "block" : "none";
+      });
+    });
+  });
+</script>

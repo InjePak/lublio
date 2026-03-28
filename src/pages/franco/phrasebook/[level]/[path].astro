@@ -1,6 +1,6 @@
 ---
-import BaseLayout from "../../../../layouts/BaseLayout.astro";
-import Box2 from "../../../../components/Box2.astro";
+import FrancoLayout from "../../../../layouts/FrancoLayout.astro";
+import BoxFrontier2 from "../../../../components/BoxFrontier2.astro";
 
 // src/pages/phrasebook/[level]/[path].astro
 import chapters from "../../../../assets/json/phrasebook/chapters.json";
@@ -243,8 +243,8 @@ switch (level) {
 }
 ---
 
-<BaseLayout pageTitle={chapter.kor + " | Franco"}>
-  <Box2 title={chapter.fra} subtitle={chapter.kor} language="fra" />
+<FrancoLayout pageTitle={chapter.eng + " | Franco"}>
+  <BoxFrontier2 title={chapter.fra} subtitle={chapter.eng} language="fra" />
 
   {
     !jsonData ? (
@@ -254,18 +254,19 @@ switch (level) {
         <div class="phrase-box">
           <h1>{index + 1}</h1>
           <h2 lang="fr">{data.fra}</h2>
-          <p>{data.kor}</p>
+          <p>{data.eng}</p>
         </div>
       ))
     )
   }
-</BaseLayout>
+</FrancoLayout>
 
 <style>
   /* Phrase Box */
 
   .phrase-box {
-    background-color: var(--neutral50);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    background-color: rgba(255, 255, 255, 0.1);
     margin-bottom: 1.5rem;
     padding: 1.5rem;
   }
@@ -281,7 +282,7 @@ switch (level) {
   .phrase-box > h2 {
     font-family: "Inter", sans-serif;
     font-size: 20px;
-    font-weight: 600;
+    font-weight: 500;
     hyphens: auto;
     overflow-wrap: break-word;
   }
@@ -290,7 +291,8 @@ switch (level) {
     font-size: 18px;
     margin-bottom: 1rem;
     line-height: 1.6rem;
-    color: var(--zinc500);
+    font-weight: 400;
+    color: var(--neutral500);
   }
 
   .phrase-box > p > span {

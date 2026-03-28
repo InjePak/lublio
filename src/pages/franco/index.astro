@@ -1,39 +1,39 @@
 ---
-import BaseLayout from "../../layouts/BaseLayout.astro";
-import Box from "../../components/Box.astro";
-import Button from "../../components/Button.astro";
+import FrancoLayout from "../../layouts/FrancoLayout.astro";
+import BoxMainFrontier from "../../components/BoxMainFrontier.astro";
+import ButtonFrontier from "../../components/ButtonFrontier.astro";
 
-const pageTitle = "프랑스어 학습 블로그";
+const pageTitle = "Franco";
 ---
 
-<BaseLayout pageTitle={pageTitle + " | Franco"}>
-  <Box
+<FrancoLayout pageTitle={pageTitle + " | Powered by Lublio"}>
+  <BoxMainFrontier
     title="Franco"
-    subtitle="프로젝트 프랑코"
+    subtitle="French"
     description="Le français est la langue de l'amour et de la diplomatie. Reconnue pour son élégance et sa précision, elle brille à travers le monde comme un vecteur essentiel de la culture, de la gastronomie et des arts libéraux."
     language="fra"
   />
 
   <div class="button-wrapper">
-    <Button
+    <ButtonFrontier
       title="Phrases"
-      subtitle="프랑스어 회화"
+      subtitle="Phrasebook"
       description="CEFR A1 - B2"
       language="fra"
       path="/franco/phrasebook"
       level="phrase"
     />
 
-    <Button
+    <ButtonFrontier
       title="Modèles"
-      subtitle="프랑스어 패턴"
+      subtitle="Sentence Pattern"
       description="CEFR B1 - C1"
       language="fra"
       path="/franco/pattern"
       level="pattern"
     />
 
-    <!-- <Button
+    <!-- <ButtonFrontier
       title="Débutant complet"
       subtitle="프랑스어 첫걸음"
       description="CEFR A0"
@@ -43,7 +43,7 @@ const pageTitle = "프랑스어 학습 블로그";
       isDev="true"
     />
 
-    <Button
+    <ButtonFrontier
       title="Débutant"
       subtitle="기초 프랑스어"
       description="CEFR A1"
@@ -53,7 +53,7 @@ const pageTitle = "프랑스어 학습 블로그";
       isDev="true"
     />
 
-    <Button
+    <ButtonFrontier
       title="Élémentaire"
       subtitle="초급 프랑스어"
       description="CEFR A2"
@@ -63,7 +63,7 @@ const pageTitle = "프랑스어 학습 블로그";
       isDev="true"
     />
 
-    <Button
+    <ButtonFrontier
       title="Intermédiaire"
       subtitle="중급 프랑스어"
       description="CEFR B1"
@@ -73,7 +73,7 @@ const pageTitle = "프랑스어 학습 블로그";
       isDev="true"
     />
 
-    <Button
+    <ButtonFrontier
       title="Intermédiaire supérieur"
       subtitle="중고급 프랑스어"
       description="CEFR B2"
@@ -84,7 +84,7 @@ const pageTitle = "프랑스어 학습 블로그";
     /> -->
   </div>
 
-  <!-- <Button
+  <!-- <ButtonFrontier
     title="Grammaire"
     subtitle="Grammar"
     description="CEFR A1 - B2"
@@ -93,7 +93,7 @@ const pageTitle = "프랑스어 학습 블로그";
     level="grammar"
     isDev="true"
   /> -->
-</BaseLayout>
+</FrancoLayout>
 
 <style>
   .button-wrapper {
