@@ -7,52 +7,84 @@ const { title, subtitle, description, language, eng, fra, deu, rus } =
   Astro.props;
 
 const colorMap800: Record<string, string> = {
+  nld: "rgba(154, 52, 18, 1)",
+  fra: "rgba(7, 89, 133, 1)",
+  deu: "rgba(146, 64, 14, 1)",
+  ita: "rgba(6, 95, 70, 1)",
+  spa: "rgba(159, 18, 57, 1)",
+  rus: "rgba(55, 48, 163, 1)",
   heb: "rgba(30, 64, 175, 1)",
   kaz: "rgba(17, 94, 89, 1)",
-  fra: "rgba(7, 89, 133, 1)",
-  rus: "rgba(55, 48, 163, 1)",
 };
 const colorMap700: Record<string, string> = {
+  nld: "rgba(194, 65, 12, 1)",
+  fra: "rgba(3, 105, 161, 1)",
+  deu: "rgba(180, 83, 9, 1)",
+  ita: "rgba(4, 120, 87, 1)",
+  spa: "rgba(190, 18, 60, 1)",
+  rus: "rgba(67, 56, 202, 1)",
   heb: "rgba(29, 78, 216, 1)",
   kaz: "rgba(15, 118, 110, 1)",
-  fra: "rgba(3, 105, 161, 1)",
-  rus: "rgba(67, 56, 202, 1)",
 };
 const colorMap600: Record<string, string> = {
+  nld: "rgba(234, 88, 12, 1)",
+  fra: "rgba(2, 132, 199, 1)",
+  deu: "rgba(217, 119, 6, 1)",
+  ita: "rgba(5, 150, 105, 1)",
+  spa: "rgba(225, 29, 72, 1)",
+  rus: "rgba(79, 70, 229, 1)",
   heb: "rgba(37, 99, 235, 1)",
   kaz: "rgba(13, 148, 136, 1)",
-  fra: "rgba(2, 132, 199, 1)",
-  rus: "rgba(79, 70, 229, 1)",
 };
 const colorMap500: Record<string, string> = {
+  nld: "rgba(249, 115, 22, 1)",
+  fra: "rgba(14, 165, 233, 1)",
+  deu: "rgba(245, 158, 11, 1)",
+  ita: "rgba(16, 185, 129, 1)",
+  spa: "rgba(244, 63, 94, 1)",
+  rus: "rgba(99, 102, 241, 1)",
   heb: "rgba(59, 130, 246, 1)",
   kaz: "rgba(20, 184, 166, 1)",
-  fra: "rgba(14, 165, 233, 1)",
-  rus: "rgba(99, 102, 241, 1)",
 };
 const colorMap400: Record<string, string> = {
-  heb: "rgba(96, 165, 250, 1)",
-  kaz: "rgba(45, 212, 191, 1)",
-  fra: "rgba(56, 189, 248, 1)",
-  rus: "rgba(129, 140, 248, 1)",
+  nld: "rgba(251, 146, 60, 0.5)",
+  fra: "rgba(56, 189, 248, 0.5)",
+  deu: "rgba(251, 191, 36, 0.5)",
+  ita: "rgba(52, 211, 153, 0.5)",
+  spa: "rgba(251, 113, 133, 0.5)",
+  rus: "rgba(129, 140, 248, 0.5)",
+  heb: "rgba(96, 165, 250, 0.5)",
+  kaz: "rgba(45, 212, 191, 0.5)",
 };
 const colorMap300: Record<string, string> = {
+  nld: "rgba(253, 186, 116, 1)",
+  fra: "rgba(125, 211, 252, 1)",
+  deu: "rgba(252, 211, 77, 1)",
+  ita: "rgba(110, 231, 183, 1)",
+  spa: "rgba(253, 164, 175, 1)",
+  rus: "rgba(165, 180, 252, 1)",
   heb: "rgba(147, 197, 253, 1)",
   kaz: "rgba(94, 234, 212, 1)",
-  fra: "rgba(125, 211, 252, 1)",
-  rus: "rgba(165, 180, 252, 1)",
 };
 const colorMap200: Record<string, string> = {
+  nld: "rgba(254, 215, 170, 1)",
+  fra: "rgba(186, 230, 253, 1)",
+  deu: "rgba(253, 230, 138, 1)",
+  ita: "rgba(167, 243, 208, 1)",
+  spa: "rgba(254, 205, 211, 1)",
+  rus: "rgba(199, 210, 254, 1)",
   heb: "rgba(191, 219, 254, 1)",
   kaz: "rgba(153, 246, 228, 1)",
-  fra: "rgba(186, 230, 253, 1)",
-  rus: "rgba(199, 210, 254, 1)",
 };
 const colorMap100: Record<string, string> = {
+  nld: "rgba(255, 237, 213, 1)",
+  fra: "rgba(224, 242, 254, 1)",
+  deu: "rgba(254, 243, 199, 1)",
+  ita: "rgba(209, 250, 229, 1)",
+  spa: "rgba(255, 228, 230, 1)",
+  rus: "rgba(224, 231, 255, 1)",
   heb: "rgba(219, 234, 254, 1)",
   kaz: "rgba(204, 251, 241, 1)",
-  fra: "rgba(224, 242, 254, 1)",
-  rus: "rgba(224, 231, 255, 1)",
 };
 const color800 = colorMap800[language] || "var(--zinc800)";
 const color700 = colorMap700[language] || "var(--zinc700)";
@@ -80,7 +112,7 @@ const color100 = colorMap100[language] || "var(--zinc100)";
     background: linear-gradient(
       -45deg,
       rgba(255, 255, 255, 0.1),
-      var(--color500),
+      var(--color400),
       rgba(255, 255, 255, 0.1)
     );
     background-size: 300% 300%;
@@ -144,11 +176,10 @@ const color100 = colorMap100[language] || "var(--zinc100)";
   .box > h2 {
     position: relative;
     font-family: "Inter", sans-serif;
-    text-transform: uppercase;
     display: inline;
-    font-size: 40px;
-    font-weight: 600;
-    line-height: 1;
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 1.1;
     word-break: keep-all;
     word-wrap: break-word;
     transition: all 0.4s;
@@ -157,10 +188,10 @@ const color100 = colorMap100[language] || "var(--zinc100)";
   .box > h3 {
     position: relative;
     display: inline-box;
-    font-size: 24px;
-    font-weight: 500;
+    font-size: 20px;
+    font-weight: 400;
     letter-spacing: 0px;
-    line-height: 1;
+    line-height: 1.1;
     margin-top: 10px;
     margin-bottom: 0;
     transition: all 0.4s;
@@ -188,11 +219,11 @@ const color100 = colorMap100[language] || "var(--zinc100)";
   /* Mobile */
   @media (max-width: 480px) {
     .box > h2 {
-      font-size: 36px;
+      font-size: 28px;
     }
 
     .box > h3 {
-      font-size: 18px;
+      font-size: 16px;
     }
   }
 </style>

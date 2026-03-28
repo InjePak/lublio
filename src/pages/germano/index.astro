@@ -1,62 +1,62 @@
 ---
-import BaseLayout from "../../layouts/BaseLayout.astro";
-import Box from "../../components/Box.astro";
-import Button from "../../components/Button.astro";
+import GermanoLayout from "../../layouts/GermanoLayout.astro";
+import BoxMainFrontier from "../../components/BoxMainFrontier.astro";
+import ButtonFrontier from "../../components/ButtonFrontier.astro";
 
-const pageTitle = "Bretzi";
+const pageTitle = "Germano";
 ---
 
-<BaseLayout pageTitle={pageTitle + " | Powered by Lublio"}>
-  <Box
-    title="German"
-    subtitle="독일어"
+<GermanoLayout pageTitle={pageTitle + " | Powered by Lublio"}>
+  <BoxMainFrontier
+    title="Germano"
+    subtitle="German"
     description="Deutsch ist die Sprache der Dichter und Denker. Als wichtige Wissenschafts- und Wirtschaftssprache in Europa überzeugt sie durch ihre logische Struktur und ihre Tiefe in Philosophie und Technik."
     language="deu"
   />
 
-  <div class="button-wrapper">
-    <Button
+  <div class="ButtonFrontier-wrapper">
+    <ButtonFrontier
       title="Sätze"
       subtitle="Phrasebook"
       description="CEFR A1 - B2"
       language="deu"
-      path="/german/phrasebook"
+      path="/germano/phrasebook"
       level="phrase"
     />
 
-    <Button
+    <ButtonFrontier
       title="Muster"
       subtitle="Patterns"
       description="CEFR B1 - C1"
       language="deu"
-      path="/german/pattern"
+      path="/germano/pattern"
       level="pattern"
     />
 
-    <!-- <Button
+    <!-- <ButtonFrontier
       title="Germano"
       subtitle="모두의 독일어"
       description="CEFR A0 - B2"
       language="deu"
-      path="/german/germano"
+      path="/germano/germano"
       level="composite"
       isDev="true"
     /> -->
   </div>
 
-  <!-- <Button
+  <!-- <ButtonFrontier
     title="Grammatik"
     subtitle="Grammar"
     description="CEFR A1 - B2"
     language="deu"
-    path="/german/grammar"
+    path="/germano/grammar"
     level="grammar"
     isDev="true"
   /> -->
-</BaseLayout>
+</GermanoLayout>
 
 <style>
-  .button-wrapper {
+  .ButtonFrontier-wrapper {
     display: grid;
     grid-template-columns: 1fr 1fr;
     justify-items: stretch;
@@ -66,7 +66,7 @@ const pageTitle = "Bretzi";
 
   /* Mobile */
   @media (max-width: 480px) {
-    .button-wrapper {
+    .ButtonFrontier-wrapper {
       gap: 10px;
       margin-bottom: 10px;
     }

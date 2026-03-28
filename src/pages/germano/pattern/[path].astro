@@ -1,7 +1,7 @@
 ---
-import BaseLayout from "../../../layouts/BaseLayout.astro";
-import Box2 from "../../../components/Box2.astro";
-import Button2 from "../../../components/Button2.astro";
+import GermanoLayout from "../../../layouts/GermanoLayout.astro";
+import BoxFrontier2 from "../../../components/BoxFrontier2.astro";
+import ButtonFrontier2 from "../../../components/ButtonFrontier2.astro";
 
 import chapters from "../../../assets/json/patterns/chapters.json";
 import chapter1 from "../../../assets/json/patterns/german/chapter1.json";
@@ -71,18 +71,18 @@ switch (chapter.id) {
 const pageTitle = "German Sentence Patterns";
 ---
 
-<BaseLayout pageTitle={pageTitle + " - Lublio"}>
-  <Box2 title={chapter.deu} subtitle={chapter.eng} language="deu" />
+<GermanoLayout pageTitle={pageTitle + " - Lublio"}>
+  <BoxFrontier2 title={chapter.deu} subtitle={chapter.eng} language="deu" />
 
   {
     jsonData.map((post: any) => (
-      <Button2
+      <ButtonFrontier2
         id={post.id}
         title={post.pattern}
         subtitle={post.translation}
         language="deu"
-        path={"/german/pattern/" + path + "/" + post.id}
+        path={"/germano/pattern/" + path + "/" + post.id}
       />
     ))
   }
-</BaseLayout>
+</GermanoLayout>

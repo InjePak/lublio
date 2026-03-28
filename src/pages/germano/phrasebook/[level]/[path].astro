@@ -1,6 +1,6 @@
 ---
-import BaseLayout from "../../../../layouts/BaseLayout.astro";
-import Box2 from "../../../../components/Box2.astro";
+import GermanoLayout from "../../../../layouts/GermanoLayout.astro";
+import BoxFrontier2 from "../../../../components/BoxFrontier2.astro";
 
 // src/pages/phrasebook/[level]/[path].astro
 import chapters from "../../../../assets/json/phrasebook/chapters.json";
@@ -243,8 +243,8 @@ switch (level) {
 }
 ---
 
-<BaseLayout pageTitle={chapter.eng + " - Lublio"}>
-  <Box2 title={chapter.deu} subtitle={chapter.eng} language="deu" />
+<GermanoLayout pageTitle={chapter.eng + " | Germano"}>
+  <BoxFrontier2 title={chapter.deu} subtitle={chapter.eng} language="deu" />
 
   {
     !jsonData ? (
@@ -259,18 +259,20 @@ switch (level) {
       ))
     )
   }
-</BaseLayout>
+</GermanoLayout>
 
 <style>
   /* Phrase Box */
 
   .phrase-box {
-    background-color: var(--neutral50);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    background-color: rgba(255, 255, 255, 0.1);
     margin-bottom: 1.5rem;
     padding: 1.5rem;
   }
 
   .phrase-box > h1 {
+    font-family: "Inter", sans-serif;
     width: 100px;
     border-left: 4px solid var(--amber400);
     padding: 5px 10px;
@@ -281,16 +283,18 @@ switch (level) {
   .phrase-box > h2 {
     font-family: "Inter", sans-serif;
     font-size: 20px;
-    font-weight: 600;
+    font-weight: 500;
     hyphens: auto;
     overflow-wrap: break-word;
+    color: var(--neutral100);
   }
 
   .phrase-box > p {
     font-size: 18px;
     margin-bottom: 1rem;
     line-height: 1.6rem;
-    color: var(--zinc500);
+    font-weight: 400;
+    color: var(--amber400);
   }
 
   .phrase-box > p > span {
