@@ -92,33 +92,47 @@ const color100 = colorMap100[language] || "var(--zinc100)";
   }}
 >
   .box {
-    border-left: 3px dashed var(--neutral800);
-    background-color: transparent;
+    background: linear-gradient(
+      -45deg,
+      var(--color400),
+      var(--color200),
+      var(--color300)
+    );
+    background-size: 300% 300%;
+    animation: gradient 4s ease infinite;
+  }
+
+  @keyframes gradient {
+    0% {
+      background-position: 0% 50%;
+    }
+
+    50% {
+      background-position: 100% 50%;
+    }
+
+    100% {
+      background-position: 0% 50%;
+    }
   }
 
   .box > h2,
   .box > h3,
   .box > p {
-    color: var(--neutral800);
-  }
-
-  .box > h2::after {
-    background-color: var(--color400);
+    color: var(--zinc800);
   }
 
   .box .loader::before,
   .box .loader::after {
-    background-color: var(--color400);
+    background-color: var(--zinc800);
   }
 </style>
 
 <div class="box riseUp_1">
   <h2 class="riseUp_2">{title}</h2>
-  <h3 class="riseUp_3">{subtitle}</h3>
-  <div class="item">
-    <i class="loader"></i>
-  </div>
-  <p class="riseUp_4">{description}</p>
+  <hr class="riseUp_3" />
+  <h3 class="riseUp_4">{subtitle}</h3>
+  <p class="riseUp_5">{description}</p>
 </div>
 
 <style>
@@ -148,29 +162,6 @@ const color100 = colorMap100[language] || "var(--zinc100)";
     transition: all 0.4s;
   }
 
-  .box > h2::after {
-    content: "";
-    position: absolute;
-    width: 100%;
-    height: 15px;
-    bottom: 10px;
-    left: 0;
-    opacity: 0.8;
-    z-index: -1;
-    transform-origin: bottom left;
-    animation: underline 2.4s cubic-bezier(0, 0, 0.24, 1.21);
-  }
-
-  @keyframes underline {
-    0% {
-      transform: scaleX(0);
-    }
-
-    100% {
-      transform: scaleX(1);
-    }
-  }
-
   .box > h3 {
     position: relative;
     display: block;
@@ -179,7 +170,12 @@ const color100 = colorMap100[language] || "var(--zinc100)";
     letter-spacing: 0px;
     line-height: 1;
     margin-top: 10px;
+    margin-bottom: 10px;
     transition: all 0.4s;
+  }
+
+  .box > hr {
+    margin: 1rem 0;
   }
 
   .box > p {
@@ -206,88 +202,8 @@ const color100 = colorMap100[language] || "var(--zinc100)";
     color: var(--zinc800);
   }
 
-  /* Moving Item */
-
-  .box .item {
-    position: absolute;
-    display: grid;
-    top: 2rem;
-    right: 2rem;
-    place-items: center;
-    transition: all 0.4s ease;
-  }
-
-  .box .loader {
-    display: block;
-    position: relative;
-    width: 50%;
-    display: grid;
-    place-items: center;
-    cursor: default;
-  }
-
-  .box .loader::before,
-  .box .loader::after {
-    content: "";
-    box-sizing: border-box;
-    position: absolute;
-    width: 10px;
-    height: 10px;
-  }
-
-  .box .loader::before,
-  .box .loader::after {
-    background-color: var(--zinc400);
-  }
-
-  .box .loader::before {
-    top: calc(50% - 10px);
-    left: calc(50% - 10px);
-    animation: loader1 2.4s cubic-bezier(0, 0, 0.24, 1.21) infinite;
-  }
-
-  .box .loader::after {
-    top: 50%;
-    left: 50%;
-    animation: loader2 2.4s cubic-bezier(0, 0, 0.24, 1.21) infinite;
-  }
-
-  @keyframes loader1 {
-    0%,
-    100% {
-      transform: none;
-    }
-
-    25% {
-      transform: translateX(100%);
-    }
-
-    50% {
-      transform: translateX(100%) translateY(100%);
-    }
-
-    75% {
-      transform: translateY(100%);
-    }
-  }
-
-  @keyframes loader2 {
-    0%,
-    100% {
-      transform: none;
-    }
-
-    25% {
-      transform: translateX(-100%);
-    }
-
-    50% {
-      transform: translateX(-100%) translateY(-100%);
-    }
-
-    75% {
-      transform: translateY(-100%);
-    }
+  .box > hr {
+    background-color: var(--zinc800);
   }
 
   /* Mobile */
@@ -297,7 +213,7 @@ const color100 = colorMap100[language] || "var(--zinc100)";
     }
 
     .box > h2 {
-      font-size: 42px;
+      font-size: 46px;
     }
 
     .box > h2::after {

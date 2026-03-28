@@ -16,14 +16,7 @@
 
 html {
   scroll-behavior: smooth;
-  background: linear-gradient(
-    -45deg,
-    var(--black),
-    var(--neutral950),
-    var(--sky900)
-  );
-  background-size: 300% 300%;
-  animation: gradient 6s ease infinite;
+  background-color: var(--sky50);
 }
 
 * {
@@ -47,7 +40,7 @@ a:active {
 
 hr {
   display: block;
-  border: 1px solid var(--zinc300);
+  border: 1px solid var(--zinc800);
   margin: 3rem 0;
 }
 
@@ -109,7 +102,7 @@ p {
   display: inline-block;
   width: 100%;
   height: auto;
-  color: var(--neutral100);
+  color: var(--zinc800);
   margin-bottom: 1.5rem;
   font-family: "Inter", sans-serif;
 }
@@ -118,8 +111,8 @@ h1::selection,
 h2::selection,
 h3::selection,
 p::selection {
-  color: var(--neutral800);
-  background-color: var(--neutral300);
+  color: var(--zinc100);
+  background-color: var(--zinc800);
 }
 
 h1 {

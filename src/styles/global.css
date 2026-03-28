@@ -40,7 +40,7 @@ a:active {
 
 hr {
   display: block;
-  border: 1px solid var(--zinc300);
+  border: 1px solid var(--zinc800);
   margin: 3rem 0;
 }
 

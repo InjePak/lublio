@@ -243,8 +243,8 @@ switch (level) {
 }
 ---
 
-<BaseLayout pageTitle={chapter.eng + " - Lublio"}>
-  <Box2 title={chapter.fra} subtitle={chapter.eng} language="spa" />
+<BaseLayout pageTitle={chapter.eng + " | Lublio"}>
+  <Box2 title={chapter.deu} subtitle={chapter.eng} language="deu" />
 
   {
     !jsonData ? (
@@ -253,7 +253,7 @@ switch (level) {
       jsonData.map((data: any, index: number) => (
         <div class="phrase-box">
           <h1>{index + 1}</h1>
-          <h2 lang="es">{data.esp}</h2>
+          <h2 lang="de">{data.deu}</h2>
           <p>{data.eng}</p>
         </div>
       ))
@@ -272,7 +272,7 @@ switch (level) {
 
   .phrase-box > h1 {
     width: 100px;
-    border-left: 4px solid var(--rose400);
+    border-left: 4px solid var(--amber300);
     padding: 5px 10px;
     font-size: 16px;
     margin-bottom: 2rem;

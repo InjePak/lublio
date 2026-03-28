@@ -1,0 +1,74 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Box from "../../components/Box.astro";
+import Button from "../../components/Button.astro";
+
+const pageTitle = "German";
+---
+
+<BaseLayout pageTitle={pageTitle + " | Lublio"}>
+  <Box
+    title="Deutsch"
+    subtitle="German"
+    description="Deutsch ist die Sprache der Dichter und Denker. Als wichtige Wissenschafts- und Wirtschaftssprache in Europa überzeugt sie durch ihre logische Struktur und ihre Tiefe in Philosophie und Technik."
+    language="deu"
+  />
+
+  <div class="Button-wrapper">
+    <Button
+      title="Sätze"
+      subtitle="Phrasebook"
+      description="CEFR A1 - B2"
+      language="deu"
+      path="/german/phrasebook"
+      level="phrase"
+    />
+
+    <Button
+      title="Muster"
+      subtitle="Sentence Patterns"
+      description="CEFR B1 - C1"
+      language="deu"
+      path="/german/pattern"
+      level="pattern"
+    />
+
+    <!-- <Button
+      title="Germano"
+      subtitle="모두의 독일어"
+      description="CEFR A0 - B2"
+      language="deu"
+      path="/german/germano"
+      level="composite"
+      isDev="true"
+    /> -->
+  </div>
+
+  <!-- <Button
+    title="Grammatik"
+    subtitle="Grammar"
+    description="CEFR A1 - B2"
+    language="deu"
+    path="/german/grammar"
+    level="grammar"
+    isDev="true"
+  /> -->
+</BaseLayout>
+
+<style>
+  .Button-wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-items: stretch;
+    gap: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  /* Mobile */
+  @media (max-width: 480px) {
+    .Button-wrapper {
+      gap: 10px;
+      margin-bottom: 10px;
+    }
+  }
+</style>
