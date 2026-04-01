@@ -6,82 +6,34 @@ import "../styles/transition.css";
 const { id, title, subtitle, language, path } = Astro.props;
 
 const colorMap800: Record<string, string> = {
-  nld: "rgba(154, 52, 18, 1)",
-  fra: "rgba(7, 89, 133, 1)",
-  deu: "rgba(146, 64, 14, 1)",
-  ita: "rgba(6, 95, 70, 1)",
-  spa: "rgba(159, 18, 57, 1)",
-  rus: "rgba(55, 48, 163, 1)",
   heb: "rgba(30, 64, 175, 1)",
   kaz: "rgba(17, 94, 89, 1)",
 };
 const colorMap700: Record<string, string> = {
-  nld: "rgba(194, 65, 12, 1)",
-  fra: "rgba(3, 105, 161, 1)",
-  deu: "rgba(180, 83, 9, 1)",
-  ita: "rgba(4, 120, 87, 1)",
-  spa: "rgba(190, 18, 60, 1)",
-  rus: "rgba(67, 56, 202, 1)",
   heb: "rgba(29, 78, 216, 1)",
   kaz: "rgba(15, 118, 110, 1)",
 };
 const colorMap600: Record<string, string> = {
-  nld: "rgba(234, 88, 12, 1)",
-  fra: "rgba(2, 132, 199, 1)",
-  deu: "rgba(217, 119, 6, 1)",
-  ita: "rgba(5, 150, 105, 1)",
-  spa: "rgba(225, 29, 72, 1)",
-  rus: "rgba(79, 70, 229, 1)",
   heb: "rgba(37, 99, 235, 1)",
   kaz: "rgba(13, 148, 136, 1)",
 };
 const colorMap500: Record<string, string> = {
-  nld: "rgba(249, 115, 22, 1)",
-  fra: "rgba(14, 165, 233, 1)",
-  deu: "rgba(245, 158, 11, 1)",
-  ita: "rgba(16, 185, 129, 1)",
-  spa: "rgba(244, 63, 94, 1)",
-  rus: "rgba(99, 102, 241, 1)",
   heb: "rgba(59, 130, 246, 1)",
   kaz: "rgba(20, 184, 166, 1)",
 };
 const colorMap400: Record<string, string> = {
-  nld: "rgba(251, 146, 60, 1)",
-  fra: "rgba(56, 189, 248, 1)",
-  deu: "rgba(251, 191, 36, 1)",
-  ita: "rgba(52, 211, 153, 1)",
-  spa: "rgba(251, 113, 133, 1)",
-  rus: "rgba(129, 140, 248, 1)",
   heb: "rgba(96, 165, 250, 1)",
   kaz: "rgba(45, 212, 191, 1)",
 };
 const colorMap300: Record<string, string> = {
-  nld: "rgba(253, 186, 116, 1)",
-  fra: "rgba(125, 211, 252, 1)",
-  deu: "rgba(252, 211, 77, 1)",
-  ita: "rgba(110, 231, 183, 1)",
-  spa: "rgba(253, 164, 175, 1)",
-  rus: "rgba(165, 180, 252, 1)",
   heb: "rgba(147, 197, 253, 1)",
   kaz: "rgba(94, 234, 212, 1)",
 };
 const colorMap200: Record<string, string> = {
-  nld: "rgba(254, 215, 170, 1)",
-  fra: "rgba(186, 230, 253, 1)",
-  deu: "rgba(253, 230, 138, 1)",
-  ita: "rgba(167, 243, 208, 1)",
-  spa: "rgba(254, 205, 211, 1)",
-  rus: "rgba(199, 210, 254, 1)",
   heb: "rgba(191, 219, 254, 1)",
   kaz: "rgba(153, 246, 228, 1)",
 };
 const colorMap100: Record<string, string> = {
-  nld: "rgba(255, 237, 213, 1)",
-  fra: "rgba(224, 242, 254, 1)",
-  deu: "rgba(254, 243, 199, 1)",
-  ita: "rgba(209, 250, 229, 1)",
-  spa: "rgba(255, 228, 230, 1)",
-  rus: "rgba(224, 231, 255, 1)",
   heb: "rgba(219, 234, 254, 1)",
   kaz: "rgba(204, 251, 241, 1)",
 };
