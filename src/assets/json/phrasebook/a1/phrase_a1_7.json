@@ -5,7 +5,8 @@
     "fra": "J'ai faim.",
     "deu": "Ich habe Hunger.",
     "rus": "Я хочу есть.",
-    "ita": "Ho fame."
+    "heb": "אני רעב/ה.",
+    "kaz": "Менің қарным ашты."
   },
   {
     "kor": "목이 말라요.",
@@ -13,7 +14,8 @@
     "fra": "J'ai soif.",
     "deu": "Ich habe Durst.",
     "rus": "Я хочу пить.",
-    "ita": "Ho sete."
+    "heb": "אני צמא/ה.",
+    "kaz": "Менің шөлім қатты."
   },
   {
     "kor": "예약을 하고 싶습니다.",
@@ -21,7 +23,8 @@
     "fra": "Je voudrais réserver une table.",
     "deu": "Ich möchte einen Tisch reservieren.",
     "rus": "Я хотел бы забронировать столик.",
-    "ita": "Vorrei prenotare un tavolo."
+    "heb": "הייתי רוצה להזמין שולחן.",
+    "kaz": "Мен үстелге тапсырыс бергім келеді."
   },
   {
     "kor": "두 명 자리가 있나요?",
@@ -29,7 +32,8 @@
     "fra": "Avez-vous une table pour deux ?",
     "deu": "Haben Sie einen Tisch für zwei Personen?",
     "rus": "У вас есть столик на двоих?",
-    "ita": "Avete un tavolo per due?"
+    "heb": "יש לכם שולחן לשניים?",
+    "kaz": "Екі адамдық бос үстел бар ма?"
   },
   {
     "kor": "메뉴판 좀 보여주시겠어요?",
@@ -37,7 +41,8 @@
     "fra": "Puis-je avoir la carte, s'il vous plaît ?",
     "deu": "Könnte ich bitte die Speisekarte haben?",
     "rus": "Можно мне меню, пожалуйста?",
-    "ita": "Posso vedere il menù, per favore?"
+    "heb": "אפשר לראות את התפריט בבקשה?",
+    "kaz": "Мәзірді көруге бола ма?"
   },
   {
     "kor": "주문하시겠습니까?",
@@ -45,7 +50,8 @@
     "fra": "Voulez-vous commander ?",
     "deu": "Möchten Sie bestellen?",
     "rus": "Вы готовы сделать заказ?",
-    "ita": "Siete pronti per ordinare?"
+    "heb": "אתם מוכנים להזמין?",
+    "kaz": "Тапсырыс беруге дайынсыз ба?"
   },
   {
     "kor": "물 한 병 주세요.",
@@ -53,7 +59,8 @@
     "fra": "Une bouteille d'eau, s'il vous plaît.",
     "deu": "Eine Flasche Wasser, bitte.",
     "rus": "Бутылку воды, пожалуйста.",
-    "ita": "Una bottiglia d'acqua, per favore."
+    "heb": "בקבוק מים בבקשה.",
+    "kaz": "Бір бөтелке су беріңізші."
   },
   {
     "kor": "저는 피쉬 앤 칩스를 먹겠습니다.",
@@ -61,7 +68,8 @@
     "fra": "Je vais prendre le fish and chips.",
     "deu": "Ich nehme Fish and Chips.",
     "rus": "Я возьму рыбу и картофель фри.",
-    "ita": "Prenderò il fish and chips."
+    "heb": "אני אקח פיש אנד צ'יפס.",
+    "kaz": "Мен фиш-энд-чипс аламын."
   },
   {
     "kor": "오늘의 요리는 무엇인가요?",
@@ -69,7 +77,8 @@
     "fra": "Quelle est la soupe du jour ?",
     "deu": "Was ist die heutige Suppe?",
     "rus": "Какой сегодня суп дня?",
-    "ita": "Qual è la zuppa del giorno?"
+    "heb": "מהו מרק היום?",
+    "kaz": "Күннің сорпасы қандай?"
   },
   {
     "kor": "저는 채식주의자입니다.",
@@ -77,7 +86,8 @@
     "fra": "Je suis végétarien(ne).",
     "deu": "Ich bin Vegetarier / Vegetarierin.",
     "rus": "Я вегетарианец.",
-    "ita": "Sono vegetariano / vegetariana."
+    "heb": "אני צמחוני/ת.",
+    "kaz": "Мен вегетарианмын."
   },
   {
     "kor": "매운 음식인가요?",
@@ -85,7 +95,8 @@
     "fra": "Est-ce que c'est épicé ?",
     "deu": "Ist das scharf?",
     "rus": "Это острое блюдо?",
-    "ita": "È piccante?"
+    "heb": "זה חריף?",
+    "kaz": "Бұл ащы ма?"
   },
   {
     "kor": "소금 좀 건네주시겠어요?",
@@ -93,7 +104,8 @@
     "fra": "Pouvez-vous me passer le sel, s'il vous plaît ?",
     "deu": "Können Sie mir bitte das Salz reichen?",
     "rus": "Передайте, пожалуйста, соль.",
-    "ita": "Può passarmi il sale, per favore?"
+    "heb": "אפשר להעביר לי את המלח בבקשה?",
+    "kaz": "Тұзды беріп жібересіз бе?"
   },
   {
     "kor": "아침 식사는 몇 시에 하나요?",
@@ -101,7 +113,8 @@
     "fra": "À quelle heure est le petit-déjeuner ?",
     "deu": "Wann gibt es Frühstück?",
     "rus": "Во сколько завтрак?",
-    "ita": "A che ora è la colazione?"
+    "heb": "באיזו שעה ארוחת הבוקר?",
+    "kaz": "Таңғы ас сағат нешеде болады?"
   },
   {
     "kor": "맛있게 드세요!",
@@ -109,7 +122,8 @@
     "fra": "Bon appétit !",
     "deu": "Guten Appetit!",
     "rus": "Приятного аппетита!",
-    "ita": "Buon appetito!"
+    "heb": "בתיאבון!",
+    "kaz": "Астарыңыз дәмді болсын!"
   },
   {
     "kor": "정말 맛있어요.",
@@ -117,7 +131,8 @@
     "fra": "C'est délicieux.",
     "deu": "Das ist lecker.",
     "rus": "Это очень вкусно.",
-    "ita": "È delizioso."
+    "heb": "זה טעים מאוד.",
+    "kaz": "Өте дәмді."
   },
   {
     "kor": "우유를 넣은 차 한 잔 주세요.",
@@ -125,7 +140,8 @@
     "fra": "Un thé au lait, s'il vous plaît.",
     "deu": "Eine Tasse Tee mit Milch, bitte.",
     "rus": "Чашку чая с молоком, пожалуйста.",
-    "ita": "Una tazza di tè col latte, per favore."
+    "heb": "כוס תה עם חלב בבקשה.",
+    "kaz": "Сүт қосылған бір шыны шай беріңізші."
   },
   {
     "kor": "설탕은 넣지 마세요.",
@@ -133,7 +149,8 @@
     "fra": "Pas de sucre, s'il vous plaît.",
     "deu": "Ohne Zucker, bitte.",
     "rus": "Без сахара, пожалуйста.",
-    "ita": "Senza zucchero, per favore."
+    "heb": "בלי סוכר בבקשה.",
+    "kaz": "Қант қоспаңызшы."
   },
   {
     "kor": "포크를 떨어뜨렸어요.",
@@ -141,7 +158,8 @@
     "fra": "J'ai fait tomber ma fourchette.",
     "deu": "Ich habe meine Gabel fallen lassen.",
     "rus": "Я уронил вилку.",
-    "ita": "Mi è caduta la forchetta."
+    "heb": "נפל לי המזלג.",
+    "kaz": "Шанышқымды түсіріп алдым."
   },
   {
     "kor": "이 요리는 너무 짭니다.",
@@ -149,7 +167,8 @@
     "fra": "Ce plat est trop salé.",
     "deu": "Dieses Gericht ist zu salzig.",
     "rus": "Это блюдо слишком соленое.",
-    "ita": "Questo piatto è troppo salato."
+    "heb": "המנה הזו מלוחה מדי.",
+    "kaz": "Бұл тағам тым тұзды."
   },
   {
     "kor": "디저트 메뉴가 있나요?",
@@ -157,7 +176,8 @@
     "fra": "Y a-t-il une carte des desserts ?",
     "deu": "Gibt es eine Nachtischkarte?",
     "rus": "У вас есть десертное меню?",
-    "ita": "C'è un menù dei dolci?"
+    "heb": "יש תפריט קינוחים?",
+    "kaz": "Десерт мәзірі бар ма?"
   },
   {
     "kor": "계산서 좀 주시겠어요?",
@@ -165,7 +185,8 @@
     "fra": "L'addition, s'il vous plaît.",
     "deu": "Die Rechnung, bitte.",
     "rus": "Можно счет, пожалуйста?",
-    "ita": "Il conto, per favore."
+    "heb": "אפשר לקבל את החשבון בבקשה?",
+    "kaz": "Шотты бересіз бе?"
   },
   {
     "kor": "카드로 결제할 수 있나요?",
@@ -173,7 +194,8 @@
     "fra": "Puis-je payer par carte ?",
     "deu": "Kann ich mit Karte zahlen?",
     "rus": "Можно ли оплатить картой?",
-    "ita": "Posso pagare con la carta?"
+    "heb": "אפשר לשלם בכרטיס אשראי?",
+    "kaz": "Картамен төлеуге бола ма?"
   },
   {
     "kor": "현금으로 계산할게요.",
@@ -181,7 +203,8 @@
     "fra": "Je vais payer en espèces.",
     "deu": "Ich bezahle bar.",
     "rus": "Я заплачу наличными.",
-    "ita": "Pagherò in contanti."
+    "heb": "אני אשלם במזומן.",
+    "kaz": "Қолма-қол ақшамен төлеймін."
   },
   {
     "kor": "남은 음식을 포장해 주시겠어요?",
@@ -189,7 +212,8 @@
     "fra": "Puis-je avoir un sac pour les restes ?",
     "deu": "Kann ich das bitte mitnehmen?",
     "rus": "Можно мне упаковать остатки с собой?",
-    "ita": "Posso avere una vaschetta per gli avanzi?"
+    "heb": "אפשר לארוז לי את מה שנשאר?",
+    "kaz": "Қалған тамақты салып бересіз бе?"
   },
   {
     "kor": "거스름돈은 가지세요.",
@@ -197,6 +221,7 @@
     "fra": "Gardez la monnaie.",
     "deu": "Stimmt so.",
     "rus": "Сдачи не надо.",
-    "ita": "Tenga pure il resto."
+    "heb": "שמור את העודף.",
+    "kaz": "Қайтарым ақшасы керек емес."
   }
 ]

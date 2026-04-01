@@ -5,7 +5,8 @@
     "fra": "Quel temps fait-il aujourd'hui ?",
     "deu": "Wie ist das Wetter heute?",
     "rus": "Какая сегодня погода?",
-    "ita": "Com'è il tempo oggi?"
+    "heb": "מה מזג האוויר היום?",
+    "kaz": "Бүгін ауа райы қандай?"
   },
   {
     "kor": "날씨가 아주 좋습니다.",
@@ -13,7 +14,8 @@
     "fra": "Il fait très beau.",
     "deu": "Das Wetter ist sehr schön.",
     "rus": "Погода очень хорошая.",
-    "ita": "Il tempo è bellissimo."
+    "heb": "מזג האוויר נהדר.",
+    "kaz": "Ауа райы өте тамаша."
   },
   {
     "kor": "오늘은 화창합니다.",
@@ -21,7 +23,8 @@
     "fra": "Il fait du soleil aujourd'hui.",
     "deu": "Heute ist es sonnig.",
     "rus": "Сегодня солнечно.",
-    "ita": "Oggi c'è il sole."
+    "heb": "היום יום שטוף שמש.",
+    "kaz": "Бүгін күн ашық."
   },
   {
     "kor": "밖은 덥습니다.",
@@ -29,7 +32,8 @@
     "fra": "Il fait chaud dehors.",
     "deu": "Es ist heiß draußen.",
     "rus": "На улице жарко.",
-    "ita": "Fa caldo fuori."
+    "heb": "חם בחוץ.",
+    "kaz": "Далада ыстық."
   },
   {
     "kor": "조금 춥네요.",
@@ -37,7 +41,8 @@
     "fra": "Il fait un peu froid.",
     "deu": "Es ist ein bisschen kalt.",
     "rus": "Немного холодно.",
-    "ita": "Fa un po' freddo."
+    "heb": "קצת קר.",
+    "kaz": "Біраз салқын."
   },
   {
     "kor": "비가 오고 있어요.",
@@ -45,7 +50,8 @@
     "fra": "Il pleut.",
     "deu": "Es regnet.",
     "rus": "Идет дождь.",
-    "ita": "Sta piovendo."
+    "heb": "יורד גשם.",
+    "kaz": "Жаңбыр жауып тұр."
   },
   {
     "kor": "하늘에 구름이 많아요.",
@@ -53,7 +59,8 @@
     "fra": "Il y a des nuages.",
     "deu": "Es ist bewölkt.",
     "rus": "Облачно.",
-    "ita": "È nuvoloso."
+    "heb": "מעונן.",
+    "kaz": "Күн бұлтты."
   },
   {
     "kor": "바람이 많이 불어요.",
@@ -61,7 +68,8 @@
     "fra": "Il y a beaucoup de vent.",
     "deu": "Es ist sehr windig.",
     "rus": "Очень ветрено.",
-    "ita": "Tira molto vento."
+    "heb": "יש הרבה רוח.",
+    "kaz": "Жел тұрып тұр."
   },
   {
     "kor": "눈이 오고 있습니다.",
@@ -69,7 +77,8 @@
     "fra": "Il neige.",
     "deu": "Es schneit.",
     "rus": "Идет снег.",
-    "ita": "Sta nevicando."
+    "heb": "יורד שלג.",
+    "kaz": "Қар жауып тұр."
   },
   {
     "kor": "안개가 꼈어요.",
@@ -77,7 +86,8 @@
     "fra": "Il y a du brouillard.",
     "deu": "Es ist neblig.",
     "rus": "Туманно.",
-    "ita": "C'è nebbia."
+    "heb": "יש ערפל.",
+    "kaz": "Тұман түсті."
   },
   {
     "kor": "오늘은 시원합니다.",
@@ -85,7 +95,8 @@
     "fra": "Il fait frais aujourd'hui.",
     "deu": "Heute ist es kühl.",
     "rus": "Сегодня прохладно.",
-    "ita": "Oggi fa fresco."
+    "heb": "קריר היום.",
+    "kaz": "Бүгін күн салқын."
   },
   {
     "kor": "날씨가 따뜻해지고 있어요.",
@@ -93,7 +104,8 @@
     "fra": "Le temps se réchauffe.",
     "deu": "Das Wetter wird wärmer.",
     "rus": "Погода становится теплее.",
-    "ita": "Il tempo si sta riscaldando."
+    "heb": "מזג האוויר נהיה חם יותר.",
+    "kaz": "Күн жылынып келеді."
   },
   {
     "kor": "우산이 필요해요.",
@@ -101,7 +113,8 @@
     "fra": "J'ai besoin d'un parapluie.",
     "deu": "Ich brauche einen Regenschirm.",
     "rus": "Мне нужен зонт.",
-    "ita": "Ho bisogno di un ombrello."
+    "heb": "אני צריך/ה מטריה.",
+    "kaz": "Маған қолшатыр керек."
   },
   {
     "kor": "하늘이 파랗습니다.",
@@ -109,7 +122,8 @@
     "fra": "Le ciel est bleu.",
     "deu": "Der Himmel ist blau.",
     "rus": "Небо голубое.",
-    "ita": "Il cielo è azzurro."
+    "heb": "השמיים כחולים.",
+    "kaz": "Аспан ашық (көк)."
   },
   {
     "kor": "기온이 몇 도인가요?",
@@ -117,7 +131,8 @@
     "fra": "Quelle est la température ?",
     "deu": "Wie hoch ist die Temperatur?",
     "rus": "Какая сейчас температура?",
-    "ita": "Qual è la temperatura?"
+    "heb": "מה הטמפרטורה?",
+    "kaz": "Температура қандай?"
   },
   {
     "kor": "영하 5도입니다.",
@@ -125,7 +140,8 @@
     "fra": "Il fait moins cinq degrés.",
     "deu": "Es sind minus fünf Grad.",
     "rus": "Сейчас пять градусов мороза.",
-    "ita": "Ci sono meno cinque gradi."
+    "heb": "מינוס חמש מעלות.",
+    "kaz": "Бес градус аяз."
   },
   {
     "kor": "저는 여름을 좋아합니다.",
@@ -133,7 +149,8 @@
     "fra": "J'aime l'été.",
     "deu": "Ich mag den Sommer.",
     "rus": "Я люблю лето.",
-    "ita": "Mi piace l'estate."
+    "heb": "אני אוהב/ת את הקיץ.",
+    "kaz": "Мен жазды жақсы көремін."
   },
   {
     "kor": "겨울은 너무 추워요.",
@@ -141,7 +158,8 @@
     "fra": "L'hiver est trop froid.",
     "deu": "Der Winter ist zu kalt.",
     "rus": "Зима слишком холодная.",
-    "ita": "L'inverno è troppo freddo."
+    "heb": "החורף קר מדי.",
+    "kaz": "Қыс тым суық."
   },
   {
     "kor": "봄에는 꽃이 피어요.",
@@ -149,7 +167,8 @@
     "fra": "Les fleurs poussent au printemps.",
     "deu": "Im Frühling blühen die Blumen.",
     "rus": "Весной цветут цветы.",
-    "ita": "In primavera sbocciano i fiori."
+    "heb": "פרחים פורחים באביב.",
+    "kaz": "Көктемде гүлдер ашылады."
   },
   {
     "kor": "가을은 아름답습니다.",
@@ -157,7 +176,8 @@
     "fra": "L'automne est magnifique.",
     "deu": "Der Herbst ist schön.",
     "rus": "Осень прекрасна.",
-    "ita": "L'autunno è bellissimo."
+    "heb": "הסתיו יפה.",
+    "kaz": "Күз керемет."
   },
   {
     "kor": "내일 날씨 예보는 어때요?",
@@ -165,7 +185,8 @@
     "fra": "Quelle est la météo pour demain ?",
     "deu": "Wie ist die Wettervorhersage für morgen?",
     "rus": "Какой прогноз погоды на завтра?",
-    "ita": "Quali sono le previsioni del tempo per domani?"
+    "heb": "מה תחזית מזג האוויר למחר?",
+    "kaz": "Ертеңге ауа райы болжамы қандай?"
   },
   {
     "kor": "폭풍이 오고 있어요.",
@@ -173,7 +194,8 @@
     "fra": "Un orage arrive.",
     "deu": "Ein Sturm zieht auf.",
     "rus": "Приближается шторм.",
-    "ita": "Sta arrivando un temporale."
+    "heb": "סערה מתקרבת.",
+    "kaz": "Дауыл келе жатыр."
   },
   {
     "kor": "해가 떴어요.",
@@ -181,7 +203,8 @@
     "fra": "Le soleil brille.",
     "deu": "Die Sonne scheint.",
     "rus": "Вышло солнце.",
-    "ita": "È uscito il sole."
+    "heb": "השמש יצאה.",
+    "kaz": "Күн шықты."
   },
   {
     "kor": "공기가 매우 건조합니다.",
@@ -189,7 +212,8 @@
     "fra": "L'air est très sec.",
     "deu": "Die Luft ist sehr trocken.",
     "rus": "Воздух очень сухой.",
-    "ita": "L'aria è molto secca."
+    "heb": "האוויר יבש מאוד.",
+    "kaz": "Ауа өте құрғақ."
   },
   {
     "kor": "코트를 입으세요.",
@@ -197,6 +221,7 @@
     "fra": "Mettez un manteau.",
     "deu": "Zieh einen Mantel an.",
     "rus": "Надень пальто.",
-    "ita": "Mettiti il cappotto."
+    "heb": "תלבש/י מעיל.",
+    "kaz": "Пальто киіп алыңыз."
   }
 ]

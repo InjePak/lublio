@@ -5,7 +5,8 @@
     "fra": "D'habitude, je me lève à sept heures.",
     "deu": "Ich stehe normalerweise um sieben Uhr auf.",
     "rus": "Обычно я встаю в семь часов.",
-    "ita": "Di solito mi sveglio alle sette."
+    "heb": "אני בדרך כלל קם בשבע.",
+    "kaz": "Мен әдетте сағат жетіде тұрамын."
   },
   {
     "kor": "샤워를 합니다.",
@@ -13,7 +14,8 @@
     "fra": "Je prends une douche.",
     "deu": "Ich dusche mich.",
     "rus": "Я принимаю душ.",
-    "ita": "Faccio la doccia."
+    "heb": "אני מתקלח.",
+    "kaz": "Мен душқа түсемін."
   },
   {
     "kor": "옷을 입습니다.",
@@ -21,7 +23,8 @@
     "fra": "Je m'habille.",
     "deu": "Ich ziehe mich an.",
     "rus": "Я одеваюсь.",
-    "ita": "Mi vesto."
+    "heb": "אני מתלבש.",
+    "kaz": "Мен киінемін."
   },
   {
     "kor": "아침 식사를 합니다.",
@@ -29,7 +32,8 @@
     "fra": "Je prends le petit-déjeuner.",
     "deu": "Ich frühstücke.",
     "rus": "Я завтракаю.",
-    "ita": "Faccio colazione."
+    "heb": "אני אוכל ארוחת בוקר.",
+    "kaz": "Мен таңғы ас ішемін."
   },
   {
     "kor": "이를 닦습니다.",
@@ -37,7 +41,8 @@
     "fra": "Je me brosse les dents.",
     "deu": "Ich putze mir die Zähne.",
     "rus": "Я чищу зубы.",
-    "ita": "Mi lavo i denti."
+    "heb": "אני מצחצח שיניים.",
+    "kaz": "Мен тісімді жуамын."
   },
   {
     "kor": "8시 반에 집을 나섭니다.",
@@ -45,7 +50,8 @@
     "fra": "Je quitte la maison à huit heures et demie.",
     "deu": "Ich verlasse das Haus um halb neun.",
     "rus": "Я выхожу из дома в полдевятого.",
-    "ita": "Esco di casa alle otto e mezza."
+    "heb": "אני יוצא מהבית בשמונה וחצי.",
+    "kaz": "Мен үйден сегіз жарымда шығамын."
   },
   {
     "kor": "버스를 타고 출근합니다.",
@@ -53,7 +59,8 @@
     "fra": "Je prends le bus pour aller au travail.",
     "deu": "Ich nehme den Bus zur Arbeit.",
     "rus": "Я еду на работу на автобусе.",
-    "ita": "Prendo l'autobus per andare al lavoro."
+    "heb": "אני לוקח אוטובוס לעבודה.",
+    "kaz": "Мен жұмысқа автобуспен барамын."
   },
   {
     "kor": "걸어서 학교에 갑니다.",
@@ -61,7 +68,8 @@
     "fra": "Je vais à l'école à pied.",
     "deu": "Ich gehe zu Fuß zur Schule.",
     "rus": "Я иду в школу пешком.",
-    "ita": "Vado a scuola a piedi."
+    "heb": "אני הולך לבית הספר ברגל.",
+    "kaz": "Мен мектепке жаяу барамын."
   },
   {
     "kor": "9시에 업무를 시작합니다.",
@@ -69,7 +77,8 @@
     "fra": "Je commence le travail à neuf heures.",
     "deu": "Ich beginne um neun Uhr mit der Arbeit.",
     "rus": "Я начинаю работать в девять часов.",
-    "ita": "Inizio a lavorare alle nove."
+    "heb": "אני מתחיל לעבוד בתשע.",
+    "kaz": "Мен жұмысты сағат тоғызда бастаймын."
   },
   {
     "kor": "이메일을 확인합니다.",
@@ -77,7 +86,8 @@
     "fra": "Je vérifie mes e-mails.",
     "deu": "Ich checke meine E-Mails.",
     "rus": "Я проверяю электронную почту.",
-    "ita": "Controllo le mie e-mail."
+    "heb": "אני בודק את המיילים שלי.",
+    "kaz": "Мен электронды поштамды тексеремін."
   },
   {
     "kor": "오후 1시에 점심을 먹습니다.",
@@ -85,7 +95,8 @@
     "fra": "Je déjeune à treize heures.",
     "deu": "Ich esse um dreizehn Uhr zu Mittag.",
     "rus": "Я обедаю в час дня.",
-    "ita": "Pranzo all'una."
+    "heb": "אני אוכל ארוחת צהריים באחת.",
+    "kaz": "Мен күндізгі сағат бірде түскі ас ішемін."
   },
   {
     "kor": "차 한 잔을 마십니다.",
@@ -93,15 +104,17 @@
     "fra": "Je bois une tasse de thé.",
     "deu": "Ich trinke eine Tasse Tee.",
     "rus": "Я пью чашку чая.",
-    "ita": "Bevo una tazza di tè."
+    "heb": "אני שותה כוס תה.",
+    "kaz": "Мен бір шыны шай ішемін."
   },
   {
     "kor": "5시에 퇴근합니다.",
     "eng": "I finish work at five o'clock.",
     "fra": "Je finis le travail à dix-sept heures.",
-    "deu": "Ich habe um fűnf Uhr Feierabend.",
+    "deu": "Ich habe um fünf Uhr Feierabend.",
     "rus": "Я заканчиваю работу в пять часов.",
-    "ita": "Finisco di lavorare alle cinque."
+    "heb": "אני מסיים לעבוד בחמש.",
+    "kaz": "Мен жұмысты сағат бесте аяқтаймын."
   },
   {
     "kor": "슈퍼마켓에 갑니다.",
@@ -109,7 +122,8 @@
     "fra": "Je vais au supermarché.",
     "deu": "Ich gehe in den Supermarkt.",
     "rus": "Я иду в супермаркет.",
-    "ita": "Vado al supermercato."
+    "heb": "אני הולך לסופרמרקט.",
+    "kaz": "Мен супермаркетке барамын."
   },
   {
     "kor": "집에 돌아와서 요리를 합니다.",
@@ -117,7 +131,8 @@
     "fra": "Rentrer à la maison et cuisiner.",
     "deu": "Ich komme nach Hause und koche.",
     "rus": "Я прихожу домой и готовлю еду.",
-    "ita": "Torno a casa e cucino."
+    "heb": "אני חוזר הביתה ומבשל.",
+    "kaz": "Мен үйге келіп, тамақ пісіремін."
   },
   {
     "kor": "7시에 저녁을 먹습니다.",
@@ -125,7 +140,8 @@
     "fra": "Je dîne à dix-sept heures.",
     "deu": "Ich esse um sieben Uhr zu Abend.",
     "rus": "Я ужинаю в семь часов.",
-    "ita": "Ceno alle sette."
+    "heb": "אני אוכל ארוחת ערב בשבע.",
+    "kaz": "Мен сағат жетіде кешкі ас ішемін."
   },
   {
     "kor": "설거지를 합니다.",
@@ -133,7 +149,8 @@
     "fra": "Je fais la vaisselle.",
     "deu": "Ich mache den Abwasch.",
     "rus": "Я мою посуду.",
-    "ita": "Lavo i piatti."
+    "heb": "אני שוטף כלים.",
+    "kaz": "Мен ыдыс жуамын."
   },
   {
     "kor": "거실에서 TV를 봅니다.",
@@ -141,7 +158,8 @@
     "fra": "Je regarde la télé dans le salon.",
     "deu": "Ich schaue im Wohnzimmer fern.",
     "rus": "Я смотрю телевизор в гостиной.",
-    "ita": "Guardo la TV in soggiorno."
+    "heb": "אני צופה בטלוויזיה בסלון.",
+    "kaz": "Мен қонақ бөлмесінде теледидар көремін."
   },
   {
     "kor": "가끔 신문을 읽습니다.",
@@ -149,7 +167,8 @@
     "fra": "Je lis parfois le journal.",
     "deu": "Ich lese manchmal die Zeitung.",
     "rus": "Я иногда читаю газету.",
-    "ita": "A volte leggo il giornale."
+    "heb": "אני לפעמים קורא עיתון.",
+    "kaz": "Мен кейде газет оқимын."
   },
   {
     "kor": "인터넷을 합니다.",
@@ -157,7 +176,8 @@
     "fra": "Je surfe sur Internet.",
     "deu": "Ich surfe im Internet.",
     "rus": "Я сижу в интернете.",
-    "ita": "Navigo su Internet."
+    "heb": "אני גולש באינטרנט.",
+    "kaz": "Мен интернетте отырамын."
   },
   {
     "kor": "운동하러 갑니다.",
@@ -165,7 +185,8 @@
     "fra": "Je vais faire du sport.",
     "deu": "Ich gehe zum Trainieren.",
     "rus": "Я иду на тренировку.",
-    "ita": "Vado ad allenarmi."
+    "heb": "אני הולך להתאמן.",
+    "kaz": "Мен жаттығуға барамын."
   },
   {
     "kor": "음악을 듣습니다.",
@@ -173,7 +194,8 @@
     "fra": "J'écoute de la musique.",
     "deu": "Ich höre Musik.",
     "rus": "Я слушаю музыку.",
-    "ita": "Ascolto la musica."
+    "heb": "אני שומע מוזיקה.",
+    "kaz": "Мен музыка тыңдаймын."
   },
   {
     "kor": "일기를 씁니다.",
@@ -181,7 +203,8 @@
     "fra": "J'écris dans mon journal.",
     "deu": "Ich schreibe in mein Tagebuch.",
     "rus": "Я пишу в дневнике.",
-    "ita": "Scrivo sul mio diario."
+    "heb": "אני כותב ביומן שלי.",
+    "kaz": "Мен күнделік жазамын."
   },
   {
     "kor": "밤 11시에 잠자리에 듭니다.",
@@ -189,7 +212,8 @@
     "fra": "Je vais au lit à vingt-trois heures.",
     "deu": "Ich gehe um elf Uhr ins Bett.",
     "rus": "Я ложусь спать в одиннадцать вечера.",
-    "ita": "Vado a letto alle undici."
+    "heb": "אני הולך לישון באחת עשרה בלילה.",
+    "kaz": "Мен түнгі сағат он бірде ұйықтауға жатамын."
   },
   {
     "kor": "빨리 잠이 듭니다.",
@@ -197,6 +221,7 @@
     "fra": "Je m'endors rapidement.",
     "deu": "Ich schafe schnell ein.",
     "rus": "Я быстро засыпаю.",
-    "ita": "Mi addormento velocemente."
+    "heb": "אני נרדם מהר.",
+    "kaz": "Мен тез ұйықтап қаламын."
   }
 ]

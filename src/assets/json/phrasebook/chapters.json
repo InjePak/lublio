@@ -8,7 +8,8 @@
       "fra": "Se présenter",
       "deu": "Sich vorstellen",
       "rus": "Знакомство",
-      "ita": "Presentazione di sé"
+      "heb": "הצגה עצמית",
+      "kaz": "Өзін таныстыру"
     },
     {
       "id": 2,
@@ -18,7 +19,8 @@
       "fra": "Salutations et politesse",
       "deu": "Begrüßung & Höflichkeit",
       "rus": "Приветствия и этикет",
-      "ita": "Saluti e buone maniere"
+      "heb": "ברכות ונימוסים",
+      "kaz": "Сәлемдесу және әдеп"
     },
     {
       "id": 3,
@@ -28,7 +30,8 @@
       "fra": "Famille et amis",
       "deu": "Familie & Freunde",
       "rus": "Семья и друзья",
-      "ita": "Famiglia e amici"
+      "heb": "משפחה וחברים",
+      "kaz": "Отбасы және достар"
     },
     {
       "id": 4,
@@ -38,7 +41,8 @@
       "fra": "Nombres et heure",
       "deu": "Zahlen & Zeit",
       "rus": "Числа и время",
-      "ita": "Numeri e tempo"
+      "heb": "מספרים וזמן",
+      "kaz": "Сандар және уақыт"
     },
     {
       "id": 5,
@@ -48,7 +52,8 @@
       "fra": "Mes goûts",
       "deu": "Vorlieben",
       "rus": "Любимые вещи",
-      "ita": "Le mie cose preferite"
+      "heb": "דברים אהובים",
+      "kaz": "Сүйікті нәрселер"
     },
     {
       "id": 6,
@@ -58,7 +63,8 @@
       "fra": "Ma maison",
       "deu": "Mein Zuhause",
       "rus": "Мой дом",
-      "ita": "La mia casa"
+      "heb": "הבית שלי",
+      "kaz": "Менің үйім"
     },
     {
       "id": 7,
@@ -68,7 +74,8 @@
       "fra": "Nourriture et restaurant",
       "deu": "Essen & Restaurant",
       "rus": "Еда и ресторан",
-      "ita": "Cibo e ristoranti"
+      "heb": "אוכל ומסעדות",
+      "kaz": "Тамақ және мейрамханалар"
     },
     {
       "id": 8,
@@ -78,7 +85,8 @@
       "fra": "Routine quotidienne",
       "deu": "Tagesablauf",
       "rus": "Распорядок дня",
-      "ita": "Routine quotidiana"
+      "heb": "סדר יום",
+      "kaz": "Күн тәртібі"
     },
     {
       "id": 9,
@@ -88,7 +96,8 @@
       "fra": "Corps et santé",
       "deu": "Körper & Gesundheit",
       "rus": "Тело и здоровье",
-      "ita": "Corpo e salute"
+      "heb": "גוף ובריאות",
+      "kaz": "Дене және денсаулық"
     },
     {
       "id": 10,
@@ -98,7 +107,8 @@
       "fra": "Achats",
       "deu": "Einkaufen",
       "rus": "Покупки",
-      "ita": "Fare la spesa"
+      "heb": "קניות",
+      "kaz": "Сауда жасау"
     },
     {
       "id": 11,
@@ -108,7 +118,8 @@
       "fra": "Météo",
       "deu": "Wetter",
       "rus": "Погода",
-      "ita": "Il tempo meteorologico"
+      "heb": "מזג אוויר",
+      "kaz": "Ауа райы"
     },
     {
       "id": 12,
@@ -118,7 +129,8 @@
       "fra": "Demander son chemin",
       "deu": "Wegbeschreibung",
       "rus": "Как пройти",
-      "ita": "Chiedere la strada"
+      "heb": "לשאול את הדרך",
+      "kaz": "Жол сұрау"
     }
   ],
   "a2": [
@@ -130,7 +142,8 @@
       "fra": "Expériences passées",
       "deu": "Vergangene Erlebnisse",
       "rus": "Прошлый опыт",
-      "ita": "Esperienze passate"
+      "heb": "חוויות מהעבר",
+      "kaz": "Өткен тәжірибелер"
     },
     {
       "id": 2,
@@ -140,7 +153,8 @@
       "fra": "Travail et bureau",
       "deu": "Beruf & Arbeitsplatz",
       "rus": "Работа и офис",
-      "ita": "Lavoro e luogo di lavoro"
+      "heb": "עבודה ומקום עבודה",
+      "kaz": "Жұмыс және жұмыс орны"
     },
     {
       "id": 3,
@@ -150,7 +164,8 @@
       "fra": "Voyage et hébergement",
       "deu": "Reisen & Unterkunft",
       "rus": "Путешествие и отель",
-      "ita": "Viaggi e alloggio"
+      "heb": "נסיעות ולינה",
+      "kaz": "Саяхат және орналастыру"
     },
     {
       "id": 4,
@@ -160,7 +175,8 @@
       "fra": "Achats et services",
       "deu": "Einkaufen & Service",
       "rus": "Покупки и услуги",
-      "ita": "Shopping e servizi"
+      "heb": "קניות ושירותים",
+      "kaz": "Сауда және қызметтер"
     },
     {
       "id": 5,
@@ -170,7 +186,8 @@
       "fra": "Santé et hôpital",
       "deu": "Gesundheit & Krankenhaus",
       "rus": "Здоровье и больница",
-      "ita": "Salute e ospedale"
+      "heb": "בריאות ובית חולים",
+      "kaz": "Денсаулық және аурухана"
     },
     {
       "id": 6,
@@ -180,7 +197,8 @@
       "fra": "Projets et rendez-vous",
       "deu": "Pläne & Termine",
       "rus": "Планы и встречи",
-      "ita": "Piani e appuntamenti"
+      "heb": "תוכניות ופגישות",
+      "kaz": "Жоспарлар мен кездесулер"
     },
     {
       "id": 7,
@@ -190,7 +208,8 @@
       "fra": "Transports",
       "deu": "Verkehrsmittel",
       "rus": "Транспорт",
-      "ita": "Mezzi di trasporto"
+      "heb": "תחבורה",
+      "kaz": "Көлік құралдары"
     },
     {
       "id": 8,
@@ -200,7 +219,8 @@
       "fra": "Apparence et caractère",
       "deu": "Aussehen & Charakter",
       "rus": "Внешность и характер",
-      "ita": "Aspetto e personalità"
+      "heb": "מראה ואישיות",
+      "kaz": "Сыртқы келбет пен мінез"
     },
     {
       "id": 9,
@@ -210,7 +230,8 @@
       "fra": "Quartier et commodités",
       "deu": "Nachbarschaft & Einrichtungen",
       "rus": "Район и удобства",
-      "ita": "Quartiere e servizi"
+      "heb": "שכונה ומתקנים",
+      "kaz": "Көршілік және нысандар"
     },
     {
       "id": 10,
@@ -220,7 +241,8 @@
       "fra": "Mode et style",
       "deu": "Mode & Stil",
       "rus": "Мода и стиль",
-      "ita": "Moda e stile"
+      "heb": "אופנה וסגנון",
+      "kaz": "Сән және стиль"
     },
     {
       "id": 11,
@@ -230,7 +252,8 @@
       "fra": "Festivals et culture",
       "deu": "Feste & Kultur",
       "rus": "Фестивали и культура",
-      "ita": "Festival e cultura"
+      "heb": "פסטיבלים ותרבות",
+      "kaz": "Фестивальдер және мәдениет"
     },
     {
       "id": 12,
@@ -240,7 +263,8 @@
       "fra": "Comparaisons",
       "deu": "Vergleichen",
       "rus": "Сравнение",
-      "ita": "Fare paragoni"
+      "heb": "עריכת השוואות",
+      "kaz": "Салыстыру"
     }
   ],
   "b1": [
@@ -252,7 +276,8 @@
       "fra": "Rêves et espoirs",
       "deu": "Träume & Hoffnungen",
       "rus": "Мечты и надежды",
-      "ita": "Sogni e speranze"
+      "heb": "חלומות ותקוות",
+      "kaz": "Армандар мен үміттер"
     },
     {
       "id": 2,
@@ -262,7 +287,8 @@
       "fra": "Résolution de problèmes",
       "deu": "Problemlösung",
       "rus": "Решение проблем",
-      "ita": "Risoluzione dei problemi"
+      "heb": "פתרון בעיות",
+      "kaz": "Мәселелерді шешу"
     },
     {
       "id": 3,
@@ -272,7 +298,8 @@
       "fra": "Cinéma et littérature",
       "deu": "Film & Literatur",
       "rus": "Кино и литература",
-      "ita": "Cinema e letteratura"
+      "heb": "קולנוע וספרות",
+      "kaz": "Кино және әдебиет"
     },
     {
       "id": 4,
@@ -282,7 +309,8 @@
       "fra": "Sentiments et psychologie",
       "deu": "Gefühle & Psychologie",
       "rus": "Чувства и психология",
-      "ita": "Sentimenti e psicologia"
+      "heb": "רגשות ופסיכולוגיה",
+      "kaz": "Сезімдер мен психология"
     },
     {
       "id": 5,
@@ -292,7 +320,8 @@
       "fra": "Questions environnementales",
       "deu": "Umweltprobleme",
       "rus": "Экология",
-      "ita": "Questioni ambientali"
+      "heb": "נושאים סביבתיים",
+      "kaz": "Экологиялық мәселелер"
     },
     {
       "id": 6,
@@ -302,7 +331,8 @@
       "fra": "Internet et technologie",
       "deu": "Internet & Technologie",
       "rus": "Интернет и технологии",
-      "ita": "Internet e tecnologia"
+      "heb": "אינטרנט וטכנולוגיה",
+      "kaz": "Интернет және технологиялар"
     },
     {
       "id": 7,
@@ -311,8 +341,9 @@
       "eng": "Education & Learning",
       "fra": "Éducation et apprentissage",
       "deu": "Bildung & Lernen",
-      "rus": "Образование и уче바",
-      "ita": "Istruzione e apprendimento"
+      "rus": "Образование и учеба",
+      "heb": "חינוך ולמידה",
+      "kaz": "Білім және оқу"
     },
     {
       "id": 8,
@@ -322,7 +353,8 @@
       "fra": "Anecdotes de voyage",
       "deu": "Reiseerlebnisse",
       "rus": "Истории из поездок",
-      "ita": "Racconti di viaggio"
+      "heb": "סיפורי מסע",
+      "kaz": "Саяхат хикаялары"
     },
     {
       "id": 9,
@@ -332,7 +364,8 @@
       "fra": "Éthique et attitude",
       "deu": "Arbeitsmoral & Einstellung",
       "rus": "Рабочая этика",
-      "ita": "Etica e attitudine al lavoro"
+      "heb": "אתיקה וגישה בעבודה",
+      "kaz": "Жұмыс этикасы мен көзқарас"
     },
     {
       "id": 10,
@@ -342,7 +375,8 @@
       "fra": "Traditions et coutumes",
       "deu": "Traditionen & Bräuche",
       "rus": "Традиции и обычаи",
-      "ita": "Tradizioni e costumi"
+      "heb": "מסורות ומנהגים",
+      "kaz": "Дәстүрлер мен әдет-ғұрыптар"
     },
     {
       "id": 11,
@@ -352,7 +386,8 @@
       "fra": "Vie saine",
       "deu": "Gesundes Leben",
       "rus": "Здоровый образ жизни",
-      "ita": "Vita sana"
+      "heb": "חיים בריאים",
+      "kaz": "Салауатты өмір салты"
     },
     {
       "id": 12,
@@ -362,7 +397,8 @@
       "fra": "Exprimer son opinion",
       "deu": "Meinung ausdrücken",
       "rus": "Выражение мнения",
-      "ita": "Esprimere opinioni"
+      "heb": "הבעת דעה",
+      "kaz": "Пікір білдіру"
     }
   ],
   "b2": [
@@ -374,7 +410,8 @@
       "fra": "Problèmes sociaux",
       "deu": "Soziale Themen",
       "rus": "Социальные вопросы",
-      "ita": "Questioni sociali"
+      "heb": "נושאים חברתיים",
+      "kaz": "Әлеуметтік мәселелер"
     },
     {
       "id": 2,
@@ -384,7 +421,8 @@
       "fra": "Développement de carrière",
       "deu": "Karriereentwicklung",
       "rus": "Развитие карьеры",
-      "ita": "Sviluppo di carriera"
+      "heb": "פיתוח קריירה",
+      "kaz": "Мансаптық даму"
     },
     {
       "id": 3,
@@ -394,7 +432,8 @@
       "fra": "Situations hypothétiques",
       "deu": "Hypothesen",
       "rus": "Гипотетические ситуации",
-      "ita": "Situazioni ipotetiche"
+      "heb": "מצבים היפותטיים",
+      "kaz": "Гипотетикалық жағдайлар"
     },
     {
       "id": 4,
@@ -404,7 +443,8 @@
       "fra": "Médias et publicité",
       "deu": "Medien & Werbung",
       "rus": "СМИ и реклама",
-      "ita": "Media e pubblicità"
+      "heb": "מדיה ופרסום",
+      "kaz": "Бұқаралық ақпарат құралдары мен жарнама"
     },
     {
       "id": 5,
@@ -414,7 +454,8 @@
       "fra": "Conflits sociaux",
       "deu": "Gesellschaftliche Konflikte",
       "rus": "Конфликты в обществе",
-      "ita": "Conflitti sociali"
+      "heb": "קונפליקטים בחברה",
+      "kaz": "Қоғамдағы қақтығыстар"
     },
     {
       "id": 6,
@@ -424,7 +465,8 @@
       "fra": "Économie et consommation",
       "deu": "Wirtschaft & Konsum",
       "rus": "Экономика и потребление",
-      "ita": "Economia e consumi"
+      "heb": "כלכלה וצריכה",
+      "kaz": "Экономика және тұтыну"
     },
     {
       "id": 7,
@@ -434,7 +476,8 @@
       "fra": "Science et innovation",
       "deu": "Wissenschaft & Innovation",
       "rus": "Наука и инновации",
-      "ita": "Scienza e innovazione"
+      "heb": "מדע וחדשנות",
+      "kaz": "Ғылым және инновация"
     },
     {
       "id": 10,
@@ -444,7 +487,8 @@
       "fra": "Persuasion et négociation",
       "deu": "Überzeugung & Verhandlung",
       "rus": "Убеждение и переговоры",
-      "ita": "Persuasione e negoziazione"
+      "heb": "שכנוע ומשא ומתן",
+      "kaz": "Сендіру және келіссөздер"
     },
     {
       "id": 11,
@@ -454,7 +498,8 @@
       "fra": "Concepts abstraits",
       "deu": "Abstrakte Begriffe",
       "rus": "Абстрактные понятия",
-      "ita": "Concetti astratti"
+      "heb": "מושגים מופשטים",
+      "kaz": "Абстрактілі ұғымдар"
     },
     {
       "id": 12,
@@ -464,7 +509,8 @@
       "fra": "Conférences et présentations",
       "deu": "Vorträge & Präsentationen",
       "rus": "Лекции и презентации",
-      "ita": "Conferenze e presentazioni"
+      "heb": "הרצאות ומצגות",
+      "kaz": "Дәрістер мен презентациялар"
     }
   ]
 }
