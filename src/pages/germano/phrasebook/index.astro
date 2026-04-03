@@ -1,8 +1,8 @@
 ---
-import BaseLayout from "../../../layouts/BaseLayout.astro";
-import Box from "../../../components/Box.astro";
-import Button2 from "../../../components/Button2.astro";
-import AnchorNavigation from "../../../components/AnchorNavigation.astro";
+import GermanoLayout from "../../../layouts/GermanoLayout.astro";
+import BoxFrontier from "../../../components/BoxFrontier.astro";
+import ButtonFrontier2 from "../../../components/ButtonFrontier2.astro";
+import AnchorNavigationFrontier from "../../../components/AnchorNavigationFrontier.astro";
 
 import chapters from "../../../assets/json/phrasebook/chapters.json";
 const chapters_a1 = chapters["a1"];
@@ -22,15 +22,15 @@ const navItems = [
 ];
 ---
 
-<BaseLayout pageTitle={pageTitle + " | Lublio"}>
-  <Box
+<GermanoLayout pageTitle={pageTitle + " | Germano"}>
+  <BoxFrontier
     title="Sätze"
     subtitle="German Phrasebook"
     description="A firm handshake, a warm Hallo, and the kind of conversation that goes somewhere. German is a language of precision and depth — where every word earns its place, and every phrase carries the quiet confidence of a culture that takes ideas seriously."
     language="deu"
   />
 
-  <AnchorNavigation items={navItems} />
+  <AnchorNavigationFrontier items={navItems} />
 
   <main>
     <section id="group-a1">
@@ -40,12 +40,12 @@ const navItems = [
       <ul>
         {
           chapters_a1.map((post: any) => (
-            <Button2
+            <ButtonFrontier2
               id={post.id}
               title={post.deu}
               subtitle={post.eng}
               language="deu"
-              path={"/german/phrasebook/a1/" + post.path}
+              path={"/germano/phrasebook/a1/" + post.path}
             />
           ))
         }
@@ -59,12 +59,12 @@ const navItems = [
       <ul>
         {
           chapters_a2.map((post: any) => (
-            <Button2
+            <ButtonFrontier2
               id={post.id}
               title={post.deu}
               subtitle={post.eng}
               language="deu"
-              path={"/german/phrasebook/a2/" + post.path}
+              path={"/germano/phrasebook/a2/" + post.path}
             />
           ))
         }
@@ -78,12 +78,12 @@ const navItems = [
       <ul>
         {
           chapters_b1.map((post: any) => (
-            <Button2
+            <ButtonFrontier2
               id={post.id}
               title={post.deu}
               subtitle={post.eng}
               language="deu"
-              path={"/german/phrasebook/b1/" + post.path}
+              path={"/germano/phrasebook/b1/" + post.path}
             />
           ))
         }
@@ -97,19 +97,19 @@ const navItems = [
       <ul>
         {
           chapters_b2.map((post: any) => (
-            <Button2
+            <ButtonFrontier2
               id={post.id}
               title={post.deu}
               subtitle={post.eng}
               language="deu"
-              path={"/german/phrasebook/b2/" + post.path}
+              path={"/germano/phrasebook/b2/" + post.path}
             />
           ))
         }
       </ul>
     </section>
   </main>
-</BaseLayout>
+</GermanoLayout>
 
 <style>
   section {

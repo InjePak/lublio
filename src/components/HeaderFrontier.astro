@@ -36,10 +36,13 @@ import LogoSVG from "../../public/lublio-logo-dark.svg?raw";
         <a href="/" class="menuLink">Home</a>
       </li>
       <li>
-        <a href="/russo" class="menuLink">Franco</a>
+        <a href="/germano" class="menuLink-deu">Germano</a>
       </li>
       <li>
-        <a href="/russo" class="menuLink">Russo</a>
+        <a href="/franco" class="menuLink-fra">Franco</a>
+      </li>
+      <li>
+        <a href="/russo" class="menuLink-rus">Russo</a>
       </li>
       <!-- <li>
         <a href="/about" class="menuLink">About</a>
@@ -305,7 +308,10 @@ import LogoSVG from "../../public/lublio-logo-dark.svg?raw";
     margin-bottom: 0;
   }
 
-  .menuLink {
+  .menuLink,
+  .menuLink-deu,
+  .menuLink-fra,
+  .menuLink-rus {
     display: inline-block;
     width: 100%;
     height: 100%;
@@ -325,6 +331,27 @@ import LogoSVG from "../../public/lublio-logo-dark.svg?raw";
 
   .menuLink:hover {
     background-color: rgba(255, 255, 255, 0.2);
+    cursor: pointer;
+  }
+
+  .menuLink-deu:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+    border: 1px solid var(--amber400);
+    color: var(--amber400);
+    cursor: pointer;
+  }
+
+  .menuLink-fra:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+    border: 1px solid var(--sky400);
+    color: var(--sky400);
+    cursor: pointer;
+  }
+
+  .menuLink-rus:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+    border: 1px solid var(--indigo400);
+    color: var(--indigo400);
     cursor: pointer;
   }
 
