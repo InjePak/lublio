@@ -1,0 +1,30 @@
+---
+import KazariahLayout from "../../../layouts/KazariahLayout.astro";
+import BoxFrontier from "../../../components/BoxFrontier.astro";
+import ButtonFrontier2 from "../../../components/ButtonFrontier2.astro";
+
+import chapters from "../../../assets/json/patterns/chapters.json";
+
+const pageTitle = "Kazakh Sentence Patterns";
+---
+
+<KazariahLayout pageTitle={pageTitle + " | Kazariah"}>
+  <BoxFrontier
+    title="Ülgiler"
+    subtitle="Sentence Patterns"
+    description="Create tens of thousands of sentences using just a single pattern, without any complicated thinking. Experience the most efficient way to quickly improve your speaking skills."
+    language="kaz"
+  />
+
+  {
+    chapters.map((post: any) => (
+      <ButtonFrontier2
+        id={post.id}
+        title={post.kaz}
+        subtitle={post.eng}
+        language="kaz"
+        path={"/kazariah/pattern/" + post.path}
+      />
+    ))
+  }
+</KazariahLayout>

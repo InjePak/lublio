@@ -243,8 +243,8 @@ switch (level) {
 }
 ---
 
-<KazariahLayout pageTitle={chapter.kor + " | Kazariah"}>
-  <BoxFrontier2 title={chapter.kaz} subtitle={chapter.kor} language="kaz" />
+<KazariahLayout pageTitle={chapter.eng + " | Kazariah"}>
+  <BoxFrontier2 title={chapter.kaz} subtitle={chapter.eng} language="kaz" />
 
   {
     !jsonData ? (
@@ -254,7 +254,7 @@ switch (level) {
         <div class="phrase-box">
           <h1>{index + 1}</h1>
           <h2 lang="kk">{data.kaz}</h2>
-          <p>{data.kor}</p>
+          <p>{data.eng}</p>
         </div>
       ))
     )

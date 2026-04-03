@@ -7,9 +7,8 @@
     "fra": "Exprimer des opinions et exprimer son désaccord",
     "deu": "Meinungen äußern und widersprechen",
     "rus": "Выражение мнения и несогласие",
-    "esp": "Expresar opiniones y estar en desacuerdo",
-    "ita": "Esprimere opinioni e dissentire",
-    "nld": "Meningen uiten en het oneens zijn"
+    "heb": "הבעת דעה ואי-הסכמה",
+    "kaz": "Пікір білдіру және келіспеушілік"
   },
   {
     "id": 2,
@@ -19,9 +18,8 @@
     "fra": "Décrire des expériences et raconter des histoires",
     "deu": "Erfahrungen beschreiben und Geschichten erzählen",
     "rus": "Описание опыта и повествование",
-    "esp": "Describir experiencias y contar historias",
-    "ita": "Descrivere esperienze e narrazione",
-    "nld": "Ervaringen beschrijven en verhalen vertellen"
+    "heb": "תיאור חוויות וסיפור סיפורים",
+    "kaz": "Тәжірибені сипаттау және хикая айту"
   },
   {
     "id": 3,
@@ -31,9 +29,8 @@
     "fra": "Faire des demandes détaillées et refuser poliment",
     "deu": "Detaillierte Anfragen stellen und höfliche Ablehnung",
     "rus": "Подробные запросы и вежливый отказ",
-    "esp": "Hacer peticiones detalladas y rechazo cortés",
-    "ita": "Fare richieste dettagliate e rifiuto cortese",
-    "nld": "Gedetailleerde verzoeken doen en beleefd weigeren"
+    "heb": "בקשות מפורטות וסירוב מנומס",
+    "kaz": "Егжей-тегжейлі сұраулар және сыпайы бас тарту"
   },
   {
     "id": 4,
@@ -43,9 +40,8 @@
     "fra": "Résolution de problèmes et suggestion de solutions",
     "deu": "Problemlösung und Vorschlagen von Lösungen",
     "rus": "Решение проблем и предложение решений",
-    "esp": "Resolución de problemas y sugerencia de soluciones",
-    "ita": "Risoluzione di problemi e suggerimento di soluzioni",
-    "nld": "Probleemoplossing en oplossingen voorstellen"
+    "heb": "פתרון בעיות והצעת פתרונות",
+    "kaz": "Мәселелерді шешу және шешімдер ұсыну"
   },
   {
     "id": 5,
@@ -55,9 +51,8 @@
     "fra": "Exprimer des émotions profondes",
     "deu": "Tiefe Emotionen ausdrücken",
     "rus": "Выражение глубоких эмоций",
-    "esp": "Expresar emociones profundas",
-    "ita": "Esprimere emozioni profonde",
-    "nld": "Diepere emoties uiten"
+    "heb": "הבעת רגשות עמוקים",
+    "kaz": "Терең сезімдерді білдіру"
   },
   {
     "id": 6,
@@ -67,9 +62,8 @@
     "fra": "Transmission d'informations et clarification",
     "deu": "Informationsvermittlung und Klärung",
     "rus": "Передача информации и уточнение",
-    "esp": "Entrega de información y aclaración",
-    "ita": "Consegna di informazioni e chiarimenti",
-    "nld": "Informatieoverdracht en verduidelijking"
+    "heb": "מסירת מידע והבהרה",
+    "kaz": "Ақпаратты жеткізу және түсіндіру"
   },
   {
     "id": 7,
@@ -79,9 +73,8 @@
     "fra": "Hypothèses et prédictions - Phrases conditionnelles",
     "deu": "Hypothesen aufstellen und Vorhersagen - Konditionalsätze",
     "rus": "Гипотезы и прогнозирование - Условные предложения",
-    "esp": "Hipótesis y predicción - Oraciones condicionales",
-    "ita": "Ipotizzare e prevedere - Frasi condizionali",
-    "nld": "Hypothesen vormen en voorspellen - Voorwaardelijke zinnen"
+    "heb": "העלאת השערות וחיזוי - משפטי תנאי",
+    "kaz": "Гипотезалар құру және болжау - Шартты сөйлемдер"
   },
   {
     "id": 8,
@@ -91,9 +84,8 @@
     "fra": "Comparer et contraster",
     "deu": "Vergleichen und Gegenüberstellen",
     "rus": "Сравнение и сопоставление",
-    "esp": "Comparar y contrastar",
-    "ita": "Confrontare e contrastare",
-    "nld": "Vergelijken en contrasteren"
+    "heb": "השוואה והנגדה",
+    "kaz": "Салыстыру және қарама-қарсы қою"
   },
   {
     "id": 9,
@@ -101,11 +93,10 @@
     "path": "describing-habits-and-daily-routines",
     "eng": "Describing Habits and Daily Routines",
     "fra": "Décrire les habitudes et les routines quotidiennes",
-    "deu": "Gewohnheiten und Tagesabläufe beschreiben",
+    "deu": "Gewohnheiten und Tagesাবläufe beschreiben",
     "rus": "Описание привычек и распорядка дня",
-    "esp": "Describir hábitos y rutinas diarias",
-    "ita": "Descrivere abitudini e routine quotidiane",
-    "nld": "Gewoonten en dagelijkse routines beschrijven"
+    "heb": "תיאור הרגלים וסדר יום",
+    "kaz": "Әдеттер мен күн тәртібін сипаттау"
   },
   {
     "id": 10,
@@ -114,9 +105,8 @@
     "eng": "Giving Sincere Compliments and Gratitude",
     "fra": "Faire des compliments sincères et exprimer sa gratitude",
     "deu": "Aufrichtige Komplimente machen und Dankbarkeit zeigen",
-    "rus": "Искренние комплименты и благодарность",
-    "esp": "Dar cumplidos sinceros y gratitud",
-    "ita": "Fare complimenti sinceri ed esprimere gratitudine",
-    "nld": "Oprechte complimenten geven en dankbaarheid tonen"
+    "rus": "Искренние комп리менты и благодарность",
+    "heb": "מתן מחמאות כנות והכרת תודה",
+    "kaz": "Шын жүректен комплимент айту және алғыс білдіру"
   }
 ]

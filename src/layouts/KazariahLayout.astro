@@ -1,7 +1,7 @@
 ---
 import "../styles/kazariah.css";
 import HeaderFrontier from "../components/HeaderFrontier.astro";
-import BackToTop from "../components/BackToTop.astro";
+import BackToTopFrontier from "../components/BackToTopFrontier.astro";
 
 const { pageTitle } = Astro.props;
 ---
@@ -24,7 +24,7 @@ const { pageTitle } = Astro.props;
   <body>
     <div class="wrapper">
       <HeaderFrontier />
-      <BackToTop />
+      <BackToTopFrontier />
       <slot />
     </div>
   </body>

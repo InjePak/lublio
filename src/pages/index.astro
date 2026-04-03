@@ -17,7 +17,7 @@ const pageTitle = "Lublio";
   </div>
 
   <h2>
-    <Typewriter
+    <!-- <Typewriter
       texts={[
         "두려움보다 설렘을 선택한",
         "작은 시작으로 큰 변화를 이끄는",
@@ -30,13 +30,29 @@ const pageTitle = "Lublio";
         "어제의 나를 뛰어넘는",
         "불가능을 가능으로 바꾸는",
       ]}
-    />
+    /> -->
   </h2>
 
-  <h2 id="fixed-title">당신을 응원합니다</h2>
+  <h2 id="fixed-title">Start your journey here.</h2>
 
   <div class="button-wrapper">
     <ButtonMainFrontier
+      title="Franco"
+      subtitle="Français"
+      description="French learning project"
+      language="fra"
+      path="/franco"
+    />
+
+    <ButtonMainFrontier
+      title="Russo"
+      subtitle="Русский"
+      description="Russian learning project"
+      language="rus"
+      path="/russo"
+    />
+
+    <!-- <ButtonMainFrontier
       title="Ivriah"
       subtitle="이브리아"
       description="히브리어 프로젝트"
@@ -50,7 +66,7 @@ const pageTitle = "Lublio";
       description="카자흐어 프로젝트"
       language="kaz"
       path="/kazariah"
-    />
+    /> -->
 
     <!-- <ButtonMainFrontier
       title="Deutsch"
@@ -60,21 +76,7 @@ const pageTitle = "Lublio";
       path="/german"
     />
 
-    <ButtonMainFrontier
-      title="Français"
-      subtitle="French"
-      description="CEFR A1 - C1"
-      language="fra"
-      path="/french"
-    />
-
-    <ButtonMainFrontier
-      title="Русский"
-      subtitle="Russian"
-      description="CEFR A1 - C1"
-      language="rus"
-      path="/russian"
-    /> -->
+    -->
 
     <!-- <ButtonMainFrontier
       title="Italiano"
@@ -126,7 +128,7 @@ const pageTitle = "Lublio";
     }
 
     h2 {
-      font-family: "Inter", sans-serif;
+      font-family: "Roboto Condensed", sans-serif;
       margin-top: 150px;
       font-size: 24px;
       line-height: 34px;
@@ -135,7 +137,7 @@ const pageTitle = "Lublio";
     }
 
     #fixed-title {
-      font-family: "Inter", sans-serif;
+      font-family: "Roboto Condensed", sans-serif;
       margin-top: 0px;
       text-transform: uppercase;
       font-size: 40px;

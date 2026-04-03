@@ -1,0 +1,244 @@
+---
+import IvriahLayout from "../../../../layouts/IvriahLayout.astro";
+import VisibilityControllerFrontier from "../../../../components/VisibilityControllerFrontier.astro";
+import BoxFrontier2rtl from "../../../../components/BoxFrontier2rtl.astro";
+
+import chapters from "../../../../assets/json/patterns/chapters.json";
+import chapter1 from "../../../../assets/json/patterns/hebrew/chapter1.json";
+import chapter2 from "../../../../assets/json/patterns/hebrew/chapter2.json";
+import chapter3 from "../../../../assets/json/patterns/hebrew/chapter3.json";
+import chapter4 from "../../../../assets/json/patterns/hebrew/chapter4.json";
+import chapter5 from "../../../../assets/json/patterns/hebrew/chapter5.json";
+import chapter6 from "../../../../assets/json/patterns/hebrew/chapter6.json";
+import chapter7 from "../../../../assets/json/patterns/hebrew/chapter7.json";
+import chapter8 from "../../../../assets/json/patterns/hebrew/chapter8.json";
+import chapter9 from "../../../../assets/json/patterns/hebrew/chapter9.json";
+import chapter10 from "../../../../assets/json/patterns/hebrew/chapter10.json";
+
+export async function getStaticPaths() {
+  // 모든 경로의 조합을 생성합니다.
+  // 챕터 목록(chapters)과 각 챕터의 상세 데이터(chapter1 등)를 결합해야 합니다.
+
+  return chapters.flatMap((chapter) => {
+    let jsonData;
+    switch (chapter.id) {
+      case 1:
+        jsonData = chapter1;
+        break;
+      case 2:
+        jsonData = chapter2;
+        break;
+      case 3:
+        jsonData = chapter3;
+        break;
+      case 4:
+        jsonData = chapter4;
+        break;
+      case 5:
+        jsonData = chapter5;
+        break;
+      case 6:
+        jsonData = chapter6;
+        break;
+      case 7:
+        jsonData = chapter7;
+        break;
+      case 8:
+        jsonData = chapter8;
+        break;
+      case 9:
+        jsonData = chapter9;
+        break;
+      case 10:
+        jsonData = chapter10;
+        break;
+      default:
+        jsonData = chapter1;
+        break;
+    }
+
+    const slug = chapter.path.split("/").filter(Boolean).pop();
+
+    return jsonData.map((post) => ({
+      params: {
+        path: slug, // [path] 부분에 들어갈 값
+        pattern: post.id.toString(), // [pattern] 부분에 들어갈 값
+      },
+      props: {
+        post,
+      },
+    }));
+  });
+}
+
+// Astro.params를 통해 URL의 모든 변수를 가져옵니다.
+const { path, pattern } = Astro.params;
+// getStaticPaths의 props에서 데이터를 가져옵니다.
+const { post } = Astro.props;
+
+// Visibility Controller
+const navItems = [
+  { id: "phrase-b1", label: "B1" },
+  { id: "phrase-b2", label: "B2" },
+  { id: "phrase-c1", label: "C1" },
+];
+---
+
+<IvriahLayout pageTitle={post.pattern + " | Ivriah"}>
+  <BoxFrontier2rtl
+    title=`${post.id}. ${post.pattern}`
+    subtitle={post.translation}
+    language="heb"
+  />
+  <VisibilityControllerFrontier items={navItems} />
+
+  {
+    !post ? (
+      <p>서버 에러입니다.</p>
+    ) : (
+      <>
+        {[post.b1, post.b2, post.c1].filter(Boolean).map((level, index) => (
+          <>
+            {index === 0 && (
+              <>
+                <div class={`phrase-box phrase-b1 riseUp_1`}>
+                  <h1>B1</h1>
+                  {level.map((phrase, index) => {
+                    return (
+                      <>
+                        <p lang="fr">
+                          <span>{index + 1}.</span>
+                          <br />
+                          {phrase}
+                        </p>
+                      </>
+                    );
+                  })}
+                </div>
+              </>
+            )}
+            {index === 1 && (
+              <>
+                <div class={`phrase-box phrase-b2 riseUp_1`}>
+                  <h1>B2</h1>
+                  {level.map((phrase, index) => {
+                    return (
+                      <>
+                        <p lang="fr">
+                          <span>{index + 1}.</span>
+                          <br />
+                          {phrase}
+                        </p>
+                      </>
+                    );
+                  })}
+                </div>
+              </>
+            )}
+            {index === 2 && (
+              <>
+                <div class={`phrase-box phrase-c1 riseUp_1`}>
+                  <h1>C1</h1>
+                  {level.map((phrase, index) => {
+                    return (
+                      <>
+                        <p lang="fr">
+                          <span>{index + 1}.</span>
+                          <br />
+                          {phrase}
+                        </p>
+                      </>
+                    );
+                  })}
+                </div>
+              </>
+            )}
+          </>
+        ))}
+      </>
+    )
+  }
+
+  <script>
+    // 페이지 내의 모든 체크박스를 가져옵니다.
+    const toggles = document.querySelectorAll(".toggle-lang");
+
+    toggles.forEach((toggle) => {
+      toggle.addEventListener("change", (e) => {
+        const targetClass = (e.target as HTMLInputElement).dataset.target;
+        const isVisible = (e.target as HTMLInputElement).checked;
+
+        // 해당 클래스를 가진 모든 요소를 찾아 숨기거나 보입니다.
+        const elements = document.querySelectorAll(`.${targetClass}`);
+        elements.forEach((el) => {
+          (el as HTMLElement).style.display = isVisible ? "block" : "none";
+        });
+      });
+    });
+  </script>
+</IvriahLayout>
+
+<style>
+  /* Phrase Box */
+
+  .phrase-box {
+    /* background-color: var(--neutral50); */
+    margin-bottom: 1.5rem;
+  }
+
+  .phrase-box > h1 {
+    font-family: "Inter", "Noto Hebrew", sans-serif;
+    text-transform: uppercase;
+    font-size: 28px;
+    font-weight: 700;
+    margin-top: 1.5rem;
+    margin-bottom: 2rem;
+    width: 100%;
+  }
+
+  .phrase-box > p {
+    display: inline-block;
+    width: 100%;
+    padding: 3rem 1.5rem;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 1.5rem;
+    margin-bottom: 1rem;
+    hyphens: auto;
+    overflow-wrap: break-word;
+    font-family: "Inter", "Noto Hebrew", sans-serif;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    background-color: rgba(255, 255, 255, 0.1);
+    direction: rtl;
+  }
+
+  .phrase-box > p > span {
+    text-transform: uppercase;
+    display: inline-block;
+    width: 100%;
+    font-weight: 700;
+    border-left: 4px solid var(--blue400);
+    font-size: 24px;
+    margin-bottom: 1rem;
+    padding: 0.3rem 0.6rem;
+    direction: ltr;
+    margin-bottom: 2rem;
+  }
+
+  /* Mobile */
+  @media (max-width: 480px) {
+    .phrase-box > h1 {
+      font-size: 24px;
+      margin-bottom: 1.5rem;
+    }
+
+    .phrase-box > p {
+      font-size: 18px;
+      margin-bottom: 1rem;
+    }
+
+    .phrase-box > p > span {
+      font-size: 18px;
+    }
+  }
+</style>

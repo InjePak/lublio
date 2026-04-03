@@ -1,0 +1,113 @@
+---
+import FrancoLayout from "../../layouts/FrancoLayout.astro";
+import BoxMainFrontier from "../../components/BoxMainFrontier.astro";
+import ButtonFrontier from "../../components/ButtonFrontier.astro";
+
+const pageTitle = "Franco";
+---
+
+<FrancoLayout pageTitle={pageTitle + " | Powered by Lublio"}>
+  <BoxMainFrontier
+    title="Franco"
+    subtitle="French learning project"
+    description="Le français est la langue de l'amour et de la diplomatie. Reconnue pour son élégance et sa précision, elle brille à travers le monde comme un vecteur essentiel de la culture, de la gastronomie et des arts libéraux."
+    language="fra"
+  />
+
+  <div class="buttonFrontier-wrapper">
+    <ButtonFrontier
+      title="Phrases"
+      subtitle="Phrasebook"
+      description="CEFR A1 - B2"
+      language="fra"
+      path="/franco/phrasebook"
+      level="phrase"
+    />
+
+    <ButtonFrontier
+      title="Modèles"
+      subtitle="Sentence Patterns"
+      description="CEFR B1 - C1"
+      language="fra"
+      path="/franco/pattern"
+      level="pattern"
+    />
+
+    <!-- <ButtonFrontier
+      title="Débutant complet"
+      subtitle="프랑스어 첫걸음"
+      description="CEFR A0"
+      language="fra"
+      path="/franco/a0"
+      level="a0"
+      isDev="true"
+    />
+
+    <ButtonFrontier
+      title="Débutant"
+      subtitle="기초 프랑스어"
+      description="CEFR A1"
+      language="fra"
+      path="/franco/a1"
+      level="a1"
+      isDev="true"
+    />
+
+    <ButtonFrontier
+      title="Élémentaire"
+      subtitle="초급 프랑스어"
+      description="CEFR A2"
+      language="fra"
+      path="/franco/a2"
+      level="a2"
+      isDev="true"
+    />
+
+    <ButtonFrontier
+      title="Intermédiaire"
+      subtitle="중급 프랑스어"
+      description="CEFR B1"
+      language="fra"
+      path="/franco/b1"
+      level="b1"
+      isDev="true"
+    />
+
+    <ButtonFrontier
+      title="Intermédiaire supérieur"
+      subtitle="중고급 프랑스어"
+      description="CEFR B2"
+      language="fra"
+      path="/franco/b2"
+      level="b2"
+      isDev="true"
+    /> -->
+  </div>
+
+  <!-- <ButtonFrontier
+    title="Grammaire"
+    subtitle="Grammar"
+    description="CEFR A1 - B2"
+    language="fra"
+    path="/franco/grammar"
+    level="grammar"
+    isDev="true"
+  /> -->
+</FrancoLayout>
+
+<style>
+  .buttonFrontier-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  /* Mobile */
+  @media (max-width: 480px) {
+    .buttonFrontier-wrapper {
+      gap: 10px;
+      margin-bottom: 10px;
+    }
+  }
+</style>

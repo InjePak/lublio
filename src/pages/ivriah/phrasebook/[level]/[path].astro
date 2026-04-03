@@ -243,8 +243,8 @@ switch (level) {
 }
 ---
 
-<IvriahLayout pageTitle={chapter.kor + " | Ivriah"}>
-  <BoxFrontier2 title={chapter.heb} subtitle={chapter.kor} language="heb" />
+<IvriahLayout pageTitle={chapter.eng + " | Ivriah"}>
+  <BoxFrontier2 title={chapter.heb} subtitle={chapter.eng} language="heb" />
 
   {
     !jsonData ? (
@@ -254,7 +254,7 @@ switch (level) {
         <div class="phrase-box">
           <h1>{index + 1}</h1>
           <h2 lang="he">{data.heb}</h2>
-          <p>{data.kor}</p>
+          <p>{data.eng}</p>
         </div>
       ))
     )
