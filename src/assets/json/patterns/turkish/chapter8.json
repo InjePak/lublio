@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Hem ... hem de ... önemlidir, çünkü ...",
+    "translation": "Both ... and ... are important because ...",
+    "b1": [
+      "Hem kahvaltı hem de öğle yemeği önemlidir, çünkü enerji verirler.",
+      "Hem okumak hem de yazmak önemlidir, çünkü dil öğrenmeye yardımcı olurlar.",
+      "Hem çalışmak hem de dinlenmek önemlidir, çünkü insanın dengeye ihtiyacı vardır.",
+      "Hem teori hem de pratik önemlidir, çünkü her şeyi yapabilmek gerekir.",
+      "Hem sebzeler hem de meyveler önemlidir, çünkü onlarda çok vitamin vardır."
+    ],
+    "b2": [
+      "Hem mesleki beceriler (hard skills) hem de kişisel beceriler (soft skills) önemlidir, çünkü kariyerin başarısını belirlerler.",
+      "Hem ekoloji hem de ekonomi önemlidir, çünkü geleceği düşünmek zorundayız.",
+      "Hem tecrübe hem de bilgi önemlidir, çünkü birbirlerini tamamlarlar.",
+      "Hem strateji hem de taktik önemlidir, çünkü onlar olmadan zafer kazanmak imkansızdır.",
+      "Hem yatırımcılar hem de müşteriler önemlidir, çünkü işletmeyi desteklerler."
+    ],
+    "c1": [
+      "Hem temel araştırmalar hem de uygulamalı geliştirmeler önemlidir, çünkü bilimsel ve teknolojik ilerlemeyi şekillendirirler.",
+      "Hem kişisel özgürlük hem de kamu güvenliği önemlidir, çünkü demokrasinin temel direkleridirler.",
+      "Hem gelenekleri korumak hem de yenilikleri uygulamak önemlidir, çünkü kültürün sürdürülebilir gelişimini sağlarlar.",
+      "Hem kısa vadeli kâr hem de uzun vadeli istikrar önemlidir, çünkü şirketin hayatta kalmasını etkilerler.",
+      "Hem diplomatik çabalar hem de ekonomik baskı önemlidir, çünkü dış politikanın birer aracı olarak hizmet ederler."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "...-dan/-den farklı olarak, ancak, ...",
+    "translation": "Unlike ..., however, ...",
+    "b1": [
+      "Abimden farklı olarak, ancak, ben sporu çok seviyorum.",
+      "Moskova'dan farklı olarak, ancak, burası çok sessiz.",
+      "Kıştan farklı olarak, ancak, yaz soğuk geçti.",
+      "Çaydan farklı olarak, ancak, ben kahveyi sevmiyorum.",
+      "Filmden farklı olarak, ancak, kitap çok sıkıcıydı."
+    ],
+    "b2": [
+      "Geçen yıldan farklı olarak, ancak, satış hacmimiz iki katına çıktı.",
+      "Eski modelden farklı olarak, ancak, yenisi çok daha hızlı çalışıyor.",
+      "Geleneksel mağazalardan farklı olarak, ancak, online platformlar daha fazla indirim sunuyor.",
+      "Meslektaşlarımdan farklı olarak, ancak, ben ofiste çalışmayı tercih ediyorum.",
+      "Projenin birinci bölümünden farklı olarak, ancak, ikincisi daha fazla dikkat gerektiriyor."
+    ],
+    "c1": [
+      "Kendinden öncekilerden farklı olarak, ancak, yeni müdür daha liberal bir yönetim tarzı benimsiyor.",
+      "Klasik teoriden farklı olarak, ancak, modern veriler olgunun başka bir doğasını gösteriyor.",
+      "Batı pazarlarından farklı olarak, ancak, doğu bölgesi benzersiz bir tüketici dinamiği sergiliyor.",
+      "İyimser tahminlerden farklı olarak, ancak, gerçek durumun son derece istikrarsız olduğu ortaya çıktı.",
+      "Yüzeysel analizlerden farklı olarak, ancak, derinlemesine araştırmamız gizli riskleri ortaya çıkardı."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "... ile ... arasındaki temel fark - ...",
+    "translation": "The main difference between ... and ... is that ...",
+    "b1": [
+      "Şehir ile köy arasındaki temel fark - şehirde çok araba olmasıdır.",
+      "Çay ile kahve arasındaki temel fark - kahvede daha çok kafein olmasıdır.",
+      "Benimle ablam arasındaki temel fark - onun boyunun daha uzun olmasıdır.",
+      "Kış ile ilkbahar arasındaki temel fark - ilkbaharda karların erimesidir.",
+      "Uçak ile tren arasındaki temel fark - uçağın daha hızlı olmasıdır."
+    ],
+    "b2": [
+      "Bu iki akıllı telefon arasındaki temel fark - birincisinin kamerasının daha iyi olmasıdır.",
+      "Freelance ile ofis arasındaki temel fark - freelance'in daha fazla özgürlük sunmasıdır.",
+      "Pazarlama ile satış arasındaki temel fark - pazarlamanın dikkat çekmesidir.",
+      "Şirketlerimiz arasındaki temel fark - bizim kaliteyi fiyattan üstün tutmamızdır.",
+      "A planı ile B planı arasındaki temel fark - ikincisinin daha riskli olmasıdır."
+    ],
+    "c1": [
+      "Otoriter ve demokratik rejimler arasındaki temel fark - gücün nasıl dağıtıldığındadır.",
+      "Empirik ve teorik yöntemler arasındaki temel fark - varsayımları test etme biçimindedir.",
+      "Borçlanma ve sermaye araçları arasındaki temel fark - ihraççının yükümlülüklerinin niteliğindedir.",
+      "Yapay ve doğal zeka arasındaki temel fark - bilinçli deneyim yeteneğindedir.",
+      "Bu felsefi okullar arasındaki temel fark - onların özgür irade kavramını açıklama biçimlerindedir."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "... ...-a/-e benziyor, çünkü ...",
+    "translation": "... is similar to ... in that ...",
+    "b1": [
+      "Bu ev benimkine benziyor, çünkü beyaz renkte.",
+      "O annesine benziyor, çünkü şarkı söylemeyi çok seviyor.",
+      "Rusça Lehçeye benziyor, çünkü içinde çok karmaşık kelime var.",
+      "Benim işim bir oyuna benziyor, çünkü çok eğlenceli.",
+      "Bu şehir Paris'e benziyor, çünkü orada çok kafe var."
+    ],
+    "b2": [
+      "Yeni sistem eskisine benziyor, çünkü arayüzü değişmeden kaldı.",
+      "Bu durum 2008 krizine benziyor, çünkü fiyatlar hızla artıyor.",
+      "Benim yönetim tarzım sizinkine benziyor, çünkü ben de takımdaki güvene değer veriyorum.",
+      "Bu kitap bir dedektif romanına benziyor, çünkü içinde çok fazla gizem var.",
+      "Bizim projemiz bir start-up'a benziyor, çünkü kaynaklarımız az ama fikirlerimiz çok."
+    ],
+    "c1": [
+      "Mevcut piyasa oynaklığı yüz yıl önceki duruma benziyor, çünkü yapısal değişikliklerden kaynaklanıyor.",
+      "Bu sinir ağının mimarisi biyolojik beynin yapısına benziyor, çünkü nöron katmanlarını kullanıyor.",
+      "Sizin argümanlarınız klasik safsataya benziyor, çünkü yanlış önermelere dayanıyor.",
+      "Bu devletin politikası korumacılığa benziyor, çünkü yabancı malların girişini kısıtlıyor.",
+      "Bu biyolojik model matematiksel bir fonksiyona benziyor, çünkü net girdi ve çıktı parametreleri var."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "...-da/-de X varken, ...-da/-de Y var.",
+    "translation": "While ... has X, ... has Y.",
+    "b1": [
+      "Bende zaman varken, arkadaşımda para var.",
+      "Şehirde gürültü varken, köyde huzur var.",
+      "Onda kedi varken, bende köpek var.",
+      "Filmde ses varken, kitapta hayal gücü var.",
+      "Ablamda elbise varken, abimde takım elbise var."
+    ],
+    "b2": [
+      "Birinci modelde güçlü bir işlemci varken, ikincisinde harika bir kamera var.",
+      "Bizim departmanda bütçe varken, sizin departmanda deneyimli çalışanlar var.",
+      "Rakiplerde düşük fiyat varken, bizde kusursuz bir itibar var.",
+      "Avrupa'da tarih varken, Amerika'da modern teknolojiler var.",
+      "Bu projede potansiyel varken, o projede hazır bir plan var."
+    ],
+    "c1": [
+      "Gelişmiş ülkelerde birikmiş sermaye varken, gelişmekte olan ülkelerde demografik fırsat penceresi var.",
+      "Monarşide veraset istikrarı varken, cumhuriyette iktidarın el değiştirme mekanizmaları var.",
+      "Klasik müzikte katı bir form varken, cazda doğaçlama özgürlüğü var.",
+      "Muhafazakarlarda geleneğe bağlılık varken, liberallerde sosyal reformlara yönelik bir arzu var.",
+      "Kuantum fiziğinde olasılıksal bir yaklaşım varken, klasik mekanikte belirlenimcilik var."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Bir yandan ..., ama diğer yandan, ...",
+    "translation": "On the one hand ..., but on the other hand, ...",
+    "b1": [
+      "Bir yandan, çok uykum var, ama diğer yandan, çalışmak zorundayım.",
+      "Bir yandan, bu çok ucuz, ama diğer yandan, kalitesi kötü.",
+      "Bir yandan, şehirde eğlenceli, ama diğer yandan, orası çok gürültülü.",
+      "Bir yandan, iş çok zor, ama diğer yandan, maaş yüksek.",
+      "Bir yandan, seni gördüğüme sevindim, ama diğer yandan, çok meşgulüm."
+    ],
+    "b2": [
+      "Bir yandan, uzaktan çalışmak rahat, ama diğer yandan, doğrudan iletişim eksikliği var.",
+      "Bir yandan, projeye yarın başlayabiliriz, ama diğer yandan, hata yapma riski yüksek.",
+      "Bir yandan, yeni yasa hakları koruyor, ama diğer yandan, bürokrasiyi zorlaştırıyor.",
+      "Bir yandan, seyahat etmek bir deneyimdir, ama diğer yandan, büyük bir maliyettir.",
+      "Bir yandan, reklam gereklidir, ama diğer yandan, kullanıcıların sinirini bozuyor."
+    ],
+    "c1": [
+      "Bir yandan, küreselleşme ekonomik büyümeyi teşvik ediyor, ama diğer yandan, kültürel kimliğin kaybolmasına yol açıyor.",
+      "Bir yandan, yapay zekanın uygulanması üretkenliği artırıyor, ama diğer yandan, kitlesel işsizlik riski yaratıyor.",
+      "Bir yandan, verilerin şeffaflığı toplum için faydalıdır, ama diğer yandan, kişisel hayatın gizliliği hakkını ihlal ediyor.",
+      "Bir yandan, sıkı para politikası enflasyonu dizginliyor, ama diğer yandan, yatırımları yavaşlatıyor.",
+      "Bir yandan, bu karar etik açıdan doğru görünüyor, ama diğer yandan, sonuçları yıkıcı olabilir."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "... ile karşılaştırıldığında, ...",
+    "translation": "In comparison to ..., ...",
+    "b1": [
+      "Moskova ile karşılaştırıldığında, benim şehrim çok küçük.",
+      "Geçen yıl ile karşılaştırıldığında, daha çok okumaya başladım.",
+      "Çay ile karşılaştırıldığında, kahve çok acı.",
+      "Abim ile karşılaştırıldığında, ben çok sessizim.",
+      "Kış ile karşılaştırıldığında, ilkbahar çok sıcak."
+    ],
+    "b2": [
+      "Rakiplerimiz ile karşılaştırıldığında, biz daha iyi hizmet sunuyoruz.",
+      "Önceki sürüm ile karşılaştırıldığında, bu uygulama daha kararlı çalışıyor.",
+      "Geleneksel yöntemler ile karşılaştırıldığında, online eğitim zaman kazandırıyor.",
+      "Uzmanların tahminleri ile karşılaştırıldığında, gerçek kâr daha yüksek oldu.",
+      "Diğer adaylar ile karşılaştırıldığında, sizde pratik deneyim daha fazla."
+    ],
+    "c1": [
+      "Geçen on yıl ile karşılaştırıldığında, toplumun dijitalleşme düzeyi geometrik bir diziyle arttı.",
+      "Komşuların makroekonomik göstergeleri ile karşılaştırıldığında, ülkemiz istikrar sergiliyor.",
+      "İklimin köklü değişiklikleri ile karşılaştırıldığında, mevcut çabalarımız yetersiz görünüyor.",
+      "Arkaik yasal normlar ile karşılaştırıldığında, yeni kod büyük bir ilerlemeyi temsil ediyor.",
+      "Birikmiş bilgi hacmi ile karşılaştırıldığında, biz hala evreni anlamanın eşiğinde duruyoruz."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Aksine, ... ile ilgili durum önemli ölçüde farklılık gösteriyor.",
+    "translation": "Conversely, the situation with ... is quite different.",
+    "b1": [
+      "Aksine, iş ile ilgili durum önemli ölçüde farklılık gösteriyor.",
+      "Aksine, hava durumu ile ilgili durum önemli ölçüde farklılık gösteriyor.",
+      "Aksine, yemek ile ilgili durum önemli ölçüde farklılık gösteriyor.",
+      "Aksine, para ile ilgili durum önemli ölçüde farklılık gösteriyor.",
+      "Aksine, arkadaşlar ile ilgili durum önemli ölçüde farklılık gösteriyor."
+    ],
+    "b2": [
+      "Aksine, bu bölgedeki küçük işletmeler ile ilgili durum başkentten önemli ölçüde farklılık gösteriyor.",
+      "Aksine, bu aydaki satışlar ile ilgili durum beklentilerimizden önemli ölçüde farklılık gösteriyor.",
+      "Aksine, bu ülkedeki güvenlik ile ilgili durum söylentilerden önemli ölçüde farklılık gösteriyor.",
+      "Aksine, IT sektöründeki personeller ile ilgili durum diğer sektörlerden önemli ölçüde farklılık gösteriyor.",
+      "Aksine, şehrimizdeki ekoloji ile ilgili durum iyi yönde önemli ölçüde farklılık gösteriyor."
+    ],
+    "c1": [
+      "Aksine, gençler arasındaki kurumsal güven ile ilgili durum eski kuşaktan önemli ölçüde farklılık gösteriyor.",
+      "Aksine, varlıkların dağıtımı ile ilgili durum detaylı analiz yapıldığında önemli ölçüde farklılık gösteriyor.",
+      "Aksine, bu bağlamdaki insan hakları ile ilgili durum deklaratif beyanlardan önemli ölçüde farklılık gösteriyor.",
+      "Aksine, Euro bölgesindeki enflasyonist baskı ile ilgili durum ABD'deki dinamiklerden önemli ölçüde farklılık gösteriyor.",
+      "Aksine, yenilenebilir enerji kaynaklarının uygulanması ile ilgili durum hükümet politikalarına bağlı olarak önemli ölçüde farklılık gösteriyor."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Onların ... gibi birkaç ortak özelliği var.",
+    "translation": "They share several common characteristics, such as ...",
+    "b1": [
+      "Onların rengi ve boyutu gibi birkaç ortak özelliği var.",
+      "Onların müzik ve spor sevgisi gibi birkaç ortak özelliği var.",
+      "Onların fiyatı ve kalitesi gibi birkaç ortak özelliği var.",
+      "Onların tadı ve kokusu gibi birkaç ortak özelliği var.",
+      "Onların şekli ve ağırlığı gibi birkaç ortak özelliği var."
+    ],
+    "b2": [
+      "Onların program esnekliği ve uzaktan çalışma imkanı gibi birkaç ortak özelliği var.",
+      "Onların yüksek güvenilirlik ve kullanım kolaylığı gibi birkaç ortak özelliği var.",
+      "Onların müşteri odaklılık ve yenilikçi yaklaşım gibi birkaç ortak özelliği var.",
+      "Onların sade tasarım ve premium materyal kullanımı gibi birkaç ortak özelliği var.",
+      "Onların büyümeye odaklanma ve yeni fikirlere açıklık gibi birkaç ortak özelliği var."
+    ],
+    "c1": [
+      "Onların doğrusal olmayan gelişim dinamiği ve dış faktörlere yüksek hassasiyet gibi birkaç ortak özelliği var.",
+      "Onların hegemonyaya odaklanma ve diplomaside yumuşak güç kullanımı gibi birkaç ortak özelliği var.",
+      "Onların piyasa koşullarına adaptasyonu ve merkeziyetsiz yönetim yapısı gibi birkaç ortak özelliği var.",
+      "Onların empirik verilere dayanma ve bilimsel etiğe sıkı sıkıya uyma gibi birkaç ortak özelliği var.",
+      "Onların yüksek düzeyde soyutlama ve metaforik dil kullanımı gibi birkaç ortak özelliği var."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "... derecesi ...-a/-e kıyasla ...-da/-de çok daha yüksektir.",
+    "translation": "The degree of ... is much greater in ... than in ...",
+    "b1": [
+      "Gürültü derecesi köye kıyasla şehirde çok daha yüksektir.",
+      "Sıcaklık derecesi mayısa kıyasla temmuzda çok daha yüksektir.",
+      "Zorluk derecesi ona kıyasla bu problemde çok daha yüksektir.",
+      "Mutluluk derecesi işe kıyasla bayramda çok daha yüksektir.",
+      "Korku derecesi gündüze kıyasla gecede çok daha yüksektir."
+    ],
+    "b2": [
+      "Risk derecesi banka mevduatlarına kıyasla hisse senedi yatırımlarında çok daha yüksektir.",
+      "Sorumluluk derecesi normal bir çalışana kıyasla müdürde çok daha yüksektir.",
+      "Katılım derecesi büyük şirketlere kıyasla küçük takımlarda çok daha yüksektir.",
+      "Otomasyon derecesi eski fabrikaya kıyasla yenisinde çok daha yüksektir.",
+      "Müşteri memnuniyeti derecesi geçen yıla kıyasla bu yıl çok daha yüksektir."
+    ],
+    "c1": [
+      "Sosyal kutuplaşma derecesi taşra şehirlerine kıyasla metropollerde çok daha yüksektir.",
+      "Devlet müdahalesi derecesi serbest piyasa ekonomisine kıyasla planlı ekonomide çok daha yüksektir.",
+      "Bu değişkenler arasındaki korelasyon derecesi uzun vadeye kıyasla kısa vadede çok daha yüksektir.",
+      "Belirsizlik derecesi oturmuş bir işletmeye kıyasla start-up'ın başlangıç aşamasında çok daha yüksektir.",
+      "Bilişsel yük derecesi yazılı çeviriye kıyasla simultane çeviride çok daha yüksektir."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "... doğru olsa da, ...-ı/-i de göz önünde bulundurmalıyız.",
+    "translation": "Although ... is true, we must also consider ...",
+    "b1": [
+      "Bunun pahalı olduğu doğru olsa da, kaliteyi de göz önünde bulundurmalıyız.",
+      "Onun akıllı olduğu doğru olsa da, deneyimini de göz önünde bulundurmalıyız.",
+      "Bunun uzak olduğu doğru olsa da, yolculuk yöntemini de göz önünde bulundurmalıyız.",
+      "Bunun lezzetli olduğu doğru olsa da, sağlığa faydasını de göz önünde bulundurmalıyız.",
+      "Bunun hızlı olduğu doğru olsa da, güvenliği de göz önünde bulundurmalıyız."
+    ],
+    "b2": [
+      "Kârın arttığı doğru olsa da, artan operasyonel maliyetleri de göz önünde bulundurmalıyız.",
+      "Teknolojinin yeni olduğu doğru olsa da, ilk kullanıcıların yorumlarını de göz önünde bulundurmalıyız.",
+      "Reklamın işe yaradığı doğru olsa da, müşterilerin uzun vadeli sadakatini de göz önünde bulundurmalıyız.",
+      "Teklifin ilgi çekici olduğu doğru olsa da, anlaşmanın yasal risklerini de göz önünde bulundurmalıyız.",
+      "Zamanın dar olduğu doğru olsa da, ekibin moral durumunu de göz önünde bulundurmalıyız."
+    ],
+    "c1": [
+      "Ekonomik büyümenin yavaşladığı doğru olsa da, sanayideki olumlu yapısal değişiklikleri de göz önünde bulundurmalıyız.",
+      "Teorinin şık olduğu doğru olsa da, son deneyler sırasında saptanan sapmaları da göz önünde bulundurmalıyız.",
+      "Sosyal desteğin önemli olduğu doğru olsa da, bütçe açığına olan uzun vadeli etkisini de göz önünde bulundurmalıyız.",
+      "Dış baskının arttığı doğru olsa da, ithal ikamesi fırsatlarını de göz önünde bulundurmalıyız.",
+      "Tarafların iddialarının inandırıcı olduğu doğru olsa da, bu davanın jeopolitik bağlamını de göz önünde bulundurmalıyız."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Önemli bir ayrışma noktası - ...",
+    "translation": "A significant point of divergence is ...",
+    "b1": [
+      "Önemli bir ayrışma noktası - bu ürünün fiyatıdır.",
+      "Önemli bir ayrışma noktası - toplantı zamanıdır.",
+      "Önemli bir ayrışma noktası - anne ve babaların fikridir.",
+      "Önemli bir ayrışma noktası - yemeğin tadıdır.",
+      "Önemli bir ayrışma noktası - tatil yeridir."
+    ],
+    "b2": [
+      "Planlarımız arasındaki önemli bir ayrışma noktası - projenin bütçesidir.",
+      "Görüşlerimizdeki önemli bir ayrışma noktası - riske karşı olan yaklaşımdır.",
+      "Modeller arasındaki önemli bir ayrışma noktası - işlemci hafızasının boyutudur.",
+      "Müzakerelerdeki önemli bir ayrışma noktası - sözleşmenin ödeme koşullarıdır.",
+      "Raporlardaki önemli bir ayrışma noktası - kârı hesaplama metodolojisidir."
+    ],
+    "c1": [
+      "İki konsept arasındaki önemli bir ayrışma noktası - devletin ekonomideki rolünü anlama biçimidir.",
+      "Tanıkların ifadelerindeki önemli bir ayrışma noktası - olayın başlangıcının tam zamanıdır.",
+      "Gelişim stratejilerindeki önemli bir ayrışma noktası - iç veya dış pazara yönelme durumudur.",
+      "Teori ve pratik arasındaki önemli bir ayrışma noktası - insan faktörünün etkisidir.",
+      "Siber güvenlik yaklaşımlarındaki önemli bir ayrışma noktası - kolaylık ve korunma arasındaki dengedir."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "... hariç, temelde birbirine benzerler.",
+    "translation": "They are fundamentally similar, except for ...",
+    "b1": [
+      "Rengi hariç, temelde birbirine benzerler.",
+      "Fiyatı hariç, temelde birbirine benzerler.",
+      "Boyutu hariç, temelde birbirine benzerler.",
+      "Tadı hariç, temelde birbirine benzerler.",
+      "Kokusu hariç, temelde birbirine benzerler."
+    ],
+    "b2": [
+      "Arayüzdeki bazı teknik detaylar hariç, temelde birbirine benzerler.",
+      "Garanti hizmeti koşulları hariç, temelde birbirine benzerler.",
+      "Müşterilerle çalışma biçimi hariç, temelde birbirine benzerler.",
+      "İş sözleşmesindeki bazı maddeler hariç, temelde birbirine benzerler.",
+      "Tanıtımın pazarlama stratejisi hariç, temelde birbirine benzerler."
+    ],
+    "c1": [
+      "Sistem çekirdeği düzeyindeki mimari kararlar hariç, temelde birbirine benzerler.",
+      "Egemenlik ve bağımsızlık kavramlarını açıklama biçimi hariç, temelde birbirine benzerler.",
+      "Araştırma yapmadaki etik kısıtlamalar hariç, temelde birbirine benzerler.",
+      "Kurumlar arasındaki yetki paylaşımı mekanizmaları hariç, temelde birbirine benzerler.",
+      "Bölgenin ekosistemine olan uzun vadeli etkisi hariç, temelde birbirine benzerler."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "... ...-a/-e kıyasla çok daha etkilidir, çünkü ...",
+    "translation": "... is far more effective than ... because ...",
+    "b1": [
+      "Tren arabaya kıyasla çok daha etkilidir, çünkü trafik yok.",
+      "Bu yöntem diğerine kıyasla çok daha etkilidir, çünkü daha hızlı.",
+      "Sabah sporu akşam sporuna kıyasla çok daha etkilidir, çünkü enerji verir.",
+      "Kahve çaya kıyasla çok daha etkilidir, çünkü serttir.",
+      "Ofisteki iş evdeki işe kıyasla çok daha etkilidir, çünkü orada huzur var."
+    ],
+    "b2": [
+      "Hedefli reklam banner reklama kıyasla çok daha etkilidir, çünkü tam hedefe ulaşır.",
+      "Yeni yazılım eskisine kıyasla çok daha etkilidir, çünkü görevleri otomatikleştirir.",
+      "Dikey yönetim yatay yönetime kıyasla çok daha etkilidir, çünkü kararlar daha hızlı alınır.",
+      "Yüz yüze eğitim uzaktan eğitime kıyasla çok daha etkilidir, çünkü öğretmenle doğrudan iletişim var.",
+      "Güneş enerjisi kömür enerjisine kıyasla çok daha etkilidir, çünkü çevre dostudur."
+    ],
+    "c1": [
+      "Derin öğrenme yöntemi geleneksel algoritmalara kıyasla çok daha etkilidir, çünkü kalıpları daha iyi tanır.",
+      "Merkeziyetsiz karar alma modeli katı hiyerarşiye kıyasla çok daha etkilidir, çünkü adaptasyonu artırır.",
+      "Hedefli sosyal yardım doğrudan sübvansiyonlara kıyasla çok daha etkilidir, çünkü amaç dışı harcamaları azaltır.",
+      "Pazarlamadaki entegre yaklaşım dağınık kampanyalara kıyasla çok daha etkilidir, çünkü marka sinerjisi yaratır.",
+      "Koruyucu tıp kronik hastalıkları tedavi etmeye kıyasla çok daha etkilidir, çünkü daha az maliyetle yaşam kalitesini korur."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "... ile ... arasında bir paralellik kurabiliriz.",
+    "translation": "We can draw a parallel between ... and ...",
+    "b1": [
+      "Bu kitap ile o film arasında bir paralellik kurabiliriz.",
+      "Onun hayatı ile benim hayatım arasında bir paralellik kurabiliriz.",
+      "Futbol ile hayat arasında bir paralellik kurabiliriz.",
+      "İş ile okul arasında bir paralellik kurabiliriz.",
+      "Moskova ile Londra arasında bir paralellik kurabiliriz."
+    ],
+    "b2": [
+      "İnternetin gelişimi ile televizyonun ortaya çıkışı arasında bir paralellik kurabiliriz.",
+      "Şirketin yapısı ile aile ilişkileri arasında bir paralellik kurabiliriz.",
+      "Mevcut ekonomik döngü ile 90'lı yıllardaki olaylar arasında bir paralellik kurabiliriz.",
+      "Bu oyunun stratejisi ile gerçek bir iş yürütmek arasında bir paralellik kurabiliriz.",
+      "Müşterilerin offline ve online davranışları arasında bir paralellik kurabiliriz."
+    ],
+    "c1": [
+      "Roma İmparatorluğu'nun çöküşü ile küreselleşmenin mevcut krizleri arasında bir paralellik kurabiliriz.",
+      "Evrim teorisi ile makine öğrenimi algoritmalarının gelişimi arasında bir paralellik kurabiliriz.",
+      "Dilbilimsel yapılar ile insanın düşünme süreçleri arasında bir paralellik kurabiliriz.",
+      "Siyasi popülizm ile kitlesel tüketimin pazarlama stratejileri arasında bir paralellik kurabiliriz.",
+      "Gotik katedrallerin mimarisi ile modern gökdelenler arasında göğe yükselme arzusu açısından bir paralellik kurabiliriz."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Ne ... ne de ... ...-ı/-i sağlar.",
+    "translation": "Neither ... nor ... provides ...",
+    "b1": [
+      "Ne çay ne de kahve huzur sağlar.",
+      "Ne iş ne de hobi çok para sağlar.",
+      "Ne bu ev ne de o ev konfor sağlar.",
+      "Ne yaz ne de kış mükemmel bir hava sağlar.",
+      "Ne doktor ne de ilaç hızlı iyileşmeyi sağlar."
+    ],
+    "b2": [
+      "Ne birinci strateji ne de ikincisi bu pazarda garantili bir başarı sağlar.",
+      "Ne yüksek maaş ne de statü işten tam tatmin sağlar.",
+      "Ne mevcut plan ne de alternatifi verilerin tam güvenliğini sağlar.",
+      "Ne gazetedeki reklam ne de radyodaki reklam gerekli kitleye ulaşmayı sağlar.",
+      "Ne bu yasa ne de ona getirilen eklemeler yolsuzluk problemini çözmeyi sağlar."
+    ],
+    "c1": [
+      "Ne sıkı sansür ne de tam ifade özgürlüğü bilginin mutlak nesnelliğini sağlar.",
+      "Ne liberal ekonomik model ne de devlet müdahalesi bir ulusun otomatik olarak refaha kavuşmasını sağlar.",
+      "Ne empirik deneyim ne de saf teorileştirme mutlak gerçeği tanımayı sağlar.",
+      "Ne teknolojik üstünlük ne de sayısal çoğunluk günümüzün hibrit savaşında zafer sağlar.",
+      "Ne korumacı önlemler ne de açık pazarlar küresel ekonomik şoklardan korunmayı sağlar."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "... ile karşılaştırıldığında, ... ... gibi görünüyor.",
+    "translation": "When balanced against ..., ... appears to be ...",
+    "b1": [
+      "Ev ile karşılaştırıldığında, oda çok küçük gibi görünüyor.",
+      "Babası ile karşılaştırıldığında, çocuk çok genç gibi görünüyor.",
+      "Geçmiş ile karşılaştırıldığında, şimdi her şey kolay gibi görünüyor.",
+      "İş ile karşılaştırıldığında, tatil kısa gibi görünüyor.",
+      "Moskova ile karşılaştırıldığında, benim şehrim sessiz gibi görünüyor."
+    ],
+    "b2": [
+      "Önceki proje ile karşılaştırıldığında, bu daha kapsamlı ve karmaşık gibi görünüyor.",
+      "Rakipler ile karşılaştırıldığında, bizim teklifimiz müşteriler için daha avantajlı gibi görünüyor.",
+      "Geçen yıl ile karşılaştırıldığında, piyasadaki durum daha istikrarlı gibi görünüyor.",
+      "Beklentilerimiz ile karşılaştırıldığında, sonuç tamamen kabul edilebilir gibi görünüyor.",
+      "Geleneksel bir banka ile karşılaştırıldığında, fintech start-up'ı yenilikçi gibi görünüyor."
+    ],
+    "c1": [
+      "Varlığın temel problemleri ile karşılaştırıldığında, bu siyasi kavgalar geçici gibi görünüyor.",
+      "Evrenin boyutu ile karşılaştırıldığında, bizim gezegenimiz uzaydaki küçük bir nokta gibi görünüyor.",
+      "Geçmişin radikal reformları ile karşılaştırıldığında, mevcut değişiklikler sadece kozmetik düzeltmeler gibi görünüyor.",
+      "Yapay zekanın uygulanmasındaki potansiyel riskler ile karşılaştırıldığında, mevcut siber güvenlik problemleri önemsiz gibi görünüyor.",
+      "Piyasanın katı talepleri ile karşılaştırıldığında, sizin iç politikanız çok liberal gibi görünüyor."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Onların ...-a/-e olan yaklaşımında belirgin bir tezat var.",
+    "translation": "There is a stark contrast in their approach to ...",
+    "b1": [
+      "Onların işe olan yaklaşımında belirgin bir tezat var.",
+      "Onların yemeğe olan yaklaşımında belirgin bir tezat var.",
+      "Onların paraya olan yaklaşımında belirgin bir tezat var.",
+      "Onların spora olan yaklaşımında belirgin bir tezat var.",
+      "Onların hayata olan yaklaşımında belirgin bir tezat var."
+    ],
+    "b2": [
+      "Onların personel yönetimi ve çalışanları motive etme konusuna olan yaklaşımında belirgin bir tezat var.",
+      "Onların bölgedeki ekolojik problemleri çözme konusuna olan yaklaşımında belirgin bir tezat var.",
+      "Onların pazarlama ve ürünleri internette öne çıkarma konusuna olan yaklaşımında belirgin bir tezat var.",
+      "Onların müşteri hizmetleri ve şikayetleri yönetme konusuna olan yaklaşımında belirgin bir tezat var.",
+      "Onların bütçe planlama ve kaynakları dağıtma konusuna olan yaklaşımında belirgin bir tezat var."
+    ],
+    "c1": [
+      "Onların uluslararası hukuk ve egemenliği açıklama konusuna olan yaklaşımında belirgin bir tezat var.",
+      "Onların temel araştırmalar ve uygulamalı geliştirmeler konusuna olan yaklaşımında belirgin bir tezat var.",
+      "Onların sosyal adalet ve toplumsal cinsiyet eşitliği meselelerine olan yaklaşımında belirgin bir tezat var.",
+      "Onların göçmenleri ulusal kültüre entegre etme konusuna olan yaklaşımında belirgin bir tezat var.",
+      "Onların yüksek belirsizlik durumunda uzun vadeli planlama konusuna olan yaklaşımında belirgin bir tezat var."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Benzerlik, ...-da/-de yatmaktadır.",
+    "translation": "The similarity lies in the fact that ...",
+    "b1": [
+      "Benzerlik, ikisinin de kırmızı renkte olmasında yatmaktadır.",
+      "Benzerlik, ikimizin de sinemayı sevmesinde yatmaktadır.",
+      "Benzerlik, bu şehirlerin eski olmasında yatmaktadır.",
+      "Benzerlik, işin eğlenceli olmasında yatmaktadır.",
+      "Benzerlik, bunun ücretsiz olmasında yatmaktadır."
+    ],
+    "b2": [
+      "Benzerlik, iki şirketin de uluslararası pazara odaklanmasında yatmaktadır.",
+      "Benzerlik, iki adayın da satış alanında büyük bir deneyimi olmasında yatmaktadır.",
+      "Benzerlik, iki modelin de aynı işlemci çipini kullanmasında yatmaktadır.",
+      "Benzerlik, iki projenin de kentsel altyapıyı iyileştirmeye odaklanmasında yatmaktadır.",
+      "Benzerlik, iki durumda da başarısızlığın nedeninin insan faktörü olmasında yatmaktadır."
+    ],
+    "c1": [
+      "Benzerlik, iki felsefi sistemin de ruhun maddeden üstün olduğunu kabul etmesinde yatmaktadır.",
+      "Benzerlik, iki makroekonomik krizin de emlak piyasasındaki balondan kaynaklanmasında yatmaktadır.",
+      "Benzerlik, iki siyasi partinin de benzer popülist retorikler kullanmasında yatmaktadır.",
+      "Benzerlik, iki bilimsel okulun da Popper'a göre yanlışlanabilirlik ilkesine dayanmasında yatmaktadır.",
+      "Benzerlik, iki ekosistemin de dış şoklara karşı yüksek direnç göstermesinde yatmaktadır."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Yan yana koyup karşılaştırıldığında, ... ...-dan/-den açıkça daha iyi performans gösteriyor.",
+    "translation": "Compared side by side, ... clearly outperforms ...",
+    "b1": [
+      "Yan yana koyup karşılaştırıldığında, bu telefon diğerinden açıkça daha iyi performans gösteriyor.",
+      "Yan yana koyup karşılaştırıldığında, bizim takım onlardan açıkça daha iyi performans gösteriyor.",
+      "Yan yana koyup karşılaştırıldığında, bu pasta lezzet açısından diğerinden açıkça daha iyi performans gösteriyor.",
+      "Yan yana koyup karşılaştırıldığında, bu iş geçmişteki işten açıkça daha iyi performans gösteriyor.",
+      "Yan yana koyup karşılaştırıldığında, bu plan seninkinden açıkça daha iyi performans gösteriyor."
+    ],
+    "b2": [
+      "Yan yana koyup karşılaştırıldığında, spor ayakkabının yeni modeli rahatlık açısından eskisinden açıkça daha iyi performans gösteriyor.",
+      "Yan yana koyup karşılaştırıldığında, bu tedavi yöntemi geleneksel yaklaşımlardan açıkça daha iyi performans gösteriyor.",
+      "Yan yana koyup karşılaştırıldığında, bu otomobilin montaj kalitesi alternatiflerinden açıkça daha iyi performans gösteriyor.",
+      "Yan yana koyup karşılaştırıldığında, bu oteldeki hizmet misafirlerin beklentilerinden açıkça daha iyi performans gösteriyor.",
+      "Yan yana koyup karşılaştırıldığında, uygulamamızın arayüzü kullanım kolaylığı açısından rakiplerden açıkça daha iyi performans gösteriyor."
+    ],
+    "c1": [
+      "Yan yana koyup karşılaştırıldığında, bu kriz karşıtı programın etkililiği alternatif tedbirlerden açıkça daha iyi performans gösteriyor.",
+      "Yan yana koyup karşılaştırıldığında, bu yapay zeka sisteminin entelektüel potansiyeli önceki sürümlerden açıkça daha iyi performans gösteriyor.",
+      "Yan yana koyup karşılaştırıldığında, bu analiz aracının doğruluğu uzman değerlendirmelerinden açıkça daha iyi performans gösteriyor.",
+      "Yan yana koyup karşılaştırıldığında, bu yasa tasarısının işlenme derinliği geçmişteki tüm girişimlerden açıkça daha iyi performans gösteriyor.",
+      "Yan yana koyup karşılaştırıldığında, yeni ofisteki çalışma alanının ergonomisi eski standartlardan açıkça daha iyi performans gösteriyor."
+    ]
+  }
+]

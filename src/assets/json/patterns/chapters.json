@@ -8,7 +8,8 @@
     "deu": "Meinungen äußern und widersprechen",
     "rus": "Выражение мнения и несогласие",
     "heb": "הבעת דעה ואי-הסכמה",
-    "kaz": "Пікір білдіру және келіспеушілік"
+    "kaz": "Пікір білдіру және келіспеушілік",
+    "tur": "Görüş Bildirme ve Karşı Çıkma"
   },
   {
     "id": 2,
@@ -19,7 +20,8 @@
     "deu": "Erfahrungen beschreiben und Geschichten erzählen",
     "rus": "Описание опыта и повествование",
     "heb": "תיאור חוויות וסיפור סיפורים",
-    "kaz": "Тәжірибені сипат타у және хикая айту"
+    "kaz": "Тәжірибені сипаттау және хикая айту",
+    "tur": "Deneyimleri Tanımlama ve Hikaye Anlatımı"
   },
   {
     "id": 3,
@@ -30,7 +32,8 @@
     "deu": "Detaillierte Anfragen stellen und höfliche Ablehnung",
     "rus": "Подробные запросы и вежливый отказ",
     "heb": "בקשות מפורטות וסירוב מנומס",
-    "kaz": "Егжей-тегжейлі сұраулар және сыпайы бас тарту"
+    "kaz": "Егжей-тегжейлі сұраулар және сы파йы бас тарту",
+    "tur": "Ayrıntılı İsteklerde Bulunma ve Kibarca Reddetme"
   },
   {
     "id": 4,
@@ -40,8 +43,9 @@
     "fra": "Résolution de problèmes et suggestion de solutions",
     "deu": "Problemlösung und Vorschlagen von Lösungen",
     "rus": "Решение проблем и предложение решений",
-    "heb": "פתרון בעיות והצעת פתרונות",
-    "kaz": "Мәселелерді шешу және шешімдер ұсыну"
+    "heb": "פתרון בעיות והצעת פתροנות",
+    "kaz": "Мәселелерді шешу және шешімдер ұсыну",
+    "tur": "Problem Çözme ve Çözüm Önerileri Sunma"
   },
   {
     "id": 5,
@@ -52,7 +56,8 @@
     "deu": "Tiefe Emotionen ausdrücken",
     "rus": "Выражение глубоких эмоций",
     "heb": "הבעת רגשות עמוקים",
-    "kaz": "Терең сезімдерді білдіру"
+    "kaz": "Терең сезімдерді білдіру",
+    "tur": "Derin Duyguları İfade Etme"
   },
   {
     "id": 6,
@@ -63,7 +68,8 @@
     "deu": "Informationsvermittlung und Klärung",
     "rus": "Передача информации и уточнение",
     "heb": "מסירת מידע והבהרה",
-    "kaz": "Ақпаратты жеткізу және түсіндіру"
+    "kaz": "Ақпаратты жеткізу 및 түсіндіру",
+    "tur": "Bilgi Aktarma ve Açıklama"
   },
   {
     "id": 7,
@@ -74,7 +80,8 @@
     "deu": "Hypothesen aufstellen und Vorhersagen - Konditionalsätze",
     "rus": "Гипотезы и прогнозирование - Условные предложения",
     "heb": "העלאת השערות וחיזוי - משפטי תנאי",
-    "kaz": "Гипотезалар құру және болжау - Шартты сөйлемдер"
+    "kaz": "Гипотезалар құру және болжау - Шартты сөйлемдер",
+    "tur": "Varsayımda Bulunma ve Tahmin Etme - Koşul Cümleleri"
   },
   {
     "id": 8,
@@ -85,7 +92,8 @@
     "deu": "Vergleichen und Gegenüberstellen",
     "rus": "Сравнение и сопоставление",
     "heb": "השוואה והנגדה",
-    "kaz": "Салыстыру және қарама-қарсы қою"
+    "kaz": "Салыстыру және қарама-қарсы қою",
+    "tur": "Karşılaştırma ve Karşıtlık Kurma"
   },
   {
     "id": 9,
@@ -95,8 +103,9 @@
     "fra": "Décrire les habitudes et les routines quotidiennes",
     "deu": "Gewohnheiten und Tagesabläufe beschreiben",
     "rus": "Описание привычек и распорядка дня",
-    "heb": "תי아ור הרגלים וסדר יום",
-    "kaz": "Әдеттер мен күн тәртібін сипаттау"
+    "heb": "תיאור הרגלים וסדר יום",
+    "kaz": "Әдеттер мен күн тәртібін сипаттау",
+    "tur": "Alışkanlıkları ve Günlük Rutinleri Tanımlama"
   },
   {
     "id": 10,
@@ -105,8 +114,9 @@
     "eng": "Giving Sincere Compliments and Gratitude",
     "fra": "Faire des compliments sincères et exprimer sa gratitude",
     "deu": "Aufrichtige Komplimente machen und Dankbarkeit zeigen",
-    "rus": "Искренние комплименты и благодарность",
+    "rus": "Искренние комп리менты и благодарность",
     "heb": "מתן מחמאות כנות והכרת תודה",
-    "kaz": "Шын жүректен комплимент айту және алғыс білдіру"
+    "kaz": "Шын жүректен комплимент айту және алғыс білдіру",
+    "tur": "İçten Övgülerde Bulunma ve Minnettarlık Gösterme"
   }
 ]

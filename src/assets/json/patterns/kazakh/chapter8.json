@@ -1,522 +1,522 @@
 [
   {
     "id": 1,
-    "pattern": "Les deux, ... et ..., sont importants parce que ...",
+    "pattern": "... де, ... да маңызды, өйткені ...",
     "translation": "Both ... and ... are important because ...",
     "b1": [
-      "Les deux, le sport et l'alimentation, sont importants parce que c'est bon pour la santé.",
-      "Les deux, lire et écrire, sont importants parce que nous apprenons beaucoup.",
-      "Les deux, le travail et le repos, sont importants parce que nous avons besoin d'équilibre.",
-      "Les deux, la famille et les amis, sont importants parce qu'ils nous rendent heureux.",
-      "Les deux, le soleil et la pluie, sont importants parce que la nature en a besoin."
+      "Таңғы ас та, түскі ас та маңызды, өйткені олар қуат береді.",
+      "Оқу да, жазу да маңызды, өйткені олар тіл үйренуге көмектеседі.",
+      "Жұмыс та, демалыс та маңызды, өйткені адамға тепе-теңдік керек.",
+      "Теория да, практика да маңызды, өйткені бәрін істей білу керек.",
+      "Көкөністер де, жемістер де маңызды, өйткені оларда дәрумендер көп."
     ],
     "b2": [
-      "Les deux, la théorie et la pratique, sont importants parce que l'un ne va pas sans l'autre.",
-      "Les deux, le profit et l'éthique, sont importants parce que l'entreprise doit être responsable.",
-      "Les deux, la créativité et la discipline, sont importants parce qu'ils mènent au succès durable.",
-      "Les deux, la sécurité et la liberté, sont importants parce qu'ils définissent notre société.",
-      "Les deux, le local et le global, sont importants parce que tout est interconnecté aujourd'hui."
+      "Кәсіби дағдылар (hard skills) да, тұлғалық дағдылар (soft skills) да маңызды, өйткені олар мансаптың сәттілігін анықтайды.",
+      "Экология да, экономика да маңызды, өйткені біз болашақты ойлауымыз керек.",
+      "Тәжірибе де, білім де маңызды, өйткені олар бірін-бірі толықтырады.",
+      "Стратегия да, тактика да маңызды, өйткені оларсыз жеңіске жету мүмкін емес.",
+      "Инвесторлар да, клиенттер де маңызды, өйткені олар бизнесті қолдайды."
     ],
     "c1": [
-      "Les deux, l'intuition et l'analyse de données, sont importants parce qu'ils forment une vision stratégique complète.",
-      "Les deux, la préservation du patrimoine et l'innovation technologique, sont importants parce qu'ils assurent la continuité culturelle.",
-      "Les deux, la souveraineté nationale et la coopération internationale, sont importants parce qu'ils stabilisent les relations mondiales.",
-      "Les deux, l'empathie et l'autorité, sont importants parce qu'ils sont le socle d'un leadership moderne efficace.",
-      "Les deux, la rigueur scientifique et l'audace intellectuelle, sont importants parce qu'ils permettent les découvertes majeures."
+      "Іргелі зерттеулер де, қолданбалы әзірлемелер де маңызды, өйткені олар ғылыми-техникалық прогресті қалыптастырады.",
+      "Жеке бас бостандығы да, қоғамдық қауіпсіздік те маңызды, өйткені олар демократияның тірегі болып табылады.",
+      "Дәстүрлерді сақтау да, инновацияларды енгізу де маңызды, өйткені олар мәдениеттің тұрақты дамуын қамтамасыз етеді.",
+      "Қысқа мерзімді пайда да, ұзақ мерзімді тұрақтылық та маңызды, өйткені олар компанияның өміршеңдігіне әсер етеді.",
+      "Дипломатиялық күш-жігер де, экономикалық қысым да маңызды, өйткені олар сыртқы саясаттың құралы ретінде қызмет етеді."
     ]
   },
   {
     "id": 2,
-    "pattern": "Contrairement à ..., cependant, ...",
+    "pattern": "...-дан/-ден өзгешелігі, алайда, ...",
     "translation": "Unlike ..., however, ...",
     "b1": [
-      "Contrairement à mon frère, cependant, je n'aime pas le football.",
-      "Contrairement à hier, cependant, il fait très beau aujourd'hui.",
-      "Contrairement à Paris, cependant, ma ville est très calme.",
-      "Contrairement au bus, cependant, le train est très rapide.",
-      "Contrairement à toi, cependant, je préfère le thé au café."
+      "Ағамнан өзгешелігі, алайда, мен спортты жақсы көремін.",
+      "Мәскеуден өзгешелігі, алайда, бұл жерде өте тыныш.",
+      "Қыстан өзгешелігі, алайда, жаз суық болды.",
+      "Шайдан өзгешелігі, алайда, маған кофе ұнамайды.",
+      "Фильмнен өзгешелігі, алайда, кітап іш пыстырарлық болды."
     ],
     "b2": [
-      "Contrairement à ce que l'on pense, cependant, ce projet est très rentable.",
-      "Contrairement à la France, cependant, l'Allemagne a une structure fédérale.",
-      "Contrairement aux prévisions, cependant, l'inflation a diminué ce mois-ci.",
-      "Contrairement à l'ancien modèle, cependant, celui-ci consomme moins d'énergie.",
-      "Contrairement à ses collègues, cependant, elle travaille souvent tard le soir."
+      "Өткен жылдан өзгешелігі, алайда, біздің сату көлеміміз екі есе өсті.",
+      "Ескі модельден өзгешелігі, алайда, жаңасы әлдеқайда жылдам жұмыс істейді.",
+      "Дәстүрлі дүкендерден өзгешелігі, алайда, онлайн-платформалар көбірек жеңілдіктер ұсынады.",
+      "Әріптестерімнен өзгешелігі, алайда, мен кеңседе жұмыс істегенді жөн көремін.",
+      "Жобаның бірінші бөлімінен өзгешелігі, алайда, екіншісі көбірек назар аударуды талап етеді."
     ],
     "c1": [
-      "Contrairement à la rhétorique habituelle, cependant, les faits montrent une réalité bien plus nuancée.",
-      "Contrairement aux idées reçues sur la mondialisation, cependant, nous assistons à une relocalisation de certaines industries.",
-      "Contrairement à l'approche purement quantitative, cependant, notre étude privilégie une analyse qualitative profonde.",
-      "Contrairement aux attentes du marché, cependant, l'entreprise a décidé de ne pas verser de dividendes cette année.",
-      "Contrairement à une vision linéaire du progrès, cependant, l'histoire nous enseigne que des régressions sont toujours possibles."
+      "Өзінен бұрынғылардан өзгешелігі, алайда, жаңа директор басқарудың либералды стилін ұстанады.",
+      "Классикалық теориядан өзгешелігі, алайда, заманауи мәліметтер құбылыстың басқа табиғатын көрсетеді.",
+      "Батыс нарықтарынан өзгешелігі, алайда, шығыс өңірі бірегей тұтынушылық динамиканы көрсетіп отыр.",
+      "Оптимистік болжамдардан өзгешелігі, алайда, нақты жағдай өте тұрақсыз болып шықты.",
+      "Үстірт талдаудан өзгешелігі, алайда, біздің терең зерттеуіміз жасырын тәуекелдерді анықтады."
     ]
   },
   {
     "id": 3,
-    "pattern": "La principale différence entre ... et ... est que ...",
+    "pattern": "... мен ... арасындағы негізгі айырмашылық - ...",
     "translation": "The main difference between ... and ... is that ...",
     "b1": [
-      "La principale différence entre le chien et le chat est que le chien est plus sociable.",
-      "La principale différence entre l'été et l'hiver est qu'il fait plus chaud en été.",
-      "La principale différence entre ce livre et le film est que le livre est plus long.",
-      "La principale différence entre l'avion et le bus est que l'avion est plus cher.",
-      "La principale différence entre moi et toi est que je suis plus grand."
+      "Қала мен ауыл арасындағы негізгі айырмашылық - қалада машиналар көп.",
+      "Шай мен кофе арасындағы негізгі айырмашылық - кофеде кофеин көбірек.",
+      "Мені мен әпкемнің арасындағы негізгі айырмашылық - оның бойы ұзынырақ.",
+      "Қыс пен көктем арасындағы негізгі айырмашылық - көктемде қар ериді.",
+      "Ұшақ пен пойыз арасындағы негізгі айырмашылық - ұшақ жылдамырақ."
     ],
     "b2": [
-      "La principale différence entre ces deux stratégies est que l'une est plus risquée que l'autre.",
-      "La principale différence entre le salariat et l'entrepreneuriat est le niveau de sécurité financière.",
-      "La principale différence entre la 4G et la 5G est la vitesse de transmission des données.",
-      "La principale différence entre ces deux candidats est leur expérience internationale.",
-      "La principale différence entre le bio et le conventionnel est l'utilisation de pesticides chimiques."
+      "Бұл екі смартфон арасындағы негізгі айырмашылық - біріншісінің камерасы жақсырақ.",
+      "Фриланс пен кеңсе арасындағы негізгі айырмашылық - фриланс көбірек еркіндік береді.",
+      "Маркетинг пен сату арасындағы негізгі айырмашылық - маркетинг назар аудартады.",
+      "Біздің компаниялар арасындағы негізгі айырмашылық - біз сапаны бағадан жоғары қоямыз.",
+      "А жоспары мен Б жоспары арасындағы негізгі айырмашылық - екіншісі тәуекелдірек."
     ],
     "c1": [
-      "La principale différence entre le droit civil et la common law est la source primordiale de la règle de droit.",
-      "La principale différence entre l'intelligence artificielle et l'intelligence humaine réside dans la capacité d'abstraction.",
-      "La principale différence entre ces deux modèles de gouvernance est le degré de décentralisation du pouvoir.",
-      "La principale différence entre la croissance économique et le développement durable est la prise en compte de la finitude des ressources.",
-      "La principale différence entre ces deux courants de pensée est leur conception du libre arbitre face au déterminisme social."
+      "Авторитарлық және демократиялық режимдер арасындағы негізгі айырмашылық - биліктің қалай бөлінетіндігінде.",
+      "Эмпирикалық және теориялық әдістер арасындағы негізгі айырмашылық - болжамдарды тексеру тәсілінде.",
+      "Қарыздық және үлестік құралдар арасындағы негізгі айырмашылық - эмитенттің міндеттемелер сипатында.",
+      "Жасанды және табиғи интеллект арасындағы негізгі айырмашылық - саналы тәжірибеге қабілеттілікте.",
+      "Бұл философиялық мектептер арасындағы негізгі айырмашылық - олардың ерік бостандығы ұғымын түсіндіруінде."
     ]
   },
   {
     "id": 4,
-    "pattern": "... est similaire à ... dans le sens où ...",
+    "pattern": "... ...-ға/-ге ұқсайды, өйткені ...",
     "translation": "... is similar to ... in that ...",
     "b1": [
-      "Le français est similaire à l'italien dans le sens où ce sont des langues latines.",
-      "Ce film est similaire au premier dans le sens où il est très drôle.",
-      "Ma maison est similaire à la tienne dans le sens où elle a trois chambres.",
-      "Le tennis est similaire au ping-pong dans le sens où on utilise une raquette.",
-      "Cuisiner est similaire à peindre dans le sens où c'est créatif."
+      "Бұл үй менікіне ұқсайды, өйткені ол ақ түсті.",
+      "Ол анасына ұқсайды, өйткені ол ән айтқанды жақсы көреді.",
+      "Орыс тілі поляк тіліне ұқсайды, өйткені онда күрделі сөздер көп.",
+      "Менің жұмысым ойынға ұқсайды, өйткені ол қызықты.",
+      "Бұл қала Парижге ұқсайды, өйткені онда дәмханалар көп."
     ],
     "b2": [
-      "Le marché actuel est similaire à celui de 2008 dans le sens où l'instabilité est forte.",
-      "Le télétravail est similaire au travail au bureau dans le sens où les objectifs restent les mêmes.",
-      "Cette nouvelle loi est similaire à la précédente dans le sens où elle vise à protéger les mineurs.",
-      "Le management de projet est similaire à la direction d'un orchestre dans le sens où il faut de la coordination.",
-      "La situation en Espagne est similaire à celle du Portugal dans le sens où le tourisme est vital."
+      "Жаңа жүйе ескісіне ұқсайды, өйткені интерфейсі өзгеріссіз қалды.",
+      "Бұл жағдай 2008 жылғы дағдарысқа ұқсайды, өйткені бағалар тез өсіп жатыр.",
+      "Менің басқару стилім сіздікіне ұқсайды, өйткені мен де командадағы сенімді бағалаймын.",
+      "Бұл кітап детективке ұқсайды, өйткені онда жұмбақтар көп.",
+      "Біздің жоба стартапқа ұқсайды, өйткені бізде ресурстар аз, бірақ идеялар көп."
     ],
     "c1": [
-      "La crise climatique est similaire à une pandémie dans le sens où elle nécessite une réponse globale coordonnée.",
-      "L'évolution de l'IA est similaire à la révolution industrielle dans le sens où elle bouleverse les structures sociales.",
-      "Cette approche philosophique est similaire au stoïcisme dans le sens où elle prône la maîtrise des émotions.",
-      "La structure de cette start-up est similaire à celle d'un organisme vivant dans le sens où elle s'adapte à son environnement.",
-      "L'économie numérique est similaire à l'alchimie dans le sens où elle tente de créer de la valeur à partir de l'immatériel."
+      "Қазіргі нарықтық құбылмалылық жүз жыл бұрынғы жағдайға ұқсайды, өйткені ол құрылымдық өзгерістерден туындаған.",
+      "Бұл нейрожелінің архитектурасы биологиялық мидың құрылымына ұқсайды, өйткені ол нейрондар қабаттарын пайдаланады.",
+      "Сіздің уәждеріңіз классикалық софизмге ұқсайды, өйткені олар жалған тұжырымдарға негізделген.",
+      "Бұл мемлекеттің саясаты протекционизмге ұқсайды, өйткені ол шетелдік тауарлардың кіруін шектейді.",
+      "Бұл биологиялық модель математикалық функцияға ұқсайды, өйткені оның нақты кіріс және шығыс параметрлері бар."
     ]
   },
   {
     "id": 5,
-    "pattern": "Alors que ... a X, ... a Y.",
+    "pattern": "...-да X болса, ...-да Y бар.",
     "translation": "While ... has X, ... has Y.",
     "b1": [
-      "Alors que Paris a la Tour Eiffel, Séoul a la tour Namsan.",
-      "Alors que j'ai un chat, mon ami a un chien.",
-      "Alors que ce gâteau a du chocolat, l'autre a des fruits.",
-      "Alors que l'avion a des ailes, l'hélicoptère a des pales.",
-      "Alors que le jour a le soleil, la nuit a la lune."
+      "Менде уақыт болса, досымда ақша бар.",
+      "Қалада шу болса, ауылда тыныштық бар.",
+      "Онда мысық болса, менде ит бар.",
+      "Фильмде дыбыс болса, кітапта қиял бар.",
+      "Әпкемде көйлек болса, ағамда костюм бар."
     ],
     "b2": [
-      "Alors que le secteur public a la sécurité de l'emploi, le secteur privé a souvent de meilleurs salaires.",
-      "Alors que ce modèle a une grande autonomie, l'autre a une vitesse de charge plus rapide.",
-      "Alors que l'Europe a une population vieillissante, l'Afrique a une population très jeune.",
-      "Alors que le marketing a pour but d'attirer, la vente a pour but de conclure.",
-      "Alors que la peinture à l'huile a un temps de séchage long, l'acrylique sèche très vite."
+      "Бірінші модельде қуатты процессор болса, екіншісінде тамаша камера бар.",
+      "Біздің бөлімде бюджет болса, сіздің бөлімде тәжірибелі қызметкерлер бар.",
+      "Бәсекелестерде төмен баға болса, бізде мінсіз бедел бар.",
+      "Еуропада тарих болса, Америкада заманауи технологиялар бар.",
+      "Бұл жобада әлеует болса, ана жобада дайын жоспар бар."
     ],
     "c1": [
-      "Alors que le libéralisme classique a pour pivot l'individu, le socialisme a pour socle la collectivité.",
-      "Alors que la recherche fondamentale a un horizon temporel long, la recherche appliquée a des objectifs immédiats.",
-      "Alors que ce traité a une portée symbolique forte, le protocole additionnel a une valeur juridique contraignante.",
-      "Alors que le système éducatif finlandais a pour priorité l'équité, le système coréen privilégie souvent l'excellence compétitive.",
-      "Alors que l'art classique a une visée esthétique de représentation, l'art moderne a une démarche conceptuelle de déconstruction."
+      "Дамыған елдерде жинақталған капитал болса, дамушы елдерде демографиялық дивиденд бар.",
+      "Монархияда мирасқорлық тұрақтылығы болса, республикада биліктің ауысып отыру тетіктері бар.",
+      "Классикалық музыкада қатаң форма болса, джазда импровизация еркіндігі бар.",
+      "Консерваторларда дәстүрге адалдық болса, либералдарда әлеуметтік реформаларға ұмтылыс бар.",
+      "Кванттық физикада ықтималдық тәсіл болса, классикалық механикада детерминизм бар."
     ]
   },
   {
     "id": 6,
-    "pattern": "D'une part ..., mais d'autre part, ...",
+    "pattern": "Бір жағынан ..., бірақ екінші жағынан, ...",
     "translation": "On the one hand ..., but on the other hand, ...",
     "b1": [
-      "D'une part j'aime voyager, mais d'autre part j'aime rester chez moi.",
-      "D'une part ce travail est dur, mais d'autre part le salaire est bon.",
-      "D'une part il veut sortir, mais d'autre part il est fatigué.",
-      "D'une part c'est bon pour la santé, mais d'autre part c'est cher.",
-      "D'une part je comprends, mais d'autre part je ne suis pas d'accord."
+      "Бір жағынан, менің ұйқым келеді, бірақ екінші жағынан, жұмыс істеу керек.",
+      "Бір жағынан, бұл арзан, бірақ екінші жағынан, сапасы нашар.",
+      "Бір жағынан, қалада көңілді, бірақ екінші жағынан, онда шулы.",
+      "Бір жағынан, жұмыс қиын, бірақ екінші жағынан, жалақы жоғары.",
+      "Бір жағынан, сені көргеніме қуаныштымын, бірақ екінші жағынан, мен бос емеспін."
     ],
     "b2": [
-      "D'une part, la technologie simplifie la vie, mais d'autre part, elle réduit nos interactions sociales.",
-      "D'une part, ce projet est innovant, mais d'autre part, il présente des risques financiers importants.",
-      "D'une part, le tourisme aide l'économie locale, mais d'autre part, il pollue l'environnement.",
-      "D'une part, je suis heureux de ma promotion, mais d'autre part, j'ai beaucoup plus de stress.",
-      "D'une part, nous devons agir vite, mais d'autre part, nous ne devons pas faire d'erreurs."
+      "Бір жағынан, қашықтан жұмыс істеу ыңғайлы, бірақ екінші жағынан, тікелей араласу жетіспейді.",
+      "Бір жағынан, біз жобаны ертең бастай аламыз, бірақ екінші жағынан, қателіктер қаупі жоғары.",
+      "Бір жағынан, жаңа заң құқықтарды қорғайды, бірақ екінші жағынан, ол бюрократияны қиындатады.",
+      "Бір жағынан, саяхат — бұл тәжірибе, бірақ екінші жағынан, бұл үлкен шығын.",
+      "Бір жағынан, жарнама керек, бірақ екінші жағынан, ол қолданушылардың жүйкесіне тиеді."
     ],
     "c1": [
-      "D'une part, la dématérialisation optimise les processus, mais d'autre part, elle accroît notre vulnérabilité cybernétique.",
-      "D'une part, la mondialisation favorise les échanges culturels, mais d'autre part, elle uniformise les modes de vie.",
-      "D'une part, l'IA augmente la productivité, mais d'autre part, elle soulève des questions éthiques sans précédent.",
-      "D'une part, nous prônons la transparence, mais d'autre part, nous devons protéger le secret industriel.",
-      "D'une part, l'austérité réduit la dette, mais d'autre part, elle bride l'investissement nécessaire à la croissance."
+      "Бір жағынан, жаһандану экономикалық өсуге ықпал етеді, бірақ екінші жағынан, ол мәдени бірегейліктің жоғалуына әкеледі.",
+      "Бір жағынан, жасанды интеллектті енгізу өнімділікті арттырады, бірақ екінші жағынан, ол жаппай жұмыссыздық қаупін тудырады.",
+      "Бір жағынан, деректердің ашықтығы қоғам үшін пайдалы, бірақ екінші жағынан, ол жеке өмірге қол сұғылмаушылық құқығын бұзады.",
+      "Бір жағынан, қатаң монетарлық саясат инфляцияны тежейді, бірақ екінші жағынан, ол инвестицияларды баяулатады.",
+      "Бір жағынан, бұл шешім этикалық тұрғыдан дұрыс көрінеді, бірақ екінші жағынан, оның салдары жойқын болуы мүмкін."
     ]
   },
   {
     "id": 7,
-    "pattern": "En comparaison avec ..., ...",
+    "pattern": "...-мен салыстырғанда, ...",
     "translation": "In comparison to ..., ...",
     "b1": [
-      "En comparaison avec l'année dernière, il fait plus froid maintenant.",
-      "En comparaison avec ma voiture, la tienne est très petite.",
-      "En comparaison avec ce restaurant, l'autre est moins cher.",
-      "En comparaison avec mon frère, je suis plus timide.",
-      "En comparaison avec le bus, le métro est plus propre."
+      "Мәскеумен салыстырғанда, менің қалам кішкентай.",
+      "Өткен жылмен салыстырғанда, мен көбірек оқи бастадым.",
+      "Шаймен салыстырғанда, кофе өте ащы.",
+      "Ағаммен салыстырғанда, мен өте тынышпын.",
+      "Қыспен салыстырғанда, көктем өте жылы."
     ],
     "b2": [
-      "En comparaison avec ses concurrents, cette entreprise offre un meilleur service client.",
-      "En comparaison avec le mois précédent, nos ventes ont augmenté de 15 %.",
-      "En comparaison avec l'ancienne version, ce logiciel est beaucoup plus intuitif.",
-      "En comparaison avec d'autres pays européens, le coût de la vie ici est raisonnable.",
-      "En comparaison avec mon ancien poste, j'ai maintenant beaucoup plus d'autonomie."
+      "Бәсекелестерімізбен салыстырғанда, біз жақсырақ қызмет көрсетеміз.",
+      "Алдыңғы нұсқамен салыстырғанда, бұл қосымша тұрақтырақ жұмыс істейді.",
+      "Дәстүрлі әдістермен салыстырғанда, онлайн-оқыту уақытты үнемдейді.",
+      "Сарапшылардың болжамдарымен салыстырғанда, нақты пайда жоғарырақ болды.",
+      "Басқа үміткерлермен салыстырғанда, сізде практикалық тәжірибе көбірек."
     ],
     "c1": [
-      "En comparaison avec les crises passées, celle-ci présente une dimension systémique inédite.",
-      "En comparaison avec le système éducatif traditionnel, l'apprentissage en ligne offre une flexibilité supérieure.",
-      "En comparaison avec les prévisions initiales, les résultats de l'audit sont particulièrement alarmants.",
-      "En comparaison avec une gestion centralisée, la décentralisation favorise l'innovation locale.",
-      "En comparaison avec le réalisme classique, le surréalisme explore les méandres de l'inconscient."
+      "Өткен онжылдықпен салыстырғанда, қоғамның цифрлану деңгейі геометриялық прогрессиямен өсті.",
+      "Көршілердің макроэкономикалық көрсеткіштерімен салыстырғанда, біздің еліміз тұрақтылық көрсетіп отыр.",
+      "Климаттың іргелі өзгерістерімен салыстырғанда, біздің қазіргі күш-жігеріміз жеткіліксіз болып көрінеді.",
+      "Архаикалық құқықтық нормалармен салыстырғанда, жаңа кодекс айтарлықтай алға басу болып табылады.",
+      "Жинақталған білім көлемімен салыстырғанда, біз әлі де ғаламды түсінудің табалдырығында тұрмыз."
     ]
   },
   {
     "id": 8,
-    "pattern": "Inversement, la situation avec ... est assez différente.",
+    "pattern": "Керісінше, ...-ға/-ге қатысты жағдай айтарлықтай ерекшеленеді.",
     "translation": "Conversely, the situation with ... is quite different.",
     "b1": [
-      "Inversement, la situation avec mon ami est assez différente.",
-      "Inversement, la situation avec ce projet est assez différente.",
-      "Inversement, la situation avec le temps est assez différente.",
-      "Inversement, la situation avec ma famille est assez différente.",
-      "Inversement, la situation avec ce restaurant est assez différente."
+      "Керісінше, жұмысқа қатысты жағдай айтарлықтай ерекшеленеді.",
+      "Керісінше, ауа райына қатысты жағдай айтарлықтай ерекшеленеді.",
+      "Керісінше, тамаққа қатысты жағдай айтарлықтай ерекшеленеді.",
+      "Керісінше, ақшаға қатысты жағдай айтарлықтай ерекшеленеді.",
+      "Керісінше, достарға қатысты жағдай айтарлықтай ерекшеленеді."
     ],
     "b2": [
-      "Inversement, la situation avec le marché asiatique est assez différente cette année.",
-      "Inversement, la situation avec les petites entreprises est assez différente de celle des multinationales.",
-      "Inversement, la situation avec le secteur du tourisme est assez différente depuis la crise.",
-      "Inversement, la situation avec les transports en commun est assez différente en banlieue.",
-      "Inversement, la situation avec nos clients fidèles est assez différente des nouveaux prospects."
+      "Керісінше, бұл өңірдегі шағын бизнеске қатысты жағдай астанадан айтарлықтай ерекшеленеді.",
+      "Керісінше, осы айдағы сатуға қатысты жағдай біздің күткенімізден айтарлықтай ерекшеленеді.",
+      "Керісінше, бұл елдегі қауіпсіздікке қатысты жағдай қауесеттерден айтарлықтай ерекшеленеді.",
+      "Керісінше, IT-секторындағы кадрларға қатысты жағдай басқа салалардан айтарлықтай ерекшеленеді.",
+      "Керісінше, біздің қаламыздағы экологияға қатысты жағдай жақсы жағына қарай айтарлықтай ерекшеленеді."
     ],
     "c1": [
-      "Inversement, la situation avec les pays émergents est assez différente en raison de leur croissance démographique.",
-      "Inversement, la situation avec les actifs immatériels est assez différente au regard de la comptabilité classique.",
-      "Inversement, la situation avec les énergies renouvelables est assez différente grâce aux subventions étatiques.",
-      "Inversement, la situation avec le droit d'auteur numérique est assez différente de celle du monde analogique.",
-      "Inversement, la situation avec la stabilité géopolitique actuelle est assez différente des prédictions de la guerre froide."
+      "Керісінше, жастар ортасындағы институттық сенімге қатысты жағдай аға буыннан айтарлықтай ерекшеленеді.",
+      "Керісінше, активтерді бөлуге қатысты жағдай егжей-тегжейлі талдау кезінде айтарлықтай ерекшеленеді.",
+      "Керісінше, бұл контекстегі адам құқықтарына қатысты жағдай декларативтік мәлімдемелерден айтарлықтай ерекшеленеді.",
+      "Керісінше, еуроаймақтағы инфляциялық қысымға қатысты жағдай АҚШ-тағы динамикадан айтарлықтай ерекшеленеді.",
+      "Керісінше, жаңартылатын энергия көздерін енгізуге қатысты жағдай үкімет саясатына байланысты айтарлықтай ерекшеленеді."
     ]
   },
   {
     "id": 9,
-    "pattern": "Ils partagent plusieurs caractéristiques communes, telles que ...",
+    "pattern": "Олардың ... сияқты бірнеше ортақ сипаттамалары бар.",
     "translation": "They share several common characteristics, such as ...",
     "b1": [
-      "Ils partagent plusieurs caractéristiques communes, telles que la couleur et la taille.",
-      "Ils partagent plusieurs caractéristiques communes, telles que le goût et l'odeur.",
-      "Ils partagent plusieurs caractéristiques communes, telles que l'amitié et le respect.",
-      "Ils partagent plusieurs caractéristiques communes, telles que le prix et le style.",
-      "Ils partagent plusieurs caractéristiques communes, telles que le talent et le travail."
+      "Олардың түсі мен өлшемі сияқты бірнеше ортақ сипаттамалары бар.",
+      "Олардың музыка мен спортқа деген сүйіспеншілігі сияқты бірнеше ортақ сипаттамалары бар.",
+      "Олардың бағасы мен сапасы сияқты бірнеше ортақ сипаттамалары бар.",
+      "Олардың дәмі мен иісі сияқты бірнеше ортақ сипаттамалары бар.",
+      "Олардың пішіні мен салмағы сияқты бірнеше ортақ сипаттамалары бар."
     ],
     "b2": [
-      "Ils partagent plusieurs caractéristiques communes, telles que la flexibilité et la réactivité face au marché.",
-      "Ils partagent plusieurs caractéristiques communes, telles que l'utilisation de matériaux recyclés et l'économie d'énergie.",
-      "Ils partagent plusieurs caractéristiques communes, telles que la passion pour l'art et l'engagement social.",
-      "Ils partagent plusieurs caractéristiques communes, telles que la facilité d'utilisation et le design épuré.",
-      "Ils partagent plusieurs caractéristiques communes, telles que la rigueur méthodologique et la clarté des objectifs."
+      "Олардың кестенің икемділігі мен қашықтан жұмыс істеу мүмкіндігі сияқты бірнеше ортақ сипаттамалары бар.",
+      "Олардың жоғары сенімділік пен пайдаланудың қарапайымдылығы сияқты бірнеше ортақ сипаттамалары бар.",
+      "Олардың клиентке бағдарлану мен инновациялық тәсіл сияқты бірнеше ортақ сипаттамалары бар.",
+      "Олардың қатаң дизайн мен премиум материалдарды пайдалану сияқты бірнеше ортақ сипаттамалары бар.",
+      "Олардың өсуге ұмтылу мен жаңа идеяларға ашықтық сияқты бірнеше ортақ сипаттамалары бар."
     ],
     "c1": [
-      "Ils partagent plusieurs caractéristiques communes, telles que la résilience structurelle et la capacité d'adaptation systémique.",
-      "Ils partagent plusieurs caractéristiques communes, telles que l'ancrage territorial et la volonté d'expansion internationale.",
-      "Ils partagent plusieurs caractéristiques communes, telles que la quête d'esthétisme et la remise en question des normes établies.",
-      "Ils partagent plusieurs caractéristiques communes, telles que la volatilité intrinsèque et la dépendance aux flux spéculatifs.",
-      "Ils partagent plusieurs caractéristiques communes, telles que la transparence algorithmique et la protection de la vie privée."
+      "Олардың дамудың бейсызық динамикасы мен сыртқы факторларға жоғары сезімталдығы сияқты бірнеше ортақ сипаттамалары бар.",
+      "Олардың гегемонияға ұмтылу мен дипломатияда жұмсақ күшті қолдану сияқты бірнеше ортақ сипаттамалары бар.",
+      "Олардың нарықтық жағдайларға бейімділігі мен орталықсыздандырылған басқару құрылымы сияқты бірнеше ортақ сипаттамалары бар.",
+      "Олардың эмпирикалық мәліметтерге сүйенуі мен ғылыми этиканы қатаң сақтауы сияқты бірнеше ортақ сипаттамалары бар.",
+      "Олардың дерексіздендірудің жоғары деңгейі мен метафоралық тілді қолдануы сияқты бірнеше ортақ сипаттамалары бар."
     ]
   },
   {
     "id": 10,
-    "pattern": "Le degré de ... est beaucoup plus grand dans ... que dans ...",
+    "pattern": "... деңгейі ...-ға/-ге қарағанда ...-да әлдеқайда жоғары.",
     "translation": "The degree of ... is much greater in ... than in ...",
     "b1": [
-      "Le degré de bruit est beaucoup plus grand dans la rue que dans la maison.",
-      "Le degré de chaleur est beaucoup plus grand dans la soupe que dans le thé.",
-      "Le degré de difficulté est beaucoup plus grand dans cet exercice que dans l'autre.",
-      "Le degré de joie est beaucoup plus grand dans le mariage que dans l'anniversaire.",
-      "Le degré de peur est beaucoup plus grand dans ce film que dans le livre."
+      "Шу деңгейі ауылға қарағанда қалада әлдеқайда жоғары.",
+      "Ыстық деңгейі мамырға қарағанда шілдеде әлдеқайда жоғары.",
+      "Күрделілік деңгейі анаған қарағанда бұл есепте әлдеқайда жоғары.",
+      "Қуаныш деңгейі жұмысқа қарағанда мерекеде әлдеқайда жоғары.",
+      "Қорқыныш деңгейі күндізге қарағанда түнде әлдеқайда жоғары."
     ],
     "b2": [
-      "Le degré d'implication est beaucoup plus grand dans une start-up que dans une grande entreprise.",
-      "Le degré d'automatisation est beaucoup plus grand dans cette usine que dans l'ancienne.",
-      "Le degré de satisfaction est beaucoup plus grand dans le groupe test que dans le groupe témoin.",
-      "Le degré de risque est beaucoup plus grand dans l'investissement boursier que dans l'épargne.",
-      "Le degré de pollution est beaucoup plus grand dans les centres urbains que dans les zones rurales."
+      "Тәуекел деңгейі банктік салымдарға қарағанда акцияларға инвестиция салуда әлдеқайда жоғары.",
+      "Жауапкершілік деңгейі қарапайым қызметкерге қарағанда директорда әлдеқайда жоғары.",
+      "Қатысу деңгейі ірі корпорацияларға қарағанда шағын командаларда әлдеқайда жоғары.",
+      "Автоматтандыру деңгейі ескі зауытқа қарағанда жаңасында әлдеқайда жоғары.",
+      "Клиенттердің қанағаттану деңгейі өткен жылға қарағанда биыл әлдеқайда жоғары."
     ],
     "c1": [
-      "Le degré d'incertitude est beaucoup plus grand dans les marchés émergents que dans les économies développées.",
-      "Le degré d'obsolescence programmée est beaucoup plus grand dans l'électronique grand public que dans l'industrie lourde.",
-      "Le degré de polarisation politique est beaucoup plus grand dans les réseaux sociaux que dans les médias traditionnels.",
-      "Le degré de résilience est beaucoup plus grand dans les écosystèmes diversifiés que dans les monocultures.",
-      "Le degré de transparence financière est beaucoup plus grand dans les sociétés cotées que dans les entreprises familiales."
+      "Әлеуметтік поляризация деңгейі провинциялық қалаларға қарағанда мегаполистерде әлдеқайда жоғары.",
+      "Мемлекеттің араласу деңгейі нарықтық экономикаға қарағанда жоспарлы экономикада әлдеқайда жоғары.",
+      "Бұл айнымалылар арасындағы корреляция деңгейі ұзақ мерзімді перспективаға қарағанда қысқа мерзімді перспективада әлдеқайда жоғары.",
+      "Белгісіздік деңгейі қалыптасқан бизнеске қарағанда стартаптың бастапқы кезеңінде әлдеқайда жоғары.",
+      "Когнитивті жүктеме деңгейі жазбаша аудармаға қарағанда ілеспе аудармада әлдеқайда жоғары."
     ]
   },
   {
     "id": 11,
-    "pattern": "Bien que ... soit vrai, nous devons également considérer ...",
+    "pattern": "... рас болғанымен, біз ...-ды/-ді де ескеруіміз керек.",
     "translation": "Although ... is true, we must also consider ...",
     "b1": [
-      "Bien que ce soit vrai, nous devons également considérer le prix.",
-      "Bien que tu aies raison, nous devons également considérer mon avis.",
-      "Bien que ce travail soit difficile, nous devons également considérer le plaisir.",
-      "Bien que l'avion soit rapide, nous devons également considérer la pollution.",
-      "Bien que ce film soit beau, nous devons également considérer sa durée."
+      "Бұл қымбат екені рас болғанымен, біз сапаны да ескеруіміз керек.",
+      "Оның ақылды екені рас болғанымен, біз оның тәжірибесін де ескеруіміз керек.",
+      "Бұл алыс екені рас болғанымен, біз жол жүру тәсілін де ескеруіміз керек.",
+      "Бұл дәмді екені рас болғанымен, біз денсаулыққа пайдасын да ескеруіміз керек.",
+      "Бұл жылдам екені рас болғанымен, біз қауіпсіздікті де ескеруіміз керек."
     ],
     "b2": [
-      "Bien que l'efficacité soit vraie, nous devons également considérer le bien-être des employés.",
-      "Bien que la hausse des ventes soit vraie, nous devons également considérer l'augmentation des coûts.",
-      "Bien que le succès soit vrai, nous devons également considérer la durabilité de notre modèle.",
-      "Bien que votre talent soit vrai, nous devons également considérer votre manque d'expérience.",
-      "Bien que ce pays soit riche, nous devons également considérer les inégalités sociales."
+      "Пайданың өскені рас болғанымен, біз артқан операциялық шығындарды да ескеруіміз керек.",
+      "Технологияның жаңа екені рас болғанымен, біз алғашқы қолданушылардың пікірлерін де ескеруіміз керек.",
+      "Жарнаманың жұмыс істегені рас болғанымен, біз клиенттердің ұзақ мерзімді адалдығын да ескеруіміз керек.",
+      "Ұсыныстың қызықты екені рас болғанымен, біз мәміленің заңды тәуекелдерін да ескеруіміз керек.",
+      "Уақыттың тығыз екені рас болғанымен, біз команданың моральдық жағдайын да ескеруіміз керек."
     ],
     "c1": [
-      "Bien que la croissance du PIB soit vraie, nous devons également considérer l'indice de développement humain.",
-      "Bien que la neutralité technologique soit vraie, nous devons également considérer les biais algorithmiques.",
-      "Bien que l'urgence économique soit vraie, nous devons également considérer les impératifs écologiques à long terme.",
-      "Bien que la liberté d'expression soit vraie, nous devons également considérer la responsabilité éthique des plateformes.",
-      "Bien que la souveraineté des États soit vraie, nous devons également considérer les normes du droit international."
+      "Экономикалық өсудің баяулағаны рас болғанымен, біз өнеркәсіптегі оң құрылымдық өзгерістерді де ескеруіміз керек.",
+      "Теорияның талғампаз екені рас болғанымен, біз соңғы эксперименттер барысында анықталған ауытқуларды да ескеруіміз керек.",
+      "Әлеуметтік қолдаудың маңызды екені рас болғанымен, біз бюджет тапшылығына ұзақ мерзімді әсерін де ескеруіміз керек.",
+      "Сыртқы қысымның күшейгені рас болғанымен, біз импортты алмастыру мүмкіндіктерін де ескеруіміз керек.",
+      "Тараптардың уәждері сенімді екені рас болғанымен, біз бұл даудың геосаяси контекстін де ескеруіміз керек."
     ]
   },
   {
     "id": 12,
-    "pattern": "Un point de divergence significatif est ...",
+    "pattern": "Айтарлықтай алшақтық нүктесі — бұл ...",
     "translation": "A significant point of divergence is ...",
     "b1": [
-      "Un point de divergence significatif est la couleur.",
-      "Un point de divergence significatif est le prix.",
-      "Un point de divergence significatif est la taille.",
-      "Un point de divergence significatif est l'heure du rendez-vous.",
-      "Un point de divergence significatif est le goût."
+      "Айтарлықтай алшақтық нүктесі — бұл тауардың бағасы.",
+      "Айтарлықтай алшақтық нүктесі — бұл кездесу уақыты.",
+      "Айтарлықтай алшақтық нүктесі — бұл ата-аналардың пікірі.",
+      "Айтарлықтай алшақтық нүктесі — бұл тамақтың дәмі.",
+      "Айтарлықтай алшақтық нүктесі — бұл демалыс орны."
     ],
     "b2": [
-      "Un point de divergence significatif est la méthode de gestion de l'équipe.",
-      "Un point de divergence significatif est l'approche du service après-vente.",
-      "Un point de divergence significatif est l'utilisation des nouvelles technologies.",
-      "Un point de divergence significatif est la vision à long terme du projet.",
-      "Un point de divergence significatif est le choix du public cible."
+      "Біздің жоспарларымыз арасындағы айтарлықтай алшақтық нүктесі — бұл жобаның бюджеті.",
+      "Біздің көзқарастарымыздағы айтарлықтай алшақтық нүктесі — бұл тәуекелге деген көзқарас.",
+      "Модельдер арасындағы айтарлықтай алшақтық нүктесі — бұл процессор жадының көлемі.",
+      "Келіссөздердегі айтарлықтай алшақтық нүктесі — бұл келісімшарттың төлем шарттары.",
+      "Есептердегі айтарлықтай алшақтық нүктесі — бұл пайданы есептеу әдістемесі."
     ],
     "c1": [
-      "Un point de divergence significatif est l'interprétation juridique de cette clause contractuelle.",
-      "Un point de divergence significatif est le degré d'intervention étatique préconisé par ces deux écoles économiques.",
-      "Un point de divergence significatif est le traitement des données personnelles au sein de ces deux architectures.",
-      "Un point de divergence significatif est la place accordée à l'intuition dans le processus de décision stratégique.",
-      "Un point de divergence significatif est la gestion des actifs immatériels lors d'une fusion-acquisition."
+      "Екі тұжырымдама арасындағы айтарлықтай алшақтық нүктесі — бұл мемлекеттің экономикадағы рөлін түсіну.",
+      "Куәгерлердің айғақтарындағы айтарлықтай алшақтық нүктесі — бұл оқиғаның басталуының нақты уақыты.",
+      "Даму стратегияларындағы айтарлықтай алшақтық нүктесі — бұл ішкі немесе сыртқы нарыққа бағытталу.",
+      "Теория мен практика арасындағы айтарлықтай алшақтық нүктесі — бұл адами фактордың әсері.",
+      "Киберқауіпсіздік тәсілдеріндегі айтарлықтай алшақтық нүктесі — бұл ыңғайлылық пен қорғалу арасындағы тепе-теңдік."
     ]
   },
   {
     "id": 13,
-    "pattern": "Ils sont fondamentalement similaires, à l'exception de ...",
+    "pattern": "Олар ...-ны/-ні қоспағанда, түбегейлі ұқсас.",
     "translation": "They are fundamentally similar, except for ...",
     "b1": [
-      "Ils sont fondamentalement similaires, à l'exception de la couleur.",
-      "Ils sont fondamentalement similaires, à l'exception du prix.",
-      "Ils sont fondamentalement similaires, à l'exception de la taille.",
-      "Ils sont fondamentalement similaires, à l'exception de l'odeur.",
-      "Ils sont fondamentalement similaires, à l'exception de la langue."
+      "Олар түсін қоспағанда, түбегейлі ұқсас.",
+      "Олар бағасын қоспағанда, түбегейлі ұқсас.",
+      "Олар өлшемін қоспағанда, түбегейлі ұқсас.",
+      "Олар дәмін қоспағанда, түбегейлі ұқсас.",
+      "Олар иісін қоспағанда, түбегейлі ұқсас."
     ],
     "b2": [
-      "Ils sont fondamentalement similaires, à l'exception de leur stratégie marketing sur les réseaux sociaux.",
-      "Ils sont fondamentalement similaires, à l'exception de la durée de garantie proposée aux clients.",
-      "Ils sont fondamentalement similaires, à l'exception de la source de financement utilisée pour le lancement.",
-      "Ils sont fondamentalement similaires, à l'exception du système d'exploitation installé par défaut.",
-      "Ils sont fondamentalement similaires, à l'exception de la composition chimique de certains composants."
+      "Олар интерфейстегі кейбір техникалық бөлшектерді қоспағанда, түбегейлі ұқсас.",
+      "Олар кепілдік қызмет көрсету шарттарын қоспағанда, түбегейлі ұқсас.",
+      "Олар клиенттермен жұмыс істеу тәсілін қоспағанда, түбегейлі ұқсас.",
+      "Олар еңбек шартындағы кейбір тармақтарды қоспағанда, түбегейлі ұқсас.",
+      "Олар ілгерілетудің маркетингтік стратегиясын қоспағанда, түбегейлі ұқсас."
     ],
     "c1": [
-      "Ils sont fondamentalement similaires, à l'exception de leur approche de la responsabilité sociétale des entreprises.",
-      "Ils sont fondamentalement similaires, à l'exception de la hiérarchisation de leurs priorités stratégiques respectives.",
-      "Ils sont fondamentalement similaires, à l'exception de l'influence culturelle dominante qui imprègne leur management.",
-      "Ils sont fondamentalement similaires, à l'exception de leur degré de conformité aux normes environnementales internationales.",
-      "Ils sont fondamentalement similaires, à l'exception de la flexibilité de leur chaîne logistique face aux crises."
+      "Олар жүйе өзегі деңгейіндегі архитектуралық шешімдерді қоспағанда, түбегейлі ұқсас.",
+      "Олар егемендік пен тәуелсіздік ұғымдарын түсіндіруді қоспағанда, түбегейлі ұқсас.",
+      "Олар зерттеулер жүргізудегі этикалық шектеулерді қоспағанда, түбегейлі ұқсас.",
+      "Олар ведомстволар арасындағы өкілеттіктерді бөлу тетіктерін қоспағанда, түбегейлі ұқсас.",
+      "Олар өңірдің экожүйесіне ұзақ мерзімді әсерін қоспағанда, түбегейлі ұқсас."
     ]
   },
   {
     "id": 14,
-    "pattern": "... est beaucoup plus efficace que ... parce que ...",
+    "pattern": "... ...-ға/-ге қарағанда әлдеқайда тиімді, өйткені ...",
     "translation": "... is far more effective than ... because ...",
     "b1": [
-      "Le train est beaucoup plus efficace que la voiture parce que c'est plus rapide.",
-      "Le café est beaucoup plus efficace que le thé parce que j'ai plus d'énergie.",
-      "Ce couteau est beaucoup plus efficace que l'autre parce qu'il coupe mieux.",
-      "Cette méthode est beaucoup plus efficace que la vieille parce qu'on gagne du temps.",
-      "Le dictionnaire est beaucoup plus efficace que Google parce qu'il y a plus d'exemples."
+      "Пойыз машинаға қарағанда әлдеқайда тиімді, өйткені кептеліс жоқ.",
+      "Бұл әдіс анаған қарағанда әлдеқайда тиімді, өйткені ол жылдамырақ.",
+      "Таңертеңгі спорт кешкіге қарағанда әлдеқайда тиімді, өйткені ол күш береді.",
+      "Кофе шайға қарағанда әлдеқайда тиімді, өйткені ол ащы (күшті).",
+      "Кеңседегі жұмыс үйдегіге қарағанда әлдеқайда тиімді, өйткені онда тыныштық бар."
     ],
     "b2": [
-      "La publicité en ligne est beaucoup plus efficace que la télévision parce qu'elle cible mieux le public.",
-      "Le télétravail est beaucoup plus efficace que le présentiel parce qu'il réduit les temps de trajet.",
-      "Ce nouveau moteur est beaucoup plus efficace que l'ancien parce qu'il consomme moins de carburant.",
-      "La communication directe est beaucoup plus efficace que les emails parce qu'elle évite les malentendus.",
-      "L'apprentissage par la pratique est beaucoup plus efficace que la théorie seule parce qu'on retient mieux."
+      "Нысаналы жарнама баннерлік жарнамаға қарағанда әлдеқайда тиімді, өйткені ол дәл нысанаға тиеді.",
+      "Жаңа бағдарламалық жасақтама ескісіне қарағанда әлдеқайда тиімді, өйткені ол есептерді автоматтандырады.",
+      "Вертикалды басқару горизонталдыға қарағанда әлдеқайда тиімді, өйткені шешімдер тезірек қабылданады.",
+      "Күндізгі оқу қашықтан оқуға қарағанда әлдеқайда тиімді, өйткені мұғаліммен тікелей байланыс бар.",
+      "Күн энергиясы көмір энергиясына қарағанда әлдеқайда тиімді, өйткені ол экологиялық таза."
     ],
     "c1": [
-      "La tarification au carbone est beaucoup plus efficace que les subventions parce qu'elle internalise les externalités négatives.",
-      "La structure décentralisée est beaucoup plus efficace que la bureaucratie parce qu'elle favorise l'agilité décisionnelle.",
-      "Le préventif est beaucoup plus efficace que le curatif parce qu'il réduit les coûts sociaux à long terme.",
-      "La formation continue est beaucoup plus efficace que la formation initiale ponctuelle parce qu'elle s'adapte aux ruptures technologiques.",
-      "Le multilatéralisme est beaucoup plus efficace que l'isolationnisme parce qu'il permet de traiter les enjeux transfrontaliers."
+      "Терең оқыту әдісі дәстүрлі алгоритмдерге қарағанда әлдеқайда тиімді, өйткені ол заңдылықтарды жақсырақ таниды.",
+      "Шешім қабылдаудың орталықсыздандырылған моделі қатаң иерархияға қарағанда әлдеқайда тиімді, өйткені ол бейімделуді арттырады.",
+      "Атаулы әлеуметтік көмек тікелей субсидияларға қарағанда әлдеқайда тиімді, өйткені ол мақсатсыз шығындарды азайтады.",
+      "Маркетингке интеграцияланған тәсіл шашыраңқы науқандарға қарағанда әлдеқайда тиімді, өйткені ол бренд синергиясын тудырады.",
+      "Профилактикалық медицина асқынған ауруларды емдеуге қарағанда әлдеқайда тиімді, өйткені ол аз шығынмен өмір сүру сапасын сақтайды."
     ]
   },
   {
     "id": 15,
-    "pattern": "Nous pouvons établir un parallèle entre ... et ...",
+    "pattern": "Біз ... мен ... арасында параллель жүргізе аламыз.",
     "translation": "We can draw a parallel between ... and ...",
     "b1": [
-      "Nous pouvons établir un parallèle entre ton histoire et mon histoire.",
-      "Nous pouvons établir un parallèle entre ce film et la vie réelle.",
-      "Nous pouvons établir un parallèle entre le football et la guerre.",
-      "Nous pouvons établir un parallèle entre apprendre une langue et apprendre la musique.",
-      "Nous pouvons établir un parallèle entre la cuisine et la chimie."
+      "Біз бұл кітап пен ана фильм арасында параллель жүргізе аламыз.",
+      "Біз оның өмірі мен менің өмірім арасында параллель жүргізе аламыз.",
+      "Біз футбол мен өмір арасында параллель жүргізе аламыз.",
+      "Біз жұмыс пен оқу арасында параллель жүргізе аламыз.",
+      "Біз Мәскеу мен Лондон арасында параллель жүргізе аламыз."
     ],
     "b2": [
-      "Nous pouvons établir un parallèle entre la crise de 1929 et la situation actuelle.",
-      "Nous pouvons établir un parallèle entre le succès de cette marque et celui de son concurrent.",
-      "Nous pouvons établir un parallèle entre l'éducation des enfants et la gestion d'une équipe.",
-      "Nous pouvons établir un parallèle entre le cycle de vie d'un produit et celui d'une plante.",
-      "Nous pouvons établir un parallèle entre la structure d'une ville et celle d'un réseau informatique."
+      "Біз интернеттің дамуы мен теледидардың пайда болуы арасында параллель жүргізе аламыз.",
+      "Біз компанияның құрылымы мен отбасылық қарым-қатынастар арасында параллель жүргізе аламыз.",
+      "Біз қазіргі экономикалық цикл мен 90-шы жылдардағы оқиғалар арасында параллель жүргізе аламыз.",
+      "Біз бұл ойынның стратегиясы мен нақты бизнесті жүргізу арасында параллель жүргізе аламыз.",
+      "Біз сатып алушылардың офлайндағы және онлайндағы мінез-құлқы арасында параллель жүргізе аламыз."
     ],
     "c1": [
-      "Nous pouvons établir un parallèle entre la chute de l'Empire romain et certains déclins contemporains.",
-      "Nous pouvons établir un parallèle entre la plasticité cérébrale et la capacité d'innovation des organisations.",
-      "Nous pouvons établir un parallèle entre la sélection naturelle et la survie des entreprises en période de crise.",
-      "Nous pouvons établir un parallèle entre l'architecture gothique et la structure logique de la scolastique.",
-      "Nous pouvons établir un parallèle entre les mécanismes de l'addiction numérique et ceux des jeux de hasard."
+      "Біз Рим империясының құлауы мен жаһанданудың қазіргі дағдарыстары арасында параллель жүргізе аламыз.",
+      "Біз эволюция теориясы мен машиналық оқыту алгоритмдерінің дамуы арасында параллель жүргізе аламыз.",
+      "Біз лингвистикалық құрылымдар мен адамның ойлау процестері арасында параллель жүргізе аламыз.",
+      "Біз саяси популизм мен жаппай тұтынудың маркетингтік стратегиялары арасында параллель жүргізе аламыз.",
+      "Біз готикалық соборлардың архитектурасы мен заманауи зәулім ғимараттар арасында көкке ұмтылу тұрғысынан параллель жүргізе аламыз."
     ]
   },
   {
     "id": 16,
-    "pattern": "Ni ... ni ... ne fournit ...",
+    "pattern": "... де, ... да ...-ды/-ді қамтамасыз етпейді.",
     "translation": "Neither ... nor ... provides ...",
     "b1": [
-      "Ni ce restaurant ni l'autre ne fournit de café.",
-      "Ni lui ni moi ne fournit d'aide.",
-      "Ni le train ni le bus ne fournit de repas.",
-      "Ni mon père ni ma mère ne fournit d'argent.",
-      "Ni le livre ni le film ne fournit d'explication."
+      "Шай да, кофе де тыныштықты қамтамасыз етпейді.",
+      "Жұмыс та, хобби де көп ақшаны қамтамасыз етпейді.",
+      "Бұл үй де, ана үй де жайлылықты қамтамасыз етпейді.",
+      "Жаз да, қыс та тамаша ауа райын қамтамасыз етпейді.",
+      "Дәрігер де, дәрі де тез жазылуды қамтамасыз етпейді."
     ],
     "b2": [
-      "Ni cette option ni la suivante ne fournit de garantie de réussite à 100 %.",
-      "Ni le contrat actuel ni le nouveau ne fournit de protection contre l'inflation.",
-      "Ni ce logiciel ni son concurrent ne fournit de support technique le dimanche.",
-      "Ni l'un ni l'autre ne fournit de solution satisfaisante à notre problème de budget.",
-      "Ni la publicité papier ni la radio ne fournit un ciblage aussi précis qu'internet."
+      "Бірінші стратегия да, екіншісі де бұл нарықта кепілдендірілген сәттілікті қамтамасыз етпейді.",
+      "Жоғары жалақы да, мәртебе де жұмыстан толық қанағаттануды қамтамасыз етпейді.",
+      "Қазіргі жоспар да, оның баламасы да деректердің толық қауіпсіздігін қамтамасыз етпейді.",
+      "Газеттегі жарнама да, радиодағы да қажетті аудиторияны қамтуды қамтамасыз етпейді.",
+      "Бұл заң да, оған енгізілген түзетулер де сыбайлас жемқорлық мәселесін шешуді қамтамасыз етпейді."
     ],
     "c1": [
-      "Ni le néolibéralisme ni le protectionnisme pur ne fournit de réponse adéquate aux enjeux climatiques.",
-      "Ni l'approche par les coûts ni l'approche par la valeur ne fournit une estimation exacte de cet actif immatériel.",
-      "Ni la science ni la philosophie ne fournit de certitude absolue sur l'origine de la conscience.",
-      "Ni ce traité de paix ni l'accord commercial ne fournit de cadre stable pour la région.",
-      "Ni l'intelligence artificielle générative ni l'analyse prédictive ne fournit une compréhension empathique du réel."
+      "Қатаң цензура да, толық сөз бостандығы да ақпараттың абсолютті объективтілігін қамтамасыз етпейді.",
+      "Либералды экономикалық модель де, мемлекеттік реттеу де ұлттың автоматты түрде гүлденуін қамтамасыз етпейді.",
+      "Эмпирикалық тәжірибе де, таза теориялау да абсолютті шындықты тануды қамтамасыз етпейді.",
+      "Технологиялық үстемдік те, сандық басымдық та қазіргі гибридті соғыста жеңісті қамтамасыз етпейді.",
+      "Протекционистік шаралар да, ашық нарықтар да жаһандық экономикалық күйзелістерден қорғауды қамтамасыз етпейді."
     ]
   },
   {
     "id": 17,
-    "pattern": "Mis en balance avec ..., ... semble être ...",
+    "pattern": "...-мен салыстырғанда, ... ... болып көрінеді.",
     "translation": "When balanced against ..., ... appears to be ...",
     "b1": [
-      "Mis en balance avec le prix, ce gâteau semble être bon.",
-      "Mis en balance avec la pluie, ce voyage semble être triste.",
-      "Mis en balance avec ton travail, mon travail semble être facile.",
-      "Mis en balance avec le soleil, le vent semble être froid.",
-      "Mis en balance avec le bus, le train semble être mieux."
+      "Үймен салыстырғанда, бөлме кішкентай болып көрінеді.",
+      "Әкесімен салыстырғанда, бала өте жас болып көрінеді.",
+      "Өткенмен салыстырғанда, қазір бәрі оңай болып көрінеді.",
+      "Жұмыспен салыстырғанда, демалыс қысқа болып көрінеді.",
+      "Мәскеумен салыстырғанда, менің қалам тыныш болып көрінеді."
     ],
     "b2": [
-      "Mis en balance avec les risques, ce profit semble être très intéressant.",
-      "Mis en balance avec la concurrence, notre produit semble être le plus innovant.",
-      "Mis en balance avec les efforts fournis, le résultat semble être décevant.",
-      "Mis en balance avec les autres candidats, votre profil semble être le plus complet.",
-      "Mis en balance avec les avantages, le coût de cet abonnement semble être excessif."
+      "Алдыңғы жобамен салыстырғанда, бұл ауқымдырақ және күрделірек болып көрінеді.",
+      "Бәсекелестермен салыстырғанда, біздің ұсыныс клиенттер үшін тиімдірек болып көрінеді.",
+      "Өткен жылмен салыстырғанда, нарықтағы жағдай тұрақтырақ болып көрінеді.",
+      "Біздің күткенімізбен салыстырғанда, нәтиже толықтай қолайлы болып көрінеді.",
+      "Дәстүрлі банкпен салыстырғанда, финтех-стартап инновациялық болып көрінеді."
     ],
     "c1": [
-      "Mis en balance avec l'urgence écologique, cette réforme semble être une demi-mesure dérisoire.",
-      "Mis en balance avec les enjeux géopolitiques, ce compromis semble être une nécessité stratégique.",
-      "Mis en balance avec la volatilité du marché, cet investissement semble être d'une prudence exemplaire.",
-      "Mis en balance avec les impératifs de sécurité, la restriction des libertés semble être disproportionnée.",
-      "Mis en balance avec le potentiel de croissance, la dette actuelle semble être soutenable."
+      "Болмыстың іргелі мәселелерімен салыстырғанда, бұл саяси даулар өткінші болып көрінеді.",
+      "Ғаламның ауқымымен салыстырғанда, біздің планетамыз кеңістіктегі кішкентай ғана нүкте болып көрінеді.",
+      "Өткеннің түбегейлі реформаларымен салыстырғанда, қазіргі өзгерістер тек косметикалық түзетулер болып көрінеді.",
+      "Жасанды интеллектті енгізудің ықтимал тәуекелдерімен салыстырғанда, қазіргі киберқауіпсіздік мәселелері шамалы болып көрінеді.",
+      "Нарықтың қатаң талаптарымен салыстырғанда, сіздің ішкі саясатыңыз тым либералды болып көрінеді."
     ]
   },
   {
     "id": 18,
-    "pattern": "Il y a un contraste frappant dans leur approche de ...",
+    "pattern": "Олардың ...-ға/-ге деген көзқарасында айқын қарама-қайшылық бар.",
     "translation": "There is a stark contrast in their approach to ...",
     "b1": [
-      "Il y a un contraste frappant dans leur approche de l'éducation.",
-      "Il y a un contraste frappant dans leur approche du sport.",
-      "Il y a un contraste frappant dans leur approche de la cuisine.",
-      "Il y a un contraste frappant dans leur approche de l'argent.",
-      "Il y a un contraste frappant dans leur approche de l'amitié."
+      "Олардың жұмысқа деген көзқарасында айқын қарама-қайшылық бар.",
+      "Олардың тамаққа деген көзқарасында айқын қарама-қайшылық бар.",
+      "Олардың ақшаға деген көзқарасында айқын қарама-қайшылық бар.",
+      "Олардың спортқа деген көзқарасында айқын қарама-қайшылық бар.",
+      "Олардың өмірге деген көзқарасында айқын қарама-қайшылық бар."
     ],
     "b2": [
-      "Il y a un contraste frappant dans leur approche du service après-vente.",
-      "Il y a un contraste frappant dans leur approche du management de crise.",
-      "Il y a un contraste frappant dans leur approche de la publicité numérique.",
-      "Il y a un contraste frappant dans leur approche de la flexibilité au travail.",
-      "Il y a un contraste frappant dans leur approche de la protection de l'environnement."
+      "Олардың персоналды басқару мен қызметкерлерді ынталандыруға деген көзқарасында айқын қарама-қайшылық бар.",
+      "Олардың өңірдегі экологиялық мәселелерді шешуге деген көзқарасында айқын қарама-қайшылық бар.",
+      "Олардың маркетинг пен тауарларды интернетте ілгерілетуге деген көзқарасында айқын қарама-қайшылық бар.",
+      "Олардың клиенттерге қызмет көрсету мен шағымдарды өңдеуге деген көзқарасында айқын қарама-қайшылық бар.",
+      "Олардың бюджетті жоспарлау мен ресурстарды бөлуге деген көзқарасында айқын қарама-қайшылық бар."
     ],
     "c1": [
-      "Il y a un contraste frappant dans leur approche de la régulation des marchés financiers.",
-      "Il y a un contraste frappant dans leur approche de l'éthique appliquée à l'intelligence artificielle.",
-      "Il y a un contraste frappant dans leur approche de la souveraineté numérique nationale.",
-      "Il y a un contraste frappant dans leur approche de la redistribution des richesses au niveau mondial.",
-      "Il y a un contraste frappant dans leur approche de la préservation de la biodiversité urbaine."
+      "Олардың халықаралық құқық пен егемендікті түсіндіруге деген көзқарасында айқын қарама-қайшылық бар.",
+      "Олардың іргелі зерттеулер мен қолданбалы әзірлемелерге деген көзқарасында айқын қарама-қайшылық бар.",
+      "Олардың әлеуметтік әділеттілік пен гендерлік теңдік мәселелеріне деген көзқарасында айқын қарама-қайшылық бар.",
+      "Олардың мигранттарды ұлттық мәдениетке интеграциялауға деген көзқарасында айқын қарама-қайшылық бар.",
+      "Олардың жоғары белгісіздік жағдайында ұзақ мерзімді жоспарлауға деген көзқарасында айқын қарама-қайшылық бар."
     ]
   },
   {
     "id": 19,
-    "pattern": "La similitude réside dans le fait que ...",
+    "pattern": "Ұқсастық - ...-да/-де.",
     "translation": "The similarity lies in the fact that ...",
     "b1": [
-      "La similitude réside dans le fait que les deux sont rouges.",
-      "La similitude réside dans le fait que nous aimons la pizza.",
-      "La similitude réside dans le fait qu'il pleut souvent ici.",
-      "La similitude réside dans le fait que c'est gratuit.",
-      "La similitude réside dans le fait que les deux sont des chiens."
+      "Ұқсастық - екеуінің де қызыл түсті екендігінде.",
+      "Ұқсастық - екеуміздің де киноны жақсы көретіндігімізде.",
+      "Ұқсастық - бұл қалалардың ескі екендігінде.",
+      "Ұқсастық - жұмыстың қызықты екендігінде.",
+      "Ұқсастық - мұның тегін екендігінде."
     ],
     "b2": [
-      "La similitude réside dans le fait que les deux entreprises visent le même public jeune.",
-      "La similitude réside dans le fait que ces deux projets ont besoin d'un financement externe.",
-      "La similitude réside dans le fait que les deux pays ont une forte tradition gastronomique.",
-      "La similitude réside dans le fait que les deux logiciels utilisent la même base de données.",
-      "La similitude réside dans le fait que ces deux candidats manquent d'expérience de terrain."
+      "Ұқсастық - екі компанияның да халықаралық нарыққа бағытталғандығында.",
+      "Ұқсастық - екі үміткердің де сату саласында үлкен тәжірибесі бар екендігінде.",
+      "Ұқсастық - екі модельдің де бірдей операциялық чипті қолданатындығында.",
+      "Ұқсастық - екі жобаның да қалалық инфрақұрылымды жақсартуға бағытталғандығында.",
+      "Ұқсастық - екі жағдайда да сәтсіздіктің себебі адами фактор болғандығында."
     ],
     "c1": [
-      "La similitude réside dans le fait que les deux théories postulent une finitude des ressources.",
-      "La similitude réside dans le fait que ces deux courants artistiques rejettent le classicisme académique.",
-      "La similitude réside dans le fait que les deux systèmes juridiques protègent la propriété intellectuelle.",
-      "La similitude réside dans le fait que ces deux crises économiques ont été déclenchées par une bulle spéculative.",
-      "La similitude réside dans le fait que les deux modèles de gouvernance prônent une transparence accrue."
+      "Ұқсастық - екі философиялық жүйенің де рухтың материядан басымдығын мойындайтындығында.",
+      "Ұқсастық - екі макроэкономикалық дағдарыстың да жылжымайтын мүлік нарығындағы көпіршіктен туындағандығында.",
+      "Ұқсастық - екі саяси партияның да ұқсас популистік риториканы қолданатындығында.",
+      "Ұқсастық - екі ғылыми мектептің де Поппер бойынша фальсификация принципіне сүйенетіндігінде.",
+      "Ұқсастық - екі экожүйенің де сыртқы күйзелістерге жоғары төзімділік көрсететіндігінде."
     ]
   },
   {
     "id": 20,
-    "pattern": "Comparé côte à côte, ... surpasse clairement ...",
+    "pattern": "Қатар қойып салыстырғанда, ... ...-дан/-ден анық асып түседі.",
     "translation": "Compared side by side, ... clearly outperforms ...",
     "b1": [
-      "Comparé côte à côte, ce gâteau surpasse clairement l'autre.",
-      "Comparé côte à côte, l'avion surpasse clairement le bus.",
-      "Comparé côte à côte, ce film surpasse clairement le livre.",
-      "Comparé côte à côte, mon vélo surpasse clairement le tien.",
-      "Comparé côte à côte, ce café surpasse clairement le thé."
+      "Қатар қойып салыстырғанда, бұл телефон анадан анық асып түседі.",
+      "Қатар қойып салыстырғанда, біздің команда олардан анық асып түседі.",
+      "Қатар қойып салыстырғанда, бұл торт дәмі бойынша анадан анық асып түседі.",
+      "Қатар қойып салыстырғанда, бұл жұмыс өткен жұмыстан анық асып түседі.",
+      "Қатар қойып салыстырғанда, бұл жоспар сенікінен анық асып түседі."
     ],
     "b2": [
-      "Comparé côte à côte, ce nouveau smartphone surpasse clairement le modèle de l'an dernier.",
-      "Comparé côte à côte, la qualité de ce tissu surpasse clairement celle du concurrent.",
-      "Comparé côte à côte, l'efficacité de cette méthode surpasse clairement la méthode traditionnelle.",
-      "Comparé côte à côte, le confort de cette voiture surpasse clairement celui de l'ancienne.",
-      "Comparé côte à côte, le talent de cet artiste surpasse clairement celui des autres participants."
+      "Қатар қойып салыстырғанда, кроссовканың жаңа моделі жайлылық бойынша ескісінен анық асып түседі.",
+      "Қатар қойып салыстырғанда, бұл емдеу әдісі дәстүрлі тәсілдерден анық асып түседі.",
+      "Қатар қойып салыстырғанда, бұл автомобильдің құрастырылу сапасы баламаларынан анық асып түседі.",
+      "Қатар қойып салыстырғанда, бұл қонақүйдегі сервис қонақтардың күткенінен анық асып түседі.",
+      "Қатар қойып салыстырғанда, біздің қосымшаның интерфейсі ыңғайлылық бойынша бәсекелестерден анық асып түседі."
     ],
     "c1": [
-      "Comparé côte à côte, cet algorithme de compression surpasse clairement ses prédécesseurs en termes de rapidité.",
-      "Comparé côte à côte, ce plan de relance économique surpasse clairement les propositions de l'opposition.",
-      "Comparé côte à côte, la résilience de ce modèle économique surpasse clairement celle des systèmes centralisés.",
-      "Comparé côte à côte, l'impact environnemental de ce processus surpasse clairement les normes actuelles.",
-      "Comparé côte à côte, la pertinence stratégique de cette fusion surpasse clairement les risques potentiels identifiés."
+      "Қатар қойып салыстырғанда, бұл дағдарысқа қарсы бағдарламаның тиімділігі баламалы шаралардан анық асып түседі.",
+      "Қатар қойып салыстырғанда, бұл ЖИ жүйесінің зияткерлік әлеуеті алдыңғы нұсқалардан анық асып түседі.",
+      "Қатар қойып салыстырғанда, бұл талдау құралының дәлдігі сарапшылық бағалаудан анық асып түседі.",
+      "Қатар қойып салыстырғанда, бұл заң жобасының пысықталу тереңдігі барлық өткен бастамалардан анық асып түседі.",
+      "Қатар қойып салыстырғанда, жаңа кеңседегі жұмыс кеңістігінің эргономикасы ескі стандарттардан анық асып түседі."
     ]
   }
 ]

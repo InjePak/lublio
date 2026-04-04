@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "... konusundaki yardımınız için gerçekten minnettarım",
+    "translation": "I truly appreciate your help with ....",
+    "b1": [
+      "Ev ödevi konusundaki yardımınız için gerçekten minnettarım.",
+      "Yeni daireye taşınma konusundaki yardımınız için gerçekten minnettarım.",
+      "Türkçe öğrenme konusundaki yardımınız için gerçekten minnettarım.",
+      "Alışveriş yapma konusundaki yardımınız için gerçekten minnettarım.",
+      "Partiyi organize etme konusundaki yardımınız için gerçekten minnettarım."
+    ],
+    "b2": [
+      "Bu karmaşık raporu hazırlama konusundaki yardımınız için gerçekten minnettarım.",
+      "Sitedeki teknik sorunları çözme konusundaki yardımınız için gerçekten minnettarım.",
+      "Kurumsal kültüre uyum sağlama konusundaki yardımınız için gerçekten minnettarım.",
+      "Vize için önemli belgeleri çevirme konusundaki yardımınız için gerçekten minnettarım.",
+      "Yeni iş ortakları bulma konusundaki yardımınız için gerçekten minnettarım."
+    ],
+    "c1": [
+      "Şirketimizin stratejik risklerini analiz etme konusundaki yardımınız için gerçekten minnettarım.",
+      "Bu hassas çıkar çatışmasını çözme konusundaki yardımınız için gerçekten minnettarım.",
+      "Yeni pazarlama paradigmasını formüle etme konusundaki yardımınız için gerçekten minnettarım.",
+      "Erken aşamada girişim sermayesi çekme konusundaki yardımınız için gerçekten minnettarım.",
+      "Kriz durumunda lojistik zincirlerini optimize etme konusundaki yardımınız için gerçekten minnettarım."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "... konusunda harika bir yeteneğiniz var",
+    "translation": "You have a remarkable talent for ...",
+    "b1": [
+      "Müzik konusunda harika bir yeteneğiniz var.",
+      "Resim yapma konusunda harika bir yeteneğiniz var.",
+      "Spor konusunda harika bir yeteneğiniz var.",
+      "Yemek pişirme konusunda harika bir yeteneğiniz var.",
+      "Dil öğrenme konusunda harika bir yeteneğiniz var."
+    ],
+    "b2": [
+      "Büyük bir kitle önünde topluluk önünde konuşma konusunda harika bir yeteneğiniz var.",
+      "Karmaşık mantık problemlerini çözme konusunda harika bir yeteneğiniz var.",
+      "Takımda rahat bir atmosfer yaratma konusunda harika bir yeteneğiniz var.",
+      "İnandırıcı metinler yazma konusunda harika bir yeteneğiniz var.",
+      "Fotoğraf çekme ve güzel anları yakalama konusunda harika bir yeteneğiniz var."
+    ],
+    "c1": [
+      "Belirsizlik durumunda stratejik planlama konusunda harika bir yeteneğiniz var.",
+      "Karmaşık felsefi metinleri yapı sökümüne uğratma konusunda harika bir yeteneğiniz var.",
+      "Geleceğin pazar trendlerini sezgisel olarak anlama konusunda harika bir yeteneğiniz var.",
+      "Çapraz fonksiyonlu ekipleri yönetme konusunda harika bir yeteneğiniz var.",
+      "Dağınık verileri bütünsel bir teoriye entegre etme konusunda harika bir yeteneğiniz var."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "...manız/meniz çok ince bir düşünceydi",
+    "translation": "That was incredibly thoughtful of you to ...",
+    "b1": [
+      "Bana çiçek almanız çok ince bir düşünceydi.",
+      "Çantalarda bana yardım etmeniz çok ince bir düşünceydi.",
+      "Beni bugün aramanız çok ince bir düşünceydi.",
+      "Beni sinemaya davet etmeniz çok ince bir düşünceydi.",
+      "Bana çay getirmeniz çok ince bir düşünceydi."
+    ],
+    "b2": [
+      "Doğum günümü hatırlamanız çok ince bir düşünceydi.",
+      "Projemdeki hatayı fark etmeniz çok ince bir düşünceydi.",
+      "Böylesine zor bir anda yardım teklif etmeniz çok ince bir düşünceydi.",
+      "Halimi hatırımı sormanız çok ince bir düşünceydi.",
+      "Raporu önceden hazırlamanız çok ince bir düşünceydi."
+    ],
+    "c1": [
+      "Akşam yemeği siparişi verirken tüm diyet kısıtlamalarımı dikkate almanız çok ince bir düşünceydi.",
+      "Anlaşma öncesinde yasal çerçevenin nüanslarına dikkat etmeniz çok ince bir düşünceydi.",
+      "Görüşmelerimizin gizliliğini sağlamanız çok ince bir düşünceydi.",
+      "Sistemin çökmesi durumunda yedek bir plan düşünmeniz çok ince bir düşünceydi.",
+      "Sunumu dinleyicilerin kültürel bağlamına uyarlamanız çok ince bir düşünceydi."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "...manızdan/menizden dolayı çok minnettarım",
+    "translation": "I'm so grateful for the fact that ...",
+    "b1": [
+      "Bugün gelmenizden dolayı çok minnettarım.",
+      "Beni dinlemenizden dolayı çok minnettarım.",
+      "Bana tavsiye vermenizden dolayı çok minnettarım.",
+      "Akşam yemeği hazırlamanızden dolayı çok minnettarım.",
+      "Bana şehri göstermenizden dolayı çok minnettarım."
+    ],
+    "b2": [
+      "Toplantıda fikrimi desteklemenizden dolayı çok minnettarım.",
+      "Benimle iş deneyiminizi paylaşmanızdan dolayı çok minnettarım.",
+      "Yoğun programınızdan özel bir görüşme için zaman bulmanızdan dolayı çok minnettarım.",
+      "Her şeye rağmen potansiyelime inanmanızdan dolayı çok minnettarım.",
+      "Bana belgeleri düzenlemede yardım etmenizden dolayı çok minnettarım."
+    ],
+    "c1": [
+      "Bu kriz durumunda olağanüstü bir soğukkanlılık göstermenizden dolayı çok minnettarım.",
+      "Bana bu iddialı projeyi gerçekleştirme fırsatı vermenizden dolayı çok minnettarım.",
+      "Veri güvenliğine olan yaklaşımlarımızı eleştirel bir gözle yeniden değerlendirmenizden dolayı çok minnettarım.",
+      "Temel paydaşlarla iletişim kurulmasına katkı sağlamanızdan dolayı çok minnettarım.",
+      "Kalkınma stratejisinin bu çok karmaşık meselesine netlik kazandırmanızdan dolayı çok minnettarım."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "... konusundaki detaylara dikkatiniz olağanüstü",
+    "translation": "Your attention to detail on ... is outstanding.",
+    "b1": [
+      "Bu resimdeki detaylara dikkatiniz olağanüstü.",
+      "Ev ödevindeki detaylara dikkatiniz olağanüstü.",
+      "Ev temizliğindeki detaylara dikkatiniz olağanüstü.",
+      "Yemek pişirmedeki detaylara dikkatiniz olağanüstü.",
+      "Mektuptaki detaylara dikkatiniz olağanüstü."
+    ],
+    "b2": [
+      "Finansal rapordaki detaylara dikkatiniz olağanüstü.",
+      "Seyahat planlamasındaki detaylara dikkatiniz olağanüstü.",
+      "Arayüz tasarımındaki detaylara dikkatiniz olağanüstü.",
+      "Sözleşme hazırlamadaki detaylara dikkatiniz olağanüstü.",
+      "Rakipleri analiz etmedeki detaylara dikkatiniz olağanüstü."
+    ],
+    "c1": [
+      "Bu binanın mimari projesindeki detaylara dikkatiniz olağanüstü.",
+      "Uluslararası sözleşmenin hukuki incelemesindeki detaylara dikkatiniz olağanüstü.",
+      "Bu bilimsel deneyi yürütmedeki detaylara dikkatiniz olağanüstü.",
+      "Tezimi stilistik olarak düzeltmedeki detaylara dikkatiniz olağanüstü.",
+      "Karmaşık makine öğrenimi algoritmalarını ayarlamadaki detaylara dikkatiniz olağanüstü."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Size özellikle ... için teşekkür etmek istemiştim",
+    "translation": "I wanted to thank you specifically for ...",
+    "b1": [
+      "Size özellikle nezaketiniz için teşekkür etmek istemiştim.",
+      "Size özellikle sabrınız için teşekkür etmek istemiştim.",
+      "Size özellikle hediyeniz için teşekkür etmek istemiştim.",
+      "Size özellikle aradığınız için teşekkür etmek istemiştim.",
+      "Size özellikle yardımınız için teşekkür etmek istemiştim."
+    ],
+    "b2": [
+      "Size özellikle sorunlarımızı tartışmadaki dürüstlüğünüz için teşekkür etmek istemiştim.",
+      "Size özellikle teslimat sorununu çözmedeki hızınız için teşekkür etmek istemiştim.",
+      "Size özellikle sunumumu yapıcı bir şekilde eleştirdiğiniz için teşekkür etmek istemiştim.",
+      "Size özellikle bu hafta fazla mesai yapmaya hazır olduğunuz için teşekkür etmek istemiştim.",
+      "Size özellikle ziyaretim sırasındaki misafirperverliğiniz için teşekkür etmek istemiştim."
+    ],
+    "c1": [
+      "Size özellikle işin etik ilkelerine olan sarsılmaz bağlılığınız için teşekkür etmek istemiştim.",
+      "Size özellikle bölgenin jeopolitik nüanslarını derinlemesine anladığınız için teşekkür etmek istemiştim.",
+      "Size özellikle departmanımızı yeniden yapılandırmadaki inisiyatifiniz için teşekkür etmek istemiştim.",
+      "Size özellikle gelecekteki risklere karşı öngörünüz için teşekkür etmek istemiştim.",
+      "Size özellikle bilginizi paylaşan entelektüel cömertliğiniz için teşekkür etmek istemiştim."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Bu durumu büyük bir zarafet ve ... ile yönettiniz",
+    "translation": "You handled that situation with such grace and ...",
+    "b1": [
+      "Bu durumu büyük bir zarafet ve güç ile yönettiniz.",
+      "Bu durumu büyük bir zarafet ve gülümsemeyle yönettiniz.",
+      "Bu durumu büyük bir zarafet ve sakinlikle yönettiniz.",
+      "Bu durumu büyük bir zarafet ve nezaketle yönettiniz.",
+      "Bu durumu büyük bir zarafet ve sabır ile yönettiniz."
+    ],
+    "b2": [
+      "Bu durumu büyük bir zarafet ve profesyonellik ile yönettiniz.",
+      "Bu durumu büyük bir zarafet ve özgüven ile yönettiniz.",
+      "Bu durumu büyük bir zarafet ve mizah anlayışı ile yönettiniz.",
+      "Bu durumu büyük bir zarafet ve bilgelik ile yönettiniz.",
+      "Bu durumu büyük bir zarafet ve cesaret ile yönettiniz."
+    ],
+    "c1": [
+      "Bu durumu büyük bir zarafet ve diplomatik esneklik ile yönettiniz.",
+      "Bu durumu büyük bir zarafet ve entelektüel üstünlük ile yönettiniz.",
+      "Bu durumu büyük bir zarafet ve stratejik soğukkanlılık ile yönettiniz.",
+      "Bu durumu büyük bir zarafet ve stoacı bir onur ile yönettiniz.",
+      "Bu durumu büyük bir zarafet ve şaşırtıcı bir sezgi ile yönettiniz."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Bunu sizin ...nız/niz olmadan başaramazdım",
+    "translation": "I couldn't have done this without your ...",
+    "b1": [
+      "Bunu sizin tavsiyeniz olmadan başaramazdım.",
+      "Bunu sizin yardımınız olmadan başaramazdım.",
+      "Bunu sizin sevginiz olmadan başaramazdım.",
+      "Bunu sizin zamanınız olmadan başaramazdım.",
+      "Bunu sizin maddi desteğiniz olmadan başaramazdım."
+    ],
+    "b2": [
+      "Bunu sizin sürekli ilhamınız olmadan başaramazdım.",
+      "Bunu sizin durumu uzman bir şekilde değerlendirmeniz olmadan başaramazdım.",
+      "Bunu sizin zor dönemdeki moral desteğiniz olmadan başaramazdım.",
+      "Bunu sizin başlangıç aşamasındaki liderliğiniz olmadan başaramazdım.",
+      "Bunu sizin benim başarıma olan inancınız olmadan başaramazdım."
+    ],
+    "c1": [
+      "Bunu sizin sektörümüzün geleceğine olan vizyoner bakışınız olmadan başaramazdım.",
+      "Bunu sizin derin metodolojik hazırlığınız olmadan başaramazdım.",
+      "Bunu sizin pazarlama teorisi ve pratiğine yaptığınız paha biçilmez katkı olmadan başaramazdım.",
+      "Bunu sizin müzakereleri yürütmedeki kuyumcu hassasiyetindeki ustalığınız olmadan başaramazdım.",
+      "Bunu sizin projeye olan benzeri görülmemiş fedakarlığınız olmadan başaramazdım."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Pozitif yaklaşımınız ... için gerçekten ilham verici",
+    "translation": "Your positive attitude is truly inspiring to ...",
+    "b1": [
+      "Pozitif yaklaşımınız benim için gerçekten ilham verici.",
+      "Pozitif yaklaşımınız çocuklar için gerçekten ilham verici.",
+      "Pozitif yaklaşımınız takım için gerçekten ilham verici.",
+      "Pozitif yaklaşımınız arkadaşlar için gerçekten ilham verici.",
+      "Pozitif yaklaşımınız öğrenciler için gerçekten ilham verici."
+    ],
+    "b2": [
+      "Pozitif yaklaşımınız tüm departmanımızı yeni başarılara ulaştırmak için gerçekten ilham verici.",
+      "Pozitif yaklaşımınız bu zor zamanda meslektaşlar için gerçekten ilham verici.",
+      "Pozitif yaklaşımınız etrafındakileri iyiliğe inandırmak için gerçekten ilham verici.",
+      "Pozitif yaklaşımınız beni bundan daha fazla çalışmaya yönlendirmek için gerçekten ilham verici.",
+      "Pozitif yaklaşımınız müşterilerin şirketimize güvenmesini sağlamak için gerçekten ilham verici."
+    ],
+    "c1": [
+      "Pozitif yaklaşımınız iş modelimizi kökten değiştirmek için gerçekten ilham verici.",
+      "Pozitif yaklaşımınız kurumsal engelleri aşmak için gerçekten ilham verici.",
+      "Pozitif yaklaşımınız üst yönetimi cesur yatırımlar yapmaya yönlendirmek için gerçekten ilham verici.",
+      "Pozitif yaklaşımınız ofiste kapsayıcı bir ortam yaratmak için gerçekten ilham verici.",
+      "Pozitif yaklaşımınız alışılmışın dışında yenilikçi çözümler aramak için gerçekten ilham verici."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "... için elinizden gelenin fazlasını yaptığınız için teşekkür ederim",
+    "translation": "Thank you for going above and beyond to ...",
+    "b1": [
+      "Bana yardım etmek için elinizden gelenin fazlasını yaptığınız için teşekkür ederim.",
+      "Zamanında yetişmek için elinizden gelenin fazlasını yaptığınız için teşekkür ederim.",
+      "Bu pastayı satın almak için elinizden gelenin fazlasını yaptığınız için teşekkür ederim.",
+      "Kedimi bulmak için elinizden gelenin fazlasını yaptığınız için teşekkür ederim.",
+      "Bayramı kurtarmak için elinizden gelenin fazlasını yaptığınız için teşekkür ederim."
+    ],
+    "b2": [
+      "Bu kısa süreye yetişmek için elinizden gelenin fazlasını yaptığınız için teşekkür ederim.",
+      "Müşterimizin taleplerini karşılamak için elinizden gelenin fazlasını yaptığınız için teşekkür ederim.",
+      "Güvenlik sistemindeki hatayı düzeltmek için elinizden gelenin fazlasını yaptığınız için teşekkür ederim.",
+      "Bu toplantıyı yüksek düzeyde düzenlemek için elinizden gelenin fazlasını yaptığınız için teşekkür ederim.",
+      "Yatırımcıları projemizi desteklemeye ikna etmek için elinizden gelenin fazlasını yaptığınız için teşekkür ederim."
+    ],
+    "c1": [
+      "Yeniden yapılandırmanın olumsuz sonuçlarını en aza indirmek için elinizden gelenin fazlasını yaptığınız için teşekkür ederim.",
+      "Çatışan taraflar arasında uzlaşmaya varmak için elinizden gelenin fazlasını yaptığınız için teşekkür ederim.",
+      "Kriz anında iş süreçlerinin kesintisizliğini sağlamak için elinizden gelenin fazlasını yaptığınız için teşekkür ederim.",
+      "En yeni teknolojileri mimarimize entegre etmek için elinizden gelenin fazlasını yaptığınız için teşekkür ederim.",
+      "Sert türbülans döneminde ekibin bütünlüğünü korumak için elinizden gelenin fazlasını yaptığınız için teşekkür ederim."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "...ma/me tarzınıza gerçekten hayranım",
+    "translation": "I really admire the way you ...",
+    "b1": [
+      "Hızlı öğrenme tarzınıza gerçekten hayranım.",
+      "Lezzetli yemek yapma tarzınıza gerçekten hayranım.",
+      "Güzel Türkçe konuşma tarzınıza gerçekten hayranım.",
+      "İyi çalışma tarzınıza gerçekten hayranım.",
+      "Her zaman gülümseme tarzınıza gerçekten hayranım."
+    ],
+    "b2": [
+      "Stresli durumlarda sakin kalma tarzınıza gerçekten hayranım.",
+      "Herkesle iyi anlaşma tarzınıza gerçekten hayranım.",
+      "İşlerde öncelikleri belirleme tarzınıza gerçekten hayranım.",
+      "Kendi ekibinizin çıkarlarını koruma tarzınıza gerçekten hayranım.",
+      "Sürekli kendinizi geliştirme tarzınıza gerçekten hayranım."
+    ],
+    "c1": [
+      "Karmaşık soyut kavramlarla ustaca çalışma tarzınıza gerçekten hayranım.",
+      "Engelleri büyüme fırsatlarına dönüştürme tarzınıza gerçekten hayranım.",
+      "Uzun vadeli stratejik ittifaklar kurma tarzınıza gerçekten hayranım.",
+      "Pragmatizm ile yüksek idealler arasındaki dengeyi koruma tarzınıza gerçekten hayranım.",
+      "Şirket değerlerini kişisel örneklerle aktarma tarzınıza gerçekten hayranım."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "... konusunda harika bir iş çıkardınız",
+    "translation": "What a wonderful job you did on ...",
+    "b1": [
+      "Bu proje konusunda harika bir iş çıkardınız!",
+      "Kendi bahçeniz konusunda harika bir iş çıkardınız!",
+      "Bu sunum konusunda harika bir iş çıkardınız!",
+      "Metni çevirme konusunda harika bir iş çıkardınız!",
+      "Öğle yemeği konusunda harika bir iş çıkardınız!"
+    ],
+    "b2": [
+      "Firmamızın imajını geliştirme konusunda harika bir iş çıkardınız!",
+      "Geçen yılın finansal risklerini analiz etme konusunda harika bir iş çıkardınız!",
+      "Depomuzun çalışmasını optimize etme konusunda harika bir iş çıkardınız!",
+      "Sosyal medyada reklam kampanyası oluşturma konusunda harika bir iş çıkardınız!",
+      "Bayilerimiz için konferans hazırlama konusunda harika bir iş çıkardınız!"
+    ],
+    "c1": [
+      "Kurumsal kültürümüzdeki paradigmal değişim konusunda harika bir iş çıkardınız!",
+      "Hizmetlerimize yapay zekayı entegre etme konusunda harika bir iş çıkardınız!",
+      "Yatırım portföyümüzü çeşitlendirme konusunda harika bir iş çıkardınız!",
+      "Makroekonomik modeldeki sistematik hataları belirleme konusunda harika bir iş çıkardınız!",
+      "İç süreçlerimizin şeffaflığını artırma konusunda harika bir iş çıkardınız!"
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "...manız/meniz benim için dünyalara bedel",
+    "translation": "It means the world to me that ...",
+    "b1": [
+      "Gelmeniz benim için dünyalara bedel.",
+      "Yardım etmeniz benim için dünyalara bedel.",
+      "Aramanız benim için dünyalara bedel.",
+      "Mektup yazmanız benim için dünyalara bedel.",
+      "Bana güvenmeniz benim için dünyalara bedel."
+    ],
+    "b2": [
+      "Emeğime layıkıyla değer vermeniz benim için dünyalara bedel.",
+      "Benim direktörlük adaylığımı desteklemeniz benim için dünyalara bedel.",
+      "Bana böylesine önemli ve gizli bir projeyi emanet etmeniz benim için dünyalara bedel.",
+      "Benim şüphelerimi dinlemeye zaman bulmanız benim için dünyalara bedel.",
+      "Beni uğurlamak için havaalanına gelmeniz benim için dünyalara bedel."
+    ],
+    "c1": [
+      "Benim bilimsel araştırmalarımın doğruluğunu kabul etmeniz benim için dünyalara bedel.",
+      "Bu ilkeli tartışmada iş birliği göstermeniz benim için dünyalara bedel.",
+      "Faaliyetlerimizin etik yönlerine dikkat etmeniz benim için dünyalara bedel.",
+      "Benim profesyonel anlamda kendimi gerçekleştirmeme katkıda bulunmanız benim için dünyalara bedel.",
+      "Sürdürülebilir kalkınmanın geleceğine dair görüşlerimi paylaşmanız benim için dünyalara bedel."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "... hakkındaki bakış açınız inanılmaz derecede değerli",
+    "translation": "Your perspective on ... is incredibly valuable.",
+    "b1": [
+      "Bu film hakkındaki bakış açınız inanılmaz derecede değerli.",
+      "Hayat hakkındaki bakış açınız inanılmaz derecede değerli.",
+      "Benim işim hakkındaki bakış açınız inanılmaz derecede değerli.",
+      "Siyaset hakkındaki bakış açınız inanılmaz derecede değerli.",
+      "Bu mesele hakkındaki bakış açınız inanılmaz derecede değerli."
+    ],
+    "b2": [
+      "Online eğitim pazarının gelişimine dair bakış açınız bizim için inanılmaz derecede değerli.",
+      "Ekip içindeki çatışmayı çözmeye yönelik bakış açınız inanılmaz derecede değerli.",
+      "Yeni mobil uygulamamızın tasarımına dair bakış açınız inanılmaz derecede değerli.",
+      "Bu yılki satış stratejisini değiştirmeye yönelik bakış açınız inanılmaz derecede değerli.",
+      "Bölgemizin çevre sorunlarına dair bakış açınız inanılmaz derecede değerli."
+    ],
+    "c1": [
+      "Lojistiğe blokzincir teknolojilerini entegre etme perspektiflerine dair bakış açınız inanılmaz derecede değerli.",
+      "Mevcut monetarist politikanın uzun vadeli sonuçlarına dair bakış açınız inanılmaz derecede değerli.",
+      "Mevcut sivil toplum kurumlarının dönüşümüne dair bakış açınız inanılmaz derecede değerli.",
+      "Bilişsel araştırmalardaki disiplinler arası yaklaşıma dair bakış açınız inanılmaz derecede değerli.",
+      "Yapay zeka çağında verileri kullanma etiğine dair bakış açınız inanılmaz derecede değerli."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "... için en derin şükranlarımı sunmak isterim",
+    "translation": "I want to express my deepest gratitude for ...",
+    "b1": [
+      "Yardımınız için en derin şükranlarımı sunmak isterim.",
+      "Zamanınız için en derin şükranlarımı sunmak isterim.",
+      "Nezaketiniz için en derin şükranlarımı sunmak isterim.",
+      "Hediyeniz için en derin şükranlarımı sunmak isterim.",
+      "Bu tatil için en derin şükranlarımı sunmak isterim."
+    ],
+    "b2": [
+      "Fikrimi gerçekleştirmedeki desteğiniz için en derin şükranlarımı sunmak isterim.",
+      "Verdiğiniz profesyonel tavsiyeler için en derin şükranlarımı sunmak isterim.",
+      "Takımınızda çalışma fırsatı için en derin şükranlarımı sunmak isterim.",
+      "Bana gösterdiğiniz sabır için en derin şükranlarımı sunmak isterim.",
+      "Sorunumu çözmeye bizzat katıldığınız için en derin şükranlarımı sunmak isterim."
+    ],
+    "c1": [
+      "Sektörümüzün gelişimine yaptığınız temel katkı için en derin şükranlarımı sunmak isterim.",
+      "Çok yıllık verimli iş birliği için en derin şükranlarımı sunmak isterim.",
+      "Gerekçeli riske girme hazırlığınız için en derin şükranlarımı sunmak isterim.",
+      "Entelektüel arayış atmosferini oluşturduğunuz için en derin şükranlarımı sunmak isterim.",
+      "Kuruluşumuzun çıkarlarını uluslararası düzeyde koruduğunuz için en derin şükranlarımı sunmak isterim."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "... konusunda çok büyük bir fark yarattınız",
+    "translation": "You've made a huge difference in ...",
+    "b1": [
+      "Bizim takımımız konusunda çok büyük bir fark yarattınız.",
+      "Bu proje konusunda çok büyük bir fark yarattınız.",
+      "Benim eğitimim konusunda çok büyük bir fark yarattınız.",
+      "Bayramı organize etme konusunda çok büyük bir fark yarattınız.",
+      "Okulun başarısı konusunda çok büyük bir fark yarattınız."
+    ],
+    "b2": [
+      "Şirketin yeni pazarlama stratejisini geliştirme konusunda çok büyük bir fark yarattınız.",
+      "Temel ortaklarımızla ilişkileri güçlendirme konusunda çok büyük bir fark yarattınız.",
+      "Bölümümüzdeki genç uzmanları eğitme konusunda çok büyük bir fark yarattınız.",
+      "Takımda pozitif atmosfer yaratma konusunda çok büyük bir fark yarattınız.",
+      "Ürünümüzün kalitesini artırma konusunda çok büyük bir fark yarattınız."
+    ],
+    "c1": [
+      "Çağdaş dilbilimin teorik temellerini geliştirme konusunda çok büyük bir fark yarattınız.",
+      "Kriz sonrası dönemde bölge ekonomisini istikrara kavuşturma konusunda çok büyük bir fark yarattınız.",
+      "Çevresel sorumluluk değerlerini ilerletme konusunda çok büyük bir fark yarattınız.",
+      "Siber güvenlik alanında yeni paradigmayı oluşturma konusunda çok büyük bir fark yarattınız.",
+      "Toplumumuzdaki etnik kökenler arası ilişkileri uyumlu hale getirme konusunda çok büyük bir fark yarattınız."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "...ma/me yeteneğiniz beni çok etkiledi",
+    "translation": "I'm so impressed by your ability to ...",
+    "b1": [
+      "Hızlı öğrenme yeteneğiniz beni çok etkiledi.",
+      "Lezzetli yemek yapma yeteneğiniz beni çok etkiledi.",
+      "Güzel şarkı söyleme yeteneğiniz beni çok etkiledi.",
+      "Arkadaş bulma yeteneğiniz beni çok etkiledi.",
+      "Her zaman gülümseme yeteneğiniz beni çok etkiledi."
+    ],
+    "b2": [
+      "Zor durumlarda sakin kalma yeteneğiniz beni çok etkiledi.",
+      "İnsanları kendi fikrinize inandırma yeteneğiniz beni çok etkiledi.",
+      "Başkalarının problem gördüğü yerde fırsatları görebilme yeteneğiniz beni çok etkiledi.",
+      "Karmaşık etkinlikleri tek başınıza organize etme yeteneğiniz beni çok etkiledi.",
+      "Büyük miktarda bilgiyi hafızada tutma yeteneğiniz beni çok etkiledi."
+    ],
+    "c1": [
+      "Karmaşık sosyo-kültürel fenomenlere kapsamlı analiz yapma yeteneğiniz beni çok etkiledi.",
+      "Araştırmanızda farklı bilimsel okulları birleştirme yeteneğiniz beni çok etkiledi.",
+      "Makroekonomik değişiklikleri onlar başlamadan önce öngörebilme yeteneğiniz beni çok etkiledi.",
+      "Ayrıntıları kontrol altında tutarak yetki devredebilme yeteneğiniz beni çok etkiledi.",
+      "Derin anlamları basit ve anlaşılır bir dille aktarabilme yeteneğiniz beni çok etkiledi."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "... için zaman ayırdığınızdan dolayı teşekkür ederim",
+    "translation": "Thank you for taking the time to ...",
+    "b1": [
+      "Benimle konuşmak için zaman ayırdığınızdan dolayı teşekkür ederim.",
+      "Benim bayramıma gelmek için zaman ayırdığınızdan dolayı teşekkür ederim.",
+      "Görevde yardım etmek için zaman ayırdığınızdan dolayı teşekkür ederim.",
+      "Bu filmi izlemek için zaman ayırdığınızdan dolayı teşekkür ederim.",
+      "Bana yolu göstermek için zaman ayırdığınızdan dolayı teşekkür ederim."
+    ],
+    "b2": [
+      "Sözleşme şartlarını detaylıca tartışmak için zaman ayırdığınızdan dolayı teşekkür ederim.",
+      "Proje hakkındaki önerimle tanışmak için zaman ayırdığınızdan dolayı teşekkür ederim.",
+      "İşim hakkında geri bildirim vermek için zaman ayırdığınızdan dolayı teşekkür ederim.",
+      "Vergilendirme konularında bana danışmanlık yapmak için zaman ayırdığınızdan dolayı teşekkür ederim.",
+      "Yabancı delegelerimizle görüşmek için zaman ayırdığınızdan dolayı teşekkür ederim."
+    ],
+    "c1": [
+      "İç prosedürlerimize derinlemesine denetim yapmak için zaman ayırdığınızdan dolayı teşekkür ederim.",
+      "Üniversitemizde onur konuğu öğretim görevlisi olarak konuşma yapmak için zaman ayırdığınızdan dolayı teşekkür ederim.",
+      "Bu önemli panel tartışmasına katılmak için zaman ayırdığınızdan dolayı teşekkür ederim.",
+      "İş birliğimizin uzun vadeli perspektiflerini değerlendirmek için zaman ayırdığınızdan dolayı teşekkür ederim.",
+      "Anlaşmanın tüm etik nüanslarını detaylıca çalışmak için zaman ayırdığınızdan dolayı teşekkür ederim."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "... bilen birine sahip olduğumuz için şanslıyız",
+    "translation": "We are fortunate to have someone who can ...",
+    "b1": [
+      "Yemeği güzel yapabilen birine sahip olduğumuz için şanslıyız.",
+      "Türkçede yardım edebilen birine sahip olduğumuz için şanslıyız.",
+      "Araba sürebilen birine sahip olduğumuz için şanslıyız.",
+      "Gitarda çalabilen birine sahip olduğumuz için şanslıyız.",
+      "Her şeyi organize edebilen birine sahip olduğumuz için şanslıyız."
+    ],
+    "b2": [
+      "Projeleri bu şekilde etkili yönetebilen birine sahip olduğumuz için şanslıyız.",
+      "Müşterilerle hızlıca iletişim kurabilen birine sahip olduğumuz için şanslıyız.",
+      "Koddaki tüm hataları düzeltebilen birine sahip olduğumuz için şanslıyız.",
+      "Kriz anında bile pozitifi koruyabilen birine sahip olduğumuz için şanslıyız.",
+      "Metinleri bu şekilde profesyonelce çevirebilen birine sahip olduğumuz için şanslıyız."
+    ],
+    "c1": [
+      "Türbülans durumunda stratejik liderliği yürütebilen birine sahip olduğumuz için şanslıyız.",
+      "Karmaşık fikirleri geniş kitlelere ulaştırabilen birine sahip olduğumuz için şanslıyız.",
+      "Sektördeki düzenleyici değişiklikleri önceden tahmin edebilen birine sahip olduğumuz için şanslıyız.",
+      "Uluslararası ilişkiler mimarisini kurabilen birine sahip olduğumuz için şanslıyız.",
+      "Takımı ulaşılamaz hedeflere ulaşmaya teşvik edebilen birine sahip olduğumuz için şanslıyız."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "...ma/me isteğiniz gerçekten öne çıkıyor",
+    "translation": "Your willingness to ... really stands out.",
+    "b1": [
+      "Başkalarına yardım etme isteğiniz gerçekten öne çıkıyor.",
+      "Yeni şeyler öğrenme isteğiniz gerçekten öne çıkıyor.",
+      "Çok çalışma isteğiniz gerçekten öne çıkıyor.",
+      "İnsanları dinleme isteğiniz gerçekten öne çıkıyor.",
+      "Eşyaları paylaşma isteğiniz gerçekten öne çıkıyor."
+    ],
+    "b2": [
+      "Zor durumlarda sorumluluk alma isteğiniz gerçekten öne çıkıyor.",
+      "Pazarın yeni koşullarına uyum sağlama isteğiniz gerçekten öne çıkıyor.",
+      "Meslektaşları zor zamanda destekleme isteğiniz gerçekten öne çıkıyor.",
+      "Ortak yarar için uzlaşmaya varma isteğiniz gerçekten öne çıkıyor.",
+      "Personeli eğitmeye zaman ayırma isteğiniz gerçekten öne çıkıyor."
+    ],
+    "c1": [
+      "Bilimsel ilerleme için yerleşik dogmalara karşı çıkma isteğiniz gerçekten öne çıkıyor.",
+      "Uzun vadeli sürdürülebilirlik için kısa vadeli kârı feda etme isteğiniz gerçekten öne çıkıyor.",
+      "Kuruluşta derin yapısal reformlar başlatma isteğiniz gerçekten öne çıkıyor.",
+      "Yenilikleri hayata geçirmekle bağlantılı riskleri üstlenme isteğiniz gerçekten öne çıkıyor.",
+      "Karmaşık sosyal konularda fikir önderi olarak hareket etme isteğiniz gerçekten öne çıkıyor."
+    ]
+  }
+]

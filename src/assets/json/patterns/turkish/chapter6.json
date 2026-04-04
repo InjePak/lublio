@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "... -dığını/-ceğini bildirmek isterim",
+    "translation": "I'd like to inform you that ...",
+    "b1": [
+      "Mağazanın bugün kapalı olduğunu bildirmek isterim.",
+      "Trenin on dakika geciktiğini bildirmek isterim.",
+      "Mesajınızı aldığımı bildirmek isterim.",
+      "Yeni bir menümüz olduğunu bildirmek isterim.",
+      "Toplantının saat 10'da başlayacağını bildirmek isterim."
+    ],
+    "b2": [
+      "Adaylığınızın mülakata kabul edildiğini bildirmek isterim.",
+      "Genel satış şartlarının değiştiğini bildirmek isterim.",
+      "Projenin ilk aşamasını tamamladığımızı bildirmek isterim.",
+      "Bu ürünün stokta tükendiğini bildirmek isterim.",
+      "Siparişinizin yarın sabah gönderileceğini bildirmek isterim."
+    ],
+    "c1": [
+      "Departmanı tamamen yapısal bir yeniden yapılanmadan geçirdiğimizi bildirmek isterim.",
+      "Yeni kuralların önümüzdeki ay yürürlüğe gireceğini bildirmek isterim.",
+      "Verimlilik göstergelerinin önemli ölçüde arttığını bildirmek isterim.",
+      "Stratejik ortaklık konusunda anlaşmaya vardığımızı bildirmek isterim.",
+      "İç denetimin hiçbir önemli ihlal tespit etmediğini bildirmek isterim."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Burada en önemli şey ...",
+    "translation": "The key takeaway here is ...",
+    "b1": [
+      "Burada en önemli şey zamanında gelmek.",
+      "Burada en önemli şey bu kitabın önemi.",
+      "Burada en önemli şey kapıyı iyice kapatmak.",
+      "Burada en önemli şey bugün her şeyin bedava olması.",
+      "Burada en önemli şey pasaportunuzu yanınıza almanız."
+    ],
+    "b2": [
+      "Burada en önemli şey müşteri memnuniyeti.",
+      "Burada en önemli şey üretim maliyetlerini düşürme gerekliliği.",
+      "Burada en önemli şey her şeyden önce güvenlik olduğudur.",
+      "Burada en önemli şey iki ekip arasındaki iş birliği.",
+      "Burada en önemli şey pazarın hızla değişiyor olması."
+    ],
+    "c1": [
+      "Burada en önemli şey inovasyon ile büyüme arasındaki doğrudan bağlantı.",
+      "Burada en önemli şey ekonomik modelimizin yapısal sürdürülebilirliği.",
+      "Burada en önemli şey sürekli teknolojik izleme ihtiyacı.",
+      "Burada en önemli şey dijitalleşmenin süreçlerimiz üzerindeki etkisi.",
+      "Burada en önemli şey uzun vadeli rekabet avantajımızı korumak."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Açıklığa kavuşturmak gerekirse, demek istediğim ...",
+    "translation": "To clarify, I mean ...",
+    "b1": [
+      "Açıklığa kavuşturmak gerekirse, demek istediğim öğlen gidiyoruz.",
+      "Açıklığa kavuşturmak gerekirse, demek istediğim bu senin için bir hediye.",
+      "Açıklığa kavuşturmak gerekirse, demek istediğim fiyatı yirmi euro.",
+      "Açıklığa kavuşturmak gerekirse, demek istediğim birlikte çalışmalıyız.",
+      "Açıklığa kavuşturmak gerekirse, demek istediğim yarın gelemem."
+    ],
+    "b2": [
+      "Açıklığa kavuşturmak gerekirse, demek istediğim projenin cuma akşamına kadar bitmesi gerekiyor.",
+      "Açıklığa kavuşturmak gerekirse, demek istediğim pazarlama stratejisini değiştirmemiz lazım.",
+      "Açıklığa kavuşturmak gerekirse, demek istediğim ekibin her üyesinin net bir sorumluluğu var.",
+      "Açıklığa kavuşturmak gerekirse, demek istediğim bu bütçeye planlanan tüm vergiler dahildir.",
+      "Açıklığa kavuşturmak gerekirse, demek istediğim bu kuralda hiçbir istisna yapmayacağız."
+    ],
+    "c1": [
+      "Açıklığa kavuşturmak gerekirse, demek istediğim görsel imajımızın tamamen yenilenmesi.",
+      "Açıklığa kavuşturmak gerekirse, demek istediğim şirketin geleceği bu yatırıma bağlı.",
+      "Açıklığa kavuşturmak gerekirse, demek istediğim hissedarlarla şeffaf bir diyalog kurmak.",
+      "Açıklığa kavuşturmak gerekirse, demek istediğim operasyonel esneklik bizim ana önceliğimiz.",
+      "Açıklığa kavuşturmak gerekirse, demek istediğim döviz piyasasındaki dalgalanmaları önceden tahmin etmeliyiz."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Rapora göre, ...",
+    "translation": "According to the report, ...",
+    "b1": [
+      "Rapora göre, bu yaz hava çok sıcak olacak.",
+      "Rapora göre, birçok insan çikolatayı çok seviyor.",
+      "Rapora göre, bu şehir oldukça güvenli.",
+      "Rapora göre, işi tamamladık.",
+      "Rapora göre, burada çok fazla araba var."
+    ],
+    "b2": [
+      "Yıllık rapora göre, kârımız yüzde 5 arttı.",
+      "Polis raporuna göre, deliller yetersiz.",
+      "Tıbbi rapora göre, hastanın bir hafta dinlenmesi gerekiyor.",
+      "Hizmet raporuna göre, bu yıl verimlilik istikrarlı.",
+      "Soruşturma raporuna göre, kaza insan faktöründen kaynaklanmış."
+    ],
+    "c1": [
+      "Öngörü raporuna göre, yapay zekâ bu sektörü tamamen değiştirecek.",
+      "Denetim raporuna göre, finansal durumumuz gayet iyi.",
+      "Uzman raporuna göre, yapısal hasarlar geri döndürülemez durumda.",
+      "Çevre raporuna göre, CO2 emisyonlarını azaltmamız gerekiyor.",
+      "Konjonktür raporuna göre, ikinci yarıyılda büyüme yavaşlayacak."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Şöyle ifade etmeme izin verin: ...",
+    "translation": "Let me rephrase that: ...",
+    "b1": [
+      "Şöyle ifade etmeme izin verin: bu bizim için çok pahalı.",
+      "Şöyle ifade etmeme izin verin: seninle aynı fikirdeyim.",
+      "Şöyle ifade etmeme izin verin: şimdi gidiyoruz.",
+      "Şöyle ifade etmeme izin verin: bu pasta çok lezzetli.",
+      "Şöyle ifade etmeme izin verin: soruyu tam olarak anlamıyorum."
+    ],
+    "b2": [
+      "Şöyle ifade etmeme izin verin: daha hızlı bir çözüm bulmalıyız.",
+      "Şöyle ifade etmeme izin verin: müşteri mevcut kaliteden memnun değil.",
+      "Şöyle ifade etmeme izin verin: yıllık bütçeyi yeniden gözden geçirmemiz gerekiyor.",
+      "Şöyle ifade etmeme izin verin: bu ödeme koşullarını kabul edemeyiz.",
+      "Şöyle ifade etmeme izin verin: teklifinizde teknik detaylar eksik."
+    ],
+    "c1": [
+      "Şöyle ifade etmeme izin verin: bu projenin uygulanabilirliği bizim esnekliğimize bağlı.",
+      "Şöyle ifade etmeme izin verin: büyük bir paradigmasal değişime tanıklık ediyoruz.",
+      "Şöyle ifade etmeme izin verin: ortak bir anlaşmanın olmaması uluslararası genişlememizi engelliyor.",
+      "Şöyle ifade etmeme izin verin: bu bütçesel değil, yapısal bir optimizasyon meselesi.",
+      "Şöyle ifade etmeme izin verin: ana öncelik, mevzuat gerekliliklerine derhal uyum sağlamaktır."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Aslında söylemek istediğim ... -ydi",
+    "translation": "What I meant to say was ...",
+    "b1": [
+      "Aslında söylemek istediğim seni seviyorum demekti.",
+      "Aslında söylemek istediğim beni affet demekti.",
+      "Aslında söylemek istediğim bu iyi bir fikirdi.",
+      "Aslında söylemek istediğim yorgun olduğumdu.",
+      "Aslında söylemek istediğim yardıma ihtiyacım olduğuydu."
+    ],
+    "b2": [
+      "Aslında söylemek istediğim işi bitirmek için vaktimiz kalmadığıydı.",
+      "Aslında söylemek istediğim yarınki toplantının iptal edildiğiydi.",
+      "Aslında söylemek istediğim harika bir iş çıkardığınızdı.",
+      "Aslında söylemek istediğim belirli şartlarla fiyatta anlaşılabileceğiydi.",
+      "Aslında söylemek istediğim güvenliğin bizim ana önceliğimiz olduğuydu."
+    ],
+    "c1": [
+      "Aslında söylemek istediğim sosyo-ekonomik etkinin yeterince değerlendirilmediğiydi.",
+      "Aslında söylemek istediğim nitelikli büyümeye öncelik vermemiz gerektiğiydi.",
+      "Aslında söylemek istediğim merkezler arasındaki sinerjinin yetersiz olduğuydu.",
+      "Aslında söylemek istediğim bu modelin geleceğinin tehlikede olduğuydu.",
+      "Aslında söylemek istediğim inovasyonun stratejimizin merkezinde olması gerektiğiydi."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Mevcut durum şöyle: ...",
+    "translation": "The current status is that ...",
+    "b1": [
+      "Mevcut durum şöyle: projeyi bitirdik.",
+      "Mevcut durum şöyle: mağaza açık.",
+      "Mevcut durum şöyle: her şey hazır.",
+      "Mevcut durum şöyle: telefon çalışmıyor.",
+      "Mevcut durum şöyle: otobüs bekliyoruz."
+    ],
+    "b2": [
+      "Mevcut durum şöyle: bütçe yönetim tarafından onaylandı.",
+      "Mevcut durum şöyle: çalışmalar planlandığı gibi gidiyor.",
+      "Mevcut durum şöyle: hâlâ yeni bir direktör arıyoruz.",
+      "Mevcut durum şöyle: sözleşme imzalama süreci devam ediyor.",
+      "Mevcut durum şöyle: sunucular geçici olarak kullanım dışı."
+    ],
+    "c1": [
+      "Mevcut durum şöyle: iç pazarın durgunluğuyla karşı karşıyayız.",
+      "Mevcut durum şöyle: teşhis aşaması resmi olarak kapatıldı.",
+      "Mevcut durum şöyle: müzakereler şimdilik çıkmaza girdi.",
+      "Mevcut durum şöyle: tamamen bulut sistemine geçiş yapıyoruz.",
+      "Mevcut durum şöyle: GDPR standartlarına uyum yüzde 90 oranında sağlandı."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Başka bir deyişle, ...",
+    "translation": "In other words, ...",
+    "b1": [
+      "Başka bir deyişle, bu bedava.",
+      "Başka bir deyişle, gelemem.",
+      "Başka bir deyişle, bu çok uzak.",
+      "Başka bir deyişle, biz kazandık.",
+      "Başka bir deyişle, her şey bitti."
+    ],
+    "b2": [
+      "Başka bir deyişle, her şeye baştan başlamamız gerekiyor.",
+      "Başka bir deyişle, bu pozisyon için adaylığınız kabul edilmedi.",
+      "Başka bir deyişle, bu proje için para yetersiz.",
+      "Başka bir deyişle, kalite standartlara uygun değil.",
+      "Başka bir deyişle, kararımızı tamamen değiştireceğiz."
+    ],
+    "c1": [
+      "Başka bir deyişle, kâr marjımız düşüyor.",
+      "Başka bir deyişle, mevcut ekonomik model artık verimli değil.",
+      "Başka bir deyişle, inovasyon tek kalan büyüme mekanizması.",
+      "Başka bir deyişle, derin bir yapısal yeniden yapılanma gerçekleştirmeliyiz.",
+      "Başka bir deyişle, piyasanın oynaklığı aşırı tedbir gerektiriyor."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Aynı fikirde olduğumuzdan emin olmak için, ... ?",
+    "translation": "Just to make sure we're on the same page, ...",
+    "b1": [
+      "Aynı fikirde olduğumuzdan emin olmak için, saat 8'de mi çıkıyoruz?",
+      "Aynı fikirde olduğumuzdan emin olmak için, sen mi ödüyorsun?",
+      "Aynı fikirde olduğumuzdan emin olmak için, İtalyan yemeği mi yiyoruz?",
+      "Aynı fikirde olduğumuzdan emin olmak için, bu bir sır mı?",
+      "Aynı fikirde olduğumuzdan emin olmak için, yalnız mı geleceksin?"
+    ],
+    "b2": [
+      "Aynı fikirde olduğumuzdan emin olmak için, rapor pazartesiye kadar hazır olmalı, değil mi?",
+      "Aynı fikirde olduğumuzdan emin olmak için, fiyatı kabul ediyor musunuz?",
+      "Aynı fikirde olduğumuzdan emin olmak için, hedefimiz satışları artırmak mı?",
+      "Aynı fikirde olduğumuzdan emin olmak için, talimatları anladınız mı?",
+      "Aynı fikirde olduğumuzdan emin olmak için, proje altı ay mı sürecek?"
+    ],
+    "c1": [
+      "Aynı fikirde olduğumuzdan emin olmak için, stratejik vizyonumuz değişmeden kalıyor mu?",
+      "Aynı fikirde olduğumuzdan emin olmak için, gizlilik kuralları burada da geçerli mi?",
+      "Aynı fikirde olduğumuzdan emin olmak için, şirket birleşmesi hâlâ yürürlükte mi?",
+      "Aynı fikirde olduğumuzdan emin olmak için, denetim geçen yılı kapsıyor mu?",
+      "Aynı fikirde olduğumuzdan emin olmak için, ana öncelik riskleri azaltmak mı?"
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Bu durum ... -dığını doğrular",
+    "translation": "This confirms that ...",
+    "b1": [
+      "Bu durum senin haklı olduğunu doğrular.",
+      "Bu durum trenin geciktiğini doğrular.",
+      "Bu durum bunun iyi bir fikir olduğunu doğrular.",
+      "Bu durum vaktinde bitirdiğimizi doğrular.",
+      "Bu durum mağazanın kapalı olduğunu doğrular."
+    ],
+    "b2": [
+      "Bu durum pazarlama stratejimizin çok iyi çalıştığını doğrular.",
+      "Bu durum müşterilerin bu yeni tasarımı beğendiğini doğrular.",
+      "Bu durum bu yaz bize daha fazla işçi gerektiğini doğrular.",
+      "Bu durum fabrikadaki güvenliğin artırılması gerektiğini doğrular.",
+      "Bu durum gelecek yıl bütçenin yetersiz olduğunu doğrular."
+    ],
+    "c1": [
+      "Bu durum makroekonomik tahminlerin isabetli olduğunu doğrular.",
+      "Bu durum inovasyonun rekabet gücümüzün itici gücü olduğunu doğrular.",
+      "Bu durum pazar durgunluğunun somut bir gerçek olduğunu doğrular.",
+      "Bu durum uyum politikamızın ne kadar sıkı olduğunu doğrular.",
+      "Bu durum dijital dönüşümün kaçınılmaz bir adım olduğunu doğrular."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Hakkında biraz daha ayrıntı vermeme izin verin: ...",
+    "translation": "Allow me to elaborate on …",
+    "b1": [
+      "Seyahatim hakkında biraz daha ayrıntı vermeme izin verin.",
+      "Ailem hakkında biraz daha ayrıntı vermeme izin verin.",
+      "İşim hakkında biraz daha ayrıntı vermeme izin verin.",
+      "Eğitimim hakkında biraz daha ayrıntı vermeme izin verin.",
+      "Bu kitap hakkında biraz daha ayrıntı vermeme izin verin."
+    ],
+    "b2": [
+      "Teknik seçimlerimizin nedenleri hakkında biraz daha ayrıntı vermeme izin verin.",
+      "Bu yeni yazılımın avantajları hakkında biraz daha ayrıntı vermeme izin verin.",
+      "Öngörülen çalışma takvimi hakkında biraz daha ayrıntı vermeme izin verin.",
+      "Son müşteri anketinin sonuçları hakkında biraz daha ayrıntı vermeme izin verin.",
+      "Yarışmaya kayıt prosedürü hakkında biraz daha ayrıntı vermeme izin verin."
+    ],
+    "c1": [
+      "Araştırmamızın etik sonuçları hakkında biraz daha ayrıntı vermeme izin verin.",
+      "Uluslararası düzeydeki büyüme kaldıraçları hakkında biraz daha ayrıntı vermeme izin verin.",
+      "Banka mevzuatının özellikleri hakkında biraz daha ayrıntı vermeme izin verin.",
+      "Çevresel etki değerlendirme çalışmasının sonuçları hakkında biraz daha ayrıntı vermeme izin verin.",
+      "Farklı uzmanlık merkezlerimiz arasındaki sinerji hakkında biraz daha ayrıntı vermeme izin verin."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Tüm detaylar şu şekilde: ...",
+    "translation": "The details are as follows: ...",
+    "b1": [
+      "Tüm detaylar şu şekilde: fiyatı on euro.",
+      "Tüm detaylar şu şekilde: buluşma öğlen olacak.",
+      "Tüm detaylar şu şekilde: kitabınızı yanınıza alın.",
+      "Tüm detaylar şu şekilde: parti cumartesi akşamı olacak.",
+      "Tüm detaylar şu şekilde: ders online yapılacak."
+    ],
+    "b2": [
+      "Tüm detaylar şu şekilde: sözleşme süresi uzatma opsiyonuyla üç yıldır.",
+      "Tüm detaylar şu şekilde: uçuş saat 8'de CDG havalimanından kalkıyor.",
+      "Tüm detaylar şu şekilde: siparişinizi 48 saat içinde teslim alacaksınız.",
+      "Tüm detaylar şu şekilde: eğitim B204 nolu odada yapılacak.",
+      "Tüm detaylar şu şekilde: ödeme banka havalesi yoluyla yapılacaktır."
+    ],
+    "c1": [
+      "Tüm detaylar şu şekilde: rekabet etmeme kuralı dünya çapında geçerlidir.",
+      "Tüm detaylar şu şekilde: varlıklar bağlı ortaklıklar arasında paylaştırılacaktır.",
+      "Tüm detaylar şu şekilde: güvenlik protokolüne sıkı sıkıya uyulmalıdır.",
+      "Tüm detaylar şu şekilde: kâr payları esas sermayedeki pay oranında ödenecektir.",
+      "Tüm detaylar şu şekilde: operasyonel eylem planı on sekiz ay sürecektir."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Burada önemli olan ... değil, ...",
+    "translation": "The important point here is not ..., but ...",
+    "b1": [
+      "Burada önemli olan fiyatı değil, kalitesi.",
+      "Burada önemli olan zaman değil, keyif almak.",
+      "Burada önemli olan kazanmak değil, katılmak.",
+      "Burada önemli olan yemek yemek değil, dinlenmek.",
+      "Burada önemli olan konuşmak değil, dinlemek."
+    ],
+    "b2": [
+      "Burada önemli olan boyutu değil, müşteri memnuniyeti.",
+      "Burada önemli olan hata değil, onu nasıl düzelttiğimiz.",
+      "Burada önemli olan geçmiş değil, gelecekteki hedeflerimiz.",
+      "Burada önemli olan haklı olduğunu kanıtlamak değil, uzlaşmak.",
+      "Burada önemli olan çok çalışmak değil, akıllıca çalışmak."
+    ],
+    "c1": [
+      "Burada önemli olan anlık kârlılık değil, stratejik sürdürülebilirlik.",
+      "Burada önemli olan biçim değil, projenin yapısal uyumu.",
+      "Burada önemli olan cezalandırmak değil, hukuki riskleri önlemek.",
+      "Burada önemli olan ürün değil, bir bütün olarak müşteri deneyimi.",
+      "Burada önemli olan rekabet değil, kendi inovasyon kapasitemiz."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Örnek olarak, ... -yi göz önünde bulundurun",
+    "translation": "For example, consider ...",
+    "b1": [
+      "Örnek olarak, bu harika hava durumunu göz önünde bulundurun.",
+      "Örnek olarak, bu düşük fiyatı göz önünde bulundurun.",
+      "Örnek olarak, bu kırmızı arabayı göz önünde bulundurun.",
+      "Örnek olarak, buradaki kendi işinizi göz önünde bulundurun.",
+      "Örnek olarak, bu İtalyan restoranını göz önünde bulundurun."
+    ],
+    "b2": [
+      "Örnek olarak, sosyal medyanın satışlar üzerindeki etkisini göz önünde bulundurun.",
+      "Örnek olarak, çalışanlar için uzaktan çalışmanın avantajlarını göz önünde bulundurun.",
+      "Örnek olarak, doğrudan rakiplerimizin durumunu göz önünde bulundurun.",
+      "Örnek olarak, son zamanlardaki iklim değişikliklerini göz önünde bulundurun.",
+      "Örnek olarak, son ürünümüzün başarısını göz önünde bulundurun."
+    ],
+    "c1": [
+      "Örnek olarak, jeopolitik istikrarsızlığın fiyatlarımız üzerindeki sonuçlarını göz önünde bulundurun.",
+      "Örnek olarak, finans sektöründe blokzincir teknolojisinin kitlesel olarak uygulanmasını göz önünde bulundurun.",
+      "Örnek olarak, genetik mühendisliğinin etik sonuçlarını göz önünde bulundurun.",
+      "Örnek olarak, eğitim ile ekonomik büyüme arasındaki ilişkiyi göz önünde bulundurun.",
+      "Örnek olarak, son on yılda gelişmekte olan piyasaların oynaklığını göz önünde bulundurun."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Özetle asıl mesele şu: ...",
+    "translation": "The bottom line is …",
+    "b1": [
+      "Özetle asıl mesele şu: mutlu olmak.",
+      "Özetle asıl mesele şu: doğru beslenmek.",
+      "Özetle asıl mesele şu: işi bitirmek.",
+      "Özetle asıl mesele şu: vaktinde olmak.",
+      "Özetle asıl mesele şu: arkadaşlara sahip olmak."
+    ],
+    "b2": [
+      "Özetle asıl mesele şu: projenin uzun vadeli perspektifte verimli olması.",
+      "Özetle asıl mesele şu: güvenlik kurallarına uymak.",
+      "Özetle asıl mesele şu: müşterilerimizin ihtiyaçlarına kulak vermek.",
+      "Özetle asıl mesele şu: işte iyi bir tutum sergilemek.",
+      "Özetle asıl mesele şu: somut sonuçlar elde etmek."
+    ],
+    "c1": [
+      "Özetle asıl mesele şu: kurumun finansal istikrarını güvence altına almak.",
+      "Özetle asıl mesele şu: zorluklar karşısında saygınlığımızı korumak.",
+      "Özetle asıl mesele şu: deney kültürünü yayarak inovasyonları teşvik etmek.",
+      "Özetle asıl mesele şu: karar alma süreçlerimizin şeffaflığını garanti etmek.",
+      "Özetle asıl mesele şu: büyük teknolojik sıçramaları önceden tahmin etmek."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Ana bulguları inceleyelim: ...",
+    "translation": "Let's review the main findings: ...",
+    "b1": [
+      "Ana bulguları inceleyelim: bitirdik.",
+      "Ana bulguları inceleyelim: bu çok pahalı.",
+      "Ana bulguları inceleyelim: herkes aynı fikirde.",
+      "Ana bulguları inceleyelim: yarın gidiyoruz.",
+      "Ana bulguları inceleyelim: bu büyük bir başarı."
+    ],
+    "b2": [
+      "Ana bulguları inceleyelim: tedarikçiyi değiştirmemiz gerekiyor.",
+      "Ana bulguları inceleyelim: reklam kampanyası etkili oldu.",
+      "Ana bulguları inceleyelim: bu yıl bütçeyi aşacağız.",
+      "Ana bulguları inceleyelim: çalışanlar daha fazla esneklik istiyor.",
+      "Ana bulguları inceleyelim: kalite yüzde 20 oranında arttı."
+    ],
+    "c1": [
+      "Ana bulguları inceleyelim: denetim, yönetimin doğru olduğunu onaylıyor.",
+      "Ana bulguları inceleyelim: birleşme somut sinerji sağlıyor.",
+      "Ana bulguları inceleyelim: üst düzey konumlandırma doğrulandı.",
+      "Ana bulguları inceleyelim: enerji dönüşümü geri döndürülemez bir süreçtir.",
+      "Ana bulguları inceleyelim: operasyonel istikrar en büyük avantajımızdır."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Durumu özetlemek gerekirse, ...",
+    "translation": "To sum up the situation, ...",
+    "b1": [
+      "Durumu özetlemek gerekirse, gecikiyoruz.",
+      "Durumu özetlemek gerekirse, paramız bitti.",
+      "Durumu özetlemek gerekirse, iş bitti.",
+      "Durumu özetlemek gerekirse, her şey yolunda.",
+      "Durumu özetlemek gerekirse, bir sorun var."
+    ],
+    "b2": [
+      "Durumu özetlemek gerekirse, pazar doygunluğa ulaştı ve fiyatlar düşüyor.",
+      "Durumu özetlemek gerekirse, en önemli müşterimizi kaybettik.",
+      "Durumu özetlemek gerekirse, yeni binalar neredeyse hazır.",
+      "Durumu özetlemek gerekirse, şu anda ekibin motivasyonu düşük.",
+      "Durumu özetlemek gerekirse, yeni bir stratejiye ihtiyacımız var."
+    ],
+    "c1": [
+      "Durumu özetlemek gerekirse, ekonomik ve sosyal krizlerin kesişim noktasına tanıklık ediyoruz.",
+      "Durumu özetlemek gerekirse, teşhis aşaması büyük yapısal kusurlar tespit etti.",
+      "Durumu özetlemek gerekirse, uluslararası genişleme şimdilik durduruldu.",
+      "Durumu özetlemek gerekirse, oldukça istikrarsız bir mevzuat ortamında faaliyet gösteriyoruz.",
+      "Durumu özetlemek gerekirse, bu modelin sürdürülebilirliği inovasyon kapasitemize bağlı."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Anladığım kadarıyla, ...",
+    "translation": "My understanding is that ...",
+    "b1": [
+      "Anladığım kadarıyla, yorgunsun.",
+      "Anladığım kadarıyla, film bitti.",
+      "Anladığım kadarıyla, gitmemiz gerekiyor.",
+      "Anladığım kadarıyla, bu zor.",
+      "Anladığım kadarıyla, aynı fikirdesin."
+    ],
+    "b2": [
+      "Anladığım kadarıyla, bu yıl bütçe artırılmayacak.",
+      "Anladığım kadarıyla, deneyimli birini arıyorsunuz.",
+      "Anladığım kadarıyla, proje ertelendi.",
+      "Anladığım kadarıyla, müşteri memnuniyeti düştü.",
+      "Anladığım kadarıyla, ekibe yeni araçların eğitimini vermeliyiz."
+    ],
+    "c1": [
+      "Anladığım kadarıyla, stratejik sürdürülebilirlik bizim esnekliğimize bağlı.",
+      "Anladığım kadarıyla, vergi optimizasyonu grup için bir önceliktir.",
+      "Anladığım kadarıyla, yönetim sistemini radikal bir şekilde değiştirmeyi öneriyorsunuz.",
+      "Anladığım kadarıyla, çevresel etki belirleyici bir kriterdir.",
+      "Anladığım kadarıyla, merkezler arasındaki operasyonel sinerji yetersiz."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Net olmak gerekirse, ...",
+    "translation": "Just to be clear, …",
+    "b1": [
+      "Net olmak gerekirse, bu benim kalemim.",
+      "Net olmak gerekirse, bu akşam gelmeyeceğim.",
+      "Net olmak gerekirse, buluşma öğlen olacak.",
+      "Net olmak gerekirse, burada sigara içmek yasaktır.",
+      "Net olmak gerekirse, kabul ediyorum."
+    ],
+    "b2": [
+      "Net olmak gerekirse, bu doğrudan işe alım sözü değildir.",
+      "Net olmak gerekirse, yol masrafları karşılanmayacaktır.",
+      "Net olmak gerekirse, bu tedarikçiyle artık çalışmayacağız.",
+      "Net olmak gerekirse, koruyucu ekipman giymelisiniz.",
+      "Net olmak gerekirse, belirtilen fiyata vergiler dahil değildir."
+    ],
+    "c1": [
+      "Net olmak gerekirse, onayım kuralların yeniden gözden geçirilmesine bağlıdır.",
+      "Net olmak gerekirse, bu bir emir değil, sadece bir öneridir.",
+      "Net olmak gerekirse, sözleşmenin geleceği bu sonuçlara bağlıdır.",
+      "Net olmak gerekirse, hiçbir yasal sorumluluk üstlenmiyoruz.",
+      "Net olmak gerekirse, denetim kapsamlı olacak ve son beş yılı kapsayacak."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Nihai sonuç ... oldu",
+    "translation": "The final outcome was ...",
+    "b1": [
+      "Nihai sonuç başarılı oldu.",
+      "Nihai sonuç hayal kırıklığı yarattı.",
+      "Nihai sonuç harika oldu.",
+      "Nihai sonuç beraberlik oldu.",
+      "Nihai sonuç beklentilerimizi karşıladı."
+    ],
+    "b2": [
+      "Nihai sonuç cironun yüzde 10 artması oldu.",
+      "Nihai sonuç yeni bir pazarlama departmanının kurulması oldu.",
+      "Nihai sonuç sekiz saatlik tartışmanın ardından iki tarafın anlaşması oldu.",
+      "Nihai sonuç projenin tamamen durdurulması oldu.",
+      "Nihai sonuç verimli bir geri dönüşüm sisteminin uygulanması oldu."
+    ],
+    "c1": [
+      "Nihai sonuç şirket yönetim sisteminin derin bir yapısal reformu oldu.",
+      "Nihai sonuç piyasa düzenleyici otoritelerinden onay almak oldu.",
+      "Nihai sonuç operasyonel istikrarımızın önemli ölçüde artması oldu.",
+      "Nihai sonuç uluslararası çevre sertifikası almak oldu.",
+      "Nihai sonuç başlangıçtaki kültürel engellere rağmen başarılı bir birleşme oldu."
+    ]
+  }
+]

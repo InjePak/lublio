@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Eğer biz ... , o zaman ... -ız/-iz",
+    "translation": "If we ..., then we will ...",
+    "b1": [
+      "Eğer biz çok çalışırsak, o zaman sınavı geçeriz.",
+      "Eğer biz şimdi çıkarsak, o zaman vaktinde varırız.",
+      "Eğer biz birlikte yemek yaparsak, o zaman iyi vakit geçiririz.",
+      "Eğer biz bu kanepeyi satın alırsak, o zaman oturma odasını değiştiririz.",
+      "Eğer biz hızlı yürürsek, o zaman otobüse yetişiriz."
+    ],
+    "b2": [
+      "Eğer biz harcamalarımızı azaltırsak, o zaman bütçeyi dengeleriz.",
+      "Eğer biz bu ürünü yazın çıkarırsak, o zaman daha fazla müşteri çekeriz.",
+      "Eğer biz bu teklifi kabul edersek, o zaman gelirimizi artırırız.",
+      "Eğer biz uzaktan çalışırsak, o zaman ofis giderlerinden tasarruf ederiz.",
+      "Eğer biz tedarikçiyi değiştirirsek, o zaman kaliteyi artırırız."
+    ],
+    "c1": [
+      "Eğer biz bu inovasyon hızını korursak, o zaman iki yıl içinde pazara hakim oluruz.",
+      "Eğer biz hoşnutsuzluk belirtilerini görmezden gelirsek, o zaman büyük bir sosyal krizle karşılaşırız.",
+      "Eğer biz yenilenebilir enerjiye yatırım yaparsak, o zaman şirketin geleceğini güvence altına alırız.",
+      "Eğer biz karar alma mekanizmasını merkezileşmekten çıkarırsak, o zaman operasyonel esneklik kazanırız.",
+      "Eğer biz bu reformu kabul edersek, o zaman ekonomik modelimizi kökten değiştiririz."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "... -sa/-se ne olurdu?",
+    "translation": "What would happen if ...?",
+    "b1": [
+      "Çantamı kaybetsem ne olurdu?",
+      "Biz çok fazla pasta yesek ne olurdu?",
+      "Sen yarın gelmesen ne olurdu?",
+      "Piknik sırasında yağmur yağsa ne olurdu?",
+      "Biz başka bir film izlesek ne olurdu?"
+    ],
+    "b2": [
+      "Hükümet vergileri artırsa ne olurdu?",
+      "Ana müşterimiz sözleşmeden vazgeçse ne olurdu?",
+      "Yapay zeka editörlerimizin yerini alsa ne olurdu?",
+      "Biz yurt dışına taşınmaya karar versek ne olurdu?",
+      "Davetimize kimse cevap vermese ne olurdu?"
+    ],
+    "c1": [
+      "Küresel bankacılık sistemi aniden çökse ne olurdu?",
+      "Biz tamamen ham madde kıtlığıyla karşı karşıya kalsak ne olurdu?",
+      "Kitlesel tüketim paradigması kökten değişse ne olurdu?",
+      "Teknoloji yüzünden gerçek ile yalanı ayırt etmek imkansız hale gelse ne olurdu?",
+      "Biz aniden tüm dijital verilere erişimi kaybetsek ne olurdu?"
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Eğer sonuç ... olursa, ... -malıyız/-meliyiz",
+    "translation": "Should the outcome be ..., we must ...",
+    "b1": [
+      "Eğer sonuç iyi olursa, bunu kutlamalıyız.",
+      "Eğer sonuç kötü olursa, yeniden başlamalıyız.",
+      "Eğer sonuç olumlu olursa, çalışmaya devam etmeliyiz.",
+      "Eğer sonuç olumsuz olursa, doktoru aramalıyız.",
+      "Eğer sonuç net olursa, karar vermeliyiz."
+    ],
+    "b2": [
+      "Eğer sonuç tahminden düşük olursa, harcamaları azaltmalıyız.",
+      "Eğer sonuç cesaret verici olursa, bu projeye daha fazla yatırım yapmalıyız.",
+      "Eğer sonuç tartışmalı olursa, dış denetim talep etmeliyiz.",
+      "Eğer sonuç tatmin edici değilse, başarısızlığın nedenlerini analiz etmeliyiz.",
+      "Eğer sonuç ekip tarafından onaylanırsa, üretime başlamalıyız."
+    ],
+    "c1": [
+      "Eğer sonuç yapısal bir arızanın belirtisi olursa, sistemi yeniden kurmalıyız.",
+      "Eğer sonuç etik taleplerimizin altında kalırsa, ortaklığı sonlandırmalıyız.",
+      "Eğer sonuç stratejinin değil de tesadüfün bir meyvesi olursa, temkinli olmalıyız.",
+      "Eğer sonuç pazarın değiştiğini gösterirse, derhal yönümüzü çevirmeliyiz.",
+      "Eğer sonuç bilimsel olarak kanıtlanırsa, bu verileri gecikmeden yayımlamalıyız."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Eğer ... bilseydim, ... -ardım/-erdim",
+    "translation": "If I had known ..., I would have ...",
+    "b1": [
+      "Eğer yağmuru bilseydim, şemsiyemi alırdım.",
+      "Eğer gerçeği bilseydim, kırılırdım.",
+      "Eğer senin geleceğini bilseydim, pasta pişirirdim.",
+      "Eğer fiyatını bilseydim, başka bir telefon satın alırdım.",
+      "Eğer zamanı bilseydim, daha hızlı koşardım."
+    ],
+    "b2": [
+      "Eğer bu projenin bu kadar karmaşık olacağını bilseydim, daha fazla zaman isterdim.",
+      "Eğer senin gerçek niyetini bilseydim, farklı davranırdım.",
+      "Eğer finansal riskleri bilseydim, bir uzmanla görüşürdüm.",
+      "Eğer dükkanın erken kapanacağını bilseydim, sabah giderdim.",
+      "Eğer sana yardım gerektiğini bilseydim, hemen gelirdim."
+    ],
+    "c1": [
+      "Eğer bu anlaşmanın jeopolitik sonuçlarını bilseydim, karşı oy verirdim.",
+      "Eğer bu sistemin bu kadar çabuk eskiyeceğini bilseydim, geçişi önceden planlardım.",
+      "Eğer kurumsal kültürün bu şekilde bozulacağını bilseydim, başka değerler inşa ederdim.",
+      "Eğer bu kararın psikolojik etkisini bilseydim, insancıl yaklaşıma öncelik verirdim.",
+      "Eğer bu pazarın bu kadar çabuk doyacağını bilseydim, varlıklarımızı çeşitlendirirdim."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "... varsayarsak, ... olması muhtemeldir",
+    "translation": "Assuming that ..., it is likely that ...",
+    "b1": [
+      "Havanın açık olacağını varsayarsak, bizim sahile gitmemiz muhtemeldir.",
+      "Senin çalışacağını varsayarsak, senin para kazanman muhtemeldir.",
+      "Otobüsün geleceğini varsayarsak, benim öğlen varmam muhtemeldir.",
+      "Onun evet diyeceğini varsayarsak, bizim mutlu olmamız muhtemeldir.",
+      "Sınavın kolay olacağını varsayarsak, herkesin geçmesi muhtemeldir."
+    ],
+    "b2": [
+      "Trendin doğrulanacağını varsayarsak, satışların artması muhtemeldir.",
+      "Bütçenin kabul edileceğini varsayarsak, bizim yakın zamanda işe birini almamız muhtemeldir.",
+      "Aşının etkili olduğunu varsayarsak, hayatın normal akışına dönmesi muhtemeldir.",
+      "Gecikmenin telafi edileceğini varsayarsak, bizim zamanında bitirmemiz muhtemeldir.",
+      "Sizin şartlarımızı kabul edeceğinizi varsayarsak, bizim yarın imza atmamız muhtemeldir."
+    ],
+    "c1": [
+      "Faiz oranlarının düşeceğini varsayarsak, yatırımların yeniden canlanması muhtemeldir.",
+      "Dijital dönüşümün hızlanacağını varsayarsak, bazı mesleklerin yok olması muhtemeldir.",
+      "Çatışmanın uzayacağını varsayarsak, enflasyonun uzun süre kalıcı olması muhtemeldir.",
+      "Yapay zekanın bu üretkenlik seviyesine ulaşacağını varsayarsak, yasa çıkarmamızın gerekmesi muhtemeldir.",
+      "Sosyal birliğin korunacağını varsayarsak, reformun başarılı olması muhtemeldir."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Tahminime göre ... olacak.",
+    "translation": "I predict that ... will happen.",
+    "b1": [
+      "Tahminime göre bu akşam yağmur olacak.",
+      "Tahminime göre senin takımın şampiyon olacak.",
+      "Tahminime göre bu film harika olacak.",
+      "Tahminime göre o geç kalacak.",
+      "Tahminime göre sen bu yemeği beğeneceksin."
+    ],
+    "b2": [
+      "Tahminime göre şirkette büyük bir değişim olacak.",
+      "Tahminime göre yakın zamanda yeni bir ekonomik kriz olacak.",
+      "Tahminime göre ayın sonuna kadar diplomatik bir anlaşma olacak.",
+      "Tahminime göre bu yeni ürün büyük bir ticari başarı olacak.",
+      "Tahminime göre gelecek yıl gayrimenkul fiyatlarında artış olacak."
+    ],
+    "c1": [
+      "Tahminime göre yakın zamanda jeopolitik dengenin bozulması söz konusu olacak.",
+      "Tahminime göre enerji sektöründe büyük bir teknolojik sıçrama olacak.",
+      "Tahminime göre genç nesilde köklü bir ekolojik bilincin oluşması söz konusu olacak.",
+      "Tahminime göre Avrupa düzeyinde sosyal sözleşmenin yeniden gözden geçirilmesi olacak.",
+      "Tahminime göre eğer kullanımımızı sınırlamazsak iletişim ağlarında aşırı yüklenme olacak."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "... olmazsa, ... -amayız/-emeyiz",
+    "translation": "Unless ... happens, we won't be able to ...",
+    "b1": [
+      "O özür dilemezse, biz arkadaş olamayız.",
+      "Hava açık olmazsa, biz dışarı çıkamayız.",
+      "Sen yemek yemezsen, biz gidemeyiz.",
+      "Tren gelmezse, biz eve dönemeyiz.",
+      "Sen ders çalışmazsan, sen sınavı geçemezsin."
+    ],
+    "b2": [
+      "Harika bir şey olmazsa, biz bu projeyi bu akşam bitiremeyiz.",
+      "Müdür onay vermezse, biz ofisi değiştiremeyiz.",
+      "Finansman olmazsa, biz uygulamayı hayata geçiremeyiz.",
+      "Durum düzelmezse, biz mevcut fiyatı koruyamayız.",
+      "Bir hata yapılmadıysa, biz bu sonuçlara itiraz edemeyiz."
+    ],
+    "c1": [
+      "Paradigmasal bir değişiklik olmazsa, biz iklim krizini çözemeyiz.",
+      "Yapısal bir reform olmazsa, biz ekonomiyi düzeltemeyiz.",
+      "Siyasi bir uzlaşı olmazsa, biz bu sözleşmeyi onaylayamayız.",
+      "Çığır açan bir inovasyon olmazsa, biz rekabetçi kalamayız.",
+      "Etik bir bilinç oluşmazsa, biz yapay zekayı düzenleyemeyiz."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "... durumunda, ... -malıyız/-meliyiz",
+    "translation": "In the event of ..., we should ...",
+    "b1": [
+      "Yağmur yağması durumunda, biz evde kalmalıyız.",
+      "Acıkmamız durumunda, biz meyve satın almalıyız.",
+      "Sorun çıkması durumunda, biz annemizi aramalıyız.",
+      "Gecikme durumunda, biz mesaj göndermeliyiz.",
+      "Yorulma durumunda, biz uyumalıyız."
+    ],
+    "b2": [
+      "Tıbbi acil bir durumunda, biz derhal itfaiyeye/ambulansa haber vermeliyiz.",
+      "Bilgisayarın bozulması durumunda, biz kağıt belgeleri kullanmalıyız.",
+      "Anlaşmazlık çıkması durumunda, biz sorunu çözmek için oylama yapmalıyız.",
+      "Talebin yüksek olması durumunda, biz geçici çalışanlar almalıyız.",
+      "Müzakerelerin başarısızlıkla sonuçlanması durumunda, biz başka bir ortak aramalıyız."
+    ],
+    "c1": [
+      "Kitlesel bir siber saldırı durumunda, biz 4. seviye güvenlik protokolünü devreye sokmalıyız.",
+      "Piyasaların aşırı dalgalanması durumunda, biz riskli yatırımlarımızı durdurmalıyız.",
+      "Otoritenin boş kalması durumunda, biz otuz gün içinde erken seçim düzenlemeliyiz.",
+      "Sözleşme şartlarının yerine getirilmemesi durumunda, biz dava sürecini başlatmalıyız.",
+      "Büyük bir stratejik uçurum oluşması durumunda, biz şirketi iki ayrı yapıya bölmeliyiz."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "... olmasının olasılığı yüksektir.",
+    "translation": "There's a high probability that ...",
+    "b1": [
+      "Yarın yağmur yağması olasılığı yüksektir.",
+      "Senin piyangoyu kazanma olasılığın yüksektir.",
+      "Onun akşam gelmesi olasılığı yüksektir.",
+      "Dersin iptal edilmesi olasılığı yüksektir.",
+      "Bunun lezzetli olması olasılığı yüksektir."
+    ],
+    "b2": [
+      "Bu kış petrol fiyatlarının yeniden yükselmesi olasılığı yüksektir.",
+      "Bizim seyahat planımızı değiştirmemiz olasılığı yüksektir.",
+      "Şirketi yabancı bir grubun satın alması olasılığı yüksektir.",
+      "Yeni kuralların getirilmesi olasılığı yüksektir.",
+      "Gelecek yıl sizin rütbenizin/makamınızın yükselmesi olasılığı yüksektir."
+    ],
+    "c1": [
+      "Para birimindeki devalüasyonun fırlayan bir enflasyona yol açması olasılığı yüksektir.",
+      "Otomasyonun iş gücü piyasasını kökten değiştirmesi olasılığı yüksektir.",
+      "Bu siyasi istikrarsızlığın silahlı bir çatışmaya dönüşmesi olasılığı yüksektir.",
+      "Su kaynaklarının yüzyılın ana meselesi haline gelmesi olasılığı yüksektir.",
+      "Bizim sosyal değerlerin derin değişimine tanıklık etmemiz olasılığı yüksektir."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Eğer ... , biz ... görebilirdik",
+    "translation": "We might see ... if ...",
+    "b1": [
+      "Eğer biz denize gitsek, biz yunusları görebilirdik.",
+      "Eğer gökyüzü açık olsa, biz yıldızları görebilirdik.",
+      "Eğer biz biraz yürüsek, biz Eyfel Kulesi'ni görebilirdik.",
+      "Eğer biz burada beklesek, biz patronu görebilirdik.",
+      "Eğer bahar olsa, biz çiçekleri görebilirdik."
+    ],
+    "b2": [
+      "Eğer biz bu diyeti uygulasak, biz iyileşme görebilirdik.",
+      "Eğer biz ekiple çalışsak, biz net sonuçlar görebilirdik.",
+      "Eğer büyüme yeniden başlasa, biz işsizliğin düşmesini görebilirdik.",
+      "Eğer biz mahalleyi değiştirsek, biz yeni yüzler görebilirdik.",
+      "Eğer biz durumu iyi anlatsak, biz olumlu tepki görebilirdik."
+    ],
+    "c1": [
+      "Eğer biz harekete geçmezsek, biz biyoçeşitliliğin geri dönülemez şekilde bozulmasını görebilirdik.",
+      "Eğer iklim koşulları zorlaşırsa, biz kitlesel kırsal göçler görebilirdik.",
+      "Eğer kriz şiddetlenirse, biz aşırılıkçı ideolojilerin yeniden canlanmasını görebilirdik.",
+      "Eğer yatırımlar çekilirse, biz yeşil bir endüstriyel devrim görebilirdik.",
+      "Eğer gelişmekte olan ülkeler birleşirse, biz ekonomik hegemonyanın el değiştirmesini görebilirdik."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Bu, gelecekte ... olacağı anlamına gelir",
+    "translation": "This suggests that the future holds ...",
+    "b1": [
+      "Bu, gelecekte iyi sürprizler olacağı anlamına gelir.",
+      "Bu, gelecekte çok iş olacağı anlamına gelir.",
+      "Bu, gelecekte yağmur olacağı anlamına gelir.",
+      "Bu, gelecekte havanın açık olacağı anlamına gelir.",
+      "Bu, gelecekte seyahatler olacağı anlamına gelir."
+    ],
+    "b2": [
+      "Bu, gelecekte bizim neslimiz için büyük sınavlar olacağı anlamına gelir.",
+      "Bu, gelecekte dijital alanda harika fırsatlar olacağı anlamına gelir.",
+      "Bu, gelecekte bizim yaşam tarzımızda önemli değişiklikler olacağı anlamına gelir.",
+      "Bu, gelecekte rekabetin daha da güçleneceği anlamına gelir.",
+      "Bu, gelecekte teknoloji sayesinde hayatın daha kolay olacağı anlamına gelir."
+    ],
+    "c1": [
+      "Bu, gelecekte sağlık sistemlerimizin tamamen yeniden kurulacağı anlamına gelir.",
+      "Bu, gelecekte finans piyasaları için kronik bir istikrarsızlık olacağı anlamına gelir.",
+      "Bu, gelecekte enerji kaynaklarının etrafında gerilimlerin artacağı anlamına gelir.",
+      "Bu, gelecekte özel hayat kavramının kökten yeniden tanımlanacağı anlamına gelir.",
+      "Bu, gelecekte daha yerel yönetim biçimlerine geçiş olacağı anlamına gelir."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Sonuç tamamen ...-e/-a bağlıdır",
+    "translation": "The outcome depends entirely on whether or not ...",
+    "b1": [
+      "Sonuç tamamen senin çalışmana bağlıdır.",
+      "Sonuç tamamen hava durumuna bağlıdır.",
+      "Sonuç tamamen senin seçimine bağlıdır.",
+      "Sonuç tamamen paraya bağlıdır.",
+      "Sonuç tamamen senin cevabına bağlıdır."
+    ],
+    "b2": [
+      "Sonuç tamamen bizim etkili şekilde iş birliği yapma yeteneğimize bağlıdır.",
+      "Sonuç tamamen genel müdürün son kararına bağlıdır.",
+      "Sonuç tamamen kullanılan ham maddenin kalitesine bağlıdır.",
+      "Sonuç tamamen halktan alacağımız desteğe bağlıdır.",
+      "Sonuç tamamen dünya sağlık durumunun gelişimine bağlıdır."
+    ],
+    "c1": [
+      "Sonuç tamamen projenin farklı katılımcıları arasındaki sinerjiye bağlıdır.",
+      "Sonuç tamamen bizim operasyonel yapımızın esnekliğine bağlıdır.",
+      "Sonuç tamamen bizim bu normları uygulamadaki titizliğimize bağlıdır.",
+      "Sonuç tamamen bizim teklifimiz ile gerçek talebin uyuşmasına bağlıdır.",
+      "Sonuç tamamen araştırmalara ayrılan finansmanın sürdürülebilirliğine bağlıdır."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Eğer trend devam ederse, o zaman ...",
+    "translation": "If the trend continues, then ...",
+    "b1": [
+      "Eğer trend devam ederse, o zaman hava çok sıcak olacak.",
+      "Eğer trend devam ederse, o zaman biz maçta galip geleceğiz.",
+      "Eğer trend devam ederse, o zaman herkes gelecek.",
+      "Eğer trend devam ederse, o zaman fiyatlar düşecek.",
+      "Eğer trend devam ederse, o zaman biz erken bitireceğiz."
+    ],
+    "b2": [
+      "Eğer trend devam ederse, o zaman bizim şirketimiz gelecek yıl pazarın lideri olacak.",
+      "Eğer trend devam ederse, o zaman doğal kaynaklar hızla tükenecek.",
+      "Eğer trend devam ederse, o zaman uzaktan çalışmak herkes için normal bir durum olacak.",
+      "Eğer trend devam ederse, o zaman biz üretim kapasitemizi iki katına çıkarmalıyız.",
+      "Eğer trend devam ederse, o zaman sosyal gerilimler güçlenebilir."
+    ],
+    "c1": [
+      "Eğer trend devam ederse, o zaman biz kırsal bölgelerin çölleşmesine tanıklık edeceğiz.",
+      "Eğer trend devam ederse, o zaman kamu borcu on yıl sonra kritik sınıra ulaşacak.",
+      "Eğer trend devam ederse, o zaman becerilerin eskimesi ciddi şekilde hızlanacak.",
+      "Eğer trend devam ederse, o zaman kamuoyu kutuplaşması her türlü diyaloğu imkansız hale getirecek.",
+      "Eğer trend devam ederse, o zaman enerji karmasındaki fosil yakıtların payı keskin bir şekilde düşecek."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Eğer onlar ... dikkate alsalardı, sonuç ... olurdu",
+    "translation": "Had they considered ..., the result would have been ...",
+    "b1": [
+      "Eğer onlar fiyatı dikkate alsalardı, sonuç farklı olurdu.",
+      "Eğer onlar hava durumunu dikkate alsalardı, sonuç daha iyi olurdu.",
+      "Eğer onlar benim fikrimi dikkate alsalardı, sonuç olumlu olurdu.",
+      "Eğer onlar zamanı dikkate alsalardı, sonuç daha hızlı olurdu.",
+      "Eğer onlar çocukları dikkate alsalardı, sonuç sevindirici olurdu."
+    ],
+    "b2": [
+      "Eğer onlar ekolojik riskleri dikkate alsalardı, sonuç bu kadar feci olmazdı.",
+      "Eğer onlar müşterilerin geri bildirimlerini dikkate alsalardı, sonuç ticari başarı olurdu.",
+      "Eğer onlar teknik bakım maliyetlerini dikkate alsalardı, sonuç gerçeğe daha yakın olurdu.",
+      "Eğer onlar rekabeti dikkate alsalardı, sonuç daha agresif bir strateji olurdu.",
+      "Eğer onlar mevcut mevzuatı dikkate alsalardı, sonuç yasal olurdu."
+    ],
+    "c1": [
+      "Eğer onlar sosyal sonuçları dikkate alsalardı, sonuç çok daha sorunsuz bir entegrasyon olurdu.",
+      "Eğer onlar borsa dalgalanmalarını dikkate alsalardı, sonuç çok daha temkinli bir yönetim olurdu.",
+      "Eğer onlar diplomatik ittifakların kırılganlığını dikkate alsalardı, sonuç barış olurdu.",
+      "Eğer onlar otomasyonun istihdam üzerindeki etkisini dikkate alsalardı, sonuç bir sosyal reform olurdu.",
+      "Eğer onlar ağın aşırı yüklenmesini dikkate alsalardı, sonuç çok daha sağlam bir altyapı olurdu."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "... durumuna karşı yedek bir plana ihtiyacımız var",
+    "translation": "We need a backup plan in case ...",
+    "b1": [
+      "Yağmur yağması durumuna karşı yedek bir plana ihtiyacımız var.",
+      "Trenin gecikmesi durumuna karşı yedek bir plana ihtiyacımız var.",
+      "Restoranın kapalı olması durumuna karşı yedek bir plana ihtiyacımız var.",
+      "Anahtarımı unutmam durumuna karşı yedek bir plana ihtiyacımız var.",
+      "Paramızın bitmesi durumuna karşı yedek bir plana ihtiyacımız var."
+    ],
+    "b2": [
+      "Temel finansmanın reddedilmesi durumuna karşı yedek bir plana ihtiyacımız var.",
+      "Bilgisayar sisteminin çökmesi durumuna karşı yedek bir plana ihtiyacımız var.",
+      "Tedarikçimizin iflas etmesi durumuna karşı yedek bir plana ihtiyacımız var.",
+      "Satışların aniden düşmesi durumuna karşı yedek bir plana ihtiyacımız var.",
+      "Toplantının son anda iptal edilmesi durumuna karşı yedek bir plana ihtiyacımız var."
+    ],
+    "c1": [
+      "Jeopolitik krizin ihracatı engellemesi durumuna karşı yedek bir plana ihtiyacımız var.",
+      "Şirketin siber dayanıklılığının bozulması durumuna karşı yedek bir plana ihtiyacımız var.",
+      "Yeni düzenlemelerin ürünümüzü eskimiş kılması durumuna karşı yedek bir plana ihtiyacımız var.",
+      "Skandalların küresel itibarımıza zarar vermesi durumuna karşı yedek bir plana ihtiyacımız var.",
+      "Enflasyonun üretim maliyetlerini karşılanamaz hale getirmesi durumuna karşı yedek bir plana ihtiyacımız var."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "... düşünülebilir",
+    "translation": "It is conceivable that ...",
+    "b1": [
+      "Senin yorulduğun düşünülebilir.",
+      "Bugün öğleden sonra yağmur yağacağı düşünülebilir.",
+      "Başta zor olacağı düşünülebilir.",
+      "Bizim restoranda yemek yiyeceğimiz düşünülebilir.",
+      "Yakında fiyatların düşeceği düşünülebilir."
+    ],
+    "b2": [
+      "İki tarafın hiçbir zaman anlaşmaya varamayacağı düşünülebilir.",
+      "Mevcut teknolojinin beş yıl sonra eskiyeceği düşünülebilir.",
+      "Bizim tüm iç organizasyonumuzu yeniden gözden geçirmemiz gerektiği düşünülebilir.",
+      "Bu ürüne olan ilginin zamanla azalacağı düşünülebilir.",
+      "Uzaktan çalışmanın yasal bir zorunluluk haline geleceği düşünülebilir."
+    ],
+    "c1": [
+      "İnsanlığın hayatta kalabilmek için diğer gezegenleri keşfetmesi gerektiği düşünülebilir.",
+      "Ulus devlet yapısının bizzat kendisinin sorgulanır hale gelebileceği düşünülebilir.",
+      "Yapay zekanın en nihayetinde bir tür bilinç geliştireceği düşünülebilir.",
+      "Bizim seçilmiş değil, mecburi bir küçülmeye (growthlessness) tanıklık edeceğimiz düşünülebilir.",
+      "Fiziksel para biriminin dijital paralar lehine tamamen ortadan kalkacağı düşünülebilir."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "... -sız/-siz ... imkansızdır",
+    "translation": "Without ..., it is impossible to ...",
+    "b1": [
+      "Parasız bu arabayı satın almak imkansızdır.",
+      "Susuz yaşamak imkansızdır.",
+      "Anahtarsız kapıyı açmak imkansızdır.",
+      "Çalışmadan/Okumadan bu sınavı geçmek imkansızdır.",
+      "Güneşsiz sahile gitmek imkansızdır."
+    ],
+    "b2": [
+      "Net bir iletişim olmadan bu projeyi başarıyla gerçekleştirmek imkansızdır.",
+      "Liderliğin desteği olmadan kurumsal kültürü değiştirmek imkansızdır.",
+      "Büyük yatırımlar olmadan bu pazarda rekabetçi kalabilmek imkansızdır.",
+      "Müşterilerin güveni olmadan faaliyetlerimizi sürdürmek imkansızdır.",
+      "Modern araçlar olmadan üretkenliği artırmak imkansızdır."
+    ],
+    "c1": [
+      "Uygun stratejik bir vizyon olmadan pazarın bozulacağını öngörmek imkansızdır.",
+      "Katı bir etik olmadan bilimsel araştırmaların bütünlüğünü garanti etmek imkansızdır.",
+      "Uluslararası bir uzlaşı olmadan küresel finansal akışları düzenlemek imkansızdır.",
+      "Güçlü bir psikolojik dayanıklılık olmadan böyle bir sistemik krizi aşmak imkansızdır.",
+      "Yaşam tarzımızı gözden geçirmeden karbon nötrlüğüne ulaşmak imkansızdır."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Kanıtlar ... olacağına işaret ediyor.",
+    "translation": "The evidence points towards ... happening.",
+    "b1": [
+      "Kanıtlar yağmur yağacağına işaret ediyor.",
+      "Kanıtlar senin haklı olduğuna işaret ediyor.",
+      "Kanıtlar trenin gittiğine işaret ediyor.",
+      "Kanıtlar bu filmin iyi olduğuna işaret ediyor.",
+      "Kanıtlar onun kırıldığına işaret ediyor."
+    ],
+    "b2": [
+      "Kanıtlar bu on yılda sıcaklıkların yükseleceğine işaret ediyor.",
+      "Kanıtlar yakın zamanda tüketimin düşeceğine işaret ediyor.",
+      "Kanıtlar ekipte bir liderlik değişiminin olacağına işaret ediyor.",
+      "Kanıtlar sonbaharda ekonomik bir gerilemenin olacağına işaret ediyor.",
+      "Kanıtlar tıpta teknolojik bir devrimin olacağına işaret ediyor."
+    ],
+    "c1": [
+      "Kanıtlar acil önlemler alınmazsa deniz biyoçeşitliliğinin çökeceğine işaret ediyor.",
+      "Kanıtlar jeopolitik eksenin Asya'ya doğru kayacağına işaret ediyor.",
+      "Kanıtlar eğer faizler yükselirse bir egemen borç krizinin olacağına işaret ediyor.",
+      "Kanıtlar bu virüsün genetik mutasyon geçireceğine işaret ediyor.",
+      "Kanıtlar yanlış bilgi yayılımı yüzünden demokratik kurumların istikrarsızlaşacağına işaret ediyor."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "... şartıyla, biz ... başlayabiliriz",
+    "translation": "On the condition that ..., we can proceed with ...",
+    "b1": [
+      "Havanın açık olması şartıyla, biz yürüyüşe başlayabiliriz.",
+      "Ödevini bitirmen şartıyla, biz oyuna başlayabiliriz.",
+      "Her şeyin hazır olması şartıyla, biz yola çıkmaya başlayabiliriz.",
+      "Senin kabul etmen şartıyla, biz evlilik hazırlığına başlayabiliriz.",
+      "Fiyatların düşmesi şartıyla, biz satın almaya başlayabiliriz."
+    ],
+    "b2": [
+      "Sözleşmenin imzalanması şartıyla, biz malları göndermeye başlayabiliriz.",
+      "Finansmanın ayrılması şartıyla, biz onarım çalışmalarına başlayabiliriz.",
+      "Testlerin başarıyla geçmesi şartıyla, biz ulusal çapta lansmana başlayabiliriz.",
+      "Sizin talimatlara uymanız şartıyla, biz mülakata başlayabiliriz.",
+      "Güvenliğin sağlanması şartıyla, biz siteyi açmaya başlayabiliriz."
+    ],
+    "c1": [
+      "Denetimin olumlu sonuç vermesi şartıyla, biz birleşmeye başlayabiliriz.",
+      "Yasal çerçevenin netleşmesi şartıyla, biz serbest bölgeye yerleşmeye başlayabiliriz.",
+      "Dijital egemenliğin sağlanması şartıyla, biz veri taşımaya başlayabiliriz.",
+      "Hissedarların planı onaylaması şartıyla, biz sermayeyi yeniden yapılandırmaya başlayabiliriz.",
+      "Barışın tesis edilmesi şartıyla, biz altyapıyı yeniden kurmaya başlayabiliriz."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Uzun vadeli sonuç ...",
+    "translation": "The long-term implication is ...",
+    "b1": [
+      "Uzun vadeli sonuç bizim sağlığımızın daha iyi olması.",
+      "Uzun vadeli sonuç bizim para tasarruf etmemiz.",
+      "Uzun vadeli sonuç bizim Fransızcayı daha iyi öğrenmemiz.",
+      "Uzun vadeli sonuç bizim bahçemizin güzel olması.",
+      "Uzun vadeli sonuç bizim daha sakin olmamız."
+    ],
+    "b2": [
+      "Uzun vadeli sonuç ithal enerjiye olan bağımlılığın artması.",
+      "Uzun vadeli sonuç bazı yerel dükkanların yok olması.",
+      "Uzun vadeli sonuç şehir sakinlerinin yaşam kalitesinin artması.",
+      "Uzun vadeli sonuç yeni iş kollarının açılması.",
+      "Uzun vadeli sonuç bizim ekolojik ayak izimizin önemli ölçüde düşmesi."
+    ],
+    "c1": [
+      "Uzun vadeli sonuç orta sınıfın satın alma gücünün kaçınılmaz olarak düşmesi.",
+      "Uzun vadeli sonuç geleneksel aile yapılarının kökten değişmesi.",
+      "Uzun vadeli sonuç IT devleri karşısında stratejik özerkliğimizi kaybetmemiz.",
+      "Uzun vadeli sonuç işe karşı kolektif bilincin değişmesi.",
+      "Uzun vadeli sonuç eşitsizlikten kaynaklanan kronik bir sosyal istikrarsızlık riskidir."
+    ]
+  }
+]

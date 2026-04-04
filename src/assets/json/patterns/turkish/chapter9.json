@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Her sabah genellikle ...",
+    "translation": "Every morning, I usually ...",
+    "b1": [
+      "Her sabah genellikle kahve içerim.",
+      "Her sabah genellikle egzersiz yaparım.",
+      "Her sabah genellikle köpeğimi gezdiririm.",
+      "Her sabah genellikle haberleri okurum.",
+      "Her sabah genellikle duş alırım."
+    ],
+    "b2": [
+      "Her sabah genellikle günlük planımı yaparım.",
+      "Her sabah genellikle işe giderken podcast dinlerim.",
+      "Her sabah genellikle ailem için sağlıklı bir kahvaltı hazırlarım.",
+      "Her sabah genellikle evden çıkmadan önce e-postalarımı kontrol ederim.",
+      "Her sabah genellikle on dakika boyunca meditasyon yaparım."
+    ],
+    "c1": [
+      "Her sabah genellikle iş aramaları başlamadan önce derin odaklanma için zaman ayırırım.",
+      "Her sabah genellikle borsadaki değişiklikleri analiz ederim.",
+      "Her sabah genellikle verimli bir işe odaklanmak için bilinçli farkındalık (mindfulness) pratiği yaparım.",
+      "Her sabah genellikle kendi faaliyet alanımızdaki bilimsel yayınları gözden geçiririm.",
+      "Her sabah genellikle bedenimi zinde tutmak için yüksek yoğunluklu egzersizlerle uğraşırım."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "... zaman, ... eğilimindeyim",
+    "translation": "I tend to ... when ...",
+    "b1": [
+      "Dışarıda yağmur yağdığı zaman, tembellik yapma eğilimindeyim.",
+      "Param olduğu zaman, alışveriş yapma eğilimindeyim.",
+      "Yalnız kaldığım zaman, üzülme eğilimindeyim.",
+      "İş bittiği zaman, dinlenme eğilimindeyim.",
+      "Dışarısı soğuk olduğu zaman, çay içme eğilimindeyim."
+    ],
+    "b2": [
+      "Görev çok zor göründüğü zaman, onu erteleme eğilimindeyim.",
+      "İşte çok stresli olduğum zaman, aşırı yemek yeme eğilimindeyim.",
+      "Haklı olduğumdan emin olduğum zaman, tartışma eğilimindeyim.",
+      "Önemli projeler söz konusu olduğunda, mükemmeliyetçiliğe eğilimliyim.",
+      "Önemli bir karar vermem gerektiği zaman, yalnız kalma eğilimindeyim."
+    ],
+    "c1": [
+      "Belirsizlikle karşılaştığım zaman, durumu aşırı analiz etme eğilimindeyim.",
+      "Çok iyimser tahminler duyduğum zaman, şüpheciliğe eğilimliyim.",
+      "Yaratıcı bir arayış içinde olduğum zaman, iç gözlem (içsel sorgulama) yapma eğilimindeyim.",
+      "Projenin teslim tarihi yaklaştığı zaman, otoriter bir yönetim tarzına eğilimliyim.",
+      "Tezim üzerinde çalıştığım zaman, sosyal ilişkilerimi azaltma eğilimindeyim."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Kural olarak, asla ...",
+    "translation": "As a rule, I never ...",
+    "b1": [
+      "Kural olarak, randevularıma asla geç kalmam.",
+      "Kural olarak, asla et yemem.",
+      "Kural olarak, asla soğuk su içmem.",
+      "Kural olarak, geceleri asla televizyon izlemem.",
+      "Kural olarak, anahtarımı asla unutmam."
+    ],
+    "b2": [
+      "Kural olarak, önemli kararları asla aceleyle almam.",
+      "Kural olarak, meslektaşlarımın özel hayatını asla işte tartışmam.",
+      "Kural olarak, müşterilerimden gelen mesajları asla görmezden gelmem.",
+      "Kural olarak, lavaboda yıkanmamış bulaşık bırakıp asla uyumam.",
+      "Kural olarak, ihtiyacım olmayan şeyleri asla satın almam."
+    ],
+    "c1": [
+      "Kural olarak, kâr için asla vicdanımla uzlaşmam.",
+      "Kural olarak, verileri tam olarak analiz etmeden asla aceleci sonuçlar çıkarmam.",
+      "Kural olarak, duygularımın profesyonel yargılarımı etkilemesine asla izin vermem.",
+      "Kural olarak, gizli bilgileri asla üçüncü şahıslara ifşa etmem.",
+      "Kural olarak, kendimi geliştirmeye çalışırken elde ettiğim başarılarla asla yetinmem."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Günde en az bir kez ... özen gösteririm.",
+    "translation": "I make it a point to ... at least once a day.",
+    "b1": [
+      "Günde en az bir kez yürüyüş yapmaya özen gösteririm.",
+      "Günde en az bir kez annemi aramaya özen gösteririm.",
+      "Günde en az bir kez su içmeye özen gösteririm.",
+      "Günde en az bir kez gülümsemeye özen gösteririm.",
+      "Günde en az bir kez kitap okumaya özen gösteririm."
+    ],
+    "b2": [
+      "Günde en az bir kez temiz havaya çıkmaya özen gösteririm.",
+      "Günde en az bir kez işte mola vermeye özen gösteririm.",
+      "Günde en az bir kez başarılarım için kendimi övmeye özen gösteririm.",
+      "Günde en az bir kez spor yapmaya özen gösteririm.",
+      "Günde en az bir kez yeni bir şey öğrenmeye özen gösteririm."
+    ],
+    "c1": [
+      "Günde en az bir kez stresi azaltmak için derin nefes almaya özen gösteririm.",
+      "Günde en az bir kez kişisel gelişimim için hatalarımı analiz etmeye özen gösteririm.",
+      "Günde en az bir kez sessizlik ve huzur için zaman bulmaya özen gösteririm.",
+      "Günde en az bir kez çevremdekilere empati göstermeye özen gösteririm.",
+      "Günde en az bir kez uzun vadeli hedeflerimi gözden geçirmeye özen gösteririm."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Her şeyden önce, her zaman ...",
+    "translation": "Before anything else, I always ...",
+    "b1": [
+      "Her şeyden önce, her zaman ellerimi yıkarım.",
+      "Her şeyden önce, her zaman çay içerim.",
+      "Her şeyden önce, her zaman dişlerimi fırçalarım.",
+      "Her şeyden önce, her zaman 'merhaba' derim.",
+      "Her şeyden önce, her zaman saate bakarım."
+    ],
+    "b2": [
+      "Her şeyden önce, her zaman sabahları günlüğümü kontrol ederim.",
+      "Her şeyden önce, her zaman yardımları için insanlara teşekkür ederim.",
+      "Her şeyden önce, her zaman bir ürünü satın almadan önce yorumları okurum.",
+      "Her şeyden önce, her zaman akşamları telefonumu şarja takarım.",
+      "Her şeyden önce, her zaman bir raporu göndermeden önce tekrar kontrol ederim."
+    ],
+    "c1": [
+      "Her şeyden önce, her zaman stratejik hedeflere uygun olarak öncelikleri belirlerim.",
+      "Her şeyden önce, her zaman yeni bir projeye başlamadan önce olası riskleri değerlendiririm.",
+      "Her şeyden önce, her zaman iddiaları kanıtlamak için güvenilir bilgi kaynakları ararım.",
+      "Her şeyden önce, her zaman karşımdakinin bakış açısını anlamaya çalışırım.",
+      "Her şeyden önce, her zaman ekibimin içindeki iletişimin şeffaflığını sağlarım."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "... alışkanlık haline getirdim",
+    "translation": "I've gotten into the habit of ...",
+    "b1": [
+      "Sabahları su içmeyi alışkanlık haline getirdim.",
+      "Parkta koşmayı alışkanlık haline getirdim.",
+      "Erken kalkmayı alışkanlık haline getirdim.",
+      "Günlük yazmayı alışkanlık haline getirdim.",
+      "Yeni kelimeler ezberlemeyi alışkanlık haline getirdim."
+    ],
+    "b2": [
+      "Her ay gelirimden yüzde on kenara koymayı alışkanlık haline getirdim.",
+      "Ertesi günün kıyafetlerini akşamdan hazırlamayı alışkanlık haline getirdim.",
+      "Uyumadan bir saat önce telefon kullanmamayı alışkanlık haline getirdim.",
+      "Çalışırken her saat başı kısa esneme egzersizleri yapmayı alışkanlık haline getirdim.",
+      "Ev temizlerken sesli kitaplar dinlemeyi alışkanlık haline getirdim."
+    ],
+    "c1": [
+      "Gelen bilgileri eleştirel bir yaklaşımla değerlendirmeyi alışkanlık haline getirdim.",
+      "İş sürecini optimize etmek için ikincil derecedeki görevleri başkalarına devretmeyi alışkanlık haline getirdim.",
+      "Profesyonel konferanslara ve seminerlere düzenli olarak katılmayı alışkanlık haline getirdim.",
+      "Tüm harcamalarımı özel bir uygulamada kaydetmeyi alışkanlık haline getirdim.",
+      "Zihinsel sağlığımı korumak için meditasyon yapmayı alışkanlık haline getirdim."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Rutim genellikle ... içerir",
+    "translation": "My routine typically involves ...",
+    "b1": [
+      "Rutim genellikle kahvaltı ve işi içerir.",
+      "Rutim genellikle akşam yürüyüşünü içerir.",
+      "Rutim genellikle gazete okumayı içerir.",
+      "Rutim genellikle Rusça derslerini içerir.",
+      "Rutim genellikle odayı toplamayı içerir."
+    ],
+    "b2": [
+      "Rutim genellikle uykudan uyandıktan sonra otuz dakikalık yogayı içerir.",
+      "Rutim genellikle e-postaları kontrol etmeyi ve toplantıları planlamayı içerir.",
+      "Rutim genellikle öğle arasında temiz havada yürüyüş yapmayı içerir.",
+      "Rutim genellikle boş zamanlarımda yabancı diller öğrenmeyi içerir.",
+      "Rutim genellikle akşam yemeğinde sevdiklerimle sohbet etmeyi içerir."
+    ],
+    "c1": [
+      "Rutim genellikle sektör haberlerini ve analitik raporları takip etmeyi içerir.",
+      "Rutim genellikle pazartesi günleri stratejik planlama seanslarını içerir.",
+      "Rutim genellikle yatırımlarımın etkinliğini titizlikle analiz etmeyi içerir.",
+      "Rutim genellikle bilişsel yetenekleri geliştirme egzersizlerini içerir.",
+      "Rutim genellikle yerel topluluklardaki gönüllülük faaliyetlerini içerir."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Çoğu akşam kendimi ... bulurum",
+    "translation": "Most evenings, I find myself ...",
+    "b1": [
+      "Çoğu akşam kendimi çok yorulmuş bulurum.",
+      "Çoğu akşam kendimi film izlemek isterken bulurum.",
+      "Çoğu akşam kendimi acıkmış bulurum.",
+      "Çoğu akşam kendimi evde kimse yokken bulurum.",
+      "Çoğu akşam kendimi ev ödevimi yapmayı unutmuş olarak bulurum."
+    ],
+    "b2": [
+      "Çoğu akşam kendimi sosyal medyada çok fazla zaman harcarken bulurum.",
+      "Çoğu akşam kendimi hobilere zaman yetiremezken bulurum.",
+      "Çoğu akşam kendimi yarınki iş görevleri hakkında düşünürken bulurum.",
+      "Çoğu akşam kendimi elimde kitapla uyuyakalmış olarak bulurum.",
+      "Çoğu akşam kendimi akşam yemeği hazırlayacak güçte bulamam."
+    ],
+    "c1": [
+      "Çoğu akşam kendimi geçmiş günün olayları hakkında içsel bir değerlendirme (refleksiyon) yaparken bulurum.",
+      "Çoğu akşam kendimi piyasa göstergelerinin dinamiklerini analiz ederken bulurum.",
+      "Çoğu akşam kendimi profesyonel literatürü okumaya derinlemesine dalmış olarak bulurum.",
+      "Çoğu akşam kendimi programımı optimize etme yollarını ararken bulurum.",
+      "Çoğu akşam kendimi yapılan işten derin bir memnuniyet hissi yaşarken bulurum."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Sık sık yaptığım şey ...",
+    "translation": "What I often do is ...",
+    "b1": [
+      "Sık sık yaptığım şey müzik dinlemektir.",
+      "Sık sık yaptığım şey parkta yürüyüş yapmaktır.",
+      "Sık sık yaptığım şey arkadaşlarla kahve içmektir.",
+      "Sık sık yaptığım şey internette videolar izlemektir.",
+      "Sık sık yaptığım şey pizza yapmaktır."
+    ],
+    "b2": [
+      "Sık sık yaptığım şey haftanın sonunda harcamalarımı analiz etmektir.",
+      "Sık sık yaptığım şey meslektaşlarıma teknik konularda yardım etmektir.",
+      "Sık sık yaptığım şey eski fotoğraflarıma tekrar bakmaktır.",
+      "Sık sık yaptığım şey haftada iki kez havuza gitmektir.",
+      "Sık sık yaptığım şey yerel çiftçi dükkanından yiyecek satın almaktır."
+    ],
+    "c1": [
+      "Sık sık yaptığım şey iş süreçlerinin etkinliğini eleştirel bir gözle değerlendirmektir.",
+      "Sık sık yaptığım şey önemli sosyal konularda tartışmalar başlatmaktır.",
+      "Sık sık yaptığım şey zamanımı ileri teknolojileri araştırmaya yatırmaktır.",
+      "Sık sık yaptığım şey genç uzmanlar için mentörlük rolü üstlenmektir.",
+      "Sık sık yaptığım şey kendi hayatıma bilinçli tüketim ilkelerini entegre etmektir."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "... adımını nadiren atlarım",
+    "translation": "I rarely skip the step of ...",
+    "b1": [
+      "Kahvaltı yapma adımını nadiren atlarım.",
+      "Esneme egzersizleri yapma adımını nadiren atlarım.",
+      "Uyumadan önce okuma adımını nadiren atlarım.",
+      "El yıkama adımını nadiren atlarım.",
+      "Biletleri önceden satın alma adımını nadiren atlarım."
+    ],
+    "b2": [
+      "Aylık bütçeyi planlama adımını nadiren atlarım.",
+      "Araba motorundaki yağı kontrol etme adımını nadiren atlarım.",
+      "Detayları yöneticiyle kararlaştırma adımını nadiren atlarım.",
+      "Uyumadan önce cildi temizleme adımını nadiren atlarım.",
+      "Önemli bir toplantı öncesinde sunum hazırlama adımını nadiren atlarım."
+    ],
+    "c1": [
+      "Birkaç bağımsız kaynaktan alınan verileri doğrulama adımını nadiren atlarım.",
+      "Stratejik kararlar alırken riskleri değerlendirme adımını nadiren atlarım.",
+      "Gelişim alanlarını belirlemek için proje sonrası analiz adımını nadiren atlarım.",
+      "Önemli ortaklarla yapılan müzakerelerden sonra değerlendirme (debrifing) adımını nadiren atlarım.",
+      "Yazılım kodunu yazmadan önce kavramsal modelleme adımını nadiren atlarım."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Benim için ... günlük bir ritüeldir.",
+    "translation": "It's a daily ritual for me to ...",
+    "b1": [
+      "Benim için sabahları çay içmek günlük bir ritüeldir.",
+      "Benim için akşamları yürüyüş yapmak günlük bir ritüeldir.",
+      "Benim için radyo dinlemek günlük bir ritüeldir.",
+      "Benim için anneme mektup (mesaj) yazmak günlük bir ritüeldir.",
+      "Benim için çiçekleri sulamak günlük bir ritüeldir."
+    ],
+    "b2": [
+      "Benim için minnettar olduğum üç şeyi yazıp bir kenara koymak günlük bir ritüeldir.",
+      "Benim için sabahları taze sıkılmış meyve suyu hazırlamak günlük bir ritüeldir.",
+      "Benim için iş öncesinde beş dakikalık meditasyon yapmak günlük bir ritüeldir.",
+      "Benim için ertesi günün gardırobunu planlamak günlük bir ritüeldir.",
+      "Benim için profesyonel bir kitabın on sayfasını okumak günlük bir ritüeldir."
+    ],
+    "c1": [
+      "Benim için sessizlikte felsefi düşüncelere derinlemesine dalmak günlük bir ritüeldir.",
+      "Benim için bir fincan kahve eşliğinde makroekonomik trendleri analiz etmek günlük bir ritüeldir.",
+      "Benim için şimdiki ana bilinçli olarak odaklanmayı pratik etmek günlük bir ritüeldir.",
+      "Benim için zihni gereksiz düşüncelerden arındırmak adına serbest yazım (freewriting) seansı yapmak günlük bir ritüeldir.",
+      "Benim için bağışıklığı ve iradeyi güçlendirmek adına soğuk suyla duş almak günlük bir ritüeldir."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Genellikle bunu ... ile devam ettiririm",
+    "translation": "I usually follow that up with ...",
+    "b1": [
+      "Genellikle bunu işe giderek devam ettiririm.",
+      "Genellikle bunu su içerek devam ettiririm.",
+      "Genellikle bunu uyumaya giderek devam ettiririm.",
+      "Genellikle bunu film izleyerek devam ettiririm.",
+      "Genellikle bunu arkadaşımı arayarak devam ettiririm."
+    ],
+    "b2": [
+      "Genellikle bunu iş e-postalarına cevap vermeye başlayarak devam ettiririm.",
+      "Genellikle bunu güç ve enerjimin taştığını hissederek devam ettiririm.",
+      "Genellikle bunu en önemli görevleri yerine getirmeye koyularak devam ettiririm.",
+      "Genellikle bunu ormanda bir saatlik yürüyüşe çıkarak devam ettiririm.",
+      "Genellikle bunu ailemle günün özetini tartışarak devam ettiririm."
+    ],
+    "c1": [
+      "Genellikle bunu alınan bilgileri aktif bir şekilde sentezleme aşamasına geçerek devam ettiririm.",
+      "Genellikle bunu hafta için olan taktiksel planlarımda revizyon yaparak devam ettiririm.",
+      "Genellikle bunu yeni verileri genel analitik modele entegre ederek devam ettiririm.",
+      "Genellikle bunu maksimum bilişsel geri dönüş gerektiren görevlere odaklanarak devam ettiririm.",
+      "Genellikle bunu astlarımla geri bildirim seansı başlatarak devam ettiririm."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Aksatmadan, her ...",
+    "translation": "Without fail, every ...",
+    "b1": [
+      "Aksatmadan, her sabah koşarım.",
+      "Aksatmadan, her pazartesi spor salonuna giderim.",
+      "Aksatmadan, her akşam kitap okurum.",
+      "Aksatmadan, her hafta sonu büyükanneme giderim.",
+      "Aksatmadan, her saat başı su içerim."
+    ],
+    "b2": [
+      "Aksatmadan, her ayın birinde faturaları öderim.",
+      "Aksatmadan, her cuma biz arkadaşlarımızla sinemaya gideriz.",
+      "Aksatmadan, her sabah tüm vücudum için kısa esneme egzersizleri yaparım.",
+      "Aksatmadan, her salı yabancı dil derslerine katılırım.",
+      "Aksatmadan, her pazar sonraki hafta için menüyü planlarım."
+    ],
+    "c1": [
+      "Aksatmadan, her çeyrekte finansal yatırımlarımı denetlerim.",
+      "Aksatmadan, her sabah başarıyı görselleştirme egzersizleri yaparım.",
+      "Aksatmadan, her cumartesi zamanımı ileri bilimsel gelişmeleri araştırmaya ayırırım.",
+      "Aksatmadan, her yıl tam bir tıbbi kontrolden geçerim.",
+      "Aksatmadan, her toplantıyı stratejik hedeflerimize kısa bir genel bakış yaparak başlatırım."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Sürekli ... unutmamaya çalışıyorum",
+    "translation": "I'm constantly trying to remember to ...",
+    "b1": [
+      "Sürekli anahtarımı unutmamaya çalışıyorum.",
+      "Sürekli telefonumu unutmamaya çalışıyorum.",
+      "Sürekli arkadaşımı tebrik etmeyi unutmamaya çalışıyorum.",
+      "Sürekli ekmek satın almayı unutmamaya çalışıyorum.",
+      "Sürekli ışığı kapatmayı unutmamaya çalışıyorum."
+    ],
+    "b2": [
+      "Sürekli bilgisayarda uzun süre çalışırken mola vermeyi unutmamaya çalışıyorum.",
+      "Sürekli markete çok kullanımlık poşet götürmeyi unutmamaya çalışıyorum.",
+      "Sürekli seyahat biletinin süresini zamanında doldurmayı unutmamaya çalışıyorum.",
+      "Sürekli hafta sonları akrabalarımı geri aramayı unutmamaya çalışıyorum.",
+      "Sürekli önemli fikirler geldiği anda onları not almayı unutmamaya çalışıyorum."
+    ],
+    "c1": [
+      "Sürekli kariyer ve özel hayat arasındaki dengenin gerekliliğini unutmamaya çalışıyorum.",
+      "Sürekli yasal değişikliklerin güncelliğini kontrol etmeyi unutmamaya çalışıyorum.",
+      "Sürekli ekip üyelerine ortak başarıya yaptıkları katkı için teşekkür etmeyi unutmamaya çalışıyorum.",
+      "Sürekli anlaşmalar yaparken uzun vadeli etik ilkelerimi unutmamaya çalışıyorum.",
+      "Sürekli kişisel bilişsel önyargılarımı eleştirel bir yaklaşımla değerlendirmeyi unutmamaya çalışıyorum."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Alışkanlığım ... olduğu için gelişti",
+    "translation": "My habit developed because ...",
+    "b1": [
+      "Alışkanlığım sporu çok sevdiğim için gelişti.",
+      "Alışkanlığım annem öyle yaptığı için gelişti.",
+      "Alışkanlığım bu rahat olduğu için gelişti.",
+      "Alışkanlığım sağlıklı olmak istediğim için gelişti.",
+      "Alışkanlığım çok zamanım olduğu için gelişti."
+    ],
+    "b2": [
+      "Alışkanlığım işteki verimliliğimi artırmak istediğim için gelişti.",
+      "Alışkanlığım geçmişte sağlık problemleriyle karşılaştığım için gelişti.",
+      "Alışkanlığım başarılı bir girişimcinin örneğinden ilham aldığım için gelişti.",
+      "Alışkanlığım parayı idare etmeyi öğrenmem gerektiği için gelişti.",
+      "Alışkanlığım organize bir yaşam tarzına yöneldiğim için gelişti."
+    ],
+    "c1": [
+      "Alışkanlığım disiplin ve yaratıcı özgürlük arasındaki derin bağı anladığım için gelişti.",
+      "Alışkanlığım bunu hızla değişen piyasa ortamı gerektirdiği için gelişti.",
+      "Alışkanlığım stres faktörlerinin psikoloji üzerindeki etkisini azaltmak istediğim için gelişti.",
+      "Alışkanlığım maksimum bilişsel verimlilikle çalışma yolları aradığım için gelişti.",
+      "Alışkanlığım kalıcı davranış modelleri oluşturmaya yönelik bilimsel yaklaşımları entegre ettiğim için gelişti."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Genellikle ... için zaman ayırırım",
+    "translation": "I usually allocate time for ...",
+    "b1": [
+      "Genellikle spor için zaman ayırırım.",
+      "Genellikle kitap okumak için zaman ayırırım.",
+      "Genellikle dinlenmek için zaman ayırırım.",
+      "Genellikle yürüyüş yapmak için zaman ayırırım.",
+      "Genellikle ailem için zaman ayırırım."
+    ],
+    "b2": [
+      "Genellikle akşam saatlerinde kendi kendimi eğitmek için zaman ayırırım.",
+      "Genellikle her haftanın başında derinlemesine planlama yapmak için zaman ayırırım.",
+      "Genellikle profesyonel tükenmişlikten kaçınmak için hobilere zaman ayırırım.",
+      "Genellikle cumartesi günleri gönüllülük faaliyetleri için zaman ayırırım.",
+      "Genellikle tüm finansal raporları detaylıca kontrol etmek için zaman ayırırım."
+    ],
+    "c1": [
+      "Genellikle mutlak sessizlik gerektiren analitik çalışmalar için zaman ayırırım.",
+      "Genellikle mentörlük ve kıdemsiz meslektaşlara deneyim aktarma işleri için zaman ayırırım.",
+      "Genellikle felsefi düşünceler ve kişisel günlük tutma işleri için zaman ayırırım.",
+      "Genellikle kendi uzmanlık alanımın dışındaki disiplinlerarası sahaları araştırmak için zaman ayırırım.",
+      "Genellikle network kurma ve stratejik ortaklıklar oluşturma işleri için zaman ayırırım."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "... benim için ikinci bir doğa haline geldi.",
+    "translation": "It's become second nature to me to ...",
+    "b1": [
+      "Erken kalkmak benim için ikinci bir doğa haline geldi.",
+      "Çok çalışmak benim için ikinci bir doğa haline geldi.",
+      "Çay içmek benim için ikinci bir doğa haline geldi.",
+      "Yürümek benim için ikinci bir doğa haline geldi.",
+      "Teşekkür etmek benim için ikinci bir doğa haline geldi."
+    ],
+    "b2": [
+      "Bilgi kaynaklarını kullanmadan önce doğrulamak benim için ikinci bir doğa haline geldi.",
+      "Tüm gelir ve giderleri günlük olarak kaydetmek benim için ikinci bir doğa haline geldi.",
+      "Arabaya bindiğimde emniyet kemerini takmak benim için ikinci bir doğa haline geldi.",
+      "Yabancı insanlarla karşılaştığımda gülümsemek benim için ikinci bir doğa haline geldi.",
+      "Günlükte kendi günümü dakikası dakikasına planlamak benim için ikinci bir doğa haline geldi."
+    ],
+    "c1": [
+      "Herhangi bir olayın neden-sonuç ilişkilerini analiz etmek benim için ikinci bir doğa haline geldi.",
+      "Karmaşık iş kararlarındaki etik ikilemleri aramak benim için ikinci bir doğa haline geldi.",
+      "Projenin başarısını ölçeklendirmek için yetkileri başkalarına devretmek benim için ikinci bir doğa haline geldi.",
+      "Zor teslim tarihleri koşullarında soğukkanlılığı korumak benim için ikinci bir doğa haline geldi.",
+      "Müşterilerin ihtiyaçlarını onlar söylemeden önce tahmin etmek benim için ikinci bir doğa haline geldi."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Tipik bir iş günüm ... ile başlar",
+    "translation": "My typical workday starts with ...",
+    "b1": [
+      "Tipik bir iş günüm kahve ile başlar.",
+      "Tipik bir iş günüm e-postaları kontrol etmekle başlar.",
+      "Tipik bir iş günüm meslektaşlarımla konuşmakla başlar.",
+      "Tipik bir iş günüm sabah dokuzda başlar.",
+      "Tipik bir iş günüm müzikle başlar."
+    ],
+    "b2": [
+      "Tipik bir iş günüm Trello'daki öncelikli görevler listesini incelemekle başlar.",
+      "Tipik bir iş günüm pazarlama ekibiyle kısa bir toplantı (letučka) ile başlar.",
+      "Tipik bir iş günüm dünkü satış göstergelerini analiz etmekle başlar.",
+      "Tipik bir iş günüm çalışma alanını hazırlamak ve bir fincan yeşil çay ile başlar.",
+      "Tipik bir iş günüm ortaklardan gelen en acil taleplere cevap vermekle başlar."
+    ],
+    "c1": [
+      "Tipik bir iş günüm günün stratejik gündemine meditatif bir şekilde dalmakla başlar.",
+      "Tipik bir iş günüm küresel ekonomik konjonktürü takip etmekle başlar.",
+      "Tipik bir iş günüm mevcut projelerle ilgili temel riskleri gözden geçirmekle başlar.",
+      "Tipik bir iş günüm yaklaşan araştırmalar için hipotezler üretmekle başlar.",
+      "Tipik bir iş günüm şirketin üst düzey yönetiminin eylemlerini koordine etmekle başlar."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Mümkün olduğunca ... kaçınmaya çalışıyorum",
+    "translation": "I try to avoid ... as much as possible.",
+    "b1": [
+      "Mümkün olduğunca şekerden kaçınmaya çalışıyorum.",
+      "Mümkün olduğunca gürültüden kaçınmaya çalışıyorum.",
+      "Mümkün olduğunca trafik sıkışıklığından kaçınmaya çalışıyorum.",
+      "Mümkün olduğunca kavgadan kaçınmaya çalışıyorum.",
+      "Mümkün olduğunca kötü haberlerden kaçınmaya çalışıyorum."
+    ],
+    "b2": [
+      "Mümkün olduğunca hafta sonları çalışmaktan kaçınmaya çalışıyorum.",
+      "Mümkün olduğunca fevri (impulsif) alışverişlerden kaçınmaya çalışıyorum.",
+      "Mümkün olduğunca çevremdeki zehirli (toksik) insanlardan kaçınmaya çalışıyorum.",
+      "Mümkün olduğunca plastik poşet kullanmaktan kaçınmaya çalışıyorum.",
+      "Mümkün olduğunca çok zaman alan gereksiz toplantılardan kaçınmaya çalışıyorum."
+    ],
+    "c1": [
+      "Yönetimsel kararlar alırken bilişsel önyargılardan (çarpıtmalardan) kaçınmaya çalışıyorum.",
+      "Mümkün olduğunca etik olmayan iş şemalarına katılmaktan kaçınmaya çalışıyorum.",
+      "Karmaşık sosyal olgular hakkında yüzeysel yargılardan kaçınmaya çalışıyorum.",
+      "Mümkün olduğunca tek bir gelir kaynağına bağımlı olmaktan kaçınmaya çalışıyorum.",
+      "Kendi bilimsel ve felsefi görüşlerimde dogmatizmden kaçınmaya çalışıyorum."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "... önce yaptığım en son şey ...",
+    "translation": "The last thing I do before ... is ...",
+    "b1": [
+      "Uyumadan önce yaptığım en son şey su içmektir.",
+      "İşe başlamadan önce yaptığım en son şey aynaya bakmaktır.",
+      "Dışarı çıkmadan önce yaptığım en son şey anahtarı kontrol etmektir.",
+      "Yemek yemeden önce yaptığım en son şey ellerimi yıkamaktır.",
+      "Yola çıkmadan önce yaptığım en son şey babamı aramaktır."
+    ],
+    "b2": [
+      "Uyumadan önce yaptığım en son şey sabah için alarm kurmaktır.",
+      "İş gününü bitirmeden önce yaptığım en son şey yarına plan yapmaktır.",
+      "Önemli bir sunumdan önce yaptığım en son şey derin nefes almaktır.",
+      "Evden çıkmadan önce yaptığım en son şey tüm elektrikli aletleri kontrol etmektir.",
+      "Tatile çıkmadan önce yaptığım en son şey tüm işleri meslektaşlarıma devretmektir."
+    ],
+    "c1": [
+      "Nihai kararı almadan önce yaptığım en son şey modele son bir stres testi uygulamaktır.",
+      "Topluluk önünde konuşma yapmadan önce yaptığım en son şey konuşmanın başarılı bittiğini görselleştirmektir.",
+      "Uyumadan önce yaptığım en son şey geçmiş gün için şükran (teşekkür) tekniğini uygulamaktır.",
+      "Sözleşmeyi imzalamadan önce yaptığım en son şey avukatlarla bir kez daha görüşmektir.",
+      "Karmaşık bir araştırmaya başlamadan önce yaptığım en son şey problemin sınırlarını net bir şekilde belirlemektir."
+    ]
+  }
+]

@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "... -diğini / -diğimi hatırlıyorum",
+    "translation": "I remember when ...",
+    "b1": [
+      "Denize gittiğimiz zamanı hatırlıyorum.",
+      "Bana ilk bisikletimi aldığın anı hatırlıyorum.",
+      "Buraya çok kar yağdığı zamanı hatırlıyorum.",
+      "Küçük bir evde yaşadığımız günleri hatırlıyorum.",
+      "İlk işime başladığım günü hatırlıyorum."
+    ],
+    "b2": [
+      "Bu şehrin şimdiki kadar modern olmadığı zamanları hatırlıyorum.",
+      "İletişim kurmak için mektup göndermek zorunda kaldığımız günleri hatırlıyorum.",
+      "Ülkenin büyük bir ekonomik krizden geçtiği dönemi hatırlıyorum.",
+      "Kariyerim için zor bir karar vermek zorunda kaldığım anı hatırlıyorum.",
+      "Teknolojinin hayatımızı değiştirmeye başladığı zamanı hatırlıyorum."
+    ],
+    "c1": [
+      "Gençliğimin saflığının dünyanın acımasız gerçekleriyle yüzleştiği anı hatırlıyorum.",
+      "Bu bölgedeki kültürel rönesansın zirveye ulaştığı dönemi hatırlıyorum.",
+      "Sıradan bir karşılaşmanın hayatımın akışını tamamen değiştirdiğini hatırlıyorum.",
+      "İnsanlık tamamen ağa bağımlı hale gelmeden önceki o sessiz dönemi hatırlıyorum.",
+      "Zamanın bizim en değerli kaynağımız olduğunu anladığım anı hatırlıyorum."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Bir varmış bir yokmuş, ... varmış",
+    "translation": "Once upon a time, ...",
+    "b1": [
+      "Bir varmış bir yokmuş, çiçekleri çok seven küçük bir kız varmış.",
+      "Bir varmış bir yokmuş, büyük bir sarayda yaşayan bir kral varmış.",
+      "Bir varmış bir yokmuş, çok akıllı kara bir kedi varmış.",
+      "Bir varmış bir yokmuş, dağın eteğinde sessiz bir köy varmış.",
+      "Bir varmış bir yokmuş, ormanda kaybolan bir gezgin varmış."
+    ],
+    "b2": [
+      "Bir varmış bir yokmuş, icatlarıyla dünyayı değiştirmeyi hayal eden bir mucit varmış.",
+      "Bir varmış bir yokmuş, insanların hala efsanelere inandığı bir zaman varmış.",
+      "Bir varmış bir yokmuş, zamanla büyük bir şirkete dönüşen küçük bir dükkan varmış.",
+      "Bir varmış bir yokmuş, hiç parası olmadan dünyayı dolaşan bir öğrenci varmış.",
+      "Bir varmış bir yokmuş, bu adanın yerlileri tarafından saklanan bir sır varmış."
+    ],
+    "c1": [
+      "Bir varmış bir yokmuş, sanatın insanlığı kurtarabileceğine inanan bir idealist varmış.",
+      "Bir varmış bir yokmuş, kendi kibri yüzünden yok olup giden gelişmiş bir medeniyet varmış.",
+      "Bir varmış bir yokmuş, içeriği tarihin akışını değiştirebilecek kayıp bir el yazması varmış.",
+      "Bir varmış bir yokmuş, insan doğasının gerçekliğine meydan okuyan bir sosyal ütopya varmış.",
+      "Bir varmış bir yokmuş, bilgeliği kendi ülkesinin sınırlarını aşan bir yaşlı adam varmış."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Hikaye ... ile başlıyor",
+    "translation": "The story begins with ...",
+    "b1": [
+      "Hikaye harika bir yaz sabahı ile başlıyor.",
+      "Hikaye parktaki bir karşılaşma ile başlıyor.",
+      "Hikaye trenin hareket etmesi ile başlıyor.",
+      "Hikaye bir telefon araması ile başlıyor.",
+      "Hikaye gizemli bir mektup ile başlıyor."
+    ],
+    "b2": [
+      "Hikaye çölde bulunan harika bir arkeolojik keşif ile başlıyor.",
+      "Hikaye çok önemli bir bankanın iflas etmesi ile başlıyor.",
+      "Hikaye iki çocukluk arkadaşı arasındaki bir anlaşmazlık ile başlıyor.",
+      "Hikaye uzak bir köye yabancı birinin gelmesi ile başlıyor.",
+      "Hikaye yirmi yıl önce verilen bir söz ile başlıyor."
+    ],
+    "c1": [
+      "Hikaye parçalanmış bir ailenin iç dünyasına acımasızca bakılması ile başlıyor.",
+      "Hikaye insan varlığının kırılganlığı üzerine bir metafor ile başlıyor.",
+      "Hikaye toplumsal değerlerimizi sistemli bir şekilde sorgulamak ile başlıyor.",
+      "Hikaye tamamlanmamış bir kişisel arayışın etkileyici anlatımı ile başlıyor.",
+      "Hikaye şöhretin geçici doğası üzerine bir tefekkür ile başlıyor."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Bu bana ... olduğu zamanları hatırlatıyor",
+    "translation": "That reminds me of a time when ...",
+    "b1": [
+      "Bu bana çok boş vaktimin olduğu zamanları hatırlatıyor.",
+      "Bu bana sık sık birlikte yemek yediğimiz zamanları hatırlatıyor.",
+      "Bu bana çocukların dışarıda oynadığı zamanları hatırlatıyor.",
+      "Bu bana sık sık seyahat ettiğim zamanları hatırlatıyor.",
+      "Bu bana her şeyin çok basit olduğu zamanları hatırlatıyor."
+    ],
+    "b2": [
+      "Bu bana insanların başkalarının fikirlerine bu kadar önem vermediği zamanları hatırlatıyor.",
+      "Bu bana yerel sanayinin hala hızla geliştiği zamanları hatırlatıyor.",
+      "Bu bana bu bölgedeki gece hayatının çok hareketli olduğu zamanları hatırlatıyor.",
+      "Bu bana zorluklara rağmen iyimserliğin hakim olduğu zamanları hatırlatıyor.",
+      "Bu bana her teknolojik yeniliğin sihirli göründüğü zamanları hatırlatıyor."
+    ],
+    "c1": [
+      "Bu bana aşırı bireyselcilikten ziyade organik dayanışmanın hakim olduğu zamanları hatırlatıyor.",
+      "Bu bana yavaşlığın kendisinin bir erdem sayıldığı zamanları hatırlatıyor.",
+      "Bu bana ideolojik çelişkilerin şimdikinden çok daha net olduğu zamanları hatırlatıyor.",
+      "Bu bana insanın hala mutlak yalnızlığa gömülebileceği zamanları hatırlatıyor.",
+      "Bu bana hızlı kar elde etmekten ziyade anlam arayışının ilk sırada olduğu zamanları hatırlatıyor."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Size ... hakkında bahsedeyim",
+    "translation": "Let me tell you about ...",
+    "b1": [
+      "Size köpeğim hakkında bahsedeyim.",
+      "Size son tatilim hakkında bahsedeyim.",
+      "Size en sevdiğim şehir hakkında bahsedeyim.",
+      "Size yeni projem hakkında bahsedeyim.",
+      "Size ailem hakkında bahsedeyim."
+    ],
+    "b2": [
+      "Size Afrika'daki gönüllülük deneyimim hakkında bahsedeyim.",
+      "Size Fransızca'yı nasıl öğrendiğim hakkında bahsedeyim.",
+      "Size bu eski binanın ilginç tarihi hakkında bahsedeyim.",
+      "Size ailemin seçimlerim üzerindeki etkisi hakkında bahsedeyim.",
+      "Size şirketimizin karşı karşıya olduğu zorluklar hakkında bahsedeyim."
+    ],
+    "c1": [
+      "Size profesyonel ortamdaki insani ilişkilerin karmaşıklığı hakkında bahsedeyim.",
+      "Size dünya görüşümü değiştiren bu projenin kökeni hakkında bahsedeyim.",
+      "Size edebiyattaki aşk duygusunun muğlaklığı hakkında bahsedeyim.",
+      "Size dijital vatandaşlığın yeni biçimlerinin ortaya çıkışı hakkında bahsedeyim.",
+      "Size çoğunluğun genellikle fark etmediği bu sanat eserinin inceliği hakkında bahsedeyim."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Tam ... -cekken birden ...",
+    "translation": "We were just about to ... when suddenly ...",
+    "b1": [
+      "Tam yola çıkacakken birden yağmur yağmaya başladı.",
+      "Tam yemek yiyecekken birden telefon çaldı.",
+      "Tam dışarı çıkacakken birden arkadaşım geliverdi.",
+      "Tam uyuyacakken birden bir ses duyduk.",
+      "Tam kazanacakken birden oyun durdu."
+    ],
+    "b2": [
+      "Tam sözleşmeyi imzalayacakken birden müşteri fikrini değiştirdi.",
+      "Tam toplantıyı bitirecekken birden teknik bir arıza ortaya çıktı.",
+      "Tam zirveye ulaşacakken birden fırtına başladı.",
+      "Tam evi satacakken birden içimizde bir şüphe doğdu.",
+      "Tam zaferi kutlayacakken birden kötü bir haber geldi."
+    ],
+    "c1": [
+      "Tam birleşmeyi tamamlayacakken birden yasal bir boşluk tespit edildi.",
+      "Tam ümidimizi kesecekken birden küçük bir umut ışığı belirdi.",
+      "Tam meselenin bu yönünü görmezden gelecekken birden bir uyarı her şeyi netleştirdi.",
+      "Tam diyaloğu koparacakken birden beklenmedik bir uzlaşma teklif edildi.",
+      "Tam unutulmaya yüz tutmuşken birden bu olay bizi tekrar ön plana çıkardı."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Sonra hiç beklenmedik bir şey oldu: ...",
+    "translation": "And then, the most unexpected thing happened: ...",
+    "b1": [
+      "Sonra hiç beklenmedik bir şey oldu: Yarışmayı ben kazandım.",
+      "Sonra hiç beklenmedik bir şey oldu: Abim bana sürpriz yaptı.",
+      "Sonra hiç beklenmedik bir şey oldu: Yerde para buldum.",
+      "Sonra hiç beklenmedik bir şey oldu: Kedi rüyamda konuşmaya başladı.",
+      "Sonra hiç beklenmedik bir şey oldu: Bütün gün güneş açtı."
+    ],
+    "b2": [
+      "Sonra hiç beklenmedik bir şey oldu: Eski patronum bana iş teklif etti.",
+      "Sonra hiç beklenmedik bir şey oldu: Uçak acil iniş yapmak zorunda kaldı.",
+      "Sonra hiç beklenmedik bir şey oldu: Sokakta kendime çok benzeyen birini gördüm.",
+      "Sonra hiç beklenmedik bir şey oldu: Seyirciler ayağa kalkıp alkışlamaya başladı.",
+      "Sonra hiç beklenmedik bir şey oldu: Bahçede bir hazine bulduk."
+    ],
+    "c1": [
+      "Sonra hiç beklenmedik bir şey oldu: Tam bir siyasi dönüşüm durumu kökten değiştirdi.",
+      "Sonra hiç beklenmedik bir şey oldu: Gerçek en umulmadık anda ortaya çıktı.",
+      "Sonra hiç beklenmedik bir şey oldu: Bu kriz benzeri görülmemiş bir dayanışma doğurdu.",
+      "Sonra hiç beklenmedik bir şey oldu: Sistem beklenmedik bir şekilde kendini düzenledi.",
+      "Sonra hiç beklenmedik bir şey oldu: Eser yıllarca görmezden gelindikten sonra eleştirmenler tarafından aklandı."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "... anı asla unutmayacağım",
+    "translation": "I'll never forget the moment when ...",
+    "b1": [
+      "Eyfel Kulesi'ni ilk gördüğüm anı asla unutmayacağım.",
+      "Diplomamı aldığım anı asla unutmayacağım.",
+      "Seninle karşılaştığım anı asla unutmayacağım.",
+      "Bu lezzetli yemeği yediğim anı asla unutmayacağım.",
+      "İlk kez uçağa bindiğim anı asla unutmayacağım."
+    ],
+    "b2": [
+      "Hayatımı değiştirmek istediğimi anladığım anı asla unutmayacağım.",
+      "Nihayet dağın zirvesine ulaştığımız anı asla unutmayacağım.",
+      "İlk çocuğumun doğduğu anı asla unutmayacağım.",
+      "Arkadaşlarımla vedalaşmak zorunda kaldığım anı asla unutmayacağım.",
+      "Bu kabul mektubunu aldığım anı asla unutmayacağım."
+    ],
+    "c1": [
+      "Kendi sorumluluğumun sonsuzluğunu hissettiğim anı asla unutmayacağım.",
+      "Bu tartışma sırasında dramatik gerilimin zirveye ulaştığı anı asla unutmayacağım.",
+      "Doğanın güzelliğinin nefesimi tamamen kestiği anı asla unutmayacağım.",
+      "Bir yabancının çaresizliğinin beni derinden etkilediği anı asla unutmayacağım.",
+      "Bu gerçeğin apaçıklığının bana bir şimşek gibi göründüğü anı asla unutmayacağım."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Başta ... sandım ama sonradan ... anladım",
+    "translation": "At first, I thought ..., but later I realized ...",
+    "b1": [
+      "Başta bunun kolay olduğunu sandım ama sonradan zor olduğunu anladım.",
+      "Başta onun sert biri olduğunu sandım ama sonradan kibar olduğunu anladım.",
+      "Başta peyniri sevmediğimi sandım ama sonradan lezzetli olduğunu anladım.",
+      "Başta onun Fransız olduğunu sandım ama sonradan Belçikalı olduğunu anladım.",
+      "Başta yağmur yağacak sandım ama sonradan gökyüzünün açıldığını anladım."
+    ],
+    "b2": [
+      "Başta mutluluğun paraya bağlı olduğunu sandım ama sonradan onun iç dünyada olduğunu anladım.",
+      "Başta bu işin sıkıcı olacağını sandım ama sonradan eğlenceli olduğunu anladım.",
+      "Başta dil öğrenmenin imkansız olduğunu sandım ama sonradan bunun sadece bir sabır meselesi olduğunu anladım.",
+      "Başta bu reformun faydasız olduğunu sandım ama sonradan onun gerçek önemini anladım.",
+      "Başta yalnız olduğumuzu sandım ama sonradan bizi birçok insanın desteklediğini anladım."
+    ],
+    "c1": [
+      "Başta bilimin her şeyi açıklayabileceğini sandım ama sonradan insan zihninin sınırları olduğunu anladım.",
+      "Başta başarının nihai hedef olduğunu sandım ama sonradan geçilen yolun daha önemli olduğunu anladım.",
+      "Başta kültürlerimizin uyuşmadığını sandım ama sonradan duygularımızın ortaklığını anladım.",
+      "Başta ilerlemenin doğrusal olacağını sandım ama sonradan onun döngülerden ve geri çekilmelerden oluştuğunu anladım.",
+      "Başta sessizliği boş bir alan sandım ama sonradan onun kendine has bir varlığı olduğunu anladım."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "... -den sonra her şey değişti",
+    "translation": "Everything changed after ...",
+    "b1": [
+      "Fransa seyahatimden sonra her şey değişti.",
+      "Evlendiğimizden sonra her şey değişti.",
+      "O gittikten sonra her şey değişti.",
+      "Yeni işimden sonra her şey değişti.",
+      "Bu buluşmadan sonra her şey değişti."
+    ],
+    "b2": [
+      "İlk çocuğum doğduktan sonra her şey değişti.",
+      "Hayat hakkında düşünmeye zorlayan bu başarısızlıktan sonra her şey değişti.",
+      "Şirkete yeni bir müdür geldikten sonra her şey değişti.",
+      "Bu yeni devrimsel teknoloji bulunduktan sonra her şey değişti.",
+      "Küresel sağlık krizinden sonra her şey değişti."
+    ],
+    "c1": [
+      "Çevre sorunları hakkındaki bu köklü bilinçlenmeden sonra her şey değişti.",
+      "Benim ideolojik inançlarım yıkıldıktan sonra her şey değişti.",
+      "Maddi güvenceden ziyade entelektüel özgürlüğü seçtikten sonra her şey değişti.",
+      "Gerçeği algılama biçimimdeki bu epistemolojik kopuştan sonra her şey değişti.",
+      "Çatışma kamuoyuna yansıyıp kurumun temellerini sarstıktan sonra her şey değişti."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Farkına bile varmadan, ...",
+    "translation": "Before I knew it, ...",
+    "b1": [
+      "Farkına bile varmadan, saat gece yarısı olmuş.",
+      "Farkına bile varmadan, pastanın hepsini yemişim.",
+      "Farkına bile varmadan, tatil de bitivermiş.",
+      "Farkına bile varmadan, tren kaçmış.",
+      "Farkına bile varmadan, çok geç olmuş."
+    ],
+    "b2": [
+      "Farkına bile varmadan, çocuklarım büyümüş.",
+      "Farkına bile varmadan, bu şirkette on yılım geçip gitmiş.",
+      "Farkına bile varmadan, durum kontrolden çıkmış.",
+      "Farkına bile varmadan, ülkenin geleneklerine alışmışım.",
+      "Farkına bile varmadan, güneş ufukta batmış."
+    ],
+    "c1": [
+      "Farkına bile varmadan, zihnime şüphe yerleşmişti bile.",
+      "Farkına bile varmadan, sosyal yapılar derin bir değişime uğramıştı.",
+      "Farkına bile varmadan, bilgilerimin eskidiği açıkça belli olmuştu.",
+      "Farkına bile varmadan, ekonomik paradigma tamamen değişivermişti.",
+      "Farkına bile varmadan, bu düşünce akımının etkisi hakim hale gelmişti."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Bu deneyim bana ... öğretti",
+    "translation": "The whole experience taught me ...",
+    "b1": [
+      "Bu deneyim bana ailenin önemli olduğunu öğretti.",
+      "Bu deneyim bana sabırlı olmak gerektiğini öğretti.",
+      "Bu deneyim bana seyahat etmenin iyi bir şey olduğunu öğretti.",
+      "Bu deneyim bana Fransızca konuşabileceğimi öğretti.",
+      "Bu deneyim bana korkmamayı öğretti."
+    ],
+    "b2": [
+      "Bu deneyim bana takım çalışmasının başarının anahtarı olduğunu öğretti.",
+      "Bu deneyim bana hayallerden asla vazgeçmemek gerektiğini öğretti.",
+      "Bu deneyim bana günlük küçük meselelere kafa yormamayı öğretti.",
+      "Bu deneyim bana ilişkilerdeki iletişimin önemini öğretti.",
+      "Bu deneyim bana sağlığın bizim en büyük zenginliğimiz olduğunu öğretti."
+    ],
+    "c1": [
+      "Bu deneyim bana dayanıklılığın zorluklarda parlayan bir güç olduğunu öğretti.",
+      "Bu deneyim bana gerçeğin genellikle çok boyutlu olduğunu ve asla mutlak olmadığını öğretti.",
+      "Bu deneyim bana sözsüz dilin inceliğini anlamayı öğretti.",
+      "Bu deneyim bana alçakgönüllülüğün bilginin ayrılmaz bir parçası olduğunu öğretti.",
+      "Bu deneyim bana değişimin hayatımızın tek sabiti olduğunu öğretti."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "İlk olan şey ... -di / -ydi",
+    "translation": "The first thing that happened was ...",
+    "b1": [
+      "İlk olan şey anahtarlarımı kaybetmemdi.",
+      "İlk olan şey onun bağırmasıydı.",
+      "İlk olan şey yağmurun yağmasıydı.",
+      "İlk olan şey sabah kahvesiydi.",
+      "İlk olan şey çalar saatimdi."
+    ],
+    "b2": [
+      "İlk olan şey bütün bölgede elektriklerin kesilmesiydi.",
+      "İlk olan şey seyahatimizden vazgeçmek zorunda kalmamızdı.",
+      "İlk olan şey beklenmedik bir alerjik reaksiyondu.",
+      "İlk olan şey hava durumunun aniden değişmesiydi.",
+      "İlk olan şey onun tebrik mektubunu almasıydı."
+    ],
+    "c1": [
+      "İlk olan şey yönetim kadrosundaki güvenin sarsılmasıydı.",
+      "İlk olan şey halkın artan memnuniyetsizliğinin dışa vurumuydu.",
+      "İlk olan şey güvenlik protokollerinin sorgulanmasıydı.",
+      "İlk olan şey biyoetik üzerine hararetli bir tartışmanın doğmasıydı.",
+      "İlk olan şey ulusal para biriminin aniden değer kaybetmesiydi."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Geriye dönüp baktığımda, ... -diğini görebiliyorum",
+    "translation": "Looking back now, I can see that ...",
+    "b1": [
+      "Geriye dönüp baktığımda, yanıldığımı görebiliyorum.",
+      "Geriye dönüp baktığımda, bunun iyi bir fikir olduğunu görebiliyorum.",
+      "Geriye dönüp baktığımda, çok genç olduğumu görebiliyorum.",
+      "Geriye dönüp baktığımda, çok şey öğrendiğimi görebiliyorum.",
+      "Geriye dönüp baktığımda, her şeyin iyi olduğunu görebiliyorum."
+    ],
+    "b2": [
+      "Geriye dönüp baktığımda, bu zorluğun büyümek için gerekli olduğunu görebiliyorum.",
+      "Geriye dönüp baktığımda, ailemin tavsiyesine kulak vermem gerektiğini görebiliyorum.",
+      "Geriye dönüp baktığımda, hayatımda şansın önemli bir rol oynadığını görebiliyorum.",
+      "Geriye dönüp baktığımda, seçimlerimizin tüm geleceğimizi etkilediğini görebiliyorum.",
+      "Geriye dönüp baktığımda, durumun o kadar da kötü olmadığını görebiliyorum."
+    ],
+    "c1": [
+      "Geriye dönüp baktığımda, bu başarısızlığın aslında büyük bir başarıya zemin hazırladığını görebiliyorum.",
+      "Geriye dönüp baktığımda, olayları algılamama duygularımın engel olduğunu görebiliyorum.",
+      "Geriye dönüp baktığımda, bu faktörlerin kesişiminin eşsiz bir fırsat yarattığını görebiliyorum.",
+      "Geriye dönüp baktığımda, öngörü eksikliğinin projeye zarar verdiğini görebiliyorum.",
+      "Geriye dönüp baktığımda, mantalitenin değişmesinin beklenenden çok daha yavaş olduğunu görebiliyorum."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Kendimi tamamen ... hissettim",
+    "translation": "I felt completely ...",
+    "b1": [
+      "Kendimi şehirde tamamen kaybolmuş hissettim.",
+      "İşten sonra kendimi tamamen yorgun hissettim.",
+      "Seni gördüğüme kendimi tamamen mutlu hissettim.",
+      "Filmden sonra kendimi tamamen üzgün hissettim.",
+      "Hediyeye kendimi tamamen şaşırmış hissettim."
+    ],
+    "b2": [
+      "Bu adaletsiz durum karşısında kendimi tamamen çaresiz hissettim.",
+      "Bu zor sınavı bitirdiğimde kendimi tamamen rahatlamış hissettim.",
+      "Onun çelişkili sözlerinden dolayı kendimi tamamen kafası karışmış hissettim.",
+      "Bu yeni mesleki görev için kendimi tamamen istekli hissettim.",
+      "Bu yeni arkadaş ortamına kendimi tamamen uyum sağlamış hissettim."
+    ],
+    "c1": [
+      "Bu insanlıktan uzak yaşam tarzından kendimi tamamen yabancılaşmış hissettim.",
+      "Bu konserin duygusal gücünden dolayı kendimi tamamen başka bir dünyada gibi hissettim.",
+      "İnsani felaketin boyutundan dolayı kendimi tamamen aciz hissettim.",
+      "Kalabalığın bulaşıcı coşkusundan dolayı kendimi tamamen kanatlanmış gibi hissettim.",
+      "Kendimi, önemini tam kavrayamadığım büyük bir misyona tamamen adanmış hissettim."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Tam o andı ki ...",
+    "translation": "It was the moment when ...",
+    "b1": [
+      "Tam o andı ki biz pizza yiyorduk.",
+      "Tam o andı ki o dans etmeye başladı.",
+      "Tam o andı ki ben çantamı buldum.",
+      "Tam o andı ki parti bitti.",
+      "Tam o andı ki ben eve döndüm."
+    ],
+    "b2": [
+      "Tam o andı ki ben artık geri çekilemeyeceğimi anladım.",
+      "Tam o andı ki güneş bulutların arasından nihayet göründü.",
+      "Tam o andı ki gerçek herkes için apaçık oldu.",
+      "Tam o andı ki biz yurt dışına taşınmaya karar verdik.",
+      "Tam o andı ki salondaki gerilime dayanmak mümkün değildi."
+    ],
+    "c1": [
+      "Tam o andı ki kişisel hırs genel menfaatin önünde geri adım attı.",
+      "Tam o andı ki bu iki düşünce akımı arasındaki uçurum kapatılamaz hale geldi.",
+      "Tam o andı ki sıradan bir duygu aracılığıyla geçicilik ebediyetle buluştu.",
+      "Tam o andı ki kader sadece bir zar atışıyla belirlenecek gibi görünüyordu.",
+      "Tam o andı ki iklimsel acil duruma karşı kolektif bilinç uyandı."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Kısacası, ...",
+    "translation": "To cut a long story short, ...",
+    "b1": [
+      "Kısacası, güzel bir gün geçirdik.",
+      "Kısacası, film kötüydü.",
+      "Kısacası, paraya ihtiyacım var.",
+      "Kısacası, o gelmedi.",
+      "Kısacası, her şey bitti."
+    ],
+    "b2": [
+      "Kısacası, durum stabil ama tedbir gerektiriyor.",
+      "Kısacası, devam etmek için yeterli kaynağımız yok.",
+      "Kısacası, bu asla pişman olmayacağım bir deneyim oldu.",
+      "Kısacası, şirket imajını tamamen değiştirmeye karar verdi.",
+      "Kısacası, herkes bunun bir başarısızlık olduğu konusunda hemfikir."
+    ],
+    "c1": [
+      "Kısacası, etik sonuçlar finansal karlardan çok daha ağır basıyor.",
+      "Kısacası, mevcut yapı tamamen eskidi.",
+      "Kısacası, bu bizim değerlerimizi kökten sorgulamamız anlamına geliyor.",
+      "Kısacası, bu iki olgu arasındaki bağı kanıtlamaya gerek yok.",
+      "Kısacası, bu müzakerelerin sonucu hala çok belirsiz kalmaya devam ediyor."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Atmosfer çok ... -di",
+    "translation": "The atmosphere was very ...",
+    "b1": [
+      "Göl kenarında atmosfer çok sakindi.",
+      "Partide atmosfer çok eğlenceliydi.",
+      "Bu evde atmosfer çok tuhaftı.",
+      "Bugün sabah atmosfer çok soğuktu.",
+      "Pazarda atmosfer çok canlıydı."
+    ],
+    "b2": [
+      "İş görüşmesinde atmosfer çok gergindi.",
+      "Büyük aile yemeğinde atmosfer çok sıcaktı.",
+      "Uzun sessizlikten sonra atmosfer çok ağırdı.",
+      "Konser başlamadan önce atmosfer çok heyecanlıydı.",
+      "Şehrin sisli sokaklarında atmosfer çok gizemliydi."
+    ],
+    "c1": [
+      "Atmosfer çok huzurluydu, sanki zaman aniden durmuş gibiydi.",
+      "Bütçe kısıntısı duyurusundan sonra atmosfer çok elverişsizdi.",
+      "Atmosfer çok rüya gibiydi, bizi sürrealist bir dünyaya daldırdı.",
+      "Ulusal ödül töreninde atmosfer çok görkemliydi.",
+      "İstikrarsız jeopolitik durumdan dolayı atmosfer çok huzursuzdu."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Bunu tek bir kelimeyle tanımlamam gerekirse, ... derdim",
+    "translation": "If I had to describe it in one word, I'd say ...",
+    "b1": [
+      "Bunu tek bir kelimeyle tanımlamam gerekirse, harika derdim.",
+      "Bunu tek bir kelimeyle tanımlamam gerekirse, tuhaf derdim.",
+      "Bunu tek bir kelimeyle tanımlamam gerekirse, zor derdim.",
+      "Bunu tek bir kelimeyle tanımlamam gerekirse, yorucu derdim.",
+      "Bunu tek bir kelimeyle tanımlamam gerekirse, aşk derdim."
+    ],
+    "b2": [
+      "Bunu tek bir kelimeyle tanımlamam gerekirse, unutulmaz derdim.",
+      "Bunu tek bir kelimeyle tanımlamam gerekirse, faydalı derdim.",
+      "Bunu tek bir kelimeyle tanımlamam gerekirse, hayal kırıklığı derdim.",
+      "Bunu tek bir kelimeyle tanımlamam gerekirse, karmaşa derdim.",
+      "Bunu tek bir kelimeyle tanımlamam gerekirse, paha biçilemez derdim."
+    ],
+    "c1": [
+      "Bunu tek bir kelimeyle tanımlamam gerekirse, paradigmatik derdim.",
+      "Bunu tek bir kelimeyle tanımlamam gerekirse, muğlak derdim.",
+      "Bunu tek bir kelimeyle tanımlamam gerekirse, büyüleyici derdim.",
+      "Bunu tek bir kelimeyle tanımlamam gerekirse, demode derdim.",
+      "Bunu tek bir kelimeyle tanımlamam gerekirse, olağanüstü derdim."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Bütün bunlardaki en komik şey ... -di / -ydi",
+    "translation": "The funniest part of the whole thing was ...",
+    "b1": [
+      "Bütün bunlardaki en komik şey köpeğimin pastayı yemiş olmasıydı.",
+      "Bütün bunlardaki en komik şey fotoğraftaki onun yüz ifadesiydi.",
+      "Bütün bunlardaki en komik şey ayakkabılarımı unutmuş olmamdı.",
+      "Bütün bunlardaki en komik şey Ali'nin anlattığı hikayeydi.",
+      "Bütün bunlardaki en komik şey kaybolduğumuz andı."
+    ],
+    "b2": [
+      "Bütün bunlardaki en komik şey gözlüğü burnumuzda dururken aramamızdı.",
+      "Bütün bunlardaki en komik şey yeni saç modelimi gördüğünde babamın verdiği tepkiydi.",
+      "Bütün bunlardaki en komik şey dondurmayı alır almaz yağmurun yağmasıydı.",
+      "Bütün bunlardaki en komik şey küçük bir anlaşmazlığın nasıl büyük bir maceraya dönüştüğüydü.",
+      "Bütün bunlardaki en komik şey sonunda arabada uyuyakalmış olmamızdı."
+    ],
+    "c1": [
+      "Bütün bunlardaki en komik şey bizim ciddi tahminlerimizin karşısındaki durumun ironisiydi.",
+      "Bütün bunlardaki en komik şey protokol ile o anki gerçeklik arasındaki absürt uçurumdu.",
+      "Bütün bunlardaki en komik şey yere düştükten sonra gösterdiği o öz-ironiydi.",
+      "Bütün bunlardaki en komik şey en kolay çözümün başta en çok gözden kaçan şey olmasıydı.",
+      "Bütün bunlardaki en komik şey geriye dönüp baktığımızda korkularımızın ne kadar temelsiz olduğunu görmekti."
+    ]
+  }
+]
