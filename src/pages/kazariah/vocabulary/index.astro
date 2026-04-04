@@ -11,7 +11,7 @@ const chapters_b1 = chapters["b1"];
 const chapters_b2 = chapters["b2"];
 
 // Title
-const pageTitle = "카자흐어 어휘";
+const pageTitle = "Kazakh Vocabulary";
 
 // Anchor Navigation
 const navItems = [
@@ -25,8 +25,8 @@ const navItems = [
 <Layout pageTitle={pageTitle + " | Kazariah"}>
   <BoxFrontier
     title="Sözdеr"
-    subtitle="카자흐어 어휘"
-    description="단어 하나가 문장을 바꿉니다. 어휘가 쌓일수록 언어가 내 것이 되는 경험, 지금 시작해보세요."
+    subtitle="Kazakh Vocabulary"
+    description="One word changes a sentence. The more vocabulary you build, the more the language becomes yours — start that experience now."
     language="kaz"
   />
 
@@ -35,7 +35,7 @@ const navItems = [
   <main>
     <section id="group-a1">
       <h2>
-        <span class="animated-underline-heb">기초 어휘</span>
+        <span class="animated-underline-kaz">Basic Vocabulary</span>
       </h2>
       <ul>
         {
@@ -43,9 +43,9 @@ const navItems = [
             <ButtonFrontier2
               id={post.id}
               title={post.kaz}
-              subtitle={post.kor}
+              subtitle={post.eng}
               language="kaz"
-              path={"/kazariah/phrasebook/a1/" + post.path}
+              path={"/kazariah/vocabulary/a1/" + post.path}
             />
           ))
         }
@@ -62,9 +62,9 @@ const navItems = [
             <ButtonFrontier2
               id={post.id}
               title={post.kaz}
-              subtitle={post.kor}
+              subtitle={post.eng}
               language="kaz"
-              path={"/kazariah/phrasebook/a2/" + post.path}
+              path={"/kazariah/vocabulary/a2/" + post.path}
             />
           ))
         }
@@ -81,9 +81,9 @@ const navItems = [
             <ButtonFrontier2
               id={post.id}
               title={post.kaz}
-              subtitle={post.kor}
+              subtitle={post.eng}
               language="kaz"
-              path={"/kazariah/phrasebook/b1/" + post.path}
+              path={"/kazariah/vocabulary/b1/" + post.path}
             />
           ))
         }
@@ -100,9 +100,9 @@ const navItems = [
             <ButtonFrontier2
               id={post.id}
               title={post.kaz}
-              subtitle={post.kor}
+              subtitle={post.eng}
               language="kaz"
-              path={"/kazariah/phrasebook/b2/" + post.path}
+              path={"/kazariah/vocabulary/b2/" + post.path}
             />
           ))
         }
