@@ -1,19 +1,19 @@
 ---
-import IvriahLayout from "../../../../layouts/IvriahLayout.astro";
+import KazariahLayout from "../../../../layouts/KazariahLayout.astro";
 import VisibilityControllerFrontier from "../../../../components/VisibilityControllerFrontier.astro";
-import BoxFrontier2rtl from "../../../../components/BoxFrontier2rtl.astro";
+import BoxFrontier2 from "../../../../components/BoxFrontier2.astro";
 
 import chapters from "../../../../assets/json/patterns/chapters.json";
-import chapter1 from "../../../../assets/json/patterns/hebrew/chapter1.json";
-import chapter2 from "../../../../assets/json/patterns/hebrew/chapter2.json";
-import chapter3 from "../../../../assets/json/patterns/hebrew/chapter3.json";
-import chapter4 from "../../../../assets/json/patterns/hebrew/chapter4.json";
-import chapter5 from "../../../../assets/json/patterns/hebrew/chapter5.json";
-import chapter6 from "../../../../assets/json/patterns/hebrew/chapter6.json";
-import chapter7 from "../../../../assets/json/patterns/hebrew/chapter7.json";
-import chapter8 from "../../../../assets/json/patterns/hebrew/chapter8.json";
-import chapter9 from "../../../../assets/json/patterns/hebrew/chapter9.json";
-import chapter10 from "../../../../assets/json/patterns/hebrew/chapter10.json";
+import chapter1 from "../../../../assets/json/patterns/kazakh/chapter1.json";
+import chapter2 from "../../../../assets/json/patterns/kazakh/chapter2.json";
+import chapter3 from "../../../../assets/json/patterns/kazakh/chapter3.json";
+import chapter4 from "../../../../assets/json/patterns/kazakh/chapter4.json";
+import chapter5 from "../../../../assets/json/patterns/kazakh/chapter5.json";
+import chapter6 from "../../../../assets/json/patterns/kazakh/chapter6.json";
+import chapter7 from "../../../../assets/json/patterns/kazakh/chapter7.json";
+import chapter8 from "../../../../assets/json/patterns/kazakh/chapter8.json";
+import chapter9 from "../../../../assets/json/patterns/kazakh/chapter9.json";
+import chapter10 from "../../../../assets/json/patterns/kazakh/chapter10.json";
 
 export async function getStaticPaths() {
   // 모든 경로의 조합을 생성합니다.
@@ -84,11 +84,11 @@ const navItems = [
 ];
 ---
 
-<IvriahLayout pageTitle={post.pattern + " | Ivriah"}>
-  <BoxFrontier2rtl
+<KazariahLayout pageTitle={post.pattern + " | Kazariah"}>
+  <BoxFrontier2
     title=`${post.id}. ${post.pattern}`
     subtitle={post.translation}
-    language="heb"
+    language="kaz"
   />
   <VisibilityControllerFrontier items={navItems} />
 
@@ -106,7 +106,7 @@ const navItems = [
                   {level.map((phrase, index) => {
                     return (
                       <>
-                        <p lang="fr">
+                        <p lang="kk">
                           <span>{index + 1}.</span>
                           <br />
                           {phrase}
@@ -124,7 +124,7 @@ const navItems = [
                   {level.map((phrase, index) => {
                     return (
                       <>
-                        <p lang="fr">
+                        <p lang="kk">
                           <span>{index + 1}.</span>
                           <br />
                           {phrase}
@@ -142,7 +142,7 @@ const navItems = [
                   {level.map((phrase, index) => {
                     return (
                       <>
-                        <p lang="fr">
+                        <p lang="kk">
                           <span>{index + 1}.</span>
                           <br />
                           {phrase}
@@ -176,7 +176,7 @@ const navItems = [
       });
     });
   </script>
-</IvriahLayout>
+</KazariahLayout>
 
 <style>
   /* Phrase Box */
@@ -209,7 +209,6 @@ const navItems = [
     font-family: "Inter", "Noto Hebrew", sans-serif;
     border: 1px solid rgba(255, 255, 255, 0.3);
     background-color: rgba(255, 255, 255, 0.1);
-    direction: rtl;
   }
 
   .phrase-box > p > span {
@@ -217,7 +216,7 @@ const navItems = [
     display: inline-block;
     width: 100%;
     font-weight: 700;
-    border-left: 4px solid var(--blue400);
+    border-left: 4px solid var(--teal400);
     font-size: 24px;
     margin-bottom: 1rem;
     padding: 0.3rem 0.6rem;
