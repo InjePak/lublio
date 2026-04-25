@@ -21,7 +21,7 @@ const colorMap800: Record<string, string> = {
   spa: "var(--rose800)",
   rus: "var(--indigo800)",
   heb: "var(--blue800)",
-  kaz: "var(--teal800)",
+  kaz: "var(--cyan800)",
 };
 const colorMap700: Record<string, string> = {
   nld: "var(--orange700)",
@@ -31,7 +31,7 @@ const colorMap700: Record<string, string> = {
   spa: "var(--rose700)",
   rus: "var(--indigo700)",
   heb: "var(--blue700)",
-  kaz: "var(--teal700)",
+  kaz: "var(--cyan700)",
 };
 const colorMap600: Record<string, string> = {
   nld: "var(--orange600)",
@@ -41,7 +41,7 @@ const colorMap600: Record<string, string> = {
   spa: "var(--rose600)",
   rus: "var(--indigo600)",
   heb: "var(--blue600)",
-  kaz: "var(--teal600)",
+  kaz: "var(--cyan600)",
 };
 const colorMap500: Record<string, string> = {
   nld: "var(--orange500)",
@@ -51,7 +51,7 @@ const colorMap500: Record<string, string> = {
   spa: "var(--rose500)",
   rus: "var(--indigo500)",
   heb: "var(--blue500)",
-  kaz: "var(--teal500)",
+  kaz: "var(--cyan500)",
 };
 const colorMap400: Record<string, string> = {
   nld: "var(--orange400)",
@@ -61,7 +61,7 @@ const colorMap400: Record<string, string> = {
   spa: "var(--rose400)",
   rus: "var(--indigo400)",
   heb: "var(--blue400)",
-  kaz: "var(--teal400)",
+  kaz: "var(--cyan400)",
 };
 const colorMap300: Record<string, string> = {
   nld: "var(--orange300)",
@@ -71,7 +71,7 @@ const colorMap300: Record<string, string> = {
   spa: "var(--rose300)",
   rus: "var(--indigo300)",
   heb: "var(--blue300)",
-  kaz: "var(--teal300)",
+  kaz: "var(--cyan300)",
 };
 const colorMap200: Record<string, string> = {
   nld: "var(--orange200)",
@@ -81,7 +81,7 @@ const colorMap200: Record<string, string> = {
   spa: "var(--rose200)",
   rus: "var(--indigo200)",
   heb: "var(--blue200)",
-  kaz: "var(--teal200)",
+  kaz: "var(--cyan200)",
 };
 const colorMap100: Record<string, string> = {
   nld: "var(--orange100)",
@@ -91,16 +91,16 @@ const colorMap100: Record<string, string> = {
   spa: "var(--rose100)",
   rus: "var(--indigo100)",
   heb: "var(--blue100)",
-  kaz: "var(--teal100)",
+  kaz: "var(--cyan100)",
 };
-const color800 = colorMap800[language] || "var(--zinc800)";
-const color700 = colorMap700[language] || "var(--zinc700)";
-const color600 = colorMap600[language] || "var(--zinc600)";
-const color500 = colorMap500[language] || "var(--zinc500)";
-const color400 = colorMap400[language] || "var(--zinc400)";
-const color300 = colorMap300[language] || "var(--zinc300)";
-const color200 = colorMap200[language] || "var(--zinc200)";
-const color100 = colorMap100[language] || "var(--zinc100)";
+const color800 = colorMap800[language] || "var(--neutral800)";
+const color700 = colorMap700[language] || "var(--neutral700)";
+const color600 = colorMap600[language] || "var(--neutral600)";
+const color500 = colorMap500[language] || "var(--neutral500)";
+const color400 = colorMap400[language] || "var(--neutral400)";
+const color300 = colorMap300[language] || "var(--neutral300)";
+const color200 = colorMap200[language] || "var(--neutral200)";
+const color100 = colorMap100[language] || "var(--neutral100)";
 
 const greetingMap: Record<string, string> = {
   fra: "Salut",
@@ -109,6 +109,8 @@ const greetingMap: Record<string, string> = {
   nld: "Hallo",
   ita: "Ciao",
   spa: "Hola",
+  heb: "שלום",
+  kaz: "Сәлем",
 };
 const greeting = greetingMap[language] || "Welcome";
 ---
@@ -181,20 +183,21 @@ const greeting = greetingMap[language] || "Welcome";
 
   .btn > h1 {
     position: relative;
-    font-family: "Roboto Condensed", sans-serif;
+    font-family: "Inter", sans-serif;
     font-size: 40px;
     font-weight: 600;
     text-transform: uppercase;
     margin-bottom: 0rem;
     transition: all 0.4s;
   }
-
+  
   .btn > h2 {
     position: relative;
+    font-family: "Noto Korean", sans-serif;
     font-size: 20px;
     font-weight: 600;
     margin-bottom: 0.5rem;
-    color: var(--zinc500);
+    color: var(--neutral500);
     transition: all 0.4s;
   }
 
@@ -208,7 +211,7 @@ const greeting = greetingMap[language] || "Welcome";
     margin-bottom: 0rem;
     font-size: 15px;
     font-weight: 500;
-    color: var(--zinc500);
+    color: var(--neutral500);
   }
 
   .btn > h3 {
@@ -218,12 +221,12 @@ const greeting = greetingMap[language] || "Welcome";
     top: 60%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-family: "Roboto Condensed", sans-serif;
+    font-family: "Inter", "Noto Hebrew", sans-serif;
     text-transform: uppercase;
     width: 50%;
     font-size: 24px;
     font-weight: 600;
-    color: var(--zinc800);
+    color: var(--neutral800);
     opacity: 0;
     transition: all 0.4s;
   }

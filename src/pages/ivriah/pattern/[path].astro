@@ -1,6 +1,6 @@
 ---
 import IvriahLayout from "../../../layouts/IvriahLayout.astro";
-import BoxFrontier2 from "../../../components/BoxFrontier2.astro";
+import BoxFrontier2rtl from "../../../components/BoxFrontier2rtl.astro";
 import ButtonFrontier2rtl from "../../../components/ButtonFrontier2rtl.astro";
 
 import chapters from "../../../assets/json/patterns/chapters.json";
@@ -70,7 +70,7 @@ switch (chapter.id) {
 ---
 
 <IvriahLayout pageTitle={chapter.kor + " | Ivriah"}>
-  <BoxFrontier2 title={chapter.heb} subtitle={chapter.kor} language="heb" />
+  <BoxFrontier2rtl title={chapter.heb} subtitle={chapter.kor} language="heb" />
 
   {
     jsonData.map((post: any) => (

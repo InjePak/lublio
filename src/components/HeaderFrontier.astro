@@ -5,7 +5,7 @@ import "../styles/transition.css";
 import { Icon } from "astro-icon/components";
 
 // Logo
-import LogoSVG from "../../public/lublio-logo-dark.svg?raw";
+import LogoSVG from "../../public/lublio-logo-light.svg?raw";
 ---
 
 <header id="main-header" class="header">
@@ -24,23 +24,22 @@ import LogoSVG from "../../public/lublio-logo-dark.svg?raw";
   <div class="overlay-panel panel-4"></div>
   <div class="overlay-panel panel-5"></div>
   <div class="overlay-panel panel-6"></div>
-  <div class="overlay-panel panel-7"></div>
-  <div class="overlay-panel panel-8"></div>
-  <div class="overlay-panel panel-9"></div>
-  <div class="overlay-panel panel-10"></div>
 
   <div class="overlayContent">
     <a id="menu-close-btn" class="close">&times;</a>
     <ul class="menuList">
       <li>
-        <a href="/" class="menuLink">Lublio</a>
+        <a href="/" class="menuLink">Home</a>
       </li>
       <li>
-        <a href="/ivriah" class="menuLink-heb">Ivriah</a>
+        <a href="/ivriah" class="menuLink">Ivriah</a>
       </li>
       <li>
-        <a href="/kazariah" class="menuLink-kaz">Kazariah</a>
+        <a href="/kazariah" class="menuLink">Kazariah</a>
       </li>
+      <!-- <li>
+        <a href="/about" class="menuLink">About</a>
+      </li> -->
     </ul>
   </div>
 </div>
@@ -78,7 +77,7 @@ import LogoSVG from "../../public/lublio-logo-dark.svg?raw";
 
   .logo {
     position: relative;
-    width: 40px; /* 원하는 크기 조절 */
+    width: 38px; /* 원하는 크기 조절 */
     height: auto;
     margin-left: auto;
     padding: 0.5rem;
@@ -98,18 +97,18 @@ import LogoSVG from "../../public/lublio-logo-dark.svg?raw";
   }
 
   .sticky {
-    border: 1px solid rgba(255, 255, 255, 0.3);
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: rgba(228, 228, 231, 0.8);
     backdrop-filter: blur(2px);
     margin-top: 1.5rem;
     padding: 0;
     opacity: 1;
     transform: translateY(0px);
+    border-radius: 7px;
   }
 
   .sticky:hover {
     cursor: pointer;
-    background-color: rgba(255, 255, 255, 0.2);
+    background-color: rgba(212, 212, 216, 0.8);
   }
 
   .overlay {
@@ -142,49 +141,33 @@ import LogoSVG from "../../public/lublio-logo-dark.svg?raw";
     right: 0;
     width: 0%;
     height: 100%;
-    transition: width 1s cubic-bezier(0.77, 0, 0.175, 1);
+    transition: width 0.5s cubic-bezier(0.77, 0, 0.175, 1);
   }
 
   /* Gradation Style */
   .panel-1 {
-    background-color: rgba(23, 23, 23, 0.1);
+    background-color: var(--pink400);
     transition-delay: 0s;
   }
   .panel-2 {
-    background-color: rgba(23, 23, 23, 0.2);
+    background-color: var(--orange400);
     transition-delay: 0.1s;
   }
   .panel-3 {
-    background-color: rgba(23, 23, 23, 0.3);
+    background-color: var(--amber400);
     transition-delay: 0.2s;
   }
   .panel-4 {
-    background-color: rgba(23, 23, 23, 0.4);
+    background-color: var(--emerald400);
     transition-delay: 0.3s;
   }
   .panel-5 {
-    background-color: rgba(23, 23, 23, 0.5);
+    background-color: var(--sky400);
     transition-delay: 0.4s;
   }
   .panel-6 {
-    background-color: rgba(23, 23, 23, 0.6);
+    background-color: var(--neutral100);
     transition-delay: 0.5s;
-  }
-  .panel-7 {
-    background-color: rgba(23, 23, 23, 0.7);
-    transition-delay: 0.6s;
-  }
-  .panel-8 {
-    background-color: rgba(23, 23, 23, 0.8);
-    transition-delay: 0.7s;
-  }
-  .panel-9 {
-    background-color: rgba(23, 23, 23, 0.9);
-    transition-delay: 0.8s;
-  }
-  .panel-10 {
-    background-color: rgba(23, 23, 23, 1);
-    transition-delay: 0.9s;
   }
 
   .overlayActive .overlay-panel {
@@ -192,39 +175,27 @@ import LogoSVG from "../../public/lublio-logo-dark.svg?raw";
   }
 
   .overlay:not(.overlayActive) .panel-1 {
-    transition-delay: 0.9s;
-  }
-  .overlay:not(.overlayActive) .panel-2 {
-    transition-delay: 0.8s;
-  }
-  .overlay:not(.overlayActive) .panel-3 {
-    transition-delay: 0.7s;
-  }
-  .overlay:not(.overlayActive) .panel-4 {
-    transition-delay: 0.6s;
-  }
-  .overlay:not(.overlayActive) .panel-5 {
     transition-delay: 0.5s;
   }
-  .overlay:not(.overlayActive) .panel-6 {
+  .overlay:not(.overlayActive) .panel-2 {
     transition-delay: 0.4s;
   }
-  .overlay:not(.overlayActive) .panel-7 {
+  .overlay:not(.overlayActive) .panel-3 {
     transition-delay: 0.3s;
   }
-  .overlay:not(.overlayActive) .panel-8 {
+  .overlay:not(.overlayActive) .panel-4 {
     transition-delay: 0.2s;
   }
-  .overlay:not(.overlayActive) .panel-9 {
+  .overlay:not(.overlayActive) .panel-5 {
     transition-delay: 0.1s;
   }
-  .overlay:not(.overlayActive) .panel-10 {
+  .overlay:not(.overlayActive) .panel-6 {
     transition-delay: 0s;
   }
 
   .overlayActive .overlayContent {
     opacity: 1;
-    transition: opacity 1s ease 1s; /* 패널이 다 덮인 후 텍스트 등장 */
+    transition: opacity 0.7s ease 0.7s; /* 패널이 다 덮인 후 텍스트 등장 */
   }
 
   .close {
@@ -234,7 +205,7 @@ import LogoSVG from "../../public/lublio-logo-dark.svg?raw";
     height: auto;
     text-align: center;
     z-index: 999;
-    transition: all 1s ease 1s;
+    transition: all 0.7s ease 0.7s;
   }
 
   .overlayActive .close {
@@ -242,14 +213,14 @@ import LogoSVG from "../../public/lublio-logo-dark.svg?raw";
     position: absolute;
     opacity: 1;
     background-color: transparent;
-    top: -6rem;
+    top: -8rem;
     left: 50%;
     transform: translateX(-50%);
     font-size: 50px;
     font-family: "Inter", sans-serif;
-    font-weight: 300;
+    font-weight: 400;
     text-decoration: none;
-    color: var(--neutral50);
+    color: var(--neutral800);
     cursor: pointer;
     transition: all 0.7s ease 0.7s;
   }
@@ -278,23 +249,26 @@ import LogoSVG from "../../public/lublio-logo-dark.svg?raw";
     opacity: 0;
     list-style: none;
     transform: translateX(200px);
-    background-color: transparent;
   }
 
   .overlayActive .menuList {
+    background-color: var(--neutral200);
+    padding: 8rem 2rem;
     opacity: 1;
     width: 100%;
-    max-width: 280px;
+    max-width: 320px;
     height: 100%;
     margin: 0;
     transform: translateX(0px);
+    border-radius: 20px;
   }
 
   .menuList li {
     display: block;
     text-align: left;
     width: auto;
-    margin-bottom: 0rem;
+    margin-bottom: 1.5rem;
+    background-color: transparent;
     transition: all 0.4s ease-in-out;
   }
 
@@ -302,85 +276,45 @@ import LogoSVG from "../../public/lublio-logo-dark.svg?raw";
     margin-bottom: 0;
   }
 
-  .menuLink,
-  .menuLink-heb,
-  .menuLink-kaz,
-  .menuLink-deu,
-  .menuLink-fra,
-  .menuLink-rus {
+  .menuLink {
     display: inline-block;
     width: 100%;
     height: 100%;
     position: relative;
     margin: 0px;
-    margin-bottom: 1.5rem;
     text-decoration: none;
+    border-bottom: 2px solid transparent;
     font-family: "Inter", sans-serif;
-    font-size: 24px;
+    font-size: 40px;
     font-weight: 600;
-    color: var(--neutral50);
-    padding: 1.5rem 2rem;
-    background-color: rgba(255, 255, 255, 0.1);
-    border: 1px solid rgba(255, 255, 255, 0.3);
     transition: all 0.4s;
   }
 
   .menuLink:hover {
-    background-color: rgba(255, 255, 255, 0.2);
-    cursor: pointer;
-  }
-
-  .menuLink-heb:hover {
-    background-color: rgba(255, 255, 255, 0.2);
-    border: 1px solid var(--blue400);
-    color: var(--blue400);
-    cursor: pointer;
-  }
-
-  .menuLink-kaz:hover {
-    background-color: rgba(255, 255, 255, 0.2);
-    border: 1px solid var(--teal400);
-    color: var(--teal400);
-    cursor: pointer;
-  }
-
-  .menuLink-deu:hover {
-    background-color: rgba(255, 255, 255, 0.2);
-    border: 1px solid var(--amber400);
-    color: var(--amber400);
-    cursor: pointer;
-  }
-
-  .menuLink-fra:hover {
-    background-color: rgba(255, 255, 255, 0.2);
-    border: 1px solid var(--sky400);
-    color: var(--sky400);
-    cursor: pointer;
-  }
-
-  .menuLink-rus:hover {
-    background-color: rgba(255, 255, 255, 0.2);
-    border: 1px solid var(--indigo400);
-    color: var(--indigo400);
     cursor: pointer;
   }
 
   .menuLink > svg {
     width: 30px;
     margin-right: 0.5rem;
-    color: var(--zinc800);
+    color: var(--neutral800);
     transform: translateY(6px);
     transition: all 0.4s;
   }
 
   /* Mobile */
   @media (max-width: 480px) {
+    .overlayActive .close {
+      top: -8rem;
+    }
+
     .overlayActive .menuList {
+      padding: 6rem 1.5rem;
       max-width: 240px;
     }
 
     .menuLink {
-      font-size: 24px;
+      font-size: 28px;
     }
   }
 </style>

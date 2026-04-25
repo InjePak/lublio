@@ -1,6 +1,6 @@
 ---
 import "../styles/lublio.css";
-import Header from "../components/Header.astro";
+import HeaderFrontier from "../components/HeaderFrontier.astro";
 import BackToTop from "../components/BackToTop.astro";
 
 const { pageTitle } = Astro.props;
@@ -40,7 +40,7 @@ const ogDescription =
   </head>
   <body>
     <div class="wrapper">
-      <Header />
+      <HeaderFrontier />
       <BackToTop />
       <slot />
     </div>

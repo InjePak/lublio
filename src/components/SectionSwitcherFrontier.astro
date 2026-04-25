@@ -87,6 +87,19 @@ const { items } = Astro.props;
   .visibility-toggle:checked + span {
     color: var(--neutral800);
   }
+
+  /* Mobile */
+  @media (max-width: 480px) {
+    .controller {
+      gap: 0.5rem;
+      margin-bottom: 1rem;
+    }
+
+    .visibility-toggle + span {
+      border-radius: 15px;
+      font-size: 15px;
+    }
+  }
 </style>
 
 <script>
