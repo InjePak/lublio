@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Mi ricordo quando...",
+    "translation": "I remember when ...",
+    "b1": [
+      "Mi ricordo quando siamo andati al mare.",
+      "Mi ricordo quando ho ricevuto la mia prima bicicletta.",
+      "Mi ricordo quando nevicava molto qui.",
+      "Mi ricordo quando abitavamo in una piccola casa.",
+      "Mi ricordo quando ho iniziato il mio primo lavoro."
+    ],
+    "b2": [
+      "Mi ricordo quando questa città non era così moderna come oggi.",
+      "Mi ricordo quando dovevamo inviare lettere per comunicare.",
+      "Mi ricordo quando il paese ha attraversato quella grande crisi economica.",
+      "Mi ricordo quando ho dovuto prendere una decisione difficile per la mia carriera.",
+      "Mi ricordo quando la tecnologia ha iniziato a cambiare le nostre vite."
+    ],
+    "c1": [
+      "Mi ricordo quando l'innocenza della mia giovinezza si è scontrata con la realtà del mondo.",
+      "Mi ricordo quando l'effervescenza culturale di questo quartiere era al suo apice.",
+      "Mi ricordo quando un semplice incontro ha radicalmente modificato la mia traiettoria.",
+      "Mi ricordo quando il silenzio regnava ancora prima dell'era dell'iperconnessione.",
+      "Mi ricordo quando ho capito che il tempo era la nostra risorsa più preziosa."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "C'era una volta...",
+    "translation": "Once upon a time, ...",
+    "b1": [
+      "C'era una volta una bambina che amava i fiori.",
+      "C'era una volta un re che viveva in un grande castello.",
+      "C'one una volta un gatto nero molto intelligente.",
+      "C'era una volta un villaggio calmo vicino alla montagna.",
+      "C'era una volta un viaggiatore perso nella foresta."
+    ],
+    "b2": [
+      "C'era una volta un inventore che sognava di cambiare il mondo con le sue macchine.",
+      "C'era una volta un'epoca in cui la gente credeva ancora nelle leggende.",
+      "C'era una volta un piccolo commercio che è diventato una grande azienda.",
+      "C'era una volta uno studente che ha percorso il mondo senza soldi.",
+      "C'era una volta un segreto custodito dagli abitanti di quest'isola."
+    ],
+    "c1": [
+      "C'era una volta un idealista convinto che l'arte potesse salvare l'umanità.",
+      "C'era una volta una civiltà fiorente che si è estinta a causa del suo orgoglio.",
+      "C'era una volta un manoscritto perduto il cui contenuto avrebbe potuto cambiare il corso della storia.",
+      "C'era una volta un'utopia sociale che si è scontrata con le realtà della natura umana.",
+      "C'era una volta un vecchio la cui saggezza trascendeva i confini del suo paese."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "La storia inizia con...",
+    "translation": "The story begins with ...",
+    "b1": [
+      "La storia inizia con una bella mattina d'estate.",
+      "La storia inizia con un incontro al parco.",
+      "La storia inizia con la partenza di un treno.",
+      "La storia inizia con una telefonata.",
+      "La storia inizia con una lettera misteriosa."
+    ],
+    "b2": [
+      "La storia inizia con una scoperta archeologica incredibile nel deserto.",
+      "La storia inizia con il fallimento di una banca molto importante.",
+      "La storia inizia con un malinteso tra due amici d'infanzia.",
+      "La storia inizia con l'arrivo di uno straniero in un villaggio isolato.",
+      "La storia inizia con una promessa fatta vent'anni fa."
+    ],
+    "c1": [
+      "La storia inizia con un'immersione brutale nell'intimità di una famiglia lacerata.",
+      "La storia inizia con una metafora sulla fragilità dell'esistenza umana.",
+      "La storia inizia con una messa in discussione sistematica delle nostre certezze sociali.",
+      "La storia inizia con il racconto toccante di una ricerca d'identità incompiuta.",
+      "La storia inizia con una riflessione sul carattere effimero della gloria."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Questo mi ricorda un'epoca in cui...",
+    "translation": "That reminds me of a time when ...",
+    "b1": [
+      "Questo mi ricorda un'epoca in cui avevo molto tempo libero.",
+      "Questo mi ricorda un'epoca in cui mangiavamo spesso insieme.",
+      "Questo mi ricorda un'epoca in cui i bambini giocavano fuori.",
+      "Questo mi ricorda un'epoca in cui viaggiavo spesso.",
+      "Questo mi ricorda un'epoca in cui tutto era più semplice."
+    ],
+    "b2": [
+      "Questo mi ricorda un'epoca in cui non ci si preoccupava tanto del giudizio degli altri.",
+      "Questo mi ricorda un'epoca in cui l'industria locale era ancora molto fiorente.",
+      "Questo mi ricorda un'epoca in cui la vita notturna in questo quartiere era frenetica.",
+      "Questo mi ricorda un'epoca in cui l'ottimismo regnava nonostante le difficoltà.",
+      "Questo mi ricorda un'epoca in cui ogni scoperta tecnologica sembrava magica."
+    ],
+    "c1": [
+      "Questo mi ricorda un'epoca in cui la solidarietà organica prevaleva sull'individualismo sfrenato.",
+      "Questo mi ricorda un'epoca in cui la lentezza era ancora considerata una virtù.",
+      "Questo mi ricorda un'epoca in cui le divergenze ideologiche erano molto più marcate di oggi.",
+      "Questo mi ricorda un'epoca in cui ci si poteva ancora immergere in una solitudine assoluta.",
+      "Questo mi ricorda un'epoca in cui la ricerca di senso prevaleva sulla ricerca del profitto immediato."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Lasciate che vi parli di...",
+    "translation": "Let me tell you about ...",
+    "b1": [
+      "Lasciate che vi parli del mio cane.",
+      "Lasciate che vi parli delle mie ultime vacanze.",
+      "Lasciate che vi parli della mia città preferita.",
+      "Lasciate che vi parli del mio nuovo progetto.",
+      "Lasciate che vi parli della mia famiglia."
+    ],
+    "b2": [
+      "Lasciate che vi parli della mia esperienza di volontariato in Africa.",
+      "Lasciate che vi parli di come ho imparato l'italiano.",
+      "Lasciate che vi parli della storia affascinante di questo vecchio edificio.",
+      "Lasciate che vi parli dell'influenza dei miei genitori sulle mie scelte.",
+      "Lasciate che vi parli delle sfide che la nostra azienda sta affrontando."
+    ],
+    "c1": [
+      "Lasciate che vi parli della complessità dei rapporti umani in ambito professionale.",
+      "Lasciate che vi parli della genesi di questo progetto che ha sconvolto la mia visione del mondo.",
+      "Lasciate che vi parli dell'ambivalenza del sentimento amoroso attraverso la letteratura.",
+      "Lasciate che vi parli dell'emergenza di nuove forme di cittadinanza digitale.",
+      "Lasciate che vi parli della sottigliezza di quest'opera d'arte spesso ignorata dal pubblico."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Stavamo per... quando all'improvviso...",
+    "translation": "We were just about to ... when suddenly ...",
+    "b1": [
+      "Stavamo per partire quando all'improvviso ha iniziato a piovere.",
+      "Stavamo per mangiare quando all'improvviso il telefono ha squillato.",
+      "Stavamo per uscire quando all'improvviso è arrivato il mio amico.",
+      "Stavamo per dormire quando all'improvviso abbiamo sentito un rumore.",
+      "Stavamo per vincere quando all'improvviso il gioco si è fermato."
+    ],
+    "b2": [
+      "Stavamo per firmare il contratto quando all'improvviso il cliente ha cambiato idea.",
+      "Stavamo per concludere la riunione quando all'improvviso è sorto un problema tecnico.",
+      "Stavamo per arrivare in cima quando all'improvviso è scoppiata la tempesta.",
+      "Stavamo per vendere la casa quando all'improvviso abbiamo avuto un dubbio.",
+      "Stavamo per festeggiare la vittoria quando all'improvviso è arrivata la notizia."
+    ],
+    "c1": [
+      "Stavamo per finalizzare la fusione quando all'improvviso è stata scoperta una falla giuridica.",
+      "Stavamo per cedere allo scoraggiamento quando all'improvviso è apparsa una luce di speranza.",
+      "Stavamo per ignorare questo aspetto del problema quando all'improvviso un'osservazione ha chiarito tutto.",
+      "Stavamo per interrompere il dialogo quando all'improvviso è stato proposto un compromesso inaspettato.",
+      "Stavamo per cadere nell'oblio quando all'improvviso questo evento ci ha riportato alla ribalta."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "E poi, è successa la cosa più inaspettata: ...",
+    "translation": "And then, the most unexpected thing happened: ...",
+    "b1": [
+      "E poi, è successa la cosa più inaspettata: ho vinto il concorso.",
+      "E poi, è successa la cosa più inaspettata: mio fratello è venuto a trovarmi.",
+      "E poi, è successa la cosa più inaspettata: ho trovato dei soldi per terra.",
+      "E poi, è successa la cosa più inaspettata: il gatto ha iniziato a parlare nel mio sogno.",
+      "E poi, è successa la cosa più inaspettata: ha fatto bel tempo tutto il giorno."
+    ],
+    "b2": [
+      "E poi, è successa la cosa più inaspettata: il mio vecchio capo mi ha proposto un posto.",
+      "E poi, è successa la cosa più inaspettata: l'aereo ha dovuto fare un atterraggio d'emergenza.",
+      "E poi, è successa la cosa più inaspettata: ho incontrato il mio sosia per strada.",
+      "E poi, è successa la cosa più inaspettata: il pubblico ha iniziato ad applaudire in piedi.",
+      "E poi, è successa la cosa più inaspettata: abbiamo scoperto un tesoro in giardino."
+    ],
+    "c1": [
+      "E poi, è successa la cosa più inaspettata: un ribaltamento politico totale ha cambiato le carte in tavola.",
+      "E poi, è successa la cosa più inaspettata: la verità è emersa nel momento in cui meno ce lo si aspettava.",
+      "E poi, è successa la cosa più inaspettata: questa crisi ha generato una solidarietà senza precedenti.",
+      "E poi, è successa la cosa più inaspettata: il sistema si è autoregolato contro ogni previsione.",
+      "E poi, è successa la cosa più inaspettata: l'opera è stata riabilitata dalla critica dopo anni di disprezzo."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Non dimenticherò mai il momento in cui...",
+    "translation": "I'll never forget the moment when ...",
+    "b1": [
+      "Non dimenticherò mai il momento in cui ho visto la Torre Eiffel.",
+      "Non dimenticherò mai il momento in cui mi sono laureato.",
+      "Non dimenticherò mai il momento in cui ti ho incontrato.",
+      "Non dimenticherò mai il momento in cui ho mangiato questo piatto delizioso.",
+      "Non dimenticherò mai il momento in cui ho preso l'aereo per la prima volta."
+    ],
+    "b2": [
+      "Non dimenticherò mai il momento in cui ho capito che volevo cambiare vita.",
+      "Non dimenticherò mai il momento in cui abbiamo finalmente raggiunto la cima della montagna.",
+      "Non dimenticherò mai il momento in cui è nato il mio primo figlio.",
+      "Non dimenticherò mai il momento in cui ho dovuto dire addio ai miei amici.",
+      "Non dimenticherò mai il momento in cui ho ricevuto quella lettera di ammissione."
+    ],
+    "c1": [
+      "Non dimenticherò mai il momento in cui ho preso coscienza dell'immensità della mia responsabilità.",
+      "Non dimenticherò mai il momento in cui la tensione drammatica ha raggiunto il suo parossismo durante il dibattito.",
+      "Non dimenticherò mai il momento in cui la bellezza del paesaggio mi ha letteralmente tolto il fiato.",
+      "Non dimenticherò mai il momento in cui la vulnerabilità di uno sconosciuto mi ha profondamente commosso.",
+      "Non dimenticherò mai il momento in cui l'evidenza di questa verità mi è apparsa in modo folgorante."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "All'inizio pensavo..., ma poi ho capito...",
+    "translation": "At first, I thought ..., but later I realized ...",
+    "b1": [
+      "All'inizio pensavo che fosse facile, ma poi ho capito che era difficile.",
+      "All'inizio pensavo che fosse cattivo, ma poi ho capito che era gentile.",
+      "All'inizio pensavo che non mi piacesse il formaggio, ma poi ho capito che era buono.",
+      "All'inizio pensavo che fosse francese, ma poi ho capito che era belga.",
+      "All'inizio pensavo che avrebbe piovuto, ma poi ho capito che il cielo stava diventando blu."
+    ],
+    "b2": [
+      "All'inizio pensavo che la felicità dipendesse dai soldi, ma poi ho capito che è interiore.",
+      "All'inizio pensavo che questo lavoro sarebbe stato noioso, ma poi ho capito che era appassionante.",
+      "All'inizio pensavo che imparare una lingua fosse impossibile, ma poi ho capito che è una questione di pazienza.",
+      "All'inizio pensavo che questa riforma fosse inutile, ma poi ho capito la sua reale importanza.",
+      "All'inizio pensavo che fossimo soli, ma poi ho capito che molte persone ci sostenevano."
+    ],
+    "c1": [
+      "All'inizio pensavo che la scienza potesse spiegare tutto, ma poi ho capito i limiti della ragione umana.",
+      "All'inizio pensavo che il successo fosse un fine a se stante, ma poi ho capito che il percorso contava di più.",
+      "All'inizio pensavo che le nostre culture fossero incompatibili, ma poi ho capito l'universalità delle nostre emozioni.",
+      "All'inizio pensavo che il progresso fosse lineare, ma poi ho capito che è fatto di cicli e regressioni.",
+      "All'inizio pensavo che il silenzio fosse un'assenza, ma poi ho capito che è una presenza in sé."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Tutto è cambiato dopo...",
+    "translation": "Everything changed after ...",
+    "b1": [
+      "Tutto è cambiato dopo il mio viaggio in Italia.",
+      "Tutto è cambiato dopo il nostro matrimonio.",
+      "Tutto è cambiato dopo la sua partenza.",
+      "Tutto è cambiato dopo il mio nuovo lavoro.",
+      "Tutto è cambiato dopo questo incontro."
+    ],
+    "b2": [
+      "Tutto è cambiato dopo la nascita del mio primo figlio.",
+      "Tutto è cambiato dopo quell'incidente che mi ha fatto riflettere sulla vita.",
+      "Tutto è cambiato dopo l'arrivo di questo nuovo direttore in azienda.",
+      "Tutto è cambiato dopo la scoperta di questa nuova tecnologia rivoluzionaria.",
+      "Tutto è cambiato dopo la crisi sanitaria globale."
+    ],
+    "c1": [
+      "Tutto è cambiato dopo questa presa di coscienza radicale sulle sfide ambientali.",
+      "Tutto è cambiato dopo il crollo delle mie certezze ideologiche.",
+      "Tutto è cambiato dopo che ho deciso di privilegiare la mia libertà intellettuale rispetto alla sicurezza finanziaria.",
+      "Tutto è cambiato dopo questa rottura epistemologica nel mio modo di percepire la realtà.",
+      "Tutto è cambiato dopo che lo scandalo è stato rivelato, scuotendo le fondamenta dell'istituzione."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Prima che me ne rendessi conto...",
+    "translation": "Before I knew it, ...",
+    "b1": [
+      "Prima che me ne rendessi conto, era già mezzanotte.",
+      "Prima che me ne rendessi conto, avevo mangiato tutta la torta.",
+      "Prima che me ne rendessi conto, le vacanze erano finite.",
+      "Prima che me ne rendessi conto, il treno era partito.",
+      "Prima che me ne rendessi conto, era troppo tardi."
+    ],
+    "b2": [
+      "Prima che me ne rendessi conto, i miei figli erano già diventati adulti.",
+      "Prima che me ne rendessi conto, avevo passato dieci anni in questa azienda.",
+      "Prima che me ne rendessi conto, la situazione era diventata incontrollabile.",
+      "Prima che me ne rendessi conto, avevo adottato le abitudini del paese.",
+      "Prima che me ne rendessi conto, il sole era già tramontato dietro l'orizzonte."
+    ],
+    "c1": [
+      "Prima che me ne rendessi conto, il dubbio si era insidiosamente installato nella mia mente.",
+      "Prima che me ne rendessi conto, le strutture sociali avevano subito una mutazione profonda.",
+      "Prima che me ne rendessi conto, l'obsolescenza del mio sapere era diventata palese.",
+      "Prima che me ne rendessi conto, il paradigma economico era totalmente cambiato.",
+      "Prima che me ne rendessi conto, l'influenza di questa corrente di pensiero era diventata egemone."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Tutta questa esperienza mi ha insegnato che...",
+    "translation": "The whole experience taught me ...",
+    "b1": [
+      "Tutta questa esperienza mi ha insegnato che la famiglia è importante.",
+      "Tutta questa esperienza mi ha insegnato che bisogna essere pazienti.",
+      "Tutta questa esperienza mi ha insegnato che viaggiare fa bene.",
+      "Tutta questa esperienza mi ha insegnato che posso parlare italiano.",
+      "Tutta questa esperienza mi ha insegnato a non avere paura."
+    ],
+    "b2": [
+      "Tutta questa esperienza mi ha insegnato che il lavoro di squadra è la chiave del successo.",
+      "Tutta questa esperienza mi ha insegnato che non bisogna mai abbandonare i propri sogni.",
+      "Tutta questa esperienza mi ha insegnato a relativizzare i piccoli problemi quotidiani.",
+      "Tutta questa esperienza mi ha insegnato l'importanza della comunicazione in una coppia.",
+      "Tutta questa esperienza mi ha insegnato che la salute è il nostro bene più prezioso."
+    ],
+    "c1": [
+      "Tutta questa esperienza mi ha insegnato che la resilienza è una forza che si coltiva nelle avversità.",
+      "Tutta questa esperienza mi ha insegnato che la verità è spesso plurale e mai assoluta.",
+      "Tutta questa esperienza mi ha insegnato a decifrare le sottigliezze del linguaggio non verbale.",
+      "Tutta questa esperienza mi ha insegnato che l'umiltà è il corollario indispensabile della conoscenza.",
+      "Tutta questa esperienza mi ha insegnato che il cambiamento è l'unica costante della nostra esistenza."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "La prima cosa che è successa è stata...",
+    "translation": "The first thing that happened was ...",
+    "b1": [
+      "La prima cosa che è successa è stata che ho perso le chiavi.",
+      "La prima cosa che è successa è stata che lui ha gridato.",
+      "La prima cosa che è successa è stata la pioggia.",
+      "La prima cosa che è successa è stata il caffè del mattino.",
+      "La prima cosa che è successa è stata la mia sveglia."
+    ],
+    "b2": [
+      "La prima cosa che è successa è stata un'interruzione di corrente in tutto il quartiere.",
+      "La prima cosa che è successa è stata che abbiamo dovuto annullare il viaggio.",
+      "La prima cosa che è successa è stata una reazione allergica inaspettata.",
+      "La prima cosa che è successa è stata un cambiamento radicale del meteo.",
+      "La prima cosa che è successa è stata che lei ha ricevuto una lettera di congratulazioni."
+    ],
+    "c1": [
+      "La prima cosa che è successa è stata lo sgretolamento delle certezze all'interno del team dirigente.",
+      "La prima cosa che è successa è stata la manifestazione di un malcontento popolare crescente.",
+      "La prima cosa che è successa è stata la messa in discussione brutale dei protocolli di sicurezza.",
+      "La prima cosa che è successa è stata l'esplosione di un dibattito appassionato sulla bioetica.",
+      "La prima cosa che è successa è stata la svalutazione immediata della moneta nazionale."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Guardando indietro, posso vedere che...",
+    "translation": "Looking back now, I can see that ...",
+    "b1": [
+      "Guardando indietro, posso vedere che avevo torto.",
+      "Guardando indietro, posso vedere che era una buona idea.",
+      "Guardando indietro, posso vedere che ero troppo giovane.",
+      "Guardando indietro, posso vedere che ho imparato molto.",
+      "Guardando indietro, posso vedere che tutto è andato bene."
+    ],
+    "b2": [
+      "Guardando indietro, posso vedere che questa difficoltà era necessaria per crescere.",
+      "Guardando indietro, posso vedere che avrei dovuto ascoltare i consigli dei miei genitori.",
+      "Guardando indietro, posso vedere che la fortuna ha giocato un ruolo importante nella mia vita.",
+      "Guardando indietro, posso vedere che le nostre scelte hanno influenzato tutto il nostro futuro.",
+      "Guardando indietro, posso vedere che la situazione non era così grave."
+    ],
+    "c1": [
+      "Guardando indietro, posso vedere che questo fallimento era in realtà il preludio a un successo maggiore.",
+      "Guardando indietro, posso vedere che la mia percezione degli eventi era influenzata dalle mie emozioni.",
+      "Guardando indietro, posso vedere che la convergenza di questi fattori ha creato un'opportunità unica.",
+      "Guardando indietro, posso vedere che la mancanza di anticipazione è stata dannosa per il progetto.",
+      "Guardando indietro, posso vedere che l'evoluzione delle mentalità è stata molto più lenta del previsto."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Mi sono sentito/a completamente...",
+    "translation": "I felt completely ...",
+    "b1": [
+      "Mi sono sentito completamente perso in città.",
+      "Mi sono sentita completamente stanca dopo il lavoro.",
+      "Mi sono sentito completamente felice di vederti.",
+      "Mi sono sentita completamente triste dopo il film.",
+      "Mi sono sentito completamente sorpreso dal regalo."
+    ],
+    "b2": [
+      "Mi sono sentito completamente impotente di fronte a questa situazione ingiusta.",
+      "Mi sono sentita completamente sollevata per aver finito questo esame difficile.",
+      "Mi sono sentito completamente sconcertato dalle sue affermazioni contraddittorie.",
+      "Mi sono sentita completamente motivata da questa nuova sfida professionale.",
+      "Mi sono sentito completamente integrato in questo nuovo gruppo di amici."
+    ],
+    "c1": [
+      "Mi sono sentito completamente alienato da questo stile di vita disumanizzato.",
+      "Mi sono sentita completamente trascorsa dalla potenza emotiva di questo concerto.",
+      "Mi sono sentito completamente spiazzato davanti all'entità del disastro umanitario.",
+      "Mi sono sentita completamente galvanizzata dall'entusiasmo comunicativo della folla.",
+      "Mi sono sentito completamente investito da una missione di cui non sospettavo l'importanza."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Era il momento in cui...",
+    "translation": "It was the moment when ...",
+    "b1": [
+      "Era il momento in cui abbiamo mangiato la pizza.",
+      "Era il momento in cui ha iniziato a ballare.",
+      "Era il momento in cui ho trovato la mia borsa.",
+      "Era il momento in cui la festa è finita.",
+      "Era il momento in cui sono tornato a casa."
+    ],
+    "b2": [
+      "Era il momento in cui ho capito che non potevo più tornare indietro.",
+      "Era il momento in cui il sole ha finalmente squarciato le nuvole.",
+      "Era il momento in cui la verità è stata finalmente rivelata a tutti.",
+      "Era il momento in cui abbiamo deciso di andare a vivere all'estero.",
+      "Era il momento in cui la tensione è diventata insopportabile nella stanza."
+    ],
+    "c1": [
+      "Era il momento in cui l'ambizione personale si è eclissata davanti all'interesse generale.",
+      "Era il momento in cui la rottura tra queste due correnti di pensiero è diventata irreversibile.",
+      "Era il momento in cui l'effimero ha incontrato l'eterno attraverso una semplice emozione.",
+      "Era il momento in cui il destino è sembrato oscillare su un semplice colpo di dadi.",
+      "Era il momento in cui la coscienza collettiva si è risvegliata di fronte all'emergenza climatica."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Per farla breve...",
+    "translation": "To cut a long story short, ...",
+    "b1": [
+      "Per farla breve, abbiamo passato una bella giornata.",
+      "Per farla breve, il film era brutto.",
+      "Per farla breve, ho bisogno di soldi.",
+      "Per farla breve, lui non è venuto.",
+      "Per farla breve, è finita."
+    ],
+    "b2": [
+      "Per farla breve, la situazione è stabile ma richiede vigilanza.",
+      "Per farla breve, non abbiamo abbastanza risorse per continuare.",
+      "Per farla breve, è un'esperienza che non rimpiango assolutamente.",
+      "Per farla breve, l'azienda ha deciso di cambiare tutta la sua immagine.",
+      "Per farla breve, tutti sono d'accordo nel dire che è un fallimento."
+    ],
+    "c1": [
+      "Per farla breve, le implicazioni etiche prevalgono sui benefici finanziari.",
+      "Per farla breve, la struttura attuale è diventata totalmente anacronistica.",
+      "Per farla breve, si tratta di una messa in discussione fondamentale delle nostre conquiste.",
+      "Per farla breve, la correlazione tra questi due fenomeni non è più da dimostrare.",
+      "Per farla breve, l'esito di questa negoziazione rimane estremamente incerto."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "L'atmosfera era molto...",
+    "translation": "The atmosphere was very ...",
+    "b1": [
+      "L'atmosfera era molto calma in riva al lago.",
+      "L'atmosfera era molto gioiosa durante la festa.",
+      "L'atmosfera era molto strana in quella casa.",
+      "L'atmosfera era molto fredda stamattina.",
+      "L'atmosfera era molto animata al mercato."
+    ],
+    "b2": [
+      "L'atmosfera era molto tesa durante il colloquio di lavoro.",
+      "L'atmosfera era molto conviviale intorno a quel grande pranzo di famiglia.",
+      "L'atmosfera era molto pesante a causa del silenzio prolungato.",
+      "L'atmosfera era molto elettrica proprio prima dell'inizio del concerto.",
+      "L'atmosfera era molto misteriosa nelle strade nebbiose della città."
+    ],
+    "c1": [
+      "L'atmosfera era molto soffusa, come se il tempo si fosse improvvisamente fermato.",
+      "L'atmosfera era molto deleteria all'interno dell'ufficio dopo l'annuncio dei tagli al budget.",
+      "L'atmosfera era molto onirica, immergendoci in un universo surrealista.",
+      "L'atmosfera era molto solenne durante la cerimonia di premiazione nazionale.",
+      "L'atmosfera era molto ansiogena a causa della persistente incertezza geopolitica."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Se dovessi descriverlo in una parola, direi...",
+    "translation": "If I had to describe it in one word, I'd say ...",
+    "b1": [
+      "Se dovessi descriverlo in una parola, direi fantastico.",
+      "Se dovessi descriverlo in una parola, direi strano.",
+      "Se dovessi descriverlo in una parola, direi difficile.",
+      "Se dovessi descriverlo in una parola, direi stancante.",
+      "Se dovessi descriverlo in una parola, direi amore."
+    ],
+    "b2": [
+      "Se dovessi descriverlo in una parola, direi indimenticabile.",
+      "Se dovessi descriverlo in una parola, direi arricchente.",
+      "Se dovessi descriverlo in una parola, direi deludente.",
+      "Se dovessi descriverlo in una parola, direi movimentato.",
+      "Se dovessi descriverlo in una parola, direi indispensabile."
+    ],
+    "c1": [
+      "Se dovessi descriverlo in una parola, direi paradigmatico.",
+      "Se dovessi descriverlo in una parola, direi ambivalente.",
+      "Se dovessi descriverlo in una parola, direi folgorante.",
+      "Se dovessi descriverlo in una parola, direi obsoleto.",
+      "Se dovessi descriverlo in una parola, direi trascendente."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "La parte più divertente di tutto questo è...",
+    "translation": "The funniest part of the whole thing was ...",
+    "b1": [
+      "La parte più divertente di tutto questo è quando il mio cane ha mangiato la mia torta.",
+      "La parte più divertente di tutto questo è la sua faccia nella foto.",
+      "La parte più divertente di tutto questo è che ho dimenticato le scarpe.",
+      "La parte più divertente di tutto questo è la storia di Pierre.",
+      "La parte più divertente di tutto questo è quando ci siamo persi."
+    ],
+    "b2": [
+      "La parte più divertente di tutto questo è che abbiamo cercato gli occhiali mentre erano sul naso.",
+      "La parte più divertente di tutto questo è la reazione di mio padre quando ha visto la mia nuova acconciatura.",
+      "La parte più divertente di tutto questo è che ha piovuto appena abbiamo comprato i gelati.",
+      "La parte più divertente di tutto questo è vedere come un piccolo malenteso può diventare una grande avventura.",
+      "La parte più divertente di tutto questo è che abbiamo finito per dormire in macchina."
+    ],
+    "c1": [
+      "La parte più divertente di tutto questo è l'ironia della situazione di fronte alle nostre previsioni così serie.",
+      "La parte più divertente di tutto questo è il divario assurdo tra il protocollo e la realtà del momento.",
+      "La parte più divertente di tutto questo è l'autoironia che ha dimostrato dopo la sua caduta monumentale.",
+      "La parte più divertente di tutto questo è che la soluzione più semplice era anche la più disprezzata all'inizio.",
+      "La parte più divertente di tutto questo è constatare quanto i nostri timori fossero infondati guardando indietro."
+    ]
+  }
+]

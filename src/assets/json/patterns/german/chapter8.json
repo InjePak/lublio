@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Sowohl ... als auch ... sind wichtig, weil ...",
+    "translation": "Both ... and ... are important because ...",
+    "b1": [
+      "Sowohl Obst als auch Gemüse sind wichtig, weil sie gesund sind.",
+      "Sowohl Lesen als auch Schreiben sind wichtig, weil man sie in der Schule braucht.",
+      "Sowohl Sport als auch Ruhe sind wichtig, weil der Körper beides braucht.",
+      "Sowohl Theorie als auch Praxis sind wichtig, weil man so besser lernt.",
+      "Sowohl Wasser als auch Brot sind wichtig, weil sie Grundbedürfnisse sind."
+    ],
+    "b2": [
+      "Sowohl Teamarbeit als auch Eigenverantwortung sind wichtig, weil sie den Erfolg eines Projekts garantieren.",
+      "Sowohl Pünktlichkeit als auch Flexibilität sind wichtig, weil sie die Professionalität im Beruf steigern.",
+      "Sowohl technisches Know-how als auch soziale Kompetenz sind wichtig, weil moderne Jobs beides fordern.",
+      "Sowohl Marketing als auch Produktqualität sind wichtig, weil Kunden beidem vertrauen müssen.",
+      "Sowohl Umweltschutz als auch Wirtschaftswachstum sind wichtig, weil wir eine nachhaltige Zukunft brauchen."
+    ],
+    "c1": [
+      "Sowohl die intrinsische Motivation als auch externe Anreize sind wichtig, weil sie synergetisch zur Leistungssteigerung beitragen.",
+      "Sowohl die historische Analyse als auch die Zukunftsprognose sind wichtig, weil sie ein ganzheitliches Verständnis der Gesellschaft ermöglichen.",
+      "Sowohl die individuelle Freiheit als auch die kollektive Sicherheit sind wichtig, weil sie die Grundpfeiler einer funktionierenden Demokratie bilden.",
+      "Sowohl die quantitative Datenerhebung als auch die qualitative Interpretation sind wichtig, weil sie die Validität der Forschung sichern.",
+      "Sowohl die ästhetische Form als auch der funktionale Gehalt eines Designs sind wichtig, weil sie die Nutzererfahrung maßgeblich prägen."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Im Gegensatz zu ..., jedoch, ...",
+    "translation": "Unlike ..., however, ...",
+    "b1": [
+      "Im Gegensatz zu gestern ist es heute jedoch sehr warm.",
+      "Im Gegensatz zu meinem Bruder mag ich jedoch keinen Fisch.",
+      "Im Gegensatz zu diesem Auto ist das andere jedoch sehr teuer.",
+      "Im Gegensatz zum Dorf ist es in der Stadt jedoch sehr laut.",
+      "Im Gegensatz zum Sommer ist der Winter jedoch sehr dunkel."
+    ],
+    "b2": [
+      "Im Gegensatz zu früher arbeiten heute jedoch viele Menschen im Homeoffice.",
+      "Im Gegensatz zur Konkurrenz bieten wir jedoch einen besseren Kundenservice an.",
+      "Im Gegensatz zur ersten Planung müssen wir das Budget jedoch deutlich kürzen.",
+      "Im Gegensatz zu herkömmlichen Motoren sind Elektromotoren jedoch viel leiser.",
+      "Im Gegensatz zur Theorie ist die praktische Umsetzung jedoch oft komplizierter."
+    ],
+    "c1": [
+      "Im Gegensatz zu den pessimistischen Erwartungen zeigt die aktuelle Marktanalyse jedoch einen Aufwärtstrend.",
+      "Im Gegensatz zur idealistischen Philosophie betont dieser Ansatz jedoch die materiellen Bedingungen der Existenz.",
+      "Im Gegensatz zu autoritären Systemen basiert eine liberale Gesellschaft jedoch auf dem Prinzip des Konsenses.",
+      "Im Gegensatz zur oberflächlichen Betrachtung offenbart die Detailanalyse jedoch tiefgreifende strukturelle Mängel.",
+      "Im Gegensatz zu kurzfristigen Profiten fokussiert sich das Unternehmen jedoch auf eine langfristige Wertschöpfung."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Der Hauptunterschied zwischen ... und ... ist, dass ...",
+    "translation": "The main difference between ... and ... is that ...",
+    "b1": [
+      "Der Hauptunterschied zwischen Tee und Kaffee ist, dass Kaffee mehr Koffein hat.",
+      "Der Hauptunterschied zwischen Stadt und Land ist, dass es in der Stadt mehr Geschäfte gibt.",
+      "Der Hauptunterschied zwischen Sommer und Winter ist, dass es im Sommer heiß ist.",
+      "Der Hauptunterschied zwischen Flugzeug und Zug ist, dass das Flugzeug schneller ist.",
+      "Der Hauptunterschied zwischen mir und dir ist, dass ich gerne koche."
+    ],
+    "b2": [
+      "Der Hauptunterschied zwischen Vollzeit- und Teilzeitjobs ist, dass man unterschiedlich viele Stunden arbeitet.",
+      "Der Hauptunterschied zwischen einer GmbH und einer AG ist, dass die Haftung und Struktur anders geregelt sind.",
+      "Der Hauptunterschied zwischen analoger und digitaler Fotografie ist, dass die Speicherung der Daten variiert.",
+      "Der Hauptunterschied zwischen klassischem Marketing und Social-Media-Marketing ist, dass die Interaktion direkter erfolgt.",
+      "Der Hauptunterschied zwischen Schule und Universität ist, dass man im Studium selbstständiger sein muss."
+    ],
+    "c1": [
+      "Der Hauptunterschied zwischen einer pragmatischen und einer ideologischen Herangehensweise ist, dass erstere nach praktikablen Lösungen sucht.",
+      "Der Hauptunterschied zwischen deskriptiver und normativer Ethik ist, dass letztere Handlungsanweisungen formuliert.",
+      "Der Hauptunterschied zwischen mikroökonomischen und makroökonomischen Modellen ist, dass sie unterschiedliche Aggregationsebenen betrachten.",
+      "Der Hauptunterschied zwischen künstlicher und menschlicher Intelligenz ist, dass die KI auf statistischen Mustern ohne Bewusstsein basiert.",
+      "Der Hauptunterschied zwischen einer Reform und einer Revolution ist, dass die Reform das bestehende System schrittweise verändert."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "... ist ähnlich wie ... insofern, als ...",
+    "translation": "... is similar to ... in that ...",
+    "b1": [
+      "Spanisch ist ähnlich wie Italienisch insofern, als viele Wörter gleich sind.",
+      "Radfahren ist ähnlich wie Laufen insofern, als man Sport macht.",
+      "Mein Haus ist ähnlich wie dein Haus insofern, als es zwei Etagen hat.",
+      "Dieser Film ist ähnlich wie das Buch insofern, als die Geschichte traurig ist.",
+      "Kochen ist ähnlich wie Chemie insofern, als man Dinge mischen muss."
+    ],
+    "b2": [
+      "Ein Start-up ist ähnlich wie ein Experiment insofern, als der Ausgang oft ungewiss ist.",
+      "E-Learning ist ähnlich wie Präsenzunterricht insofern, als die Motivation der Lernenden entscheidend bleibt.",
+      "Die aktuelle Krise ist ähnlich wie die von 2008 insofern, als die Banken unter Druck stehen.",
+      "Projektmanagement ist ähnlich wie Regie führen insofern, als man viele Menschen koordinieren muss.",
+      "Ein Vorstellungsgespräch ist ähnlich wie ein erstes Date insofern, als der erste Eindruck zählt."
+    ],
+    "c1": [
+      "Die Struktur eines Gehirns ist ähnlich wie die eines globalen Netzwerks insofern, als die Konnektivität die Funktionalität bestimmt.",
+      "Die moderne Kunst ist ähnlich wie die Quantenphysik insofern, als die Beobachtung die Realität beeinflusst.",
+      "Sprache ist ähnlich wie ein lebender Organismus insofern, als sie sich ständig an neue Umweltbedingungen anpasst.",
+      "Die Globalisierung ist ähnlich wie eine Janusköpfigkeit insofern, als sie gleichzeitig Chancen und Risiken birgt.",
+      "Politischer Populismus ist ähnlich wie eine Infektionskrankheit insofern, als er sich in Zeiten sozialer Unsicherheit rasch ausbreitet."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Während ... X hat, hat ... Y.",
+    "translation": "While ... has X, ... has Y.",
+    "b1": [
+      "Während Berlin viele Museen hat, hat München schöne Berge.",
+      "Während ich einen Hund habe, hat meine Schwester eine Katze.",
+      "Während das Handy ein großes Display hat, hat das Tablet ein noch größeres.",
+      "Während er ein Auto hat, hat sie ein Fahrrad.",
+      "Während der Tee Zucker hat, hat der Kaffee Milch."
+    ],
+    "b2": [
+      "Während der Norden viel Wind hat, hat der Süden Deutschlands viel Sonne.",
+      "Während Plan A hohe Kosten hat, hat Plan B ein größeres Risiko.",
+      "Während die erste Version viele Fehler hat, hat die zweite Version eine bessere Leistung.",
+      "Während das eine Modell ein modernes Design hat, hat das andere eine längere Garantie.",
+      "Während der Kurs viele praktische Übungen hat, hat die Vorlesung viel theoretischen Inhalt."
+    ],
+    "c1": [
+      "Während die Marktwirtschaft eine dezentrale Steuerung hat, hat die Planwirtschaft eine zentrale Autorität.",
+      "Während die empirische Forschung eine induktive Methode hat, hat die Mathematik oft eine deduktive Herangehensweise.",
+      "Während die Demokratie eine Gewaltenteilung hat, hat die Diktatur eine Machtkonzentration.",
+      "Während das Epos eine erzählende Struktur hat, hat das Drama eine dialogische Form.",
+      "Während die Globalisierung kulturelle Hybridität hat, hat der Nationalismus oft den Wunsch nach Homogenität."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Einerseits ..., aber andererseits, ...",
+    "translation": "On the one hand ..., but on the other hand, ...",
+    "b1": [
+      "Einerseits ist die Stadt laut, aber andererseits gibt es dort viel Arbeit.",
+      "Einerseits ist Sport anstrengend, aber andererseits macht er gesund.",
+      "Einerseits ist das Auto schnell, aber andererseits ist es teuer.",
+      "Einerseits will ich reisen, aber andererseits habe ich kein Geld.",
+      "Einerseits schmeckt Schokolade gut, aber andererseits hat sie viele Kalorien."
+    ],
+    "b2": [
+      "Einerseits bietet das Homeoffice viel Freiheit, aber andererseits fehlt der soziale Kontakt zu den Kollegen.",
+      "Einerseits sind soziale Medien informativ, aber andererseits verbreiten sie oft Fake News.",
+      "Einerseits spart die Automatisierung Zeit, aber andererseits gefährdet sie Arbeitsplätze.",
+      "Einerseits ist Tourismus gut für die Wirtschaft, aber andererseits schadet er oft der Umwelt.",
+      "Einerseits ist das Projekt innovativ, aber andererseits ist die technische Umsetzung schwierig."
+    ],
+    "c1": [
+      "Einerseits ist die künstliche Intelligenz ein Motor für Fortschritt, aber andererseits wirft sie komplexe ethische Fragen auf.",
+      "Einerseits fördert der freie Welthandel den Wohlstand, aber andererseits verschärft er die globale Ungleichheit.",
+      "Einerseits ist die Transparenz in der Politik notwendig, aber andererseits erfordert Diplomatie oft Diskretion.",
+      "Einerseits ist die Digitalisierung ein Gewinn an Effizienz, aber andererseits führt sie zu einer ständigen Erreichbarkeit.",
+      "Einerseits strebt der Mensch nach Sicherheit, aber andererseits ist das Risiko ein immanenter Teil des Lebens."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Im Vergleich zu ..., ...",
+    "translation": "In comparison to ..., ...",
+    "b1": [
+      "Im Vergleich zu gestern ist es heute kälter.",
+      "Im Vergleich zu meinem alten Handy ist das neue viel schneller.",
+      "Im Vergleich zum Dorf ist die Stadt sehr teuer.",
+      "Im Vergleich zu Mathe ist Deutsch einfacher für mich.",
+      "Im Vergleich zum Bus ist der Zug bequemer."
+    ],
+    "b2": [
+      "Im Vergleich zum Vorjahr sind die Verkaufszahlen deutlich gestiegen.",
+      "Im Vergleich zu anderen europäischen Ländern sind die Mieten in dieser Stadt extrem hoch.",
+      "Im Vergleich zur ersten Version ist diese Software viel benutzerfreundlicher.",
+      "Im Vergleich zu früher achten die Menschen heute mehr auf gesunde Ernährung.",
+      "Im Vergleich zu anderen Abteilungen arbeitet unser Team sehr effizient."
+    ],
+    "c1": [
+      "Im Vergleich zu den prognostizierten Werten liegen die tatsächlichen Emissionen weit unter dem Durchschnitt.",
+      "Im Vergleich zur traditionellen Philologie nutzt die Computerlinguistik statistische Großanalysen.",
+      "Im Vergleich zur Industriellen Revolution verläuft die digitale Transformation in einem exponentiellen Tempo.",
+      "Im Vergleich zu den Nachbarstaaten ist das Bruttoinlandsprodukt dieses Landes überproportional gewachsen.",
+      "Im Vergleich zur direkten Demokratie ist das repräsentative System weniger anfällig für populistische Schwankungen."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Umgekehrt ist die Situation bei ... ganz anders.",
+    "translation": "Conversely, the situation with ... is quite different.",
+    "b1": [
+      "Ich mag Pizza, aber umgekehrt ist die Situation bei Suppe ganz anders.",
+      "Im Sommer ist es hell, umgekehrt ist die Situation im Winter ganz anders.",
+      "Hunde sind laut, umgekehrt ist die Situation bei Katzen ganz anders.",
+      "In der Stadt ist es voll, umgekehrt ist die Situation auf dem Land ganz anders.",
+      "Flugzeuge sind schnell, umgekehrt ist die Situation bei Fahrrädern ganz anders."
+    ],
+    "b2": [
+      "Junge Menschen nutzen oft TikTok, umgekehrt ist die Situation bei Senioren ganz anders.",
+      "In der Krise sparen viele Firmen, umgekehrt ist die Situation bei IT-Unternehmen ganz anders.",
+      "In Großstädten steigen die Preise, umgekehrt ist die Situation in ländlichen Regionen ganz anders.",
+      "Online-Shopping boomt, umgekehrt ist die Situation im Einzelhandel ganz anders.",
+      "Kaffee macht wach, umgekehrt ist die Situation bei Kräutertee ganz anders."
+    ],
+    "c1": [
+      "Die Exportwirtschaft profitiert von einem schwachen Euro, umgekehrt ist die Situation bei Importeuren ganz anders.",
+      "Naturwissenschaften basieren auf Verifikation, umgekehrt ist die Situation in der Hermeneutik ganz anders.",
+      "Während die Inflation Sparer belastet, ist die Situation bei Schuldnern umgekehrt ganz anders.",
+      "Zentralisierte Systeme bieten Ordnung, umgekehrt ist die Situation in dezentralen Netzwerken ganz anders.",
+      "Hochentwickelte Volkswirtschaften stagnieren oft, umgekehrt ist die Situation in Schwellenländern ganz anders."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Sie teilen mehrere gemeinsame Merkmale, wie zum Beispiel ...",
+    "translation": "They share several common characteristics, such as ...",
+    "b1": [
+      "Sie teilen mehrere gemeinsame Merkmale, wie zum Beispiel die Farbe und die Größe.",
+      "Obst und Gemüse teilen mehrere gemeinsame Merkmale, wie zum Beispiel Vitamine.",
+      "Meine Eltern teilen mehrere gemeinsame Merkmale, wie zum Beispiel das Hobby Wandern.",
+      "Diese beiden Autos teilen mehrere gemeinsame Merkmale, wie zum Beispiel vier Türen.",
+      "Die beiden Sprachen teilen mehrere gemeinsame Merkmale, wie zum Beispiel die Grammatik."
+    ],
+    "b2": [
+      "Diese beiden Start-ups teilen mehrere gemeinsame Merkmale, wie zum Beispiel eine flache Hierarchie.",
+      "Die beiden Marketingstrategien teilen mehrere gemeinsame Merkmale, wie zum Beispiel den Fokus auf junge Kunden.",
+      "Diese europäischen Städte teilen mehrere gemeinsame Merkmale, wie zum Beispiel eine historische Altstadt.",
+      "Die beiden Berufe teilen mehrere gemeinsame Merkmale, wie zum Beispiel die Arbeit mit Menschen.",
+      "Beide Softwarelösungen teilen mehrere gemeinsame Merkmale, wie zum Beispiel die Cloud-Anbindung."
+    ],
+    "c1": [
+      "Die verschiedenen Spielarten des Kapitalismus teilen mehrere gemeinsame Merkmale, wie zum Beispiel das Privateigentum.",
+      "Diese literarischen Epochen teilen mehrere gemeinsame Merkmale, wie zum Beispiel das Streben nach Authentizität.",
+      "Die beiden soziologischen Theorien teilen mehrere gemeinsame Merkmale, wie zum Beispiel den systemtheoretischen Ansatz.",
+      "Alle demokratischen Staaten teilen mehrere gemeinsame Merkmale, wie zum Beispiel die Rechtsstaatlichkeit und freie Wahlen.",
+      "Die untersuchten chemischen Verbindungen teilen mehrere gemeinsame Merkmale, wie zum Beispiel eine hohe Reaktivität unter Druck."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Der Grad an ... ist in ... viel größer als in ...",
+    "translation": "The degree of ... is much greater in ... than in ...",
+    "b1": [
+      "Der Grad an Lärm ist in der Stadt viel größer als im Dorf.",
+      "Der Grad an Freiheit ist im Urlaub viel größer als bei der Arbeit.",
+      "Der Grad an Hitze ist im August viel größer als im Mai.",
+      "Der Grad an Hilfe ist in der Familie viel größer als bei Fremden.",
+      "Der Grad an Spaß ist beim Spiel viel größer als beim Lernen."
+    ],
+    "b2": [
+      "Der Grad an Luftverschmutzung ist in Metropolen viel größer als in Kurorten.",
+      "Der Grad an Stress ist in Führungspositionen viel größer als in der Verwaltung.",
+      "Der Grad an Digitalisierung ist in Estland viel größer als in vielen anderen Ländern.",
+      "Der Grad an Wettbewerb ist im Technologiesektor viel größer als im Handwerk.",
+      "Der Grad an Transparenz ist in einer Demokratie viel größer als in einer Diktatur."
+    ],
+    "c1": [
+      "Der Grad an Komplexität ist in der theoretischen Physik viel größer als in der klassischen Mechanik.",
+      "Der Grad an sozialer Mobilität ist in skandinavischen Ländern oft viel größer als in den USA.",
+      "Der Grad an Abstraktion ist in der modernen Kunst viel größer als in der Renaissance.",
+      "Der Grad an Unsicherheit ist bei geopolitischen Prognosen viel größer als bei lokalen Wettervorhersagen.",
+      "Der Grad an Interdisziplinarität ist in diesem Forschungsprojekt viel größer als in herkömmlichen Studien."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Obwohl ... wahr ist, müssen wir auch ... berücksichtigen.",
+    "translation": "Although ... is true, we must also consider ...",
+    "b1": [
+      "Obwohl das Auto schön ist, müssen wir auch den Preis berücksichtigen.",
+      "Obwohl es regnet, müssen wir auch den Termin berücksichtigen.",
+      "Obwohl ich müde bin, müssen wir auch die Arbeit berücksichtigen.",
+      "Obwohl der Test schwer war, müssen wir auch die gute Note berücksichtigen.",
+      "Obwohl er klein ist, müssen wir auch seine Stärke berücksichtigen."
+    ],
+    "b2": [
+      "Obwohl der Umsatz gestiegen ist, müssen wir auch die hohen Fixkosten berücksichtigen.",
+      "Obwohl die neue Technik effizient ist, müssen wir auch die Schulungskosten für die Mitarbeiter berücksichtigen.",
+      "Obwohl das Land sicher ist, müssen wir auch die politische Instabilität berücksichtigen.",
+      "Obwohl die Qualität gut ist, müssen wir auch die lange Lieferzeit berücksichtigen.",
+      "Obwohl die Umfrage positiv war, müssen wir auch die geringe Teilnehmerzahl berücksichtigen."
+    ],
+    "c1": [
+      "Obwohl das Wirtschaftswachstum stabil bleibt, müssen wir auch die ökologischen Folgeschäden berücksichtigen.",
+      "Obwohl die empirischen Daten schlüssig erscheinen, müssen wir auch die methodischen Schwächen berücksichtigen.",
+      "Obwohl die Globalisierung den Wohlstand fördert, müssen wir auch die wachsende soziale Ungleichheit berücksichtigen.",
+      "Obwohl die technologische Entwicklung vorteilhaft ist, müssen wir auch die ethischen Implikationen berücksichtigen.",
+      "Obwohl die Theorie elegant ist, müssen wir auch ihre begrenzte Anwendbarkeit in der Praxis berücksichtigen."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Ein wichtiger Unterschied ist ...",
+    "translation": "A significant point of divergence is ...",
+    "b1": [
+      "Ein wichtiger Unterschied ist der Preis.",
+      "Ein wichtiger Unterschied ist die Farbe.",
+      "Ein wichtiger Unterschied ist die Sprache.",
+      "Ein wichtiger Unterschied ist das Wetter.",
+      "Ein wichtiger Unterschied ist die Größe."
+    ],
+    "b2": [
+      "Ein wichtiger Unterschied ist die Art der Kommunikation zwischen den beiden Teams.",
+      "Ein wichtiger Unterschied ist die gesetzliche Regelung in den verschiedenen Bundesländern.",
+      "Ein wichtiger Unterschied ist die Zielgruppe der beiden Werbekampagnen.",
+      "Ein wichtiger Unterschied ist die Qualität der verwendeten Materialien.",
+      "Ein wichtiger Unterschied ist die Dauer der Garantiezeit für diese Produkte."
+    ],
+    "c1": [
+      "Ein wichtiger Unterschied ist die epistemologische Grundannahme dieser beiden Theorien.",
+      "Ein wichtiger Unterschied ist die differenzierte Gewichtung von Risiko und Rendite.",
+      "Ein wichtiger Unterschied ist die strukturelle Organisation der Entscheidungsprozesse.",
+      "Ein wichtiger Unterschied ist die kulturelle Prägung der Verhandlungspartner.",
+      "Ein wichtiger Unterschied ist die zeitliche Dimension der geplanten Maßnahmen."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Sie sind grundsätzlich ähnlich, außer in Bezug auf ...",
+    "translation": "They are fundamentally similar, except for ...",
+    "b1": [
+      "Sie sind grundsätzlich ähnlich, außer in Bezug auf den Preis.",
+      "Sie sind grundsätzlich ähnlich, außer in Bezug auf die Farbe.",
+      "Sie sind grundsätzlich ähnlich, außer in Bezug auf die Größe.",
+      "Sie sind grundsätzlich ähnlich, außer in Bezug auf das Gewicht.",
+      "Sie sind grundsätzlich ähnlich, außer in Bezug auf den Namen."
+    ],
+    "b2": [
+      "Die beiden Konzepte sind grundsätzlich ähnlich, außer in Bezug auf die Finanzierung.",
+      "Die Verträge sind grundsätzlich ähnlich, außer in Bezug auf die Kündigungsfrist.",
+      "Die beiden Smartphones sind grundsätzlich ähnlich, außer in Bezug auf die Kameraqualität.",
+      "Die Ausbildungsgänge sind grundsätzlich ähnlich, außer in Bezug auf die Dauer der Praxisphasen.",
+      "Die beiden Regionen sind grundsätzlich ähnlich, außer in Bezug auf das kulturelle Angebot."
+    ],
+    "c1": [
+      "Die beiden philosophischen Strömungen sind grundsätzlich ähnlich, außer in Bezug auf ihre Metaphysik.",
+      "Die politischen Programme sind grundsätzlich ähnlich, außer in Bezug auf die Steuerpolitik.",
+      "Die beiden Forschungsmethoden sind grundsätzlich ähnlich, außer in Bezug auf die Datenauswertung.",
+      "Die architektonischen Entwürfe sind grundsätzlich ähnlich, außer in Bezug auf die Materialwahl.",
+      "Die beiden Geschäftsmodelle sind grundsätzlich ähnlich, außer in Bezug auf die Skalierbarkeit."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "... ist weitaus effektiver als ..., weil ...",
+    "translation": "... is far more effective than ... because ...",
+    "b1": [
+      "Lernen ist weitaus effektiver als nur Lesen, weil man mehr behält.",
+      "Sport ist weitaus effektiver als Diät, weil man sich besser fühlt.",
+      "Ein Auto ist weitaus effektiver als ein Fahrrad, weil es schneller ist.",
+      "Diese App ist weitaus effektiver als das Buch, weil sie interaktiv ist.",
+      "Obst ist weitaus effektiver als Vitaminpillen, weil es natürlicher ist."
+    ],
+    "b2": [
+      "Direktes Feedback ist weitaus effektiver als E-Mails, weil Missverständnisse sofort geklärt werden können.",
+      "Online-Marketing ist weitaus effektiver als Printwerbung, weil die Zielgruppe genauer erreicht wird.",
+      "Teamarbeit ist weitaus effektiver als Einzelarbeit, weil verschiedene Kompetenzen gebündelt werden.",
+      "Diese neue Methode ist weitaus effektiver als die alte, weil sie Zeit und Ressourcen spart.",
+      "Präventionsarbeit ist weitaus effektiver als spätere Korrekturen, weil sie Probleme im Keim erstickt."
+    ],
+    "c1": [
+      "Die systemische Therapie ist weitaus effektiver als die reine Symptombehandlung, weil sie die Ursachen im Kontext analysiert.",
+      "Eine diversifizierte Anlagestrategie ist weitaus effektiver als die Konzentration auf einen Sektor, weil sie das Risiko minimiert.",
+      "Interdisziplinäre Forschung ist weitaus effektiver als isolierte Wissenschaft, weil sie komplexe Probleme ganzheitlich angeht.",
+      "Die Förderung von Eigenverantwortung ist weitaus effektiver als strenge Kontrolle, weil sie die intrinsische Motivation stärkt.",
+      "Eine proaktive Krisenkommunikation ist weitaus effektiver als Schweigen, weil sie die Deutungshoheit über die Situation behält."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Wir können eine Parallele ziehen zwischen ... und ...",
+    "translation": "We can draw a parallel between ... and ...",
+    "b1": [
+      "Wir können eine Parallele ziehen zwischen heute und gestern.",
+      "Wir können eine Parallele ziehen zwischen dir und deinem Vater.",
+      "Wir können eine Parallele ziehen zwischen diesem Film und meinem Leben.",
+      "Wir können eine Parallele ziehen zwischen Deutsch und Englisch.",
+      "Wir können eine Parallele ziehen zwischen Sport und Arbeit."
+    ],
+    "b2": [
+      "Wir können eine Parallele ziehen zwischen der Entwicklung des Internets und der KI.",
+      "Wir können eine Parallele ziehen zwischen dem Erfolg dieser Firma und ihrem Management.",
+      "Wir können eine Parallele ziehen zwischen der jetzigen Situation und der Geschichte.",
+      "Wir können eine Parallele ziehen zwischen dem Lernen einer Sprache und eines Instruments.",
+      "Wir können eine Parallele ziehen zwischen ökologischem Bewusstsein und gesundem Lebensstil."
+    ],
+    "c1": [
+      "Wir können eine Parallele ziehen zwischen der Aufklärung und der modernen digitalen Emanzipation.",
+      "Wir können eine Parallele ziehen zwischen dem Zerfall des Römischen Reiches und aktuellen geopolitischen Tendenzen.",
+      "Wir können eine Parallele ziehen zwischen der biologischen Evolution und der kulturellen Entwicklung von Gesellschaften.",
+      "Wir können eine Parallele ziehen zwischen der Struktur von Atomen und der von Galaxien.",
+      "Wir können eine Parallele ziehen zwischen archaischen Mythen und modernen psychologischen Archetypen."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Weder ... noch ... bietet ...",
+    "translation": "Neither ... nor ... provides ...",
+    "b1": [
+      "Weder das Hotel noch die Wohnung bietet Frühstück.",
+      "Weder Montag noch Dienstag bietet einen freien Termin.",
+      "Weder der Kaffee noch der Tee bietet viel Zucker.",
+      "Weder das Buch noch der Film bietet ein gutes Ende.",
+      "Weder er noch sie bietet Hilfe an."
+    ],
+    "b2": [
+      "Weder die erste noch die zweite Option bietet eine zufriedenstellende Lösung für unser Problem.",
+      "Weder der Vertrag noch die mündliche Zusage bietet eine ausreichende rechtliche Sicherheit.",
+      "Weder das Smartphone noch das Tablet bietet genug Speicherplatz für diese Daten.",
+      "Weder das In- noch das Ausland bietet derzeit ideale Bedingungen für eine Expansion.",
+      "Weder die Theorie noch die Praxis bietet eine einfache Antwort auf diese schwierige Frage."
+    ],
+    "c1": [
+      "Weder der reine Kapitalismus noch der Staatssozialismus bietet ein nachhaltiges Modell für die Zukunft.",
+      "Weder die reduktionistische noch die holistische Sichtweise bietet allein eine vollständige Erklärung des Phänomens.",
+      "Weder die aktuelle Gesetzgebung noch die vorgeschlagene Reform bietet genügend Schutz für die Privatsphäre.",
+      "Weder der technologische Determinismus noch der soziale Konstruktivismus bietet eine umfassende Analyse der Medienwirkung.",
+      "Weder die diplomatische Note noch die Sanktionen bieten eine Gewähr für eine friedliche Beilegung des Konflikts."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Im Gleichgewicht mit ..., scheint ... ... zu sein.",
+    "translation": "When balanced against ..., ... appears to be ...",
+    "b1": [
+      "Im Gleichgewicht mit der Natur scheint das Leben besser zu sein.",
+      "Im Gleichgewicht mit der Arbeit scheint die Freizeit schöner zu sein.",
+      "Im Gleichgewicht mit dem Sport scheint das Essen gesund zu sein.",
+      "Im Gleichgewicht mit Ruhe scheint der Stress weniger zu sein.",
+      "Im Gleichgewicht mit dir scheint alles einfach zu sein."
+    ],
+    "b2": [
+      "Im Gleichgewicht mit der Qualität scheint der Preis fair zu sein.",
+      "Im Gleichgewicht mit dem Risiko scheint der Gewinn angemessen zu sein.",
+      "Im Gleichgewicht mit der Freiheit scheint die Sicherheit stabil zu sein.",
+      "Im Gleichgewicht mit der Theorie scheint die Praxis logisch zu sein.",
+      "Im Gleichgewicht mit dem Budget scheint das Projekt realisierbar zu sein."
+    ],
+    "c1": [
+      "Im Gleichgewicht mit der sozialen Gerechtigkeit scheint ökonomische Effizienz erstrebenswert zu sein.",
+      "Im Gleichgewicht mit der Tradition scheint Innovation sinnvoll zu sein.",
+      "Im Gleichgewicht mit der ökologischen Integrität scheint industrieller Fortschritt vertretbar zu sein.",
+      "Im Gleichgewicht mit der rationalen Analyse scheint Intuition ein wertvoller Wegweiser zu sein.",
+      "Im Gleichgewicht mit der globalen Verantwortung scheint nationales Interesse legitim zu sein."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Es gibt einen starken Kontrast in ihrem Ansatz zu ...",
+    "translation": "There is a stark contrast in their approach to ...",
+    "b1": [
+      "Es gibt einen starken Kontrast in ihrem Ansatz zu Sport.",
+      "Es gibt einen starken Kontrast in ihrem Ansatz zu Erziehung.",
+      "Es gibt einen starken Kontrast in ihrem Ansatz zu Kochen.",
+      "Es gibt einen starken Kontrast in ihrem Ansatz zu Arbeit.",
+      "Es gibt einen starken Kontrast in ihrem Ansatz zu Geld."
+    ],
+    "b2": [
+      "Es gibt einen starken Kontrast in ihrem Ansatz zum Thema Umweltschutz.",
+      "Es gibt einen starken Kontrast in ihrem Ansatz zur Problemlösung innerhalb des Teams.",
+      "Es gibt einen starken Kontrast in ihrem Ansatz zur Digitalisierung der Schule.",
+      "Es gibt einen starken Kontrast in ihrem Ansatz zur Kundenbetreuung.",
+      "Es gibt einen starken Kontrast in ihrem Ansatz zur Gestaltung der Zukunft."
+    ],
+    "c1": [
+      "Es gibt einen starken Kontrast in ihrem Ansatz zur ökonomischen Transformation des Staates.",
+      "Es gibt einen starken Kontrast in ihrem Ansatz zur Bewältigung der demografischen Krise.",
+      "Es gibt einen starken Kontrast in ihrem Ansatz zur Interpretation der historischen Quellen.",
+      "Es gibt einen starken Kontrast in ihrem Ansatz zur Integration technologischer Innovationen.",
+      "Es gibt einen starken Kontrast in ihrem Ansatz zur Wahrung der ethischen Standards in der Forschung."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Die Ähnlichkeit liegt in der Tatsache, dass ...",
+    "translation": "The similarity lies in the fact that ...",
+    "b1": [
+      "Die Ähnlichkeit liegt in der Tatsache, dass beide rot sind.",
+      "Die Ähnlichkeit liegt in der Tatsache, dass beide aus Berlin kommen.",
+      "Die Ähnlichkeit liegt in der Tatsache, dass beide gerne Sport machen.",
+      "Die Ähnlichkeit liegt in der Tatsache, dass beide teuer sind.",
+      "Die Ähnlichkeit liegt in der Tatsache, dass beide Hunde mögen."
+    ],
+    "b2": [
+      "Die Ähnlichkeit liegt in der Tatsache, dass beide Firmen auf Nachhaltigkeit setzen.",
+      "Die Ähnlichkeit liegt in der Tatsache, dass beide Projekte die gleiche Zielgruppe haben.",
+      "Die Ähnlichkeit liegt in der Tatsache, dass beide Systeme die gleiche Datenbank nutzen.",
+      "Die Ähnlichkeit liegt in der Tatsache, dass beide Länder vor ähnlichen sozialen Problemen stehen.",
+      "Die Ähnlichkeit liegt in der Tatsache, dass beide Methoden auf wissenschaftlichen Erkenntnissen basieren."
+    ],
+    "c1": [
+      "Die Ähnlichkeit liegt in der Tatsache, dass beide Theorien von einer rationalen Akteursperspektive ausgehen.",
+      "Die Ähnlichkeit liegt in der Tatsache, dass beide Krisen durch strukturelle Ungleichgewichte ausgelöst wurden.",
+      "Die Ähnlichkeit liegt in der Tatsache, dass beide Kunstwerke die Grenzen der traditionellen Form sprengen.",
+      "Die Ähnlichkeit liegt in der Tatsache, dass beide Rechtsordnungen den Schutz des Individuums priorisieren.",
+      "Die Ähnlichkeit liegt in der Tatsache, dass beide biologischen Prozesse durch enzymatische Katalyse gesteuert werden."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Im direkten Vergleich schneidet ... eindeutig besser ab als ...",
+    "translation": "Compared side by side, ... clearly outperforms ...",
+    "b1": [
+      "Im direkten Vergleich schneidet das neue Handy eindeutig besser ab als das alte.",
+      "Im direkten Vergleich schneidet der Zug eindeutig besser ab als der Bus.",
+      "Im direkten Vergleich schneidet die Pizza eindeutig besser ab als die Suppe.",
+      "Im direkten Vergleich schneidet dieser Film eindeutig besser ab als der andere.",
+      "Im direkten Vergleich schneidet mein Lehrer eindeutig besser ab als dein Lehrer."
+    ],
+    "b2": [
+      "Im direkten Vergleich schneidet unsere Strategie eindeutig besser ab als die der Konkurrenz.",
+      "Im direkten Vergleich schneidet das Elektroauto eindeutig besser ab als der Benziner, wenn es um die Umwelt geht.",
+      "Im direkten Vergleich schneidet die neue Software eindeutig besser ab als das Vorgängermodell.",
+      "Im direkten Vergleich schneidet der Standort Berlin eindeutig besser ab als München bei den Mietpreisen.",
+      "Im direkten Vergleich schneidet diese Ausbildung eindeutig besser ab als das Studium in Bezug auf die Praxis."
+    ],
+    "c1": [
+      "Im direkten Vergleich schneidet die qualitative Analyse eindeutig besser ab als die rein quantitative Erhebung bei der Erfassung von Motivstrukturen.",
+      "Im direkten Vergleich schneidet das dezentrale System eindeutig besser ab als die zentrale Steuerung hinsichtlich der Resilienz gegenüber Störungen.",
+      "Im direkten Vergleich schneidet das skandinavische Bildungsmodell eindeutig besser ab als das hiesige System bei der Förderung der Chancengleichheit.",
+      "Im direkten Vergleich schneidet die regenerative Energieerzeugung eindeutig besser ab als fossile Brennstoffe bei der langfristigen Kosten-Nutzen-Analyse.",
+      "Im direkten Vergleich schneidet die evidenzbasierte Medizin eindeutig besser ab als alternative Heilmethoden bei der Behandlung chronischer Krankheiten."
+    ]
+  }
+]

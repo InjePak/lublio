@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "I'd like to inform you that ...",
+    "translation": "...라는 것을 알려드리고 싶습니다.",
+    "b1": [
+      "I'd like to inform you that the office is closed today.",
+      "I'd like to inform you that your package has arrived.",
+      "I'd like to inform you that the meeting time has changed.",
+      "I'd like to inform you that we have a new team member.",
+      "I'd like to inform you that the test starts at 10 AM."
+    ],
+    "b2": [
+      "I'd like to inform you that your application has been successfully processed.",
+      "I'd like to inform you that the project deadline has been extended by a week.",
+      "I'd like to inform you that we are launching a new website next month.",
+      "I'd like to inform you that there will be a scheduled power outage this weekend.",
+      "I'd like to inform you that the board of directors has approved the budget."
+    ],
+    "c1": [
+      "I'd like to inform you that the merger has been finalized following extensive negotiations.",
+      "I'd like to inform you that we are implementing a new policy regarding data privacy.",
+      "I'd like to inform you that a significant shift in market trends has been observed.",
+      "I'd like to inform you that the legal department has raised concerns about the contract.",
+      "I'd like to inform you that we have initiated a comprehensive review of our operations."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "The key takeaway here is ...",
+    "translation": "여기서 핵심적인 내용은 ...입니다.",
+    "b1": [
+      "The key takeaway here is to be on time.",
+      "The key takeaway here is that we need to save money.",
+      "The key takeaway here is to practice every day.",
+      "The key takeaway here is that the customer is always right.",
+      "The key takeaway here is to read the instructions carefully."
+    ],
+    "b2": [
+      "The key takeaway here is that we need to improve our internal communication.",
+      "The key takeaway here is the importance of understanding our target audience.",
+      "The key takeaway here is that hard work alone isn't enough; we need strategy.",
+      "The key takeaway here is to stay adaptable in a changing work environment.",
+      "The key takeaway here is the necessity of building long-term relationships with clients."
+    ],
+    "c1": [
+      "The key takeaway here is the profound impact of globalization on local economies.",
+      "The key takeaway here is the delicate balance between innovation and risk management.",
+      "The key takeaway here is the fundamental shift in consumer behavior toward sustainability.",
+      "The key takeaway here is the intrinsic link between employee satisfaction and productivity.",
+      "The key takeaway here is the urgent need for a more robust ethical framework in tech."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "To clarify, I mean ...",
+    "translation": "명확히 하자면, 제 말은 ...라는 뜻입니다.",
+    "b1": [
+      "To clarify, I mean we should meet at the station.",
+      "To clarify, I mean the red book, not the blue one.",
+      "To clarify, I mean I will finish it by tomorrow.",
+      "To clarify, I mean it's free for students.",
+      "To clarify, I mean we are going by bus."
+    ],
+    "b2": [
+      "To clarify, I mean that the project is on hold, not canceled.",
+      "To clarify, I mean we need to reduce costs by 10%, not 20%.",
+      "To clarify, I mean this policy applies only to new employees.",
+      "To clarify, I mean the meeting is mandatory for all staff members.",
+      "To clarify, I mean we should prioritize quality over quantity."
+    ],
+    "c1": [
+      "To clarify, I mean the strategic realignment will necessitate some structural changes.",
+      "To clarify, I mean our current methodology may be insufficient for this scale of data.",
+      "To clarify, I mean the environmental impact must be assessed before we proceed.",
+      "To clarify, I mean that the correlation found does not necessarily imply causation.",
+      "To clarify, I mean we must reconcile our professional goals with our ethical standards."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "According to the report, ...",
+    "translation": "보고서에 따르면 ...",
+    "b1": [
+      "According to the report, it will rain tomorrow.",
+      "According to the report, the project is going well.",
+      "According to the report, more people are visiting the park.",
+      "According to the report, the sales are up this month.",
+      "According to the report, we need new computers."
+    ],
+    "b2": [
+      "According to the report, consumer confidence has reached an all-time high.",
+      "According to the report, we need to address the high employee turnover rate.",
+      "According to the report, the new marketing strategy was very effective.",
+      "According to the report, there is a growing demand for eco-friendly products.",
+      "According to the report, our market share has increased significantly this year."
+    ],
+    "c1": [
+      "According to the report, the geopolitical situation remains highly volatile.",
+      "According to the report, the long-term fiscal outlook is somewhat concerning.",
+      "According to the report, there is a clear discrepancy between the two data sets.",
+      "According to the report, systemic biases continue to hinder organizational growth.",
+      "According to the report, the proposed reforms could yield substantial benefits."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Let me rephrase that: ...",
+    "translation": "다시 말하자면 ...",
+    "b1": [
+      "Let me rephrase that: the shop is closed.",
+      "Let me rephrase that: we are too late.",
+      "Let me rephrase that: I don't like this idea.",
+      "Let me rephrase that: it's too expensive.",
+      "Let me rephrase that: we should wait here."
+    ],
+    "b2": [
+      "Let me rephrase that: we need to find a more efficient way of working.",
+      "Let me rephrase that: the current plan is not meeting our expectations.",
+      "Let me rephrase that: we are looking for someone with more experience.",
+      "Let me rephrase that: the budget is extremely tight this quarter.",
+      "Let me rephrase that: your contribution to the team is highly valued."
+    ],
+    "c1": [
+      "Let me rephrase that: the current trajectory of the project is unsustainable.",
+      "Let me rephrase that: we must prioritize long-term stability over short-term gains.",
+      "Let me rephrase that: the structural flaws in the system are becoming apparent.",
+      "Let me rephrase that: a more nuanced approach is required to resolve this conflict.",
+      "Let me rephrase that: our success is contingent upon the cooperation of all parties."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "What I meant to say was ...",
+    "translation": "제가 말하고자 했던 것은 ...였습니다.",
+    "b1": [
+      "What I meant to say was I am sorry.",
+      "What I meant to say was thank you for the help.",
+      "What I meant to say was let's go later.",
+      "What I meant to say was it's very cold.",
+      "What I meant to say was the movie was okay."
+    ],
+    "b2": [
+      "What I meant to say was that we should reconsider the entire proposal.",
+      "What I meant to say was I didn't mean to offend anyone with my comment.",
+      "What I meant to say was we need to be more careful with our spending.",
+      "What I meant to say was that the results were better than we expected.",
+      "What I meant to say was that I'm not sure if this is the right time."
+    ],
+    "c1": [
+      "What I meant to say was that the ethical implications were not fully considered.",
+      "What I meant to say was the complexity of the issue transcends simple solutions.",
+      "What I meant to say was our focus should be on the qualitative aspects of the study.",
+      "What I meant to say was that the systemic barriers are deeply ingrained in the culture.",
+      "What I meant to say was we need to align our strategy with the evolving market landscape."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "The current status is that ...",
+    "translation": "현재 상태는 ...입니다.",
+    "b1": [
+      "The current status is that we are waiting for the bus.",
+      "The current status is that the work is finished.",
+      "The current status is that he is still sick.",
+      "The current status is that the game is starting now.",
+      "The current status is that we are hungry."
+    ],
+    "b2": [
+      "The current status is that we are still in the testing phase of the software.",
+      "The current status is that the contract is being reviewed by our legal team.",
+      "The current status is that most of the goals for this quarter have been met.",
+      "The current status is that we are waiting for final approval from the manager.",
+      "The current status is that the project is slightly behind schedule due to rain."
+    ],
+    "c1": [
+      "The current status is that the negotiations have reached a temporary stalemate.",
+      "The current status is that the initial hypothesis has been partially validated.",
+      "The current status is that we are facing significant logistical challenges in the region.",
+      "The current status is that public opinion on the matter is deeply divided.",
+      "The current status is that the economic indicators are showing signs of a slow recovery."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "In other words, ...",
+    "translation": "다시 말해서 ...",
+    "b1": [
+      "In other words, we are lost.",
+      "In other words, it's free.",
+      "In other words, you passed the test.",
+      "In other words, we need to go home.",
+      "In other words, she said yes."
+    ],
+    "b2": [
+      "In other words, we need to work harder if we want to finish on time.",
+      "In other words, this is our last chance to change the plan.",
+      "In other words, the company is going through some major changes.",
+      "In other words, you are being promoted to senior manager.",
+      "In other words, we don't have enough money for a new car."
+    ],
+    "c1": [
+      "In other words, the existing framework is no longer applicable to this situation.",
+      "In other words, the project's success is entirely dependent on our adaptability.",
+      "In other words, we must reconcile our professional ambitions with our moral duties.",
+      "In other words, the data suggests a fundamental shift in the underlying paradigm.",
+      "In other words, the complexity of the global market necessitates a more agile strategy."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Just to make sure we're on the same page, ...",
+    "translation": "우리가 같은 생각을 하고 있는지 확인하기 위해, ...",
+    "b1": [
+      "Just to make sure we're on the same page, the party is at 7 PM.",
+      "Just to make sure we're on the same page, I'll bring the pizza.",
+      "Just to make sure we're on the same page, we are meeting at the park.",
+      "Just to make sure we're on the same page, the homework is due tomorrow.",
+      "Just to make sure we're on the same page, you are paying for the movie."
+    ],
+    "b2": [
+      "Just to make sure we're on the same page, the main goal is to increase sales.",
+      "Just to make sure we're on the same page, everyone needs to attend the workshop.",
+      "Just to make sure we're on the same page, the budget for this project is fixed.",
+      "Just to make sure we're on the same page, we are not changing the design yet.",
+      "Just to make sure we're on the same page, your role is to manage the social media."
+    ],
+    "c1": [
+      "Just to make sure we're on the same page, the primary objective is long-term sustainability.",
+      "Just to make sure we're on the same page, we are adopting a more cautious approach.",
+      "Just to make sure we're on the same page, the legal team must sign off on everything.",
+      "Just to make sure we're on the same page, the new policy applies to all global branches.",
+      "Just to make sure we're on the same page, our priority is resolving the ethical dilemma."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "This confirms that ...",
+    "translation": "이것은 ...라는 사실을 확인해 줍니다.",
+    "b1": [
+      "This confirms that the shop is open.",
+      "This confirms that you are the winner.",
+      "This confirms that the flight is on time.",
+      "This confirms that my email was sent.",
+      "This confirms that we have enough chairs."
+    ],
+    "b2": [
+      "This confirms that the marketing strategy is working as expected.",
+      "This confirms that there is a high demand for our services in this area.",
+      "This confirms that our team is capable of handling difficult challenges.",
+      "This confirms that we need to update our security system immediately.",
+      "This confirms that the customer was satisfied with the final result."
+    ],
+    "c1": [
+      "This confirms that the theoretical model is consistent with the experimental data.",
+      "This confirms that the recent market fluctuations were not just a temporary anomaly.",
+      "This confirms that the organizational restructuring has improved overall efficiency.",
+      "This confirms that our hypothesis regarding consumer behavior was correct.",
+      "This confirms that there is an urgent need for more comprehensive regulations."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Allow me to elaborate on …",
+    "translation": "...에 대해 좀 더 자세히 설명하겠습니다.",
+    "b1": [
+      "Allow me to elaborate on my plan for the trip.",
+      "Allow me to elaborate on the rules of the game.",
+      "Allow me to elaborate on why I was late.",
+      "Allow me to elaborate on the menu choices.",
+      "Allow me to elaborate on my favorite hobby."
+    ],
+    "b2": [
+      "Allow me to elaborate on the specific details of the new contract.",
+      "Allow me to elaborate on the reasons behind our recent budget cuts.",
+      "Allow me to elaborate on how this new software will benefit our workflow.",
+      "Allow me to elaborate on the feedback we received from the client.",
+      "Allow me to elaborate on the future goals of our department."
+    ],
+    "c1": [
+      "Allow me to elaborate on the intricate complexities of the geopolitical situation.",
+      "Allow me to elaborate on the underlying methodology used in our research.",
+      "Allow me to elaborate on the long-term socio-economic implications of the policy.",
+      "Allow me to elaborate on the subtle nuances of the artist's creative process.",
+      "Allow me to elaborate on the ethical considerations that guided our decision."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "The details are as follows: ...",
+    "translation": "세부 사항은 다음과 같습니다. ...",
+    "b1": [
+      "The details are as follows: the price is $10.",
+      "The details are as follows: the meeting is at 2 PM.",
+      "The details are as follows: the color is red.",
+      "The details are as follows: we need two eggs.",
+      "The details are as follows: the room number is 101."
+    ],
+    "b2": [
+      "The details are as follows: the project will start next Monday and end in July.",
+      "The details are as follows: each team member will have a specific task to complete.",
+      "The details are as follows: the total cost includes taxes and shipping fees.",
+      "The details are as follows: the presentation must be no longer than ten minutes.",
+      "The details are as follows: the winner will receive a gift card and a trophy."
+    ],
+    "c1": [
+      "The details are as follows: the implementation phase will occur in three distinct stages.",
+      "The details are as follows: the statistical analysis was conducted using a 95% confidence interval.",
+      "The details are as follows: the agreement covers intellectual property and liability clauses.",
+      "The details are as follows: the demographic shift is most prominent in urban areas.",
+      "The details are as follows: the findings highlight a significant correlation between the two variables."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "The important point here is not ..., but ...",
+    "translation": "여기서 중요한 점은 ...이 아니라 ...입니다.",
+    "b1": [
+      "The important point here is not the price, but the quality.",
+      "The important point here is not the time, but the effort.",
+      "The important point here is not the answer, but the process.",
+      "The important point here is not the score, but the game.",
+      "The important point here is not the color, but the size."
+    ],
+    "b2": [
+      "The important point here is not who made the mistake, but how we fix it.",
+      "The important point here is not the quantity of work, but the value it brings.",
+      "The important point here is not the technology itself, but how we use it.",
+      "The important point here is not the destination, but what we learn on the journey.",
+      "The important point here is not the past, but what we do in the future."
+    ],
+    "c1": [
+      "The important point here is not the individual achievement, but the collective impact.",
+      "The important point here is not the superficial data, but the underlying trends.",
+      "The important point here is not the legislative text, but its practical application.",
+      "The important point here is not the short-term profit, but the long-term sustainability.",
+      "The important point here is not the theoretical framework, but the empirical evidence."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "For example, consider ...",
+    "translation": "예를 들어, ...를 생각해 보세요.",
+    "b1": [
+      "For example, consider the weather.",
+      "For example, consider your health.",
+      "For example, consider the price.",
+      "For example, consider a small dog.",
+      "For example, consider our neighborhood."
+    ],
+    "b2": [
+      "For example, consider the impact of social media on our daily lives.",
+      "For example, consider how remote work has changed the business world.",
+      "For example, consider the benefits of a more diverse workforce.",
+      "For example, consider the challenges faced by small business owners.",
+      "For example, consider the success of our previous marketing campaign."
+    ],
+    "c1": [
+      "For example, consider the ethical dilemmas posed by autonomous vehicles.",
+      "For example, consider the socio-economic disparities in metropolitan areas.",
+      "For example, consider the long-term environmental consequences of plastic use.",
+      "For example, consider the historical precedents for this type of political shift.",
+      "For example, consider the psychological factors that influence consumer behavior."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "The bottom line is …",
+    "translation": "결론적으로 말하자면 …",
+    "b1": [
+      "The bottom line is we need more time.",
+      "The bottom line is the car is too expensive.",
+      "The bottom line is you must study harder.",
+      "The bottom line is the party was fun.",
+      "The bottom line is we are finished."
+    ],
+    "b2": [
+      "The bottom line is that we need to increase our revenue to survive.",
+      "The bottom line is that customer satisfaction is our top priority.",
+      "The bottom line is that the current strategy is simply not working.",
+      "The bottom line is we need to hire more people to finish the project.",
+      "The bottom line is that honesty is the best policy in this situation."
+    ],
+    "c1": [
+      "The bottom line is that systemic change is necessary for long-term growth.",
+      "The bottom line is that our competitive advantage lies in our innovation.",
+      "The bottom line is that the project is no longer fiscally viable.",
+      "The bottom line is that ethical considerations must take precedence.",
+      "The bottom line is that we must adapt or we will become obsolete."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Let's review the main findings: ...",
+    "translation": "주요 결과를 검토해 봅시다. ...",
+    "b1": [
+      "Let's review the main findings: people like the new food.",
+      "Let's review the main findings: the shop is busy.",
+      "Let's review the main findings: it is too hot inside.",
+      "Let's review the main findings: students want more books.",
+      "Let's review the main findings: the park is dirty."
+    ],
+    "b2": [
+      "Let's review the main findings: our sales have increased by 15% this year.",
+      "Let's review the main findings: most customers prefer the mobile app over the website.",
+      "Let's review the main findings: the new training program has improved productivity.",
+      "Let's review the main findings: there is a significant interest in remote work options.",
+      "Let's review the main findings: our competitors are lowering their prices."
+    ],
+    "c1": [
+      "Let's review the main findings: the data reveals a profound shift in consumer values.",
+      "Let's review the main findings: there is a clear correlation between the two variables.",
+      "Let's review the main findings: the structural flaws in the system are persistent.",
+      "Let's review the main findings: the intervention has yielded substantial improvements.",
+      "Let's review the main findings: the results highlight the need for systemic reform."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "To sum up the situation, ...",
+    "translation": "상황을 요약하자면, ...",
+    "b1": [
+      "To sum up the situation, we are late.",
+      "To sum up the situation, the cake is gone.",
+      "To sum up the situation, it's a rainy day.",
+      "To sum up the situation, everyone is happy.",
+      "To sum up the situation, the job is done."
+    ],
+    "b2": [
+      "To sum up the situation, we have limited resources but a strong team.",
+      "To sum up the situation, the market is competitive but we are doing well.",
+      "To sum up the situation, the problem was fixed but it took a long time.",
+      "To sum up the situation, the project is on track despite some minor delays.",
+      "To sum up the situation, we need to make a decision by the end of the day."
+    ],
+    "c1": [
+      "To sum up the situation, the geopolitical landscape is becoming increasingly complex.",
+      "To sum up the situation, the fiscal challenges are significant but manageable.",
+      "To sum up the situation, the organizational culture is undergoing a transformation.",
+      "To sum up the situation, the evidence suggests a need for a paradigm shift.",
+      "To sum up the situation, we are at a critical juncture in our company's history."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "My understanding is that ...",
+    "translation": "제가 이해하기로는 ...",
+    "b1": [
+      "My understanding is that the meeting is at 3 PM.",
+      "My understanding is that it's free for kids.",
+      "My understanding is that we are going to the mall.",
+      "My understanding is that you already called her.",
+      "My understanding is that the test is easy."
+    ],
+    "b2": [
+      "My understanding is that we are not allowed to use the conference room today.",
+      "My understanding is that the new policy will take effect starting next month.",
+      "My understanding is that you are responsible for the financial report.",
+      "My understanding is that the client is looking for a more affordable option.",
+      "My understanding is that the project was put on hold due to a lack of staff."
+    ],
+    "c1": [
+      "My understanding is that the recent legislation will have profound implications for us.",
+      "My understanding is that the consensus among experts is that the market will stabilize.",
+      "My understanding is that the ethical guidelines are currently being revised.",
+      "My understanding is that the structural issues were the primary cause of the failure.",
+      "My understanding is that the strategic partnership will provide mutual benefits."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Just to be clear, …",
+    "translation": "분명히 해두자면 …",
+    "b1": [
+      "Just to be clear, I am not coming today.",
+      "Just to be clear, you need a ticket.",
+      "Just to be clear, the shop is closed now.",
+      "Just to be clear, it's not my fault.",
+      "Just to be clear, we are leaving at 5."
+    ],
+    "b2": [
+      "Just to be clear, I am not suggesting that we fire anyone.",
+      "Just to be clear, the deadline for this project is strictly next Friday.",
+      "Just to be clear, this is a temporary solution to a long-term problem.",
+      "Just to be clear, you will be in charge of the entire department next week.",
+      "Just to be clear, we are not increasing the budget for the marketing team."
+    ],
+    "c1": [
+      "Just to be clear, the proposed changes are not a critique of your performance.",
+      "Just to be clear, the long-term environmental impact must be our priority.",
+      "Just to be clear, the legal ramifications of this action are still being assessed.",
+      "Just to be clear, the merger will not affect our core values as a company.",
+      "Just to be clear, our commitment to transparency is non-negotiable."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "The final outcome was ...",
+    "translation": "최종 결과는 ...였습니다.",
+    "b1": [
+      "The final outcome was that we won.",
+      "The final outcome was a great party.",
+      "The final outcome was a new car.",
+      "The final outcome was that he said yes.",
+      "The final outcome was a finished project."
+    ],
+    "b2": [
+      "The final outcome was much better than we had originally expected.",
+      "The final outcome was a compromise that satisfied both parties.",
+      "The final outcome was that the company decided to invest in new tech.",
+      "The final outcome was a significant increase in our annual revenue.",
+      "The final outcome was a clear understanding of the project's challenges."
+    ],
+    "c1": [
+      "The final outcome was the implementation of a more robust regulatory framework.",
+      "The final outcome was a profound transformation in our organizational structure.",
+      "The final outcome was the establishment of a long-term strategic alliance.",
+      "The final outcome was a comprehensive resolution to the ongoing conflict.",
+      "The final outcome was the validation of our long-term sustainability goals."
+    ]
+  }
+]

@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Me siento extremadamente ... respecto a ...",
+    "translation": "I feel overwhelmingly ... about ...",
+    "b1": [
+      "Me siento extremadamente feliz respecto a mi nuevo trabajo.",
+      "Me siento extremadamente cansado respecto a este viaje.",
+      "Me siento extremadamente triste respecto a esta noticia.",
+      "Me siento extremadamente sorprendido respecto a tu regalo.",
+      "Me siento extremadamente motivada respecto a este proyecto."
+    ],
+    "b2": [
+      "Me siento extremadamente culpable respecto a mi error del otro día.",
+      "Me siento extremadamente entusiasta respecto a nuestra futura colaboración.",
+      "Me siento extremadamente frustrado respecto a la falta de comunicación.",
+      "Me siento extremadamente orgulloso respecto al éxito de mis hijos.",
+      "Me siento extremadamente inquieto respecto al examen de mañana."
+    ],
+    "c1": [
+      "Me siento extremadamente ambivalente respecto a la evolución de nuestra sociedad actual.",
+      "Me siento extremadamente pesimista respecto al desenlace de esta negociación compleja.",
+      "Me siento extremadamente sereno respecto a mi decisión de abandonar la empresa.",
+      "Me siento extremadamente indignado respecto a la indiferencia ante esta injusticia.",
+      "Me siento extremadamente honrado respecto a la confianza que me brindan."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Realmente me llegó al corazón cuando ...",
+    "translation": "It truly touched my heart when ...",
+    "b1": [
+      "Realmente me llegó al corazón cuando sonreíste.",
+      "Realmente me llegó al corazón cuando me dio las gracias.",
+      "Realmente me llegó al corazón cuando vi esta película.",
+      "Realmente me llegó al corazón cuando mis amigos vinieron a verme.",
+      "Realmente me llegó al corazón cuando ella cantó para mí."
+    ],
+    "b2": [
+      "Realmente me llegó al corazón cuando los vecinos nos ayudaron durante la crisis.",
+      "Realmente me llegó al corazón cuando leí su carta de agradecimiento.",
+      "Realmente me llegó al corazón cuando el niño compartió su comida con un pobre.",
+      "Realmente me llegó al corazón cuando mis colegas organizaron esta fiesta sorpresa.",
+      "Realmente me llegó al corazón cuando volví a ver mi casa de la infancia después de tantos años."
+    ],
+    "c1": [
+      "Realmente me llegó al corazón cuando percibí la sinceridad detrás de su silencio.",
+      "Realmente me llegó al corazón cuando la solidaridad se manifestó espontáneamente.",
+      "Realmente me llegó al corazón cuando el artista evocó la fragilidad de la vida humana.",
+      "Realmente me llegó al corazón cuando comprendí la magnitud de su sacrificio personal.",
+      "Realmente me llegó al corazón cuando este poema resonó con mis propias heridas."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Estoy profundamente preocupado(a) por ...",
+    "translation": "I'm deeply concerned about ...",
+    "b1": [
+      "Estoy profundamente preocupado por la salud de mi padre.",
+      "Estoy profundamente preocupada por mis notas en la escuela.",
+      "Estoy profundamente preocupado por el precio de la comida.",
+      "Estoy profundamente preocupada por el clima para la boda.",
+      "Estoy profundamente preocupado por este problema."
+    ],
+    "b2": [
+      "Estoy profundamente preocupado por el futuro de los jóvenes en este país.",
+      "Estoy profundamente preocupada por las consecuencias de la contaminación por plásticos.",
+      "Estoy profundamente preocupado por la inestabilidad política de la región.",
+      "Estoy profundamente preocupada por el aumento de la inseguridad en el barrio.",
+      "Estoy profundamente preocupado por la falta de tolerancia entre la gente."
+    ],
+    "c1": [
+      "Estoy profundamente preocupado por la degradación constante de la biodiversidad mundial.",
+      "Estoy profundamente preocupada por la influencia creciente de los algoritmos en nuestro libre albedrío.",
+      "Estoy profundamente preocupado por el cuestionamiento sistemático de los logros democráticos.",
+      "Estoy profundamente preocupada por la erosión de los vínculos sociales en las grandes metrópolis.",
+      "Estoy profundamente preocupado por el cinismo ambiental que corroe el debate público."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Es un gran peso que me quito de encima porque ...",
+    "translation": "There's a huge weight lifted off my shoulders because ...",
+    "b1": [
+      "Es un gran peso que me quito de encima porque terminé mis deberes.",
+      "Es un gran peso que me quito de encima porque mi amigo me perdonó.",
+      "Es un gran peso que me quito de encima porque encontré a mi gato.",
+      "Es un gran peso que me quito de encima porque empiezan las vacaciones.",
+      "Es un gran peso que me quito de encima porque pagué mi alquiler."
+    ],
+    "b2": [
+      "Es un gran peso que me quito de encima porque el médico dijo que todo iba bien.",
+      "Es un gran peso que me quito de encima porque finalmente firmamos este contrato.",
+      "Es un gran peso que me quito de encima porque confesé la verdad a mis padres.",
+      "Es un gran peso que me quito de encima porque la presentación salió bien.",
+      "Es un gran peso que me quito de encima porque encontré una solución al problema."
+    ],
+    "c1": [
+      "Es un gran peso que me quito de encima porque ya no tengo que cargar con este secreto agobiante.",
+      "Es un gran peso que me quito de encima porque el tribunal reconoció mi inocencia.",
+      "Es un gran peso que me quito de encima porque esta fusión compleja finalmente se ha concretado.",
+      "Es un gran peso que me quito de encima porque pude delegar esta responsabilidad colosal.",
+      "Es un gran peso que me quito de encima porque la mediación culminó en un acuerdo equitativo."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "No puedo ocultar cuánto aprecio ...",
+    "translation": "I can't hide how much I appreciate ...",
+    "b1": [
+      "No puedo ocultar cuánto aprecio tu ayuda.",
+      "No puedo ocultar cuánto aprecio esta comida.",
+      "No puedo ocultar cuánto aprecio tu amabilidad.",
+      "No puedo ocultar cuánto aprecio este buen tiempo.",
+      "No puedo ocultar cuánto aprecio vuestra visita."
+    ],
+    "b2": [
+      "No puedo ocultar cuánto aprecio vuestra dedicación por esta causa.",
+      "No puedo ocultar cuánto aprecio la flexibilidad de mi empresa.",
+      "No puedo ocultar cuánto aprecio los valiosos consejos que me habéis dado.",
+      "No puedo ocultar cuánto aprecio la lealtad de mis amigos de la infancia.",
+      "No puedo ocultar cuánto aprecio la oportunidad de viajar al extranjero."
+    ],
+    "c1": [
+      "No puedo ocultar cuánto aprecio la elegancia intelectual de vuestro razonamiento.",
+      "No puedo ocultar cuánto aprecio la resiliencia que demostráis a diario.",
+      "No puedo ocultar cuánto aprecio la sutileza de esta obra de arte.",
+      "No puedo ocultar cuánto aprecio vuestra integridad en este mundo tan oportunista.",
+      "No puedo ocultar cuánto aprecio la profundidad de nuestra conversación de esta noche."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Siento una profunda tristeza por ...",
+    "translation": "I feel a profound sense of sadness over ...",
+    "b1": [
+      "Siento una profunda tristeza por la muerte de mi perro.",
+      "Siento una profunda tristeza por tu partida.",
+      "Siento una profunda tristeza por esta mala nota.",
+      "Siento una profunda tristeza por el final de la película.",
+      "Siento una profunda tristeza por la soledad."
+    ],
+    "b2": [
+      "Siento una profunda tristeza por el cierre de este viejo cine.",
+      "Siento una profunda tristeza por el odio que veo en internet.",
+      "Siento una profunda tristeza por la indiferencia de la gente en la calle.",
+      "Siento una profunda tristeza por la demolición de este monumento histórico.",
+      "Siento una profunda tristeza por la ruptura entre mis dos mejores amigos."
+    ],
+    "c1": [
+      "Siento una profunda tristeza por la evanescencia de nuestros recuerdos más hermosos.",
+      "Siento una profunda tristeza por la vacuidad de ciertos debates contemporáneos.",
+      "Siento una profunda tristeza por la insensibilidad humana ante el sufrimiento animal.",
+      "Siento una profunda tristeza por la pérdida irremediable de este patrimonio cultural.",
+      "Siento una profunda tristeza por la impotencia de la razón frente a la violencia."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Las palabras no pueden describir cuánto ...",
+    "translation": "Words can’t describe how much ...",
+    "b1": [
+      "Las palabras no pueden describir cuánto me alegro.",
+      "Las palabras no pueden describir cuánto de hermoso es esto.",
+      "Las palabras no pueden describir cuánto te quiero.",
+      "Las palabras no pueden describir cuánto de cansado estoy.",
+      "Las palabras no pueden describir cuánto de bueno está esto."
+    ],
+    "b2": [
+      "Las palabras no pueden describir cuánto vuestro apoyo ha sido crucial para mí.",
+      "Las palabras no pueden describir cuánto me ha transformado esta experiencia.",
+      "Las palabras no pueden describir cuánto lamento lo que pasó.",
+      "Las palabras no pueden describir cuánto me enorgullece tu trayectoria profesional.",
+      "Las palabras no pueden describir cuánto me emocionó este paisaje."
+    ],
+    "c1": [
+      "Las palabras no pueden describir cuánto me dejó atónito el horror de esta situación.",
+      "Las palabras no pueden describir cuánto puede ser fascinante el ingenio humano.",
+      "Las palabras no pueden describir cuánto la soledad puede ser a la vez cruel y salvadora.",
+      "Las palabras no pueden describir cuánto es insoportable el desprecio de algunos.",
+      "Las palabras no pueden describir cuánto la serenidad recuperada es un tesoro."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Me ha costado aceptar la idea de ...",
+    "translation": "I have been struggling with the thought of ...",
+    "b1": [
+      "Me ha costado aceptar la idea de mudarme.",
+      "Me ha costado aceptar la idea de cambiar de escuela.",
+      "Me ha costado aceptar la idea de irme solo.",
+      "Me ha costado aceptar la idea de trabajar el domingo.",
+      "Me ha costado aceptar la idea de comer insectos."
+    ],
+    "b2": [
+      "Me ha costado aceptar la idea de tener que empezar de cero.",
+      "Me ha costado aceptar la idea de confiar mis hijos a desconocidos.",
+      "Me ha costado aceptar la idea de que mi amigo me había mentido durante meses.",
+      "Me ha costado aceptar la idea de vender la casa de mis abuelos.",
+      "Me ha costado aceptar la idea de jubilarme tan pronto."
+    ],
+    "c1": [
+      "Me ha costado aceptar la idea de la finitud de nuestra existencia terrenal.",
+      "Me ha costado aceptar la idea de la relatividad de nuestros valores morales.",
+      "Me ha costado aceptar la idea de sacrificar mi libertad en favor de una seguridad ilusoria.",
+      "Me ha costado aceptar la idea de que el progreso técnico pueda ser deshumanizador.",
+      "Me ha costado aceptar la idea de la inevitabilidad del declive de las civilizaciones."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Mi mayor miedo es que ...",
+    "translation": "My greatest fear is that ...",
+    "b1": [
+      "Mi mayor miedo es que mi perro esté enfermo.",
+      "Mi mayor miedo es que esté solo por la noche.",
+      "Mi mayor miedo es que llueva durante mis vacaciones.",
+      "Mi mayor miedo es que pierda mi teléfono.",
+      "Mi mayor miedo es que ya no me quieras."
+    ],
+    "b2": [
+      "Mi mayor miedo es que no logremos salvar el planeta.",
+      "Mi mayor miedo es que la inteligencia artificial reemplace todas nuestras profesiones.",
+      "Mi mayor miedo es que mis hijos no sean felices en la vida.",
+      "Mi mayor miedo es que nunca encuentre un sentido a mi trabajo.",
+      "Mi mayor miedo es que la guerra estalle de nuevo en Europa."
+    ],
+    "c1": [
+      "Mi mayor miedo es que la indiferencia generalizada acabe por matar toda empatía.",
+      "Mi mayor miedo es que la verdad se convierta en una noción totalmente obsoleta.",
+      "Mi mayor miedo es que perdamos nuestra capacidad de asombro ante la naturaleza.",
+      "Mi mayor miedo es que la humanidad no aprenda ninguna lección de sus errores pasados.",
+      "Mi mayor miedo es que la uniformidad cultural borre toda singularidad creadora."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Esta situación me ha dejado bastante ...",
+    "translation": "This situation has left me feeling quite ...",
+    "b1": [
+      "Esta situación me ha dejado bastante triste.",
+      "Esta situación me ha dejado bastante cansado.",
+      "Esta situación me ha dejado bastante sorprendido.",
+      "Esta situación me ha dejado bastante contento.",
+      "Esta situación me ha dejado bastante perplejo."
+    ],
+    "b2": [
+      "Esta situación me ha dejado bastante perplejo en cuanto a sus verdaderas intenciones.",
+      "Esta situación me ha dejado bastante frustrado porque no pude expresarme.",
+      "Esta situación me ha dejado bastante decepcionado por el comportamiento de mi equipo.",
+      "Esta situación me ha dejado bastante optimista sobre el futuro de la empresa.",
+      "Esta situación me ha dejado bastante amargado después de todos mis esfuerzos."
+    ],
+    "c1": [
+      "Esta situación me ha dejado bastante desamparado ante tanta mala fe.",
+      "Esta situación me ha dejado bastante dubitativo sobre la relevancia de esta estrategia.",
+      "Esta situación me ha dejado bastante atónito ante la magnitud del desastre anunciado.",
+      "Esta situación me ha dejado bastante pensativo sobre la fragilidad de nuestras alianzas.",
+      "Esta situación me ha dejado bastante escéptico sobre la capacidad de cambio de las instituciones."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Me rompe el corazón ver ...",
+    "translation": "It breaks my heart to see ...",
+    "b1": [
+      "Me rompe el corazón ver gente pobre en la calle.",
+      "Me rompe el corazón ver a este niño llorar.",
+      "Me rompe el corazón ver sufrir a los animales.",
+      "Me rompe el corazón ver a mi madre enferma.",
+      "Me rompe el corazón ver el bosque arder."
+    ],
+    "b2": [
+      "Me rompe el corazón ver tanto desperdicio de comida cada día.",
+      "Me rompe el corazón ver familias desgarradas por la guerra.",
+      "Me rompe el corazón ver que la gente ya no se habla en el metro.",
+      "Me rompe el corazón ver el abandono de las personas mayores en nuestra sociedad.",
+      "Me rompe el corazón ver a mi amigo desperdiciar su talento."
+    ],
+    "c1": [
+      "Me rompe el corazón ver el desmoronamiento de los ideales que antaño nos unían.",
+      "Me rompe el corazón ver la destrucción sistemática de ecosistemas milenarios.",
+      "Me rompe el corazón ver la instrumentalización de la miseria con fines políticos.",
+      "Me rompe el corazón ver el triunfo de la mediocridad sobre la excelencia.",
+      "Me rompe el corazón ver la angustia psicológica de las nuevas generaciones."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Admiro sinceramente tu fortaleza en ...",
+    "translation": "I genuinely admire your strength in ...",
+    "b1": [
+      "Admiro sinceramente tu fortaleza en esta situación.",
+      "Admiro sinceramente tu fortaleza en tu trabajo.",
+      "Admiro sinceramente tu fortaleza en el deporte.",
+      "Admiro sinceramente tu fortaleza en los momentos difíciles.",
+      "Admiro sinceramente tu fortaleza en tu enfermedad."
+    ],
+    "b2": [
+      "Admiro sinceramente tu fortaleza en la gestión de este conflicto familiar.",
+      "Admiro sinceramente tu fortaleza en tu lucha por los derechos de las mujeres.",
+      "Admiro sinceramente tu fortaleza en esta prueba que atraviesas actualmente.",
+      "Admiro sinceramente tu fortaleza en tu capacidad para perdonar a quienes te han herido.",
+      "Admiro sinceramente tu fortaleza en tu reconversión profesional a los cincuenta años."
+    ],
+    "c1": [
+      "Admiro sinceramente tu fortaleza en tu búsqueda inquebrantable de la verdad.",
+      "Admiro sinceramente tu fortaleza en tu resiliencia ante la adversidad más oscura.",
+      "Admiro sinceramente tu fortaleza en tu rechazo categórico a cualquier compromiso ético.",
+      "Admiro sinceramente tu fortaleza en tu estoicismo ante los azares de la existencia.",
+      "Admiro sinceramente tu fortaleza en tu voluntad feroz de preservar tu dignidad."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "El significado profundo detrás de ... es ...",
+    "translation": "The deep meaning behind ... is ...",
+    "b1": [
+      "El significado profundo detrás de este regalo es la amistad.",
+      "El significado profundo detrás de sus palabras es el amor.",
+      "El significado profundo detrás de este gesto es la paz.",
+      "El significado profundo detrás de esta canción es la tristeza.",
+      "El significado profundo detrás de su mirada es el miedo."
+    ],
+    "b2": [
+      "El significado profundo detrás de esta fiesta tradicional es el respeto a los antepasados.",
+      "El significado profundo detrás de su silencio es, en realidad, una gran timidez.",
+      "El significado profundo detrás de este proyecto es hacer el mundo más verde.",
+      "El significado profundo detrás de su ira es un sentimiento de injusticia reprimido.",
+      "El significado profundo detrás de esta película es la búsqueda de uno mismo."
+    ],
+    "c1": [
+      "El significado profundo detrás de esta alegoría es la crítica mordaz al poder absoluto.",
+      "El significado profundo detrás de este ritual es la reconciliación del hombre con lo sagrado.",
+      "El significado profundo detrás de este cambio de paradigma es la supervivencia misma de nuestra especie.",
+      "El significado profundo detrás de su obra es la exploración de los abismos del alma humana.",
+      "El significado profundo detrás de esta crisis es la necesidad de una mutación metafísica."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Estoy absolutamente devastado(a) por ...",
+    "translation": "I’m absolutely devastated by ...",
+    "b1": [
+      "Estoy absolutamente devastado por esta noticia.",
+      "Estoy absolutamente devastada por mi nota.",
+      "Estoy absolutely devastado por mi error.",
+      "Estoy absolutamente devastada por tu partida.",
+      "Estoy absolutamente devastado por la lluvia."
+    ],
+    "b2": [
+      "Estoy absolutamente devastado por el incendio de la vieja biblioteca de mi barrio.",
+      "Estoy absolutamente devastada por la falta de reconocimiento tras tantos años de servicio.",
+      "Estoy absolutamente devastado por la traición de mi mejor amigo.",
+      "Estoy absolutamente devastada por los resultados catastróficos de este trimestre.",
+      "Estoy absolutamente devastado por las imágenes de hambruna que vi en la televisión."
+    ],
+    "c1": [
+      "Estoy absolutamente devastado por la desaparición prematura de este genio visionario.",
+      "Estoy absolutamente devastada por la corrupción endémica que corroe nuestras instituciones.",
+      "Estoy absolutamente devastado por la negación de la realidad ante las catástrofes climáticas inminentes.",
+      "Estoy absolutamente devastada por la violencia inaudita de estos comentarios discriminatorios.",
+      "Estoy absolutamente devastado por la pérdida de sentido que golpea nuestra época."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Es difícil expresar la alegría que siento cuando ...",
+    "translation": "It’s hard to articulate the joy I feel when ...",
+    "b1": [
+      "Es difícil expresar la alegría que siento cuando te veo.",
+      "Es difícil expresar la alegría que siento cuando como chocolate.",
+      "Es difícil expresar la alegría que siento cuando viajo.",
+      "Es difícil expresar la alegría que siento cuando es fin de semana.",
+      "Es difícil expresar la alegría que siento cuando canto."
+    ],
+    "b2": [
+      "Es difícil expresar la alegría que siento cuando veo a mis alumnos aprobar sus exámenes.",
+      "Es difícil expresar la alegría que siento cuando llego a casa tras un largo día.",
+      "Es difícil expresar la alegría que siento cuando realizo un proyecto que me importaba mucho.",
+      "Es difícil expresar la alegría que siento cuando camino solo por el bosque.",
+      "Es difícil expresar la alegría que siento cuando escucho a mi bebé reír por primera vez."
+    ],
+    "c1": [
+      "Es difícil expresar la alegría que siento cuando la armonía perfecta nace de una colaboración creadora.",
+      "Es difícil expresar la alegría que siento cuando alcanzo ese estado de plenitude intelectual.",
+      "Es difícil expresar la alegría que siento cuando la belleza pura se manifiesta de forma imprevista.",
+      "Es difícil expresar la alegría que siento cuando un obstáculo que creía insuperable se desvanece.",
+      "Es difícil expresar la alegría que siento cuando mis convicciones profundas encuentran la adhesión colectiva."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Esta experiencia me ha dado una nueva perspectiva sobre ...",
+    "translation": "This experience has given me a new perspective on ...",
+    "b1": [
+      "Esta experiencia me ha dado una nueva perspectiva sobre la vida.",
+      "Esta experiencia me ha dado una nueva perspectiva sobre la comida francesa.",
+      "Esta experiencia me ha dado una nueva perspectiva sobre el trabajo.",
+      "Esta experiencia me ha dado una nueva perspectiva sobre la amistad.",
+      "Esta experiencia me ha dado una nueva perspectiva sobre los viajes."
+    ],
+    "b2": [
+      "Esta experiencia me ha dado una nueva perspectiva sobre las dificultades que enfrentan los inmigrantes.",
+      "Esta experiencia me ha dado una nueva perspectiva sobre la importancia de la salud mental en la oficina.",
+      "Esta experiencia me ha dado una nueva perspectiva sobre la gestión de mi tiempo libre.",
+      "Esta experiencia me ha dado una nueva perspectiva sobre la educación de mis hijos.",
+      "Esta experiencia me ha dado una nueva perspectiva sobre los beneficios de la meditación."
+    ],
+    "c1": [
+      "Esta experiencia me ha dado una nueva perspectiva sobre los mecanismos complejos de la influencia social.",
+      "Esta experiencia me ha dado una nueva perspectiva sobre la finitud y la fragilidad de nuestras estructuras de pensamiento.",
+      "Esta experiencia me ha dado una nueva perspectiva sobre la ambivalencia inherente a todo progreso tecnológico.",
+      "Esta experiencia me ha dado una nueva perspectiva sobre la interdependencia de todos los seres vivos.",
+      "Esta experiencia me ha dado una nueva perspectiva sobre la noción de éxito en una sociedad de consumo."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Siento un inmenso alivio de que ...",
+    "translation": "I feel an immense sense of relief that ...",
+    "b1": [
+      "Siento un inmenso alivio de que estés aquí.",
+      "Siento un inmenso alivio de que el examen haya terminado.",
+      "Siento un inmenso alivio de que el buen tiempo regrese.",
+      "Siento un inmenso alivio de que hayan encontrado mi bolso.",
+      "Siento un inmenso alivio de que hayamos llegado."
+    ],
+    "b2": [
+      "Siento un inmenso alivio de que la operación de mi abuela haya salido bien.",
+      "Siento un inmenso alivio de que la verdad finalmente haya salido a la luz.",
+      "Siento un inmenso alivio de que hayamos podido evitar esta crisis diplomática.",
+      "Siento un inmenso alivio de que todo el mundo haya vuelto sano y salvo de la montaña.",
+      "Siento un inmenso alivio de que mi solicitud de préstamo haya sido aceptada."
+    ],
+    "c1": [
+      "Siento un inmenso alivio de que la razón haya prevalecido sobre el fanatismo en este asunto.",
+      "Siento un inmenso alivio de que nuestros esfuerzos colectivos hayan permitido salvaguardar este sitio histórico.",
+      "Siento un inmenso alivio de que este periodo de incertidumbre existencial llegue por fin a su término.",
+      "Siento un inmenso alivio de que las conclusiones de la auditoría no sean tan alarmantes como se preveía.",
+      "Siento un inmenso alivio de que el diálogo social haya podido restaurarse in extremis."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Hay un sentimiento de vacío desde que ...",
+    "translation": "There is a feeling of emptiness since ...",
+    "b1": [
+      "Hay un sentimiento de vacío desde que te fuiste.",
+      "Hay un sentimiento de vacío desde que la fiesta terminó.",
+      "Hay un sentimiento de vacío desde que terminé mi libro.",
+      "Hay un sentimiento de vacío desde que mi perro ya no está.",
+      "Hay un sentimiento de vacío desde que los niños están en la escuela."
+    ],
+    "b2": [
+      "Hay un sentimiento de vacío desde que renuncié a mi antiguo puesto.",
+      "Hay un sentimiento de vacío desde que nuestro abuelo falleció el año pasado.",
+      "Hay un sentimiento de vacío desde que mis amigos se mudaron a otra ciudad.",
+      "Hay un sentimiento de vacío desde que esa vieja librería cerró sus puertas.",
+      "Hay un sentimiento de vacío desde que ya no tengo ningún proyecto apasionante en mente."
+    ],
+    "c1": [
+      "Hay un sentimiento de vacío desde que la ideología que guiaba mi juventud se derrumbó.",
+      "Hay un sentimiento de vacío desde que el silencio sustituyó a la efervescencia creadora de este lugar.",
+      "Hay un sentimiento de vacío desde que tomé conciencia de la artificialidad de mis antiguas relaciones sociales.",
+      "Hay un sentimiento de vacío desde que esta figura inspiradora desapareció de la escena pública.",
+      "Hay un sentimiento de vacío desde que la espiritualidad desertó de nuestros rituales cotidianos."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Asumo la plena responsabilidad de mi sentimiento de ...",
+    "translation": "I take full responsibility for my feeling of ...",
+    "b1": [
+      "Asumo la plena responsabilidad de mi sentimiento de tristeza.",
+      "Asumo la plena responsabilidad de mi sentimiento de ira.",
+      "Asumo la plena responsabilidad de mi sentimiento de miedo.",
+      "Asumo la plena responsabilidad de mi sentimiento de cansancio.",
+      "Asumo la plena responsabilidad de mi sentimiento de sorpresa."
+    ],
+    "b2": [
+      "Asumo la plena responsabilidad de mi sentimiento de culpabilidad tras lo ocurrido.",
+      "Asumo la plena responsabilidad de mi sentimiento de inseguridad dentro de este equipo.",
+      "Asumo la plena responsabilidad de mi sentimiento de frustración ante este fracaso.",
+      "Asumo la plena responsabilidad de mi sentimiento de aislamiento durante estos últimos meses.",
+      "Asumo la plena responsabilidad de mi sentimiento de fracaso respecto a este proyecto."
+    ],
+    "c1": [
+      "Asumo la plena responsabilidad de mi sentimiento de desilusión respecto al sistema político.",
+      "Asumo la plena responsabilidad de mi sentimiento de desajuste con mis contemporáneos.",
+      "Asumo la plena responsabilidad de mi sentimiento de vacuidad ante el éxito material.",
+      "Asumo la plena responsabilidad de mi sentimiento de amargura ante la ingratitud general.",
+      "Asumo la plena responsabilidad de mi sentimiento de alienación dentro de esta estructura burocrática."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "La intensidad de la situación me hizo sentir ...",
+    "translation": "The intensity of the situation made me feel ...",
+    "b1": [
+      "La intensidad de la situación me hizo sentir miedo.",
+      "La intensidad de la situación me hizo sentir vivo.",
+      "La intensidad de la situation me hizo sentir cansado.",
+      "La intensidad de la situación me hizo sentir extraño.",
+      "La intensidad de la situación me hizo sentir fuerte."
+    ],
+    "b2": [
+      "La intensidad de la situación me hizo sentir increíblemente estresado durante la reunión.",
+      "La intensidad de la situación me hizo sentir que cada segundo era valioso.",
+      "La intensidad de la situación me hizo sentir una profunda conexión con las otras víctimas.",
+      "La intensidad de la situación me hizo sentir impotente ante los eventos climáticos.",
+      "La intensidad de la situación me hizo sentir que debía actuar de inmediato."
+    ],
+    "c1": [
+      "La intensidad de la situación me hizo sentir la insignificancia de nuestras preocupaciones materiales.",
+      "La intensidad de la situación me hizo sentir una urgencia metafísica que nunca había conocido.",
+      "La intensidad de la situación me hizo sentir toda la gravedad de mi compromiso moral.",
+      "La intensidad de la situación me hizo sentir una exaltación cercana al trance místico.",
+      "La intensidad de la situación me hizo sentir la fragilidad extrema de los equilibrios sobre los que reposa nuestra paz."
+    ]
+  }
+]

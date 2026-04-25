@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Ich schätze deine Hilfe bei ... wirklich sehr.",
+    "translation": "I truly appreciate your help with ...",
+    "b1": [
+      "Ich schätze deine Hilfe bei den Hausaufgaben wirklich sehr.",
+      "Ich schätze deine Hilfe bei meiner Reiseplanung wirklich sehr.",
+      "Ich schätze deine Hilfe bei der Gartenarbeit wirklich sehr.",
+      "Ich schätze deine Hilfe bei diesem Projekt wirklich sehr.",
+      "Ich schätze deine Hilfe bei meinem Umzug wirklich sehr."
+    ],
+    "b2": [
+      "Ich schätze deine Hilfe bei der Vorbereitung der Präsentation wirklich sehr.",
+      "Ich schätze deine Hilfe bei der Lösung dieses technischen Problems wirklich sehr.",
+      "Ich schätze deine Hilfe bei der Organisation des Firmenevents wirklich sehr.",
+      "Ich schätze deine Hilfe bei der Einarbeitung in das neue Programm wirklich sehr.",
+      "Ich schätze deine Hilfe bei der Korrektur meines Berichts wirklich sehr."
+    ],
+    "c1": [
+      "Ich schätze deine Hilfe bei der strategischen Neuausrichtung unserer Abteilung wirklich sehr.",
+      "Ich schätze deine Hilfe bei der Bewältigung dieser komplexen Krise wirklich sehr.",
+      "Ich schätze deine Hilfe bei der Vermittlung zwischen den zerstrittenen Parteien wirklich sehr.",
+      "Ich schätze deine Hilfe bei der Analyse der umfangreichen Datensätze wirklich sehr.",
+      "Ich schätze deine Hilfe bei der Implementierung der neuen Qualitätsstandards wirklich sehr."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Du hast ein bemerkenswertes Talent für ...",
+    "translation": "You have a remarkable talent for ...",
+    "b1": [
+      "Du hast ein bemerkenswertes Talent für Musik.",
+      "Du hast ein bemerkenswertes Talent für Sprachen.",
+      "Du hast ein bemerkenswertes Talent für das Kochen.",
+      "Du hast ein bemerkenswertes Talent für das Zeichnen.",
+      "Du hast ein bemerkenswertes Talent für Sport."
+    ],
+    "b2": [
+      "Du hast ein bemerkenswertes Talent für die Organisation von großen Veranstaltungen.",
+      "Du hast ein bemerkenswertes Talent für die Vermittlung schwieriger Inhalte.",
+      "Du hast ein bemerkenswertes Talent für den Umgang mit anspruchsvollen Kunden.",
+      "Du hast ein bemerkenswertes Talent für das Lösen von mathematischen Rätseln.",
+      "Du hast ein bemerkenswertes Talent für das Schreiben von kreativen Texten."
+    ],
+    "c1": [
+      "Du hast ein bemerkenswertes Talent für die Identifikation von subtilen Marktveränderungen.",
+      "Du hast ein bemerkenswertes Talent für die Moderation hochkomplexer Debatten.",
+      "Du hast ein bemerkenswertes Talent für die diplomatische Lösung interkultureller Konflikte.",
+      "Du hast ein bemerkenswertes Talent für die antizipative Planung von Geschäftsprozessen.",
+      "Du hast ein bemerkenswertes Talent für die abstrakte Modellierung theoretischer Konzepte."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Das war unglaublich aufmerksam von dir, ... zu ...",
+    "translation": "That was incredibly thoughtful of you to ...",
+    "b1": [
+      "Das war unglaublich aufmerksam von dir, mir Blumen zu bringen.",
+      "Das war unglaublich aufmerksam von dir, mich vom Bahnhof abzuholen.",
+      "Das war unglaublich aufmerksam von dir, an meinen Geburtstag zu denken.",
+      "Das war unglaublich aufmerksam von dir, mir bei den Taschen zu helfen.",
+      "Das war unglaublich aufmerksam von dir, nach meinem Befinden zu fragen."
+    ],
+    "b2": [
+      "Das war unglaublich aufmerksam von dir, die Unterlagen schon vorab zu schicken.",
+      "Das war unglaublich aufmerksam von dir, die Allergien der Gäste bei der Planung zu berücksichtigen.",
+      "Das war unglaublich aufmerksam von dir, mich auf den kleinen Fehler hinzuweisen.",
+      "Das war unglaublich aufmerksam von dir, mir einen Kaffee mitzubringen.",
+      "Das war unglaublich aufmerksam von dir, den Termin für uns alle zu koordinieren."
+    ],
+    "c1": [
+      "Das war unglaublich aufmerksam von dir, die potenziellen Bedenken der Stakeholder im Vorfeld zu entkräften.",
+      "Das war unglaublich aufmerksam von dir, mir in dieser schwierigen Phase den Rücken freizuhalten.",
+      "Das war unglaublich aufmerksam von dir, die feinen Nuancen in der Kritik des Chefs zu bemerken.",
+      "Das war unglaublich aufmerksam von dir, die diskreten Hinweise des Kunden so schnell umzusetzen.",
+      "Das war unglaublich aufmerksam von dir, die langfristigen Konsequenzen dieser Entscheidung sofort zu thematisieren."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Ich bin so dankbar für die Tatsache, dass ...",
+    "translation": "I'm so grateful for the fact that ...",
+    "b1": [
+      "Ich bin so dankbar für die Tatsache, dass du mein Freund bist.",
+      "Ich bin so dankbar für die Tatsache, dass wir gesund sind.",
+      "Ich bin so dankbar für die Tatsache, dass heute die Sonne scheint.",
+      "Ich bin so dankbar für die Tatsache, dass ich Deutsch lernen kann.",
+      "Ich bin so dankbar für die Tatsache, dass du mir geholfen hast."
+    ],
+    "b2": [
+      "Ich bin so dankbar für die Tatsache, dass wir das Projekt erfolgreich abgeschlossen haben.",
+      "Ich bin so dankbar für die Tatsache, dass das Team so gut zusammenarbeitet.",
+      "Ich bin so dankbar für die Tatsache, dass ich diese Chance bekommen habe.",
+      "Ich bin so dankbar für die Tatsache, dass du immer ein offenes Ohr für mich hast.",
+      "Ich bin so dankbar für die Tatsache, dass wir eine Lösung gefunden haben."
+    ],
+    "c1": [
+      "Ich bin so dankbar für die Tatsache, dass unsere Zusammenarbeit von so hohem gegenseitigem Vertrauen geprägt ist.",
+      "Ich bin so dankbar für die Tatsache, dass wir trotz aller Widerstände an unserer Vision festgehalten haben.",
+      "Ich bin so dankbar für die Tatsache, dass du meine berufliche Entwicklung so nachhaltig gefördert hast.",
+      "Ich bin so dankbar für die Tatsache, dass wir in einer Gesellschaft leben, die diese Werte schätzt.",
+      "Ich bin so dankbar für die Tatsache, dass die Ergebnisse unsere Hypothesen so eindeutig bestätigt haben."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Deine Liebe zum Detail bei ... ist herausragend.",
+    "translation": "Your attention to detail on ... is outstanding.",
+    "b1": [
+      "Deine Liebe zum Detail bei dieser Zeichnung ist herausragend.",
+      "Deine Liebe zum Detail bei der Dekoration ist herausragend.",
+      "Deine Liebe zum Detail beim Kochen ist herausragend.",
+      "Deine Liebe zum Detail bei deinen Hausaufgaben ist herausragend.",
+      "Deine Liebe zum Detail bei diesem Geschenk ist herausragend."
+    ],
+    "b2": [
+      "Deine Liebe zum Detail bei der Erstellung des Budgets ist herausragend.",
+      "Deine Liebe zum Detail bei der Programmierung dieser App ist herausragend.",
+      "Deine Liebe zum Detail bei der Vorbereitung der Messe ist herausragend.",
+      "Deine Liebe zum Detail bei der Analyse der Kundenwünsche ist herausragend.",
+      "Deine Liebe zum Detail bei der Gestaltung der Webseite ist herausragend."
+    ],
+    "c1": [
+      "Deine Liebe zum Detail bei der Ausarbeitung der juristischen Verträge ist herausragend.",
+      "Deine Liebe zum Detail bei der philologischen Untersuchung der Texte ist herausragend.",
+      "Deine Liebe zum Detail bei der Qualitätssicherung unserer Produkte ist herausragend.",
+      "Deine Liebe zum Detail bei der Rekonstruktion der historischen Ereignisse ist herausragend.",
+      "Deine Liebe zum Detail bei der architektonischen Planung des Gebäudes ist herausragend."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Ich wollte mich ausdrücklich für ... bedanken.",
+    "translation": "I wanted to thank you specifically for ...",
+    "b1": [
+      "Ich wollte mich ausdrücklich für die Einladung bedanken.",
+      "Ich wollte mich ausdrücklich für das schöne Geschenk bedanken.",
+      "Ich wollte mich ausdrücklich für deine Hilfe gestern bedanken.",
+      "Ich wollte mich ausdrücklich für die nette Karte bedanken.",
+      "Ich wollte mich ausdrücklich für das gute Essen bedanken."
+    ],
+    "b2": [
+      "Ich wollte mich ausdrücklich für deine Unterstützung während der stressigen Phase bedanken.",
+      "Ich wollte mich ausdrücklich für das entgegengebrachte Vertrauen bedanken.",
+      "Ich wollte mich ausdrücklich für die konstruktive Kritik an meinem Entwurf bedanken.",
+      "Ich wollte mich ausdrücklich für die schnelle Bearbeitung meiner Anfrage bedanken.",
+      "Ich wollte mich ausdrücklich für die hervorragende Zusammenarbeit im letzten Jahr bedanken."
+    ],
+    "c1": [
+      "Ich wollte mich ausdrücklich für dein außerordentliches Engagement in diesem Projekt bedanken.",
+      "Ich wollte mich ausdrücklich für die fundierte Expertise bedanken, die du eingebracht hast.",
+      "Ich wollte mich ausdrücklich für die großzügige Förderung unserer Forschungsarbeit bedanken.",
+      "Ich wollte mich ausdrücklich für die souveräne Leitung der Verhandlungen bedanken.",
+      "Ich wollte mich ausdrücklich für die unvoreingenommene Beurteilung der Situation bedanken."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Du hast diese Situation mit so viel Anmut und ... gemeistert.",
+    "translation": "You handled that situation with such grace and ...",
+    "b1": [
+      "Du hast diese Situation mit so viel Anmut und Ruhe gemeistert.",
+      "Du hast diese Situation mit so viel Anmut und Freude gemeistert.",
+      "Du hast diese Situation mit so viel Anmut und Energie gemeistert.",
+      "Du hast diese Situation mit so viel Anmut und Geduld gemeistert.",
+      "Du hast diese Situation mit so viel Anmut und Liebe gemeistert."
+    ],
+    "b2": [
+      "Du hast diese Situation mit so viel Anmut und Professionalität gemeistert.",
+      "Du hast diese Situation mit so viel Anmut und Gelassenheit gemeistert.",
+      "Du hast diese Situation mit so viel Anmut und Entschlossenheit gemeistert.",
+      "Du hast diese Situation mit so viel Anmut und Humor gemeistert.",
+      "Du hast diese Situation mit so viel Anmut und Selbstvertrauen gemeistert."
+    ],
+    "c1": [
+      "Du hast diese Situation mit so viel Anmut und diplomatischer Finesse gemeistert.",
+      "Du hast diese Situation mit so viel Anmut und intellektueller Schärfe gemeistert.",
+      "Du hast diese Situation mit so viel Anmut und moralischer Integrität gemeistert.",
+      "Du hast diese Situation mit so viel Anmut und stoischer Ruhe gemeistert.",
+      "Du hast diese Situation mit so viel Anmut und strategischem Weitblick gemeistert."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Ich hätte das ohne deine(n) ... nicht geschafft.",
+    "translation": "I couldn't have done this without your ...",
+    "b1": [
+      "Ich hätte das ohne deine Hilfe nicht geschafft.",
+      "Ich hätte das ohne deine Motivation nicht geschafft.",
+      "Ich hätte das ohne deine Tipps nicht geschafft.",
+      "Ich hätte das ohne deine Unterstützung nicht geschafft.",
+      "Ich hätte das ohne deine Idee nicht geschafft."
+    ],
+    "b2": [
+      "Ich hätte das ohne deine fachliche Kompetenz nicht geschafft.",
+      "Ich hätte das ohne deinen unermüdlichen Einsatz nicht geschafft.",
+      "Ich hätte das ohne deinen Zuspruch in schwierigen Zeiten nicht geschafft.",
+      "Ich hätte das ohne deine gute Organisation nicht geschafft.",
+      "Ich hätte das ohne deine Kontakte nicht geschafft."
+    ],
+    "c1": [
+      "Ich hätte das ohne deine analytische Weitsicht nicht geschafft.",
+      "Ich hätte das ohne deine tatkräftige Unterstützung bei der Akquise nicht geschafft.",
+      "Ich hätte das ohne deine loyale Begleitung durch diesen Prozess nicht geschafft.",
+      "Ich hätte das ohne deine konstruktive Auseinandersetzung mit dem Thema nicht geschafft.",
+      "Ich hätte das ohne deine präzise Anleitung zur Durchführung des Experiments nicht geschafft."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Deine positive Einstellung ist wirklich inspirierend für ...",
+    "translation": "Your positive attitude is truly inspiring to ...",
+    "b1": [
+      "Deine positive Einstellung ist wirklich inspirierend für mich.",
+      "Deine positive Einstellung ist wirklich inspirierend für uns alle.",
+      "Deine positive Einstellung ist wirklich inspirierend für die Kinder.",
+      "Deine positive Einstellung ist wirklich inspirierend für deine Freunde.",
+      "Deine positive Einstellung ist wirklich inspirierend für die Klasse."
+    ],
+    "b2": [
+      "Deine positive Einstellung ist wirklich inspirierend für das gesamte Team.",
+      "Deine positive Einstellung ist wirklich inspirierend für neue Mitarbeiter.",
+      "Deine positive Einstellung ist wirklich inspirierend für Menschen in schwierigen Lebenslagen.",
+      "Deine positive Einstellung ist wirklich inspirierend für die Entwicklung unserer Firmenkultur.",
+      "Deine positive Einstellung ist wirklich inspirierend für die Lösung dieses Problems."
+    ],
+    "c1": [
+      "Deine positive Einstellung ist wirklich inspirierend für die Gestaltung gesellschaftlicher Transformationsprozesse.",
+      "Deine positive Einstellung ist wirklich inspirierend für die Überwindung struktureller Barrieren.",
+      "Deine positive Einstellung ist wirklich inspirierend für die Förderung von Innovationen in unserem Sektor.",
+      "Deine positive Einstellung ist wirklich inspirierend für die langfristige Motivation der Belegschaft.",
+      "Deine positive Einstellung ist wirklich inspirierend für die Etablierung einer neuen Fehlerkultur."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Danke, dass du über das normale Maß hinausgegangen bist, um ...",
+    "translation": "Thank you for going above and beyond to ...",
+    "b1": [
+      "Danke, dass du über das normale Maß hinausgegangen bist, um mir zu helfen.",
+      "Danke, dass du über das normale Maß hinausgegangen bist, um die Party zu organisieren.",
+      "Danke, dass du über das normale Maß hinausgegangen bist, um pünktlich zu sein.",
+      "Danke, dass du über das normale Maß hinausgegangen bist, um das Geschenk zu finden.",
+      "Danke, dass du über das normale Maß hinausgegangen bist, um Deutsch zu lernen."
+    ],
+    "b2": [
+      "Danke, dass du über das normale Maß hinausgegangen bist, um das Projekt rechtzeitig fertigzustellen.",
+      "Danke, dass du über das normale Maß hinausgegangen bist, um den Kunden zufrieden zu stellen.",
+      "Danke, dass du über das normale Maß hinausgegangen bist, um die Fehler in der Software zu beheben.",
+      "Danke, dass du über das normale Maß hinausgegangen bist, um das Team zu unterstützen.",
+      "Danke, dass du über das normale Maß hinausgegangen bist, um die Präsentation zu perfektionieren."
+    ],
+    "c1": [
+      "Danke, dass du über das normale Maß hinausgegangen bist, um die Integrität unserer Daten zu gewährleisten.",
+      "Danke, dass du über das normale Maß hinausgegangen bist, um diesen strategischen Durchbruch zu erzielen.",
+      "Danke, dass du über das normale Maß hinausgegangen bist, um die Nachhaltigkeitsziele unseres Unternehmens zu übertreffen.",
+      "Danke, dass du über das normale Maß hinausgegangen bist, um die diplomatischen Beziehungen zu unseren Partnern zu stärken.",
+      "Danke, dass du über das normale Maß hinausgegangen bist, um eine umfassende Analyse der Risiken zu erstellen."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Ich bewundere wirklich die Art, wie du ...",
+    "translation": "I really admire the way you ...",
+    "b1": [
+      "Ich bewundere wirklich die Art, wie du kochst.",
+      "Ich bewundere wirklich die Art, wie du Deutsch sprichst.",
+      "Ich bewundere wirklich die Art, wie du mit Kindern umgehst.",
+      "Ich bewundere wirklich die Art, wie du Probleme löst.",
+      "Ich bewundere wirklich die Art, wie du immer lächelst."
+    ],
+    "b2": [
+      "Ich bewundere wirklich die Art, wie du auch unter Druck ruhig bleibst.",
+      "Ich bewundere wirklich die Art, wie du schwierige Themen verständlich erklärst.",
+      "Ich bewundere wirklich die Art, wie du Menschen motivieren kannst.",
+      "Ich bewundere wirklich die Art, wie du Beruf und Familie vereinbarst.",
+      "Ich bewundere wirklich die Art, wie du dich für andere einsetzt."
+    ],
+    "c1": [
+      "Ich bewundere wirklich die Art, wie du komplexe Sachverhalte analytisch durchdringst.",
+      "Ich bewundere wirklich die Art, wie du ethische Prinzipien in deinem Handeln verkörperst.",
+      "Ich bewundere wirklich die Art, wie du souverän mit unvorhergesehenen Krisen umgehst.",
+      "Ich bewundere wirklich die Art, wie du den Diskurs in unserer Branche prägst.",
+      "Ich bewundere wirklich die Art, wie du visionäre Ideen in die Realität umsetzt."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Was für eine wunderbare Arbeit du bei ... geleistet hast.",
+    "translation": "What a wonderful job you did on ...",
+    "b1": [
+      "Was für eine wunderbare Arbeit du bei diesem Kuchen geleistet hast.",
+      "Was für eine wunderbare Arbeit du bei deinem Bild geleistet hast.",
+      "Was für eine wunderbare Arbeit du bei der Gartenarbeit geleistet hast.",
+      "Was für eine wunderbare Arbeit du bei deinem Deutschtest geleistet hast.",
+      "Was für eine wunderbare Arbeit du bei dem Geschenk geleistet hast."
+    ],
+    "b2": [
+      "Was für eine wunderbare Arbeit du bei der neuen Marketingkampagne geleistet hast.",
+      "Was für eine wunderbare Arbeit du bei der Programmierung der Webseite geleistet hast.",
+      "Was für eine wunderbare Arbeit du bei der Organisation der Konferenz geleistet hast.",
+      "Was für eine wunderbare Arbeit du bei der Erstellung des Jahresberichts geleistet hast.",
+      "Was für eine wunderbare Arbeit du bei der Schulung der neuen Mitarbeiter geleistet hast."
+    ],
+    "c1": [
+      "Was für eine wunderbare Arbeit du bei der Neugestaltung unserer Unternehmensidentität geleistet hast.",
+      "Was für eine wunderbare Arbeit du bei der Koordination dieses internationalen Forschungsprojekts geleistet hast.",
+      "Was für eine wunderbare Arbeit du bei der Moderation des schwierigen Fusionsprozesses geleistet hast.",
+      "Was für eine wunderbare Arbeit du bei der Entwicklung der neuen Nachhaltigkeitsstrategie geleistet hast.",
+      "Was für eine wunderbare Arbeit du bei der Analyse der sozioökonomischen Auswirkungen geleistet hast."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Es bedeutet mir die Welt, dass ...",
+    "translation": "It means the world to me that ...",
+    "b1": [
+      "Es bedeutet mir die Welt, dass du heute hier bist.",
+      "Es bedeutet mir die Welt, dass du mir geholfen hast.",
+      "Es bedeutet mir die Welt, dass wir uns wiedersehen.",
+      "Es bedeutet mir die Welt, dass du an mich glaubst.",
+      "Es bedeutet mir die Welt, dass du mich liebst."
+    ],
+    "b2": [
+      "Es bedeutet mir die Welt, dass du mich bei meiner Entscheidung unterstützt hast.",
+      "Es bedeutet mir die Welt, dass wir als Team so fest zusammenhalten.",
+      "Es bedeutet mir die Welt, dass ich diese Chance von dir bekommen habe.",
+      "Es bedeutet mir die Welt, dass du dir Zeit für meine Sorgen genommen hast.",
+      "Es bedeutet mir die Welt, dass unsere Arbeit so viel Anerkennung findet."
+    ],
+    "c1": [
+      "Es bedeutet mir die Welt, dass du meine Vision mit so viel Leidenschaft teilst.",
+      "Es bedeutet mir die Welt, dass du mir in dieser existenziellen Krise beigestanden hast.",
+      "Es bedeutet mir die Welt, dass unsere gemeinsame Forschung nun Früchte trägt.",
+      "Es bedeutet mir die Welt, dass wir trotz aller Differenzen einen Konsens gefunden haben.",
+      "Es bedeutet mir die Welt, dass ich einen so kompetenten Mentor an meiner Seite habe."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Deine Perspektive auf ... ist unglaublich wertvoll.",
+    "translation": "Your perspective on ... is incredibly valuable.",
+    "b1": [
+      "Deine Perspektive auf mein Problem ist unglaublich wertvoll.",
+      "Deine Perspektive auf dieses Buch ist unglaublich wertvoll.",
+      "Deine Perspektive auf das Leben ist unglaublich wertvoll.",
+      "Deine Perspektive auf unsere Reise ist unglaublich wertvoll.",
+      "Deine Perspektive auf das Geschenk ist unglaublich wertvoll."
+    ],
+    "b2": [
+      "Deine Perspektive auf die Marktentwicklung ist unglaublich wertvoll.",
+      "Deine Perspektive auf die Teamdynamik ist unglaublich wertvoll.",
+      "Deine Perspektive auf die neuen Arbeitsmethoden ist unglaublich wertvoll.",
+      "Deine Perspektive auf die Bedürfnisse unserer Kunden ist unglaublich wertvoll.",
+      "Deine Perspektive auf die Gestaltung des Projekts ist unglaublich wertvoll."
+    ],
+    "c1": [
+      "Deine Perspektive auf die ethischen Dilemmata der Digitalisierung ist unglaublich wertvoll.",
+      "Deine Perspektive auf die geopolitischen Verschiebungen ist unglaublich wertvoll.",
+      "Deine Perspektive auf die erkenntnistheoretischen Grundlagen unserer Studie ist unglaublich wertvoll.",
+      "Deine Perspektive auf die langfristige Transformation unserer Branche ist unglaublich wertvoll.",
+      "Deine Perspektive auf die soziokulturellen Implikationen dieser Reform ist unglaublich wertvoll."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Ich möchte meine tiefste Dankbarkeit für ... ausdrücken.",
+    "translation": "I want to express my deepest gratitude for ...",
+    "b1": [
+      "Ich möchte meine tiefste Dankbarkeit für deine Hilfe ausdrücken.",
+      "Ich möchte meine tiefste Dankbarkeit für das schöne Geschenk ausdrücken.",
+      "Ich möchte meine tiefste Dankbarkeit für die Einladung ausdrücken.",
+      "Ich möchte meine tiefste Dankbarkeit für deine Zeit ausdrücken.",
+      "Ich möchte meine tiefste Dankbarkeit für die gute Besserung ausdrücken."
+    ],
+    "b2": [
+      "Ich möchte meine tiefste Dankbarkeit für deine Unterstützung in der schweren Zeit ausdrücken.",
+      "Ich möchte meine tiefste Dankbarkeit für die hervorragende Zusammenarbeit ausdrücken.",
+      "Ich möchte meine tiefste Dankbarkeit für das Vertrauen in meine Fähigkeiten ausdrücken.",
+      "Ich möchte meine tiefste Dankbarkeit für die wertvollen Ratschläge ausdrücken.",
+      "Ich möchte meine tiefste Dankbarkeit für die Möglichkeit der Weiterbildung ausdrücken."
+    ],
+    "c1": [
+      "Ich möchte meine tiefste Dankbarkeit für deine loyale Mentorenschaft ausdrücken.",
+      "Ich möchte meine tiefste Dankbarkeit für dein unermüdliches Engagement zum Wohle der Organisation ausdrücken.",
+      "Ich möchte meine tiefste Dankbarkeit für die großzügige Unterstützung unseres sozialen Projekts ausdrücken.",
+      "Ich möchte meine tiefste Dankbarkeit für die Verteidigung unserer gemeinsamen Werte ausdrücken.",
+      "Ich möchte meine tiefste Dankbarkeit für die Inspiration durch dein Lebenswerk ausdrücken."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Du hast einen großen Unterschied in ... gemacht.",
+    "translation": "You've made a huge difference in ...",
+    "b1": [
+      "Du hast einen großen Unterschied in meinem Leben gemacht.",
+      "Du hast einen großen Unterschied in dieser Klasse gemacht.",
+      "Du hast einen großen Unterschied in unserer Gruppe gemacht.",
+      "Du hast einen großen Unterschied in meinem Tag gemacht.",
+      "Du hast einen großen Unterschied in diesem Spiel gemacht."
+    ],
+    "b2": [
+      "Du hast einen großen Unterschied in der Effizienz unseres Teams gemacht.",
+      "Du hast einen großen Unterschied in der Qualität unserer Produkte gemacht.",
+      "Du hast einen großen Unterschied in der Atmosphäre im Büro gemacht.",
+      "Du hast einen großen Unterschied in der Kundenzufriedenheit gemacht.",
+      "Du hast einen großen Unterschied in der Umsetzung unserer Pläne gemacht."
+    ],
+    "c1": [
+      "Du hast einen großen Unterschied in der strategischen Ausrichtung unseres Unternehmens gemacht.",
+      "Du hast einen großen Unterschied in der wissenschaftlichen Debatte zu diesem Thema gemacht.",
+      "Du hast einen großen Unterschied in der Wahrnehmung unserer Marke in der Öffentlichkeit gemacht.",
+      "Du hast einen großen Unterschied in der Entwicklung nachhaltiger Lösungen gemacht.",
+      "Du hast einen großen Unterschied in der Förderung des sozialen Zusammenhalts gemacht."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Ich bin so beeindruckt von deiner Fähigkeit, ...",
+    "translation": "I'm so impressed by your ability to ...",
+    "b1": [
+      "Ich bin so beeindruckt von deiner Fähigkeit, Deutsch zu sprechen.",
+      "Ich bin so beeindruckt von deiner Fähigkeit, so gut zu kochen.",
+      "Ich bin so beeindruckt von deiner Fähigkeit, schnell zu lernen.",
+      "Ich bin so beeindruckt von deiner Fähigkeit, Gitarre zu spielen.",
+      "Ich bin so beeindruckt von deiner Fähigkeit, Menschen zu helfen."
+    ],
+    "b2": [
+      "Ich bin so beeindruckt von deiner Fähigkeit, auch in Krisen Ruhe zu bewahren.",
+      "Ich bin so beeindruckt von deiner Fähigkeit, komplexe Sachverhalte präzise zusammenzufassen.",
+      "Ich bin so beeindruckt von deiner Fähigkeit, verschiedene Interessen unter einen Hut zu bringen.",
+      "Ich bin so beeindruckt von deiner Fähigkeit, innovative Ideen in die Tat umzusetzen.",
+      "Ich bin so beeindruckt von deiner Fähigkeit, ein Team zu führen und zu inspirieren."
+    ],
+    "c1": [
+      "Ich bin so beeindruckt von deiner Fähigkeit, abstrakte Konzepte in praktikable Strategien zu überführen.",
+      "Ich bin so beeindruckt von deiner Fähigkeit, subtile Zwischentöne in Verhandlungen wahrzunehmen.",
+      "Ich bin so beeindruckt von deiner Fähigkeit, die langfristigen Konsequenzen technologischer Trends zu antizipieren.",
+      "Ich bin so beeindruckt von deiner Fähigkeit, resiliente Strukturen in einer volatilen Umgebung zu schaffen.",
+      "Ich bin so beeindruckt von deiner Fähigkeit, einen interdisziplinären Dialog auf so hohem Niveau zu moderieren."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Danke, dass du dir die Zeit genommen hast, um ...",
+    "translation": "Thank you for taking the time to ...",
+    "b1": [
+      "Danke, dass du dir die Zeit genommen hast, um mit mir zu reden.",
+      "Danke, dass du dir die Zeit genommen hast, um mir zu helfen.",
+      "Danke, dass du dir die Zeit genommen hast, um vorbeizukommen.",
+      "Danke, dass du dir die Zeit genommen hast, um mir die Stadt zu zeigen.",
+      "Danke, dass du dir die Zeit genommen hast, um meine Fragen zu beantworten."
+    ],
+    "b2": [
+      "Danke, dass du dir die Zeit genommen hast, um mir ein ausführliches Feedback zu geben.",
+      "Danke, dass du dir die Zeit genommen hast, um mich in das neue Projekt einzuführen.",
+      "Danke, dass du dir die Zeit genommen hast, um an unserem Meeting teilzunehmen.",
+      "Danke, dass du dir die Zeit genommen hast, um die Unterlagen gründlich zu prüfen.",
+      "Danke, dass du dir die Zeit genommen hast, um die Details mit mir zu besprechen."
+    ],
+    "c1": [
+      "Danke, dass du dir die Zeit genommen hast, um mich bei meiner beruflichen Neuorientierung zu beraten.",
+      "Danke, dass du dir die Zeit genommen hast, um ein Vorwort für mein Buch zu schreiben.",
+      "Danke, dass du dir die Zeit genommen hast, um die komplexen Zusammenhänge so detailliert zu erläutern.",
+      "Danke, dass du dir die Zeit genommen hast, um an der Podiumsdiskussion teilzunehmen.",
+      "Danke, dass du dir die Zeit genommen hast, um die langfristigen Auswirkungen unserer Strategie zu evaluieren."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Wir sind froh, jemanden zu haben, der ...",
+    "translation": "We are fortunate to have someone who can ...",
+    "b1": [
+      "Wir sind froh, jemanden zu haben, der uns hilft.",
+      "Wir sind froh, jemanden zu haben, der so gut kocht.",
+      "Wir sind froh, jemanden zu haben, der Deutsch spricht.",
+      "Wir sind froh, jemanden zu haben, der immer lacht.",
+      "Wir sind froh, jemanden zu haben, der so nett ist."
+    ],
+    "b2": [
+      "Wir sind froh, jemanden zu haben, der so viel Erfahrung in diesem Bereich mitbringt.",
+      "Wir sind froh, jemanden zu haben, der auch in stressigen Zeiten den Überblick behält.",
+      "Wir sind froh, jemanden zu haben, der sich so engagiert für das Team einsetzt.",
+      "Wir sind froh, jemanden zu haben, der so kreativ an Problemlösungen herangeht.",
+      "Wir sind froh, jemanden zu haben, der so zuverlässig und verantwortungsbewusst arbeitet."
+    ],
+    "c1": [
+      "Wir sind froh, jemanden zu haben, der über eine so tiefgreifende analytische Expertise verfügt.",
+      "Wir sind froh, jemanden zu haben, der die ethischen Standards unserer Organisation so konsequent vertritt.",
+      "Wir sind froh, jemanden zu haben, der in der Lage ist, visionäre Ziele in operative Erfolge zu verwandeln.",
+      "Wir sind froh, jemanden zu haben, der den interkulturellen Dialog in unserem Unternehmen so bereichert.",
+      "Wir sind froh, jemanden zu haben, der über ein so exzellentes Gespür für zukünftige Markttrends verfügt."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Deine Bereitschaft, ... sticht wirklich hervor.",
+    "translation": "Your willingness to ... really stands out.",
+    "b1": [
+      "Deine Bereitschaft, zu helfen, sticht wirklich hervor.",
+      "Deine Bereitschaft, zu lernen, sticht wirklich hervor.",
+      "Deine Bereitschaft, zuzuhören, sticht wirklich hervor.",
+      "Deine Bereitschaft, zu teilen, sticht wirklich hervor.",
+      "Deine Bereitschaft, mitzumachen, sticht wirklich hervor."
+    ],
+    "b2": [
+      "Deine Bereitschaft, Überstunden zu leisten, sticht wirklich hervor.",
+      "Deine Bereitschaft, Verantwortung zu übernehmen, sticht wirklich hervor.",
+      "Deine Bereitschaft, neue Wege zu gehen, sticht wirklich hervor.",
+      "Deine Bereitschaft, Kritik anzunehmen, sticht wirklich hervor.",
+      "Deine Bereitschaft, das Team zu unterstützen, sticht wirklich hervor."
+    ],
+    "c1": [
+      "Deine Bereitschaft, konventionelle Denkmuster infrage zu stellen, sticht wirklich hervor.",
+      "Deine Bereitschaft, sich für die Belange der Gemeinschaft einzusetzen, sticht wirklich hervor.",
+      "Deine Bereitschaft, lebenslanges Lernen als persönlichen Wert zu verinnerlichen, sticht wirklich hervor.",
+      "Deine Bereitschaft, auch unter widrigen Umständen für deine Prinzipien einzustehen, sticht wirklich hervor.",
+      "Deine Bereitschaft, Ressourcen für soziale Innovationen zur Verfügung zu stellen, sticht wirklich hervor."
+    ]
+  }
+]

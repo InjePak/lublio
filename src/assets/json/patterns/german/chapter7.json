@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Wenn wir ..., dann werden wir ...",
+    "translation": "If we ..., then we will ...",
+    "b1": [
+      "Wenn wir fleißig lernen, dann werden wir die Prüfung bestehen.",
+      "Wenn wir heute sparen, dann werden wir im Urlaub mehr Geld haben.",
+      "Wenn wir gesund essen, dann werden wir uns besser fühlen.",
+      "Wenn wir das Auto nehmen, dann werden wir schneller ankommen.",
+      "Wenn wir früh aufstehen, dann werden wir den Zug nicht verpassen."
+    ],
+    "b2": [
+      "Wenn wir die Marketingstrategie ändern, dann werden wir neue Zielgruppen erreichen.",
+      "Wenn wir in moderne Technik investieren, dann werden wir die Effizienz steigern.",
+      "Wenn wir das Problem jetzt lösen, dann werden wir später weniger Stress haben.",
+      "Wenn wir flexiblere Arbeitszeiten anbieten, dann werden wir motiviertere Mitarbeiter haben.",
+      "Wenn wir die Kosten senken, dann werden wir den Gewinn maximieren."
+    ],
+    "c1": [
+      "Wenn wir die ökologische Transformation konsequent umsetzen, dann werden wir langfristig wettbewerbsfähig bleiben.",
+      "Wenn wir diese strukturellen Reformen ablehnen, dann werden wir die soziale Stabilität gefährden.",
+      "Wenn wir die Digitalisierung verschlafen, dann werden wir unsere Marktanteile an die Konkurrenz verlieren.",
+      "Wenn wir die ethischen Standards missachten, dann werden wir einen irreversiblen Reputationsschaden erleiden.",
+      "Wenn wir die interdisziplinäre Forschung fördern, dann werden wir bahnbrechende Innovationen hervorbringen."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Was würde passieren, wenn ...?",
+    "translation": "What would happen if ...?",
+    "b1": [
+      "Was würde passieren, wenn es morgen regnet?",
+      "Was würde passieren, wenn ich den Schlüssel verliere?",
+      "Was würde passieren, wenn wir kein Geld mehr haben?",
+      "Was würde passieren, wenn der Bus nicht kommt?",
+      "Was würde passieren, wenn du heute nicht arbeitest?"
+    ],
+    "b2": [
+      "Was würde passieren, wenn wir die Deadline nicht einhalten könnten?",
+      "Was würde passieren, wenn der Hauptinvestor plötzlich zurücktritt?",
+      "Was würde passieren, wenn unsere Webseite für einen Tag offline wäre?",
+      "Was würde passieren, wenn wir das Budget um 20 Prozent kürzen müssten?",
+      "Was würde passieren, wenn die Konkurrenz ein ähnliches Produkt auf den Markt bringt?"
+    ],
+    "c1": [
+      "Was würde passieren, wenn die Zentralbank die Leitzinsen drastisch anheben würde?",
+      "Was würde passieren, wenn die diplomatischen Beziehungen zwischen diesen Ländern abbrechen würden?",
+      "Was würde passieren, wenn die Automatisierung die Mehrheit der manuellen Arbeitsplätze ersetzen würde?",
+      "Was würde passieren, wenn das Vertrauen in die digitale Infrastruktur vollständig erodieren würde?",
+      "Was würde passieren, wenn wir die sozioökonomischen Folgen dieser Entscheidung ignorieren würden?"
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Sollte das Ergebnis ... sein, müssen wir ...",
+    "translation": "Should the outcome be ..., we must ...",
+    "b1": [
+      "Sollte das Ergebnis schlecht sein, müssen wir mehr üben.",
+      "Sollte das Ergebnis positiv sein, müssen wir feiern.",
+      "Sollte das Ergebnis falsch sein, müssen wir es korrigieren.",
+      "Sollte das Ergebnis unklar sein, müssen wir den Lehrer fragen.",
+      "Sollte das Ergebnis gut sein, müssen wir weitermachen."
+    ],
+    "b2": [
+      "Sollte das Ergebnis der Umfrage negativ sein, müssen wir unser Konzept überarbeiten.",
+      "Sollte das Ergebnis der Verhandlungen unbefriedigend sein, müssen wir neue Partner suchen.",
+      "Sollte das Ergebnis der Analyse auf Risiken hindeuten, müssen wir den Plan stoppen.",
+      "Sollte das Ergebnis unter den Erwartungen liegen, müssen wir die Ursachen finden.",
+      "Sollte das Ergebnis der Prüfung erfolgreich sein, müssen wir die nächste Phase einleiten."
+    ],
+    "c1": [
+      "Sollte das Ergebnis der Machbarkeitsstudie negativ ausfallen, müssen wir das gesamte Projekt verwerfen.",
+      "Sollte das Ergebnis der klinischen Tests Nebenwirkungen zeigen, müssen wir die Zulassung verschieben.",
+      "Sollte das Ergebnis der Wahl zu einer politischen Pattsituation führen, müssen wir mit Unruhen rechnen.",
+      "Sollte das Ergebnis unserer Revision Unregelmäßigkeiten aufdecken, müssen wir rechtliche Schritte einleiten.",
+      "Sollte das Ergebnis der Marktbeobachtung einen Trendwechsel bestätigen, müssen wir unsere Strategie sofort anpassen."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Wenn ich ... gewusst hätte, hätte ich ...",
+    "translation": "If I had known ..., I would have ...",
+    "b1": [
+      "Wenn ich das gewusst hätte, hätte ich dir geholfen.",
+      "Wenn ich die Zeit gewusst hätte, hätte ich mich beeilt.",
+      "Wenn ich den Preis gewusst hätte, hätte ich es nicht gekauft.",
+      "Wenn ich das Wetter gewusst hätte, hätte ich einen Schirm mitgenommen.",
+      "Wenn ich deine Adresse gewusst hätte, hätte ich dich besucht."
+    ],
+    "b2": [
+      "Wenn ich von den technischen Problemen gewusst hätte, hätte ich den Termin verschoben.",
+      "Wenn ich gewusst hätte, dass du Hilfe brauchst, hätte ich meine Unterstützung angeboten.",
+      "Wenn ich von der Änderung der Hausordnung gewusst hätte, hätte ich mich anders verhalten.",
+      "Wenn ich die Konsequenzen gewusst hätte, hätte ich diese Entscheidung nicht getroffen.",
+      "Wenn ich von dem Stau gewusst hätte, hätte ich eine andere Route gewählt."
+    ],
+    "c1": [
+      "Wenn ich um die prekäre finanzielle Lage des Unternehmens gewusst hätte, hätte ich den Vertrag niemals unterzeichnet.",
+      "Wenn ich von den ethischen Bedenken der Belegschaft gewusst hätte, hätte ich den Implementierungsprozess verlangsamt.",
+      "Wenn ich die langfristigen geopolitischen Auswirkungen gewusst hätte, hätte ich für eine andere Option gestimmt.",
+      "Wenn ich von der mangelnden Validität der Daten gewusst hätte, hätte ich mich nicht auf diese Studie verlassen.",
+      "Wenn ich um die Komplexität der juristischen Hürden gewusst hätte, hätte ich früher Experten konsultiert."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Angenommen, dass ..., ist es wahrscheinlich, dass ...",
+    "translation": "Assuming that ..., it is likely that ...",
+    "b1": [
+      "Angenommen, dass es morgen sonnig ist, ist es wahrscheinlich, dass wir wandern gehen.",
+      "Angenommen, dass du Zeit hast, ist es wahrscheinlich, dass wir uns treffen.",
+      "Angenommen, dass der Film gut ist, ist es wahrscheinlich, dass viele Leute kommen.",
+      "Angenommen, dass er lernt, ist es wahrscheinlich, dass er die Prüfung besteht.",
+      "Angenommen, dass wir sparen, ist es wahrscheinlich, dass wir ein Haus kaufen."
+    ],
+    "b2": [
+      "Angenommen, dass die Nachfrage steigt, ist es wahrscheinlich, dass wir die Preise erhöhen müssen.",
+      "Angenommen, dass die neue Software funktioniert, ist es wahrscheinlich, dass wir Zeit sparen.",
+      "Angenommen, dass das Meeting produktiv ist, ist es wahrscheinlich, dass wir heute fertig werden.",
+      "Angenommen, dass er den Job bekommt, ist es wahrscheinlich, dass er umziehen muss.",
+      "Angenommen, dass die Zinsen sinken, ist es wahrscheinlich, dass mehr Menschen Kredite aufnehmen."
+    ],
+    "c1": [
+      "Angenommen, dass die Inflationsrate stabil bleibt, ist es wahrscheinlich, dass die Kaufkraft der Haushalte stagniert.",
+      "Angenommen, dass diese technologische Innovation marktreif wird, ist es wahrscheinlich, dass sie die Branche revolutioniert.",
+      "Angenommen, dass die diplomatischen Bemühungen fruchten, ist es wahrscheinlich, dass ein bewaffneter Konflikt vermieden wird.",
+      "Angenommen, dass die demografische Entwicklung anhält, ist es wahrscheinlich, dass der Fachkräftemangel sich verschärft.",
+      "Angenommen, dass die Hypothese verifiziert werden kann, ist es wahrscheinlich, dass wir die Theorie umschreiben müssen."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Ich sage voraus, dass ... passieren wird.",
+    "translation": "I predict that ... will happen.",
+    "b1": [
+      "Ich sage voraus, dass es morgen regnen wird.",
+      "Ich sage voraus, dass unsere Mannschaft gewinnen wird.",
+      "Ich sage voraus, dass du die Prüfung bestehen wirst.",
+      "Ich sage voraus, dass die Party toll sein wird.",
+      "Ich sage voraus, dass er zu spät kommen wird."
+    ],
+    "b2": [
+      "Ich sage voraus, dass die Digitalisierung viele Arbeitsplätze verändern wird.",
+      "Ich sage voraus, dass die Immobilienpreise in dieser Stadt weiter steigen werden.",
+      "Ich sage voraus, dass dieses neue Produkt ein großer Erfolg sein wird.",
+      "Ich sage voraus, dass wir in Zukunft mehr im Homeoffice arbeiten werden.",
+      "Ich sage voraus, dass die Kommunikation zwischen den Abteilungen schwieriger werden wird."
+    ],
+    "c1": [
+      "Ich sage voraus, dass die künstliche Intelligenz die kognitive Arbeit grundlegend transformieren wird.",
+      "Ich sage voraus, dass die Ressourcenknappheit zu globalen politischen Spannungen führen wird.",
+      "Ich sage voraus, dass ein Paradigmenwechsel in der Energiepolitik unumgänglich sein wird.",
+      "Ich sage voraus, dass die soziale Ungleichheit ohne staatliche Intervention weiter zunehmen wird.",
+      "Ich sage voraus, dass die traditionellen Medienmodelle durch dezentrale Plattformen ersetzt werden."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Solange ... nicht passiert, werden wir nicht in der Lage sein, ...",
+    "translation": "Unless ... happens, we won't be able to ...",
+    "b1": [
+      "Solange es nicht aufhört zu regnen, werden wir nicht in der Lage sein, spazieren zu gehen.",
+      "Solange ich kein Geld habe, werde ich nicht in der Lage sein, das Auto zu kaufen.",
+      "Solange du nicht lernst, wirst du nicht in der Lage sein, Deutsch zu sprechen.",
+      "Solange der Bus nicht kommt, werden wir nicht in der Lage sein, pünktlich zu sein.",
+      "Solange wir kein Brot haben, werden wir nicht in der Lage sein, Sandwiches zu machen."
+    ],
+    "b2": [
+      "Solange die Finanzierung nicht gesichert ist, werden wir nicht in der Lage sein, das Projekt zu starten.",
+      "Solange der Chef die Freigabe nicht gibt, werden wir nicht in der Lage sein, den Vertrag zu unterschreiben.",
+      "Solange das technische Problem nicht gelöst ist, werden wir nicht in der Lage sein, die Produktion fortzusetzen.",
+      "Solange wir keine qualifizierten Mitarbeiter finden, werden wir nicht in der Lage sein, zu expandieren.",
+      "Solange die Marktsituation sich nicht stabilisiert, werden wir nicht in der Lage sein, sicher zu planen."
+    ],
+    "c1": [
+      "Solange ein globaler Konsens zum Klimaschutz nicht zustande kommt, werden wir nicht in der Lage sein, die Erderwärmung zu begrenzen.",
+      "Solange die strukturellen Defizite im Bildungssystem nicht behoben werden, werden wir nicht in der Lage sein, die Chancengleichheit zu garantieren.",
+      "Solange die Datenintegrität nicht absolut gewährleistet ist, werden wir nicht in der Lage sein, die KI-Modelle produktiv einzusetzen.",
+      "Solange die geopolitischen Konflikte nicht deeskaliert werden, werden wir nicht in der Lage sein, die globalen Lieferketten zu normalisieren.",
+      "Solange eine transparente Kommunikation seitens der Führungsebene nicht erfolgt, werden wir nicht in der Lage sein, das Vertrauen der Belegschaft zurückzugewinnen."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Im Falle von ..., sollten wir ...",
+    "translation": "In the event of ..., we should ...",
+    "b1": [
+      "Im Falle von Regen sollten wir zu Hause bleiben.",
+      "Im Falle von Hunger sollten wir etwas essen.",
+      "Im Falle von Problemen sollten wir den Lehrer fragen.",
+      "Im Falle von Verspätung sollten wir anrufen.",
+      "Im Falle von Feuer sollten wir das Haus verlassen."
+    ],
+    "b2": [
+      "Im Falle von technischen Störungen sollten wir den IT-Support sofort informieren.",
+      "Im Falle von Kundenbeschwerden sollten wir schnell und höflich reagieren.",
+      "Im Falle einer Planänderung sollten wir alle Teammitglieder rechtzeitig benachrichtigen.",
+      "Im Falle eines Budgetdefizits sollten wir die unwichtigen Ausgaben streichen.",
+      "Im Falle eines Streiks sollten wir alternative Transportmöglichkeiten suchen."
+    ],
+    "c1": [
+      "Im Falle einer feindlichen Übernahme sollten wir die Verteidigungsstrategie des Vorstands aktivieren.",
+      "Im Falle einer unvorhergesehenen Marktvolatilität sollten wir unser Portfolio diversifizieren.",
+      "Im Falle eines massiven Datenlecks sollten wir die betroffenen Kunden und die Behörden unverzüglich in Kenntnis setzen.",
+      "Im Falle eines juristischen Rechtsstreits sollten wir eine renommierte Kanzlei mit unserer Vertretung beauftragen.",
+      "Im Falle eines Scheiterns der Kooperation sollten wir bereits eine Exit-Strategie vorbereitet haben."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Es besteht eine hohe Wahrscheinlichkeit, dass ...",
+    "translation": "There's a high probability that ...",
+    "b1": [
+      "Es besteht eine hohe Wahrscheinlichkeit, dass es heute schneit.",
+      "Es besteht eine hohe Wahrscheinlichkeit, dass er gewinnt.",
+      "Es besteht eine hohe Wahrscheinlichkeit, dass wir den Bus verpassen.",
+      "Es besteht eine hohe Wahrscheinlichkeit, dass das Essen schmeckt.",
+      "Es besteht eine hohe Wahrscheinlichkeit, dass sie kommt."
+    ],
+    "b2": [
+      "Es besteht eine hohe Wahrscheinlichkeit, dass die Zinsen im nächsten Quartal angehoben werden.",
+      "Es besteht eine hohe Wahrscheinlichkeit, dass wir die Zielvorgaben in diesem Jahr erreichen.",
+      "Es besteht eine hohe Wahrscheinlichkeit, dass die neue Filiale in Berlin bald eröffnet wird.",
+      "Es besteht eine hohe Wahrscheinlichkeit, dass es zu Verzögerungen bei der Lieferung kommen wird.",
+      "Es besteht eine hohe Wahrscheinlichkeit, dass die Mitarbeiter mit der neuen Regelung einverstanden sind."
+    ],
+    "c1": [
+      "Es besteht eine hohe Wahrscheinlichkeit, dass die gegenwärtige Wirtschaftspolitik zu einer Rezession führen wird.",
+      "Es besteht eine hohe Wahrscheinlichkeit, dass die technologische Disruption etablierte Geschäftsmodelle obsolet macht.",
+      "Es besteht eine hohe Wahrscheinlichkeit, dass die demografische Alterung das Rentensystem vor enorme Herausforderungen stellt.",
+      "Es besteht eine hohe Wahrscheinlichkeit, dass die klinische Studie die Wirksamkeit des Präparats bestätigt.",
+      "Es besteht eine hohe Wahrscheinlichkeit, dass die geopolitische Neuausrichtung die Handelsbeziehungen dauerhaft verändern wird."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Wir könnten ... sehen, wenn ...",
+    "translation": "We might see ... if ...",
+    "b1": [
+      "Wir könnten Tiere sehen, wenn wir im Wald spazieren gehen.",
+      "Wir könnten Sterne sehen, wenn der Himmel klar ist.",
+      "Wir könnten den Eiffelturm sehen, wenn wir in Paris sind.",
+      "Wir könnten den Lehrer sehen, wenn wir in die Schule gehen.",
+      "Wir könnten Schnee sehen, wenn es kalt wird."
+    ],
+    "b2": [
+      "Wir könnten eine Umsatzsteigerung sehen, wenn wir das Marketing verbessern.",
+      "Wir könnten weniger Fehler sehen, wenn wir die Mitarbeiter besser schulen.",
+      "Wir könnten unzufriedene Kunden sehen, wenn die Preise zu stark steigen.",
+      "Wir könnten neue Trends sehen, wenn wir die sozialen Medien beobachten.",
+      "Wir könnten eine Lösung sehen, wenn wir alle zusammenarbeiten."
+    ],
+    "c1": [
+      "Wir könnten eine soziale Polarisierung sehen, wenn die ökonomische Schere weiter auseinandergeht.",
+      "Wir könnten einen massiven Kursverfall sehen, wenn die Quartalszahlen hinter den Erwartungen zurückbleiben.",
+      "Wir könnten eine Renaissance der analogen Medien sehen, wenn die digitale Übermüdung zunimmt.",
+      "Wir könnten radikale politische Veränderungen sehen, wenn die etablierten Parteien keine Antworten liefern.",
+      "Wir könnten einen wissenschaftlichen Durchbruch sehen, wenn die Forschungsgelder aufgestockt werden."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Dies deutet darauf hin, dass die Zukunft ... bereithält.",
+    "translation": "This suggests that the future holds ...",
+    "b1": [
+      "Dies deutet darauf hin, dass die Zukunft viel Arbeit bereithält.",
+      "Dies deutet darauf hin, dass die Zukunft viel Spaß bereithält.",
+      "Dies deutet darauf hin, dass die Zukunft neue Freunde bereithält.",
+      "Dies deutet darauf hin, dass die Zukunft Reisen bereithält.",
+      "Dies deutet darauf hin, dass die Zukunft Veränderungen bereithält."
+    ],
+    "b2": [
+      "Dies deutet darauf hin, dass die Zukunft große berufliche Herausforderungen bereithält.",
+      "Dies deutet darauf hin, dass die Zukunft spannende technologische Entwicklungen bereithält.",
+      "Dies deutet darauf hin, dass die Zukunft eine stärkere Automatisierung bereithält.",
+      "Dies deutet darauf hin, dass die Zukunft mehr Wettbewerb auf dem Markt bereithält.",
+      "Dies deutet darauf hin, dass die Zukunft neue Möglichkeiten für junge Talente bereithält."
+    ],
+    "c1": [
+      "Dies deutet darauf hin, dass die Zukunft eine tiefgreifende soziokulturelle Transformation bereithält.",
+      "Dies deutet darauf hin, dass die Zukunft komplexe ethische Dilemmata im Bereich der Genetik bereithält.",
+      "Dies deutet darauf hin, dass die Zukunft eine geopolitische Instabilität ungeahnten Ausmaßes bereithält.",
+      "Dies deutet darauf hin, dass die Zukunft eine radikale Neudefinition des Arbeitsbegriffs bereithält.",
+      "Dies deutet darauf hin, dass die Zukunft sowohl enorme Chancen als auch existenzielle Risiken bereithält."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Das Ergebnis hängt völlig davon ab, ob ... oder nicht.",
+    "translation": "The outcome depends entirely on whether or not ...",
+    "b1": [
+      "Das Ergebnis hängt völlig davon ab, ob du lernst oder nicht.",
+      "Das Ergebnis hängt völlig davon ab, ob das Wetter gut ist oder nicht.",
+      "Das Ergebnis hängt völlig davon ab, ob wir Zeit haben oder nicht.",
+      "Das Ergebnis hängt völlig davon ab, ob er kommt oder nicht.",
+      "Das Ergebnis hängt völlig davon ab, ob wir genug Geld haben oder nicht."
+    ],
+    "b2": [
+      "Das Ergebnis hängt völlig davon ab, ob der Kunde dem Vertrag zustimmt oder nicht.",
+      "Das Ergebnis hängt völlig davon ab, ob wir die Finanzierung rechtzeitig erhalten oder nicht.",
+      "Das Ergebnis hängt völlig davon ab, ob die Technik einwandfrei funktioniert oder nicht.",
+      "Das Ergebnis hängt völlig davon ab, ob wir die richtigen Fachkräfte finden oder nicht.",
+      "Das Ergebnis hängt völlig davon ab, ob die Konkurrenz schneller reagiert oder nicht."
+    ],
+    "c1": [
+      "Das Ergebnis hängt völlig davon ab, ob die empirischen Daten die Hypothese stützen oder nicht.",
+      "Das Ergebnis hängt völlig davon ab, ob die politische Führung Mut zu Reformen zeigt oder nicht.",
+      "Das Ergebnis hängt völlig davon ab, ob die Gesellschaft bereit für diesen Wandel ist oder nicht.",
+      "Das Ergebnis hängt völlig davon ab, ob die rechtlichen Rahmenbedingungen angepasst werden oder nicht.",
+      "Das Ergebnis hängt völlig davon ab, ob wir eine nachhaltige Ressourcenstrategie implementieren oder nicht."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Wenn sich der Trend fortsetzt, dann ...",
+    "translation": "If the trend continues, then ...",
+    "b1": [
+      "Wenn sich der Trend fortsetzt, dann wird es im Sommer sehr heiß.",
+      "Wenn sich der Trend fortsetzt, dann werden wir bald kein Geld haben.",
+      "Wenn sich der Trend fortsetzt, dann lernen mehr Leute Deutsch.",
+      "Wenn sich der Trend fortsetzt, dann werden die Handys immer teurer.",
+      "Wenn sich der Trend fortsetzt, dann ziehen mehr Leute in die Stadt."
+    ],
+    "b2": [
+      "Wenn sich der Trend fortsetzt, dann wird der Online-Handel die Innenstädte verändern.",
+      "Wenn sich der Trend fortsetzt, dann müssen wir unsere Produktionskapazitäten verdoppeln.",
+      "Wenn sich der Trend fortsetzt, dann wird die Nachfrage nach Elektroautos stark steigen.",
+      "Wenn sich der Trend fortsetzt, dann wird mobiles Arbeiten zum Standard in unserer Firma.",
+      "Wenn sich der Trend fortsetzt, dann werden wir unsere Verkaufsziele vorzeitig erreichen."
+    ],
+    "c1": [
+      "Wenn sich der Trend fortsetzt, dann wird die demografische Schieflage die Sozialsysteme kollabieren lassen.",
+      "Wenn sich der Trend fortsetzt, dann wird die algorithmische Entscheidungsfindung die menschliche Autonomie einschränken.",
+      "Wenn sich der Trend fortsetzt, dann wird die Urbanisierung zu unkontrollierbaren Megastädten führen.",
+      "Wenn sich der Trend fortsetzt, dann wird die Erosion der Mittelschicht die politische Stabilität gefährden.",
+      "Wenn sich der Trend fortsetzt, dann wird die globale Vernetzung zu einer vollständigen kulturellen Homogenisierung führen."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Hätten sie ... in Betracht gezogen, wäre das Ergebnis ... gewesen.",
+    "translation": "Had they considered ..., the result would have been ...",
+    "b1": [
+      "Hätten sie das Wetter in Betracht gezogen, wäre das Ergebnis besser gewesen.",
+      "Hätten sie den Preis in Betracht gezogen, wäre das Ergebnis anders gewesen.",
+      "Hätten sie die Zeit in Betracht gezogen, wäre das Ergebnis positiv gewesen.",
+      "Hätten sie die Kinder in Betracht gezogen, wäre das Ergebnis schön gewesen.",
+      "Hätten sie die Hilfe in Betracht gezogen, wäre das Ergebnis einfach gewesen."
+    ],
+    "b2": [
+      "Hätten sie die Kundenmeinungen in Betracht gezogen, wäre das Ergebnis der Kampagne erfolgreicher gewesen.",
+      "Hätten sie die technischen Risiken in Betracht gezogen, wäre das Ergebnis der Installation stabiler gewesen.",
+      "Hätten sie die Meinung der Experten in Betracht gezogen, wäre das Ergebnis der Planung fundierter gewesen.",
+      "Hätten sie die Konkurrenz in Betracht gezogen, wäre das Ergebnis der Markteinführung profitabler gewesen.",
+      "Hätten sie die Kostensteigerung in Betracht gezogen, wäre das Ergebnis der Kalkulation realistischer gewesen."
+    ],
+    "c1": [
+      "Hätten sie die langfristigen ökologischen Folgen in Betracht gezogen, wäre das Ergebnis der Umweltprüfung verheerend gewesen.",
+      "Hätten sie die soziokulturelle Komplexität der Region in Betracht gezogen, wäre das Ergebnis der Mission diplomatischer gewesen.",
+      "Hätten sie die psychologischen Auswirkungen auf die Belegschaft in Betracht gezogen, wäre das Ergebnis der Umstrukturierung weniger konfliktreich gewesen.",
+      "Hätten sie die ethischen Implikationen der Forschung in Betracht gezogen, wäre das Ergebnis der Debatte kontroverser gewesen.",
+      "Hätten sie die historische Dimension des Konflikts in Betracht gezogen, wäre das Ergebnis der Verhandlungen nachhaltiger gewesen."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Wir brauchen einen Notfallplan, falls ...",
+    "translation": "We need a backup plan in case ...",
+    "b1": [
+      "Wir brauchen einen Notfallplan, falls es regnet.",
+      "Wir brauchen einen Notfallplan, falls der Bus nicht kommt.",
+      "Wir brauchen einen Notfallplan, falls wir uns verlieren.",
+      "Wir brauchen einen Notfallplan, falls das Handy leer ist.",
+      "Wir brauchen einen Notfallplan, falls wir krank werden."
+    ],
+    "b2": [
+      "Wir brauchen einen Notfallplan, falls die Server am Wochenende ausfallen.",
+      "Wir brauchen einen Notfallplan, falls der wichtigste Lieferant nicht liefern kann.",
+      "Wir brauchen einen Notfallplan, falls die Finanzierung in letzter Minute scheitert.",
+      "Wir brauchen einen Notfallplan, falls der Strom im Lager ausfällt.",
+      "Wir brauchen einen Notfallplan, falls wichtige Mitarbeiter plötzlich kündigen."
+    ],
+    "c1": [
+      "Wir brauchen einen Notfallplan, falls die globale IT-Infrastruktur durch einen Cyberangriff gelähmt wird.",
+      "Wir brauchen einen Notfallplan, falls die nationale Währung massiv an Wert verliert.",
+      "Wir brauchen einen Notfallplan, falls die diplomatischen Kanäle vollständig blockiert werden.",
+      "Wir brauchen einen Notfallplan, falls die medizinische Versorgungskette unterbrochen wird.",
+      "Wir brauchen einen Notfallplan, falls die rechtlichen Rahmenbedingungen über Nacht verschärft werden."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Es ist denkbar, dass ...",
+    "translation": "It is conceivable that ...",
+    "b1": [
+      "Es ist denkbar, dass er heute kommt.",
+      "Es ist denkbar, dass wir morgen frei haben.",
+      "Es ist denkbar, dass das Essen gut schmeckt.",
+      "Es ist denkbar, dass der Test einfach ist.",
+      "Es ist denkbar, dass sie uns hilft."
+    ],
+    "b2": [
+      "Es ist denkbar, dass wir die Produktion ins Ausland verlagern müssen.",
+      "Es ist denkbar, dass die Nachfrage nach diesem Service sinken wird.",
+      "Es ist denkbar, dass wir in Zukunft nur noch digital kommunizieren.",
+      "Es ist denkbar, dass die Preise für Rohstoffe drastisch steigen.",
+      "Es ist denkbar, dass das Projekt erst im nächsten Jahr abgeschlossen wird."
+    ],
+    "c1": [
+      "Es ist denkbar, dass die gegenwärtige technologische Entwicklung zu einer Entfremdung führt.",
+      "Es ist denkbar, dass die traditionelle Nationalstaatlichkeit durch transnationale Organisationen abgelöst wird.",
+      "Es ist denkbar, dass die Entdeckung außerirdischen Lebens unsere gesamte Weltanschauung erschüttert.",
+      "Es ist denkbar, dass die genetische Modifikation des Menschen zur gesellschaftlichen Norm wird.",
+      "Es ist denkbar, dass die künstliche Intelligenz ein eigenes Bewusstsein entwickelt."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Ohne ..., ist es unmöglich, ... zu ...",
+    "translation": "Without ..., it is impossible to ...",
+    "b1": [
+      "Ohne Geld ist es unmöglich, ein Auto zu kaufen.",
+      "Ohne Wasser ist es unmöglich, zu überleben.",
+      "Ohne Wörterbuch ist es unmöglich, den Text zu verstehen.",
+      "Ohne Karte ist es unmöglich, den Weg zu finden.",
+      "Ohne Ticket ist es unmöglich, mit dem Zug zu fahren."
+    ],
+    "b2": [
+      "Ohne ein klares Konzept ist es unmöglich, ein erfolgreiches Unternehmen zu führen.",
+      "Ohne gegenseitiges Vertrauen ist es unmöglich, effektiv im Team zu arbeiten.",
+      "Ohne ausreichende Finanzierung ist es unmöglich, neue Projekte zu realisieren.",
+      "Ohne moderne Software ist es unmöglich, die Daten effizient zu verarbeiten.",
+      "Ohne die Zustimmung des Vorstands ist es unmöglich, die Strategie zu ändern."
+    ],
+    "c1": [
+      "Ohne eine fundierte Ausbildung ist es unmöglich, an der Spitze der technologischen Entwicklung zu stehen.",
+      "Ohne eine konsequente Dekarbonisierung ist es unmöglich, die Klimaziele zu erreichen.",
+      "Ohne die Wahrung der Menschenrechte ist es unmöglich, eine gerechte Gesellschaft zu etablieren.",
+      "Ohne die Berücksichtigung ethischer Prinzipien ist es unmöglich, verantwortungsvolle KI zu entwickeln.",
+      "Ohne den interdisziplinären Dialog ist es unmöglich, die Komplexität der Welt zu erfassen."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Die Beweise deuten darauf hin, dass ... passieren wird.",
+    "translation": "The evidence points towards ... happening.",
+    "b1": [
+      "Die Beweise deuten darauf hin, dass es regnen wird.",
+      "Die Beweise deuten darauf hin, dass er die Wahrheit sagt.",
+      "Die Beweise deuten darauf hin, dass die Prüfung schwer sein wird.",
+      "Die Beweise deuten darauf hin, dass wir gewinnen werden.",
+      "Die Beweise deuten darauf hin, dass der Zug pünktlich sein wird."
+    ],
+    "b2": [
+      "Die Beweise deuten darauf hin, dass die Wirtschaft im nächsten Jahr wachsen wird.",
+      "Die Beweise deuten darauf hin, dass unsere Kunden mit dem neuen Design zufrieden sind.",
+      "Die Beweise deuten darauf hin, dass wir mehr in Online-Werbung investieren müssen.",
+      "Die Beweise deuten darauf hin, dass die Fehlerquote im Werk gesunken ist.",
+      "Die Beweise deuten darauf hin, dass die Mitarbeiter mehr Flexibilität wünschen."
+    ],
+    "c1": [
+      "Die Beweise deuten darauf hin, dass die Erderwärmung schneller voranschreitet als bisher angenommen.",
+      "Die Beweise deuten darauf hin, dass eine systemische Krise im Finanzsektor unmittelbar bevorsteht.",
+      "Die Beweise deuten darauf hin, dass die soziale Mobilität in dieser Region stagniert.",
+      "Die Beweise deuten darauf hin, dass die kognitive Belastung durch digitale Medien zunimmt.",
+      "Die Beweise deuten darauf hin, dass die Evolution der Viren neue Pandemien verursachen wird."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Unter der Bedingung, dass ..., können wir mit ... fortfahren.",
+    "translation": "On the condition that ..., we can proceed with ...",
+    "b1": [
+      "Unter der Bedingung, dass du hilfst, können wir mit der Arbeit fortfahren.",
+      "Unter der Bedingung, dass es nicht regnet, können wir mit dem Spiel fortfahren.",
+      "Unter der Bedingung, dass wir Zeit haben, können wir mit dem Film fortfahren.",
+      "Unter der Bedingung, dass das Geld reicht, können wir mit dem Urlaub fortfahren.",
+      "Unter der Bedingung, dass du lernst, können wir mit dem Kurs fortfahren."
+    ],
+    "b2": [
+      "Unter der Bedingung, dass die Finanzierung steht, können wir mit der Planung fortfahren.",
+      "Unter der Bedingung, dass alle einverstanden sind, können wir mit dem Projekt fortfahren.",
+      "Unter der Bedingung, dass die Technik bereit ist, können wir mit der Installation fortfahren.",
+      "Unter der Bedingung, dass der Vertrag unterschrieben ist, können wir mit der Lieferung fortfahren.",
+      "Unter der Bedingung, dass die Sicherheit garantiert ist, können wir mit dem Test fortfahren."
+    ],
+    "c1": [
+      "Unter der Bedingung, dass die rechtliche Integrität gewahrt bleibt, können wir mit der Fusion fortfahren.",
+      "Unter der Bedingung, dass die Daten anonymisiert werden, können wir mit der Analyse fortfahren.",
+      "Unter der Bedingung, dass die ethischen Standards eingehalten werden, können wir mit dem Experiment fortfahren.",
+      "Unter der Bedingung, dass ein politischer Konsens herrscht, können wir mit der Reform fortfahren.",
+      "Unter der Bedingung, dass die ökologischen Auflagen erfüllt sind, können wir mit dem Bau fortfahren."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Die langfristige Auswirkung ist ...",
+    "translation": "The long-term implication is ...",
+    "b1": [
+      "Die langfristige Auswirkung ist eine gute Gesundheit.",
+      "Die langfristige Auswirkung ist, dass wir mehr Geld haben.",
+      "Die langfristige Auswirkung ist, dass wir Deutsch sprechen können.",
+      "Die langfristige Auswirkung ist ein schönes Haus.",
+      "Die langfristige Auswirkung ist eine glückliche Familie."
+    ],
+    "b2": [
+      "Die langfristige Auswirkung ist eine stärkere Bindung der Kunden an unsere Marke.",
+      "Die langfristige Auswirkung ist eine deutliche Reduzierung der Betriebskosten.",
+      "Die langfristige Auswirkung ist die Verbesserung des Firmenimages in der Öffentlichkeit.",
+      "Die langfristige Auswirkung ist eine höhere Qualifikation der gesamten Belegschaft.",
+      "Die langfristige Auswirkung ist die Stabilisierung der Verkaufszahlen auf hohem Niveau."
+    ],
+    "c1": [
+      "Die langfristige Auswirkung ist eine fundamentale Veränderung der globalen Machtverhältnisse.",
+      "Die langfristige Auswirkung ist die irreversible Zerstörung sensibler Ökosysteme.",
+      "Die langfristige Auswirkung ist die Transformation des gesellschaftlichen Wertekanons.",
+      "Die langfristige Auswirkung ist die Entkopplung von Wirtschaftswachstum und Ressourcenverbrauch.",
+      "Die langfristige Auswirkung ist eine signifikante Erhöhung der durchschnittlichen Lebenserwartung."
+    ]
+  }
+]

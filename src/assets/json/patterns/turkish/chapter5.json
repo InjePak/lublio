@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "... konusunda kendimi son derece ... hissediyorum",
+    "translation": "I feel overwhelmingly ... about ...",
+    "b1": [
+      "Yeni işim konusunda kendimi son derece mutlu hissediyorum.",
+      "Bu yolculuk konusunda kendimi son derece yorgun hissediyorum.",
+      "Bu haber konusunda kendimi son derece üzgün hissediyorum.",
+      "Senin hediyen konusunda kendimi son derece şaşırmış hissediyorum.",
+      "Bu proje konusunda kendimi son derece heyecanlı hissediyorum."
+    ],
+    "b2": [
+      "Geçmişteki hatam konusunda kendimi son derece suçlu hissediyorum.",
+      "Gelecekteki iş birliğimiz konusunda kendimi son derece enerjik hissediyorum.",
+      "İletişim eksikliği konusunda kendimi son derece kırgın hissediyorum.",
+      "Çocuklarımın başarısı konusunda kendimi son derece gururlu hissediyorum.",
+      "Yarınki sınav konusunda kendimi son derece endişeli hissediyorum."
+    ],
+    "c1": [
+      "Mevcut toplumumuzun gelişimi konusunda kendimi son derece ikircikli hissediyorum.",
+      "Bu karmaşık müzakerenin sonucu konusunda kendimi son derece hüsrana uğramış hissediyorum.",
+      "Şirketten ayrılma kararım konusunda kendimi son derece huzurlu hissediyorum.",
+      "Bu adaletsizliğe kayıtsız kalınması konusunda kendimi son derece öfkeli hissediyorum.",
+      "Bana duyduğunuz güven konusunda kendimi son derece onurlandırılmış hissediyorum."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "... zaman, bu kalbime derinden dokundu",
+    "translation": "It truly touched my heart when ...",
+    "b1": [
+      "Sen gülümsediğin zaman, bu kalbime derinden dokundu.",
+      "O bana teşekkür ettiği zaman, bu kalbime derinden dokundu.",
+      "Ben bu filmi izlediğim zaman, bu kalbime derinden dokundu.",
+      "Dostlarım bana geldiği zaman, bu kalbime derinden dokundu.",
+      "O bana şarkı söylediği zaman, bu kalbime derinden dokundu."
+    ],
+    "b2": [
+      "Kriz anında komşular yardım ettiği zaman, bu kalbime derinden dokundu.",
+      "Sizin teşekkür mektubunuzu okuduğum zaman, bu kalbime derinden dokundu.",
+      "Çocuk kendi yemeğini bir yoksulla paylaştığı zaman, bu kalbime derinden dokundu.",
+      "Meslektaşlarım bu sürpriz partiyi organize ettiği zaman, bu kalbime derinden dokundu.",
+      "Yıllar sonra çocukluğumun geçtiği evi gördüğüm zaman, bu kalbime derinden dokundu."
+    ],
+    "c1": [
+      "Onun sessizliğinin ardındaki samimiyeti kavradığım zaman, bu kalbime derinden dokundu.",
+      "Dayanışma kendiliğinden bir şekilde tezahür ettiği zaman, bu kalbime derinden dokundu.",
+      "Sanatçı insan hayatının kırılganlığına değindiği zaman, bu kalbime derinden dokundu.",
+      "Onun kişisel fedakarlığının boyutunu anladığım zaman, bu kalbime derinden dokundu.",
+      "Bu şiir kendi ruh yaralarımla yankılandığı zaman, bu kalbime derinden dokundu."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "... konusunda derin endişe duyuyorum",
+    "translation": "I'm deeply concerned about ...",
+    "b1": [
+      "Babamın sağlığı konusunda derin endişe duyuyorum.",
+      "Okuldaki notlarım konusunda derin endişe duyuyorum.",
+      "Yemek fiyatları konusunda derin endişe duyuyorum.",
+      "Düğün günündeki hava durumu konusunda derin endişe duyuyorum.",
+      "Bu sorun konusunda derin endişe duyuyorum."
+    ],
+    "b2": [
+      "Bu ülkedeki gençlerin geleceği konusunda derin endişe duyuyorum.",
+      "Plastik kirliliğinin sonuçları konusunda derin endişe duyuyorum.",
+      "Bölgenin siyasi istikrarsızlığı konusunda derin endişe duyuyorum.",
+      "Mahalledeki güvenliğin azalması konusunda derin endişe duyuyorum.",
+      "İnsanlar arasındaki hoşgörüsüzlük konusunda derin endişe duyuyorum."
+    ],
+    "c1": [
+      "Küresel biyoçeşitliliğin durmaksızın kötüleşmesi konusunda derin endişe duyuyorum.",
+      "Algoritmaların irademiz üzerindeki artan etkisi konusunda derin endişe duyuyorum.",
+      "Demokratik kazanımların sistematik olarak sorgulanması konusunda derin endişe duyuyorum.",
+      "Büyük metropollerdeki sosyal bağların aşınması konusunda derin endişe duyuyorum.",
+      "Kamusal tartışmaları zehirleyen sinizm konusunda derin endişe duyuyorum."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Omuzlarımdan büyük bir yük kalkmış gibi hissettim, çünkü ...",
+    "translation": "There's a huge weight lifted off my shoulders because ...",
+    "b1": [
+      "Omuzlarımdan büyük bir yük kalkmış gibi hissettim, çünkü ev ödevimi bitirdim.",
+      "Omuzlarımdan büyük bir yük kalkmış gibi hissettim, çünkü arkadaşım beni affetti.",
+      "Omuzlarımdan büyük bir yük kalkmış gibi hissettim, çünkü kedimi buldum.",
+      "Omuzlarımdan büyük bir yük kalkmış gibi hissettim, çünkü tatil başladı.",
+      "Omuzlarımdan büyük bir yük kalkmış gibi hissettim, çünkü kiramı ödedim."
+    ],
+    "b2": [
+      "Omuzlarımdan büyük bir yük kalkmış gibi hissettim, çünkü doktor her şeyin iyi olduğunu söyledi.",
+      "Omuzlarımdan büyük bir yük kalkmış gibi hissettim, çünkü nihayet bu sözleşmeyi imzaladık.",
+      "Omuzlarımdan büyük bir yük kalkmış gibi hissettim, çünkü aileme gerçeği söyledim.",
+      "Omuzlarımdan büyük bir yük kalkmış gibi hissettim, çünkü sunum iyi geçti.",
+      "Omuzlarımdan büyük bir yük kalkmış gibi hissettim, çünkü sorunun çözümünü buldum."
+    ],
+    "c1": [
+      "Omuzlarımdan büyük bir yük kalkmış gibi hissettim, çünkü artık bu ağır sırrı taşımıyorum.",
+      "Omuzlarımdan büyük bir yük kalkmış gibi hissettim, çünkü mahkeme masumiyetimi kabul etti.",
+      "Omuzlarımdan büyük bir yük kalkmış gibi hissettim, çünkü bu karmaşık birleşme nihayet tamamlandı.",
+      "Omuzlarımdan büyük bir yük kalkmış gibi hissettim, çünkü bu muazzam sorumluluğu başkasına devredebildim.",
+      "Omuzlarımdan büyük bir yük kalkmış gibi hissettim, çünkü arabuluculuk adil bir uzlaşma sağladı."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "... ne kadar takdir ettiğimi gizleyemem",
+    "translation": "I can't hide how much I appreciate ...",
+    "b1": [
+      "Senin yardımını ne kadar takdir ettiğimi gizleyemem.",
+      "Bu yemeği ne kadar takdir ettiğimi gizleyemem.",
+      "Senin nezaketini ne kadar takdir ettiğimi gizleyemem.",
+      "Bu harika havayı ne kadar takdir ettiğimi gizleyemem.",
+      "Sizin ziyaretinizi ne kadar takdir ettiğimi gizleyemem."
+    ],
+    "b2": [
+      "Bu işe olan bağlılığınızı ne kadar takdir ettiğimi gizleyemem.",
+      "Şirketimin esnekliğini ne kadar takdir ettiğimi gizleyemem.",
+      "Verdiğiniz değerli tavsiyeleri ne kadar takdir ettiğimi gizleyemem.",
+      "Çocukluk arkadaşlarımın sadakatini ne kadar takdir ettiğimi gizleyemem.",
+      "Yurt dışına seyahat etme fırsatını ne kadar takdir ettiğimi gizleyemem."
+    ],
+    "c1": [
+      "Muhakemenizin entelektüel zarafetini ne kadar takdir ettiğimi gizleyemem.",
+      "Her gün gösterdiğiniz direnci ne kadar takdir ettiğimi gizleyemem.",
+      "Bu sanat eserinin inceliğini ne kadar takdir ettiğimi gizleyemem.",
+      "Bu oportünist dünyadaki dürüstlüğünüzü ne kadar takdir ettiğimi gizleyemem.",
+      "Bu akşamki sohbetimizin derinliğini ne kadar takdir ettiğimi gizleyemem."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "... yüzünden derin bir üzüntü duyuyorum",
+    "translation": "I feel a profound sense of sadness over ...",
+    "b1": [
+      "Köpeğimin ölümü yüzünden derin bir üzüntü duyuyorum.",
+      "Senin gidişin yüzünden derin bir üzüntü duyuyorum.",
+      "Bu kötü not yüzünden derin bir üzüntü duyuyorum.",
+      "Filmin bitişi yüzünden derin bir üzüntü duyuyorum.",
+      "Yalnızlık yüzünden derin bir üzüntü duyuyorum."
+    ],
+    "b2": [
+      "Bu eski sinemanın kapanması yüzünden derin bir üzüntü duyuyorum.",
+      "İnternette gördüğüm nefret yüzünden derin bir üzüntü duyuyorum.",
+      "Sokaktaki insanların kayıtsızlığı yüzünden derin bir üzüntü duyuyorum.",
+      "Bu tarihi eserin yıkılması yüzünden derin bir üzüntü duyuyorum.",
+      "İki yakın arkadaşımın arasının açılması yüzünden derin bir üzüntü duyuyorum."
+    ],
+    "c1": [
+      "En güzel anılarımızın kaybolması yüzünden derin bir üzüntü duyuyorum.",
+      "Bazı modern tartışmaların boşluğu yüzünden derin bir üzüntü duyuyorum.",
+      "Hayvanların acı çekmesine insanların duyarsız kalması yüzünden derin bir üzüntü duyuyorum.",
+      "Bu kültürel mirasın telafi edilemez kaybı yüzünden derin bir üzüntü duyuyorum.",
+      "Şiddet karşısında aklın çaresizliği yüzünden derin bir üzüntü duyuyorum."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "... kelimelerle tarif etmek imkansız",
+    "translation": "Words can’t describe how much ...",
+    "b1": [
+      "Ne kadar mutlu olduğumu kelimelerle tarif etmek imkansız.",
+      "Bunun ne kadar güzel olduğunu kelimelerle tarif etmek imkansız.",
+      "Seni ne kadar çok sevdiğimı kelimelerle tarif etmek imkansız.",
+      "Ne kadar yorulduğumu kelimelerle tarif etmek imkansız.",
+      "Bunun ne kadar lezzetli olduğunu kelimelerle tarif etmek imkansız."
+    ],
+    "b2": [
+      "Sizin desteğinizin benim için ne kadar önemli olduğunu kelimelerle tarif etmek imkansız.",
+      "Bu deneyimin beni ne kadar değiştirdiğini kelimelerle tarif etmek imkansız.",
+      "Olan durum için ne kadar pişman olduğumu kelimelerle tarif etmek imkansız.",
+      "Senin kariyer yolunla ne kadar gurur duyduğumu kelimelerle tarif etmek imkansız.",
+      "Bu manzaranın beni ne kadar duygulandırdığını kelimelerle tarif etmek imkansız."
+    ],
+    "c1": [
+      "Bu durumun dehşetinin beni ne kadar sarstığını kelimelerle tarif etmek imkansız.",
+      "İnsan yaratıcılığının ne kadar büyüleyici olabileceğini kelimelerle tarif etmek imkansız.",
+      "Yalnızlığın aynı anda hem ne kadar acımasız hem de kurtarıcı olabileceğini kelimelerle tarif etmek imkansız.",
+      "Bazılarının kibrinin ne kadar dayanılmaz olduğunu kelimelerle tarif etmek imkansız.",
+      "Geri gelen huzurun ne kadar büyük bir hazine olduğunu kelimelerle tarif etmek imkansız."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "... düşüncesiyle mücadele edip duruyorum",
+    "translation": "I have been struggling with the thought of ...",
+    "b1": [
+      "Taşınmak düşüncesiyle mücadele edip duruyorum.",
+      "Okul değiştirmek düşüncesiyle mücadele edip duruyorum.",
+      "Yalnız gitmek düşüncesiyle mücadele edip duruyorum.",
+      "Pazar günü çalışmak düşüncesiyle mücadele edip duruyorum.",
+      "Böcek yemek düşüncesiyle mücadele edip duruyorum."
+    ],
+    "b2": [
+      "Her şeye sıfırdan başlamak gerektiği düşüncesiyle mücadele edip duruyorum.",
+      "Çocuklarımı yabancı insanlara emanet etmek düşüncesiyle mücadele edip duruyorum.",
+      "Arkadaşımın bana aylarca yalan söylediği düşüncesiyle mücadele edip duruyorum.",
+      "Dedem ve ninemin evini satmak düşüncesiyle mücadele edip duruyorum.",
+      "Emekliliğe bu kadar erken çıkmak düşüncesiyle mücadele edip duruyorum."
+    ],
+    "c1": [
+      "Yeryüzündeki varlığımızın sınırlılığı düşüncesiyle mücadele edip duruyorum.",
+      "Ahlaki değerlerimizin göreceliği düşüncesiyle mücadele edip duruyorum.",
+      "Sahte bir güvenlik için özgürlüğümü feda etmek düşüncesiyle mücadele edip duruyorum.",
+      "Teknolojik ilerlemenin insanlıktan çıkarabileceği düşüncesiyle mücadele edip duruyorum.",
+      "Uygarlıkların çöküşünün kaçınılmazlığı düşüncesiyle mücadele edip duruyorum."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "En büyük korkum — ...",
+    "translation": "My greatest fear is that ...",
+    "b1": [
+      "En büyük korkum — köpeğimin hastalanması.",
+      "En büyük korkum — akşam yalnız kalmam.",
+      "En büyük korkum — tatilimde yağmur yağması.",
+      "En büyük korkum — telefonumu kaybetmem.",
+      "En büyük korkum — senin beni artık sevmemen."
+    ],
+    "b2": [
+      "En büyük korkum — gezegenimizi kurtaramayacak olmamız.",
+      "En büyük korkum — yapay zekanın tüm mesleklerimizin yerini alması.",
+      "En büyük korkum — çocuklarımın hayatta mutlu olamaması.",
+      "En büyük korkum — işimde hiçbir anlam bulamamam.",
+      "En büyük korkum — Avrupa'da savaşın yeniden başlaması."
+    ],
+    "c1": [
+      "En büyük korkum — kitlesel kayıtsızlığın tüm empatiyi yok etmesi.",
+      "En büyük korkum — hakikatin tamamen modası geçmiş bir kavram haline gelmesi.",
+      "En büyük korkum — doğaya hayran olma yeteneğimizi kaybetmemiz.",
+      "En büyük korkum — insanlığın geçmişteki hatalarından hiçbir ders almaması.",
+      "En büyük korkum — kültürel tek tipleşmenin tüm yaratıcı özgünlüğü silmesi."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Bu durum beni biraz ... bir halde bıraktı",
+    "translation": "This situation has left me feeling quite ...",
+    "b1": [
+      "Bu durum beni biraz üzgün bir halde bıraktı.",
+      "Bu durum beni biraz yorgun bir halde bıraktı.",
+      "Bu durum beni biraz şaşırmış bir halde bıraktı.",
+      "Bu durum beni biraz mutlu bir halde bıraktı.",
+      "Bu durum beni biraz şaşkın bir halde bıraktı."
+    ],
+    "b2": [
+      "Bu durum onun gerçek niyeti konusunda beni biraz şaşkın bir halde bıraktı.",
+      "Bu durum beni biraz kırgın bir halde bıraktı çünkü kendi fikrimi söyleyemedim.",
+      "Bu durum beni kendi ekibimin eylemleri nedeniyle biraz hüsrana uğramış bir halde bıraktı.",
+      "Bu durum beni şirketin geleceği konusunda biraz iyimser bir halde bıraktı.",
+      "Bu durum tüm çabalarımdan sonra beni biraz pişman bir halde bıraktı."
+    ],
+    "c1": [
+      "Bu durum böylesi kötü niyet karşısında beni biraz çaresiz bir halde bıraktı.",
+      "Bu durum bu stratejinin uygulanabilirliği konusunda beni biraz şüpheli bir halde bıraktı.",
+      "Bu durum beklenen felaketin boyutu karşısında beni biraz dilsiz bıraktı.",
+      "Bu durum ittifaklarımızın kırılganlığı hakkında beni biraz düşündürdü.",
+      "Bu durum kurumların değişme kapasitesi konusunda beni biraz kuşkucu bir halde bıraktı."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "... görmek kalbimi acıtıyor",
+    "translation": "It breaks my heart to see ...",
+    "b1": [
+      "Sokaktaki yoksul insanları görmek kalbimi acıtıyor.",
+      "Bu çocuğun ağladığını görmek kalbimi acıtıyor.",
+      "Hayvanların acı çektiğini görmek kalbimi acıtıyor.",
+      "Annemin hasta yattığını görmek kalbimi acıtıyor.",
+      "Ormanın yandığını görmek kalbimi acıtıyor."
+    ],
+    "b2": [
+      "Her gün bu kadar çok yemeğin israf edildiğini görmek kalbimi acıtıyor.",
+      "Savaştan dolayı ailelerin darmadağın olduğunu görmek kalbimi acıtıyor.",
+      "Metroda insanların birbiriyle konuşmadığını görmek kalbimi acıtıyor.",
+      "Toplumumuzda yaşlıların bakımsız kaldığını görmek kalbimi acıtıyor.",
+      "Arkadaşımın kendi yeteneğini heba ettiğini görmek kalbimi acıtıyor."
+    ],
+    "c1": [
+      "Bizi bir zamanlar birleştiren ideallerin dağıldığını görmek kalbimi acıtıyor.",
+      "Bin yıllık ekosistemlerin sistematik olarak yok edildiğini görmek kalbimi acıtıyor.",
+      "Siyasi amaçlar uğruna sefaletin bir araç olarak kullanıldığını görmek kalbimi acıtıyor.",
+      "Vasatlığın mükemmelliğe üstün geldiğini görmek kalbimi acıtıyor.",
+      "Yeni nesillerin psikolojik çöküşünü görmek kalbimi acıtıyor."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "... gösterdiğiniz çabaya yürekten hayranım",
+    "translation": "I genuinely admire your strength in ...",
+    "b1": [
+      "Bu durumda gösterdiğiniz çabaya yürekten hayranım.",
+      "İşinizde gösterdiğiniz çabaya yürekten hayranım.",
+      "Sporda gösterdiğiniz çabaya yürekten hayranım.",
+      "Zor anlarda gösterdiğiniz çabaya yürekten hayranım.",
+      "Hastalıkla mücadelede gösterdiğiniz çabaya yürekten hayranım."
+    ],
+    "b2": [
+      "Bu ailevi kavgayı çözmede gösterdiğiniz çabaya yürekten hayranım.",
+      "Kadın hakları mücadelesinde gösterdiğiniz çabaya yürekten hayranım.",
+      "Şu an yaşamakta olduğunuz sınavda gösterdiğiniz çabaya yürekten hayranım.",
+      "Kıranları affedebilme yeteneğinizdeki çabaya yürekten hayranım.",
+      "Elli yaşında kariyer yönünüzü değiştirmedeki çabanıza yürekten hayranım."
+    ],
+    "c1": [
+      "Gerçeği aramaktaki sarsılmaz çabanıza yürekten hayranım.",
+      "En karanlık zorluklara direnç gösterdiğiniz çabanıza yürekten hayranım.",
+      "Ahlaki tavizler vermeyi kesin bir dille reddettiğiniz çabanıza yürekten hayranım.",
+      "Hayatın değişkenliğine karşı gösterdiğiniz sabırlı çabanıza yürekten hayranım.",
+      "Kendi itibarınızı korumaya yönelik inatçı iradenize yürekten hayranım."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "... ardındaki derin anlam — ...",
+    "translation": "The deep meaning behind ... is ...",
+    "b1": [
+      "Bu hediyenin ardındaki derin anlam — dostluktur.",
+      "Onun sözlerinin ardındaki derin anlam — aşktır.",
+      "Bu hareketin ardındaki derin anlam — barıştır.",
+      "Bu şarkının ardındaki derin anlam — hüzündür.",
+      "Onun bakışının ardındaki derin anlam — korkudur."
+    ],
+    "b2": [
+      "Bu geleneksel bayramın ardındaki derin anlam — atalara saygı duymaktır.",
+      "Onun sessizliğinin ardındaki derin anlam — aslında büyük bir utangaçlıktır.",
+      "Bu projenin ardındaki derin anlam — dünyayı daha yeşil kılmaktır.",
+      "Onun öfkesinin ardındaki derin anlam — bastırılmış adaletsizlik hissidir.",
+      "Bu filmin ardındaki derin anlam — kendini aramaktır."
+    ],
+    "c1": [
+      "Bu alegorinin ardındaki derin anlam — sınırsız gücü keskin bir şekilde eleştirmektir.",
+      "Bu ritüelin ardındaki derin anlam — insanın kutsal olanla barışmasıdır.",
+      "Bu paradigmatik değişimin ardındaki derin anlam — türümüzün hayatta kalmasıdır.",
+      "Onun sanatının ardındaki derin anlam — insan ruhunun derinliklerini keşfetmektir.",
+      "Bu krizin ardındaki derin anlam — metafiziksel bir mutasyon ihtiyacıdır."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "... nedeniyle tamamen yıkılmış durumdayım",
+    "translation": "I’m absolutely devastated by ...",
+    "b1": [
+      "Bu haber nedeniyle tamamen yıkılmış durumdayım.",
+      "Notum nedeniyle tamamen yıkılmış durumdayım.",
+      "Kendi hatam nedeniyle tamamen yıkılmış durumdayım.",
+      "Senin gidişin nedeniyle tamamen yıkılmış durumdayım.",
+      "Yağmur nedeniyle tamamen yıkılmış durumdayım."
+    ],
+    "b2": [
+      "Mahallemdeki eski kütüphanenin yanması nedeniyle tamamen yıkılmış durumdayım.",
+      "Yıllarca süren hizmetten sonra takdir görmemek nedeniyle tamamen yıkılmış durumdayım.",
+      "En yakın arkadaşımın ihaneti nedeniyle tamamen yıkılmış durumdayım.",
+      "Bu çeyreğin korkunç sonuçları nedeniyle tamamen yıkılmış durumdayım.",
+      "Televizyonda gördüğüm açlık görüntüleri nedeniyle tamamen yıkılmış durumdayım."
+    ],
+    "c1": [
+      "Bu vizyoner dâhinin erken yaşta vefat etmesi nedeniyle tamamen yıkılmış durumdayım.",
+      "Kurumlarımızı saran endemik yolsuzluk nedeniyle tamamen yıkılmış durumdayım.",
+      "Yakın gelecekteki iklimsel felaketler karşısındaki gerçeği inkar nedeniyle tamamen yıkılmış durumdayım.",
+      "Bu ayrımcı sözlerin had safhadaki acımasızlığı nedeniyle tamamen yıkılmış durumdayım.",
+      "Çağımıza özgü anlam kaybı nedeniyle tamamen yıkılmış durumdayım."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "... zaman, içimi kaplayan neşeyi kelimelerle ifade etmek zor",
+    "translation": "It’s hard to articulate the joy I feel when ...",
+    "b1": [
+      "Seni gördüğüm zaman, içimi kaplayan neşeyi kelimelerle ifade etmek zor.",
+      "Çikolata yediğim zaman, içimi kaplayan neşeyi kelimelerle ifade etmek zor.",
+      "Seyahat ettiğim zaman, içimi kaplayan neşeyi kelimelerle ifade etmek zor.",
+      "Hafta sonu olduğu zaman, içimi kaplayan neşeyi kelimelerle ifade etmek zor.",
+      "Şarkı söylediğim zaman, içimi kaplayan neşeyi kelimelerle ifade etmek zor."
+    ],
+    "b2": [
+      "Öğrencilerimin sınavı geçtiğini gördüğüm zaman, içimi kaplayan neşeyi kelimelerle ifade etmek zor.",
+      "Uzun bir günden sonra eve döndüğüm zaman, içimi kaplayan neşeyi kelimelerle ifade etmek zor.",
+      "Benim için önemli bir projeyi gerçekleştirdiğim zaman, içimi kaplayan neşeyi kelimelerle ifade etmek zor.",
+      "Ormanda yalnız yürüdüğüm zaman, içimi kaplayan neşeyi kelimelerle ifade etmek zor.",
+      "Bebeğimin ilk kez güldüğünü duyduğum zaman, içimi kaplayan neşeyi kelimelerle ifade etmek zor."
+    ],
+    "c1": [
+      "Yaratıcı bir iş birliğinden kusursuz bir uyum doğduğu zaman, içimi kaplayan neşeyi kelimelerle ifade etmek zor.",
+      "Bu entelektüel bütünlük durumuna ulaştığım zaman, içimi kaplayan neşeyi kelimelerle ifade etmek zor.",
+      "Beklenmedik bir yerde saf güzellik tezahür ettiği zaman, içimi kaplayan neşeyi kelimelerle ifade etmek zor.",
+      "Kendi kendime aşılamaz dediğim bir engel ortadan kalktığı zaman, içimi kaplayan neşeyi kelimelerle ifade etmek zor.",
+      "Derin inançlarım kolektif bir destek bulduğu zaman, içimi kaplayan neşeyi kelimelerle ifade etmek zor."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Bu deneyim bana ... hakkında yeni bir bakış açısı kazandırdı",
+    "translation": "This experience has given me a new perspective on ...",
+    "b1": [
+      "Bu deneyim bana hayat hakkında yeni bir bakış açısı kazandırdı.",
+      "Bu deneyim bana Fransız yemekleri hakkında yeni bir bakış açısı kazandırdı.",
+      "Bu deneyim bana iş hakkında yeni bir bakış açısı kazandırdı.",
+      "Bu deneyim bana dostluk hakkında yeni bir bakış açısı kazandırdı.",
+      "Bu deneyim bana seyahat hakkında yeni bir bakış açısı kazandırdı."
+    ],
+    "b2": [
+      "Bu deneyim bana göçmenlerin zorlukları hakkında yeni bir bakış açısı kazandırdı.",
+      "Bu deneyim bana ofisteki ruh sağlığının önemi hakkında yeni bir bakış açısı kazandırdı.",
+      "Bu deneyim bana boş zamanımı yönetmek hakkında yeni bir bakış açısı kazandırdı.",
+      "Bu deneyim bana çocuklarımı yetiştirmek hakkında yeni bir bakış açısı kazandırdı.",
+      "Bu deneyim bana meditasyonun faydaları hakkında yeni bir bakış açısı kazandırdı."
+    ],
+    "c1": [
+      "Bu deneyim bana sosyal etkinin karmaşık mekanizmaları hakkında yeni bir bakış açısı kazandırdı.",
+      "Bu deneyim bana düşünme yapılarımızın sınırlılığı ve kırılganlığı hakkında yeni bir bakış açısı kazandırdı.",
+      "Bu deneyim bana her teknolojik ilerlemeye özgü ikirciklilik hakkında yeni bir bakış açısı kazandırdı.",
+      "Bu deneyim bana tüm canlı varlıkların birbirine olan bağımlılığı hakkında yeni bir bakış açısı kazandırdı.",
+      "Bu deneyim bana tüketim toplumundaki başarı kavramı hakkında yeni bir bakış açısı kazandırdı."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "... için içimde muazzam bir rahatlama hissediyorum",
+    "translation": "I feel an immense sense of relief that ...",
+    "b1": [
+      "Senin burada olduğun için içimde muazzam bir rahatlama hissediyorum.",
+      "Sınavın bittiği için içimde muazzam bir rahatlama hissediyorum.",
+      "Hava düzeldiği için içimde muazzam bir rahatlama hissediyorum.",
+      "Çantam bulunduğu için içimde muazzam bir rahatlama hissediyorum.",
+      "Ulaştığımız için içimde muazzam bir rahatlama hissediyorum."
+    ],
+    "b2": [
+      "Anneannemin ameliyatı başarılı geçtiği için içimde muazzam bir rahatlama hissediyorum.",
+      "Hakikat nihayet ortaya çıktığı için içimde muazzam bir rahatlama hissediyorum.",
+      "Bu diplomatik krizin önüne geçtiğimiz için içimde muazzam bir rahatlama hissediyorum.",
+      "Herkes dağdan sağ salim döndüğü için içimde muazzam bir rahatlama hissediyorum.",
+      "Kredi başvurum kabul edildiği için içimde muazzam bir rahatlama hissediyorum."
+    ],
+    "c1": [
+      "Bu davada aklın fanatizmi yendiği için içimde muazzam bir rahatlama hissediyorum.",
+      "Kolektif çabalarımız bu tarihi mekanı kurtarmamıza olanak tanıdığı için içimde muazzam bir rahatlama hissediyorum.",
+      "Bu varoluşsal belirsizlik döneminin sona erdiği için içimde muazzam bir rahatlama hissediyorum.",
+      "Denetim sonucu beklendiği kadar korkunç olmadığı için içimde muazzam bir rahatlama hissediyorum.",
+      "Sosyal diyalog son anda yeniden tesis edildiği için içimde muazzam bir rahatlama hissediyorum."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "... beri içimde bir boşluk hissi var",
+    "translation": "There is a feeling of emptiness since ...",
+    "b1": [
+      "Sen gittiğinden beri içimde bir boşluk hissi var.",
+      "Parti bittiğinden beri içimde bir boşluk hissi var.",
+      "Kitabı bitirdiğimden beri içimde bir boşluk hissi var.",
+      "Köpeğim gittiğinden beri içimde bir boşluk hissi var.",
+      "Çocuklar okula gittiğinden beri içimde bir boşluk hissi var."
+    ],
+    "b2": [
+      "Eski işimden ayrıldığımdan beri içimde bir boşluk hissi var.",
+      "Geçen yıl dedemiz vefat ettiğinden beri içimde bir boşluk hissi var.",
+      "Arkadaşlarım başka bir şehre taşındığından beri içimde bir boşluk hissi var.",
+      "Bu eski kitapçı kapandığından beri içimde bir boşluk hissi var.",
+      "Aklımda hiç ilgi çekici bir proje olmadığından beri içimde bir boşluk hissi var."
+    ],
+    "c1": [
+      "Gençliğime yön veren ideoloji çöktüğünden beri içimde bir boşluk hissi var.",
+      "Bu mekanın yaratıcı telaşının yerini sessizlik aldığımdan beri içimde bir boşluk hissi var.",
+      "Eski sosyal ilişkilerimin yapaylığını anladığımdan beri içimde bir boşluk hissi var.",
+      "Bu ilham verici figür toplum sahnesinden çekildiğinden beri içimde bir boşluk hissi var.",
+      "Maneviyat günlük rutinlerimizden kaybolduğundan beri içimde bir boşluk hissi var."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "İçimdeki ... hissinin sorumluluğunu tamamen üstleniyorum",
+    "translation": "I take full responsibility for my feeling of ...",
+    "b1": [
+      "İçimdeki hüzün hissinin sorumluluğunu tamamen üstleniyorum.",
+      "İçimdeki öfke hissinin sorumluluğunu tamamen üstleniyorum.",
+      "İçimdeki korku hissinin sorumluluğunu tamamen üstleniyorum.",
+      "İçimdeki yorgunluk hissinin sorumluluğunu tamamen üstleniyorum.",
+      "İçimdeki şaşkınlık hissinin sorumluluğunu tamamen üstleniyorum."
+    ],
+    "b2": [
+      "Olanlardan sonraki içimdeki suçluluk hissinin sorumluluğunu tamamen üstleniyorum.",
+      "Bu ekipteki içimdeki güvensizlik hissinin sorumluluğunu tamamen üstleniyorum.",
+      "Bu başarısızlığa dair içimdeki kırgınlık hissinin sorumluluğunu tamamen üstleniyorum.",
+      "Son aylardaki içimdeki yalnızlaşma hissinin sorumluluğunu tamamen üstleniyorum.",
+      "Bu projeye dair içimdeki başarısızlık hissinin sorumluluğunu tamamen üstleniyorum."
+    ],
+    "c1": [
+      "Siyasi sisteme dair içimdeki hayal kırıklığı hissinin sorumluluğunu tamamen üstleniyorum.",
+      "Çağdaşlarımla aramdaki içimdeki yabancılaşma hissinin sorumluluğunu tamamen üstleniyorum.",
+      "Maddi başarı karşısındaki içimdeki boşluk hissinin sorumluluğunu tamamen üstleniyorum.",
+      "Genel nankörlüğe dair içimdeki kırgınlık hissinin sorumluluğunu tamamen üstleniyorum.",
+      "Bu bürokratik yapıdaki içimdeki yabancılaşma hissinin sorumluluğunu tamamen üstleniyorum."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Durumun yoğunluğu bana kendimi ... hissettirdi",
+    "translation": "The intensity of the situation made me feel ...",
+    "b1": [
+      "Durumun yoğunluğu bana kendimi korkmuş hissettirdi.",
+      "Durumun yoğunluğu bana kendimi canlı hissettirdi.",
+      "Durumun yoğunluğu bana kendimi yorgun hissettirdi.",
+      "Durumun yoğunluğu bana kendimi garip hissettirdi.",
+      "Durumun yoğunluğu bana kendimi güçlü hissettirdi."
+    ],
+    "b2": [
+      "Durumun yoğunluğu toplantı sırasında bana kendimi harika bir stres altında hissettirdi.",
+      "Durumun yoğunluğu bana her bir saniyenin kıymetli olduğunu hissettirdi.",
+      "Durumun yoğunluğu bana diğer mağdurlarla derin bir bağ hissettirdi.",
+      "Durumun yoğunluğu bana iklimsel olaylar karşısında çaresizliği hissettirdi.",
+      "Durumun yoğunluğu bana derhal harekete geçmem gerektiğini hissettirdi."
+    ],
+    "c1": [
+      "Durumun yoğunluğu bana maddi kaygılarımızın anlamsızlığını hissettirdi.",
+      "Durumun yoğunluğu bana daha önce hiç olmadığı kadar metafiziksel bir aciliyet hissettirdi.",
+      "Durumun yoğunluğu bana ahlaki yükümlülüğümün tüm önemini hissettirdi.",
+      "Durumun yoğunluğu bana mistik bir esrimeye yakın bir ilham hissettirdi.",
+      "Durumun yoğunluğu bana huzurumuzun dayandığı dengelerin had safhadaki kırılganlığını hissettirdi."
+    ]
+  }
+]

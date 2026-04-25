@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Il problema principale sembra essere ...",
+    "translation": "The main issue seems to be ...",
+    "b1": [
+      "Il problema principale sembra essere la mancanza di tempo.",
+      "Il problema principale sembra essere il prezzo troppo alto.",
+      "Il problema principale sembra essere il tempo per domani.",
+      "Il problema principale sembra essere che la macchina è rotta.",
+      "Il problema principale sembra essere il rumore nell'ufficio."
+    ],
+    "b2": [
+      "Il problema principale sembra essere la mancanza di comunicazione tra i reparti.",
+      "Il problema principale sembra essere la cattiva gestione delle risorse umane.",
+      "Il problema principale sembra essere l'assenza di obiettivi chiari per questo progetto.",
+      "Il problema principale sembra essere il calo di fiducia dei consumatori.",
+      "Il problema principale sembra essere il ritardo accumulato durante la fase di test."
+    ],
+    "c1": [
+      "Il problema principale sembra essere l'incompatibilità della nostra strategia con le attuali realtà del mercato.",
+      "Il problema principale sembra essere la frammentazione dei dati all'interno della nostra architettura digitale.",
+      "Il problema principale sembra essere l'erosione progressiva della cultura aziendale a favore dell'individualismo.",
+      "Il problema principale sembra essere la mancanza di anticipazione di fronte alle fluttuazioni geopolitiche.",
+      "Il problema principale sembra essere una falla strutturale nel nostro processo decisionale."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Qual è l'approccio migliore per ...?",
+    "translation": "How can we best approach ...?",
+    "b1": [
+      "Qual è l'approccio migliore per imparare l'italiano?",
+      "Qual è l'approccio migliore per fare questa torta?",
+      "Qual è l'approccio migliore per andare in centro?",
+      "Qual è l'approccio migliore per parlare con il capo?",
+      "Qual è l'approccio migliore per riordinare la stanza?"
+    ],
+    "b2": [
+      "Qual è l'approccio migliore per ridurre le nostre spese mensili?",
+      "Qual è l'approccio migliore per motivare una squadra demotivata?",
+      "Qual è l'approccio migliore per attirare nuovi clienti?",
+      "Qual è l'approccio migliore per risolvere questo conflitto interno?",
+      "Qual è l'approccio migliore per presentare questi risultati negativi?"
+    ],
+    "c1": [
+      "Qual è l'approccio migliore per integrare lo sviluppo sostenibile nel nostro modello economico?",
+      "Qual è l'approccio migliore per rimediare alle carenze del nostro sistema di gestione delle crisi?",
+      "Qual è l'approccio migliore per conciliare imperativi etici e redditività finanziaria?",
+      "Qual è l'approccio migliore per portare a termine questa complessa transizione tecnologica?",
+      "Qual è l'approccio migliore per ridefinire la nostra identità di marchio sul mercato internazionale?"
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Suggerisco che noi ...",
+    "translation": "I suggest that we ...",
+    "b1": [
+      "Suggerisco che noi facciamo una pausa.",
+      "Suggerisco che noi mangiamo una pizza stasera.",
+      "Suggerisco che noi finiamo questo lavoro domani.",
+      "Suggerisco che noi prendiamo l'autobus.",
+      "Suggerisco che noi guardiamo un film."
+    ],
+    "b2": [
+      "Suggerisco che noi rivediamo il nostro budget per il mese prossimo.",
+      "Suggerisco che noi chiediamo il parere di un esperto esterno.",
+      "Suggerisco che noi cambiamo il nostro attuale metodo di lavoro.",
+      "Suggerisco che noi organizziamo una riunione di brainstorming.",
+      "Suggerisco che noi facciamo una prova su un piccolo gruppo."
+    ],
+    "c1": [
+      "Suggerisco che noi procediamo a un'analisi comparativa dei rischi potenziali.",
+      "Suggerisco che noi istituiamo un monitoraggio strategico più rigoroso.",
+      "Suggerisco che noi mettiamo in discussione le premesse stesse di questo progetto.",
+      "Suggerisco che noi esternalizziamo parte della produzione per una maggiore flessibilità.",
+      "Suggerisco che noi conduciamo uno studio d'impatto approfondito prima di ogni decisione finale."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Una soluzione potenziale è ...",
+    "translation": "A potential solution is to ...",
+    "b1": [
+      "Una soluzione potenziale è partire prima.",
+      "Una soluzione potenziale è comprare un nuovo telefono.",
+      "Una soluzione potenziale è chiedere aiuto a un amico.",
+      "Una soluzione potenziale è dormire di più.",
+      "Una soluzione potenziale è cambiare posto."
+    ],
+    "b2": [
+      "Una soluzione potenziale è assumere uno stagista per aiutarci.",
+      "Una soluzione potenziale è utilizzare un software più moderno.",
+      "Una soluzione potenziale è ridurre temporaneamente il prezzo di vendita.",
+      "Una soluzione potenziale è diversificare i nostri fornitori.",
+      "Una soluzione potenziale è offrire corsi di formazione gratuiti."
+    ],
+    "c1": [
+      "Una soluzione potenziale è ristrutturare integralmente il dipartimento marketing.",
+      "Una soluzione potenziale è passare a un modello basato sull'abbonamento.",
+      "Una soluzione potenziale è creare un'alleanza strategica con i nostri concorrenti diretti.",
+      "Una soluzione potenziale è automatizzare i processi più ridondanti per guadagnare agilità.",
+      "Una soluzione potenziale è lanciare una campagna di comunicazione per migliorare la nostra immagine."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "E se provassimo ... invece di ...?",
+    "translation": "What if we tried ... instead of ...?",
+    "b1": [
+      "E se provassimo il tè invece del caffè?",
+      "E se provassimo la bici invece dell'auto?",
+      "E se provassimo questo ristorante invece dell'altro?",
+      "E se provassimo a camminare invece di correre?",
+      "E se provassimo il blu invece del rosso?"
+    ],
+    "b2": [
+      "E se provassimo a telelavorare invece di venire in ufficio tutti i giorni?",
+      "E se provassimo ad affittare invece di comprare?",
+      "E se provassimo a collaborare invece di competere?",
+      "E se provassimo un approccio digitale invece del cartaceo?",
+      "E se provassimo a semplificare invece di complicare il processo?"
+    ],
+    "c1": [
+      "E se provassimo una gestione decentralizzata invece di questa struttura piramidale?",
+      "E se provassimo a puntare sulla fidelizzazione invece della semplice acquisizione di clienti?",
+      "E se provassimo una crescita organica invece di procedere ad acquisizioni rischiose?",
+      "E se provassimo l'innovazione frugale invece dell'investimento massiccio in R&S?",
+      "E se provassimo una trasparenza totale invece di questa comunicazione blindata?"
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Dobbiamo dare la priorità a ...",
+    "translation": "We need to prioritize ...",
+    "b1": [
+      "Dobbiamo dare la priorità alla famiglia.",
+      "Dobbiamo dare la priorità alla salute.",
+      "Dobbiamo dare la priorità ai compiti.",
+      "Dobbiamo dare la priorità al riposo.",
+      "Dobbiamo dare la priorità all'italiano."
+    ],
+    "b2": [
+      "Dobbiamo dare la priorità alla sicurezza dei lavoratori.",
+      "Dobbiamo dare la priorità alla soddisfazione dei clienti esistenti.",
+      "Dobbiamo dare la priorità all'innovazione tecnologica.",
+      "Dobbiamo dare la priorità al rispetto delle scadenze.",
+      "Dobbiamo dare la priorità alla riduzione della nostra impronta di carbonio."
+    ],
+    "c1": [
+      "Dobbiamo dare la priorità al consolidamento dei nostri asset immateriali.",
+      "Dobbiamo dare la priorità alla resilienza operativa di fronte alle crisi sistemiche.",
+      "Dobbiamo dare la priorità all'etica dell'intelligenza artificiale all'interno dei nostri servizi.",
+      "Dobbiamo dare la priorità al capitale umano per garantire una crescita duratura.",
+      "Dobbially dare la priorità alla messa a norma con i nuovi standard internazionali."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Scomponiamo il problema in ...",
+    "translation": "Let's break the problem down into ...",
+    "b1": [
+      "Scomponiamo il problema in due parti.",
+      "Scomponiamo il problema in passi semplici.",
+      "Scomponiamo il problema in piccole domande.",
+      "Scomponiamo il problema in giorni di lavoro.",
+      "Scomponiamo il problema in liste."
+    ],
+    "b2": [
+      "Scomponiamo il problema in fasi di sviluppo distinte.",
+      "Scomponiamo il problema in categorie di budget.",
+      "Scomponiamo il problema in sotto-attività per ogni membro del team.",
+      "Scomponiamo il problema in priorità a breve e lungo termine.",
+      "Scomponiamo il problema in fattori tecnici e umani."
+    ],
+    "c1": [
+      "Scomponiamo il problema in variabili macroeconomiche influenti.",
+      "Scomponiamo il problema in componenti strutturali e congiunturali.",
+      "Scomponiamo il problema in questioni legali, finanziarie ed etiche.",
+      "Scomponiamo il problema in compartimenti stagni per identificare meglio i colli di bottiglia.",
+      "Scomponiamo il problema in indicatori chiave di prestazione per un monitoraggio rigoroso."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Avete considerato l'impatto di ...?",
+    "translation": "Have you considered the impact of ...?",
+    "b1": [
+      "Avete considerato l'impatto della pioggia?",
+      "Avete considerato l'impatto del rumore?",
+      "Avete considerato l'impatto di questo prezzo?",
+      "Avete considerato l'impatto della vostra decisione?",
+      "Avete considerato l'impatto del freddo?"
+    ],
+    "b2": [
+      "Avete considerato l'impatto di questa legge sulla nostra azienda?",
+      "Avete considerato l'impatto dei social network sui giovani?",
+      "Avete considerato l'impatto del telelavoro sulla produttività?",
+      "Avete considerato l'impatto dell'inflazione sul potere d'acquisto?",
+      "Avete considerato l'impatto ecologico della vostra produzione?"
+    ],
+    "c1": [
+      "Avete considerato l'impatto devastante di una fuga di dati sulla nostra reputazione?",
+      "Avete considerato l'impatto psicologico delle ristrutturazioni sul morale delle truppe?",
+      "Avete considerato l'impatto dell'obsolescenza tecnologica sulla nostra competitività?",
+      "Avete considerato l'impatto della volatilità dei mercati sui nostri investimenti?",
+      "Avete considerato l'impatto sociopolitico dell'automazione nel nostro settore di attività?"
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Un modo per aggirare questo è ...",
+    "translation": "One way around this is to ...",
+    "b1": [
+      "Un modo per aggirare questo è prendere un'altra strada.",
+      "Un modo per aggirare questo è chiedere a qualcun altro.",
+      "Un modo per aggirare questo è cambiare l'orario.",
+      "Un modo per aggirare questo è fare una pausa.",
+      "Un modo per aggirare questo è imbrogliare un po'."
+    ],
+    "b2": [
+      "Un modo per aggirare questo è creare un account temporaneo.",
+      "Un modo per aggirare questo è passare attraverso un intermediario.",
+      "Un modo per aggirare questo è modificare leggermente il design.",
+      "Un modo per aggirare questo è offrire un servizio sostitutivo.",
+      "Un modo per aggirare questo è utilizzare un software open source."
+    ],
+    "c1": [
+      "Un modo per aggirare questo è delocalizzare la produzione in una zona franca.",
+      "Un modo per aggirare questo è reinterpretare le clausole del contratto a nostro favore.",
+      "Un modo per aggirare questo è istituire una struttura giuridica decentralizzata.",
+      "Un modo per aggirare questo è sfruttare le falle del sistema attuale.",
+      "Un modo per aggirare questo è avviare un'attività di lobbying presso i decisori politici."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Potremmo mitigare il rischio ...",
+    "translation": "We could mitigate the risk by ...",
+    "b1": [
+      "Potremmo mitigare il rischio facendo attenzione.",
+      "Potremmo mitigare il rischio indossando un casco.",
+      "Potremmo mitigare il rischio controllando due volte.",
+      "Potremmo mitigare il rischio chiedendo aiuto.",
+      "Potremmo mitigare il rischio restando calmi."
+    ],
+    "b2": [
+      "Potremmo mitigare il rischio stipulando un'assicurazione completa.",
+      "Potremmo mitigare il rischio diversificando i nostri investimenti.",
+      "Potremmo mitigare il rischio formando meglio il nostro personale.",
+      "Potremmo mitigare il rischio aggiornando i nostri sistemi di sicurezza.",
+      "Potremmo mitigare il rischio effettuando uno studio di mercato preventivo."
+    ],
+    "c1": [
+      "Potremmo mitigare il rischio implementando protocolli di conformità rigorosi.",
+      "Potremmo mitigare il rischio adottando una strategia di copertura finanziaria.",
+      "Potremmo mitigare il rischio creando ridondanze all'interno delle nostre infrastrutture critiche.",
+      "Potremmo mitigare il rischio anticipando i futuri cambiamenti legislativi.",
+      "Potremmo mitigare il rischio diversificando le nostre fonti di approvvigionamento su scala globale."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Forse dovremmo esaminare la causa principale di ...",
+    "translation": "Perhaps we should look at the root cause of ...",
+    "b1": [
+      "Forse dovremmo esaminare la causa principale della tua stanchezza.",
+      "Forse dovremmo esaminare la causa principale di questo rumore.",
+      "Forse dovremmo esaminare la causa principale del guasto.",
+      "Forse dovremmo esaminare la causa principale del tuo ritardo.",
+      "Forse dovremmo esaminare la causa principale di questo errore."
+    ],
+    "b2": [
+      "Forse dovremmo esaminare la causa principale del calo delle vendite.",
+      "Forse dovremmo esaminare la causa principale dell'insoddisfazione dei clienti.",
+      "Forse dovremmo esaminare la causa principale dell'alto turnover del personale.",
+      "Forse dovremmo esaminare la causa principale dei ritardi nelle consegne.",
+      "Forse dovremmo esaminare la causa principale della mancanza di motivazione."
+    ],
+    "c1": [
+      "Forse dovremmo esaminare la causa principale dei malfunzionamenti sistemici osservati.",
+      "Forse dovremmo esaminare la causa principale dell'alienazione dal lavoro nel nostro settore.",
+      "Forse dovremmo esaminare la causa principale dell'instabilità cronica del mercato finanziario.",
+      "Forse dovremmo esaminare la causa principale dell'erosione della fiducia verso le istituzioni.",
+      "Forse dovremmo esaminare la causa principale della stagnazione dell'innovazione interna."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Il prossimo passo immediato dovrebbe essere ...",
+    "translation": "The immediate next step should be ...",
+    "b1": [
+      "Il prossimo passo immediato dovrebbe essere chiamarlo.",
+      "Il prossimo passo immediato dovrebbe essere finire questa mail.",
+      "Il prossimo passo immediato dovrebbe essere mangiare.",
+      "Il prossimo passo immediato dovrebbe essere comprare il pane.",
+      "Il prossimo passo immediato dovrebbe essere apparecchiare la tavola."
+    ],
+    "b2": [
+      "Il prossimo passo immediato dovrebbe essere convalidare il budget finale.",
+      "Il prossimo passo immediato dovrebbe essere informare tutti i dipendenti del cambiamento.",
+      "Il prossimo passo immediato dovrebbe essere fissare una data per la riunione.",
+      "Il prossimo passo immediate dovrebbe essere inviare gli inviti ai clienti.",
+      "Il prossimo passo immediato dovrebbe essere testare il prototipo."
+    ],
+    "c1": [
+      "Il prossimo passo immediato dovrebbe essere istituire un'unità di crisi per gestire la situazione.",
+      "Il prossimo passo immediato dovrebbe essere congelare tutti gli investimenti non prioritari.",
+      "Il prossimo passo immediato dovrebbe essere avviare un audit interno completo.",
+      "Il prossimo passo immediato dovrebbe essere rinegoziare i termini della nostra partnership strategica.",
+      "Il prossimo passo immediato dovrebbe essere ridefinire gli indicatori di successo per il trimestre a venire."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Qualcuno ha una prospettiva diversa su ...?",
+    "translation": "Does anyone have a different perspective on ...?",
+    "b1": [
+      "Qualcuno ha una prospettiva diversa su questo film?",
+      "Qualcuno ha una prospettiva diversa sul viaggio?",
+      "Qualcuno ha una prospettiva diversa sul prezzo?",
+      "Qualcuno ha una prospettiva diversa sul cibo?",
+      "Qualcuno ha una prospettiva diversa sul colore?"
+    ],
+    "b2": [
+      "Qualcuno ha una prospettiva diversa sulla strategia di marketing da adottare?",
+      "Qualcuno ha una prospettiva diversa sulla causa di questo fallimento?",
+      "Qualcuno ha una prospettiva diversa sull'organizzazione dell'evento?",
+      "Qualcuno ha una prospettiva diversa sulle esigenze degli utenti?",
+      "Qualcuno ha una prospettiva diversa sulle previsioni economiche?"
+    ],
+    "c1": [
+      "Qualcuno ha una prospettiva diversa sulla redditività di questo modello a lungo termine?",
+      "Qualcuno ha una prospettiva diversa sulle implicazioni etiche di questa tecnologia?",
+      "Qualcuno ha una prospettiva diversa sulla gestione della diversità culturale?",
+      "Qualcuno ha una prospettiva diversa sulla correlazione tra questi due fenomeni?",
+      "Qualcuno ha una prospettiva diversa sull'impatto della dematerializzazione?"
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "A breve termine, possiamo ...",
+    "translation": "In the short term, we can do ...",
+    "b1": [
+      "A breve termine, possiamo fare una pausa.",
+      "A breve termine, possiamo comprare dei panini.",
+      "A breve termine, possiamo sistemare la stanza.",
+      "A breve termine, possiamo chiedere aiuto.",
+      "A breve termine, possiamo usare questa vecchia bici."
+    ],
+    "b2": [
+      "A breve termine, possiamo ridurre i costi pubblicitari.",
+      "A breve termine, possiamo assumere un consulente esterno.",
+      "A breve termine, possiamo offrire un'offerta promozionale.",
+      "A breve termine, possiamo organizzare una formazione interna.",
+      "A breve termine, possiamo migliorare il servizio clienti."
+    ],
+    "c1": [
+      "A breve termine, possiamo iniettare liquidità per stabilizzare la situazione.",
+      "A breve termine, possiamo ottimizzare i processi esistenti senza investimenti massicci.",
+      "A breve termine, possiamo rinegoziare le scadenze con i nostri creditori.",
+      "A breve termine, possiamo lanciare una campagna di comunicazione di crisi.",
+      "A breve termine, possiamo privilegiare la fidelizzazione dei nostri dipendenti chiave."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Dovremmo implementare un sistema per ...",
+    "translation": "We should implement a system for ...",
+    "b1": [
+      "Dovremmo implementare un sistema per riciclare.",
+      "Dovremmo implementare un sistema per pulire.",
+      "Dovremmo implementare un sistema per pagare.",
+      "Dovremmo implementare un sistema per riordinare.",
+      "Dovremmo implementare un sistema per votare."
+    ],
+    "b2": [
+      "Dovremmo implementare un sistema per monitorare l'orario di lavoro.",
+      "Dovremmo implementare un sistema per valutare la soddisfazione del cliente.",
+      "Dovremmo implementare un sistema per gestire le scorte in tempo reale.",
+      "Dovremmo implementare un sistema per condividere i documenti online.",
+      "Dovremmo implementare un sistema per ridurre gli sprechi energetici."
+    ],
+    "c1": [
+      "Dovremmo implementare un sistema per rilevare potenziali frodi.",
+      "Dovremmo implementare un sistema per automatizzare la conformità normativa.",
+      "Dovremmo implementare un sistema per analizzare il comportamento predittivo dei consumatori.",
+      "Dovremmo implementare un sistema per garantire la completa tracciabilità dei nostri prodotti.",
+      "Dovremmo implementare un sistema per favorire l'innovazione partecipativa."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Valutiamo i pro e i contro di ...",
+    "translation": "Let's evaluate the pros and cons of ...",
+    "b1": [
+      "Valutiamo i pro e i contro di questo viaggio.",
+      "Valutiamo i pro e i contro di questa macchina.",
+      "Valutiamo i pro e i contro di questo nuovo lavoro.",
+      "Valutiamo i pro e i contro di mangiare fuori.",
+      "Valutiamo i pro e i contro di questo regalo."
+    ],
+    "b2": [
+      "Valutiamo i pro e i contro dell'esternalizzazione della produzione.",
+      "Valutiamo i pro e i contro dell'introduzione dell'IA nei nostri servizi.",
+      "Valutiamo i pro e i contro della settimana di quattro giorni.",
+      "Valutiamo i pro e i contro del passaggio al tutto digitale.",
+      "Valutiamo i pro e i contro dell'apertura di una nuova filiale."
+    ],
+    "c1": [
+      "Valutiamo i pro e i contro di questa rischiosa fusione-acquisizione.",
+      "Valutiamo i pro e i contro di una totale decentralizzazione della governance.",
+      "Valutiamo i pro e i contro dell'adozione di un modello economico circolare.",
+      "Valutiamo i pro e i contro di un progressivo disimpegno dai combustibili fossili.",
+      "Valutiamo i pro e i contro della revoca dell'anonimato sulla nostra piattaforma."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Per garantire il successo, dobbiamo prima affrontare ...",
+    "translation": "To ensure success, we must first address ...",
+    "b1": [
+      "Per garantire il successo, dobbiamo prima affrontare il problema dei soldi.",
+      "Per garantire il successo, dobbiamo prima affrontare la questione del tempo.",
+      "Per garantire il successo, dobbiamo prima affrontare l'organizzazione.",
+      "Per garantire il successo, dobbiamo prima affrontare la scelta della città.",
+      "Per garantire il successo, dobbiamo prima affrontare il meteo."
+    ],
+    "b2": [
+      "Per garantire il successo, dobbiamo prima affrontare la mancanza di formazione tecnica.",
+      "Per garantire il successo, dobbiamo prima affrontare i problemi di comunicazione interna.",
+      "Per garantire il successo, dobbiamo prima affrontare le reali aspettative dei clienti.",
+      "Per garantire il successo, dobbiamo prima affrontare i potenziali rischi legali.",
+      "Per garantire il successo, dobbiamo prima affrontare la questione del finanziamento a lungo termine."
+    ],
+    "c1": [
+      "Per garantire il successo, dobbiamo prima affrontare i freni culturali al cambiamento.",
+      "Per garantire il successo, dobbiamo prima affrontare la fragilità della nostra catena logistica.",
+      "Per garantire il successo, dobbiamo prima affrontare l'obsolescenza delle nostre infrastrutture informatiche.",
+      "Per garantire il successo, dobbiamo prima affrontare la questione della sovranità digitale.",
+      "Per garantire il successo, dobbiamo prima affrontare le divergenze ideologiche all'interno del consiglio."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Il più grande ostacolo che si presenta è ...",
+    "translation": "The biggest obstacle standing in the way is ...",
+    "b1": [
+      "Il più grande ostacolo che si presenta è la lingua.",
+      "Il più grande ostacolo che si presenta è il prezzo.",
+      "Il più grande ostacolo che si presenta è la distanza.",
+      "Il più grande ostacolo che si presenta è la stanchezza.",
+      "Il più grande ostacolo che si presenta è il tempo."
+    ],
+    "b2": [
+      "Il più grande ostacolo che si presenta è la mancanza di interesse del pubblico.",
+      "Il più grande ostacolo che si presenta è la feroce concorrenza in questo settore.",
+      "Il più grande ostacolo che si presenta è la complessità amministrativa.",
+      "Il più grande ostacolo che si presenta è l'assenza di budget per quest'anno.",
+      "Il più grande ostacolo che se presenta è la resistenza al cambiamento dei dipendenti."
+    ],
+    "c1": [
+      "Il più grande ostacolo che si presenta è l'inerzia burocratica tipica delle grandi strutture.",
+      "Il più grande ostacolo che si presenta è l'instabilità legislativa a livello internazionale.",
+      "Il più grande ostacolo che si presenta è la carenza mondiale di materie prime.",
+      "Il più grande ostacolo che si presenta è il divario tra l'offerta tecnologica e la domanda sociale.",
+      "Il più grande ostacolo che si presenta è la crescente polarizzazione dell'opinione pubblica."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Il mio approccio proposto prevede di ...",
+    "translation": "My proposed approach involves ...",
+    "b1": [
+      "Il mio approccio proposto prevede di parlare di più.",
+      "Il mio approccio proposto prevede di lavorare insieme.",
+      "Il mio approccio proposto prevede di leggere ogni giorno.",
+      "Il mio approccio proposto prevede di fare sport.",
+      "Il mio approccio proposto prevede di mangiare in modo sano."
+    ],
+    "b2": [
+      "Il mio approccio proposto prevede di ridurre le riunioni inutili.",
+      "Il mio approccio proposto prevede di investire nella pubblicità online.",
+      "Il mio approccio proposto prevede di formare piccole squadre autonome.",
+      "Il mio approccio proposto prevede di testare il prodotto su un campione ridotto.",
+      "Il mio approccio proposto prevede di collaborare con degli influencer."
+    ],
+    "c1": [
+      "Il mio approccio proposto prevede di decostruire i processi esistenti per semplificarli.",
+      "Il mio approccio proposto prevede di integrare l'intelligenza artificiale a tutti i livelli di produzione.",
+      "Il mio approccio proposto prevede di privilegiare una crescita qualitativa piuttosto che quantitativa.",
+      "Il mio approccio proposto prevede di responsabilizzare ogni collaboratore attraverso una struttura orizzontale.",
+      "Il mio approccio proposto prevede di implementare una strategia di resilienza di fronte agli shock esterni."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Forse il pezzo mancante è ...",
+    "translation": "Perhaps the missing piece is ...",
+    "b1": [
+      "Forse il pezzo mancante è la pazienza.",
+      "Forse il pezzo mancante è il tempo.",
+      "Forse il pezzo mancante è l'amore.",
+      "Forse il pezzo mancante è la musica.",
+      "Forse il pezzo mancante è il tuo sorriso."
+    ],
+    "b2": [
+      "Forse il pezzo mancante è una migliore comunicazione interna.",
+      "Forse il pezzo mancante è il parere diretto dei nostri clienti.",
+      "Forse il pezzo mancante è un budget di marketing più importante.",
+      "Forse il pezzo mancante è l'uso delle nuove tecnologie.",
+      "Forse il pezzo mancante è la flessibilità dei nostri orari."
+    ],
+    "c1": [
+      "Forse il pezzo mancante è una visione filosofica del progresso tecnico.",
+      "Forse il pezzo mancante è l'empatia all'interno della leadership esecutiva.",
+      "Forse il pezzo mancante è una vera volontà politica di cambiamento.",
+      "Forse il pezzo mancante è la comprensione delle profonde questioni socio-culturali.",
+      "Forse il pezzo mancante è la ricerca di senso oltre la performance economica."
+    ]
+  }
+]

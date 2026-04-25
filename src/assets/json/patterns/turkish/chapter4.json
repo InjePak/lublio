@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Asıl sorun ... gibi görünüyor",
+    "translation": "The main issue seems to be ...",
+    "b1": [
+      "Asıl sorun zamanın yetersizliği gibi görünüyor.",
+      "Asıl sorun fiyatın çok yüksek olması gibi görünüyor.",
+      "Asıl sorun yarınki hava durumu gibi görünüyor.",
+      "Asıl sorun arabanın bozulması gibi görünüyor.",
+      "Asıl sorun ofisteki gürültü gibi görünüyor."
+    ],
+    "b2": [
+      "Asıl sorun departmanlar arasındaki zayıf iletişim gibi görünüyor.",
+      "Asıl sorun insan kaynaklarının yanlış yönetilmesi gibi görünüyor.",
+      "Asıl sorun bu proje için net hedeflerin olmaması gibi görünüyor.",
+      "Asıl sorun müşteri güveninin azalması gibi görünüyor.",
+      "Asıl sorun test aşamasında biriken gecikme gibi görünüyor."
+    ],
+    "c1": [
+      "Asıl sorun stratejimizin mevcut pazar gerçekleriyle uyuşmaması gibi görünüyor.",
+      "Asıl sorun dijital mimarimizdeki verilerin dağınık olması gibi görünüyor.",
+      "Asıl sorun kurumsal kültürün giderek bireyselciliğe kayması gibi görünüyor.",
+      "Asıl sorun jeopolitik olayları önceden tahmin edememek gibi görünüyor.",
+      "Asıl sorun karar alma sürecimizdeki yapısal kusur gibi görünüyor."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "... için en etkili yaklaşım nedir?",
+    "translation": "How can we best approach ...?",
+    "b1": [
+      "Fransızca öğrenmek için en etkili yaklaşım nedir?",
+      "Bu pastayı pişirmek için en etkili yaklaşım nedir?",
+      "Şehir merkezine gitmek için en etkili yaklaşım nedir?",
+      "Patronla konuşmak için en etkili yaklaşım nedir?",
+      "Odayı toplamak için en etkili yaklaşım nedir?"
+    ],
+    "b2": [
+      "Aylık giderlerimizi azaltmak için en etkili yaklaşım nedir?",
+      "Motivasyonu düşen ekibi canlandırmak için en etkili yaklaşım nedir?",
+      "Yeni müşteriler çekmek için en etkili yaklaşım nedir?",
+      "Bu iç çatışmayı çözmek için en etkili yaklaşım nedir?",
+      "Bu olumsuz sonuçları sunmak için en etkili yaklaşım nedir?"
+    ],
+    "c1": [
+      "Sürdürülebilir kalkınmayı ekonomik modelimize entegre etmek için en etkili yaklaşım nedir?",
+      "Kriz yönetim sistemimizdeki açıkların yerini doldurmak için en etkili yaklaşım nedir?",
+      "Etik gereklilikler ile finansal verimliliği bağdaştırmak için en etkili yaklaşım nedir?",
+      "Bu karmaşık teknolojik dönüşümü başarıyla gerçekleştirmek için en etkili yaklaşım nedir?",
+      "Uluslararası pazarda markamızın özgünlüğünü yeniden tanımlamak için en etkili yaklaşım nedir?"
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Ben ... öneriyorum",
+    "translation": "I suggest that we ...",
+    "b1": [
+      "Ben mola vermeyi öneriyorum.",
+      "Ben bu akşam pizza yemeyi öneriyorum.",
+      "Ben bu işi yarın bitirmeyi öneriyorum.",
+      "Ben otobüse binmeyi öneriyorum.",
+      "Ben film izlemeyi öneriyorum."
+    ],
+    "b2": [
+      "Ben gelecek ayın bütçesini yeniden gözden geçirmeyi öneriyorum.",
+      "Ben dış bir uzmanın fikrini almayı öneriyorum.",
+      "Ben mevcut çalışma yöntemimizi değiştirmeyi öneriyorum.",
+      "Ben bir beyin fırtınası toplantısı düzenlemeyi öneriyorum.",
+      "Ben küçük bir grupta test yürütmeyi öneriyorum."
+    ],
+    "c1": [
+      "Ben olası riskler üzerine karşılaştırmalı bir analiz yapmayı öneriyorum.",
+      "Ben titiz bir stratejik izleme mekanizması uygulamayı öneriyorum.",
+      "Ben bu projenin temel varsayımlarını sorgulamayı öneriyorum.",
+      "Ben esneklik sağlamak adına üretimin bir kısmını dış kaynaklara devretmeyi öneriyorum.",
+      "Ben nihai karar verilmeden önce kapsamlı bir etki değerlendirme çalışması yapılmasını öneriyorum."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Olası çözümlerden biri — ...",
+    "translation": "A potential solution is to ...",
+    "b1": [
+      "Olası çözümlerden biri — erkenden yola çıkmak.",
+      "Olası çözümlerden biri — yeni bir telefon satın almak.",
+      "Olası çözümlerden biri — arkadaştan yardım istemek.",
+      "Olası çözümlerden biri — daha fazla uyumak.",
+      "Olası çözümlerden biri — yeri değiştirmek."
+    ],
+    "b2": [
+      "Olası çözümlerden biri — bize yardımcı olması için bir stajyer almak.",
+      "Olası çözümlerden biri — modern bir yazılım kullanmak.",
+      "Olası çözümlerden biri — satış fiyatını geçici olarak düşürmek.",
+      "Olası çözümlerden biri — tedarikçilerimizi çeşitlendirmek.",
+      "Olası çözümlerden biri — ücretsiz eğitim kursları sunmak."
+    ],
+    "c1": [
+      "Olası çözümlerden biri — pazarlama departmanını tamamen yeniden yapılandırmak.",
+      "Olası çözümlerden biri — abonelik tabanlı bir modele geçmek.",
+      "Olası çözümlerden biri — doğrudan rakiplerimizle stratejik bir ittifak kurmak.",
+      "Olası çözümlerden biri — esnekliği artırmak için tekrarlanan süreçleri otomatikleştirmek.",
+      "Olası çözümlerden biri — imajımızı düzeltmek için bir iletişim kampanyası başlatmak."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "... yerine ... denesek mi?",
+    "translation": "What if we tried ... instead of ...?",
+    "b1": [
+      "Kahve yerine çay içmeyi denesek mi?",
+      "Araba yerine bisiklete binmeyi denesek mi?",
+      "Diğeri yerine bu restorana gitmeyi denesek mi?",
+      "Koşmak yerine yürümeyi denesek mi?",
+      "Kırmızı yerine mavi rengi denesek mi?"
+    ],
+    "b2": [
+      "Her gün ofise gelmek yerine uzaktan çalışmayı denesek mi?",
+      "Satın almak yerine kiralamayı denesek mi?",
+      "Rekabet etmek yerine birlikte çalışmayı denesek mi?",
+      "Kağıt yerine dijital bir yaklaşım kullanmayı denesek mi?",
+      "Süreci karmaşıklaştırmak yerine basitleştirmeyi denesek mi?"
+    ],
+    "c1": [
+      "Bu piramit yapı yerine merkeziyetsiz bir yönetimi denesek mi?",
+      "Müşterileri sadece çekmek yerine onları elde tutmaya önem vermeyi denesek mi?",
+      "Riskli satın almalar yerine organik büyümeye dayanmayı denesek mi?",
+      "Ar-Ge'ye büyük yatırımlar yapmak yerine yalın inovasyonu denesek mi?",
+      "Bu sınırlı iletişim yerine tam şeffaflığı denesek mi?"
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "... öncelik vermeliyiz",
+    "translation": "We need to prioritize ...",
+    "b1": [
+      "Aileye öncelik vermeliyiz.",
+      "Sağlığa öncelik vermeliyiz.",
+      "Ev ödevine öncelik vermeliyiz.",
+      "Dinlenmeye öncelik vermeliyiz.",
+      "Fransızcaya öncelik vermeliyiz."
+    ],
+    "b2": [
+      "Çalışanların güvenliğine öncelik vermeliyiz.",
+      "Mevcut müşterilerin memnuniyetine öncelik vermeliyiz.",
+      "Teknolojik inovasyona öncelik vermeliyiz.",
+      "Teslim tarihlerine uymaya öncelik vermeliyiz.",
+      "Karbon ayak izini azaltmaya öncelik vermeliyiz."
+    ],
+    "c1": [
+      "Maddi olmayan varlıklarımızı güçlendirmeye öncelik vermeliyiz.",
+      "Sistemik krizlere karşı operasyonel dayanıklılığa öncelik vermeliyiz.",
+      "Hizmetlerimizde yapay zeka etiğine öncelik vermeliyiz.",
+      "Sürdürülebilir büyümeyi sağlamak için insan sermayesine öncelik vermeliyiz.",
+      "Yeni uluslararası standartlara uyum sağlamaya öncelik vermeliyiz."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Sorunu ... bölelim",
+    "translation": "Let's break the problem down into ...",
+    "b1": [
+      "Sorunu iki parçaya bölelim.",
+      "Sorunu basit adımlara bölelim.",
+      "Sorunu küçük sorulara bölelim.",
+      "Sorunu iş günlerine bölelim.",
+      "Sorunu listelere bölelim."
+    ],
+    "b2": [
+      "Sorunu kişisel gelişim aşamalarına bölelim.",
+      "Sorunu bütçe kategorilerine bölelim.",
+      "Sorunu ekibin her bir üyesi için küçük görevlere bölelim.",
+      "Sorunu kısa vadeli ve uzun vadeli önceliklere bölelim.",
+      "Sorunu teknik ve insani faktörlere bölelim."
+    ],
+    "c1": [
+      "Sorunu etkili makroekonomik değişkenlere bölelim.",
+      "Sorunu yapısal ve konjonktürel bileşenlere bölelim.",
+      "Sorunu yasal, finansal ve etik meselelere bölelim.",
+      "Sorunu engelleri daha iyi belirlemek için sektörlere bölelim.",
+      "Sorunu sıkı kontrol sağlamak amacıyla temel performans göstergelerine bölelim."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "... etkisini hesaba kattınız mı?",
+    "translation": "Have you considered the impact of ...?",
+    "b1": [
+      "Yağmurun etkisini hesaba kattınız mı?",
+      "Gürültünün etkisini hesaba kattınız mı?",
+      "Bu fiyatın etkisini hesaba kattınız mı?",
+      "Kendi kararınızın etkisini hesaba kattınız mı?",
+      "Soğuğun etkisini hesaba kattınız mı?"
+    ],
+    "b2": [
+      "Bu kanunun şirketimize etkisini hesaba kattınız mı?",
+      "Sosyal medyanın gençler üzerindeki etkisini hesaba kattınız mı?",
+      "Uzaktan çalışmanın verimlilik üzerindeki etkisini hesaba kattınız mı?",
+      "Enflasyonun satın alma gücü üzerindeki etkisini hesaba kattınız mı?",
+      "Kendi üretiminizin ekolojik etkisini hesaba kattınız mı?"
+    ],
+    "c1": [
+      "Verilerin sızmasının itibarımız üzerindeki yıkıcı etkisini hesaba kattınız mı?",
+      "Yapısal değişikliklerin çalışanların moraline olan psikolojik etkisini hesaba kattınız mı?",
+      "Teknolojik eskimenin rekabet gücümüz üzerindeki etkisini hesaba kattınız mı?",
+      "Piyasa dalgalanmalarının yatırımlarımız üzerindeki etkisini hesaba kattınız mı?",
+      "Sektörümüzdeki otomasyonun sosyal etkisini hesaba kattınız mı?"
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Bunu aşmanın bir yolu — ...",
+    "translation": "One way around this is to ...",
+    "b1": [
+      "Bunu aşmanın bir yolu — başka yoldan gitmek.",
+      "Bunu aşmanın bir yolu — başka birine sormak.",
+      "Bunu aşmanın bir yolu — zamanı değiştirmek.",
+      "Bunu aşmanın bir yolu — mola vermek.",
+      "Bunu aşmanın bir yolu — biraz kurnazlık yapmak."
+    ],
+    "b2": [
+      "Bunu aşmanın bir yolu — geçici bir hesap oluşturmak.",
+      "Bunu aşmanın bir yolu — bir aracı kullanmak.",
+      "Bunu aşmanın bir yolu — tasarımı biraz değiştirmek.",
+      "Bunu aşmanın bir yolu — alternatif bir hizmet sunmak.",
+      "Bunu aşmanın bir yolu — açık kaynaklı bir yazılım kullanmak."
+    ],
+    "c1": [
+      "Bunu aşmanın bir yolu — üretimi serbest ekonomik bölgeye taşımak.",
+      "Bunu aşmanın bir yolu — sözleşme şartlarını kendi lehimize yeniden yorumlamak.",
+      "Bunu aşmanın bir yolu — merkeziyetsiz bir hukuki yapı kurmak.",
+      "Bunu aşmanın bir yolu — mevcut sistemin zayıf noktalarından yararlanmak.",
+      "Bunu aşmanın bir yolu — siyasi karar alıcılara lobi yapmaya başlamak."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "... yoluyla riski azaltabilirdik",
+    "translation": "We could mitigate the risk by ...",
+    "b1": [
+      "Dikkatli olmak yoluyla riski azaltabilirdik.",
+      "Kask takmak yoluyla riski azaltabilirdik.",
+      "İki kez kontrol etmek yoluyla riski azaltabilirdik.",
+      "Yardım istemek yoluyla riski azaltabilirdik.",
+      "Sabırlı olmak yoluyla riski azaltabilirdik."
+    ],
+    "b2": [
+      "Tam kapsamlı sigorta yaptırmak yoluyla riski azaltabilirdik.",
+      "Yatırımlarımızı çeşitlendirmek yoluyla riski azaltabilirdik.",
+      "Çalışanlarımızı daha iyi eğitmek yoluyla riski azaltabilirdik.",
+      "Güvenlik sistemlerimizi güncellemek yoluyla riski azaltabilirdik.",
+      "Önceden pazar araştırması yapmak yoluyla riski azaltabilirdik."
+    ],
+    "c1": [
+      "Sıkı uyum protokolleri uygulamak yoluyla riski azaltabilirdik.",
+      "Finansal riskten korunma (hedging) stratejisi benimsemek yoluyla riski azaltabilirdik.",
+      "Kritik altyapılarımızda yedekler oluşturmak yoluyla riski azaltabilirdik.",
+      "Gelecek yasal değişiklikleri önceden tahmin etmek yoluyla riski azaltabilirdik.",
+      "Küresel ölçekte tedarik kaynaklarını çeşitlendirmek yoluyla riski azaltabilirdik."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Belki de ... temel nedenine bakmalıyız",
+    "translation": "Perhaps we should look at the root cause of ...",
+    "b1": [
+      "Belki de yorgunluğunun temel nedenine bakmalıyız.",
+      "Belki de bu gürültünün temel nedenine bakmalıyız.",
+      "Belki de arızanın temel nedenine bakmalıyız.",
+      "Belki de gecikmenin temel nedenine bakmalıyız.",
+      "Belki de bu hatanın temel nedenine bakmalıyız."
+    ],
+    "b2": [
+      "Belki de satışlardaki düşüşün temel nedenine bakmalıyız.",
+      "Belki de müşteri memnuniyetsizliğinin temel nedenine bakmalıyız.",
+      "Belki de yüksek çalışan sirkülasyonunun temel nedenine bakmalıyız.",
+      "Belki de teslimat gecikmelerinin temel nedenine bakmalıyız.",
+      "Belki de motivasyon eksikliğinin temel nedenine bakmalıyız."
+    ],
+    "c1": [
+      "Belki de gözlemlenen sistemik aksaklıkların temel nedenine bakmalıyız.",
+      "Belki de sektörümüzdeki yabancılaşmanın temel nedenine bakmalıyız.",
+      "Belki de finansal piyasalardaki kronik istikrarsızlığın temel nedenine bakmalıyız.",
+      "Belki de kurumlara olan güven kaybının temel nedenine bakmalıyız.",
+      "Belki de iç inovasyonların duraklamasının temel nedenine bakmalıyız."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Bir sonraki acil adım — ...",
+    "translation": "The immediate next step should be ...",
+    "b1": [
+      "Bir sonraki acil adım — onu aramak.",
+      "Bir sonraki acil adım — bu mektubu bitirmek.",
+      "Bir sonraki acil adım — yemek yemek.",
+      "Bir sonraki acil adım — ekmek satın almak.",
+      "Bir sonraki acil adım — masayı toplamak."
+    ],
+    "b2": [
+      "Bir sonraki acil adım — nihai bütçeyi onaylamak.",
+      "Bir sonraki acil adım — tüm çalışanları değişiklikler hakkında bilgilendirmek.",
+      "Bir sonraki acil adım — toplantı gününü belirlemek.",
+      "Bir sonraki acil adım — müşterilere davetiye göndermek.",
+      "Bir sonraki acil adım — prototipi test etmek."
+    ],
+    "c1": [
+      "Bir sonraki acil adım — durumu kontrol altına almak için bir kriz masası kurmak.",
+      "Bir sonraki acil adım — öncelikli olmayan tüm yatırımları durdurmak.",
+      "Bir sonraki acil adım — kapsamlı bir iç denetim yürütmek.",
+      "Bir sonraki acil adım — stratejik ortaklığımızın şartlarını yeniden müzakere etmek.",
+      "Bir sonraki acil adım — önümüzdeki çeyrek için gelir hedeflerini yeniden belirlemek."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "... hakkında farklı bir bakış açısı olan var mı?",
+    "translation": "Does anyone have a different perspective on ...?",
+    "b1": [
+      "Bu film hakkında farklı bir bakış açısı olan var mı?",
+      "Seyahat hakkında farklı bir bakış açısı olan var mı?",
+      "Fiyat hakkında farklı bir bakış açısı olan var mı?",
+      "Yemek hakkında farklı bir bakış açısı olan var mı?",
+      "Renk hakkında farklı bir bakış açısı olan var mı?"
+    ],
+    "b2": [
+      "Benimsenecek pazarlama stratejisi hakkında farklı bir bakış açısı olan var mı?",
+      "Bu başarısızlığın nedeni hakkında farklı bir bakış açısı olan var mı?",
+      "Etkinliğin organizasyonu hakkında farklı bir bakış açısı olan var mı?",
+      "Kullanıcıların ihtiyaçları hakkında farklı bir bakış açısı olan var mı?",
+      "Ekonomik tahminler hakkında farklı bir bakış açısı olan var mı?"
+    ],
+    "c1": [
+      "Bu modelin uzun vadeli uygulanabilirliği hakkında farklı bir bakış açısı olan var mı?",
+      "Bu teknolojinin etik sonuçları hakkında farklı bir bakış açısı olan var mı?",
+      "Kültürel çeşitliliğin yönetimi hakkında farklı bir bakış açısı olan var mı?",
+      "Bu iki olgu arasındaki ilişki hakkında farklı bir bakış açısı olan var mı?",
+      "Kağıtsız sisteme geçişin etkisi hakkında farklı bir bakış açısı olan var mı?"
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Kısa vadede ... yapabiliriz",
+    "translation": "In the short term, we can do ...",
+    "b1": [
+      "Kısa vadede bir mola verebiliriz.",
+      "Kısa vadede bir sandviç satın alabiliriz.",
+      "Kısa vadede odayı temizleyebiliriz.",
+      "Kısa vadede yardım isteyebiliriz.",
+      "Kısa vadede bu eski bisikleti kullanabiliriz."
+    ],
+    "b2": [
+      "Kısa vadede reklam harcamalarını azaltabiliriz.",
+      "Kısa vadede bir dış danışman tutabiliriz.",
+      "Kısa vadede promosyonel bir teklif yapabiliriz.",
+      "Kısa vadede şirket içi eğitim düzenleyebiliriz.",
+      "Kısa vadede müşteri hizmetlerini iyileştirebiliriz."
+    ],
+    "c1": [
+      "Kısa vadede durumu istikrara kavuşturmak için nakit akışı sağlayabiliriz.",
+      "Kısa vadede büyük yatırımlar yapmadan mevcut süreçleri optimize edebiliriz.",
+      "Kısa vadede alacaklılarla vadeleri yeniden müzakere edebiliriz.",
+      "Kısa vadede bir kriz iletişim kampanyası başlatabiliriz.",
+      "Kısa vadede kilit çalışanlarımızı elde tutmaya odaklanabiliriz."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "... için bir sistem kurmalıyız",
+    "translation": "We should implement a system for ...",
+    "b1": [
+      "Geri dönüşüm için bir sistem kurmalıyız.",
+      "Temizlik için bir sistem kurmalıyız.",
+      "Ödeme yapmak için bir sistem kurmalıyız.",
+      "Toplanmak için bir sistem kurmalıyız.",
+      "Oy vermek için bir sistem kurmalıyız."
+    ],
+    "b2": [
+      "Çalışma saatlerini takip etmek için bir sistem kurmalıyız.",
+      "Müşteri memnuniyetini değerlendirmek için bir sistem kurmalıyız.",
+      "Stokları gerçek zamanlı yönetmek için bir sistem kurmalıyız.",
+      "Belgeleri çevrimiçi paylaşmak için bir sistem kurmalıyız.",
+      "Enerji tüketimini azaltmak için bir sistem kurmalıyız."
+    ],
+    "c1": [
+      "Olası dolandırıcılıkları tespit etmek için bir sistem kurmalıyız.",
+      "Mevzuata uygunluğu otomatikleştirmek için bir sistem kurmalıyız.",
+      "Müşterilerin tahmini davranışlarını analiz etmek için bir sistem kurmalıyız.",
+      "Ürünlerimizin tam izlenebilirliğini sağlamak için bir sistem kurmalıyız.",
+      "Proaktif inovasyonları teşvik etmek için bir sistem kurmalıyız."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "... artılarını ve eksilerini değerlendirelim",
+    "translation": "Let's evaluate the pros and cons of ...",
+    "b1": [
+      "Bu seyahatin artılarını ve eksilerini değerlendirelim.",
+      "Bu arabanın artılarını ve eksilerini değerlendirelim.",
+      "Bu yeni işin artılarını ve eksilerini değerlendirelim.",
+      "Dışarıda yemek yemenin artılarını ve eksilerini değerlendirelim.",
+      "Bu hediyenin artılarını ve eksilerini değerlendirelim."
+    ],
+    "b2": [
+      "Üretimi dış kaynaklara devretmenin artılarını ve eksilerini değerlendirelim.",
+      "Hizmetlerimize yapay zeka dahil etmenin artılarını ve eksilerini değerlendirelim.",
+      "Dört günlük çalışma haftasının artılarını ve eksilerini değerlendirelim.",
+      "Tamamen dijital sisteme geçmenin artılarını ve eksilerini değerlendirelim.",
+      "Yeni bir şube açmanın artılarını ve eksilerini değerlendirelim."
+    ],
+    "c1": [
+      "Bu riskli birleşmenin artılarını ve eksilerini değerlendirelim.",
+      "Yönetimi tamamen merkeziyetsizleştirmenin artılarını ve eksilerini değerlendirelim.",
+      "Döngüsel ekonomik modeli benimsemenin artılarını ve eksilerini değerlendirelim.",
+      "Fosil yakıtlardan kademeli olarak vazgeçmenin artılarını ve eksilerini değerlendirelim.",
+      "Platformumuzdaki gizliliği kaldırmanın artılarını ve eksilerini değerlendirelim."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Başarılı olmak için önce ... çözmeliyiz",
+    "translation": "To ensure success, we must first address ...",
+    "b1": [
+      "Başarılı olmak için önce para meselesini çözmeliyiz.",
+      "Başarılı olmak için önce zaman meselesini çözmeliyiz.",
+      "Başarılı olmak için önce organizasyonu çözmeliyiz.",
+      "Başarılı olmak için önce şehir seçimini çözmeliyiz.",
+      "Başarılı olmak için önce hava durumunu çözmeliyiz."
+    ],
+    "b2": [
+      "Başarılı olmak için önce teknik eğitim eksikliğini çözmeliyiz.",
+      "Başarılı olmak için önce iç iletişim sorunlarını çözmeliyiz.",
+      "Başarılı olmak için önce müşterilerin gerçek beklentilerini çözmeliyiz.",
+      "Başarılı olmak için önce olası yasal riskleri çözmeliyiz.",
+      "Başarılı olmak için önce uzun vadeli finansman sorununu çözmeliyiz."
+    ],
+    "c1": [
+      "Başarılı olmak için önce değişime karşı oluşan kültürel direnci çözmeliyiz.",
+      "Başarılı olmak için önce lojistik zincirimizin zayıflığını çözmeliyiz.",
+      "Başarılı olmak için önce BT altyapımızın eskimesini çözmeliyiz.",
+      "Başarılı olmak için önce dijital egemenlik meselesini çözmeliyiz.",
+      "Başarılı olmak için önce yönetim kurulundaki ideolojik anlaşmazlıkları çözmeliyiz."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Önümüzdeki en büyük engel — ...",
+    "translation": "The biggest obstacle standing in the way is ...",
+    "b1": [
+      "Önümüzdeki en büyük engel — dil.",
+      "Önümüzdeki en büyük engel — fiyat.",
+      "Önümüzdeki en büyük engel — mesafe.",
+      "Önümüzdeki en büyük engel — yorgunluk.",
+      "Önümüzdeki en büyük engel — zaman."
+    ],
+    "b2": [
+      "Önümüzdeki en büyük engel — halkın ilgisizliği.",
+      "Önümüzdeki en büyük engel — bu alandaki sert rekabet.",
+      "Önümüzdeki en büyük engel — idari karmaşıklık.",
+      "Önümüzdeki en büyük engel — bu yılki bütçe yetersizliği.",
+      "Önümüzdeki en büyük engel — çalışanların değişime karşı direnci."
+    ],
+    "c1": [
+      "Önümüzdeki en büyük engel — büyük yapılara özgü bürokratik atalet.",
+      "Önümüzdeki en büyük engel — uluslararası düzeydeki yasal istikrarsızlık.",
+      "Önümüzdeki en büyük engel — ham maddelerin küresel çapta kıtlığı.",
+      "Önümüzdeki en büyük engel — teknolojik arz ile toplumsal talep arasındaki uçurum.",
+      "Önümüzdeki en büyük engel — kamuoyunun kutuplaşması."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Önerdiğim yaklaşım ... içeriyor",
+    "translation": "My proposed approach involves ...",
+    "b1": [
+      "Önerdiğim yaklaşım daha fazla konuşmayı içeriyor.",
+      "Önerdiğim yaklaşım birlikte çalışmayı içeriyor.",
+      "Önerdiğim yaklaşım her gün ders çalışmayı içeriyor.",
+      "Önerdiğim yaklaşım spor yapmayı içeriyor.",
+      "Önerdiğim yaklaşım düzenli beslenmeyi içeriyor."
+    ],
+    "b2": [
+      "Önerdiğim yaklaşım gereksiz toplantıları azaltmayı içeriyor.",
+      "Önerdiğim yaklaşım çevrimiçi reklamlara yatırım yapmayı içeriyor.",
+      "Önerdiğim yaklaşım küçük özerk ekipler kurmayı içeriyor.",
+      "Önerdiğim yaklaşım ürünü küçük bir örneklemde test etmeyi içeriyor.",
+      "Önerdiğim yaklaşım influencer'larla çalışmayı içeriyor."
+    ],
+    "c1": [
+      "Önerdiğim yaklaşım mevcut süreçleri sadeleştirmek için onları parçalara ayırmayı içeriyor.",
+      "Önerdiğim yaklaşım üretimin tüm aşamalarına yapay zekayı dahil etmeyi içeriyor.",
+      "Önerdiğim yaklaşım niceliksel değil, niteliksel büyümeye öncelik vermeyi içeriyor.",
+      "Önerdiğim yaklaşım yatay yapı aracılığıyla her bir çalışana sorumluluk vermeyi içeriyor.",
+      "Önerdiğim yaklaşım dış şoklara karşı bir dayanıklılık stratejisi uygulamayı içeriyor."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Belki de eksik olan parça — ...",
+    "translation": "Perhaps the missing piece is ...",
+    "b1": [
+      "Belki de eksik olan parça — sabır.",
+      "Belki de eksik olan parça — zaman.",
+      "Belki de eksik olan parça — sevgi.",
+      "Belki de eksik olan parça — müzik.",
+      "Belki de eksik olan parça — senin gülüşün."
+    ],
+    "b2": [
+      "Belki de eksik olan parça — daha iyi bir iç iletişim.",
+      "Belki de eksik olan parça — müşterilerimizin doğrudan geri bildirimi.",
+      "Belki de eksik olan parça — daha büyük bir pazarlama bütçesi.",
+      "Belki de eksik olan parça — yeni teknolojilerin kullanımı.",
+      "Belki de eksik olan parça — takvimimizin esnekliği."
+    ],
+    "c1": [
+      "Belki de eksik olan parça — teknolojik ilerlemeye felsefi bir bakış açısı.",
+      "Belki de eksik olan parça — üst yönetim kadrosu arasındaki empati.",
+      "Belki de eksik olan parça — değişime yönelik somut siyasi irade.",
+      "Belki de eksik olan parça — derin sosyo-kültürel dinamikleri anlama kabiliyeti.",
+      "Belki de eksik olan parça — ekonomik verimliliğin ötesinde bir anlam arayışı."
+    ]
+  }
+]

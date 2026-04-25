@@ -1,0 +1,34 @@
+---
+import IvriahLayout from "../../../layouts/IvriahLayout.astro";
+import BoxFrontier from "../../../components/BoxFrontier.astro";
+import ButtonFrontier2rtl from "../../../components/ButtonFrontier2rtl.astro";
+
+import chapters from "../../../assets/json/patterns/chapters.json";
+
+const pageTitle = "히브리어 패턴";
+---
+
+<IvriahLayout pageTitle={pageTitle + " | Ivriah"}>
+  <BoxFrontier
+    title="Tavniyot"
+    subtitle="히브리어 패턴"
+    description="단 하나의 패턴으로 수만 개의 문장을 만들어보세요. 문법에 대한 복잡한 고민은 필요 없습니다. 회화 실력을 빠르게 끌어올리는 가장 효율적인 방법을 경험해보세요."
+    language="heb"
+  />
+
+  <h2>
+    <span class="animated-underline-heb">CEFR B1 - C1</span>
+  </h2>
+
+  {
+    chapters.map((post: any) => (
+      <ButtonFrontier2rtl
+        id={post.id}
+        title={post.heb}
+        subtitle={post.kor}
+        language="heb"
+        path={"/ivriah/pattern/" + post.path}
+      />
+    ))
+  }
+</IvriahLayout>

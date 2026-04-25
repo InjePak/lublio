@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Both ... and ... are important because ...",
+    "translation": "...와 ... 둘 다 중요합니다. 왜냐하면 ...",
+    "b1": [
+      "Both food and water are important because we need them to live.",
+      "Both exercise and sleep are important because they keep us healthy.",
+      "Both reading and writing are important because they help us learn.",
+      "Both cars and buses are important because they help us travel.",
+      "Both sun and rain are important because plants need them to grow."
+    ],
+    "b2": [
+      "Both teamwork and leadership are important because they drive project success.",
+      "Both hard skills and soft skills are important because they make you a better employee.",
+      "Both marketing and product quality are important because they attract customers.",
+      "Both tradition and innovation are important because they balance a society's growth.",
+      "Both theory and practice are important because they provide a complete understanding."
+    ],
+    "c1": [
+      "Both fiscal responsibility and social welfare are important because they ensure long-term stability.",
+      "Both qualitative and quantitative research are important because they offer a holistic view of the data.",
+      "Both transparency and privacy are important because they maintain public trust in institutions.",
+      "Both environmental sustainability and economic growth are important because they dictate our future quality of life.",
+      "Both individual freedom and collective security are important because they are the pillars of a democratic society."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Unlike ..., however, ...",
+    "translation": "...와 달리, ...",
+    "b1": [
+      "Unlike dogs, however, cats are very quiet.",
+      "Unlike summer, however, winter is very cold.",
+      "Unlike math, however, art is very creative.",
+      "Unlike trains, however, planes are very fast.",
+      "Unlike tea, however, coffee is very strong."
+    ],
+    "b2": [
+      "Unlike the previous model, however, this version is much more energy-efficient.",
+      "Unlike my brother, however, I prefer spending time alone reading.",
+      "Unlike large corporations, however, small startups can adapt to change quickly.",
+      "Unlike traditional marketing, however, digital ads provide real-time data.",
+      "Unlike public transport, however, owning a car gives you more freedom."
+    ],
+    "c1": [
+      "Unlike the industrial era, however, the digital age prioritizes intellectual property over raw materials.",
+      "Unlike established theories, however, this new hypothesis challenges the existing paradigm.",
+      "Unlike conservative estimates, however, the actual growth surpassed all expectations.",
+      "Unlike direct intervention, however, soft power relies on cultural influence and diplomacy.",
+      "Unlike centralized management, however, a flat hierarchy encourages individual initiative."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "The main difference between ... and ... is that ...",
+    "translation": "...와 ...의 주요 차이점은 ...라는 것입니다.",
+    "b1": [
+      "The main difference between apples and oranges is that oranges have more juice.",
+      "The main difference between a house and a flat is that a house has a garden.",
+      "The main difference between land and sea is that the sea is made of water.",
+      "The main difference between old and new cars is that new cars are safer.",
+      "The main difference between day and night is that the sun shines during the day."
+    ],
+    "b2": [
+      "The main difference between a leader and a manager is that a leader inspires people.",
+      "The main difference between work and a hobby is that work provides an income.",
+      "The main difference between the two plans is that the second one costs less money.",
+      "The main difference between city life and country life is the level of noise.",
+      "The main difference between success and failure is often the amount of persistence."
+    ],
+    "c1": [
+      "The main difference between the two economic models is that one focuses on privatization.",
+      "The main difference between instinctive and learned behavior is the role of environmental factors.",
+      "The main difference between these political philosophies is their view on individual rights.",
+      "The main difference between empathy and sympathy is the depth of emotional connection.",
+      "The main difference between growth and development is the qualitative aspect of progress."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "... is similar to ... in that ...",
+    "translation": "...는 ...라는 점에서 ...와 유사합니다.",
+    "b1": [
+      "A bike is similar to a car in that it can take you to places.",
+      "An orange is similar to a lemon in that it is a fruit.",
+      "A teacher is similar to a parent in that they help children.",
+      "Running is similar to swimming in that it is good exercise.",
+      "A phone is similar to a computer in that you can use the internet."
+    ],
+    "b2": [
+      "The new software is similar to the old one in that the interface is easy to use.",
+      "This project is similar to the last one in that it requires a lot of teamwork.",
+      "Learning a language is similar to playing an instrument in that you need daily practice.",
+      "Living in London is similar to New York in that both cities are very busy.",
+      "Starting a business is similar to a marathon in that you need long-term endurance."
+    ],
+    "c1": [
+      "The current crisis is similar to the 2008 recession in that it was triggered by a lack of regulation.",
+      "Human cognition is similar to machine learning in that it relies on pattern recognition.",
+      "Social media is similar to traditional propaganda in that it can manipulate public opinion.",
+      "The rise of AI is similar to the Industrial Revolution in that it will redefine the nature of work.",
+      "A healthy ecosystem is similar to a balanced economy in that both require diversity to survive."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "While ... has X, ... has Y.",
+    "translation": "...가 X를 가진 반면, ...는 Y를 가집니다.",
+    "b1": [
+      "While summer has sun, winter has snow.",
+      "While birds have wings, fish have fins.",
+      "While he has a car, I have a bike.",
+      "While apples have red skin, bananas have yellow skin.",
+      "While the kitchen has a stove, the bedroom has a bed."
+    ],
+    "b2": [
+      "While the first floor has the office, the second floor has the meeting rooms.",
+      "While online shopping has convenience, physical stores have better service.",
+      "While city life has more jobs, country life has more fresh air.",
+      "While this plan has high risks, it also has the potential for high rewards.",
+      "While my father has a lot of experience, my brother has a lot of energy."
+    ],
+    "c1": [
+      "While the democratic system has transparency, the authoritarian system has efficiency.",
+      "While the previous strategy had short-term gains, the new approach has long-term sustainability.",
+      "While the urban area has advanced infrastructure, the rural region has a sense of community.",
+      "While quantitative data has precision, qualitative data has depth and context.",
+      "While his theory has logical consistency, it unfortunately has little empirical support."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "On the one hand ..., but on the other hand, ...",
+    "translation": "한편으로는 ..., 하지만 다른 한편으로는, ...",
+    "b1": [
+      "On the one hand I want to go out, but on the other hand it is raining.",
+      "On the one hand the car is fast, but on the other hand it is expensive.",
+      "On the one hand the city is busy, but on the other hand it is exciting.",
+      "On the one hand I like the food, but on the other hand it is too spicy.",
+      "On the one hand I need to work, but on the other hand I am tired."
+    ],
+    "b2": [
+      "On the one hand technology makes us connected, but on the other hand it can feel lonely.",
+      "On the one hand remote work is flexible, but on the other hand it's hard to separate work and life.",
+      "On the one hand the city offers many jobs, but on the other hand the cost of living is high.",
+      "On the one hand a big house is nice, but on the other hand it takes a lot of time to clean.",
+      "On the one hand I want to save money, but on the other hand I want to travel the world."
+    ],
+    "c1": [
+      "On the one hand globalization fosters economic growth, but on the other hand it can lead to cultural erosion.",
+      "On the one hand strict regulation ensures safety, but on the other hand it may stifle innovation.",
+      "On the one hand transparency is essential for trust, but on the other hand it may compromise security.",
+      "On the one hand automation increases efficiency, but on the other hand it threatens job stability.",
+      "On the one hand a strong currency benefits importers, but on the other hand it hurts the export sector."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "In comparison to ..., ...",
+    "translation": "...와 비교하여, ...",
+    "b1": [
+      "In comparison to a cat, a dog is much louder.",
+      "In comparison to summer, spring is more beautiful.",
+      "In comparison to a bus, a car is much faster.",
+      "In comparison to my old phone, this new one is better.",
+      "In comparison to math, English is easier for me."
+    ],
+    "b2": [
+      "In comparison to last year, our sales have increased by 20%.",
+      "In comparison to other cities, the public transport here is very efficient.",
+      "In comparison to the first draft, the final report is much more professional.",
+      "In comparison to hiring new staff, training existing employees is more cost-effective.",
+      "In comparison to traditional methods, this new approach saves a lot of time."
+    ],
+    "c1": [
+      "In comparison to historical data, the current market trends are highly anomalous.",
+      "In comparison to its neighbors, the country has a remarkably stable economy.",
+      "In comparison to the theoretical model, the real-world application proved more complex.",
+      "In comparison to previous generations, today's youth are much more tech-savvy.",
+      "In comparison to direct taxation, indirect taxes often place a burden on lower-income groups."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Conversely, the situation with ... is quite different.",
+    "translation": "반대로 ...의 상황은 상당히 다릅니다.",
+    "b1": [
+      "I love rain. Conversely, the situation with my cat is quite different; he hates it.",
+      "Summer is hot. Conversely, the situation with winter is quite different.",
+      "Cities are loud. Conversely, the situation with villages is quite different.",
+      "The car is fast. Conversely, the situation with the bike is quite different.",
+      "I am happy. Conversely, the situation with him is quite different."
+    ],
+    "b2": [
+      "The first project was a success. Conversely, the situation with the second project is quite different.",
+      "Online sales are rising. Conversely, the situation with physical stores is quite different.",
+      "Large companies have huge budgets. Conversely, the situation with startups is quite different.",
+      "The north is very cold. Conversely, the situation with the south is quite different.",
+      "Most people like the new policy. Conversely, the situation with the staff is quite different."
+    ],
+    "c1": [
+      "Urban areas are experiencing rapid growth. Conversely, the situation with rural regions is quite different.",
+      "Developed nations are focusing on services. Conversely, the situation with emerging economies is quite different.",
+      "The private sector is booming. Conversely, the situation with the public sector is quite different.",
+      "Inflation is stable in Europe. Conversely, the situation with several South American nations is quite different.",
+      "The primary market is saturated. Conversely, the situation with the secondary market is quite different."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "They share several common characteristics, such as ...",
+    "translation": "그들은 ...와 같은 몇 가지 공통적인 특징을 공유합니다.",
+    "b1": [
+      "They share several common characteristics, such as being small and friendly.",
+      "They share several common characteristics, such as color and size.",
+      "They share several common characteristics, such as having four legs and a tail.",
+      "They share several common characteristics, such as being fast and expensive.",
+      "They share several common characteristics, such as liking water and sunshine."
+    ],
+    "b2": [
+      "They share several common characteristics, such as a focus on customer service and quality.",
+      "They share several common characteristics, such as high energy and a positive attitude.",
+      "They share several common characteristics, such as a simple design and ease of use.",
+      "They share several common characteristics, such as a commitment to innovation and growth.",
+      "They share several common characteristics, such as a strong brand identity and loyal customers."
+    ],
+    "c1": [
+      "They share several common characteristics, such as a reliance on advanced algorithmic models.",
+      "They share several common characteristics, such as an emphasis on hierarchical structures and discipline.",
+      "They share several common characteristics, such as a tendency toward protectionism and economic isolation.",
+      "They share several common characteristics, such as an inherent vulnerability to market fluctuations.",
+      "They share several common characteristics, such as a dedication to ethical research and transparency."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "The degree of ... is much greater in ... than in ...",
+    "translation": "...의 정도는 ...보다 ...에서 훨씬 큽니다.",
+    "b1": [
+      "The degree of noise is much greater in the city than in the village.",
+      "The degree of heat is much greater in summer than in spring.",
+      "The degree of fun is much greater in the park than at school.",
+      "The degree of cold is much greater in the mountains than in the city.",
+      "The degree of danger is much greater in the sea than in the pool."
+    ],
+    "b2": [
+      "The degree of competition is much greater in the tech industry than in other sectors.",
+      "The degree of flexibility is much greater in remote work than in office work.",
+      "The degree of risk is much greater in this investment than in a savings account.",
+      "The degree of difficulty is much greater in the final exam than in the midterm.",
+      "The degree of pollution is much greater in industrial areas than in residential areas."
+    ],
+    "c1": [
+      "The degree of complexity is much greater in quantum physics than in classical mechanics.",
+      "The degree of economic disparity is much greater in urban centers than in rural communities.",
+      "The degree of social mobility is much greater in democratic societies than in caste systems.",
+      "The degree of uncertainty is much greater in emerging markets than in developed ones.",
+      "The degree of automation is much greater in manufacturing than in the service industry."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Although ... is true, we must also consider ...",
+    "translation": "비록 ...이 사실이지만, 저희는 또한 ...를 고려해야 합니다.",
+    "b1": [
+      "Although the car is fast, we must also consider its high price.",
+      "Although the food is good, we must also consider the small portions.",
+      "Although it is sunny, we must also consider the strong wind.",
+      "Although he is smart, we must also consider his lack of experience.",
+      "Although the house is big, we must also consider the distance from the city."
+    ],
+    "b2": [
+      "Although the new strategy is working, we must also consider the long-term costs.",
+      "Although the deadline is tight, we must also consider the quality of the final product.",
+      "Although the technology is advanced, we must also consider the potential security risks.",
+      "Although she is a great leader, we must also consider the needs of the individual members.",
+      "Although the city is exciting, we must also consider the high cost of living there."
+    ],
+    "c1": [
+      "Although globalization has benefits, we must also consider its impact on local cultures.",
+      "Although automation increases efficiency, we must also consider the socio-economic effects on labor.",
+      "Although economic growth is essential, we must also consider the environmental consequences.",
+      "Although transparency is vital, we must also consider the ethical implications of data privacy.",
+      "Although the theory is logically sound, we must also consider the lack of empirical evidence."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "A significant point of divergence is ...",
+    "translation": "중요한 차이점은 ...입니다.",
+    "b1": [
+      "A significant point of divergence is the price.",
+      "A significant point of divergence is the color of the car.",
+      "A significant point of divergence is the size of the room.",
+      "A significant point of divergence is the time we start.",
+      "A significant point of divergence is the flavor of the cake."
+    ],
+    "b2": [
+      "A significant point of divergence is the way each team handles customer complaints.",
+      "A significant point of divergence is the level of automation in the two factories.",
+      "A significant point of divergence is the target audience for each marketing campaign.",
+      "A significant point of divergence is the legal framework in the different countries.",
+      "A significant point of divergence is the approach to employee training and development."
+    ],
+    "c1": [
+      "A significant point of divergence is the underlying philosophical assumption of each study.",
+      "A significant point of divergence is the methodology used for data collection and analysis.",
+      "A significant point of divergence is the long-term vision for the organizational structure.",
+      "A significant point of divergence is the level of governmental intervention in the market.",
+      "A significant point of divergence is the ethical standard applied to the research process."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "They are fundamentally similar, except for ...",
+    "translation": "...을 제외하고는, 그것들은 근본적으로 유사합니다.",
+    "b1": [
+      "They are fundamentally similar, except for the color.",
+      "They are fundamentally similar, except for the size.",
+      "They are fundamentally similar, except for the price.",
+      "They are fundamentally similar, except for the name.",
+      "They are fundamentally similar, except for the location."
+    ],
+    "b2": [
+      "They are fundamentally similar, except for the specific software they use for design.",
+      "They are fundamentally similar, except for the target market they are aiming for.",
+      "They are fundamentally similar, except for the way they organize their internal meetings.",
+      "They are fundamentally similar, except for the level of risk each one is willing to take.",
+      "They are fundamentally similar, except for the types of materials used in production."
+    ],
+    "c1": [
+      "They are fundamentally similar, except for the underlying ethical principles they follow.",
+      "They are fundamentally similar, except for the theoretical framework they use for analysis.",
+      "They are fundamentally similar, except for the long-term strategic goals of the organization.",
+      "They are fundamentally similar, except for the regulatory environment in which they operate.",
+      "They are fundamentally similar, except for the degree of stakeholder involvement in the project."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "... is far more effective than ... because ...",
+    "translation": "...는 ...보다 훨씬 더 효과적입니다. 왜냐하면 ...",
+    "b1": [
+      "A car is far more effective than a bike because it is faster.",
+      "Walking is far more effective than driving because it is healthier.",
+      "Email is far more effective than letters because it is instant.",
+      "Saving money is far more effective than spending it because you can buy a house.",
+      "This tool is far more effective than that one because it is sharper."
+    ],
+    "b2": [
+      "Online advertising is far more effective than print because you can target specific audiences.",
+      "Teamwork is far more effective than working alone because you can share the workload.",
+      "Active learning is far more effective than passive reading because you remember more information.",
+      "Direct communication is far more effective than texting because it avoids misunderstandings.",
+      "A healthy diet is far more effective than pills because it provides long-term benefits."
+    ],
+    "c1": [
+      "A decentralized approach is far more effective than a hierarchical one because it encourages innovation.",
+      "Qualitative analysis is far more effective than quantitative for understanding human behavior because it offers context.",
+      "A proactive strategy is far more effective than a reactive one because it mitigates risks before they occur.",
+      "Internal motivation is far more effective than external rewards because it leads to long-term engagement.",
+      "Soft power is far more effective than hard power in modern diplomacy because it builds lasting alliances."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "We can draw a parallel between ... and ...",
+    "translation": "...와 ... 사이에 유사점을 찾을 수 있습니다.",
+    "b1": [
+      "We can draw a parallel between learning to ride a bike and learning to swim.",
+      "We can draw a parallel between the two stories.",
+      "We can draw a parallel between a teacher and a guide.",
+      "We can draw a parallel between building a house and growing a garden.",
+      "We can draw a parallel between the sun and a big lamp."
+    ],
+    "b2": [
+      "We can draw a parallel between the current market trends and those of the 1990s.",
+      "We can draw a parallel between managing a sports team and leading a business.",
+      "We can draw a parallel between biological evolution and the development of technology.",
+      "We can draw a parallel between learning a language and training for a marathon.",
+      "We can draw a parallel between the way a family works and a small company."
+    ],
+    "c1": [
+      "We can draw a parallel between the decline of the Roman Empire and modern geopolitical shifts.",
+      "We can draw a parallel between the structure of a brain and the design of a neural network.",
+      "We can draw a parallel between the ethical dilemmas in medicine and those in artificial intelligence.",
+      "We can draw a parallel between the psychological effects of isolation and those of social media addiction.",
+      "We can draw a parallel between the principles of music theory and the laws of mathematical proportion."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Neither ... nor ... provides ...",
+    "translation": "...도 ...도 ...을 제공하지 않습니다.",
+    "b1": [
+      "Neither the bus nor the train provides a direct route.",
+      "Neither my mom nor my dad provides the answer.",
+      "Neither the red pen nor the blue pen provides enough ink.",
+      "Neither coffee nor tea provides me with enough energy today.",
+      "Neither the shop nor the mall provides this toy."
+    ],
+    "b2": [
+      "Neither the first plan nor the second one provides a realistic budget.",
+      "Neither the manager nor the supervisor provides a clear explanation of the rules.",
+      "Neither the old software nor the new version provides the features we need.",
+      "Neither social media nor television provides a truly objective view of the situation.",
+      "Neither the salary nor the benefits provide a good reason to stay in this job."
+    ],
+    "c1": [
+      "Neither the conservative nor the liberal approach provides a comprehensive solution to the problem.",
+      "Neither the theoretical model nor the empirical data provides enough evidence for a conclusion.",
+      "Neither privatization nor nationalization provides the ideal framework for this specific industry.",
+      "Neither the intrinsic nor the extrinsic factors provide a full explanation for human motivation.",
+      "Neither the legal nor the ethical codes provide a clear path forward in this complex situation."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "When balanced against ..., ... appears to be ...",
+    "translation": "...와 균형을 이룰 때, ...은 ...한 것 같습니다.",
+    "b1": [
+      "When balanced against the cost, the car appears to be a good deal.",
+      "When balanced against the rain, the trip appears to be a bad idea.",
+      "When balanced against the time, the job appears to be easy.",
+      "When balanced against the noise, the city appears to be exciting.",
+      "When balanced against the risk, the game appears to be fun."
+    ],
+    "b2": [
+      "When balanced against the potential rewards, the risk appears to be manageable.",
+      "When balanced against the competitors, our product appears to be the best choice.",
+      "When balanced against the limited budget, this plan appears to be the most realistic.",
+      "When balanced against the high cost of living, the salary appears to be too low.",
+      "When balanced against the benefits, the extra work appears to be worth it."
+    ],
+    "c1": [
+      "When balanced against the ethical implications, the profit appears to be insignificant.",
+      "When balanced against the historical context, the current situation appears to be unprecedented.",
+      "When balanced against the long-term goals, the short-term gains appear to be superficial.",
+      "When balanced against the alternative theories, this hypothesis appears to be the most robust.",
+      "When balanced against the potential environmental damage, the project appears to be irresponsible."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "There is a stark contrast in their approach to ...",
+    "translation": "...에 대한 그들의 접근 방식에는 극명한 대조가 있습니다.",
+    "b1": [
+      "There is a stark contrast in their approach to learning.",
+      "There is a stark contrast in their approach to money.",
+      "There is a stark contrast in their approach to the game.",
+      "There is a stark contrast in their approach to cooking.",
+      "There is a stark contrast in their approach to the problem."
+    ],
+    "b2": [
+      "There is a stark contrast in their approach to management and employee relations.",
+      "There is a stark contrast in their approach to environmental issues and sustainability.",
+      "There is a stark contrast in their approach to risk-taking and business growth.",
+      "There is a stark contrast in their approach to handling customer feedback and complaints.",
+      "There is a stark contrast in their approach to technological innovation and research."
+    ],
+    "c1": [
+      "There is a stark contrast in their approach to fiscal policy and governmental spending.",
+      "There is a stark contrast in their approach to the ethical dilemmas posed by modern technology.",
+      "There is a stark contrast in their approach to the systemic inequities within the education system.",
+      "There is a stark contrast in their approach to international relations and diplomatic negotiations.",
+      "There is a stark contrast in their approach to the integration of qualitative and quantitative data."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "The similarity lies in the fact that ...",
+    "translation": "유사점은 ...라는 사실에 있습니다.",
+    "b1": [
+      "The similarity lies in the fact that they are both fruits.",
+      "The similarity lies in the fact that they are both fast.",
+      "The similarity lies in the fact that they both like the sun.",
+      "The similarity lies in the fact that they are both from Korea.",
+      "The similarity lies in the fact that they are both very old."
+    ],
+    "b2": [
+      "The similarity lies in the fact that both companies focus on high-end luxury products.",
+      "The similarity lies in the fact that both theories emphasize the importance of early childhood.",
+      "The similarity lies in the fact that both cultures value family above everything else.",
+      "The similarity lies in the fact that both cities suffer from high levels of traffic congestion.",
+      "The similarity lies in the fact that both software programs have a very steep learning curve."
+    ],
+    "c1": [
+      "The similarity lies in the fact that both paradigms acknowledge the role of external stimuli.",
+      "The similarity lies in the fact that both movements were triggered by economic inequality.",
+      "The similarity lies in the fact that both legal systems are based on common law principles.",
+      "The similarity lies in the fact that both ideologies prioritize individual autonomy.",
+      "The similarity lies in the fact that both research projects utilize a multi-disciplinary approach."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Compared side by side, ... clearly outperforms ...",
+    "translation": "나란히 비교했을 때 ...은 ...보다 명확히 뛰어납니다.",
+    "b1": [
+      "Compared side by side, the red car clearly outperforms the blue one.",
+      "Compared side by side, this phone clearly outperforms my old one.",
+      "Compared side by side, his plan clearly outperforms mine.",
+      "Compared side by side, this tool clearly outperforms that one.",
+      "Compared side by side, the new model clearly outperforms the old model."
+    ],
+    "b2": [
+      "Compared side by side, our software clearly outperforms the competitor's version.",
+      "Compared side by side, the second strategy clearly outperforms the first one in sales.",
+      "Compared side by side, this marketing channel clearly outperforms all others.",
+      "Compared side by side, the automated system clearly outperforms the manual process.",
+      "Compared side by side, this new engine clearly outperforms the traditional design."
+    ],
+    "c1": [
+      "Compared side by side, this algorithmic model clearly outperforms the industry standard.",
+      "Compared side by side, the decentralized structure clearly outperforms the hierarchical model.",
+      "Compared side by side, the proactive approach clearly outperforms the reactive strategy in risk mitigation.",
+      "Compared side by side, the innovative policy clearly outperforms the traditional framework.",
+      "Compared side by side, this comprehensive analysis clearly outperforms previous studies on the subject."
+    ]
+  }
+]

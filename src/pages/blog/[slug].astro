@@ -1,0 +1,58 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+
+// 1. 빌드 시 각 포스트의 경로를 생성합니다 (Static Site Generation)
+export async function getStaticPaths() {
+  const blogEntries = await getCollection("blog");
+  return blogEntries.map((entry) => ({
+    params: { slug: entry.slug }, // URL 파라미터 ([slug] 부분)
+    props: { entry }, // 해당 데이터를 컴포넌트에 넘겨줌
+  }));
+}
+
+// 2. 전달받은 props에서 데이터를 추출합니다
+const { entry } = Astro.props;
+// 3. 마크다운 내용을 렌더링 가능한 컴포넌트(Content)로 변환합니다
+const { Content } = await entry.render();
+---
+
+<BaseLayout pageTitle={entry.data.title}>
+  <article class="post-content">
+    <header>
+      <h1>{entry.data.title}</h1>
+      <div class="meta">
+        <time>{entry.data.pubDate.toLocaleDateString()}</time>
+        <span>작성자: {entry.data.author}</span>
+      </div>
+    </header>
+
+    <hr />
+
+    <div class="markdown-body">
+      <Content />
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+  .post-content {
+    max-width: 768px; /* 질문자님이 설정하신 max-width 기준 */
+    margin: 0 auto;
+    padding: 1rem;
+  }
+
+  .meta {
+    color: #666;
+    font-size: 0.9rem;
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 2rem;
+  }
+
+  /* 마크다운 내부 요소들에 대한 스타일링 (선택 사항) */
+  .markdown-body :global(h2) {
+    font-size: 1.5rem;
+    margin-top: 2rem;
+  }
+</style>

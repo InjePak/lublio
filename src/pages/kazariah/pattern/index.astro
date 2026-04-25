@@ -1,0 +1,34 @@
+---
+import KazariahLayout from "../../../layouts/KazariahLayout.astro";
+import BoxFrontier from "../../../components/BoxFrontier.astro";
+import ButtonFrontier2 from "../../../components/ButtonFrontier2.astro";
+
+import chapters from "../../../assets/json/patterns/chapters.json";
+
+const pageTitle = "카자흐어 패턴";
+---
+
+<KazariahLayout pageTitle={pageTitle + " | Kazariah"}>
+  <BoxFrontier
+    title="Ülgiler"
+    subtitle="카자흐어 패턴"
+    description="단 하나의 패턴으로 수만 개의 문장을 만들어보세요. 문법에 대한 복잡한 고민은 필요 없습니다. 회화 실력을 빠르게 끌어올리는 가장 효율적인 방법을 경험해보세요."
+    language="kaz"
+  />
+
+  <h2>
+    <span class="animated-underline-kaz">CEFR B1 - C1</span>
+  </h2>
+
+  {
+    chapters.map((post: any) => (
+      <ButtonFrontier2
+        id={post.id}
+        title={post.kaz}
+        subtitle={post.kor}
+        language="kaz"
+        path={"/kazariah/pattern/" + post.path}
+      />
+    ))
+  }
+</KazariahLayout>

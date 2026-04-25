@@ -1,0 +1,137 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Box from "../components/Box.astro";
+import Button2 from "../components/Button2.astro";
+import AnchorNavigation from "../components/AnchorNavigation.astro";
+
+import chapters from "../assets/json/phrasebook/chapters.json";
+const chapters_a1 = chapters["a1"];
+const chapters_a2 = chapters["a2"];
+const chapters_b1 = chapters["b1"];
+const chapters_b2 = chapters["b2"];
+
+// Title
+const pageTitle = "N개국어 회화";
+
+// Anchor Navigation
+const navItems = [
+  { id: "group-a1", label: "A1" },
+  { id: "group-a2", label: "A2" },
+  { id: "group-b1", label: "B1" },
+  { id: "group-b2", label: "B2" },
+];
+---
+
+<BaseLayout pageTitle={pageTitle + " | Lublio"}>
+  <Box
+    title="Multilingual Phrasebook"
+    subtitle="다개국어 회화"
+    description="Hic liber est clavis aurea mundi. Multas linguas continet ut variarum gentium mentes cognoscas et libere loquaris. Mundus totus in manibus tuis est."
+  />
+
+  <AnchorNavigation items={navItems} />
+
+  <main>
+    <section id="group-a1">
+      <h2>
+        <span class="animated-underline-deu">CEFR A1</span>
+      </h2>
+      <ul>
+        {
+          chapters_a1.map((post: any) => (
+            <Button2
+              id={post.id}
+              title={post.kor}
+              subtitle={post.eng}
+              path={"/phrasebook/a1/" + post.path}
+            />
+          ))
+        }
+      </ul>
+    </section>
+
+    <section id="group-a2">
+      <h2>
+        <span class="animated-underline-deu">CEFR A2</span>
+      </h2>
+      <ul>
+        {
+          chapters_a2.map((post: any) => (
+            <Button2
+              id={post.id}
+              title={post.kor}
+              subtitle={post.eng}
+              path={"/phrasebook/a2/" + post.path}
+            />
+          ))
+        }
+      </ul>
+    </section>
+
+    <section id="group-b1">
+      <h2>
+        <span class="animated-underline-deu">CEFR B1</span>
+      </h2>
+      <ul>
+        {
+          chapters_b1.map((post: any) => (
+            <Button2
+              id={post.id}
+              title={post.kor}
+              subtitle={post.eng}
+              path={"/phrasebook/b1/" + post.path}
+            />
+          ))
+        }
+      </ul>
+    </section>
+
+    <section id="group-b2">
+      <h2>
+        <span class="animated-underline-deu">CEFR B2</span>
+      </h2>
+      <ul>
+        {
+          chapters_b2.map((post: any) => (
+            <Button2
+              id={post.id}
+              title={post.kor}
+              subtitle={post.eng}
+              path={"/phrasebook/b2/" + post.path}
+            />
+          ))
+        }
+      </ul>
+    </section>
+  </main>
+</BaseLayout>
+
+<style>
+  li {
+    display: block;
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 1.5rem;
+  }
+
+  li:last-child {
+    margin-bottom: 0rem;
+  }
+
+  li > a {
+    display: inline-block;
+    width: 100%;
+    padding: 1rem 1.5rem;
+    border: 1px solid var(--zinc400);
+    border-radius: 10px;
+    font-weight: 500;
+    color: var(--zinc800);
+    transition: all 0.3s;
+  }
+
+  li > a:hover {
+    background-color: var(--zinc300);
+    border-radius: 25px;
+    color: var(--zinc800);
+  }
+</style>

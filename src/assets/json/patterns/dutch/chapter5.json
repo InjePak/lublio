@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Ik voel me overweldigend ... over ...",
+    "translation": "I feel overwhelmingly ... about ...",
+    "b1": [
+      "Ik voel me overweldigend blij over mijn nieuwe baan.",
+      "Ik voel me overweldigend moe over deze reis.",
+      "Ik voel me overweldigend verdrietig over dit nieuws.",
+      "Ik voel me overweldigend verrast over jouw cadeau.",
+      "Ik voel me overweldigend gemotiveerd over dit project."
+    ],
+    "b2": [
+      "Ik voel me overweldigend schuldig over mijn fout van de andere dag.",
+      "Ik voel me overweldigend enthousiast over onze toekomstige samenwerking.",
+      "Ik voel me overweldigend gefrustreerd over het gebrek aan communicatie.",
+      "Ik voel me overweldigend trots over het succes van mijn kinderen.",
+      "Ik voel me overweldigend bezorgd over het examen van morgen."
+    ],
+    "c1": [
+      "Ik voel me overweldigend ambivalent over de ontwikkeling van onze huidige samenleving.",
+      "Ik voel me overweldigend pessimistisch over de uitkomst van deze complexe onderhandeling.",
+      "Ik voel me overweldigend sereen over mijn beslissing om het bedrijf te verlaten.",
+      "Ik voel me overweldigend verontwaardigd over de onverschilligheid tegenover deze onrechtvaardigheid.",
+      "Ik voel me overweldigend vereerd over het vertrouwen dat u mij betoont."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Het raakte me diep in het hart toen ...",
+    "translation": "It truly touched my heart when ...",
+    "b1": [
+      "Het raakte me diep in het hart toen jij glimlachte.",
+      "Het raakte me diep in het hart toen hij mij bedankte.",
+      "Het raakte me diep in het hart toen ik die film zag.",
+      "Het raakte me diep in het hart toen mijn vrienden me kwamen opzoeken.",
+      "Het raakte me diep in het hart toen ze voor mij zong."
+    ],
+    "b2": [
+      "Het raakte me diep in het hart toen de buren ons hielpen tijdens de crisis.",
+      "Het raakte me diep in het hart toen ik uw dankbrief las.",
+      "Het raakte me diep in het hart toen het kind zijn maaltijd deelde met een arme.",
+      "Het raakte me diep in het hart toen mijn collega's dit verrassingsfeest organiseerden.",
+      "Het raakte me diep in het hart toen ik mijn ouderlijk huis na zoveel jaren terugzag."
+    ],
+    "c1": [
+      "Het raakte me diep in het hart toen ik de oprechtheid achter zijn stilte voelde.",
+      "Het raakte me diep in het hart toen de solidariteit zich spontaan manifesteerde.",
+      "Het raakte me diep in het hart toen de kunstenaar de broosheid van het menselijk leven evoceerde.",
+      "Het raakte me diep in het hart toen ik de omvang van zijn persoonlijk offer begreep.",
+      "Het raakte me diep in het hart toen dit gedicht resoneerde met mijn eigen wonden."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Ik maak me ernstig zorgen over ...",
+    "translation": "I'm deeply concerned about ...",
+    "b1": [
+      "Ik maak me ernstig zorgen over de gezondheid van mijn vader.",
+      "Ik maak me ernstig zorgen over mijn cijfers op school.",
+      "Ik maak me ernstig zorgen over de prijs van het eten.",
+      "Ik maak me ernstig zorgen over het weer voor de bruiloft.",
+      "Ik maak me ernstig zorgen over dit probleem."
+    ],
+    "b2": [
+      "Ik maak me ernstig zorgen over de toekomst van jongeren in dit land.",
+      "Ik maak me ernstig zorgen over de gevolgen van plasticvervuiling.",
+      "Ik maak me ernstig zorgen over de politieke instabiliteit in de regio.",
+      "Ik maak me ernstig zorgen over de toenemende onveiligheid in de buurt.",
+      "Ik maak me ernstig zorgen over het gebrek aan tolerantie tussen mensen."
+    ],
+    "c1": [
+      "Ik maak me ernstig zorgen over de voortdurende achteruitgang van de wereldwijde biodiversiteit.",
+      "Ik maak me ernstig zorgen over de groeiende invloed van algoritmen op onze vrije wil.",
+      "Ik maak me ernstig zorgen over de systematische ondermijning van democratische verworvenheden.",
+      "Ik maak me ernstig zorgen over de erosie van sociale banden in grote steden.",
+      "Ik maak me ernstig zorgen over het omslachtige cynisme dat het publieke debat vergiftigt."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Er is een enorme last van mijn schouders gevallen omdat ...",
+    "translation": "There's a huge weight lifted off my shoulders because ...",
+    "b1": [
+      "Er is een enorme last van mijn schouders gevallen omdat ik mijn huiswerk heb afgemaakt.",
+      "Er is een enorme last van mijn schouders gevallen omdat mijn vriend mij vergeven heeft.",
+      "Er is een enorme last van mijn schouders gevallen omdat ik mijn kat heb teruggevonden.",
+      "Er is een enorme last van mijn schouders gevallen omdat de vakantie begint.",
+      "Er is een enorme last van mijn schouders gevallen omdat ik mijn huur heb betaald."
+    ],
+    "b2": [
+      "Er is een enorme last van mijn schouders gevallen omdat de dokter zei dat alles in orde was.",
+      "Er is een enorme last van mijn schouders gevallen omdat we eindelijk dit contract hebben getekend.",
+      "Er is een enorme last van mijn schouders gevallen omdat ik de waarheid aan mijn ouders heb verteld.",
+      "Er is een enorme last van mijn schouders gevallen omdat de presentatie goed is verlopen.",
+      "Er is een enorme last van mijn schouders gevallen omdat ik een oplossing voor het probleem heb gevonden."
+    ],
+    "c1": [
+      "Er is een enorme last van mijn schouders gevallen omdat ik dit zwaar geheim niet meer hoef te dragen.",
+      "Er is een enorme last van mijn schouders gevallen omdat de rechtbank mijn onschuld heeft erkend.",
+      "Er is een enorme last van mijn schouders gevallen omdat deze complexe fusie eindelijk is afgerond.",
+      "Er is een enorme last van mijn schouders gevallen omdat ik deze enorme verantwoordelijkheid heb kunnen delegeren.",
+      "Er is een enorme last van mijn schouders gevallen omdat de bemiddeling tot een billijk akkoord heeft geleid."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Ik kan niet verbergen hoezeer ik ... waardeer",
+    "translation": "I can't hide how much I appreciate ...",
+    "b1": [
+      "Ik kan niet verbergen hoezeer ik jouw hulp waardeer.",
+      "Ik kan niet verbergen hoezeer ik deze maaltijd waardeer.",
+      "Ik kan niet verbergen hoezeer ik jouw vriendelijkheid waardeer.",
+      "Ik kan niet verbergen hoezeer ik dit mooie weer waardeer.",
+      "Ik kan niet verbergen hoezeer ik uw bezoek waardeer."
+    ],
+    "b2": [
+      "Ik kan niet verbergen hoezeer ik uw toewijding aan deze zaak waardeer.",
+      "Ik kan niet verbergen hoezeer ik de flexibiliteit van mijn bedrijf waardeer.",
+      "Ik kan niet verbergen hoezeer ik de waardevolle adviezen die u mij hebt gegeven waardeer.",
+      "Ik kan niet verbergen hoezeer ik de loyaliteit van mijn jeugdvrienden waardeer.",
+      "Ik kan niet verbergen hoezeer ik de kans om in het buitenland te reizen waardeer."
+    ],
+    "c1": [
+      "Ik kan niet verbergen hoezeer ik de intellectuele elegantie van uw redenering waardeer.",
+      "Ik kan niet verbergen hoezeer ik de veerkracht die u dagelijks toont waardeer.",
+      "Ik kan niet verbergen hoezeer ik de subtiliteit van dit kunstwerk waardeer.",
+      "Ik kan niet verbergen hoezeer ik uw integriteit in deze zo opportunistische wereld waardeer.",
+      "Ik kan niet verbergen hoezeer ik de diepgang van ons gesprek van vanavond waardeer."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Ik voel een diepe droefheid vanwege ...",
+    "translation": "I feel a profound sense of sadness over ...",
+    "b1": [
+      "Ik voel een diepe droefheid vanwege de dood van mijn hond.",
+      "Ik voel een diepe droefheid vanwege jouw vertrek.",
+      "Ik voel een diepe droefheid vanwege dit slechte cijfer.",
+      "Ik voel een diepe droefheid vanwege het einde van de film.",
+      "Ik voel een diepe droefheid vanwege de eenzaamheid."
+    ],
+    "b2": [
+      "Ik voel een diepe droefheid vanwege de sluiting van deze oude bioscoop.",
+      "Ik voel een diepe droefheid vanwege het haat dat ik op internet zie.",
+      "Ik voel een diepe droefheid vanwege de onverschilligheid van mensen op straat.",
+      "Ik voel een diepe droefheid vanwege de afbraak van dit historisch monument.",
+      "Ik voel een diepe droefheid vanwege de breuk tussen mijn twee beste vrienden."
+    ],
+    "c1": [
+      "Ik voel een diepe droefheid vanwege de vluchtigheid van onze mooiste herinneringen.",
+      "Ik voel een diepe droefheid vanwege de leegte van sommige hedendaagse debatten.",
+      "Ik voel een diepe droefheid vanwege de menselijke onverschilligheid tegenover dierenleed.",
+      "Ik voel een diepe droefheid vanwege het onherstelbare verlies van dit cultureel erfgoed.",
+      "Ik voel een diepe droefheid vanwege de machteloosheid van de rede tegenover geweld."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Woorden kunnen niet beschrijven hoezeer ...",
+    "translation": "Words can't describe how much ...",
+    "b1": [
+      "Woorden kunnen niet beschrijven hoezeer ik blij ben.",
+      "Woorden kunnen niet beschrijven hoezeer het mooi is.",
+      "Woorden kunnen niet beschrijven hoezeer ik van je houd.",
+      "Woorden kunnen niet beschrijven hoezeer ik moe ben.",
+      "Woorden kunnen niet beschrijven hoezeer het lekker is."
+    ],
+    "b2": [
+      "Woorden kunnen niet beschrijven hoezeer uw steun cruciaal voor mij was.",
+      "Woorden kunnen niet beschrijven hoezeer deze ervaring mij heeft veranderd.",
+      "Woorden kunnen niet beschrijven hoezeer ik spijt heb van wat er is gebeurd.",
+      "Woorden kunnen niet beschrijven hoezeer ik trots ben op jouw professionele parcours.",
+      "Woorden kunnen niet beschrijven hoezeer dit landschap mij heeft ontroerd."
+    ],
+    "c1": [
+      "Woorden kunnen niet beschrijven hoezeer de verschrikking van deze situatie mij heeft ontzet.",
+      "Woorden kunnen niet beschrijven hoezeer de menselijke vindingrijkheid fascinerend kan zijn.",
+      "Woorden kunnen niet beschrijven hoezeer eenzaamheid tegelijk wreed en bevrijdend kan zijn.",
+      "Woorden kunnen niet beschrijven hoezeer het misprijzen van sommigen ondraaglijk is.",
+      "Woorden kunnen niet beschrijven hoezeer teruggevonden sereniteit een schat is."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Ik heb moeite gehad met de gedachte aan ...",
+    "translation": "I have been struggling with the thought of ...",
+    "b1": [
+      "Ik heb moeite gehad met de gedachte aan verhuizen.",
+      "Ik heb moeite gehad met de gedachte aan van school veranderen.",
+      "Ik heb moeite gehad met de gedachte aan alleen weggaan.",
+      "Ik heb moeite gehad met de gedachte aan werken op zondag.",
+      "Ik heb moeite gehad met de gedachte aan insecten eten."
+    ],
+    "b2": [
+      "Ik heb moeite gehad met de gedachte aan helemaal opnieuw moeten beginnen.",
+      "Ik heb moeite gehad met de gedachte aan mijn kinderen aan onbekenden toevertrouwen.",
+      "Ik heb moeite gehad met de gedachte dat mijn vriend mij maandenlang had gelogen.",
+      "Ik heb moeite gehad met de gedachte aan het verkopen van het huis van mijn grootouders.",
+      "Ik heb moeite gehad met de gedachte aan zo vroeg met pensioen gaan."
+    ],
+    "c1": [
+      "Ik heb moeite gehad met de gedachte aan de eindigheid van ons aards bestaan.",
+      "Ik heb moeite gehad met de gedachte aan de relativiteit van onze morele waarden.",
+      "Ik heb moeite gehad met de gedachte aan het opofferen van mijn vrijheid voor een illusoire zekerheid.",
+      "Ik heb moeite gehad met de gedachte dat technische vooruitgang ontmenselijkend kan zijn.",
+      "Ik heb moeite gehad met de gedachte aan de onvermijdelijkheid van de neergang van beschavingen."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Mijn grootste angst is dat ...",
+    "translation": "My greatest fear is that ...",
+    "b1": [
+      "Mijn grootste angst is dat mijn hond ziek is.",
+      "Mijn grootste angst is dat ik 's avonds alleen ben.",
+      "Mijn grootste angst is dat het regent tijdens mijn vakantie.",
+      "Mijn grootste angst is dat ik mijn telefoon verlies.",
+      "Mijn grootste angst is dat jij niet meer van mij houdt."
+    ],
+    "b2": [
+      "Mijn grootste angst is dat we er niet in slagen de planeet te redden.",
+      "Mijn grootste angst is dat kunstmatige intelligentie al onze beroepen zal vervangen.",
+      "Mijn grootste angst is dat mijn kinderen niet gelukkig zullen zijn in het leven.",
+      "Mijn grootste angst is dat ik nooit zingeving vind in mijn werk.",
+      "Mijn grootste angst is dat er opnieuw oorlog uitbreekt in Europa."
+    ],
+    "c1": [
+      "Mijn grootste angst is dat wijdverbreide onverschilligheid uiteindelijk alle empathie doodt.",
+      "Mijn grootste angst is dat de waarheid een volledig achterhaald begrip wordt.",
+      "Mijn grootste angst is dat we ons vermogen tot verwondering over de natuur verliezen.",
+      "Mijn grootste angst is dat de mensheid geen lessen trekt uit haar vroegere fouten.",
+      "Mijn grootste angst is dat culturele uniformisering alle creatieve eigenheid uitwist."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Deze situatie heeft me nogal ... achtergelaten",
+    "translation": "This situation has left me feeling quite ...",
+    "b1": [
+      "Deze situatie heeft me nogal verdrietig achtergelaten.",
+      "Deze situatie heeft me nogal moe achtergelaten.",
+      "Deze situatie heeft me nogal verrast achtergelaten.",
+      "Deze situatie heeft me nogal tevreden achtergelaten.",
+      "Deze situatie heeft me nogal verbaasd achtergelaten."
+    ],
+    "b2": [
+      "Deze situatie heeft me nogal perplex achtergelaten over zijn werkelijke bedoelingen.",
+      "Deze situatie heeft me nogal gefrustreerd achtergelaten omdat ik me niet kon uiten.",
+      "Deze situatie heeft me nogal teleurgesteld achtergelaten over het gedrag van mijn team.",
+      "Deze situatie heeft me nogal optimistisch achtergelaten over de toekomst van het bedrijf.",
+      "Deze situatie heeft me nogal verbitterd achtergelaten na al mijn inspanningen."
+    ],
+    "c1": [
+      "Deze situatie heeft me nogal radeloos achtergelaten tegenover zoveel kwade wil.",
+      "Deze situatie heeft me nogal sceptisch achtergelaten over de relevantie van deze strategie.",
+      "Deze situatie heeft me nogal sprakeloos achtergelaten voor de omvang van de aangekondigde ramp.",
+      "Deze situatie heeft me nogal peinzend achtergelaten over de fragiliteit van onze allianties.",
+      "Deze situatie heeft me nogal twijfelachtig achtergelaten over het verandervermogen van instellingen."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Het breekt mijn hart om ... te zien",
+    "translation": "It breaks my heart to see ...",
+    "b1": [
+      "Het breekt mijn hart om arme mensen op straat te zien.",
+      "Het breekt mijn hart om dat kind te zien huilen.",
+      "Het breekt mijn hart om dieren te zien lijden.",
+      "Het breekt mijn hart om mijn moeder ziek te zien.",
+      "Het breekt mijn hart om het bos te zien branden."
+    ],
+    "b2": [
+      "Het breekt mijn hart om elke dag zoveel voedselverspilling te zien.",
+      "Het breekt mijn hart om families te zien verscheurd door oorlog.",
+      "Het breekt mijn hart om te zien dat mensen niet meer met elkaar praten in de metro.",
+      "Het breekt mijn hart om de verwaarlozing van ouderen in onze samenleving te zien.",
+      "Het breekt mijn hart om mijn vriend zijn talent te zien verspillen."
+    ],
+    "c1": [
+      "Het breekt mijn hart om het uiteenvallen te zien van de idealen die ons vroeger verbonden.",
+      "Het breekt mijn hart om de systematische vernietiging van duizendjarige ecosystemen te zien.",
+      "Het breekt mijn hart om de instrumentalisering van armoede voor politieke doeleinden te zien.",
+      "Het breekt mijn hart om de triomf van middelmatigheid over excellentie te zien.",
+      "Het breekt mijn hart om de psychische nood van nieuwe generaties te zien."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Ik bewonder oprecht uw kracht in ...",
+    "translation": "I genuinely admire your strength in ...",
+    "b1": [
+      "Ik bewonder oprecht uw kracht in deze situatie.",
+      "Ik bewonder oprecht uw kracht in uw werk.",
+      "Ik bewonder oprecht uw kracht in de sport.",
+      "Ik bewonder oprecht uw kracht in moeilijke momenten.",
+      "Ik bewonder oprecht uw kracht in uw ziekte."
+    ],
+    "b2": [
+      "Ik bewonder oprecht uw kracht in het omgaan met dit familieconflict.",
+      "Ik bewonder oprecht uw kracht in uw strijd voor de rechten van vrouwen.",
+      "Ik bewonder oprecht uw kracht in de beproeving die u momenteel doormaakt.",
+      "Ik bewonder oprecht uw kracht in uw vermogen om te vergeven wie u pijn heeft gedaan.",
+      "Ik bewonder oprecht uw kracht in uw loopbaanomschakeling op vijftigjarige leeftijd."
+    ],
+    "c1": [
+      "Ik bewonder oprecht uw kracht in uw onwankelbare zoektocht naar de waarheid.",
+      "Ik bewonder oprecht uw kracht in uw veerkracht tegenover het donkerste tegenspoed.",
+      "Ik bewonder oprecht uw kracht in uw categorische weigering van elk ethisch compromis.",
+      "Ik bewonder oprecht uw kracht in uw stoïcisme tegenover de wisselvalligheden van het bestaan.",
+      "Ik bewonder oprecht uw kracht in uw felle wil om uw waardigheid te bewaren."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "De diepe betekenis achter ... is ...",
+    "translation": "The deep meaning behind ... is ...",
+    "b1": [
+      "De diepe betekenis achter dit cadeau is vriendschap.",
+      "De diepe betekenis achter zijn woorden is liefde.",
+      "De diepe betekenis achter dit gebaar is vrede.",
+      "De diepe betekenis achter dit lied is verdriet.",
+      "De diepe betekenis achter haar blik is angst."
+    ],
+    "b2": [
+      "De diepe betekenis achter dit traditionele feest is respect voor de voorouders.",
+      "De diepe betekenis achter zijn stilte is in werkelijkheid grote verlegenheid.",
+      "De diepe betekenis achter dit project is de wereld groener maken.",
+      "De diepe betekenis achter haar woede is een onderdrukt gevoel van onrechtvaardigheid.",
+      "De diepe betekenis achter deze film is de zoektocht naar zichzelf."
+    ],
+    "c1": [
+      "De diepe betekenis achter deze allegorie is de scherpe kritiek op absolute macht.",
+      "De diepe betekenis achter dit ritueel is de verzoening van de mens met het heilige.",
+      "De diepe betekenis achter deze paradigmaverschuiving is het voortbestaan van onze soort.",
+      "De diepe betekenis achter zijn werk is de verkenning van de diepten van de menselijke ziel.",
+      "De diepe betekenis achter deze crisis is de noodzaak van een metafysische omwenteling."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Ik ben volledig verwoest door ...",
+    "translation": "I'm absolutely devastated by ...",
+    "b1": [
+      "Ik ben volledig verwoest door dit nieuws.",
+      "Ik ben volledig verwoest door mijn cijfer.",
+      "Ik ben volledig verwoest door mijn fout.",
+      "Ik ben volledig verwoest door jouw vertrek.",
+      "Ik ben volledig verwoest door de regen."
+    ],
+    "b2": [
+      "Ik ben volledig verwoest door de brand van de oude bibliotheek in mijn buurt.",
+      "Ik ben volledig verwoest door het gebrek aan erkenning na zoveel jaren dienst.",
+      "Ik ben volledig verwoest door het verraad van mijn beste vriend.",
+      "Ik ben volledig verwoest door de catastrofale resultaten van dit kwartaal.",
+      "Ik ben volledig verwoest door de beelden van hongersnood die ik op televisie zag."
+    ],
+    "c1": [
+      "Ik ben volledig verwoest door het vroegtijdig overlijden van deze visionaire geest.",
+      "Ik ben volledig verwoest door de endemische corruptie die onze instellingen uitholt.",
+      "Ik ben volledig verwoest door de realiteitsontkenning tegenover de nakende klimaatrampen.",
+      "Ik ben volledig verwoest door het ongehoorde geweld van deze discriminerende uitspraken.",
+      "Ik ben volledig verwoest door het zinsverlies dat ons tijdperk kenmerkt."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Het is moeilijk om de vreugde te verwoorden die ik voel wanneer ...",
+    "translation": "It's hard to articulate the joy I feel when ...",
+    "b1": [
+      "Het is moeilijk om de vreugde te verwoorden die ik voel wanneer ik je zie.",
+      "Het is moeilijk om de vreugde te verwoorden die ik voel wanneer ik chocolade eet.",
+      "Het is moeilijk om de vreugde te verwoorden die ik voel wanneer ik reis.",
+      "Het is moeilijk om de vreugde te verwoorden die ik voel wanneer het weekend is.",
+      "Het is moeilijk om de vreugde te verwoorden die ik voel wanneer ik zing."
+    ],
+    "b2": [
+      "Het is moeilijk om de vreugde te verwoorden die ik voel wanneer ik mijn leerlingen hun examens zie slagen.",
+      "Het is moeilijk om de vreugde te verwoorden die ik voel wanneer ik thuiskom na een lange dag.",
+      "Het is moeilijk om de vreugde te verwoorden die ik voel wanneer ik een project realiseer dat mij na aan het hart ligt.",
+      "Het is moeilijk om de vreugde te verwoorden die ik voel wanneer ik alleen door het bos wandel.",
+      "Het is moeilijk om de vreugde te verwoorden die ik voel wanneer ik mijn baby voor het eerst hoor lachen."
+    ],
+    "c1": [
+      "Het is moeilijk om de vreugde te verwoorden die ik voel wanneer perfecte harmonie ontstaat uit een creatieve samenwerking.",
+      "Het is moeilijk om de vreugde te verwoorden die ik voel wanneer ik die toestand van intellectuele volheid bereik.",
+      "Het is moeilijk om de vreugde te verwoorden die ik voel wanneer pure schoonheid zich onverwacht openbaart.",
+      "Het is moeilijk om de vreugde te verwoorden die ik voel wanneer een obstakel dat ik onoverkomelijk achtte verdwijnt.",
+      "Het is moeilijk om de vreugde te verwoorden die ik voel wanneer mijn diepste overtuigingen collectieve bijval vinden."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Deze ervaring heeft mij een nieuw perspectief gegeven op ...",
+    "translation": "This experience has given me a new perspective on ...",
+    "b1": [
+      "Deze ervaring heeft mij een nieuw perspectief gegeven op het leven.",
+      "Deze ervaring heeft mij een nieuw perspectief gegeven op Frans eten.",
+      "Deze ervaring heeft mij een nieuw perspectief gegeven op werk.",
+      "Deze ervaring heeft mij een nieuw perspectief gegeven op vriendschap.",
+      "Deze ervaring heeft mij een nieuw perspectief gegeven op reizen."
+    ],
+    "b2": [
+      "Deze ervaring heeft mij een nieuw perspectief gegeven op de moeilijkheden van immigranten.",
+      "Deze ervaring heeft mij een nieuw perspectief gegeven op het belang van mentale gezondheid op het werk.",
+      "Deze ervaring heeft mij een nieuw perspectief gegeven op het beheer van mijn vrije tijd.",
+      "Deze ervaring heeft mij een nieuw perspectief gegeven op de opvoeding van mijn kinderen.",
+      "Deze ervaring heeft mij een nieuw perspectief gegeven op de voordelen van meditatie."
+    ],
+    "c1": [
+      "Deze ervaring heeft mij een nieuw perspectief gegeven op de complexe mechanismen van sociale invloed.",
+      "Deze ervaring heeft mij een nieuw perspectief gegeven op de eindigheid en broosheid van onze denkstructuren.",
+      "Deze ervaring heeft mij een nieuw perspectief gegeven op de inherente ambivalentie van elke technologische vooruitgang.",
+      "Deze ervaring heeft mij een nieuw perspectief gegeven op de onderlinge afhankelijkheid van alle levende wezens.",
+      "Deze ervaring heeft mij een nieuw perspectief gegeven op het begrip succes in een consumptiemaatschappij."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Ik voel een immense opluchting dat ...",
+    "translation": "I feel an immense sense of relief that ...",
+    "b1": [
+      "Ik voel een immense opluchting dat jij er bent.",
+      "Ik voel een immense opluchting dat het examen voorbij is.",
+      "Ik voel een immense opluchting dat het mooi weer terugkeert.",
+      "Ik voel een immense opluchting dat mijn tas is teruggevonden.",
+      "Ik voel een immense opluchting dat we zijn aangekomen."
+    ],
+    "b2": [
+      "Ik voel een immense opluchting dat de operatie van mijn grootmoeder goed is verlopen.",
+      "Ik voel een immense opluchting dat de waarheid eindelijk aan het licht is gekomen.",
+      "Ik voel een immense opluchting dat we deze diplomatieke crisis hebben kunnen vermijden.",
+      "Ik voel een immense opluchting dat iedereen heelhuids van de berg is teruggekeerd.",
+      "Ik voel een immense opluchting dat mijn leningsaanvraag is goedgekeurd."
+    ],
+    "c1": [
+      "Ik voel een immense opluchting dat de rede het heeft gewonnen van fanatisme in deze zaak.",
+      "Ik voel een immense opluchting dat onze collectieve inspanningen dit historische site hebben kunnen redden.",
+      "Ik voel een immense opluchting dat deze periode van existentiële onzekerheid eindelijk ten einde loopt.",
+      "Ik voel een immense opluchting dat de conclusies van de audit niet zo alarmerend zijn als gevreesd.",
+      "Ik voel een immense opluchting dat de sociale dialoog in extremis kon worden hersteld."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Er is een gevoel van leegte sinds ...",
+    "translation": "There is a feeling of emptiness since ...",
+    "b1": [
+      "Er is een gevoel van leegte sinds jij bent vertrokken.",
+      "Er is een gevoel van leegte sinds het feest voorbij is.",
+      "Er is een gevoel van leegte sinds ik mijn boek heb uitgelezen.",
+      "Er is een gevoel van leegte sinds mijn hond er niet meer is.",
+      "Er is een gevoel van leegte sinds de kinderen naar school zijn."
+    ],
+    "b2": [
+      "Er is een gevoel van leegte sinds ik ontslag heb genomen bij mijn vorige werkgever.",
+      "Er is een gevoel van leegte sinds onze grootvader vorig jaar is overleden.",
+      "Er is een gevoel van leegte sinds mijn vrienden naar een andere stad zijn verhuisd.",
+      "Er is een gevoel van leegte sinds deze oude boekhandel zijn deuren heeft gesloten.",
+      "Er is een gevoel van leegte sinds ik geen boeiend project meer voor ogen heb."
+    ],
+    "c1": [
+      "Er is een gevoel van leegte sinds de ideologie die mijn jeugd stuurde is ingestort.",
+      "Er is een gevoel van leegte sinds de stilte de creatieve bedrijvigheid van deze plek heeft vervangen.",
+      "Er is een gevoel van leegte sinds ik de kunstmatigheid van mijn vroegere sociale relaties heb doorzien.",
+      "Er is een gevoel van leegte sinds deze inspirerende figuur van het publieke toneel is verdwenen.",
+      "Er is een gevoel van leegte sinds spiritualiteit onze dagelijkse rituelen heeft verlaten."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Ik neem de volledige verantwoordelijkheid voor mijn gevoel van ...",
+    "translation": "I take full responsibility for my feeling of ...",
+    "b1": [
+      "Ik neem de volledige verantwoordelijkheid voor mijn gevoel van verdriet.",
+      "Ik neem de volledige verantwoordelijkheid voor mijn gevoel van woede.",
+      "Ik neem de volledige verantwoordelijkheid voor mijn gevoel van angst.",
+      "Ik neem de volledige verantwoordelijkheid voor mijn gevoel van vermoeidheid.",
+      "Ik neem de volledige verantwoordelijkheid voor mijn gevoel van verbazing."
+    ],
+    "b2": [
+      "Ik neem de volledige verantwoordelijkheid voor mijn gevoel van schuld na wat er is gebeurd.",
+      "Ik neem de volledige verantwoordelijkheid voor mijn gevoel van onzekerheid binnen dit team.",
+      "Ik neem de volledige verantwoordelijkheid voor mijn gevoel van frustratie tegenover dit mislukken.",
+      "Ik neem de volledige verantwoordelijkheid voor mijn gevoel van isolement tijdens de afgelopen maanden.",
+      "Ik neem de volledige verantwoordelijkheid voor mijn gevoel van falen ten aanzien van dit project."
+    ],
+    "c1": [
+      "Ik neem de volledige verantwoordelijkheid voor mijn gevoel van desillusie ten opzichte van het politieke systeem.",
+      "Ik neem de volledige verantwoordelijkheid voor mijn gevoel van vervreemding tegenover mijn tijdgenoten.",
+      "Ik neem de volledige verantwoordelijkheid voor mijn gevoel van leegte tegenover materieel succes.",
+      "Ik neem de volledige verantwoordelijkheid voor mijn gevoel van bitterheid tegenover algemene ondankbaarheid.",
+      "Ik neem de volledige verantwoordelijkheid voor mijn gevoel van vervreemding binnen deze bureaucratische structuur."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "De intensiteit van de situatie deed mij ... voelen",
+    "translation": "The intensity of the situation made me feel ...",
+    "b1": [
+      "De intensiteit van de situatie deed mij angst voelen.",
+      "De intensiteit van de situatie deed mij levend voelen.",
+      "De intensiteit van de situatie deed mij moe voelen.",
+      "De intensiteit van de situatie deed mij vreemd voelen.",
+      "De intensiteit van de situatie deed mij sterk voelen."
+    ],
+    "b2": [
+      "De intensiteit van de situatie deed mij ongelooflijk gestrest voelen tijdens de vergadering.",
+      "De intensiteit van de situatie deed mij voelen dat elke seconde waardevol was.",
+      "De intensiteit van de situatie deed mij een diepe verbondenheid voelen met de andere slachtoffers.",
+      "De intensiteit van de situatie deed mij machteloos voelen tegenover de klimaatgebeurtenissen.",
+      "De intensiteit van de situatie deed mij voelen dat ik onmiddellijk moest handelen."
+    ],
+    "c1": [
+      "De intensiteit van de situatie deed mij de onbeduidendheid van onze materiële zorgen voelen.",
+      "De intensiteit van de situatie deed mij een metafysische urgentie voelen die ik nooit eerder had gekend.",
+      "De intensiteit van de situatie deed mij de volle ernst van mijn morele engagement voelen.",
+      "De intensiteit van de situatie deed mij een opwinding voelen die de mystieke extase nabij was.",
+      "De intensiteit van de situatie deed mij de extreme broosheid voelen van de evenwichten waarop onze vrede berust."
+    ]
+  }
+]

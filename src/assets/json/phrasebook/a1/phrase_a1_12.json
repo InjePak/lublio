@@ -1,0 +1,227 @@
+[
+  {
+    "kor": "실례합니다, 길 좀 물어봐도 될까요?",
+    "eng": "Excuse me, can I ask for directions?",
+    "fra": "Excusez-moi, puis-je vous demander mon chemin ?",
+    "deu": "Entschuldigung, kann ich Sie nach dem Weg fragen?",
+    "rus": "Извините, вы не подскажете дорогу?",
+    "heb": "סליחה, אפשר לשאול איך מגיעים?",
+    "kaz": "Кешіріңіз, жолды сұрауға бола ма?"
+  },
+  {
+    "kor": "기차역이 어디에 있나요?",
+    "eng": "Where is the railway station?",
+    "fra": "Où est la gare ?",
+    "deu": "Wo ist der Bahnhof?",
+    "rus": "Где находится железнодорожный вокзал?",
+    "heb": "איפה תחנת הרכבת?",
+    "kaz": "Теміржол вокзалы қайда?"
+  },
+  {
+    "kor": "가장 가까운 지하철역이 어디인가요?",
+    "eng": "Where is the nearest subway station?",
+    "fra": "Où est la station de métro la plus proche ?",
+    "deu": "Wo ist die nächste U-Bahn-Station?",
+    "rus": "Где ближайшая станция метро?",
+    "heb": "איפה תחנת הרכבת התחתית הקרובה ביותר?",
+    "kaz": "Ең жақын метро станциясы қайда?"
+  },
+  {
+    "kor": "박물관에 어떻게 가나요?",
+    "eng": "How do I get to the museum?",
+    "fra": "Comment aller au musée ?",
+    "deu": "Wie komme ich zum Museum?",
+    "rus": "Как мне добраться до музея?",
+    "heb": "איך מגיעים למוזיאון?",
+    "kaz": "Мұражайға қалай баруға болады?"
+  },
+  {
+    "kor": "여기서 먼가요?",
+    "eng": "Is it far from here?",
+    "fra": "Est-ce que c'est loin d'ici ?",
+    "deu": "Ist es weit von hier?",
+    "rus": "Это далеко отсюда?",
+    "heb": "זה רחוק מכאן?",
+    "kaz": "Бұл жерден алыс па?"
+  },
+  {
+    "kor": "걸어서 갈 수 있나요?",
+    "eng": "Can I walk there?",
+    "fra": "Puis-je y aller à pied ?",
+    "deu": "Kann ich zu Fuß dorthin gehen?",
+    "rus": "Можно ли туда дойти пешком?",
+    "heb": "אפשר ללכת לשם ברגל?",
+    "kaz": "Ол жерге жаяу баруға бола ма?"
+  },
+  {
+    "kor": "똑바로 가세요.",
+    "eng": "Go straight on.",
+    "fra": "Allez tout droit.",
+    "deu": "Gehen Sie geradeaus.",
+    "rus": "Идите прямо.",
+    "heb": "ישר ישר.",
+    "kaz": "Тіке жүріңіз."
+  },
+  {
+    "kor": "왼쪽으로 도세요.",
+    "eng": "Turn left.",
+    "fra": "Tournez à gauche.",
+    "deu": "Biegen Sie links ab.",
+    "rus": "Поверните налево.",
+    "heb": "פנה שמאלה.",
+    "kaz": "Солға бұрылыңыз."
+  },
+  {
+    "kor": "오른쪽으로 도세요.",
+    "eng": "Turn right.",
+    "fra": "Tournez à droite.",
+    "deu": "Biegen Sie rechts ab.",
+    "rus": "Поверните направо.",
+    "heb": "פנה ימינה.",
+    "kaz": "Оңға бұрылыңыз."
+  },
+  {
+    "kor": "길을 잃었습니다.",
+    "eng": "I'm lost.",
+    "fra": "Je suis perdu(e).",
+    "deu": "Ich habe mich verlaufen.",
+    "rus": "Я заблудился (заблудилась).",
+    "heb": "הלכתי לאיבוד.",
+    "kaz": "Мен адасып кеттім."
+  },
+  {
+    "kor": "지도가 있나요?",
+    "eng": "Do you have a map?",
+    "fra": "Avez-vous un plan ?",
+    "deu": "Haben Sie einen Stadtplan?",
+    "rus": "У вас есть карта?",
+    "heb": "יש לך מפה?",
+    "kaz": "Сізде карта бар ма?"
+  },
+  {
+    "kor": "이 근처에 은행이 있나요?",
+    "eng": "Is there a bank near here?",
+    "fra": "Y a-t-il une banque près d'ici ?",
+    "deu": "Gibt es hier in der Nähe eine Bank?",
+    "rus": "Есть ли здесь поблизости банк?",
+    "heb": "יש בנק בסביבה?",
+    "kaz": "Осы маңда банк бар ма?"
+  },
+  {
+    "kor": "모퉁이에 있습니다.",
+    "eng": "It is on the corner.",
+    "fra": "C'est au coin.",
+    "deu": "Es ist an der Ecke.",
+    "rus": "Это на углу.",
+    "heb": "זה בפינה.",
+    "kaz": "Ол бұрышта орналасқан."
+  },
+  {
+    "kor": "슈퍼마켓 옆에 있습니다.",
+    "eng": "It is next to the supermarket.",
+    "fra": "C'est à côté du supermarché.",
+    "deu": "Es ist neben dem Supermarkt.",
+    "rus": "Это рядом с супермаркетом.",
+    "heb": "זה ליד הסופרמרקט.",
+    "kaz": "Ол супермаркеттің қасында."
+  },
+  {
+    "kor": "병원은 공원 맞은편에 있습니다.",
+    "eng": "The hospital is opposite the park.",
+    "fra": "L'hôpital est en face du parc.",
+    "deu": "Das Krankenhaus ist gegenüber dem Park.",
+    "rus": "Больница находится напротив парка.",
+    "heb": "בית החולים נמצא מול הפארק.",
+    "kaz": "Аурухана саябақтың қарама-қарсы бетінде."
+  },
+  {
+    "kor": "두 번째 골목에서 왼쪽으로 도세요.",
+    "eng": "Take the second left.",
+    "fra": "Prenez la deuxième à gauche.",
+    "deu": "Biegen Sie an der zweiten Straße links ab.",
+    "rus": "Поверните налево на втором повороте.",
+    "heb": "קח את הפנייה השנייה שמאלה.",
+    "kaz": "Екінші көшеден солға бұрылыңыз."
+  },
+  {
+    "kor": "신호등에서 멈추세요.",
+    "eng": "Stop at the traffic lights.",
+    "fra": "Arrêtez-vous aux feux.",
+    "deu": "Halten Sie an der Ampel an.",
+    "rus": "Остановитесь на светофоре.",
+    "heb": "עצור ברמזור.",
+    "kaz": "Бағдаршамға тоқтаңыз."
+  },
+  {
+    "kor": "다리를 건너세요.",
+    "eng": "Cross the bridge.",
+    "fra": "Traversez le pont.",
+    "deu": "Überqueren Sie die Brücke.",
+    "rus": "Перейдите через мост.",
+    "heb": "חצה את הגשר.",
+    "kaz": "Көпірден өтіңіз."
+  },
+  {
+    "kor": "버스 정류장은 어디인가요?",
+    "eng": "Where is the bus stop?",
+    "fra": "Où est l'arrêt de bus ?",
+    "deu": "Wo ist die Bushaltestelle?",
+    "rus": "Где автобусная остановка?",
+    "heb": "איפה תחנת האוטובוס?",
+    "kaz": "Автобус аялдамасы қайда?"
+  },
+  {
+    "kor": "화장실이 어디에 있나요?",
+    "eng": "Where are the toilets?",
+    "fra": "Où sont les toilettes ?",
+    "deu": "Wo sind die Toiletten?",
+    "rus": "Где здесь туалет?",
+    "heb": "איפה השירותים?",
+    "kaz": "Әжетхана қайда?"
+  },
+  {
+    "kor": "엘리베이터가 어디 있나요?",
+    "eng": "Where is the elevator?",
+    "fra": "Où est l'ascenseur ?",
+    "deu": "Wo ist der Aufzug?",
+    "rus": "Где лифт?",
+    "heb": "איפה המעלית?",
+    "kaz": "Лифт қайда?"
+  },
+  {
+    "kor": "이 주소로 가고 싶습니다.",
+    "eng": "I want to go to this address.",
+    "fra": "Je veux aller à cette adresse.",
+    "deu": "Ich möchte zu dieser Adresse.",
+    "rus": "Я хочу поехать по этому адресу.",
+    "heb": "אני רוצה להגיע לכתובת הזאת.",
+    "kaz": "Мен мына мекенжайға барғым келеді."
+  },
+  {
+    "kor": "걸어서 5분 걸립니다.",
+    "eng": "It takes five minutes on foot.",
+    "fra": "C'est à cinq minutes à pied.",
+    "deu": "Das sind fünf Minuten zu Fuß.",
+    "rus": "Это в пяти минутах ходьбы.",
+    "heb": "זה לוקח חמש דקות ברגל.",
+    "kaz": "Жаяу бес минуттық жер."
+  },
+  {
+    "kor": "근처에 주유소가 있나요?",
+    "eng": "Is there a gas station nearby?",
+    "fra": "Y a-t-il une station-service à proximité ?",
+    "deu": "Gibt es eine Tankstelle in der Nähe?",
+    "rus": "Есть ли поблизости заправка?",
+    "heb": "יש תחנת דלק בקרבת מקום?",
+    "kaz": "Жақын жерде жанармай бекеті бар ма?"
+  },
+  {
+    "kor": "가르쳐 주셔서 감사합니다.",
+    "eng": "Thank you for the directions.",
+    "fra": "Merci pour les indications.",
+    "deu": "Vielen Dank für die Wegbeschreibung.",
+    "rus": "Спасибо за помощь.",
+    "heb": "תודה על ההסבר.",
+    "kaz": "Жол көрсеткеніңізге рақмет."
+  }
+]

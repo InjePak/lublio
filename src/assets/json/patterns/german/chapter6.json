@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Ich möchte Sie darüber informieren, dass ...",
+    "translation": "I'd like to inform you that ...",
+    "b1": [
+      "Ich möchte Sie darüber informieren, dass der Kurs morgen ausfällt.",
+      "Ich möchte Sie darüber informieren, dass ich Ihre E-Mail erhalten habe.",
+      "Ich möchte Sie darüber informieren, dass das Paket angekommen ist.",
+      "Ich möchte Sie darüber informieren, dass wir am Montag geschlossen haben.",
+      "Ich möchte Sie darüber informieren, dass die Reparatur fertig ist."
+    ],
+    "b2": [
+      "Ich möchte Sie darüber informieren, dass sich die Lieferzeiten um zwei Wochen verzögern.",
+      "Ich möchte Sie darüber informieren, dass wir die Agenda für das Meeting angepasst haben.",
+      "Ich möchte Sie darüber informieren, dass Ihr Antrag erfolgreich geprüft wurde.",
+      "Ich möchte Sie darüber informieren, dass ab nächstem Monat neue Richtlinien gelten.",
+      "Ich möchte Sie darüber informieren, dass wir ein neues Teammitglied eingestellt haben."
+    ],
+    "c1": [
+      "Ich möchte Sie darüber informieren, dass die strategische Neuausrichtung nun offiziell eingeleitet wurde.",
+      "Ich möchte Sie darüber informieren, dass die steuerrechtlichen Prüfungen keinerlei Beanstandungen ergaben.",
+      "Ich möchte Sie darüber informieren, dass die Implementierung des neuen Systems im Zeitplan liegt.",
+      "Ich möchte Sie darüber informieren, dass die Verhandlungen mit den Investoren kurz vor dem Abschluss stehen.",
+      "Ich möchte Sie darüber informieren, dass wir eine umfassende Analyse der Marktrisiken durchgeführt haben."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Die wichtigste Erkenntnis hier ist ...",
+    "translation": "The key takeaway here is ...",
+    "b1": [
+      "Die wichtigste Erkenntnis hier ist, dass we mehr Zeit brauchen.",
+      "Die wichtigste Erkenntnis hier ist, dass Deutschlernen Spaß macht.",
+      "Die wichtigste Erkenntnis hier ist, dass gesundes Essen wichtig ist.",
+      "Die wichtigste Erkenntnis hier ist, dass die Übung hilft.",
+      "Die wichtigste Erkenntnis hier ist, dass alle zufrieden sind."
+    ],
+    "b2": [
+      "Die wichtigste Erkenntnis hier ist, dass die Kundenbindung wichtiger als Neukundenakquise ist.",
+      "Die wichtigste Erkenntnis hier ist, dass unsere Marketingstrategie nicht effektiv genug war.",
+      "Die wichtigste Erkenntnis hier ist, dass wir die Kommunikation intern verbessern müssen.",
+      "Die wichtigste Erkenntnis hier ist, dass digitale Lösungen Kosten sparen können.",
+      "Die wichtigste Erkenntnis hier ist, dass die Fortbildung der Mitarbeiter den Erfolg steigert."
+    ],
+    "c1": [
+      "Die wichtigste Erkenntnis hier ist die Korrelation zwischen Mitarbeiterzufriedenheit und Innovationskraft.",
+      "Die wichtigste Erkenntnis hier ist, dass eine rein quantitative Analyse der Daten nicht ausreicht.",
+      "Die wichtigste Erkenntnis hier ist die Notwendigkeit einer systemischen Transformation unserer Prozesse.",
+      "Die wichtigste Erkenntnis hier ist das enorme Potenzial der Erschließung von Nischenmärkten.",
+      "Die wichtigste Erkenntnis hier ist die Fragilität der globalen Lieferketten unter den aktuellen Bedingungen."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Um es klarzustellen, meine ich ...",
+    "translation": "To clarify, I mean ...",
+    "b1": [
+      "Um es klarzustellen, meine ich das kleine Buch, nicht das große.",
+      "Um es klarzustellen, meine ich, dass wir morgen um 9 Uhr anfangen.",
+      "Um es klarzustellen, meine ich dich, nicht deinen Bruder.",
+      "Um es klarzustellen, meine ich, dass der Preis zu hoch ist.",
+      "Um es klarzustellen, meine ich die Farbe Blau."
+    ],
+    "b2": [
+      "Um es klarzustellen, meine ich die langfristige Planung, nicht die täglichen Aufgaben.",
+      "Um es klarzustellen, meine ich, dass wir die Prioritäten sofort ändern müssen.",
+      "Um es klarzustellen, meine ich die Qualität der Software, nicht das Design.",
+      "Um es klarzustellen, meine ich, dass die Verantwortung beim gesamten Team liegt.",
+      "Um es klarzustellen, meine ich eine Gehaltserhöhung, keine einmalige Prämie."
+    ],
+    "c1": [
+      "Um es klarzustellen, meine ich die strukturelle Integrität des Projekts, nicht nur oberflächliche Korrekturen.",
+      "Um es klarzustellen, meine ich die ethische Dimension unserer Entscheidung, nicht nur den finanziellen Aspekt.",
+      "Um es klarzustellen, meine ich eine vollständige Neukonzeption unseres Geschäftsmodells.",
+      "Um es klarzustellen, meine ich die epistemologische Basis Ihrer Argumentation.",
+      "Um es klarzustellen, meine ich die Reduzierung der Komplexität, um die Effizienz zu steigern."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Dem Bericht zufolge, ...",
+    "translation": "According to the report, ...",
+    "b1": [
+      "Dem Bericht zufolge ist das Wetter heute gut.",
+      "Dem Bericht zufolge haben wir viele neue Kunden.",
+      "Dem Bericht zufolge ist die Prüfung nicht schwer.",
+      "Dem Bericht zufolge arbeitet das Team sehr gut.",
+      "Dem Bericht zufolge sind die Kosten gestiegen."
+    ],
+    "b2": [
+      "Dem Bericht zufolge hat sich die Mitarbeiterzufriedenheit deutlich verbessert.",
+      "Dem Bericht zufolge müssen wir die Sicherheitsmaßnahmen im Lager erhöhen.",
+      "Dem Bericht zufolge ist die Nachfrage nach unseren Produkten im Ausland stabil.",
+      "Dem Bericht zufolge gab es im letzten Quartal weniger technische Fehler.",
+      "Dem Bericht zufolge ist eine Investition in neue Technologien empfehlenswert."
+    ],
+    "c1": [
+      "Dem Bericht zufolge ist die ökologische Bilanz des Unternehmens verbesserungswürdig.",
+      "Dem Bericht zufolge weichen die tatsächlichen Ergebnisse signifikant von den Prognosen ab.",
+      "Dem Bericht zufolge ist die Implementierung der neuen Datenschutzverordnung abgeschlossen.",
+      "Dem Bericht zufolge besteht ein kausaler Zusammenhang zwischen den Marktschwankungen und der Inflation.",
+      "Dem Bericht zufolge ist die strategische Relevanz dieses Standorts für die Expansion entscheidend."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Lass mich das anders formulieren: ...",
+    "translation": "Let me rephrase that: ...",
+    "b1": [
+      "Lass mich das anders formulieren: Wir haben keine Zeit mehr.",
+      "Lass mich das anders formulieren: Das ist zu teuer.",
+      "Lass mich das anders formulieren: Ich bin müde.",
+      "Lass mich das anders formulieren: Du musst mehr lernen.",
+      "Lass mich das anders formulieren: Wir gehen nach Hause."
+    ],
+    "b2": [
+      "Lass mich das anders formulieren: Unsere Ressourcen reichen für dieses Projekt nicht aus.",
+      "Lass mich das anders formulieren: Wir müssen unsere Kommunikationswege effizienter gestalten.",
+      "Lass mich das anders formulieren: Ohne Kooperation werden wir das Ziel nicht erreichen.",
+      "Lass mich das anders formulieren: Der Kundenservice muss oberste Priorität haben.",
+      "Lass mich das anders formulieren: Die aktuelle Strategie führt uns in die falsche Richtung."
+    ],
+    "c1": [
+      "Lass mich das anders formulieren: Wir benötigen eine grundlegende Paradigmenwechsel in unserer Unternehmenskultur.",
+      "Lass mich das anders formulieren: Die Synergieeffekte zwischen den Abteilungen sind noch nicht hinreichend erschlossen.",
+      "Lass mich das anders formulieren: Die Validität Ihrer Hypothese ist unter diesen Bedingungen fragwürdig.",
+      "Lass mich das anders formulieren: Es bedarf einer differenzierteren Betrachtungsweise der Problematik.",
+      "Lass mich das anders formulieren: Die Diskrepanz zwischen Vision und Realität ist momentan zu groß."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Was ich sagen wollte, war ...",
+    "translation": "What I meant to say was ...",
+    "b1": [
+      "Was ich sagen wollte, war: Danke für alles.",
+      "Was ich sagen wollte, war: Ich komme später.",
+      "Was ich sagen wollte, war: Das Buch ist gut.",
+      "Was ich sagen wollte, war: Wir brauchen Brot.",
+      "Was ich sagen wollte, war: Entschuldigung."
+    ],
+    "b2": [
+      "Was ich sagen wollte, war, dass wir die Deadlines ernst nehmen müssen.",
+      "Was ich sagen wollte, war, dass die Zusammenarbeit bisher hervorragend funktioniert hat.",
+      "Was ich sagen wollte, war, dass wir das Risiko nicht unterschätzen dürfen.",
+      "Was ich sagen wollte, war, dass jeder im Team wichtig ist.",
+      "Was ich sagen wollte, war, dass wir eine bessere Lösung finden können."
+    ],
+    "c1": [
+      "Was ich sagen wollte, war, dass die impliziten Annahmen Ihrer Argumentation fehlerhaft sind.",
+      "Was ich sagen wollte, war, dass die Nachhaltigkeit dieses Ansatzes nicht gewährleistet ist.",
+      "Was ich sagen wollte, war, dass die soziokulturellen Auswirkungen oft vernachlässigt werden.",
+      "Was ich sagen wollte, war, dass wir eine ganzheitliche Perspektive einnehmen müssen.",
+      "Was ich sagen wollte, war, dass die Integrität des Systems oberste Priorität hat."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Der aktuelle Stand ist, dass ...",
+    "translation": "The current status is that ...",
+    "b1": [
+      "Der aktuelle Stand ist, dass wir fertig sind.",
+      "Der aktuelle Stand ist, dass der Zug Verspätung hat.",
+      "Der aktuelle Stand ist, dass noch drei Personen fehlen.",
+      "Der aktuelle Stand ist, dass das Essen fast bereit ist.",
+      "Der aktuelle Stand ist, dass wir warten müssen."
+    ],
+    "b2": [
+      "Der aktuelle Stand ist, dass 80 Prozent der Aufgaben abgeschlossen sind.",
+      "Der aktuelle Stand ist, dass wir noch auf die Freigabe vom Chef warten.",
+      "Der aktuelle Stand ist, dass die Verhandlungen noch nicht beendet sind.",
+      "Der aktuelle Stand ist, dass das System stabil läuft.",
+      "Der aktuelle Stand ist, dass wir das Budget leicht überschritten haben."
+    ],
+    "c1": [
+      "Der aktuelle Stand ist, dass die Marktanalyse eine signifikante Verschiebung der Präferenzen zeigt.",
+      "Der aktuelle Stand ist, dass die juristische Prüfung der Verträge noch andauert.",
+      "Der aktuelle Stand ist, dass die Pilotphase des Projekts erfolgreich evaluiert wurde.",
+      "Der aktuelle Stand ist, dass die Verhandlungen einen entscheidenden Wendepunkt erreicht haben.",
+      "Der aktuelle Stand ist, dass die personellen Kapazitäten derzeit voll ausgelastet sind."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Mit anderen Worten, ...",
+    "translation": "In other words, ...",
+    "b1": [
+      "Mit anderen Worten, wir haben gewonnen.",
+      "Mit anderen Worten, es ist zu spät.",
+      "Mit anderen Worten, du musst mehr üben.",
+      "Mit anderen Worten, das ist nicht wahr.",
+      "Mit anderen Worten, wir fangen neu an."
+    ],
+    "b2": [
+      "Mit anderen Worten, wir müssen die Kosten drastisch senken.",
+      "Mit anderen Worten, das Projekt ist vorerst gestoppt.",
+      "Mit anderen Worten, wir brauchen eine neue Strategie.",
+      "Mit anderen Worten, die Kundenzufriedenheit ist gesunken.",
+      "Mit anderen Worten, Sie sind für die Leitung verantwortlich."
+    ],
+    "c1": [
+      "Mit anderen Worten, die Rentabilität des Vorhabens ist zum jetzigen Zeitpunkt nicht gegeben.",
+      "Mit anderen Worten, wir müssen die methodische Vorgehensweise grundlegend revidieren.",
+      "Mit anderen Worten, die technologische Disruption gefährdet unser bisheriges Geschäftsmodell.",
+      "Mit anderen Worten, die langfristige Stabilität ist wichtiger als kurzfristige Gewinne.",
+      "Mit anderen Worten, die Kooperation ist für beide Seiten von existenzieller Bedeutung."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Nur um sicherzustellen, dass wir uns einig sind, ...",
+    "translation": "Just to make sure we're on the same page, ...",
+    "b1": [
+      "Nur um sicherzustellen, dass wir uns einig sind, wir treffen uns um 8 Uhr.",
+      "Nur um sicherzustellen, dass wir uns einig sind, jeder bringt etwas mit.",
+      "Nur um sicherzustellen, dass wir uns einig sind, wir gehen zu Fuß.",
+      "Nur um sicherzustellen, dass wir uns einig sind, die Prüfung ist am Montag.",
+      "Nur um sicherzustellen, dass wir uns einig sind, das ist ein Geheimnis."
+    ],
+    "b2": [
+      "Nur um sicherzustellen, dass wir uns einig sind, Sie übernehmen die Präsentation am Freitag.",
+      "Nur um sicherzustellen, dass wir uns einig sind, das Budget darf 5000 Euro nicht überschreiten.",
+      "Nur um sicherzustellen, dass wir uns einig sind, wir fokussieren uns zuerst auf das Design.",
+      "Nur um sicherzustellen, dass wir uns einig sind, die Entscheidung wird gemeinsam getroffen.",
+      "Nur um sicherzustellen, dass wir uns einig sind, wir arbeiten am Wochenende nicht."
+    ],
+    "c1": [
+      "Nur um sicherzustellen, dass wir uns einig sind, die Implementierung erfolgt phasenweise.",
+      "Nur um sicherzustellen, dass we uns einig sind, die Haftung liegt ausschließlich beim Vertragspartner.",
+      "Nur um sicherzustellen, dass we uns einig sind, die Vertraulichkeitsvereinbarung gilt unbefristet.",
+      "Nur um sicherzustellen, dass we uns einig sind, die strategischen Ziele bleiben unverändert.",
+      "Nur um sicherzustellen, dass we uns einig sind, die Evaluierung erfolgt nach objektiven Kriterien."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Dies bestätigt, dass ...",
+    "translation": "This confirms that ...",
+    "b1": [
+      "Dies bestätigt, dass wir recht hatten.",
+      "Dies bestätigt, dass das Wetter besser wird.",
+      "Dies bestätigt, dass der Termin stimmt.",
+      "Dies bestätigt, dass du fleißig gelernt hast.",
+      "Dies bestätigt, dass der Kurs gut ist."
+    ],
+    "b2": [
+      "Dies bestätigt, dass unsere Marketingkampagne sehr erfolgreich war.",
+      "Dies bestätigt, dass wir mehr Personal in der IT-Abteilung benötigen.",
+      "Dies bestätigt, dass die Kunden mit dem neuen Service zufrieden sind.",
+      "Dies bestätigt, dass die Software noch einige Fehler hat.",
+      "Dies bestätigt, dass die Kosten im Rahmen geblieben sind."
+    ],
+    "c1": [
+      "Dies bestätigt die Annahme, dass die Marktsegmentierung korrekt durchgeführt wurde.",
+      "Dies bestätigt die Hypothese einer signifikanten Korrelation zwischen beiden Variablen.",
+      "Dies bestätigt die Notwendigkeit einer sofortigen Revision der Sicherheitsvorschriften.",
+      "Dies bestätigt das enorme Wachstumspotenzial in den asiatischen Märkten.",
+      "Dies bestätigt die Effektivität unserer langfristigen Forschungs- und Entwicklungsstrategie."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Erlauben Sie mir, ... näher auszuführen.",
+    "translation": "Allow me to elaborate on …",
+    "b1": [
+      "Erlauben Sie mir, den Plan näher auszuführen.",
+      "Erlauben Sie mir, die Regeln näher auszuführen.",
+      "Erlauben Sie mir, das Problem näher auszuführen.",
+      "Erlauben Sie mir, meine Idee näher auszuführen.",
+      "Erlauben Sie mir, den Weg näher auszuführen."
+    ],
+    "b2": [
+      "Erlauben Sie mir, die Details des neuen Vertrags näher auszuführen.",
+      "Erlauben Sie mir, die technischen Spezifikationen näher auszuführen.",
+      "Erlauben Sie mir, die Gründe für die Verzögerung näher auszuführen.",
+      "Erlauben Sie mir, die Vorteile dieser Entscheidung näher auszuführen.",
+      "Erlauben Sie mir, die nächsten Schritte der Kampagne näher auszuführen."
+    ],
+    "c1": [
+      "Erlauben Sie mir, die methodischen Grundlagen dieser Studie näher auszuführen.",
+      "Erlauben Sie mir, die sozioökonomischen Implikationen dieser Reform näher auszuführen.",
+      "Erlauben Sie mir, die architektonischen Besonderheiten des Entwurfs näher auszuführen.",
+      "Erlauben Sie mir, die langfristigen Auswirkungen der technologischen Transformation näher auszuführen.",
+      "Erlauben Sie mir, die strategische Relevanz unserer neuen Partnerschaft näher auszuführen."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Die Details sind wie folgt: ...",
+    "translation": "The details are as follows: ...",
+    "b1": [
+      "Die Details sind wie folgt: Treffen um 10 Uhr, Preis 20 Euro.",
+      "Die Details sind wie folgt: Montag ist Deutschkurs, Dienstag ist Sport.",
+      "Die Details sind wie folgt: Zimmernummer 102, zweiter Stock.",
+      "Die Details sind wie folgt: Name, Adresse und Telefonnummer.",
+      "Die Details sind wie folgt: Wir fangen heute an und enden morgen."
+    ],
+    "b2": [
+      "Die Details sind wie folgt: Die Laufzeit beträgt 12 Monate, die Kündigungsfrist 3 Monate.",
+      "Die Details sind wie folgt: Wir benötigen drei Grafiker und zwei Programmierer.",
+      "Die Details sind wie folgt: Die Präsentation dauert 20 Minuten, danach folgt eine Diskussion.",
+      "Die Details sind wie folgt: Das Budget wird auf die Bereiche Marketing und IT aufgeteilt.",
+      "Die Details sind wie folgt: Der Test findet online statt und dauert 90 Minuten."
+    ],
+    "c1": [
+      "Die Details sind wie folgt: Die steuerrechtliche Prüfung erfolgt durch eine externe Kanzlei.",
+      "Die Details sind wie folgt: Die technische Implementierung wird in drei Phasen unterteilt.",
+      "Die Details sind wie folgt: Die Zielgruppe umfasst Personen zwischen 25 und 45 Jahren in urbanen Räumen.",
+      "Die Details sind wie folgt: Die Daten wurden mittels einer repräsentativen Umfrage erhoben.",
+      "Die Details sind wie folgt: Die Kostenstruktur setzt sich aus Fixkosten und variablen Anteilen zusammen."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Der wichtige Punkt hier ist nicht ..., sondern ...",
+    "translation": "The important point here is not ..., but ...",
+    "b1": [
+      "Der wichtige Punkt hier ist nicht der Preis, sondern die Qualität.",
+      "Der wichtige Punkt hier ist nicht die Schnelligkeit, sondern die Sicherheit.",
+      "Der wichtige Punkt hier ist nicht das Wetter, sondern die gute Laune.",
+      "Der wichtige Punkt hier ist nicht das Spiel, sondern der Spaß.",
+      "Der wichtige Punkt hier ist nicht das Geld, sondern die Zeit."
+    ],
+    "b2": [
+      "Der wichtige Punkt hier ist nicht die Quantität der Arbeit, sondern die Effektivität.",
+      "Der wichtige Punkt hier ist nicht der Fehler an sich, sondern wie wir damit umgehen.",
+      "Der wichtige Punkt hier ist nicht die Technik, sondern die Benutzerfreundlichkeit.",
+      "Der wichtige Punkt hier ist nicht die Kritik, sondern die konstruktive Lösung.",
+      "Der wichtige Punkt hier ist nicht das 'Was', sondern das 'Wie'."
+    ],
+    "c1": [
+      "Der wichtige Punkt hier ist nicht die kurzfristige Gewinnmaximierung, sondern die nachhaltige Entwicklung.",
+      "Der wichtige Punkt hier ist nicht die reine Information, sondern die kritische Reflexion.",
+      "Der wichtige Punkt hier ist nicht die formale Korrektheit, sondern die inhaltliche Relevanz.",
+      "Der wichtige Punkt hier ist nicht die Technologiegläubigkeit, sondern die menschliche Expertise.",
+      "Der wichtige Punkt hier ist nicht die individuelle Leistung, sondern die kollektive Intelligenz."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Betrachten Sie zum Beispiel ...",
+    "translation": "For example, consider ...",
+    "b1": [
+      "Betrachten Sie zum Beispiel dieses Bild.",
+      "Betrachten Sie zum Beispiel das Beispiel im Buch.",
+      "Betrachten Sie zum Beispiel das Wetter in Berlin.",
+      "Betrachten Sie zum Beispiel meine Hausaufgabe.",
+      "Betrachten Sie zum Beispiel diesen Satz."
+    ],
+    "b2": [
+      "Betrachten Sie zum Beispiel die Entwicklung unserer Verkaufszahlen im letzten Jahr.",
+      "Betrachten Sie zum Beispiel das Feedback unserer Stammkunden.",
+      "Betrachten Sie zum Beispiel die Arbeitsweise in anderen erfolgreichen Teams.",
+      "Betrachten Sie zum Beispiel die neuen Funktionen der Software.",
+      "Betrachten Sie zum Beispiel die Auswirkungen der Preiserhöhung."
+    ],
+    "c1": [
+      "Betrachten Sie zum Beispiel die Korrelation zwischen Bildung und sozialer Mobilität.",
+      "Betrachten Sie zum Beispiel die historischen Parallelen zur aktuellen Wirtschaftslage.",
+      "Betrachten Sie zum Beispiel die ästhetischen Merkmale der postmodernen Architektur.",
+      "Betrachten Sie zum Beispiel die ethischen Herausforderungen der Geneditierung.",
+      "Betrachten Sie zum Beispiel die statistischen Ausreißer in dieser Datenreihe."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Das Fazit ist …",
+    "translation": "The bottom line is …",
+    "b1": [
+      "Das Fazit ist: Wir müssen mehr lernen.",
+      "Das Fazit ist: Die Reise war toll.",
+      "Das Fazit ist: Es gibt kein Problem.",
+      "Das Fazit ist: Wir brauchen Hilfe.",
+      "Das Fazit ist: Alles ist gut gegangen."
+    ],
+    "b2": [
+      "Das Fazit ist, dass wir unsere Marketingstrategie komplett überarbeiten müssen.",
+      "Das Fazit ist, dass sich die Investition in neue Hardware gelohnt hat.",
+      "Das Fazit ist, dass das Team hervorragend zusammengearbeitet hat.",
+      "Das Fazit ist, dass der Kunde eine schnellere Lösung erwartet.",
+      "Das Fazit ist, dass wir in Zukunft besser planen müssen."
+    ],
+    "c1": [
+      "Das Fazit ist die Notwendigkeit einer sofortigen Anpassung an die veränderten Marktbedingungen.",
+      "Das Fazit ist die Bestätigung unserer langfristigen strategischen Ausrichtung.",
+      "Das Fazit ist, dass die bisherigen Maßnahmen zur Kostensenkung nicht ausreichen.",
+      "Das Fazit ist die Unausweichlichkeit einer tiefgreifenden technologischen Transformation.",
+      "Das Fazit ist, dass die Validität der Studie aufgrund der geringen Stichprobenzahl begrenzt ist."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Lassen Sie uns die Hauptergebnisse überprüfen: ...",
+    "translation": "Let's review the main findings: ...",
+    "b1": [
+      "Lassen Sie uns die Hauptergebnisse überprüfen: Wir sind fertig und alle sind froh.",
+      "Lassen Sie uns die Hauptergebnisse überprüfen: Der Test war gut, die Noten sind da.",
+      "Lassen Sie uns die Hauptergebnisse überprüfen: Das Essen schmeckt, der Tisch ist voll.",
+      "Lassen Sie uns die Hauptergebnisse überprüfen: Wir haben drei neue Wörter gelernt.",
+      "Lassen Sie uns die Hauptergebnisse überprüfen: Die Reise war sicher und schön."
+    ],
+    "b2": [
+      "Lassen Sie uns die Hauptergebnisse überprüfen: Der Umsatz ist gestiegen, aber die Kosten auch.",
+      "Lassen Sie uns die Hauptergebnisse überprüfen: Die Fehlerquote ist gesunken, die Effizienz gestiegen.",
+      "Lassen Sie uns die Hauptergebnisse überprüfen: Wir haben 500 neue Abonnenten gewonnen.",
+      "Lassen Sie uns die Hauptergebnisse überprüfen: Das Kundenfeedback ist zu 90% positiv.",
+      "Lassen Sie uns die Hauptergebnisse überprüfen: Die neue Webseite wird doppelt so oft besucht."
+    ],
+    "c1": [
+      "Lassen Sie uns die Hauptergebnisse überprüfen: Die statistische Signifikanz wurde in allen Bereichen bestätigt.",
+      "Lassen Sie uns die Hauptergebnisse überprüfen: Die Effektivität der neuen Methode übertrifft die Erwartungen.",
+      "Lassen Sie uns die Hauptergebnisse überprüfen: Die Analyse zeigt eine klare Tendenz zur Dezentralisierung.",
+      "Lassen Sie uns die Hauptergebnisse überprüfen: Die Risikoevaluierung erfordert eine Anpassung des Portfolios.",
+      "Lassen Sie uns die Hauptergebnisse überprüfen: Die ökologischen Ziele wurden vorzeitig erreicht."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Um die Situation zusammenzufassen, ...",
+    "translation": "To sum up the situation, ...",
+    "b1": [
+      "Um die Situation zusammenzufassen, wir haben keine Zeit mehr.",
+      "Um die Situation zusammenzufassen, alles ist gut.",
+      "Um die Situation zusammenzufassen, wir brauchen Hilfe.",
+      "Um die Situation zusammenzufassen, der Test ist am Montag.",
+      "Um die Situation zusammenzufassen, wir gehen nach Hause."
+    ],
+    "b2": [
+      "Um die Situation zusammenzufassen, wir haben das Budget überschritten und müssen sparen.",
+      "Um die Situation zusammenzufassen, der Kunde ist zufrieden, aber die Technik macht Probleme.",
+      "Um die Situation zusammenzufassen, wir sind auf dem richtigen Weg, brauchen aber mehr Personal.",
+      "Um die Situation zusammenzufassen, die Konkurrenz ist stark, aber wir haben ein besseres Produkt.",
+      "Um die Situation zusammenzufassen, das Meeting war produktiv, aber es gibt noch offene Fragen."
+    ],
+    "c1": [
+      "Um die Situation zusammenzufassen, die strukturellen Defizite erfordern eine sofortige Intervention.",
+      "Um die Situation zusammenzufassen, die Marktvolatilität erfordert eine hohe Flexibilität unserer Prozesse.",
+      "Um die Situation zusammenzufassen, die Synergieeffekte zwischen den Partnern sind suboptimal.",
+      "Um die Situation zusammenzufassen, die technologische Überlegenheit ist unser stärkstes Argument.",
+      "Um die Situation zusammenzufassen, die rechtlichen Rahmenbedingungen sind komplex, aber handhabbar."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Mein Verständnis ist, dass ...",
+    "translation": "My understanding is that ...",
+    "b1": [
+      "Mein Verständnis ist, dass wir morgen frei haben.",
+      "Mein Verständnis ist, dass das Buch 10 Euro kostet.",
+      "Mein Verständnis ist, dass du mir helfen willst.",
+      "Mein Verständnis ist, dass der Kurs hier stattfindet.",
+      "Mein Verständnis ist, dass wir fertig sind."
+    ],
+    "b2": [
+      "Mein Verständnis ist, dass die Deadline auf nächsten Freitag verschoben wurde.",
+      "Mein Verständnis ist, dass wir für die gesamte Organisation verantwortlich sind.",
+      "Mein Verständnis ist, dass die Kosten von der Firma übernommen werden.",
+      "Mein Verständnis ist, dass wir erst nach der Freigabe beginnen dürfen.",
+      "Mein Verständnis ist, dass die Zusammenarbeit unbefristet geplant ist."
+    ],
+    "c1": [
+      "Mein Verständnis ist, dass die Implementierung des Projekts eine umfassende Schulung erfordert.",
+      "Mein Verständnis ist, dass die strategischen Ziele mit den ethischen Richtlinien vereinbar sind.",
+      "Mein Verständnis ist, dass die Haftung auf die unmittelbaren Vertragspartner beschränkt ist.",
+      "Mein Verständnis ist, dass die Datenbasis für eine endgültige Entscheidung noch unzureichend ist.",
+      "Mein Verständnis ist, dass die Reduzierung der Komplexität ein wesentlicher Erfolgsfaktor ist."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Nur um klar zu sein, …",
+    "translation": "Just to be clear, …",
+    "b1": [
+      "Nur um klar zu sein, wir treffen uns heute um 8.",
+      "Nur um klar zu sein, du bezahlst das Essen.",
+      "Nur um klar zu sein, die Hausaufgabe ist für morgen.",
+      "Nur um klar zu sein, das Fenster bleibt zu.",
+      "Nur um klar zu sein, wir gehen ins Kino."
+    ],
+    "b2": [
+      "Nur um klar zu sein, ich übernehme die Leitung, du das Protokoll.",
+      "Nur um klar zu sein, Überstunden werden nicht extra bezahlt.",
+      "Nur um klar zu sein, die Entscheidung ist endgültig.",
+      "Nur um klar zu sein, wir brauchen die Ergebnisse bis heute Abend.",
+      "Nur um klar zu sein, das Budget ist streng limitiert."
+    ],
+    "c1": [
+      "Nur um klar zu sein, die Kooperation beinhaltet keine Exklusivrechte.",
+      "Nur um klar zu sein, die Verantwortung für die Einhaltung der Richtlinien liegt bei Ihnen.",
+      "Nur um klar zu sein, die akademische Freiheit bleibt unangetastet.",
+      "Nur um klar zu sein, die Finanzierung ist an den Erfolg der Pilotphase gebunden.",
+      "Nur um klar zu sein, die strategische Allianz betrifft nur den europäischen Markt."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Das Endergebnis war ...",
+    "translation": "The final outcome was ...",
+    "b1": [
+      "Das Endergebnis war eine gute Note.",
+      "Das Endergebnis war ein schöner Abend.",
+      "Das Endergebnis war, dass wir gewonnen haben.",
+      "Das Endergebnis war viel Arbeit.",
+      "Das Endergebnis war ein glückliches Kind."
+    ],
+    "b2": [
+      "Das Endergebnis war eine Umsatzsteigerung von 15 Prozent.",
+      "Das Endergebnis war ein zufriedener Kunde und ein Folgeauftrag.",
+      "Das Endergebnis war, dass wir das Projekt zwei Tage früher abgeschlossen haben.",
+      "Das Endergebnis war ein stabiles System ohne Fehlermeldungen.",
+      "Das Endergebnis war eine Einigung nach langen Verhandlungen."
+    ],
+    "c1": [
+      "Das Endergebnis war eine signifikante Verbesserung der Marktpositionierung.",
+      "Das Endergebnis war die erfolgreiche Zertifizierung nach internationalen Standards.",
+      "Das Endergebnis war eine fundierte Basis für zukünftige strategische Entscheidungen.",
+      "Das Endergebnis war die Etablierung einer neuen Unternehmenskultur.",
+      "Das Endergebnis war die wissenschaftliche Bestätigung unserer jahrelangen Forschung."
+    ]
+  }
+]

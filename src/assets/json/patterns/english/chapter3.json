@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Could you possibly ...?",
+    "translation": "혹시 ...해 주실 수 있을까요?",
+    "b1": [
+      "Could you possibly help me with this box?",
+      "Could you possibly send me the address again?",
+      "Could you possibly open the window for me?",
+      "Could you possibly wait a few minutes?",
+      "Could you possibly check this email for mistakes?"
+    ],
+    "b2": [
+      "Could you possibly reschedule our meeting to next Thursday?",
+      "Could you possibly provide more information about the project?",
+      "Could you possibly explain how this software works?",
+      "Could you possibly give me some feedback on my presentation?",
+      "Could you possibly introduce me to the marketing manager?"
+    ],
+    "c1": [
+      "Could you possibly elaborate on the long-term implications of this decision?",
+      "Could you possibly facilitate a meeting between the two departments?",
+      "Could you possibly clarify the discrepancies found in the quarterly report?",
+      "Could you possibly extend the deadline considering the recent complications?",
+      "Could you possibly authorize a budget increase for the upcoming campaign?"
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "I would be grateful if you could ...",
+    "translation": "...해 주신다면 감사하겠습니다.",
+    "b1": [
+      "I would be grateful if you could answer my question.",
+      "I would be grateful if you could send the pictures.",
+      "I would be grateful if you could call me back.",
+      "I would be grateful if you could help me clean.",
+      "I would be grateful if you could show me the way."
+    ],
+    "b2": [
+      "I would be grateful if you could provide a reference for my job application.",
+      "I would be grateful if you could review the attached document.",
+      "I would be grateful if you could confirm your attendance by Friday.",
+      "I would be grateful if you could share your expertise on this topic.",
+      "I would be grateful if you could look into this issue as soon as possible."
+    ],
+    "c1": [
+      "I would be grateful if you could provide a comprehensive analysis of the market trends.",
+      "I would be grateful if you could expedite the approval process for this proposal.",
+      "I would be grateful if you could assist us in navigating these legal requirements.",
+      "I would be grateful if you could offer your perspective on the strategic alignment.",
+      "I would be grateful if you could ensure all stakeholders are informed of the changes."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Would you mind ...?",
+    "translation": "...해 주시겠어요?",
+    "b1": [
+      "Would you mind closing the door?",
+      "Would you mind helping me with my homework?",
+      "Would you mind speaking more slowly?",
+      "Would you mind taking a photo for us?",
+      "Would you mind waiting here for a moment?"
+    ],
+    "b2": [
+      "Would you mind explaining the main points of the contract again?",
+      "Would you mind proofreading my report before I submit it?",
+      "Would you mind switching seats with me so I can sit with my friend?",
+      "Would you mind if I borrowed your laptop for the presentation?",
+      "Would you mind handling the client's request while I'm away?"
+    ],
+    "c1": [
+      "Would you mind delineating the specific responsibilities of each team member?",
+      "Would you mind reconsidering your stance in light of the new evidence?",
+      "Would you mind accommodating our request for an earlier delivery date?",
+      "Would you mind overseeing the implementation of the new safety protocols?",
+      "Would you mind providing a detailed breakdown of the projected costs?"
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "I'm writing to request ...",
+    "translation": "...을 요청드리고자 연락드렸습니다.",
+    "b1": [
+      "I'm writing to request more information about the course.",
+      "I'm writing to request a refund for this shirt.",
+      "I'm writing to request a meeting with you.",
+      "I'm writing to request some help with my visa.",
+      "I'm writing to request a copy of the menu."
+    ],
+    "b2": [
+      "I'm writing to request a formal extension for the project deadline.",
+      "I'm writing to request permission to use the conference room.",
+      "I'm writing to request a letter of recommendation from you.",
+      "I'm writing to request access to the company's private database.",
+      "I'm writing to request a replacement for the damaged goods I received."
+    ],
+    "c1": [
+      "I'm writing to request a comprehensive review of our current partnership agreement.",
+      "I'm writing to request a waiver for the administrative fees involved.",
+      "I'm writing to request your professional intervention in this ongoing dispute.",
+      "I'm writing to request a detailed clarification regarding the new tax regulations.",
+      "I'm writing to request an urgent consultation regarding the strategic merger."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "I need ... by the end of ...",
+    "translation": "...까지 ...이 필요합니다.",
+    "b1": [
+      "I need your answer by the end of the day.",
+      "I need the book back by the end of the week.",
+      "I need the money by the end of the month.",
+      "I need to finish this by the end of the class.",
+      "I need to know your plan by the end of tomorrow."
+    ],
+    "b2": [
+      "I need the final report on my desk by the end of the business day.",
+      "I need a confirmed guest list by the end of the week.",
+      "I need all the invoices processed by the end of the quarter.",
+      "I need your feedback on the draft by the end of the weekend.",
+      "I need the updated schedule by the end of the afternoon."
+    ],
+    "c1": [
+      "I need a preliminary assessment of the risks by the end of the fiscal year.",
+      "I need the legal counsel's opinion by the end of the current session.",
+      "I need a thorough evaluation of the proposal by the end of the month.",
+      "I need all departmental budgets finalized by the end of the week.",
+      "I need a strategic plan for the product launch by the end of the quarter."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Is there any chance of ...?",
+    "translation": "...할 수 있는 가능성이 있을까요?",
+    "b1": [
+      "Is there any chance of getting a discount?",
+      "Is there any chance of meeting you today?",
+      "Is there any chance of winning the game?",
+      "Is there any chance of finishing early?",
+      "Is there any chance of more cake?"
+    ],
+    "b2": [
+      "Is there any chance of extending the warranty on this product?",
+      "Is there any chance of upgrading my seat to business class?",
+      "Is there any chance of getting a refund even without a receipt?",
+      "Is there any chance of postponing the meeting until next week?",
+      "Is there any chance of increasing the project budget?"
+    ],
+    "c1": [
+      "Is there any chance of reconsidering the terms of the acquisition?",
+      "Is there any chance of securing additional funding for this research?",
+      "Is there any chance of negotiating a more flexible delivery schedule?",
+      "Is there any chance of resolving the conflict through mediation?",
+      "Is there any chance of accelerating the production timeline?"
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Could I ask you to specifically focus on ...?",
+    "translation": "특별히 ...에 집중해 달라고 부탁드려도 될까요?",
+    "b1": [
+      "Could I ask you to specifically focus on your homework?",
+      "Could I ask you to specifically focus on the spelling?",
+      "Could I ask you to specifically focus on the pictures?",
+      "Could I ask you to specifically focus on the grammar?",
+      "Could I ask you to specifically focus on the time?"
+    ],
+    "b2": [
+      "Could I ask you to specifically focus on the customer feedback section?",
+      "Could I ask you to specifically focus on the financial risks involved?",
+      "Could I ask you to specifically focus on the design of the website?",
+      "Could I ask you to specifically focus on improving our efficiency?",
+      "Could I ask you to specifically focus on the target audience's needs?"
+    ],
+    "c1": [
+      "Could I ask you to specifically focus on the socio-economic impact of the policy?",
+      "Could I ask you to specifically focus on the qualitative aspects of the study?",
+      "Could I ask you to specifically focus on identifying potential systemic flaws?",
+      "Could I ask you to specifically focus on the long-term sustainability of the model?",
+      "Could I ask you to specifically focus on the ethical implications of the new technology?"
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Please make sure to include ...",
+    "translation": "...을 꼭 포함시켜 주세요.",
+    "b1": [
+      "Please make sure to include your name on the test.",
+      "Please make sure to include your phone number.",
+      "Please make sure to include some fruit in the box.",
+      "Please make sure to include the receipt.",
+      "Please make sure to include all the files."
+    ],
+    "b2": [
+      "Please make sure to include a summary at the beginning of the report.",
+      "Please make sure to include all relevant references in your bibliography.",
+      "Please make sure to include the latest sales figures in the presentation.",
+      "Please make sure to include the terms and conditions in the contract.",
+      "Please make sure to include a call-to-action in the marketing email."
+    ],
+    "c1": [
+      "Please make sure to include a detailed risk mitigation strategy in the proposal.",
+      "Please make sure to include an executive summary for the senior management.",
+      "Please make sure to include empirical evidence to support your claims.",
+      "Please make sure to include a comprehensive analysis of the competitor landscape.",
+      "Please make sure to include diverse perspectives during the consultative process."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Would it be possible for you to provide details on ...?",
+    "translation": "...에 대한 세부 사항을 알려주실 수 있을까요?",
+    "b1": [
+      "Would it be possible for you to provide details on the price?",
+      "Would it be possible for you to provide details on the party?",
+      "Would it be possible for you to provide details on the menu?",
+      "Would it be possible for you to provide details on the room?",
+      "Would it be possible for you to provide details on the bus schedule?"
+    ],
+    "b2": [
+      "Would it be possible for you to provide details on the new marketing plan?",
+      "Would it be possible for you to provide details on the technical specifications?",
+      "Would it be possible for you to provide details on the employee benefits package?",
+      "Would it be possible for you to provide details on the project timeline?",
+      "Would it be possible for you to provide details on the refund policy?"
+    ],
+    "c1": [
+      "Would it be possible for you to provide details on the underlying methodology?",
+      "Would it be possible for you to provide details on the fiscal implications of the project?",
+      "Would it be possible for you to provide details on the legal framework governing this area?",
+      "Would it be possible for you to provide details on the anticipated challenges of the integration?",
+      "Would it be possible for you to provide details on the long-term strategic objectives?"
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Unfortunately, I won't be able to ...",
+    "translation": "안타깝게도, 제가 ...할 수 없을 것 같습니다.",
+    "b1": [
+      "Unfortunately, I won't be able to come to the party.",
+      "Unfortunately, I won't be able to help you today.",
+      "Unfortunately, I won't be able to finish this now.",
+      "Unfortunately, I won't be able to see you on Sunday.",
+      "Unfortunately, I won't be able to buy that car."
+    ],
+    "b2": [
+      "Unfortunately, I won't be able to attend the meeting due to a prior commitment.",
+      "Unfortunately, I won't be able to complete the report by the original deadline.",
+      "Unfortunately, I won't be able to provide the information you requested at this time.",
+      "Unfortunately, I won't be able to join the team for dinner tonight.",
+      "Unfortunately, I won't be able to accept the job offer as it is."
+    ],
+    "c1": [
+      "Unfortunately, I won't be able to facilitate the workshop due to unforeseen circumstances.",
+      "Unfortunately, I won't be able to accommodate such a significant change in the scope.",
+      "Unfortunately, I won't be able to authorize any further expenditure this quarter.",
+      "Unfortunately, I won't be able to represent the firm at the upcoming conference.",
+      "Unfortunately, I won't be able to provide a definitive answer until the audit is complete."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "I'm afraid I have to decline ...",
+    "translation": "유감스럽게도 ...를 거절해야 할 것 같습니다.",
+    "b1": [
+      "I'm afraid I have to decline your invitation.",
+      "I'm afraid I have to decline the offer.",
+      "I'm afraid I have to decline this job.",
+      "I'm afraid I have to decline your help.",
+      "I'm afraid I have to decline the request."
+    ],
+    "b2": [
+      "I'm afraid I have to decline the invitation to speak at the event.",
+      "I'm afraid I have to decline the proposed terms of the agreement.",
+      "I'm afraid I have to decline your request for a salary increase at this moment.",
+      "I'm afraid I have to decline the opportunity to collaborate on this project.",
+      "I'm afraid I have to decline the suggested changes to the design."
+    ],
+    "c1": [
+      "I'm afraid I have to decline the nomination due to conflicting interests.",
+      "I'm afraid I have to decline the proposal as it does not align with our core strategy.",
+      "I'm afraid I have to decline the request for additional resources given the current constraints.",
+      "I'm afraid I have to decline the invitation to participate in the panel discussion.",
+      "I'm afraid I have to decline the offer of settlement under the present conditions."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "That sounds challenging because ...",
+    "translation": "그것은 ... 때문에 어려울 것 같습니다.",
+    "b1": [
+      "That sounds challenging because I am busy.",
+      "That sounds challenging because it's very expensive.",
+      "That sounds challenging because I don't have a car.",
+      "That sounds challenging because I don't speak the language.",
+      "That sounds challenging because the time is too short."
+    ],
+    "b2": [
+      "That sounds challenging because we have limited resources at the moment.",
+      "That sounds challenging because it requires a high level of technical expertise.",
+      "That sounds challenging because the market is very competitive right now.",
+      "That sounds challenging because it would require a complete change in our strategy.",
+      "That sounds challenging because we need approval from the board first."
+    ],
+    "c1": [
+      "That sounds challenging because the regulatory landscape is constantly shifting.",
+      "That sounds challenging because it involves managing multiple complex stakeholders.",
+      "That sounds challenging because of the inherent volatility of the global economy.",
+      "That sounds challenging because it requires a paradigm shift in our organizational culture.",
+      "That sounds challenging because the data available is insufficient for a thorough analysis."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "While I appreciate the offer, I must respectfully refuse ...",
+    "translation": "제안은 감사하지만, 정중히 ...를 거절해야겠습니다.",
+    "b1": [
+      "While I appreciate the offer, I must respectfully refuse the cake.",
+      "While I appreciate the offer, I must respectfully refuse your help.",
+      "While I appreciate the offer, I must respectfully refuse the gift.",
+      "While I appreciate the offer, I must respectfully refuse the job.",
+      "While I appreciate the offer, I must respectfully refuse the invitation."
+    ],
+    "b2": [
+      "While I appreciate the offer, I must respectfully refuse the promotion at this time.",
+      "While I appreciate the offer, I must respectfully refuse to participate in the study.",
+      "While I appreciate the offer, I must respectfully refuse the partnership proposal.",
+      "While I appreciate the offer, I must respectfully refuse the discount.",
+      "While I appreciate the offer, I must respectfully refuse the extra work."
+    ],
+    "c1": [
+      "While I appreciate the offer, I must respectfully refuse the appointment for personal reasons.",
+      "While I appreciate the offer, I must respectfully refuse the consultancy role.",
+      "While I appreciate the offer, I must respectfully refuse to be a co-author on this paper.",
+      "While I appreciate the offer, I must respectfully refuse the invitation to join the board.",
+      "While I appreciate the offer, I must respectfully refuse the compensation package as proposed."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "My schedule doesn't permit me to ...",
+    "translation": "제 일정이 ...하는 것을 허락하지 않네요.",
+    "b1": [
+      "My schedule doesn't permit me to go to the party.",
+      "My schedule doesn't permit me to meet you today.",
+      "My schedule doesn't permit me to take a break.",
+      "My schedule doesn't permit me to travel this month.",
+      "My schedule doesn't permit me to help you right now."
+    ],
+    "b2": [
+      "My schedule doesn't permit me to take on any new projects at the moment.",
+      "My schedule doesn't permit me to attend the full three-day conference.",
+      "My schedule doesn't permit me to have a long meeting this week.",
+      "My schedule doesn't permit me to volunteer for the event next weekend.",
+      "My schedule doesn't permit me to respond to every inquiry individually."
+    ],
+    "c1": [
+      "My schedule doesn't permit me to provide the level of commitment required for this role.",
+      "My schedule doesn't permit me to travel internationally for the foreseeable future.",
+      "My schedule doesn't permit me to engage in a long-term collaborative effort at this stage.",
+      "My schedule doesn't permit me to conduct a thorough review of your manuscript this month.",
+      "My schedule doesn't permit me to participate in the upcoming series of seminars."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "I wish I could ..., but currently I'm occupied with ...",
+    "translation": "...할 수 있으면 좋겠지만, 지금은 ... 때문에 바쁩니다.",
+    "b1": [
+      "I wish I could help you, but currently I'm occupied with my homework.",
+      "I wish I could go out, but currently I'm occupied with cleaning.",
+      "I wish I could talk, but currently I'm occupied with cooking.",
+      "I wish I could visit, but currently I'm occupied with work.",
+      "I wish I could play, but currently I'm occupied with reading."
+    ],
+    "b2": [
+      "I wish I could join the committee, but currently I'm occupied with a major product launch.",
+      "I wish I could attend your wedding, but currently I'm occupied with a business trip abroad.",
+      "I wish I could help you with the move, but currently I'm occupied with my own relocation.",
+      "I wish I could review your proposal, but currently I'm occupied with the annual audit.",
+      "I wish I could mentor you, but currently I'm occupied with managing a large team."
+    ],
+    "c1": [
+      "I wish I could provide a more detailed analysis, but currently I'm occupied with finalizing the fiscal report.",
+      "I wish I could dedicate more time to this initiative, but currently I'm occupied with several high-priority cases.",
+      "I wish I could participate in the research project, but currently I'm occupied with my own doctoral thesis.",
+      "I wish I could assist in the negotiations, but currently I'm occupied with restructuring the department.",
+      "I wish I could accept the speaking engagement, but currently I'm occupied with a series of overseas lectures."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "We can revisit ... later.",
+    "translation": "...는 나중에 다시 논의할 수 있습니다.",
+    "b1": [
+      "We can revisit this idea later.",
+      "We can revisit the price later.",
+      "We can revisit our plan later.",
+      "We can revisit the rules later.",
+      "We can revisit the location later."
+    ],
+    "b2": [
+      "We can revisit the marketing strategy after we see the initial results.",
+      "We can revisit the issue of staff bonuses at the next meeting.",
+      "We can revisit the design choices once the prototype is ready.",
+      "We can revisit the budget allocation during the mid-year review.",
+      "We can revisit the possibility of a partnership in the future."
+    ],
+    "c1": [
+      "We can revisit the long-term sustainability goals once the immediate crisis is resolved.",
+      "We can revisit the ethical implications of the project as it evolves.",
+      "We can revisit the contractual terms upon the completion of the first phase.",
+      "We can revisit the proposed methodology after the preliminary data is analyzed.",
+      "We can revisit the strategic direction of the company at the next board meeting."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "I recommend speaking to ... about ...",
+    "translation": "...에 관해서는 ...와 이야기해 보시는 걸 추천합니다.",
+    "b1": [
+      "I recommend speaking to the teacher about your grade.",
+      "I recommend speaking to your doctor about your health.",
+      "I recommend speaking to the manager about the job.",
+      "I recommend speaking to your parents about the trip.",
+      "I recommend speaking to your friend about the problem."
+    ],
+    "b2": [
+      "I recommend speaking to the HR department about the new policy.",
+      "I recommend speaking to a financial advisor about your investments.",
+      "I recommend speaking to the IT team about your computer issues.",
+      "I recommend speaking to a lawyer about the terms of the contract.",
+      "I recommend speaking to our marketing expert about the social media campaign."
+    ],
+    "c1": [
+      "I recommend speaking to the chief architect about the structural limitations.",
+      "I recommend speaking to the ethics committee about the proposed study.",
+      "I recommend speaking to the head of operations about the logistical challenges.",
+      "I recommend speaking to a consultant about the organizational restructuring.",
+      "I recommend speaking to the primary stakeholders about the strategic shift."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "My priority right now is ..., so I must decline.",
+    "translation": "지금 저에겐 ...이 제일 중요해서, 거절해야 할 것 같습니다.",
+    "b1": [
+      "My priority right now is studying, so I must decline.",
+      "My priority right now is my family, so I must decline.",
+      "My priority right now is health, so I must decline.",
+      "My priority right now is resting, so I must decline.",
+      "My priority right now is work, so I must decline."
+    ],
+    "b2": [
+      "My priority right now is finishing the current project, so I must decline any new tasks.",
+      "My priority right now is improving my mental health, so I must decline the invitation.",
+      "My priority right now is saving money, so I must decline the expensive trip.",
+      "My priority right now is preparing for my exams, so I must decline the job offer.",
+      "My priority right now is training my new team, so I must decline the extra responsibilities."
+    ],
+    "c1": [
+      "My priority right now is the successful integration of the new system, so I must decline the offer.",
+      "My priority right now is ensuring the long-term stability of the firm, so I must decline the expansion plan.",
+      "My priority right now is fulfilling my existing commitments, so I must decline the board position.",
+      "My priority right now is the completion of my research, so I must decline all speaking engagements.",
+      "My priority right now is addressing the immediate departmental issues, so I must decline the invitation."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Could you please clarify what you mean by ...?",
+    "translation": "...이 무슨 뜻인지 명확히 해주실 수 있을까요?",
+    "b1": [
+      "Could you please clarify what you mean by 'soon'?",
+      "Could you please clarify what you mean by 'late'?",
+      "Could you please clarify what you mean by 'expensive'?",
+      "Could you please clarify what you mean by 'help'?",
+      "Could you please clarify what you mean by 'this'?"
+    ],
+    "b2": [
+      "Could you please clarify what you mean by 'flexible working hours'?",
+      "Could you please clarify what you mean by 'performance-based bonuses'?",
+      "Could you please clarify what you mean by 'a significant improvement'?",
+      "Could you please clarify what you mean by 'limited resources'?",
+      "Could you please clarify what you mean by 'the project scope'?"
+    ],
+    "c1": [
+      "Could you please clarify what you mean by 'strategic alignment' in this context?",
+      "Could you please clarify what you mean by 'the inherent volatility' of the market?",
+      "Could you please clarify what you mean by 'a paradigm shift' in consumer behavior?",
+      "Could you please clarify what you mean by 'the socio-economic implications' of the study?",
+      "Could you please clarify what you mean by 'the qualitative assessment' of the results?"
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "If you could just ..., that would be a great help.",
+    "translation": "...만 해주신다면 큰 도움이 될 것 같습니다.",
+    "b1": [
+      "If you could just send the email, that would be a great help.",
+      "If you could just wait here, that would be a great help.",
+      "If you could just tell me the time, that would be a great help.",
+      "If you could just open the door, that would be a great help.",
+      "If you could just call me, that would be a great help."
+    ],
+    "b2": [
+      "If you could just provide a brief summary, that would be a great help.",
+      "If you could just introduce me to the CEO, that would be a great help.",
+      "If you could just share your notes with me, that would be a great help.",
+      "If you could just review the first chapter, that would be a great help.",
+      "If you could just confirm the date of the meeting, that would be a great help."
+    ],
+    "c1": [
+      "If you could just provide a breakdown of the expenses, that would be a great help.",
+      "If you could just facilitate the initial contact with the client, that would be a great help.",
+      "If you could just clarify the legal requirements, that would be a great help.",
+      "If you could just offer your expert opinion on the matter, that would be a great help.",
+      "If you could just streamline the approval process, that would be a great help."
+    ]
+  }
+]

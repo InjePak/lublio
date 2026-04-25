@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Das Hauptproblem scheint ... zu sein.",
+    "translation": "The main issue seems to be ...",
+    "b1": [
+      "Das Hauptproblem scheint das Wetter zu sein.",
+      "Das Hauptproblem scheint der Preis zu sein.",
+      "Das Hauptproblem scheint die Zeit zu sein.",
+      "Das Hauptproblem scheint die Sprache zu sein.",
+      "Das Hauptproblem scheint die Technik zu sein."
+    ],
+    "b2": [
+      "Das Hauptproblem scheint die mangelnde Kommunikation zwischen den Abteilungen zu sein.",
+      "Das Hauptproblem scheint die unzureichende Finanzierung des Projekts zu sein.",
+      "Das Hauptproblem scheint die hohe Fluktuation der Mitarbeiter zu sein.",
+      "Das Hauptproblem scheint die veraltete Software im Büro zu sein.",
+      "Das Hauptproblem scheint die fehlende Transparenz bei der Entscheidung zu sein."
+    ],
+    "c1": [
+      "Das Hauptproblem scheint die strukturelle Ineffizienz innerhalb der Hierarchie zu sein.",
+      "Das Hauptproblem scheint die Diskrepanz zwischen Theorie und Praxis zu sein.",
+      "Das Hauptproblem scheint die systemische Vernachlässigung der Sicherheitsstandards zu sein.",
+      "Das Hauptproblem scheint die mangelnde Kohärenz der langfristigen Strategie zu sein.",
+      "Das Hauptproblem scheint die Erosion des Vertrauens seitens der Investoren zu sein."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Wie können wir ... am besten angehen?",
+    "translation": "How can we best approach ...?",
+    "b1": [
+      "Wie können wir diese Hausaufgabe am besten angehen?",
+      "Wie können wir die Reise am besten angehen?",
+      "Wie können wir das Kochen am besten angehen?",
+      "Wie können wir das Problem am besten angehen?",
+      "Wie können wir die Arbeit am besten angehen?"
+    ],
+    "b2": [
+      "Wie können wir die Optimierung des Workflows am besten angehen?",
+      "Wie können wir die steigenden Kosten am besten angehen?",
+      "Wie können wir das neue Marketing-Konzept am besten angehen?",
+      "Wie können wir die unzufriedenen Kunden am besten angehen?",
+      "Wie können wir die Einhaltung der neuen Fristen am besten angehen?"
+    ],
+    "c1": [
+      "Wie können wir die digitale Transformation im Unternehmen am besten angehen?",
+      "Wie können wir die sozioökonomischen Herausforderungen am besten angehen?",
+      "Wie können wir die Neustrukturierung der gesamten Organisation am besten angehen?",
+      "Wie können wir die Implementierung ethischer Richtlinien am besten angehen?",
+      "Wie können wir die globale Klimakrise auf lokaler Ebene am besten angehen?"
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Ich schlage vor, dass wir ...",
+    "translation": "I suggest that we ...",
+    "b1": [
+      "Ich schlage vor, dass wir morgen ins Kino gehen.",
+      "Ich schlage vor, dass wir mehr Deutsch üben.",
+      "Ich schlage vor, dass wir zusammen essen.",
+      "Ich schlage vor, dass wir eine Pause machen.",
+      "Ich schlage vor, dass wir den Lehrer fragen."
+    ],
+    "b2": [
+      "Ich schlage vor, dass wir ein wöchentliches Meeting einführen.",
+      "Ich schlage vor, dass wir die Zuständigkeiten klarer definieren.",
+      "Ich schlage vor, dass wir neue Softwarelösungen testen.",
+      "Ich schlage vor, dass wir das Budget für Marketing erhöhen.",
+      "Ich schlage vor, dass wir eine Umfrage unter den Kunden durchführen."
+    ],
+    "c1": [
+      "Ich schlage vor, dass wir eine umfassende Risikoanalyse vornehmen.",
+      "Ich schlage vor, dass wir die gesamte Unternehmensphilosophie überdenken.",
+      "Ich schlage vor, dass wir externe Experten zur Beratung hinzuziehen.",
+      "Ich schlage vor, dass wir eine Pilotphase für das neue System starten.",
+      "Ich schlage vor, dass wir die strategische Allianz mit unseren Partnern stärken."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Eine mögliche Lösung ist es, ...",
+    "translation": "A potential solution is to ...",
+    "b1": [
+      "Eine mögliche Lösung ist es, früher aufzustehen.",
+      "Eine mögliche Lösung ist es, ein Wörterbuch zu benutzen.",
+      "Eine mögliche Lösung ist es, mit dem Bus zu fahren.",
+      "Eine mögliche Lösung ist es, mehr Wasser zu trinken.",
+      "Eine mögliche Lösung ist es, einen Freund zu fragen."
+    ],
+    "b2": [
+      "Eine mögliche Lösung ist es, das Team zu vergrößern.",
+      "Eine mögliche Lösung ist es, die Produktionskosten zu senken.",
+      "Eine mögliche Lösung ist es, das Homeoffice flexibler zu gestalten.",
+      "Eine mögliche Lösung ist es, die Zielgruppe genauer zu definieren.",
+      "Eine mögliche Lösung ist es, Fortbildungen für die Mitarbeiter anzubieten."
+    ],
+    "c1": [
+      "Eine mögliche Lösung ist es, die internen Prozesse vollständig zu automatisieren.",
+      "Eine mögliche Lösung ist es, das gesamte Geschäftsmodell zu diversifizieren.",
+      "Eine mögliche Lösung ist es, eine nachhaltige Lieferkette aufzubauen.",
+      "Eine mögliche Lösung ist es, die Kapitalstruktur des Unternehmens zu optimieren.",
+      "Eine mögliche Lösung ist es, auf eine agile Management-Struktur umzustellen."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Was wäre, wenn wir ... anstelle von ... versuchen würden?",
+    "translation": "What if we tried ... instead of ...?",
+    "b1": [
+      "Was wäre, wenn wir Tee anstelle von Kaffee versuchen würden?",
+      "Was wäre, wenn wir den Bus anstelle vom Auto versuchen würden?",
+      "Was wäre, wenn wir Salat anstelle von Pizza versuchen würden?",
+      "Was wäre, wenn wir heute anstelle von morgen versuchen würden?",
+      "Was wäre, wenn wir dieses Buch anstelle von jenem versuchen würden?"
+    ],
+    "b2": [
+      "Was wäre, wenn wir Online-Werbung anstelle von Printmedien versuchen würden?",
+      "Was wäre, wenn wir Teamarbeit anstelle von Einzelarbeit versuchen würden?",
+      "Was wäre, wenn wir eine flache Hierarchie anstelle von strengen Regeln versuchen würden?",
+      "Was wäre, wenn wir Recycling anstelle von Entsorgung versuchen würden?",
+      "Was wäre, wenn wir eine Videokonferenz anstelle einer Dienstreise versuchen würden?"
+    ],
+    "c1": [
+      "Was wäre, wenn wir präventive Maßnahmen anstelle von reaktiven Schritten versuchen würden?",
+      "Was wäre, wenn wir qualitative Analysen anstelle von rein quantitativen Methoden versuchen würden?",
+      "Was wäre, wenn wir organisch anstelle von durch Akquisitionen wachsen würden?",
+      "Was wäre, wenn wir Open-Source-Lösungen anstelle von proprietärer Software versuchen würden?",
+      "Was wäre, wenn wir einen dezentralen Ansatz anstelle der zentralen Steuerung versuchen würden?"
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Wir müssen ... priorisieren.",
+    "translation": "We need to prioritize ...",
+    "b1": [
+      "Wir müssen die Hausaufgaben priorisieren.",
+      "Wir müssen die Gesundheit priorisieren.",
+      "Wir müssen das Schlafen priorisieren.",
+      "Wir müssen das Lernen priorisieren.",
+      "Wir müssen das Essen priorisieren."
+    ],
+    "b2": [
+      "Wir müssen die Sicherheit der Mitarbeiter priorisieren.",
+      "Wir müssen die Kundenzufriedenheit priorisieren.",
+      "Wir müssen die Einhaltung der Deadline priorisieren.",
+      "Wir müssen die Qualität der Produkte priorisieren.",
+      "Wir müssen die Kostenersparnis im nächsten Monat priorisieren."
+    ],
+    "c1": [
+      "Wir müssen die ökologische Nachhaltigkeit gegenüber dem Profit priorisieren.",
+      "Wir müssen die technologische Innovation in unserer Strategie priorisieren.",
+      "Wir müssen die ethischen Implikationen bei diesem Projekt priorisieren.",
+      "Wir müssen die langfristige Markenstabilität priorisieren.",
+      "Wir müssen die Datensicherheit in allen Bereichen priorisieren."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Lass uns das Problem in ... aufschlüsseln.",
+    "translation": "Let's break the problem down into ...",
+    "b1": [
+      "Lass uns das Problem in kleine Teile aufschlüsseln.",
+      "Lass uns das Problem in Schritte aufschlüsseln.",
+      "Lass uns das Problem in Tage aufschlüsseln.",
+      "Lass uns das Problem in einfache Sätze aufschlüsseln.",
+      "Lass uns das Problem in zwei Gruppen aufschlüsseln."
+    ],
+    "b2": [
+      "Lass uns das Problem in verschiedene Aufgabenbereiche aufschlüsseln.",
+      "Lass uns das Problem in kurzfristige und langfristige Ziele aufschlüsseln.",
+      "Lass uns das Problem in einzelne Phasen aufschlüsseln.",
+      "Lass uns das Problem in technische und organisatorische Aspekte aufschlüsseln.",
+      "Lass uns das Problem in Kostenstellen aufschlüsseln."
+    ],
+    "c1": [
+      "Lass uns das Problem in seine soziokulturellen Komponenten aufschlüsseln.",
+      "Lass uns das Problem in mikroökonomische Faktoren aufschlüsseln.",
+      "Lass uns das Problem in strategische und taktische Ebenen aufschlüsseln.",
+      "Lass uns das Problem in verschiedene Szenarien aufschlüsseln.",
+      "Lass uns das Problem in kognitive und emotionale Barrieren aufschlüsseln."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Hast du die Auswirkungen von ... in Betracht gezogen?",
+    "translation": "Have you considered the impact of ...?",
+    "b1": [
+      "Hast du die Auswirkungen von dem Wetter in Betracht gezogen?",
+      "Hast du die Auswirkungen von dem Lärm in Betracht gezogen?",
+      "Hast du die Auswirkungen von dem Essen in Betracht gezogen?",
+      "Hast du die Auswirkungen von der Zeit in Betracht gezogen?",
+      "Hast du die Auswirkungen von dem Sport in Betracht gezogen?"
+    ],
+    "b2": [
+      "Hast du die Auswirkungen von der Inflation auf unsere Preise in Betracht gezogen?",
+      "Hast du die Auswirkungen von den neuen Gesetzen in Betracht gezogen?",
+      "Hast du die Auswirkungen von der Digitalisierung in Betracht gezogen?",
+      "Hast du die Auswirkungen von dem Personalwechsel in Betracht gezogen?",
+      "Hast du die Auswirkungen von der neuen Konkurrenz in Betracht gezogen?"
+    ],
+    "c1": [
+      "Hast du die Auswirkungen von der algorithmischen Voreingenommenheit in Betracht gezogen?",
+      "Hast du die Auswirkungen von der geopolitischen Instabilität in Betracht gezogen?",
+      "Hast du die Auswirkungen von der demografischen Entwicklung in Betracht gezogen?",
+      "Hast du die Auswirkungen von dem Klimawandel auf die Lieferketten in Betracht gezogen?",
+      "Hast du die Auswirkungen von der sozialen Ungleichheit in Betracht gezogen?"
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Eine Möglichkeit, dies zu umgehen, ist es, ...",
+    "translation": "One way around this is to ...",
+    "b1": [
+      "Eine Möglichkeit, dies zu umgehen, ist es, einen anderen Weg zu nehmen.",
+      "Eine Möglichkeit, dies zu umgehen, ist es, später zu kommen.",
+      "Eine Möglichkeit, dies zu umgehen, ist es, leise zu sein.",
+      "Eine Möglichkeit, dies zu umgehen, ist es, ein Taxi zu nehmen.",
+      "Eine Möglichkeit, dies zu umgehen, ist es, online zu kaufen."
+    ],
+    "b2": [
+      "Eine Möglichkeit, dies zu umgehen, ist es, die Bürokratie zu minimieren.",
+      "Eine Möglichkeit, dies zu umgehen, ist es, direkt mit dem Chef zu sprechen.",
+      "Eine Möglichkeit, dies zu umgehen, ist es, alternative Software zu nutzen.",
+      "Eine Möglichkeit, dies zu umgehen, ist es, das Projekt auszulagern.",
+      "Eine Möglichkeit, dies zu umgehen, ist es, die Sicherheitsregeln anzupassen."
+    ],
+    "c1": [
+      "Eine Möglichkeit, dies zu umgehen, ist es, eine rechtliche Grauzone zu nutzen.",
+      "Eine Möglichkeit, dies zu umgehen, ist es, das System von innen heraus zu reformieren.",
+      "Eine Möglichkeit, dies zu umgehen, ist es, durch technologische Innovationen neue Märkte zu erschließen.",
+      "Eine Möglichkeit, dies zu umgehen, ist es, eine Allianz mit den Mitbewerbern einzugehen.",
+      "Eine Möglichkeit, dies zu umgehen, ist es, auf eine vollständig dezentrale Struktur zu setzen."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Wir könnten das Risiko mindern, indem wir ...",
+    "translation": "We could mitigate the risk by ...",
+    "b1": [
+      "Wir könnten das Risiko mindern, indem wir vorsichtig sind.",
+      "Wir könnten das Risiko mindern, indem wir langsam fahren.",
+      "Wir könnten das Risiko mindern, indem wir einen Helm tragen.",
+      "Wir könnten das Risiko mindern, indem wir eine Versicherung abschließen.",
+      "Wir könnten das Risiko mindern, indem wir jemanden fragen."
+    ],
+    "b2": [
+      "Wir könnten das Risiko mindern, indem wir das Budget besser planen.",
+      "Wir könnten das Risiko mindern, indem wir regelmäßige Backups machen.",
+      "Wir könnten das Risiko mindern, indem wir Verträge genauer prüfen.",
+      "Wir könnten das Risiko mindern, indem wir die Mitarbeiter besser schulen.",
+      "Wir könnten das Risiko mindern, indem wir die Produktion diversifizieren."
+    ],
+    "c1": [
+      "Wir könnten das Risiko mindern, indem wir eine umfassende Due-Diligence-Prüfung durchführen.",
+      "Wir könnten das Risiko mindern, indem wir in verschiedene Assetklassen investieren.",
+      "Wir könnten das Risiko mindern, indem wir ein robustes Compliance-System implementieren.",
+      "Wir könnten das Risiko mindern, indem wir Szenario-Analysen für den Notfall erstellen.",
+      "Wir könnten das Risiko mindern, indem wir die Abhängigkeit von einzelnen Lieferanten reduzieren."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Vielleicht sollten wir uns die Grundursache von ... ansehen.",
+    "translation": "Perhaps we should look at the root cause of ...",
+    "b1": [
+      "Vielleicht sollten wir uns die Grundursache von deinem Fehler ansehen.",
+      "Vielleicht sollten wir uns die Grundursache von dem Streit ansehen.",
+      "Vielleicht sollten wir uns die Grundursache von dem Lärm ansehen.",
+      "Vielleicht sollten wir uns die Grundursache von der Verspätung ansehen.",
+      "Vielleicht sollten wir uns die Grundursache von der Krankheit ansehen."
+    ],
+    "b2": [
+      "Vielleicht sollten wir uns die Grundursache von der schlechten Motivation ansehen.",
+      "Vielleicht sollten wir uns die Grundursache von den sinkenden Verkaufszahlen ansehen.",
+      "Vielleicht sollten wir uns die Grundursache von den technischen Defekten ansehen.",
+      "Vielleicht sollten wir uns die Grundursache von den Kommunikationsproblemen ansehen.",
+      "Vielleicht sollten wir uns die Grundursache von der hohen Fluktuation ansehen."
+    ],
+    "c1": [
+      "Vielleicht sollten wir uns die Grundursache von der systemischen Diskriminierung ansehen.",
+      "Vielleicht sollten wir uns die Grundursache von der Marktstagnation ansehen.",
+      "Vielleicht sollten wir uns die Grundursache von der Erosion der demokratischen Werte ansehen.",
+      "Vielleicht sollten wir uns die Grundursache von der psychischen Belastung am Arbeitsplatz ansehen.",
+      "Vielleicht sollten wir uns die Grundursache von der zunehmenden Polarisierung der Gesellschaft ansehen."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Der unmittelbar nächste Schritt sollte ... sein.",
+    "translation": "The immediate next step should be ...",
+    "b1": [
+      "Der unmittelbar nächste Schritt sollte das Lernen sein.",
+      "Der unmittelbar nächste Schritt sollte das Essen sein.",
+      "Der unmittelbar nächste Schritt sollte das Aufräumen sein.",
+      "Der unmittelbar nächste Schritt sollte das Anrufen sein.",
+      "Der unmittelbar nächste Schritt sollte das Packen sein."
+    ],
+    "b2": [
+      "Der unmittelbar nächste Schritt sollte die Analyse der Daten sein.",
+      "Der unmittelbar nächste Schritt sollte das Gespräch mit dem Chef sein.",
+      "Der unmittelbar nächste Schritt sollte die Korrektur der Fehler sein.",
+      "Der unmittelbar nächste Schritt sollte die Information der Kunden sein.",
+      "Der unmittelbar nächste Schritt sollte die Planung des nächsten Meetings sein."
+    ],
+    "c1": [
+      "Der unmittelbar nächste Schritt sollte die Evaluierung der bisherigen Ergebnisse sein.",
+      "Der unmittelbar nächste Schritt sollte die Validierung der Hypothesen sein.",
+      "Der unmittelbar nächste Schritt sollte die rechtliche Absicherung des Vorhabens sein.",
+      "Der unmittelbar nächste Schritt sollte die Akquise von neuen Investoren sein.",
+      "Der unmittelbar nächste Schritt sollte die strategische Neuausrichtung der Abteilung sein."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Hat jemand eine andere Perspektive auf ...?",
+    "translation": "Does anyone have a different perspective on ...?",
+    "b1": [
+      "Hat jemand eine andere Perspektive auf den Film?",
+      "Hat jemand eine andere Perspektive auf das Buch?",
+      "Hat jemand eine andere Perspektive auf das Spiel?",
+      "Hat jemand eine andere Perspektive auf das Essen?",
+      "Hat jemand eine andere Perspektive auf die Schule?"
+    ],
+    "b2": [
+      "Hat jemand eine andere Perspektive auf die neue Firmenpolitik?",
+      "Hat jemand eine andere Perspektive auf die Marktentwicklung?",
+      "Hat jemand eine andere Perspektive auf das Projektziel?",
+      "Hat jemand eine andere Perspektive auf die Gehaltserhöhung?",
+      "Hat jemand eine andere Perspektive auf das Homeoffice?"
+    ],
+    "c1": [
+      "Hat jemand eine andere Perspektive auf die ethische Vertretbarkeit dieses Versuchs?",
+      "Hat jemand eine andere Perspektive auf die soziologische Bedeutung dieses Phänomens?",
+      "Hat jemand eine andere Perspektive auf die langfristigen Folgen der Globalisierung?",
+      "Hat jemand eine andere Perspektive auf die Interpretation dieser statistischen Daten?",
+      "Hat jemand eine andere Perspektive auf die Validität dieser wissenschaftlichen Studie?"
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Kurzfristig können wir ... tun.",
+    "translation": "In the short term, we can do ...",
+    "b1": [
+      "Kurzfristig können wir eine Pause tun.",
+      "Kurzfristig können wir das Fenster öffnen.",
+      "Kurzfristig können wir mehr Wasser trinken.",
+      "Kurzfristig können wir ein Taxi nehmen.",
+      "Kurzfristig können wir später essen."
+    ],
+    "b2": [
+      "Kurzfristig können wir die Überstunden reduzieren.",
+      "Kurzfristig können wir die Preise senken.",
+      "Kurzfristig können wir ein Meeting verschieben.",
+      "Kurzfristig können wir die Produktion stoppen.",
+      "Kurzfristig können wir zusätzliche Mitarbeiter einstellen."
+    ],
+    "c1": [
+      "Kurzfristig können wir die Liquidität des Unternehmens sichern.",
+      "Kurzfristig können wir auf die Marktveränderungen reagieren.",
+      "Kurzfristig können wir die Symptome der Krise bekämpfen.",
+      "Kurzfristig können wir die Kommunikation mit den Stakeholdern verbessern.",
+      "Kurzfristig können wir eine Zwischenlösung implementieren."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Wir sollten ein System für ... implementieren.",
+    "translation": "We should implement a system for ...",
+    "b1": [
+      "Wir sollten ein System für das Lernen implementieren.",
+      "Wir sollten ein System für das Sparen implementieren.",
+      "Wir sollten ein System für das Putzen implementieren.",
+      "Wir sollten ein System für das Kochen implementieren.",
+      "Wir sollten ein System für das Training implementieren."
+    ],
+    "b2": [
+      "Wir sollten ein System für das Zeitmanagement implementieren.",
+      "Wir sollten ein System für das Kundenfeedback implementieren.",
+      "Wir sollten ein System für die Fehlerberichterstattung implementieren.",
+      "Wir sollten ein System für die Dokumentation implementieren.",
+      "Wir sollten ein System für die interne Kommunikation implementieren."
+    ],
+    "c1": [
+      "Wir sollten ein System für die kontinuierliche Qualitätskontrolle implementieren.",
+      "Wir sollten ein System für das Risikomanagement implementieren.",
+      "Wir sollten ein System für die ethische Überprüfung von Projekten implementieren.",
+      "Wir sollten ein System für das Wissensmanagement im Konzern implementieren.",
+      "Wir sollten ein System für die nachhaltige Ressourcennutzung implementieren."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Lass uns die Vor- und Nachteile von ... bewerten.",
+    "translation": "Let's evaluate the pros and cons of ...",
+    "b1": [
+      "Lass uns die Vor- und Nachteile von dem Auto bewerten.",
+      "Lass uns die Vor- und Nachteile von der Stadt bewerten.",
+      "Lass uns die Vor- und Nachteile von dem Job bewerten.",
+      "Lass uns die Vor- und Nachteile von dem Internet bewerten.",
+      "Lass uns die Vor- und Nachteile von dem Umzug bewerten."
+    ],
+    "b2": [
+      "Lass uns die Vor- und Nachteile von der neuen Strategie bewerten.",
+      "Lass uns die Vor- und Nachteile von dem Outsourcing bewerten.",
+      "Lass uns die Vor- und Nachteile von der Automatisierung bewerten.",
+      "Lass uns die Vor- und Nachteile von dem Homeoffice bewerten.",
+      "Lass uns die Vor- und Nachteile von dem neuen Gesetz bewerten."
+    ],
+    "c1": [
+      "Lass uns die Vor- und Nachteile von der Kernenergie bewerten.",
+      "Lass uns die Vor- und Nachteile von der künstlichen Intelligenz bewerten.",
+      "Lass uns die Vor- und Nachteile von der Globalisierung bewerten.",
+      "Lass uns die Vor- und Nachteile von der Deregulierung des Marktes bewerten.",
+      "Lass uns die Vor- und Nachteile von der bedingungslosen Grundeinkommen bewerten."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Um den Erfolg zu gewährleisten, müssen wir zuerst ... angehen.",
+    "translation": "To ensure success, we must first address ...",
+    "b1": [
+      "Um den Erfolg zu gewährleisten, müssen wir zuerst die Grammatik angehen.",
+      "Um den Erfolg zu gewährleisten, müssen wir zuerst das Vokabellernen angehen.",
+      "Um den Erfolg zu gewährleisten, müssen wir zuerst die Angst angehen.",
+      "Um den Erfolg zu gewährleisten, müssen wir zuerst die Zeitplanung angehen.",
+      "Um den Erfolg zu gewährleisten, müssen wir zuerst das Geldproblem angehen."
+    ],
+    "b2": [
+      "Um den Erfolg zu gewährleisten, müssen wir zuerst die technischen Probleme angehen.",
+      "Um den Erfolg zu gewährleisten, müssen wir zuerst die interne Kommunikation angehen.",
+      "Um den Erfolg zu gewährleisten, müssen wir zuerst die Qualitätsmängel angehen.",
+      "Um den Erfolg zu gewährleisten, müssen wir zuerst die Marketingstrategie angehen.",
+      "Um den Erfolg zu gewährleisten, müssen wir zuerst die Kundenbeschwerden angehen."
+    ],
+    "c1": [
+      "Um den Erfolg zu gewährleisten, müssen wir zuerst die systemischen Barrieren angehen.",
+      "Um den Erfolg zu gewährleisten, müssen wir zuerst die kulturellen Unterschiede angehen.",
+      "Um den Erfolg zu gewährleisten, müssen wir zuerst die finanziellen Risiken angehen.",
+      "Um den Erfolg zu gewährleisten, müssen wir zuerst die rechtlichen Hürden angehen.",
+      "Um den Erfolg zu gewährleisten, müssen wir zuerst die mangelnde Akzeptanz in der Bevölkerung angehen."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Das größte Hindernis, das im Weg steht, ist ...",
+    "translation": "The biggest obstacle standing in the way is ...",
+    "b1": [
+      "Das größte Hindernis, das im Weg steht, ist die Sprache.",
+      "Das größte Hindernis, das im Weg steht, ist das Geld.",
+      "Das größte Hindernis, das im Weg steht, ist die Zeit.",
+      "Das größte Hindernis, das im Weg steht, ist die Angst.",
+      "Das größte Hindernis, das im Weg steht, ist die Faulheit."
+    ],
+    "b2": [
+      "Das größte Hindernis, das im Weg steht, ist die Bürokratie.",
+      "Das größte Hindernis, das im Weg steht, ist der Mangel an Fachkräften.",
+      "Das größte Hindernis, das im Weg steht, ist die veraltete Technik.",
+      "Das größte Hindernis, das im Weg steht, ist der Widerstand gegen Veränderungen.",
+      "Das größte Hindernis, das im Weg steht, ist die fehlende Finanzierung."
+    ],
+    "c1": [
+      "Das größte Hindernis, das im Weg steht, ist die mangelnde politische Unterstützung.",
+      "Das größte Hindernis, das im Weg steht, ist die tiefe soziale Spaltung.",
+      "Das größte Hindernis, das im Weg steht, ist die ethische Kontroverse.",
+      "Das größte Hindernis, das im Weg steht, ist die Komplexität der globalen Märkte.",
+      "Das größte Hindernis, das im Weg steht, ist die fehlende visionäre Führung."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Mein vorgeschlagener Ansatz beinhaltet ...",
+    "translation": "My proposed approach involves ...",
+    "b1": [
+      "Mein vorgeschlagener Ansatz beinhaltet tägliches Lernen.",
+      "Mein vorgeschlagener Ansatz beinhaltet gesundes Essen.",
+      "Mein vorgeschlagener Ansatz beinhaltet viel Sport.",
+      "Mein vorgeschlagener Ansatz beinhaltet frühes Aufstehen.",
+      "Mein vorgeschlagener Ansatz beinhaltet regelmäßige Pausen."
+    ],
+    "b2": [
+      "Mein vorgeschlagener Ansatz beinhaltet eine neue Marketingkampagne.",
+      "Mein vorgeschlagener Ansatz beinhaltet die Einführung von agilen Methoden.",
+      "Mein vorgeschlagener Ansatz beinhaltet die Schulung aller Mitarbeiter.",
+      "Mein vorgeschlagener Ansatz beinhaltet eine Reduzierung der Kosten um 10%.",
+      "Mein vorgeschlagener Ansatz beinhaltet die Verbesserung des Kundenservice."
+    ],
+    "c1": [
+      "Mein vorgeschlagener Ansatz beinhaltet eine umfassende Transformation der Unternehmenskultur.",
+      "Mein vorgeschlagener Ansatz beinhaltet eine interdisziplinäre Zusammenarbeit auf globaler Ebene.",
+      "Mein vorgeschlagener Ansatz beinhaltet die Integration von künstlicher Intelligenz in alle Prozesse.",
+      "Mein vorgeschlagener Ansatz beinhaltet eine radikale Umstellung auf erneuerbare Energien.",
+      "Mein vorgeschlagener Ansatz beinhaltet eine neue Form der partizipativen Entscheidungsfindung."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Vielleicht ist das fehlende Teil ...",
+    "translation": "Perhaps the missing piece is ...",
+    "b1": [
+      "Vielleicht ist das fehlende Teil mehr Zeit.",
+      "Vielleicht ist das fehlende Teil mehr Geld.",
+      "Vielleicht ist das fehlende Teil ein guter Freund.",
+      "Vielleicht ist das fehlende Teil ein Wörterbuch.",
+      "Vielleicht ist das fehlende Teil Mut."
+    ],
+    "b2": [
+      "Vielleicht ist das fehlende Teil eine bessere Kommunikation.",
+      "Vielleicht ist das fehlende Teil eine klare Strategie.",
+      "Vielleicht ist das fehlende Teil die richtige Motivation.",
+      "Vielleicht ist das fehlende Teil ein fähiger Projektleiter.",
+      "Vielleicht ist das fehlende Teil das Feedback der Kunden."
+    ],
+    "c1": [
+      "Vielleicht ist das fehlende Teil das tiefe Verständnis für die kulturellen Nuancen.",
+      "Vielleicht ist das fehlende Teil die ethische Verantwortung gegenüber der Gesellschaft.",
+      "Vielleicht ist das fehlende Teil die Integration von Nachhaltigkeit in den Kern des Geschäfts.",
+      "Vielleicht ist das fehlende Teil die Bereitschaft zum radikalen Umdenken.",
+      "Vielleicht ist das fehlende Teil die langfristige Vision für das nächste Jahrzehnt."
+    ]
+  }
+]

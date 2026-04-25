@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "path": "environment",
+    "kor": "환경",
+    "eng": "Environment",
+    "fra": "Environnement",
+    "deu": "Umwelt",
+    "rus": "Окружающая сре다"
+  },
+  {
+    "id": 2,
+    "path": "workplace",
+    "kor": "직장",
+    "eng": "Workplace",
+    "fra": "Lieu de travail",
+    "deu": "Arbeitsplatz",
+    "rus": "Рабочее место"
+  },
+  {
+    "id": 3,
+    "path": "education",
+    "kor": "교육",
+    "eng": "Education",
+    "fra": "Éducation",
+    "deu": "Bildung",
+    "rus": "Образование"
+  },
+  {
+    "id": 4,
+    "path": "personality",
+    "kor": "성격",
+    "eng": "Personality",
+    "fra": "Personnalité",
+    "deu": "Persönlichkeit",
+    "rus": "Личность"
+  },
+  {
+    "id": 5,
+    "path": "entertainment",
+    "kor": "엔터테인먼트",
+    "eng": "Entertainment",
+    "fra": "Divertissement",
+    "deu": "Unterhaltung",
+    "rus": "Развлечения"
+  },
+  {
+    "id": 6,
+    "path": "society",
+    "kor": "사회",
+    "eng": "Society",
+    "fra": "Société",
+    "deu": "Gesellschaft",
+    "rus": "Общество"
+  },
+  {
+    "id": 7,
+    "path": "health-and-fitness",
+    "kor": "건강과 피트니스",
+    "eng": "Health and Fitness",
+    "fra": "Santé et Forme",
+    "deu": "Gesundheit und Fitness",
+    "rus": "Здоровье и фи트нес"
+  },
+  {
+    "id": 8,
+    "path": "communication",
+    "kor": "의사소통",
+    "eng": "Communication",
+    "fra": "Communication",
+    "deu": "Kommunikation",
+    "rus": "Общение"
+  },
+  {
+    "id": 9,
+    "path": "geography",
+    "kor": "지리",
+    "eng": "Geography",
+    "fra": "Géographie",
+    "deu": "Geografie",
+    "rus": "География"
+  },
+  {
+    "id": 10,
+    "path": "crime",
+    "kor": "범죄",
+    "eng": "Crime",
+    "fra": "Crime",
+    "deu": "Kriminalität",
+    "rus": "Преступность"
+  },
+  {
+    "id": 11,
+    "path": "economy",
+    "kor": "경제",
+    "eng": "Economy",
+    "fra": "Économie",
+    "deu": "Wirtschaft",
+    "rus": "Экономика"
+  },
+  {
+    "id": 12,
+    "path": "science",
+    "kor": "과학",
+    "eng": "Science",
+    "fra": "Science",
+    "deu": "Wissenschaft",
+    "rus": "Наука"
+  },
+  {
+    "id": 13,
+    "path": "art",
+    "kor": "예술",
+    "eng": "Art",
+    "fra": "Art",
+    "deu": "Kunst",
+    "rus": "Искусство"
+  },
+  {
+    "id": 14,
+    "path": "relationships",
+    "kor": "인간 관계",
+    "eng": "Relationships",
+    "fra": "Relations",
+    "deu": "Beziehungen",
+    "rus": "Отношения"
+  },
+  {
+    "id": 15,
+    "path": "travel-details",
+    "kor": "여행 상세",
+    "eng": "Travel Details",
+    "fra": "Détails du voyage",
+    "deu": "Reisedetails",
+    "rus": "Детали путешествия"
+  }
+]

@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "I remember when ...",
+    "translation": "저는 ...했던 때를 기억해요.",
+    "b1": [
+      "I remember when I first met my best friend.",
+      "I remember when we went to the beach last summer.",
+      "I remember when I bought my very first bike.",
+      "I remember when it snowed a lot in our town.",
+      "I remember when I was a little child in elementary school."
+    ],
+    "b2": [
+      "I remember when I had to give a speech in front of a large audience.",
+      "I remember when our family decided to move to a different city.",
+      "I remember when I finally passed my driving test after two tries.",
+      "I remember when technology wasn't as advanced as it is today.",
+      "I remember when I got my first job and felt so proud."
+    ],
+    "c1": [
+      "I remember when the political landscape of the country shifted overnight.",
+      "I remember when I first realized the profound impact of social inequality.",
+      "I remember when a single conversation completely altered my career path.",
+      "I remember when the city underwent a massive urban transformation.",
+      "I remember when I struggled to balance my personal values with professional demands."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Once upon a time, ...",
+    "translation": "옛날 옛적에 ...",
+    "b1": [
+      "Once upon a time, there lived a king in a big castle.",
+      "Once upon a time, I wanted to be an astronaut.",
+      "Once upon a time, this park was a small farm.",
+      "Once upon a time, we didn't have any smartphones.",
+      "Once upon a time, a little girl found a magic ring."
+    ],
+    "b2": [
+      "Once upon a time, this neighborhood was a quiet place with many trees.",
+      "Once upon a time, I believed that anything was possible with enough hard work.",
+      "Once upon a time, people used to write long letters to each other.",
+      "Once upon a time, there was a small startup that changed the world.",
+      "Once upon a time, travel was much slower and more difficult than now."
+    ],
+    "c1": [
+      "Once upon a time, the prevailing wisdom was that the economy would grow indefinitely.",
+      "Once upon a time, this region was the epicenter of a flourishing artistic movement.",
+      "Once upon a time, society held much more rigid views on gender roles.",
+      "Once upon a time, the concept of privacy was viewed through a completely different lens.",
+      "Once upon a time, the boundaries between work and personal life were clearly defined."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "The story begins with ...",
+    "translation": "이야기는 ...로 시작됩니다.",
+    "b1": [
+      "The story begins with a young boy in a small village.",
+      "The story begins with a rainy day in London.",
+      "The story begins with a mysterious letter in the mail.",
+      "The story begins with my family going on a vacation.",
+      "The story begins with a cat lost in the forest."
+    ],
+    "b2": [
+      "The story begins with the main character losing his job unexpectedly.",
+      "The story begins with a chance meeting at a crowded airport.",
+      "The story begins with a decision that changed everything for the hero.",
+      "The story begins with a childhood memory that haunts the narrator.",
+      "The story begins with a discovery of an old diary in the attic."
+    ],
+    "c1": [
+      "The story begins with a detailed description of the protagonist's existential crisis.",
+      "The story begins with the subtle breakdown of a long-standing diplomatic alliance.",
+      "The story begins with a philosophical inquiry into the nature of truth.",
+      "The story begins with an intricate portrayal of 19th-century societal norms.",
+      "The story begins with a series of seemingly unrelated events that later converge."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "That reminds me of a time when ...",
+    "translation": "그걸 보니 ...했던 때가 생각나네요.",
+    "b1": [
+      "That reminds me of a time when I got lost in the mall.",
+      "That reminds me of a time when we cooked dinner together.",
+      "That reminds me of a time when I visited Paris.",
+      "That reminds me of a time when I won a gold medal.",
+      "That reminds me of a time when my dog ran away."
+    ],
+    "b2": [
+      "That reminds me of a time when I had to survive a week without electricity.",
+      "That reminds me of a time when I completely misunderstood a cultural gesture.",
+      "That reminds me of a time when I worked on a very challenging project.",
+      "That reminds me of a time when our car broke down in the middle of nowhere.",
+      "That reminds me of a time when I had a serious disagreement with my boss."
+    ],
+    "c1": [
+      "That reminds me of a time when the entire organization faced an ethical dilemma.",
+      "That reminds me of a time when I witnessed a remarkable act of collective resilience.",
+      "That reminds me of a time when I had to navigate a complex bureaucratic system.",
+      "That reminds me of a time when intellectual curiosity led to an unexpected discovery.",
+      "That reminds me of a time when the limitations of human communication became evident."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Let me tell you about ...",
+    "translation": "...에 대해 이야기해 드릴게요.",
+    "b1": [
+      "Let me tell you about my favorite hobby.",
+      "Let me tell you about my trip to Jeju island.",
+      "Let me tell you about my wonderful grandmother.",
+      "Let me tell you about my first pet dog.",
+      "Let me tell you about a funny thing that happened today."
+    ],
+    "b2": [
+      "Let me tell you about the most difficult challenge I've ever faced.",
+      "Let me tell you about how I learned to speak three languages.",
+      "Let me tell you about a person who inspired me to change my life.",
+      "Let me tell you about the time I volunteered in a foreign country.",
+      "Let me tell you about a project that didn't go as planned."
+    ],
+    "c1": [
+      "Let me tell you about the intricate complexities of managing a global team.",
+      "Let me tell you about a transformative experience that reshaped my worldview.",
+      "Let me tell you about the nuances involved in this scientific breakthrough.",
+      "Let me tell you about a historical event that continues to influence our society.",
+      "Let me tell you about the profound psychological shifts that occur during a crisis."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "We were just about to ... when suddenly ...",
+    "translation": "막 ...하려던 참이었는데, 갑자기 …",
+    "b1": [
+      "We were just about to eat when suddenly the phone rang.",
+      "We were just about to leave when suddenly it started to rain.",
+      "We were just about to sleep when suddenly we heard a loud noise.",
+      "We were just about to start the game when suddenly the power went out.",
+      "We were just about to go out when suddenly my mom arrived."
+    ],
+    "b2": [
+      "We were just about to board the plane when suddenly we realized we lost a passport.",
+      "We were just about to sign the contract when suddenly a new problem appeared.",
+      "We were just about to finish the hike when suddenly the weather turned dangerous.",
+      "We were just about to announce the winner when suddenly there was an objection.",
+      "We were just about to launch the app when suddenly a major bug was found."
+    ],
+    "c1": [
+      "We were just about to finalize the merger when suddenly the market crashed.",
+      "We were just about to reach a consensus when suddenly a new piece of evidence emerged.",
+      "We were just about to publish the findings when suddenly we discovered a flaw in the data.",
+      "We were just about to initiate the protocol when suddenly an alarm went off.",
+      "We were just about to conclude the debate when suddenly a provocative question was raised."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "And then, the most unexpected thing happened: ...",
+    "translation": "그러고 나서 가장 예상치 못한 일이 일어났어요. ...",
+    "b1": [
+      "And then, the most unexpected thing happened: I found my lost keys.",
+      "And then, the most unexpected thing happened: it started to snow in summer.",
+      "And then, the most unexpected thing happened: he gave me a present.",
+      "And then, the most unexpected thing happened: I won the lottery.",
+      "And then, the most unexpected thing happened: the bird spoke to me."
+    ],
+    "b2": [
+      "And then, the most unexpected thing happened: an old friend I hadn't seen in years walked in.",
+      "And then, the most unexpected thing happened: the engine started working again by itself.",
+      "And then, the most unexpected thing happened: I was offered a promotion on the spot.",
+      "And then, the most unexpected thing happened: the crowd fell completely silent.",
+      "And then, the most unexpected thing happened: the stray dog led us to the main road."
+    ],
+    "c1": [
+      "And then, the most unexpected thing happened: the primary suspect confessed to the crime.",
+      "And then, the most unexpected thing happened: a breakthrough occurred in the middle of the night.",
+      "And then, the most unexpected thing happened: the long-stalled negotiations were suddenly resolved.",
+      "And then, the most unexpected thing happened: the experimental results contradicted all previous theories.",
+      "And then, the most unexpected thing happened: a seemingly insignificant detail proved to be the key."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "I'll never forget the moment when ...",
+    "translation": "...했던 그 순간을 절대 잊지 못할 거예요.",
+    "b1": [
+      "I'll never forget the moment when I saw the ocean for the first time.",
+      "I'll never forget the moment when my little brother was born.",
+      "I'll never forget the moment when I finished my first marathon.",
+      "I'll never forget the moment when we moved into our new house.",
+      "I'll never forget the moment when I passed my final exam."
+    ],
+    "b2": [
+      "I'll never forget the moment when I realized I was finally independent.",
+      "I'll never forget the moment when the audience gave me a standing ovation.",
+      "I'll never forget the moment when I reached the summit of the mountain.",
+      "I'll never forget the moment when I held my newborn child for the first time.",
+      "I'll never forget the moment when I stood on the stage at graduation."
+    ],
+    "c1": [
+      "I'll never forget the moment when I witnessed the sheer scale of the humanitarian effort.",
+      "I'll never forget the moment when the true gravity of the situation became apparent.",
+      "I'll never forget the moment when I finally grasped the complexity of the philosophical concept.",
+      "I'll never forget the moment when the visionary leader delivered his final address.",
+      "I'll never forget the moment when I decided to leave my comfortable life for a new challenge."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "At first, I thought ..., but later I realized ...",
+    "translation": "처음에는 ...라고 생각했는데, 나중에 ...라는 것을 깨달았어요.",
+    "b1": [
+      "At first, I thought he was mean, but later I realized he was just shy.",
+      "At first, I thought the exam was easy, but later I realized it was hard.",
+      "At first, I thought I lost my phone, but later I realized it was in my bag.",
+      "At first, I thought it was a dog, but later I realized it was a cat.",
+      "At first, I thought I was late, but later I realized I was early."
+    ],
+    "b2": [
+      "At first, I thought moving abroad would be easy, but later I realized how much I'd miss home.",
+      "At first, I thought the project was a failure, but later I realized we learned a lot.",
+      "At first, I thought the book was boring, but later I realized it was a masterpiece.",
+      "At first, I thought she was joking, but later I realized she was being serious.",
+      "At first, I thought money was everything, but later I realized that health is more important."
+    ],
+    "c1": [
+      "At first, I thought the data was conclusive, but later I realized there were significant biases.",
+      "At first, I thought the policy would be effective, but later I realized it had many loopholes.",
+      "At first, I thought the two events were related, but later I realized it was just a coincidence.",
+      "At first, I thought leadership was about authority, but later I realized it's about empowerment.",
+      "At first, I thought the technology was a panacea, but later I realized it brought new ethical challenges."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Everything changed after ...",
+    "translation": "... 이후로 모든 것이 바뀌었어요.",
+    "b1": [
+      "Everything changed after I met my teacher.",
+      "Everything changed after we moved to the city.",
+      "Everything changed after I got a new computer.",
+      "Everything changed after the big storm.",
+      "Everything changed after I started to exercise."
+    ],
+    "b2": [
+      "Everything changed after the company announced its new strategy.",
+      "Everything changed after I decided to quit my stable job.",
+      "Everything changed after the invention of the smartphone.",
+      "Everything changed after I spent a year traveling alone.",
+      "Everything changed after we lost our most important client."
+    ],
+    "c1": [
+      "Everything changed after the geopolitical shifts in the region.",
+      "Everything changed after the implementation of the new economic reforms.",
+      "Everything changed after a major breakthrough in renewable energy technology.",
+      "Everything changed after the public discourse moved towards environmental awareness.",
+      "Everything changed after I experienced a profound personal loss that reshaped my priorities."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Before I knew it, ...",
+    "translation": "저도 모르는 사이에 …",
+    "b1": [
+      "Before I knew it, the sun was going down.",
+      "Before I knew it, I was finished with my homework.",
+      "Before I knew it, summer vacation was over.",
+      "Before I knew it, the bus had arrived.",
+      "Before I knew it, I had eaten the whole pizza."
+    ],
+    "b2": [
+      "Before I knew it, I had become an expert in coding.",
+      "Before I knew it, the project was due and I was rushing to finish.",
+      "Before I knew it, three years had passed since I moved here.",
+      "Before I knew it, the situation had escalated into a major argument.",
+      "Before I knew it, I was fluent enough to have a conversation in Spanish."
+    ],
+    "c1": [
+      "Before I knew it, the small startup had evolved into a multi-national corporation.",
+      "Before I knew it, the initial enthusiasm had been replaced by a sense of disillusionment.",
+      "Before I knew it, the subtle changes in the climate had become impossible to ignore.",
+      "Before I knew it, I had been drawn into a complex web of political intrigue.",
+      "Before I knew it, the conversation had shifted from casual talk to a deep philosophical debate."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "The whole experience taught me ...",
+    "translation": "그 모든 경험은 제게 ...라는 것을 가르쳐 주었어요.",
+    "b1": [
+      "The whole experience taught me to be patient.",
+      "The whole experience taught me that family is important.",
+      "The whole experience taught me how to cook.",
+      "The whole experience taught me to work hard.",
+      "The whole experience taught me that I love hiking."
+    ],
+    "b2": [
+      "The whole experience taught me the importance of effective communication.",
+      "The whole experience taught me how to handle failure with grace.",
+      "The whole experience taught me that I am much stronger than I thought.",
+      "The whole experience taught me to appreciate the small things in life.",
+      "The whole experience taught me that preparation is the key to success."
+    ],
+    "c1": [
+      "The whole experience taught me the fundamental value of intellectual humility.",
+      "The whole experience taught me how systemic biases can affect decision-making.",
+      "The whole experience taught me the intricate balance between ambition and well-being.",
+      "The whole experience taught me that resilience is built through adversity and reflection.",
+      "The whole experience taught me to scrutinize my own assumptions before judging others."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "The first thing that happened was ...",
+    "translation": "가장 먼저 일어난 일은 ...였어요.",
+    "b1": [
+      "The first thing that happened was the lights went off.",
+      "The first thing that happened was he said hello to me.",
+      "The first thing that happened was I woke up late.",
+      "The first thing that happened was we lost our map.",
+      "The first thing that happened was it started to rain."
+    ],
+    "b2": [
+      "The first thing that happened was that the flight was delayed by four hours.",
+      "The first thing that happened was a misunderstanding about the meeting time.",
+      "The first thing that happened was the manager introduced the new team members.",
+      "The first thing that happened was we noticed a strange sound coming from the engine.",
+      "The first thing that happened was a sudden drop in the stock prices."
+    ],
+    "c1": [
+      "The first thing that happened was a complete breakdown in communication between the parties.",
+      "The first thing that happened was the emergence of an unexpected technical glitch.",
+      "The first thing that happened was a thorough review of the existing protocols.",
+      "The first thing that happened was the implementation of emergency safety measures.",
+      "The first thing that happened was a profound shift in public opinion regarding the issue."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Looking back now, I can see that ...",
+    "translation": "지금 되돌아보니 ...라는 것을 알 수 있어요.",
+    "b1": [
+      "Looking back now, I can see that I was very young.",
+      "Looking back now, I can see that she was a good friend.",
+      "Looking back now, I can see that the trip was great.",
+      "Looking back now, I can see that I made a mistake.",
+      "Looking back now, I can see that hard work paid off."
+    ],
+    "b2": [
+      "Looking back now, I can see that the challenge made me a better person.",
+      "Looking back now, I can see that we should have listened to her advice.",
+      "Looking back now, I can see that the decision was the right one at the time.",
+      "Looking back now, I can see that I was focusing on the wrong things.",
+      "Looking back now, I can see that every failure was a stepping stone to success."
+    ],
+    "c1": [
+      "Looking back now, I can see that the socio-economic factors played a crucial role.",
+      "Looking back now, I can see that the initial hypothesis was based on flawed logic.",
+      "Looking back now, I can see that the experience was a pivotal moment in my career.",
+      "Looking back now, I can see that the signs of the crisis were already there.",
+      "Looking back now, I can see that my perspective was limited by my own cultural background."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "I felt completely ...",
+    "translation": "저는 완전히 ...라고 느꼈어요.",
+    "b1": [
+      "I felt completely happy when I won.",
+      "I felt completely tired after the walk.",
+      "I felt completely lost in the city.",
+      "I felt completely surprised by the gift.",
+      "I felt completely fine after the doctor's visit."
+    ],
+    "b2": [
+      "I felt completely overwhelmed by the amount of work I had to do.",
+      "I felt completely relieved when the project was finally over.",
+      "I felt completely confident after practicing my presentation.",
+      "I felt completely exhausted after the long-distance flight.",
+      "I felt completely satisfied with the results of the experiment."
+    ],
+    "c1": [
+      "I felt completely disillusioned after witnessing the corruption within the system.",
+      "I felt completely invigorated by the intellectual exchange at the conference.",
+      "I felt completely vindicated when the data finally supported my controversial theory.",
+      "I felt completely immersed in the local culture during my stay.",
+      "I felt completely alienated from the corporate environment and its values."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "It was the moment when ...",
+    "translation": "...했던 순간이었어요.",
+    "b1": [
+      "It was the moment when I found my lost ring.",
+      "It was the moment when the sun came out.",
+      "It was the moment when I scored a goal.",
+      "It was the moment when she said 'Yes'.",
+      "It was the moment when the music stopped."
+    ],
+    "b2": [
+      "It was the moment when I realized that I wanted to be a doctor.",
+      "It was the moment when all our hard work finally started to pay off.",
+      "It was the moment when the truth finally came to light.",
+      "It was the moment when I decided to take a big risk for my career.",
+      "It was the moment when the two countries signed the peace treaty."
+    ],
+    "c1": [
+      "It was the moment when the culmination of years of research bore fruit.",
+      "It was the moment when the inherent contradictions of the plan became undeniable.",
+      "It was the moment when a single act of courage inspired an entire movement.",
+      "It was the moment when the delicate balance of power finally shifted.",
+      "It was the moment when I fully understood the ethical weight of my decision."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "To cut a long story short, ...",
+    "translation": "간단히 말해서 ...",
+    "b1": [
+      "To cut a long story short, we got home safely.",
+      "To cut a long story short, I bought the car.",
+      "To cut a long story short, the party was great.",
+      "To cut a long story short, we missed the train.",
+      "To cut a long story short, I passed the test."
+    ],
+    "b2": [
+      "To cut a long story short, we decided to cancel the project due to the budget.",
+      "To cut a long story short, the two companies reached an agreement.",
+      "To cut a long story short, I ended up moving to London for a year.",
+      "To cut a long story short, the situation was resolved after many meetings.",
+      "To cut a long story short, the vacation wasn't as relaxing as we hoped."
+    ],
+    "c1": [
+      "To cut a long story short, the experiment failed to produce the expected results.",
+      "To cut a long story short, the legal battle lasted for years without a clear winner.",
+      "To cut a long story short, the organizational restructuring led to significant layoffs.",
+      "To cut a long story short, the theoretical framework proved to be inadequate for the task.",
+      "To cut a long story short, the merger was called off due to cultural incompatibilities."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "The atmosphere was very ...",
+    "translation": "분위기가 정말 ...했어요.",
+    "b1": [
+      "The atmosphere was very happy at the party.",
+      "The atmosphere was very quiet in the library.",
+      "The atmosphere was very cold in the room.",
+      "The atmosphere was very friendly at the cafe.",
+      "The atmosphere was very tense during the game."
+    ],
+    "b2": [
+      "The atmosphere was very welcoming and warm in the small village.",
+      "The atmosphere was very competitive during the final match.",
+      "The atmosphere was very professional and organized at the conference.",
+      "The atmosphere was very relaxed during our summer holiday.",
+      "The atmosphere was very energetic at the rock concert."
+    ],
+    "c1": [
+      "The atmosphere was very solemn during the memorial service.",
+      "The atmosphere was very sophisticated and intellectually stimulating.",
+      "The atmosphere was very electric with anticipation before the announcement.",
+      "The atmosphere was very stagnant and lacked creative inspiration.",
+      "The atmosphere was very inclusive, fostering a sense of belonging for everyone."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "If I had to describe it in one word, I'd say ...",
+    "translation": "한 마디로 표현하자면 ...라고 하겠어요.",
+    "b1": [
+      "If I had to describe it in one word, I'd say 'fun'.",
+      "If I had to describe it in one word, I'd say 'scary'.",
+      "If I had to describe it in one word, I'd say 'beautiful'.",
+      "If I had to describe it in one word, I'd say 'easy'.",
+      "If I had to describe it in one word, I'd say 'fast'."
+    ],
+    "b2": [
+      "If I had to describe it in one word, I'd say 'exhausting'.",
+      "If I had to describe it in one word, I'd say 'inspiring'.",
+      "If I had to describe it in one word, I'd say 'unpredictable'.",
+      "If I had to describe it in one word, I'd say 'challenging'.",
+      "If I had to describe it in one word, I'd say 'rewarding'."
+    ],
+    "c1": [
+      "If I had to describe it in one word, I'd say 'transformative'.",
+      "If I had to describe it in one word, I'd say 'paradoxical'.",
+      "If I had to describe it in one word, I'd say 'sublime'.",
+      "If I had to describe it in one word, I'd say 'inconclusive'.",
+      "If I had to describe it in one word, I'd say 'ephemeral'."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "The funniest part of the whole thing was ...",
+    "translation": "그중에서 가장 웃겼던 부분은 ...였어요.",
+    "b1": [
+      "The funniest part of the whole thing was when my dad fell asleep.",
+      "The funniest part of the whole thing was the talking bird.",
+      "The funniest part of the whole thing was my dog wearing a hat.",
+      "The funniest part of the whole thing was when he forgot his name.",
+      "The funniest part of the whole thing was the clown's dance."
+    ],
+    "b2": [
+      "The funniest part of the whole thing was our reaction when we saw the bill.",
+      "The funniest part of the whole thing was the look on his face when he was surprised.",
+      "The funniest part of the whole thing was trying to cook with no instructions.",
+      "The funniest part of the whole thing was the unexpected guest at the wedding.",
+      "The funniest part of the whole thing was my attempt to speak the local dialect."
+    ],
+    "c1": [
+      "The funniest part of the whole thing was the sheer irony of the situation.",
+      "The funniest part of the whole thing was the way the tension was broken by a silly remark.",
+      "The funniest part of the whole thing was the series of absurd coincidences that led to the event.",
+      "The funniest part of the whole thing was the self-deprecating humor of the speaker.",
+      "The funniest part of the whole thing was the contrast between the formal setting and the chaotic events."
+    ]
+  }
+]

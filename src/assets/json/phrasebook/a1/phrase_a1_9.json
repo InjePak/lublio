@@ -1,0 +1,227 @@
+[
+  {
+    "kor": "몸 상태가 좋지 않아요.",
+    "eng": "I do not feel well.",
+    "fra": "Je ne me sens pas bien.",
+    "deu": "Ich fühle mich nicht gut.",
+    "rus": "Я плохо себя чувствую.",
+    "heb": "אני לא מרגיש טוב.",
+    "kaz": "Өзімді нашар сезініп тұрмын."
+  },
+  {
+    "kor": "어디가 아프신가요?",
+    "eng": "Where does it hurt?",
+    "fra": "Où avez-vous mal ?",
+    "deu": "Wo tut es weh?",
+    "rus": "Что у вас болит?",
+    "heb": "איפה כואב לך?",
+    "kaz": "Қай жеріңіз ауырады?"
+  },
+  {
+    "kor": "머리가 아파요.",
+    "eng": "I have a headache.",
+    "fra": "J'ai mal à la tête.",
+    "deu": "Ich habe Kopfschmerzen.",
+    "rus": "У меня болит голова.",
+    "heb": "כואב לי הראש.",
+    "kaz": "Басым ауырып тұр."
+  },
+  {
+    "kor": "배가 아파요.",
+    "eng": "I have a stomach ache.",
+    "fra": "J'ai mal au ventre.",
+    "deu": "Ich habe Bauchschmerzen.",
+    "rus": "У меня болит живот.",
+    "heb": "כואבת לי הבטן.",
+    "kaz": "Ішім ауырып тұр."
+  },
+  {
+    "kor": "목이 아파요.",
+    "eng": "I have a sore throat.",
+    "fra": "J'ai mal à la gorge.",
+    "deu": "Ich habe Halsschmerzen.",
+    "rus": "У меня болит горло.",
+    "heb": "כואב לי הגרון.",
+    "kaz": "Тамағым ауырып тұр."
+  },
+  {
+    "kor": "감기에 걸렸어요.",
+    "eng": "I have a cold.",
+    "fra": "J'ai un rhume.",
+    "deu": "Ich habe eine Erkältung.",
+    "rus": "Я простудился (простудилась).",
+    "heb": "הצטננתי.",
+    "kaz": "Мен суық тигізіп алдым."
+  },
+  {
+    "kor": "열이 나요.",
+    "eng": "I have a temperature.",
+    "fra": "J'ai de la fièvre.",
+    "deu": "Ich habe Fieber.",
+    "rus": "У меня температура.",
+    "heb": "יש לי חום.",
+    "kaz": "Қызуым көтеріліп тұр."
+  },
+  {
+    "kor": "기침을 많이 해요.",
+    "eng": "I have a bad cough.",
+    "fra": "Je tousse beaucoup.",
+    "deu": "Ich habe starken Husten.",
+    "rus": "Я сильно кашляю.",
+    "heb": "יש לי שיעול חזק.",
+    "kaz": "Қатты жөтеліп тұрмын."
+  },
+  {
+    "kor": "피곤해요.",
+    "eng": "I'm tired.",
+    "fra": "Je suis fatigué(e).",
+    "deu": "Ich bin müde.",
+    "rus": "Я устал (устала).",
+    "heb": "אני עייף(ה).",
+    "kaz": "Мен шаршадым."
+  },
+  {
+    "kor": "의사가 필요해요.",
+    "eng": "I need a doctor.",
+    "fra": "J'ai besoin d'un médecin.",
+    "deu": "Ich brauche einen Arzt.",
+    "rus": "Мне нужен врач.",
+    "heb": "אני צריך רופא.",
+    "kaz": "Маған дәрігер керек."
+  },
+  {
+    "kor": "병원에 가야 해요.",
+    "eng": "I must go to the hospital.",
+    "fra": "Je dois aller à l'hôpital.",
+    "deu": "Ich muss zum Arzt.",
+    "rus": "Мне нужно в больницу.",
+    "heb": "אני חייב ללכת לבית החולים.",
+    "kaz": "Маған ауруханаға бару керек."
+  },
+  {
+    "kor": "약국이 어디에 있나요?",
+    "eng": "Where is the pharmacy?",
+    "fra": "Où est la pharmacie ?",
+    "deu": "Wo ist die Apotheke?",
+    "rus": "Где находится аптека?",
+    "heb": "איפה בית המרקחת?",
+    "kaz": "Дәріхана қай жерде орналасқан?"
+  },
+  {
+    "kor": "약이 좀 필요합니다.",
+    "eng": "I need some medicine.",
+    "fra": "J'ai besoin de médicaments.",
+    "deu": "Ich brauche etwas Medizin.",
+    "rus": "Мне нужны лекарства.",
+    "heb": "אני צריך תרופה.",
+    "kaz": "Маған дәрі-дәрмек керек."
+  },
+  {
+    "kor": "눈이 아파요.",
+    "eng": "My eyes hurt.",
+    "fra": "J'ai mal aux yeux.",
+    "deu": "Meine Augen tun weh.",
+    "rus": "У меня болят глаза.",
+    "heb": "כואבות לי העיניים.",
+    "kaz": "Көзім ауырып тұр."
+  },
+  {
+    "kor": "다리가 부러졌어요.",
+    "eng": "I broke my leg.",
+    "fra": "Je me suis cassé la jambe.",
+    "deu": "Ich habe mir das Bein gebроchen.",
+    "rus": "Я сломал (сломала) ногу.",
+    "heb": "שברתי את הרגל.",
+    "kaz": "Аяғымды сындырып алдым."
+  },
+  {
+    "kor": "손을 씻으세요.",
+    "eng": "Wash your hands.",
+    "fra": "Lavez-vous les mains.",
+    "deu": "Waschen Sie Ihre Hände.",
+    "rus": "Мойте руки.",
+    "heb": "שטוף את הידיים.",
+    "kaz": "Қолыңызды жуыңыз."
+  },
+  {
+    "kor": "건강에 좋은 음식을 드세요.",
+    "eng": "Eat healthy food.",
+    "fra": "Mangez sainement.",
+    "deu": "Essen Sie gesund.",
+    "rus": "Ешьте здоровую пищу.",
+    "heb": "תאכל אוכל בריא.",
+    "kaz": "Дұрыс тамақтаныңыз."
+  },
+  {
+    "kor": "충분히 자야 해요.",
+    "eng": "You need enough sleep.",
+    "fra": "Vous avez besoin de sommeil.",
+    "deu": "Du brauchst genug Schlaf.",
+    "rus": "Вам нужно достаточно спать.",
+    "heb": "כדאי לך לישון מספיק.",
+    "kaz": "Сізге ұйқыңызды қандыру керек."
+  },
+  {
+    "kor": "숨을 깊게 들이마시세요.",
+    "eng": "Take a deep breath.",
+    "fra": "Respirez profondément.",
+    "deu": "Atmen Sie tief ein.",
+    "rus": "Сделайте глубокий вдох.",
+    "heb": "קח נשימה עמוקה.",
+    "kaz": "Терең тыныс алыңыз."
+  },
+  {
+    "kor": "혈압이 높아요.",
+    "eng": "My blood pressure is high.",
+    "fra": "Ma tension est élevée.",
+    "deu": "Mein Blutdruck ist hoch.",
+    "rus": "У меня высокое давление.",
+    "heb": "לחץ הדם שלי גבוה.",
+    "kaz": "Қан қысымым жоғары."
+  },
+  {
+    "kor": "알레르기가 있나요?",
+    "eng": "Do you have any allergies?",
+    "fra": "Avez-vous des allergies ?",
+    "deu": "Hast du Allergien?",
+    "rus": "У вас есть аллергия?",
+    "heb": "יש לך אלרגיות?",
+    "kaz": "Аллергияңыз бар ма?"
+  },
+  {
+    "kor": "저는 견과류 알레르기가 있어요.",
+    "eng": "I'm allergic to nuts.",
+    "fra": "Je suis allergique aux noix.",
+    "deu": "Ich bin allergisch gegen Nüsse.",
+    "rus": "У меня аллергия на орехи.",
+    "heb": "אני אלרגי לאגוזים.",
+    "kaz": "Менің жаңғаққа аллергиям бар."
+  },
+  {
+    "kor": "이 약을 하루에 세 번 드세요.",
+    "eng": "Take this medicine three times a day.",
+    "fra": "Prenez ce médicament trois fois par jour.",
+    "deu": "Nehmen Sie diese Medizin dreimal täglich.",
+    "rus": "Принимайте это лекарство три раза в день.",
+    "heb": "קח את התרופה הזו שלוש פעמים ביום.",
+    "kaz": "Бұл дәріні күніне үш рет ішіңіз."
+  },
+  {
+    "kor": "안경을 써야 해요.",
+    "eng": "I need to wear glasses.",
+    "fra": "Je dois porter des lunettes.",
+    "deu": "Ich muss eine Brille tragen.",
+    "rus": "Мне нужно носить очки.",
+    "heb": "אני צריך להרכיב משקפיים.",
+    "kaz": "Маған көзілдірік кию керек."
+  },
+  {
+    "kor": "빨리 낫길 바라요.",
+    "eng": "Get well soon.",
+    "fra": "Bon rétablissement.",
+    "deu": "Gute Besserung.",
+    "rus": "Поправляйтесь скорее.",
+    "heb": "תהיה בריא בקרוב.",
+    "kaz": "Тезірек сауығып кетіңіз."
+  }
+]

@@ -1,0 +1,81 @@
+---
+import { Icon } from "astro-icon/components";
+---
+
+<button id="scroll-to-top" class="top-btn" aria-label="맨 위로 이동">
+  <span><Icon name="mdi:arrow-up-thick" /></span>
+</button>
+
+<style>
+  .top-btn {
+    position: fixed;
+    width: 3rem;
+    height: 3rem;
+    bottom: 2rem;
+    right: 2rem;
+    padding: 0;
+    border-radius: 50%;
+    background-color: rgba(39, 39, 42, 0.9);
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition:
+      opacity 0.3s,
+      transform 0.3s;
+    /* 처음에는 숨겨두기 */
+    opacity: 0;
+    z-index: 9;
+    pointer-events: none;
+  }
+
+  .top-btn > span > svg {
+    width: 20px;
+    height: 20px;
+  }
+
+  .top-btn.show {
+    opacity: 1;
+    pointer-events: auto;
+  }
+
+  .top-btn:hover {
+    transform: translateY(-5px);
+  }
+
+  /* Mobile */
+  @media (max-width: 480px) {
+    .top-btn {
+      bottom: 1rem;
+      right: 1rem;
+      width: 2.5rem;
+      height: 2.5rem;
+      padding: 0;
+    }
+
+    .top-btn > span > svg {
+      width: 15px;
+      height: 15px;
+    }
+  }
+</style>
+
+<script>
+  const topBtn = document.getElementById("scroll-to-top");
+
+  // 1. 클릭 시 스크롤을 0으로 이동
+  topBtn?.addEventListener("click", () => {
+    window.scrollTo({
+      top: 0,
+      behavior: "smooth", // 부드럽게 이동
+    });
+  });
+
+  // 2. 일정 거리(예: 200px) 내려왔을 때만 버튼 보이기
+  window.addEventListener("scroll", () => {
+    if (window.scrollY > 200) {
+      topBtn?.classList.add("show");
+    } else {
+      topBtn?.classList.remove("show");
+    }
+  });
+</script>

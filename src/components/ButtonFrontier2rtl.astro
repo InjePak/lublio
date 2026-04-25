@@ -1,0 +1,132 @@
+---
+import "../styles/fonts.css";
+import "../styles/colors.css";
+import "../styles/transition.css";
+
+const { id, title, subtitle, language, path } = Astro.props;
+
+const colorMap800: Record<string, string> = {
+  heb: "rgba(30, 64, 175, 1)",
+  kaz: "rgba(21, 94, 117, 1)",
+};
+const colorMap700: Record<string, string> = {
+  heb: "rgba(29, 78, 216, 1)",
+  kaz: "rgba(14, 116, 144, 1)",
+};
+const colorMap600: Record<string, string> = {
+  heb: "rgba(37, 99, 235, 1)",
+  kaz: "rgba(8, 145, 178, 1)",
+};
+const colorMap500: Record<string, string> = {
+  heb: "rgba(59, 130, 246, 1)",
+  kaz: "rgba(6, 182, 212, 1)",
+};
+const colorMap400: Record<string, string> = {
+  heb: "rgba(96, 165, 250, 1)",
+  kaz: "rgba(34, 211, 238, 1)",
+};
+const colorMap300: Record<string, string> = {
+  heb: "rgba(147, 197, 253, 1)",
+  kaz: "rgba(103, 232, 249, 1)",
+};
+const colorMap200: Record<string, string> = {
+  heb: "rgba(191, 219, 254, 1)",
+  kaz: "rgba(165, 243, 252, 1)",
+};
+const colorMap100: Record<string, string> = {
+  heb: "rgba(219, 234, 254, 1)",
+  kaz: "rgba(207, 250, 254, 1)",
+};
+const color800 = colorMap800[language] || "var(--zinc800)";
+const color700 = colorMap700[language] || "var(--zinc700)";
+const color600 = colorMap600[language] || "var(--zinc600)";
+const color500 = colorMap500[language] || "var(--zinc500)";
+const color400 = colorMap400[language] || "var(--zinc400)";
+const color300 = colorMap300[language] || "var(--zinc300)";
+const color200 = colorMap200[language] || "var(--zinc200)";
+const color100 = colorMap100[language] || "var(--zinc100)";
+---
+
+<style
+  define:vars={{
+    color800,
+    color700,
+    color600,
+    color500,
+    color400,
+    color300,
+    color200,
+    color100,
+  }}
+>
+  .btn:hover {
+    border: 2px solid var(--color400);
+  }
+
+  .btn:hover > h1,
+  .btn:hover > h2 {
+    color: var(--color400);
+  }
+</style>
+
+<a href={path}>
+  <div class="btn">
+    <h1>{id}. {title}</h1>
+    <h2>{subtitle}</h2>
+  </div>
+</a>
+
+<style>
+  .btn {
+    position: relative;
+    border: 2px solid rgba(38, 38, 38, 0.8);
+    border-radius: 15px;
+    background-color: transparent;
+    transition: all 1s cubic-bezier(0.19, 1, 0.22, 1);
+    padding: 1rem;
+    margin-bottom: 1.5rem;
+    transition: all 0.4s;
+  }
+
+  .btn > h1 {
+    position: relative;
+    font-family: "Inter", "Noto Hebrew", sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+    margin-bottom: 0.5rem;
+    color: var(--neutral800);
+    transition: 0.4s all;
+    direction: rtl;
+  }
+
+  .btn > h2 {
+    position: relative;
+    font-family: "Noto Korean", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 0rem;
+    color: var(--neutral500);
+    transition: 0.4s all;
+  }
+
+  .btn > p {
+    position: absolute;
+    left: 1.5rem;
+    bottom: 0;
+  }
+
+  /* Mobile */
+  @media (max-width: 480px) {
+    .btn {
+      margin-bottom: 20px;
+    }
+
+    .btn > h1 {
+      font-size: 20px;
+    }
+
+    .btn > h2 {
+      font-size: 14px;
+    }
+  }
+</style>

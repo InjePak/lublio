@@ -1,0 +1,54 @@
+@font-face {
+  font-family: "Roboto Condensed";
+  src: url("/fonts/RobotoCondensed-VariableFont_wght.ttf") format("truetype");
+  font-display: swap;
+}
+/* font-family: "Roboto Condensed", sans-serif; */
+
+@font-face {
+  font-family: "Inter";
+  src: url("/fonts/Inter-VariableFont_opsz\,wght.ttf") format("truetype");
+  font-display: swap;
+}
+/* font-family: "Inter", sans-serif; */
+
+@font-face {
+  font-family: "Noto Korean";
+  src: url("/fonts/NotoSansKR-VariableFont_wght.ttf") format("truetype");
+  font-display: swap;
+}
+/* font-family: "Noto Korean", sans-serif; */
+
+@font-face {
+  font-family: "Noto Japanese";
+  src: url("/fonts/NotoSansJP-VariableFont_wght.ttf") format("truetype");
+  font-display: swap;
+}
+/* font-family: "Noto Japanese", sans-serif; */
+
+@font-face {
+  font-family: "Noto Chinese";
+  src: url("/fonts/NotoSansSC-VariableFont_wght.ttf") format("truetype");
+  font-display: swap;
+}
+/* font-family: "Noto Chinese", sans-serif; */
+
+/* ————————————————————————————————————————————————————— */
+/* ———————————————— Ivriah & Kazariah —————————————————— */
+/* ————————————————————————————————————————————————————— */
+
+@font-face {
+  font-family: "Roboto Slab";
+  src: url("/fonts/RobotoSlab-VariableFont_wght.ttf") format("truetype");
+  font-display: swap;
+}
+/* font-family: "Roboto Slab", serif; */
+
+/* HEBREW */
+@font-face {
+  font-family: "Noto Hebrew";
+  src: url("/fonts/NotoSansHebrew-VariableFont_wdth\,wght.ttf")
+    format("truetype");
+  font-display: swap;
+}
+/* font-family: "Noto Hebrew", sans-serif; */

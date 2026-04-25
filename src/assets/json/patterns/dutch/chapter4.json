@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Het hoofdprobleem lijkt ... te zijn",
+    "translation": "The main issue seems to be ...",
+    "b1": [
+      "Het hoofdprobleem lijkt een gebrek aan tijd te zijn.",
+      "Het hoofdprobleem lijkt de te hoge prijs te zijn.",
+      "Het hoofdprobleem lijkt het weer van morgen te zijn.",
+      "Het hoofdprobleem lijkt te zijn dat de machine kapot is.",
+      "Het hoofdprobleem lijkt het lawaai op kantoor te zijn."
+    ],
+    "b2": [
+      "Het hoofdprobleem lijkt het gebrek aan communicatie tussen de afdelingen te zijn.",
+      "Het hoofdprobleem lijkt het slecht beheer van de personele middelen te zijn.",
+      "Het hoofdprobleem lijkt de afwezigheid van duidelijke doelstellingen voor dit project te zijn.",
+      "Het hoofdprobleem lijkt het dalende vertrouwen van de consumenten te zijn.",
+      "Het hoofdprobleem lijkt de opgelopen achterstand tijdens de testfase te zijn."
+    ],
+    "c1": [
+      "Het hoofdprobleem lijkt de onverenigbaarheid van onze strategie met de huidige marktomstandigheden te zijn.",
+      "Het hoofdprobleem lijkt de fragmentatie van data binnen onze digitale architectuur te zijn.",
+      "Het hoofdprobleem lijkt de geleidelijke erosie van de bedrijfscultuur ten gunste van individualisme te zijn.",
+      "Het hoofdprobleem lijkt het gebrek aan anticipatie op geopolitieke schommelingen te zijn.",
+      "Het hoofdprobleem lijkt een structureel gebrek in ons besluitvormingsproces te zijn."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Wat is de beste aanpak voor ...?",
+    "translation": "How can we best approach ...?",
+    "b1": [
+      "Wat is de beste aanpak voor het leren van Nederlands?",
+      "Wat is de beste aanpak voor het maken van deze taart?",
+      "Wat is de beste aanpak voor het gaan naar het stadscentrum?",
+      "Wat is de beste aanpak voor het spreken met de baas?",
+      "Wat is de beste aanpak voor het opruimen van de kamer?"
+    ],
+    "b2": [
+      "Wat is de beste aanpak voor het verminderen van onze maandelijkse uitgaven?",
+      "Wat is de beste aanpak voor het motiveren van een gedemotiveerd team?",
+      "Wat is de beste aanpak voor het aantrekken van nieuwe klanten?",
+      "Wat is de beste aanpak voor het oplossen van dit intern conflict?",
+      "Wat is de beste aanpak voor het presenteren van deze negatieve resultaten?"
+    ],
+    "c1": [
+      "Wat is de beste aanpak voor het integreren van duurzaamheid in ons bedrijfsmodel?",
+      "Wat is de beste aanpak voor het verhelpen van de tekortkomingen in ons crisismanagement?",
+      "Wat is de beste aanpak voor het verzoenen van ethische vereisten met financiële rentabiliteit?",
+      "Wat is de beste aanpak voor het succesvol doorvoeren van deze complexe technologische transitie?",
+      "Wat is de beste aanpak voor het herdefiniëren van onze merkidentiteit op de internationale markt?"
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Ik stel voor dat wij ...",
+    "translation": "I suggest that we ...",
+    "b1": [
+      "Ik stel voor dat wij een pauze nemen.",
+      "Ik stel voor dat wij vanavond een pizza eten.",
+      "Ik stel voor dat wij dit werk morgen afmaken.",
+      "Ik stel voor dat wij de bus nemen.",
+      "Ik stel voor dat wij een film kijken."
+    ],
+    "b2": [
+      "Ik stel voor dat wij ons budget voor volgende maand herzien.",
+      "Ik stel voor dat wij het advies van een externe expert inwinnen.",
+      "Ik stel voor dat wij onze huidige werkmethode veranderen.",
+      "Ik stel voor dat wij een brainstormvergadering organiseren.",
+      "Ik stel voor dat wij een proef uitvoeren met een kleine groep."
+    ],
+    "c1": [
+      "Ik stel voor dat wij een vergelijkende analyse van de potentiële risico's uitvoeren.",
+      "Ik stel voor dat wij een striktere strategische omgevingsanalyse instellen.",
+      "Ik stel voor dat wij de premissen van dit project zelf in vraag stellen.",
+      "Ik stel voor dat wij een deel van de productie uitbesteden voor meer flexibiliteit.",
+      "Ik stel voor dat wij een grondige impactstudie uitvoeren voor elke definitieve beslissing."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Een mogelijke oplossing is om ...",
+    "translation": "A potential solution is to ...",
+    "b1": [
+      "Een mogelijke oplossing is om eerder te vertrekken.",
+      "Een mogelijke oplossing is om een nieuwe telefoon te kopen.",
+      "Een mogelijke oplossing is om hulp te vragen aan een vriend.",
+      "Een mogelijke oplossing is om meer te slapen.",
+      "Een mogelijke oplossing is om van plaats te wisselen."
+    ],
+    "b2": [
+      "Een mogelijke oplossing is om een stagiair aan te nemen om ons te helpen.",
+      "Een mogelijke oplossing is om modernere software te gebruiken.",
+      "Een mogelijke oplossing is om de verkoopprijs tijdelijk te verlagen.",
+      "Een mogelijke oplossing is om onze leveranciers te diversifiëren.",
+      "Een mogelijke oplossing is om gratis opleidingen aan te bieden."
+    ],
+    "c1": [
+      "Een mogelijke oplossing is om de marketingafdeling volledig te herstructureren.",
+      "Een mogelijke oplossing is om over te schakelen op een abonnementsmodel.",
+      "Een mogelijke oplossing is om een strategische alliantie te sluiten met onze directe concurrenten.",
+      "Een mogelijke oplossing is om de meest repetitieve processen te automatiseren voor meer wendbaarheid.",
+      "Een mogelijke oplossing is om een communicatiecampagne te lanceren om ons imago op te poetsen."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Wat als we ... probeerden in plaats van ...?",
+    "translation": "What if we tried ... instead of ...?",
+    "b1": [
+      "Wat als we thee probeerden in plaats van koffie?",
+      "Wat als we de fiets probeerden in plaats van de auto?",
+      "Wat als we dit restaurant probeerden in plaats van het andere?",
+      "Wat als we probeerden te wandelen in plaats van te rennen?",
+      "Wat als we blauw probeerden in plaats van rood?"
+    ],
+    "b2": [
+      "Wat als we thuiswerken probeerden in plaats van elke dag naar kantoor te komen?",
+      "Wat als we probeerden te huren in plaats van te kopen?",
+      "Wat als we probeerden samen te werken in plaats van te concurreren?",
+      "Wat als we een digitale aanpak probeerden in plaats van papier?",
+      "Wat als we probeerden het proces te vereenvoudigen in plaats van te compliceren?"
+    ],
+    "c1": [
+      "Wat als we gedecentraliseerd beheer probeerden in plaats van deze piramidale structuur?",
+      "Wat als we probeerden in te zetten op klantloyaliteit in plaats van loutere klantenwerving?",
+      "Wat als we organische groei probeerden in plaats van risicovolle overnames?",
+      "Wat als we frugale innovatie probeerden in plaats van massale investering in O&O?",
+      "Wat als we volledige transparantie probeerden in plaats van deze gesloten communicatie?"
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "We moeten prioriteit geven aan ...",
+    "translation": "We need to prioritize ...",
+    "b1": [
+      "We moeten prioriteit geven aan de familie.",
+      "We moeten prioriteit geven aan de gezondheid.",
+      "We moeten prioriteit geven aan het huiswerk.",
+      "We moeten prioriteit geven aan rust.",
+      "We moeten prioriteit geven aan het Nederlands."
+    ],
+    "b2": [
+      "We moeten prioriteit geven aan de veiligheid van de werknemers.",
+      "We moeten prioriteit geven aan de tevredenheid van bestaande klanten.",
+      "We moeten prioriteit geven aan technologische innovatie.",
+      "We moeten prioriteit geven aan het naleven van deadlines.",
+      "We moeten prioriteit geven aan het verminderen van onze ecologische voetafdruk."
+    ],
+    "c1": [
+      "We moeten prioriteit geven aan de consolidatie van onze immateriële activa.",
+      "We moeten prioriteit geven aan operationele veerkracht bij systemische crisissen.",
+      "We moeten prioriteit geven aan de ethiek van kunstmatige intelligentie binnen onze diensten.",
+      "We moeten prioriteit geven aan menselijk kapitaal voor duurzame groei op lange termijn.",
+      "We moeten prioriteit geven aan de naleving van de nieuwe internationale normen."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Laten we het probleem opsplitsen in ...",
+    "translation": "Let's break the problem down into ...",
+    "b1": [
+      "Laten we het probleem opsplitsen in twee delen.",
+      "Laten we het probleem opsplitsen in eenvoudige stappen.",
+      "Laten we het probleem opsplitsen in kleine vragen.",
+      "Laten we het probleem opsplitsen in werkdagen.",
+      "Laten we het probleem opsplitsen in lijsten."
+    ],
+    "b2": [
+      "Laten we het probleem opsplitsen in afzonderlijke ontwikkelingsfases.",
+      "Laten we het probleem opsplitsen in budgetcategorieën.",
+      "Laten we het probleem opsplitsen in deeltaken voor elk teamlid.",
+      "Laten we het probleem opsplitsen in korte- en langetermijnprioriteiten.",
+      "Laten we het probleem opsplitsen in technische en menselijke factoren."
+    ],
+    "c1": [
+      "Laten we het probleem opsplitsen in bepalende macro-economische variabelen.",
+      "Laten we het probleem opsplitsen in structurele en conjuncturele componenten.",
+      "Laten we het probleem opsplitsen in juridische, financiële en ethische vraagstukken.",
+      "Laten we het probleem opsplitsen in silo's om de knelpunten beter te identificeren.",
+      "Laten we het probleem opsplitsen in sleutelprestatie-indicatoren voor een strikte opvolging."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Heeft u de impact van ... overwogen?",
+    "translation": "Have you considered the impact of ...?",
+    "b1": [
+      "Heeft u de impact van de regen overwogen?",
+      "Heeft u de impact van het lawaai overwogen?",
+      "Heeft u de impact van deze prijs overwogen?",
+      "Heeft u de impact van uw beslissing overwogen?",
+      "Heeft u de impact van de kou overwogen?"
+    ],
+    "b2": [
+      "Heeft u de impact van deze wet op ons bedrijf overwogen?",
+      "Heeft u de impact van sociale media op jongeren overwogen?",
+      "Heeft u de impact van thuiswerken op de productiviteit overwogen?",
+      "Heeft u de impact van inflatie op de koopkracht overwogen?",
+      "Heeft u de ecologische impact van uw productie overwogen?"
+    ],
+    "c1": [
+      "Heeft u de verwoestende impact van een datalek op onze reputatie overwogen?",
+      "Heeft u de psychologische impact van herstructureringen op het moreel van het personeel overwogen?",
+      "Heeft u de impact van technologische veroudering op onze concurrentiepositie overwogen?",
+      "Heeft u de impact van marktvolatiliteit op onze investeringen overwogen?",
+      "Heeft u de maatschappelijke impact van automatisering in onze sector overwogen?"
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Een manier om dit te omzeilen is om ...",
+    "translation": "One way around this is to ...",
+    "b1": [
+      "Een manier om dit te omzeilen is om een andere weg te nemen.",
+      "Een manier om dit te omzeilen is om iemand anders te vragen.",
+      "Een manier om dit te omzeilen is om het tijdstip te veranderen.",
+      "Een manier om dit te omzeilen is om een pauze te nemen.",
+      "Een manier om dit te omzeilen is om een kleine truc te gebruiken."
+    ],
+    "b2": [
+      "Een manier om dit te omzeilen is om een tijdelijk account aan te maken.",
+      "Een manier om dit te omzeilen is om via een tussenpersoon te gaan.",
+      "Een manier om dit te omzeilen is om het ontwerp licht aan te passen.",
+      "Een manier om dit te omzeilen is om een vervangende dienst aan te bieden.",
+      "Een manier om dit te omzeilen is om opensource-software te gebruiken."
+    ],
+    "c1": [
+      "Een manier om dit te omzeilen is om de productie te verplaatsen naar een vrijhandelszone.",
+      "Een manier om dit te omzeilen is om de contractclausules in ons voordeel te herinterpreteten.",
+      "Een manier om dit te omzeilen is om een gedecentraliseerde juridische structuur op te zetten.",
+      "Een manier om dit te omzeilen is om de zwakke plekken in het huidige systeem te benutten.",
+      "Een manier om dit te omzeilen is om lobbywerk te initiëren bij de politieke besluitvormers."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "We zouden het risico kunnen beperken door ...",
+    "translation": "We could mitigate the risk by ...",
+    "b1": [
+      "We zouden het risico kunnen beperken door voorzichtig te zijn.",
+      "We zouden het risico kunnen beperken door een helm te dragen.",
+      "We zouden het risico kunnen beperken door twee keer te controleren.",
+      "We zouden het risico kunnen beperken door hulp te vragen.",
+      "We zouden het risico kunnen beperken door rustig te blijven."
+    ],
+    "b2": [
+      "We zouden het risico kunnen beperken door een uitgebreide verzekering af te sluiten.",
+      "We zouden het risico kunnen beperken door onze investeringen te diversifiëren.",
+      "We zouden het risico kunnen beperken door ons personeel beter op te leiden.",
+      "We zouden het risico kunnen beperken door onze beveiligingssystemen bij te werken.",
+      "We zouden het risico kunnen beperken door vooraf een marktonderzoek uit te voeren."
+    ],
+    "c1": [
+      "We zouden het risico kunnen beperken door strikte nalevingsprotocollen in te voeren.",
+      "We zouden het risico kunnen beperken door een financiële afdekkingsstrategie te hanteren.",
+      "We zouden het risico kunnen beperken door redundantie in onze kritieke infrastructuren in te bouwen.",
+      "We zouden het risico kunnen beperken door aankomende wetswijzigingen tijdig te anticiperen.",
+      "We zouden het risico kunnen beperken door onze bevoorradingsbronnen wereldwijd te diversifiëren."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Misschien moeten we de grondoorzaak van ... onderzoeken",
+    "translation": "Perhaps we should look at the root cause of ...",
+    "b1": [
+      "Misschien moeten we de grondoorzaak van jouw vermoeidheid onderzoeken.",
+      "Misschien moeten we de grondoorzaak van dit geluid onderzoeken.",
+      "Misschien moeten we de grondoorzaak van de storing onderzoeken.",
+      "Misschien moeten we de grondoorzaak van jouw vertraging onderzoeken.",
+      "Misschien moeten we de grondoorzaak van deze fout onderzoeken."
+    ],
+    "b2": [
+      "Misschien moeten we de grondoorzaak van de dalende verkoopcijfers onderzoeken.",
+      "Misschien moeten we de grondoorzaak van de ontevredenheid bij klanten onderzoeken.",
+      "Misschien moeten we de grondoorzaak van het hoge personeelsverloop onderzoeken.",
+      "Misschien moeten we de grondoorzaak van de leveringsvertragingen onderzoeken.",
+      "Misschien moeten we de grondoorzaak van het gebrek aan motivatie onderzoeken."
+    ],
+    "c1": [
+      "Misschien moeten we de grondoorzaak van de waargenomen systemische disfuncties onderzoeken.",
+      "Misschien moeten we de grondoorzaak van de vervreemding op de werkvloer in onze sector onderzoeken.",
+      "Misschien moeten we de grondoorzaak van de chronische instabiliteit op de financiële markt onderzoeken.",
+      "Misschien moeten we de grondoorzaak van de afbrokkeling van het vertrouwen in instellingen onderzoeken.",
+      "Misschien moeten we de grondoorzaak van de stagnatie van interne innovatie onderzoeken."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "De onmiddellijke volgende stap zou moeten zijn ...",
+    "translation": "The immediate next step should be ...",
+    "b1": [
+      "De onmiddellijke volgende stap zou moeten zijn hem te bellen.",
+      "De onmiddellijke volgende stap zou moeten zijn deze e-mail te versturen.",
+      "De onmiddellijke volgende stap zou moeten zijn te eten.",
+      "De onmiddellijke volgende stap zou moeten zijn brood te kopen.",
+      "De onmiddellijke volgende stap zou moeten zijn de tafel op te ruimen."
+    ],
+    "b2": [
+      "De onmiddellijke volgende stap zou moeten zijn het eindbudget goed te keuren.",
+      "De onmiddellijke volgende stap zou moeten zijn alle medewerkers te informeren over de verandering.",
+      "De onmiddellijke volgende stap zou moeten zijn een datum voor de vergadering vast te leggen.",
+      "De onmiddellijke volgende stap zou moeten zijn de uitnodigingen aan klanten te versturen.",
+      "De onmiddellijke volgende stap zou moeten zijn het prototype te testen."
+    ],
+    "c1": [
+      "De onmiddellijke volgende stap zou moeten zijn een crisiscel in te stellen om de situatie te beheren.",
+      "De onmiddellijke volgende stap zou moeten zijn alle niet-prioritaire investeringen te bevriezen.",
+      "De onmiddellijke volgende stap zou moeten zijn een volledig intern onderzoek op te starten.",
+      "De onmiddellijke volgende stap zou moeten zijn de voorwaarden van ons strategisch partnerschap te heronderhandelen.",
+      "De onmiddellijke volgende stap zou moeten zijn de succescriteria voor het komende kwartaal te herdefiniëren."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Heeft iemand een ander perspectief op ...?",
+    "translation": "Does anyone have a different perspective on ...?",
+    "b1": [
+      "Heeft iemand een ander perspectief op deze film?",
+      "Heeft iemand een ander perspectief op de reis?",
+      "Heeft iemand een ander perspectief op de prijs?",
+      "Heeft iemand een ander perspectief op het eten?",
+      "Heeft iemand een ander perspectief op de kleur?"
+    ],
+    "b2": [
+      "Heeft iemand een ander perspectief op de te volgen marketingstrategie?",
+      "Heeft iemand een ander perspectief op de oorzaak van dit falen?",
+      "Heeft iemand een ander perspectief op de organisatie van het evenement?",
+      "Heeft iemand een ander perspectief op de behoeften van de gebruikers?",
+      "Heeft iemand een ander perspectief op de economische vooruitzichten?"
+    ],
+    "c1": [
+      "Heeft iemand een ander perspectief op de levensvatbaarheid van dit model op lange termijn?",
+      "Heeft iemand een ander perspectief op de ethische implicaties van deze technologie?",
+      "Heeft iemand een ander perspectief op het beheer van culturele diversiteit?",
+      "Heeft iemand een ander perspectief op de correlatie tussen deze twee verschijnselen?",
+      "Heeft iemand een ander perspectief op de impact van digitalisering?"
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Op korte termijn kunnen we ...",
+    "translation": "In the short term, we can do ...",
+    "b1": [
+      "Op korte termijn kunnen we een pauze nemen.",
+      "Op korte termijn kunnen we broodjes kopen.",
+      "Op korte termijn kunnen we de zaal opruimen.",
+      "Op korte termijn kunnen we om hulp vragen.",
+      "Op korte termijn kunnen we die oude fiets gebruiken."
+    ],
+    "b2": [
+      "Op korte termijn kunnen we de advertentiekosten verminderen.",
+      "Op korte termijn kunnen we een extern consultant inhuren.",
+      "Op korte termijn kunnen we een promotieaanbod doen.",
+      "Op korte termijn kunnen we een interne opleiding organiseren.",
+      "Op korte termijn kunnen we de klantenservice verbeteren."
+    ],
+    "c1": [
+      "Op korte termijn kunnen we liquiditeiten injecteren om de situatie te stabiliseren.",
+      "Op korte termijn kunnen we bestaande processen optimaliseren zonder grote investering.",
+      "Op korte termijn kunnen we de termijnen met onze schuldeisers heronderhandelen.",
+      "Op korte termijn kunnen we een crisiscommunicatiecampagne lanceren.",
+      "Op korte termijn kunnen we prioriteit geven aan het behoud van onze sleutelmedewerkers."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "We zouden een systeem moeten invoeren voor ...",
+    "translation": "We should implement a system for ...",
+    "b1": [
+      "We zouden een systeem moeten invoeren voor recyclen.",
+      "We zouden een systeem moeten invoeren voor schoonmaken.",
+      "We zouden een systeem moeten invoeren voor betalen.",
+      "We zouden een systeem moeten invoeren voor opruimen.",
+      "We zouden een systeem moeten invoeren voor stemmen."
+    ],
+    "b2": [
+      "We zouden een systeem moeten invoeren voor het bijhouden van arbeidstijd.",
+      "We zouden een systeem moeten invoeren voor het evalueren van klanttevredenheid.",
+      "We zouden een systeem moeten invoeren voor het beheren van voorraden in real time.",
+      "We zouden een systeem moeten invoeren voor het online delen van documenten.",
+      "We zouden een systeem moeten invoeren voor het verminderen van energieverspilling."
+    ],
+    "c1": [
+      "We zouden een systeem moeten invoeren voor het opsporen van potentiële fraude.",
+      "We zouden een systeem moeten invoeren voor het automatiseren van regelgevingsnaleving.",
+      "We zouden een systeem moeten invoeren voor het analyseren van voorspellend consumentengedrag.",
+      "We zouden een systeem moeten invoeren voor de volledige traceerbaarheid van onze producten.",
+      "We zouden een systeem moeten invoeren voor het bevorderen van participatieve innovatie."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Laten we de voor- en nadelen van ... afwegen",
+    "translation": "Let's evaluate the pros and cons of ...",
+    "b1": [
+      "Laten we de voor- en nadelen van deze reis afwegen.",
+      "Laten we de voor- en nadelen van deze auto afwegen.",
+      "Laten we de voor- en nadelen van deze nieuwe baan afwegen.",
+      "Laten we de voor- en nadelen van buiten eten afwegen.",
+      "Laten we de voor- en nadelen van dit cadeau afwegen."
+    ],
+    "b2": [
+      "Laten we de voor- en nadelen van het uitbesteden van de productie afwegen.",
+      "Laten we de voor- en nadelen van het invoeren van AI in onze diensten afwegen.",
+      "Laten we de voor- en nadelen van de vierdaagse werkweek afwegen.",
+      "Laten we de voor- en nadelen van de overstap naar volledig digitaal afwegen.",
+      "Laten we de voor- en nadelen van het openen van een nieuwe vestiging afwegen."
+    ],
+    "c1": [
+      "Laten we de voor- en nadelen van deze risicovolle fusie-overname afwegen.",
+      "Laten we de voor- en nadelen van een volledige decentralisatie van het bestuur afwegen.",
+      "Laten we de voor- en nadelen van de invoering van een circulair economisch model afwegen.",
+      "Laten we de voor- en nadelen van een geleidelijke ontkoppeling van fossiele brandstoffen afwegen.",
+      "Laten we de voor- en nadelen van het opheffen van anonimiteit op ons platform afwegen."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Om succes te verzekeren, moeten we eerst ... aanpakken",
+    "translation": "To ensure success, we must first address ...",
+    "b1": [
+      "Om succes te verzekeren, moeten we eerst het geldprobleem aanpakken.",
+      "Om succes te verzekeren, moeten we eerst de tijdsvraag aanpakken.",
+      "Om succes te verzekeren, moeten we eerst de organisatie aanpakken.",
+      "Om succes te verzekeren, moeten we eerst de keuze van de stad aanpakken.",
+      "Om succes te verzekeren, moeten we eerst het weer aanpakken."
+    ],
+    "b2": [
+      "Om succes te verzekeren, moeten we eerst het gebrek aan technische opleiding aanpakken.",
+      "Om succes te verzekeren, moeten we eerst de problemen met interne communicatie aanpakken.",
+      "Om succes te verzekeren, moeten we eerst de werkelijke verwachtingen van klanten aanpakken.",
+      "Om succes te verzekeren, moeten we eerst de potentiële juridische risico's aanpakken.",
+      "Om succes te verzekeren, moeten we eerst de vraag over langetermijnfinanciering aanpakken."
+    ],
+    "c1": [
+      "Om succes te verzekeren, moeten we eerst de culturele weerstand tegen verandering aanpakken.",
+      "Om succes te verzekeren, moeten we eerst de kwetsbaarheid van onze logistieke keten aanpakken.",
+      "Om succes te verzekeren, moeten we eerst de veroudering van onze IT-infrastructuur aanpakken.",
+      "Om succes te verzekeren, moeten we eerst de vraag over digitale soevereiniteit aanpakken.",
+      "Om succes te verzekeren, moeten we eerst de ideologische meningsverschillen binnen de raad aanpakken."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Het grootste obstakel dat in de weg staat is ...",
+    "translation": "The biggest obstacle standing in the way is ...",
+    "b1": [
+      "Het grootste obstakel dat in de weg staat is de taal.",
+      "Het grootste obstakel dat in de weg staat is de prijs.",
+      "Het grootste obstakel dat in de weg staat is de afstand.",
+      "Het grootste obstakel dat in de weg staat is de vermoeidheid.",
+      "Het grootste obstakel dat in de weg staat is de tijd."
+    ],
+    "b2": [
+      "Het grootste obstakel dat in de weg staat is het gebrek aan interesse bij het publiek.",
+      "Het grootste obstakel dat in de weg staat is de felle concurrentie in deze sector.",
+      "Het grootste obstakel dat in de weg staat is de administratieve complexiteit.",
+      "Het grootste obstakel dat in de weg staat is de afwezigheid van budget voor dit jaar.",
+      "Het grootste obstakel dat in de weg staat is de weerstand tegen verandering bij medewerkers."
+    ],
+    "c1": [
+      "Het grootste obstakel dat in de weg staat is de bureaucratische traagheid die kenmerkend is voor grote organisaties.",
+      "Het grootste obstakel dat in de weg staat is de wetgevende instabiliteit op internationaal niveau.",
+      "Het grootste obstakel dat in de weg staat is de wereldwijde schaarste aan grondstoffen.",
+      "Het grootste obstakel dat in de weg staat is de kloof tussen het technologische aanbod en de maatschappelijke vraag.",
+      "Het grootste obstakel dat in de weg staat is de toenemende polarisering van de publieke opinie."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Mijn voorgestelde aanpak houdt in om ...",
+    "translation": "My proposed approach involves ...",
+    "b1": [
+      "Mijn voorgestelde aanpak houdt in om meer te praten.",
+      "Mijn voorgestelde aanpak houdt in om samen te werken.",
+      "Mijn voorgestelde aanpak houdt in om elke dag te lezen.",
+      "Mijn voorgestelde aanpak houdt in om te sporten.",
+      "Mijn voorgestelde aanpak houdt in om gezond te eten."
+    ],
+    "b2": [
+      "Mijn voorgestelde aanpak houdt in om nutteloze vergaderingen te verminderen.",
+      "Mijn voorgestelde aanpak houdt in om te investeren in online adverteren.",
+      "Mijn voorgestelde aanpak houdt in om kleine autonome teams te vormen.",
+      "Mijn voorgestelde aanpak houdt in om het product te testen op een beperkte steekproef.",
+      "Mijn voorgestelde aanpak houdt in om samen te werken met influencers."
+    ],
+    "c1": [
+      "Mijn voorgestelde aanpak houdt in om bestaande processen te deconstructeren en te vereenvoudigen.",
+      "Mijn voorgestelde aanpak houdt in om kunstmatige intelligentie op alle productieniveaus te integreren.",
+      "Mijn voorgestelde aanpak houdt in om kwalitatieve groei te verkiezen boven kwantitatieve groei.",
+      "Mijn voorgestelde aanpak houdt in om elke medewerker verantwoordelijkheid te geven via een horizontale structuur.",
+      "Mijn voorgestelde aanpak houdt in om een veerkrachtstrategie te implementeren ter bescherming tegen externe schokken."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Misschien is het ontbrekende stuk ...",
+    "translation": "Perhaps the missing piece is ...",
+    "b1": [
+      "Misschien is het ontbrekende stuk geduld.",
+      "Misschien is het ontbrekende stuk tijd.",
+      "Misschien is het ontbrekende stuk liefde.",
+      "Misschien is het ontbrekende stuk muziek.",
+      "Misschien is het ontbrekende stuk jouw glimlach."
+    ],
+    "b2": [
+      "Misschien is het ontbrekende stuk betere interne communicatie.",
+      "Misschien is het ontbrekende stuk de directe mening van onze klanten.",
+      "Misschien is het ontbrekende stuk een groter marketingbudget.",
+      "Misschien is het ontbrekende stuk het gebruik van nieuwe technologieën.",
+      "Misschien is het ontbrekende stuk de flexibiliteit van onze werktijden."
+    ],
+    "c1": [
+      "Misschien is het ontbrekende stuk een filosofische visie op technische vooruitgang.",
+      "Misschien is het ontbrekende stuk empathie binnen de uitvoerende leiding.",
+      "Misschien is het ontbrekende stuk een echte politieke wil tot verandering.",
+      "Misschien is het ontbrekende stuk begrip voor diepere socioculturele vraagstukken.",
+      "Misschien is het ontbrekende stuk de zoektocht naar zingeving voorbij economische prestatie."
+    ]
+  }
+]

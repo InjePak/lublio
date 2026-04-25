@@ -1,0 +1,227 @@
+[
+  {
+    "kor": "당신의 직업은 무엇입니까?",
+    "eng": "What do you do for a living?",
+    "fra": "Quelle est votre profession ?",
+    "deu": "Was ist Ihr Beruf?",
+    "rus": "Кем вы работаете?",
+    "heb": "במה אתה עובד?",
+    "kaz": "Сіз қайда жұмыс істейсіз?"
+  },
+  {
+    "kor": "저는 큰 회사에서 마케팅 매니저로 일합니다.",
+    "eng": "I work as a marketing manager for a large firm.",
+    "fra": "Je travaille comme responsable marketing pour une grande entreprise.",
+    "deu": "Ich arbeite als Marketingmanager in einer großen Firma.",
+    "rus": "Я работаю менеджером по маркетингу в крупной фирме.",
+    "heb": "אני עובד כמנהל שיווק בחברה גדולה.",
+    "kaz": "Мен үлкен компанияда маркетинг менеджері болып жұмыс істеймін."
+  },
+  {
+    "kor": "저는 사무실에서 많은 이메일을 씁니다.",
+    "eng": "I write a lot of emails in the office.",
+    "fra": "J'écris beaucoup d'e-mails au bureau.",
+    "deu": "Ich schreibe viele E-Mails im Büro.",
+    "rus": "Я пишу много электронных писем в офисе.",
+    "heb": "אני כותב הרבה אימיילים במשרד.",
+    "kaz": "Мен кеңседе көптеген электрондық хаттар жазамын."
+  },
+  {
+    "kor": "제 동료들은 매우 친절하고 도움이 됩니다.",
+    "eng": "My colleagues are very friendly and helpful.",
+    "fra": "Mes collègues sont très sympathiques et serviables.",
+    "deu": "Meine Kollegen sind sehr freundlich und hilfsbereit.",
+    "rus": "Мои коллеги очень дружелюбные и всегда готовы помочь.",
+    "heb": "הקולגות שלי מאוד ידידותיים ועוזרים.",
+    "kaz": "Әріптестерім өте мейірімді және көмекшіл."
+  },
+  {
+    "kor": "근무 시간은 오전 9시부터 오후 5시까지입니다.",
+    "eng": "My working hours are from nine to five.",
+    "fra": "Mes heures de travail sont de neuf heures à dix-sept heures.",
+    "deu": "Meine Arbeitszeiten sind von neun bis fünf.",
+    "rus": "Мой рабочий день с девяти до пяти.",
+    "heb": "שעות העבודה שלי הן מתשע עד חמש.",
+    "kaz": "Жұмыс уақытым таңғы 9-дан кешкі 5-ке дейін."
+  },
+  {
+    "kor": "저는 매주 수요일에 회의를 합니다.",
+    "eng": "I have a meeting every Wednesday.",
+    "fra": "J'ai une réunion tous les mercredis.",
+    "deu": "Ich habe jeden Mittwoch eine Besprechung.",
+    "rus": "Каждую среду у меня совещание.",
+    "heb": "יש לי ישיבה בכל יום רביעי.",
+    "kaz": "Әр сәрсенбіде менде жиналыс болады."
+  },
+  {
+    "kor": "새로운 직장을 찾고 있습니다.",
+    "eng": "I'm looking for a new job.",
+    "fra": "Je cherche un nouveau travail.",
+    "deu": "Ich suche einen neuen Job.",
+    "rus": "Я ищу новую работу.",
+    "heb": "אני מחפש עבודה חדשה.",
+    "kaz": "Мен жаңа жұмыс іздеп жүрмін."
+  },
+  {
+    "kor": "어제 제 이력서를 보냈습니다.",
+    "eng": "I sent my resume yesterday.",
+    "fra": "J'ai envoyé mon CV hier.",
+    "deu": "Ich habe gestern meinen Lebenslauf geschickt.",
+    "rus": "Вчера я отправил своё резюме.",
+    "heb": "שלחתי את קורות החיים שלי אתמול.",
+    "kaz": "Кеше мен түйіндемемді жібердім."
+  },
+  {
+    "kor": "저는 다음 주에 면접이 있습니다.",
+    "eng": "I have a job interview next week.",
+    "fra": "J'ai un entretien d'embauche la semaine prochaine.",
+    "deu": "Ich habe nächste Woche ein Vorstellungsgespräch.",
+    "rus": "На следующей неделе у меня собеседование.",
+    "heb": "יש לי ראיון עבודה בשבוע הבא.",
+    "kaz": "Келесі аптада менде жұмыс бойынша сұхбат бар."
+  },
+  {
+    "kor": "사무실에서 유니폼을 입어야 하나요?",
+    "eng": "Do I have to wear a uniform in the office?",
+    "fra": "Dois-je porter un uniforme au bureau ?",
+    "deu": "Muss ich im Büro eine Uniform tragen?",
+    "rus": "Нужно ли мне носить форму в офисе?",
+    "heb": "האם אני צריך ללבוש מדים במשרד?",
+    "kaz": "Кеңседе форма киюім керек пе?"
+  },
+  {
+    "kor": "제 상사는 매우 엄격하지만 공정합니다.",
+    "eng": "My boss is very strict but fair.",
+    "fra": "Mon patron est très strict mais juste.",
+    "deu": "Mein Chef ist sehr streng, aber fair.",
+    "rus": "Мой начальник очень строгий, но справедливый.",
+    "heb": "הבוס שלי מאוד קשוח אבל הוגן.",
+    "kaz": "Бастығым өте қатал, бірақ әділ."
+  },
+  {
+    "kor": "가끔 집에서 재택근무를 합니다.",
+    "eng": "I sometimes work from home.",
+    "fra": "Je travaille parfois à domicile.",
+    "deu": "Ich arbeite manchmal von zu Hause aus.",
+    "rus": "Иногда я работаю из дома.",
+    "heb": "לפעמים אני עובד מהבית.",
+    "kaz": "Кейде мен үйден жұмыс істеймін."
+  },
+  {
+    "kor": "저는 업무상 여행을 자주 갑니다.",
+    "eng": "I often travel for work.",
+    "fra": "Je voyage souvent pour le travail.",
+    "deu": "Ich reise oft beruflich.",
+    "rus": "Я часто езжу в командировки.",
+    "heb": "אני נוסע הרבה במסגרת העבודה.",
+    "kaz": "Мен жұмыс бабымен жиі сапарға шығамын."
+  },
+  {
+    "kor": "저는 제 직업에 만족합니다.",
+    "eng": "I'm happy with my job.",
+    "fra": "Je suis content(e) de mon travail.",
+    "deu": "Ich bin zufrieden mit meinem Beruf.",
+    "rus": "Я доволен своей работой.",
+    "heb": "אני מרוצה מהעבודה שלי.",
+    "kaz": "Мен өз жұмысыма ризамын."
+  },
+  {
+    "kor": "오늘 할 일이 너무 많습니다.",
+    "eng": "I have too much work to do today.",
+    "fra": "J'ai trop de travail à faire aujourd'hui.",
+    "deu": "Ich habe heute zu viel Arbeit zu tun.",
+    "rus": "Сегодня у меня слишком много работы.",
+    "heb": "יש לי המון עבודה היום.",
+    "kaz": "Бүгін менде жұмыс өте көп."
+  },
+  {
+    "kor": "점심시간에 같이 밥 먹을까요?",
+    "eng": "Shall we have lunch together during the break?",
+    "fra": "On déjeune ensemble pendant la pause ?",
+    "deu": "Wollen wir in der Pause zusammen essen?",
+    "rus": "Пообедаем вместе во время перерыва?",
+    "heb": "נאכל צהריים ביחד בהפסקה?",
+    "kaz": "Үзіліс кезінде бірге түскі ас ішейік пе?"
+  },
+  {
+    "kor": "그녀는 은행에서 회계사로 일합니다.",
+    "eng": "She works as an accountant at a bank.",
+    "fra": "Elle travaille comme comptable dans une banque.",
+    "deu": "Sie arbeitet als Buchhalterin in einer Bank.",
+    "rus": "Она работает бухгалтером в банке.",
+    "heb": "היא עובדת כרואת חשבון בבנק.",
+    "kaz": "Ол банкте есепші болып жұмыс істейді."
+  },
+  {
+    "kor": "제 컴퓨터가 작동하지 않습니다.",
+    "eng": "My computer is not working.",
+    "fra": "Mon ordinateur ne fonctionne pas.",
+    "deu": "Mein Computer funktioniert nicht.",
+    "rus": "Мой компьютер не работает.",
+    "heb": "המחשב שלי לא עובד.",
+    "kaz": "Менің компьютерім жұмыс істемей тұр."
+  },
+  {
+    "kor": "저는 야근하는 것을 좋아하지 않습니다.",
+    "eng": "I do not like working overtime.",
+    "fra": "Je n'aime pas faire des heures supplémentaires.",
+    "deu": "Ich arbeite nicht gerne Überstunden.",
+    "rus": "Я не люблю работать сверхурочно.",
+    "heb": "אני לא אוהב לעבוד שעות נוספות.",
+    "kaz": "Мерзімнен тыс жұмыс істегенді ұнатпаймын."
+  },
+  {
+    "kor": "이 프로젝트는 매우 중요합니다.",
+    "eng": "This project is very important.",
+    "fra": "Ce projet est très important.",
+    "deu": "Dieses Projekt ist sehr wichtig.",
+    "rus": "Этот проект очень важен.",
+    "heb": "הפרויקט הזה מאוד חשוב.",
+    "kaz": "Бұл жоба өте маңызды."
+  },
+  {
+    "kor": "지난달에 승진했습니다.",
+    "eng": "I got a promotion last month.",
+    "fra": "J'ai eu une promotion le mois dernier.",
+    "deu": "Ich wurde letzten Monat befördert.",
+    "rus": "В прошлом месяце меня повысили.",
+    "heb": "קיבלתי קידום בחודש שעבר.",
+    "kaz": "Өткен айда менің лауазымым өсті."
+  },
+  {
+    "kor": "그는 고객들과 통화 중입니다.",
+    "eng": "He is on the phone with clients.",
+    "fra": "Il est au téléphone avec des clients.",
+    "deu": "Er telefoniert mit Kunden.",
+    "rus": "Он говорит по телефону с клиентами.",
+    "heb": "הוא בטלפון עם לקוחות.",
+    "kaz": "Ол клиенттермен телефонмен сөйлесіп жатыр."
+  },
+  {
+    "kor": "사무실에 일찍 도착했습니다.",
+    "eng": "I arrived at the office early.",
+    "fra": "Je suis arrivé(e) au bureau tôt.",
+    "deu": "Ich bin früh im Büro angekommen.",
+    "rus": "Я пришел в офис рано.",
+    "heb": "הגעתי למשרד מוקדם.",
+    "kaz": "Мен кеңсеге ерте келдім."
+  },
+  {
+    "kor": "급여가 좋은 편입니다.",
+    "eng": "The salary is quite good.",
+    "fra": "Le salaire est plutôt bon.",
+    "deu": "Das Gehalt ist recht gut.",
+    "rus": "Зарплата довольно хорошая.",
+    "heb": "המשכורת די טובה.",
+    "kaz": "Жалақысы айтарлықтай жақсы."
+  },
+  {
+    "kor": "퇴직 후에는 여행을 하고 싶습니다.",
+    "eng": "I want to travel after retirement.",
+    "fra": "Je veux voyager après ma retraite.",
+    "deu": "Nach der Rente möchte ich reisen.",
+    "rus": "Я хочу путешествовать после выхода на пенсию.",
+    "heb": "אני רוצה לטייל אחרי שאצא לפנסיה.",
+    "kaz": "Мен зейнетке шыққаннан кейін саяхаттағым келеді."
+  }
+]

@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "...manız/meniz mümkün mü?",
+    "translation": "Could you possibly ...?",
+    "b1": [
+      "Bana bavulumu taşımamda yardım etmeniz mümkün mü?",
+      "Bana adresinizi göndermeniz mümkün mü?",
+      "Biraz daha yavaş konuşmanız mümkün mü?",
+      "Lütfen pencereyi kapatmanız mümkün mü?",
+      "Bana istasyona giden yolu göstermeniz mümkün mü?"
+    ],
+    "b2": [
+      "Toplantımızı yarın öğleden sonraya almanız mümkün mü?",
+      "Bana toplantı tutanağını göndermeniz mümkün mü?",
+      "Bu belgelerin eksiksiz olduğunu kontrol etmeniz mümkün mü?",
+      "Bu hizmet için bize küçük bir indirim yapmanız mümkün mü?",
+      "Bu konuyu bir kez daha açıklamanız mümkün mü?"
+    ],
+    "c1": [
+      "Yeni verileri göz önünde bulundurarak pozisyonunuzu gözden geçirmeniz mümkün mü?",
+      "Bu sözleşmenin uygulama prosedürleri hakkında daha detaylı bilgi vermeniz mümkün mü?",
+      "Uzun vadeli bir iş birliğini değerlendirmeniz mümkün mü?",
+      "Bize riskleri ayrıntılı bir şekilde analiz etmeniz mümkün mü?",
+      "Bir sonraki seminerimizde bir konuşma yapmanız mümkün mü?"
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "...rsanız/erseniz çok minnettar olurum",
+    "translation": "I would be grateful if you could ...",
+    "b1": [
+      "Bana yardım ederseniz çok minnettar olurum.",
+      "Mesajıma cevap verirseniz çok minnettar olurum.",
+      "Bana fotoğrafları gönderirseniz çok minnettar olurum.",
+      "Beni birkaç dakika beklerseniz çok minnettar olurum.",
+      "Bu kağıdı imzalarsanız çok minnettar olurum."
+    ],
+    "b2": [
+      "E-posta yoluyla katılacağınızı onaylarsanız çok minnettar olurum.",
+      "Başvurumu öncelikli olarak değerlendirirseniz çok minnettar olurum.",
+      "Görüşlerinizi bizimle paylaşırsanız çok minnettar olurum.",
+      "Belirlenen sürelere uyarsanız çok minnettar olurum.",
+      "Ekteki anketi doldurursanız çok minnettar olurum."
+    ],
+    "c1": [
+      "Revize edilmiş teklifinizi pazartesiye kadar teslim ederseniz çok minnettar olurum.",
+      "Bu konuyu büyük bir titizlikle incelerseniz çok minnettar olurum.",
+      "Ortaya çıkan anlaşmazlıkları netleştirirseniz çok minnettar olurum.",
+      "Bu projeyi denetlemek için sorumlu bir uzman atarsanız çok minnettar olurum.",
+      "Bizimle mümkün olan en kısa sürede bir mülakat yapma olasılığını değerlendirirseniz çok minnettar olurum."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "...manızın/menizın bir sakıncası var mı?",
+    "translation": "Would you mind ...?",
+    "b1": [
+      "Sesi kısmanızın bir sakıncası var mı?",
+      "Bizi çekmenizin bir sakıncası var mı?",
+      "Yer değiştirmenizin bir sakıncası var mı?",
+      "Kapıyı açmanızın bir sakıncası var mı?",
+      "Bana bir kalem vermenizin bir sakıncası var mı?"
+    ],
+    "b2": [
+      "Bu işe yarın sabah devam etmemizin bir sakıncası var mı?",
+      "Bize pasaportunuzun bir kopyasını göndermenizin bir sakıncası var mı?",
+      "Bekleme salonunda birkaç dakika beklemenizin bir sakıncası var mı?",
+      "Sorunuzu farklı şekilde ifade etmenizin bir sakıncası var mı?",
+      "Anketimize katılmanızın bir sakıncası var mı?"
+    ],
+    "c1": [
+      "Lojistik nedenlerden dolayı teslimat tarihini ertelememizin bir sakıncası var mı?",
+      "Toplantı sırasında metodolojinizi kısaca özetlemenizin bir sakıncası var mı?",
+      "Ön verileri grubun geri kalanıyla paylaşmanızın bir sakıncası var mı?",
+      "Bu anlaşmanın gizlilik kurallarını gözden geçirmemizin bir sakıncası var mı?",
+      "Bu çalışma grubunu koordine etmeyi üstlenmenizin bir sakıncası var mı?"
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "... talep etmek için yazıyorum",
+    "translation": "I'm writing to request ...",
+    "b1": [
+      "Fransızca kursları hakkında bilgi talep etmek için yazıyorum.",
+      "Sizden yardım talep etmek için yazıyorum.",
+      "Oteliniz hakkında broşür talep etmek için yazıyorum.",
+      "Doktorla bir randevu talep etmek için yazıyorum.",
+      "Haftalık menüyü talep etmek için yazıyorum."
+    ],
+    "b2": [
+      "Siparişim için para iadesi talep etmek için yazıyorum.",
+      "Ödeme süresinin uzatılmasını talep etmek için yazıyorum.",
+      "Son boş pozisyon hakkında detayları talep etmek için yazıyorum.",
+      "Bir tavsiye mektubu talep etmek için yazıyorum.",
+      "Salonunuzu kullanmak için izin talep etmek için yazıyorum."
+    ],
+    "c1": [
+      "Mevcut süreçlerimize harici bir denetim yapılmasını talep etmek için yazıyorum.",
+      "İç tüzük kurallarından istisnai olarak muaf tutulmayı talep etmek için yazıyorum.",
+      "Yeni vergi stratejisi hakkında açıklama talep etmek için yazıyorum.",
+      "Holding bünyesindeki kariyer planımın yeniden değerlendirilmesini talep etmek için yazıyorum.",
+      "Gelecek projemiz için bir araştırma hibesi talep etmek için yazıyorum."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "... sonuna kadar ... ihtiyacım var",
+    "translation": "I need ... by the end of ...",
+    "b1": [
+      "Günün sonuna kadar pasaportuma ihtiyacım var.",
+      "Haftanın sonuna kadar bu belgelere ihtiyacım var.",
+      "Sabahın sonuna kadar cevabınıza ihtiyacım var.",
+      "Ayın sonuna kadar bu kitaba ihtiyacım var.",
+      "Öğleden sonranın bitimine kadar bir karara ihtiyacım var."
+    ],
+    "b2": [
+      "Gelecek haftanın sonuna kadar tam bir rapora ihtiyacım var.",
+      "Bu çeyreğin sonuna kadar onayınıza ihtiyacım var.",
+      "Mali yılın sonuna kadar orijinal faturalara ihtiyacım var.",
+      "Bu oturumun sonuna kadar yeni bir programa ihtiyacım var.",
+      "Deneme süresinin sonuna kadar hukuki bir görüşe ihtiyacım var."
+    ],
+    "c1": [
+      "Dönemin sonuna kadar titizlikle hazırlanmış bir fizibilite çalışmasına ihtiyacım var.",
+      "Raporlama döneminin sonuna kadar karşılaştırmalı bir analize ihtiyacım var.",
+      "Teşhis aşamasının sonuna kadar acil bir eylem planına ihtiyacım var.",
+      "İç denetimin sonuna kadar stratejik onayınıza ihtiyacım var.",
+      "İstişarenin sonuna kadar yüklenicilerin tam listesine ihtiyacım var."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "... ihtimali var mı?",
+    "translation": "Is there any chance of ...?",
+    "b1": [
+      "Kazanma ihtimalimiz var mı?",
+      "Yarın havanın güzel olma ihtimali var mı?",
+      "Bu akşam sizi görme ihtimalim var mı?",
+      "Bilet bulma ihtimalimiz var mı?",
+      "Bugün erken bitirme ihtimalimiz var mı?"
+    ],
+    "b2": [
+      "Bu yıl terfi alma ihtimalim var mı?",
+      "Uçuş tarihlerini değiştirme ihtimalimiz var mı?",
+      "Direktörü fikrinden vazgeçirme ihtimali var mı?",
+      "Projenin değişiklik yapılmadan kabul edilme ihtimali var mı?",
+      "Karşılıklı olarak faydalı bir çözüm bulma ihtimali var mı?"
+    ],
+    "c1": [
+      "Bu ortaklık şartlarını yeniden müzakere etme ihtimalimiz var mı?",
+      "Şirketin mevcut politikasını değiştirme ihtimali var mı?",
+      "Durumun önemli ölçüde iyileşme ihtimali var mı?",
+      "Dışarıdan uzman çekerek bu kaynak yetersizliğini giderme ihtimalimiz var mı?",
+      "Taraflar arasındaki güveni yeniden tesis etme ihtimali var mı?"
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Sizden özellikle ... odaklanmanızı rica edebilir miyim?",
+    "translation": "Could I ask you to specifically focus on ...?",
+    "b1": [
+      "Sizden özellikle ders çalışmaya odaklanmanızı rica edebilir miyim?",
+      "Sizden özellikle bu konuya odaklanmanızı rica edebilir miyim?",
+      "Sizden özellikle kelime haznesine odaklanmanızı rica edebilir miyim?",
+      "Sizden özellikle kendi işinize odaklanmanızı rica edebilir miyim?",
+      "Sizden özellikle yola odaklanmanızı rica edebilir miyim?"
+    ],
+    "b2": [
+      "Sizden özellikle maliyet analizine odaklanmanızı rica edebilir miyim?",
+      "Sizden özellikle müşteri memnuniyetine odaklanmanızı rica edebilir miyim?",
+      "Sizden özellikle ekibin görüşlerine odaklanmanızı rica edebilir miyim?",
+      "Sizden özellikle sitenin güvenliğine odaklanmanızı rica edebilir miyim?",
+      "Sizden özellikle raporu yazmaya odaklanmanızı rica edebilir miyim?"
+    ],
+    "c1": [
+      "Sizden özellikle sözleşmenin hukuki sonuçlarına odaklanmanızı rica edebilir miyim?",
+      "Sizden özellikle kaynakların optimizasyonuna odaklanmanızı rica edebilir miyim?",
+      "Sizden özellikle dış büyüme mekanizmalarına odaklanmanızı rica edebilir miyim?",
+      "Sizden özellikle projenin sosyo-ekonomik etkisine odaklanmanızı rica edebilir miyim?",
+      "Sizden özellikle gerekçelerin genel tutarlılığına odaklanmanızı rica edebilir miyim?"
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "... eklemeyi unutmayın",
+    "translation": "Please make sure to include ...",
+    "b1": [
+      "Adınızı eklemeyi unutmayın.",
+      "Fotoğrafları eklemeyi unutmayın.",
+      "Tarihi eklemeyi unutmayın.",
+      "Adresinizi eklemeyi unutmayın.",
+      "Anahtarları eklemeyi unutmayın."
+    ],
+    "b2": [
+      "Tüm masrafları kanıtlayan belgeleri eklemeyi unutmayın.",
+      "Mesajınıza sipariş numarasını eklemeyi unutmayın.",
+      "Müşterilerin yorumlarını eklemeyi unutmayın.",
+      "Sunuma grafikleri eklemeyi unutmayın.",
+      "Teknik önerileri eklemeyi unutmayın."
+    ],
+    "c1": [
+      "Tezinize tam bir kaynakça eklemeyi unutmayın.",
+      "Sonuç belgesine sorumluluk reddi maddelerini eklemeyi unutmayın.",
+      "Çevresel etkiyi ayrıntılı bir şekilde analiz eden bölümleri eklemeyi unutmayın.",
+      "Son beş yıla ait karşılaştırmalı istatistikleri eklemeyi unutmayın.",
+      "Sektöre özgü özel güvenlik protokollerini eklemeyi unutmayın."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "... hakkında detaylı bilgi vermeniz mümkün mü?",
+    "translation": "Would it be possible for you to provide details on ...?",
+    "b1": [
+      "Fiyat hakkında detaylı bilgi vermeniz mümkün mü?",
+      "Parti hakkında detaylı bilgi vermeniz mümkün mü?",
+      "Menü hakkında detaylı bilgi vermeniz mümkün mü?",
+      "Gezi hakkında detaylı bilgi vermeniz mümkün mü?",
+      "Kurs hakkında detaylı bilgi vermeniz mümkün mü?"
+    ],
+    "b2": [
+      "Sigorta seçenekleri hakkında detaylı bilgi vermeniz mümkün mü?",
+      "Üretim takvimi hakkında detaylı bilgi vermeniz mümkün mü?",
+      "Değerlendirme kriterleri hakkında detaylı bilgi vermeniz mümkün mü?",
+      "Yazılımın çalışması hakkında detaylı bilgi vermeniz mümkün mü?",
+      "Satış şartları hakkında detaylı bilgi vermeniz mümkün mü?"
+    ],
+    "c1": [
+      "Örnekleme metodolojisi hakkında detaylı bilgi vermeniz mümkün mü?",
+      "Ortaklık yapısı hakkında detaylı bilgi vermeniz mümkün mü?",
+      "Öngörülen tazminat mekanizmaları hakkında detaylı bilgi vermeniz mümkün mü?",
+      "Uzun vadeli finansal uygulanabilirlik hakkında detaylı bilgi vermeniz mümkün mü?",
+      "Araştırmanızın etik temelleri hakkında detaylı bilgi vermeniz mümkün mü?"
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Maalesef ...amayacağım/emeyeceğim",
+    "translation": "Unfortunately, I won't be able to ...",
+    "b1": [
+      "Maalesef bu akşam gelemeyeceğim.",
+      "Maalesef zamanında bitiremeyeceğim.",
+      "Maalesef şimdi ödeyemeyeceğim.",
+      "Maalesef size yardım edemeyeceğim.",
+      "Maalesef sizinle birlikte yemek yiyemeyeceğim."
+    ],
+    "b2": [
+      "Maalesef bu süreye uyamayacağım.",
+      "Maalesef yarınki toplantıya katılamayacağım.",
+      "Maalesef davanızı pazartesiye kadar inceleyemeyeceğim.",
+      "Maalesef size indirim yapamayacağım.",
+      "Maalesef bu mülakata gidemeyeceğim."
+    ],
+    "c1": [
+      "Maalesef ortaklık teklifinizi kabul edemeyeceğim.",
+      "Maalesef bu tür yönetim uygulamalarını destekleyemeyeceğim.",
+      "Maalesef raporunuzu mevcut haliyle onaylayamayacağım.",
+      "Maalesef bu komisyona başkanlık edemeyeceğim.",
+      "Maalesef bu proje için gerekli fonları tahsis edemeyeceğim."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Korkarım ... reddetmek zorundayım",
+    "translation": "I'm afraid I have to decline ...",
+    "b1": [
+      "Davetinizi reddetmek zorundayım.",
+      "Bu hediyeyi reddetmek zorundayım.",
+      "Bu teklifi reddetmek zorundayım.",
+      "Yardımını reddetmek zorundayım.",
+      "Bu talebi reddetmek zorundayım."
+    ],
+    "b2": [
+      "Şu anda birlikte çalışma teklifinizi reddetmek zorundayım.",
+      "Abonelik olmadan bu hizmete erişimi reddetmek zorundayım.",
+      "Sözleşmedeki bu değişikliği reddetmek zorundayım.",
+      "Olağanüstü izin talebinizi reddetmek zorundayım.",
+      "Bu ödeme şartlarını reddetmek zorundayım."
+    ],
+    "c1": [
+      "Ürünün kalitesine zarar verecek her türlü tavizi reddetmek zorundayım.",
+      "Bu kadar ağır sonuçları olan bir kararı onaylamayı reddetmek zorundayım.",
+      "Bu çelişkili emre uymayı reddetmek zorundayım.",
+      "Bu stratejiyi uygulamaya izin vermeyi reddetmek zorundayım.",
+      "Bu yıl yönetim kuruluna girmeyi reddetmek zorundayım."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Zor görünüyor, çünkü ...",
+    "translation": "That sounds challenging because ...",
+    "b1": [
+      "Zor görünüyor, çünkü bu çok pahalı.",
+      "Zor görünüyor, çünkü zamanım yok.",
+      "Zor görünüyor, çünkü burası çok uzak.",
+      "Zor görünüyor, çünkü yağmur yağıyor.",
+      "Zor görünüyor, çünkü yalnızım."
+    ],
+    "b2": [
+      "Zor görünüyor, çünkü kalifiye eleman eksiğimiz var.",
+      "Zor görünüyor, çünkü bütçe çoktan dağıtıldı.",
+      "Zor görünüyor, because süreler çok kısıtlı.",
+      "Zor görünüyor, çünkü yakın zamanda mevzuat değişti.",
+      "Zor görünüyor, çünkü pazar zaten doymuş durumda."
+    ],
+    "c1": [
+      "Zor görünüyor, çünkü yapısal kısıtlamalar çok ağır.",
+      "Zor görünüyor, çünkü şu anda siyasi bir uzlaşı yok.",
+      "Zor görünüyor, çünkü makroekonomik göstergeler elverişsiz.",
+      "Zor görünüyor, çünkü teknik olarak uygulanabilirliği henüz kanıtlanmadı.",
+      "Zor görünüyor, çünkü idari hantallık her türlü yeniliği engelliyor."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Teklifiniz için teşekkür ederim ama ... saygıyla reddetmek zorundayım",
+    "translation": "While I appreciate the offer, I must respectfully refuse ...",
+    "b1": [
+      "Teklifiniz için teşekkür ederim ama yardımınızı saygıyla reddetmek zorundayım.",
+      "Teklifiniz için teşekkür ederim ama bu pastayı saygıyla reddetmek zorundayım.",
+      "Teklifiniz için teşekkür ederim ama bu daveti saygıyla reddetmek zorundayım.",
+      "Teklifiniz için teşekkür ederim ama bu işi saygıyla reddetmek zorundayım.",
+      "Teklifiniz için teşekkür ederim ama bu fiyatı saygıyla reddetmek zorundayım."
+    ],
+    "b2": [
+      "Teklifiniz için teşekkür ederim ama ailevi nedenlerden dolayı bu pozisyonu saygıyla reddetmek zorundayım.",
+      "Teklifiniz için teşekkür ederim ama bu yüzde 10'luk indirimi saygıyla reddetmek zorundayım.",
+      "Teklifiniz için teşekkür ederim ama satın alma teklifinizi saygıyla reddetmek zorundayım.",
+      "Teklifiniz için teşekkür ederim ama bu seminere katılmayı saygıyla reddetmek zorundayım.",
+      "Teklifiniz için teşekkür ederim ama sunduğunuz konaklama imkanını saygıyla reddetmek zorundayım."
+    ],
+    "c1": [
+      "Teklifiniz için teşekkür ederim ama bağımsızlığımı korumak adına bu fırsatı saygıyla reddetmek zorundayım.",
+      "Teklifiniz için teşekkür ederim ama bu yeni birliğe katılmayı saygıyla reddetmek zorundayım.",
+      "Teklifiniz için teşekkür ederim ama bu varlıkları portföyüme dahil etmeyi saygıyla reddetmek zorundayım.",
+      "Teklifiniz için teşekkür ederim ama arabulucu olarak hareket etmeyi saygıyla reddetmek zorundayım.",
+      "Teklifiniz için teşekkür ederim ama bu birleşme projesini onaylamayı saygıyla reddetmek zorundayım."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Çalışma programım ... izin vermiyor",
+    "translation": "My schedule doesn't permit me to ...",
+    "b1": [
+      "Çalışma programım bugün dışarı çıkmama izin vermiyor.",
+      "Çalışma programım bu hafta seyahat etmeme izin vermiyor.",
+      "Çalışma programım yarın sizinle buluşmama izin vermiyor.",
+      "Çalışma programım spor yapmama izin vermiyor.",
+      "Çalışma programım akşam gelmeme izin vermiyor."
+    ],
+    "b2": [
+      "Çalışma programım şu anda yeni görevler kabul etmeme izin vermiyor.",
+      "Çalışma programım basın toplantısına katılmama izin vermiyor.",
+      "Çalışma programım pazartesiye kadar bu iş ile ilgilenmeme izin vermiyor.",
+      "Çalışma programım bu yıl eğitim almama izin vermiyor.",
+      "Çalışma programım haftalık toplantılara katılmama izin vermiyor."
+    ],
+    "c1": [
+      "Çalışma programım projenin departmanlar arası koordinasyonunu sağlamama izin vermiyor.",
+      "Çalışma programım bu yeni kurulun çalışmalarına tam olarak dahil olmama izin vermiyor.",
+      "Çalışma programım derneğinize karşı olan yükümlülüklerimi yerine getirmeme izin vermiyor.",
+      "Çalışma programım el yazmanızı incelememe izin vermiyor.",
+      "Çalışma programım sık sık uluslararası iş seyahatlerine çıkmama izin vermiyor."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "... isterdim ama şu anda ... ile meşgulüm",
+    "translation": "I wish I could ..., but currently I'm occupied with ...",
+    "b1": [
+      "Sana yardım etmek isterdim ama şu anda ev ödevim ile meşgulüm.",
+      "Gelmek isterdim ama şu anda işim ile meşgulüm.",
+      "Yemek pişirmek isterdim ama şu anda evi temizlemek ile meşgulüm.",
+      "Seyahat etmek isterdim ama şu anda derslerim ile meşgulüm.",
+      "Oynamak isterdim ama şu anda köpeğim ile meşgulüm."
+    ],
+    "b2": [
+      "Davetinizi kabul etmek isterdim ama şu anda yeni ürünün lansmanı ile meşgulüm.",
+      "Size daha hızlı cevap vermek isterdim ama şu anda iç denetim ile meşgulüm.",
+      "Ekibinize katılmak isterdim ama şu anki sözleşmemin sonlandırılması ile meşgulüm.",
+      "Bu etkinliği organize etmek isterdim ama şu anda kriz yönetimi ile meşgulüm.",
+      "Bu kitabı okumak isterdim ama şu anda bitirme tezimi yazmak ile meşgulüm."
+    ],
+    "c1": [
+      "Bu konuyu sizinle daha derinlemesine tartışmak isterdim ama şu anda departmanı yeniden yapılandırmak ile meşgulüm.",
+      "Girişiminizi desteklemek isterdim ama şu anda birbiriyle çelişen etik talepler ile meşgulüm.",
+      "Bu araştırmaya zaman ayırmak isterdim ama şu anda büyük sözleşme yükümlülükleri ile meşgulüm.",
+      "Bu anlaşmazlığı çözmek isterdim ama şu anda temel anlaşmalarımızı gözden geçirmek ile meşgulüm.",
+      "Adaylığınızı desteklemek isterdim ama şu anda birleşmenin stratejik yönü ile meşgulüm."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "... konusunu daha sonra tekrar değerlendirebiliriz",
+    "translation": "We can revisit ... later.",
+    "b1": [
+      "Bu fikir konusunu daha sonra tekrar değerlendirebiliriz.",
+      "Talebiniz konusunu daha sonra tekrar değerlendirebiliriz.",
+      "Fiyat konusunu daha sonra tekrar değerlendirebiliriz.",
+      "Gezi konusunu daha sonra tekrar değerlendirebiliriz.",
+      "Plan konusunu daha sonra tekrar değerlendirebiliriz."
+    ],
+    "b2": [
+      "Adaylığınız konusunu bir sonraki işe alım döneminde tekrar değerlendirebiliriz.",
+      "Yeni bir mağaza açma konusunu daha sonra tekrar değerlendirebiliriz.",
+      "Sözleşme şartları konusunu altı aylık deneme süresinden sonra tekrar değerlendirebiliriz.",
+      "Bütçeniz konusunu gelecek yıl tekrar değerlendirebiliriz.",
+      "İletişim stratejimiz konusunu daha sonra tekrar değerlendirebiliriz."
+    ],
+    "c1": [
+      "İstikrarsızlık dönemi geçtikten sonra bu yatırımın fizibilitesi konusunu tekrar değerlendirebiliriz.",
+      "Ara sonuçları değerlendirdikten sonra ortaklığımızın şartları konusunu tekrar değerlendirebiliriz.",
+      "Pazar koşulları düzelirse, birleşme teklifiniz konusunu tekrar değerlendirebiliriz.",
+      "Yeni veriler ışığında bu ekonomik modelin uygunluğu konusunu tekrar değerlendirebiliriz.",
+      "Bir sonraki yönetim kurulunda bu kaynakların dağıtımı konusunu tekrar değerlendirebiliriz."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "... hakkında ... ile konuşmanızı tavsiye ederim",
+    "translation": "I recommend speaking to ... about ...",
+    "b1": [
+      "Bu sorun hakkında abim ile konuşmanızı tavsiye ederim.",
+      "Notunuz hakkında öğretmeniniz ile konuşmanızı tavsiye ederim.",
+      "Sağlığınız hakkında doktorunuz ile konuşmanızı tavsiye ederim.",
+      "Seyahatiniz hakkında anneniz ile konuşmanızı tavsiye ederim.",
+      "Maaşınız hakkında patronunuz ile konuşmanızı tavsiye ederim."
+    ],
+    "b2": [
+      "Bu bilgisayar hatası hakkında teknik servis ile konuşmanızı tavsiye ederim.",
+      "Vergi seçenekleriniz hakkında bir muhasebeci ile konuşmanızı tavsiye ederim.",
+      "Gelecek planlarınız hakkında bir kariyer danışmanı ile konuşmanızı tavsiye ederim.",
+      "Şikayetiniz hakkında müşteri hizmetleri ile konuşmanızı tavsiye ederim.",
+      "Bu sözleşme hakkında bir avukat ile konuşmanızı tavsiye ederim."
+    ],
+    "c1": [
+      "Ekip içindeki sürekli gerilimler hakkında bir arabulucu ile konuşmanızı tavsiye ederim.",
+      "Çeşitlilik politikası hakkında insan kaynakları direktörü ile konuşmanızı tavsiye ederim.",
+      "Bu mali usulsüzlükler hakkında denetçi ile konuşmanızı tavsiye ederim.",
+      "Sitedeki güvenlik koşulları hakkında sendika temsilcisi ile konuşmanızı tavsiye ederim.",
+      "Liderliğinizi yönetme konusunda mentörünüz ile konuşmanızı tavsiye ederim."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Şu andaki ana hedefim ..., bu yüzden reddetmek zorundayım.",
+    "translation": "My priority right now is ..., so I must decline.",
+    "b1": [
+      "Şu andaki ana hedefim sağlığım, bu yüzden reddetmek zorundayım.",
+      "Şu andaki ana hedefim sınavım, bu yüzden reddetmek zorundayım.",
+      "Şu andaki ana hedefim ailem, bu yüzden reddetmek zorundayım.",
+      "Şu andaki ana hedefim işim, bu yüzden reddetmek zorundayım.",
+      "Şu andaki ana hedefim dinlenmek, bu yüzden reddetmek zorundayım."
+    ],
+    "b2": [
+      "Şu andaki ana hedefim bu projeyi zamanında bitirmek, bu yüzden reddetmek zorundayım.",
+      "Şu andaki ana hedefim maliyetlerimizi azaltmak, bu yüzden reddetmek zorundayım.",
+      "Şu andaki ana hedefim kariyer yönümü değiştirmek, bu yüzden reddetmek zorundayım.",
+      "Şu andaki ana hedefim ekibi istikrara kavuşturmak, bu yüzden reddetmek zorundayım.",
+      "Şu andaki ana hedefim kaliteyi artırmak, bu yüzden üretimi hızlandırma talebini reddetmek zorundayım."
+    ],
+    "c1": [
+      "Şu andaki ana hedefim yapının mali istikrarı, bu yüzden her türlü ekstra harcamayı reddetmek zorundayım.",
+      "Şu andaki ana hedefim etik yükümlülüklere uymak, bu yüzden bu müşteri ile çalışmayı reddetmek zorundayım.",
+      "Şu andaki ana hedefim dijital dönüşümü yönetmek, bu yüzden diğer konularla meşgul olmayı reddetmek zorundayım.",
+      "Şu andaki ana hedefim pazardaki payımızı güçlendirmek, bu yüzden bu çeşitlendirme adımını reddetmek zorundayım.",
+      "Şu andaki ana hedefim yasal düzenlemelere uyum sağlamak, bu yüzden bu inovatif ama riskli projeyi reddetmek zorundayım."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "... ile neyi kastettiğinizi netleştirebilir misiniz?",
+    "translation": "Could you please clarify what you mean by ...?",
+    "b1": [
+      "'Daha sonra' ile neyi kastettiğinizi netleştirebilir misiniz?",
+      "'Pahalı' ile neyi kastettiğinizi netleştirebilir misiniz?",
+      "'Kolay' ile neyi kastettiğinizi netleştirebilir misiniz?",
+      "'Yakında' ile neyi kastettiğinizi netleştirebilir misiniz?",
+      "'Zor' ile neyi kastettiğinizi netleştirebilir misiniz?"
+    ],
+    "b2": [
+      "'Tatmin edici sonuçlar' ile neyi kastettiğinizi netleştirebilir misiniz?",
+      "'Esnek çalışma saatleri' ile neyi kastettiğinizi netleştirebilir misiniz?",
+      "'Minimum çevresel etki' ile neyi kastettiğinizi netleştirebilir misiniz?",
+      "'Olası ek maliyetler' ile neyi kastettiğinizi netleştirebilir misiniz?",
+      "'Yakın iş birliği' ile neyi kastettiğinizi netleştirebilir misiniz?"
+    ],
+    "c1": [
+      "'Paradigma kırılması' ile neyi kastettiğinizi netleştirebilir misiniz?",
+      "'Sorumlu vergi optimizasyonu' ile neyi kastettiğinizi netleştirebilir misiniz?",
+      "'Bilgi asimetrisi' ile neyi kastettiğinizi netleştirebilir misiniz?",
+      "'Katılımcı yönetim' ile neyi kastettiğinizi netleştirebilir misiniz?",
+      "'Planlı eskitme' ile neyi kastettiğinizi netleştirebilir misiniz?"
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Sadece ...sanız/seniz büyük bir yardım olurdu.",
+    "translation": "If you could just ..., that would be a great help.",
+    "b1": [
+      "Sadece bana yardım etseniz büyük bir yardım olurdu.",
+      "Sadece kapıyı açsanız büyük bir yardım olurdu.",
+      "Sadece beni dinleseniz büyük bir yardım olurdu.",
+      "Sadece bana mesaj gönderseniz büyük bir yardım olurdu.",
+      "Sadece gülümseseniz büyük bir yardım olurdu."
+    ],
+    "b2": [
+      "Sadece bu belgeyi tekrar gözden geçirseniz büyük bir yardım olurdu.",
+      "Sadece toplantıyı on dakika erteleyebilseniz büyük bir yardım olurdu.",
+      "Sadece bize somut bir örnek verebilseniz büyük bir yardım olurdu.",
+      "Sadece ekibe gecikeceğimi bildirseniz büyük bir yardım olurdu.",
+      "Sadece bu mektubun alındığını onaylasanız büyük bir yardım olurdu."
+    ],
+    "c1": [
+      "Sadece davanın temel meselelerini özetleyebilseniz büyük bir yardım olurdu.",
+      "Sadece yönetim ile irtibat kurma rolünü üstlenebilseniz büyük bir yardım olurdu.",
+      "Sadece stratejik yaklaşımımızın uygunluğunu onaylayabilseniz büyük bir yardım olurdu.",
+      "Sadece bu finansal rapordaki belirsiz noktaları netleştirebilseniz büyük bir yardım olurdu.",
+      "Sadece bize garanti süresini uzatabilseniz büyük bir yardım olurdu."
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+---
+import "../styles/colors.css";
+import BaseLayout from "./BaseLayout.astro";
+import "../styles/markdown.css";
+const { frontmatter } = Astro.props;
+
+const language = frontmatter.language;
+const colorMap: Record<string, string> = {
+  eng: "var(--pink400)",
+  fra: "var(--sky400)",
+  deu: "var(--amber400)",
+  rus: "var(--indigo400)",
+};
+const titleBackground = colorMap[language] || "var(--zinc400)";
+---
+
+<style define:vars={{ titleBackground }}>
+  .post-title {
+    background-color: var(--titleBackground);
+  }
+</style>
+
+<BaseLayout>
+  <article class="post-container">
+    <div class="post-title">
+      <h1>{frontmatter.title}</h1>
+      <h2>{frontmatter.description}</h2>
+      <hr />
+      <p>Published on {frontmatter.pubDate.toString().slice(0, 10)}</p>
+      <p>Written by {frontmatter.author}</p>
+    </div>
+
+    <div class="post-body">
+      <slot />
+    </div>
+  </article>
+</BaseLayout>

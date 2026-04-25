@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Vorrei informarla che ...",
+    "translation": "I'd like to inform you that ...",
+    "b1": [
+      "Vorrei informarla che il negozio è chiuso oggi.",
+      "Vorrei informarla che il treno ha dieci minuti di ritardo.",
+      "Vorrei informarla che ho ricevuto il suo messaggio.",
+      "Vorrei informarla che abbiamo un nuovo menù.",
+      "Vorrei informarla che la riunione inizia alle 10."
+    ],
+    "b2": [
+      "Vorrei informarla che la sua candidatura è stata selezionata per il colloquio.",
+      "Vorrei informarla che le condizioni generali di vendita sono cambiate.",
+      "Vorrei informarla che abbiamo completato la prima fase del progetto.",
+      "Vorrei informarla che questo prodotto è attualmente esaurito.",
+      "Vorrei informarla che il suo ordine verrà spedito domani mattina."
+    ],
+    "c1": [
+      "Vorrei informarla che abbiamo proceduto a una ristrutturazione globale del servizio.",
+      "Vorrei informarla che il nuovo regolamento entrerà in vigore il mese prossimo.",
+      "Vorrei informarla che gli indicatori di performance sono in netta crescita.",
+      "Vorrei informarla che abbiamo concluso un accordo di partenariato strategico.",
+      "Vorrei informarla che l'audit interno non ha rilevato alcuna anomalia rilevante."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Il punto chiave da ricordare qui è ...",
+    "translation": "The key takeaway here is ...",
+    "b1": [
+      "Il punto chiave da ricordare qui è che bisogna essere puntuali.",
+      "Il punto chiave da ricordare qui è che questo libro è importante.",
+      "Il punto chiave da ricordare qui è di chiudere bene la porta.",
+      "Il punto chiave da ricordare qui è che oggi è gratuito.",
+      "Il punto chiave da ricordare qui è di portare il passaporto."
+    ],
+    "b2": [
+      "Il punto chiave da ricordare qui è l'importanza della soddisfazione del cliente.",
+      "Il punto chiave da ricordare qui è che dobbiamo ridurre i costi di produzione.",
+      "Il punto chiave da ricordare qui è la sicurezza prima di tutto.",
+      "Il punto chiave da ricordare qui è la collaborazione tra i nostri due team.",
+      "Il punto chiave da ricordare qui è che il mercato è in piena trasformazione."
+    ],
+    "c1": [
+      "Il punto chiave da ricordare qui è la correlazione diretta tra innovazione e crescita.",
+      "Il punto chiave da ricordare qui è la resilienza strutturale del nostro modello economico.",
+      "Il punto chiave da ricordare qui è la necessità di un monitoraggio tecnologico costante.",
+      "Il punto chiave da ricordare qui è l'impatto della dematerializzazione sui nostri processi.",
+      "Il punto chiave da ricordare qui è il mantenimento del nostro vantaggio competitivo a lungo termine."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Per chiarire, intendo ...",
+    "translation": "To clarify, I mean ...",
+    "b1": [
+      "Per chiarire, intendo che partiamo a mezzogiorno.",
+      "Per chiarire, intendo che è un regalo per te.",
+      "Per chiarire, intendo che il prezzo è di venti euro.",
+      "Per chiarire, intendo che dobbiamo lavorare insieme.",
+      "Per chiarire, intendo che non posso venire domani."
+    ],
+    "b2": [
+      "Per chiarire, intendo che il progetto deve essere terminato entro venerdì sera.",
+      "Per chiarire, intendo che dobbiamo cambiare strategia di marketing.",
+      "Per chiarire, intendo che ogni membro del team ha una responsabilità precisa.",
+      "Per chiarire, intendo che questo budget include tutte le tasse previste.",
+      "Per chiarire, intendo che non faremo alcuna eccezione alla regola."
+    ],
+    "c1": [
+      "Per chiarire, intendo con ciò una revisione totale della nostra identità visiva.",
+      "Per chiarire, intendo che la sostenibilità dell'azienda dipende da questo investimento.",
+      "Per chiarire, intendo instaurare un dialogo più trasparente con gli azionisti.",
+      "Per chiarire, intendo che la flessibilità operativa è la nostra priorità assoluta.",
+      "Per chiarire, intendo che dobbiamo anticipare le fluttuazioni del mercato monetario."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Secondo il rapporto, ...",
+    "translation": "According to the report, ...",
+    "b1": [
+      "Secondo il rapporto, farà caldo questa estate.",
+      "Secondo il rapporto, molta gente ama il cioccolato.",
+      "Secondo il rapporto, la città è molto sicura.",
+      "Secondo il rapporto, abbiamo terminato il lavoro.",
+      "Secondo il rapporto, ci sono molte auto qui."
+    ],
+    "b2": [
+      "Secondo il rapporto annuale, i nostri utili sono aumentati del 5 %.",
+      "Secondo il rapporto di polizia, non ci sono prove sufficienti.",
+      "Secondo il rapporto medico, il paziente deve riposare per una settimana.",
+      "Secondo il rapporto di attività, la produttività è stabile quest'anno.",
+      "Secondo il rapporto d'inchiesta, l'incidente è dovuto a un errore umano."
+    ],
+    "c1": [
+      "Secondo il rapporto prospettico, l'intelligenza artificiale trasformerà il settore.",
+      "Secondo il rapporto del revisore dei conti, la situazione finanziaria è solida.",
+      "Secondo il rapporto peritale, i danni strutturali sono irreversibili.",
+      "Secondo il rapporto ambientale, dobbiamo ridurre le nostre emissioni di CO2.",
+      "Secondo il rapporto congiunturale, la crescita rallenterà nel secondo semestre."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Permettetemi di riformulare: ...",
+    "translation": "Let me rephrase that: ...",
+    "b1": [
+      "Permettetemi di riformulare: è troppo caro per noi.",
+      "Permettetemi di riformulare: sono d'accordo con te.",
+      "Permettetemi di riformulare: partiamo adesso.",
+      "Permettetemi di riformulare: questo dolce è delizioso.",
+      "Permettetemi di riformulare: non capisco la domanda."
+    ],
+    "b2": [
+      "Permettetemi di riformulare: dobbiamo trovare una soluzione più rapida.",
+      "Permettetemi di riformulare: il cliente non è soddisfatto della qualità attuale.",
+      "Permettetemi di riformulare: è necessario rivedere il nostro budget annuale.",
+      "Permettetemi di riformulare: non possiamo accettare queste condizioni di pagamento.",
+      "Permettetemi di riformulare: la vostra proposta manca di dettagli tecnici."
+    ],
+    "c1": [
+      "Permettetemi di riformulare: la fattibilità di questo progetto si basa sulla nostra agilità.",
+      "Permettetemi di riformulare: stiamo assistendo a un cambiamento di paradigma importante.",
+      "Permettetemi di riformulare: l'assenza di consenso frena la nostra espansione internazionale.",
+      "Permettetemi di riformulare: si tratta di un'ottimizzazione strutturale e non di bilancio.",
+      "Permettetemi di riformulare: la priorità è la conformità normativa immediata."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Quello che volevo dire era ...",
+    "translation": "What I meant to say was ...",
+    "b1": [
+      "Quello che volevo dire era che ti voglio bene.",
+      "Quello che volevo dire era che mi dispiace.",
+      "Quello che volevo dire era che è una buona idea.",
+      "Quello che volevo dire era che sono stanco.",
+      "Quello che volevo dire era che ho bisogno di aiuto."
+    ],
+    "b2": [
+      "Quello che volevo dire era che non abbiamo tempo per finire.",
+      "Quello che volevo dire era che la riunione di domani è annullata.",
+      "Quello che volevo dire era che avete fatto un lavoro eccellente.",
+      "Quello che volevo dire era che il prezzo è negoziabile a determinate condizioni.",
+      "Quello che volevo dire era che la sicurezza è la nostra priorità assoluta."
+    ],
+    "c1": [
+      "Quello che volevo dire era che l'impatto socioeconomico è sottovalutato.",
+      "Quello che volevo dire era che dobbiamo privilegiare la crescita qualitativa.",
+      "Quello che volevo dire era che la sinergia tra i poli è insufficiente.",
+      "Quello che volevo dire era che la sostenibilità del modello è in gioco.",
+      "Quello che volevo dire era che l'innovazione deve essere al centro della nostra strategia."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "La situazione attuale è che ...",
+    "translation": "The current status is that ...",
+    "b1": [
+      "La situazione attuale è che abbiamo finito il progetto.",
+      "La situazione attuale è che il negozio è aperto.",
+      "La situazione attuale è che tutti sono pronti.",
+      "La situazione attuale è che il telefono non funziona.",
+      "La situazione attuale è che stiamo aspettando l'autobus."
+    ],
+    "b2": [
+      "La situazione attuale è che il budget è stato approvato dalla direzione.",
+      "La situazione attuale è che i lavori procedono secondo il programma.",
+      "La situazione attuale è che stiamo ancora cercando un nuovo direttore.",
+      "La situazione attuale è che il contratto è in fase di firma.",
+      "La situazione attuale è che i server sono temporaneamente offline."
+    ],
+    "c1": [
+      "La situazione attuale è che ci troviamo di fronte a una saturazione del mercato interno.",
+      "La situazione attuale è che la fase diagnostica è ufficialmente conclusa.",
+      "La situazione attuale è che i negoziati sono in uno stallo per il momento.",
+      "La situazione attuale è che stiamo effettuando una transizione verso il cloud totale.",
+      "La situazione attuale è che la conformità alle norme GDPR è garantita al 90 %."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "In altre parole, ...",
+    "translation": "In other words, ...",
+    "b1": [
+      "In altre parole, è gratuito.",
+      "In altre parole, non posso venire.",
+      "In altre parole, è troppo lontano.",
+      "In altre parole, abbiamo vinto.",
+      "In altre parole, è finita."
+    ],
+    "b2": [
+      "In altre parole, dobbiamo ricominciare dall'inizio.",
+      "In altre parole, la sua candidatura è stata rifiutata per questo posto.",
+      "In altre parole, non ci sono abbastanza fondi per questo progetto.",
+      "In altre parole, la qualità non è all'altezza.",
+      "In altre parole, stiamo cambiando completamente idea."
+    ],
+    "c1": [
+      "In altre parole, stiamo subendo un'erosione dei nostri margini di profitto.",
+      "In altre parole, il modello economico attuale non è più sostenibile.",
+      "In altre parole, l'innovazione è l'unica leva di crescita rimasta.",
+      "In altre parole, dobbiamo operare una ristrutturazione profonda.",
+      "In altre parole, la volatilità del mercato impone una prudenza estrema."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Solo per assicurarci di essere sulla stessa lunghezza d'onda, ...",
+    "translation": "Just to make sure we're on the same page, ...",
+    "b1": [
+      "Solo per assicurarci di essere sulla stessa lunghezza d'onda, partiamo alle 8?",
+      "Solo per assicurarci di essere sulla stessa lunghezza d'onda, paghi tu?",
+      "Solo per assicurarci di essere sulla stessa lunghezza d'onda, mangiamo italiano?",
+      "Solo per assicurarci di essere sulla stessa lunghezza d'onda, è un segreto?",
+      "Solo per assicurarci di essere sulla stessa lunghezza d'onda, vieni da solo?"
+    ],
+    "b2": [
+      "Solo per assicurarci di essere sulla stessa lunghezza d'onda, il rapporto è per lunedì?",
+      "Solo per assicurarci di essere sulla stessa lunghezza d'onda, accettate il prezzo?",
+      "Solo per assicurarci di essere sulla stessa lunghezza d'onda, l'obiettivo è aumentare le vendite?",
+      "Solo per assicurarci di essere sulla stessa lunghezza d'onda, avete capito le istruzioni?",
+      "Solo per assicurarci di essere sulla stessa lunghezza d'onda, il progetto dura sei mesi?"
+    ],
+    "c1": [
+      "Solo per assicurarci di essere sulla stessa lunghezza d'onda, la visione strategica rimane invariata?",
+      "Solo per assicurarci di essere sulla stessa lunghezza d'onda, le clausole di riservatezza si applicano qui?",
+      "Solo per assicurarci di essere sulla stessa lunghezza d'onda, la fusione è ancora all'ordine del giorno?",
+      "Solo per assicurarci di essere sulla stessa lunghezza d'onda, l'audit riguarda l'esercizio precedente?",
+      "Solo per assicurarci di essere sulla stessa lunghezza d'onda, la priorità è la riduzione dei rischi?"
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Questo conferma che ...",
+    "translation": "This confirms that ...",
+    "b1": [
+      "Questo conferma che hai ragione.",
+      "Questo conferma che il treno è in ritardo.",
+      "Questo conferma che è una buona idea.",
+      "Questo conferma che abbiamo finito in tempo.",
+      "Questo conferma che il negozio è chiuso."
+    ],
+    "b2": [
+      "Questo conferma che la nostra strategia di marketing funziona molto bene.",
+      "Questo conferma che i clienti preferiscono il nuovo design.",
+      "Questo conferma che abbiamo bisogno di più personale questa estate.",
+      "Questo conferma che la sicurezza deve essere migliorata nello stabilimento.",
+      "Questo conferma che il budget è insufficiente per l'anno prossimo."
+    ],
+    "c1": [
+      "Questo conferma che le previsioni macroeconomiche erano esatte.",
+      "Questo conferma che l'innovazione è il motore della nostra competitività.",
+      "Questo conferma che la saturazione del mercato è una realtà tangibile.",
+      "Questo conferma che la nostra politica di conformità è rigorosa.",
+      "Questo conferma che la trasformazione digitale è una tappa imprescindibile."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Permettetemi di approfondire ...",
+    "translation": "Allow me to elaborate on …",
+    "b1": [
+      "Permettetemi di approfondire il mio viaggio.",
+      "Permettetemi di approfondire la mia famiglia.",
+      "Permettetemi di approfondire il mio lavoro.",
+      "Permettetemi di approfondire i miei studi.",
+      "Permettetemi di approfondire questo libro."
+    ],
+    "b2": [
+      "Permettetemi di approfondire le ragioni della nostra scelta tecnica.",
+      "Permettetemi di approfondire i vantaggi di questo nuovo software.",
+      "Permettetemi di approfondire il calendario previsionale dei lavori.",
+      "Permettetemi di approfondire i risultati dell'ultimo sondaggio clienti.",
+      "Permettetemi di approfondire le modalità di iscrizione al concorso."
+    ],
+    "c1": [
+      "Permettetemi di approfondire le implicazioni etiche della nostra ricerca.",
+      "Permettetemi di approfondire le leve di crescita a livello internazionale.",
+      "Permettetemi di approfondire le specificità della regolamentazione bancaria.",
+      "Permettetemi di approfondire le conclusioni dello studio di impatto ambientale.",
+      "Permettetemi di approfondire la sinergia tra i nostri diversi poli di competenza."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "I dettagli sono i seguenti: ...",
+    "translation": "The details are as follows: ...",
+    "b1": [
+      "I dettagli sono i seguenti: il prezzo è di dieci euro.",
+      "I dettagli sono i seguenti: appuntamento a mezzogiorno.",
+      "I dettagli sono i seguenti: portate il vostro libro.",
+      "I dettagli sono i seguenti: la festa è sabato sera.",
+      "I dettagli sono i seguenti: il corso è online."
+    ],
+    "b2": [
+      "I dettagli sono i seguenti: il contratto dura tre anni rinnovabili.",
+      "I dettagli sono i seguenti: il volo parte alle 8 dall'aeroporto.",
+      "I dettagli sono i seguenti: riceverete il vostro ordine entro 48 ore.",
+      "I dettagli sono i seguenti: la formazione si terrà in sala B204.",
+      "I dettagli sono i seguenti: il pagamento avviene tramite bonifico bancario."
+    ],
+    "c1": [
+      "I dettagli sono i seguenti: la clausola di non concorrenza si applica a livello mondiale.",
+      "I dettagli sono i seguenti: gli attivi saranno ripartiti tra le filiali.",
+      "I dettagli sono i seguenti: il protocollo di sicurezza deve essere scrupolosamente rispettato.",
+      "I dettagli sono i seguenti: i dividendi saranno versati in proporzione alle quote sociali.",
+      "I dettagli sono i seguenti: il piano d'azione operativo si estenderà su diciotto mesi."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Il punto importante qui non è ..., ma ...",
+    "translation": "The important point here is not ..., but ...",
+    "b1": [
+      "Il punto importante qui non è il prezzo, ma la qualità.",
+      "Il punto importante qui non è il tempo, ma il piacere.",
+      "Il punto importante qui non è vincere, ma partecipare.",
+      "Il punto importante qui non è mangiare, ma riposarsi.",
+      "Il punto importante qui non è parlare, ma ascoltare."
+    ],
+    "b2": [
+      "Il punto importante qui non è la quantità, ma la soddisfazione del cliente.",
+      "Il punto importante qui non è l'errore, ma come lo correggiamo.",
+      "Il punto importante qui non è il passato, ma i nostri obiettivi futuri.",
+      "Il punto importante qui non è avere ragione, ma trovare un accordo.",
+      "Il punto importante qui non è lavorare duro, ma lavorare in modo intelligente."
+    ],
+    "c1": [
+      "Il punto importante qui non è la redditività immediata, ma la sostenibilità strategica.",
+      "Il punto importante qui non è la forma, ma la coerenza strutturale del progetto.",
+      "Il punto importante qui non è la sanzione, ma la prevenzione dei rischi giuridici.",
+      "Il punto importante qui non è il prodotto, ma l'esperienza utente complessiva.",
+      "Il punto importante qui non è la concorrenza, ma la nostra capacità di innovazione."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Ad esempio, si consideri ...",
+    "translation": "For example, consider ...",
+    "b1": [
+      "Ad esempio, si consideri questo bel tempo.",
+      "Ad esempio, si consideri questo prezzo basso.",
+      "Ad esempio, si consideri questa macchina rossa.",
+      "Ad esempio, si consideri il tuo lavoro qui.",
+      "Ad esempio, si consideri questo ristorante italiano."
+    ],
+    "b2": [
+      "Ad esempio, si consideri l'impatto dei social network sulle vendite.",
+      "Ad esempio, si consideri i vantaggi del telelavoro per i dipendenti.",
+      "Ad esempio, si consideri la situazione dei nostri concorrenti diretti.",
+      "Ad esempio, si consideri i recenti cambiamenti climatici.",
+      "Ad esempio, si consideri il successo del nostro ultimo prodotto."
+    ],
+    "c1": [
+      "Ad esempio, si consideri le ripercussioni di un'instabilità geopolitica sui nostri prezzi.",
+      "Ad esempio, si consideri l'adozione massiccia della tecnologia blockchain nel settore finanziario.",
+      "Ad esempio, si consideri le implicazioni etiche dell'ingegneria genetica.",
+      "Ad esempio, si consideri la correlazione tra istruzione e crescita economica.",
+      "Ad esempio, si consideri la volatilità dei mercati emergenti negli ultimi dieci anni."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "L'essenziale è ...",
+    "translation": "The bottom line is …",
+    "b1": [
+      "L'essenziale è essere felici.",
+      "L'essenziale è mangiare in modo sano.",
+      "L'essenziale è finire il proprio lavoro.",
+      "L'essenziale è essere puntuali.",
+      "L'essenziale è avere degli amici."
+    ],
+    "b2": [
+      "L'essenziale è che il progetto sia redditizio a lungo termine.",
+      "L'essenziale è rispettare le norme di sicurezza.",
+      "L'essenziale è ascoltare le esigenze dei nostri clienti.",
+      "L'essenziale è mantenere un atteggiamento positivo sul lavoro.",
+      "L'essenziale è ottenere risultati concreti."
+    ],
+    "c1": [
+      "L'essenziale è garantire la sostenibilità finanziaria dell'istituzione.",
+      "L'essenziale è mantenere la nostra integrità di fronte all'avversità.",
+      "L'essenziale è favorire l'innovazione attraverso una cultura della sperimentazione.",
+      "L'essenziale è garantire la trasparenza dei nostri processi decisionali.",
+      "L'essenziale è anticipare le grandi rotture tecnologiche."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Passiamo in rassegna le principali conclusioni: ...",
+    "translation": "Let's review the main findings: ...",
+    "b1": [
+      "Passiamo in rassegna le principali conclusioni: abbiamo finito.",
+      "Passiamo in rassegna le principali conclusioni: è troppo caro.",
+      "Passiamo in rassegna le principali conclusioni: tutti sono d'accordo.",
+      "Passiamo in rassegna le principali conclusioni: partiamo domani.",
+      "Passiamo in rassegna le principali conclusioni: è un successo."
+    ],
+    "b2": [
+      "Passiamo in rassegna le principali conclusioni: dobbiamo cambiare fornitore.",
+      "Passiamo in rassegna le principali conclusioni: la campagna pubblicitaria è efficace.",
+      "Passiamo in rassegna le principali conclusioni: il budget sarà superato quest'anno.",
+      "Passiamo in rassegna le principali conclusioni: i dipendenti vogliono più flessibilità.",
+      "Passiamo in rassegna le principali conclusioni: la qualità è migliorata del 20 %."
+    ],
+    "c1": [
+      "Passiamo in rassegna le principali conclusioni: l'audit conferma una gestione sana.",
+      "Passiamo in rassegna le principali conclusioni: la fusione presenta sinergie reali.",
+      "Passiamo in rassegna le principali conclusioni: il posizionamento di fascia alta è validato.",
+      "Passiamo in rassegna le principali conclusioni: la transizione energetica è irreversibile.",
+      "Passiamo in rassegna le principali conclusioni: la resilienza operativa è il nostro punto di forza principale."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Per riassumere la situazione, ...",
+    "translation": "To sum up the situation, ...",
+    "b1": [
+      "Per riassumere la situazione, siamo in ritardo.",
+      "Per riassumere la situazione, non abbiamo più soldi.",
+      "Per riassumere la situazione, il lavoro è fatto.",
+      "Per riassumere la situazione, va tutto bene.",
+      "Per riassumere la situazione, c'è un problema."
+    ],
+    "b2": [
+      "Per riassumere la situazione, il mercato è saturo e i prezzi scendono.",
+      "Per riassumere la situazione, abbiamo perso il nostro cliente più importante.",
+      "Per riassumere la situazione, i nuovi locali sono quasi pronti.",
+      "Per riassumere la situazione, il team manca di motivazione al momento.",
+      "Per riassumere la situazione, abbiamo bisogno di una nuova strategia."
+    ],
+    "c1": [
+      "Per riassumere la situazione, stiamo assistendo a una convergenza delle crisi economiche e sociali.",
+      "Per riassumere la situazione, la diagnosi rivela carenze strutturali importanti.",
+      "Per riassumere la situazione, l'espansione internazionale è sospesa per il momento.",
+      "Per riassumere la situazione, operiamo in un quadro regolatorio estremamente instabile.",
+      "Per riassumere la situazione, la sostenibilità del modello dipende dalla nostra capacità di innovare."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Quello che capisco è che ...",
+    "translation": "My understanding is that ...",
+    "b1": [
+      "Quello che capisco è che sei stanco.",
+      "Quello che capisco è che il film è finito.",
+      "Quello che capisco è che dobbiamo andare.",
+      "Quello che capisco è che è difficile.",
+      "Quello che capisco è che sei d'accordo."
+    ],
+    "b2": [
+      "Quello che capisco è che il budget non sarà aumentato quest'anno.",
+      "Quello che capisco è che cercate una persona più esperta.",
+      "Quello che capisco è che il progetto è rimandato a data da destinarsi.",
+      "Quello che capisco è che la soddisfazione del cliente è in calo.",
+      "Quello che capisco è che dobbiamo formare il team sui nuovi strumenti."
+    ],
+    "c1": [
+      "Quello che capisco è che la sostenibilità strategica si basa sulla nostra agilità.",
+      "Quello che capisco è che l'ottimizzazione fiscale è una priorità per il gruppo.",
+      "Quello che capisco è che raccomandate un cambiamento radicale di governance.",
+      "Quello che capisco è che l'impatto ambientale è un criterio eliminatorio.",
+      "Quello che capisco è che la sinergia operativa tra i poli è insufficiente."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Solo per essere chiari, ...",
+    "translation": "Just to be clear, …",
+    "b1": [
+      "Solo per essere chiari, questa è la mia penna.",
+      "Solo per essere chiari, non vengo stasera.",
+      "Solo per essere chiari, l'appuntamento è a mezzogiorno.",
+      "Solo per essere chiari, qui è vietato fumare.",
+      "Solo per essere chiari, sono d'accordo."
+    ],
+    "b2": [
+      "Solo per essere chiari, non si tratta di una promessa di assunzione immediata.",
+      "Solo per essere chiari, le spese di viaggio non sono rimborsate.",
+      "Solo per essere chiari, non lavoreremo più con questo fornitore.",
+      "Solo per essere chiari, dovete indossare un equipaggiamento protettivo.",
+      "Solo per essere chiari, il prezzo indicato è al netto delle tasse."
+    ],
+    "c1": [
+      "Solo per essere chiari, il mio avallo è condizionato a una revisione delle clausole.",
+      "Solo per essere chiari, si tratta di una raccomandazione e non di un'ingiunzione.",
+      "Solo per essere chiari, la sostenibilità del contratto dipende da questi risultati.",
+      "Solo per essere chiari, non ci assumeremo alcuna responsabilità giuridica.",
+      "Solo per essere chiari, l'audit sarà esaustivo e riguarderà gli ultimi cinque anni."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Il risultato finale è stato ...",
+    "translation": "The final outcome was ...",
+    "b1": [
+      "Il risultato finale è stato un successo.",
+      "Il risultato finale è stato deludente.",
+      "Il risultato finale è stato magnifico.",
+      "Il risultato finale è stato un pareggio.",
+      "Il risultato finale è stato conforme alle nostre aspettative."
+    ],
+    "b2": [
+      "Il risultato finale è stato un aumento del 10 % del nostro fatturato.",
+      "Il risultato finale è stato la creazione di un nuovo dipartimento marketing.",
+      "Il risultato finale è stato un accordo tra le due parti dopo otto ore di discussione.",
+      "Il risultato finale è stato la pura e semplice cancellazione del progetto.",
+      "Il risultato finale è stato l'implementazione di un efficiente sistema di riciclaggio."
+    ],
+    "c1": [
+      "Il risultato finale è stato una profonda ristrutturazione della governance aziendale.",
+      "Il risultato finale è stato la validazione da parte delle autorità di regolazione del mercato.",
+      "Il risultato finale è stato un miglioramento sostanziale della nostra resilienza operativa.",
+      "Il risultato finale è stato l'ottenimento di una certificazione ambientale internazionale.",
+      "Il risultato finale è stato una fusione riuscita nonostante i primi ostacoli culturali."
+    ]
+  }
+]

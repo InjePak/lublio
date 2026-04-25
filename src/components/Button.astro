@@ -1,0 +1,249 @@
+---
+import "../styles/fonts.css";
+import "../styles/colors.css";
+import "../styles/transition.css";
+import { Icon } from "astro-icon/components";
+
+const { title, subtitle, description, language, path, level, isDev } =
+  Astro.props;
+
+const colorMap800: Record<string, string> = {
+  nld: "var(--orange800)",
+  fra: "var(--sky800)",
+  deu: "var(--amber800)",
+  ita: "var(--emerald800)",
+  spa: "var(--rose800)",
+  rus: "var(--indigo800)",
+  heb: "var(--blue800)",
+  kaz: "var(--teal800)",
+};
+const colorMap700: Record<string, string> = {
+  nld: "var(--orange700)",
+  fra: "var(--sky700)",
+  deu: "var(--amber700)",
+  ita: "var(--emerald700)",
+  spa: "var(--rose700)",
+  rus: "var(--indigo700)",
+  heb: "var(--blue700)",
+  kaz: "var(--teal700)",
+};
+const colorMap600: Record<string, string> = {
+  nld: "var(--orange600)",
+  fra: "var(--sky600)",
+  deu: "var(--amber600)",
+  ita: "var(--emerald600)",
+  spa: "var(--rose600)",
+  rus: "var(--indigo600)",
+  heb: "var(--blue600)",
+  kaz: "var(--teal600)",
+};
+const colorMap500: Record<string, string> = {
+  nld: "var(--orange500)",
+  fra: "var(--sky500)",
+  deu: "var(--amber500)",
+  ita: "var(--emerald500)",
+  spa: "var(--rose500)",
+  rus: "var(--indigo500)",
+  heb: "var(--blue500)",
+  kaz: "var(--teal500)",
+};
+const colorMap400: Record<string, string> = {
+  nld: "var(--orange400)",
+  fra: "var(--sky400)",
+  deu: "var(--amber400)",
+  ita: "var(--emerald400)",
+  spa: "var(--rose400)",
+  rus: "var(--indigo400)",
+  heb: "var(--blue400)",
+  kaz: "var(--teal400)",
+};
+const colorMap300: Record<string, string> = {
+  nld: "var(--orange300)",
+  fra: "var(--sky300)",
+  deu: "var(--amber300)",
+  ita: "var(--emerald300)",
+  spa: "var(--rose300)",
+  rus: "var(--indigo300)",
+  heb: "var(--blue300)",
+  kaz: "var(--teal300)",
+};
+const colorMap200: Record<string, string> = {
+  nld: "var(--orange200)",
+  fra: "var(--sky200)",
+  deu: "var(--amber200)",
+  ita: "var(--emerald200)",
+  spa: "var(--rose200)",
+  rus: "var(--indigo200)",
+  heb: "var(--blue200)",
+  kaz: "var(--teal200)",
+};
+const colorMap100: Record<string, string> = {
+  nld: "var(--orange100)",
+  fra: "var(--sky100)",
+  deu: "var(--amber100)",
+  ita: "var(--emerald100)",
+  spa: "var(--rose100)",
+  rus: "var(--indigo100)",
+  heb: "var(--blue100)",
+  kaz: "var(--teal100)",
+};
+const color800 = colorMap800[language] || "var(--zinc800)";
+const color700 = colorMap700[language] || "var(--zinc700)";
+const color600 = colorMap600[language] || "var(--zinc600)";
+const color500 = colorMap500[language] || "var(--zinc500)";
+const color400 = colorMap400[language] || "var(--zinc400)";
+const color300 = colorMap300[language] || "var(--zinc300)";
+const color200 = colorMap200[language] || "var(--zinc200)";
+const color100 = colorMap100[language] || "var(--zinc100)";
+
+const levelMap: Record<string, string> = {
+  a0: "mdi:chess-pawn",
+  a1: "mdi:chess-knight",
+  a2: "mdi:chess-bishop",
+  b1: "mdi:chess-rook",
+  b2: "mdi:chess-queen",
+  c1: "mdi:chess-king",
+  grammar: "mdi:cube-outline",
+  phrase: "mdi:tooltip-text-outline",
+  pattern: "mdi:puzzle-outline",
+  vocabulary: "mdi:asterisk",
+};
+const levelIcon = levelMap[level] || "mdi:chess-pawn";
+---
+
+<style define:vars={{ color500, color400, color300, color200, color100 }}>
+  .btn:hover {
+    background: var(--color100);
+  }
+
+  .btn:hover > h1,
+  .btn:hover > h2,
+  .btn:hover > p {
+    color: var(--color500);
+  }
+
+  .btn:hover > svg,
+  .btn:hover > span {
+    opacity: 1;
+    color: var(--color500);
+  }
+</style>
+
+<a href={path}>
+  <div class="btn">
+    <h1>{title}</h1>
+    <h2>{subtitle}</h2>
+    <p>{description}</p>
+    {level && <Icon name={levelIcon} />}
+    {isDev && <span>Coming Soon</span>}
+  </div>
+</a>
+
+<style>
+  .btn {
+    position: relative;
+    background-color: var(--neutral200);
+    padding: 1.5rem;
+    min-height: 200px;
+    width: 100%;
+    height: 100%;
+    transition: all 0.4s;
+    border-radius: 15px;
+    margin-bottom: 1rem;
+  }
+
+  .btn > h1 {
+    position: relative;
+    font-family: "Roboto Condensed", sans-serif;
+    text-transform: uppercase;
+    font-size: 32px;
+    font-weight: 600;
+    margin-bottom: 0rem;
+    transition: 0.4s all;
+  }
+
+  .btn > h2 {
+    position: relative;
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 0.5rem;
+    color: var(--zinc500);
+    transition: 0.4s all;
+  }
+
+  .btn > p {
+    position: absolute;
+    display: block;
+    margin: 0;
+    text-align: right;
+    bottom: 1.5rem;
+    right: 1.5rem;
+    width: calc(100% - 3rem);
+    font-size: 14px;
+    transition: 0.4s all;
+    color: var(--zinc500);
+  }
+
+  .btn > span {
+    position: absolute;
+    display: block;
+    bottom: 1.5rem;
+    left: 1.5rem;
+    font-weight: 600;
+    font-size: 18px;
+    font-family: "Roboto Condensed", sans-serif;
+    text-transform: uppercase;
+    color: var(--zinc800);
+    opacity: 0;
+    transition: 0.4s all;
+  }
+
+  .btn > svg {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 30px;
+    height: 30px;
+    margin: 0;
+    opacity: 0;
+    color: var(--zinc800);
+    transition: all 0.4s;
+  }
+
+  /* Mobile */
+  @media (max-width: 480px) {
+    .btn {
+      min-height: 220px;
+      margin-bottom: 1.5rem;
+    }
+
+    .btn > h1 {
+      font-size: 22px;
+    }
+
+    .btn > h2 {
+      font-size: 14px;
+    }
+
+    .btn > p {
+      font-size: 12px;
+    }
+
+    .btn > span {
+      opacity: 0;
+      font-size: 13px;
+      width: 100%;
+      height: 18px;
+      text-align: center;
+      top: 60%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+    }
+
+    .btn > svg {
+      width: 24px;
+      height: 24px;
+    }
+  }
+</style>

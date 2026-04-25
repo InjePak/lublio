@@ -1,0 +1,73 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Box from "../../components/Box.astro";
+import Button from "../../components/Button.astro";
+
+const pageTitle = "French";
+---
+
+<BaseLayout pageTitle={pageTitle + " | Lublio"}>
+  <Box
+    title="Français"
+    subtitle="French"
+    description="Le français est la langue de l'amour et de la diplomatie. Reconnue pour son élégance et sa précision, elle brille à travers le monde comme un vecteur essentiel de la culture, de la gastronomie et des arts libéraux."
+    language="fra"
+  />
+
+  <div class="button-wrapper">
+    <!-- <Button
+      title="Grammaire"
+      subtitle="Grammar"
+      description="CEFR A1 - B2"
+      language="fra"
+      path="/french/grammar"
+      level="grammar"
+      isDev="true"
+    /> -->
+
+    <Button
+      title="Phrases"
+      subtitle="Phrasebook"
+      description="CEFR A1 - B2"
+      language="fra"
+      path="/french/phrasebook"
+      level="phrase"
+    />
+
+    <Button
+      title="Modèles"
+      subtitle="Sentence Patterns"
+      description="CEFR B1 - C1"
+      language="fra"
+      path="/french/pattern"
+      level="pattern"
+    />
+
+    <!-- <Button
+      title="Vocabulaire"
+      subtitle="Vocabulary"
+      description="CEFR A1 - C1"
+      language="fra"
+      path="/french/vocabulary"
+      level="vocabulary"
+      isDev="true"
+    /> -->
+  </div>
+</BaseLayout>
+
+<style>
+  .button-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  /* Mobile */
+  @media (max-width: 480px) {
+    .button-wrapper {
+      gap: 10px;
+      margin-bottom: 10px;
+    }
+  }
+</style>

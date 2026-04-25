@@ -1,0 +1,77 @@
+---
+import "../styles/colors.css";
+
+// 컴포넌트 프롭스 정의
+interface Props {
+  texts: string[]; // 출력할 문구 배열
+  delay?: number; // 문장 노출 지속 시간 (ms)
+  animationDuration?: number; // 애니메이션 지속 시간 (ms)
+}
+
+const {
+  texts = ["안녕하세요!", "Astro로 만든 문장 전환기입니다."],
+  delay = 3000,
+  animationDuration = 3000, // 애니메이션 기본 지속 시간 0.5초
+} = Astro.props;
+---
+
+<span id="slide-text" class="slide-text"></span>
+
+<style define:vars={{ animationDuration: `${animationDuration / 1000}s` }}>
+  .slide-text {
+    display: inline-block;
+    color: var(--neutral800);
+    opacity: 0; /* 기본 상태는 숨김 */
+  }
+
+  @keyframes slideUp {
+    0% {
+      transform: translateY(20px);
+      opacity: 0;
+    }
+    15%,
+    85% {
+      /* 나타나서 유지되는 구간 */
+      transform: translateY(0);
+      opacity: 1;
+    }
+    100% {
+      transform: translateY(-20px);
+      opacity: 0;
+    }
+  }
+
+  .slide-in {
+    animation: slideUp var(--animationDuration) ease-in-out forwards;
+  }
+</style>
+
+<script is:inline define:vars={{ texts, delay }}>
+  const element = document.getElementById("slide-text");
+  let textIndex = Math.floor(Math.random() * texts.length);
+
+  function showNextText() {
+    // 이전 애니메이션 클래스 제거 (재실행을 위해)
+    element.classList.remove("slide-in");
+
+    // 텍스트를 즉시 변경 (애니메이션 전에)
+    element.textContent = texts[textIndex];
+
+    // DOM이 업데이트될 시간을 아주 잠시 기다린 후 애니메이션 클래스 추가
+    // 이렇게 해야 브라우저가 변경 사항을 인식하고 애니메이션을 제대로 다시 시작합니다.
+    requestAnimationFrame(() => {
+      requestAnimationFrame(() => {
+        element.classList.add("slide-in");
+      });
+    });
+
+    // 다음 인덱스로 변경 (배열 순환)
+    textIndex = (textIndex + 1) % texts.length;
+
+    // 설정된 delay 후에 다시 실행
+    setTimeout(showNextText, delay);
+  }
+
+  // DOM이 로드되면 실행
+  document.addEventListener("DOMContentLoaded", showNextText);
+</script>

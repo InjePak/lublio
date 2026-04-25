@@ -1,0 +1,21 @@
+{
+  "name": "lublio",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/mdx": "^4.3.13",
+    "@astrojs/preact": "^4.1.3",
+    "@astrojs/rss": "^4.0.14",
+    "@iconify-json/mdi": "^1.2.3",
+    "astro": "^5.16.9",
+    "astro-icon": "^1.1.5",
+    "better-auth": "^1.4.18",
+    "preact": "^10.28.2"
+  }
+}

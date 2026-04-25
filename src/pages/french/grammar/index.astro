@@ -1,0 +1,73 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import Box from "../../../components/Box.astro";
+import Button from "../../../components/Button.astro";
+
+// Title
+const pageTitle = "French Grammar";
+---
+
+<BaseLayout pageTitle={pageTitle + " | Lublio"}>
+  <Box
+    title="Grammaire"
+    subtitle="French Grammar"
+    description="The clearest roadmap for turning your thoughts into sentences. Build unwavering speaking skills on a rock-solid grammatical foundation."
+    language="fra"
+  />
+
+  <Button
+    title="Débutant complet"
+    subtitle="Absolute beginner"
+    description="CEFR A0"
+    language="fra"
+    path="/french/grammar/a0"
+    level="a0"
+    isDev="true"
+  />
+
+  <Button
+    title="Débutant"
+    subtitle="Beginner"
+    description="CEFR A1"
+    language="fra"
+    path="/french/grammar/a1"
+    level="a1"
+    isDev="true"
+  />
+
+  <Button
+    title="Élémentaire"
+    subtitle="Elementary"
+    description="CEFR A2"
+    language="fra"
+    path="/french/grammar/a2"
+    level="a2"
+    isDev="true"
+  />
+
+  <Button
+    title="Intermédiaire"
+    subtitle="Intermediate"
+    description="CEFR B1"
+    language="fra"
+    path="/french/grammar/b1"
+    level="b1"
+    isDev="true"
+  />
+
+  <Button
+    title="Intermédiaire supérieur"
+    subtitle="Upper Intermediate"
+    description="CEFR B2"
+    language="fra"
+    path="/french/grammar/grammar/b2"
+    level="b2"
+    isDev="true"
+  />
+</BaseLayout>
+
+<style>
+  section {
+    padding-top: 1.5rem;
+  }
+</style>

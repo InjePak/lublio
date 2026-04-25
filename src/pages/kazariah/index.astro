@@ -1,0 +1,123 @@
+---
+import KazariahLayout from "../../layouts/KazariahLayout.astro";
+import BoxMainFrontier from "../../components/BoxMainFrontier.astro";
+import ButtonFrontier from "../../components/ButtonFrontier.astro";
+
+const pageTitle = "Kazariah";
+---
+
+<KazariahLayout pageTitle={pageTitle + " | Powered by Lublio"}>
+  <BoxMainFrontier
+    title="Kazariah"
+    subtitle="프로젝트 카자리아"
+    description="카자흐어는 광활한 초원이 빚어낸 언어입니다. 유목 민족의 이야기와 전통은 세대를 넘어 입에서 입으로 전해져 왔고, 지금도 살아 숨 쉬고 있습니다. 돔브라의 울림처럼 유연하고 깊이 있는 언어, 지금 만나보세요."
+    language="kaz"
+  />
+
+  <div class="ButtonFrontier-wrapper">
+    <!-- <ButtonFrontier
+      title="Sözdеr"
+      subtitle="Vocabulary"
+      description="CEFR A1 - B2"
+      language="kaz"
+      path="/kazariah/vocabulary"
+      level="vocabulary"
+      isDev="true"
+    /> -->
+
+    <ButtonFrontier
+      title="Tirkeser"
+      subtitle="카자흐어 회화"
+      description="CEFR A1 - B2"
+      language="kaz"
+      path="/kazariah/phrasebook"
+      level="phrase"
+    />
+
+    <ButtonFrontier
+      title="Ülgiler"
+      subtitle="카자흐어 패턴"
+      description="CEFR B1 - C1"
+      language="kaz"
+      path="/kazariah/pattern"
+      level="pattern"
+    />
+
+    <!-- <ButtonFrontier
+      title="Kenda"
+      subtitle="카자흐어 첫걸음"
+      description="CEFR A0"
+      language="kaz"
+      path="/kazariah/a0"
+      level="a0"
+      isDev="true"
+    />
+
+    <ButtonFrontier
+      title="Temir"
+      subtitle="기초 카자흐어"
+      description="CEFR A1"
+      language="kaz"
+      path="/kazariah/a1"
+      level="a1"
+      isDev="true"
+    />
+
+    <ButtonFrontier
+      title="Qola"
+      subtitle="초급 카자흐어"
+      description="CEFR A2"
+      language="kaz"
+      path="/kazariah/a2"
+      level="a2"
+      isDev="true"
+    />
+
+    <ButtonFrontier
+      title="Kümis"
+      subtitle="중급 카자흐어"
+      description="CEFR B1"
+      language="kaz"
+      path="/kazariah/b1"
+      level="b1"
+      isDev="true"
+    />
+
+    <ButtonFrontier
+      title="Altyn"
+      subtitle="중고급 카자흐어"
+      description="CEFR B2"
+      language="kaz"
+      path="/kazariah/b2"
+      level="b2"
+      isDev="true"
+    />
+
+    <ButtonFrontier
+      title="Almas"
+      subtitle="고급 카자흐어"
+      description="CEFR C1"
+      language="kaz"
+      path="/kazariah/c1"
+      level="c1"
+      isDev="true"
+    /> -->
+  </div>
+</KazariahLayout>
+
+<style>
+  .ButtonFrontier-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  /* Mobile */
+  @media (max-width: 480px) {
+    .ButtonFrontier-wrapper {
+      gap: 10px;
+      margin-bottom: 10px;
+    }
+  }
+</style>

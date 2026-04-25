@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Bence ...",
+    "translation": "In my opinion, ...",
+    "b1": [
+      "Bence bu film çok ilginç.",
+      "Bence daha fazla sebze yemeliyiz.",
+      "Bence yazın bu şehir çok gürültülü.",
+      "Bence Fransızca öğrenmek iyi bir hedef.",
+      "Bence bugün öğleden sonra yağmur yağacak."
+    ],
+    "b2": [
+      "Bence hükümet yenilenebilir enerji kaynaklarına daha fazla yatırım yapmalı.",
+      "Bence uzaktan çalışmak iş ve özel hayat arasındaki dengeyi geliştiriyor.",
+      "Bence bu reform vatandaşların beklentilerini karşılamıyor.",
+      "Bence gençleri çevreyi koruma konusunda eğitmek çok önemli.",
+      "Bence küreselleşmenin yerel kültürler üzerinde karmaşık bir etkisi var."
+    ],
+    "c1": [
+      "Bence aşırı dijitalleşme odaklanma yeteneğimizi yavaş yavaş köreltiyor.",
+      "Bence bu meseleyi uluslararası düzeyde kapsamlı müzakereler olmadan çözmek imkansız.",
+      "Bence bu eserin estetiği o dönemin geleneksel kalıplarının ötesine geçiyor.",
+      "Bence ekonomik büyümenin sonsuz olabileceğine inanmak sadece bir hayal.",
+      "Bence istihdamdaki istikrarsızlık toplumsal gelişimin önündeki en büyük engeldir."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "... -e olduğuna inanıyorum / Bence ...",
+    "translation": "I believe that ...",
+    "b1": [
+      "Bunun iyi bir fikir olduğuna inanıyorum.",
+      "Bence Pavel gitti.",
+      "Bence anahtarları unuttuk.",
+      "Bu restoranın pazartesi günleri kapalı olduğuna inanıyorum.",
+      "Senin fikrinin doğru olduğuna inanıyorum."
+    ],
+    "b2": [
+      "Tüketim alışkanlıklarımızı yeniden gözden geçirmemiz gerektiğine inanıyorum.",
+      "Başarının her şeyden önce kararlılığa bağlı olduğuna inanıyorum.",
+      "Bu kararın uzun vadede en uygun çözüm olduğuna inanıyorum.",
+      "Sosyal medyanın insanları yakınlaştırmaktan ziyade yalnızlaştırdığına inanıyorum.",
+      "İki taraf arasında bir diyalog kurulması gerektiğine inanıyorum."
+    ],
+    "c1": [
+      "Etiğin her türlü teknolojik inovasyonun temelinde yer alması gerektiğine inanıyorum.",
+      "Bir toplumun dayanıklılığının en savunmasız gruplarını koruma yeteneğiyle ölçüldüğüne inanıyorum.",
+      "Eşi benzeri görülmemiş paradigmatik değişimlere tanıklık ettiğimize inanıyorum.",
+      "Sanat eğitiminin eleştirel düşünmeyi geliştirmek için temel bir unsur olduğuna inanıyorum.",
+      "Bu kararın jeopolitik sonuçlarının göz ardı edilemeyeceğine inanıyorum."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Bana öyle geliyor ki ...",
+    "translation": "It seems to me that ...",
+    "b1": [
+      "Bana öyle geliyor ki sen yorgunsun.",
+      "Bana öyle geliyor ki otobüs gecikiyor.",
+      "Bana öyle geliyor ki ben bu insanı daha önce gördüm.",
+      "Bana öyle geliyor ki geldiğimiz yer burası.",
+      "Bana öyle geliyor ki bugün hava daha sıcak."
+    ],
+    "b2": [
+      "Bana öyle geliyor ki bu konuda insanların bakış açısı yavaşça değişiyor.",
+      "Bana öyle geliyor ki bu stratejinin etkili olması için netlik eksik.",
+      "Bana öyle geliyor ki biz bu projenin önemini hafife aldık.",
+      "Bana öyle geliyor ki şimdiki gençler siyasi açıdan çok aktifler.",
+      "Bana öyle geliyor ki bu tartışma henüz bitmedi."
+    ],
+    "c1": [
+      "Bana öyle geliyor ki yazarın muhakemesi hatalı bir varsayıma dayanıyor.",
+      "Bana öyle geliyor ki bu iki olgu arasındaki bağlantı su götürmez.",
+      "Bana öyle geliyor ki kimlik meseleleri genellikle ekonomik gerçekleri gölgede bırakıyor.",
+      "Bana öyle geliyor ki bu önlem var olan toplumsal gerilimi daha da tırmandıracak.",
+      "Bana öyle geliyor ki krizin psikolojik boyutunu hesaba katmayarak yanlış yöne gidiyoruz."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Benim bakış açıma göre, ...",
+    "translation": "From my perspective, ...",
+    "b1": [
+      "Benim bakış açıma göre bu çok pahalı.",
+      "Benim bakış açıma göre spor yapmak önemli.",
+      "Benim bakış açıma göre bu zor değil.",
+      "Benim bakış açıma göre şimdi gitmek gerekiyor.",
+      "Benim bakış açıma göre o çok güzel şarkı söylüyor."
+    ],
+    "b2": [
+      "Benim bakış açıma göre kültürel çeşitlilik şirket için büyük bir zenginliktir.",
+      "Benim bakış açıma göre plastiğin yasaklanması gerekli bir adımdır.",
+      "Benim bakış açıma göre bu uygulama günlük hayatı gözle görülür şekilde kolaylaştırıyor.",
+      "Benim bakış açıma göre seçme kriterleri biraz belirsiz.",
+      "Benim bakış açıma göre seyahat etmek gençlerin dünya görüşünü genişletiyor."
+    ],
+    "c1": [
+      "Benim bakış açıma göre dijital egemenlik 21. yüzyılın en temel meselesidir.",
+      "Benim bakış açıma göre bu reform yalnızca bir hesaplaşma mantığına dayanıyor.",
+      "Benim bakış açıma göre planlı eskitme sürdürülebilir bir ekonomi için büyük bir engeldir.",
+      "Benim bakış açıma göre bu metni tarihsel bağlamı açısından analiz etmek gerekir.",
+      "Benim bakış açıma göre meritokrasi kavramı genellikle çarpıtılıyor veya yanlış anlaşılıyor."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "... -e kesinlikle inanıyorum",
+    "translation": "I strongly feel that ...",
+    "b1": [
+      "Senin başarılı olacağına kesinlikle inanıyorum.",
+      "Onun geleceğine kesinlikle inanıyorum.",
+      "Bunun doğru yol olduğuna kesinlikle inanıyorum.",
+      "Bu kitabın harika olduğuna kesinlikle inanıyorum.",
+      "Doğru seçimi yaptığımıza kesinlikle inanıyorum."
+    ],
+    "b2": [
+      "Eğitimin kalkınmanın anahtarı olduğuna kesinlikle inanıyorum.",
+      "Bu yıl hedeflerimize ulaşabileceğimize kesinlikle inanıyorum.",
+      "Nezaketin işteki verimliliği artırdığına kesinlikle inanıyorum.",
+      "Geri dönüşümün meselenin sadece bir parçası olduğuna kesinlikle inanıyorum.",
+      "Yapay zekanın mesleklerimizi dönüştüreceğine kesinlikle inanıyorum."
+    ],
+    "c1": [
+      "Ekolojik dönüşümün ekonomik sistemimizi küresel düzeyde yeniden yapılandırmayı gerektirdiğine kesinlikle inanıyorum.",
+      "İfade özgürlüğünün hiçbir tiranlığa maruz kalmaması gerektiğine kesinlikle inanıyorum.",
+      "Empatinin gelecekte liderliğin ayrılmaz bir becerisi olacağına kesinlikle inanıyorum.",
+      "Şu anki durgunluğun büyük değişimlerin sadece başlangıcı olduğuna kesinlikle inanıyorum.",
+      "Uluslararası iş birliğinin izolasyonizme karşı durabilecek tek kale olduğuna kesinlikle inanıyorum."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Bence ... / Şunu iddia edebilirim ki ...",
+    "translation": "I would argue that ...",
+    "b1": [
+      "Bence bu iyi bir girişim.",
+      "Gecenin çok eğlenceli geçtiğini iddia edebilirim.",
+      "Saatin yaklaşık sekiz olduğunu iddia edebilirim.",
+      "Bu çöreğin çok tatlı olduğunu iddia edebilirim.",
+      "Sana tatil gerektiğini iddia edebilirim."
+    ],
+    "b2": [
+      "Projenin hâlâ eksik yönleri olduğunu iddia edebilirim.",
+      "Medyanın etkisinin genellikle abartıldığını iddia edebilirim.",
+      "Bu önlemin beklenmedik sonuçları olacağını iddia edebilirim.",
+      "Esnekliğin bu adayın en büyük avantajı olduğunu iddia edebilirim.",
+      "Mevcut durumun büyük bir tedbir gerektirdiğini iddia edebilirim."
+    ],
+    "c1": [
+      "Bu eserin birkaç sanatsal akımın kesişim noktasında yer aldığını iddia edebilirim.",
+      "Bu ekonomik modelin geçerliliğinin bugün sorgulanır olduğunu iddia edebilirim.",
+      "Biyoetik üzerine derinlemesine düşünmeden ilerlemenin imkansız olduğunu iddia edebilirim.",
+      "Kullanılan retoriğin somut verilerle ikna etmekten ziyade, daha çok cezbetmeye çalıştığını iddia edebilirim.",
+      "Güvenlik ile kişisel özgürlük arasındaki dengenin her geçen gün daha da istikrarsızlaştığını iddia edebilirim."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Demek istediğim şu ki, ...",
+    "translation": "What I mean is, ...",
+    "b1": [
+      "Demek istediğim şu ki bu çok önemli.",
+      "Demek istediğim şu ki özür dilerim.",
+      "Demek istediğim şu ki işimi çok seviyorum.",
+      "Demek istediğim şu ki dikkatli olmak gerek.",
+      "Demek istediğim şu ki her şey yolunda."
+    ],
+    "b2": [
+      "Demek istediğim şu ki daha verimli çalışmalıyız.",
+      "Demek istediğim şu ki nicelikten ziyade nitelik daha önemlidir.",
+      "Demek istediğim şu ki herkesin aynı imkanları olmuyor.",
+      "Demek istediğim şu ki iletişim her şeyin temelidir.",
+      "Demek istediğim şu ki daha fazla zamana ihtiyacımız var."
+    ],
+    "c1": [
+      "Demek istediğim şu ki burada kullanılan anlambilim meselenin anlaşılmasını çarpıtıyor.",
+      "Demek istediğim şu ki inovasyon etik pahasına gerçekleştirilmemelidir.",
+      "Demek istediğim şu ki büyüme nihai amaç değil, sadece bir araçtır.",
+      "Demek istediğim şu ki gerçek hayatın karmaşıklığı genellikle yüzeysel analizlere boyun eğmez.",
+      "Demek istediğim şu ki bireysel sorumluluk toplumsal sözleşmeden ayrılamaz."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Bana sorarsanız, ...",
+    "translation": "If you ask me, ...",
+    "b1": [
+      "Bana sorarsanız o gelmeyecek.",
+      "Bana sorarsanız şimdi çok geç.",
+      "Bana sorarsanız mavi olanı seçmelisiniz.",
+      "Bana sorarsanız bu korkunç değil.",
+      "Bana sorarsanız buradaki kahve daha lezzetli."
+    ],
+    "b2": [
+      "Bana sorarsanız bu şirketin geleceği parlak.",
+      "Bana sorarsanız toplu taşıma ücretsiz olmalı.",
+      "Bana sorarsanız televizyonda çok fazla reklam var.",
+      "Bana sorarsanız sürekli eğitim almak günümüzde çok önemli.",
+      "Bana sorarsanız pazarlama yaklaşımımızı değiştirmeliyiz."
+    ],
+    "c1": [
+      "Bana sorarsanız piyasanın kuralsızlaşması kronik bir istikrarsızlığa yol açtı.",
+      "Bana sorarsanız bu projede net bir hedef eksikliği var.",
+      "Bana sorarsanız kültüre sadece basit bir meta olarak bakılmamalıdır.",
+      "Bana sorarsanız biyolojik çeşitliliğin azalması en acil çözülmesi gereken tehdittir.",
+      "Bana sorarsanız mevcut tartışma sadece seçim odaklı çıkarlarla sınırlı kalmıştır."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "... -e tamamen katılıyorum",
+    "translation": "I couldn't agree more with ...",
+    "b1": [
+      "Sana tamamen katılıyorum.",
+      "Bu fikre tamamen katılıyorum.",
+      "Öğretmene tamamen katılıyorum.",
+      "Size tamamen katılıyorum.",
+      "Bu plana tamamen katılıyorum."
+    ],
+    "b2": [
+      "Sizin durum analizlerinize tamamen katılıyorum.",
+      "Çocukların ekran başındaki sürelerinin kısıtlanmasına tamamen katılıyorum.",
+      "Bu raporun sonuçlarına tamamen katılıyorum.",
+      "Şirketteki çeşitliliğin önemine tamamen katılıyorum.",
+      "Dört günlük çalışma haftası fikrine tamamen katılıyorum."
+    ],
+    "c1": [
+      "Yazarın toplumsal parçalanmaya ilişkin tespitine tamamen katılıyorum.",
+      "Finans sektörünün daha sıkı düzenlenmesi gerektiğine tamamen katılıyorum.",
+      "Eğitimin özgürlüğün ilk kaldıracı olduğu ilkesine tamamen katılıyorum.",
+      "Halk sağlığına yönelik bu bütüncül yaklaşıma tamamen katılıyorum.",
+      "Son iklim konferansında öne sürülen argümanlara tamamen katılıyorum."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Bu haklı bir nokta ama ...",
+    "translation": "That's a valid point, but ...",
+    "b1": [
+      "Bu haklı bir nokta ama bu çok pahalı.",
+      "Bu haklı bir nokta ama zamanım yok.",
+      "Bu haklı bir nokta ama dışarısı soğuk.",
+      "Bu haklı bir nokta ama ben çayı daha çok seviyorum.",
+      "Bu haklı bir nokta ama gitmemiz gerek."
+    ],
+    "b2": [
+      "Bu haklı bir nokta ama bunu hayata geçirmenin maliyetleri çok yüksek.",
+      "Bu haklı bir nokta ama bu çözüm her yerde aynı şekilde çalışmaz.",
+      "Bu haklı bir nokta ama sosyal etkisini de hesaba katmak gerekir.",
+      "Bu haklı bir nokta ama süreler çok kısa.",
+      "Bu haklı bir nokta ama müşteriler bundan memnun olmayabilir."
+    ],
+    "c1": [
+      "Bu haklı bir nokta ama meselenin temelindeki boyutu es geçiyor.",
+      "Bu haklı bir nokta ama günümüz için geçerliliğini yitirmiş verilere dayanıyor.",
+      "Bu haklı bir nokta ama böyle bir önlemin siyasi açıdan uygulanabilirliği henüz kanıtlanmadı.",
+      "Bu haklı bir nokta ama bu, sistemdeki aksaklığın kök nedenini hiçbir şekilde çözmüyor.",
+      "Bu haklı bir nokta ama varılan hakemlik kararı bir miktar dengesiz görünüyor."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "... konusunda farklı düşünüyorum",
+    "translation": "I beg to differ on ...",
+    "b1": [
+      "Fiyat konusunda farklı düşünüyorum.",
+      "Renk konusunda farklı düşünüyorum.",
+      "Bu seçim konusunda farklı düşünüyorum.",
+      "Buluşma günü konusunda farklı düşünüyorum.",
+      "Müzik konusunda farklı düşünüyorum."
+    ],
+    "b2": [
+      "Sonuçların yorumlanması konusunda farklı düşünüyorum.",
+      "Bu başarısızlığın nedenleri konusunda farklı düşünüyorum.",
+      "Bu projenin öncelikleri konusunda farklı düşünüyorum.",
+      "Bu eğitim metodunun etkililiği konusunda farklı düşünüyorum.",
+      "Bu ürünün çevreye olan etkisi konusunda farklı düşünüyorum."
+    ],
+    "c1": [
+      "Sizin muhakemenizin ön kabulleri konusunda farklı düşünüyorum.",
+      "Bu makroekonomik göstergenin geçerliliği konusunda farklı düşünüyorum.",
+      "Sizin duruma yönelik kötümser bakış açınız konusunda farklı düşünüyorum.",
+      "Bu araştırmadan çıkarılan aceleci sonuçlar konusunda farklı düşünüyorum.",
+      "Uluslararası arenadaki bu müdahalenin meşruiyeti konusunda farklı düşünüyorum."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "... anlasam da yine de ... olduğunu düşünüyorum",
+    "translation": "While I understand that ..., I still feel ...",
+    "b1": [
+      "Senin meşgul olduğunu anlasam da yine de gelmen gerektiğini düşünüyorum.",
+      "Bunun zor olduğunu anlasam da yine de bunun mümkün olduğunu düşünüyorum.",
+      "Bu kahveyi sevdiğini anlasam da yine de çok pahalı olduğunu düşünüyorum.",
+      "Yorulduğunu anlasam da yine de bunu bitirmemiz gerektiğini düşünüyorum.",
+      "Koşmayı sevmediğini anlasam da yine de bunun sağlık için faydalı olduğunu düşünüyorum."
+    ],
+    "b2": [
+      "Bütçenin kısıtlı olduğunu anlasam da yine de kalitenin birinci öncelik olduğunu düşünüyorum.",
+      "Değişikliklerin korkutucu olduğunu anlasam da yine de gerekli olduklarını düşünüyorum.",
+      "Bu kuralın sert olduğunu anlasam da yine de adil olduğunu düşünüyorum.",
+      "Şüphe duyduğunuzu anlasam da yine de bunun uygun bir an olduğunu düşünüyorum.",
+      "Teknolojinin yardımcı olduğunu anlasam da yine de insanın odak noktasında kaldığını düşünüyorum."
+    ],
+    "c1": [
+      "Ekonomik taleplerin acil olduğunu anlasam da yine de etiğin kurban edilmemesi gerektiğini düşünüyorum.",
+      "Ortak bir uzlaşıya varmanın zor olduğunu anlasam da yine de eylemsizliğin daha pahalıya mal olacağını düşünüyorum.",
+      "Bu reformun popüler olmadığını anlasam da yine de yapısal açıdan son derece gerekli olduğunu düşünüyorum.",
+      "Verilerin karmaşık olduğunu anlasam da yine de genel eğilimin açık olduğunu düşünüyorum.",
+      "Sıfır risk diye bir şeyin olmadığını anlasam da yine de ihtiyat ilkesinin uygulanması gerektiğini düşünüyorum."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Tüm saygımla, ...",
+    "translation": "With all due respect, ...",
+    "b1": [
+      "Tüm saygımla, ben katılmıyorum.",
+      "Tüm saygımla, siz bir detayı unuttunuz.",
+      "Tüm saygımla, bu benim sıram.",
+      "Tüm saygımla, bu benim söylediğim şey değil.",
+      "Tüm saygımla, ben bunu başka şekilde yapmayı tercih ederim."
+    ],
+    "b2": [
+      "Tüm saygımla, bu karar biraz aceleyle alınmış gibi görünüyor.",
+      "Tüm saygımla, sizin rakamlarınız gerçek durumla uyuşmuyor.",
+      "Tüm saygımla, yanıldığınızı düşünüyorum.",
+      "Tüm saygımla, bu yöntem biraz eskimiş.",
+      "Tüm saygımla, biz bu şartları kabul edemeyiz."
+    ],
+    "c1": [
+      "Tüm saygımla, sizin analiziniz çok önemli değişkenleri göz ardı ediyor.",
+      "Tüm saygımla, burada kullanılan retorik popülizme çok yakın.",
+      "Tüm saygımla, bu davanın yürütülmesinde ciddi noksanlıklar meydana geldi.",
+      "Tüm saygımla, metinleri bu şekilde yorumlamak hukuken oldukça zayıf görünüyor.",
+      "Tüm saygımla, böylesi otoriter bir yönelimi desteklemek hiçbir şekilde mümkün değildir."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "... konusunda pek emin değilim",
+    "translation": "I'm not entirely sure about ...",
+    "b1": [
+      "Saat konusunda pek emin değilim.",
+      "Senin ismin konusunda pek emin değilim.",
+      "Adres konusunda pek emin değilim.",
+      "Gitmek istediğim konusunda pek emin değilim.",
+      "Fiyatı konusunda pek emin değilim."
+    ],
+    "b2": [
+      "Bu ilacın etkililiği konusunda pek emin değilim.",
+      "Sizin niyetinizi anladığım konusunda pek emin değilim.",
+      "Bunun en iyi çözüm olduğu konusunda pek emin değilim.",
+      "Bu kaynakların güvenilirliği konusunda pek emin değilim.",
+      "Son sonuç konusunda pek emin değilim."
+    ],
+    "c1": [
+      "Bu yaklaşımın epistemolojik geçerliliği konusunda pek emin değilim.",
+      "Ekonomik getirinin böyle bir yatırımı aklayacağı konusunda pek emin değilim.",
+      "Mevcut bağlamda bu ilkenin doğruluğu konusunda pek emin değilim.",
+      "Böyle bir tartışmada tarafsızlık korumanın mümkün olduğu konusunda pek emin değilim.",
+      "Mevcut tedbirlerin olumsuz sonuçları önlemek için yeterli olduğu konusunda pek emin değilim."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "... konusunu biraz daha açabilir misiniz?",
+    "translation": "Could you elaborate on ...?",
+    "b1": [
+      "Bu mesele konusunu biraz daha açabilir misiniz?",
+      "Kendi fikriniz konusunu biraz daha açabilir misiniz?",
+      "Kendi projeniz konusunu biraz daha açabilir misiniz?",
+      "Bu kelime konusunu biraz daha açabilir misiniz?",
+      "Kendi aileniz konusunu biraz daha açabilir misiniz?"
+    ],
+    "b2": [
+      "Bu yöntemin avantajları konusunu biraz daha açabilir misiniz?",
+      "Bu seçimin sonuçları konusunu biraz daha açabilir misiniz?",
+      "Ürünün teknik yönleri konusunu biraz daha açabilir misiniz?",
+      "Uygulanacak pazarlama stratejisi konusunu biraz daha açabilir misiniz?",
+      "Seçme kriterleri konusunu biraz daha açabilir misiniz?"
+    ],
+    "c1": [
+      "Önerinizin etik sonuçları konusunu biraz daha açabilir misiniz?",
+      "Araştırmanızın teorik temelleri konusunu biraz daha açabilir misiniz?",
+      "Bu kavramın anlamsal incelikleri konusunu biraz daha açabilir misiniz?",
+      "Bu ekonomik modelin sürdürülebilirliği konusunu biraz daha açabilir misiniz?",
+      "Sizin bu iki değişken arasında kurduğunuz bağ konusunu biraz daha açabilir misiniz?"
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "... konusunda karışık hislere sahibim",
+    "translation": "I have mixed feelings about ...",
+    "b1": [
+      "Bu kitap konusunda karışık hislere sahibim.",
+      "Yeni işim konusunda karışık hislere sahibim.",
+      "Bu seyahat konusunda karışık hislere sahibim.",
+      "Bu müzik konusunda karışık hislere sahibim.",
+      "Şehir konusunda karışık hislere sahibim."
+    ],
+    "b2": [
+      "Yeni okul reformu konusunda karışık hislere sahibim.",
+      "Sosyal medyanın etkisi konusunda karışık hislere sahibim.",
+      "Bu iş birliği teklifi konusunda karışık hislere sahibim.",
+      "Bu bölgenin kalkınması konusunda karışık hislere sahibim.",
+      "Bu deneysel film konusunda karışık hislere sahibim."
+    ],
+    "c1": [
+      "Mevcut teknolojik hızlanma konusunda karışık hislere sahibim.",
+      "Devletin bu müdahalesinin meşruiyeti konusunda karışık hislere sahibim.",
+      "Bu sağlık krizinin yönetimi konusunda karışık hislere sahibim.",
+      "Yapay zekanın sanata yapacağı etki konusunda karışık hislere sahibim.",
+      "Son on yılın bilançosu konusunda karışık hislere sahibim."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "... konusunda anlaşamadığımızı kabul edelim",
+    "translation": "Let's agree to disagree on ...",
+    "b1": [
+      "Bu film konusunda anlaşamadığımızı kabul edelim.",
+      "Müzik konusunda anlaşamadığımızı kabul edelim.",
+      "Spor konusunda anlaşamadığımızı kabul edelim.",
+      "Bu restoran konusunda anlaşamadığımızı kabul edelim.",
+      "Renk konusunda anlaşamadığımızı kabul edelim."
+    ],
+    "b2": [
+      "Vergi politikası konusunda anlaşamadığımızı kabul edelim.",
+      "Projenin öncelikleri konusunda anlaşamadığımızı kabul edelim.",
+      "Veri analizi konusunda anlaşamadığımızı kabul edelim.",
+      "Meselenin kökeni konusunda anlaşamadığımızı kabul edelim.",
+      "Bu teknolojinin geleceği konusunda anlaşamadığımızı kabul edelim."
+    ],
+    "c1": [
+      "Bu önlemin ideolojik temelleri konusunda anlaşamadığımızı kabul edelim.",
+      "Bu istatistiksel verilerin yorumlanması konusunda anlaşamadığımızı kabul edelim.",
+      "Burada sunulan toplumsal ilerleme muhakemesi konusunda anlaşamadığımızı kabul edelim.",
+      "Bu etik ikilemin sonucu konusunda anlaşamadığımızı kabul edelim.",
+      "Ele alınan değerler hiyerarşisi konusunda anlaşamadığımızı kabul edelim."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "... durumunu düşündünüz mü?",
+    "translation": "Have you considered ...?",
+    "b1": [
+      "Bu seçeneği düşündünüz mü?",
+      "Fiyatı düşündünüz mü?",
+      "Fransa'ya gitmeyi düşündünüz mü?",
+      "Araba satın almayı düşündünüz mü?",
+      "Fikrinizi değiştirmeyi düşündünüz mü?"
+    ],
+    "b2": [
+      "Kararınızın uzun vadeli sonuçları durumunu düşündünüz mü?",
+      "Bu konuda uzmanların görüşü durumunu düşündünüz mü?",
+      "Kendi projeniz için daha ekolojik bir yaklaşım durumunu düşündünüz mü?",
+      "Kullanıcıların gerçek ihtiyaçları durumunu düşündünüz mü?",
+      "Başarısızlık olabileceği durumunu düşündünüz mü?"
+    ],
+    "c1": [
+      "Bu endüstriyel modelin olumsuz dışsallıkları durumunu düşündünüz mü?",
+      "Bu kentsel dönüşümün toplumsal etkisi durumunu düşündünüz mü?",
+      "Bu anlaşmanın temelinde yatan jeopolitik çıkarlar durumunu düşündünüz mü?",
+      "İklim değişikliğine karşı altyapıların kırılganlığı durumunu düşündünüz mü?",
+      "Tüketici davranışlarının psikolojik boyutu durumunu düşündünüz mü?"
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Bu her zaman böyle değildir çünkü ...",
+    "translation": "That's not always the case because ...",
+    "b1": [
+      "Bu her zaman böyle değildir çünkü bu zor.",
+      "Bu her zaman böyle değildir çünkü insanlar değişir.",
+      "Bu her zaman böyle değildir çünkü dışarısı soğuk.",
+      "Bu her zaman böyle değildir çünkü bu pahalı.",
+      "Bu her zaman böyle değildir çünkü ben meşgulüm."
+    ],
+    "b2": [
+      "Bu her zaman böyle değildir çünkü her durum özeldir.",
+      "Bu her zaman böyle değildir çünkü kurallar değişebilir.",
+      "Bu her zaman böyle değildir çünkü tahminler bazen yanıltıcı olur.",
+      "Bu her zaman böyle değildir çünkü teknolojiler çok hızlı gelişiyor.",
+      "Bu her zaman böyle değildir çünkü kamuoyu istikrarsızdır."
+    ],
+    "c1": [
+      "Bu her zaman böyle değildir çünkü toplumsal belirlenimcilik belirleyici bir rol oynar.",
+      "Bu her zaman böyle değildir çünkü sistemik etkileşimleri önceden kestirmek imkansızdır.",
+      "Bu her zaman böyle değildir çünkü bireysel öznellik algıyı değiştirir.",
+      "Bu her zaman böyle değildir çünkü tarihsel bağlamlar kökten farklılık gösterir.",
+      "Bu her zaman böyle değildir çünkü denetleme mekanizmaları bazen devre dışı kalır."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Durumu ... olarak görüyorum",
+    "translation": "I see things ...",
+    "b1": [
+      "Durumu farklı olarak görüyorum.",
+      "Durumu iyi bir şekilde görüyorum.",
+      "Durumu basit bir şekilde görüyorum.",
+      "Durumu tam olarak böyle görüyorum.",
+      "Durumu başka bir yönden görüyorum."
+    ],
+    "b2": [
+      "Gelecek yıla ilişkin durumu oldukça iyimser olarak görüyorum.",
+      "Sizin açıklamalarınız sayesinde durumu yeni bir açıdan görüyorum.",
+      "Detaylara takılmayıp durumu bütünüyle görüyorum.",
+      "Şimdilik durumu büyük bir ihtiyatla görüyorum.",
+      "Durumu her şeyden önce pragmatik olarak görüyorum."
+    ],
+    "c1": [
+      "Durumu günümüz sosyolojisinin prizmasından görüyorum.",
+      "Çelişkileri karşı karşıya getirerek durumu diyalektik olarak görüyorum.",
+      "Durumu karamsarlıkla karışık belirli bir berraklıkla görüyorum.",
+      "Durumu uzun vadeli tarihsel perspektif açısından görüyorum.",
+      "Durumu temel önceliklerimizi yeniden tanımlama fırsatı olarak görüyorum."
+    ]
+  }
+]

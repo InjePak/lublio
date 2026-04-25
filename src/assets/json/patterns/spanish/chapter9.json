@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Cada mañana, generalmente ...",
+    "translation": "Every morning, I usually ...",
+    "b1": [
+      "Cada mañana, generalmente hago mi cama.",
+      "Cada mañana, generalmente hago un poco de deporte.",
+      "Cada mañana, generalmente preparo café.",
+      "Cada mañana, generalmente salgo a pasear con mi perro.",
+      "Cada mañana, generalmente hago mis deberes de español."
+    ],
+    "b2": [
+      "Cada mañana, generalmente hago una sesión de meditación para mantener la calma.",
+      "Cada mañana, generalmente reviso mis correos electrónicos profesionales.",
+      "Cada mañana, generalmente elaboro una lista de mis objetivos prioritarios.",
+      "Cada mañana, generalmente hago unos estiramientos para despertar el cuerpo.",
+      "Cada mañana, generalmente repaso rápidamente la actualidad mundial."
+    ],
+    "c1": [
+      "Cada mañana, generalmente realizo un análisis retrospectivo de mi rendimiento del día anterior.",
+      "Cada mañana, generalmente demuestro disciplina practicando la visualización creativa.",
+      "Cada mañana, generalmente reviso los indicadores clave de rendimiento de mi equipo.",
+      "Cada mañana, generalmente llevo a cabo una vigilancia estratégica exhaustiva de mi sector de actividad.",
+      "Cada mañana, generalmente hago un esfuerzo consciente por desconectarme de las redes sociales."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Tiendo a ... cuando ...",
+    "translation": "I tend to ... when ...",
+    "b1": [
+      "Tiendo a comer chocolate cuando estoy triste.",
+      "Tiendo a dormir mucho cuando estoy cansado.",
+      "Tiendo a cantar cuando estoy en la ducha.",
+      "Tiendo a hablar rápido cuando estoy nervioso.",
+      "Tiendo a leer un libro cuando llueve fuera."
+    ],
+    "b2": [
+      "Tiendo a procrastinar cuando la tarea es demasiado compleja.",
+      "Tiendo a perder la paciencia cuando la gente no llega a tiempo.",
+      "Tiendo a revisar mis mensajes cuando me aburro en una reunión.",
+      "Tiendo a cometer errores cuando trabajo con mucho ruido.",
+      "Tiendo a aislarme cuando necesito reflexionar en serio."
+    ],
+    "c1": [
+      "Tiendo a priorizar el análisis racional cuando me enfrento a una crisis.",
+      "Tiendo a cuestionar el statu quo cuando los resultados se estancan.",
+      "Tiendo a adoptar una postura defensiva cuando se tambalean mis convicciones.",
+      "Tiendo a sobreestimar mi capacidad de trabajo cuando me apasiona un proyecto.",
+      "Tiendo a pasar por alto los detalles técnicos cuando me concentro en la visión global."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Por norma general, nunca ...",
+    "translation": "As a rule, I never ...",
+    "b1": [
+      "Por norma general, nunca como carne.",
+      "Por norma general, nunca veo la televisión por la mañana.",
+      "Por norma general, nunca salgo sin mi teléfono.",
+      "Por norma general, nunca bebo refrescos.",
+      "Por norma general, nunca me duermo después de medianoche."
+    ],
+    "b2": [
+      "Por norma general, nunca tomo decisiones importantes cuando estoy enfadado.",
+      "Por norma general, nunca falto a mis sesiones de deporte semanales.",
+      "Por norma general, nunca contesto llamadas desconocidas por la noche.",
+      "Por norma general, nunca comienzo un nuevo proyecto sin un plan claro.",
+      "Por norma general, nunca comparto información confidencial en internet."
+    ],
+    "c1": [
+      "Por norma general, nunca transijo en mis principios éticos fundamentales.",
+      "Por norma general, nunca delego una tarea sin haber verificado las competencias requeridas.",
+      "Por norma general, nunca reacciono de forma impulsiva ante las fluctuaciones del mercado financiero.",
+      "Por norma general, nunca descuido el impacto psicológico de mis palabras en mis subordinados.",
+      "Por norma general, nunca valido un contrato sin el dictamen previo de mi asesor jurídico."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Me empeño en ... al menos una vez al día.",
+    "translation": "I make it a point to ... at least once a day.",
+    "b1": [
+      "Me empeño en leer al menos una vez al día.",
+      "Me empeño en llamar a mi madre al menos una vez al día.",
+      "Me empeño en beber agua al menos una vez al día.",
+      "Me empeño en cocinar al menos una vez al día.",
+      "Me empeño en caminar al menos una vez al día."
+    ],
+    "b2": [
+      "Me empeño en aprender una palabra nueva al menos una vez al día.",
+      "Me empeño en agradecer algo a alguien al menos una vez al día.",
+      "Me empeño en ordenar mi escritorio al menos una vez al día.",
+      "Me empeño en practicar una lengua extranjera al menos una vez al día.",
+      "Me empeño en dedicarme tiempo a mí mismo al menos una vez al día."
+    ],
+    "c1": [
+      "Me empeño en estimular mi curiosidad intelectual al menos una vez al día.",
+      "Me empeño en salir de mi zona de confort al menos una vez al día.",
+      "Me empeño en cultivar mi red profesional al menos una vez al día.",
+      "Me empeño en reevaluar mis prioridades estratégicas al menos una vez al día.",
+      "Me empeño en practicar la gratitud para mantener mi equilibrio mental al menos una vez al día."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Antes que nada, siempre ...",
+    "translation": "Before anything else, I always ...",
+    "b1": [
+      "Antes que nada, siempre me lavo las manos.",
+      "Antes que nada, siempre bebo un vaso de agua.",
+      "Antes que nada, siempre saludo a mis compañeros.",
+      "Antes que nada, siempre compruebo el tiempo.",
+      "Antes que nada, siempre busco mis llaves."
+    ],
+    "b2": [
+      "Antes que nada, siempre preparo mi ropa para el día siguiente.",
+      "Antes que nada, siempre compruebo que todas las puertas estén cerradas.",
+      "Antes que nada, siempre defino las tres tareas más importantes del día.",
+      "Antes que nada, siempre me tomo un momento para respirar profundamente.",
+      "Antes que nada, siempre me aseguro de que mi ordenador esté bien cargado."
+    ],
+    "c1": [
+      "Antes que nada, siempre consulto los últimos indicadores de rendimiento.",
+      "Antes que nada, siempre me intereso por el bienestar de mis colaboradores.",
+      "Antes que nada, siempre llevo a cabo un análisis de los riesgos potenciales del proyecto.",
+      "Antes que nada, siempre me aseguro de la coherencia de mis acciones con la estrategia global.",
+      "Antes que nada, siempre verifico la exactitud de las fuentes de información de que dispongo."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "He adquirido el hábito de ...",
+    "translation": "I've gotten into the habit of ...",
+    "b1": [
+      "He adquirido el hábito de comer fruta por la mañana.",
+      "He adquirido el hábito de ir andando al trabajo.",
+      "He adquirido el hábito de leer antes de dormir.",
+      "He adquirido el hábito de dar las gracias a menudo.",
+      "He adquirido el hábito de ordenar mis cosas."
+    ],
+    "b2": [
+      "He adquirido el hábito de anotar todas mis ideas en un cuaderno.",
+      "He adquirido el hábito de subir las escaleras en lugar de usar el ascensor.",
+      "He adquirido el hábito de beber té verde en lugar de café.",
+      "He adquirido el hábito de limitar mi tiempo en las redes sociales.",
+      "He adquirido el hábito de hacer una pausa de cinco minutos cada hora."
+    ],
+    "c1": [
+      "He adquirido el hábito de anticipar las objeciones de mis interlocutores.",
+      "He adquirido el hábito de priorizar la calidad sobre la cantidad en mis relaciones.",
+      "He adquirido el hábito de realizar una vigilancia tecnológica rigurosa cada fin de semana.",
+      "He adquirido el hábito de deconstruir mis propios sesgos cognitivos en la toma de decisiones.",
+      "He adquirido el hábito de traducir mis objetivos abstractos en acciones concretas y medibles."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Mi rutina habitualmente implica ...",
+    "translation": "My routine typically involves ...",
+    "b1": [
+      "Mi rutina habitualmente implica un desayuno abundante.",
+      "Mi rutina habitualmente implica dos horas de clase.",
+      "Mi rutina habitualmente implica una ducha rápida.",
+      "Mi rutina habitualmente implica ver las noticias.",
+      "Mi rutina habitualmente implica llamar a mis amigos."
+    ],
+    "b2": [
+      "Mi rutina habitualmente implica una sesión intensa de yoga.",
+      "Mi rutina habitualmente implica preparar mi almuerzo para la oficina.",
+      "Mi rutina habitualmente implica una hora de lectura especializada.",
+      "Mi rutina habitualmente implica actualizar mi calendario compartido.",
+      "Mi rutina habitualmente implica ejercicios de respiración para gestionar el estrés."
+    ],
+    "c1": [
+      "Mi rutina habitualmente implica una auditoría sistemática de mis flujos financieros.",
+      "Mi rutina habitualmente implica una fase de ideación creativa sin interrupciones digitales.",
+      "Mi rutina habitualmente implica la mentoría de mis colaboradores más jóvenes.",
+      "Mi rutina habitualmente implica el mantenimiento preventivo de mis herramientas de producción.",
+      "Mi rutina habitualmente implica una evaluación crítica de los procesos operativos en curso."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "La mayoría de las noches, me encuentro ...",
+    "translation": "Most evenings, I find myself ...",
+    "b1": [
+      "La mayoría de las noches, me encuentro viendo una película.",
+      "La mayoría de las noches, me encuentro cocinando para el día siguiente.",
+      "La mayoría de las noches, me encuentro hablando con mi hermana.",
+      "La mayoría de las noches, me encuentro escuchando música.",
+      "La mayoría de las noches, me encuentro jugando a videojuegos."
+    ],
+    "b2": [
+      "La mayoría de las noches, me encuentro organizando mi agenda.",
+      "La mayoría de las noches, me encuentro haciendo deporte para desestresarme.",
+      "La mayoría de las noches, me encuentro leyendo artículos de mi campo profesional.",
+      "La mayoría de las noches, me encuentro quedándome dormido con un libro de español.",
+      "La mayoría de las noches, me encuentro reflexionando sobre los errores cometidos durante el día."
+    ],
+    "c1": [
+      "La mayoría de las noches, me encuentro puliendo propuestas estratégicas complejas.",
+      "La mayoría de las noches, me encuentro analizando las tendencias emergentes de Silicon Valley.",
+      "La mayoría de las noches, me encuentro profundizando en mis conocimientos de filosofía política.",
+      "La mayoría de las noches, me encuentro moderando foros de debate especializados en línea.",
+      "La mayoría de las noches, me encuentro estructurando mi pensamiento para la conferencia del día siguiente."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Lo que hago a menudo es ...",
+    "translation": "What I often do is ...",
+    "b1": [
+      "Lo que hago a menudo es ir a la piscina.",
+      "Lo que hago a menudo es comer manzanas.",
+      "Lo que hago a menudo es escuchar pódcasts.",
+      "Lo que hago a menudo es ordenar mi habitación.",
+      "Lo que hago a menudo es salir con mis amigos."
+    ],
+    "b2": [
+      "Lo que hago a menudo es tomar notas mientras leo.",
+      "Lo que hago a menudo es preparar mis comidas con antelación para toda la semana.",
+      "Lo que hago a menudo es comparar precios antes de comprar cualquier cosa.",
+      "Lo que hago a menudo es ayudar a mis compañeros que tienen dificultades.",
+      "Lo que hago a menudo es pasear por el bosque para encontrar inspiración."
+    ],
+    "c1": [
+      "Lo que hago a menudo es cruzar datos procedentes de diferentes fuentes fiables.",
+      "Lo que hago a menudo es cuestionar las ideas preconcebidas dentro de la empresa.",
+      "Lo que hago a menudo es anticipar las necesidades latentes de mis clientes más exigentes.",
+      "Lo que hago a menudo es optimizar mis scripts para automatizar las tareas repetitivas.",
+      "Lo que hago a menudo es analizar el impacto social de nuestras decisiones a largo plazo."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Rara vez me salto el paso de ...",
+    "translation": "I rarely skip the step of ...",
+    "b1": [
+      "Rara vez me salto el paso del desayuno.",
+      "Rara vez me salto el paso del calentamiento antes del deporte.",
+      "Rara vez me salto el paso del repaso antes de un examen.",
+      "Rara vez me salto el paso del cepillado de dientes.",
+      "Rara vez me salto el paso de la lectura nocturna."
+    ],
+    "b2": [
+      "Rara vez me salto el paso de revisar mi cuenta bancaria.",
+      "Rara vez me salto el paso de releer mis correos antes de enviarlos.",
+      "Rara vez me salto el paso de desmaquillarme antes de dormir.",
+      "Rara vez me salto el paso del balance semanal el domingo por la noche.",
+      "Rara vez me salto el paso de hidratarme después de una sesión de entrenamiento."
+    ],
+    "c1": [
+      "Rara vez me salto el paso de la auditoría de seguridad en mis servidores personales.",
+      "Rara vez me salto el paso del diagnóstico inicial antes de proponer una solución.",
+      "Rara vez me salto el paso de la consulta con las partes interesadas del proyecto.",
+      "Rara vez me salto el paso de la verificación de la conformidad legal de los documentos.",
+      "Rara vez me salto el paso de la contextualización histórica de la situación actual."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Es un ritual diario para mí ...",
+    "translation": "It's a daily ritual for me to ...",
+    "b1": [
+      "Es un ritual diario para mí tomar un té.",
+      "Es un ritual diario para mí mirar el cielo.",
+      "Es un ritual diario para mí saludar al vecino.",
+      "Es un ritual diario para mí escribir en mi diario.",
+      "Es un ritual diario para mí escuchar la radio."
+    ],
+    "b2": [
+      "Es un ritual diario para mí meditar durante quince minutos.",
+      "Es un ritual diario para mí hacer una lista de gratitud por la noche.",
+      "Es un ritual diario para mí regar mis plantas con cuidado.",
+      "Es un ritual diario para mí preparar mi café con una prensa francesa.",
+      "Es un ritual diario para mí leer un capítulo de un libro de no ficción."
+    ],
+    "c1": [
+      "Es un ritual diario para mí sintetizar los aprendizajes del día.",
+      "Es un ritual diario para mí cultivar una mentalidad orientada hacia la solución.",
+      "Es un ritual diario para mí practicar la atención plena durante mis desplazamientos.",
+      "Es un ritual diario para mí reevaluar la coherencia de mis acciones con mis valores.",
+      "Es un ritual diario para mí informarme sobre los últimos avances científicos."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Habitualmente continúo eso con ...",
+    "translation": "I usually follow that up with ...",
+    "b1": [
+      "Habitualmente continúo eso con un gran vaso de zumo.",
+      "Habitualmente continúo eso con mis deberes.",
+      "Habitualmente continúo eso con una siesta.",
+      "Habitualmente continúo eso con un videojuego.",
+      "Habitualmente continúo eso con un paseo."
+    ],
+    "b2": [
+      "Habitualmente continúo eso con una sesión intensa de escritura.",
+      "Habitualmente continúo eso con la respuesta a los comentarios de mis clientes.",
+      "Habitualmente continúo eso con la escucha de un pódcast educativo.",
+      "Habitualmente continúo eso con una ducha fría para activarme.",
+      "Habitualmente continúo eso con la planificación de mi jornada del día siguiente."
+    ],
+    "c1": [
+      "Habitualmente continúo eso con un análisis comparativo de los resultados obtenidos.",
+      "Habitualmente continúo eso con una sesión de lluvia de ideas con mi equipo creativo.",
+      "Habitualmente continúo eso con la redacción de un informe de síntesis detallado.",
+      "Habitualmente continúo eso con una vigilancia informativa sobre los mercados bursátiles.",
+      "Habitualmente continúo eso con una reflexión sobre la optimización de nuestros procesos de gestión."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Sin falta, cada ...",
+    "translation": "Without fail, every ...",
+    "b1": [
+      "Sin falta, cada mañana, bebo leche.",
+      "Sin falta, cada domingo, visito a mi abuela.",
+      "Sin falta, cada noche, cierro las ventanas.",
+      "Sin falta, cada lunes, voy al gimnasio.",
+      "Sin falta, cada verano, me voy a la playa."
+    ],
+    "b2": [
+      "Sin falta, cada principio de mes, reviso mis cuentas personales.",
+      "Sin falta, cada viernes, organizamos un almuerzo de equipo.",
+      "Sin falta, cada noche antes de dormir, pongo a cargar el teléfono.",
+      "Sin falta, cada día de lluvia, cojo mi paraguas amarillo.",
+      "Sin falta, cada cumpleaños, escribo una carta a mi yo futuro."
+    ],
+    "c1": [
+      "Sin falta, cada trimestre, procedemos a una revisión presupuestaria.",
+      "Sin falta, cada cierre de ejercicio, evalúo mis objetivos de crecimiento.",
+      "Sin falta, cada reunión directiva, presento un informe de transparencia.",
+      "Sin falta, cada nuevo proyecto, realizamos una prueba de vulnerabilidad.",
+      "Sin falta, cada crisis que surge, organizamos una sesión de análisis retrospectivo."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Constantemente intento recordar ...",
+    "translation": "I'm constantly trying to remember to ...",
+    "b1": [
+      "Constantemente intento recordar mis llaves.",
+      "Constantemente intento recordar tu nombre.",
+      "Constantemente intento recordar hacer mis deberes.",
+      "Constantemente intento recordar beber agua.",
+      "Constantemente intento recordar la hora del autobús."
+    ],
+    "b2": [
+      "Constantemente intento recordar mantenerme positivo a pesar de los obstáculos.",
+      "Constantemente intento recordar apagar las luces al salir.",
+      "Constantemente intento recordar las fechas de cumpleaños de mis amigos.",
+      "Constantemente intento recordar tomar mis vitaminas cada mañana.",
+      "Constantemente intento recordar usar mi bolsa reutilizable para la compra."
+    ],
+    "c1": [
+      "Constantemente intento recordar el aspecto ético de nuestras decisiones estratégicas.",
+      "Constantemente intento recordar las lecciones extraídas de mis fracasos pasados.",
+      "Constantemente intento recordar que la simplicidad es la máxima sofisticación.",
+      "Constantemente intento recordar reconocer el mérito de los miembros de mi equipo.",
+      "Constantemente intento recordar los matices culturales en nuestros intercambios internacionales."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Mi hábito se desarrolló porque ...",
+    "translation": "My habit developed because ...",
+    "b1": [
+      "Mi hábito se desarrolló porque mis padres lo hacían.",
+      "Mi hábito se desarrolló porque es bueno para mí.",
+      "Mi hábito se desarrolló porque quiero estar fuerte.",
+      "Mi hábito se desarrolló porque me gusta el sabor.",
+      "Mi hábito se desarrolló porque tengo tiempo."
+    ],
+    "b2": [
+      "Mi hábito se desarrolló porque necesitaba organizarme mejor.",
+      "Mi hábito se desarrolló porque quería reducir mi nivel de estrés.",
+      "Mi hábito se desarrolló porque leí un libro sobre productividad.",
+      "Mi hábito se desarrolló porque cambiaron mis horarios de trabajo.",
+      "Mi hábito se desarrolló porque quería ahorrar dinero."
+    ],
+    "c1": [
+      "Mi hábito se desarrolló porque identifiqué una laguna en mi sistema de gestión.",
+      "Mi hábito se desarrolló porque aspiro a una disciplina personal rigurosa.",
+      "Mi hábito se desarrolló porque el entorno competitivo lo exigía de forma imperativa.",
+      "Mi hábito se desarrolló porque deseo minimizar mi huella de carbono en el día a día.",
+      "Mi hábito se desarrolló porque estoy convencido de la importancia del aprendizaje continuo."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Habitualmente reservo tiempo para ...",
+    "translation": "I usually allocate time for ...",
+    "b1": [
+      "Habitualmente reservo tiempo para mis aficiones.",
+      "Habitualmente reservo tiempo para ver a mi familia.",
+      "Habitualmente reservo tiempo para leer cómics.",
+      "Habitualmente reservo tiempo para ordenar mi casa.",
+      "Habitualmente reservo tiempo para dormir."
+    ],
+    "b2": [
+      "Habitualmente reservo tiempo para hacer voluntariado en mi barrio.",
+      "Habitualmente reservo tiempo para aprender nuevas competencias técnicas.",
+      "Habitualmente reservo tiempo para planificar mis menús de la semana.",
+      "Habitualmente reservo tiempo para meditar y centrarme.",
+      "Habitualmente reservo tiempo para hablar en privado con mis compañeros."
+    ],
+    "c1": [
+      "Habitualmente reservo tiempo para una introspección profunda a finales de cada mes.",
+      "Habitualmente reservo tiempo para el análisis de las señales débiles del mercado.",
+      "Habitualmente reservo tiempo para la redacción de publicaciones científicas.",
+      "Habitualmente reservo tiempo para asesorar de forma voluntaria a jóvenes emprendedores.",
+      "Habitualmente reservo tiempo para el estudio en profundidad de los retos de la ciberseguridad."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Se ha convertido en algo instintivo para mí ...",
+    "translation": "It's become second nature to me to ...",
+    "b1": [
+      "Se ha convertido en algo instintivo para mí pedir perdón.",
+      "Se ha convertido en algo instintivo para mí sonreír a la gente.",
+      "Se ha convertido en algo instintivo para mí caminar rápido.",
+      "Se ha convertido en algo instintivo para mí cantar mientras cocino.",
+      "Se ha convertido en algo instintivo para mí leer en cualquier lugar."
+    ],
+    "b2": [
+      "Se ha convertido en algo instintivo para mí reciclar todos mis residuos.",
+      "Se ha convertido en algo instintivo para mí verificar mis fuentes de información.",
+      "Se ha convertido en algo instintivo para mí levantarme en cuanto suena el despertador.",
+      "Se ha convertido en algo instintivo para mí tomar notas en las reuniones.",
+      "Se ha convertido en algo instintivo para mí ahorrar agua en la ducha."
+    ],
+    "c1": [
+      "Se ha convertido en algo instintivo para mí anticipar los riesgos sistémicos.",
+      "Se ha convertido en algo instintivo para mí cultivar una red de mentores de alto nivel.",
+      "Se ha convertido en algo instintivo para mí sintetizar información compleja.",
+      "Se ha convertido en algo instintivo para mí practicar una escucha empática y activa.",
+      "Se ha convertido en algo instintivo para mí cuestionar mis certezas profesionales."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Mi jornada laboral típica comienza con ...",
+    "translation": "My typical workday starts with ...",
+    "b1": [
+      "Mi jornada laboral típica comienza con dar los buenos días.",
+      "Mi jornada laboral típica comienza con encender el ordenador.",
+      "Mi jornada laboral típica comienza con beber un zumo.",
+      "Mi jornada laboral típica comienza con revisar mi agenda.",
+      "Mi jornada laboral típica comienza con un café."
+    ],
+    "b2": [
+      "Mi jornada laboral típica comienza con una breve reunión de equipo.",
+      "Mi jornada laboral típica comienza con la clasificación de mis mensajes urgentes.",
+      "Mi jornada laboral típica comienza con la actualización de mis archivos de seguimiento.",
+      "Mi jornada laboral típica comienza con la comprobación del stock de mercancías.",
+      "Mi jornada laboral típica comienza con una llamada con nuestros socios extranjeros."
+    ],
+    "c1": [
+      "Mi jornada laboral típica comienza con el análisis de los cuadros de mando financieros.",
+      "Mi jornada laboral típica comienza con una sesión de trabajo en modo 'deep work'.",
+      "Mi jornada laboral típica comienza con una revisión de la prensa económica internacional.",
+      "Mi jornada laboral típica comienza con el tratamiento de los expedientes jurídicos prioritarios.",
+      "Mi jornada laboral típica comienza con una reflexión estratégica sobre nuestros objetivos a largo plazo."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Intento evitar ... en la medida de lo posible.",
+    "translation": "I try to avoid ... as much as possible.",
+    "b1": [
+      "Intento evitar el azúcar en la medida de lo posible.",
+      "Intento evitar acostarme tarde en la medida de lo posible.",
+      "Intento evitar los atascos en la medida de lo posible.",
+      "Intento evitar las discusiones en la medida de lo posible.",
+      "Intento evitar la comida basura en la medida de lo posible."
+    ],
+    "b2": [
+      "Intento evitar el estrés innecesario en la medida de lo posible.",
+      "Intento evitar usar el coche para trayectos cortos en la medida de lo posible.",
+      "Intento evitar las distracciones digitales durante el trabajo en la medida de lo posible.",
+      "Intento evitar las compras impulsivas en la medida de lo posible.",
+      "Intento evitar juzgar a las personas sin conocerlas en la medida de lo posible."
+    ],
+    "c1": [
+      "Intento evitar cualquier forma de complacencia intelectual en la medida de lo posible.",
+      "Intento evitar los conflictos de intereses en mis proyectos en la medida de lo posible.",
+      "Intento evitar la microgestión con mis colaboradores en la medida de lo posible.",
+      "Intento evitar la dispersión estratégica de nuestros recursos en la medida de lo posible.",
+      "Intento evitar los sesgos de confirmación en mis investigaciones en la medida de lo posible."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Lo último que hago antes de ... es ...",
+    "translation": "The last thing I do before ... is ...",
+    "b1": [
+      "Lo último que hago antes de dormir es leer.",
+      "Lo último que hago antes de salir es coger mis llaves.",
+      "Lo último que hago antes de comer es lavarme las manos.",
+      "Lo último que hago antes de irme es apagar la luz.",
+      "Lo último que hago antes de viajar es comprobar mi pasaporte."
+    ],
+    "b2": [
+      "Lo último que hago antes de acostarme es poner el despertador.",
+      "Lo último que hago antes de una presentación es beber un poco de agua.",
+      "Lo último que hago antes de salir de la oficina es ordenar mi espacio.",
+      "Lo último que hago antes de cocinar es leer toda la receta.",
+      "Lo último que hago antes de un examen es respirar con calma."
+    ],
+    "c1": [
+      "Lo último que hago antes de finalizar un proyecto es realizar una prueba definitiva.",
+      "Lo último que hago antes de firmar un contrato es releer la letra pequeña.",
+      "Lo último que hago antes de una reunión estratégica es asegurarme del consenso.",
+      "Lo último que hago antes de irme de vacaciones es delegar mis responsabilidades.",
+      "Lo último que hago antes de tomar una decisión importante es consultar a mis mentores."
+    ]
+  }
+]

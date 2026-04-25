@@ -1,0 +1,298 @@
+{
+  "a0": [
+    {
+      "id": 1,
+      "title": "Bonjour, Enchantée!",
+      "translation": "안녕하세요, 만나서 반가워요!"
+    },
+    {
+      "id": 2,
+      "title": "Je suis développeur.",
+      "translation": "저는 개발자입니다."
+    },
+    { "id": 3, "title": "C'est combien?", "translation": "이것은 얼마인가요?" },
+    {
+      "id": 4,
+      "title": "Où est le Wi-Fi?",
+      "translation": "와이파이가 어디에 있나요?"
+    },
+    {
+      "id": 5,
+      "title": "Un café, s'il vous plaît.",
+      "translation": "커피 한 잔 주세요."
+    },
+    {
+      "id": 6,
+      "title": "J'habite à Paris.",
+      "translation": "저는 파리에 삽니다."
+    },
+    {
+      "id": 7,
+      "title": "Je ne comprends pas.",
+      "translation": "이해하지 못했어요."
+    },
+    {
+      "id": 8,
+      "title": "À gauche ou à droite?",
+      "translation": "왼쪽인가요, 오른쪽인가요?"
+    },
+    {
+      "id": 9,
+      "title": "Quel jour sommes-nous?",
+      "translation": "오늘이 무슨 요일인가요?"
+    },
+    {
+      "id": 10,
+      "title": "Merci, au revoir!",
+      "translation": "감사합니다, 안녕히 계세요!"
+    }
+  ],
+  "a1": [
+    {
+      "id": 1,
+      "title": "Je me présente.",
+      "translation": "제 소개를 하겠습니다."
+    },
+    {
+      "id": 2,
+      "title": "Qu'est-ce que tu fais?",
+      "translation": "너는 무엇을 하니?"
+    },
+    {
+      "id": 3,
+      "title": "Je prends un croissant.",
+      "translation": "저는 크로와상을 먹을게요."
+    },
+    {
+      "id": 4,
+      "title": "Je me lève à 8 heures.",
+      "translation": "저는 8시에 일어납니다."
+    },
+    {
+      "id": 5,
+      "title": "Il fait beau aujourd'hui.",
+      "translation": "오늘 날씨가 좋네요."
+    },
+    {
+      "id": 6,
+      "title": "C'est mon ordinateur.",
+      "translation": "이것은 제 컴퓨터입니다."
+    },
+    {
+      "id": 7,
+      "title": "Je vais voyager demain.",
+      "translation": "저는 내일 여행을 갈 거예요."
+    },
+    {
+      "id": 8,
+      "title": "Où est-ce que je peux acheter un billet?",
+      "translation": "어디에서 티켓을 살 수 있나요?"
+    },
+    {
+      "id": 9,
+      "title": "Je viens de finir mon travail.",
+      "translation": "방금 일을 마쳤어요."
+    },
+    {
+      "id": 10,
+      "title": "Qu'est-ce que vous portez?",
+      "translation": "당신은 무엇을 입고 있나요?"
+    },
+    {
+      "id": 11,
+      "title": "J'ai visité le Louvre.",
+      "translation": "루브르 박물관을 방문했어요."
+    },
+    {
+      "id": 12,
+      "title": "On va boire un verre?",
+      "translation": "우리 술 한잔하러 갈까요?"
+    }
+  ],
+  "a2": [
+    {
+      "id": 1,
+      "title": "Raconte-moi ton week-end.",
+      "translation": "네 주말이 어땠는지 이야기해 줘."
+    },
+    {
+      "id": 2,
+      "title": "Quand j'étais petit, j'aimais le sport.",
+      "translation": "어렸을 때 저는 운동을 좋아했어요."
+    },
+    {
+      "id": 3,
+      "title": "C'est le plus beau village!",
+      "translation": "정말 아름다운 마을이네요!"
+    },
+    {
+      "id": 4,
+      "title": "Qu'est-ce que tu en penses?",
+      "translation": "그것에 대해 어떻게 생각하니?"
+    },
+    {
+      "id": 5,
+      "title": "Je cherche un logement.",
+      "translation": "살 곳을 찾고 있어요."
+    },
+    {
+      "id": 6,
+      "title": "Il faut que je parte.",
+      "translation": "저는 이제 가봐야 해요."
+    },
+    {
+      "id": 7,
+      "title": "Si j'allais à la mer cet été?",
+      "translation": "이번 여름에 바다에 가면 어떨까요?"
+    },
+    {
+      "id": 8,
+      "title": "Je lui ai envoyé un mail.",
+      "translation": "그에게 이메일을 보냈어요."
+    },
+    {
+      "id": 9,
+      "title": "C’est l’endroit où je travaille.",
+      "translation": "이곳이 제가 일하는 곳입니다."
+    },
+    {
+      "id": 10,
+      "title": "Je ne me sens pas bien.",
+      "translation": "몸 상태가 좋지 않아요."
+    },
+    {
+      "id": 11,
+      "title": "On m'a dit que tu parlais français.",
+      "translation": "네가 프랑스어를 한다고 들었어."
+    },
+    {
+      "id": 12,
+      "title": "J'espère que tout ira bien.",
+      "translation": "모든 것이 잘 되길 바라요."
+    }
+  ],
+  "b1": [
+    {
+      "id": 1,
+      "title": "Je cherche un nouveau défi.",
+      "translation": "새로운 도전을 찾고 있습니다."
+    },
+    {
+      "id": 2,
+      "title": "Je ne crois pas que ce soit possible.",
+      "translation": "그것이 가능하다고 생각하지 않아요."
+    },
+    {
+      "id": 3,
+      "title": "Si j'avais su, j'aurais fait autrement.",
+      "translation": "알았더라면 다르게 했을 거예요."
+    },
+    {
+      "id": 4,
+      "title": "C'est une ville qui me plaît.",
+      "translation": "이곳은 마음에 드는 도시예요."
+    },
+    {
+      "id": 5,
+      "title": "Bien que ce soit difficile, je continue.",
+      "translation": "어렵지만 계속하고 있습니다."
+    },
+    {
+      "id": 6,
+      "title": "Il m'a demandé si j'étais prêt.",
+      "translation": "그는 나에게 준비됐는지 물었습니다."
+    },
+    {
+      "id": 7,
+      "title": "Ça a été créé par un artiste.",
+      "translation": "이것은 한 예술가에 의해 만들어졌습니다."
+    },
+    {
+      "id": 8,
+      "title": "Je voudrais qu'on en discute.",
+      "translation": "우리가 그것에 대해 논의했으면 해요."
+    },
+    {
+      "id": 9,
+      "title": "D'un côté, je pense que tu as raison.",
+      "translation": "한편으로는 네 말이 맞는 것 같아."
+    },
+    {
+      "id": 10,
+      "title": "Quoi qu'il arrive, j'irai.",
+      "translation": "무슨 일이 있어도 저는 가겠습니다."
+    },
+    {
+      "id": 11,
+      "title": "C'est ce dont j'ai besoin.",
+      "translation": "이것이 제가 필요한 것입니다."
+    },
+    {
+      "id": 12,
+      "title": "Je me suis adapté à la culture.",
+      "translation": "저는 이곳 문화에 적응했습니다."
+    }
+  ],
+  "b2": [
+    {
+      "id": 1,
+      "title": "Le télétravail change tout.",
+      "translation": "재택근무가 모든 것을 바꿉니다."
+    },
+    {
+      "id": 2,
+      "title": "Je crains que nous ne puissions pas venir.",
+      "translation": "우리가 갈 수 없을까 봐 걱정됩니다."
+    },
+    {
+      "id": 3,
+      "title": "Quelles que soient les critiques.",
+      "translation": "어떤 비판이 있더라도."
+    },
+    {
+      "id": 4,
+      "title": "Autant que je sache, il est là.",
+      "translation": "내가 아는 바로는 그는 여기 있어."
+    },
+    {
+      "id": 5,
+      "title": "Si seulement j’avais pu anticiper cela.",
+      "translation": "그것을 미리 예측할 수만 있었더라면."
+    },
+    {
+      "id": 6,
+      "title": "C'est inadmissible, car c'est injuste.",
+      "translation": "부당하기 때문에 이는 용납할 수 없습니다."
+    },
+    {
+      "id": 7,
+      "title": "Il est temps que l'on agisse.",
+      "translation": "이제 우리가 행동해야 할 때입니다."
+    },
+    {
+      "id": 8,
+      "title": "C'est ainsi que tout a commencé.",
+      "translation": "모든 것은 그렇게 시작되었습니다."
+    },
+    {
+      "id": 9,
+      "title": "Bien entendu, cela va de soi.",
+      "translation": "물론이죠, 그건 당연한 일입니다."
+    },
+    {
+      "id": 10,
+      "title": "On aurait dit un rêve.",
+      "translation": "마치 꿈만 같았어요."
+    },
+    {
+      "id": 11,
+      "title": "Pourriez-vous préciser votre pensée?",
+      "translation": "당신의 생각을 구체적으로 말씀해 주시겠어요?"
+    },
+    {
+      "id": 12,
+      "title": "Je me sens enfin chez moi.",
+      "translation": "이제야 비로소 내 집에 있는 것 같아요."
+    }
+  ]
+}

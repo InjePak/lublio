@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Zowel ... als ... zijn belangrijk omdat ...",
+    "translation": "Both ... and ... are important because ...",
+    "b1": [
+      "Zowel sport als voeding zijn belangrijk omdat ze goed zijn voor je gezondheid.",
+      "Zowel lezen als schrijven zijn belangrijk omdat we er veel van leren.",
+      "Zowel werk als rust zijn belangrijk omdat we evenwicht nodig hebben.",
+      "Zowel familie als vrienden zijn belangrijk omdat ze ons gelukkig maken.",
+      "Zowel zon als regen zijn belangrijk omdat de natuur ze nodig heeft."
+    ],
+    "b2": [
+      "Zowel theorie als praktijk zijn belangrijk omdat het een niet zonder het ander kan.",
+      "Zowel winst als ethiek zijn belangrijk omdat een bedrijf verantwoordelijk moet zijn.",
+      "Zowel creativiteit als discipline zijn belangrijk omdat ze leiden tot duurzaam succes.",
+      "Zowel veiligheid als vrijheid zijn belangrijk omdat ze onze samenleving definiëren.",
+      "Zowel het lokale als het globale zijn belangrijk omdat alles vandaag met elkaar verbonden is."
+    ],
+    "c1": [
+      "Zowel intuïtie als data-analyse zijn belangrijk omdat ze samen een volledige strategische visie vormen.",
+      "Zowel erfgoedpreservatie als technologische innovatie zijn belangrijk omdat ze culturele continuïteit waarborgen.",
+      "Zowel nationale soevereiniteit als internationale samenwerking zijn belangrijk omdat ze de wereldverhoudingen stabiliseren.",
+      "Zowel empathie als gezag zijn belangrijk omdat ze de grondslag vormen van effectief modern leiderschap.",
+      "Zowel wetenschappelijke strengheid als intellectuele durf zijn belangrijk omdat ze grote ontdekkingen mogelijk maken."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "In tegenstelling tot ..., echter, ...",
+    "translation": "Unlike ..., however, ...",
+    "b1": [
+      "In tegenstelling tot mijn broer, echter, hou ik niet van voetbal.",
+      "In tegenstelling tot gisteren, echter, is het vandaag heel mooi weer.",
+      "In tegenstelling tot Parijs, echter, is mijn stad heel rustig.",
+      "In tegenstelling tot de bus, echter, is de trein heel snel.",
+      "In tegenstelling tot jou, echter, geef ik de voorkeur aan thee boven koffie."
+    ],
+    "b2": [
+      "In tegenstelling tot wat men denkt, echter, is dit project zeer winstgevend.",
+      "In tegenstelling tot Frankrijk, echter, heeft Duitsland een federale structuur.",
+      "In tegenstelling tot de voorspellingen, echter, is de inflatie deze maand gedaald.",
+      "In tegenstelling tot het oude model, echter, verbruikt dit exemplaar minder energie.",
+      "In tegenstelling tot haar collega's, echter, werkt zij vaak laat op de avond."
+    ],
+    "c1": [
+      "In tegenstelling tot de gebruikelijke retoriek, echter, tonen de feiten een veel genuanceerdere werkelijkheid.",
+      "In tegenstelling tot de gangbare opvattingen over globalisering, echter, zien we een relocalisering van bepaalde industrieën.",
+      "In tegenstelling tot de puur kwantitatieve aanpak, echter, geeft ons onderzoek de voorkeur aan een diepgaande kwalitatieve analyse.",
+      "In tegenstelling tot de verwachtingen van de markt, echter, heeft het bedrijf besloten dit jaar geen dividend uit te keren.",
+      "In tegenstelling tot een lineaire visie op vooruitgang, echter, leert de geschiedenis ons dat regressie altijd mogelijk is."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Het belangrijkste verschil tussen ... en ... is dat ...",
+    "translation": "The main difference between ... and ... is that ...",
+    "b1": [
+      "Het belangrijkste verschil tussen een hond en een kat is dat een hond socialer is.",
+      "Het belangrijkste verschil tussen zomer en winter is dat het warmer is in de zomer.",
+      "Het belangrijkste verschil tussen dit boek en de film is dat het boek langer is.",
+      "Het belangrijkste verschil tussen het vliegtuig en de bus is dat het vliegtuig duurder is.",
+      "Het belangrijkste verschil tussen mij en jou is dat ik groter ben."
+    ],
+    "b2": [
+      "Het belangrijkste verschil tussen deze twee strategieën is dat de ene riskanter is dan de andere.",
+      "Het belangrijkste verschil tussen loondienst en ondernemerschap is het niveau van financiële zekerheid.",
+      "Het belangrijkste verschil tussen 4G en 5G is de snelheid van gegevensoverdracht.",
+      "Het belangrijkste verschil tussen deze twee kandidaten is hun internationale ervaring.",
+      "Het belangrijkste verschil tussen biologisch en conventioneel is het gebruik van chemische pesticiden."
+    ],
+    "c1": [
+      "Het belangrijkste verschil tussen het burgerlijk recht en de common law is de primaire bron van de rechtsregel.",
+      "Het belangrijkste verschil tussen kunstmatige en menselijke intelligentie ligt in het vermogen tot abstractie.",
+      "Het belangrijkste verschil tussen deze twee governancemodellen is de mate van decentralisering van de macht.",
+      "Het belangrijkste verschil tussen economische groei en duurzame ontwikkeling is de erkenning van de eindigheid van hulpbronnen.",
+      "Het belangrijkste verschil tussen deze twee denkstromingen is hun opvatting over de vrije wil tegenover sociaal determinisme."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "... is vergelijkbaar met ... in die zin dat ...",
+    "translation": "... is similar to ... in that ...",
+    "b1": [
+      "Frans is vergelijkbaar met Italiaans in die zin dat het Latijnse talen zijn.",
+      "Deze film is vergelijkbaar met de eerste in die zin dat hij heel grappig is.",
+      "Mijn huis is vergelijkbaar met het jouwe in die zin dat het drie slaapkamers heeft.",
+      "Tennis is vergelijkbaar met tafeltennis in die zin dat je een racket gebruikt.",
+      "Koken is vergelijkbaar met schilderen in die zin dat het creatief is."
+    ],
+    "b2": [
+      "De huidige markt is vergelijkbaar met die van 2008 in die zin dat de instabiliteit groot is.",
+      "Thuiswerken is vergelijkbaar met kantoorwerk in die zin dat de doelstellingen dezelfde blijven.",
+      "Deze nieuwe wet is vergelijkbaar met de vorige in die zin dat ze minderjarigen wil beschermen.",
+      "Projectmanagement is vergelijkbaar met het dirigeren van een orkest in die zin dat coördinatie vereist is.",
+      "De situatie in Spanje is vergelijkbaar met die in Portugal in die zin dat toerisme van levensbelang is."
+    ],
+    "c1": [
+      "De klimaatcrisis is vergelijkbaar met een pandemie in die zin dat ze een gecoördineerde wereldwijde respons vereist.",
+      "De evolutie van AI is vergelijkbaar met de industriële revolutie in die zin dat ze sociale structuren grondig ontwricht.",
+      "Deze filosofische benadering is vergelijkbaar met het stoïcisme in die zin dat ze beheersing van emoties bepleit.",
+      "De structuur van deze start-up is vergelijkbaar met die van een levend organisme in die zin dat ze zich aanpast aan haar omgeving.",
+      "De digitale economie is vergelijkbaar met alchemie in die zin dat ze waarde probeert te creëren uit het immateriële."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Terwijl ... X heeft, heeft ... Y.",
+    "translation": "While ... has X, ... has Y.",
+    "b1": [
+      "Terwijl Parijs de Eiffeltoren heeft, heeft Seoul de Namsantoren.",
+      "Terwijl ik een kat heb, heeft mijn vriend een hond.",
+      "Terwijl deze taart chocolade heeft, heeft de andere fruit.",
+      "Terwijl het vliegtuig vleugels heeft, heeft de helikopter rotorbladen.",
+      "Terwijl de dag de zon heeft, heeft de nacht de maan."
+    ],
+    "b2": [
+      "Terwijl de publieke sector baanzekerheid heeft, heeft de private sector vaak betere lonen.",
+      "Terwijl dit model een grote autonomie heeft, heeft het andere een snellere laadsnelheid.",
+      "Terwijl Europa een vergrijzende bevolking heeft, heeft Afrika een zeer jonge bevolking.",
+      "Terwijl marketing als doel heeft te verleiden, heeft verkoop als doel te sluiten.",
+      "Terwijl olieverfwerk een lange droogtijd heeft, droogt acrylverf heel snel."
+    ],
+    "c1": [
+      "Terwijl het klassiek liberalisme het individu als spil heeft, heeft het socialisme de gemeenschap als grondslag.",
+      "Terwijl fundamenteel onderzoek een lange tijdshorizon heeft, heeft toegepast onderzoek onmiddellijke doelstellingen.",
+      "Terwijl dit verdrag een sterke symbolische draagwijdte heeft, heeft het aanvullend protocol een bindende juridische waarde.",
+      "Terwijl het Finse onderwijssysteem gelijkheid als prioriteit heeft, geeft het Koreaanse systeem vaak de voorkeur aan competitieve uitmuntendheid.",
+      "Terwijl klassieke kunst een esthetisch representatief doel heeft, heeft moderne kunst een conceptuele deconstructieve benadering."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Enerzijds ..., maar anderzijds, ...",
+    "translation": "On the one hand ..., but on the other hand, ...",
+    "b1": [
+      "Enerzijds hou ik van reizen, maar anderzijds blijf ik graag thuis.",
+      "Enerzijds is dit werk zwaar, maar anderzijds is het salaris goed.",
+      "Enerzijds wil hij uitgaan, maar anderzijds is hij moe.",
+      "Enerzijds is het goed voor de gezondheid, maar anderzijds is het duur.",
+      "Enerzijds begrijp ik het, maar anderzijds ben ik het er niet mee eens."
+    ],
+    "b2": [
+      "Enerzijds vereenvoudigt technologie het leven, maar anderzijds vermindert ze onze sociale interacties.",
+      "Enerzijds is dit project innovatief, maar anderzijds brengt het grote financiële risico's met zich mee.",
+      "Enerzijds helpt toerisme de lokale economie, maar anderzijds vervuilt het het milieu.",
+      "Enerzijds ben ik blij met mijn promotie, maar anderzijds heb ik veel meer stress.",
+      "Enerzijds moeten we snel handelen, maar anderzijds mogen we geen fouten maken."
+    ],
+    "c1": [
+      "Enerzijds optimaliseert digitalisering de processen, maar anderzijds vergroot ze onze cybernetische kwetsbaarheid.",
+      "Enerzijds bevordert globalisering culturele uitwisseling, maar anderzijds uniformiseert ze de levensstijlen.",
+      "Enerzijds verhoogt AI de productiviteit, maar anderzijds roept ze ongekende ethische vragen op.",
+      "Enerzijds bepleiten we transparantie, maar anderzijds moeten we het bedrijfsgeheim beschermen.",
+      "Enerzijds vermindert bezuiniging de schuld, maar anderzijds remt ze de investeringen die noodzakelijk zijn voor groei."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "In vergelijking met ..., ...",
+    "translation": "In comparison to ..., ...",
+    "b1": [
+      "In vergelijking met vorig jaar is het nu kouder.",
+      "In vergelijking met mijn auto is die van jou heel klein.",
+      "In vergelijking met dit restaurant is het andere goedkoper.",
+      "In vergelijking met mijn broer ben ik verlegen.",
+      "In vergelijking met de bus is de metro schoner."
+    ],
+    "b2": [
+      "In vergelijking met zijn concurrenten biedt dit bedrijf een betere klantenservice.",
+      "In vergelijking met de vorige maand zijn onze verkopen met 15% gestegen.",
+      "In vergelijking met de oude versie is deze software veel intuïtiever.",
+      "In vergelijking met andere Europese landen zijn de kosten van levensonderhoud hier redelijk.",
+      "In vergelijking met mijn vorige functie heb ik nu veel meer autonomie."
+    ],
+    "c1": [
+      "In vergelijking met vroegere crisissen heeft deze een ongekende systemische dimensie.",
+      "In vergelijking met het traditionele onderwijssysteem biedt online leren een superieure flexibiliteit.",
+      "In vergelijking met de initiële voorspellingen zijn de auditresultaten bijzonder alarmerend.",
+      "In vergelijking met gecentraliseerd beheer bevordert decentralisering lokale innovatie.",
+      "In vergelijking met het klassiek realisme verkent het surrealisme de kronkelpaden van het onderbewuste."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Omgekeerd is de situatie met ... heel anders.",
+    "translation": "Conversely, the situation with ... is quite different.",
+    "b1": [
+      "Omgekeerd is de situatie met mijn vriend heel anders.",
+      "Omgekeerd is de situatie met dit project heel anders.",
+      "Omgekeerd is de situatie met het weer heel anders.",
+      "Omgekeerd is de situatie met mijn familie heel anders.",
+      "Omgekeerd is de situatie met dit restaurant heel anders."
+    ],
+    "b2": [
+      "Omgekeerd is de situatie met de Aziatische markt dit jaar heel anders.",
+      "Omgekeerd is de situatie met kleine bedrijven heel anders dan die van multinationals.",
+      "Omgekeerd is de situatie met de toerismesector heel anders sinds de crisis.",
+      "Omgekeerd is de situatie met het openbaar vervoer in de voorsteden heel anders.",
+      "Omgekeerd is de situatie met onze vaste klanten heel anders dan met nieuwe prospects."
+    ],
+    "c1": [
+      "Omgekeerd is de situatie met opkomende landen heel anders vanwege hun demografische groei.",
+      "Omgekeerd is de situatie met immateriële activa heel anders vanuit het oogpunt van de klassieke boekhouding.",
+      "Omgekeerd is de situatie met hernieuwbare energie heel anders dankzij overheidssubsidies.",
+      "Omgekeerd is de situatie met digitaal auteursrecht heel anders dan die in de analoge wereld.",
+      "Omgekeerd is de situatie met de huidige geopolitieke stabiliteit heel anders dan de voorspellingen uit de Koude Oorlog."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Ze delen verschillende gemeenschappelijke kenmerken, zoals ...",
+    "translation": "They share several common characteristics, such as ...",
+    "b1": [
+      "Ze delen verschillende gemeenschappelijke kenmerken, zoals kleur en formaat.",
+      "Ze delen verschillende gemeenschappelijke kenmerken, zoals smaak en geur.",
+      "Ze delen verschillende gemeenschappelijke kenmerken, zoals vriendschap en respect.",
+      "Ze delen verschillende gemeenschappelijke kenmerken, zoals prijs en stijl.",
+      "Ze delen verschillende gemeenschappelijke kenmerken, zoals talent en inzet."
+    ],
+    "b2": [
+      "Ze delen verschillende gemeenschappelijke kenmerken, zoals flexibiliteit en slagvaardigheid op de markt.",
+      "Ze delen verschillende gemeenschappelijke kenmerken, zoals het gebruik van gerecyclede materialen en energiebesparing.",
+      "Ze delen verschillende gemeenschappelijke kenmerken, zoals passie voor kunst en maatschappelijk engagement.",
+      "Ze delen verschillende gemeenschappelijke kenmerken, zoals gebruiksgemak en strak design.",
+      "Ze delen verschillende gemeenschappelijke kenmerken, zoals methodologische strengheid en helderheid van doelstellingen."
+    ],
+    "c1": [
+      "Ze delen verschillende gemeenschappelijke kenmerken, zoals structurele veerkracht en systemisch aanpassingsvermogen.",
+      "Ze delen verschillende gemeenschappelijke kenmerken, zoals territoriale verankering en de wil tot internationale expansie.",
+      "Ze delen verschillende gemeenschappelijke kenmerken, zoals de zoektocht naar esthetiek en het in vraag stellen van gevestigde normen.",
+      "Ze delen verschillende gemeenschappelijke kenmerken, zoals intrinsieke volatiliteit en afhankelijkheid van speculatieve stromen.",
+      "Ze delen verschillende gemeenschappelijke kenmerken, zoals algoritmische transparantie en bescherming van de persoonlijke levenssfeer."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "De mate van ... is veel groter in ... dan in ...",
+    "translation": "The degree of ... is much greater in ... than in ...",
+    "b1": [
+      "De mate van lawaai is veel groter op straat dan in huis.",
+      "De mate van warmte is veel groter in de soep dan in de thee.",
+      "De mate van moeilijkheid is veel groter in deze oefening dan in de andere.",
+      "De mate van vreugde is veel groter op een bruiloft dan op een verjaardag.",
+      "De mate van angst is veel groter in deze film dan in het boek."
+    ],
+    "b2": [
+      "De mate van betrokkenheid is veel groter in een start-up dan in een groot bedrijf.",
+      "De mate van automatisering is veel groter in deze fabriek dan in de oude.",
+      "De mate van tevredenheid is veel groter in de testgroep dan in de controlegroep.",
+      "De mate van risico is veel groter bij beursinvesteringen dan bij sparen.",
+      "De mate van vervuiling is veel groter in stedelijke centra dan in landelijke gebieden."
+    ],
+    "c1": [
+      "De mate van onzekerheid is veel groter op opkomende markten dan in ontwikkelde economieën.",
+      "De mate van geplande veroudering is veel groter in consumentenelektronica dan in de zware industrie.",
+      "De mate van politieke polarisering is veel groter op sociale media dan in traditionele media.",
+      "De mate van veerkracht is veel groter in gediversifieerde ecosystemen dan in monoculturen.",
+      "De mate van financiële transparantie is veel groter bij beursgenoteerde bedrijven dan bij familiebedrijven."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Hoewel ... waar is, moeten we ook ... overwegen",
+    "translation": "Although ... is true, we must also consider ...",
+    "b1": [
+      "Hoewel dit waar is, moeten we ook de prijs overwegen.",
+      "Hoewel jij gelijk hebt, moeten we ook mijn mening overwegen.",
+      "Hoewel dit werk moeilijk is, moeten we ook het plezier overwegen.",
+      "Hoewel het vliegtuig snel is, moeten we ook de vervuiling overwegen.",
+      "Hoewel deze film mooi is, moeten we ook de duur ervan overwegen."
+    ],
+    "b2": [
+      "Hoewel de efficiëntie waar is, moeten we ook het welzijn van de werknemers overwegen.",
+      "Hoewel de stijging van de verkoop waar is, moeten we ook de hogere kosten overwegen.",
+      "Hoewel het succes waar is, moeten we ook de duurzaamheid van ons model overwegen.",
+      "Hoewel uw talent waar is, moeten we ook uw gebrek aan ervaring overwegen.",
+      "Hoewel dit land rijk is, moeten we ook de sociale ongelijkheden overwegen."
+    ],
+    "c1": [
+      "Hoewel de bbp-groei waar is, moeten we ook de menselijke ontwikkelingsindex overwegen.",
+      "Hoewel technologische neutraliteit waar is, moeten we ook de algoritmische vertekeningen overwegen.",
+      "Hoewel de economische urgentie waar is, moeten we ook de ecologische imperatieven op lange termijn overwegen.",
+      "Hoewel de vrijheid van meningsuiting waar is, moeten we ook de ethische verantwoordelijkheid van platforms overwegen.",
+      "Hoewel de soevereiniteit van staten waar is, moeten we ook de normen van het internationaal recht overwegen."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Een belangrijk punt van divergentie is ...",
+    "translation": "A significant point of divergence is ...",
+    "b1": [
+      "Een belangrijk punt van divergentie is de kleur.",
+      "Een belangrijk punt van divergentie is de prijs.",
+      "Een belangrijk punt van divergentie is de grootte.",
+      "Een belangrijk punt van divergentie is het tijdstip van de afspraak.",
+      "Een belangrijk punt van divergentie is de smaak."
+    ],
+    "b2": [
+      "Een belangrijk punt van divergentie is de methode voor teammanagement.",
+      "Een belangrijk punt van divergentie is de benadering van de klantenservice.",
+      "Een belangrijk punt van divergentie is het gebruik van nieuwe technologieën.",
+      "Een belangrijk punt van divergentie is de langetermijnvisie van het project.",
+      "Een belangrijk punt van divergentie is de keuze van de doelgroep."
+    ],
+    "c1": [
+      "Een belangrijk punt van divergentie is de juridische interpretatie van deze contractuele clausule.",
+      "Een belangrijk punt van divergentie is de mate van staatstussenkomst die door deze twee economische scholen wordt aanbevolen.",
+      "Een belangrijk punt van divergentie is de verwerking van persoonsgegevens binnen deze twee architecturen.",
+      "Een belangrijk punt van divergentie is de rol die aan intuïtie wordt toegekend in het strategisch besluitvormingsproces.",
+      "Een belangrijk punt van divergentie is het beheer van immateriële activa bij een fusie-overname."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Ze zijn fundamenteel gelijkaardig, met uitzondering van ...",
+    "translation": "They are fundamentally similar, except for ...",
+    "b1": [
+      "Ze zijn fundamenteel gelijkaardig, met uitzondering van de kleur.",
+      "Ze zijn fundamenteel gelijkaardig, met uitzondering van de prijs.",
+      "Ze zijn fundamenteel gelijkaardig, met uitzondering van de grootte.",
+      "Ze zijn fundamenteel gelijkaardig, met uitzondering van de geur.",
+      "Ze zijn fundamenteel gelijkaardig, met uitzondering van de taal."
+    ],
+    "b2": [
+      "Ze zijn fundamenteel gelijkaardig, met uitzondering van hun marketingstrategie op sociale media.",
+      "Ze zijn fundamenteel gelijkaardig, met uitzondering van de garantieduur die aan klanten wordt aangeboden.",
+      "Ze zijn fundamenteel gelijkaardig, met uitzondering van de financieringsbron voor de lancering.",
+      "Ze zijn fundamenteel gelijkaardig, met uitzondering van het standaard geïnstalleerde besturingssysteem.",
+      "Ze zijn fundamenteel gelijkaardig, met uitzondering van de chemische samenstelling van bepaalde componenten."
+    ],
+    "c1": [
+      "Ze zijn fundamenteel gelijkaardig, met uitzondering van hun benadering van maatschappelijk verantwoord ondernemen.",
+      "Ze zijn fundamenteel gelijkaardig, met uitzondering van de prioritering van hun respectieve strategische doelstellingen.",
+      "Ze zijn fundamenteel gelijkaardig, met uitzondering van de dominante culturele invloed die hun management doordringt.",
+      "Ze zijn fundamenteel gelijkaardig, met uitzondering van hun mate van naleving van internationale milieunormen.",
+      "Ze zijn fundamenteel gelijkaardig, met uitzondering van de flexibiliteit van hun logistieke keten bij crises."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "... is veel doeltreffender dan ... omdat ...",
+    "translation": "... is far more effective than ... because ...",
+    "b1": [
+      "De trein is veel doeltreffender dan de auto omdat het sneller is.",
+      "Koffie is veel doeltreffender dan thee omdat ik meer energie heb.",
+      "Dit mes is veel doeltreffender dan het andere omdat het beter snijdt.",
+      "Deze methode is veel doeltreffender dan de oude omdat we tijd winnen.",
+      "Het woordenboek is veel doeltreffender dan Google omdat er meer voorbeelden in staan."
+    ],
+    "b2": [
+      "Online reclame is veel doeltreffender dan televisie omdat het het publiek beter bereikt.",
+      "Thuiswerken is veel doeltreffender dan kantoorwerk omdat het de reistijd vermindert.",
+      "Deze nieuwe motor is veel doeltreffender dan de oude omdat hij minder brandstof verbruikt.",
+      "Directe communicatie is veel doeltreffender dan e-mails omdat het misverstanden vermijdt.",
+      "Leren door te doen is veel doeltreffender dan alleen theorie omdat men het beter onthoudt."
+    ],
+    "c1": [
+      "Koolstofbeprijzing is veel doeltreffender dan subsidies omdat het negatieve externaliteiten internaliseert.",
+      "De gedecentraliseerde structuur is veel doeltreffender dan bureaucratie omdat ze beslissingswendbaarheid bevordert.",
+      "Preventie is veel doeltreffender dan curatie omdat het de sociale kosten op lange termijn vermindert.",
+      "Permanente vorming is veel doeltreffender dan eenmalige initiële opleiding omdat ze zich aanpast aan technologische omwentelingen.",
+      "Multilateralisme is veel doeltreffender dan isolationisme omdat het grensoverschrijdende vraagstukken kan aanpakken."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "We kunnen een parallel trekken tussen ... en ...",
+    "translation": "We can draw a parallel between ... and ...",
+    "b1": [
+      "We kunnen een parallel trekken tussen jouw verhaal en mijn verhaal.",
+      "We kunnen een parallel trekken tussen deze film en het echte leven.",
+      "We kunnen een parallel trekken tussen voetbal en oorlog.",
+      "We kunnen een parallel trekken tussen een taal leren en muziek leren.",
+      "We kunnen een parallel trekken tussen koken en scheikunde."
+    ],
+    "b2": [
+      "We kunnen een parallel trekken tussen de crisis van 1929 en de huidige situatie.",
+      "We kunnen een parallel trekken tussen het succes van dit merk en dat van zijn concurrent.",
+      "We kunnen een parallel trekken tussen de opvoeding van kinderen en het managen van een team.",
+      "We kunnen een parallel trekken tussen de levenscyclus van een product en die van een plant.",
+      "We kunnen een parallel trekken tussen de structuur van een stad en die van een computernetwerk."
+    ],
+    "c1": [
+      "We kunnen een parallel trekken tussen de val van het Romeinse Rijk en bepaalde hedendaagse neergang.",
+      "We kunnen een parallel trekken tussen de hersenplasticiteit en het innovatievermogen van organisaties.",
+      "We kunnen een parallel trekken tussen natuurlijke selectie en de overleving van bedrijven in crisistijd.",
+      "We kunnen een parallel trekken tussen de gotische architectuur en de logische structuur van de scholastiek.",
+      "We kunnen een parallel trekken tussen de mechanismen van digitale verslaving en die van kansspelen."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Noch ... noch ... biedt ...",
+    "translation": "Neither ... nor ... provides ...",
+    "b1": [
+      "Noch dit restaurant noch het andere biedt koffie.",
+      "Noch hij noch ik biedt hulp.",
+      "Noch de trein noch de bus biedt maaltijden.",
+      "Noch mijn vader noch mijn moeder biedt geld.",
+      "Noch het boek noch de film biedt een verklaring."
+    ],
+    "b2": [
+      "Noch deze optie noch de volgende biedt een garantie op 100% succes.",
+      "Noch het huidige contract noch het nieuwe biedt bescherming tegen inflatie.",
+      "Noch deze software noch zijn concurrent biedt technische ondersteuning op zondag.",
+      "Noch de ene noch de andere biedt een bevredigende oplossing voor ons budgetprobleem.",
+      "Noch papieren reclame noch radio biedt zo nauwkeurige targeting als internet."
+    ],
+    "c1": [
+      "Noch het neoliberalisme noch puur protectionisme biedt een adequaat antwoord op klimaatvraagstukken.",
+      "Noch de kostengebaseerde aanpak noch de waardegebaseerde aanpak biedt een exacte schatting van dit immaterieel actief.",
+      "Noch de wetenschap noch de filosofie biedt absolute zekerheid over de oorsprong van het bewustzijn.",
+      "Noch dit vredesverdrag noch het handelsakkoord biedt een stabiel kader voor de regio.",
+      "Noch generatieve kunstmatige intelligentie noch voorspellende analyse biedt een empathisch begrip van de werkelijkheid."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Afgewogen tegen ..., lijkt ... ...",
+    "translation": "When balanced against ..., ... appears to be ...",
+    "b1": [
+      "Afgewogen tegen de prijs, lijkt deze taart goed.",
+      "Afgewogen tegen de regen, lijkt deze reis triest.",
+      "Afgewogen tegen jouw werk, lijkt mijn werk gemakkelijk.",
+      "Afgewogen tegen de zon, lijkt de wind koud.",
+      "Afgewogen tegen de bus, lijkt de trein beter."
+    ],
+    "b2": [
+      "Afgewogen tegen de risico's, lijkt deze winst zeer interessant.",
+      "Afgewogen tegen de concurrentie, lijkt ons product het meest innovatief.",
+      "Afgewogen tegen de geleverde inspanningen, lijkt het resultaat teleurstellend.",
+      "Afgewogen tegen de andere kandidaten, lijkt uw profiel het meest volledig.",
+      "Afgewogen tegen de voordelen, lijkt de kost van dit abonnement buitensporig."
+    ],
+    "c1": [
+      "Afgewogen tegen de ecologische urgentie, lijkt deze hervorming een futiele halfmaatregel.",
+      "Afgewogen tegen de geopolitieke belangen, lijkt dit compromis een strategische noodzaak.",
+      "Afgewogen tegen de marktvolatiliteit, lijkt deze investering uiterst voorzichtig.",
+      "Afgewogen tegen de veiligheidsimperatieven, lijkt de beperking van vrijheden onevenredig.",
+      "Afgewogen tegen het groeipotentieel, lijkt de huidige schuld houdbaar."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Er is een opvallend contrast in hun benadering van ...",
+    "translation": "There is a stark contrast in their approach to ...",
+    "b1": [
+      "Er is een opvallend contrast in hun benadering van onderwijs.",
+      "Er is een opvallend contrast in hun benadering van sport.",
+      "Er is een opvallend contrast in hun benadering van koken.",
+      "Er is een opvallend contrast in hun benadering van geld.",
+      "Er is een opvallend contrast in hun benadering van vriendschap."
+    ],
+    "b2": [
+      "Er is een opvallend contrast in hun benadering van klantenservice.",
+      "Er is een opvallend contrast in hun benadering van crisismanagement.",
+      "Er is een opvallend contrast in hun benadering van digitale reclame.",
+      "Er is een opvallend contrast in hun benadering van flexibiliteit op het werk.",
+      "Er is een opvallend contrast in hun benadering van milieubescherming."
+    ],
+    "c1": [
+      "Er is een opvallend contrast in hun benadering van de regulering van financiële markten.",
+      "Er is een opvallend contrast in hun benadering van ethiek toegepast op kunstmatige intelligentie.",
+      "Er is een opvallend contrast in hun benadering van nationale digitale soevereiniteit.",
+      "Er is een opvallend contrast in hun benadering van de wereldwijde herverdeling van rijkdom.",
+      "Er is een opvallend contrast in hun benadering van het behoud van stedelijke biodiversiteit."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "De gelijkenis ligt in het feit dat ...",
+    "translation": "The similarity lies in the fact that ...",
+    "b1": [
+      "De gelijkenis ligt in het feit dat beide rood zijn.",
+      "De gelijkenis ligt in het feit dat we van pizza houden.",
+      "De gelijkenis ligt in het feit dat het hier vaak regent.",
+      "De gelijkenis ligt in het feit dat het gratis is.",
+      "De gelijkenis ligt in het feit dat het allebei honden zijn."
+    ],
+    "b2": [
+      "De gelijkenis ligt in het feit dat beide bedrijven zich richten op hetzelfde jonge publiek.",
+      "De gelijkenis ligt in het feit dat deze twee projecten externe financiering nodig hebben.",
+      "De gelijkenis ligt in het feit dat beide landen een sterke gastronomische traditie hebben.",
+      "De gelijkenis ligt in het feit dat beide softwarepakketten dezelfde database gebruiken.",
+      "De gelijkenis ligt in het feit dat deze twee kandidaten weinig praktijkervaring hebben."
+    ],
+    "c1": [
+      "De gelijkenis ligt in het feit dat beide theorieën de eindigheid van hulpbronnen postuleren.",
+      "De gelijkenis ligt in het feit dat deze twee kunststromingen het academisch classicisme verwerpen.",
+      "De gelijkenis ligt in het feit dat beide rechtsstelsels intellectueel eigendom beschermen.",
+      "De gelijkenis ligt in het feit dat deze twee economische crisissen werden veroorzaakt door een speculatieve zeepbel.",
+      "De gelijkenis ligt in het feit dat beide governancemodellen meer transparantie bepleiten."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Naast elkaar vergeleken overtreft ... duidelijk ...",
+    "translation": "Compared side by side, ... clearly outperforms ...",
+    "b1": [
+      "Naast elkaar vergeleken overtreft deze taart duidelijk de andere.",
+      "Naast elkaar vergeleken overtreft het vliegtuig duidelijk de bus.",
+      "Naast elkaar vergeleken overtreft deze film duidelijk het boek.",
+      "Naast elkaar vergeleken overtreft mijn fiets duidelijk die van jou.",
+      "Naast elkaar vergeleken overtreft deze koffie duidelijk de thee."
+    ],
+    "b2": [
+      "Naast elkaar vergeleken overtreft deze nieuwe smartphone duidelijk het model van vorig jaar.",
+      "Naast elkaar vergeleken overtreft de kwaliteit van deze stof duidelijk die van de concurrent.",
+      "Naast elkaar vergeleken overtreft de doeltreffendheid van deze methode duidelijk de traditionele aanpak.",
+      "Naast elkaar vergeleken overtreft het comfort van deze auto duidelijk dat van de oude.",
+      "Naast elkaar vergeleken overtreft het talent van deze artiest duidelijk dat van de andere deelnemers."
+    ],
+    "c1": [
+      "Naast elkaar vergeleken overtreft dit compressie-algoritme duidelijk zijn voorgangers qua snelheid.",
+      "Naast elkaar vergeleken overtreft dit economisch herstelplan duidelijk de voorstellen van de oppositie.",
+      "Naast elkaar vergeleken overtreft de veerkracht van dit economisch model duidelijk die van gecentraliseerde systemen.",
+      "Naast elkaar vergeleken overtreft de milieu-impact van dit proces duidelijk de huidige normen.",
+      "Naast elkaar vergeleken overtreft de strategische relevantie van deze fusie duidelijk de geïdentificeerde potentiële risico's."
+    ]
+  }
+]

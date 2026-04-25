@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Ik wil u informeren dat ...",
+    "translation": "I'd like to inform you that ...",
+    "b1": [
+      "Ik wil u informeren dat de winkel vandaag gesloten is.",
+      "Ik wil u informeren dat de trein tien minuten vertraging heeft.",
+      "Ik wil u informeren dat ik uw bericht goed heb ontvangen.",
+      "Ik wil u informeren dat we een nieuw menu hebben.",
+      "Ik wil u informeren dat de vergadering om 10 uur begint."
+    ],
+    "b2": [
+      "Ik wil u informeren dat uw sollicitatie is weerhouden voor het gesprek.",
+      "Ik wil u informeren dat de algemene verkoopvoorwaarden zijn gewijzigd.",
+      "Ik wil u informeren dat we de eerste fase van het project hebben afgerond.",
+      "Ik wil u informeren dat de voorraad van dit product momenteel uitgeput is.",
+      "Ik wil u informeren dat uw bestelling morgenochtend wordt verzonden."
+    ],
+    "c1": [
+      "Ik wil u informeren dat we een algehele herstructurering van de afdeling hebben doorgevoerd.",
+      "Ik wil u informeren dat de nieuwe regelgeving volgende maand van kracht wordt.",
+      "Ik wil u informeren dat de prestatie-indicatoren een duidelijke vooruitgang vertonen.",
+      "Ik wil u informeren dat we een strategisch partnerschapsakkoord hebben gesloten.",
+      "Ik wil u informeren dat de interne audit geen grote onregelmatigheden heeft vastgesteld."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Het belangrijkste punt om hier te onthouden is ...",
+    "translation": "The key takeaway here is ...",
+    "b1": [
+      "Het belangrijkste punt om hier te onthouden is dat je op tijd moet zijn.",
+      "Het belangrijkste punt om hier te onthouden is dat dit boek belangrijk is.",
+      "Het belangrijkste punt om hier te onthouden is de deur goed te sluiten.",
+      "Het belangrijkste punt om hier te onthouden is dat het vandaag gratis is.",
+      "Het belangrijkste punt om hier te onthouden is uw paspoort mee te brengen."
+    ],
+    "b2": [
+      "Het belangrijkste punt om hier te onthouden is het belang van klanttevredenheid.",
+      "Het belangrijkste punt om hier te onthouden is dat we onze productiekosten moeten verlagen.",
+      "Het belangrijkste punt om hier te onthouden is veiligheid boven alles.",
+      "Het belangrijkste punt om hier te onthouden is de samenwerking tussen onze twee teams.",
+      "Het belangrijkste punt om hier te onthouden is dat de markt volop in verandering is."
+    ],
+    "c1": [
+      "Het belangrijkste punt om hier te onthouden is de directe correlatie tussen innovatie en groei.",
+      "Het belangrijkste punt om hier te onthouden is de structurele veerkracht van ons bedrijfsmodel.",
+      "Het belangrijkste punt om hier te onthouden is de noodzaak van voortdurende technologische monitoring.",
+      "Het belangrijkste punt om hier te onthouden is de impact van digitalisering op onze processen.",
+      "Het belangrijkste punt om hier te onthouden is het behoud van ons concurrentievoordeel op lange termijn."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Ter verduidelijking, ik bedoel ...",
+    "translation": "To clarify, I mean ...",
+    "b1": [
+      "Ter verduidelijking, ik bedoel dat we om twaalf uur vertrekken.",
+      "Ter verduidelijking, ik bedoel dat het een cadeau voor jou is.",
+      "Ter verduidelijking, ik bedoel dat de prijs twintig euro is.",
+      "Ter verduidelijking, ik bedoel dat we samen moeten werken.",
+      "Ter verduidelijking, ik bedoel dat ik morgen niet kan komen."
+    ],
+    "b2": [
+      "Ter verduidelijking, ik bedoel dat het project voor vrijdagavond af moet zijn.",
+      "Ter verduidelijking, ik bedoel dat we onze marketingstrategie moeten veranderen.",
+      "Ter verduidelijking, ik bedoel dat elk teamlid een specifieke verantwoordelijkheid heeft.",
+      "Ter verduidelijking, ik bedoel dat dit budget alle voorziene belastingen omvat.",
+      "Ter verduidelijking, ik bedoel dat we geen uitzonderingen op de regel zullen maken."
+    ],
+    "c1": [
+      "Ter verduidelijking, ik bedoel daarmee een volledige herziening van onze visuele identiteit.",
+      "Ter verduidelijking, ik bedoel dat de continuïteit van het bedrijf afhangt van deze investering.",
+      "Ter verduidelijking, ik bedoel een transparantere dialoog instellen met de aandeelhouders.",
+      "Ter verduidelijking, ik bedoel dat operationele flexibiliteit onze absolute prioriteit is.",
+      "Ter verduidelijking, ik bedoel dat we de schommelingen op de geldmarkt moeten anticiperen."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Volgens het rapport, ...",
+    "translation": "According to the report, ...",
+    "b1": [
+      "Volgens het rapport wordt het deze zomer warm.",
+      "Volgens het rapport houden veel mensen van chocolade.",
+      "Volgens het rapport is de stad erg veilig.",
+      "Volgens het rapport hebben we het werk afgerond.",
+      "Volgens het rapport zijn er hier veel auto's."
+    ],
+    "b2": [
+      "Volgens het jaarverslag zijn onze winsten met 5% gestegen.",
+      "Volgens het politierapport is er onvoldoende bewijs.",
+      "Volgens het medisch rapport moet de patiënt een week rusten.",
+      "Volgens het activiteitenrapport is de productiviteit dit jaar stabiel.",
+      "Volgens het onderzoeksrapport is het ongeluk te wijten aan menselijk falen."
+    ],
+    "c1": [
+      "Volgens het toekomstrapport zal kunstmatige intelligentie de sector transformeren.",
+      "Volgens het rapport van de bedrijfsrevisor is de financiële situatie gezond.",
+      "Volgens het deskundigenrapport zijn de structurele schade onomkeerbaar.",
+      "Volgens het milieurapport moeten we onze CO2-uitstoot verminderen.",
+      "Volgens het conjunctuurrapport zal de groei in het tweede semester vertragen."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Laat me dat herformuleren: ...",
+    "translation": "Let me rephrase that: ...",
+    "b1": [
+      "Laat me dat herformuleren: het is te duur voor ons.",
+      "Laat me dat herformuleren: ik ben het met je eens.",
+      "Laat me dat herformuleren: we vertrekken nu.",
+      "Laat me dat herformuleren: deze taart is heerlijk.",
+      "Laat me dat herformuleren: ik begrijp de vraag niet."
+    ],
+    "b2": [
+      "Laat me dat herformuleren: we moeten een snellere oplossing vinden.",
+      "Laat me dat herformuleren: de klant is niet tevreden over de huidige kwaliteit.",
+      "Laat me dat herformuleren: het is noodzakelijk ons jaarlijks budget te herzien.",
+      "Laat me dat herformuleren: we kunnen deze betalingsvoorwaarden niet aanvaarden.",
+      "Laat me dat herformuleren: uw voorstel mist technische details."
+    ],
+    "c1": [
+      "Laat me dat herformuleren: de levensvatbaarheid van dit project berust op onze wendbaarheid.",
+      "Laat me dat herformuleren: we zijn getuige van een grote paradigmaverschuiving.",
+      "Laat me dat herformuleren: het gebrek aan consensus belemmert onze internationale expansie.",
+      "Laat me dat herformuleren: het gaat om een structurele en geen budgettaire optimalisering.",
+      "Laat me dat herformuleren: de prioriteit is de onmiddellijke regelgevende conformiteit."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Wat ik had willen zeggen was ...",
+    "translation": "What I meant to say was ...",
+    "b1": [
+      "Wat ik had willen zeggen was dat ik van je houd.",
+      "Wat ik had willen zeggen was dat het me spijt.",
+      "Wat ik had willen zeggen was dat het een goed idee is.",
+      "Wat ik had willen zeggen was dat ik moe ben.",
+      "Wat ik had willen zeggen was dat ik hulp nodig heb."
+    ],
+    "b2": [
+      "Wat ik had willen zeggen was dat we geen tijd hebben om af te ronden.",
+      "Wat ik had willen zeggen was dat de vergadering morgen geannuleerd is.",
+      "Wat ik had willen zeggen was dat u uitstekend werk heeft geleverd.",
+      "Wat ik had willen zeggen was dat de prijs onder voorwaarden onderhandelbaar is.",
+      "Wat ik had willen zeggen was dat veiligheid onze absolute prioriteit is."
+    ],
+    "c1": [
+      "Wat ik had willen zeggen was dat de sociaaleconomische impact wordt onderschat.",
+      "Wat ik had willen zeggen was dat we kwalitatieve groei moeten verkiezen.",
+      "Wat ik had willen zeggen was dat de synergie tussen de afdelingen onvoldoende is.",
+      "Wat ik had willen zeggen was dat de continuïteit van het model op het spel staat.",
+      "Wat ik had willen zeggen was dat innovatie de kern van onze strategie moet zijn."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "De huidige stand van zaken is dat ...",
+    "translation": "The current status is that ...",
+    "b1": [
+      "De huidige stand van zaken is dat we het project hebben afgerond.",
+      "De huidige stand van zaken is dat de winkel open is.",
+      "De huidige stand van zaken is dat iedereen klaar is.",
+      "De huidige stand van zaken is dat de telefoon niet werkt.",
+      "De huidige stand van zaken is dat we op de bus wachten."
+    ],
+    "b2": [
+      "De huidige stand van zaken is dat het budget is goedgekeurd door de directie.",
+      "De huidige stand van zaken is dat de werkzaamheden vorderen volgens planning.",
+      "De huidige stand van zaken is dat we nog steeds op zoek zijn naar een nieuwe directeur.",
+      "De huidige stand van zaken is dat het contract in de ondertekeningsfase zit.",
+      "De huidige stand van zaken is dat de servers tijdelijk offline zijn."
+    ],
+    "c1": [
+      "De huidige stand van zaken is dat we te maken hebben met een verzadiging van de binnenlandse markt.",
+      "De huidige stand van zaken is dat de diagnosefase officieel is afgesloten.",
+      "De huidige stand van zaken is dat de onderhandelingen momenteel zijn vastgelopen.",
+      "De huidige stand van zaken is dat we een overgang naar volledige cloudinfrastructuur doorvoeren.",
+      "De huidige stand van zaken is dat de GDPR-conformiteit voor 90% is gewaarborgd."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Met andere woorden, ...",
+    "translation": "In other words, ...",
+    "b1": [
+      "Met andere woorden, het is gratis.",
+      "Met andere woorden, ik kan niet komen.",
+      "Met andere woorden, het is te ver.",
+      "Met andere woorden, we hebben gewonnen.",
+      "Met andere woorden, het is voorbij."
+    ],
+    "b2": [
+      "Met andere woorden, we moeten helemaal opnieuw beginnen.",
+      "Met andere woorden, uw sollicitatie voor deze functie is afgewezen.",
+      "Met andere woorden, er is onvoldoende geld voor dit project.",
+      "Met andere woorden, de kwaliteit is niet goed genoeg.",
+      "Met andere woorden, we veranderen volledig van mening."
+    ],
+    "c1": [
+      "Met andere woorden, we ondervinden een erosie van onze winstmarges.",
+      "Met andere woorden, het huidige bedrijfsmodel is niet langer levensvatbaar.",
+      "Met andere woorden, innovatie is de enige resterende groeihefboom.",
+      "Met andere woorden, we moeten een grondige herstructurering doorvoeren.",
+      "Met andere woorden, de marktvolatiliteit vereist uiterste voorzichtigheid."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Alleen om er zeker van te zijn dat we op dezelfde golflengte zitten, ...",
+    "translation": "Just to make sure we're on the same page, ...",
+    "b1": [
+      "Alleen om er zeker van te zijn dat we op dezelfde golflengte zitten, vertrekken we om 8 uur?",
+      "Alleen om er zeker van te zijn dat we op dezelfde golflengte zitten, betaal jij?",
+      "Alleen om er zeker van te zijn dat we op dezelfde golflengte zitten, eten we Italiaans?",
+      "Alleen om er zeker van te zijn dat we op dezelfde golflengte zitten, is het een geheim?",
+      "Alleen om er zeker van te zijn dat we op dezelfde golflengte zitten, kom je alleen?"
+    ],
+    "b2": [
+      "Alleen om er zeker van te zijn dat we op dezelfde golflengte zitten, is het rapport voor maandag?",
+      "Alleen om er zeker van te zijn dat we op dezelfde golflengte zitten, accepteert u de prijs?",
+      "Alleen om er zeker van te zijn dat we op dezelfde golflengte zitten, is het doel de verkoop te verhogen?",
+      "Alleen om er zeker van te zijn dat we op dezelfde golflengte zitten, heeft u de instructie begrepen?",
+      "Alleen om er zeker van te zijn dat we op dezelfde golflengte zitten, duurt het project zes maanden?"
+    ],
+    "c1": [
+      "Alleen om er zeker van te zijn dat we op dezelfde golflengte zitten, blijft de strategische visie ongewijzigd?",
+      "Alleen om er zeker van te zijn dat we op dezelfde golflengte zitten, gelden de vertrouwelijkheidsclausules hier?",
+      "Alleen om er zeker van te zijn dat we op dezelfde golflengte zitten, is de fusie nog steeds actueel?",
+      "Alleen om er zeker van te zijn dat we op dezelfde golflengte zitten, heeft de audit betrekking op het vorige boekjaar?",
+      "Alleen om er zeker van te zijn dat we op dezelfde golflengte zitten, is risicovermindering de prioriteit?"
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Dit bevestigt dat ...",
+    "translation": "This confirms that ...",
+    "b1": [
+      "Dit bevestigt dat je gelijk hebt.",
+      "Dit bevestigt dat de trein vertraging heeft.",
+      "Dit bevestigt dat het een goed idee is.",
+      "Dit bevestigt dat we op tijd klaar zijn.",
+      "Dit bevestigt dat de winkel gesloten is."
+    ],
+    "b2": [
+      "Dit bevestigt dat onze marketingstrategie heel goed werkt.",
+      "Dit bevestigt dat klanten de voorkeur geven aan dit nieuwe ontwerp.",
+      "Dit bevestigt dat we deze zomer meer personeel nodig hebben.",
+      "Dit bevestigt dat de veiligheid in de fabriek moet worden verbeterd.",
+      "Dit bevestigt dat het budget onvoldoende is voor volgend jaar."
+    ],
+    "c1": [
+      "Dit bevestigt dat de macro-economische voorspellingen correct waren.",
+      "Dit bevestigt dat innovatie de motor is van onze concurrentiekracht.",
+      "Dit bevestigt dat de marktverzadiging een tastbare realiteit is.",
+      "Dit bevestigt dat ons nalevingsbeleid rigoureus is.",
+      "Dit bevestigt dat de digitale transformatie een onvermijdelijke stap is."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Laat mij uitweiden over ...",
+    "translation": "Allow me to elaborate on …",
+    "b1": [
+      "Laat mij uitweiden over mijn reis.",
+      "Laat mij uitweiden over mijn familie.",
+      "Laat mij uitweiden over mijn werk.",
+      "Laat mij uitweiden over mijn studies.",
+      "Laat mij uitweiden over dit boek."
+    ],
+    "b2": [
+      "Laat mij uitweiden over de redenen voor onze technische keuze.",
+      "Laat mij uitweiden over de voordelen van deze nieuwe software.",
+      "Laat mij uitweiden over het voorlopige tijdschema van de werkzaamheden.",
+      "Laat mij uitweiden over de resultaten van de laatste klantenbevraging.",
+      "Laat mij uitweiden over de inschrijvingsmodaliteiten voor de wedstrijd."
+    ],
+    "c1": [
+      "Laat mij uitweiden over de ethische implicaties van ons onderzoek.",
+      "Laat mij uitweiden over de groeihefbomen op internationaal niveau.",
+      "Laat mij uitweiden over de specifieke kenmerken van de bankregelgeving.",
+      "Laat mij uitweiden over de conclusies van de milieu-impactstudie.",
+      "Laat mij uitweiden over de synergie tussen onze verschillende expertisepolen."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "De details zijn als volgt: ...",
+    "translation": "The details are as follows: ...",
+    "b1": [
+      "De details zijn als volgt: de prijs is tien euro.",
+      "De details zijn als volgt: afspraak om twaalf uur.",
+      "De details zijn als volgt: breng uw boek mee.",
+      "De details zijn als volgt: het feest is zaterdagavond.",
+      "De details zijn als volgt: de cursus is online."
+    ],
+    "b2": [
+      "De details zijn als volgt: het contract loopt drie jaar en is verlengbaar.",
+      "De details zijn als volgt: het vliegtuig vertrekt om 8 uur van luchthaven Zaventem.",
+      "De details zijn als volgt: u ontvangt uw bestelling binnen 48 uur.",
+      "De details zijn als volgt: de opleiding vindt plaats in zaal B204.",
+      "De details zijn als volgt: de betaling gebeurt via bankoverschrijving."
+    ],
+    "c1": [
+      "De details zijn als volgt: het non-concurrentiebeding geldt wereldwijd.",
+      "De details zijn als volgt: de activa worden verdeeld over de dochterondernemingen.",
+      "De details zijn als volgt: het veiligheidsprotocol moet nauwgezet worden gevolgd.",
+      "De details zijn als volgt: de dividenden worden uitbetaald naar rato van de aandelenpakketten.",
+      "De details zijn als volgt: het operationeel actieplan strekt zich uit over achttien maanden."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Het belangrijke punt hier is niet ..., maar ...",
+    "translation": "The important point here is not ..., but ...",
+    "b1": [
+      "Het belangrijke punt hier is niet de prijs, maar de kwaliteit.",
+      "Het belangrijke punt hier is niet de tijd, maar het plezier.",
+      "Het belangrijke punt hier is niet winnen, maar deelnemen.",
+      "Het belangrijke punt hier is niet eten, maar uitrusten.",
+      "Het belangrijke punt hier is niet praten, maar luisteren."
+    ],
+    "b2": [
+      "Het belangrijke punt hier is niet de hoeveelheid, maar de klanttevredenheid.",
+      "Het belangrijke punt hier is niet de fout, maar hoe we die herstellen.",
+      "Het belangrijke punt hier is niet het verleden, maar onze toekomstige doelstellingen.",
+      "Het belangrijke punt hier is niet gelijk hebben, maar een akkoord bereiken.",
+      "Het belangrijke punt hier is niet hard werken, maar slim werken."
+    ],
+    "c1": [
+      "Het belangrijke punt hier is niet de onmiddellijke rentabiliteit, maar de strategische continuïteit.",
+      "Het belangrijke punt hier is niet de vorm, maar de structurele samenhang van het project.",
+      "Het belangrijke punt hier is niet de sanctie, maar de preventie van juridische risico's.",
+      "Het belangrijke punt hier is niet het product, maar de algehele gebruikerservaring.",
+      "Het belangrijke punt hier is niet de concurrentie, maar ons eigen innovatievermogen."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Denk bijvoorbeeld aan ...",
+    "translation": "For example, consider ...",
+    "b1": [
+      "Denk bijvoorbeeld aan dit mooie weer.",
+      "Denk bijvoorbeeld aan deze lage prijs.",
+      "Denk bijvoorbeeld aan deze rode auto.",
+      "Denk bijvoorbeeld aan jouw werk hier.",
+      "Denk bijvoorbeeld aan dit Italiaans restaurant."
+    ],
+    "b2": [
+      "Denk bijvoorbeeld aan de impact van sociale media op de verkoop.",
+      "Denk bijvoorbeeld aan de voordelen van thuiswerken voor medewerkers.",
+      "Denk bijvoorbeeld aan de situatie van onze directe concurrenten.",
+      "Denk bijvoorbeeld aan de recente klimaatveranderingen.",
+      "Denk bijvoorbeeld aan het succes van ons laatste product."
+    ],
+    "c1": [
+      "Denk bijvoorbeeld aan de gevolgen van geopolitieke instabiliteit voor onze prijzen.",
+      "Denk bijvoorbeeld aan de massale adoptie van blockchaintechnologie in de financiële sector.",
+      "Denk bijvoorbeeld aan de ethische implicaties van genetische manipulatie.",
+      "Denk bijvoorbeeld aan de correlatie tussen onderwijs en economische groei.",
+      "Denk bijvoorbeeld aan de volatiliteit van opkomende markten over de afgelopen tien jaar."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "De kern van de zaak is ...",
+    "translation": "The bottom line is …",
+    "b1": [
+      "De kern van de zaak is gelukkig zijn.",
+      "De kern van de zaak is gezond eten.",
+      "De kern van de zaak is je werk afmaken.",
+      "De kern van de zaak is op tijd zijn.",
+      "De kern van de zaak is vrienden hebben."
+    ],
+    "b2": [
+      "De kern van de zaak is dat het project op lange termijn rendabel moet zijn.",
+      "De kern van de zaak is de veiligheidsregels naleven.",
+      "De kern van de zaak is luisteren naar de behoeften van onze klanten.",
+      "De kern van de zaak is een positieve houding op het werk behouden.",
+      "De kern van de zaak is concrete resultaten behalen."
+    ],
+    "c1": [
+      "De kern van de zaak is de financiële continuïteit van de instelling waarborgen.",
+      "De kern van de zaak is onze integriteit bewaren tegenover tegenspoed.",
+      "De kern van de zaak is innovatie bevorderen via een cultuur van experimenteren.",
+      "De kern van de zaak is de transparantie van onze besluitvormingsprocessen garanderen.",
+      "De kern van de zaak is grote technologische omwentelingen tijdig anticiperen."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Laten we de belangrijkste bevindingen doornemen: ...",
+    "translation": "Let's review the main findings: ...",
+    "b1": [
+      "Laten we de belangrijkste bevindingen doornemen: we zijn klaar.",
+      "Laten we de belangrijkste bevindingen doornemen: het is te duur.",
+      "Laten we de belangrijkste bevindingen doornemen: iedereen is het eens.",
+      "Laten we de belangrijkste bevindingen doornemen: we vertrekken morgen.",
+      "Laten we de belangrijkste bevindingen doornemen: het is een succes."
+    ],
+    "b2": [
+      "Laten we de belangrijkste bevindingen doornemen: we moeten van leverancier veranderen.",
+      "Laten we de belangrijkste bevindingen doornemen: de reclamecampagne is effectief.",
+      "Laten we de belangrijkste bevindingen doornemen: het budget wordt dit jaar overschreden.",
+      "Laten we de belangrijkste bevindingen doornemen: de medewerkers willen meer flexibiliteit.",
+      "Laten we de belangrijkste bevindingen doornemen: de kwaliteit is met 20% verbeterd."
+    ],
+    "c1": [
+      "Laten we de belangrijkste bevindingen doornemen: de audit bevestigt een gezond beheer.",
+      "Laten we de belangrijkste bevindingen doornemen: de fusie biedt reële synergieën.",
+      "Laten we de belangrijkste bevindingen doornemen: de premium positionering is gevalideerd.",
+      "Laten we de belangrijkste bevindingen doornemen: de energietransitie is onomkeerbaar.",
+      "Laten we de belangrijkste bevindingen doornemen: operationele veerkracht is onze grootste troef."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Om de situatie samen te vatten, ...",
+    "translation": "To sum up the situation, ...",
+    "b1": [
+      "Om de situatie samen te vatten, we hebben vertraging.",
+      "Om de situatie samen te vatten, we hebben geen geld meer.",
+      "Om de situatie samen te vatten, het werk is gedaan.",
+      "Om de situatie samen te vatten, alles gaat goed.",
+      "Om de situatie samen te vatten, er is een probleem."
+    ],
+    "b2": [
+      "Om de situatie samen te vatten, de markt is verzadigd en de prijzen dalen.",
+      "Om de situatie samen te vatten, we hebben onze belangrijkste klant verloren.",
+      "Om de situatie samen te vatten, de nieuwe kantoren zijn bijna klaar.",
+      "Om de situatie samen te vatten, het team mist momenteel motivatie.",
+      "Om de situatie samen te vatten, we hebben een nieuwe strategie nodig."
+    ],
+    "c1": [
+      "Om de situatie samen te vatten, we zijn getuige van een samenloop van economische en sociale crisissen.",
+      "Om de situatie samen te vatten, de diagnose onthult grote structurele tekortkomingen.",
+      "Om de situatie samen te vatten, de internationale expansie is voorlopig opgeschort.",
+      "Om de situatie samen te vatten, we opereren in een uiterst instabiel regelgevend kader.",
+      "Om de situatie samen te vatten, de continuïteit van het model hangt af van ons vermogen tot innoveren."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Mijn begrip is dat ...",
+    "translation": "My understanding is that ...",
+    "b1": [
+      "Mijn begrip is dat je moe bent.",
+      "Mijn begrip is dat de film afgelopen is.",
+      "Mijn begrip is dat we moeten vertrekken.",
+      "Mijn begrip is dat het moeilijk is.",
+      "Mijn begrip is dat je het ermee eens bent."
+    ],
+    "b2": [
+      "Mijn begrip is dat het budget dit jaar niet verhoogd wordt.",
+      "Mijn begrip is dat u op zoek bent naar iemand met meer ervaring.",
+      "Mijn begrip is dat het project wordt uitgesteld naar een latere datum.",
+      "Mijn begrip is dat de klanttevredenheid daalt.",
+      "Mijn begrip is dat we het team moeten opleiden in de nieuwe tools."
+    ],
+    "c1": [
+      "Mijn begrip is dat de strategische levensvatbaarheid berust op onze wendbaarheid.",
+      "Mijn begrip is dat fiscale optimalisering een prioriteit is voor de groep.",
+      "Mijn begrip is dat u een radicale verandering van bestuur voorstaat.",
+      "Mijn begrip is dat de milieu-impact een uitsluitend criterium is.",
+      "Mijn begrip is dat de operationele synergie tussen de afdelingen onvoldoende is."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Alleen om duidelijk te zijn, ...",
+    "translation": "Just to be clear, …",
+    "b1": [
+      "Alleen om duidelijk te zijn, dit is mijn pen.",
+      "Alleen om duidelijk te zijn, ik kom vanavond niet.",
+      "Alleen om duidelijk te zijn, de afspraak is om twaalf uur.",
+      "Alleen om duidelijk te zijn, roken is hier verboden.",
+      "Alleen om duidelijk te zijn, ik ben het ermee eens."
+    ],
+    "b2": [
+      "Alleen om duidelijk te zijn, dit is geen belofte van onmiddellijke aanwerving.",
+      "Alleen om duidelijk te zijn, reiskosten worden niet terugbetaald.",
+      "Alleen om duidelijk te zijn, we zullen niet meer samenwerken met deze leverancier.",
+      "Alleen om duidelijk te zijn, u moet beschermende uitrusting dragen.",
+      "Alleen om duidelijk te zijn, de vermelde prijs is exclusief btw."
+    ],
+    "c1": [
+      "Alleen om duidelijk te zijn, mijn goedkeuring is afhankelijk van een herziening van de clausules.",
+      "Alleen om duidelijk te zijn, het gaat om een aanbeveling en geen bindende opdracht.",
+      "Alleen om duidelijk te zijn, de continuïteit van het contract hangt af van deze resultaten.",
+      "Alleen om duidelijk te zijn, wij nemen geen juridische aansprakelijkheid op ons.",
+      "Alleen om duidelijk te zijn, de audit zal exhaustief zijn en betrekking hebben op de laatste vijf jaar."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Het eindresultaat was ...",
+    "translation": "The final outcome was ...",
+    "b1": [
+      "Het eindresultaat was een succes.",
+      "Het eindresultaat was teleurstellend.",
+      "Het eindresultaat was prachtig.",
+      "Het eindresultaat was een gelijkspel.",
+      "Het eindresultaat was in overeenstemming met onze verwachtingen."
+    ],
+    "b2": [
+      "Het eindresultaat was een stijging van 10% in onze omzet.",
+      "Het eindresultaat was de oprichting van een nieuwe marketingafdeling.",
+      "Het eindresultaat was een akkoord tussen beide partijen na acht uur overleg.",
+      "Het eindresultaat was de volledige annulering van het project.",
+      "Het eindresultaat was de invoering van een efficiënt recyclagesysteem."
+    ],
+    "c1": [
+      "Het eindresultaat was een grondige herstructurering van het ondernemingsbestuur.",
+      "Het eindresultaat was de goedkeuring door de markttoezichthouders.",
+      "Het eindresultaat was een aanzienlijke verbetering van onze operationele veerkracht.",
+      "Het eindresultaat was het behalen van een internationale milieucertificering.",
+      "Het eindresultaat was een geslaagde fusie ondanks de initiële culturele obstakels."
+    ]
+  }
+]

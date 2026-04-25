@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Als we ..., dan zullen we ...",
+    "translation": "If we ..., then we will ...",
+    "b1": [
+      "Als we veel studeren, dan zullen we het examen halen.",
+      "Als we nu vertrekken, dan zullen we op tijd aankomen.",
+      "Als we samen koken, dan zullen we een fijne avond hebben.",
+      "Als we deze bank kopen, dan zullen we de woonkamer veranderen.",
+      "Als we snel lopen, dan zullen we de bus halen."
+    ],
+    "b2": [
+      "Als we onze uitgaven verminderen, dan zullen we het budget in evenwicht brengen.",
+      "Als we dit product in de zomer lanceren, dan zullen we meer klanten aantrekken.",
+      "Als we dit aanbod aanvaarden, dan zullen we onze omzet verhogen.",
+      "Als we op afstand werken, dan zullen we besparen op kantoorkosten.",
+      "Als we van leverancier veranderen, dan zullen we de kwaliteit verbeteren."
+    ],
+    "c1": [
+      "Als we dit innovatietempo volhouden, dan zullen we de markt binnen twee jaar domineren.",
+      "Als we de tekenen van ontevredenheid negeren, dan zullen we een grote sociale crisis tegemoet gaan.",
+      "Als we investeren in hernieuwbare energie, dan zullen we de continuïteit van het bedrijf waarborgen.",
+      "Als we de besluitvorming decentraliseren, dan zullen we aan operationele wendbaarheid winnen.",
+      "Als we deze hervorming doorvoeren, dan zullen we ons bedrijfsmodel duurzaam transformeren."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Wat zou er gebeuren als ...?",
+    "translation": "What would happen if ...?",
+    "b1": [
+      "Wat zou er gebeuren als ik mijn tas verloor?",
+      "Wat zou er gebeuren als we te veel taart aten?",
+      "Wat zou er gebeuren als jij morgen niet kwam?",
+      "Wat zou er gebeuren als het regende tijdens de picknick?",
+      "Wat zou er gebeuren als we van film wisselden?"
+    ],
+    "b2": [
+      "Wat zou er gebeuren als de overheid de belastingen verhoogde?",
+      "Wat zou er gebeuren als onze belangrijkste klant zijn contract opzegde?",
+      "Wat zou er gebeuren als kunstmatige intelligentie onze redacteurs verving?",
+      "Wat zou er gebeuren als we besloten naar het buitenland te verhuizen?",
+      "Wat zou er gebeuren als niemand op onze uitnodiging reageerde?"
+    ],
+    "c1": [
+      "Wat zou er gebeuren als het wereldwijde banksysteem plotseling ineenstortte?",
+      "Wat zou er gebeuren als we geconfronteerd werden met een totaal tekort aan grondstoffen?",
+      "Wat zou er gebeuren als het paradigma van massale consumptie radicaal veranderde?",
+      "Wat zou er gebeuren als de waarheid door technologie onlosmakelijk verbonden raakte met leugens?",
+      "Wat zou er gebeuren als we plotseling alle toegang tot digitale gegevens verloren?"
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Als het resultaat ... is, moeten we ...",
+    "translation": "Should the outcome be ..., we must ...",
+    "b1": [
+      "Als het resultaat goed is, moeten we dat vieren.",
+      "Als het resultaat slecht is, moeten we opnieuw beginnen.",
+      "Als het resultaat positief is, moeten we blijven werken.",
+      "Als het resultaat negatief is, moeten we de dokter bellen.",
+      "Als het resultaat duidelijk is, moeten we een beslissing nemen."
+    ],
+    "b2": [
+      "Als het resultaat onder de verwachtingen ligt, moeten we de kosten verlagen.",
+      "Als het resultaat bemoedigend is, moeten we meer in dit project investeren.",
+      "Als het resultaat wordt betwist, moeten we een externe audit aanvragen.",
+      "Als het resultaat teleurstellend is, moeten we de oorzaken van het falen analyseren.",
+      "Als het resultaat door het team is goedgekeurd, moeten we de productie opstarten."
+    ],
+    "c1": [
+      "Als het resultaat symptomatisch is voor een structureel gebrek, moeten we het systeem grondig herzien.",
+      "Als het resultaat onder onze ethische normen valt, moeten we het partnerschap beëindigen.",
+      "Als het resultaat het gevolg is van toeval en niet van strategie, moeten we voorzichtig blijven.",
+      "Als het resultaat een marktomwenteling onthult, moeten we onmiddellijk pivotten.",
+      "Als het resultaat wetenschappelijk overtuigend is, moeten we deze gegevens onverwijld publiceren."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Als ik had geweten ..., had ik ...",
+    "translation": "If I had known ..., I would have ...",
+    "b1": [
+      "Als ik had geweten dat het zou regenen, had ik mijn paraplu meegenomen.",
+      "Als ik had geweten wat de waarheid was, had ik verdrietig geweest.",
+      "Als ik had geweten dat jij zou komen, had ik een taart gebakken.",
+      "Als ik had geweten wat de prijs was, had ik een andere telefoon gekocht.",
+      "Als ik had geweten hoe laat het was, had ik sneller gelopen."
+    ],
+    "b2": [
+      "Als ik had geweten dat dit project zo complex zou zijn, had ik meer tijd gevraagd.",
+      "Als ik had geweten wat jouw werkelijke bedoelingen waren, had ik anders gehandeld.",
+      "Als ik had geweten van de financiële risico's, had ik een expert geraadpleegd.",
+      "Als ik had geweten dat de winkel zo vroeg sloot, was ik 's ochtends gegaan.",
+      "Als ik had geweten dat jij hulp nodig had, was ik meteen gekomen."
+    ],
+    "c1": [
+      "Als ik had geweten wat de geopolitieke gevolgen van dit akkoord waren, had ik tegengestemd.",
+      "Als ik had geweten dat dit systeem zo snel verouderd zou raken, had ik de migratie geanticipeerd.",
+      "Als ik had geweten dat de bedrijfscultuur zo zou verslechteren, had ik andere waarden ingevoerd.",
+      "Als ik had geweten wat de psychologische impact van deze beslissing was, had ik een menselijkere aanpak verkozen.",
+      "Als ik had geweten dat deze markt zo snel verzadigd zou raken, had ik onze activa gediversifieerd."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Ervan uitgaande dat ..., is het waarschijnlijk dat ...",
+    "translation": "Assuming that ..., it is likely that ...",
+    "b1": [
+      "Ervan uitgaande dat het mooi weer is, is het waarschijnlijk dat we naar het strand gaan.",
+      "Ervan uitgaande dat jij werkt, is het waarschijnlijk dat jij geld verdient.",
+      "Ervan uitgaande dat de bus rijdt, is het waarschijnlijk dat ik om twaalf uur aankom.",
+      "Ervan uitgaande dat zij ja zegt, is het waarschijnlijk dat we gelukkig zijn.",
+      "Ervan uitgaande dat het examen makkelijk is, is het waarschijnlijk dat iedereen slaagt."
+    ],
+    "b2": [
+      "Ervan uitgaande dat de trend zich bevestigt, is het waarschijnlijk dat de verkoop stijgt.",
+      "Ervan uitgaande dat het budget wordt goedgekeurd, is het waarschijnlijk dat we binnenkort aanwerven.",
+      "Ervan uitgaande dat het vaccin werkt, is het waarschijnlijk dat het leven zich normaliseert.",
+      "Ervan uitgaande dat de achterstand wordt ingehaald, is het waarschijnlijk dat we op tijd klaarzijn.",
+      "Ervan uitgaande dat u onze voorwaarden aanvaardt, is het waarschijnlijk dat we morgen tekenen."
+    ],
+    "c1": [
+      "Ervan uitgaande dat de rentevoeten dalen, is het waarschijnlijk dat de investeringen weer op gang komen.",
+      "Ervan uitgaande dat de digitale transitie versnelt, is het waarschijnlijk dat sommige beroepen verdwijnen.",
+      "Ervan uitgaande dat het conflict aanhoudt, is het waarschijnlijk dat de inflatie hardnekkig blijft.",
+      "Ervan uitgaande dat de AI dit prestatieniveau bereikt, is het waarschijnlijk dat we wetgeving nodig hebben.",
+      "Ervan uitgaande dat de sociale cohesie bewaard blijft, is het waarschijnlijk dat de hervorming slaagt."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Ik voorspel dat ... zal gebeuren.",
+    "translation": "I predict that ... will happen.",
+    "b1": [
+      "Ik voorspel dat het vanavond zal regenen.",
+      "Ik voorspel dat jouw team zal winnen.",
+      "Ik voorspel dat deze film geweldig zal zijn.",
+      "Ik voorspel dat hij te laat zal zijn.",
+      "Ik voorspel dat jij dit gerecht lekker zal vinden."
+    ],
+    "b2": [
+      "Ik voorspel dat een grote verandering in het bedrijf zal gebeuren.",
+      "Ik voorspel dat een nieuwe economische crisis binnenkort zal gebeuren.",
+      "Ik voorspel dat een diplomatisch akkoord voor het einde van de maand zal gebeuren.",
+      "Ik voorspel dat een enorm commercieel succes met dit nieuwe product zal gebeuren.",
+      "Ik voorspel dat een stijging van de vastgoedprijzen volgend jaar zal gebeuren."
+    ],
+    "c1": [
+      "Ik voorspel dat een omwenteling van de geopolitieke evenwichten binnenkort zal gebeuren.",
+      "Ik voorspel dat een grote technologische breuk in de energiesector zal gebeuren.",
+      "Ik voorspel dat een radicale ecologische bewustwording bij jonge generaties zal gebeuren.",
+      "Ik voorspel dat een herdefiniëring van het sociaal contract op Europese schaal zal gebeuren.",
+      "Ik voorspel dat een verzadiging van communicatienetwerken zal gebeuren als we ons gebruik niet matigen."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Tenzij ... gebeurt, zullen we niet in staat zijn om ...",
+    "translation": "Unless ... happens, we won't be able to ...",
+    "b1": [
+      "Tenzij hij zich verontschuldigt, zullen we niet in staat zijn om vrienden te zijn.",
+      "Tenzij het mooi weer wordt, zullen we niet in staat zijn om buiten te gaan.",
+      "Tenzij jij eet, zullen we niet in staat zijn om te vertrekken.",
+      "Tenzij de trein aankomt, zullen we niet in staat zijn om terug te keren.",
+      "Tenzij jij studeert, zul jij niet in staat zijn om te slagen."
+    ],
+    "b2": [
+      "Tenzij er een wonder gebeurt, zullen we niet in staat zijn om dit project vanavond af te ronden.",
+      "Tenzij de directeur zijn akkoord geeft, zullen we niet in staat zijn om van bureau te wisselen.",
+      "Tenzij er financiering vrijkomt, zullen we niet in staat zijn om de applicatie te lanceren.",
+      "Tenzij de situatie verbetert, zullen we niet in staat zijn om de huidige prijzen te handhaven.",
+      "Tenzij er een fout wordt vastgesteld, zullen we niet in staat zijn om deze resultaten te betwisten."
+    ],
+    "c1": [
+      "Tenzij er een paradigmaverschuiving gebeurt, zullen we niet in staat zijn om de klimaatcrisis op te lossen.",
+      "Tenzij er een structurele hervorming gebeurt, zullen we niet in staat zijn om de economie te saneren.",
+      "Tenzij er een politieke consensus bereikt wordt, zullen we niet in staat zijn om dit verdrag te ratificeren.",
+      "Tenzij er een disruptieve innovatie gebeurt, zullen we niet in staat zijn om concurrentieel te blijven.",
+      "Tenzij er een ethische bewustwording plaatsvindt, zullen we niet in staat zijn om kunstmatige intelligentie te reguleren."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "In het geval van ..., zouden we ...",
+    "translation": "In the event of ..., we should ...",
+    "b1": [
+      "In het geval van regen, zouden we binnenblijven.",
+      "In het geval van honger, zouden we fruit kopen.",
+      "In het geval van problemen, zouden we mama bellen.",
+      "In het geval van vertraging, zouden we een bericht sturen.",
+      "In het geval van vermoeidheid, zouden we slapen."
+    ],
+    "b2": [
+      "In het geval van een medische noodsituatie, zouden we onmiddellijk de brandweer contacteren.",
+      "In het geval van een computerstoring, zouden we papieren dossiers gebruiken.",
+      "In het geval van een meningsverschil, zouden we stemmen om de kwestie te beslechten.",
+      "In het geval van grote vraag, zouden we tijdelijk personeel aanwerven.",
+      "In het geval van een mislukte onderhandeling, zouden we op zoek gaan naar een andere partner."
+    ],
+    "c1": [
+      "In het geval van een massale cyberaanval, zouden we het veiligheidsprotocol niveau 4 activeren.",
+      "In het geval van buitensporige marktvolatiliteit, zouden we onze risicovolle investeringen bevriezen.",
+      "In het geval van een machtsvacuüm, zouden we binnen dertig dagen vervroegde verkiezingen organiseren.",
+      "In het geval van niet-naleving van de contractclausules, zouden we gerechtelijke stappen ondernemen.",
+      "In het geval van een grote strategische meningsverschil, zouden we het bedrijf in twee entiteiten splitsen."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Er is een grote kans dat ...",
+    "translation": "There's a high probability that ...",
+    "b1": [
+      "Er is een grote kans dat het morgen regent.",
+      "Er is een grote kans dat jij de loterij wint.",
+      "Er is een grote kans dat zij naar het feest komt.",
+      "Er is een grote kans dat de les geannuleerd wordt.",
+      "Er is een grote kans dat het lekker is."
+    ],
+    "b2": [
+      "Er is een grote kans dat de olieprijzen deze winter nog stijgen.",
+      "Er is een grote kans dat we onze reisplannen moeten wijzigen.",
+      "Er is een grote kans dat het bedrijf door een buitenlandse groep overgenomen wordt.",
+      "Er is een grote kans dat er nieuwe regelgevingen worden ingevoerd.",
+      "Er is een grote kans dat u volgend jaar bevorderd wordt."
+    ],
+    "c1": [
+      "Er is een grote kans dat de devaluatie van de munt een galopperende inflatie veroorzaakt.",
+      "Er is een grote kans dat automatisering de arbeidsmarkt radicaal transformeert.",
+      "Er is een grote kans dat deze politieke instabiliteit uitmondt in een gewapend conflict.",
+      "Er is een grote kans dat watervoorraden de grote uitdaging van de eeuw worden.",
+      "Er is een grote kans dat we getuige zijn van een diepgaande mutatie van sociale waarden."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "We zouden ... kunnen zien als ...",
+    "translation": "We might see ... if ...",
+    "b1": [
+      "We zouden dolfijnen kunnen zien als we naar zee gaan.",
+      "We zouden sterren kunnen zien als de hemel helder is.",
+      "We zouden de Eiffeltoren kunnen zien als we een stukje lopen.",
+      "We zouden de baas kunnen zien als we hier wachten.",
+      "We zouden bloemen kunnen zien als het lente is."
+    ],
+    "b2": [
+      "We zouden een verbetering kunnen zien als we dit dieet volgen.",
+      "We zouden concrete resultaten kunnen zien als we samenwerken.",
+      "We zouden een daling van de werkloosheid kunnen zien als de groei aantrekt.",
+      "We zouden nieuwe gezichten kunnen zien als we van wijk wisselen.",
+      "We zouden een positieve reactie kunnen zien als we de zaken goed uitleggen."
+    ],
+    "c1": [
+      "We zouden een onomkeerbare achteruitgang van de biodiversiteit kunnen zien als we niet handelen.",
+      "We zouden een massale plattelandsvlucht kunnen zien als de klimaatomstandigheden verslechteren.",
+      "We zouden een opleving van extremistische ideologieën kunnen zien als de crisis verergert.",
+      "We zouden een groene industriële revolutie kunnen zien als de investeringen volgen.",
+      "We zouden een verschuiving van de economische hegemonie kunnen zien als de opkomende landen zich verbinden."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Dit suggereert dat de toekomst ... in petto heeft",
+    "translation": "This suggests that the future holds ...",
+    "b1": [
+      "Dit suggereert dat de toekomst mooie verrassingen in petto heeft.",
+      "Dit suggereert dat de toekomst veel werk in petto heeft.",
+      "Dit suggereert dat de toekomst regen in petto heeft.",
+      "Dit suggereert dat de toekomst zonneschijn in petto heeft.",
+      "Dit suggereert dat de toekomst reizen in petto heeft."
+    ],
+    "b2": [
+      "Dit suggereert dat de toekomst grote uitdagingen voor onze generatie in petto heeft.",
+      "Dit suggereert dat de toekomst ongelooflijke kansen in de digitale wereld in petto heeft.",
+      "Dit suggereert dat de toekomst belangrijke veranderingen in onze manier van leven in petto heeft.",
+      "Dit suggereert dat de toekomst steeds fellere concurrentie in petto heeft.",
+      "Dit suggereert dat de toekomst een eenvoudiger leven dankzij technologie in petto heeft."
+    ],
+    "c1": [
+      "Dit suggereert dat de toekomst een volledige herziening van onze gezondheidsstelsels in petto heeft.",
+      "Dit suggereert dat de toekomst chronische instabiliteit voor de financiële markten in petto heeft.",
+      "Dit suggereert dat de toekomst toenemende spanningen rond energiebronnen in petto heeft.",
+      "Dit suggereert dat de toekomst een radicale herdefiniëring van het begrip privacy in petto heeft.",
+      "Dit suggereert dat de toekomst een verschuiving naar meer lokale bestuursvormen in petto heeft."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Het resultaat hangt volledig af van ...",
+    "translation": "The outcome depends entirely on whether or not ...",
+    "b1": [
+      "Het resultaat hangt volledig af van jouw werk.",
+      "Het resultaat hangt volledig af van het weer.",
+      "Het resultaat hangt volledig af van jouw keuze.",
+      "Het resultaat hangt volledig af van het geld.",
+      "Het resultaat hangt volledig af van jouw antwoord."
+    ],
+    "b2": [
+      "Het resultaat hangt volledig af van ons vermogen om effectief samen te werken.",
+      "Het resultaat hangt volledig af van de eindbeslissing van de algemeen directeur.",
+      "Het resultaat hangt volledig af van de kwaliteit van de gebruikte grondstoffen.",
+      "Het resultaat hangt volledig af van de steun die we van het publiek ontvangen.",
+      "Het resultaat hangt volledig af van de evolutie van de wereldwijde gezondheidssituatie."
+    ],
+    "c1": [
+      "Het resultaat hangt volledig af van de synergie tussen de verschillende projectpartners.",
+      "Het resultaat hangt volledig af van de flexibiliteit van onze operationele structuur.",
+      "Het resultaat hangt volledig af van de nauwgezetheid waarmee we deze normen zullen toepassen.",
+      "Het resultaat hangt volledig af van de afstemming tussen ons aanbod en de werkelijke vraag.",
+      "Het resultaat hangt volledig af van de continuïteit van de aan onderzoek toegewezen financiering."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Als de trend zich voortzet, dan ...",
+    "translation": "If the trend continues, then ...",
+    "b1": [
+      "Als de trend zich voortzet, dan wordt het heel warm.",
+      "Als de trend zich voortzet, dan zullen we de wedstrijd winnen.",
+      "Als de trend zich voortzet, dan zal iedereen komen.",
+      "Als de trend zich voortzet, dan zullen de prijzen dalen.",
+      "Als de trend zich voortzet, dan zullen we vroeg klaar zijn."
+    ],
+    "b2": [
+      "Als de trend zich voortzet, dan zal ons bedrijf volgend jaar marktleider worden.",
+      "Als de trend zich voortzet, dan zullen de natuurlijke hulpbronnen snel uitgeput raken.",
+      "Als de trend zich voortzet, dan zal thuiswerken de norm worden voor iedereen.",
+      "Als de trend zich voortzet, dan zullen we onze productiecapaciteit moeten verdubbelen.",
+      "Als de trend zich voortzet, dan dreigen de sociale spanningen te verhevigen."
+    ],
+    "c1": [
+      "Als de trend zich voortzet, dan zullen we een ontvolking van landelijke gebieden zien.",
+      "Als de trend zich voortzet, dan bereikt de overheidsschuld binnen tien jaar een kritieke drempel.",
+      "Als de trend zich voortzet, dan zal de veroudering van competenties aanzienlijk versnellen.",
+      "Als de trend zich voortzet, dan zal de polarisering van de publieke opinie elke dialoog onmogelijk maken.",
+      "Als de trend zich voortzet, dan zal het aandeel van fossiele brandstoffen in de energiemix drastisch dalen."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Als ze ... hadden overwogen, zou het resultaat ... geweest zijn",
+    "translation": "Had they considered ..., the result would have been ...",
+    "b1": [
+      "Als ze de prijs hadden overwogen, zou het resultaat anders geweest zijn.",
+      "Als ze het weer hadden overwogen, zou het resultaat beter geweest zijn.",
+      "Als ze mijn mening hadden overwogen, zou het resultaat positief geweest zijn.",
+      "Als ze de tijd hadden overwogen, zou het resultaat sneller geweest zijn.",
+      "Als ze de kinderen hadden overwogen, zou het resultaat vrolijker geweest zijn."
+    ],
+    "b2": [
+      "Als ze de milieurisico's hadden overwogen, zou het resultaat minder catastrofaal geweest zijn.",
+      "Als ze de mening van de klanten hadden overwogen, zou het resultaat een commercieel succes geweest zijn.",
+      "Als ze de onderhoudskosten hadden overwogen, zou het resultaat realistischer geweest zijn.",
+      "Als ze de concurrentie hadden overwogen, zou het resultaat een agressievere strategie geweest zijn.",
+      "Als ze de geldende wetgeving hadden overwogen, zou het resultaat legaal geweest zijn."
+    ],
+    "c1": [
+      "Als ze de sociologische implicaties hadden overwogen, zou het resultaat een soepelere integratie geweest zijn.",
+      "Als ze de volatiliteit van de aandelenmarkt hadden overwogen, zou het resultaat een voorzichtiger beheer geweest zijn.",
+      "Als ze de fragiliteit van de diplomatieke allianties hadden overwogen, zou het resultaat vrede geweest zijn.",
+      "Als ze de impact van automatisering op de werkgelegenheid hadden overwogen, zou het resultaat een sociale hervorming geweest zijn.",
+      "Als ze de verzadiging van het netwerk hadden overwogen, zou het resultaat een robuustere infrastructuur geweest zijn."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "We hebben een noodplan nodig voor het geval dat ...",
+    "translation": "We need a backup plan in case ...",
+    "b1": [
+      "We hebben een noodplan nodig voor het geval dat het regent.",
+      "We hebben een noodplan nodig voor het geval dat de trein vertraging heeft.",
+      "We hebben een noodplan nodig voor het geval dat het restaurant gesloten is.",
+      "We hebben een noodplan nodig voor het geval dat ik mijn sleutels vergeet.",
+      "We hebben een noodplan nodig voor het geval dat we geen geld meer hebben."
+    ],
+    "b2": [
+      "We hebben een noodplan nodig voor het geval dat de hoofdfinanciering wordt geweigerd.",
+      "We hebben een noodplan nodig voor het geval dat het computersysteem uitvalt.",
+      "We hebben een noodplan nodig voor het geval dat onze leverancier failliet gaat.",
+      "We hebben een noodplan nodig voor het geval dat de verkoop plots inzakt.",
+      "We hebben een noodplan nodig voor het geval dat de vergadering op het laatste moment wordt geannuleerd."
+    ],
+    "c1": [
+      "We hebben een noodplan nodig voor het geval dat een geopolitieke crisis de uitvoer blokkeert.",
+      "We hebben een noodplan nodig voor het geval dat de cyberweerbaarheid van het bedrijf in gevaar komt.",
+      "We hebben een noodplan nodig voor het geval dat de nieuwe regelgeving ons product overbodig maakt.",
+      "We hebben een noodplan nodig voor het geval dat een schandaal onze wereldwijde reputatie schaadt.",
+      "We hebben een noodplan nodig voor het geval dat de inflatie de productiekosten onhoudbaar maakt."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Het is denkbaar dat ...",
+    "translation": "It is conceivable that ...",
+    "b1": [
+      "Het is denkbaar dat jij moe bent.",
+      "Het is denkbaar dat het vanmiddag regent.",
+      "Het is denkbaar dat het in het begin moeilijk is.",
+      "Het is denkbaar dat we in een restaurant eten.",
+      "Het is denkbaar dat de prijs binnenkort daalt."
+    ],
+    "b2": [
+      "Het is denkbaar dat de twee partijen nooit tot een minnelijk akkoord komen.",
+      "Het is denkbaar dat de huidige technologie over vijf jaar achterhaald is.",
+      "Het is denkbaar dat we onze volledige interne organisatie moeten herzien.",
+      "Het is denkbaar dat de interesse voor dit product na verloop van tijd afneemt.",
+      "Het is denkbaar dat thuiswerken een wettelijke verplichting wordt."
+    ],
+    "c1": [
+      "Het is denkbaar dat de mensheid andere planeten zal moeten koloniseren om te overleven.",
+      "Het is denkbaar dat de structuur van de natiestaat zelf ter discussie wordt gesteld.",
+      "Het is denkbaar dat kunstmatige intelligentie uiteindelijk een vorm van bewustzijn ontwikkelt.",
+      "Het is denkbaar dat we een opgelegde krimp meemaken in plaats van een gekozen een.",
+      "Het is denkbaar dat fysiek geld volledig verdwijnt ten gunste van digitale valuta."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Zonder ..., is het onmogelijk om ...",
+    "translation": "Without ..., it is impossible to ...",
+    "b1": [
+      "Zonder geld, is het onmogelijk om deze auto te kopen.",
+      "Zonder water, is het onmogelijk om te leven.",
+      "Zonder sleutel, is het onmogelijk om de deur te openen.",
+      "Zonder te studeren, is het onmogelijk om dit examen te halen.",
+      "Zonder zon, is het onmogelijk om naar het strand te gaan."
+    ],
+    "b2": [
+      "Zonder duidelijke communicatie, is het onmogelijk om dit project tot een goed einde te brengen.",
+      "Zonder steun van de directie, is het onmogelijk om de bedrijfscultuur te veranderen.",
+      "Zonder een massale investering, is het onmogelijk om concurrentieel te blijven op deze markt.",
+      "Zonder het vertrouwen van klanten, is het onmogelijk om onze activiteit te bestendigen.",
+      "Zonder moderne tools, is het onmogelijk om de productiviteit te verhogen."
+    ],
+    "c1": [
+      "Zonder een coherente strategische visie, is het onmogelijk om marktontwrichtingen te anticiperen.",
+      "Zonder een strenge ethiek, is het onmogelijk om de integriteit van wetenschappelijk onderzoek te garanderen.",
+      "Zonder een internationaal consensus, is het onmogelijk om de wereldwijde financiële stromen te reguleren.",
+      "Zonder een sterke psychologische weerbaarheid, is het onmogelijk om zo'n systemische crisis te overwinnen.",
+      "Zonder een herziening van onze levensstijlen, is het onmogelijk om koolstofneutraliteit te bereiken."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Het bewijs wijst erop dat ... zal gebeuren.",
+    "translation": "The evidence points towards ... happening.",
+    "b1": [
+      "Het bewijs wijst erop dat het zal regenen.",
+      "Het bewijs wijst erop dat jij gelijk hebt.",
+      "Het bewijs wijst erop dat de trein is vertrokken.",
+      "Het bewijs wijst erop dat de film goed is.",
+      "Het bewijs wijst erop dat het kapot is."
+    ],
+    "b2": [
+      "Het bewijs wijst erop dat een temperatuurstijging dit decennium zal gebeuren.",
+      "Het bewijs wijst erop dat een daling van de consumptie binnenkort zal gebeuren.",
+      "Het bewijs wijst erop dat een leiderschapswissel in de groep zal gebeuren.",
+      "Het bewijs wijst erop dat een economische vertraging in het najaar zal gebeuren.",
+      "Het bewijs wijst erop dat een technologische revolutie in de geneeskunde zal gebeuren."
+    ],
+    "c1": [
+      "Het bewijs wijst erop dat een instorting van de mariene biodiversiteit zal gebeuren zonder dringende maatregelen.",
+      "Het bewijs wijst erop dat een geopolitieke verschuiving richting Azië onherroepelijk zal gebeuren.",
+      "Het bewijs wijst erop dat een staatsschuldencrisis zal gebeuren als de rentes stijgen.",
+      "Het bewijs wijst erop dat een genetische mutatie van dit virus van nature zal gebeuren.",
+      "Het bewijs wijst erop dat een destabilisering van democratische instellingen door desinformatie zal gebeuren."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Op voorwaarde dat ..., kunnen we overgaan tot ...",
+    "translation": "On the condition that ..., we can proceed with ...",
+    "b1": [
+      "Op voorwaarde dat het mooi weer is, kunnen we overgaan tot de wandeling.",
+      "Op voorwaarde dat jij je huiswerk afmaakt, kunnen we overgaan tot het spel.",
+      "Op voorwaarde dat alles klaar is, kunnen we overgaan tot het vertrek.",
+      "Op voorwaarde dat jij het ermee eens bent, kunnen we overgaan tot het huwelijk.",
+      "Op voorwaarde dat de prijs daalt, kunnen we overgaan tot de aankoop."
+    ],
+    "b2": [
+      "Op voorwaarde dat het contract is getekend, kunnen we overgaan tot de verzending van de goederen.",
+      "Op voorwaarde dat de middelen zijn vrijgemaakt, kunnen we overgaan tot de renovatiewerken.",
+      "Op voorwaarde dat de tests positief zijn, kunnen we overgaan tot de nationale lancering.",
+      "Op voorwaarde dat u de richtlijnen respecteert, kunnen we overgaan tot het gesprek.",
+      "Op voorwaarde dat de veiligheid is gewaarborgd, kunnen we overgaan tot de opening van de site."
+    ],
+    "c1": [
+      "Op voorwaarde dat de audit gunstig uitvalt, kunnen we overgaan tot de fusie-overname.",
+      "Op voorwaarde dat het wetgevend kader is verduidelijkt, kunnen we overgaan tot de vestiging in de vrijhandelszone.",
+      "Op voorwaarde dat de digitale soevereiniteit is verzekerd, kunnen we overgaan tot de gegevensmigratie.",
+      "Op voorwaarde dat de aandeelhouders het plan valideren, kunnen we overgaan tot de herstructurering van het kapitaal.",
+      "Op voorwaarde dat de vrede is hersteld, kunnen we overgaan tot de wederopbouw van de infrastructuren."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "De implicatie op lange termijn is ...",
+    "translation": "The long-term implication is ...",
+    "b1": [
+      "De implicatie op lange termijn is dat we gezond zullen zijn.",
+      "De implicatie op lange termijn is dat we geld zullen besparen.",
+      "De implicatie op lange termijn is dat we beter Nederlands zullen leren.",
+      "De implicatie op lange termijn is dat onze tuin mooi zal zijn.",
+      "De implicatie op lange termijn is dat we rustiger zullen zijn."
+    ],
+    "b2": [
+      "De implicatie op lange termijn is een toenemende afhankelijkheid van ingevoerde energie.",
+      "De implicatie op lange termijn is de verdwijning van bepaalde buurtwinkels.",
+      "De implicatie op lange termijn is een verbetering van de levenskwaliteit van stedelingen.",
+      "De implicatie op lange termijn is de creatie van nieuwe tewerkstellingssectoren.",
+      "De implicatie op lange termijn is een aanzienlijke vermindering van onze ecologische voetafdruk."
+    ],
+    "c1": [
+      "De implicatie op lange termijn is een onvermijdelijke erosie van de koopkracht van de middenklasse.",
+      "De implicatie op lange termijn is een radicale verandering van traditionele gezinsstructuren.",
+      "De implicatie op lange termijn is het verlies van onze strategische autonomie tegenover techgiganten.",
+      "De implicatie op lange termijn is een verschuiving van het collectief bewustzijn ten aanzien van werk.",
+      "De implicatie op lange termijn is het risico op chronische sociale instabiliteit door ongelijkheid."
+    ]
+  }
+]

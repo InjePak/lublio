@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Elke ochtend doe ik gewoonlijk ...",
+    "translation": "Every morning, I usually ...",
+    "b1": [
+      "Elke ochtend doe ik gewoonlijk mijn bed op.",
+      "Elke ochtend doe ik gewoonlijk wat aan sport.",
+      "Elke ochtend doe ik gewoonlijk koffie zetten.",
+      "Elke ochtend doe ik gewoonlijk een wandeling met mijn hond.",
+      "Elke ochtend doe ik gewoonlijk mijn Franse huiswerk."
+    ],
+    "b2": [
+      "Elke ochtend doe ik gewoonlijk een meditatieoefening om kalm te blijven.",
+      "Elke ochtend doe ik gewoonlijk een ronde door mijn professionele e-mails.",
+      "Elke ochtend doe ik gewoonlijk een lijst van mijn prioritaire doelen.",
+      "Elke ochtend doe ik gewoonlijk wat stretchoefeningen om mijn lichaam te wekken.",
+      "Elke ochtend doe ik gewoonlijk een snelle rondgang door het wereldnieuws."
+    ],
+    "c1": [
+      "Elke ochtend doe ik gewoonlijk een retrospectieve analyse van mijn prestaties van de vorige dag.",
+      "Elke ochtend doe ik gewoonlijk blijk van discipline door creatieve visualisatie te beoefenen.",
+      "Elke ochtend doe ik gewoonlijk een stand van zaken van de belangrijkste prestatie-indicatoren van mijn team.",
+      "Elke ochtend doe ik gewoonlijk een grondige strategische omgevingsanalyse van mijn sector.",
+      "Elke ochtend doe ik gewoonlijk een bewuste inspanning om van sociale media los te koppelen."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Ik heb de neiging om ... wanneer ...",
+    "translation": "I tend to ... when ...",
+    "b1": [
+      "Ik heb de neiging om chocolade te eten wanneer ik verdrietig ben.",
+      "Ik heb de neiging om veel te slapen wanneer ik moe ben.",
+      "Ik heb de neiging om te zingen wanneer ik onder de douche sta.",
+      "Ik heb de neiging om snel te praten wanneer ik zenuwachtig ben.",
+      "Ik heb de neiging om een boek te lezen wanneer het buiten regent."
+    ],
+    "b2": [
+      "Ik heb de neiging om uit te stellen wanneer de taak te complex is.",
+      "Ik heb de neiging om mijn geduld te verliezen wanneer mensen niet op tijd zijn.",
+      "Ik heb de neiging om mijn berichten te checken wanneer ik me verveel in vergaderingen.",
+      "Ik heb de neiging om fouten te maken wanneer ik in een lawaaierige omgeving werk.",
+      "Ik heb de neiging om me af te zonderen wanneer ik serieus moet nadenken."
+    ],
+    "c1": [
+      "Ik heb de neiging om rationele analyse te verkiezen wanneer ik met een crisis wordt geconfronteerd.",
+      "Ik heb de neiging om de status-quo in vraag te stellen wanneer de resultaten stagneren.",
+      "Ik heb de neiging om een defensieve houding aan te nemen wanneer mijn overtuigingen worden geschokt.",
+      "Ik heb de neiging om mijn werkcapaciteit te overschatten wanneer ik gepassioneerd ben door een project.",
+      "Ik heb de neiging om technische details te verdoezelen wanneer ik me concentreer op de globale visie."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "In de regel doe ik nooit ...",
+    "translation": "As a rule, I never ...",
+    "b1": [
+      "In de regel eet ik nooit vlees.",
+      "In de regel kijk ik nooit 's ochtends televisie.",
+      "In de regel ga ik nooit naar buiten zonder mijn telefoon.",
+      "In de regel drink ik nooit frisdrank.",
+      "In de regel slaap ik nooit na middernacht."
+    ],
+    "b2": [
+      "In de regel neem ik nooit belangrijke beslissingen in woede.",
+      "In de regel mis ik nooit mijn wekelijkse sportsessies.",
+      "In de regel beantwoord ik nooit oproepen van onbekende nummers 's avonds.",
+      "In de regel begin ik nooit aan een nieuw project zonder een duidelijk plan.",
+      "In de regel deel ik nooit vertrouwelijke informatie online."
+    ],
+    "c1": [
+      "In de regel doe ik nooit concessies op mijn fundamentele ethische principes.",
+      "In de regel delegeer ik nooit een taak zonder eerst de vereiste competenties te hebben nagegaan.",
+      "In de regel reageer ik nooit impulsief op schommelingen van de financiële markt.",
+      "In de regel verwaarloze ik nooit de psychologische impact van mijn woorden op mijn medewerkers.",
+      "In de regel valideer ik nooit een contract zonder vooraf advies van mijn juridisch adviseur."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Ik maak er een punt van om ... minstens één keer per dag.",
+    "translation": "I make it a point to ... at least once a day.",
+    "b1": [
+      "Ik maak er een punt van om te lezen minstens één keer per dag.",
+      "Ik maak er een punt van om mijn moeder te bellen minstens één keer per dag.",
+      "Ik maak er een punt van om water te drinken minstens één keer per dag.",
+      "Ik maak er een punt van om te koken minstens één keer per dag.",
+      "Ik maak er een punt van om te wandelen minstens één keer per dag."
+    ],
+    "b2": [
+      "Ik maak er een punt van om een nieuw woord te leren minstens één keer per dag.",
+      "Ik maak er een punt van om iemand te bedanken minstens één keer per dag.",
+      "Ik maak er een punt van om mijn bureau op te ruimen minstens één keer per dag.",
+      "Ik maak er een punt van om een vreemde taal te oefenen minstens één keer per dag.",
+      "Ik maak er een punt van om tijd voor mezelf te nemen minstens één keer per dag."
+    ],
+    "c1": [
+      "Ik maak er een punt van om mijn intellectuele nieuwsgierigheid te prikkelen minstens één keer per dag.",
+      "Ik maak er een punt van om buiten mijn comfortzone te stappen minstens één keer per dag.",
+      "Ik maak er een punt van om mijn professioneel netwerk te onderhouden minstens één keer per dag.",
+      "Ik maak er een punt van om mijn strategische prioriteiten te herbekijken minstens één keer per dag.",
+      "Ik maak er een punt van om dankbaarheid te beoefenen om mijn mentaal evenwicht te bewaren minstens één keer per dag."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Voor alles doe ik altijd ...",
+    "translation": "Before anything else, I always ...",
+    "b1": [
+      "Voor alles was ik altijd mijn handen.",
+      "Voor alles drink ik altijd een glas water.",
+      "Voor alles groet ik altijd mijn collega's.",
+      "Voor alles check ik altijd het weer.",
+      "Voor alles zoek ik altijd mijn sleutels."
+    ],
+    "b2": [
+      "Voor alles leg ik altijd mijn kleren klaar voor de volgende dag.",
+      "Voor alles controleer ik altijd of alle deuren op slot zijn.",
+      "Voor alles bepaal ik altijd de drie belangrijkste taken van de dag.",
+      "Voor alles neem ik altijd een moment om diep adem te halen.",
+      "Voor alles controleer ik altijd of mijn computer voldoende is opgeladen."
+    ],
+    "c1": [
+      "Voor alles raadpleeg ik altijd de laatste prestatie-indicatoren.",
+      "Voor alles informeer ik altijd naar het welzijn van mijn medewerkers.",
+      "Voor alles voer ik altijd een risicoanalyse van het project uit.",
+      "Voor alles controleer ik altijd de samenhang van mijn acties met de globale strategie.",
+      "Voor alles verifieer ik altijd de nauwkeurigheid van de informatiebronnen waarover ik beschik."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Ik ben de gewoonte ontwikkeld om ...",
+    "translation": "I've gotten into the habit of ...",
+    "b1": [
+      "Ik ben de gewoonte ontwikkeld om 's ochtends fruit te eten.",
+      "Ik ben de gewoonte ontwikkeld om naar het werk te wandelen.",
+      "Ik ben de gewoonte ontwikkeld om voor het slapen gaan te lezen.",
+      "Ik ben de gewoonte ontwikkeld om vaak dank je wel te zeggen.",
+      "Ik ben de gewoonte ontwikkeld om mijn spullen op te ruimen."
+    ],
+    "b2": [
+      "Ik ben de gewoonte ontwikkeld om al mijn ideeën in een notitieboekje te noteren.",
+      "Ik ben de gewoonte ontwikkeld om de trap te nemen in plaats van de lift.",
+      "Ik ben de gewoonte ontwikkeld om groene thee te drinken in plaats van koffie.",
+      "Ik ben de gewoonte ontwikkeld om mijn tijd op sociale media te beperken.",
+      "Ik ben de gewoonte ontwikkeld om elk uur een pauze van vijf minuten te nemen."
+    ],
+    "c1": [
+      "Ik ben de gewoonte ontwikkeld om de bezwaren van mijn gesprekspartners te anticiperen.",
+      "Ik ben de gewoonte ontwikkeld om kwaliteit boven kwantiteit te stellen in mijn relaties.",
+      "Ik ben de gewoonte ontwikkeld om elk weekend een grondige technologische omgevingsanalyse te doen.",
+      "Ik ben de gewoonte ontwikkeld om mijn eigen cognitieve vertekeningen te deconstrueren bij beslissingen.",
+      "Ik ben de gewoonte ontwikkeld om abstracte doelstellingen te vertalen naar concrete, meetbare acties."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Mijn routine omvat doorgaans ...",
+    "translation": "My routine typically involves ...",
+    "b1": [
+      "Mijn routine omvat doorgaans een uitgebreid ontbijt.",
+      "Mijn routine omvat doorgaans twee uur les.",
+      "Mijn routine omvat doorgaans een snelle douche.",
+      "Mijn routine omvat doorgaans het nieuws kijken.",
+      "Mijn routine omvat doorgaans mijn vrienden bellen."
+    ],
+    "b2": [
+      "Mijn routine omvat doorgaans een intensieve yogasessie.",
+      "Mijn routine omvat doorgaans het bereiden van mijn middagmaal voor op kantoor.",
+      "Mijn routine omvat doorgaans een uur gespecialiseerde lectuur.",
+      "Mijn routine omvat doorgaans het bijwerken van mijn gedeelde agenda.",
+      "Mijn routine omvat doorgaans ademhalingsoefeningen om stress te beheersen."
+    ],
+    "c1": [
+      "Mijn routine omvat doorgaans een systematische audit van mijn financiële stromen.",
+      "Mijn routine omvat doorgaans een fase van creatieve ideevorming zonder digitale onderbrekingen.",
+      "Mijn routine omvat doorgaans het mentorschap van mijn jongere medewerkers.",
+      "Mijn routine omvat doorgaans preventief onderhoud van mijn productietools.",
+      "Mijn routine omvat doorgaans een kritische evaluatie van de lopende operationele processen."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "De meeste avonden betrap ik mezelf erop dat ik ...",
+    "translation": "Most evenings, I find myself ...",
+    "b1": [
+      "De meeste avonden betrap ik mezelf erop dat ik een film kijk.",
+      "De meeste avonden betrap ik mezelf erop dat ik voor morgen kook.",
+      "De meeste avonden betrap ik mezelf erop dat ik met mijn zus praat.",
+      "De meeste avonden betrap ik mezelf erop dat ik naar muziek luister.",
+      "De meeste avonden betrap ik mezelf erop dat ik videospelletjes speel."
+    ],
+    "b2": [
+      "De meeste avonden betrap ik mezelf erop dat ik mijn agenda organiseer.",
+      "De meeste avonden betrap ik mezelf erop dat ik aan sport doe om te ontspannen.",
+      "De meeste avonden betrap ik mezelf erop dat ik artikelen over mijn vakgebied lees.",
+      "De meeste avonden betrap ik mezelf erop dat ik in slaap val met een Frans boek.",
+      "De meeste avonden betrap ik mezelf erop dat ik nadenk over de fouten van die dag."
+    ],
+    "c1": [
+      "De meeste avonden betrap ik mezelf erop dat ik complexe strategische voorstellen bijslijp.",
+      "De meeste avonden betrap ik mezelf erop dat ik opkomende trends uit Silicon Valley analyseer.",
+      "De meeste avonden betrap ik mezelf erop dat ik mijn kennis van politieke filosofie verdiep.",
+      "De meeste avonden betrap ik mezelf erop dat ik gespecialiseerde online discussiefora modereer.",
+      "De meeste avonden betrap ik mezelf erop dat ik mijn gedachten structureer voor de conferentie van de volgende dag."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Wat ik vaak doe, is ...",
+    "translation": "What I often do is ...",
+    "b1": [
+      "Wat ik vaak doe, is naar het zwembad gaan.",
+      "Wat ik vaak doe, is appels eten.",
+      "Wat ik vaak doe, is podcasts luisteren.",
+      "Wat ik vaak doe, is mijn kamer opruimen.",
+      "Wat ik vaak doe, is uitgaan met mijn vrienden."
+    ],
+    "b2": [
+      "Wat ik vaak doe, is aantekeningen maken terwijl ik lees.",
+      "Wat ik vaak doe, is mijn maaltijden voor de week vooraf bereiden.",
+      "Wat ik vaak doe, is de prijzen vergelijken voor ik iets koop.",
+      "Wat ik vaak doe, is collega's helpen die het moeilijk hebben.",
+      "Wat ik vaak doe, is in het bos wandelen om inspiratie te vinden."
+    ],
+    "c1": [
+      "Wat ik vaak doe, is gegevens uit verschillende betrouwbare bronnen kruiselings controleren.",
+      "Wat ik vaak doe, is gangbare opvattingen binnen het bedrijf in vraag stellen.",
+      "Wat ik vaak doe, is de latente behoeften van mijn meest veeleisende klanten anticiperen.",
+      "Wat ik vaak doe, is mijn scripts optimaliseren om repetitieve taken te automatiseren.",
+      "Wat ik vaak doe, is de maatschappelijke impact van onze beslissingen op lange termijn analyseren."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Ik sla zelden de stap over van ...",
+    "translation": "I rarely skip the step of ...",
+    "b1": [
+      "Ik sla zelden de stap over van ontbijten.",
+      "Ik sla zelden de stap over van opwarmen voor het sporten.",
+      "Ik sla zelden de stap over van herhalen voor een test.",
+      "Ik sla zelden de stap over van mijn tanden poetsen.",
+      "Ik sla zelden de stap over van 's avonds lezen."
+    ],
+    "b2": [
+      "Ik sla zelden de stap over van mijn bankrekening controleren.",
+      "Ik sla zelden de stap over van mijn e-mails nalezen voor ik ze verstuur.",
+      "Ik sla zelden de stap over van mijn make-up verwijderen voor het slapengaan.",
+      "Ik sla zelden de stap over van de wekelijkse evaluatie op zondagavond.",
+      "Ik sla zelden de stap over van hydrateren na een trainingsessie."
+    ],
+    "c1": [
+      "Ik sla zelden de stap over van de beveiligingsaudit op mijn persoonlijke servers.",
+      "Ik sla zelden de stap over van de initiële diagnose voor ik een oplossing voorstel.",
+      "Ik sla zelden de stap over van overleg met de belanghebbenden van het project.",
+      "Ik sla zelden de stap over van de controle op de juridische conformiteit van documenten.",
+      "Ik sla zelden de stap over van de historische kadering van de huidige situatie."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Het is een dagelijks ritueel voor mij om ...",
+    "translation": "It's a daily ritual for me to ...",
+    "b1": [
+      "Het is een dagelijks ritueel voor mij om een kopje thee te drinken.",
+      "Het is een dagelijks ritueel voor mij om naar de lucht te kijken.",
+      "Het is een dagelijks ritueel voor mij om de buurman gedag te zeggen.",
+      "Het is een dagelijks ritueel voor mij om in mijn dagboek te schrijven.",
+      "Het is een dagelijks ritueel voor mij om naar de radio te luisteren."
+    ],
+    "b2": [
+      "Het is een dagelijks ritueel voor mij om vijftien minuten te mediteren.",
+      "Het is een dagelijks ritueel voor mij om 's avonds een dankbaarheidslijst te maken.",
+      "Het is een dagelijks ritueel voor mij om mijn planten zorgvuldig water te geven.",
+      "Het is een dagelijks ritueel voor mij om koffie te zetten met een French press.",
+      "Het is een dagelijks ritueel voor mij om een hoofdstuk uit een non-fictieboek te lezen."
+    ],
+    "c1": [
+      "Het is een dagelijks ritueel voor mij om de lessen van die dag te synthetiseren.",
+      "Het is een dagelijks ritueel voor mij om een oplossingsgerichte mindset te cultiveren.",
+      "Het is een dagelijks ritueel voor mij om mindfulness te beoefenen tijdens mijn verplaatsingen.",
+      "Het is een dagelijks ritueel voor mij om de afstemming van mijn acties op mijn waarden te herbekijken.",
+      "Het is een dagelijks ritueel voor mij om me te informeren over de meest recente wetenschappelijke doorbraken."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Ik vervolg dat gewoonlijk met ...",
+    "translation": "I usually follow that up with ...",
+    "b1": [
+      "Ik vervolg dat gewoonlijk met een groot glas sap.",
+      "Ik vervolg dat gewoonlijk met mijn huiswerk.",
+      "Ik vervolg dat gewoonlijk met een dutje.",
+      "Ik vervolg dat gewoonlijk met een videospelletje.",
+      "Ik vervolg dat gewoonlijk met een wandeling."
+    ],
+    "b2": [
+      "Ik vervolg dat gewoonlijk met een intensieve schrijfsessie.",
+      "Ik vervolg dat gewoonlijk met het beantwoorden van reacties van mijn klanten.",
+      "Ik vervolg dat gewoonlijk met het luisteren naar een educatieve podcast.",
+      "Ik vervolg dat gewoonlijk met een koude douche om mezelf energie te geven.",
+      "Ik vervolg dat gewoonlijk met het plannen van mijn dag van morgen."
+    ],
+    "c1": [
+      "Ik vervolg dat gewoonlijk met een vergelijkende analyse van de behaalde resultaten.",
+      "Ik vervolg dat gewoonlijk met een brainstormsessie met mijn creatief team.",
+      "Ik vervolg dat gewoonlijk met het opstellen van een omstandig syntheseverslag.",
+      "Ik vervolg dat gewoonlijk met informatievergaring over de aandelenmarkten.",
+      "Ik vervolg dat gewoonlijk met een reflectie over de optimalisering van onze managementprocessen."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Zonder uitzondering, elke ...",
+    "translation": "Without fail, every ...",
+    "b1": [
+      "Zonder uitzondering, elke ochtend drink ik melk.",
+      "Zonder uitzondering, elke zondag bezoek ik mijn grootmoeder.",
+      "Zonder uitzondering, elke avond sluit ik de ramen.",
+      "Zonder uitzondering, elke maandag ga ik naar de sportschool.",
+      "Zonder uitzondering, elke zomer ga ik naar het strand."
+    ],
+    "b2": [
+      "Zonder uitzondering, elke maand zet ik mijn persoonlijke financiën op een rij.",
+      "Zonder uitzondering, elke vrijdag organiseren we een teamlunch.",
+      "Zonder uitzondering, elke avond voor het slapen gaan laad ik mijn telefoon op.",
+      "Zonder uitzondering, elke regendag neem ik mijn gele paraplu mee.",
+      "Zonder uitzondering, elke verjaardag schrijf ik een brief aan mijn toekomstige zelf."
+    ],
+    "c1": [
+      "Zonder uitzondering, elke kwartaal voeren we een budgetherzieningsessie uit.",
+      "Zonder uitzondering, elke jaareinde evalueer ik mijn groeidoelstellingen.",
+      "Zonder uitzondering, elke directievergadering presenteer ik een transparantieverslag.",
+      "Zonder uitzondering, elk nieuw project voeren we een kwetsbaarheidstest uit.",
+      "Zonder uitzondering, elke crisis organiseren we een terugblik op de opgedane ervaringen."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Ik probeer voortdurend te onthouden om ...",
+    "translation": "I'm constantly trying to remember to ...",
+    "b1": [
+      "Ik probeer voortdurend te onthouden om mijn sleutels mee te nemen.",
+      "Ik probeer voortdurend te onthouden om jouw naam te onthouden.",
+      "Ik probeer voortdurend te onthouden om mijn huiswerk te maken.",
+      "Ik probeer voortdurend te onthouden om water te drinken.",
+      "Ik probeer voortdurend te onthouden om op tijd voor de bus te zijn."
+    ],
+    "b2": [
+      "Ik probeer voortdurend te onthouden om positief te blijven ondanks obstakels.",
+      "Ik probeer voortdurend te onthouden om het licht uit te doen als ik wegga.",
+      "Ik probeer voortdurend te onthouden om de verjaardagen van mijn vrienden te kennen.",
+      "Ik probeer voortdurend te onthouden om elke ochtend mijn vitamines in te nemen.",
+      "Ik probeer voortdurend te onthouden om mijn herbruikbare tas mee te nemen naar de winkel."
+    ],
+    "c1": [
+      "Ik probeer voortdurend te onthouden om het ethische aspect van onze strategische beslissingen in acht te nemen.",
+      "Ik probeer voortdurend te onthouden om de lessen uit mijn vroegere mislukkingen toe te passen.",
+      "Ik probeer voortdurend te onthouden dat eenvoud de hoogste vorm van verfijning is.",
+      "Ik probeer voortdurend te onthouden om de leden van mijn team erkenning te geven.",
+      "Ik probeer voortdurend te onthouden om culturele nuances in acht te nemen bij internationale uitwisselingen."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Mijn gewoonte is ontstaan omdat ...",
+    "translation": "My habit developed because ...",
+    "b1": [
+      "Mijn gewoonte is ontstaan omdat mijn ouders het ook deden.",
+      "Mijn gewoonte is ontstaan omdat het goed voor me is.",
+      "Mijn gewoonte is ontstaan omdat ik sterk wil zijn.",
+      "Mijn gewoonte is ontstaan omdat ik de smaak lekker vind.",
+      "Mijn gewoonte is ontstaan omdat ik er de tijd voor heb."
+    ],
+    "b2": [
+      "Mijn gewoonte is ontstaan omdat ik me beter wilde organiseren.",
+      "Mijn gewoonte is ontstaan omdat ik mijn stressniveau wilde verlagen.",
+      "Mijn gewoonte is ontstaan omdat ik een boek over productiviteit heb gelezen.",
+      "Mijn gewoonte is ontstaan omdat mijn werkuren zijn veranderd.",
+      "Mijn gewoonte is ontstaan omdat ik geld wilde besparen."
+    ],
+    "c1": [
+      "Mijn gewoonte is ontstaan omdat ik een zwakke plek in mijn managementsysteem heb geïdentificeerd.",
+      "Mijn gewoonte is ontstaan omdat ik streef naar een strenge persoonlijke discipline.",
+      "Mijn gewoonte is ontstaan omdat de concurrerende omgeving het dringend vereiste.",
+      "Mijn gewoonte is ontstaan omdat ik mijn dagelijkse ecologische voetafdruk wil minimaliseren.",
+      "Mijn gewoonte is ontstaan omdat ik overtuigd ben van het belang van levenslang leren."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Ik reserveer doorgaans tijd voor ...",
+    "translation": "I usually allocate time for ...",
+    "b1": [
+      "Ik reserveer doorgaans tijd voor mijn hobby's.",
+      "Ik reserveer doorgaans tijd voor mijn familie.",
+      "Ik reserveer doorgaans tijd voor het lezen van stripboeken.",
+      "Ik reserveer doorgaans tijd voor het opruimen van mijn huis.",
+      "Ik reserveer doorgaans tijd voor slapen."
+    ],
+    "b2": [
+      "Ik reserveer doorgaans tijd voor vrijwilligerswerk in mijn buurt.",
+      "Ik reserveer doorgaans tijd voor het leren van nieuwe technische vaardigheden.",
+      "Ik reserveer doorgaans tijd voor het plannen van mijn weekmenu.",
+      "Ik reserveer doorgaans tijd voor meditatie en bezinning.",
+      "Ik reserveer doorgaans tijd voor persoonlijke gesprekken met mijn collega's."
+    ],
+    "c1": [
+      "Ik reserveer doorgaans tijd voor een diepgaande zelfreflectie aan het einde van elke maand.",
+      "Ik reserveer doorgaans tijd voor de analyse van zwakke marktsignalen.",
+      "Ik reserveer doorgaans tijd voor het schrijven van wetenschappelijke publicaties.",
+      "Ik reserveer doorgaans tijd voor het vrijwillig begeleiden van jonge ondernemers.",
+      "Ik reserveer doorgaans tijd voor het grondig bestuderen van cyberbeveiligingsvraagstukken."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Het is voor mij een tweede natuur geworden om ...",
+    "translation": "It's become second nature to me to ...",
+    "b1": [
+      "Het is voor mij een tweede natuur geworden om sorry te zeggen.",
+      "Het is voor mij een tweede natuur geworden om mensen toe te lachen.",
+      "Het is voor mij een tweede natuur geworden om snel te wandelen.",
+      "Het is voor mij een tweede natuur geworden om te zingen tijdens het koken.",
+      "Het is voor mij een tweede natuur geworden om overal te lezen."
+    ],
+    "b2": [
+      "Het is voor mij een tweede natuur geworden om al mijn afval te recycleren.",
+      "Het is voor mij een tweede natuur geworden om mijn informatiebronnen te controleren.",
+      "Het is voor mij een tweede natuur geworden om op te staan zodra het alarm afgaat.",
+      "Het is voor mij een tweede natuur geworden om aantekeningen te maken tijdens vergaderingen.",
+      "Het is voor mij een tweede natuur geworden om water te besparen onder de douche."
+    ],
+    "c1": [
+      "Het is voor mij een tweede natuur geworden om systemische risico's te anticiperen.",
+      "Het is voor mij een tweede natuur geworden om een netwerk van mentoren op hoog niveau te cultiveren.",
+      "Het is voor mij een tweede natuur geworden om complexe informatie te synthetiseren.",
+      "Het is voor mij een tweede natuur geworden om empathisch en actief te luisteren.",
+      "Het is voor mij een tweede natuur geworden om mijn professionele zekerheden in vraag te stellen."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Mijn typische werkdag begint met ...",
+    "translation": "My typical workday starts with ...",
+    "b1": [
+      "Mijn typische werkdag begint met goedendag zeggen.",
+      "Mijn typische werkdag begint met mijn computer aanzetten.",
+      "Mijn typische werkdag begint met een glas sap drinken.",
+      "Mijn typische werkdag begint met mijn agenda controleren.",
+      "Mijn typische werkdag begint met een kopje koffie."
+    ],
+    "b2": [
+      "Mijn typische werkdag begint met een korte teamvergadering.",
+      "Mijn typische werkdag begint met het sorteren van mijn dringende berichten.",
+      "Mijn typische werkdag begint met het bijwerken van mijn opvolgingsbestanden.",
+      "Mijn typische werkdag begint met het controleren van de goederenvoorraad.",
+      "Mijn typische werkdag begint met een gesprek met onze buitenlandse partners."
+    ],
+    "c1": [
+      "Mijn typische werkdag begint met de analyse van financiële dashboards.",
+      "Mijn typische werkdag begint met een werksessie in 'deep work'-modus.",
+      "Mijn typische werkdag begint met een doorkijk van de internationale economische pers.",
+      "Mijn typische werkdag begint met de behandeling van prioritaire juridische dossiers.",
+      "Mijn typische werkdag begint met een strategische reflectie over onze langetermijndoelstellingen."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Ik probeer ... zoveel mogelijk te vermijden.",
+    "translation": "I try to avoid ... as much as possible.",
+    "b1": [
+      "Ik probeer suiker zoveel mogelijk te vermijden.",
+      "Ik probeer laat opblijven zoveel mogelijk te vermijden.",
+      "Ik probeer files zoveel mogelijk te vermijden.",
+      "Ik probeer ruzies zoveel mogelijk te vermijden.",
+      "Ik probeer junkfood zoveel mogelijk te vermijden."
+    ],
+    "b2": [
+      "Ik probeer onnodige stress zoveel mogelijk te vermijden.",
+      "Ik probeer de auto te gebruiken voor korte ritten zoveel mogelijk te vermijden.",
+      "Ik probeer digitale afleidingen tijdens het werk zoveel mogelijk te vermijden.",
+      "Ik probeer impulsieve aankopen zoveel mogelijk te vermijden.",
+      "Ik probeer mensen te veroordelen zonder ze te kennen zoveel mogelijk te vermijden."
+    ],
+    "c1": [
+      "Ik probeer elke vorm van intellectuele zelfgenoegzaamheid zoveel mogelijk te vermijden.",
+      "Ik probeer belangenconflicten binnen mijn projecten zoveel mogelijk te vermijden.",
+      "Ik probeer micromanagement bij mijn medewerkers zoveel mogelijk te vermijden.",
+      "Ik probeer strategische versnippering van onze middelen zoveel mogelijk te vermijden.",
+      "Ik probeer bevestigingsbias bij mijn onderzoek zoveel mogelijk te vermijden."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Het laatste wat ik doe voor ... is ...",
+    "translation": "The last thing I do before ... is ...",
+    "b1": [
+      "Het laatste wat ik doe voor het slapengaan is lezen.",
+      "Het laatste wat ik doe voor ik naar buiten ga is mijn sleutels pakken.",
+      "Het laatste wat ik doe voor het eten is mijn handen wassen.",
+      "Het laatste wat ik doe voor ik vertrek is het licht uitdoen.",
+      "Het laatste wat ik doe voor een reis is mijn paspoort controleren."
+    ],
+    "b2": [
+      "Het laatste wat ik doe voor ik ga slapen is mijn wekker zetten.",
+      "Het laatste wat ik doe voor een presentatie is een slokje water drinken.",
+      "Het laatste wat ik doe voor ik het kantoor verlaat is mijn werkplek opruimen.",
+      "Het laatste wat ik doe voor het koken is het volledige recept doorlezen.",
+      "Het laatste wat ik doe voor een examen is rustig ademen."
+    ],
+    "c1": [
+      "Het laatste wat ik doe voor ik een project afrond is een ultieme test uitvoeren.",
+      "Het laatste wat ik doe voor ik een contract onderteken is de kleine lettertjes herlezen.",
+      "Het laatste wat ik doe voor een strategische vergadering is mij verzekeren van de consensus.",
+      "Het laatste wat ik doe voor ik op vakantie ga is mijn verantwoordelijkheden delegeren.",
+      "Het laatste wat ik doe voor ik een belangrijke beslissing neem is mijn mentoren raadplegen."
+    ]
+  }
+]

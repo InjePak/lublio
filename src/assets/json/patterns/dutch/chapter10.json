@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Ik waardeer uw hulp bij ... echt enorm.",
+    "translation": "I truly appreciate your help with ...",
+    "b1": [
+      "Ik waardeer uw hulp bij mijn huiswerk echt enorm.",
+      "Ik waardeer uw hulp bij mijn verhuizing echt enorm.",
+      "Ik waardeer uw hulp bij het gebruik van dit programma echt enorm.",
+      "Ik waardeer uw hulp bij het koken vanavond echt enorm.",
+      "Ik waardeer uw hulp bij het kiezen van mijn cadeau echt enorm."
+    ],
+    "b2": [
+      "Ik waardeer uw hulp bij de organisatie van de conferentie echt enorm.",
+      "Ik waardeer uw hulp bij het opstellen van het jaarverslag echt enorm.",
+      "Ik waardeer uw hulp bij het omgaan met deze moeilijke klant echt enorm.",
+      "Ik waardeer uw hulp bij de logistiek van ons evenement echt enorm.",
+      "Ik waardeer uw hulp bij het zoeken naar nieuwe financiering echt enorm."
+    ],
+    "c1": [
+      "Ik waardeer uw hulp bij het oplossen van dit diplomatiek conflict echt enorm.",
+      "Ik waardeer uw hulp bij het uitwerken van onze langetermijnstrategie echt enorm.",
+      "Ik waardeer uw hulp bij de complexe herstructurering van onze afdeling echt enorm.",
+      "Ik waardeer uw hulp bij de interpretatie van de wereldmarktgegevens echt enorm.",
+      "Ik waardeer uw hulp bij het in overeenstemming brengen van onze ethische protocollen echt enorm."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "U heeft een opmerkelijk talent voor ...",
+    "translation": "You have a remarkable talent for ...",
+    "b1": [
+      "U heeft een opmerkelijk talent voor schilderen.",
+      "U heeft een opmerkelijk talent voor het zingen van Franse liedjes.",
+      "U heeft een opmerkelijk talent voor mensen aan het lachen maken.",
+      "U heeft een opmerkelijk talent voor het bakken van taarten.",
+      "U heeft een opmerkelijk talent voor gitaar spelen."
+    ],
+    "b2": [
+      "U heeft een opmerkelijk talent voor het vereenvoudigen van complexe concepten.",
+      "U heeft een opmerkelijk talent voor het motiveren van uw teamleden.",
+      "U heeft een opmerkelijk talent voor het snel oplossen van technische problemen.",
+      "U heeft een opmerkelijk talent voor commerciële onderhandeling.",
+      "U heeft een opmerkelijk talent voor het organiseren van gedenkwaardige evenementen."
+    ],
+    "c1": [
+      "U heeft een opmerkelijk talent voor het anticiperen op structurele verschuivingen in onze sector.",
+      "U heeft een opmerkelijk talent voor het verzoenen van tegenstrijdige belangen binnen de groep.",
+      "U heeft een opmerkelijk talent voor crisiscommunicatie en imagobeheer.",
+      "U heeft een opmerkelijk talent voor het identificeren van onbenutte groeimogelijkheden.",
+      "U heeft een opmerkelijk talent voor het overdragen van kennis met grote pedagogische helderheid."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Het was ongelooflijk attent van u om ...",
+    "translation": "That was incredibly thoughtful of you to ...",
+    "b1": [
+      "Het was ongelooflijk attent van u om me bloemen te brengen.",
+      "Het was ongelooflijk attent van u om me te helpen met mijn tassen.",
+      "Het was ongelooflijk attent van u om me een fijne verjaardag te wensen.",
+      "Het was ongelooflijk attent van u om de koffie te zetten.",
+      "Het was ongelooflijk attent van u om me naar huis te brengen."
+    ],
+    "b2": [
+      "Het was ongelooflijk attent van u om me een steunend berichtje te sturen.",
+      "Het was ongelooflijk attent van u om uw aantekeningen met mij te delen.",
+      "Het was ongelooflijk attent van u om uw agenda aan te passen om me te helpen.",
+      "Het was ongelooflijk attent van u om na mijn vergadering te informeren hoe het ging.",
+      "Het was ongelooflijk attent van u om snacks mee te brengen voor het hele team."
+    ],
+    "c1": [
+      "Het was ongelooflijk attent van u om rekening te houden met mijn persoonlijke beperkingen.",
+      "Het was ongelooflijk attent van u om mijn bijdrage te vermelden tijdens de directievergadering.",
+      "Het was ongelooflijk attent van u om mijn behoeften te anticiperen nog voor ik ze kon uitspreken.",
+      "Het was ongelooflijk attent van u om me te beschermen tegen die ongegronde kritiek.",
+      "Het was ongelooflijk attent van u om me deze waardevolle mentorkans aan te bieden."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Ik ben zo dankbaar voor het feit dat ...",
+    "translation": "I'm so grateful for the fact that ...",
+    "b1": [
+      "Ik ben zo dankbaar voor het feit dat jij mijn vriend bent.",
+      "Ik ben zo dankbaar voor het feit dat het vandaag mooi weer is.",
+      "Ik ben zo dankbaar voor het feit dat ik een geweldige familie heb.",
+      "Ik ben zo dankbaar voor het feit dat u naar me heeft geluisterd.",
+      "Ik ben zo dankbaar voor het feit dat we ons project hebben voltooid."
+    ],
+    "b2": [
+      "Ik ben zo dankbaar voor het feit dat het bedrijf ons vertrouwt.",
+      "Ik ben zo dankbaar voor het feit dat we een akkoord hebben kunnen bereiken.",
+      "Ik ben zo dankbaar voor het feit dat u me een tweede kans heeft gegeven.",
+      "Ik ben zo dankbaar voor het feit dat het team tijdens de crisis hecht is gebleven.",
+      "Ik ben zo dankbaar voor het feit dat mijn werk eindelijk erkend wordt."
+    ],
+    "c1": [
+      "Ik ben zo dankbaar voor het feit dat u onze ethische waarden vastberaden heeft verdedigd.",
+      "Ik ben zo dankbaar voor het feit dat we een gemeenschappelijke visie op de toekomst delen.",
+      "Ik ben zo dankbaar voor het feit dat uw leiderschap een sociale breuk heeft weten te voorkomen.",
+      "Ik ben zo dankbaar voor het feit dat uw onwankelbare steun mijn professionele emancipatie heeft bevorderd.",
+      "Ik ben zo dankbaar voor het feit dat transparantie de pijler van onze samenwerking is geworden."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Uw aandacht voor detail bij ... is uitzonderlijk.",
+    "translation": "Your attention to detail on ... is outstanding.",
+    "b1": [
+      "Uw aandacht voor detail bij deze tekening is uitzonderlijk.",
+      "Uw aandacht voor detail bij de decoratie is uitzonderlijk.",
+      "Uw aandacht voor detail bij deze taart is uitzonderlijk.",
+      "Uw aandacht voor detail bij uw handschrift is uitzonderlijk.",
+      "Uw aandacht voor detail bij het opruimen is uitzonderlijk."
+    ],
+    "b2": [
+      "Uw aandacht voor detail bij de PowerPoint-presentatie is uitzonderlijk.",
+      "Uw aandacht voor detail bij de analyse van de cijfers is uitzonderlijk.",
+      "Uw aandacht voor detail bij het corrigeren van fouten is uitzonderlijk.",
+      "Uw aandacht voor detail bij het verkoopcontract is uitzonderlijk.",
+      "Uw aandacht voor detail bij de planning is uitzonderlijk."
+    ],
+    "c1": [
+      "Uw aandacht voor detail bij de formulering van juridische clausules is uitzonderlijk.",
+      "Uw aandacht voor detail bij de gebruikerservaring van onze applicatie is uitzonderlijk.",
+      "Uw aandacht voor detail bij de taalkundige nuances van de vertaling is uitzonderlijk.",
+      "Uw aandacht voor detail bij het beheer van operationele risico's is uitzonderlijk.",
+      "Uw aandacht voor detail bij de esthetiek en functionaliteit van het ontwerp is uitzonderlijk."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Ik wilde u specifiek bedanken voor ...",
+    "translation": "I wanted to thank you specifically for ...",
+    "b1": [
+      "Ik wilde u specifiek bedanken voor het diner.",
+      "Ik wilde u specifiek bedanken voor uw geduld met mij.",
+      "Ik wilde u specifiek bedanken voor het cadeau.",
+      "Ik wilde u specifiek bedanken voor de reistips.",
+      "Ik wilde u specifiek bedanken voor uw glimlach."
+    ],
+    "b2": [
+      "Ik wilde u specifiek bedanken voor uw bijdrage aan project X.",
+      "Ik wilde u specifiek bedanken voor het overnemen tijdens mijn afwezigheid.",
+      "Ik wilde u specifiek bedanken voor uw constructieve opmerkingen.",
+      "Ik wilde u specifiek bedanken voor uw eerlijkheid tijdens ons gesprek.",
+      "Ik wilde u specifiek bedanken voor de kwaliteit van uw presentatie."
+    ],
+    "c1": [
+      "Ik wilde u specifiek bedanken voor de scherpzinnigheid van uw strategische analyse.",
+      "Ik wilde u specifiek bedanken voor uw veerkracht onder externe druk.",
+      "Ik wilde u specifiek bedanken voor het scheppen van een klimaat van wederzijds vertrouwen.",
+      "Ik wilde u specifiek bedanken voor uw inzet voor diversiteit.",
+      "Ik wilde u specifiek bedanken voor de relevantie van uw aanbevelingen tijdens de audit."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "U heeft die situatie aangepakt met zoveel gratie en ...",
+    "translation": "You handled that situation with such grace and ...",
+    "b1": [
+      "U heeft die situatie aangepakt met zoveel gratie en kalmte.",
+      "U heeft die situatie aangepakt met zoveel gratie en vriendelijkheid.",
+      "U heeft die situatie aangepakt met zoveel gratie en geduld.",
+      "U heeft die situatie aangepakt met zoveel gratie en beleefdheid.",
+      "U heeft die situatie aangepakt met zoveel gratie en vreugde."
+    ],
+    "b2": [
+      "U heeft die situatie aangepakt met zoveel gratie en professionalisme.",
+      "U heeft die situatie aangepakt met zoveel gratie en vastberadenheid.",
+      "U heeft die situatie aangepakt met zoveel gratie en doeltreffendheid.",
+      "U heeft die situatie aangepakt met zoveel gratie en diplomatie.",
+      "U heeft die situatie aangepakt met zoveel gratie en gezag."
+    ],
+    "c1": [
+      "U heeft die situatie aangepakt met zoveel gratie en olympische sereniteit.",
+      "U heeft die situatie aangepakt met zoveel gratie en emotionele intelligentie.",
+      "U heeft die situatie aangepakt met zoveel gratie en strategisch doorzicht.",
+      "U heeft die situatie aangepakt met zoveel gratie en grootmoedigheid jegens uw critici.",
+      "U heeft die situatie aangepakt met zoveel gratie en intellectuele strengheid."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Ik had dit niet kunnen doen zonder uw ...",
+    "translation": "I couldn't have done this without your ...",
+    "b1": [
+      "Ik had dit niet kunnen doen zonder uw hulp.",
+      "Ik had dit niet kunnen doen zonder uw geld.",
+      "Ik had dit niet kunnen doen zonder uw auto.",
+      "Ik had dit niet kunnen doen zonder uw woordenboek.",
+      "Ik had dit niet kunnen doen zonder uw steun."
+    ],
+    "b2": [
+      "Ik had dit niet kunnen doen zonder uw technische expertise.",
+      "Ik had dit niet kunnen doen zonder uw voortdurende motivatie.",
+      "Ik had dit niet kunnen doen zonder uw netwerk van contacten.",
+      "Ik had dit niet kunnen doen zonder uw voorafgaande goedkeuring.",
+      "Ik had dit niet kunnen doen zonder uw oneindig geduld."
+    ],
+    "c1": [
+      "Ik had dit niet kunnen doen zonder uw inspirerende projectvisie.",
+      "Ik had dit niet kunnen doen zonder uw welwillend mentorschap gedurende deze jaren.",
+      "Ik had dit niet kunnen doen zonder uw vermogen om budgettaire middelen vrij te maken.",
+      "Ik had dit niet kunnen doen zonder uw helderheid van geest bij complexe vraagstukken.",
+      "Ik had dit niet kunnen doen zonder uw volledige inzet voor onze gemeenschappelijke doelstellingen."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Uw positieve houding is echt inspirerend voor ...",
+    "translation": "Your positive attitude is truly inspiring to ...",
+    "b1": [
+      "Uw positieve houding is echt inspirerend voor mij.",
+      "Uw positieve houding is echt inspirerend voor uw vrienden.",
+      "Uw positieve houding is echt inspirerend voor de kinderen.",
+      "Uw positieve houding is echt inspirerend voor uw leerlingen.",
+      "Uw positieve houding is echt inspirerend voor ons allemaal."
+    ],
+    "b2": [
+      "Uw positieve houding is echt inspirerend voor het hele verkoopteam.",
+      "Uw positieve houding is echt inspirerend voor de nieuwe medewerkers.",
+      "Uw positieve houding is echt inspirerend voor het overwinnen van deze dagelijkse uitdagingen.",
+      "Uw positieve houding is echt inspirerend voor het verbeteren van de sfeer op kantoor.",
+      "Uw positieve houding is echt inspirerend voor de jonge ondernemers in onze stad."
+    ],
+    "c1": [
+      "Uw positieve houding is echt inspirerend voor het bevorderen van organisatorische veerkracht.",
+      "Uw positieve houding is echt inspirerend voor het omzetten van crisissen in kansen.",
+      "Uw positieve houding is echt inspirerend voor het bewaren van de sociale cohesie in de afdeling.",
+      "Uw positieve houding is echt inspirerend voor het installeren van een cultuur van permanente innovatie.",
+      "Uw positieve houding is echt inspirerend voor het herdefiniëren van de normen van welwillend leiderschap."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Bedankt dat u verder bent gegaan dan gevraagd om ...",
+    "translation": "Thank you for going above and beyond to ...",
+    "b1": [
+      "Bedankt dat u verder bent gegaan dan gevraagd om mij te helpen.",
+      "Bedankt dat u verder bent gegaan dan gevraagd om het feest te organiseren.",
+      "Bedankt dat u verder bent gegaan dan gevraagd om het werk af te ronden.",
+      "Bedankt dat u verder bent gegaan dan gevraagd om dit boek te vinden.",
+      "Bedankt dat u verder bent gegaan dan gevraagd om het diner te bereiden."
+    ],
+    "b2": [
+      "Bedankt dat u verder bent gegaan dan gevraagd om deze veeleisende klant tevreden te stellen.",
+      "Bedankt dat u verder bent gegaan dan gevraagd om het websiteontwerp te verbeteren.",
+      "Bedankt dat u verder bent gegaan dan gevraagd om de stagiairs op te leiden.",
+      "Bedankt dat u verder bent gegaan dan gevraagd om de strakke deadlines te respecteren.",
+      "Bedankt dat u verder bent gegaan dan gevraagd om de projectkosten te verlagen."
+    ],
+    "c1": [
+      "Bedankt dat u verder bent gegaan dan gevraagd om operationele uitmuntendheid te garanderen.",
+      "Bedankt dat u verder bent gegaan dan gevraagd om de continuïteit van ons partnerschap te waarborgen.",
+      "Bedankt dat u verder bent gegaan dan gevraagd om grote juridische risico's te anticiperen.",
+      "Bedankt dat u verder bent gegaan dan gevraagd om onze milieu-impact te optimaliseren.",
+      "Bedankt dat u verder bent gegaan dan gevraagd om onze waarden op internationaal niveau te promoten."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Ik bewonder echt de manier waarop u ...",
+    "translation": "I really admire the way you ...",
+    "b1": [
+      "Ik bewonder echt de manier waarop u Frans spreekt.",
+      "Ik bewonder echt de manier waarop u piano speelt.",
+      "Ik bewonder echt de manier waarop u mensen helpt.",
+      "Ik bewonder echt de manier waarop u kookt.",
+      "Ik bewonder echt de manier waarop u zich kleedt."
+    ],
+    "b2": [
+      "Ik bewonder echt de manier waarop u uw tijd zo efficiënt beheert.",
+      "Ik bewonder echt de manier waarop u communiceert met uw collega's.",
+      "Ik bewonder echt de manier waarop u kalm blijft onder druk.",
+      "Ik bewonder echt de manier waarop u uw argumenten presenteert.",
+      "Ik bewonder echt de manier waarop u nieuwe dingen leert."
+    ],
+    "c1": [
+      "Ik bewonder echt de manier waarop u gevestigde paradigma's deconstrueert.",
+      "Ik bewonder echt de manier waarop u de ethiek van onze organisatie belichaamt.",
+      "Ik bewonder echt de manier waarop u navigeert in complexe politieke omgevingen.",
+      "Ik bewonder echt de manier waarop u loyaliteit inspireert bij uw medewerkers.",
+      "Ik bewonder echt de manier waarop u analytische strengheid en creatieve intuïtie verzoent."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Wat een prachtig werk heeft u gedaan met ...",
+    "translation": "What a wonderful job you did on ...",
+    "b1": [
+      "Wat een prachtig werk heeft u gedaan met deze tekening!",
+      "Wat een prachtig werk heeft u gedaan met uw tuin!",
+      "Wat een prachtig werk heeft u gedaan met deze taart!",
+      "Wat een prachtig werk heeft u gedaan met uw presentatie!",
+      "Wat een prachtig werk heeft u gedaan met deze puzzel!"
+    ],
+    "b2": [
+      "Wat een prachtig werk heeft u gedaan met de nieuwe website!",
+      "Wat een prachtig werk heeft u gedaan met de herinrichting van het kantoor!",
+      "Wat een prachtig werk heeft u gedaan met de reclamecampagne!",
+      "Wat een prachtig werk heeft u gedaan met de marktanalyse!",
+      "Wat een prachtig werk heeft u gedaan met het kandidatuurdossier!"
+    ],
+    "c1": [
+      "Wat een prachtig werk heeft u gedaan met de herziening van onze visuele identiteit!",
+      "Wat een prachtig werk heeft u gedaan met het uitwerken van het tienjarig strategisch plan!",
+      "Wat een prachtig werk heeft u gedaan met de optimalisering van de wereldwijde logistieke keten!",
+      "Wat een prachtig werk heeft u gedaan met de integratie van de nieuwe milieunormen!",
+      "Wat een prachtig werk heeft u gedaan met het oplossen van deze grote diplomatieke crisis!"
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Het betekent de wereld voor mij dat ...",
+    "translation": "It means the world to me that ...",
+    "b1": [
+      "Het betekent de wereld voor mij dat jij er bent.",
+      "Het betekent de wereld voor mij dat u mij helpt.",
+      "Het betekent de wereld voor mij dat we samen eten.",
+      "Het betekent de wereld voor mij dat jij aan mij denkt.",
+      "Het betekent de wereld voor mij dat mijn ouders trots zijn."
+    ],
+    "b2": [
+      "Het betekent de wereld voor mij dat u mijn voorstel heeft aanvaard.",
+      "Het betekent de wereld voor mij dat mijn project eindelijk is goedgekeurd.",
+      "Het betekent de wereld voor mij dat u in mijn capaciteiten gelooft.",
+      "Het betekent de wereld voor mij dat we deze moeilijkheid hebben kunnen overwinnen.",
+      "Het betekent de wereld voor mij dat mijn collega's mij steunen."
+    ],
+    "c1": [
+      "Het betekent de wereld voor mij dat uw instelling de waarde van mijn onderzoek erkent.",
+      "Het betekent de wereld voor mij dat u mij de kans geeft dit project te leiden.",
+      "Het betekent de wereld voor mij dat we op basis van absoluut vertrouwen kunnen samenwerken.",
+      "Het betekent de wereld voor mij dat uw mentorschap zo schitterend vruchten heeft afgeworpen.",
+      "Het betekent de wereld voor mij dat onze gezamenlijke inspanningen bijdragen aan zo'n nobele zaak."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Uw perspectief op ... is ongelooflijk waardevol.",
+    "translation": "Your perspective on ... is incredibly valuable.",
+    "b1": [
+      "Uw perspectief op deze film is ongelooflijk waardevol.",
+      "Uw perspectief op mijn tekening is ongelooflijk waardevol.",
+      "Uw perspectief op de vakantie is ongelooflijk waardevol.",
+      "Uw perspectief op het koken is ongelooflijk waardevol.",
+      "Uw perspectief op sport is ongelooflijk waardevol."
+    ],
+    "b2": [
+      "Uw perspectief op de nieuwe marketingstrategie is ongelooflijk waardevol.",
+      "Uw perspectief op de organisatorische veranderingen is ongelooflijk waardevol.",
+      "Uw perspectief op het gedrag van klanten is ongelooflijk waardevol.",
+      "Uw perspectief op kostenbeheer is ongelooflijk waardevol.",
+      "Uw perspectief op de ontwikkeling van de applicatie is ongelooflijk waardevol."
+    ],
+    "c1": [
+      "Uw perspectief op de geopolitieke implicaties van dit akkoord is ongelooflijk waardevol.",
+      "Uw perspectief op de ethische uitdagingen van kunstmatige intelligentie is ongelooflijk waardevol.",
+      "Uw perspectief op de herstructurering van het kapitaal van het bedrijf is ongelooflijk waardevol.",
+      "Uw perspectief op de sociologische evolutie van consumenten is ongelooflijk waardevol.",
+      "Uw perspectief op de relevantie van onze economische voorspellingsmodellen is ongelooflijk waardevol."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Ik wil mijn diepste dankbaarheid uitdrukken voor ...",
+    "translation": "I want to express my deepest gratitude for ...",
+    "b1": [
+      "Ik wil mijn diepste dankbaarheid uitdrukken voor uw ontvangst.",
+      "Ik wil mijn diepste dankbaarheid uitdrukken voor uw vriendelijkheid.",
+      "Ik wil mijn diepste dankbaarheid uitdrukken voor uw prachtig cadeau.",
+      "Ik wil mijn diepste dankbaarheid uitdrukken voor uw vriendschap.",
+      "Ik wil mijn diepste dankbaarheid uitdrukken voor uw aanmoedigingen."
+    ],
+    "b2": [
+      "Ik wil mijn diepste dankbaarheid uitdrukken voor uw onschatbare steun tijdens deze beproeving.",
+      "Ik wil mijn diepste dankbaarheid uitdrukken voor uw beslissende bijdrage aan ons succes.",
+      "Ik wil mijn diepste dankbaarheid uitdrukken voor uw geduld en begrip.",
+      "Ik wil mijn diepste dankbaarheid uitdrukken voor het vertrouwen dat u mij heeft betoond.",
+      "Ik wil mijn diepste dankbaarheid uitdrukken voor de kansen die u mij heeft geboden."
+    ],
+    "c1": [
+      "Ik wil mijn diepste dankbaarheid uitdrukken voor uw onwankelbare inzet voor onze zaak.",
+      "Ik wil mijn diepste dankbaarheid uitdrukken voor de helderheid waarmee u dit project heeft geleid.",
+      "Ik wil mijn diepste dankbaarheid uitdrukken voor de intellectuele erfenis die u ons nalaat.",
+      "Ik wil mijn diepste dankbaarheid uitdrukken voor uw absolute integriteit in kritieke momenten.",
+      "Ik wil mijn diepste dankbaarheid uitdrukken voor uw rol als katalysator van positieve verandering."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "U heeft een enorm verschil gemaakt in ...",
+    "translation": "You've made a huge difference in ...",
+    "b1": [
+      "U heeft een enorm verschil gemaakt in mijn leven.",
+      "U heeft een enorm verschil gemaakt in dit project.",
+      "U heeft een enorm verschil gemaakt in mijn leren van het Nederlands.",
+      "U heeft een enorm verschil gemaakt in de sfeer in de klas.",
+      "U heeft een enorm verschil gemaakt in de organisatie van de reis."
+    ],
+    "b2": [
+      "U heeft een enorm verschil gemaakt in de algehele tevredenheid van onze klanten.",
+      "U heeft een enorm verschil gemaakt in de financiële resultaten van dit jaar.",
+      "U heeft een enorm verschil gemaakt in de motivatie van het hele productieteam.",
+      "U heeft een enorm verschil gemaakt in de invoering van onze nieuwe processen.",
+      "U heeft een enorm verschil gemaakt in de verbetering van ons merkimago."
+    ],
+    "c1": [
+      "U heeft een enorm verschil gemaakt in de vermindering van onze ecologische voetafdruk.",
+      "U heeft een enorm verschil gemaakt in het aanpakken van ongelijkheden binnen onze organisatie.",
+      "U heeft een enorm verschil gemaakt in het bepalen van onze nieuwe bedrijfscultuur.",
+      "U heeft een enorm verschil gemaakt in het welslagen van onze expansie op Aziatische markten.",
+      "U heeft een enorm verschil gemaakt in de kwaliteit van het maatschappelijk debat over deze cruciale kwesties."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Ik ben zo onder de indruk van uw vermogen om ...",
+    "translation": "I'm so impressed by your ability to ...",
+    "b1": [
+      "Ik ben zo onder de indruk van uw vermogen om drie talen te spreken.",
+      "Ik ben zo onder de indruk van uw vermogen om snel te lopen.",
+      "Ik ben zo onder de indruk van uw vermogen om kalm te blijven.",
+      "Ik ben zo onder de indruk van uw vermogen om voor twintig mensen te koken.",
+      "Ik ben zo onder de indruk van uw vermogen om zo goed te tekenen."
+    ],
+    "b2": [
+      "Ik ben zo onder de indruk van uw vermogen om onverwachte crisissen te beheren.",
+      "Ik ben zo onder de indruk van uw vermogen om moeilijke gesprekspartners te overtuigen.",
+      "Ik ben zo onder de indruk van uw vermogen om complexe gegevens snel te analyseren.",
+      "Ik ben zo onder de indruk van uw vermogen om taken met onderscheid te delegeren.",
+      "Ik ben zo onder de indruk van uw vermogen om te innoveren ondanks beperkte middelen."
+    ],
+    "c1": [
+      "Ik ben zo onder de indruk van uw vermogen om grote geopolitieke vraagstukken te synthetiseren.",
+      "Ik ben zo onder de indruk van uw vermogen om een langetermijnstrategie consequent aan te houden.",
+      "Ik ben zo onder de indruk van uw vermogen om mislukkingen om te zetten in groeihefbomen.",
+      "Ik ben zo onder de indruk van uw vermogen om teams met uiteenlopende culturen te bundelen.",
+      "Ik ben zo onder de indruk van uw vermogen om in elk detail van uw werk uitmuntendheid te belichamen."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Bedankt dat u de tijd heeft genomen om ...",
+    "translation": "Thank you for taking the time to ...",
+    "b1": [
+      "Bedankt dat u de tijd heeft genomen om mij te helpen.",
+      "Bedankt dat u de tijd heeft genomen om naar mij te luisteren.",
+      "Bedankt dat u de tijd heeft genomen om mij op te zoeken.",
+      "Bedankt dat u de tijd heeft genomen om mijn e-mail te beantwoorden.",
+      "Bedankt dat u de tijd heeft genomen om de les aan mij uit te leggen."
+    ],
+    "b2": [
+      "Bedankt dat u de tijd heeft genomen om mijn rapport in detail na te lezen.",
+      "Bedankt dat u de tijd heeft genomen om mijn carrièreperspectieven te bespreken.",
+      "Bedankt dat u de tijd heeft genomen om onze faciliteiten in de provincie te bezoeken.",
+      "Bedankt dat u de tijd heeft genomen om deel te nemen aan onze interne enquête.",
+      "Bedankt dat u de tijd heeft genomen om mij te ontvangen ondanks uw drukke agenda."
+    ],
+    "c1": [
+      "Bedankt dat u de tijd heeft genomen om mij dit onschatbare mentorgesprek te gunnen.",
+      "Bedankt dat u de tijd heeft genomen om dit diepgaand onderzoek naar de oorzaken van het incident te voeren.",
+      "Bedankt dat u de tijd heeft genomen om mijn werk zo welwillend van een voorwoord te voorzien.",
+      "Bedankt dat u de tijd heeft genomen om uw expertise te delen tijdens ons internationaal symposium.",
+      "Bedankt dat u de tijd heeft genomen om de maatschappelijke impact van onze langetermijninvesteringen te herbekijken."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "We mogen ons gelukkig prijzen iemand te hebben die ...",
+    "translation": "We are fortunate to have someone who can ...",
+    "b1": [
+      "We mogen ons gelukkig prijzen iemand te hebben die Frans spreekt.",
+      "We mogen ons gelukkig prijzen iemand te hebben die zo goed kan koken.",
+      "We mogen ons gelukkig prijzen iemand te hebben die de computer kan repareren.",
+      "We mogen ons gelukkig prijzen iemand te hebben die ons aan het lachen kan maken.",
+      "We mogen ons gelukkig prijzen iemand te hebben die de auto kan besturen."
+    ],
+    "b2": [
+      "We mogen ons gelukkig prijzen iemand te hebben die moeilijke klanten met zoveel tact kan behandelen.",
+      "We mogen ons gelukkig prijzen iemand te hebben die de technologische behoeften van het team kan anticiperen.",
+      "We mogen ons gelukkig prijzen iemand te hebben die zulke complexe projecten kan organiseren.",
+      "We mogen ons gelukkig prijzen iemand te hebben die onze ideeën kan omzetten in prachtige ontwerpen.",
+      "We mogen ons gelukkig prijzen iemand te hebben die de groep in moeilijke momenten kan motiveren."
+    ],
+    "c1": [
+      "We mogen ons gelukkig prijzen iemand te hebben die met gemak door de complexiteit van het internationaal recht navigeert.",
+      "We mogen ons gelukkig prijzen iemand te hebben die de waarden van onze instelling op het hoogste niveau kan uitdragen.",
+      "We mogen ons gelukkig prijzen iemand te hebben die onze visie kan omzetten in een duurzame operationele realiteit.",
+      "We mogen ons gelukkig prijzen iemand te hebben die zo'n fijne en relevante strategische omgevingsanalyse kan uitvoeren.",
+      "We mogen ons gelukkig prijzen iemand te hebben die de volgende generatie leiders kan inspireren door zijn voorbeeld."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Uw bereidheid om ... valt echt op.",
+    "translation": "Your willingness to ... really stands out.",
+    "b1": [
+      "Uw bereidheid om te leren valt echt op.",
+      "Uw bereidheid om anderen te helpen valt echt op.",
+      "Uw bereidheid om te slagen valt echt op.",
+      "Uw bereidheid om hard te werken valt echt op.",
+      "Uw bereidheid om vriendelijk te zijn valt echt op."
+    ],
+    "b2": [
+      "Uw bereidheid om verantwoordelijkheden op te nemen valt echt op.",
+      "Uw bereidheid om met andere afdelingen samen te werken valt echt op.",
+      "Uw bereidheid om innovatieve oplossingen te zoeken valt echt op.",
+      "Uw bereidheid om de kwaliteit van de dienstverlening voortdurend te verbeteren valt echt op.",
+      "Uw bereidheid om uw kennis met nieuwkomers te delen valt echt op."
+    ],
+    "c1": [
+      "Uw bereidheid om de institutionele status-quo in vraag te stellen valt echt op.",
+      "Uw bereidheid om de gevolgen van moeilijke beslissingen te dragen valt echt op.",
+      "Uw bereidheid om een onberispelijke werkcultuur te bevorderen valt echt op.",
+      "Uw bereidheid om radicale transparantie binnen de organisatie te bevorderen valt echt op.",
+      "Uw bereidheid om kortetermijnwinsten op te offeren voor een langetermijnvisie valt echt op."
+    ]
+  }
+]

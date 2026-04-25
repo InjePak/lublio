@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Naar mijn mening, ...",
+    "translation": "In my opinion, ...",
+    "b1": [
+      "Naar mijn mening is deze film erg interessant.",
+      "Naar mijn mening zouden we meer groenten moeten eten.",
+      "Naar mijn mening is de stad te druk in de zomer.",
+      "Naar mijn mening is Frans leren een goede uitdaging.",
+      "Naar mijn mening gaat het vanmiddag regenen."
+    ],
+    "b2": [
+      "Naar mijn mening zou de overheid meer moeten investeren in hernieuwbare energie.",
+      "Naar mijn mening bevordert thuiswerken een betere balans tussen werk en privéleven.",
+      "Naar mijn mening voldoet deze hervorming niet aan de verwachtingen van de burgers.",
+      "Naar mijn mening is het essentieel om jongeren bewust te maken van milieubescherming.",
+      "Naar mijn mening heeft globalisering een complexe impact op lokale culturen."
+    ],
+    "c1": [
+      "Naar mijn mening tast de alomtegenwoordigheid van digitale media onze concentratievermogen sluipend aan.",
+      "Naar mijn mening kan dit probleem niet worden opgelost zonder intensievere internationale samenwerking.",
+      "Naar mijn mening overstijgt de esthetiek van dit werk de traditionele codes van die tijd.",
+      "Naar mijn mening is het een illusie te denken dat economische groei oneindig kan zijn.",
+      "Naar mijn mening vormt de precarisering van de arbeidsmarkt een ernstige belemmering voor sociale ontplooiing."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Ik geloof dat ...",
+    "translation": "I believe that ...",
+    "b1": [
+      "Ik geloof dat dit een goed idee is.",
+      "Ik geloof dat Paul al weg is.",
+      "Ik geloof dat we de sleutels vergeten zijn.",
+      "Ik geloof dat dit restaurant op maandag gesloten is.",
+      "Ik geloof dat je gelijk hebt."
+    ],
+    "b2": [
+      "Ik geloof dat we onze manier van consumeren moeten heroverwegen.",
+      "Ik geloof dat succes bovenal afhangt van doorzettingsvermogen.",
+      "Ik geloof dat deze oplossing op lange termijn het meest haalbaar is.",
+      "Ik geloof dat sociale media mensen meer isoleren dan verbinden.",
+      "Ik geloof dat het noodzakelijk is een dialoog tussen beide partijen tot stand te brengen."
+    ],
+    "c1": [
+      "Ik geloof dat ethiek centraal moet blijven staan bij elke technologische innovatie.",
+      "Ik geloof dat de veerkracht van een samenleving wordt gemeten aan haar vermogen om de meest kwetsbaren te beschermen.",
+      "Ik geloof dat we getuige zijn van een ongekende paradigmaverschuiving.",
+      "Ik geloof dat kunsteducatie fundamenteel is voor het cultiveren van een kritische geest.",
+      "Ik geloof dat de geopolitieke gevolgen van deze beslissing niet kunnen worden genegeerd."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Het lijkt mij dat ...",
+    "translation": "It seems to me that ...",
+    "b1": [
+      "Het lijkt mij dat je moe bent.",
+      "Het lijkt mij dat de bus vertraging heeft.",
+      "Het lijkt mij dat ik dat gezicht al eerder heb gezien.",
+      "Het lijkt mij dat het hier is.",
+      "Het lijkt mij dat het vandaag warmer is."
+    ],
+    "b2": [
+      "Het lijkt mij dat de mentaliteit over dit onderwerp langzaam verandert.",
+      "Het lijkt mij dat deze strategie te weinig duidelijkheid biedt om effectief te zijn.",
+      "Het lijkt mij dat we het belang van dit project hebben onderschat.",
+      "Het lijkt mij dat de jeugd van vandaag erg politiek betrokken is.",
+      "Het lijkt mij dat dit debat nog lang niet gesloten is."
+    ],
+    "c1": [
+      "Het lijkt mij dat de redenering van de auteur berust op een onjuiste aanname.",
+      "Het lijkt mij dat de correlatie tussen deze twee verschijnselen onmiskenbaar is.",
+      "Het lijkt mij dat identiteitskwesties de economische werkelijkheid vaak verdoezelen.",
+      "Het lijkt mij dat deze maatregel de bestaande sociale spanningen dreigt te verscherpen.",
+      "Het lijkt mij dat we de verkeerde weg inslaan door het psychologische aspect van de crisis te verwaarlozen."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Vanuit mijn perspectief, ...",
+    "translation": "From my perspective, ...",
+    "b1": [
+      "Vanuit mijn perspectief is het te duur.",
+      "Vanuit mijn perspectief is sport belangrijk.",
+      "Vanuit mijn perspectief is dit niet moeilijk.",
+      "Vanuit mijn perspectief moeten we nu vertrekken.",
+      "Vanuit mijn perspectief zingt zij erg goed."
+    ],
+    "b2": [
+      "Vanuit mijn perspectief is culturele diversiteit een rijkdom voor het bedrijf.",
+      "Vanuit mijn perspectief is het verbod op plastic een noodzakelijke stap.",
+      "Vanuit mijn perspectief vereenvoudigt deze app het dagelijkse leven enorm.",
+      "Vanuit mijn perspectief zijn de selectiecriteria een beetje vaag.",
+      "Vanuit mijn perspectief vormt reizen een bron van persoonlijke groei en openheid."
+    ],
+    "c1": [
+      "Vanuit mijn perspectief is digitale soevereiniteit een van de grote uitdagingen van de 21e eeuw.",
+      "Vanuit mijn perspectief volgt deze hervorming een puur boekhoudkundige logica.",
+      "Vanuit mijn perspectief is geplande veroudering een plaag voor de duurzame economie.",
+      "Vanuit mijn perspectief moet deze tekst worden geanalyseerd in het licht van zijn historische context.",
+      "Vanuit mijn perspectief is meritocratie een concept dat vaak verkeerd wordt begrepen of misbruikt."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Ik ben ervan overtuigd dat ...",
+    "translation": "I strongly feel that ...",
+    "b1": [
+      "Ik ben ervan overtuigd dat jij zult slagen.",
+      "Ik ben ervan overtuigd dat zij zal komen.",
+      "Ik ben ervan overtuigd dat dit de juiste weg is.",
+      "Ik ben ervan overtuigd dat dit boek geweldig is.",
+      "Ik ben ervan overtuigd dat we de goede keuze hebben gemaakt."
+    ],
+    "b2": [
+      "Ik ben ervan overtuigd dat onderwijs de sleutel is tot ontwikkeling.",
+      "Ik ben ervan overtuigd dat we onze doelstellingen dit jaar kunnen bereiken.",
+      "Ik ben ervan overtuigd dat welwillendheid de productiviteit op de werkvloer verbetert.",
+      "Ik ben ervan overtuigd dat recyclen slechts een deel van de oplossing is.",
+      "Ik ben ervan overtuigd dat kunstmatige intelligentie onze beroepen fundamenteel zal transformeren."
+    ],
+    "c1": [
+      "Ik ben ervan overtuigd dat de ecologische transitie een algehele herziening van ons economisch systeem vereist.",
+      "Ik ben ervan overtuigd dat de vrijheid van meningsuiting geen willekeurige concessies mag dulden.",
+      "Ik ben ervan overtuigd dat empathie een onmisbare leiderschapskwaliteit is voor de toekomst.",
+      "Ik ben ervan overtuigd dat de huidige stagnatie slechts een voorbode is van een grote omwenteling.",
+      "Ik ben ervan overtuigd dat internationale samenwerking het enige tegenwicht is tegen nationale geslotenheid."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Ik zou zeggen dat ...",
+    "translation": "I would argue that ...",
+    "b1": [
+      "Ik zou zeggen dat het een goed begin is.",
+      "Ik zou zeggen dat het feest leuk was.",
+      "Ik zou zeggen dat het ongeveer acht uur is.",
+      "Ik zou zeggen dat deze taart te zoet is.",
+      "Ik zou zeggen dat jij vakantie nodig hebt."
+    ],
+    "b2": [
+      "Ik zou zeggen dat het project nog wat meer rijpheid nodig heeft.",
+      "Ik zou zeggen dat de invloed van de media vaak overdreven wordt.",
+      "Ik zou zeggen dat deze maatregel onvoorziene gevolgen zal hebben.",
+      "Ik zou zeggen dat flexibiliteit de grootste troef van deze kandidaat is.",
+      "Ik zou zeggen dat de huidige situatie grote voorzichtigheid vereist."
+    ],
+    "c1": [
+      "Ik zou zeggen dat dit werk zich bevindt op het snijpunt van meerdere artistieke stromingen.",
+      "Ik zou zeggen dat de relevantie van dit economische model vandaag de dag ter discussie staat.",
+      "Ik zou zeggen dat een grondige reflectie over bio-ethiek onvermijdelijk is.",
+      "Ik zou zeggen dat de gebruikte retoriek meer wil verleiden dan overtuigen met feiten.",
+      "Ik zou zeggen dat de balans tussen veiligheid en individuele vrijheid steeds wankeler wordt."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Wat ik bedoel is dat ...",
+    "translation": "What I mean is, ...",
+    "b1": [
+      "Wat ik bedoel is dat het belangrijk is.",
+      "Wat ik bedoel is dat het me spijt.",
+      "Wat ik bedoel is dat ik van mijn werk houd.",
+      "Wat ik bedoel is dat je voorzichtig moet zijn.",
+      "Wat ik bedoel is dat alles goed gaat."
+    ],
+    "b2": [
+      "Wat ik bedoel is dat we efficiënter moeten werken.",
+      "Wat ik bedoel is dat kwaliteit boven kwantiteit gaat.",
+      "Wat ik bedoel is dat niet iedereen dezelfde kansen heeft.",
+      "Wat ik bedoel is dat communicatie de basis van alles is.",
+      "Wat ik bedoel is dat we meer tijd nodig hebben."
+    ],
+    "c1": [
+      "Wat ik bedoel is dat de hier gebruikte semantiek het begrip van het probleem vertekent.",
+      "Wat ik bedoel is dat innovatie niet ten koste mag gaan van ethiek.",
+      "Wat ik bedoel is dat groei geen doel op zich is, maar een middel.",
+      "Wat ik bedoel is dat de complexiteit van de werkelijkheid binaire analyses vaak te boven gaat.",
+      "Wat ik bedoel is dat individuele verantwoordelijkheid onlosmakelijk verbonden is met het maatschappelijk contract."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Als je het mij vraagt, ...",
+    "translation": "If you ask me, ...",
+    "b1": [
+      "Als je het mij vraagt, komt hij niet.",
+      "Als je het mij vraagt, is het te laat.",
+      "Als je het mij vraagt, moet je de blauwe kiezen.",
+      "Als je het mij vraagt, is het niet erg.",
+      "Als je het mij vraagt, is de koffie hier beter."
+    ],
+    "b2": [
+      "Als je het mij vraagt, heeft dit bedrijf een mooie toekomst voor zich.",
+      "Als je het mij vraagt, zou openbaar vervoer gratis moeten zijn.",
+      "Als je het mij vraagt, zijn er te veel reclames op televisie.",
+      "Als je het mij vraagt, is bijscholing tegenwoordig onmisbaar.",
+      "Als je het mij vraagt, moeten we onze marketingstrategie veranderen."
+    ],
+    "c1": [
+      "Als je het mij vraagt, heeft de deregulering van de markten geleid tot chronische instabiliteit.",
+      "Als je het mij vraagt, schiet dit project schromelijk tekort aan ambitie.",
+      "Als je het mij vraagt, mag cultuur niet worden behandeld als gewone handelswaar.",
+      "Als je het mij vraagt, is de aantasting van de biodiversiteit de meest urgente bedreiging.",
+      "Als je het mij vraagt, wordt het huidige debat vergiftigd door louter electorale overwegingen."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Ik ben het er volledig mee eens dat ...",
+    "translation": "I couldn't agree more with ...",
+    "b1": [
+      "Ik ben het er volledig mee eens dat jij gelijk hebt.",
+      "Ik ben het er volledig mee eens dat dit een goed idee is.",
+      "Ik ben het er volledig mee eens dat de leraar gelijk heeft.",
+      "Ik ben het er volledig mee eens dat dit plan werkt.",
+      "Ik ben het er volledig mee eens dat we moeten samenwerken."
+    ],
+    "b2": [
+      "Ik ben het er volledig mee eens dat de schermtijd voor kinderen beperkt moet worden.",
+      "Ik ben het er volledig mee eens dat de conclusies van dit rapport juist zijn.",
+      "Ik ben het er volledig mee eens dat diversiteit op de werkvloer belangrijk is.",
+      "Ik ben het er volledig mee eens dat een vierdaagse werkweek een goed idee is.",
+      "Ik ben het er volledig mee eens met uw analyse van de situatie."
+    ],
+    "c1": [
+      "Ik ben het er volledig mee eens dat de auteur gelijk heeft over de sociale fragmentatie.",
+      "Ik ben het er volledig mee eens dat de financiële sector strenger gereguleerd moet worden.",
+      "Ik ben het er volledig mee eens dat onderwijs het eerste instrument van emancipatie is.",
+      "Ik ben het er volledig mee eens met deze holistische visie op de volksgezondheid.",
+      "Ik ben het er volledig mee eens met de argumenten die tijdens de laatste klimaatconferentie werden aangevoerd."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Dat is een geldig punt, maar ...",
+    "translation": "That's a valid point, but ...",
+    "b1": [
+      "Dat is een geldig punt, maar het is te duur.",
+      "Dat is een geldig punt, maar ik heb geen tijd.",
+      "Dat is een geldig punt, maar het is koud buiten.",
+      "Dat is een geldig punt, maar ik geef de voorkeur aan thee.",
+      "Dat is een geldig punt, maar we moeten vertrekken."
+    ],
+    "b2": [
+      "Dat is een geldig punt, maar de implementatiekosten zijn te hoog.",
+      "Dat is een geldig punt, maar deze oplossing werkt niet overal.",
+      "Dat is een geldig punt, maar we moeten ook de sociale impact in overweging nemen.",
+      "Dat is een geldig punt, maar de deadlines zijn veel te krap.",
+      "Dat is een geldig punt, maar de klanten zouden ontevreden kunnen zijn."
+    ],
+    "c1": [
+      "Dat is een geldig punt, maar het verhult een fundamenteel deel van de problematiek.",
+      "Dat is een geldig punt, maar het berust op gegevens die inmiddels achterhaald zijn.",
+      "Dat is een geldig punt, maar de politieke haalbaarheid van zo'n maatregel moet nog worden aangetoond.",
+      "Dat is een geldig punt, maar het lost de diepere oorzaak van de disfunctie geenszins op.",
+      "Dat is een geldig punt, maar de gemaakte afweging lijkt enigszins uit balans."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Ik neem de vrijheid het niet eens te zijn over ...",
+    "translation": "I beg to differ on ...",
+    "b1": [
+      "Ik neem de vrijheid het niet eens te zijn over de prijs.",
+      "Ik neem de vrijheid het niet eens te zijn over de kleur.",
+      "Ik neem de vrijheid het niet eens te zijn over deze keuze.",
+      "Ik neem de vrijheid het niet eens te zijn over de datum van de afspraak.",
+      "Ik neem de vrijheid het niet eens te zijn over de muziek."
+    ],
+    "b2": [
+      "Ik neem de vrijheid het niet eens te zijn over de interpretatie van de resultaten.",
+      "Ik neem de vrijheid het niet eens te zijn over de oorzaken van dit falen.",
+      "Ik neem de vrijheid het niet eens te zijn over de prioriteitvolgorde van dit project.",
+      "Ik neem de vrijheid het niet eens te zijn over de effectiviteit van deze onderwijsmethode.",
+      "Ik neem de vrijheid het niet eens te zijn over de milieu-impact van dit product."
+    ],
+    "c1": [
+      "Ik neem de vrijheid het niet eens te zijn over de premissen zelf van uw redenering.",
+      "Ik neem de vrijheid het niet eens te zijn over de relevantie van deze macro-economische indicator.",
+      "Ik neem de vrijheid het niet eens te zijn over het pessimistische beeld dat u van de situatie schetst.",
+      "Ik neem de vrijheid het niet eens te zijn over de voorbarige conclusies die uit dit onderzoek zijn getrokken.",
+      "Ik neem de vrijheid het niet eens te zijn over de legitimiteit van dit ingrijpen op het internationale toneel."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Hoewel ik begrijp dat ..., ben ik nog steeds van mening dat ...",
+    "translation": "While I understand that ..., I still feel ...",
+    "b1": [
+      "Hoewel ik begrijp dat je het druk hebt, ben ik nog steeds van mening dat je zou moeten komen.",
+      "Hoewel ik begrijp dat het moeilijk is, ben ik nog steeds van mening dat het mogelijk is.",
+      "Hoewel ik begrijp dat je van dit café houdt, ben ik nog steeds van mening dat het te duur is.",
+      "Hoewel ik begrijp dat je moe bent, ben ik nog steeds van mening dat we moeten afmaken.",
+      "Hoewel ik begrijp dat je niet graag rent, ben ik nog steeds van mening dat het goed voor je gezondheid is."
+    ],
+    "b2": [
+      "Hoewel ik begrijp dat het budget beperkt is, ben ik nog steeds van mening dat kwaliteit essentieel is.",
+      "Hoewel ik begrijp dat veranderingen angst inboezemen, ben ik nog steeds van mening dat ze noodzakelijk zijn.",
+      "Hoewel ik begrijp dat deze regel streng is, ben ik nog steeds van mening dat hij rechtvaardig is.",
+      "Hoewel ik begrijp dat u twijfels heeft, ben ik nog steeds van mening dat dit het juiste moment is.",
+      "Hoewel ik begrijp dat technologie helpt, ben ik nog steeds van mening dat de mens centraal blijft staan."
+    ],
+    "c1": [
+      "Hoewel ik begrijp dat economische imperatieven dringend zijn, ben ik nog steeds van mening dat ethiek niet opgeofferd mag worden.",
+      "Hoewel ik begrijp dat consensus moeilijk te bereiken is, ben ik nog steeds van mening dat niets doen duurder uitvalt.",
+      "Hoewel ik begrijp dat deze hervorming impopulair is, ben ik nog steeds van mening dat zij structureel onmisbaar is.",
+      "Hoewel ik begrijp dat de gegevens complex zijn, ben ik nog steeds van mening dat de algemene trend duidelijk is.",
+      "Hoewel ik begrijp dat nulrisico niet bestaat, ben ik nog steeds van mening dat het voorzorgsbeginsel moet worden toegepast."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Met alle respect, ...",
+    "translation": "With all due respect, ...",
+    "b1": [
+      "Met alle respect, ik ben het er niet mee eens.",
+      "Met alle respect, u bent een detail vergeten.",
+      "Met alle respect, ik ben aan de beurt.",
+      "Met alle respect, dat is niet wat ik heb gezegd.",
+      "Met alle respect, ik doe het liever anders."
+    ],
+    "b2": [
+      "Met alle respect, deze beslissing lijkt een beetje overhaast.",
+      "Met alle respect, uw cijfers komen niet overeen met de realiteit op het terrein.",
+      "Met alle respect, ik denk dat u de verkeerde weg inslaat.",
+      "Met alle respect, deze methode is een beetje verouderd.",
+      "Met alle respect, we kunnen deze voorwaarden niet accepteren."
+    ],
+    "c1": [
+      "Met alle respect, uw analyse laat bepalende variabelen buiten beschouwing.",
+      "Met alle respect, de hier gebruikte retoriek grenst aan demagogie.",
+      "Met alle respect, de behandeling van dit dossier vertoont ernstige tekortkomingen.",
+      "Met alle respect, deze interpretatie van de teksten lijkt mij juridisch kwetsbaar.",
+      "Met alle respect, men kan zo'n autoritaire ontsporing niet fatsoenlijk goedkeuren."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Ik ben er niet helemaal zeker van dat ...",
+    "translation": "I'm not entirely sure about ...",
+    "b1": [
+      "Ik ben er niet helemaal zeker van hoe laat het is.",
+      "Ik ben er niet helemaal zeker van wat jouw naam is.",
+      "Ik ben er niet helemaal zeker van wat het adres is.",
+      "Ik ben er niet helemaal zeker van of ik er naartoe wil.",
+      "Ik ben er niet helemaal zeker van wat de prijs is."
+    ],
+    "b2": [
+      "Ik ben er niet helemaal zeker van hoe effectief dit medicijn is.",
+      "Ik ben er niet helemaal zeker van wat uw bedoelingen zijn.",
+      "Ik ben er niet helemaal zeker van dat dit de beste oplossing is.",
+      "Ik ben er niet helemaal zeker van hoe betrouwbaar deze bronnen zijn.",
+      "Ik ben er niet helemaal zeker van wat het eindresultaat zal zijn."
+    ],
+    "c1": [
+      "Ik ben er niet helemaal zeker van dat deze benadering epistemologisch relevant is.",
+      "Ik ben er niet helemaal zeker van dat de economische opbrengsten zo'n investering rechtvaardigen.",
+      "Ik ben er niet helemaal zeker van dat dit postulaat geldig is in de huidige context.",
+      "Ik ben er niet helemaal zeker van dat neutraliteit mogelijk is in zo'n debat.",
+      "Ik ben er niet helemaal zeker van dat de huidige waarborgen voldoende zijn om misbruiken te voorkomen."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Kunt u uitweiden over ...?",
+    "translation": "Could you elaborate on ...?",
+    "b1": [
+      "Kunt u uitweiden over dit punt?",
+      "Kunt u uitweiden over uw idee?",
+      "Kunt u uitweiden over uw project?",
+      "Kunt u uitweiden over dit woord?",
+      "Kunt u uitweiden over uw familie?"
+    ],
+    "b2": [
+      "Kunt u uitweiden over de voordelen van deze methode?",
+      "Kunt u uitweiden over de gevolgen van deze keuze?",
+      "Kunt u uitweiden over de technische aspecten van het product?",
+      "Kunt u uitweiden over de te volgen marketingstrategie?",
+      "Kunt u uitweiden over de selectiecriteria?"
+    ],
+    "c1": [
+      "Kunt u uitweiden over de ethische implicaties van uw voorstel?",
+      "Kunt u uitweiden over de theoretische grondslagen van uw onderzoek?",
+      "Kunt u uitweiden over de semantische nuances van dit concept?",
+      "Kunt u uitweiden over de duurzaamheid van dit bedrijfsmodel?",
+      "Kunt u uitweiden over de correlatie die u legt tussen deze twee variabelen?"
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Ik heb gemengde gevoelens over ...",
+    "translation": "I have mixed feelings about ...",
+    "b1": [
+      "Ik heb gemengde gevoelens over dit boek.",
+      "Ik heb gemengde gevoelens over mijn nieuwe baan.",
+      "Ik heb gemengde gevoelens over deze reis.",
+      "Ik heb gemengde gevoelens over deze muziek.",
+      "Ik heb gemengde gevoelens over de stad."
+    ],
+    "b2": [
+      "Ik heb gemengde gevoelens over de nieuwe schoolhervorming.",
+      "Ik heb gemengde gevoelens over de impact van sociale media.",
+      "Ik heb gemengde gevoelens over dit samenwerkingsvoorstel.",
+      "Ik heb gemengde gevoelens over de ontwikkeling van de wijk.",
+      "Ik heb gemengde gevoelens over deze experimentele film."
+    ],
+    "c1": [
+      "Ik heb gemengde gevoelens over de huidige technologische versnelling.",
+      "Ik heb gemengde gevoelens over de legitimiteit van dit staatsingrijpen.",
+      "Ik heb gemengde gevoelens over de aanpak van deze gezondheidscrisis.",
+      "Ik heb gemengde gevoelens over de invloed van kunstmatige intelligentie op kunst.",
+      "Ik heb gemengde gevoelens over de balans van het afgelopen decennium."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Laten we het eens zijn om het oneens te zijn over ...",
+    "translation": "Let's agree to disagree on ...",
+    "b1": [
+      "Laten we het eens zijn om het oneens te zijn over deze film.",
+      "Laten we het eens zijn om het oneens te zijn over de muziek.",
+      "Laten we het eens zijn om het oneens te zijn over sport.",
+      "Laten we het eens zijn om het oneens te zijn over dit restaurant.",
+      "Laten we het eens zijn om het oneens te zijn over de kleur."
+    ],
+    "b2": [
+      "Laten we het eens zijn om het oneens te zijn over het belastingbeleid.",
+      "Laten we het eens zijn om het oneens te zijn over de prioriteiten van het project.",
+      "Laten we het eens zijn om het oneens te zijn over deze analyse van de feiten.",
+      "Laten we het eens zijn om het oneens te zijn over de oorzaak van het probleem.",
+      "Laten we het eens zijn om het oneens te zijn over de toekomst van deze technologie."
+    ],
+    "c1": [
+      "Laten we het eens zijn om het oneens te zijn over de ideologische grondslagen van deze maatregel.",
+      "Laten we het eens zijn om het oneens te zijn over de interpretatie van deze statistische gegevens.",
+      "Laten we het eens zijn om het oneens te zijn over de hier gepresenteerde visie op sociale vooruitgang.",
+      "Laten we het eens zijn om het oneens te zijn over de uitkomst van dit ethisch dilemma.",
+      "Laten we het eens zijn om het oneens te zijn over de hiërarchie van de betrokken waarden."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Heeft u overwogen ...?",
+    "translation": "Have you considered ...?",
+    "b1": [
+      "Heeft u overwogen deze optie te nemen?",
+      "Heeft u overwogen wat de prijs is?",
+      "Heeft u overwogen naar Frankrijk te gaan?",
+      "Heeft u overwogen een auto te kopen?",
+      "Heeft u overwogen van gedachten te veranderen?"
+    ],
+    "b2": [
+      "Heeft u overwogen wat de langetermijngevolgen van uw beslissing zijn?",
+      "Heeft u overwogen wat de experts over dit onderwerp zeggen?",
+      "Heeft u overwogen een meer ecologische aanpak voor uw project te kiezen?",
+      "Heeft u overwogen wat de werkelijke behoeften van de gebruikers zijn?",
+      "Heeft u overwogen dat mislukking een mogelijkheid is?"
+    ],
+    "c1": [
+      "Heeft u overwogen wat de negatieve externe effecten van dit industriemodel zijn?",
+      "Heeft u overwogen wat de sociologische impact van deze stedelijke transformatie is?",
+      "Heeft u overwogen welke geopolitieke belangen schuil gaan achter dit akkoord?",
+      "Heeft u overwogen hoe kwetsbaar de infrastructuur is voor klimaatverandering?",
+      "Heeft u overwogen welke psychologische dimensie het consumentengedrag heeft?"
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Dat is niet altijd het geval omdat ...",
+    "translation": "That's not always the case because ...",
+    "b1": [
+      "Dat is niet altijd het geval omdat het moeilijk is.",
+      "Dat is niet altijd het geval omdat mensen veranderen.",
+      "Dat is niet altijd het geval omdat het koud is.",
+      "Dat is niet altijd het geval omdat het duur is.",
+      "Dat is niet altijd het geval omdat ik het druk heb."
+    ],
+    "b2": [
+      "Dat is niet altijd het geval omdat elke situatie uniek is.",
+      "Dat is niet altijd het geval omdat de regels kunnen variëren.",
+      "Dat is niet altijd het geval omdat voorspellingen soms onjuist zijn.",
+      "Dat is niet altijd het geval omdat technologieën snel evolueren.",
+      "Dat is niet altijd het geval omdat de publieke opinie instabiel is."
+    ],
+    "c1": [
+      "Dat is niet altijd het geval omdat sociale determinismen een cruciale rol spelen.",
+      "Dat is niet altijd het geval omdat systemische interacties onvoorspelbaar zijn.",
+      "Dat is niet altijd het geval omdat individuele subjectiviteit de perceptie beïnvloedt.",
+      "Dat is niet altijd het geval omdat historische contexten radicaal van elkaar verschillen.",
+      "Dat is niet altijd het geval omdat reguleringsmechanismen soms tekortschieten."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Ik zie de dingen ...",
+    "translation": "I see things ...",
+    "b1": [
+      "Ik zie de dingen anders.",
+      "Ik zie de dingen positief.",
+      "Ik zie de dingen eenvoudig.",
+      "Ik zie de dingen zo.",
+      "Ik zie de dingen op een andere manier."
+    ],
+    "b2": [
+      "Ik zie de dingen heel optimistisch voor het komende jaar.",
+      "Ik zie de dingen vanuit een nieuw perspectief dankzij uw uitleg.",
+      "Ik zie de dingen in het groot, zonder me op kleine details te richten.",
+      "Ik zie de dingen momenteel met grote voorzichtigheid.",
+      "Ik zie de dingen bovenal op een pragmatische manier."
+    ],
+    "c1": [
+      "Ik zie de dingen door de lens van de hedendaagse sociologie.",
+      "Ik zie de dingen dialectisch, door tegenstellingen tegenover elkaar te plaatsen.",
+      "Ik zie de dingen met een zekere helderheid gekleurd door pessimisme.",
+      "Ik zie de dingen vanuit een historisch langetermijnperspectief.",
+      "Ik zie de dingen als een kans om onze fundamentele prioriteiten opnieuw te definiëren."
+    ]
+  }
+]
