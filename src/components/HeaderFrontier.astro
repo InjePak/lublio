@@ -31,11 +31,22 @@ import LogoSVG from "../../public/lublio-logo-light.svg?raw";
       <li>
         <a href="/" class="menuLink">Home</a>
       </li>
+      <hr />
       <li>
         <a href="/ivriah" class="menuLink">Ivriah</a>
       </li>
       <li>
         <a href="/kazariah" class="menuLink">Kazariah</a>
+      </li>
+      <hr />
+      <li>
+        <a href="/german" class="menuLink">German</a>
+      </li>
+      <li>
+        <a href="/french" class="menuLink">French</a>
+      </li>
+      <li>
+        <a href="/russian" class="menuLink">Russian</a>
       </li>
       <!-- <li>
         <a href="/about" class="menuLink">About</a>
@@ -213,7 +224,7 @@ import LogoSVG from "../../public/lublio-logo-light.svg?raw";
     position: absolute;
     opacity: 1;
     background-color: transparent;
-    top: -8rem;
+    top: -6rem;
     left: 50%;
     transform: translateX(-50%);
     font-size: 50px;
@@ -253,21 +264,20 @@ import LogoSVG from "../../public/lublio-logo-light.svg?raw";
 
   .overlayActive .menuList {
     background-color: var(--neutral200);
-    padding: 8rem 2rem;
+    padding: 3rem 2rem;
     opacity: 1;
     width: 100%;
     max-width: 320px;
     height: 100%;
     margin: 0;
     transform: translateX(0px);
-    border-radius: 20px;
   }
 
   .menuList li {
     display: block;
     text-align: left;
     width: auto;
-    margin-bottom: 1.5rem;
+    margin-bottom: 1rem;
     background-color: transparent;
     transition: all 0.4s ease-in-out;
   }
@@ -285,7 +295,7 @@ import LogoSVG from "../../public/lublio-logo-light.svg?raw";
     text-decoration: none;
     border-bottom: 2px solid transparent;
     font-family: "Inter", sans-serif;
-    font-size: 40px;
+    font-size: 32px;
     font-weight: 600;
     transition: all 0.4s;
   }
@@ -305,11 +315,11 @@ import LogoSVG from "../../public/lublio-logo-light.svg?raw";
   /* Mobile */
   @media (max-width: 480px) {
     .overlayActive .close {
-      top: -8rem;
+      top: -6rem;
     }
 
     .overlayActive .menuList {
-      padding: 6rem 1.5rem;
+      padding: 3rem 1.5rem;
       max-width: 240px;
     }
 

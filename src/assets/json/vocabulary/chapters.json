@@ -1,20 +1,516 @@
-[
-  {
-    "id": 1,
-    "kor": "기초 어휘",
-    "path": "basic-vocabulary",
-    "eng": "Basic Vocabulary",
-    "fra": "Vocabulaire de base",
-    "deu": "Grundwortschatz",
-    "rus": "Базовый словарный запас"
-  },
-  {
-    "id": 2,
-    "kor": "인간",
-    "path": "people",
-    "eng": "People",
-    "fra": "les gens",
-    "deu": "die Menschen",
-    "rus": "люди"
-  }
-]
+{
+  "a1": [
+    {
+      "id": 1,
+      "path": "numbers",
+      "kor": "숫자",
+      "eng": "Numbers",
+      "fra": "Présentation de soi",
+      "deu": "Sich vorstellen",
+      "rus": "Рассказ о себе",
+      "heb": "הצגה עצמית",
+      "kaz": "Өзін таныстыру"
+    },
+    {
+      "id": 2,
+      "path": "greetings-and-manners",
+      "kor": "인사와 예절",
+      "eng": "Greetings and manners",
+      "fra": "Salutations et politesse",
+      "deu": "Begrüßung und Höflichkeit",
+      "rus": "Приветствия и этикет",
+      "heb": "ברכות ונימוסים",
+      "kaz": "Сәлемдесу және әдеп"
+    },
+    {
+      "id": 3,
+      "path": "family-and-friends",
+      "kor": "가족과 친구",
+      "eng": "Family and friends",
+      "fra": "Famille et amis",
+      "deu": "Familie und Freunde",
+      "rus": "Семья и друзья",
+      "heb": "משפחה וחברים",
+      "kaz": "Отбасы және достар"
+    },
+    {
+      "id": 4,
+      "path": "numbers-and-time",
+      "kor": "숫자와 시간",
+      "eng": "Numbers and time",
+      "fra": "Nombres et heure",
+      "deu": "Zahlen und Zeit",
+      "rus": "Числа и время",
+      "heb": "מספרים וזמן",
+      "kaz": "Сандар және уақыт"
+    },
+    {
+      "id": 5,
+      "path": "favourites",
+      "kor": "좋아하는 것",
+      "eng": "Favourites",
+      "fra": "Loisirs et préférences",
+      "deu": "Vorlieben",
+      "rus": "Любимые вещи",
+      "heb": "דברים אהובים",
+      "kaz": "Сүйікті нәрселер"
+    },
+    {
+      "id": 6,
+      "path": "my-home",
+      "kor": "우리 집",
+      "eng": "My Home",
+      "fra": "Ma maison",
+      "deu": "Mein Zuhause",
+      "rus": "Мой дом",
+      "heb": "הבית שלי",
+      "kaz": "Менің үйім"
+    },
+    {
+      "id": 7,
+      "path": "food-and-restaurants",
+      "kor": "음식과 식당",
+      "eng": "Food and restaurants",
+      "fra": "Nourriture et restaurant",
+      "deu": "Essen und Restaurant",
+      "rus": "Еда и ресторан",
+      "heb": "אוכל ומסעדות",
+      "kaz": "Тамақ және мейрамханалар"
+    },
+    {
+      "id": 8,
+      "path": "daily-routine",
+      "kor": "일과",
+      "eng": "Daily Routine",
+      "fra": "Routine quotidienne",
+      "deu": "Tagesablauf",
+      "rus": "Распорядок дня",
+      "heb": "סדר יום",
+      "kaz": "Күн тәртібі"
+    },
+    {
+      "id": 9,
+      "path": "body-and-health",
+      "kor": "신체와 건강",
+      "eng": "Body and health",
+      "fra": "Corps et santé",
+      "deu": "Körper und Gesundheit",
+      "rus": "Тело и здоровье",
+      "heb": "גוף ובריאות",
+      "kaz": "Дене және денсаулық"
+    },
+    {
+      "id": 10,
+      "path": "shopping",
+      "kor": "쇼핑",
+      "eng": "Shopping",
+      "fra": "Achats",
+      "deu": "Einkaufen",
+      "rus": "Покупки",
+      "heb": "קניות",
+      "kaz": "Сауда жасау"
+    },
+    {
+      "id": 11,
+      "path": "weather",
+      "kor": "날씨",
+      "eng": "Weather",
+      "fra": "Météo",
+      "deu": "Wetter",
+      "rus": "Погода",
+      "heb": "מזג אוויר",
+      "kaz": "Ауа райы"
+    },
+    {
+      "id": 12,
+      "path": "asking-the-way",
+      "kor": "길 찾기",
+      "eng": "Asking the Way",
+      "fra": "Demander son chemin",
+      "deu": "Nach dem Weg fragen",
+      "rus": "Ориентирование в городе",
+      "heb": "לשאול את הדרך",
+      "kaz": "Жол сұрау"
+    }
+  ],
+  "a2": [
+    {
+      "id": 1,
+      "path": "past-experiences",
+      "kor": "과거의 경험",
+      "eng": "Past Experiences",
+      "fra": "Expériences passées",
+      "deu": "Vergangene Erlebnisse",
+      "rus": "Прошлый опыт",
+      "heb": "חוויות מהעבר",
+      "kaz": "Өткен тәжірибелер"
+    },
+    {
+      "id": 2,
+      "path": "work-and-workplace",
+      "kor": "직업과 일터",
+      "eng": "Work and workplace",
+      "fra": "Travail et bureau",
+      "deu": "Beruf und Arbeitsplatz",
+      "rus": "Работа и офис",
+      "heb": "עבודה ומקום עבודה",
+      "kaz": "Жұмыс және жұмыс орны"
+    },
+    {
+      "id": 3,
+      "path": "travel-and-accommodation",
+      "kor": "여행과 숙박",
+      "eng": "Travel and accommodation",
+      "fra": "Voyage et hébergement",
+      "deu": "Reisen und Unterkunft",
+      "rus": "Путешествие и отель",
+      "heb": "נסיעות ולינה",
+      "kaz": "Саяхат және орналастыру"
+    },
+    {
+      "id": 4,
+      "path": "shopping-and-services",
+      "kor": "쇼핑과 서비스",
+      "eng": "Shopping and services",
+      "fra": "Achats et services",
+      "deu": "Einkaufen und Service",
+      "rus": "Покупки и услуги",
+      "heb": "קניות ושירותים",
+      "kaz": "Сауда және қызметтер"
+    },
+    {
+      "id": 5,
+      "path": "health-and-hospital",
+      "kor": "건강과 병원",
+      "eng": "Health and hospital",
+      "fra": "Santé et hôpital",
+      "deu": "Gesundheit und Krankenhaus",
+      "rus": "Здоровье и больница",
+      "heb": "בריאות ובית חולים",
+      "kaz": "Денсаулық және аурухана"
+    },
+    {
+      "id": 6,
+      "path": "plans-and-appointments",
+      "kor": "계획과 약속",
+      "eng": "Plans and appointments",
+      "fra": "Projets et rendez-vous",
+      "deu": "Pläne und Termine",
+      "rus": "Планы и встречи",
+      "heb": "תוכניות ופגישות",
+      "kaz": "Жоспарлар мен кездесулер"
+    },
+    {
+      "id": 7,
+      "path": "transport",
+      "kor": "교통수단",
+      "eng": "Transport",
+      "fra": "Transports",
+      "deu": "Verkehrsmittel",
+      "rus": "Транспорт",
+      "heb": "תחבורה",
+      "kaz": "Көлік құралдары"
+    },
+    {
+      "id": 8,
+      "path": "appearance-and-personality",
+      "kor": "외모와 성격",
+      "eng": "Appearance and personality",
+      "fra": "Apparence et caractère",
+      "deu": "Aussehen und Persönlichkeit",
+      "rus": "Внешность и характер",
+      "heb": "מראה ואישיות",
+      "kaz": "Сыртқы келбет пен мінез"
+    },
+    {
+      "id": 9,
+      "path": "neighbourhood-and-facilities",
+      "kor": "동네와 편의시설",
+      "eng": "Neighbourhood and facilities",
+      "fra": "Quartier et commodités",
+      "deu": "Nachbarschaft und Einrichtungen",
+      "rus": "Район и удобства",
+      "heb": "שכונה ומתקנים",
+      "kaz": "Көршілік және нысандар"
+    },
+    {
+      "id": 10,
+      "path": "fashion-and-style",
+      "kor": "패션과 스타일",
+      "eng": "Fashion and style",
+      "fra": "Mode et style",
+      "deu": "Mode und Stil",
+      "rus": "Мода и стиль",
+      "heb": "אופנה וסגנון",
+      "kaz": "Сән және стиль"
+    },
+    {
+      "id": 11,
+      "path": "festivals-and-culture",
+      "kor": "축제와 문화",
+      "eng": "Festivals and culture",
+      "fra": "Festivals et culture",
+      "deu": "Feste und Kultur",
+      "rus": "Фестивали и культура",
+      "heb": "פסטיבלים ותרבות",
+      "kaz": "Фестивальдер және мәдениет"
+    },
+    {
+      "id": 12,
+      "path": "making-comparisons",
+      "kor": "비교하기",
+      "eng": "Making Comparisons",
+      "fra": "Comparaisons",
+      "deu": "Vergleichen",
+      "rus": "Сравнение",
+      "heb": "עריכת השוואות",
+      "kaz": "Салыстыру"
+    }
+  ],
+  "b1": [
+    {
+      "id": 1,
+      "path": "dreams-and-hopes",
+      "kor": "꿈과 희망",
+      "eng": "Dreams and hopes",
+      "fra": "Rêves et espoirs",
+      "deu": "Träume und Hoffnungen",
+      "rus": "Мечты и надежды",
+      "heb": "חלומות ותקוות",
+      "kaz": "Армандар мен үміттер"
+    },
+    {
+      "id": 2,
+      "path": "problem-solving",
+      "kor": "문제 해결",
+      "eng": "Problem Solving",
+      "fra": "Résolution de problèmes",
+      "deu": "Problemlösung",
+      "rus": "Решение проблем",
+      "heb": "פתרון בעיות",
+      "kaz": "Мәселелерді шешу"
+    },
+    {
+      "id": 3,
+      "path": "cinema-and-literature",
+      "kor": "영화와 문학",
+      "eng": "Cinema and literature",
+      "fra": "Cinéma et littérature",
+      "deu": "Film und Literatur",
+      "rus": "Кино и литература",
+      "heb": "קולנוע וספרות",
+      "kaz": "Кино және әдебиет"
+    },
+    {
+      "id": 4,
+      "path": "feelings-and-psychology",
+      "kor": "감정과 심리",
+      "eng": "Feelings and psychology",
+      "fra": "Sentiments et psychologie",
+      "deu": "Gefühle und Psychologie",
+      "rus": "Чувства и психология",
+      "heb": "רגשות ופסיכולוגיה",
+      "kaz": "Сезімдер мен психология"
+    },
+    {
+      "id": 5,
+      "path": "environmental-issues",
+      "kor": "환경 문제",
+      "eng": "Environmental Issues",
+      "fra": "Questions environnementales",
+      "deu": "Umweltprobleme",
+      "rus": "Экология",
+      "heb": "נושאים סביבתיים",
+      "kaz": "Экологиялық мәселелер"
+    },
+    {
+      "id": 6,
+      "path": "internet-and-technology",
+      "kor": "인터넷과 기술",
+      "eng": "Internet and technology",
+      "fra": "Internet et technologie",
+      "deu": "Internet und Technologie",
+      "rus": "Интернет и технологии",
+      "heb": "אינטרנט וטכנולוגיה",
+      "kaz": "Интернет және технологиялар"
+    },
+    {
+      "id": 7,
+      "path": "education-and-learning",
+      "kor": "교육과 학습",
+      "eng": "Education and learning",
+      "fra": "Éducation et apprentissage",
+      "deu": "Bildung und Lernen",
+      "rus": "Образование и учеба",
+      "heb": "חינוך ולמידה",
+      "kaz": "Білім және оқу"
+    },
+    {
+      "id": 8,
+      "path": "travel-stories",
+      "kor": "여행 에피소드",
+      "eng": "Travel Stories",
+      "fra": "Anecdotes de voyage",
+      "deu": "Reiseerlebnisse",
+      "rus": "Истории из поездок",
+      "heb": "סיפורי מסע",
+      "kaz": "Саяхат хикаялары"
+    },
+    {
+      "id": 9,
+      "path": "work-ethics-and-attitude",
+      "kor": "직업 윤리와 태도",
+      "eng": "Work Ethics and attitude",
+      "fra": "Éthique et attitude",
+      "deu": "Arbeitsmoral und Einstellung",
+      "rus": "Рабочая этика",
+      "heb": "אתיקה וגישה בעבודה",
+      "kaz": "Жұмыс этикасы мен көзқарас"
+    },
+    {
+      "id": 10,
+      "path": "traditions-and-customs",
+      "kor": "전통과 관습",
+      "eng": "Traditions and customs",
+      "fra": "Traditions et coutumes",
+      "deu": "Traditionen und Bräuche",
+      "rus": "Традиции и обычаи",
+      "heb": "מסורות ומנהגים",
+      "kaz": "Дәстүрлер мен әдет-ғұрыптар"
+    },
+    {
+      "id": 11,
+      "path": "healthy-living",
+      "kor": "건강한 삶",
+      "eng": "Healthy Living",
+      "fra": "Vie saine",
+      "deu": "Gesundes Leben",
+      "rus": "Здоровый образ жизни",
+      "heb": "חיים בריאים",
+      "kaz": "Салауатты өмір салты"
+    },
+    {
+      "id": 12,
+      "path": "expressing-opinions",
+      "kor": "의견 표명",
+      "eng": "Expressing Opinions",
+      "fra": "Exprimer son opinion",
+      "deu": "Meinung ausdrücken",
+      "rus": "Выражение мнения",
+      "heb": "הבעת דעה",
+      "kaz": "Пікір білдіру"
+    }
+  ],
+  "b2": [
+    {
+      "id": 1,
+      "path": "social-issues",
+      "kor": "사회적 이슈",
+      "eng": "Social Issues",
+      "fra": "Problèmes sociaux",
+      "deu": "Soziale Themen",
+      "rus": "Социальные вопросы",
+      "heb": "נושאים חברתיים",
+      "kaz": "Әлеуметтік мәселелер"
+    },
+    {
+      "id": 2,
+      "path": "career-development",
+      "kor": "커리어 개발",
+      "eng": "Career Development",
+      "fra": "Développement de carrière",
+      "deu": "Berufliche Weiterentwicklung",
+      "rus": "Развитие карьеры",
+      "heb": "פיתוח קריירה",
+      "kaz": "Мансаптық даму"
+    },
+    {
+      "id": 3,
+      "path": "hypothetical-situations",
+      "kor": "가상 상황",
+      "eng": "Hypothetical Situations",
+      "fra": "Situations hypothétiques",
+      "deu": "Hypothesen",
+      "rus": "Условные ситуации",
+      "heb": "מצבים היפותטיים",
+      "kaz": "Гипотетикалық жағдайлар"
+    },
+    {
+      "id": 4,
+      "path": "media-and-advertising",
+      "kor": "대중매체와 광고",
+      "eng": "Media and advertising",
+      "fra": "Médias et publicité",
+      "deu": "Medien und Werbung",
+      "rus": "СМИ и реклама",
+      "heb": "מדיה ופרסום",
+      "kaz": "Бұқаралық ақпарат құралдары мен жарнама"
+    },
+    {
+      "id": 5,
+      "path": "conflicts-in-society",
+      "kor": "현대 사회의 갈등",
+      "eng": "Conflicts in Society",
+      "fra": "Conflits sociaux",
+      "deu": "Gesellschaftliche Konflikte",
+      "rus": "Конфликты в обществе",
+      "heb": "קונפליקטים בחברה",
+      "kaz": "Қоғамдағы қақтығыстар"
+    },
+    {
+      "id": 6,
+      "path": "economy-and-consumption",
+      "kor": "경제와 소비",
+      "eng": "Economy and consumption",
+      "fra": "Économie et consommation",
+      "deu": "Wirtschaft und Konsum",
+      "rus": "Экономика и потребление",
+      "heb": "כלכלה וצריכה",
+      "kaz": "Экономика және тұтыну"
+    },
+    {
+      "id": 7,
+      "path": "science-and-innovation",
+      "kor": "과학과 혁신",
+      "eng": "Science and innovation",
+      "fra": "Science et innovation",
+      "deu": "Wissenschaft und Innovation",
+      "rus": "Наука и инновации",
+      "heb": "מדע וחדשנות",
+      "kaz": "Ғылым және инновация"
+    },
+    {
+      "id": 10,
+      "path": "persuasion-and-negotiation",
+      "kor": "설득과 협상",
+      "eng": "Persuasion and negotiation",
+      "fra": "Persuasion et négociation",
+      "deu": "Überzeugung und Verhandlung",
+      "rus": "Убеждение и переговоры",
+      "heb": "שכנוע ומשא ומתן",
+      "kaz": "Сендіру және келіссөздер"
+    },
+    {
+      "id": 11,
+      "path": "abstract-concepts",
+      "kor": "추상적 개념",
+      "eng": "Abstract Concepts",
+      "fra": "Concepts abstraits",
+      "deu": "Abstrakte Begriffe",
+      "rus": "Абстрактные понятия",
+      "heb": "מושגים מופשטים",
+      "kaz": "Абстрактілі ұғымдар"
+    },
+    {
+      "id": 12,
+      "path": "talks-and-presentations",
+      "kor": "강연과 발표",
+      "eng": "Talks and presentations",
+      "fra": "Conférences et présentations",
+      "deu": "Vorträge und Präsentationen",
+      "rus": "Лекции и презентации",
+      "heb": "הרצאות ומצגות",
+      "kaz": "Дәрістер мен презентациялар"
+    }
+  ]
+}
