@@ -1,5 +1,5 @@
 ---
-import IvriahLayout from "../../../../layouts/IvriahLayout.astro";
+import HebrewLayout from "../../../../layouts/HebrewLayout.astro";
 import BoxFrontier2 from "../../../../components/BoxFrontier2.astro";
 
 // src/pages/phrasebook/[level]/[path].astro
@@ -243,7 +243,7 @@ switch (level) {
 }
 ---
 
-<IvriahLayout pageTitle={chapter.kor + " | Ivriah"}>
+<HebrewLayout pageTitle={chapter.kor + " | Ivriah"}>
   <BoxFrontier2 title={chapter.heb} subtitle={chapter.kor} language="heb" />
 
   {
@@ -259,7 +259,7 @@ switch (level) {
       ))
     )
   }
-</IvriahLayout>
+</HebrewLayout>
 
 <style>
   /* Phrase Box */

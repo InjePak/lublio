@@ -1,5 +1,5 @@
 ---
-import KazariahLayout from "../../../../layouts/KazariahLayout.astro";
+import KazakhLayout from "../../../../layouts/KazakhLayout.astro";
 import BoxFrontier2 from "../../../../components/BoxFrontier2.astro";
 
 // src/pages/phrasebook/[level]/[path].astro
@@ -243,7 +243,7 @@ switch (level) {
 }
 ---
 
-<KazariahLayout pageTitle={chapter.kor + " | Kazariah"}>
+<KazakhLayout pageTitle={chapter.kor + " | Kazariah"}>
   <BoxFrontier2 title={chapter.kaz} subtitle={chapter.kor} language="kaz" />
 
   <select id="lang-switcher">
@@ -276,7 +276,7 @@ switch (level) {
       ))
     )
   }
-</KazariahLayout>
+</KazakhLayout>
 
 <style>
   .phrase-box {
