@@ -1,5 +1,5 @@
 ---
-import KazariahLayout from "../../../layouts/KazariahLayout.astro";
+import KazakhLayout from "../../../layouts/KazakhLayout.astro";
 import BoxFrontier from "../../../components/BoxFrontier.astro";
 import ButtonFrontier2 from "../../../components/ButtonFrontier2.astro";
 
@@ -8,7 +8,7 @@ import chapters from "../../../assets/json/patterns/chapters.json";
 const pageTitle = "카자흐어 패턴";
 ---
 
-<KazariahLayout pageTitle={pageTitle + " | Kazariah"}>
+<KazakhLayout pageTitle={pageTitle + " | Kazariah"}>
   <BoxFrontier
     title="Ülgiler"
     subtitle="카자흐어 패턴"
@@ -27,8 +27,8 @@ const pageTitle = "카자흐어 패턴";
         title={post.kaz}
         subtitle={post.kor}
         language="kaz"
-        path={"/kazariah/pattern/" + post.path}
+        path={"/kazakh/pattern/" + post.path}
       />
     ))
   }
-</KazariahLayout>
+</KazakhLayout>

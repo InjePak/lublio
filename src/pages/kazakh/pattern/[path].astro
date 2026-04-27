@@ -1,5 +1,5 @@
 ---
-import KazariahLayout from "../../../layouts/KazariahLayout.astro";
+import KazakhLayout from "../../../layouts/KazakhLayout.astro";
 import BoxFrontier2 from "../../../components/BoxFrontier2.astro";
 import ButtonFrontier2 from "../../../components/ButtonFrontier2.astro";
 
@@ -69,7 +69,7 @@ switch (chapter.id) {
 }
 ---
 
-<KazariahLayout pageTitle={chapter.kor + " | Kazariah"}>
+<KazakhLayout pageTitle={chapter.kor + " | Kazariah"}>
   <BoxFrontier2 title={chapter.kaz} subtitle={chapter.kor} language="kaz" />
 
   {
@@ -79,8 +79,8 @@ switch (chapter.id) {
         title={post.pattern}
         subtitle={post.translation}
         language="kaz"
-        path={"/kazariah/pattern/" + path + "/" + post.id}
+        path={"/kazakh/pattern/" + path + "/" + post.id}
       />
     ))
   }
-</KazariahLayout>
+</KazakhLayout>

@@ -19,8 +19,8 @@ html {
   background: linear-gradient(
     -45deg,
     var(--white),
-    var(--cyan50),
-    var(--cyan200)
+    var(--blue50),
+    var(--blue200)
   );
   background-size: 300% 300%;
   animation: gradient 6s ease infinite;
@@ -47,7 +47,7 @@ a:active {
 
 hr {
   display: block;
-  border: 1px solid var(--neutral300);
+  border: 1px solid var(--neutral800);
   margin: 3rem 0;
 }
 
@@ -170,12 +170,12 @@ p {
 * ——————————————————————————————
 */
 
-.animated-underline-kaz {
+.animated-underline-heb {
   position: relative;
   display: inline-block;
 }
 
-.animated-underline-kaz::after {
+.animated-underline-heb::after {
   content: "";
   position: absolute;
   width: 100%;
@@ -187,15 +187,15 @@ p {
   transition: transform 0.25s ease-out;
 }
 
-.animated-underline-kaz::after {
-  background-color: var(--cyan400);
+.animated-underline-heb::after {
+  background-color: var(--blue400);
 }
 
-.animated-underline-kaz:hover {
+.animated-underline-heb:hover {
   cursor: default;
 }
 
-.animated-underline-kaz:hover::after {
+.animated-underline-heb:hover::after {
   transform: scaleX(1); /* 호버 시 가로 길이를 100%로 */
   transform-origin: bottom left;
 }

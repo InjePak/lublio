@@ -1,28 +1,27 @@
 ---
-import IvriahLayout from "../../layouts/IvriahLayout.astro";
+import HebrewLayout from "../../layouts/HebrewLayout.astro";
 import BoxMainFrontier from "../../components/BoxMainFrontier.astro";
 import ButtonFrontier from "../../components/ButtonFrontier.astro";
 
-const pageTitle = "Ivriah";
+const pageTitle = "히브리어";
 ---
 
-<IvriahLayout pageTitle={pageTitle + " | Powered by Lublio"}>
+<HebrewLayout pageTitle={pageTitle + " | Lublio"}>
   <BoxMainFrontier
-    title="Ivriah"
-    subtitle="프로젝트 이브리아"
+    title="עברית"
+    subtitle="히브리어"
     description="히브리어는 수백 년의 인내 끝에 다시 살아난 언어입니다. 고대 경전에 새겨진 그 단어들이 오늘날 이스라엘의 거리에서 그대로 울려 퍼집니다. 3천 년의 시간을 건너 우리에게 닿은 언어, 지금 만나보세요."
     language="heb"
   />
 
   <div class="ButtonFrontier-wrapper">
     <!-- <ButtonFrontier
-      title="Milim"
-      subtitle="Vocabulary"
-      description="CEFR A1 - B2"
+      title="Ivrit"
+      subtitle="종합 히브리어"
+      description="CEFR A0 - C1"
       language="heb"
-      path="/ivriah/vocabulary"
-      level="vocabulary"
-      isDev="true"
+      path="/hebrew/composite"
+      level="composite"
     /> -->
 
     <ButtonFrontier
@@ -30,7 +29,7 @@ const pageTitle = "Ivriah";
       subtitle="히브리어 회화"
       description="CEFR A1 - B2"
       language="heb"
-      path="/ivriah/phrasebook"
+      path="/hebrew/phrasebook"
       level="phrase"
     />
 
@@ -39,26 +38,36 @@ const pageTitle = "Ivriah";
       subtitle="히브리어 패턴"
       description="CEFR B1 - C1"
       language="heb"
-      path="/ivriah/pattern"
+      path="/hebrew/pattern"
       level="pattern"
     />
 
     <!-- <ButtonFrontier
+        title="Milim"
+        subtitle="Vocabulary"
+        description="CEFR A1 - B2"
+        language="heb"
+        path="/hebrew/vocabulary"
+        level="vocabulary"
+        isDev="true"
+      /> -->
+
+    <!--
+    <ButtonFrontier
       title="Ophra"
       subtitle="히브리어 첫걸음"
       description="CEFR A0"
       language="heb"
-      path="/ivriah/a0"
+      path="/hebrew/a0"
       level="a0"
-      isDev="true"
     />
-
+    F
     <ButtonFrontier
       title="Barzel"
       subtitle="기초 히브리어"
       description="CEFR A1"
       language="heb"
-      path="/ivriah/a1"
+      path="/hebrew/a1"
       level="a1"
       isDev="true"
     />
@@ -68,7 +77,7 @@ const pageTitle = "Ivriah";
       subtitle="초급 히브리어"
       description="CEFR A2"
       language="heb"
-      path="/ivriah/a2"
+      path="/hebrew/a2"
       level="a2"
       isDev="true"
     />
@@ -78,7 +87,7 @@ const pageTitle = "Ivriah";
       subtitle="중급 히브리어"
       description="CEFR B1"
       language="heb"
-      path="/ivriah/b1"
+      path="/hebrew/b1"
       level="b1"
       isDev="true"
     />
@@ -88,7 +97,7 @@ const pageTitle = "Ivriah";
       subtitle="중고급 히브리어"
       description="CEFR B2"
       language="heb"
-      path="/ivriah/b2"
+      path="/hebrew/b2"
       level="b2"
       isDev="true"
     />
@@ -98,12 +107,12 @@ const pageTitle = "Ivriah";
       subtitle="고급 히브리어"
       description="CEFR C1"
       language="heb"
-      path="/ivriah/c1"
+      path="/hebrew/c1"
       level="c1"
       isDev="true"
     /> -->
   </div>
-</IvriahLayout>
+</HebrewLayout>
 
 <style>
   .ButtonFrontier-wrapper {

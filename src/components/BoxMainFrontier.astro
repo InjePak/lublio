@@ -38,14 +38,14 @@ const colorMap100: Record<string, string> = {
   heb: "rgba(219, 234, 254, 1)",
   kaz: "rgba(207, 250, 254, 1)",
 };
-const color800 = colorMap800[language] || "var(--zinc800)";
-const color700 = colorMap700[language] || "var(--zinc700)";
-const color600 = colorMap600[language] || "var(--zinc600)";
-const color500 = colorMap500[language] || "var(--zinc500)";
-const color400 = colorMap400[language] || "var(--zinc400)";
-const color300 = colorMap300[language] || "var(--zinc300)";
-const color200 = colorMap200[language] || "var(--zinc200)";
-const color100 = colorMap100[language] || "var(--zinc100)";
+const color800 = colorMap800[language] || "var(--neutral800)";
+const color700 = colorMap700[language] || "var(--neutral700)";
+const color600 = colorMap600[language] || "var(--neutral600)";
+const color500 = colorMap500[language] || "var(--neutral500)";
+const color400 = colorMap400[language] || "var(--neutral400)";
+const color300 = colorMap300[language] || "var(--neutral300)";
+const color200 = colorMap200[language] || "var(--neutral200)";
+const color100 = colorMap100[language] || "var(--neutral100)";
 ---
 
 <style
@@ -67,7 +67,7 @@ const color100 = colorMap100[language] || "var(--zinc100)";
   .box > h2,
   .box > h3,
   .box > p {
-    color: var(--zinc800);
+    color: var(--neutral800);
   }
 
   .box > h2::after {
@@ -111,7 +111,7 @@ const color100 = colorMap100[language] || "var(--zinc100)";
 
   .box-left > h2 {
     position: relative;
-    font-family: "Inter", serif;
+    font-family: "Inter", "Noto Hebrew", sans-serif;
     text-transform: uppercase;
     display: inline;
     font-size: 50px;

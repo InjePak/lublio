@@ -1,5 +1,5 @@
 ---
-import IvriahLayout from "../../../layouts/IvriahLayout.astro";
+import HebrewLayout from "../../../layouts/HebrewLayout.astro";
 import BoxFrontier from "../../../components/BoxFrontier.astro";
 import ButtonFrontier2rtl from "../../../components/ButtonFrontier2rtl.astro";
 
@@ -8,7 +8,7 @@ import chapters from "../../../assets/json/patterns/chapters.json";
 const pageTitle = "히브리어 패턴";
 ---
 
-<IvriahLayout pageTitle={pageTitle + " | Ivriah"}>
+<HebrewLayout pageTitle={pageTitle + " | Ivriah"}>
   <BoxFrontier
     title="Tavniyot"
     subtitle="히브리어 패턴"
@@ -27,8 +27,8 @@ const pageTitle = "히브리어 패턴";
         title={post.heb}
         subtitle={post.kor}
         language="heb"
-        path={"/ivriah/pattern/" + post.path}
+        path={"/hebrew/pattern/" + post.path}
       />
     ))
   }
-</IvriahLayout>
+</HebrewLayout>

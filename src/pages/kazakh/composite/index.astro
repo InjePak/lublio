@@ -4,28 +4,28 @@ import BoxFrontier from "../../../components/BoxFrontier.astro";
 import ButtonFrontier2 from "../../../components/ButtonFrontier2.astro";
 import SectionSwitcherFrontier from "../../../components/SectionSwitcherFrontier.astro";
 
-import chapters from "../../../assets/json/phrasebook/chapters.json";
+import chapters from "../../../assets/json/composite/chapters.json";
+const chapters_a0 = chapters["a0"];
 const chapters_a1 = chapters["a1"];
 const chapters_a2 = chapters["a2"];
 const chapters_b1 = chapters["b1"];
-const chapters_b2 = chapters["b2"];
 
 // Title
-const pageTitle = "카자흐어 회화";
+const pageTitle = "종합 카자흐어";
 
 // Section Switcher
 const tabItems = [
-  { id: "group-a1", label: "A1" },
-  { id: "group-a2", label: "A2" },
-  { id: "group-b1", label: "B1" },
-  { id: "group-b2", label: "B2" },
+  { id: "group-a0", label: "입문" },
+  { id: "group-a1", label: "기초" },
+  { id: "group-a2", label: "초급" },
+  { id: "group-b1", label: "중급" },
 ];
 ---
 
 <KazariahLayout pageTitle={pageTitle + " | Kazariah"}>
   <BoxFrontier
-    title="Tirkeser"
-    subtitle="카자흐어 회화"
+    title="Qazaqsha"
+    subtitle="종합 카자흐어"
     description="알마티의 활기 속에서 건네는 부드러운 살렘 — 저 멀리 눈 덮인 텡리 산이 솟아오른 곳, 초원의 바람이 탁 트인 자유로움을 실어 나르는 곳. 이 회화 모음집은 일상의 카자흐어 깊은 곳에 흐르는 잔잔한 온기를 담았습니다."
     language="kaz"
   />
@@ -33,9 +33,28 @@ const tabItems = [
   <SectionSwitcherFrontier items={tabItems} />
 
   <main>
-    <section class="group-a1 fade_1">
+    <section class="group-a0 riseUp_2">
       <h2>
-        <span class="animated-underline-kaz">CEFR A1</span>
+        <span class="animated-underline-kaz">입문 카자흐어 (A0)</span>
+      </h2>
+      <ul>
+        {
+          chapters_a0.map((post: any) => (
+            <ButtonFrontier2
+              id={post.id}
+              title={post.kaz}
+              subtitle={post.kor}
+              language="kaz"
+              path={"/kazariah/composite/a0/" + post.path}
+            />
+          ))
+        }
+      </ul>
+    </section>
+
+    <section class="group-a1 riseUp_2">
+      <h2>
+        <span class="animated-underline-kaz">기초 카자흐어 (A1)</span>
       </h2>
       <ul>
         {
@@ -45,16 +64,16 @@ const tabItems = [
               title={post.kaz}
               subtitle={post.kor}
               language="kaz"
-              path={"/kazariah/phrasebook/a1/" + post.path}
+              path={"/kazariah/composite/a1/" + post.path}
             />
           ))
         }
       </ul>
     </section>
 
-    <section class="group-a2 fade_1">
+    <section class="group-a2 riseUp_2">
       <h2>
-        <span class="animated-underline-kaz">CEFR A2</span>
+        <span class="animated-underline-kaz">초급 카자흐어 (A2)</span>
       </h2>
       <ul>
         {
@@ -64,16 +83,16 @@ const tabItems = [
               title={post.kaz}
               subtitle={post.kor}
               language="kaz"
-              path={"/kazariah/phrasebook/a2/" + post.path}
+              path={"/kazariah/composite/a2/" + post.path}
             />
           ))
         }
       </ul>
     </section>
 
-    <section class="group-b1 fade_1">
+    <section class="group-b1 riseUp_2">
       <h2>
-        <span class="animated-underline-kaz">CEFR B1</span>
+        <span class="animated-underline-kaz">중급 카자흐어 (B1)</span>
       </h2>
       <ul>
         {
@@ -83,26 +102,7 @@ const tabItems = [
               title={post.kaz}
               subtitle={post.kor}
               language="kaz"
-              path={"/kazariah/phrasebook/b1/" + post.path}
-            />
-          ))
-        }
-      </ul>
-    </section>
-
-    <section class="group-b2 fade_1">
-      <h2>
-        <span class="animated-underline-kaz">CEFR B2</span>
-      </h2>
-      <ul>
-        {
-          chapters_b2.map((post: any) => (
-            <ButtonFrontier2
-              id={post.id}
-              title={post.kaz}
-              subtitle={post.kor}
-              language="kaz"
-              path={"/kazariah/phrasebook/b2/" + post.path}
+              path={"/kazariah/composite/b1/" + post.path}
             />
           ))
         }

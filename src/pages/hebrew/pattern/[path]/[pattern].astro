@@ -1,5 +1,5 @@
 ---
-import IvriahLayout from "../../../../layouts/IvriahLayout.astro";
+import HebrewLayout from "../../../../layouts/HebrewLayout.astro";
 import SectionSwitcherFrontier from "../../../../components/SectionSwitcherFrontier.astro";
 import BoxFrontier2rtl from "../../../../components/BoxFrontier2rtl.astro";
 
@@ -84,7 +84,7 @@ const tabItems = [
 ];
 ---
 
-<IvriahLayout pageTitle={post.pattern + " | Ivriah"}>
+<HebrewLayout pageTitle={post.pattern + " | Ivriah"}>
   <BoxFrontier2rtl
     title=`${post.id}. ${post.pattern}`
     subtitle={post.translation}
@@ -176,7 +176,7 @@ const tabItems = [
       });
     });
   </script>
-</IvriahLayout>
+</HebrewLayout>
 
 <style>
   .phrase-box {

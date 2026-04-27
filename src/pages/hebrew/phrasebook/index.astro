@@ -1,0 +1,118 @@
+---
+import HebrewLayout from "../../../layouts/HebrewLayout.astro";
+import BoxFrontier from "../../../components/BoxFrontier.astro";
+import ButtonFrontier2 from "../../../components/ButtonFrontier2.astro";
+import SectionSwitcherFrontier from "../../../components/SectionSwitcherFrontier.astro";
+
+import chapters from "../../../assets/json/phrasebook/chapters.json";
+const chapters_a1 = chapters["a1"];
+const chapters_a2 = chapters["a2"];
+const chapters_b1 = chapters["b1"];
+const chapters_b2 = chapters["b2"];
+
+// Title
+const pageTitle = "히브리어 회화";
+
+// Section Switcher
+const tabItems = [
+  { id: "group-a1", label: "A1" },
+  { id: "group-a2", label: "A2" },
+  { id: "group-b1", label: "B1" },
+  { id: "group-b2", label: "B2" },
+];
+---
+
+<HebrewLayout pageTitle={pageTitle + " | Ivriah"}>
+  <BoxFrontier
+    title="Bituyim"
+    subtitle="히브리어 회화"
+    description="지중해에서 불어오는 따뜻한 샬롬 — 햇살 가득한 텔아비브의 거리 어딘가, 고대의 울림과 현대의 활기가 만나는 곳. 이 회화 모음집은 일상의 히브리어 속에 깃든 따뜻함과 생동감을 담았습니다."
+    language="heb"
+  />
+
+  <SectionSwitcherFrontier items={tabItems} />
+
+  <main>
+    <section class="group-a1 fade_1">
+      <h2>
+        <span class="animated-underline-heb">CEFR A1</span>
+      </h2>
+      <ul>
+        {
+          chapters_a1.map((post: any) => (
+            <ButtonFrontier2
+              id={post.id}
+              title={post.heb}
+              subtitle={post.kor}
+              language="heb"
+              path={"/hebrew/phrasebook/a1/" + post.path}
+            />
+          ))
+        }
+      </ul>
+    </section>
+
+    <section class="group-a2 fade_1">
+      <h2>
+        <span class="animated-underline-heb">CEFR A2</span>
+      </h2>
+      <ul>
+        {
+          chapters_a2.map((post: any) => (
+            <ButtonFrontier2
+              id={post.id}
+              title={post.heb}
+              subtitle={post.kor}
+              language="heb"
+              path={"/hebrew/phrasebook/a2/" + post.path}
+            />
+          ))
+        }
+      </ul>
+    </section>
+
+    <section class="group-b1 fade_1">
+      <h2>
+        <span class="animated-underline-heb">CEFR B1</span>
+      </h2>
+      <ul>
+        {
+          chapters_b1.map((post: any) => (
+            <ButtonFrontier2
+              id={post.id}
+              title={post.heb}
+              subtitle={post.kor}
+              language="heb"
+              path={"/hebrew/phrasebook/b1/" + post.path}
+            />
+          ))
+        }
+      </ul>
+    </section>
+
+    <section class="group-b2 fade_1">
+      <h2>
+        <span class="animated-underline-heb">CEFR B2</span>
+      </h2>
+      <ul>
+        {
+          chapters_b2.map((post: any) => (
+            <ButtonFrontier2
+              id={post.id}
+              title={post.heb}
+              subtitle={post.kor}
+              language="heb"
+              path={"/hebrew/phrasebook/b2/" + post.path}
+            />
+          ))
+        }
+      </ul>
+    </section>
+  </main>
+</HebrewLayout>
+
+<style>
+  section {
+    padding-top: 1.5rem;
+  }
+</style>

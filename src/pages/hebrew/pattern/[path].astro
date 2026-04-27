@@ -1,5 +1,5 @@
 ---
-import IvriahLayout from "../../../layouts/IvriahLayout.astro";
+import HebrewLayout from "../../../layouts/HebrewLayout.astro";
 import BoxFrontier2rtl from "../../../components/BoxFrontier2rtl.astro";
 import ButtonFrontier2rtl from "../../../components/ButtonFrontier2rtl.astro";
 
@@ -69,7 +69,7 @@ switch (chapter.id) {
 }
 ---
 
-<IvriahLayout pageTitle={chapter.kor + " | Ivriah"}>
+<HebrewLayout pageTitle={chapter.kor + " | Ivriah"}>
   <BoxFrontier2rtl title={chapter.heb} subtitle={chapter.kor} language="heb" />
 
   {
@@ -79,8 +79,8 @@ switch (chapter.id) {
         title={post.pattern}
         subtitle={post.translation}
         language="heb"
-        path={"/ivriah/pattern/" + path + "/" + post.id}
+        path={"/hebrew/pattern/" + path + "/" + post.id}
       />
     ))
   }
-</IvriahLayout>
+</HebrewLayout>

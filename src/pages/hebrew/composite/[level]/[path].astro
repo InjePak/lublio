@@ -246,14 +246,6 @@ switch (level) {
 <IvriahLayout pageTitle={chapter.kor + " | Ivriah"}>
   <BoxFrontier2 title={chapter.heb} subtitle={chapter.kor} language="heb" />
 
-  <select id="lang-switcher">
-    <option value="kor">한국어</option>
-    <option value="eng">English</option>
-    <option value="fra">Français</option>
-    <option value="deu">Deutsch</option>
-    <option value="rus">Русский</option>
-  </select>
-
   {
     !jsonData ? (
       <p>Internal Server Error</p>
