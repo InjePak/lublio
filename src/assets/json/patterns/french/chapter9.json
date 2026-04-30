@@ -2,7 +2,7 @@
   {
     "id": 1,
     "pattern": "Chaque matin, je fais généralement ...",
-    "translation": "Every morning, I usually ...",
+    "translation": "매일 아침, 저는 보통 ...합니다.",
     "b1": [
       "Chaque matin, je fais généralement mon lit.",
       "Chaque matin, je fais généralement un peu de sport.",
@@ -28,7 +28,7 @@
   {
     "id": 2,
     "pattern": "J'ai tendance à ... quand ...",
-    "translation": "I tend to ... when ...",
+    "translation": "저는 ...할 때 ...하는 경향이 있어요.",
     "b1": [
       "J'ai tendance à manger du chocolat quand je suis triste.",
       "J'ai tendance à dormir beaucoup quand je suis fatigué.",
@@ -54,7 +54,7 @@
   {
     "id": 3,
     "pattern": "En règle générale, je ne ... jamais.",
-    "translation": "As a rule, I never ...",
+    "translation": "일반적으로, 저는 절대 ...하지 않습니다.",
     "b1": [
       "En règle générale, je ne mange jamais de viande.",
       "En règle générale, je ne regarde jamais la télévision le matin.",
@@ -80,7 +80,7 @@
   {
     "id": 4,
     "pattern": "Je mets un point d'honneur à ... au moins une fois par jour.",
-    "translation": "I make it a point to ... at least once a day.",
+    "translation": "적어도 하루에 한 번은 꼭 ...하려고 노력해요.",
     "b1": [
       "Je mets un point d'honneur à lire au moins une fois par jour.",
       "Je mets un point d'honneur à appeler ma mère au moins une fois par jour.",
@@ -106,7 +106,7 @@
   {
     "id": 5,
     "pattern": "Avant toute chose, je ... toujours.",
-    "translation": "Before anything else, I always ...",
+    "translation": "무엇보다 먼저 저는 항상 ...해요.",
     "b1": [
       "Avant toute chose, je me lave toujours les mains.",
       "Avant toute chose, je bois toujours un verre d'eau.",
@@ -132,7 +132,7 @@
   {
     "id": 6,
     "pattern": "J'ai pris l'habitude de ...",
-    "translation": "I've gotten into the habit of ...",
+    "translation": "...하는 습관이 생겼어요.",
     "b1": [
       "J'ai pris l'habitude de manger des fruits le matin.",
       "J'ai pris l'habitude de marcher jusqu'au travail.",
@@ -158,7 +158,7 @@
   {
     "id": 7,
     "pattern": "Ma routine implique généralement ...",
-    "translation": "My routine typically involves ...",
+    "translation": "제 일과에는 보통 ...을 포함해요.",
     "b1": [
       "Ma routine implique généralement un petit déjeuner copieux.",
       "Ma routine implique généralement deux heures de cours.",
@@ -184,7 +184,7 @@
   {
     "id": 8,
     "pattern": "La plupart des soirs, je me retrouve à ...",
-    "translation": "Most evenings, I find myself ...",
+    "translation": "대부분의 저녁에 저는 ...하곤 해요.",
     "b1": [
       "La plupart des soirs, je me retrouve à regarder un film.",
       "La plupart des soirs, je me retrouve à cuisiner pour demain.",
@@ -210,7 +210,7 @@
   {
     "id": 9,
     "pattern": "Ce que je fais souvent, c'est ...",
-    "translation": "What I often do is ...",
+    "translation": "제가 자주 하는 것은 ...입니다.",
     "b1": [
       "Ce que je fais souvent, c'est aller à la piscine.",
       "Ce que je fais souvent, c'est manger des pommes.",
@@ -236,7 +236,7 @@
   {
     "id": 10,
     "pattern": "Je saute rarement l'étape de ...",
-    "translation": "I rarely skip the step of ...",
+    "translation": "저는 ...하는 것을 거의 빼먹지 않아요.",
     "b1": [
       "Je saute rarement l'étape du petit déjeuner.",
       "Je saute rarement l'étape de l'échauffement avant le sport.",
@@ -262,7 +262,7 @@
   {
     "id": 11,
     "pattern": "C'est un rituel quotidien pour moi de ...",
-    "translation": "It's a daily ritual for me to ...",
+    "translation": "...하는 것은 저에게 매일의 의식과도 같아요.",
     "b1": [
       "C'est un rituel quotidien pour moi de boire un thé.",
       "C'est un rituel quotidien pour moi de regarder le ciel.",
@@ -288,7 +288,7 @@
   {
     "id": 12,
     "pattern": "Je poursuis généralement cela avec ...",
-    "translation": "I usually follow that up with ...",
+    "translation": "그다음에는 보통 ...을 이어서 해요.",
     "b1": [
       "Je poursuis généralement cela avec un grand verre de jus.",
       "Je poursuis généralement cela avec mes devoirs.",
@@ -314,7 +314,7 @@
   {
     "id": 13,
     "pattern": "Sans faute, chaque ...",
-    "translation": "Without fail, every ...",
+    "translation": "한 번도 거르지 않고, 매번 ...마다 ...해요.",
     "b1": [
       "Sans faute, chaque matin, je bois du lait.",
       "Sans faute, chaque dimanche, je rends visite à ma grand-mère.",
@@ -340,7 +340,7 @@
   {
     "id": 14,
     "pattern": "J'essaie constamment de me souvenir de ...",
-    "translation": "I'm constantly trying to remember to ...",
+    "translation": "저는 계속 ...하는 것을 잊지 않으려고 노력 중이에요.",
     "b1": [
       "J'essaie constamment de me souvenir de mes clés.",
       "J'essaie constamment de me souvenir de ton nom.",
@@ -366,7 +366,7 @@
   {
     "id": 15,
     "pattern": "Mon habitude s'est développée parce que ...",
-    "translation": "My habit developed because ...",
+    "translation": "제 습관은 ... 때문에 생겼어요.",
     "b1": [
       "Mon habitude s'est développée parce que mes parents le faisaient.",
       "Mon habitude s'est développée parce que c'est bon pour moi.",
@@ -392,7 +392,7 @@
   {
     "id": 16,
     "pattern": "J'alloue généralement du temps pour ...",
-    "translation": "I usually allocate time for ...",
+    "translation": "저는 보통 ...을 위해 시간을 내요.",
     "b1": [
       "J'alloue généralement du temps pour mes loisirs.",
       "J'alloue généralement du temps pour voir ma famille.",
@@ -418,7 +418,7 @@
   {
     "id": 17,
     "pattern": "C'est devenu une seconde nature pour moi de ...",
-    "translation": "It's become second nature to me to ...",
+    "translation": "...은 저에게 아주 당연한 일이 되었어요.",
     "b1": [
       "C'est devenu une seconde nature pour moi de dire pardon.",
       "C'est devenu une seconde nature pour moi de sourire aux gens.",
@@ -444,7 +444,7 @@
   {
     "id": 18,
     "pattern": "Ma journée de travail typique commence par ...",
-    "translation": "My typical workday starts with ...",
+    "translation": "제 업무는 보통 ...으로 시작해요.",
     "b1": [
       "Ma journée de travail typique commence par dire bonjour.",
       "Ma journée de travail typique commence par ouvrir mon ordinateur.",
@@ -470,7 +470,7 @@
   {
     "id": 19,
     "pattern": "J'essaie d'éviter ... autant que possible.",
-    "translation": "I try to avoid ... as much as possible.",
+    "translation": "가능한 한 ...을 피하려고 노력해요.",
     "b1": [
       "J'essaie d'éviter le sucre autant que possible.",
       "J'essaie d'éviter de me coucher tard autant que possible.",
@@ -496,7 +496,7 @@
   {
     "id": 20,
     "pattern": "La dernière chose que je fais avant ... est de ...",
-    "translation": "The last thing I do before ... is ...",
+    "translation": "...하기 전에 마지막으로 하는 일은 ...입니다.",
     "b1": [
       "La dernière chose que je fais avant de dormir est de lire.",
       "La dernière chose que je fais avant de sortir est de prendre mes clés.",

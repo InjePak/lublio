@@ -1,6 +1,6 @@
 ---
-import BaseLayout from "../../../../layouts/BaseLayout.astro";
-import Box2 from "../../../../components/Box2.astro";
+import FrenchLayout from "../../../../layouts/FrenchLayout.astro";
+import BoxFrontier2 from "../../../../components/BoxFrontier2.astro";
 
 // src/pages/phrasebook/[level]/[path].astro
 import chapters from "../../../../assets/json/phrasebook/chapters.json";
@@ -243,14 +243,14 @@ switch (level) {
 }
 ---
 
-<BaseLayout pageTitle={chapter.eng + " | Lublio"}>
-  <Box2 title={chapter.fra} subtitle={chapter.eng} language="fra" />
+<FrenchLayout pageTitle={chapter.kor + " | Lublio"}>
+  <BoxFrontier2 title={chapter.fra} subtitle={chapter.kor} language="fra" />
 
   <select id="lang-switcher">
+    <option value="kor">한국어</option>
     <option value="eng">English</option>
     <option value="deu">Deutsch</option>
     <option value="rus">Русский</option>
-    <option value="kor">한국어</option>
   </select>
 
   {
@@ -263,18 +263,18 @@ switch (level) {
           <h2 lang="fr">{data.fra}</h2>
           <p
             class="translation"
+            data-kor={data.kor}
             data-eng={data.eng}
             data-deu={data.deu}
             data-rus={data.rus}
-            data-kor={data.kor}
           >
-            {data.eng}
+            {data.kor}
           </p>
         </div>
       ))
     )
   }
-</BaseLayout>
+</FrenchLayout>
 
 <style>
   .phrase-box {

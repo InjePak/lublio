@@ -1,21 +1,21 @@
 ---
-import BaseLayout from "../../layouts/BaseLayout.astro";
-import Box from "../../components/Box.astro";
-import Button from "../../components/Button.astro";
+import FrenchLayout from "../../layouts/FrenchLayout.astro";
+import BoxMainFrontier from "../../components/BoxMainFrontier.astro";
+import ButtonFrontier from "../../components/ButtonFrontier.astro";
 
-const pageTitle = "French";
+const pageTitle = "프랑스어";
 ---
 
-<BaseLayout pageTitle={pageTitle + " | Lublio"}>
-  <Box
+<FrenchLayout pageTitle={pageTitle + " | Lublio"}>
+  <BoxMainFrontier
     title="Français"
-    subtitle="French"
-    description="Le français est la langue de l'amour et de la diplomatie. Reconnue pour son élégance et sa précision, elle brille à travers le monde comme un vecteur essentiel de la culture, de la gastronomie et des arts libéraux."
+    subtitle="프랑스어"
+    description="프랑스어는 일상의 모든 순간을 예술로 만드는 언어입니다. 카페의 대화도, 시장의 흥정도, 낯선 이에게 건네는 인사도 프랑스어를 거치면 어딘가 다른 결을 띠게 됩니다. 삶을 조금 더 아름답게 바라보게 만드는 언어, 지금 만나보세요."
     language="fra"
   />
 
-  <div class="button-wrapper">
-    <!-- <Button
+  <div class="buttonFrontier-wrapper">
+    <!-- <ButtonFrontier
       title="Grammaire"
       subtitle="Grammar"
       description="CEFR A1 - B2"
@@ -25,25 +25,25 @@ const pageTitle = "French";
       isDev="true"
     /> -->
 
-    <Button
+    <ButtonFrontier
       title="Phrases"
-      subtitle="Phrasebook"
+      subtitle="프랑스어 회화"
       description="CEFR A1 - B2"
       language="fra"
       path="/french/phrasebook"
       level="phrase"
     />
 
-    <Button
+    <ButtonFrontier
       title="Modèles"
-      subtitle="Sentence Patterns"
+      subtitle="프랑스어 패턴"
       description="CEFR B1 - C1"
       language="fra"
       path="/french/pattern"
       level="pattern"
     />
 
-    <!-- <Button
+    <!-- <ButtonFrontier
       title="Vocabulaire"
       subtitle="Vocabulary"
       description="CEFR A1 - C1"
@@ -53,10 +53,10 @@ const pageTitle = "French";
       isDev="true"
     /> -->
   </div>
-</BaseLayout>
+</FrenchLayout>
 
 <style>
-  .button-wrapper {
+  .buttonFrontier-wrapper {
     display: flex;
     flex-direction: column;
     gap: 1rem;
@@ -65,7 +65,7 @@ const pageTitle = "French";
 
   /* Mobile */
   @media (max-width: 480px) {
-    .button-wrapper {
+    .buttonFrontier-wrapper {
       gap: 10px;
       margin-bottom: 10px;
     }

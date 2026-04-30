@@ -1,7 +1,7 @@
 ---
-import BaseLayout from "../../../../layouts/BaseLayout.astro";
-import SectionSwitcher from "../../../../components/SectionSwitcher.astro";
-import Box2 from "../../../../components/Box2.astro";
+import FrenchLayout from "../../../../layouts/FrenchLayout.astro";
+import SectionSwitcherFrontier from "../../../../components/SectionSwitcherFrontier.astro";
+import BoxFrontier2 from "../../../../components/BoxFrontier2.astro";
 
 import chapters from "../../../../assets/json/patterns/chapters.json";
 import chapter1 from "../../../../assets/json/patterns/french/chapter1.json";
@@ -84,13 +84,13 @@ const tabItems = [
 ];
 ---
 
-<BaseLayout pageTitle={post.pattern + " | Lublio"}>
-  <Box2
+<FrenchLayout pageTitle={post.pattern + " | Lublio"}>
+  <BoxFrontier2
     title=`${post.id}. ${post.pattern}`
     subtitle={post.translation}
     language="fra"
   />
-  <SectionSwitcher items={tabItems} />
+  <SectionSwitcherFrontier items={tabItems} />
 
   {
     !post ? (
@@ -176,17 +176,20 @@ const tabItems = [
       });
     });
   </script>
-</BaseLayout>
+</FrenchLayout>
 
 <style>
+  /* Phrase Box */
+
   .phrase-box {
+    /* background-color: var(--neutral50); */
     margin-bottom: 1.5rem;
   }
 
   .phrase-box > h1 {
     font-family: "Inter", "Noto Hebrew", sans-serif;
     text-transform: uppercase;
-    font-size: 28px;
+    font-size: 24px;
     font-weight: 700;
     margin-top: 1.5rem;
     margin-bottom: 2rem;
@@ -196,31 +199,34 @@ const tabItems = [
   .phrase-box > p {
     display: inline-block;
     width: 100%;
+    padding: 3rem 1.5rem;
     font-size: 20px;
     font-weight: 500;
-    line-height: 1.5rem;
+    line-height: 2rem;
     margin-bottom: 1rem;
     hyphens: auto;
     overflow-wrap: break-word;
     font-family: "Inter", "Noto Hebrew", sans-serif;
+    border-radius: 20px;
     background-color: var(--neutral50);
-    border-radius: 15px;
-    margin-bottom: 1.5rem;
-    padding: 3rem 2rem;
-    color: var(--zinc800);
   }
 
   .phrase-box > p > span {
     text-transform: uppercase;
     display: inline-block;
     width: 100%;
-    font-weight: 500;
+    font-weight: 700;
     border-left: 4px solid var(--sky500);
     font-size: 20px;
     margin-bottom: 1rem;
     padding: 0.3rem 0.6rem;
     direction: ltr;
     margin-bottom: 2rem;
+  }
+
+  .phrase-box > h1,
+  .phrase-box > p {
+    color: var(--neutral800);
   }
 
   /* Mobile */

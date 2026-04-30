@@ -2,7 +2,7 @@
   {
     "id": 1,
     "pattern": "À mon avis, ...",
-    "translation": "In my opinion, ...",
+    "translation": "제 의견으로는 ...",
     "b1": [
       "À mon avis, ce film est très intéressant.",
       "À mon avis, nous devrions manger plus de légumes.",
@@ -28,7 +28,7 @@
   {
     "id": 2,
     "pattern": "Je crois que ...",
-    "translation": "I believe that ...",
+    "translation": "저는 ...라고 생각해요.",
     "b1": [
       "Je crois que c'est une bonne idée.",
       "Je crois que Paul est déjà parti.",
@@ -54,7 +54,7 @@
   {
     "id": 3,
     "pattern": "Il me semble que ...",
-    "translation": "It seems to me that ...",
+    "translation": "제가 보기에는 ...인 것 같아요.",
     "b1": [
       "Il me semble que tu es fatigué.",
       "Il me semble que le bus est en retard.",
@@ -80,7 +80,7 @@
   {
     "id": 4,
     "pattern": "De mon point de vue, ...",
-    "translation": "From my perspective, ...",
+    "translation": "제 관점에서는 ...",
     "b1": [
       "De mon point de vue, c'est trop cher.",
       "De mon point de vue, le sport est important.",
@@ -106,7 +106,7 @@
   {
     "id": 5,
     "pattern": "Je suis convaincu(e) que ...",
-    "translation": "I strongly feel that ...",
+    "translation": "저는 …라고 강하게 느껴요.",
     "b1": [
       "Je suis convaincu que tu vas réussir.",
       "Je suis convaincue qu'elle va venir.",
@@ -132,7 +132,7 @@
   {
     "id": 6,
     "pattern": "Je dirais que ...",
-    "translation": "I would argue that ...",
+    "translation": "저는 ...라고 주장하고 싶어요.",
     "b1": [
       "Je dirais que c'est un bon début.",
       "Je dirais que la fête était sympa.",
@@ -158,7 +158,7 @@
   {
     "id": 7,
     "pattern": "Ce que je veux dire, c'est que ...",
-    "translation": "What I mean is, ...",
+    "translation": "제 말의 뜻은 …",
     "b1": [
       "Ce que je veux dire, c'est que c'est important.",
       "Ce que je veux dire, c'est que je suis désolé.",
@@ -184,7 +184,7 @@
   {
     "id": 8,
     "pattern": "Si vous voulez mon avis, ...",
-    "translation": "If you ask me, ...",
+    "translation": "제 의견을 물으신다면 …",
     "b1": [
       "Si vous voulez mon avis, il ne viendra pas.",
       "Si vous voulez mon avis, c'est trop tard.",
@@ -210,7 +210,7 @@
   {
     "id": 9,
     "pattern": "Je suis tout à fait d'accord avec ...",
-    "translation": "I couldn't agree more with ...",
+    "translation": "...에 전적으로 동의합니다.",
     "b1": [
       "Je suis tout à fait d'accord avec toi.",
       "Je suis tout à fait d'accord avec cette idée.",
@@ -236,7 +236,7 @@
   {
     "id": 10,
     "pattern": "C'est un point valable, mais ...",
-    "translation": "That's a valid point, but ...",
+    "translation": "타당한 말씀입니다만, ...",
     "b1": [
       "C'est un point valable, mais c'est trop cher.",
       "C'est un point valable, mais je n'ai pas le temps.",
@@ -262,7 +262,7 @@
   {
     "id": 11,
     "pattern": "Je me permets de ne pas être d'accord sur ...",
-    "translation": "I beg to differ on ...",
+    "translation": "...에 대해서는 의견이 다릅니다.",
     "b1": [
       "Je me permets de ne pas être d'accord sur le prix.",
       "Je me permets de ne pas être d'accord sur la couleur.",
@@ -288,7 +288,7 @@
   {
     "id": 12,
     "pattern": "Bien que je comprenne que ..., je pense toujours que …",
-    "translation": "While I understand that ..., I still feel ...",
+    "translation": "...라는 점은 이해하지만, 여전히 ...라고 생각합니다.",
     "b1": [
       "Bien que je comprenne que tu es occupé, je pense toujours que tu devrais venir.",
       "Bien que je comprenne que c'est difficile, je pense toujours que c'est possible.",
@@ -314,7 +314,7 @@
   {
     "id": 13,
     "pattern": "Sauf votre respect, ...",
-    "translation": "With all due respect, ...",
+    "translation": "실례입니다만, ...",
     "b1": [
       "Sauf votre respect, je ne suis pas d'accord.",
       "Sauf votre respect, vous avez oublié un détail.",
@@ -340,7 +340,7 @@
   {
     "id": 14,
     "pattern": "Je ne suis pas entièrement sûr(e) de …",
-    "translation": "I'm not entirely sure about ...",
+    "translation": "...에 대해 전적으로 확신하지는 못해요.",
     "b1": [
       "Je ne suis pas entièrement sûr de l'heure.",
       "Je ne suis pas entièrement sûre de ton nom.",
@@ -366,7 +366,7 @@
   {
     "id": 15,
     "pattern": "Pourriez-vous développer sur ... ?",
-    "translation": "Could you elaborate on ...?",
+    "translation": "...에 대해 좀 더 자세히 설명해주시겠어요?",
     "b1": [
       "Pourriez-vous développer sur ce point ?",
       "Pourriez-vous développer sur votre idée ?",
@@ -392,7 +392,7 @@
   {
     "id": 16,
     "pattern": "J'ai des sentiments mitigés à propos de …",
-    "translation": "I have mixed feelings about ...",
+    "translation": "...에 대해서는 복잡한 생각이 들어요.",
     "b1": [
       "J'ai des sentiments mitigés à propos de ce livre.",
       "J'ai des sentiments mitigés à propos de mon nouveau travail.",
@@ -418,7 +418,7 @@
   {
     "id": 17,
     "pattern": "Mettons-nous d'accord pour ne pas être d'accord sur …",
-    "translation": "Let's agree to disagree on ...",
+    "translation": "...에 대해서는 각자의 의견을 존중하기로 하죠.",
     "b1": [
       "Mettons-nous d'accord pour ne pas être d'accord sur ce film.",
       "Mettons-nous d'accord pour ne pas être d'accord sur la musique.",
@@ -444,7 +444,7 @@
   {
     "id": 18,
     "pattern": "Avez-vous considéré ...?",
-    "translation": "Have you considered ...?",
+    "translation": "...을 고려해 보셨나요?",
     "b1": [
       "Avez-vous considéré cette option ?",
       "Avez-vous considéré le prix ?",
@@ -470,7 +470,7 @@
   {
     "id": 19,
     "pattern": "Ce n'est pas toujours le cas parce que …",
-    "translation": "That's not always the case because ...",
+    "translation": "항상 그런 것은 아닙니다, 왜냐하면 ...",
     "b1": [
       "Ce n'est pas toujours le cas parce que c'est difficile.",
       "Ce n'est pas toujours le cas parce que les gens changent.",
@@ -496,7 +496,7 @@
   {
     "id": 20,
     "pattern": "Je vois les choses …",
-    "translation": "I see things ...",
+    "translation": "저는 상황을 ...게 봐요.",
     "b1": [
       "Je vois les choses différemment.",
       "Je vois les choses positivement.",

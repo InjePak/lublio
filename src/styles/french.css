@@ -18,9 +18,9 @@ html {
   scroll-behavior: smooth;
   background: linear-gradient(
     -45deg,
-    var(--black),
-    var(--neutral950),
-    var(--sky900)
+    var(--white),
+    var(--sky50),
+    var(--sky200)
   );
   background-size: 300% 300%;
   animation: gradient 6s ease infinite;
@@ -47,7 +47,7 @@ a:active {
 
 hr {
   display: block;
-  border: 1px solid var(--zinc300);
+  border: 1px solid var(--neutral800);
   margin: 3rem 0;
 }
 
@@ -88,7 +88,7 @@ hr {
 }
 
 .wrapperArticle {
-  background-color: var(--zinc100);
+  background-color: var(--neutral100);
   width: 100%;
   max-width: 768px;
   height: auto;
@@ -109,7 +109,7 @@ p {
   display: inline-block;
   width: 100%;
   height: auto;
-  color: var(--neutral100);
+  color: var(--neutral800);
   margin-bottom: 1.5rem;
   font-family: "Inter", sans-serif;
 }
@@ -118,8 +118,8 @@ h1::selection,
 h2::selection,
 h3::selection,
 p::selection {
-  color: var(--neutral800);
-  background-color: var(--neutral300);
+  color: var(--neutral100);
+  background-color: var(--neutral800);
 }
 
 h1 {
@@ -170,12 +170,12 @@ p {
 * ——————————————————————————————
 */
 
-.animated-underline-heb {
+.animated-underline-fra {
   position: relative;
   display: inline-block;
 }
 
-.animated-underline-heb::after {
+.animated-underline-fra::after {
   content: "";
   position: absolute;
   width: 100%;
@@ -187,15 +187,15 @@ p {
   transition: transform 0.25s ease-out;
 }
 
-.animated-underline-heb::after {
-  background-color: var(--blue400);
+.animated-underline-fra::after {
+  background-color: var(--sky400);
 }
 
-.animated-underline-heb:hover {
+.animated-underline-fra:hover {
   cursor: default;
 }
 
-.animated-underline-heb:hover::after {
+.animated-underline-fra:hover::after {
   transform: scaleX(1); /* 호버 시 가로 길이를 100%로 */
   transform-origin: bottom left;
 }
@@ -219,7 +219,7 @@ ol > li {
 
 ol li::marker,
 ul li::marker {
-  color: var(--zinc800);
+  color: var(--neutral800);
   font-weight: bold;
   font-family: "Google Sans", sans-serif;
 }
@@ -254,7 +254,7 @@ ol > li > a:hover {
 .text-box {
   padding: 20px;
   background-color: transparent;
-  border: 2px solid var(--zinc800);
+  border: 2px solid var(--neutral800);
   border-radius: 10px;
   margin-bottom: 1.5rem;
 }
@@ -264,7 +264,7 @@ ol > li > a:hover {
   font-weight: 400;
   padding: 10px 0px;
   margin-bottom: 0px;
-  color: var(--zinc800);
+  color: var(--neutral800);
   font-family: "Google Sans", sans-serif;
 }
 
@@ -294,7 +294,7 @@ ol > li > a:hover {
 .styled-list > li {
   margin-left: 20px;
   margin-bottom: 10px;
-  color: var(--zinc800);
+  color: var(--neutral800);
   font-size: 16px;
   font-weight: 400;
   font-family: "Google Sans", sans-serif;
@@ -363,20 +363,21 @@ select {
   margin-bottom: 2rem;
   padding: 10px 15px;
   width: 100%;
-  color: var(--zinc100);
+  color: var(--neutral800);
   font-size: 16px;
   font-family: "Inter", "Noto Hebrew", sans-serif;
-  font-weight: 400;
+  font-weight: 500;
   outline: none;
   -o-appearance: none;
   -moz-appearance: none;
   -webkit-appearance: none;
   appearance: none;
-  border: 1px solid rgba(255, 255, 255, 0.3);
-  background-color: rgba(255, 255, 255, 0.1);
+  border: 2px solid rgba(38, 38, 38, 0.8);
+  border-radius: 50px;
+  background-color: transparent;
   background-image:
-    linear-gradient(45deg, transparent 50%, rgba(255, 255, 255, 0.8) 50%),
-    linear-gradient(135deg, rgba(255, 255, 255, 0.8) 50%, transparent 50%);
+    linear-gradient(45deg, transparent 50%, rgba(38, 38, 38, 0.8) 50%),
+    linear-gradient(135deg, rgba(38, 38, 38, 0.8) 50%, transparent 50%);
   background-position:
     calc(100% - 20px) calc(1em + 2px),
     calc(100% - 15px) calc(1em + 2px),
@@ -389,10 +390,10 @@ select {
 }
 
 select:focus {
-  border: 1px solid rgba(255, 255, 255, 0.3);
+  border: 2px solid rgba(38, 38, 38, 0.8);
   background-image:
-    linear-gradient(45deg, rgba(255, 255, 255, 0.3) 50%, transparent 50%),
-    linear-gradient(135deg, transparent 50%, rgba(255, 255, 255, 0.3) 50%);
+    linear-gradient(45deg, rgba(38, 38, 38, 0.3) 50%, transparent 50%),
+    linear-gradient(135deg, transparent 50%, rgba(38, 38, 38, 0.3) 50%);
   background-position:
     calc(100% - 15px) 1em,
     calc(100% - 20px) 1em,
@@ -406,10 +407,10 @@ select:focus {
 }
 
 select > option {
-  background-color: var(--zinc800);
-  color: var(--zinc100);
+  background-color: var(--neutral800);
+  color: var(--neutral100);
   font-size: 16px;
-  font-family: "Manrope", "Noto Sans KR", "Vazirmatn", sans-serif;
+  font-family: "Inter", "Noto Korea", sans-serif;
   font-weight: 500;
 }
 
@@ -442,11 +443,11 @@ button {
   letter-spacing: 0px;
   margin: 10px;
   padding: 10px 20px;
-  color: var(--zinc800);
+  color: var(--neutral800);
   font-weight: 400;
   font-size: 15px;
   background-color: transparent;
-  border: 2px solid var(--zinc800);
+  border: 2px solid var(--neutral800);
   border-radius: 50px;
   transition: all 0.3s;
 }
@@ -461,8 +462,8 @@ button:hover {
 }
 
 button:focus {
-  color: var(--zinc200);
-  background-color: var(--zinc800);
+  color: var(--neutral200);
+  background-color: var(--neutral800);
   cursor: pointer;
 }
 

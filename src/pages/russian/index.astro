@@ -1,21 +1,21 @@
 ---
-import BaseLayout from "../../layouts/BaseLayout.astro";
-import Box from "../../components/Box.astro";
-import Button from "../../components/Button.astro";
+import RussianLayout from "../../layouts/RussianLayout.astro";
+import BoxMainFrontier from "../../components/BoxMainFrontier.astro";
+import ButtonFrontier from "../../components/ButtonFrontier.astro";
 
-const pageTitle = "Russian";
+const pageTitle = "러시아어";
 ---
 
-<BaseLayout pageTitle={pageTitle + " | Lublio"}>
-  <Box
+<RussianLayout pageTitle={pageTitle + " | Lublio"}>
+  <BoxMainFrontier
     title="Русский"
-    subtitle="Russian"
-    description="Русский — это язык великой литературы и космоса. Обладая невероятной силой выражения и эмоциональной глубиной, он открывает доступ к богатейшему культурному наследию и передовым научным достижениям."
+    subtitle="러시아어"
+    description="러시아어는 대륙만큼 넓고 겨울만큼 깊은 언어입니다. 톨스토이와 도스토옙스키가 그 문장들로 인간의 내면을 파헤쳤고, 오늘날에도 유라시아 전역에서 수억 명의 목소리를 잇고 있습니다. 압도적인 스케일과 섬세함을 동시에 품은 언어, 지금 만나보세요."
     language="rus"
   />
 
-  <div class="button-wrapper">
-    <!-- <Button
+  <div class="buttonFrontier-wrapper">
+    <!-- <ButtonFrontier
       title="Грамматика"
       subtitle="Grammar"
       description="CEFR A1 - B2"
@@ -25,25 +25,25 @@ const pageTitle = "Russian";
       isDev="true"
     /> -->
 
-    <Button
+    <ButtonFrontier
       title="Фразы"
-      subtitle="Phrasebook"
+      subtitle="러시아어 회화"
       description="CEFR A1 - B2"
       language="rus"
       path="/russian/phrasebook"
       level="phrase"
     />
 
-    <Button
+    <ButtonFrontier
       title="Схемы"
-      subtitle="Sentence Patterns"
+      subtitle="러시아어 패턴"
       description="CEFR B1 - C1"
       language="rus"
       path="/russian/pattern"
       level="pattern"
     />
 
-    <!-- <Button
+    <!-- <ButtonFrontier
       title="Словарь"
       subtitle="Vocabulary"
       description="CEFR A1 - C1"
@@ -53,10 +53,10 @@ const pageTitle = "Russian";
       isDev="true"
     /> -->
   </div>
-</BaseLayout>
+</RussianLayout>
 
 <style>
-  .button-wrapper {
+  .buttonFrontier-wrapper {
     display: flex;
     flex-direction: column;
     gap: 1rem;
@@ -65,7 +65,7 @@ const pageTitle = "Russian";
 
   /* Mobile */
   @media (max-width: 480px) {
-    .button-wrapper {
+    .buttonFrontier-wrapper {
       gap: 10px;
       margin-bottom: 10px;
     }

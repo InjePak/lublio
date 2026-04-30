@@ -18,9 +18,9 @@ html {
   scroll-behavior: smooth;
   background: linear-gradient(
     -45deg,
+    var(--slate200),
     var(--white),
-    var(--zinc100),
-    var(--zinc200)
+    var(--stone200)
   );
   background-size: 300% 300%;
   animation: gradient 6s ease infinite;

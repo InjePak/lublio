@@ -1,30 +1,34 @@
 ---
-import BaseLayout from "../../../layouts/BaseLayout.astro";
-import Box from "../../../components/Box.astro";
-import Button2 from "../../../components/Button2.astro";
+import RussianLayout from "../../../layouts/RussianLayout.astro";
+import BoxFrontier from "../../../components/BoxFrontier.astro";
+import ButtonFrontier2 from "../../../components/ButtonFrontier2.astro";
 
 import chapters from "../../../assets/json/patterns/chapters.json";
 
-const pageTitle = "Russian Sentence Patterns";
+const pageTitle = "러시아어 패턴";
 ---
 
-<BaseLayout pageTitle={pageTitle + " | Lublio"}>
-  <Box
+<RussianLayout pageTitle={pageTitle + " | Lublio"}>
+  <BoxFrontier
     title="Схемы"
-    subtitle="Sentence Patterns"
-    description="Create tens of thousands of sentences using just a single pattern, without any complicated thinking. Experience the most efficient way to quickly improve your speaking skills."
+    subtitle="러시아어 패턴"
+    description="단 하나의 패턴으로 수만 개의 문장을 만들어보세요. 문법에 대한 복잡한 고민은 필요 없습니다. 회화 실력을 빠르게 끌어올리는 가장 효율적인 방법을 경험해보세요."
     language="rus"
   />
 
+  <h2>
+    <span class="animated-underline-rus">CEFR B1 - C1</span>
+  </h2>
+
   {
     chapters.map((post: any) => (
-      <Button2
+      <ButtonFrontier2
         id={post.id}
         title={post.rus}
-        subtitle={post.eng}
+        subtitle={post.kor}
         language="rus"
         path={"/russian/pattern/" + post.path}
       />
     ))
   }
-</BaseLayout>
+</RussianLayout>
