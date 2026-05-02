@@ -1,7 +1,7 @@
 ---
-import HebrewLayout from "../../../layouts/HebrewLayout.astro";
-import BoxFrontier2rtl from "../../../components/BoxFrontier2rtl.astro";
-import ButtonFrontier2rtl from "../../../components/ButtonFrontier2rtl.astro";
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import Box2 from "../../../components/Box2.astro";
+import Button3rtl from "../../../components/Button3rtl.astro";
 
 import chapters from "../../../assets/json/patterns/chapters.json";
 import chapter1 from "../../../assets/json/patterns/hebrew/chapter1.json";
@@ -69,12 +69,12 @@ switch (chapter.id) {
 }
 ---
 
-<HebrewLayout pageTitle={chapter.kor + " | Ivriah"}>
-  <BoxFrontier2rtl title={chapter.heb} subtitle={chapter.kor} language="heb" />
+<BaseLayout pageTitle={chapter.kor + " | Lublio"}>
+  <Box2 title={chapter.kor} subtitle={chapter.heb} language="heb" />
 
   {
     jsonData.map((post: any) => (
-      <ButtonFrontier2rtl
+      <Button3rtl
         id={post.id}
         title={post.pattern}
         subtitle={post.translation}
@@ -83,4 +83,4 @@ switch (chapter.id) {
       />
     ))
   }
-</HebrewLayout>
+</BaseLayout>

@@ -1,5 +1,5 @@
 ---
-import HebrewLayout from "../../../../layouts/HebrewLayout.astro";
+import KazakhLayout from "../../../../layouts/KazakhLayout.astro";
 import BoxFrontier2 from "../../../../components/BoxFrontier2.astro";
 
 // src/pages/phrasebook/[level]/[path].astro
@@ -243,8 +243,16 @@ switch (level) {
 }
 ---
 
-<HebrewLayout pageTitle={chapter.kor + " | Ivriah"}>
-  <BoxFrontier2 title={chapter.heb} subtitle={chapter.kor} language="heb" />
+<KazakhLayout pageTitle={chapter.kor + " | Lublio"}>
+  <BoxFrontier2 title={chapter.kaz} subtitle={chapter.kor} language="kaz" />
+
+  <select id="lang-switcher">
+    <option value="kor">한국어</option>
+    <option value="eng">English</option>
+    <option value="fra">Français</option>
+    <option value="deu">Deutsch</option>
+    <option value="rus">Русский</option>
+  </select>
 
   {
     !jsonData ? (
@@ -253,7 +261,7 @@ switch (level) {
       jsonData.map((data: any, index: number) => (
         <div class="phrase-box">
           <h1>{index + 1}</h1>
-          <h2 lang="he">{data.heb}</h2>
+          <h2 lang="kk">{data.kaz}</h2>
           <p
             class="translation"
             data-kor={data.kor}
@@ -268,7 +276,7 @@ switch (level) {
       ))
     )
   }
-</HebrewLayout>
+</KazakhLayout>
 
 <style>
   .phrase-box {
@@ -280,15 +288,14 @@ switch (level) {
 
   .phrase-box > h1 {
     width: 100px;
-    border-left: 4px solid var(--blue500);
+    border-left: 4px solid var(--cyan500);
     padding: 5px 10px;
     font-size: 16px;
     margin-bottom: 2rem;
   }
 
   .phrase-box > h2 {
-    direction: rtl;
-    font-family: "Noto Hebrew", sans-serif;
+    font-family: "Inter", sans-serif;
     font-size: 20px;
     font-weight: 500;
     hyphens: auto;
@@ -299,7 +306,7 @@ switch (level) {
     font-size: 18px;
     margin-bottom: 1rem;
     line-height: 1.6rem;
-    color: var(--blue500);
+    color: var(--cyan500);
   }
 
   .phrase-box > p > span {

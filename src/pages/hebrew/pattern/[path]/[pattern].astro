@@ -1,7 +1,7 @@
 ---
-import HebrewLayout from "../../../../layouts/HebrewLayout.astro";
-import SectionSwitcherFrontier from "../../../../components/SectionSwitcherFrontier.astro";
-import BoxFrontier2rtl from "../../../../components/BoxFrontier2rtl.astro";
+import BaseLayout from "../../../../layouts/BaseLayout.astro";
+import SectionSwitcher from "../../../../components/SectionSwitcher.astro";
+import Box3rtl from "../../../../components/Box3rtl.astro";
 
 import chapters from "../../../../assets/json/patterns/chapters.json";
 import chapter1 from "../../../../assets/json/patterns/hebrew/chapter1.json";
@@ -84,13 +84,13 @@ const tabItems = [
 ];
 ---
 
-<HebrewLayout pageTitle={post.pattern + " | Lublio"}>
-  <BoxFrontier2rtl
+<BaseLayout pageTitle={post.pattern + " | Lublio"}>
+  <Box3rtl
     title=`${post.id}. ${post.pattern}`
     subtitle={post.translation}
     language="heb"
   />
-  <SectionSwitcherFrontier items={tabItems} />
+  <SectionSwitcher items={tabItems} />
 
   {
     !post ? (
@@ -107,7 +107,7 @@ const tabItems = [
                     return (
                       <>
                         <p lang="he">
-                          <span>{index + 1}.</span>
+                          <span>●</span>
                           <br />
                           {phrase}
                         </p>
@@ -125,7 +125,7 @@ const tabItems = [
                     return (
                       <>
                         <p lang="he">
-                          <span>{index + 1}.</span>
+                          <span>●</span>
                           <br />
                           {phrase}
                         </p>
@@ -143,7 +143,7 @@ const tabItems = [
                     return (
                       <>
                         <p lang="he">
-                          <span>{index + 1}.</span>
+                          <span>●</span>
                           <br />
                           {phrase}
                         </p>
@@ -176,7 +176,7 @@ const tabItems = [
       });
     });
   </script>
-</HebrewLayout>
+</BaseLayout>
 
 <style>
   .phrase-box {
@@ -193,33 +193,35 @@ const tabItems = [
     width: 100%;
   }
 
+  .phrase-box > h2 {
+    text-align: left;
+  }
+
   .phrase-box > p {
     display: inline-block;
+    text-align: right;
     width: 100%;
-    padding: 3rem 1.5rem;
-    font-size: 20px;
+    padding: 6rem 3rem;
+    font-size: 36px;
     font-weight: 500;
-    line-height: 2rem;
-    margin-bottom: 1rem;
+    line-height: 3rem;
+    margin-bottom: 1.5rem;
     hyphens: auto;
     overflow-wrap: break-word;
     font-family: "Inter", "Noto Hebrew", sans-serif;
-    border-radius: 20px;
     background-color: var(--neutral50);
     direction: rtl;
   }
 
   .phrase-box > p > span {
     text-transform: uppercase;
-    display: inline-block;
     width: 100%;
     font-weight: 700;
-    border-left: 4px solid var(--blue500);
-    font-size: 20px;
+    font-size: 30px;
     margin-bottom: 1rem;
-    padding: 0.3rem 0.6rem;
     direction: ltr;
     margin-bottom: 2rem;
+    color: var(--blue300);
   }
 
   .phrase-box > h1,

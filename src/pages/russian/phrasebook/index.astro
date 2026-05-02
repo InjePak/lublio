@@ -1,8 +1,8 @@
 ---
-import RussianLayout from "../../../layouts/RussianLayout.astro";
-import BoxFrontier from "../../../components/BoxFrontier.astro";
-import ButtonFrontier2 from "../../../components/ButtonFrontier2.astro";
-import SectionSwitcherFrontier from "../../../components/SectionSwitcherFrontier.astro";
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import Box2 from "../../../components/Box2.astro";
+import Button2 from "../../../components/Button2.astro";
+import SectionSwitcher from "../../../components/SectionSwitcher.astro";
 
 import chapters from "../../../assets/json/phrasebook/chapters.json";
 const chapters_a1 = chapters["a1"];
@@ -22,15 +22,15 @@ const tabItems = [
 ];
 ---
 
-<RussianLayout pageTitle={pageTitle + " | Lublio"}>
-  <BoxFrontier
-    title="Фразы"
-    subtitle="러시아어 회화"
-    description="A direct gaze, a resonant Привет, and the kind of exchange that doesn't waste a single word. Russian is a language of weight and warmth — where every phrase holds its ground, and the simplest greeting carries the soul of something much larger."
+<BaseLayout pageTitle={pageTitle + " | Lublio"}>
+  <Box2
+    title="러시아어 회화"
+    subtitle="Frasy"
+    description="러시아인과 눈을 마주치며 건네는 쁘리비옛 — 광활한 시베리아 벌판이 숨을 고르는 곳, 말 한마디 한마디에 무게와 온기가 함께 실리는 곳. 이 회화 모음집은 일상의 러시아어 깊숙이 흐르는 소박한 따뜻함을 담았습니다."
     language="rus"
   />
 
-  <SectionSwitcherFrontier items={tabItems} />
+  <SectionSwitcher items={tabItems} />
 
   <main>
     <section class="group-a1">
@@ -40,10 +40,10 @@ const tabItems = [
       <ul>
         {
           chapters_a1.map((post: any) => (
-            <ButtonFrontier2
+            <Button2
               id={post.id}
-              title={post.rus}
-              subtitle={post.kor}
+              title={post.kor}
+              subtitle={post.rus}
               language="rus"
               path={"/russian/phrasebook/a1/" + post.path}
             />
@@ -59,10 +59,10 @@ const tabItems = [
       <ul>
         {
           chapters_a2.map((post: any) => (
-            <ButtonFrontier2
+            <Button2
               id={post.id}
-              title={post.rus}
-              subtitle={post.kor}
+              title={post.kor}
+              subtitle={post.rus}
               language="rus"
               path={"/russian/phrasebook/a2/" + post.path}
             />
@@ -78,10 +78,10 @@ const tabItems = [
       <ul>
         {
           chapters_b1.map((post: any) => (
-            <ButtonFrontier2
+            <Button2
               id={post.id}
-              title={post.rus}
-              subtitle={post.kor}
+              title={post.kor}
+              subtitle={post.rus}
               language="rus"
               path={"/russian/phrasebook/b1/" + post.path}
             />
@@ -97,10 +97,10 @@ const tabItems = [
       <ul>
         {
           chapters_b2.map((post: any) => (
-            <ButtonFrontier2
+            <Button2
               id={post.id}
-              title={post.rus}
-              subtitle={post.kor}
+              title={post.kor}
+              subtitle={post.rus}
               language="rus"
               path={"/russian/phrasebook/b2/" + post.path}
             />
@@ -109,7 +109,7 @@ const tabItems = [
       </ul>
     </section>
   </main>
-</RussianLayout>
+</BaseLayout>
 
 <style>
   section {

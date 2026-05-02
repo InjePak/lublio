@@ -1,7 +1,8 @@
 ---
 import "../styles/lublio.css";
-import HeaderFrontier from "../components/HeaderFrontier.astro";
+import Header from "../components/Header.astro";
 import BackToTop from "../components/BackToTop.astro";
+import DesktopOnly from "../components/DesktopOnly.astro";
 
 const { pageTitle } = Astro.props;
 
@@ -39,10 +40,38 @@ const ogDescription =
     <meta property="og:image:height" content="630" />
   </head>
   <body>
+    <div class="header-wrap">
+      <Header />
+    </div>
     <div class="wrapper">
-      <HeaderFrontier />
       <BackToTop />
       <slot />
     </div>
+    <div class="desktop-only">
+      <DesktopOnly />
+    </div>
   </body>
 </html>
+
+<style>
+  /*
+* ——————————————————————————————
+* Desktop Only
+* ——————————————————————————————
+*/
+
+  .desktop-only {
+    display: none;
+  }
+
+  @media (max-width: 1280px) {
+    .header-wrap,
+    .wrapper {
+      display: none;
+    }
+
+    .desktop-only {
+      display: flex;
+    }
+  }
+</style>

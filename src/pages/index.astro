@@ -1,7 +1,6 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
 import ButtonMain from "../components/ButtonMain.astro";
-import ButtonMainFrontier from "../components/ButtonMainFrontier.astro";
 import Typewriter from "../components/Typewriter.astro";
 
 // Logo
@@ -11,103 +10,80 @@ const pageTitle = "Lublio";
 ---
 
 <BaseLayout pageTitle={pageTitle}>
-  <div class="icon-wrapper">
-    <a href="/">
-      <Fragment set:html={LogoSVG} />
-    </a>
-  </div>
+  <div class="wrapper-intro">
+    <!-- <h2>
+      <Typewriter
+        texts={[
+          "두려움보다 설렘을 선택한",
+          "작은 시작으로 큰 변화를 이끄는",
+          "자신만의 우주를 펼쳐가는",
+          "오늘보다 나은 내일을 만드는",
+          "스스로 길을 만들어가는",
+          "일상이 곧 모험인",
+          "매일 새로운 나를 발견하는",
+          "세상에 없던 길을 그려가는",
+          "어제의 나를 뛰어넘는",
+          "불가능을 가능으로 바꾸는",
+        ]}
+      />
+    </h2>
 
-  <h2>
-    <Typewriter
-      texts={[
-        "두려움보다 설렘을 선택한",
-        "작은 시작으로 큰 변화를 이끄는",
-        "자신만의 우주를 펼쳐가는",
-        "오늘보다 나은 내일을 만드는",
-        "스스로 길을 만들어가는",
-        "일상이 곧 모험인",
-        "매일 새로운 나를 발견하는",
-        "세상에 없던 길을 그려가는",
-        "어제의 나를 뛰어넘는",
-        "불가능을 가능으로 바꾸는",
-      ]}
+    <h2 id="fixed-title">당신을 응원합니다 ✨</h2> -->
+
+    <div class="button-wrapper">
+      <ButtonMain
+        title="히브리어"
+        subtitle="עברית"
+        description="CEFR A1 - C1"
+        language="heb"
+        path="/hebrew"
+      />
+
+      <ButtonMain
+        title="카자흐어"
+        subtitle="Қазақша"
+        description="CEFR A1 - C1"
+        language="kaz"
+        path="/kazakh"
+      />
+
+      <ButtonMain
+        title="러시아어"
+        subtitle="Русский"
+        description="CEFR A1 - C1"
+        language="rus"
+        path="/russian"
+      />
+
+      <!-- <ButtonMain
+    title="Français"
+    subtitle="프랑스어"
+    description="CEFR A1 - C1"
+    language="fra"
+    path="/french"
     />
-  </h2>
-
-  <h2 id="fixed-title">당신을 응원합니다 ✨</h2>
-
-  <div class="button-wrapper">
-    <ButtonMain
-      title="עברית"
-      subtitle="히브리어"
-      description="CEFR A1 - C1"
-      language="heb"
-      path="/hebrew"
-    />
-
-    <ButtonMain
-      title="Қазақша"
-      subtitle="카자흐어"
-      description="CEFR A1 - C1"
-      language="kaz"
-      path="/kazakh"
-    />
-
-    <!-- <ButtonMain
-      title="Français"
-      subtitle="프랑스어"
-      description="CEFR A1 - C1"
-      language="fra"
-      path="/french"
-    />
-
-    <ButtonMain
-      title="Русский"
-      subtitle="러시아어"
-      description="CEFR A1 - C1"
-      language="rus"
-      path="/russian"
-    /> -->
-
-    <!-- <ButtonMain
-      title="Deutsch"
-      subtitle="German"
-      description="영어로 배우는 독일어"
-      language="deu"
-      path="/german"
-    />
-
+    
     -->
+
+      <!-- <ButtonMain
+    title="Deutsch"
+    subtitle="German"
+    description="영어로 배우는 독일어"
+    language="deu"
+    path="/german"
+    />
+    -->
+    </div>
   </div>
 
   <style>
-    .icon-wrapper {
-      position: relative;
-      width: 50px;
-      padding-top: 10px;
-      padding-left: 10px;
-      padding-right: 10px;
-      padding-bottom: 5px;
-      height: auto;
-      margin-left: auto;
-      border-bottom: 2px solid transparent;
-      transition: 0.4s all;
-      border-radius: 10px;
+    .wrapper-intro {
+      height: calc(100vh - 3rem);
     }
 
-    .icon-wrapper :global(svg) {
-      width: 100%;
-      height: 100%;
-    }
-
-    .icon-wrapper:hover {
-      cursor: pointer;
-      background-color: var(--neutral200);
-    }
-
-    h2 {
+    /* h2 {
       font-family: "Roboto Condensed", sans-serif;
-      margin-top: 150px;
+      margin-top: 1rem;
       font-size: 24px;
       line-height: 34px;
       margin-bottom: 0.5rem;
@@ -122,20 +98,14 @@ const pageTitle = "Lublio";
       line-height: 40px;
       margin-bottom: 2rem;
       font-weight: 600;
-    }
+    } */
 
     .button-wrapper {
-      display: flex;
-      flex-direction: column;
-      gap: 1rem;
-      margin-bottom: 1rem;
-    }
-
-    .button-wrapper2 {
       display: grid;
-      grid-template-columns: 1fr 1fr;
+      height: 100%;
+      grid-template-columns: 1fr 1fr 1fr;
       justify-items: stretch;
-      gap: 1rem;
+      gap: 1.5rem;
       margin-bottom: 1rem;
     }
 

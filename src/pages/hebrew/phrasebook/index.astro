@@ -1,8 +1,8 @@
 ---
-import HebrewLayout from "../../../layouts/HebrewLayout.astro";
-import BoxFrontier from "../../../components/BoxFrontier.astro";
-import ButtonFrontier2 from "../../../components/ButtonFrontier2.astro";
-import SectionSwitcherFrontier from "../../../components/SectionSwitcherFrontier.astro";
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import Box2 from "../../../components/Box2.astro";
+import Button2rtl from "../../../components/Button2rtl.astro";
+import SectionSwitcher from "../../../components/SectionSwitcher.astro";
 
 import chapters from "../../../assets/json/phrasebook/chapters.json";
 const chapters_a1 = chapters["a1"];
@@ -22,15 +22,15 @@ const tabItems = [
 ];
 ---
 
-<HebrewLayout pageTitle={pageTitle + " | Ivriah"}>
-  <BoxFrontier
-    title="Bituyim"
-    subtitle="히브리어 회화"
+<BaseLayout pageTitle={pageTitle + " | Lublio"}>
+  <Box2
+    title="히브리어 회화"
+    subtitle="Bituyim"
     description="지중해에서 불어오는 따뜻한 샬롬 — 햇살 가득한 텔아비브의 거리 어딘가, 고대의 울림과 현대의 활기가 만나는 곳. 이 회화 모음집은 일상의 히브리어 속에 깃든 따뜻함과 생동감을 담았습니다."
     language="heb"
   />
 
-  <SectionSwitcherFrontier items={tabItems} />
+  <SectionSwitcher items={tabItems} />
 
   <main>
     <section class="group-a1 fade_1">
@@ -40,10 +40,10 @@ const tabItems = [
       <ul>
         {
           chapters_a1.map((post: any) => (
-            <ButtonFrontier2
+            <Button2rtl
               id={post.id}
-              title={post.heb}
-              subtitle={post.kor}
+              title={post.kor}
+              subtitle={post.heb}
               language="heb"
               path={"/hebrew/phrasebook/a1/" + post.path}
             />
@@ -59,10 +59,10 @@ const tabItems = [
       <ul>
         {
           chapters_a2.map((post: any) => (
-            <ButtonFrontier2
+            <Button2rtl
               id={post.id}
-              title={post.heb}
-              subtitle={post.kor}
+              title={post.kor}
+              subtitle={post.heb}
               language="heb"
               path={"/hebrew/phrasebook/a2/" + post.path}
             />
@@ -78,10 +78,10 @@ const tabItems = [
       <ul>
         {
           chapters_b1.map((post: any) => (
-            <ButtonFrontier2
+            <Button2rtl
               id={post.id}
-              title={post.heb}
-              subtitle={post.kor}
+              title={post.kor}
+              subtitle={post.heb}
               language="heb"
               path={"/hebrew/phrasebook/b1/" + post.path}
             />
@@ -97,10 +97,10 @@ const tabItems = [
       <ul>
         {
           chapters_b2.map((post: any) => (
-            <ButtonFrontier2
+            <Button2rtl
               id={post.id}
-              title={post.heb}
-              subtitle={post.kor}
+              title={post.kor}
+              subtitle={post.heb}
               language="heb"
               path={"/hebrew/phrasebook/b2/" + post.path}
             />
@@ -109,7 +109,7 @@ const tabItems = [
       </ul>
     </section>
   </main>
-</HebrewLayout>
+</BaseLayout>
 
 <style>
   section {

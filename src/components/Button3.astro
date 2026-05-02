@@ -3,18 +3,108 @@ import "../styles/fonts.css";
 import "../styles/colors.css";
 import "../styles/transition.css";
 
-interface Props {
-  title: string;
-  path: string;
-  isDev?: string;
-}
-const { title, path, isDev } = Astro.props;
+const { id, title, subtitle, language, path } = Astro.props;
+
+const colorMap800: Record<string, string> = {
+  nld: "var(--orange800)",
+  fra: "var(--sky800)",
+  deu: "var(--amber800)",
+  ita: "var(--emerald800)",
+  spa: "var(--rose800)",
+  rus: "var(--indigo800)",
+  heb: "var(--blue800)",
+  kaz: "var(--cyan800)",
+};
+const colorMap700: Record<string, string> = {
+  nld: "var(--orange700)",
+  fra: "var(--sky700)",
+  deu: "var(--amber700)",
+  ita: "var(--emerald700)",
+  spa: "var(--rose700)",
+  rus: "var(--indigo700)",
+  heb: "var(--blue700)",
+  kaz: "var(--cyan700)",
+};
+const colorMap600: Record<string, string> = {
+  nld: "var(--orange600)",
+  fra: "var(--sky600)",
+  deu: "var(--amber600)",
+  ita: "var(--emerald600)",
+  spa: "var(--rose600)",
+  rus: "var(--indigo600)",
+  heb: "var(--blue600)",
+  kaz: "var(--cyan600)",
+};
+const colorMap500: Record<string, string> = {
+  nld: "var(--orange500)",
+  fra: "var(--sky500)",
+  deu: "var(--amber500)",
+  ita: "var(--emerald500)",
+  spa: "var(--rose500)",
+  rus: "var(--indigo500)",
+  heb: "var(--blue500)",
+  kaz: "var(--cyan500)",
+};
+const colorMap400: Record<string, string> = {
+  nld: "var(--orange400)",
+  fra: "var(--sky400)",
+  deu: "var(--amber400)",
+  ita: "var(--emerald400)",
+  spa: "var(--rose400)",
+  rus: "var(--indigo400)",
+  heb: "var(--blue400)",
+  kaz: "var(--cyan400)",
+};
+const colorMap300: Record<string, string> = {
+  nld: "var(--orange300)",
+  fra: "var(--sky300)",
+  deu: "var(--amber300)",
+  ita: "var(--emerald300)",
+  spa: "var(--rose300)",
+  rus: "var(--indigo300)",
+  heb: "var(--blue300)",
+  kaz: "var(--cyan300)",
+};
+const colorMap200: Record<string, string> = {
+  nld: "var(--orange200)",
+  fra: "var(--sky200)",
+  deu: "var(--amber200)",
+  ita: "var(--emerald200)",
+  spa: "var(--rose200)",
+  rus: "var(--indigo200)",
+  heb: "var(--blue200)",
+  kaz: "var(--cyan200)",
+};
+const colorMap100: Record<string, string> = {
+  nld: "var(--orange100)",
+  fra: "var(--sky100)",
+  deu: "var(--amber100)",
+  ita: "var(--emerald100)",
+  spa: "var(--rose100)",
+  rus: "var(--indigo100)",
+  heb: "var(--blue100)",
+  kaz: "var(--cyan100)",
+};
+const color800 = colorMap800[language] || "var(--zinc800)";
+const color700 = colorMap700[language] || "var(--zinc700)";
+const color600 = colorMap600[language] || "var(--zinc600)";
+const color500 = colorMap500[language] || "var(--zinc500)";
+const color400 = colorMap400[language] || "var(--zinc400)";
+const color300 = colorMap300[language] || "var(--zinc300)";
+const color200 = colorMap200[language] || "var(--zinc200)";
+const color100 = colorMap100[language] || "var(--zinc100)";
 ---
+
+<style define:vars={{ color500, color400, color300, color200, color100 }}>
+  .btn:hover {
+    background: var(--neutral300);
+  }
+</style>
 
 <a href={path}>
   <div class="btn">
-    <h1>{title}</h1>
-    {isDev && <span>Coming Soon</span>}
+    <h1>{id}. {title}</h1>
+    <h2>{subtitle}</h2>
   </div>
 </a>
 
@@ -22,73 +112,48 @@ const { title, path, isDev } = Astro.props;
   .btn {
     position: relative;
     background-color: var(--neutral200);
-    padding: 0.5rem 1rem;
-    width: 100%;
-    height: 100%;
-    margin-bottom: 1rem;
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
     transition: all 0.4s;
-  }
-
-  .btn:hover {
-    background-color: var(--neutral800);
-  }
-
-  @keyframes gradient {
-    0% {
-      background-position: 0% 50%;
-    }
-
-    50% {
-      background-position: 100% 50%;
-    }
-
-    100% {
-      background-position: 0% 50%;
-    }
   }
 
   .btn > h1 {
     position: relative;
-    font-family: "Roboto Condensed", sans-serif;
-    font-size: 24px;
-    font-weight: 600;
-    text-transform: uppercase;
-    margin: 0rem;
-    transition: all 0.4s;
-  }
-
-  .btn:hover > h1 {
-    color: var(--neutral100);
-  }
-
-  .btn > span {
-    position: absolute;
-    display: block;
-    top: 80%;
-    transform: translateY(-50%);
-    right: 1rem;
-    font-weight: 600;
-    font-size: 18px;
-    font-family: "Roboto Condensed", sans-serif;
-    text-transform: uppercase;
-    color: var(--neutral100);
-    opacity: 0;
+    font-family: "Inter", "Noto Hebrew", sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
     transition: 0.4s all;
   }
 
-  .btn:hover > span {
-    opacity: 1;
-    top: 50%;
+  .btn > h2 {
+    position: relative;
+    font-family: "Noto Korean", sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 0rem;
+    color: var(--zinc500);
+    transition: 0.4s all;
+  }
+
+  .btn > p {
+    position: absolute;
+    left: 1.5rem;
+    bottom: 0;
   }
 
   /* Mobile */
   @media (max-width: 480px) {
     .btn {
-      margin-bottom: 10px;
+      margin-bottom: 20px;
     }
 
     .btn > h1 {
       font-size: 20px;
+    }
+
+    .btn > h2 {
+      font-size: 14px;
     }
   }
 </style>

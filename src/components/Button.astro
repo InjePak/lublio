@@ -15,7 +15,7 @@ const colorMap800: Record<string, string> = {
   spa: "var(--rose800)",
   rus: "var(--indigo800)",
   heb: "var(--blue800)",
-  kaz: "var(--teal800)",
+  kaz: "var(--cyan800)",
 };
 const colorMap700: Record<string, string> = {
   nld: "var(--orange700)",
@@ -25,7 +25,7 @@ const colorMap700: Record<string, string> = {
   spa: "var(--rose700)",
   rus: "var(--indigo700)",
   heb: "var(--blue700)",
-  kaz: "var(--teal700)",
+  kaz: "var(--cyan700)",
 };
 const colorMap600: Record<string, string> = {
   nld: "var(--orange600)",
@@ -35,7 +35,7 @@ const colorMap600: Record<string, string> = {
   spa: "var(--rose600)",
   rus: "var(--indigo600)",
   heb: "var(--blue600)",
-  kaz: "var(--teal600)",
+  kaz: "var(--cyan600)",
 };
 const colorMap500: Record<string, string> = {
   nld: "var(--orange500)",
@@ -45,7 +45,7 @@ const colorMap500: Record<string, string> = {
   spa: "var(--rose500)",
   rus: "var(--indigo500)",
   heb: "var(--blue500)",
-  kaz: "var(--teal500)",
+  kaz: "var(--cyan500)",
 };
 const colorMap400: Record<string, string> = {
   nld: "var(--orange400)",
@@ -55,7 +55,7 @@ const colorMap400: Record<string, string> = {
   spa: "var(--rose400)",
   rus: "var(--indigo400)",
   heb: "var(--blue400)",
-  kaz: "var(--teal400)",
+  kaz: "var(--cyan400)",
 };
 const colorMap300: Record<string, string> = {
   nld: "var(--orange300)",
@@ -65,7 +65,7 @@ const colorMap300: Record<string, string> = {
   spa: "var(--rose300)",
   rus: "var(--indigo300)",
   heb: "var(--blue300)",
-  kaz: "var(--teal300)",
+  kaz: "var(--cyan300)",
 };
 const colorMap200: Record<string, string> = {
   nld: "var(--orange200)",
@@ -75,7 +75,7 @@ const colorMap200: Record<string, string> = {
   spa: "var(--rose200)",
   rus: "var(--indigo200)",
   heb: "var(--blue200)",
-  kaz: "var(--teal200)",
+  kaz: "var(--cyan200)",
 };
 const colorMap100: Record<string, string> = {
   nld: "var(--orange100)",
@@ -85,7 +85,7 @@ const colorMap100: Record<string, string> = {
   spa: "var(--rose100)",
   rus: "var(--indigo100)",
   heb: "var(--blue100)",
-  kaz: "var(--teal100)",
+  kaz: "var(--cyan100)",
 };
 const color800 = colorMap800[language] || "var(--zinc800)";
 const color700 = colorMap700[language] || "var(--zinc700)";
@@ -106,7 +106,7 @@ const levelMap: Record<string, string> = {
   grammar: "mdi:cube-outline",
   phrase: "mdi:tooltip-text-outline",
   pattern: "mdi:puzzle-outline",
-  vocabulary: "mdi:asterisk",
+  composite: "mdi:asterisk",
 };
 const levelIcon = levelMap[level] || "mdi:chess-pawn";
 ---
@@ -144,30 +144,30 @@ const levelIcon = levelMap[level] || "mdi:chess-pawn";
     position: relative;
     background-color: var(--neutral200);
     padding: 1.5rem;
-    min-height: 200px;
+    min-height: 240px;
     width: 100%;
     height: 100%;
     transition: all 0.4s;
-    border-radius: 15px;
     margin-bottom: 1rem;
   }
 
   .btn > h1 {
     position: relative;
-    font-family: "Inter", sans-serif;
+    font-family: "Noto Korean", sans-serif;
     text-transform: uppercase;
     font-size: 32px;
-    font-weight: 600;
+    font-weight: 700;
     margin-bottom: 0rem;
     transition: 0.4s all;
   }
 
   .btn > h2 {
     position: relative;
-    font-size: 16px;
-    font-weight: 500;
-    margin-bottom: 0.5rem;
-    color: var(--zinc500);
+    font-family: "Inter", "Noto Hebrew", sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    margin-top: 0.5rem;
+    color: var(--neutral600);
     transition: 0.4s all;
   }
 
@@ -190,7 +190,7 @@ const levelIcon = levelMap[level] || "mdi:chess-pawn";
     bottom: 1.5rem;
     left: 1.5rem;
     font-weight: 600;
-    font-size: 18px;
+    font-size: 20px;
     font-family: "Roboto Condensed", sans-serif;
     text-transform: uppercase;
     color: var(--zinc800);

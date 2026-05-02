@@ -16,14 +16,7 @@
 
 html {
   scroll-behavior: smooth;
-  background: linear-gradient(
-    -45deg,
-    var(--slate200),
-    var(--white),
-    var(--stone200)
-  );
-  background-size: 300% 300%;
-  animation: gradient 6s ease infinite;
+  background-color: var(--neutral100);
 }
 
 * {
@@ -47,15 +40,8 @@ a:active {
 
 hr {
   display: block;
-  border: 1px solid var(--zinc800);
+  border: 1px solid var(--neutral800);
   margin: 3rem 0;
-}
-
-/* Mobile */
-@media (max-width: 768px) {
-  hr {
-    margin: 2rem 0;
-  }
 }
 
 /*
@@ -65,12 +51,12 @@ hr {
 */
 
 .wrapper {
-  background-color: transparents;
-  width: 100%;
-  max-width: 768px;
+  background-color: transparent;
+  width: calc(100% - 250px);
   height: auto;
   padding: 1.5rem;
   margin: 0 auto;
+  margin-left: 250px;
 }
 
 @keyframes gradient {
@@ -109,17 +95,17 @@ p {
   display: inline-block;
   width: 100%;
   height: auto;
-  color: var(--zinc800);
+  color: var(--neutral800);
   margin-bottom: 1.5rem;
-  font-family: "Inter", sans-serif;
+  font-family: "Inter", "Noto Hebrew", sans-serif;
 }
 
 h1::selection,
 h2::selection,
 h3::selection,
 p::selection {
-  color: var(--zinc200);
-  background-color: var(--zinc800);
+  color: var(--neutral200);
+  background-color: var(--neutral800);
 }
 
 h1 {
@@ -142,7 +128,7 @@ p {
   font-weight: 500;
   letter-spacing: 0px;
   line-height: 1.8;
-  color: var(--zinc700);
+  color: var(--neutral700);
 }
 
 /* Mobile */
@@ -176,7 +162,9 @@ p {
 .animated-underline-deu,
 .animated-underline-rus,
 .animated-underline-esp,
-.animated-underline-ita {
+.animated-underline-ita,
+.animated-underline-heb,
+.animated-underline-kaz {
   position: relative;
   display: inline-block;
 }
@@ -187,7 +175,9 @@ p {
 .animated-underline-deu::after,
 .animated-underline-rus::after,
 .animated-underline-esp::after,
-.animated-underline-ita::after {
+.animated-underline-ita::after,
+.animated-underline-heb::after,
+.animated-underline-kaz::after {
   content: "";
   position: absolute;
   width: 100%;
@@ -200,7 +190,7 @@ p {
 }
 
 .animated-underline::after {
-  background-color: var(--zinc400);
+  background-color: var(--neutral400);
 }
 
 .animated-underline-eng::after {
@@ -227,13 +217,23 @@ p {
   background-color: var(--emerald400);
 }
 
+.animated-underline-heb::after {
+  background-color: var(--blue400);
+}
+
+.animated-underline-kaz::after {
+  background-color: var(--cyan400);
+}
+
 .animated-underline:hover,
 .animated-underline-eng:hover,
 .animated-underline-fra:hover,
 .animated-underline-deu:hover,
 .animated-underline-rus:hover,
 .animated-underline-esp:hover,
-.animated-underline-ita:hover {
+.animated-underline-ita:hover,
+.animated-underline-heb:hover,
+.animated-underline-kaz:hover {
   cursor: default;
 }
 
@@ -243,7 +243,9 @@ p {
 .animated-underline-deu:hover::after,
 .animated-underline-rus:hover::after,
 .animated-underline-esp:hover::after,
-.animated-underline-ita:hover::after {
+.animated-underline-ita:hover::after,
+.animated-underline-heb:hover::after,
+.animated-underline-kaz:hover::after {
   transform: scaleX(1); /* 호버 시 가로 길이를 100%로 */
   transform-origin: bottom left;
 }
@@ -267,7 +269,7 @@ ol > li {
 
 ol li::marker,
 ul li::marker {
-  color: var(--zinc800);
+  color: var(--neutral800);
   font-weight: bold;
   font-family: "Google Sans", sans-serif;
 }
@@ -302,7 +304,7 @@ ol > li > a:hover {
 .text-box {
   padding: 20px;
   background-color: transparent;
-  border: 2px solid var(--zinc800);
+  border: 2px solid var(--neutral800);
   border-radius: 10px;
   margin-bottom: 1.5rem;
 }
@@ -312,7 +314,7 @@ ol > li > a:hover {
   font-weight: 400;
   padding: 10px 0px;
   margin-bottom: 0px;
-  color: var(--zinc800);
+  color: var(--neutral800);
   font-family: "Google Sans", sans-serif;
 }
 
@@ -342,7 +344,7 @@ ol > li > a:hover {
 .styled-list > li {
   margin-left: 20px;
   margin-bottom: 10px;
-  color: var(--zinc800);
+  color: var(--neutral800);
   font-size: 16px;
   font-weight: 400;
   font-family: "Google Sans", sans-serif;
@@ -412,17 +414,16 @@ select {
   padding: 10px 15px;
   width: 100%;
   color: var(--neutral800);
-  font-size: 16px;
+  font-size: 18px;
   font-family: "Inter", "Noto Hebrew", sans-serif;
-  font-weight: 500;
+  font-weight: 600;
   outline: none;
   -o-appearance: none;
   -moz-appearance: none;
   -webkit-appearance: none;
   appearance: none;
-  border: 2px solid rgba(38, 38, 38, 0.8);
-  border-radius: 50px;
-  background-color: transparent;
+  border: none;
+  background-color: var(--neutral200);
   background-image:
     linear-gradient(45deg, transparent 50%, rgba(38, 38, 38, 0.8) 50%),
     linear-gradient(135deg, rgba(38, 38, 38, 0.8) 50%, transparent 50%);
@@ -438,7 +439,6 @@ select {
 }
 
 select:focus {
-  border: 2px solid rgba(38, 38, 38, 0.8);
   background-image:
     linear-gradient(45deg, rgba(38, 38, 38, 0.3) 50%, transparent 50%),
     linear-gradient(135deg, transparent 50%, rgba(38, 38, 38, 0.3) 50%);
@@ -486,18 +486,17 @@ select > option:hover {
 
 button {
   position: relative;
-  font-family: "Google Sans", sans-serif;
+  font-family: "Inter", sans-serif;
   width: calc(100% - 20px);
   letter-spacing: 0px;
   margin: 10px;
   padding: 10px 20px;
-  color: var(--zinc800);
-  font-weight: 400;
-  font-size: 15px;
-  background-color: transparent;
-  border: 2px solid var(--zinc800);
-  border-radius: 50px;
+  color: var(--neutral800);
+  font-weight: 700;
+  font-size: 18px;
+  background-color: var(--neutral200);
   transition: all 0.3s;
+  border: none;
 }
 
 button:last-child {
@@ -505,13 +504,7 @@ button:last-child {
 }
 
 button:hover {
-  background-color: rgba(168, 162, 158, 0.3);
-  cursor: pointer;
-}
-
-button:focus {
-  color: var(--zinc200);
-  background-color: var(--zinc800);
+  background-color: var(--neutral300);
   cursor: pointer;
 }
 

@@ -120,7 +120,7 @@ const greeting = greetingMap[language] || "Welcome";
     color: var(--color500);
   }
 
-  .btn:hover {
+  .btn {
     background: linear-gradient(
       -45deg,
       var(--color300),
@@ -171,20 +171,16 @@ const greeting = greetingMap[language] || "Welcome";
 <style>
   .btn {
     position: relative;
-    background-color: var(--neutral200);
-    padding: 1rem;
-    min-height: 240px;
+    padding: 1.5rem;
     width: 100%;
     height: 100%;
     transition: all 0.4s;
-    border-radius: 15px;
-    margin-bottom: 1rem;
   }
 
   .btn > h1 {
     position: relative;
-    font-family: "Inter", "Noto Hebrew", sans-serif;
-    font-size: 38px;
+    font-family: "Noto Korean", sans-serif;
+    font-size: 48px;
     font-weight: 700;
     text-transform: uppercase;
     margin-bottom: 0rem;
@@ -193,9 +189,10 @@ const greeting = greetingMap[language] || "Welcome";
 
   .btn > h2 {
     position: relative;
-    font-family: "Inter", sans-serif;
-    font-size: 20px;
+    font-family: "Inter", "Noto Hebrew", sans-serif;
+    font-size: 30px;
     font-weight: 600;
+    text-transform: uppercase;
     margin-bottom: 0.5rem;
     color: var(--neutral500);
     transition: all 0.4s;
@@ -204,12 +201,12 @@ const greeting = greetingMap[language] || "Welcome";
   .btn > p {
     display: inline-block;
     position: absolute;
-    right: 1rem;
-    bottom: 1rem;
+    right: 1.5rem;
+    bottom: 1.5rem;
     text-align: right;
     margin-top: 2rem;
     margin-bottom: 0rem;
-    font-size: 15px;
+    font-size: 20px;
     font-weight: 500;
     color: var(--neutral500);
   }
@@ -224,7 +221,7 @@ const greeting = greetingMap[language] || "Welcome";
     font-family: "Inter", "Noto Hebrew", sans-serif;
     text-transform: uppercase;
     width: 50%;
-    font-size: 24px;
+    font-size: 40px;
     font-weight: 600;
     color: var(--neutral800);
     opacity: 0;

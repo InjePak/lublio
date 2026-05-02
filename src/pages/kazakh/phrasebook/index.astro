@@ -1,8 +1,8 @@
 ---
-import KazakhLayout from "../../../layouts/KazakhLayout.astro";
-import BoxFrontier from "../../../components/BoxFrontier.astro";
-import ButtonFrontier2 from "../../../components/ButtonFrontier2.astro";
-import SectionSwitcherFrontier from "../../../components/SectionSwitcherFrontier.astro";
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import Box2 from "../../../components/Box2.astro";
+import Button2 from "../../../components/Button2.astro";
+import SectionSwitcher from "../../../components/SectionSwitcher.astro";
 
 import chapters from "../../../assets/json/phrasebook/chapters.json";
 const chapters_a1 = chapters["a1"];
@@ -22,15 +22,15 @@ const tabItems = [
 ];
 ---
 
-<KazakhLayout pageTitle={pageTitle + " | Kazariah"}>
-  <BoxFrontier
-    title="Tirkeser"
-    subtitle="카자흐어 회화"
+<BaseLayout pageTitle={pageTitle + " | Lublio"}>
+  <Box2
+    title="카자흐어 회화"
+    subtitle="Tirkeser"
     description="알마티의 활기 속에서 건네는 부드러운 살렘 — 저 멀리 눈 덮인 텡리 산이 솟아오른 곳, 초원의 바람이 탁 트인 자유로움을 실어 나르는 곳. 이 회화 모음집은 일상의 카자흐어 깊은 곳에 흐르는 잔잔한 온기를 담았습니다."
     language="kaz"
   />
 
-  <SectionSwitcherFrontier items={tabItems} />
+  <SectionSwitcher items={tabItems} />
 
   <main>
     <section class="group-a1 fade_1">
@@ -40,10 +40,10 @@ const tabItems = [
       <ul>
         {
           chapters_a1.map((post: any) => (
-            <ButtonFrontier2
+            <Button2
               id={post.id}
-              title={post.kaz}
-              subtitle={post.kor}
+              title={post.kor}
+              subtitle={post.kaz}
               language="kaz"
               path={"/kazakh/phrasebook/a1/" + post.path}
             />
@@ -59,10 +59,10 @@ const tabItems = [
       <ul>
         {
           chapters_a2.map((post: any) => (
-            <ButtonFrontier2
+            <Button2
               id={post.id}
-              title={post.kaz}
-              subtitle={post.kor}
+              title={post.kor}
+              subtitle={post.kaz}
               language="kaz"
               path={"/kazakh/phrasebook/a2/" + post.path}
             />
@@ -78,10 +78,10 @@ const tabItems = [
       <ul>
         {
           chapters_b1.map((post: any) => (
-            <ButtonFrontier2
+            <Button2
               id={post.id}
-              title={post.kaz}
-              subtitle={post.kor}
+              title={post.kor}
+              subtitle={post.kaz}
               language="kaz"
               path={"/kazakh/phrasebook/b1/" + post.path}
             />
@@ -97,10 +97,10 @@ const tabItems = [
       <ul>
         {
           chapters_b2.map((post: any) => (
-            <ButtonFrontier2
+            <Button2
               id={post.id}
-              title={post.kaz}
-              subtitle={post.kor}
+              title={post.kor}
+              subtitle={post.kaz}
               language="kaz"
               path={"/kazakh/phrasebook/b2/" + post.path}
             />
@@ -109,7 +109,7 @@ const tabItems = [
       </ul>
     </section>
   </main>
-</KazakhLayout>
+</BaseLayout>
 
 <style>
   section {

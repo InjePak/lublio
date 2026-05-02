@@ -1,7 +1,7 @@
 ---
-import KazakhLayout from "../../../layouts/KazakhLayout.astro";
-import BoxFrontier2 from "../../../components/BoxFrontier2.astro";
-import ButtonFrontier2 from "../../../components/ButtonFrontier2.astro";
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import Box2 from "../../../components/Box2.astro";
+import Button3 from "../../../components/Button3.astro";
 
 import chapters from "../../../assets/json/patterns/chapters.json";
 import chapter1 from "../../../assets/json/patterns/kazakh/chapter1.json";
@@ -69,12 +69,12 @@ switch (chapter.id) {
 }
 ---
 
-<KazakhLayout pageTitle={chapter.kor + " | Kazariah"}>
-  <BoxFrontier2 title={chapter.kaz} subtitle={chapter.kor} language="kaz" />
+<BaseLayout pageTitle={chapter.kor + " | Lublio"}>
+  <Box2 title={chapter.kor} subtitle={chapter.kaz} language="kaz" />
 
   {
     jsonData.map((post: any) => (
-      <ButtonFrontier2
+      <Button3
         id={post.id}
         title={post.pattern}
         subtitle={post.translation}
@@ -83,4 +83,4 @@ switch (chapter.id) {
       />
     ))
   }
-</KazakhLayout>
+</BaseLayout>

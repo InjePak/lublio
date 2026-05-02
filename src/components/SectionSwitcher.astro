@@ -71,11 +71,10 @@ const { items } = Astro.props;
     font-size: 18px;
     text-align: center;
     transition: all 0.2s ease;
-    border-radius: 10px;
   }
 
   .visibility-toggle:not(:checked) + span {
-    color: var(--zinc400);
+    color: var(--neutral400);
   }
 
   .visibility-toggle:not(:checked) + span:hover,
@@ -84,7 +83,7 @@ const { items } = Astro.props;
   }
 
   .visibility-toggle:checked + span {
-    color: var(--zinc800);
+    color: var(--neutral800);
   }
 </style>
 

@@ -6,67 +6,51 @@ import "../styles/transition.css";
 const { title, subtitle, description, language } = Astro.props;
 
 const colorMap800: Record<string, string> = {
-  nld: "var(--orange800)",
+  heb: "var(--blue800)",
   fra: "var(--sky800)",
   deu: "var(--amber800)",
-  ita: "var(--emerald800)",
-  spa: "var(--rose800)",
   rus: "var(--indigo800)",
 };
 const colorMap700: Record<string, string> = {
-  nld: "var(--orange700)",
+  heb: "var(--blue700)",
   fra: "var(--sky700)",
   deu: "var(--amber700)",
-  ita: "var(--emerald700)",
-  spa: "var(--rose700)",
   rus: "var(--indigo700)",
 };
 const colorMap600: Record<string, string> = {
-  nld: "var(--orange600)",
+  heb: "var(--blue600)",
   fra: "var(--sky600)",
   deu: "var(--amber600)",
-  ita: "var(--emerald600)",
-  spa: "var(--rose600)",
   rus: "var(--indigo600)",
 };
 const colorMap500: Record<string, string> = {
-  nld: "var(--orange500)",
+  heb: "var(--blue500)",
   fra: "var(--sky500)",
   deu: "var(--amber500)",
-  ita: "var(--emerald500)",
-  spa: "var(--rose500)",
   rus: "var(--indigo500)",
 };
 const colorMap400: Record<string, string> = {
-  nld: "var(--orange400)",
+  heb: "var(--blue400)",
   fra: "var(--sky400)",
   deu: "var(--amber400)",
-  ita: "var(--emerald400)",
-  spa: "var(--rose400)",
   rus: "var(--indigo400)",
 };
 const colorMap300: Record<string, string> = {
-  nld: "var(--orange300)",
+  heb: "var(--blue300)",
   fra: "var(--sky300)",
   deu: "var(--amber300)",
-  ita: "var(--emerald300)",
-  spa: "var(--rose300)",
   rus: "var(--indigo300)",
 };
 const colorMap200: Record<string, string> = {
-  nld: "var(--orange200)",
+  heb: "var(--blue200)",
   fra: "var(--sky200)",
   deu: "var(--amber200)",
-  ita: "var(--emerald200)",
-  spa: "var(--rose200)",
   rus: "var(--indigo200)",
 };
 const colorMap100: Record<string, string> = {
-  nld: "var(--orange100)",
+  heb: "var(--blue100)",
   fra: "var(--sky100)",
   deu: "var(--amber100)",
-  ita: "var(--emerald100)",
-  spa: "var(--rose100)",
   rus: "var(--indigo100)",
 };
 const color800 = colorMap800[language] || "var(--zinc800)";
@@ -116,8 +100,8 @@ const color100 = colorMap100[language] || "var(--zinc100)";
     }
   }
 
+  .box > h1,
   .box > h2,
-  .box > h3,
   .box > p {
     color: var(--zinc800);
   }
@@ -129,9 +113,9 @@ const color100 = colorMap100[language] || "var(--zinc100)";
 </style>
 
 <div class="box riseUp_1">
-  <h2 class="riseUp_2">{title}</h2>
+  <h1 class="riseUp_2">{title}</h1>
   <hr class="riseUp_3" />
-  <h3 class="riseUp_4">{subtitle}</h3>
+  <h2 class="riseUp_4">{subtitle}</h2>
   <p class="riseUp_5">{description}</p>
 </div>
 
@@ -149,9 +133,9 @@ const color100 = colorMap100[language] || "var(--zinc100)";
     transition: all 1s cubic-bezier(0.19, 1, 0.22, 1);
   }
 
-  .box > h2 {
+  .box > h1 {
     position: relative;
-    font-family: "Inter", sans-serif;
+    font-family: "Inter", "Noto Hebrew", sans-serif;
     text-transform: uppercase;
     display: inline;
     font-size: 56px;
@@ -162,11 +146,12 @@ const color100 = colorMap100[language] || "var(--zinc100)";
     transition: all 0.4s;
   }
 
-  .box > h3 {
+  .box > h2 {
     position: relative;
+    font-family: "Noto Korean", sans-serif;
     display: block;
-    font-size: 28px;
-    font-weight: 500;
+    font-size: 34px;
+    font-weight: 700;
     letter-spacing: 0px;
     line-height: 1;
     margin-top: 10px;
@@ -180,10 +165,11 @@ const color100 = colorMap100[language] || "var(--zinc100)";
 
   .box > p {
     position: absolute;
+    font-family: "Noto Korean", sans-serif;
     width: calc(100% - 3rem);
     left: 1.5rem;
     bottom: 1.5rem;
-    font-size: 16px;
+    font-size: 24px;
     font-weight: 500;
     letter-spacing: 0px;
     line-height: 1.4;
@@ -194,8 +180,8 @@ const color100 = colorMap100[language] || "var(--zinc100)";
     margin-bottom: 0px;
   }
 
+  .box > h1,
   .box > h2,
-  .box > h3,
   .box > h4,
   .box > span,
   .box > p {
@@ -208,11 +194,11 @@ const color100 = colorMap100[language] || "var(--zinc100)";
 
   /* Mobile */
   @media (max-width: 480px) {
-    .box > h2 {
+    .box > h1 {
       font-size: 46px;
     }
 
-    .box > h2::after {
+    .box > h1::after {
       height: 10px;
       bottom: 6px;
       left: 0;
@@ -222,7 +208,7 @@ const color100 = colorMap100[language] || "var(--zinc100)";
       animation: underline 2.4s cubic-bezier(0, 0, 0.24, 1.21);
     }
 
-    .box > h3 {
+    .box > h2 {
       font-size: 20px;
     }
 

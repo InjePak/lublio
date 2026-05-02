@@ -1,7 +1,7 @@
 ---
-import KazakhLayout from "../../../../layouts/KazakhLayout.astro";
-import SectionSwitcherFrontier from "../../../../components/SectionSwitcherFrontier.astro";
-import BoxFrontier2 from "../../../../components/BoxFrontier2.astro";
+import BaseLayout from "../../../../layouts/BaseLayout.astro";
+import SectionSwitcher from "../../../../components/SectionSwitcher.astro";
+import Box3 from "../../../../components/Box3.astro";
 
 import chapters from "../../../../assets/json/patterns/chapters.json";
 import chapter1 from "../../../../assets/json/patterns/kazakh/chapter1.json";
@@ -84,13 +84,13 @@ const navItems = [
 ];
 ---
 
-<KazakhLayout pageTitle={post.pattern + " | Lublio"}>
-  <BoxFrontier2
+<BaseLayout pageTitle={post.pattern + " | Lublio"}>
+  <Box3
     title=`${post.id}. ${post.pattern}`
     subtitle={post.translation}
     language="kaz"
   />
-  <SectionSwitcherFrontier items={navItems} />
+  <SectionSwitcher items={navItems} />
 
   {
     !post ? (
@@ -107,7 +107,7 @@ const navItems = [
                     return (
                       <>
                         <p lang="kk">
-                          <span>{index + 1}.</span>
+                          <span>●</span>
                           <br />
                           {phrase}
                         </p>
@@ -125,7 +125,7 @@ const navItems = [
                     return (
                       <>
                         <p lang="kk">
-                          <span>{index + 1}.</span>
+                          <span>●</span>
                           <br />
                           {phrase}
                         </p>
@@ -143,7 +143,7 @@ const navItems = [
                     return (
                       <>
                         <p lang="kk">
-                          <span>{index + 1}.</span>
+                          <span>●</span>
                           <br />
                           {phrase}
                         </p>
@@ -176,52 +176,51 @@ const navItems = [
       });
     });
   </script>
-</KazakhLayout>
+</BaseLayout>
 
 <style>
-  /* Phrase Box */
-
   .phrase-box {
-    /* background-color: var(--neutral50); */
     margin-bottom: 1.5rem;
   }
 
   .phrase-box > h1 {
     font-family: "Inter", "Noto Hebrew", sans-serif;
     text-transform: uppercase;
-    font-size: 24px;
+    font-size: 28px;
     font-weight: 700;
     margin-top: 1.5rem;
     margin-bottom: 2rem;
     width: 100%;
   }
 
+  .phrase-box > h2 {
+    text-align: left;
+  }
+
   .phrase-box > p {
     display: inline-block;
+    text-align: left;
     width: 100%;
-    padding: 3rem 1.5rem;
-    font-size: 20px;
+    padding: 6rem 3rem;
+    font-size: 36px;
     font-weight: 500;
-    line-height: 2rem;
-    margin-bottom: 1rem;
+    line-height: 3rem;
+    margin-bottom: 1.5rem;
     hyphens: auto;
     overflow-wrap: break-word;
     font-family: "Inter", "Noto Hebrew", sans-serif;
-    border-radius: 20px;
     background-color: var(--neutral50);
   }
 
   .phrase-box > p > span {
     text-transform: uppercase;
-    display: inline-block;
     width: 100%;
     font-weight: 700;
-    border-left: 4px solid var(--cyan500);
-    font-size: 20px;
+    font-size: 30px;
     margin-bottom: 1rem;
-    padding: 0.3rem 0.6rem;
     direction: ltr;
     margin-bottom: 2rem;
+    color: var(--cyan300);
   }
 
   .phrase-box > h1,

@@ -1,6 +1,6 @@
 ---
-import HebrewLayout from "../../../../layouts/HebrewLayout.astro";
-import BoxFrontier2 from "../../../../components/BoxFrontier2.astro";
+import BaseLayout from "../../../../layouts/BaseLayout.astro";
+import Box2 from "../../../../components/Box2.astro";
 
 // src/pages/phrasebook/[level]/[path].astro
 import chapters from "../../../../assets/json/phrasebook/chapters.json";
@@ -243,8 +243,8 @@ switch (level) {
 }
 ---
 
-<HebrewLayout pageTitle={chapter.kor + " | Ivriah"}>
-  <BoxFrontier2 title={chapter.heb} subtitle={chapter.kor} language="heb" />
+<BaseLayout pageTitle={chapter.kor + " | Lublio"}>
+  <Box2 title={chapter.kor} subtitle={chapter.heb} language="heb" />
 
   <select id="lang-switcher">
     <option value="kor">한국어</option>
@@ -276,36 +276,39 @@ switch (level) {
       ))
     )
   }
-</HebrewLayout>
+</BaseLayout>
 
 <style>
   .phrase-box {
-    border-radius: 20px;
     background-color: var(--neutral50);
-    margin-bottom: 1.5rem;
-    padding: 1.5rem;
+    margin-bottom: 2rem;
+    padding: 4rem 3rem;
   }
 
   .phrase-box > h1 {
-    width: 100px;
-    border-left: 4px solid var(--blue500);
-    padding: 5px 10px;
-    font-size: 16px;
+    text-align: center;
+    width: 50px;
+    color: var(--neutral800);
+    padding: 0.5rem 1rem;
+    font-size: 24px;
     margin-bottom: 2rem;
+    border-right: 5px solid var(--blue300);
   }
 
   .phrase-box > h2 {
+    text-align: center;
     direction: rtl;
     font-family: "Noto Hebrew", sans-serif;
-    font-size: 20px;
+    font-size: 40px;
     font-weight: 500;
     hyphens: auto;
     overflow-wrap: break-word;
   }
 
   .phrase-box > p {
-    font-size: 18px;
-    margin-bottom: 1rem;
+    text-align: center;
+    font-size: 24px;
+    margin-top: 2rem;
     line-height: 1.6rem;
     color: var(--blue500);
   }
