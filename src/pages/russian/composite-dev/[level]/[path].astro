@@ -1,6 +1,6 @@
 ---
-import BaseLayout from "../../../../layouts/BaseLayout.astro";
-import Box2 from "../../../../components/Box2.astro";
+import KazakhLayout from "../../../../layouts/KazakhLayout.astro";
+import BoxFrontier2 from "../../../../components/BoxFrontier2.astro";
 
 // src/pages/phrasebook/[level]/[path].astro
 import chapters from "../../../../assets/json/phrasebook/chapters.json";
@@ -243,30 +243,32 @@ switch (level) {
 }
 ---
 
-<BaseLayout pageTitle={chapter.kor + " | Lublio"}>
-  <Box2 title={chapter.kor} subtitle={chapter.rus} language="rus" />
+<KazakhLayout pageTitle={chapter.kor + " | Lublio"}>
+  <BoxFrontier2 title={chapter.kaz} subtitle={chapter.kor} language="kaz" />
 
   <select id="lang-switcher">
     <option value="kor">한국어</option>
     <option value="eng">English</option>
     <option value="fra">Français</option>
     <option value="deu">Deutsch</option>
+    <option value="rus">Русский</option>
   </select>
 
   {
     !jsonData ? (
-      <p>서버 에러입니다.</p>
+      <p>Internal Server Error</p>
     ) : (
       jsonData.map((data: any, index: number) => (
         <div class="phrase-box">
           <h1>{index + 1}</h1>
-          <h2 lang="ru">{data.rus}</h2>
+          <h2 lang="kk">{data.kaz}</h2>
           <p
             class="translation"
             data-kor={data.kor}
             data-eng={data.eng}
             data-fra={data.fra}
             data-deu={data.deu}
+            data-rus={data.rus}
           >
             {data.kor}
           </p>
@@ -274,40 +276,37 @@ switch (level) {
       ))
     )
   }
-</BaseLayout>
+</KazakhLayout>
 
 <style>
   .phrase-box {
+    border-radius: 20px;
     background-color: var(--neutral50);
-    margin-bottom: 2rem;
-    padding: 4rem 3rem;
+    margin-bottom: 1.5rem;
+    padding: 1.5rem;
   }
 
   .phrase-box > h1 {
-    text-align: center;
-    width: 50px;
-    color: var(--neutral800);
-    padding: 0.5rem 1rem;
-    font-size: 24px;
+    width: 100px;
+    border-left: 4px solid var(--cyan500);
+    padding: 5px 10px;
+    font-size: 16px;
     margin-bottom: 2rem;
-    border-left: 5px solid var(--indigo300);
   }
 
   .phrase-box > h2 {
-    text-align: left;
     font-family: "Inter", sans-serif;
-    font-size: 32px;
+    font-size: 20px;
     font-weight: 500;
     hyphens: auto;
     overflow-wrap: break-word;
   }
 
   .phrase-box > p {
-    text-align: left;
-    font-size: 22px;
-    margin-top: 2rem;
+    font-size: 18px;
+    margin-bottom: 1rem;
     line-height: 1.6rem;
-    color: var(--indigo500);
+    color: var(--cyan500);
   }
 
   .phrase-box > p > span {

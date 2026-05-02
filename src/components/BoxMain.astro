@@ -2,57 +2,88 @@
 import "../styles/fonts.css";
 import "../styles/colors.css";
 import "../styles/transition.css";
-import CubeFrontier from "./CubeFrontier.astro";
 
 const { title, subtitle, description, language } = Astro.props;
 
 const colorMap800: Record<string, string> = {
-  heb: "rgba(30, 64, 175, 1)",
-  kaz: "rgba(21, 94, 117, 1)",
-  fra: "rgba(7, 89, 133, 1)",
-  rus: "rgba(55, 48, 163, 1)",
+  eng: "var(--pink800)",
+  fra: "var(--sky800)",
+  deu: "var(--amber800)",
+  ita: "var(--emerald800)",
+  spa: "var(--rose800)",
+  rus: "var(--indigo800)",
+  heb: "var(--blue800)",
+  kaz: "var(--cyan800)",
 };
 const colorMap700: Record<string, string> = {
-  heb: "rgba(29, 78, 216, 1)",
-  kaz: "rgba(14, 116, 144, 1)",
-  fra: "rgba(3, 105, 161, 1)",
-  rus: "rgba(67, 56, 202, 1)",
+  eng: "var(--pink700)",
+  fra: "var(--sky700)",
+  deu: "var(--amber700)",
+  ita: "var(--emerald700)",
+  spa: "var(--rose700)",
+  rus: "var(--indigo700)",
+  heb: "var(--blue700)",
+  kaz: "var(--cyan700)",
 };
 const colorMap600: Record<string, string> = {
-  heb: "rgba(37, 99, 235, 1)",
-  kaz: "rgba(8, 145, 178, 1)",
-  fra: "rgba(2, 132, 199, 1)",
-  rus: "rgba(79, 70, 229, 1)",
+  eng: "var(--pink600)",
+  fra: "var(--sky600)",
+  deu: "var(--amber600)",
+  ita: "var(--emerald600)",
+  spa: "var(--rose600)",
+  rus: "var(--indigo600)",
+  heb: "var(--blue600)",
+  kaz: "var(--cyan600)",
 };
 const colorMap500: Record<string, string> = {
-  heb: "rgba(59, 130, 246, 1)",
-  kaz: "rgba(6, 182, 212, 1)",
-  fra: "rgba(14, 165, 233, 1)",
-  rus: "rgba(99, 102, 241, 1)",
+  eng: "var(--pink500)",
+  fra: "var(--sky500)",
+  deu: "var(--amber500)",
+  ita: "var(--emerald500)",
+  spa: "var(--rose500)",
+  rus: "var(--indigo500)",
+  heb: "var(--blue500)",
+  kaz: "var(--cyan500)",
 };
 const colorMap400: Record<string, string> = {
-  heb: "rgba(96, 165, 250, 1)",
-  kaz: "rgba(34, 211, 238, 1)",
-  fra: "rgba(56, 189, 248, 1)",
-  rus: "rgba(129, 140, 248, 1)",
+  eng: "var(--pink400)",
+  fra: "var(--sky400)",
+  deu: "var(--amber400)",
+  ita: "var(--emerald400)",
+  spa: "var(--rose400)",
+  rus: "var(--indigo400)",
+  heb: "var(--blue400)",
+  kaz: "var(--cyan400)",
 };
 const colorMap300: Record<string, string> = {
-  heb: "rgba(147, 197, 253, 1)",
-  kaz: "rgba(103, 232, 249, 1)",
-  fra: "rgba(125, 211, 252, 1)",
-  rus: "rgba(165, 180, 252, 1)",
+  eng: "var(--pink300)",
+  fra: "var(--sky300)",
+  deu: "var(--amber300)",
+  ita: "var(--emerald300)",
+  spa: "var(--rose300)",
+  rus: "var(--indigo300)",
+  heb: "var(--blue300)",
+  kaz: "var(--cyan300)",
 };
 const colorMap200: Record<string, string> = {
-  heb: "rgba(191, 219, 254, 1)",
-  kaz: "rgba(165, 243, 252, 1)",
-  fra: "rgba(186, 230, 253, 1)",
-  rus: "rgba(199, 210, 254, 1)",
+  eng: "var(--pink200)",
+  fra: "var(--sky200)",
+  deu: "var(--amber200)",
+  ita: "var(--emerald200)",
+  spa: "var(--rose200)",
+  rus: "var(--indigo200)",
+  heb: "var(--blue200)",
+  kaz: "var(--cyan200)",
 };
 const colorMap100: Record<string, string> = {
-  heb: "rgba(219, 234, 254, 1)",
-  kaz: "rgba(207, 250, 254, 1)",
-  fra: "rgba(224, 242, 254, 1)",
-  rus: "rgba(224, 231, 255, 1)",
+  eng: "var(--pink100)",
+  fra: "var(--sky100)",
+  deu: "var(--amber100)",
+  ita: "var(--emerald100)",
+  spa: "var(--rose100)",
+  rus: "var(--indigo100)",
+  heb: "var(--blue100)",
+  kaz: "var(--cyan100)",
 };
 const color800 = colorMap800[language] || "var(--neutral800)";
 const color700 = colorMap700[language] || "var(--neutral700)";
@@ -64,9 +95,12 @@ const color200 = colorMap200[language] || "var(--neutral200)";
 const color100 = colorMap100[language] || "var(--neutral100)";
 
 const greetingMap: Record<string, string> = {
+  eng: "HELLO",
+  deu: "HALLO",
+  fra: "SALUT",
+  rus: "PRIVET",
   heb: "SHALOM",
   kaz: "SAELEM",
-  rus: "PRIVET",
 };
 const greeting = greetingMap[language] || "Welcome";
 ---
@@ -178,7 +212,7 @@ const greeting = greetingMap[language] || "Welcome";
     position: absolute;
     bottom: 0;
     width: calc(40% - 3rem);
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 500;
     letter-spacing: 0px;
     line-height: 1.4;

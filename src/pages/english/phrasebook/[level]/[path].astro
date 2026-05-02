@@ -244,13 +244,13 @@ switch (level) {
 ---
 
 <BaseLayout pageTitle={chapter.kor + " | Lublio"}>
-  <Box2 title={chapter.kor} subtitle={chapter.rus} language="rus" />
+  <Box2 title={chapter.kor} subtitle={chapter.eng} language="eng" />
 
   <select id="lang-switcher">
     <option value="kor">한국어</option>
-    <option value="eng">English</option>
     <option value="fra">Français</option>
     <option value="deu">Deutsch</option>
+    <option value="rus">Русский</option>
   </select>
 
   {
@@ -260,13 +260,13 @@ switch (level) {
       jsonData.map((data: any, index: number) => (
         <div class="phrase-box">
           <h1>{index + 1}</h1>
-          <h2 lang="ru">{data.rus}</h2>
+          <h2 lang="en">{data.eng}</h2>
           <p
             class="translation"
             data-kor={data.kor}
-            data-eng={data.eng}
             data-fra={data.fra}
             data-deu={data.deu}
+            data-deu={data.rus}
           >
             {data.kor}
           </p>
@@ -290,7 +290,7 @@ switch (level) {
     padding: 0.5rem 1rem;
     font-size: 24px;
     margin-bottom: 2rem;
-    border-left: 5px solid var(--indigo300);
+    border-left: 5px solid var(--pink300);
   }
 
   .phrase-box > h2 {
@@ -307,7 +307,7 @@ switch (level) {
     font-size: 22px;
     margin-top: 2rem;
     line-height: 1.6rem;
-    color: var(--indigo500);
+    color: var(--pink500);
   }
 
   .phrase-box > p > span {

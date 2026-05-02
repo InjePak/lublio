@@ -5,19 +5,19 @@ import Button2 from "../../../components/Button2.astro";
 
 import chapters from "../../../assets/json/patterns/chapters.json";
 
-const pageTitle = "독일어 패턴";
+const pageTitle = "영어 패턴";
 ---
 
 <BaseLayout pageTitle={pageTitle + " | Lublio"}>
   <Box2
-    title="독일어 패턴"
-    subtitle="Muster"
+    title="영어 패턴"
+    subtitle="Patterns"
     description="단 하나의 패턴으로 수만 개의 문장을 만들어보세요. 문법에 대한 복잡한 고민은 필요 없습니다. 회화 실력을 빠르게 끌어올리는 가장 효율적인 방법을 경험해보세요."
-    language="deu"
+    language="eng"
   />
 
   <h2>
-    <span class="animated-underline-deu">CEFR B1 - C1</span>
+    <span class="animated-underline-eng">CEFR B1 - C1</span>
   </h2>
 
   {
@@ -25,9 +25,9 @@ const pageTitle = "독일어 패턴";
       <Button2
         id={post.id}
         title={post.kor}
-        subtitle={post.deu}
-        language="deu"
-        path={"/german/pattern/" + post.path}
+        subtitle={post.eng}
+        language="eng"
+        path={"/english/pattern/" + post.path}
       />
     ))
   }

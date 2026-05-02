@@ -11,7 +11,7 @@ const chapters_b1 = chapters["b1"];
 const chapters_b2 = chapters["b2"];
 
 // Title
-const pageTitle = "독일어 회화";
+const pageTitle = "영어 회화";
 
 // Section Switcher
 const tabItems = [
@@ -24,10 +24,10 @@ const tabItems = [
 
 <BaseLayout pageTitle={pageTitle + " | Lublio"}>
   <Box2
-    title="독일어 회화"
-    subtitle="Sätze"
-    description="독일인과 악수를 나누며 건네는 할로 — 숲과 도시가 질서 있게 공존하는 곳, 말 한마디 한마디에 정확함과 진심이 함께 실리는 곳. 이 회화 모음집은 일상의 독일어 깊숙이 흐르는 단단하고 따뜻한 결을 담았습니다."
-    language="deu"
+    title="영어 회화"
+    subtitle="Phrases"
+    description="처음 만난 이와 자연스럽게 주고받는 헬로우 — 공항도, 회의실도, 낯선 도시의 카페도 모두 같은 언어로 이어지는 곳, 말 한마디 한마디에 실용과 개방이 함께 실리는 곳. 이 회화 모음집은 일상의 영어 깊숙이 흐르는 유연하고 담백한 감각을 담았습니다."
+    language="eng"
   />
 
   <SectionSwitcher items={tabItems} />
@@ -35,7 +35,7 @@ const tabItems = [
   <main>
     <section class="group-a1">
       <h2>
-        <span class="animated-underline-deu">CEFR A1</span>
+        <span class="animated-underline-eng">CEFR A1</span>
       </h2>
       <ul>
         {
@@ -43,9 +43,9 @@ const tabItems = [
             <Button2
               id={post.id}
               title={post.kor}
-              subtitle={post.deu}
-              language="deu"
-              path={"/german/phrasebook/a1/" + post.path}
+              subtitle={post.eng}
+              language="eng"
+              path={"/english/phrasebook/a1/" + post.path}
             />
           ))
         }
@@ -54,7 +54,7 @@ const tabItems = [
 
     <section class="group-a2">
       <h2>
-        <span class="animated-underline-deu">CEFR A2</span>
+        <span class="animated-underline-eng">CEFR A2</span>
       </h2>
       <ul>
         {
@@ -62,9 +62,9 @@ const tabItems = [
             <Button2
               id={post.id}
               title={post.kor}
-              subtitle={post.deu}
-              language="deu"
-              path={"/german/phrasebook/a2/" + post.path}
+              subtitle={post.eng}
+              language="eng"
+              path={"/english/phrasebook/a2/" + post.path}
             />
           ))
         }
@@ -73,7 +73,7 @@ const tabItems = [
 
     <section class="group-b1">
       <h2>
-        <span class="animated-underline-deu">CEFR B1</span>
+        <span class="animated-underline-eng">CEFR B1</span>
       </h2>
       <ul>
         {
@@ -81,9 +81,9 @@ const tabItems = [
             <Button2
               id={post.id}
               title={post.kor}
-              subtitle={post.deu}
-              language="deu"
-              path={"/german/phrasebook/b1/" + post.path}
+              subtitle={post.eng}
+              language="eng"
+              path={"/english/phrasebook/b1/" + post.path}
             />
           ))
         }
@@ -92,7 +92,7 @@ const tabItems = [
 
     <section class="group-b2">
       <h2>
-        <span class="animated-underline-deu">CEFR B2</span>
+        <span class="animated-underline-eng">CEFR B2</span>
       </h2>
       <ul>
         {
@@ -100,9 +100,9 @@ const tabItems = [
             <Button2
               id={post.id}
               title={post.kor}
-              subtitle={post.deu}
-              language="deu"
-              path={"/german/phrasebook/b2/" + post.path}
+              subtitle={post.eng}
+              language="eng"
+              path={"/english/phrasebook/b2/" + post.path}
             />
           ))
         }

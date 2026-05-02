@@ -190,39 +190,39 @@ p {
 }
 
 .animated-underline::after {
-  background-color: var(--neutral400);
+  background-color: var(--neutral300);
 }
 
 .animated-underline-eng::after {
-  background-color: var(--pink400);
+  background-color: var(--pink300);
 }
 
 .animated-underline-fra::after {
-  background-color: var(--sky400);
+  background-color: var(--sky300);
 }
 
 .animated-underline-deu::after {
-  background-color: var(--amber400);
+  background-color: var(--amber300);
 }
 
 .animated-underline-rus::after {
-  background-color: var(--indigo400);
+  background-color: var(--indigo300);
 }
 
 .animated-underline-esp::after {
-  background-color: var(--orange400);
+  background-color: var(--orange300);
 }
 
 .animated-underline-ita::after {
-  background-color: var(--emerald400);
+  background-color: var(--emerald300);
 }
 
 .animated-underline-heb::after {
-  background-color: var(--blue400);
+  background-color: var(--blue300);
 }
 
 .animated-underline-kaz::after {
-  background-color: var(--cyan400);
+  background-color: var(--cyan300);
 }
 
 .animated-underline:hover,

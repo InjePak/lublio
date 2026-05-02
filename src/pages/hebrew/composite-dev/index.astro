@@ -1,8 +1,8 @@
 ---
-import HebrewLayout from "../../../layouts/HebrewLayout.astro";
-import BoxFrontier from "../../../components/BoxFrontier.astro";
-import ButtonFrontier2 from "../../../components/ButtonFrontier2.astro";
-import SectionSwitcherFrontier from "../../../components/SectionSwitcherFrontier.astro";
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import Box2 from "../../../components/Box2.astro";
+import Button2 from "../../../components/Button2.astro";
+import SectionSwitcher from "../../../components/SectionSwitcher.astro";
 
 import chapters from "../../../assets/json/composite/chapters.json";
 const chapters_a0 = chapters["a0"];
@@ -22,94 +22,60 @@ const tabItems = [
 ];
 ---
 
-<HebrewLayout pageTitle={pageTitle + " | Lublio"}>
-  <BoxFrontier
-    title="Ivrit"
-    subtitle="종합 히브리어"
+<BaseLayout pageTitle={pageTitle + " | Lublio"}>
+  <Box2
+    title="종합 히브리어"
+    subtitle="Ivrit"
     description="지중해에서 불어오는 따뜻한 샬롬 — 햇살 가득한 텔아비브의 거리 어딘가, 고대의 울림과 현대의 활기가 만나는 곳. 이 회화 모음집은 일상의 히브리어 속에 깃든 따뜻함과 생동감을 담았습니다."
     language="heb"
   />
 
-  <SectionSwitcherFrontier items={tabItems} />
+  <SectionSwitcher items={tabItems} />
 
   <main>
-    <section class="group-a0 riseUp_2">
+    <section class="group-a0 fade_1">
       <h2>
         <span class="animated-underline-heb">입문 히브리어 (A0)</span>
       </h2>
       <ul>
-        {
-          chapters_a0.map((post: any) => (
-            <ButtonFrontier2
-              id={post.id}
-              title={post.heb}
-              subtitle={post.kor}
-              language="heb"
-              path={"/hebrew/composite/a0/" + post.path}
-            />
-          ))
-        }
+        <Button2
+          id="1"
+          title="히브리어 알파벳"
+          subtitle=""
+          language="heb"
+          path={"/hebrew/composite/a0/alphabet"}
+        />
       </ul>
     </section>
 
-    <section class="group-a1 riseUp_2">
+    <section class="group-a1 fade_1">
       <h2>
         <span class="animated-underline-heb">기초 히브리어 (A1)</span>
       </h2>
       <ul>
-        {
-          chapters_a1.map((post: any) => (
-            <ButtonFrontier2
-              id={post.id}
-              title={post.heb}
-              subtitle={post.kor}
-              language="heb"
-              path={"/hebrew/composite/a1/" + post.path}
-            />
-          ))
-        }
+        <h3>현재 제작중에 있습니다 🏗️</h3>
       </ul>
     </section>
 
-    <section class="group-a2 riseUp_2">
+    <section class="group-a2 fade_1">
       <h2>
         <span class="animated-underline-heb">초급 히브리어 (A2)</span>
       </h2>
       <ul>
-        {
-          chapters_a2.map((post: any) => (
-            <ButtonFrontier2
-              id={post.id}
-              title={post.heb}
-              subtitle={post.kor}
-              language="heb"
-              path={"/hebrew/composite/a2/" + post.path}
-            />
-          ))
-        }
+        <h3>현재 제작중에 있습니다 🏗️</h3>
       </ul>
     </section>
 
-    <section class="group-b1 riseUp_2">
+    <section class="group-b1 fade_1">
       <h2>
         <span class="animated-underline-heb">중급 히브리어 (B1)</span>
       </h2>
       <ul>
-        {
-          chapters_b1.map((post: any) => (
-            <ButtonFrontier2
-              id={post.id}
-              title={post.heb}
-              subtitle={post.kor}
-              language="heb"
-              path={"/hebrew/composite/b1/" + post.path}
-            />
-          ))
-        }
+        <h3>현재 제작중에 있습니다 🏗️</h3>
       </ul>
     </section>
   </main>
-</HebrewLayout>
+</BaseLayout>
 
 <style>
   section {

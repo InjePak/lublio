@@ -14,7 +14,7 @@ interface Props {
 const { title, subtitle, description, language, path, level } = Astro.props;
 
 const colorMap800: Record<string, string> = {
-  nld: "var(--orange800)",
+  eng: "var(--pink800)",
   fra: "var(--sky800)",
   deu: "var(--amber800)",
   ita: "var(--emerald800)",
@@ -24,7 +24,7 @@ const colorMap800: Record<string, string> = {
   kaz: "var(--cyan800)",
 };
 const colorMap700: Record<string, string> = {
-  nld: "var(--orange700)",
+  eng: "var(--pink700)",
   fra: "var(--sky700)",
   deu: "var(--amber700)",
   ita: "var(--emerald700)",
@@ -34,7 +34,7 @@ const colorMap700: Record<string, string> = {
   kaz: "var(--cyan700)",
 };
 const colorMap600: Record<string, string> = {
-  nld: "var(--orange600)",
+  eng: "var(--pink600)",
   fra: "var(--sky600)",
   deu: "var(--amber600)",
   ita: "var(--emerald600)",
@@ -44,7 +44,7 @@ const colorMap600: Record<string, string> = {
   kaz: "var(--cyan600)",
 };
 const colorMap500: Record<string, string> = {
-  nld: "var(--orange500)",
+  eng: "var(--pink500)",
   fra: "var(--sky500)",
   deu: "var(--amber500)",
   ita: "var(--emerald500)",
@@ -54,7 +54,7 @@ const colorMap500: Record<string, string> = {
   kaz: "var(--cyan500)",
 };
 const colorMap400: Record<string, string> = {
-  nld: "var(--orange400)",
+  eng: "var(--pink400)",
   fra: "var(--sky400)",
   deu: "var(--amber400)",
   ita: "var(--emerald400)",
@@ -64,7 +64,7 @@ const colorMap400: Record<string, string> = {
   kaz: "var(--cyan400)",
 };
 const colorMap300: Record<string, string> = {
-  nld: "var(--orange300)",
+  eng: "var(--pink300)",
   fra: "var(--sky300)",
   deu: "var(--amber300)",
   ita: "var(--emerald300)",
@@ -74,7 +74,7 @@ const colorMap300: Record<string, string> = {
   kaz: "var(--cyan300)",
 };
 const colorMap200: Record<string, string> = {
-  nld: "var(--orange200)",
+  eng: "var(--pink200)",
   fra: "var(--sky200)",
   deu: "var(--amber200)",
   ita: "var(--emerald200)",
@@ -84,7 +84,7 @@ const colorMap200: Record<string, string> = {
   kaz: "var(--cyan200)",
 };
 const colorMap100: Record<string, string> = {
-  nld: "var(--orange100)",
+  eng: "var(--pink100)",
   fra: "var(--sky100)",
   deu: "var(--amber100)",
   ita: "var(--emerald100)",
@@ -103,6 +103,7 @@ const color200 = colorMap200[language] || "var(--neutral200)";
 const color100 = colorMap100[language] || "var(--neutral100)";
 
 const greetingMap: Record<string, string> = {
+  eng: "Hello",
   fra: "Salut",
   rus: "Привет",
   deu: "Hallo",
