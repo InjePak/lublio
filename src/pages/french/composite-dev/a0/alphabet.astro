@@ -1,0 +1,141 @@
+---
+import BaseLayout from "../../../../layouts/BaseLayout.astro";
+import BoxMarkdown from "../../../../components/BoxMarkdown.astro";
+import Button2 from "../../../../components/Button2.astro";
+
+// Title
+const pageTitle = "러시아어 알파벳";
+
+import TableHorizontal from "../../../../components/TableHorizontal.astro";
+
+const frenchAlphabet = {
+  알파벳: [
+    "Aa",
+    "Bb",
+    "Cc",
+    "Dd",
+    "Ee",
+    "Ff",
+    "Gg",
+    "Hh",
+    "Ii",
+    "Jj",
+    "Kk",
+    "Ll",
+    "Mm",
+    "Nn",
+    "Oo",
+    "Pp",
+    "Qq",
+    "Rr",
+    "Ss",
+    "Tt",
+    "Uu",
+    "Vv",
+    "Ww",
+    "Xx",
+    "Yy",
+    "Zz",
+  ],
+  발음: [
+    "아",
+    "베",
+    "세",
+    "데",
+    "으",
+    "에프",
+    "제",
+    "아쉬",
+    "이",
+    "지",
+    "카",
+    "엘",
+    "엠",
+    "엔",
+    "오",
+    "페",
+    "퀴",
+    "에르",
+    "에스",
+    "테",
+    "위",
+    "베",
+    "두블르베",
+    "익스",
+    "이그렉",
+    "제드",
+  ],
+  예시: [
+    "Ami (친구)",
+    "Bonjour (안녕하세요)",
+    "Chat (고양이)",
+    "Demain (내일)",
+    "Eau (물)",
+    "Famille (가족)",
+    "Gare (역)",
+    "Heure (시간)",
+    "Île (섬)",
+    "Jour (날)",
+    "Kilo (킬로)",
+    "Livre (책)",
+    "Maison (집)",
+    "Nuit (밤)",
+    "Oiseau (새)",
+    "Pain (빵)",
+    "Quartier (동네)",
+    "Rue (거리)",
+    "Soleil (태양)",
+    "Train (기차)",
+    "Université (대학)",
+    "Ville (도시)",
+    "Week-end (주말)",
+    "Exemple (예시)",
+    "Yaourt (요거트)",
+    "Zéro (영)",
+  ],
+};
+---
+
+<BaseLayout pageTitle={pageTitle + " | Lublio"}>
+  <BoxMarkdown
+    title="프랑스어 알파벳"
+    subtitle="L'alphabet du français"
+    language="fra"
+  />
+
+  <main>
+    <section class="group-a0 fade_1">
+      <h1>
+        <span class="animated-underline-fra">프랑스어 알파벳</span>
+      </h1>
+      <TableHorizontal numberOfColumns="3" data={frenchAlphabet} />
+    </section>
+
+    <section class="group-a1 fade_1">
+      <h2>
+        <span class="animated-underline-fra">기초 러시아어 (A1)</span>
+      </h2>
+      <h3>현재 제작중에 있습니다 🏗️</h3>
+    </section>
+
+    <section class="group-a2 fade_1">
+      <h2>
+        <span class="animated-underline-fra">초급 러시아어 (A2)</span>
+      </h2>
+      <h3>현재 제작중에 있습니다 🏗️</h3>
+    </section>
+
+    <section class="group-b1 fade_1">
+      <h2>
+        <span class="animated-underline-fra">중급 러시아어 (B1)</span>
+      </h2>
+      <h3>현재 제작중에 있습니다 🏗️</h3>
+    </section>
+  </main>
+</BaseLayout>
+
+<style>
+  section {
+    padding-top: 1.5rem;
+  }
+</style>

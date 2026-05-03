@@ -182,47 +182,48 @@ p {
   position: absolute;
   width: 100%;
   transform: scaleX(0); /* 처음엔 가로 길이를 0으로 */
-  height: 0.2em;
-  bottom: -0.2em;
+  height: 0.8rem;
+  z-index: -99;
+  bottom: 0em;
   left: 0;
   transform-origin: bottom right;
-  transition: transform 0.25s ease-out;
+  transition: transform 0.6s ease-out;
 }
 
 .animated-underline::after {
-  background-color: var(--neutral300);
+  background-color: var(--neutral200);
 }
 
 .animated-underline-eng::after {
-  background-color: var(--pink300);
+  background-color: var(--pink200);
 }
 
 .animated-underline-fra::after {
-  background-color: var(--sky300);
+  background-color: var(--sky200);
 }
 
 .animated-underline-deu::after {
-  background-color: var(--amber300);
+  background-color: var(--amber200);
 }
 
 .animated-underline-rus::after {
-  background-color: var(--indigo300);
+  background-color: var(--indigo200);
 }
 
 .animated-underline-esp::after {
-  background-color: var(--orange300);
+  background-color: var(--orange200);
 }
 
 .animated-underline-ita::after {
-  background-color: var(--emerald300);
+  background-color: var(--emerald200);
 }
 
 .animated-underline-heb::after {
-  background-color: var(--blue300);
+  background-color: var(--blue200);
 }
 
 .animated-underline-kaz::after {
-  background-color: var(--cyan300);
+  background-color: var(--cyan200);
 }
 
 .animated-underline:hover,
@@ -237,16 +238,16 @@ p {
   cursor: default;
 }
 
-.animated-underline:hover::after,
-.animated-underline-eng:hover::after,
-.animated-underline-fra:hover::after,
-.animated-underline-deu:hover::after,
-.animated-underline-rus:hover::after,
-.animated-underline-esp:hover::after,
-.animated-underline-ita:hover::after,
-.animated-underline-heb:hover::after,
-.animated-underline-kaz:hover::after {
-  transform: scaleX(1); /* 호버 시 가로 길이를 100%로 */
+.animated-underline.is-active::after,
+.animated-underline-eng.is-active::after,
+.animated-underline-fra.is-active::after,
+.animated-underline-deu.is-active::after,
+.animated-underline-rus.is-active::after,
+.animated-underline-esp.is-active::after,
+.animated-underline-ita.is-active::after,
+.animated-underline-heb.is-active::after,
+.animated-underline-kaz.is-active::after {
+  transform: scaleX(1);
   transform-origin: bottom left;
 }
 
@@ -504,7 +505,7 @@ button:last-child {
 }
 
 button:hover {
-  background-color: var(--neutral300);
+  background-color: var(--neutral200);
   cursor: pointer;
 }
 

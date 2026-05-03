@@ -15,17 +15,17 @@ const pageTitle = "러시아어 회화";
 
 // Section Switcher
 const tabItems = [
-  { id: "group-a1", label: "A1" },
-  { id: "group-a2", label: "A2" },
-  { id: "group-b1", label: "B1" },
-  { id: "group-b2", label: "B2" },
+  { id: "group-a1", label: "A1 (입문)" },
+  { id: "group-a2", label: "A2 (기초)" },
+  { id: "group-b1", label: "B1 (중급)" },
+  { id: "group-b2", label: "B2 (중고급)" },
 ];
 ---
 
 <BaseLayout pageTitle={pageTitle + " | Lublio"}>
   <Box2
     title="러시아어 회화"
-    subtitle="Frasy"
+    subtitle="Фразы"
     description="러시아인과 눈을 마주치며 건네는 쁘리비옛 — 광활한 시베리아 벌판이 숨을 고르는 곳, 말 한마디 한마디에 무게와 온기가 함께 실리는 곳. 이 회화 모음집은 일상의 러시아어 깊숙이 흐르는 소박한 따뜻함을 담았습니다."
     language="rus"
   />
@@ -115,4 +115,33 @@ const tabItems = [
   section {
     padding-top: 1.5rem;
   }
+
+  section > ul {
+    display: grid;
+    height: 100%;
+    grid-template-columns: 1fr 1fr;
+    justify-items: stretch;
+    gap: 1.5rem;
+    margin-bottom: 0rem;
+  }
 </style>
+
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    const selectors = [
+      ".animated-underline",
+      ".animated-underline-eng",
+      ".animated-underline-fra",
+      ".animated-underline-deu",
+      ".animated-underline-rus",
+      ".animated-underline-esp",
+      ".animated-underline-ita",
+      ".animated-underline-heb",
+      ".animated-underline-kaz",
+    ];
+
+    document.querySelectorAll(selectors.join(", ")).forEach((el) => {
+      el.classList.add("is-active");
+    });
+  });
+</script>

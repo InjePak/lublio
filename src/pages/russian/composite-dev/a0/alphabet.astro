@@ -1,0 +1,162 @@
+---
+import BaseLayout from "../../../../layouts/BaseLayout.astro";
+import BoxMarkdown from "../../../../components/BoxMarkdown.astro";
+import Button2 from "../../../../components/Button2.astro";
+
+// Title
+const pageTitle = "러시아어 알파벳";
+
+import TableHorizontal from "../../../../components/TableHorizontal.astro";
+
+const russianAlphabet = {
+  알파벳: [
+    "А а",
+    "Б б",
+    "В в",
+    "Г г",
+    "Д д",
+    "Е е",
+    "Ё ё",
+    "Ж ж",
+    "З з",
+    "И и",
+    "Й й",
+    "К к",
+    "Л л",
+    "М м",
+    "Н н",
+    "О о",
+    "П п",
+    "Р р",
+    "С с",
+    "Т т",
+    "У у",
+    "Ф ф",
+    "Х х",
+    "Ц ц",
+    "Ч ч",
+    "Ш ш",
+    "Щ щ",
+    "Ъ ъ",
+    "Ы ы",
+    "Ь ь",
+    "Э э",
+    "Ю ю",
+    "Я я",
+  ],
+  발음: [
+    "아",
+    "브",
+    "브",
+    "그",
+    "드",
+    "예",
+    "요",
+    "즈",
+    "즈",
+    "이",
+    "이크라트코예",
+    "크",
+    "르",
+    "므",
+    "느",
+    "오",
+    "프",
+    "르",
+    "스",
+    "트",
+    "우",
+    "프",
+    "흐",
+    "츠",
+    "취",
+    "쉬",
+    "쉬",
+    "트뵤르디 즈낙",
+    "으",
+    "먀흐끼 즈낙",
+    "에",
+    "유",
+    "야",
+  ],
+  예시: [
+    "Арбуз (수박)",
+    "Брат (형제)",
+    "Вода (물)",
+    "Город (도시)",
+    "Дом (집)",
+    "Ехать (가다)",
+    "Ёж (고슴도치)",
+    "Журнал (잡지)",
+    "Земля (땅)",
+    "Имя (이름)",
+    "Йога (요가)",
+    "Книга (책)",
+    "Лес (숲)",
+    "Мама (엄마)",
+    "Нос (코)",
+    "Окно (창문)",
+    "Папа (아빠)",
+    "Рыба (물고기)",
+    "Слово (단어)",
+    "Тигр (호랑이)",
+    "Утро (아침)",
+    "Фрукт (과일)",
+    "Хлеб (빵)",
+    "Цвет (색)",
+    "Час (시간)",
+    "Школа (학교)",
+    "Щека (뺨)",
+    "—",
+    "Мышь (쥐)",
+    "—",
+    "Эхо (메아리)",
+    "Юг (남쪽)",
+    "Яблоко (사과)",
+  ],
+};
+---
+
+<BaseLayout pageTitle={pageTitle + " | Lublio"}>
+  <BoxMarkdown
+    title="러시아어 알파벳"
+    subtitle="Русский алфавит"
+    language="rus"
+  />
+
+  <main>
+    <section class="group-a0 fade_1">
+      <h1>
+        <span class="animated-underline-rus">러시아어 알파벳</span>
+      </h1>
+      <TableHorizontal numberOfColumns="3" data={russianAlphabet} />
+    </section>
+
+    <section class="group-a1 fade_1">
+      <h2>
+        <span class="animated-underline-rus">기초 러시아어 (A1)</span>
+      </h2>
+      <h3>현재 제작중에 있습니다 🏗️</h3>
+    </section>
+
+    <section class="group-a2 fade_1">
+      <h2>
+        <span class="animated-underline-rus">초급 러시아어 (A2)</span>
+      </h2>
+      <h3>현재 제작중에 있습니다 🏗️</h3>
+    </section>
+
+    <section class="group-b1 fade_1">
+      <h2>
+        <span class="animated-underline-rus">중급 러시아어 (B1)</span>
+      </h2>
+      <h3>현재 제작중에 있습니다 🏗️</h3>
+    </section>
+  </main>
+</BaseLayout>
+
+<style>
+  section {
+    padding-top: 1.5rem;
+  }
+</style>
