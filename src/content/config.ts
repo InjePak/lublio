@@ -26,4 +26,31 @@ const grammar = defineCollection({
   }),
 });
 
-export const collections = { blog: blog, grammar: grammar };
+const composite = defineCollection({
+  type: "content",
+  schema: z.object({
+    title: z.string(),
+    pubDate: z.date(),
+    description: z.string(),
+    author: z.string(),
+    tags: z.array(z.string()),
+  }),
+});
+
+const hebrew = defineCollection({
+  type: "content",
+  schema: z.object({
+    title: z.string(),
+    subtitle: z.string(),
+    description: z.string(),
+    author: z.string(),
+    tags: z.array(z.string()),
+  }),
+});
+
+export const collections = {
+  blog: blog,
+  grammar: grammar,
+  composite: composite,
+  hebrew: hebrew,
+};

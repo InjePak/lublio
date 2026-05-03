@@ -85,14 +85,14 @@ const colorMap100: Record<string, string> = {
   heb: "var(--blue100)",
   kaz: "var(--cyan100)",
 };
-const color800 = colorMap800[language] || "var(--neutral800)";
-const color700 = colorMap700[language] || "var(--neutral700)";
-const color600 = colorMap600[language] || "var(--neutral600)";
-const color500 = colorMap500[language] || "var(--neutral500)";
-const color400 = colorMap400[language] || "var(--neutral400)";
-const color300 = colorMap300[language] || "var(--neutral300)";
-const color200 = colorMap200[language] || "var(--neutral200)";
-const color100 = colorMap100[language] || "var(--neutral100)";
+const color800 = colorMap800[language] || "var(--zinc800)";
+const color700 = colorMap700[language] || "var(--zinc700)";
+const color600 = colorMap600[language] || "var(--zinc600)";
+const color500 = colorMap500[language] || "var(--zinc500)";
+const color400 = colorMap400[language] || "var(--zinc400)";
+const color300 = colorMap300[language] || "var(--zinc300)";
+const color200 = colorMap200[language] || "var(--zinc200)";
+const color100 = colorMap100[language] || "var(--zinc100)";
 ---
 
 <style
@@ -135,20 +135,19 @@ const color100 = colorMap100[language] || "var(--neutral100)";
   .box > h1,
   .box > h2,
   .box > p {
-    color: var(--neutral800);
+    color: var(--zinc800);
   }
 
   .box .loader::before,
   .box .loader::after {
-    background-color: var(--neutral800);
+    background-color: var(--zinc800);
   }
 </style>
 
 <div class="box riseUp_1">
   <h1 class="riseUp_2">{title}</h1>
-  <hr class="riseUp_3" />
-  <h2 class="riseUp_4">{subtitle}</h2>
-  <p class="riseUp_5">{description}</p>
+  <h2 class="riseUp_3">{subtitle}</h2>
+  <p class="riseUp_4">{description}</p>
 </div>
 
 <style>
@@ -167,7 +166,7 @@ const color100 = colorMap100[language] || "var(--neutral100)";
 
   .box > h1 {
     position: relative;
-    font-family: "Inter", "Noto Hebrew", sans-serif;
+    font-family: "Noto Korean", sans-serif;
     text-transform: uppercase;
     display: inline;
     font-size: 56px;
@@ -180,7 +179,7 @@ const color100 = colorMap100[language] || "var(--neutral100)";
 
   .box > h2 {
     position: relative;
-    font-family: "Noto Korean", sans-serif;
+    font-family: "Inter", "Noto Hebrew", sans-serif;
     display: block;
     font-size: 34px;
     font-weight: 700;
@@ -189,10 +188,6 @@ const color100 = colorMap100[language] || "var(--neutral100)";
     margin-top: 10px;
     margin-bottom: 10px;
     transition: all 0.4s;
-  }
-
-  .box > hr {
-    margin: 1rem 0;
   }
 
   .box > p {
@@ -214,38 +209,7 @@ const color100 = colorMap100[language] || "var(--neutral100)";
 
   .box > h1,
   .box > h2,
-  .box > h4,
-  .box > span,
   .box > p {
-    color: var(--neutral800);
-  }
-
-  .box > hr {
-    background-color: var(--neutral800);
-  }
-
-  /* Mobile */
-  @media (max-width: 480px) {
-    .box > h1 {
-      font-size: 46px;
-    }
-
-    .box > h1::after {
-      height: 10px;
-      bottom: 6px;
-      left: 0;
-      opacity: 0.8;
-      z-index: -1;
-      transform-origin: bottom left;
-      animation: underline 2.4s cubic-bezier(0, 0, 0.24, 1.21);
-    }
-
-    .box > h2 {
-      font-size: 20px;
-    }
-
-    .box > p {
-      font-size: 13px;
-    }
+    color: var(--zinc800);
   }
 </style>

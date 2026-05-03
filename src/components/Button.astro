@@ -87,14 +87,14 @@ const colorMap100: Record<string, string> = {
   heb: "var(--blue100)",
   kaz: "var(--cyan100)",
 };
-const color800 = colorMap800[language] || "var(--zinc800)";
-const color700 = colorMap700[language] || "var(--zinc700)";
-const color600 = colorMap600[language] || "var(--zinc600)";
-const color500 = colorMap500[language] || "var(--zinc500)";
-const color400 = colorMap400[language] || "var(--zinc400)";
-const color300 = colorMap300[language] || "var(--zinc300)";
-const color200 = colorMap200[language] || "var(--zinc200)";
-const color100 = colorMap100[language] || "var(--zinc100)";
+const color800 = colorMap800[language] || "var(--neutral800)";
+const color700 = colorMap700[language] || "var(--neutral700)";
+const color600 = colorMap600[language] || "var(--neutral600)";
+const color500 = colorMap500[language] || "var(--neutral500)";
+const color400 = colorMap400[language] || "var(--neutral400)";
+const color300 = colorMap300[language] || "var(--neutral300)";
+const color200 = colorMap200[language] || "var(--neutral200)";
+const color100 = colorMap100[language] || "var(--neutral100)";
 
 const levelMap: Record<string, string> = {
   a0: "mdi:chess-pawn",
@@ -181,7 +181,7 @@ const levelIcon = levelMap[level] || "mdi:chess-pawn";
     width: calc(100% - 3rem);
     font-size: 14px;
     transition: 0.4s all;
-    color: var(--zinc500);
+    color: var(--neutral500);
   }
 
   .btn > span {
@@ -193,7 +193,7 @@ const levelIcon = levelMap[level] || "mdi:chess-pawn";
     font-size: 20px;
     font-family: "Roboto Condensed", sans-serif;
     text-transform: uppercase;
-    color: var(--zinc800);
+    color: var(--neutral800);
     opacity: 0;
     transition: 0.4s all;
   }
@@ -207,7 +207,7 @@ const levelIcon = levelMap[level] || "mdi:chess-pawn";
     height: 30px;
     margin: 0;
     opacity: 0;
-    color: var(--zinc800);
+    color: var(--neutral800);
     transition: all 0.4s;
   }
 
