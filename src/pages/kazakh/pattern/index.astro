@@ -16,19 +16,54 @@ const pageTitle = "카자흐어 패턴";
     language="kaz"
   />
 
-  <h2>
-    <span class="animated-underline-kaz">CEFR B1 - C1</span>
-  </h2>
+  <section>
+    <h2>
+      <span class="animated-underline-kaz">CEFR B1 - C1</span>
+    </h2>
 
-  {
-    chapters.map((post: any) => (
-      <Button2
-        id={post.id}
-        title={post.kor}
-        subtitle={post.kaz}
-        language="kaz"
-        path={"/kazakh/pattern/" + post.path}
-      />
-    ))
-  }
+    <ul>
+      {
+        chapters.map((post: any) => (
+          <Button2
+            id={post.id}
+            title={post.kor}
+            subtitle={post.kaz}
+            language="kaz"
+            path={"/kazakh/pattern/" + post.path}
+          />
+        ))
+      }
+    </ul>
+  </section>
 </BaseLayout>
+
+<style>
+  section > ul {
+    display: grid;
+    height: 100%;
+    grid-template-columns: 1fr 1fr;
+    justify-items: stretch;
+    gap: 1.5rem;
+    margin-bottom: 0rem;
+  }
+</style>
+
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    const selectors = [
+      ".animated-underline",
+      ".animated-underline-eng",
+      ".animated-underline-fra",
+      ".animated-underline-deu",
+      ".animated-underline-rus",
+      ".animated-underline-esp",
+      ".animated-underline-ita",
+      ".animated-underline-heb",
+      ".animated-underline-kaz",
+    ];
+
+    document.querySelectorAll(selectors.join(", ")).forEach((el) => {
+      el.classList.add("is-active");
+    });
+  });
+</script>

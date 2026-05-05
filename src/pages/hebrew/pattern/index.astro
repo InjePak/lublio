@@ -47,3 +47,23 @@ const pageTitle = "히브리어 패턴";
     margin-bottom: 0rem;
   }
 </style>
+
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    const selectors = [
+      ".animated-underline",
+      ".animated-underline-eng",
+      ".animated-underline-fra",
+      ".animated-underline-deu",
+      ".animated-underline-rus",
+      ".animated-underline-esp",
+      ".animated-underline-ita",
+      ".animated-underline-heb",
+      ".animated-underline-kaz",
+    ];
+
+    document.querySelectorAll(selectors.join(", ")).forEach((el) => {
+      el.classList.add("is-active");
+    });
+  });
+</script>
