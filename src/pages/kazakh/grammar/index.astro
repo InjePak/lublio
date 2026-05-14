@@ -5,7 +5,7 @@ import Button2 from "../../../components/Button2.astro";
 import SectionSwitcher from "../../../components/SectionSwitcher.astro";
 
 // Title
-const pageTitle = "종합 카자흐어";
+const pageTitle = "카자흐어 문법";
 
 // Section Switcher
 const tabItems = [
@@ -18,8 +18,8 @@ const tabItems = [
 
 <BaseLayout pageTitle={pageTitle + " | Lublio"}>
   <Box2
-    title="종합 카자흐어"
-    subtitle="Qazaqsha"
+    title="카자흐어 문법"
+    subtitle="Грамматика"
     description="알마티의 활기 속에서 건네는 부드러운 살렘 — 저 멀리 눈 덮인 텡리 산이 솟아오른 곳, 초원의 바람이 탁 트인 자유로움을 실어 나르는 곳. 이 회화 모음집은 일상의 카자흐어 깊은 곳에 흐르는 잔잔한 온기를 담았습니다."
     language="kaz"
   />
@@ -37,7 +37,7 @@ const tabItems = [
           title="카자흐어 알파벳"
           subtitle=""
           language="kaz"
-          path={"/kazakh/composite-dev/a0/alphabet"}
+          path={"/kazakh/grammar/a0/alphabet"}
         />
       </ul>
     </section>
@@ -76,3 +76,23 @@ const tabItems = [
     padding-top: 1.5rem;
   }
 </style>
+
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    const selectors = [
+      ".animated-underline",
+      ".animated-underline-eng",
+      ".animated-underline-fra",
+      ".animated-underline-deu",
+      ".animated-underline-rus",
+      ".animated-underline-esp",
+      ".animated-underline-ita",
+      ".animated-underline-heb",
+      ".animated-underline-kaz",
+    ];
+
+    document.querySelectorAll(selectors.join(", ")).forEach((el) => {
+      el.classList.add("is-active");
+    });
+  });
+</script>

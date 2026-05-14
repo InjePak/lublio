@@ -11,7 +11,7 @@ const chapters_a2 = chapters["a2"];
 const chapters_b1 = chapters["b1"];
 
 // Title
-const pageTitle = "종합 러시아어";
+const pageTitle = "러시아어 문법";
 
 // Section Switcher
 const tabItems = [
@@ -24,9 +24,9 @@ const tabItems = [
 
 <BaseLayout pageTitle={pageTitle + " | Lublio"}>
   <Box2
-    title="종합 러시아어"
-    subtitle="Русификация"
-    description="러시아어는 대륙만큼 넓고 겨울만큼 깊은 언어입니다. 톨스토이와 도스토옙스키가 그 문장들로 인간의 내면을 파헤쳤고, 오늘날에도 유라시아 전역에서 수억 명의 목소리를 잇고 있습니다. 압도적인 스케일과 섬세함을 동시에 품은 언어, 지금 만나보세요."
+    title="러시아어 문법"
+    subtitle="Грамматика"
+    description="문법을 알면 언어가 예측 가능해집니다. 규칙을 이해하는 순간, 모르는 문장도 스스로 만들 수 있게 됩니다. 언어를 진짜로 이해하는 첫걸음을 내딛어보세요."
     language="rus"
   />
 
@@ -82,3 +82,23 @@ const tabItems = [
     padding-top: 1.5rem;
   }
 </style>
+
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    const selectors = [
+      ".animated-underline",
+      ".animated-underline-eng",
+      ".animated-underline-fra",
+      ".animated-underline-deu",
+      ".animated-underline-rus",
+      ".animated-underline-esp",
+      ".animated-underline-ita",
+      ".animated-underline-heb",
+      ".animated-underline-kaz",
+    ];
+
+    document.querySelectorAll(selectors.join(", ")).forEach((el) => {
+      el.classList.add("is-active");
+    });
+  });
+</script>

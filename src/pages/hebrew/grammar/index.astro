@@ -5,7 +5,7 @@ import Button2 from "../../../components/Button2.astro";
 import SectionSwitcher from "../../../components/SectionSwitcher.astro";
 
 // Title
-const pageTitle = "종합 히브리어";
+const pageTitle = "히브리어 문법";
 
 // Section Switcher
 const tabItems = [
@@ -18,9 +18,9 @@ const tabItems = [
 
 <BaseLayout pageTitle={pageTitle + " | Lublio"}>
   <Box2
-    title="종합 히브리어"
-    subtitle="עברות"
-    description="지중해에서 불어오는 따뜻한 샬롬 — 햇살 가득한 텔아비브의 거리 어딘가, 고대의 울림과 현대의 활기가 만나는 곳. 이 회화 모음집은 일상의 히브리어 속에 깃든 따뜻함과 생동감을 담았습니다."
+    title="히브리어 문법"
+    subtitle="דקדוק"
+    description="문법을 알면 언어가 예측 가능해집니다. 규칙을 이해하는 순간, 모르는 문장도 스스로 만들 수 있게 됩니다. 언어를 진짜로 이해하는 첫걸음을 내딛어보세요."
     language="heb"
   />
 
@@ -37,7 +37,7 @@ const tabItems = [
           title="히브리어 알파벳"
           subtitle=""
           language="heb"
-          path={"/hebrew/composite-dev/a0/alphabet"}
+          path={"/hebrew/grammar/a0/alphabet"}
         />
       </ul>
     </section>
@@ -76,3 +76,23 @@ const tabItems = [
     padding-top: 1.5rem;
   }
 </style>
+
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    const selectors = [
+      ".animated-underline",
+      ".animated-underline-eng",
+      ".animated-underline-fra",
+      ".animated-underline-deu",
+      ".animated-underline-rus",
+      ".animated-underline-esp",
+      ".animated-underline-ita",
+      ".animated-underline-heb",
+      ".animated-underline-kaz",
+    ];
+
+    document.querySelectorAll(selectors.join(", ")).forEach((el) => {
+      el.classList.add("is-active");
+    });
+  });
+</script>
