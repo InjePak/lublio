@@ -1,0 +1,206 @@
+---
+import BaseLayout from "../../../../layouts/BaseLayout.astro";
+import BoxMarkdown from "../../../../components/BoxMarkdown.astro";
+
+// Title
+const pageTitle = "히브리어 알파벳";
+
+import TableHorizontal from "../../../../components/TableHorizontal.astro";
+import TableVertical from "../../../../components/TableVertical.astro";
+import TableMatrix from "../../../../components/TableMatrix.astro";
+
+const hebrewAlphabet = {
+  알파벳: [
+    "א",
+    "ב",
+    "ג",
+    "ד",
+    "ה",
+    "ו",
+    "ז",
+    "ח",
+    "ט",
+    "י",
+    "כ ך",
+    "ל",
+    "מ ם",
+    "נ ן",
+    "ס",
+    "ע",
+    "פ ף",
+    "צ ץ",
+    "ק",
+    "ר",
+    "ש",
+    "ת",
+  ],
+  발음: [
+    "[ʔ]", // א 알레프
+    "[b] / [v]", // ב 베트
+    "[ɡ]", // ג 기멜
+    "[d]", // ד 달레트
+    "[h]", // ה 헤
+    "[v]", // ו 바브
+    "[z]", // ז 자인
+    "[χ]", // ח 헤트
+    "[t]", // ט 테트
+    "[j]", // י 요드
+    "[k] / [χ]", // כ 카프
+    "[l]", // ל 라메드
+    "[m]", // מ 멤
+    "[n]", // נ 눈
+    "[s]", // ס 사메크
+    "[ʔ]", // ע 아인 (현대 히브리어 기준)
+    "[p] / [f]", // פ 페
+    "[ts]", // צ 차디
+    "[k]", // ק 코프
+    "[ʁ]", // ר 레시
+    "[ʃ] / [s]", // ש 신/쉰
+    "[t]", // ת 타브
+  ],
+  예시: [
+    "אָבָּא (아빠)",
+    "בַּיִת (집)",
+    "גָּדוֹל (크다)",
+    "דָּג (물고기)",
+    "הַר (산)",
+    "וֶרֶד (장미)",
+    "זְמַן (시간)",
+    "חָלָב (우유)",
+    "טוֹב (좋다)",
+    "יָם (바다)",
+    "כֶּלֶב (개)",
+    "לֵב (심장)",
+    "מַיִם (물)",
+    "נֵר (초)",
+    "סוּס (말)",
+    "עַיִן (눈)",
+    "פֶּרַח (꽃)",
+    "צֶבַע (색)",
+    "קוֹל (소리)",
+    "רֹאשׁ (머리)",
+    "שֶׁמֶשׁ (태양)",
+    "תַּפּוּחַ (사과)",
+  ],
+};
+
+const hebrewSofitLetters = {
+  알파벳: ["כ", "מ", "נ", "פ", "צ"],
+  어말형: ["ך", "ם", "ן", "ף", "ץ"],
+  예시: [
+    "מֶלֶךְ (왕)",
+    "שָׁלוֹם (평화)",
+    "גָּן (정원)",
+    "כַּף (손바닥)",
+    "אֶרֶץ (땅)",
+  ],
+};
+
+const hebrewVowels = {
+  부호: [
+    "בַ",
+    "בָ",
+    "בֶ",
+    "בֵ",
+    "בִ",
+    "בֹ",
+    "בֻ",
+    "בּוּ",
+    "בְ",
+    "בֲ",
+    "בֱ",
+    "בֳ",
+  ],
+  발음: [
+    "[a]",
+    "[a] / [o]",
+    "[e]",
+    "[e]",
+    "[i]",
+    "[o]",
+    "[u]",
+    "[u]",
+    "[ə] / [-]",
+    "[a]",
+    "[e]",
+    "[o]",
+  ],
+  예시: [
+    "יַד (손)",
+    "אָב (아버지)",
+    "מֶלֶךְ (왕)",
+    "בֵּית (집)",
+    "בִּין (이해하다)",
+    "קוֹל (소리)",
+    "קֻדְשָׁה (-)",
+    "שׁוּר (소)",
+    "בְּרָכָה (축복)",
+    "אֲנִי (나)",
+    "אֱלֹהִים (하나님)",
+    "אֳנִי (배)",
+  ],
+};
+
+// const data3 = {
+//   ich: ["bin", "war", "bin gewesen"],
+//   du: ["bist", "warst", "bist gewesen"],
+//   "er/sie/es": ["ist", "war", "ist gewesen"],
+//   wir: ["sind", "waren", "sind gewesen"],
+//   ihr: ["seid", "wart", "seid gewesen"],
+//   "sie/Sie": ["sind", "waren", "sind gewesen"],
+// };
+---
+
+<BaseLayout pageTitle={pageTitle + " | Lublio"}>
+  <BoxMarkdown
+    title="히브리어 알파벳"
+    subtitle="האלפבית העברי"
+    language="heb"
+  />
+
+  <main>
+    <section class="group-a0 fade_1">
+      <h1>
+        <span class="animated-underline-heb">히브리어 알파벳</span>
+      </h1>
+
+      <TableHorizontal
+        numberOfColumns="6"
+        data={hebrewAlphabet}
+        tableWidth="70%"
+      />
+    </section>
+
+    <hr />
+
+    <section class="group-a1 fade_1">
+      <h1>
+        <span class="animated-underline-heb">히브리어 어말형 알파벳</span>
+      </h1>
+      <TableHorizontal
+        numberOfColumns="3"
+        data={hebrewSofitLetters}
+        tableWidth="70%"
+      />
+    </section>
+
+    <hr />
+
+    <section class="group-a2 fade_1">
+      <h1>
+        <span class="animated-underline-heb">히브리어 모음부호</span>
+      </h1>
+      <TableHorizontal
+        numberOfColumns="3"
+        data={hebrewVowels}
+        tableWidth="70%"
+      />
+    </section>
+  </main>
+</BaseLayout>
+
+<style>
+  section {
+    padding-top: 1.5rem;
+  }
+</style>

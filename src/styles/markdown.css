@@ -26,7 +26,7 @@
   display: inline-block;
   width: 100%;
   height: auto;
-  color: var(--zinc800);
+  color: var(--neutral800);
   margin-bottom: 1.5rem;
   font-family: "Inter", sans-serif;
 }
@@ -35,8 +35,8 @@
 .post-body h2::selection,
 .post-body h3::selection,
 .post-body p::selection {
-  color: var(--zinc200);
-  background-color: var(--zinc800);
+  color: var(--neutral200);
+  background-color: var(--neutral800);
 }
 
 .post-body h1 {
@@ -59,28 +59,28 @@
   font-weight: 500;
   letter-spacing: 0px;
   line-height: 1.8;
-  color: var(--zinc700);
+  color: var(--neutral700);
 }
 
 .post-body blockquote {
   width: calc(100% - 20px);
   margin-left: 20px;
   margin-bottom: 1.5rem;
-  border-left: 4px solid var(--zinc800);
+  border-left: 4px solid var(--neutral800);
   padding-left: 1rem;
   font-style: italic;
 }
 
 .post-body code {
-  background-color: var(--zinc700);
-  color: var(--zinc200);
+  background-color: var(--neutral700);
+  color: var(--neutral200);
   padding: 0.2rem 0.4rem;
   border-radius: 0px;
 }
 
 .post-body hr {
   display: block;
-  border: 1px dashed var(--zinc500);
+  border: 1px dashed var(--neutral500);
   margin: 3rem 0;
 }
 
@@ -146,7 +146,7 @@
 
 .post-body ol li::marker,
 .post-body ul li::marker {
-  color: var(--zinc800);
+  color: var(--neutral800);
   font-weight: bold;
   font-family: "Inter", sans-serif;
 }
@@ -183,35 +183,35 @@
 .post-body th::selection,
 .post-body tr::selection,
 .post-body td::selection {
-  color: var(--zinc200);
-  background-color: var(--zinc800);
+  color: var(--neutral200);
+  background-color: var(--neutral800);
 }
 
 .post-body th {
-  background-color: var(--zinc200);
+  background-color: var(--neutral200);
   font-weight: bold;
   padding: 12px;
-  border: 1px solid var(--zinc300);
+  border: 1px solid var(--neutral300);
 }
 
 .post-body td {
   padding: 12px;
-  border: 1px solid var(--zinc300);
+  border: 1px solid var(--neutral300);
   vertical-align: middle;
   transition: all 0.3s;
 }
 
 .post-body td:hover {
-  background-color: var(--zinc100);
+  background-color: var(--neutral100);
 }
 
 /* 모든 행의 첫 번째 칸(열)만 타겟팅 */
 .post-body table td:first-child {
-  background-color: var(--zinc200); /* 헤더와 같은 배경색 */
+  background-color: var(--neutral200); /* 헤더와 같은 배경색 */
   font-weight: bold; /* 글자 강조 */
-  color: var(--zinc800);
+  color: var(--neutral800);
   width: 150px; /* 제목 열이라서 너비를 고정하고 싶을 때 */
-  border-right: 1px solid var(--zinc300); /* 강조를 위한 오른쪽 선 */
+  border-right: 1px solid var(--neutral300); /* 강조를 위한 오른쪽 선 */
 }
 
 /* (선택사항) 만약 상단 헤더(th)를 아예 안 쓰고 싶다면 */

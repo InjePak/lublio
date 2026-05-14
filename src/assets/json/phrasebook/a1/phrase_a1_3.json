@@ -6,7 +6,12 @@
     "deu": "Wie viele Personen gibt es in deiner Familie?",
     "rus": "Сколько человек в вашей семье?",
     "heb": "כמה נפשות יש במשפחה שלך?",
-    "kaz": "Отбасыңызда неше адам бар?"
+    "kaz": "Отбасыңызда неше адам бар?",
+    "ita": "Quante persone ci sono nella tua famiglia?",
+    "pol": "Ile osób liczy twoja rodzina?",
+    "ces": "Kolik je vás v rodině?",
+    "hun": "Hányan vagytok a családban?",
+    "tur": "Ailen kaç kişi?"
   },
   {
     "kor": "우리 가족은 네 명입니다.",
@@ -15,7 +20,12 @@
     "deu": "Meine Familie hat vier Personen.",
     "rus": "В моей семье четыре человека.",
     "heb": "במשפחה שלי יש ארבע נפשות.",
-    "kaz": "Менің отбасымда төрт адам бар."
+    "kaz": "Менің отбасымда төрт адам бар.",
+    "ita": "Siamo in quattro in famiglia.",
+    "pol": "Moja rodzina liczy cztery osoby.",
+    "ces": "Jsme v rodině čtyři.",
+    "hun": "Négyen vagyunk a családban.",
+    "tur": "Ailemiz dört kişiden oluşuyor."
   },
   {
     "kor": "형제나 자매가 있나요?",
@@ -24,7 +34,12 @@
     "deu": "Hast du Geschwister?",
     "rus": "У вас есть братья или сестры?",
     "heb": "יש לך אחים או אחיות?",
-    "kaz": "Аға-інілеріңіз немесе әпке-сіңлілеріңіз бар ма?"
+    "kaz": "Аға-інілеріңіз немесе әпке-сіңлілеріңіз бар ма?",
+    "ita": "Hai fratelli o sorelle?",
+    "pol": "Masz rodzeństwo?",
+    "ces": "Máš sourozence?",
+    "hun": "Vannak testvéreid?",
+    "tur": "Hiç kardeşin var mı?"
   },
   {
     "kor": "저는 외동입니다.",
@@ -33,7 +48,12 @@
     "deu": "Ich bin ein Einzelkind.",
     "rus": "Я единственный ребенок в семье.",
     "heb": "אני בן/בת יחיד/ה.",
-    "kaz": "Мен үйдің жалғыз баласымын."
+    "kaz": "Мен үйдің жалғыз баласымын.",
+    "ita": "Sono figlio unico.",
+    "pol": "Jestem jedynakiem.",
+    "ces": "Jsem jedináček.",
+    "hun": "Egyke vagyok.",
+    "tur": "Tek çocuğum."
   },
   {
     "kor": "제 아버지는 의사입니다.",
@@ -42,7 +62,12 @@
     "deu": "Mein Vater ist Arzt.",
     "rus": "Мой отец — врач.",
     "heb": "אבא שלי רופא.",
-    "kaz": "Әкем — дәрігер."
+    "kaz": "Әкем — дәрігер.",
+    "ita": "Mio padre è un medico.",
+    "pol": "Mój ojciec jest lekarzem.",
+    "ces": "Můj otec je lékař.",
+    "hun": "Apukám orvos.",
+    "tur": "Babam doktor."
   },
   {
     "kor": "제 어머니는 선생님입니다.",
@@ -51,7 +76,12 @@
     "deu": "Meine Mutter ist Lehrerin.",
     "rus": "Моя мама — учительница.",
     "heb": "אמא שלי מורה.",
-    "kaz": "Анам — мұғалім."
+    "kaz": "Анам — мұғалім.",
+    "ita": "Mia madre è un'insegnante.",
+    "pol": "Moja mama jest nauczycielką.",
+    "ces": "Moje matka je učitelka.",
+    "hun": "Anyukám tanár.",
+    "tur": "Annem öğretmen."
   },
   {
     "kor": "이 사람은 제 남동생입니다.",
@@ -60,7 +90,12 @@
     "deu": "Das ist mein kleiner Bruder.",
     "rus": "Это мой младший брат.",
     "heb": "זה אח שלי הקטן.",
-    "kaz": "Бұл — менің інім."
+    "kaz": "Бұл — менің інім.",
+    "ita": "Lui è mio fratello minore.",
+    "pol": "To jest mój młodszy brat.",
+    "ces": "To je můj mladší bratr.",
+    "hun": "Ő az öcsém.",
+    "tur": "Bu benim erkek kardeşim."
   },
   {
     "kor": "이 사람은 제 언니입니다.",
@@ -69,7 +104,12 @@
     "deu": "Das ist meine ältere Schwester.",
     "rus": "Это моя старшая сестра.",
     "heb": "זאת אחותי הגדולה.",
-    "kaz": "Бұл — менің әпкем."
+    "kaz": "Бұл — менің әпкем.",
+    "ita": "Lei è mia sorella maggiore.",
+    "pol": "To jest moja starsza siostra.",
+    "ces": "To je moje starší sestra.",
+    "hun": "Ő a nővérem.",
+    "tur": "Bu benim ablam."
   },
   {
     "kor": "부모님은 어디에 사세요?",
@@ -78,7 +118,12 @@
     "deu": "Wo wohnen deine Eltern?",
     "rus": "Где живут ваши родители?",
     "heb": "איפה ההורים שלך גרים?",
-    "kaz": "Ата-анаңыз қайда тұрады?"
+    "kaz": "Ата-анаңыз қайда тұрады?",
+    "ita": "Dove vivono i tuoi genitori?",
+    "pol": "Gdzie mieszkają twoi rodzice?",
+    "ces": "Kde bydlí tvoji rodiče?",
+    "hun": "Hol laknak a szüleid?",
+    "tur": "Ailen nerede yaşıyor?"
   },
   {
     "kor": "저는 할머니와 할아버지를 사랑합니다.",
@@ -87,7 +132,12 @@
     "deu": "Ich liebe meine Großeltern.",
     "rus": "Я люблю своих дедушку и бабушку.",
     "heb": "אני אוהב/ת את סבא וסבתא שלי.",
-    "kaz": "Мен атам мен әжемді жақсы көремін."
+    "kaz": "Мен атам мен әжемді жақсы көремін.",
+    "ita": "Voglio molto bene ai miei nonni.",
+    "pol": "Kocham moich dziadków.",
+    "ces": "Miluji své prarodiče.",
+    "hun": "Szeretem a nagyszüleimet.",
+    "tur": "Büyükannemi ve büyükbabamı çok seviyorum."
   },
   {
     "kor": "제 가장 친한 친구 이름은 샘입니다.",
@@ -96,7 +146,12 @@
     "deu": "Mein bester Freund heißt Sam.",
     "rus": "Моего лучшего друга зовут Сэм.",
     "heb": "השם של החבר הכי טוב שלי הוא סאם.",
-    "kaz": "Менің ең жақын досымның аты — Сэм."
+    "kaz": "Менің ең жақын досымның аты — Сэм.",
+    "ita": "Il mio migliore amico si chiama Sam.",
+    "pol": "Mój najlepszy przyjaciel ma na imię Sam.",
+    "ces": "Můj nejlepší kamarád se jmenuje Sam.",
+    "hun": "A legjobb barátomat Samnek hívják.",
+    "tur": "En yakın arkadaşımın adı Sam."
   },
   {
     "kor": "우리는 학교 친구입니다.",
@@ -105,7 +160,12 @@
     "deu": "Wir sind Schulfreunde.",
     "rus": "Мы школьные друзья.",
     "heb": "אנחנו חברים מבית הספר.",
-    "kaz": "Біз мектептегі достармыз."
+    "kaz": "Біз мектептегі достармыз.",
+    "ita": "Siamo compagni di scuola.",
+    "pol": "Jesteśmy przyjaciółmi ze szkoły.",
+    "ces": "Jsme kamarádi ze školy.",
+    "hun": "Iskolai barátok vagyunk.",
+    "tur": "Okuldan arkadaşız."
   },
   {
     "kor": "제 친구는 매우 친절합니다.",
@@ -114,7 +174,12 @@
     "deu": "Mein Freund ist sehr nett.",
     "rus": "Мой друг очень добрый.",
     "heb": "החבר שלי מאוד נחמד.",
-    "kaz": "Менің досым өте мейірімді."
+    "kaz": "Менің досым өте мейірімді.",
+    "ita": "Il mio amico è molto gentile.",
+    "pol": "Mój przyjaciel jest bardzo miły.",
+    "ces": "Můj kamarád je velmi laskavý.",
+    "hun": "A barátom nagyon kedves.",
+    "tur": "Arkadaşım çok naziktir."
   },
   {
     "kor": "저는 친구들과 노는 것을 좋아합니다.",
@@ -123,7 +188,12 @@
     "deu": "Ich treffe mich gerne mit meinen Freunden.",
     "rus": "Мне нравится проводить время с друзьями.",
     "heb": "אני אוהב/ת לבלות עם חברים שלי.",
-    "kaz": "Маған достарыммен уақыт өткізген ұнайды."
+    "kaz": "Маған достарыммен уақыт өткізген ұнайды.",
+    "ita": "Mi piace uscire con i miei amici.",
+    "pol": "Lubię spędzać czas z przyjaciółmi.",
+    "ces": "Rád trávím čas s kamarády.",
+    "hun": "Szeretek a barátaimmal lógni.",
+    "tur": "Arkadaşlarımla vakit geçirmeyi severim."
   },
   {
     "kor": "결혼하셨나요?",
@@ -132,7 +202,12 @@
     "deu": "Bist du verheiratet?",
     "rus": "Вы замужем (жената)?",
     "heb": "את/ה נשוי/אה?",
-    "kaz": "Үйленгенсіз бе? / Тұрмыстасыз ба?"
+    "kaz": "Үйленгенсіз бе? / Тұрмыстасыз ба?",
+    "ita": "Sei sposato?",
+    "pol": "Jesteś żonaty / zamężna?",
+    "ces": "Jsi ženatý / vdaná?",
+    "hun": "Házas vagy?",
+    "tur": "Evli misiniz?"
   },
   {
     "kor": "저는 미혼입니다.",
@@ -141,7 +216,12 @@
     "deu": "Ich bin ledig.",
     "rus": "Я не замужем (не женат).",
     "heb": "אני רווק/ה.",
-    "kaz": "Мен бойдақпын / Тұрмыс құрмағанмын."
+    "kaz": "Мен бойдақпын / Тұрмыс құрмағанмын.",
+    "ita": "Sono single.",
+    "pol": "Jestem singlem.",
+    "ces": "Jsem svobodný / svobodná.",
+    "hun": "Egyedülálló vagyok.",
+    "tur": "Bekarım."
   },
   {
     "kor": "자녀가 있으신가요?",
@@ -150,7 +230,12 @@
     "deu": "Hast du Kinder?",
     "rus": "У вас есть дети?",
     "heb": "יש לך ילדים?",
-    "kaz": "Балаларыңыз бар ма?"
+    "kaz": "Балаларыңыз бар ма?",
+    "ita": "Hai figli?",
+    "pol": "Masz dzieci?",
+    "ces": "Máš děti?",
+    "hun": "Vannak gyerekeid?",
+    "tur": "Çocuğun var mı?"
   },
   {
     "kor": "저는 아들 한 명과 딸 한 명이 있습니다.",
@@ -159,7 +244,12 @@
     "deu": "Ich habe einen Sohn und eine Tochter.",
     "rus": "У меня есть сын и дочь.",
     "heb": "יש לי בן ובת.",
-    "kaz": "Менің бір ұлым және бір қызым бар."
+    "kaz": "Менің бір ұлым және бір қызым бар.",
+    "ita": "Ho un figlio e una figlia.",
+    "pol": "Mam syna i córkę.",
+    "ces": "Mám syna a dceru.",
+    "hun": "Van egy fiam és egy lányom.",
+    "tur": "Bir oğlum ve bir kızım var."
   },
   {
     "kor": "제 친구는 런던에 삽니다.",
@@ -168,7 +258,12 @@
     "deu": "Mein Freund wohnt in London.",
     "rus": "Мой друг живет в Лондоне.",
     "heb": "חבר שלי גר בלונדון.",
-    "kaz": "Досым Лондонда тұрады."
+    "kaz": "Досым Лондонда тұрады.",
+    "ita": "Il mio amico vive a Londra.",
+    "pol": "Mój przyjaciel mieszka w Londynie.",
+    "ces": "Můj kamarád bydlí v Londýně.",
+    "hun": "A barátom Londonban él.",
+    "tur": "Arkadaşım Londra'da yaşıyor."
   },
   {
     "kor": "우리는 주말에 만납니다.",
@@ -177,7 +272,12 @@
     "deu": "Wir treffen uns am Wochenende.",
     "rus": "Мы встречаемся по выходным.",
     "heb": "אנחנו נפגשים בסופי שבוע.",
-    "kaz": "Біз демалыс күндері кездесеміз."
+    "kaz": "Біз демалыс күндері кездесеміз.",
+    "ita": "Ci vediamo nel fine settimana.",
+    "pol": "Spotykamy się w weekendy.",
+    "ces": "Vídáme se o víkendech.",
+    "hun": "Hétvégenként szoktunk találkozni.",
+    "tur": "Hafta sonları buluşuruz."
   },
   {
     "kor": "그녀는 저와 동갑입니다.",
@@ -186,7 +286,12 @@
     "deu": "Sie ist genauso alt wie ich.",
     "rus": "Она моя ровесница.",
     "heb": "היא בת גילי.",
-    "kaz": "Ол менімен құрдас."
+    "kaz": "Ол менімен құрдас.",
+    "ita": "Lei ha la mia stessa età.",
+    "pol": "Ona jest w moim wieku.",
+    "ces": "Je stejně stará jako já.",
+    "hun": "Egyidős velem.",
+    "tur": "O benimle aynı yaşta."
   },
   {
     "kor": "제 남동생은 축구를 좋아합니다.",
@@ -195,7 +300,12 @@
     "deu": "Mein kleiner Bruder mag Fußball.",
     "rus": "Мой младший брат любит футбол.",
     "heb": "אח שלי הקטן אוהב כדורגל.",
-    "kaz": "Менің інім футболды жақсы көреді."
+    "kaz": "Менің інім футболды жақсы көреді.",
+    "ita": "A mio fratello minore piace il calcio.",
+    "pol": "Mój młodszy brat lubi piłkę nożną.",
+    "ces": "Můj mladší bratr má rád fotbal.",
+    "hun": "Az öcsém szereti a focit.",
+    "tur": "Erkek kardeşim futbolu sever."
   },
   {
     "kor": "제 여자친구는 똑똑합니다.",
@@ -204,7 +314,12 @@
     "deu": "Meine Freundin ist schlau.",
     "rus": "Моя девушка умная.",
     "heb": "חברה שלי חכמה.",
-    "kaz": "Менің қызым ақылды."
+    "kaz": "Менің қызым ақылды.",
+    "ita": "La mia ragazza è molto intelligente.",
+    "pol": "Moja dziewczyna jest mądra.",
+    "ces": "Moje přítelkyně je chytrá.",
+    "hun": "A barátnőm okos.",
+    "tur": "Kız arkadaşım zekidir."
   },
   {
     "kor": "가족들과 함께 저녁을 먹습니다.",
@@ -213,7 +328,12 @@
     "deu": "Ich esse mit meiner Familie zu Abend.",
     "rus": "Я ужинаю со своей семьей.",
     "heb": "אני אוכל/ת ארוחת ערב עם המשפחה שלי.",
-    "kaz": "Мен отбасыммен бірге кешкі ас ішемін."
+    "kaz": "Мен отбасыммен бірге кешкі ас ішемін.",
+    "ita": "Ceno con la mia famiglia.",
+    "pol": "Jadam kolację z rodziną.",
+    "ces": "Večeřím se svou rodinou.",
+    "hun": "A családommal vacsorázom.",
+    "tur": "Ailemle birlikte akşam yemeği yerim."
   },
   {
     "kor": "그는 저의 친척입니다.",
@@ -222,6 +342,11 @@
     "deu": "Er ist ein Verwandter von mir.",
     "rus": "Он мой родственник.",
     "heb": "הוא קרוב משפחה שלי.",
-    "kaz": "Ол — менің туысым."
+    "kaz": "Ол — менің туысым.",
+    "ita": "È un mio parente.",
+    "pol": "On jest moim krewnym.",
+    "ces": "Je to můj příbuzný.",
+    "hun": "Ő a rokonom.",
+    "tur": "O benim akrabam."
   }
 ]

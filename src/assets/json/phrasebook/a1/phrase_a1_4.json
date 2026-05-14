@@ -6,7 +6,12 @@
     "deu": "Wie spät ist es?",
     "rus": "Который час?",
     "heb": "מה השעה עכשיו?",
-    "kaz": "Қазір сағат неше?"
+    "kaz": "Қазір сағат неше?",
+    "ita": "Che ore sono?",
+    "pol": "Która jest godzina?",
+    "ces": "Kolik je hodin?",
+    "hun": "Mennyi az idő?",
+    "tur": "Saat kaç?"
   },
   {
     "kor": "현재 시각은 오후 3시입니다.",
@@ -15,7 +20,12 @@
     "deu": "Es ist drei Uhr nachmittags.",
     "rus": "Сейчас три часа дня.",
     "heb": "השעה שלוש אחר הצהריים.",
-    "kaz": "Қазір күндізгі сағат үш."
+    "kaz": "Қазір күндізгі сағат үш.",
+    "ita": "Sono le tre del pomeriggio.",
+    "pol": "Jest trzecia po południu.",
+    "ces": "Jsou tři hodiny odpoledne.",
+    "hun": "Délután három óra van.",
+    "tur": "Saat öğleden sonra üç."
   },
   {
     "kor": "8시 30분입니다.",
@@ -24,7 +34,12 @@
     "deu": "Es ist halb neun.",
     "rus": "Сейчас полдевятого.",
     "heb": "השעה שמונה וחצי.",
-    "kaz": "Сағат сегіз жарым."
+    "kaz": "Сағат сегіз жарым.",
+    "ita": "Sono le otto e mezza.",
+    "pol": "Jest wpół do dziewiątej.",
+    "ces": "Je půl deváté.",
+    "hun": "Fél kilenc van.",
+    "tur": "Saat sekiz buçuk."
   },
   {
     "kor": "10시 15분 전입니다.",
@@ -33,7 +48,12 @@
     "deu": "Es ist Viertel vor zehn.",
     "rus": "Без пятнадцати десять.",
     "heb": "רבע לעשר.",
-    "kaz": "Онға он бес минут қалды."
+    "kaz": "Онға он бес минут қалды.",
+    "ita": "Sono le dieci meno un quarto.",
+    "pol": "Jest za kwadrans dziesiąta.",
+    "ces": "Je tři čtvrtě na deset.",
+    "hun": "Háromnegyed tíz van.",
+    "tur": "Saate on bir var."
   },
   {
     "kor": "오늘은 무슨 요일인가요?",
@@ -42,7 +62,12 @@
     "deu": "Welcher Tag ist heute?",
     "rus": "Какой сегодня день недели?",
     "heb": "איזה יום היום?",
-    "kaz": "Бүгін аптаның қай күні?"
+    "kaz": "Бүгін аптаның қай күні?",
+    "ita": "Che giorno è oggi?",
+    "pol": "Jaki jest dzisiaj dzień?",
+    "ces": "Co je dnes za den?",
+    "hun": "Milyen nap van ma?",
+    "tur": "Bugün günlerden ne?"
   },
   {
     "kor": "오늘은 월요일입니다.",
@@ -51,7 +76,12 @@
     "deu": "Heute ist Montag.",
     "rus": "Сегодня понедельник.",
     "heb": "יום שני היום.",
-    "kaz": "Бүгін дүйсенбі."
+    "kaz": "Бүгін дүйсенбі.",
+    "ita": "Oggi è lunedì.",
+    "pol": "Dzisiaj jest poniedziałek.",
+    "ces": "Dnes je pondělí.",
+    "hun": "Ma hétfő van.",
+    "tur": "Bugün Pazartesi."
   },
   {
     "kor": "내일은 5월 1일입니다.",
@@ -60,7 +90,12 @@
     "deu": "Morgen ist der erste Mai.",
     "rus": "Завтра первое мая.",
     "heb": "מחר ה-1 במאי.",
-    "kaz": "Ертең бірінші мамыр."
+    "kaz": "Ертең бірінші мамыр.",
+    "ita": "Domani è il primo maggio.",
+    "pol": "Jutro jest pierwszy maja.",
+    "ces": "Zítra je prvního května.",
+    "hun": "Holnap május elseje lesz.",
+    "tur": "Yarın bir Mayıs."
   },
   {
     "kor": "제 생일은 10월입니다.",
@@ -69,7 +104,12 @@
     "deu": "Mein Geburtstag ist im Oktober.",
     "rus": "Мой день рождения в октябре.",
     "heb": "יום ההולדת שלי באוקטובר.",
-    "kaz": "Менің туған күнім қазанда."
+    "kaz": "Менің туған күнім қазанда.",
+    "ita": "Il mio compleanno è a ottobre.",
+    "pol": "Moje urodziny są w październiku.",
+    "ces": "Moje narozeniny jsou v říjnu.",
+    "hun": "Októberben van a születésnapom.",
+    "tur": "Doğum günüm Ekim ayında."
   },
   {
     "kor": "저는 아침 7시에 일어납니다.",
@@ -78,7 +118,12 @@
     "deu": "Ich stehe um sieben Uhr auf.",
     "rus": "Я встаю в семь часов утра.",
     "heb": "אני קם בשבע בבוקר.",
-    "kaz": "Мен таңғы сағат жетіде тұрамын."
+    "kaz": "Мен таңғы сағат жетіде тұрамын.",
+    "ita": "Mi sveglio alle sette.",
+    "pol": "Wstaję o siódmej.",
+    "ces": "Vstávám v sedm hodin.",
+    "hun": "Hét órakor kelek.",
+    "tur": "Saat yedide kalkarım."
   },
   {
     "kor": "수업은 언제 시작하나요?",
@@ -87,7 +132,12 @@
     "deu": "Wann beginnt der Unterricht?",
     "rus": "Когда начинается урок?",
     "heb": "מתי מתחיל השיעור?",
-    "kaz": "Сабақ қашан басталады?"
+    "kaz": "Сабақ қашан басталады?",
+    "ita": "A che ora inizia la lezione?",
+    "pol": "O której zaczyna się lekcja?",
+    "ces": "Kdy začíná lekce?",
+    "hun": "Mikor kezdődik az óra?",
+    "tur": "Ders ne zaman başlıyor?"
   },
   {
     "kor": "이것은 얼마인가요?",
@@ -96,7 +146,12 @@
     "deu": "Wie viel kostet das?",
     "rus": "Сколько это стоит?",
     "heb": "כמה זה עולה?",
-    "kaz": "Бұл қанша тұрады?"
+    "kaz": "Бұл қанша тұрады?",
+    "ita": "Quanto costa questo?",
+    "pol": "Ile to kosztuje?",
+    "ces": "Kolik to stojí?",
+    "hun": "Ez mennyibe kerül?",
+    "tur": "Bu ne kadar?"
   },
   {
     "kor": "그것은 20파운드입니다.",
@@ -105,7 +160,12 @@
     "deu": "Das kostet zwanzig Pfund.",
     "rus": "Это стоит двадцать фунтов.",
     "heb": "זה עולה עשרים פאונד.",
-    "kaz": "Ол жиырма фунт."
+    "kaz": "Ол жиырма фунт.",
+    "ita": "Costa venti sterline.",
+    "pol": "To kosztuje dwadzieścia funtów.",
+    "ces": "Stojí to dvacet liber.",
+    "hun": "Húsz fontba kerül.",
+    "tur": "O yirmi pound."
   },
   {
     "kor": "전화번호가 무엇인가요?",
@@ -114,7 +174,12 @@
     "deu": "Wie ist deine Telefonnummer?",
     "rus": "Какой у вас номер телефона?",
     "heb": "מה מספר הטלפון שלך?",
-    "kaz": "Телефон нөміріңіз қандай?"
+    "kaz": "Телефон нөміріңіз қандай?",
+    "ita": "Qual è il tuo numero di telefono?",
+    "pol": "Jaki jest twój numer telefonu?",
+    "ces": "Jaké je tvé telefonní číslo?",
+    "hun": "Mi a telefonszámod?",
+    "tur": "Telefon numaran ne?"
   },
   {
     "kor": "저는 100까지 셀 수 있습니다.",
@@ -123,7 +188,12 @@
     "deu": "Ich kann bis hundert zählen.",
     "rus": "Я умею считать до ста.",
     "heb": "אני יכול לספור עד מאה.",
-    "kaz": "Мен жүзге дейін санай аламын."
+    "kaz": "Мен жүзге дейін санай аламын.",
+    "ita": "So contare fino a cento.",
+    "pol": "Umiem liczyć do stu.",
+    "ces": "Umím počítat do sta.",
+    "hun": "El tudok számolni százig.",
+    "tur": "Yüze kadar sayabilirim."
   },
   {
     "kor": "사과 다섯 개 주세요.",
@@ -132,7 +202,12 @@
     "deu": "Fünf Äpfel, bitte.",
     "rus": "Пять яблок, пожалуйста.",
     "heb": "חמישה תפוחים בבקשה.",
-    "kaz": "Бес алма беріңізші."
+    "kaz": "Бес алма беріңізші.",
+    "ita": "Cinque mele, per favore.",
+    "pol": "Poproszę pięć jabłek.",
+    "ces": "Pět jablek, prosím.",
+    "hun": "Öt almát kérek.",
+    "tur": "Beş elma lütfen."
   },
   {
     "kor": "10분 기다려 주세요.",
@@ -141,7 +216,12 @@
     "deu": "Bitte warten Sie zehn Minuten.",
     "rus": "Пожалуйста, подождите десять минут.",
     "heb": "בבקשה המתן עשר דקות.",
-    "kaz": "Он минут күте тұрыңызшы."
+    "kaz": "Он минут күте тұрыңызшы.",
+    "ita": "Per favore, aspetti dieci minuti.",
+    "pol": "Proszę poczekać dziesięć minut.",
+    "ces": "Prosím, počkejte deset minut.",
+    "hun": "Kérlek, várj tíz percet.",
+    "tur": "Lütfen on dakika bekleyin."
   },
   {
     "kor": "일주일은 7일입니다.",
@@ -150,7 +230,12 @@
     "deu": "Eine Woche hat sieben Tage.",
     "rus": "В неделе семь дней.",
     "heb": "יש שבעה ימים בשבוע.",
-    "kaz": "Бір аптада жеті күн бар."
+    "kaz": "Бір аптада жеті күн бар.",
+    "ita": "Ci sono sette giorni in una settimana.",
+    "pol": "Tydzień ma siedem dni.",
+    "ces": "Týden má sedm dní.",
+    "hun": "Egy hét hét napból áll.",
+    "tur": "Bir haftada yedi gün vardır."
   },
   {
     "kor": "지금은 정오입니다.",
@@ -159,7 +244,12 @@
     "deu": "Es ist jetzt Mittag.",
     "rus": "Сейчас полдень.",
     "heb": "עכשיו צהריים.",
-    "kaz": "Қазір тал түс."
+    "kaz": "Қазір тал түс.",
+    "ita": "È mezzogiorno.",
+    "pol": "Jest południe.",
+    "ces": "Je poledne.",
+    "hun": "Most dél van.",
+    "tur": "Şu an öğle vakti."
   },
   {
     "kor": "한 시간 후에 만나요.",
@@ -168,7 +258,12 @@
     "deu": "Bis in einer Stunde.",
     "rus": "Увидимся через час.",
     "heb": "נתראה בעוד שעה.",
-    "kaz": "Бір сағаттан кейін кездесейік."
+    "kaz": "Бір сағаттан кейін кездесейік.",
+    "ita": "Ci vediamo tra un'ora.",
+    "pol": "Do zobaczenia za godzinę.",
+    "ces": "Uvidíme se za hodinu.",
+    "hun": "Egy óra múlva találkozunk.",
+    "tur": "Bir saat sonra görüşürüz."
   },
   {
     "kor": "저는 매일 8시간씩 잡니다.",
@@ -177,7 +272,12 @@
     "deu": "Ich schlafe jeden Tag acht Stunden.",
     "rus": "Я сплю по восемь часов каждый день.",
     "heb": "אני ישן שמונה שעות בכל יום.",
-    "kaz": "Мен күн сайын сегіз сағат ұйықтаймын."
+    "kaz": "Мен күн сайын сегіз сағат ұйықтаймын.",
+    "ita": "Dormo otto ore al giorno.",
+    "pol": "Śpię osiem godzin dziennie.",
+    "ces": "Spím osm hodin denně.",
+    "hun": "Napi nyolc órát alszom.",
+    "tur": "Her gün sekiz saat uyurum."
   },
   {
     "kor": "그는 30살입니다.",
@@ -186,7 +286,12 @@
     "deu": "Er ist dreißig Jahre alt.",
     "rus": "Ему тридцать лет.",
     "heb": "הוא בן שלושים.",
-    "kaz": "Ол отыз жаста."
+    "kaz": "Ол отыз жаста.",
+    "ita": "Lui ha trent'anni.",
+    "pol": "On ma trzydzieści lat.",
+    "ces": "Je mu třicet let.",
+    "hun": "Harminc éves.",
+    "tur": "O otuz yaşında."
   },
   {
     "kor": "박물관은 9시에 엽니다.",
@@ -195,7 +300,12 @@
     "deu": "Das Museum öffnet um neun Uhr.",
     "rus": "Музей открывается в девять часов.",
     "heb": "המוזיאון נפתח בתשע.",
-    "kaz": "Мұражай сағат тоғызда ашылады."
+    "kaz": "Мұражай сағат тоғызда ашылады.",
+    "ita": "Il museo apre alle nove.",
+    "pol": "Muzeum otwiera się o dziewiątej.",
+    "ces": "Muzeum otevírá v devět.",
+    "hun": "A múzeum kilenckor nyit.",
+    "tur": "Müze dokuzda açılıyor."
   },
   {
     "kor": "버스는 15분마다 옵니다.",
@@ -204,7 +314,12 @@
     "deu": "Der Bus kommt alle fünfzehn Minuten.",
     "rus": "Автобус ходит каждые пятнадцать минут.",
     "heb": "האוטובוס מגיע כל רבע שעה.",
-    "kaz": "Автобус әр он бес минут сайын келеді."
+    "kaz": "Автобус әр он бес минут сайын келеді.",
+    "ita": "L'autobus passa ogni quindici minuti.",
+    "pol": "Autobus przyjeżdża co piętnaście minut.",
+    "ces": "Autobus jezdí každých patnáct minut.",
+    "hun": "A busz tizenöt percenként jár.",
+    "tur": "Otobüs her on beş dakikada bir gelir."
   },
   {
     "kor": "오늘은 2024년 6월 10일입니다.",
@@ -213,7 +328,12 @@
     "deu": "Heute ist der 10. Juni 2024.",
     "rus": "Сегодня 10 июня 2024 года.",
     "heb": "היום ה-10 ביוני 2024.",
-    "kaz": "Бүгін 2024 жылғы маусымның оны."
+    "kaz": "Бүгін 2024 жылғы маусымның оны.",
+    "ita": "Oggi è il 10 giugno 2024.",
+    "pol": "Dzisiaj jest dziesiąty czerwca dwa tysiące dwudziestego czwartego roku.",
+    "ces": "Dnes je desátého června dva tisíce dvacet čtyři.",
+    "hun": "Ma 2024. június tizedike van.",
+    "tur": "Bugün on Haziran iki bin yirmi dört."
   },
   {
     "kor": "시간이 거의 다 됐어요.",
@@ -222,6 +342,11 @@
     "deu": "Die Zeit ist fast um.",
     "rus": "Время почти вышло.",
     "heb": "הזמן כמעט נגמר.",
-    "kaz": "Уақыт аяқталуға жақын."
+    "kaz": "Уақыт аяқталуға жақын.",
+    "ita": "Il tempo è quasi scaduto.",
+    "pol": "Czas prawie się skończył.",
+    "ces": "Čas skoro vypršel.",
+    "hun": "Majdnem lejárt az idő.",
+    "tur": "Vakit neredeyse doldu."
   }
 ]

@@ -6,7 +6,12 @@
     "deu": "Wie ist das Wetter heute?",
     "rus": "Какая сегодня погода?",
     "heb": "מה מזג האוויר היום?",
-    "kaz": "Бүгін ауа райы қандай?"
+    "kaz": "Бүгін ауа райы қандай?",
+    "ita": "Com'è il tempo oggi?",
+    "pol": "Jaka jest dzisiaj pogoda?",
+    "ces": "Jaké je dnes počasí?",
+    "hun": "Milyen ma az idő?",
+    "tur": "Bugün hava nasıl?"
   },
   {
     "kor": "날씨가 아주 좋습니다.",
@@ -15,7 +20,12 @@
     "deu": "Das Wetter ist sehr schön.",
     "rus": "Погода очень хорошая.",
     "heb": "מזג האוויר נהדר.",
-    "kaz": "Ауа райы өте тамаша."
+    "kaz": "Ауа райы өте тамаша.",
+    "ita": "Il tempo è bellissimo.",
+    "pol": "Pogoda jest piękna.",
+    "ces": "Je krásné počasí.",
+    "hun": "Nagyon szép idő van.",
+    "tur": "Hava harika."
   },
   {
     "kor": "오늘은 화창합니다.",
@@ -24,7 +34,12 @@
     "deu": "Heute ist es sonnig.",
     "rus": "Сегодня солнечно.",
     "heb": "היום יום שטוף שמש.",
-    "kaz": "Бүгін күн ашық."
+    "kaz": "Бүгін күн ашық.",
+    "ita": "C'è il sole oggi.",
+    "pol": "Dzisiaj jest słonecznie.",
+    "ces": "Dneska je slunečno.",
+    "hun": "Ma napsütéses idő van.",
+    "tur": "Bugün hava güneşli."
   },
   {
     "kor": "밖은 덥습니다.",
@@ -33,7 +48,12 @@
     "deu": "Es ist heiß draußen.",
     "rus": "На улице жарко.",
     "heb": "חם בחוץ.",
-    "kaz": "Далада ыстық."
+    "kaz": "Далада ыстық.",
+    "ita": "Fa caldo fuori.",
+    "pol": "Na zewnątrz jest gorąco.",
+    "ces": "Venku je horko.",
+    "hun": "Meleg van kint.",
+    "tur": "Dışarısı sıcak."
   },
   {
     "kor": "조금 춥네요.",
@@ -42,7 +62,12 @@
     "deu": "Es ist ein bisschen kalt.",
     "rus": "Немного холодно.",
     "heb": "קצת קר.",
-    "kaz": "Біраз салқын."
+    "kaz": "Біраз салқын.",
+    "ita": "Fa un po' freddo.",
+    "pol": "Jest trochę zimno.",
+    "ces": "Je docela zima.",
+    "hun": "Kicsit hideg van.",
+    "tur": "Hava biraz soğuk."
   },
   {
     "kor": "비가 오고 있어요.",
@@ -51,7 +76,12 @@
     "deu": "Es regnet.",
     "rus": "Дождь идет.",
     "heb": "יורד גשם.",
-    "kaz": "Жаңбыр жауып тұр."
+    "kaz": "Жаңбыр жауып тұр.",
+    "ita": "Sta piovendo.",
+    "pol": "Pada deszcz.",
+    "ces": "Prší.",
+    "hun": "Esik az eső.",
+    "tur": "Yağmur yağıyor."
   },
   {
     "kor": "하늘에 구름이 많아요.",
@@ -60,7 +90,12 @@
     "deu": "Es ist bewölkt.",
     "rus": "Облачно.",
     "heb": "מעונן.",
-    "kaz": "Күн бұлтты."
+    "kaz": "Күн бұлтты.",
+    "ita": "È nuvoloso.",
+    "pol": "Jest pochmurno.",
+    "ces": "Je zataženo.",
+    "hun": "Felhős az ég.",
+    "tur": "Hava bulutlu."
   },
   {
     "kor": "바람이 많이 불어요.",
@@ -69,7 +104,12 @@
     "deu": "Es ist sehr windig.",
     "rus": "Очень ветрено.",
     "heb": "יש הרבה רוח.",
-    "kaz": "Жел тұрып тұр."
+    "kaz": "Жел тұрып тұр.",
+    "ita": "C'è molto vento.",
+    "pol": "Jest bardzo wietrznie.",
+    "ces": "Je velmi větrno.",
+    "hun": "Nagyon fúj a szél.",
+    "tur": "Hava çok rüzgarlı."
   },
   {
     "kor": "눈이 오고 있습니다.",
@@ -78,7 +118,12 @@
     "deu": "Es schneit.",
     "rus": "Снег идет.",
     "heb": "יורד שלג.",
-    "kaz": "Қар жауып тұр."
+    "kaz": "Қар жауып тұр.",
+    "ita": "Sta nevicando.",
+    "pol": "Pada śnieg.",
+    "ces": "Sněží.",
+    "hun": "Esik a hó.",
+    "tur": "Kar yağıyor."
   },
   {
     "kor": "안개가 꼈어요.",
@@ -87,7 +132,12 @@
     "deu": "Es ist neblig.",
     "rus": "Туманно.",
     "heb": "יש ערפל.",
-    "kaz": "Тұман түсті."
+    "kaz": "Тұман түсті.",
+    "ita": "C'è nebbia.",
+    "pol": "Jest mglisto.",
+    "ces": "Je mlha.",
+    "hun": "Köd van.",
+    "tur": "Hava sisli."
   },
   {
     "kor": "오늘은 시원합니다.",
@@ -96,7 +146,12 @@
     "deu": "Heute ist es kühl.",
     "rus": "Сегодня прохладно.",
     "heb": "קריר היום.",
-    "kaz": "Бүгін күн салқын."
+    "kaz": "Бүгін күн салқын.",
+    "ita": "Oggi si sta freschi.",
+    "pol": "Dzisiaj jest chłodno.",
+    "ces": "Dneska je chladno.",
+    "hun": "Ma hűvös van.",
+    "tur": "Bugün hava serin."
   },
   {
     "kor": "날씨가 따뜻해지고 있어요.",
@@ -105,7 +160,12 @@
     "deu": "Das Wetter wird wärmer.",
     "rus": "Погода становится теплее.",
     "heb": "מזג האוויר נהיה חם יותר.",
-    "kaz": "Күн жылынып келеді."
+    "kaz": "Күн жылынып келеді.",
+    "ita": "Il tempo si sta scaldando.",
+    "pol": "Pogoda robi się coraz cieplejsza.",
+    "ces": "Počasí se otepluje.",
+    "hun": "Melegszik az idő.",
+    "tur": "Hava ısınıyor."
   },
   {
     "kor": "우산이 필요해요.",
@@ -114,7 +174,12 @@
     "deu": "Ich brauche einen Regenschirm.",
     "rus": "Мне нужен зонт.",
     "heb": "אני צריך/ה מטריה.",
-    "kaz": "Маған қолшатыр керек."
+    "kaz": "Маған қолшатыр керек.",
+    "ita": "Ho bisogno di un ombrello.",
+    "pol": "Potrzebuję parasola.",
+    "ces": "Potřebuji deštník.",
+    "hun": "Szükségem van egy esernyőre.",
+    "tur": "Bir şemsiyeye ihtiyacım var."
   },
   {
     "kor": "하늘이 파랗습니다.",
@@ -123,7 +188,12 @@
     "deu": "Der Himmel ist blau.",
     "rus": "Небо голубое.",
     "heb": "השמיים כחולים.",
-    "kaz": "Аспан ашық."
+    "kaz": "Аспан ашық.",
+    "ita": "Il cielo è azzurro.",
+    "pol": "Niebo jest niebieskie.",
+    "ces": "Obloha je modrá.",
+    "hun": "Kék az ég.",
+    "tur": "Gökyüzü mavi."
   },
   {
     "kor": "기온이 몇 도인가요?",
@@ -132,7 +202,12 @@
     "deu": "Wie hoch ist die Temperatur?",
     "rus": "Какая сейчас температура?",
     "heb": "מה הטמפרטורה?",
-    "kaz": "Температура қандай?"
+    "kaz": "Температура қандай?",
+    "ita": "Quanti gradi ci sono?",
+    "pol": "Ile jest stopni?",
+    "ces": "Kolik je stupňů?",
+    "hun": "Hány fok van?",
+    "tur": "Hava kaç derece?"
   },
   {
     "kor": "영하 5도입니다.",
@@ -141,7 +216,12 @@
     "deu": "Es sind minus fünf Grad.",
     "rus": "Сейчас пять градусов мороза.",
     "heb": "מינוס חמש מעלות.",
-    "kaz": "Минус бес градус."
+    "kaz": "Минус бес градус.",
+    "ita": "Ci sono cinque gradi sotto zero.",
+    "pol": "Jest pięć stopni poniżej zera.",
+    "ces": "Je pět stupňů pod nulou.",
+    "hun": "Mínusz öt fok van.",
+    "tur": "Hava sıfırın altında beş derece."
   },
   {
     "kor": "저는 여름을 좋아합니다.",
@@ -150,7 +230,12 @@
     "deu": "Ich mag den Sommer.",
     "rus": "Я люблю лето.",
     "heb": "אני אוהב/ת את הקיץ.",
-    "kaz": "Мен жазды жақсы көремін."
+    "kaz": "Мен жазды жақсы көремін.",
+    "ita": "Mi piace l'estate.",
+    "pol": "Lubię lato.",
+    "ces": "Mám rád léto.",
+    "hun": "Szeretem a nyarat.",
+    "tur": "Yaz mevsimini severim."
   },
   {
     "kor": "겨울은 너무 추워요.",
@@ -159,7 +244,12 @@
     "deu": "Der Winter ist zu kalt.",
     "rus": "Зима слишком холодная.",
     "heb": "החורף קר מדי.",
-    "kaz": "Қыс тым суық."
+    "kaz": "Қыс тым суық.",
+    "ita": "L'inverno è troppo freddo.",
+    "pol": "Zima jest zbyt mroźna.",
+    "ces": "Zima je moc studená.",
+    "hun": "A tél túl hideg.",
+    "tur": "Kış çok soğuk."
   },
   {
     "kor": "봄에는 꽃이 피어요.",
@@ -168,7 +258,12 @@
     "deu": "Im Frühling blühen die Blumen.",
     "rus": "Весной цветут цветы.",
     "heb": "פרחים פורחים באביב.",
-    "kaz": "Көктемде гүлдер ашылады."
+    "kaz": "Көктемде гүлдер ашылады.",
+    "ita": "I fiori sbocciano in primavera.",
+    "pol": "Wiosną kwitną kwiaty.",
+    "ces": "Na jaře kvetou květiny.",
+    "hun": "Tavasszal nyílnak a virágok.",
+    "tur": "İlkbaharda çiçekler açar."
   },
   {
     "kor": "가을은 아름답습니다.",
@@ -177,7 +272,12 @@
     "deu": "Der Herbst ist schön.",
     "rus": "Осень прекрасна.",
     "heb": "הסתיו יפה.",
-    "kaz": "Күз керемет."
+    "kaz": "Күз керемет.",
+    "ita": "L'autunno è bellissimo.",
+    "pol": "Jesień jest piękna.",
+    "ces": "Podzim je krásný.",
+    "hun": "Gyönyörű az ősz.",
+    "tur": "Sonbahar güzeldir."
   },
   {
     "kor": "내일 날씨 예보는 어때요?",
@@ -186,7 +286,12 @@
     "deu": "Wie ist die Wettervorhersage für morgen?",
     "rus": "Какой прогноз погоды на завтра?",
     "heb": "מה תחזית מזג האוויר למחר?",
-    "kaz": "Ертеңге ауа райы болжамы қандай?"
+    "kaz": "Ертеңге ауа райы болжамы қандай?",
+    "ita": "Quali sono le previsioni del tempo per domani?",
+    "pol": "Jaka jest prognoza pogody na jutro?",
+    "ces": "Jaká jest předpověď počasí na zítra?",
+    "hun": "Mi a holnapi időjárás-előrejelzés?",
+    "tur": "Yarın için hava durumu tahmini nedir?"
   },
   {
     "kor": "폭풍이 오고 있어요.",
@@ -195,7 +300,12 @@
     "deu": "Ein Sturm zieht auf.",
     "rus": "Приближается шторм.",
     "heb": "סערה מתקרבת.",
-    "kaz": "Дауыл келе жатыр."
+    "kaz": "Дауыл келе жатыр.",
+    "ita": "Sta arrivando un temporale.",
+    "pol": "Nadchodzi burza.",
+    "ces": "Blíží se bouřka.",
+    "hun": "Vihar közeledik.",
+    "tur": "Fırtına geliyor."
   },
   {
     "kor": "해가 떴어요.",
@@ -204,7 +314,12 @@
     "deu": "Die Sonne scheint.",
     "rus": "Вышло солнце.",
     "heb": "השמש יצאה.",
-    "kaz": "Күн шықты."
+    "kaz": "Күн шықты.",
+    "ita": "C'è il sole.",
+    "pol": "Wyszło słońce.",
+    "ces": "Vyšlo slunce.",
+    "hun": "Kisütött a nap.",
+    "tur": "Güneş açtı."
   },
   {
     "kor": "공기가 매우 건조합니다.",
@@ -213,7 +328,12 @@
     "deu": "Die Luft ist sehr trocken.",
     "rus": "Воздух очень сухой.",
     "heb": "האוויר יבש מאוד.",
-    "kaz": "Ауа өте құрғақ."
+    "kaz": "Ауа өте құрғақ.",
+    "ita": "L'aria è molto secca.",
+    "pol": "Powietrze jest bardzo suche.",
+    "ces": "Vzduch je velmi suchý.",
+    "hun": "Nagyon száraz a levegő.",
+    "tur": "Hava çok kuru."
   },
   {
     "kor": "코트를 입으세요.",
@@ -222,6 +342,11 @@
     "deu": "Zieh einen Mantel an.",
     "rus": "Надень пальто.",
     "heb": "תלבש/י מעיל.",
-    "kaz": "Пальто киіп алыңыз."
+    "kaz": "Пальто киіп алыңыз.",
+    "ita": "Mettiti il cappotto.",
+    "pol": "Załóż płaszcz.",
+    "ces": "Vezmi si kabát.",
+    "hun": "Vegyél fel kabátot.",
+    "tur": "Palto giy."
   }
 ]

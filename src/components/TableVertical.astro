@@ -1,28 +1,28 @@
 ---
 interface Props {
-  numberOfColumns: "1" | "2" | "3" | "4" | "5" | "6";
+  numberOfRows: "1" | "2" | "3" | "4" | "5" | "6" | "7" | "8";
   data: Record<string, string[]>;
   tableWidth?: string;
 }
 
-const { numberOfColumns, data, tableWidth = "100%" } = Astro.props;
+const { numberOfRows, data, tableWidth = "100%" } = Astro.props;
 
 const object = Object.entries(data)
   .map(([key, value]) => ({ key, value }))
-  .slice(0, Number(numberOfColumns));
+  .slice(0, Number(numberOfRows));
 ---
 
 <div class="table-wrapper">
-  <div class="table-horizontal" style={`width: ${tableWidth};`}>
+  <div class="table-vertical">
     {
       object.map(({ key, value }) => (
-        <div class="column">
-          <div class="columnHeader">
+        <div class="row">
+          <div class="rowHeader">
             <p>{key}</p>
           </div>
-          {value?.map((row) => (
-            <div class="row">
-              <p>{row}</p>
+          {value?.map((cell) => (
+            <div class="cell">
+              <p>{cell}</p>
             </div>
           ))}
         </div>
@@ -36,11 +36,11 @@ const object = Object.entries(data)
     position: relative;
   }
 
-  .table-horizontal {
+  .table-vertical {
     display: table;
     table-layout: fixed;
     width: 100%;
-    margin-right: auto;
+    margin: 0 auto;
     font-family: "Inter", "Noto Hebrew", sans-serif;
     font-weight: 400;
     letter-spacing: 0px;
@@ -51,50 +51,49 @@ const object = Object.entries(data)
     border-top: 1px solid var(--neutral300);
   }
 
-  .column {
+  .row {
+    display: table-row;
+    border-bottom: 1px solid var(--neutral300);
+  }
+
+  .rowHeader {
     display: table-cell;
-    text-align: left;
-    background-color: transparent;
-    border-right: 1px solid var(--neutral300);
-  }
-
-  .column:last-child {
-    border-right: none;
-  }
-
-  .columnHeader {
     text-align: center;
     background-color: var(--neutral200);
-    border-bottom: 1px solid var(--neutral300);
+    border-right: 1px solid var(--neutral300);
+    vertical-align: middle;
+    padding: 10px;
   }
 
-  .columnHeader > p {
+  .rowHeader > p {
     color: var(--neutral800);
     font-weight: 700;
-    font-size: 24px;
-    margin: 10px 0;
+    font-size: 18px;
+    margin: 0;
   }
 
-  .row {
+  .cell {
+    display: table-cell;
     background-color: transparent;
-    border: 1px solid transparent;
+    border-right: 1px solid var(--neutral300);
     transition: 0.3s all;
-    border-bottom: 1px solid var(--neutral300);
-    border-top: none;
-    border-left: none;
-    border-right: none;
     text-align: left;
+    vertical-align: middle;
   }
 
-  .row > p {
+  .cell:last-child {
+    border-right: none;
+  }
+
+  .cell > p {
     color: var(--neutral800);
-    font-size: 24px;
+    font-size: 18px;
     font-weight: 400;
     margin: 10px 0;
     padding-left: 15px;
   }
 
-  .row:hover {
+  .cell:hover {
     background-color: var(--neutral200);
   }
 </style>

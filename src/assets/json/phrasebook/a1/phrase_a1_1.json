@@ -7,8 +7,11 @@
     "rus": "Здравствуйте.",
     "heb": "שלום.",
     "kaz": "Сәлеметсіз бе.",
-    "chi": "你好。",
-    "jpn": "こんにちは。"
+    "ita": "Ciao.",
+    "pol": "Cześć.",
+    "ces": "Ahoj.",
+    "hun": "Szia.",
+    "tur": "Merhaba."
   },
   {
     "kor": "만나서 반가워요.",
@@ -18,8 +21,11 @@
     "rus": "Приятно познакомиться.",
     "heb": "נעים להכיר אותך.",
     "kaz": "Танысқаныма қуаныштымын.",
-    "chi": "很高兴见到你。",
-    "jpn": "はじめまして。"
+    "ita": "Piacere di conoscerti.",
+    "pol": "Miło cię poznać.",
+    "ces": "Rád tě poznávám.",
+    "hun": "Örülök, hogy megismerhetlek.",
+    "tur": "Tanıştığımıza memnun oldum."
   },
   {
     "kor": "제 이름은 진우입니다.",
@@ -29,8 +35,10 @@
     "rus": "Меня зовут Чину.",
     "heb": "שמי ג'ינו.",
     "kaz": "Менің атым Джину.",
-    "spa": "Mi nombre es Jinu.",
     "ita": "Il mio nome è Jinu.",
+    "pol": "Mam na imię Jinu.",
+    "ces": "Jmenuji se Jinu.",
+    "hun": "A nevem Jinu.",
     "tur": "Benim adım Jinu."
   },
   {
@@ -41,8 +49,10 @@
     "rus": "Я из Южной Кореи.",
     "heb": "אני מקוריאה הדרומית.",
     "kaz": "Мен Оңтүстік Кореядан келдім.",
-    "spa": "Soy de Corea del Sur.",
     "ita": "Vengo dalla Corea del Sud.",
+    "pol": "Pochodzę z Korei Południowej.",
+    "ces": "Pocházím z Jižní Koreje.",
+    "hun": "Dél-Koreából származom.",
     "tur": "Güney Koreliyim."
   },
   {
@@ -53,8 +63,10 @@
     "rus": "Я живу в Сеуле.",
     "heb": "אני גר בסיאול.",
     "kaz": "Мен Сеулде тұрамын.",
-    "spa": "Vivo en Seúl.",
     "ita": "Vivo a Seul.",
+    "pol": "Mieszkam w Seulu.",
+    "ces": "Bydlím v Soulu.",
+    "hun": "Szöulban élek.",
     "tur": "Seul'de yaşıyorum."
   },
   {
@@ -65,8 +77,10 @@
     "rus": "Мне двадцать лет.",
     "heb": "אני בן עשרים.",
     "kaz": "Мен жиырма жастамын.",
-    "spa": "Tengo veinte años.",
     "ita": "Ho vent'anni.",
+    "pol": "Mam dwadzieścia lat.",
+    "ces": "Je mi dvacet let.",
+    "hun": "Húsz éves vagyok.",
     "tur": "Yirmi yaşındayım."
   },
   {
@@ -77,8 +91,10 @@
     "rus": "Я студент.",
     "heb": "אני סטודנט.",
     "kaz": "Мен студентпін.",
-    "spa": "Soy estudiante.",
     "ita": "Sono uno studente.",
+    "pol": "Jestem studentem.",
+    "ces": "Jsem student.",
+    "hun": "Egyetemista vagyok.",
     "tur": "Öğrenciyim."
   },
   {
@@ -89,8 +105,10 @@
     "rus": "Я офисный работник.",
     "heb": "אני עובד משרד.",
     "kaz": "Мен кеңсе қызметкерімін.",
-    "spa": "Soy oficinista.",
     "ita": "Sono un impiegato.",
+    "pol": "Jestem pracownikiem biurowym.",
+    "ces": "Jsem kancelářský pracovník.",
+    "hun": "Irodai dolgozó vagyok.",
     "tur": "Ofis çalışanıyım."
   },
   {
@@ -101,8 +119,10 @@
     "rus": "Я немного говорю по-английски.",
     "heb": "אני מדבר קצת אנגלית.",
     "kaz": "Мен ағылшынша аздап сөйлей аламын.",
-    "spa": "Hablo un poco de inglés.",
     "ita": "Parlo un po' di inglese.",
+    "pol": "Mówię trochę po angielsku.",
+    "ces": "Mluvím trochu anglicky.",
+    "hun": "Beszélek egy kicsit angolul.",
     "tur": "Biraz İngilizce konuşabiliyorum."
   },
   {
@@ -113,8 +133,10 @@
     "rus": "Я люблю готовить.",
     "heb": "התחביב שלי הוא לבשל.",
     "kaz": "Менің хоббиім — ас әзірлеу.",
-    "spa": "Mi pasatiempo es cocinar.",
     "ita": "Il mio hobby è cucinare.",
+    "pol": "Moim hobby jest gotowanie.",
+    "ces": "Mým koníčkem je vaření.",
+    "hun": "A hobbim a főzés.",
     "tur": "Hobim yemek yapmak."
   },
   {
@@ -125,8 +147,10 @@
     "rus": "Я люблю слушать музыку.",
     "heb": "אני אוהב להאזין למוזיקה.",
     "kaz": "Мен музыка тыңдағанды ұнатамын.",
-    "spa": "Me gusta escuchar música.",
     "ita": "Mi piace ascoltare la musica.",
+    "pol": "Lubię słuchać muzyki.",
+    "ces": "Rád poslouchám hudbu.",
+    "hun": "Szeretek zenét hallgatni.",
     "tur": "Müzik dinlemeyi severim."
   },
   {
@@ -137,8 +161,10 @@
     "rus": "Я живу один.",
     "heb": "אני גר(ה) לבד.",
     "kaz": "Мен жалғыз тұрамын.",
-    "spa": "Vivo solo.",
     "ita": "Vivo da solo.",
+    "pol": "Mieszkam sam.",
+    "ces": "Bydlím sám.",
+    "hun": "Egyedül élek.",
     "tur": "Yalnız yaşıyorum."
   },
   {
@@ -149,8 +175,10 @@
     "rus": "У меня есть брат.",
     "heb": "יש לי אח אחד.",
     "kaz": "Менің бір ағам бар.",
-    "spa": "Tengo un hermano.",
     "ita": "Ho un fratello.",
+    "pol": "Mam jednego brata.",
+    "ces": "Mám jednoho bratra.",
+    "hun": "Van egy fiútestvérem.",
     "tur": "Bir erkek kardeşim var."
   },
   {
@@ -161,8 +189,10 @@
     "rus": "У меня есть сестра.",
     "heb": "יש לי אחות אחת.",
     "kaz": "Менің бір әпкем бар.",
-    "spa": "Tengo una hermana.",
     "ita": "Ho una sorella.",
+    "pol": "Mam jedną siostrę.",
+    "ces": "Mám jednu sestru.",
+    "hun": "Van egy lánytestvérem.",
     "tur": "Bir kız kardeşim var."
   },
   {
@@ -173,8 +203,10 @@
     "rus": "У меня есть собака.",
     "heb": "יש לי כלב.",
     "kaz": "Менің итім бар.",
-    "spa": "Tengo un perro.",
     "ita": "Ho un cane.",
+    "pol": "Mam psa.",
+    "ces": "Mám psa.",
+    "hun": "Van egy kutyám.",
     "tur": "Bir köpeğim var."
   },
   {
@@ -185,8 +217,10 @@
     "rus": "Мой любимый цвет — синий.",
     "heb": "הצבע האהוב עלי הוא כחול.",
     "kaz": "Менің сүйікті түсім — көк.",
-    "spa": "Mi color favorito es el azul.",
     "ita": "Il mio colore preferito è il blu.",
+    "pol": "Mój ulubiony kolor to niebieski.",
+    "ces": "Moje oblíbená barva je modrá.",
+    "hun": "A kedvenc színem a kék.",
     "tur": "En sevdiğim renk mavidir."
   },
   {
@@ -197,8 +231,10 @@
     "rus": "Я занимаюсь спортом каждый день.",
     "heb": "אני מתעמל כל יום.",
     "kaz": "Мен күн сайын жаттығамын.",
-    "spa": "Hago ejercicio todos los días.",
     "ita": "Faccio esercizio ogni giorno.",
+    "pol": "Ćwiczę codziennie.",
+    "ces": "Každý den cvičím.",
+    "hun": "Minden nap edzek.",
     "tur": "Her gün egzersiz yaparım."
   },
   {
@@ -209,8 +245,10 @@
     "rus": "Рад(а) был(а) познакомиться.",
     "heb": "היה נעים להכיר אותך.",
     "kaz": "Сізбен танысқаныма қуанышты болдым.",
-    "spa": "Fue un gusto conocerte.",
     "ita": "È stato un piacere conoscerti.",
+    "pol": "Miło było cię poznać.",
+    "ces": "Rád jsem tě poznal.",
+    "hun": "Örülök, hogy megismertelek.",
     "tur": "Tanıştığımıza memnun oldum."
   },
   {
@@ -221,8 +259,10 @@
     "rus": "Хорошего дня.",
     "heb": "שיהיה לך יום נעים.",
     "kaz": "Күніңіз жақсы өтсін.",
-    "spa": "Que tengas un buen día.",
     "ita": "Buona giornata.",
+    "pol": "Miłego dnia.",
+    "ces": "Hezký den.",
+    "hun": "Legyen szép napod.",
     "tur": "İyi günler."
   },
   {
@@ -233,8 +273,10 @@
     "rus": "Я люблю смотреть фильмы.",
     "heb": "אני אוהב לצפות בסרטים.",
     "kaz": "Мен фильм көргенді ұнатамын.",
-    "spa": "Me gusta ver películas.",
     "ita": "Mi piace guardare film.",
+    "pol": "Lubię oglądać filmy.",
+    "ces": "Rád se dívám na filmy.",
+    "hun": "Szeretek filmeket nézni.",
     "tur": "Film izlemeyi severim."
   },
   {
@@ -244,7 +286,12 @@
     "deu": "Ich reise gerne.",
     "rus": "Я люблю путешествовать.",
     "heb": "אני אוהב לטייל.",
-    "kaz": "Мен саяхаттағанды жақсы көремін."
+    "kaz": "Мен саяхаттағанды жақсы көремін.",
+    "ita": "Adoro viaggiare.",
+    "pol": "Uwielbiam podróżować.",
+    "ces": "Miluji cestování.",
+    "hun": "Imádok utazni.",
+    "tur": "Seyahat etmeyi severim."
   },
   {
     "kor": "저는 매운 음식을 잘 못 먹습니다.",
@@ -253,7 +300,12 @@
     "deu": "Ich esse nicht gerne scharf.",
     "rus": "Я не очень хорошо ем острую пищу.",
     "heb": "אני לא אוכל אוכל חריף היטב.",
-    "kaz": "Мен ащы тамақты жақсы жей алмаймын."
+    "kaz": "Мен ащы тамақты жақсы жей алмаймын.",
+    "ita": "Non reggo molto il cibo piccante.",
+    "pol": "Nie radzę sobie z ostrym jedzeniem.",
+    "ces": "Moc nezvládám pálivé jídlo.",
+    "hun": "Nem bírom a csípős ételeket.",
+    "tur": "Acı yemekle aram pek iyi değildir."
   },
   {
     "kor": "주말에는 보통 쉽니다.",
@@ -262,7 +314,12 @@
     "deu": "Am Wochenende ruhe ich mich meistens aus.",
     "rus": "Обычно я отдыхаю по выходным.",
     "heb": "בדרך כלל אני נח בסופי שבוע.",
-    "kaz": "Демалыс күндері әдетте демаламын."
+    "kaz": "Демалыс күндері әдетте демаламын.",
+    "ita": "Di solito mi rilasso nel weekend.",
+    "pol": "Zazwyczaj odpoczywam w weekendy.",
+    "ces": "O víkendech obvykle odpočívám.",
+    "hun": "Hétvégente általában pihenek.",
+    "tur": "Hafta sonları genellikle dinlenirim."
   },
   {
     "kor": "저는 커피보다 차를 더 좋아합니다.",
@@ -271,7 +328,12 @@
     "deu": "Ich mag Tee lieber als Kaffee.",
     "rus": "Я предпочитаю чай кофе.",
     "heb": "אני מעדיף תה על קפה.",
-    "kaz": "Мен кофенің орнына шайды қалаймын."
+    "kaz": "Мен кофенің орнына шайды қалаймын.",
+    "ita": "Preferisco il tè al caffè.",
+    "pol": "Wolę herbatę od kawy.",
+    "ces": "Dávám přednost čaji před kávou.",
+    "hun": "Jobban szeretem a teát a kávénál.",
+    "tur": "Çayı kahveye tercih ederim."
   },
   {
     "kor": "나중에 또 봐요.",
@@ -280,6 +342,11 @@
     "deu": "Bis später.",
     "rus": "До встречи.",
     "heb": "נתראה אחר כך.",
-    "kaz": "Кейін кездескенше."
+    "kaz": "Кейін кездескенше.",
+    "ita": "Ci vediamo dopo.",
+    "pol": "Do zobaczenia później.",
+    "ces": "Uvidíme se později.",
+    "hun": "Viszlát később.",
+    "tur": "Sonra görüşürüz."
   }
 ]

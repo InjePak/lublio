@@ -6,7 +6,12 @@
     "deu": "Ich habe Hunger.",
     "rus": "Я хочу есть.",
     "heb": "אני רעב/ה.",
-    "kaz": "Менің қарным ашты."
+    "kaz": "Менің қарным ашты.",
+    "ita": "Ho fame.",
+    "pol": "Jestem głodny.",
+    "ces": "Mám hlad.",
+    "hun": "Éhes vagyok.",
+    "tur": "Açım."
   },
   {
     "kor": "목이 말라요.",
@@ -15,7 +20,12 @@
     "deu": "Ich habe Durst.",
     "rus": "Я хочу пить.",
     "heb": "אני צמא/ה.",
-    "kaz": "Менің шөлім бар."
+    "kaz": "Менің шөлім бар.",
+    "ita": "Ho sete.",
+    "pol": "Chce mi się pić.",
+    "ces": "Mám žízeň.",
+    "hun": "Szomjas vagyok.",
+    "tur": "Susadım."
   },
   {
     "kor": "예약을 하고 싶습니다.",
@@ -24,7 +34,12 @@
     "deu": "Ich möchte einen Tisch reservieren.",
     "rus": "Я хотел бы забронировать столик.",
     "heb": "הייתי רוצה להזמין שולחן.",
-    "kaz": "Мен үстелге тапсырыс бергім келеді."
+    "kaz": "Мен үстелге тапсырыс бергім келеді.",
+    "ita": "Vorrei prenotare un tavolo.",
+    "pol": "Chciałbym zarezerwować stolik.",
+    "ces": "Chtěl bych si rezervovat stůl.",
+    "hun": "Szeretnék asztalt foglalni.",
+    "tur": "Bir masa ayırtmak istiyorum."
   },
   {
     "kor": "두 명 자리가 있나요?",
@@ -33,7 +48,12 @@
     "deu": "Haben Sie einen Tisch für zwei Personen?",
     "rus": "У вас есть столик на двоих?",
     "heb": "יש לכם שולחן לשניים?",
-    "kaz": "Екі адамдық бос үстел бар ма?"
+    "kaz": "Екі адамдық бос үстел бар ма?",
+    "ita": "Avete un tavolo per due?",
+    "pol": "Czy mają państwo stolik dla dwóch osób?",
+    "ces": "Máte stůl pro dva?",
+    "hun": "Van asztaluk két főre?",
+    "tur": "İki kişilik masanız var mı?"
   },
   {
     "kor": "메뉴판 좀 보여주시겠어요?",
@@ -42,7 +62,12 @@
     "deu": "Könnte ich bitte die Speisekarte haben?",
     "rus": "Можно мне меню, пожалуйста?",
     "heb": "אפשר לראות את התפריט בבקשה?",
-    "kaz": "Мәзірді көруге бола ма?"
+    "kaz": "Мәзірді көруге бола ма?",
+    "ita": "Posso vedere il menù, per favore?",
+    "pol": "Czy mogę prosić o menu?",
+    "ces": "Mohl byste mi prosím ukázat jídelní lístek?",
+    "hun": "Megkaphatnám az étlapot?",
+    "tur": "Menüyü görebilir miyim lütfen?"
   },
   {
     "kor": "주문하시겠습니까?",
@@ -51,7 +76,12 @@
     "deu": "Möchten Sie bestellen?",
     "rus": "Вы готовы сделать заказ?",
     "heb": "אתם מוכנים להזמין?",
-    "kaz": "Тапсырыс беруге дайынсыз ба?"
+    "kaz": "Тапсырыс беруге дайынсыз ба?",
+    "ita": "Siete pronti per ordinare?",
+    "pol": "Czy są państwo gotowi, żeby zamówić?",
+    "ces": "Máte vybráno?",
+    "hun": "Sikerült választani?",
+    "tur": "Sipariş vermek için hazır mısınız?"
   },
   {
     "kor": "물 한 병 주세요.",
@@ -60,7 +90,12 @@
     "deu": "Eine Flasche Wasser, bitte.",
     "rus": "Бутылку воды, пожалуйста.",
     "heb": "בקבוק מים בבקשה.",
-    "kaz": "Бір бөтелке су беріңізші."
+    "kaz": "Бір бөтелке су беріңізші.",
+    "ita": "Una bottiglia d'acqua, per favore.",
+    "pol": "Poproszę butelkę wody.",
+    "ces": "Láhev vody, prosím.",
+    "hun": "Egy üveg vizet kérek.",
+    "tur": "Bir şişe su lütfen."
   },
   {
     "kor": "저는 피쉬 앤 칩스를 먹겠습니다.",
@@ -69,7 +104,12 @@
     "deu": "Ich nehme Fish and Chips.",
     "rus": "Я возьму рыбу и картофель фри.",
     "heb": "אני אקח פיש אנד צ'יפס.",
-    "kaz": "Мен фиш-энд-чипс аламын."
+    "kaz": "Мен фиш-энд-чипс аламын.",
+    "ita": "Prendo il fish and chips.",
+    "pol": "Poproszę rybę z frytkami.",
+    "ces": "Dám si rybu s hranolkami.",
+    "hun": "Fish and chips-et kérek.",
+    "tur": "Fish and chips alayım."
   },
   {
     "kor": "오늘의 수프는 무엇인가요?",
@@ -78,7 +118,12 @@
     "deu": "Was ist die heutige Suppe?",
     "rus": "Что сегодня на суп?",
     "heb": "מהו מרק היום?",
-    "kaz": "Күннің сорпасы қандай?"
+    "kaz": "Күннің сорпасы қандай?",
+    "ita": "Qual è la zuppa del giorno?",
+    "pol": "Jaka jest dzisiaj zupa dnia?",
+    "ces": "Jaká je dnešní polévka?",
+    "hun": "Mi a mai napileves?",
+    "tur": "Günün çorbası nedir?"
   },
   {
     "kor": "저는 채식주의자입니다.",
@@ -87,7 +132,12 @@
     "deu": "Ich bin Vegetarier / Vegetarierin.",
     "rus": "Я вегетарианец.",
     "heb": "אני צמחוני/ת.",
-    "kaz": "Мен вегетарианмын."
+    "kaz": "Мен вегетарианмын.",
+    "ita": "Sono vegetariano.",
+    "pol": "Jestem wegetarianinem.",
+    "ces": "Jsem vegetarián.",
+    "hun": "Vegetáriánus vagyok.",
+    "tur": "Vejetaryenim."
   },
   {
     "kor": "매운 음식인가요?",
@@ -96,7 +146,12 @@
     "deu": "Ist das scharf?",
     "rus": "Это острое блюдо?",
     "heb": "זה חריף?",
-    "kaz": "Бұл ащы ма?"
+    "kaz": "Бұл ащы ма?",
+    "ita": "È piccante?",
+    "pol": "Czy to jest ostre?",
+    "ces": "Je to pálivé?",
+    "hun": "Ez csípős?",
+    "tur": "Bu acı mı?"
   },
   {
     "kor": "소금 좀 건네주시겠어요?",
@@ -105,7 +160,12 @@
     "deu": "Können Sie mir bitte das Salz reichen?",
     "rus": "Передайте, пожалуйста, соль.",
     "heb": "אפשר להעביר לי את המלח בבקשה?",
-    "kaz": "Тұзды беріп жібересіз бе?"
+    "kaz": "Тұзды беріп жібересіз бе?",
+    "ita": "Mi passeresti il sale, per favore?",
+    "pol": "Czy możesz podać mi sól?",
+    "ces": "Mohl byste mi podat sůl, prosím?",
+    "hun": "Ideadnád a sót, kérlek?",
+    "tur": "Tuzu uzatabilir misiniz lütfen?"
   },
   {
     "kor": "아침 식사는 몇 시에 하나요?",
@@ -114,7 +174,12 @@
     "deu": "Wann gibt es Frühstück?",
     "rus": "Во сколько завтрак?",
     "heb": "באיזו שעה ארוחת הבוקר?",
-    "kaz": "Таңғы ас сағат нешеде болады?"
+    "kaz": "Таңғы ас сағат нешеде болады?",
+    "ita": "A che ora è la colazione?",
+    "pol": "O której godzinie jest śniadanie?",
+    "ces": "V kolik hodin je snídaně?",
+    "hun": "Hánykor van a reggeli?",
+    "tur": "Kahvaltı saat kaçta?"
   },
   {
     "kor": "맛있게 드세요!",
@@ -123,7 +188,12 @@
     "deu": "Guten Appetit!",
     "rus": "Приятного аппетита!",
     "heb": "בתיאבון!",
-    "kaz": "Астарыңыз дәмді болсын!"
+    "kaz": "Астарыңыз дәмді болсын!",
+    "ita": "Buon appetito!",
+    "pol": "Smacznego!",
+    "ces": "Dobrou chuť!",
+    "hun": "Jó étvágyat!",
+    "tur": "Afiyet olsun!"
   },
   {
     "kor": "정말 맛있어요.",
@@ -132,7 +202,12 @@
     "deu": "Das ist sehr lecker.",
     "rus": "Это очень вкусно.",
     "heb": "זה טעים מאוד.",
-    "kaz": "Өте дәмді."
+    "kaz": "Өте дәмді.",
+    "ita": "È molto buono.",
+    "pol": "To jest bardzo smaczne.",
+    "ces": "Je to moc dobré.",
+    "hun": "Nagyon finom.",
+    "tur": "Çok lezzetli."
   },
   {
     "kor": "우유를 넣은 차 한 잔 주세요.",
@@ -141,7 +216,12 @@
     "deu": "Eine Tasse Tee mit Milch, bitte.",
     "rus": "Чашку чая с молоком, пожалуйста.",
     "heb": "כוס תה עם חלב בבקשה.",
-    "kaz": "Сүт қосылған бір шыны шай беріңізші."
+    "kaz": "Сүт қосылған бір шыны шай беріңізші.",
+    "ita": "Un tè con latte, per favore.",
+    "pol": "Poproszę herbatę z mlekiem.",
+    "ces": "Čaj s mlékem, prosím.",
+    "hun": "Egy tejes teát kérek.",
+    "tur": "Sütlü bir çay lütfen."
   },
   {
     "kor": "설탕은 넣지 마세요.",
@@ -150,7 +230,12 @@
     "deu": "Ohne Zucker, bitte.",
     "rus": "Без сахара, пожалуйста.",
     "heb": "בלי סוכר בבקשה.",
-    "kaz": "Қант қоспаңызшы."
+    "kaz": "Қант қоспаңызшы.",
+    "ita": "Senza zucchero, per favore.",
+    "pol": "Bez cukru, proszę.",
+    "ces": "Bez cukru, prosím.",
+    "hun": "Cukor nélkül kérem.",
+    "tur": "Şekersiz olsun lütfen."
   },
   {
     "kor": "포크를 떨어뜨렸어요.",
@@ -159,7 +244,12 @@
     "deu": "Ich habe meine Gabel fallen lassen.",
     "rus": "Я уронил вилку.",
     "heb": "נפל לי המזלג.",
-    "kaz": "Шанышқымды түсіріп алдым."
+    "kaz": "Шанышқымды түсіріп алдым.",
+    "ita": "Mi è caduta la forchetta.",
+    "pol": "Upuściłem widelec.",
+    "ces": "Upadla mi vidlička.",
+    "hun": "Leejtettem a villámat.",
+    "tur": "Çatalımı düşürdüm."
   },
   {
     "kor": "이 요리는 너무 짭니다.",
@@ -168,7 +258,12 @@
     "deu": "Dieses Gericht ist zu salzig.",
     "rus": "Это блюдо слишком соленое.",
     "heb": "המנה הזו מלוחה מדי.",
-    "kaz": "Бұл тағам тым тұзды."
+    "kaz": "Бұл тағам тым тұзды.",
+    "ita": "Questo piatto è troppo salato.",
+    "pol": "To danie jest za słone.",
+    "ces": "To jídlo je příliš slané.",
+    "hun": "Ez az étel túl sós.",
+    "tur": "Bu yemek çok tuzlu."
   },
   {
     "kor": "디저트 메뉴가 있나요?",
@@ -177,7 +272,12 @@
     "deu": "Gibt es eine Dessertkarte?",
     "rus": "У вас есть десертное меню?",
     "heb": "יש תפריט קינוחים?",
-    "kaz": "Десерт мәзірі бар ма?"
+    "kaz": "Десерт мәзірі бар ма?",
+    "ita": "C'è un menù dei dolci?",
+    "pol": "Czy jest karta deserów?",
+    "ces": "Máte lístek s dezerty?",
+    "hun": "Van desszertlap?",
+    "tur": "Tatlı menüsü var mı?"
   },
   {
     "kor": "계산서 좀 주시겠어요?",
@@ -186,7 +286,12 @@
     "deu": "Die Rechnung, bitte.",
     "rus": "Можно счет, пожалуйста?",
     "heb": "אפשר לקבל את החשבון בבקשה?",
-    "kaz": "Шотты бересіз бе?"
+    "kaz": "Шотты бересіз бе?",
+    "ita": "Il conto, per favore.",
+    "pol": "Poproszę o rachunek.",
+    "ces": "Účet, prosím.",
+    "hun": "A számlát kérem.",
+    "tur": "Hesabı alabilir miyim lütfen?"
   },
   {
     "kor": "카드로 결제할 수 있나요?",
@@ -195,7 +300,12 @@
     "deu": "Kann ich mit Karte zahlen?",
     "rus": "Можно ли оплатить картой?",
     "heb": "אפשר לשלם בכרטיס אשראי?",
-    "kaz": "Картамен төлеуге бола ма?"
+    "kaz": "Картамен төлеуге бола ма?",
+    "ita": "Posso pagare con la carta?",
+    "pol": "Czy mogę zapłacić kartą?",
+    "ces": "Můžu platit kartou?",
+    "hun": "Fizethetek kártyával?",
+    "tur": "Kartla ödeyebilir miyim?"
   },
   {
     "kor": "현금으로 계산할게요.",
@@ -204,7 +314,12 @@
     "deu": "Ich bezahle bar.",
     "rus": "Я заплачу наличными.",
     "heb": "אני אשלם במזומן.",
-    "kaz": "Қолма-қол ақшамен төлеймін."
+    "kaz": "Қолма-қол ақшамен төлеймін.",
+    "ita": "Pago in contanti.",
+    "pol": "Zapłacę gotówką.",
+    "ces": "Zaplatím hotově.",
+    "hun": "Készpénzzel fizetek.",
+    "tur": "Nakit ödeyeceğim."
   },
   {
     "kor": "남은 음식을 포장해 주시겠어요?",
@@ -213,7 +328,12 @@
     "deu": "Kann ich das bitte mitnehmen?",
     "rus": "Можно мне упаковать остатки с собой?",
     "heb": "אפשר לארוז לי את מה שנשאר?",
-    "kaz": "Қалған тамақты салып бересіз бе?"
+    "kaz": "Қалған тамақты салып бересіз бе?",
+    "ita": "Potrei avere un contenitore per gli avanzi?",
+    "pol": "Czy mogę prosić o zapakowanie resztek?",
+    "ces": "Mohl bych si to nechat zabalit s sebou?",
+    "hun": "Elvihetném a maradékot?",
+    "tur": "Kalanları paket yapabilir misiniz?"
   },
   {
     "kor": "거스름돈은 가지세요.",
@@ -222,6 +342,11 @@
     "deu": "Stimmt so.",
     "rus": "Сдачи не надо.",
     "heb": "שמור את העודף.",
-    "kaz": "Қайтарым ақшасы керек емес."
+    "kaz": "Қайтарым ақшасы керек емес.",
+    "ita": "Tenga pure il resto.",
+    "pol": "Reszty nie trzeba.",
+    "ces": "To je dobré.",
+    "hun": "Tartsa meg az aprót.",
+    "tur": "Üstü kalsın."
   }
 ]

@@ -6,7 +6,12 @@
     "deu": "Was ist der schnellste Weg ins Stadtzentrum?",
     "rus": "Как быстрее всего добраться до центра города?",
     "heb": "מהי הדרך המהירה ביותר להגיע למרכז העיר?",
-    "kaz": "Қала орталығына барудың ең жылдам жолы қандай?"
+    "kaz": "Қала орталығына барудың ең жылдам жолы қандай?",
+    "ita": "Qual è il modo più veloce per arrivare in centro?",
+    "pol": "Jaki jest najszybszy sposób, aby dostać się do centrum miasta?",
+    "ces": "Jaká je nejrychlejší cesta do centra města?",
+    "hun": "Mi a leggyorsabb módja annak, hogy bejussunk a városközpontba?",
+    "tur": "Şehir merkezine gitmenin en hızlı yolu nedir?"
   },
   {
     "kor": "런던행 왕복 티켓 한 장 주세요.",
@@ -15,7 +20,12 @@
     "deu": "Eine Rückfahrkarte nach London, bitte.",
     "rus": "Один билет до Лондона и обратно, пожалуйста.",
     "heb": "כרטיס הלוך ושוב ללונדון, בבקשה.",
-    "kaz": "Лондонға дейін барып-қайту билетін беріңізші."
+    "kaz": "Лондонға дейін барып-қайту билетін беріңізші.",
+    "ita": "Un biglietto di andata e ritorno per Londra, per favore.",
+    "pol": "Poproszę bilet powrotny do Londynu.",
+    "ces": "Jeden zpáteční lístek do Londýna, prosím.",
+    "hun": "Egy retúrjegyet kérek Londonba.",
+    "tur": "Londra'ya bir gidiş-dönüş bileti lütfen."
   },
   {
     "kor": "다음 버스는 10분 후에 도착합니다.",
@@ -24,7 +34,12 @@
     "deu": "Der nächste Bus kommt in zehn Minuten an.",
     "rus": "Следующий автобус приедет через десять минут.",
     "heb": "האוטובוס הבא מגיע בעוד עשר דקות.",
-    "kaz": "Келесі автобус 10 минуттан кейін келеді."
+    "kaz": "Келесі автобус 10 минуттан кейін келеді.",
+    "ita": "Il prossimo autobus arriva tra dieci minuti.",
+    "pol": "Następny autobus przyjedzie za dziesięć minut.",
+    "ces": "Příští autobus přijede za deset minut.",
+    "hun": "A következő busz tíz perc múlva érkezik.",
+    "tur": "Bir sonraki otobüs on dakika içinde geliyor."
   },
   {
     "kor": "기차역에 가려면 어디서 내려야 하나요?",
@@ -33,7 +48,12 @@
     "deu": "Wo muss ich aussteigen, um zum Bahnhof zu kommen?",
     "rus": "На какой остановке мне выйти, чтобы попасть на вокзал?",
     "heb": "איפה כדאי לי לרדת כדי להגיע לתחנת הרכבת?",
-    "kaz": "Теміржол вокзалына бару үшін қай жерден түсуім керек?"
+    "kaz": "Теміржол вокзалына бару үшін қай жерден түсуім керек?",
+    "ita": "Dove devo scendere per la stazione ferroviaria?",
+    "pol": "Gdzie powinienem wysiąść, żeby dojść do dworca kolejowego?",
+    "ces": "Kde mám vystoupit, abych se dostal na nádraží?",
+    "hun": "Hol kell leszállnom a vasútállomáshoz?",
+    "tur": "Tren istasyonu için nerede inmeliyim?"
   },
   {
     "kor": "여기서 차를 빌릴 수 있나요?",
@@ -42,7 +62,12 @@
     "deu": "Ist es möglich, hier ein Auto zu mieten?",
     "rus": "Можно ли здесь взять машину напрокат?",
     "heb": "האם אפשר לשכור כאן רכב?",
-    "kaz": "Осы жерден көлік жалдауға бола ма?"
+    "kaz": "Осы жерден көлік жалдауға бола ма?",
+    "ita": "È possibile noleggiare un'auto qui?",
+    "pol": "Czy można tutaj wypożyczyć samochód?",
+    "ces": "Dá se tady půjčit auto?",
+    "hun": "Lehet itt autót bérelni?",
+    "tur": "Burada araba kiralamak mümkün mü?"
   },
   {
     "kor": "교통 체증 때문에 늦었습니다.",
@@ -51,7 +76,12 @@
     "deu": "Ich bin wegen des Staus zu spät.",
     "rus": "Я опоздал из-за пробки.",
     "heb": "איחרתי בגלל פקק תנועה.",
-    "kaz": "Кептеліске байланысты кешігіп қалдым."
+    "kaz": "Кептеліске байланысты кешігіп қалдым.",
+    "ita": "Sono in ritardo a causa del traffico.",
+    "pol": "Spóźniłem się przez korki.",
+    "ces": "Jdu pozdě kvůli dopravní zácpě.",
+    "hun": "Késtem a forgalmi dugó miatt.",
+    "tur": "Trafik sıkışıklığı yüzünden geciktim."
   },
   {
     "kor": "박물관까지 가려면 버스를 갈아타야 하나요?",
@@ -60,7 +90,12 @@
     "deu": "Muss ich den Bus wechseln, um zum Museum zu kommen?",
     "rus": "Нужно ли мне делать пересадку, чтобы доехать до музея?",
     "heb": "האם אני צריך להחליף אוטובוסים כדי להגיע למוזיאון?",
-    "kaz": "Мұражайға бару үшін автобус ауыстыруым керек пе?"
+    "kaz": "Мұражайға бару үшін автобус ауыстыруым керек пе?",
+    "ita": "Devo cambiare autobus per andare al museo?",
+    "pol": "Czy muszę się przesiadać, żeby dojechać do muzeum?",
+    "ces": "Musím přestupovat, abych se dostal k muzeu?",
+    "hun": "Át kell szállnom másik buszra a múzeumhoz?",
+    "tur": "Müzeye gitmek için otobüs değiştirmem gerekiyor mu?"
   },
   {
     "kor": "기차가 정시에 출발하나요?",
@@ -69,7 +104,12 @@
     "deu": "Fährt der Zug pünktlich ab?",
     "rus": "Поезд отправляется вовремя?",
     "heb": "האם הרכבת יוצאת בזמן?",
-    "kaz": "Пойыз уақытында жүре ме?"
+    "kaz": "Пойыз уақытында жүре ме?",
+    "ita": "Il treno parte in orario?",
+    "pol": "Czy pociąg odjeżdża punktualnie?",
+    "ces": "Odjíždí ten vlak včas?",
+    "hun": "Pontosan indul a vonat?",
+    "tur": "Tren zamanında kalkıyor mu?"
   },
   {
     "kor": "공항까지 택시비가 얼마나 나오나요?",
@@ -78,7 +118,12 @@
     "deu": "Wie viel kostet die Taxifahrt zum Flughafen?",
     "rus": "Сколько стоит проезд на такси до аэропорта?",
     "heb": "כמה עולה נסיעה במונית לשדה התעופה?",
-    "kaz": "Әуежайға дейін такси құны қанша болады?"
+    "kaz": "Әуежайға дейін такси құны қанша болады?",
+    "ita": "Quanto costa la corsa in taxi fino all'aeroporto?",
+    "pol": "Ile kosztuje przejazd taksówką na lotnisko?",
+    "ces": "Kolik stojí taxi na letiště?",
+    "hun": "Mennyibe kerül a taxi az airportra?",
+    "tur": "Havalimanına taksi ücreti ne kadar tutar?"
   },
   {
     "kor": "저는 보통 자전거를 타고 출근합니다.",
@@ -87,7 +132,12 @@
     "deu": "Ich fahre normalerweise mit dem Fahrrad zur Arbeit.",
     "rus": "Обычно я езжу на работу на велосипеде.",
     "heb": "אני בדרך כלל רוכב על אופניים לעבודה.",
-    "kaz": "Мен әдетте жұмысқа велосипедпен барамын."
+    "kaz": "Мен әдетте жұмысқа велосипедпен барамын.",
+    "ita": "Di solito vado al lavoro in bicicletta.",
+    "pol": "Zazwyczaj jeżdżę do pracy rowerem.",
+    "ces": "Do práce obvykle jezdím na kole.",
+    "hun": "Általában biciklivel járok dolgozni.",
+    "tur": "İşe genellikle bisikletle giderim."
   },
   {
     "kor": "이 티켓으로 지하철을 탈 수 있나요?",
@@ -96,7 +146,12 @@
     "deu": "Kann ich diese Fahrkarte für die U-Bahn benutzen?",
     "rus": "Можно ли по этому билету проехать в метро?",
     "heb": "האם אני יכול להשתמש בכרטיס הזה לרכבת התחתית?",
-    "kaz": "Бұл билетпен метроға мінуге бола ма?"
+    "kaz": "Бұл билетпен метроға мінуге бола ма?",
+    "ita": "Posso usare questo biglietto per la metropolitana?",
+    "pol": "Czy mogę użyć tego biletu w metrze?",
+    "ces": "Můžu tenhle lístek použít na metro?",
+    "hun": "Használhatom ezt a jegyet a metróhoz?",
+    "tur": "Bu bileti metro için kullanabilir miyim?"
   },
   {
     "kor": "가장 가까운 주유소가 어디인가요?",
@@ -105,7 +160,12 @@
     "deu": "Wo ist die nächste Tankstelle?",
     "rus": "Где находится ближайшая заправка?",
     "heb": "איפה תחנת הדלק הקרובה ביותר?",
-    "kaz": "Ең жақын жанармай бекеті қай жерде?"
+    "kaz": "Ең жақын жанармай бекеті қай жерде?",
+    "ita": "Dov'è la stazione di servizio più vicina?",
+    "pol": "Gdzie jest najbliższa stacja benzynowa?",
+    "ces": "Kde je nejbližší čerpací stanice?",
+    "hun": "Hol van a legközelebbi benzinkút?",
+    "tur": "En yakın benzin istasyonu nerede?"
   },
   {
     "kor": "기차 안에서 음식을 먹어도 되나요?",
@@ -114,7 +174,12 @@
     "deu": "Darf man im Zug essen?",
     "rus": "Можно ли есть в поезде?",
     "heb": "האם מותר לאכול ברכבת?",
-    "kaz": "Пойызда тамақ ішуге рұқсат па?"
+    "kaz": "Пойызда тамақ ішуге рұқсат па?",
+    "ita": "È permesso mangiare sul treno?",
+    "pol": "Czy w pociągu wolno jeść?",
+    "ces": "Může se ve vlaku jíst?",
+    "hun": "Szabad enni a vonaton?",
+    "tur": "Trende yemek yiyebilir miyiz?"
   },
   {
     "kor": "막차를 놓쳤습니다.",
@@ -123,7 +188,12 @@
     "deu": "Ich habe den letzten Zug verpasst.",
     "rus": "Я опоздал на последний поезд.",
     "heb": "פספסתי את הרכבת האחרונה.",
-    "kaz": "Соңғы пойызды жіберіп алдым."
+    "kaz": "Соңғы пойызды жіберіп алдым.",
+    "ita": "Ho perso l'ultimo treno.",
+    "pol": "Uciekł mi ostatni pociąg.",
+    "ces": "Ujel mi poslední vlak.",
+    "hun": "Lekéstem az utolsó vonatot.",
+    "tur": "Son treni kaçırdım."
   },
   {
     "kor": "비행기 체크인 카운터는 어디인가요?",
@@ -132,7 +202,12 @@
     "deu": "Wo ist der Check-in-Schalter für den Flug?",
     "rus": "Где находится стойка регистрации на рейс?",
     "heb": "איפה דלפק הצ'ק-אין לטיסה?",
-    "kaz": "Рейске тіркеу орны қай жерде?"
+    "kaz": "Рейске тіркеу орны қай жерде?",
+    "ita": "Dov'è il banco del check-in per il volo?",
+    "pol": "Gdzie jest stanowisko odprawy na ten lot?",
+    "ces": "Kde je odbavovací přepážka pro tento let?",
+    "hun": "Hol van a járathoz a check-in pult?",
+    "tur": "Uçuş için check-in masası nerede?"
   },
   {
     "kor": "어디서 택시를 잡을 수 있나요?",
@@ -141,7 +216,12 @@
     "deu": "Wo kann ich ein Taxi nehmen?",
     "rus": "Где я могу поймать такси?",
     "heb": "איפה אני יכול לתפוס מונית?",
-    "kaz": "Таксиді қай жерден ұстауға болады?"
+    "kaz": "Таксиді қай жерден ұстауға болады?",
+    "ita": "Dove posso prendere un taxi?",
+    "pol": "Gdzie mogę złapać taksówkę?",
+    "ces": "Kde si můžu vzít taxi?",
+    "hun": "Hol tudok taxit fogni?",
+    "tur": "Nereden taksi tutabilirim?"
   },
   {
     "kor": "이 버스는 매 15분마다 운행됩니다.",
@@ -150,7 +230,12 @@
     "deu": "Dieser Bus fährt alle fünfzehn Minuten.",
     "rus": "Этот автобус ходит каждые пятнадцать минут.",
     "heb": "האוטובוס הזה פועל כל רבע שעה.",
-    "kaz": "Бұл автобус әр 15 минут сайын жүреді."
+    "kaz": "Бұл автобус әр 15 минут сайын жүреді.",
+    "ita": "Questo autobus passa ogni quindici minuti.",
+    "pol": "Ten autobus kursuje co piętnaście minut.",
+    "ces": "Tento autobus jezdí každých patnáct minut.",
+    "hun": "Ez a busz tizenöt percenként jár.",
+    "tur": "Bu otobüs her on beş dakikada bir kalkıyor."
   },
   {
     "kor": "길을 건널 때 조심하세요.",
@@ -159,7 +244,12 @@
     "deu": "Sei vorsichtig, wenn du die Straße überquerst.",
     "rus": "Будьте осторожны при переходе дороги.",
     "heb": "היה זהיר כשאתה חוצה את הכביש.",
-    "kaz": "Жолдан өткенде абай болыңыз."
+    "kaz": "Жолдан өткенде абай болыңыз.",
+    "ita": "Fai attenzione quando attraversi la strada.",
+    "pol": "Uważaj, kiedy przechodzisz przez jezdnię.",
+    "ces": "Dávej pozor, když přecházíš silnici.",
+    "hun": "Légy óvatos, amikor átmész az úton!",
+    "tur": "Karşıdan karşıya geçerken dikkatli ol."
   },
   {
     "kor": "항상 안전벨트를 매야 합니다.",
@@ -168,7 +258,12 @@
     "deu": "Sie müssen sich immer anschnallen.",
     "rus": "Вы всегда должны пристегиваться ремнем безопасности.",
     "heb": "חובה תמיד לחגור חגורת בטיחות.",
-    "kaz": "Әрқашан қауіпсіздік белдігін тағу керек."
+    "kaz": "Әрқашан қауіпсіздік белдігін тағу керек.",
+    "ita": "Bisogna sempre allacciare le cinture di sicurezza.",
+    "pol": "Zawsze należy zapinać pasy bezpieczeństwa.",
+    "ces": "Vždycky se musíte připoutat.",
+    "hun": "Mindig be kell kötni a biztonsági övet.",
+    "tur": "Emniyet kemerini her zaman takmalısınız."
   },
   {
     "kor": "기차가 사고 때문에 지연되었습니다.",
@@ -177,7 +272,12 @@
     "deu": "Der Zug hat wegen eines Unfalls Verspätung.",
     "rus": "Поезд задерживается из-за аварии.",
     "heb": "הרכבת מתעכבת בגלל תאונה.",
-    "kaz": "Пойыз апатқа байланысты кешігіп жатыр."
+    "kaz": "Пойыз апатқа байланысты кешігіп жатыр.",
+    "ita": "Il treno è in ritardo a causa di un incidente.",
+    "pol": "Pociąg jest opóźniony z powodu wypadku.",
+    "ces": "Vlak má zpoždění kvůli nehodě.",
+    "hun": "Baleset miatt késik a vonat.",
+    "tur": "Tren kaza nedeniyle gecikti."
   },
   {
     "kor": "이 근처에 주차할 곳이 있나요?",
@@ -186,7 +286,12 @@
     "deu": "Gibt es hier in der Nähe eine Parkmöglichkeit?",
     "rus": "Здесь есть где-нибудь поблизости парковка?",
     "heb": "האם יש מקום לחנות בקרבת מקום?",
-    "kaz": "Осы маңда тұрақ бар ма?"
+    "kaz": "Осы маңда тұрақ бар ма?",
+    "ita": "C'è un posto dove parcheggiare qui vicino?",
+    "pol": "Czy jest tutaj w pobliżu jakieś miejsce do parkowania?",
+    "ces": "Dá se tady někde poblíž zaparkovat?",
+    "hun": "Van a közelben valahol parkolóhely?",
+    "tur": "Buralarda park edecek bir yer var mı?"
   },
   {
     "kor": "여기는 일방통행 도로입니다.",
@@ -195,7 +300,12 @@
     "deu": "Dies ist eine Einbahnstraße.",
     "rus": "Это улица с односторонним движением.",
     "heb": "זהו רחוב חד-סטרי.",
-    "kaz": "Бұл — біржақты қозғалыс көшесі."
+    "kaz": "Бұл — біржақты қозғалыс көшесі.",
+    "ita": "Questa è una strada a senso unico.",
+    "pol": "To jest ulica jednokierunkowa.",
+    "ces": "Tohle je jednosměrka.",
+    "hun": "Ez egyirányú utca.",
+    "tur": "Burası tek yönlü bir sokak."
   },
   {
     "kor": "오이스터 카드(교통카드)를 충전해야 합니다.",
@@ -204,7 +314,12 @@
     "deu": "Ich muss meine Fahrkarte aufladen.",
     "rus": "Мне нужно пополнить транспортную карту.",
     "heb": "אני צריך להטעין את כרטיס הנסיעה שלי.",
-    "kaz": "Көлік картасын толтыруым керек."
+    "kaz": "Көлік картасын толтыруым керек.",
+    "ita": "Devo ricaricare la mia tessera dei trasporti.",
+    "pol": "Muszę doładować moją kartę miejską.",
+    "ces": "Musím si dobít kartu na dopravu.",
+    "hun": "Fel kell töltenem az utazási kártyámat.",
+    "tur": "Ulaşım kartıma para yüklemem gerekiyor."
   },
   {
     "kor": "버스 정류장에서 사람들이 줄을 서 있습니다.",
@@ -213,7 +328,12 @@
     "deu": "Die Leute stehen an der Bushaltestelle Schlange.",
     "rus": "Люди стоят в очереди на автобусной остановке.",
     "heb": "אנשים מחכים בתור בתחנת האוטובוס.",
-    "kaz": "Автобус аялдамасында адамдар кезекте тұр."
+    "kaz": "Автобус аялдамасында адамдар кезекте тұр.",
+    "ita": "C'è fila di persone alla fermata dell'autobus.",
+    "pol": "Ludzie stoją w kolejce na przystanku autobusowym.",
+    "ces": "Lidé stojí ve frontě na autobusové zastávce.",
+    "hun": "Az emberek sorban állnak a buszmegállóban.",
+    "tur": "Otobüs durağında insanlar kuyrukta bekliyor."
   },
   {
     "kor": "목적지까지 얼마나 걸리나요?",
@@ -222,6 +342,11 @@
     "deu": "Wie lange dauert es bis zum Ziel?",
     "rus": "Сколько времени займет дорога до пункта назначения?",
     "heb": "כמה זמן לוקח להגיע ליעד?",
-    "kaz": "Межелі жерге дейін қанша уақыт кетеді?"
+    "kaz": "Межелі жерге дейін қанша уақыт кетеді?",
+    "ita": "Quanto tempo ci vuole per arrivare a destinazione?",
+    "pol": "Ile czasu zajmuje dojazd do celu?",
+    "ces": "Jak dlouho trvá cesta do cíle?",
+    "hun": "Mennyi időbe telik, mire odaérünk?",
+    "tur": "Varış noktasına ulaşmak ne kadar sürer?"
   }
 ]

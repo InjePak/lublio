@@ -1,0 +1,195 @@
+---
+import BaseLayout from "../../../../layouts/BaseLayout.astro";
+import BoxMarkdown from "../../../../components/BoxMarkdown.astro";
+
+// Title
+const pageTitle = "카자흐어 알파벳";
+
+import TableHorizontal from "../../../../components/TableHorizontal.astro";
+import TableVertical from "../../../../components/TableVertical.astro";
+import TableMatrix from "../../../../components/TableMatrix.astro";
+
+const kazakhAlphabet = {
+  알파벳: [
+    "А а",
+    "Ә ә",
+    "Б б",
+    "В в",
+    "Г г",
+    "Ғ ғ",
+    "Д д",
+    "Е е",
+    "Ё ё",
+    "Ж ж",
+    "З з",
+    "И и",
+    "Й й",
+    "К к",
+    "Қ қ",
+    "Л л",
+    "М м",
+    "Н н",
+    "Ң ң",
+    "О о",
+    "Ө ө",
+    "П п",
+    "Р р",
+    "С с",
+    "Т т",
+    "У у",
+    "Ұ ұ",
+    "Ү ү",
+    "Ф ф",
+    "Х х",
+    "Һ һ",
+    "Ц ц",
+    "Ч ч",
+    "Ш ш",
+    "Щ щ",
+    "Ъ ъ",
+    "Ы ы",
+    "І і",
+    "Ь ь",
+    "Э э",
+    "Ю ю",
+    "Я я",
+  ],
+  발음: [
+    "[a]", // А
+    "[æ]", // Ә
+    "[b]", // Б
+    "[v]", // В
+    "[ɡ]", // Г
+    "[ɣ]", // Ғ
+    "[d]", // Д
+    "[je] / [e]", // Е
+    "[jo]", // Ё
+    "[ʒ]", // Ж
+    "[z]", // З
+    "[ɪj]", // И
+    "[j]", // Й
+    "[k]", // К
+    "[q]", // Қ
+    "[l]", // Л
+    "[m]", // М
+    "[n]", // Н
+    "[ŋ]", // Ң
+    "[o]", // О
+    "[ø]", // Ө
+    "[p]", // П
+    "[r]", // Р
+    "[s]", // С
+    "[t]", // Т
+    "[uw]", // У
+    "[ɯ]", // Ұ
+    "[ʉ]", // Ү
+    "[f]", // Ф
+    "[x]", // Х
+    "[h]", // Һ
+    "[ts]", // Ц
+    "[tʃ]", // Ч
+    "[ʃ]", // Ш
+    "[ʃtʃ]", // Щ
+    "[-]", // Ъ (경자음 표시, 무음)
+    "[ɯ]", // Ы
+    "[ɪ]", // І
+    "[-]", // Ь (연자음 표시, 무음)
+    "[e]", // Э
+    "[ju]", // Ю
+    "[ja]", // Я
+  ],
+  예시: [
+    "Ата (아버지)",
+    "Әке (아빠)",
+    "Бала (아이)",
+    "Вагон (객차)",
+    "Гүл (꽃)",
+    "Ғарыш (우주)",
+    "Дос (친구)",
+    "Ел (나라)",
+    "Ёд (요오드)",
+    "Жер (땅)",
+    "Заман (시대)",
+    "Иық (어깨)",
+    "Жай (장소)",
+    "Кітап (책)",
+    "Қала (도시)",
+    "Лақап (별명)",
+    "Мектеп (학교)",
+    "Нан (빵)",
+    "-",
+    "Орман (숲)",
+    "Өмір (인생)",
+    "Пәтер (아파트)",
+    "Рақмет (감사합니다)",
+    "Су (물)",
+    "Тіл (언어)",
+    "Үй (집)",
+    "Ұлт (민족)",
+    "Үміт (희망)",
+    "Фильм (영화)",
+    "Хат (편지)",
+    "Һәм (그리고)",
+    "Цирк (서커스)",
+    "Чай (차)",
+    "Шаш (머리카락)",
+    "Щётка (솔)",
+    "-",
+    "Ыдыс (그릇)",
+    "Іс (일)",
+    "-",
+    "Эфир (에테르)",
+    "Юрта (유르트)",
+    "Яблоко (사과)",
+  ],
+};
+---
+
+<BaseLayout pageTitle={pageTitle + " | Lublio"}>
+  <BoxMarkdown
+    title="카자흐어 알파벳"
+    subtitle="Қазақ әліпбиі"
+    language="kaz"
+  />
+
+  <main>
+    <section class="group-a0 fade_1">
+      <h1>
+        <span class="animated-underline-heb">카자흐어 알파벳</span>
+      </h1>
+
+      <TableHorizontal
+        numberOfColumns="6"
+        data={kazakhAlphabet}
+        tableWidth="50%"
+      />
+    </section>
+
+    <section class="group-a1 fade_1">
+      <h2>
+        <span class="animated-underline-heb">기초 카자흐어 (A1)</span>
+      </h2>
+      <h3>현재 제작중에 있습니다 🏗️</h3>
+    </section>
+
+    <section class="group-a2 fade_1">
+      <h2>
+        <span class="animated-underline-heb">초급 카자흐어 (A2)</span>
+      </h2>
+      <h3>현재 제작중에 있습니다 🏗️</h3>
+    </section>
+
+    <section class="group-b1 fade_1">
+      <h2>
+        <span class="animated-underline-heb">중급 카자흐어 (B1)</span>
+      </h2>
+      <h3>현재 제작중에 있습니다 🏗️</h3>
+    </section>
+  </main>
+</BaseLayout>
+
+<style>
+  section {
+    padding-top: 1.5rem;
+  }
+</style>

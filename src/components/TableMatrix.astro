@@ -1,0 +1,126 @@
+---
+interface Props {
+  cornerLabel?: string;
+  columnHeaders: string[];
+  data: Record<string, string[]>;
+  tableWidth?: string;
+}
+
+const {
+  cornerLabel = "",
+  columnHeaders,
+  data,
+  tableWidth = "100%",
+} = Astro.props;
+
+const rows = Object.entries(data).map(([key, value]) => ({ key, value }));
+---
+
+<div class="table-wrapper">
+  <div class="table-matrix">
+    <!-- 첫 번째 Row: 코너 셀 + 열 헤더들 -->
+    <div class="row">
+      <div class="cell corner">
+        <p>{cornerLabel}</p>
+      </div>
+      {
+        columnHeaders.map((header) => (
+          <div class="cell columnHeader">
+            <p>{header}</p>
+          </div>
+        ))
+      }
+    </div>
+
+    <!-- 나머지 Row들: 행 헤더 + 데이터 셀들 -->
+    {
+      rows.map(({ key, value }) => (
+        <div class="row">
+          <div class="cell rowHeader">
+            <p>{key}</p>
+          </div>
+          {value.map((cell) => (
+            <div class="cell">
+              <p>{cell}</p>
+            </div>
+          ))}
+        </div>
+      ))
+    }
+  </div>
+</div>
+
+<style>
+  .table-wrapper {
+    position: relative;
+  }
+
+  .table-matrix {
+    display: table;
+    table-layout: fixed;
+    width: 100%;
+    margin: 0 auto;
+    font-family: "Inter", "Noto Hebrew", sans-serif;
+    font-weight: 400;
+    letter-spacing: 0px;
+    margin-bottom: 20px;
+    border-collapse: collapse;
+    border-left: 1px solid var(--neutral300);
+    border-right: 1px solid var(--neutral300);
+    border-top: 1px solid var(--neutral300);
+  }
+
+  .row {
+    display: table-row;
+    border-bottom: 1px solid var(--neutral300);
+  }
+
+  .cell {
+    display: table-cell;
+    background-color: transparent;
+    border-right: 1px solid var(--neutral300);
+    transition: 0.3s all;
+    text-align: center;
+    vertical-align: middle;
+  }
+
+  .cell:last-child {
+    border-right: none;
+  }
+
+  .cell > p {
+    color: var(--neutral800);
+    font-size: 18px;
+    font-weight: 400;
+    margin: 10px 0;
+    padding: 0 15px;
+  }
+
+  /* 왼쪽 상단 코너 */
+  .corner {
+    background-color: var(--neutral200);
+  }
+
+  /* 첫 번째 Row의 열 헤더 */
+  .columnHeader {
+    background-color: var(--neutral200);
+  }
+
+  .columnHeader > p {
+    font-weight: 700;
+  }
+
+  /* 각 Row의 행 헤더 */
+  .rowHeader {
+    background-color: var(--neutral200);
+  }
+
+  .rowHeader > p {
+    font-weight: 700;
+  }
+
+  /* 데이터 셀만 hover */
+  .cell:not(.corner):not(.columnHeader):not(.rowHeader):hover {
+    background-color: var(--neutral200);
+  }
+</style>

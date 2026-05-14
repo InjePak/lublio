@@ -6,7 +6,12 @@
     "deu": "Ich möchte mein Geld zurück für dieses Hemd.",
     "rus": "Я хотел бы вернуть деньги за эту рубашку.",
     "heb": "אני מעוניין לקבל החזר על החולצה הזאת.",
-    "kaz": "Бұл жейде үшін ақшамды қайтарып алғым келеді."
+    "kaz": "Бұл жейде үшін ақшамды қайтарып алғым келеді.",
+    "ita": "Vorrei il rimborso per questa camicia.",
+    "pol": "Chciałbym otrzymać zwrot pieniędzy za tę koszulę.",
+    "ces": "Chtěl bych vrátit peníze za tuhle košili.",
+    "hun": "Szeretném visszakérni a pénzt ezért az ingért.",
+    "tur": "Bu gömlek için para iadesi almak istiyorum."
   },
   {
     "kor": "영수증을 여기 가지고 있습니다.",
@@ -15,7 +20,12 @@
     "deu": "Ich habe den Kassenbon hier.",
     "rus": "Чек у меня с собой.",
     "heb": "הקבלה נמצאת כאן אצלי.",
-    "kaz": "Түбіртек осында менде."
+    "kaz": "Түбіртек осында менде.",
+    "ita": "Ho qui lo scontrino.",
+    "pol": "Mam tutaj paragon.",
+    "ces": "Mám tady účtenku.",
+    "hun": "Nalam van a nyugta.",
+    "tur": "Fişim yanımda."
   },
   {
     "kor": "근처에 약국이 있나요?",
@@ -24,7 +34,12 @@
     "deu": "Gibt es hier in der Nähe eine Apotheke?",
     "rus": "Здесь есть поблизости аптека?",
     "heb": "יש בית מרקחת בסביבה?",
-    "kaz": "Жақын маңда дәріхана бар ма?"
+    "kaz": "Жақын маңда дәріхана бар ма?",
+    "ita": "C'è una farmacia qui vicino?",
+    "pol": "Czy w pobliżu jest apteka?",
+    "ces": "Je tady poblíž lékárna?",
+    "hun": "Van a közelben gyógyszertár?",
+    "tur": "Buralarda yakınlarda bir eczane var mı?"
   },
   {
     "kor": "이 구두를 다른 사이즈로 교환할 수 있나요?",
@@ -33,7 +48,12 @@
     "deu": "Kann ich diese Schuhe gegen eine andere Größe umtauschen?",
     "rus": "Можно обменять эти туфли на другой размер?",
     "heb": "אפשר להחליף את הנעליים האלה למידה אחרת?",
-    "kaz": "Бұл аяқ киімді басқа өлшемге ауыстыруға бола ма?"
+    "kaz": "Бұл аяқ киімді басқа өлшемге ауыстыруға бола ма?",
+    "ita": "Posso cambiare queste scarpe con una taglia diversa?",
+    "pol": "Czy mogę wymienić te buty na inny rozmiar?",
+    "ces": "Můžu tyhle boty vyměnit za jinou velikost?",
+    "hun": "Kicserélhetem ezt a cipőt egy másik méretre?",
+    "tur": "Bu ayakkabıları farklı bir numarayla değiştirebilir miyim?"
   },
   {
     "kor": "탈의실은 2층에 있습니다.",
@@ -42,7 +62,12 @@
     "deu": "Die Umkleidekabinen befinden sich im ersten Stock.",
     "rus": "Примерочные находятся на втором этаже.",
     "heb": "תאי המדידה נמצאים בקומה הראשונה.",
-    "kaz": "Киім өлшейтін бөлмелер екінші қабатта."
+    "kaz": "Киім өлшейтін бөлмелер екінші қабатта.",
+    "ita": "I camerini sono al primo piano.",
+    "pol": "Przymierzalnie znajdują się na pierwszym piętrze.",
+    "ces": "Zkušební kabinky jsou v prvním patře.",
+    "hun": "A próbafülkék az első emeleten vannak.",
+    "tur": "Soyunma kabinleri birinci katta."
   },
   {
     "kor": "카드로 결제해도 괜찮나요?",
@@ -51,7 +76,12 @@
     "deu": "Ist es in Ordnung, mit Karte zu bezahlen?",
     "rus": "Можно оплатить картой?",
     "heb": "אפשר לשלם בכרטיס אשראי?",
-    "kaz": "Картамен төлеуге бола ма?"
+    "kaz": "Картамен төлеуге бола ма?",
+    "ita": "Posso pagare con carta?",
+    "pol": "Czy mogę zapłacić kartą?",
+    "ces": "Můžu platit kartou?",
+    "hun": "Fizethetek kártyával?",
+    "tur": "Kartla ödeyebilir miyim?"
   },
   {
     "kor": "이 가격에 할인이 포함된 건가요?",
@@ -60,7 +90,12 @@
     "deu": "Ist der Rabatt in diesem Preis enthalten?",
     "rus": "Скидка уже включена в эту цену?",
     "heb": "ההנחה כלולה במחיר הזה?",
-    "kaz": "Бұл бағаға жеңілдік кіріп тұр ма?"
+    "kaz": "Бұл бағаға жеңілдік кіріп тұр ма?",
+    "ita": "Lo sconto è incluso in questo prezzo?",
+    "pol": "Czy ten cena zawiera już rabat?",
+    "ces": "Je v této ceně zahrnuta sleva?",
+    "hun": "Ez az ár már tartalmazza a kedvezményt?",
+    "tur": "İndirim bu fiyata dahil mi?"
   },
   {
     "kor": "제 신발을 수선하는 데 얼마나 걸릴까요?",
@@ -69,7 +104,12 @@
     "deu": "Wie lange dauert es, meine Schuhe zu reparieren?",
     "rus": "Сколько времени займет ремонт моей обуви?",
     "heb": "כמה זמן ייקח לתקן את הנעליים שלי?",
-    "kaz": "Аяқ киімімді жөндеуге қанша уақыт кетеді?"
+    "kaz": "Аяқ киімімді жөндеуге қанша уақыт кетеді?",
+    "ita": "Quanto tempo ci vorrà per riparare le mie scarpe?",
+    "pol": "Jak długo potrwa naprawa moich butów?",
+    "ces": "Jak dlouho bude trvat oprava mých bot?",
+    "hun": "Mennyi ideig tart megjavítani a cipőmet?",
+    "tur": "Ayakkabılarımın tamiri ne kadar sürer?"
   },
   {
     "kor": "식료품점은 몇 시에 문을 닫나요?",
@@ -78,7 +118,12 @@
     "deu": "Wann schließt das Lebensmittelgeschäft?",
     "rus": "Во сколько закрывается продуктовый магазин?",
     "heb": "מתי המכולת נסגרת?",
-    "kaz": "Азық-түлік дүкені сағат нешеде жабылады?"
+    "kaz": "Азық-түлік дүкені сағат нешеде жабылады?",
+    "ita": "A che ora chiude il supermercato?",
+    "pol": "O której godzinie zamykają sklep spożywczy?",
+    "ces": "V kolik hodin zavírají potraviny?",
+    "hun": "Mikor zár az élelmiszerbolt?",
+    "tur": "Market saat kaçta kapanıyor?"
   },
   {
     "kor": "줄 끝이 어디인가요?",
@@ -87,7 +132,12 @@
     "deu": "Wo ist das Ende der Schlange?",
     "rus": "Где конец очереди?",
     "heb": "מי אחרון?",
-    "kaz": "Кезектегі соңғы адам кім?"
+    "kaz": "Кезектегі соңғы адам кім?",
+    "ita": "Dov'è la fine della coda?",
+    "pol": "Gdzie jest koniec kolejki?",
+    "ces": "Kde je konec fronty?",
+    "hun": "Hol van a sor vége?",
+    "tur": "Sıranın sonu neresi?"
   },
   {
     "kor": "이 바지는 저에게 너무 깁니다.",
@@ -96,7 +146,12 @@
     "deu": "Diese Hose ist mir zu lang.",
     "rus": "Эти брюки мне слишком длинны.",
     "heb": "המכנסיים האלה ארוכים מדי בשבילי.",
-    "kaz": "Бұл шалбар маған тым ұзын."
+    "kaz": "Бұл шалбар маған тым ұзын.",
+    "ita": "Questi pantaloni sono troppo lunghi per me.",
+    "pol": "Te spodnie są dla mnie za długie.",
+    "ces": "Tyhle kalhoty jsou mi moc dlouhé.",
+    "hun": "Ez a nadrág túl hosszú nekem.",
+    "tur": "Bu pantolon bana çok uzun."
   },
   {
     "kor": "배달 서비스를 제공하시나요?",
@@ -105,7 +160,12 @@
     "deu": "Bieten Sie einen Lieferservice an?",
     "rus": "У вас есть служба доставки?",
     "heb": "יש לכם שירות משלוחים?",
-    "kaz": "Жеткізу қызметі бар ма?"
+    "kaz": "Жеткізу қызметі бар ма?",
+    "ita": "Offrite un servizio di consegna?",
+    "pol": "Czy oferują Państwo usługi dostawy?",
+    "ces": "Nabízíte doručovací službu?",
+    "hun": "Vállalnak házhozszállítást?",
+    "tur": "Teslimat hizmetiniz var mı?"
   },
   {
     "kor": "학생 할인을 받을 수 있나요?",
@@ -114,7 +174,12 @@
     "deu": "Bekomme ich einen Studentenrabatt?",
     "rus": "Можно получить студенческую скидку?",
     "heb": "אפשר לקבל הנחת סטודנט?",
-    "kaz": "Студенттік жеңілдік алуға бола ма?"
+    "kaz": "Студенттік жеңілдік алуға бола ма?",
+    "ita": "Posso avere uno sconto per studenti?",
+    "pol": "Czy mogę otrzymać zniżkę studencką?",
+    "ces": "Můžu dostat studentskou slevu?",
+    "hun": "Kaphatok diákkedvezményt?",
+    "tur": "Öğrenci indirimi alabilir miyim?"
   },
   {
     "kor": "그것을 선물용으로 포장해 주시겠어요?",
@@ -123,7 +188,12 @@
     "deu": "Könnten Sie es bitte als Geschenk einpacken?",
     "rus": "Вы не могли бы упаковать это как подарок?",
     "heb": "אפשר לארוז את זה כמתנה, בבקשה?",
-    "kaz": "Оны сыйлық ретінде орап бере аласыз ба?"
+    "kaz": "Оны сыйлық ретінде орап бере аласыз ба?",
+    "ita": "Potrebbe impacchettarlo come regalo, per favore?",
+    "pol": "Czy mogę prosić o zapakowanie tego na prezent?",
+    "ces": "Mohl byste mi to prosím zabalit jako dárek?",
+    "hun": "Be tudná csomagolni ajándékként?",
+    "tur": "Bunu hediye paketi yapabilir misiniz lütfen?"
   },
   {
     "kor": "이 제품의 보증 기간은 얼마인가요?",
@@ -132,7 +202,12 @@
     "deu": "Wie lange ist die Garantie auf dieses Produkt?",
     "rus": "Какой гарантийный срок у этого товара?",
     "heb": "לכמה זמן האחריות על המוצר הזה?",
-    "kaz": "Бұл өнімнің кепілдік мерзімі қанша?"
+    "kaz": "Бұл өнімнің кепілдік мерзімі қанша?",
+    "ita": "Quanto dura la garanzia di questo prodotto?",
+    "pol": "Jak długa jest gwarancja na ten produkt?",
+    "ces": "Jak dlouhá je záruka na tento produkt?",
+    "hun": "Mennyi ideig tart a garancia erre a termékre?",
+    "tur": "Bu ürünün garantisi ne kadar süreli?"
   },
   {
     "kor": "찾으시는 특별한 것이 있나요?",
@@ -141,7 +216,12 @@
     "deu": "Suchen Sie etwas Bestimmtes?",
     "rus": "Вы ищете что-то конкретное?",
     "heb": "אתה מחפש משהו ספציפי?",
-    "kaz": "Ерекше бірдеңе іздеп жүрсіз бе?"
+    "kaz": "Ерекше бірдеңе іздеп жүрсіз бе?",
+    "ita": "Cerca qualcosa in particolare?",
+    "pol": "Czy szuka Pan/Pani czegoś konkretnego?",
+    "ces": "Hledáte něco konkrétního?",
+    "hun": "Keres valami konkrétat?",
+    "tur": "Özellikle aradığınız bir şey var mı?"
   },
   {
     "kor": "재고가 있는지 확인해 보겠습니다.",
@@ -150,7 +230,12 @@
     "deu": "Ich werde nachsehen, ob es vorrätig ist.",
     "rus": "Я проверю, есть ли это в наличии.",
     "heb": "אני אבדוק אם זה במלאי.",
-    "kaz": "Қоймада бар-жоғын тексеріп көрейін."
+    "kaz": "Қоймада бар-жоғын тексеріп көрейін.",
+    "ita": "Controllo se è disponibile in magazzino.",
+    "pol": "Sprawdzę, czy jest na stanie.",
+    "ces": "Podívám se, jestli je to na skladě.",
+    "hun": "Megnézem, van-e raktáron.",
+    "tur": "Stokta olup olmadığını kontrol edeceğim."
   },
   {
     "kor": "이것은 가죽으로 만들어졌나요?",
@@ -159,7 +244,12 @@
     "deu": "Ist das aus Leder?",
     "rus": "Это сделано из кожи?",
     "heb": "זה עשוי מעור?",
-    "kaz": "Бұл былғарыдан жасалған ба?"
+    "kaz": "Бұл былғарыдан жасалған ба?",
+    "ita": "È fatto di pelle?",
+    "pol": "Czy to jest wykonane ze skóry?",
+    "ces": "Je to vyrobené z kůže?",
+    "hun": "Ez bőrből készült?",
+    "tur": "Bu deriden mi yapılmış?"
   },
   {
     "kor": "현금 인출기가 어디에 있는지 아시나요?",
@@ -168,7 +258,12 @@
     "deu": "Wissen Sie, wo der Geldautomat ist?",
     "rus": "Вы не знаете, где находится банкомат?",
     "heb": "אתה יודע איפה הכספומט?",
-    "kaz": "Банкоматтың қайда екенін білесіз бе?"
+    "kaz": "Банкоматтың қайда екенін білесіз бе?",
+    "ita": "Sa dove si trova il bancomat?",
+    "pol": "Czy wiesz, gdzie jest bankomat?",
+    "ces": "Nevíte, kde je bankomat?",
+    "hun": "Tudja, hol van a bankautomata?",
+    "tur": "Bankamatiğin nerede olduğunu biliyor musunuz?"
   },
   {
     "kor": "소포를 보내기 위해 우체국에 가야 합니다.",
@@ -177,7 +272,12 @@
     "deu": "Ich muss zur Post gehen, um ein Paket zu verschicken.",
     "rus": "Мне нужно сходить на почту, чтобы отправить посылку.",
     "heb": "אני צריך ללכת לדואר כדי לשלוח חבילה.",
-    "kaz": "Сәлемдеме жіберу үшін поштаға баруым керек."
+    "kaz": "Сәлемдеме жіберу үшін поштаға баруым керек.",
+    "ita": "Devo andare alla posta per spedire un pacco.",
+    "pol": "Muszę iść na pocztę, aby wysłać paczkę.",
+    "ces": "Musím jít na poštu poslat balík.",
+    "hun": "El kell mennem a postára feladni egy csomagot.",
+    "tur": "Paket göndermek için postaneye gitmem gerekiyor."
   },
   {
     "kor": "봉투값으로 10펜스를 더 내야 합니다.",
@@ -186,7 +286,12 @@
     "deu": "Sie müssen zehn Pence extra für eine Tüte bezahlen.",
     "rus": "За пакет нужно доплатить десять пенсов.",
     "heb": "צריך לשלם עשרה פני נוספים עבור שקית.",
-    "kaz": "Пакет үшін қосымша он пенс төлеуіңіз керек."
+    "kaz": "Пакет үшін қосымша он пенс төлеуіңіз керек.",
+    "ita": "Bisogna pagare dieci centesimi in più per il sacchetto.",
+    "pol": "Za torbę trzeba dopłacić dziesięć groszy.",
+    "ces": "Za tašku musíte připlatit deset pencí.",
+    "hun": "Tíz pennynyi felárat kell fizetni a szatyorért.",
+    "tur": "Poşet için ekstra on kuruş ödemeniz gerekiyor."
   },
   {
     "kor": "이 카트 좀 사용해도 될까요?",
@@ -195,7 +300,12 @@
     "deu": "Darf ich diesen Einkaufswagen benutzen?",
     "rus": "Можно я воспользуюсь этой тележкой?",
     "heb": "אפשר להשתמש בעגלה הזאת?",
-    "kaz": "Мына арбаны қолдануға бола ма?"
+    "kaz": "Мына арбаны қолдануға бола ма?",
+    "ita": "Posso usare questo carrello?",
+    "pol": "Czy mogę skorzystać z tego wózka?",
+    "ces": "Můžu použít tento vozík?",
+    "hun": "Használhatom ezt a kocsit?",
+    "tur": "Bu arabayı kullanabilir miyim?"
   },
   {
     "kor": "가격표가 어디에 있나요?",
@@ -204,7 +314,12 @@
     "deu": "Wo ist das Preisschild?",
     "rus": "Где ценник?",
     "heb": "איפה תג המחיר?",
-    "kaz": "Баға көрсеткіші қайда?"
+    "kaz": "Баға көрсеткіші қайда?",
+    "ita": "Dov'è il cartellino del prezzo?",
+    "pol": "Gdzie jest metka z ceną?",
+    "ces": "Kde je cenovka?",
+    "hun": "Hol van az árcédula?",
+    "tur": "Fiyat etiketi nerede?"
   },
   {
     "kor": "미용실 예약을 하고 싶습니다.",
@@ -213,7 +328,12 @@
     "deu": "Ich möchte einen Termin beim Friseur machen.",
     "rus": "Я хотел бы записаться в парикмахерскую.",
     "heb": "הייתי רוצה לקבוע תור למספרה.",
-    "kaz": "Шаштаразға жазылғым келеді."
+    "kaz": "Шаштаразға жазылғым келеді.",
+    "ita": "Vorrei prendere un appuntamento dal parrucchiere.",
+    "pol": "Chciałbym umówić się na wizytę u fryzjera.",
+    "ces": "Chtěl bych se objednat ke kadeřníkovi.",
+    "hun": "Szeretnék időpontot kérni a fodrászhoz.",
+    "tur": "Kuaförden randevu almak istiyorum."
   },
   {
     "kor": "도와주셔서 정말 감사합니다.",
@@ -222,6 +342,11 @@
     "deu": "Vielen Dank für Ihre Hilfe.",
     "rus": "Большое спасибо за помощь.",
     "heb": "תודה רבה על העזרה שלך.",
-    "kaz": "Көмегіңізге көп рақмет."
+    "kaz": "Көмегіңізге көп рақмет.",
+    "ita": "Molte grazie per l'aiuto.",
+    "pol": "Bardzo dziękuję za pomoc.",
+    "ces": "Děkuji vám mnohokrát za pomoc.",
+    "hun": "Nagyon köszönöm a segítséget.",
+    "tur": "Yardımınız için çok teşekkürler."
   }
 ]

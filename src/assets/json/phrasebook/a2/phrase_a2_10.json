@@ -6,7 +6,12 @@
     "deu": "Sie trägt heute ein sehr schickes Outfit.",
     "rus": "На ней сегодня очень стильный наряд.",
     "heb": "היא לובשת תלבושת מאוד אופנתית היום.",
-    "kaz": "Ол бүгін өте стильді киім киіп жүр."
+    "kaz": "Ол бүгін өте стильді киім киіп жүр.",
+    "ita": "Oggi indossa un outfit molto alla moda.",
+    "pol": "Ona ma dziś na sobie bardzo stylowy strój.",
+    "ces": "Dneska má na sobě moc stylový outfit.",
+    "hun": "Nagyon stílusos szett van rajta ma.",
+    "tur": "Bugün çok şık bir kıyafet giyiyor."
   },
   {
     "kor": "저는 청바지와 티셔츠 같은 편한 옷을 좋아합니다.",
@@ -15,7 +20,12 @@
     "deu": "Ich mag bequeme Kleidung wie Jeans und T-Shirts.",
     "rus": "Мне нравится удобная одежда, такая как джинсы и футболки.",
     "heb": "אני אוהב בגדים נוחים כמו ג'ינס וטי-שירט.",
-    "kaz": "Маған джинсы мен футболка сияқты ыңғайлы киімдер ұнайды."
+    "kaz": "Маған джинсы мен футболка сияқты ыңғайлы киімдер ұнайды.",
+    "ita": "Mi piacciono i vestiti comodi come jeans e magliette.",
+    "pol": "Lubię wygodne ubrania, takie jak dżinsy i koszulki.",
+    "ces": "Mám rád pohodlné oblečení, jako jsou džíny a trička.",
+    "hun": "Szeretem a kényelmes ruhákat, mint a farmer és a póló.",
+    "tur": "Kot pantolon ve tişört gibi rahat kıyafetleri severim."
   },
   {
     "kor": "이 파란색 점퍼는 당신의 눈 색깔과 잘 어울려요.",
@@ -24,7 +34,12 @@
     "deu": "Dieser blaue Pullover passt gut zu deiner Augenfarbe.",
     "rus": "Этот синий джемпер хорошо подходит к цвету твоих глаз.",
     "heb": "הסוודר הכחול הזה מתאים היטב לצבע העיניים שלך.",
-    "kaz": "Бұл көк жемпір сіздің көзіңіздің түсіне жақсы үйлеседі."
+    "kaz": "Бұл көк жемпір сіздің көзіңіздің түсіне жақсы үйлеседі.",
+    "ita": "Questo maglione blu si abbina bene al colore dei tuoi occhi.",
+    "pol": "Ten niebieski sweter dobrze pasuje do koloru twoich oczu.",
+    "ces": "Ten modrý svetr se dobře hodí k barvě tvých očí.",
+    "hun": "Ez a kék pulóver jól megy a szemed színéhez.",
+    "tur": "Bu mavi kazak göz rengine çok yakışıyor."
   },
   {
     "kor": "파티를 위해 정장을 입어야 하나요?",
@@ -33,7 +48,12 @@
     "deu": "Muss ich für die Party einen Anzug tragen?",
     "rus": "Мне нужно надеть костюм на вечеринку?",
     "heb": "האם אני צריך(ה) ללבוש חליפה למסיבה?",
-    "kaz": "Кеш үшін костюм киюім керек пе?"
+    "kaz": "Кеш үшін костюм киюім керек пе?",
+    "ita": "Devo mettermi l'abito completo per la festa?",
+    "pol": "Czy na imprezę muszę założyć garnitur?",
+    "ces": "Musím si na ten večírek vzít oblek?",
+    "hun": "Kell öltönyt vennem a bulira?",
+    "tur": "Parti için takım elbise giymem gerekiyor mu?"
   },
   {
     "kor": "이 바지는 저에게 조금 꽉 낍니다.",
@@ -42,7 +62,12 @@
     "deu": "Diese Hose ist mir etwas zu eng.",
     "rus": "Эти брюки мне немного тесноваты.",
     "heb": "המכנסיים האלה קצת צמודים לי.",
-    "kaz": "Бұл шалбар маған сәл тар."
+    "kaz": "Бұл шалбар маған сәл тар.",
+    "ita": "Questi pantaloni mi stanno un po' stretti.",
+    "pol": "Te spodnie są na mnie trochę za ciasne.",
+    "ces": "Tyhle kalhoty jsou mi trochu těsné.",
+    "hun": "Ez a nadrág egy kicsit szűk nekem.",
+    "tur": "Bu pantolon beni biraz sıkıyor."
   },
   {
     "kor": "어떤 종류의 신발을 찾고 계신가요?",
@@ -51,7 +76,12 @@
     "deu": "Was für Schuhe suchen Sie?",
     "rus": "Какую обувь вы ищете?",
     "heb": "איזה סוג של נעליים אתה מחפש?",
-    "kaz": "Сіз аяқ киімнің қандай түрін іздеп жүрсіз?"
+    "kaz": "Сіз аяқ киімнің қандай түрін іздеп жүрсіз?",
+    "ita": "Che tipo di scarpe sta cercando?",
+    "pol": "Jakiego rodzaju butów Pan/Pani szuka?",
+    "ces": "Jaký druh bot hledáte?",
+    "hun": "Milyen típusú cipőt keres?",
+    "tur": "Ne tür bir ayakkabı arıyorsunuz?"
   },
   {
     "kor": "이 코트는 면이 아니라 울로 만들어졌습니다.",
@@ -60,7 +90,12 @@
     "deu": "Dieser Mantel ist aus Wolle, nicht aus Baumwolle.",
     "rus": "Это пальто сделано из шерсти, а не из хлопка.",
     "heb": "המעיל הזה עשוי מצמר, לא מכותנה.",
-    "kaz": "Бұл пальто мақтадан емес, жүннен жасалған."
+    "kaz": "Бұл пальто мақтадан емес, жүннен жасалған.",
+    "ita": "Questo cappotto è fatto di lana, non di cotone.",
+    "pol": "Ten płaszcz jest wykonany z wełny, a nie z bawełny.",
+    "ces": "Ten kabát je z vlny, ne z bavlny.",
+    "hun": "Ez a kabát gyapjúból készült, nem pamutból.",
+    "tur": "Bu palto pamuktan değil, yünden yapılmış."
   },
   {
     "kor": "저는 밝은 색보다 어두운 색을 선호합니다.",
@@ -69,7 +104,12 @@
     "deu": "Ich bevorzuge dunkle Farben gegenüber hellen.",
     "rus": "Я предпочитаю темные цвета ярким.",
     "heb": "אני מעדיף צבעים כהים על פני צבעים בהירים.",
-    "kaz": "Мен ашық түстерден қараңғы түстерді артық көремін."
+    "kaz": "Мен ашық түстерден қараңғы түстерді артық көремін.",
+    "ita": "Preferisco i colori scuri a quelli vivaci.",
+    "pol": "Wolę ciemne kolory od jasnych.",
+    "ces": "Dávám přednost tmavým barvám před světlými.",
+    "hun": "Jobban szeretem a sötét színeket a világosaknál.",
+    "tur": "Koyu renkleri açık renklere tercih ederim."
   },
   {
     "kor": "이 드레스는 당신에게 정말 잘 어울려요.",
@@ -78,7 +118,12 @@
     "deu": "Dieses Kleid steht dir wirklich gut.",
     "rus": "Это платье тебе очень идет.",
     "heb": "השמלה הזאת ממש מתאימה לך.",
-    "kaz": "Бұл көйлек саған өте жақсы жарасады."
+    "kaz": "Бұл көйлек саған өте жақсы жарасады.",
+    "ita": "Questo vestito ti sta davvero bene.",
+    "pol": "Ta sukienka naprawdę dobrze na tobie leży.",
+    "ces": "Tyhle šaty ti fakt seknou.",
+    "hun": "Ez a ruha nagyon jól áll neked.",
+    "tur": "Bu elbise sana gerçekten çok yakışıyor."
   },
   {
     "kor": "영국에서는 비가 올 때 레인코트가 필요합니다.",
@@ -87,7 +132,12 @@
     "deu": "In Großbritannien braucht man einen Regenmantel, wenn es regnet.",
     "rus": "В Великобритании во время дождя нужен дождевик.",
     "heb": "בבריטניה צריך מעיל גשם כשיורד גשם.",
-    "kaz": "Ұлыбританияда жаңбыр жауғанда плащ керек."
+    "kaz": "Ұлыбританияда жаңбыр жауғанда плащ керек.",
+    "ita": "Nel Regno Unito serve l'impermeabile quando piove.",
+    "pol": "W Wielkiej Brytanii potrzebujesz płaszcza przeciwdeszczowego, gdy pada.",
+    "ces": "V Británii potřebujete pláštěnku, když prší.",
+    "hun": "Az Egyesült Királyságban esőkabátra van szükség, ha esik az eső.",
+    "tur": "Birleşik Krallık'ta yağmur yağdığında yağmurluğa ihtiyacınız olur."
   },
   {
     "kor": "그녀는 패션 잡지 읽는 것을 좋아합니다.",
@@ -96,16 +146,26 @@
     "deu": "Sie liest gerne Modemagazine.",
     "rus": "Ей нравится читать журналы о моде.",
     "heb": "היא נהנית לקרוא מגזיני אופנה.",
-    "kaz": "Ол сән журналдарын оқығанды ұнатады."
+    "kaz": "Ол сән журналдарын оқығанды ұнатады.",
+    "ita": "Le piace leggere le riviste di moda.",
+    "pol": "Ona lubi czytać magazyny o modzie.",
+    "ces": "Ráda čte módní časopisy.",
+    "hun": "Szeret divatlapokat olvasni.",
+    "tur": "Moda dergileri okumaktan keyif alır."
   },
   {
     "kor": "가장 좋아하는 패션 브랜드가 있나요?",
-    "eng": "Do you have a favourite fashion brand?",
+    "eng": "Do you have a favorite fashion brand?",
     "fra": "Avez-vous une marque de mode préférée ?",
     "deu": "Hast du eine Lieblingsmodemarke?",
     "rus": "У вас есть любимый модный бренд?",
     "heb": "האם יש לך מותג אופנה אהוב?",
-    "kaz": "Сүйікті сән брендіңіз бар ма?"
+    "kaz": "Сүйікті сән брендіңіз бар ма?",
+    "ita": "Hai un marchio di moda preferito?",
+    "pol": "Masz swoją ulubioną markę odzieżową?",
+    "ces": "Máš nějakou oblíbenou módní značku?",
+    "hun": "Van kedvenc divatmárkád?",
+    "tur": "En sevdiğin moda markası var mı?"
   },
   {
     "kor": "이 운동화는 달리기하기에 아주 좋습니다.",
@@ -114,7 +174,12 @@
     "deu": "Diese Turnschuhe sind super zum Laufen.",
     "rus": "Эти кроссовки отлично подходят для бега.",
     "heb": "נעלי הספורט האלה נהדרות לריצה.",
-    "kaz": "Бұл кроссовкалар жүгіруге өте ыңғайлы."
+    "kaz": "Бұл кроссовкалар жүгіруге өте ыңғайлы.",
+    "ita": "Queste sneakers sono ottime per correre.",
+    "pol": "Te sneakersy są świetne do biegania.",
+    "ces": "Tyhle tenisky jsou skvělé na běhání.",
+    "hun": "Ez a sportcipő kiváló futáshoz.",
+    "tur": "Bu spor ayakkabılar koşu için harika."
   },
   {
     "kor": "줄무늬 셔츠와 체크무늬 스커트 중 어느 것이 더 나은가요?",
@@ -123,7 +188,12 @@
     "deu": "Was ist besser, das gestreifte Hemd oder der karierte Rock?",
     "rus": "Что лучше: рубашка в полоску или юбка в клетку?",
     "heb": "מה עדיף, החולצה המפוספסת או החצאית המשובצת?",
-    "kaz": "Жолақты жейде жақсы ма, әлде торлы белдемше ме?"
+    "kaz": "Жолақты жейде жақсы ма, әлде торлы белдемше ме?",
+    "ita": "È meglio la camicia a righe o la gonna a quadri?",
+    "pol": "Co jest lepsze: koszula w paski czy spódnica w kratkę?",
+    "ces": "Co je lepší, ta pruhovaná košile nebo ta kostkovaná sukně?",
+    "hun": "Melyik a jobb, a csíkos ing vagy a kockás szoknya?",
+    "tur": "Hangisi daha iyi, çizgili gömlek mi yoksa ekose etek mi?"
   },
   {
     "kor": "요즘은 복고풍 스타일이 다시 유행하고 있습니다.",
@@ -132,7 +202,12 @@
     "deu": "Retro-Styles sind heutzutage wieder in Mode.",
     "rus": "В наши дни стиль ретро снова в моде.",
     "heb": "סגנונות רטרו חוזרים לאופנה בימים אלה.",
-    "kaz": "Қазіргі уақытта ретро стилі қайтадан сәнге айналуда."
+    "kaz": "Қазіргі уақытта ретро стилі қайтадан сәнге айналуда.",
+    "ita": "Ultimamente lo stile retrò sta tornando di moda.",
+    "pol": "W dzisiejszych czasach styl retro wraca do łask.",
+    "ces": "Retro styl se v poslední době vrací do módy.",
+    "hun": "Mostanában a retró stílus újra divatba jött.",
+    "tur": "Bugünlerde retro stiller yeniden moda oldu."
   },
   {
     "kor": "특별한 날을 위해 새 가죽 가방을 샀습니다.",
@@ -141,7 +216,12 @@
     "deu": "Ich habe eine neue Ledertasche für besondere Anlässe gekauft.",
     "rus": "Я купил(а) новую кожаную сумку для особых случаев.",
     "heb": "קניתי תיק עור חדש לאירועים מיוחדים.",
-    "kaz": "Мен ерекше жағдайларға арналған жаңа былғары сөмке сатып алдым."
+    "kaz": "Мен ерекше жағдайларға арналған жаңа былғары сөмке сатып алдым.",
+    "ita": "Ho comprato una nuova borsa di pelle per le occasioni speciali.",
+    "pol": "Kupiłem nową skórzaną torbę na specjalne okazje.",
+    "ces": "Koupil jsem si novou koženou tašku pro zvláštní příležitosti.",
+    "hun": "Vettem egy új bőrtáskát különleges alkalmakra.",
+    "tur": "Özel günler için yeni bir deri çanta satın aldım."
   },
   {
     "kor": "겨울에는 따뜻한 목도리와 장갑을 착용하세요.",
@@ -150,7 +230,12 @@
     "deu": "Tragen Sie im Winter einen warmen Schal und Handschuhe.",
     "rus": "Зимой носите теплый шарф и перчатки.",
     "heb": "תלבשו צעיף חם וכפפות בחורף.",
-    "kaz": "Қыста жылы шарф пен қолғап киіңіз."
+    "kaz": "Қыста жылы шарф пен қолғап киіңіз.",
+    "ita": "In inverno indossa una sciarpa calda e i guanti.",
+    "pol": "Zimą noś ciepły szalik i rękawiczki.",
+    "ces": "V zimě noste teplou šálu a rukavice.",
+    "hun": "Télen hordj meleg sálat és kesztyűt.",
+    "tur": "Kışın sıcak tutan bir atkı ve eldiven takın."
   },
   {
     "kor": "이 모자는 너무 커서 자꾸 벗겨져요.",
@@ -159,7 +244,12 @@
     "deu": "Dieser Hut ist zu groß und fällt ständig ab.",
     "rus": "Эта шапка слишком велика и постоянно спадает.",
     "heb": "הכובע הזה גדול מדי וממשיך ליפול.",
-    "kaz": "Бұл бас киім тым үлкен, сондықтан басымнан түсе береді."
+    "kaz": "Бұл бас киім тым үлкен, сондықтан басымнан түсе береді.",
+    "ita": "Questo cappello è troppo grande e continua a cadermi.",
+    "pol": "Ta czapka jest za duża i ciągle mi spada.",
+    "ces": "Ta čepice je moc velká a pořád mi padá.",
+    "hun": "Ez a kalap túl nagy, és folyton leesik.",
+    "tur": "Bu şapka çok büyük ve sürekli düşüyor."
   },
   {
     "kor": "그는 갈색 가죽 벨트에 검은색 구두를 신었습니다.",
@@ -168,7 +258,12 @@
     "deu": "Er trug schwarze Schuhe zu einem braunen Ledergürtel.",
     "rus": "Он надел черные туфли с коричневым кожаным ремнем.",
     "heb": "הוא נעל נעליים שחורות עם חגורת עור חומה.",
-    "kaz": "Ол қара аяқ киім мен қоңыр былғары белдік киді."
+    "kaz": "Ол қара аяқ киім мен қоңыр былғары белдік киді.",
+    "ita": "Indossava scarpe nere con una cintura di pelle marrone.",
+    "pol": "Założył czarne buty do brązowego skórzanego paska.",
+    "ces": "Vzal si černé boty k hnědému koženému pásku.",
+    "hun": "Fekete cipőt viselt barna bőrövvel.",
+    "tur": "Kahverengi deri kemerle siyah ayakkabı giydi."
   },
   {
     "kor": "옷을 사기 전에 입어보는 것이 좋습니다.",
@@ -177,7 +272,12 @@
     "deu": "Es ist besser, Kleidung vor dem Kauf anzuprobieren.",
     "rus": "Одежду лучше примерить перед покупкой.",
     "heb": "עדיף למדוד בגדים לפני שקונים אותם.",
-    "kaz": "Киімді сатып алмас бұрын киіп көрген дұрыс."
+    "kaz": "Киімді сатып алмас бұрын киіп көрген дұрыс.",
+    "ita": "È meglio provare i vestiti prima di acquistarli.",
+    "pol": "Lepiej przymierzyć ubrania przed zakupem.",
+    "ces": "Je lepší si oblečení před nákupem vyzkoušet.",
+    "hun": "Vásárlás előtt érdemes felpróbálni a ruhákat.",
+    "tur": "Kıyafetleri satın almadan önce denemek daha iyidir."
   },
   {
     "kor": "이 금목걸이는 제 생일 선물이었어요.",
@@ -186,7 +286,12 @@
     "deu": "Diese Goldkette war ein Geschenk zu meinem Geburtstag.",
     "rus": "Это золотое ожерелье было подарком на мой день рождения.",
     "heb": "שרשרת הזהב הזאת הייתה מתנה ליום ההולדת שלי.",
-    "kaz": "Бұл алтын алқа менің туған күніме сыйлық болды."
+    "kaz": "Бұл алтын алқа менің туған күніме сыйлық болды.",
+    "ita": "Questa collana d'oro è stata un regalo per il mio compleanno.",
+    "pol": "Ten złoty naszyjnik był prezentem na moje urodziny.",
+    "ces": "Tento zlatý náhrdelník byl dárek k mým narozeninám.",
+    "hun": "Ez az aranynyaklánc születésnapi ajándék volt.",
+    "tur": "Bu altın kolye doğum günüm için bir hediyeydi."
   },
   {
     "kor": "그녀는 보통 귀걸이와 팔찌로 멋을 냅니다.",
@@ -195,7 +300,12 @@
     "deu": "Sie trägt meistens Ohrringe und Armbänder als Accessoires.",
     "rus": "Она обычно дополняет образ серьгами и браслетами.",
     "heb": "היא בדרך כלל מוסיפה עגילים וצמידים כאביזרים.",
-    "kaz": "Ол әдетте сырғалар мен білезіктер тағады."
+    "kaz": "Ол әдетте сырғалар мен білезіктер тағады.",
+    "ita": "Di solito usa orecchini e braccialetti come accessori.",
+    "pol": "Zazwyczaj dobiera kolczyki i bransoletki jako dodatki.",
+    "ces": "Obvykle nosí jako doplňky náušnice a náramky.",
+    "hun": "Általában fülbevalóval és karkötővel egészíti ki a megjelenését.",
+    "tur": "Genellikle küpe ve bileziklerle aksesuar yapar."
   },
   {
     "kor": "저녁 식사 모임에 무엇을 입고 갈 건가요?",
@@ -204,7 +314,12 @@
     "deu": "Was wirst du zum Abendessen tragen?",
     "rus": "Что ты наденешь на званый ужин?",
     "heb": "מה תלבש לארוחת הערב?",
-    "kaz": "Кешкі асқа не киесің?"
+    "kaz": "Кешкі асқа не киесің?",
+    "ita": "Cosa metterai per la cena di stasera?",
+    "pol": "Co założysz na uroczystą kolację?",
+    "ces": "Co si vezmeš na tu večeři?",
+    "hun": "Mit fogsz viselni a vacsorapartin?",
+    "tur": "Akşam yemeği partisine ne giyeceksin?"
   },
   {
     "kor": "저는 옷을 고를 때 품질을 중요하게 생각합니다.",
@@ -213,7 +328,12 @@
     "deu": "Ich denke, dass Qualität bei der Auswahl von Kleidung wichtig ist.",
     "rus": "Я считаю, что при выборе одежды важно качество.",
     "heb": "אני חושב שאיכות חשובה כשבוחרים בגדים.",
-    "kaz": "Киім таңдағанда сапасы маңызды деп ойлаймын."
+    "kaz": "Киім таңдағанда сапасы маңызды деп ойлаймын.",
+    "ita": "Penso che la qualità sia importante quando si scelgono i vestiti.",
+    "pol": "Uważam, że przy wyborze ubrań ważna jest jakość.",
+    "ces": "Myslím, že při výběru oblečení je důležitá kvalita.",
+    "hun": "Szerintem a minőség fontos a ruhaválasztásnál.",
+    "tur": "Kıyafet seçerken kalitenin önemli olduğunu düşünüyorum."
   },
   {
     "kor": "그는 패션에 관심이 별로 없습니다.",
@@ -222,6 +342,11 @@
     "deu": "Er interessiert sich nicht besonders für Mode.",
     "rus": "Он не очень интересуется модой.",
     "heb": "הוא לא כל כך מתעניין באופנה.",
-    "kaz": "Ол сәнге аса қызықпайды."
+    "kaz": "Ол сәнге аса қызықпайды.",
+    "ita": "Lui non si interessa molto di moda.",
+    "pol": "On nie interesuje się zbytnio modą.",
+    "ces": "O módu se moc nezajímá.",
+    "hun": "Nem igazán érdekli a divat.",
+    "tur": "Modayla pek ilgilenmiyor."
   }
 ]

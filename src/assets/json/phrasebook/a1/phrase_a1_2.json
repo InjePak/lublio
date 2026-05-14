@@ -6,7 +6,12 @@
     "deu": "Guten Morgen.",
     "rus": "Доброе утро.",
     "heb": "בוקר טוב.",
-    "kaz": "Қайырлы таң."
+    "kaz": "Қайырлы таң.",
+    "ita": "Buongiorno.",
+    "pol": "Dzień dobry.",
+    "ces": "Dobré ráno.",
+    "hun": "Jó reggelt.",
+    "tur": "Günaydın."
   },
   {
     "kor": "안녕히 가세요.",
@@ -15,7 +20,12 @@
     "deu": "Auf Wiedersehen.",
     "rus": "До свидания.",
     "heb": "להתראות.",
-    "kaz": "Сау болыңыз."
+    "kaz": "Сау болыңыз.",
+    "ita": "Arrivederci.",
+    "pol": "Do widzenia.",
+    "ces": "Na shledanou.",
+    "hun": "Viszontlátásra.",
+    "tur": "Hoşça kalın."
   },
   {
     "kor": "감사합니다.",
@@ -24,7 +34,12 @@
     "deu": "Danke.",
     "rus": "Спасибо.",
     "heb": "תודה.",
-    "kaz": "Рақмет."
+    "kaz": "Рақмет.",
+    "ita": "Grazie.",
+    "pol": "Dziękuję.",
+    "ces": "Děkuji.",
+    "hun": "Köszönöm.",
+    "tur": "Teşekkür ederim."
   },
   {
     "kor": "대단히 감사합니다.",
@@ -33,7 +48,12 @@
     "deu": "Vielen Dank.",
     "rus": "Большое спасибо.",
     "heb": "תודה רבה.",
-    "kaz": "Үлкен рақмет."
+    "kaz": "Үлкен рақмет.",
+    "ita": "Grazie mille.",
+    "pol": "Bardzo dziękuję.",
+    "ces": "Děkuji mnohokrát.",
+    "hun": "Nagyon szépen köszönöm.",
+    "tur": "Çok teşekkür ederim."
   },
   {
     "kor": "천만에요.",
@@ -42,7 +62,12 @@
     "deu": "Bitte sehr.",
     "rus": "Пожалуйста.",
     "heb": "בבקשה.",
-    "kaz": "Оқасы жоқ."
+    "kaz": "Оқасы жоқ.",
+    "ita": "Prego.",
+    "pol": "Proszę bardzo.",
+    "ces": "Není zač.",
+    "hun": "Szívesen.",
+    "tur": "Rica ederim."
   },
   {
     "kor": "실례합니다.",
@@ -51,7 +76,12 @@
     "deu": "Entschuldigung.",
     "rus": "Извините.",
     "heb": "סליחה.",
-    "kaz": "Кешіріңіз."
+    "kaz": "Кешіріңіз.",
+    "ita": "Mi scusi.",
+    "pol": "Przepraszam.",
+    "ces": "Promiňte.",
+    "hun": "Elnézést.",
+    "tur": "Affedersiniz."
   },
   {
     "kor": "미안합니다.",
@@ -60,7 +90,12 @@
     "deu": "Es tut mir leid.",
     "rus": "Простите.",
     "heb": "אני מצטער.",
-    "kaz": "Кешіріңіз."
+    "kaz": "Кешіріңіз.",
+    "ita": "Mi dispiace.",
+    "pol": "Przepraszam.",
+    "ces": "Omlouvám se.",
+    "hun": "Sajnálom.",
+    "tur": "Üzgünüm."
   },
   {
     "kor": "괜찮아요.",
@@ -69,7 +104,12 @@
     "deu": "Das ist in Ordnung.",
     "rus": "Ничего страшного.",
     "heb": "זה בסדר.",
-    "kaz": "Ештеңе етпейді."
+    "kaz": "Ештеңе етпейді.",
+    "ita": "Va bene.",
+    "pol": "W porządku.",
+    "ces": "To je v pořádku.",
+    "hun": "Rendben van.",
+    "tur": "Sorun değil."
   },
   {
     "kor": "부탁합니다.",
@@ -78,7 +118,12 @@
     "deu": "Bitte.",
     "rus": "Пожалуйста.",
     "heb": "בבקשה.",
-    "kaz": "Өтінемін."
+    "kaz": "Өтінемін.",
+    "ita": "Per favore.",
+    "pol": "Proszę.",
+    "ces": "Prosím.",
+    "hun": "Légy szíves.",
+    "tur": "Lütfen."
   },
   {
     "kor": "어떻게 지내세요?",
@@ -87,7 +132,12 @@
     "deu": "Wie geht es Ihnen?",
     "rus": "Как дела?",
     "heb": "מה שלומך?",
-    "kaz": "Қалыңыз қалай?"
+    "kaz": "Қалыңыз қалай?",
+    "ita": "Come sta?",
+    "pol": "Jak się masz?",
+    "ces": "Jak se máte?",
+    "hun": "Hogy van?",
+    "tur": "Nasılsınız?"
   },
   {
     "kor": "잘 지내요, 감사합니다.",
@@ -96,7 +146,12 @@
     "deu": "Mir geht es gut, danke.",
     "rus": "Хорошо, спасибо.",
     "heb": "אני בסדר, תודה.",
-    "kaz": "Жақсымын, рақмет."
+    "kaz": "Жақсымын, рақмет.",
+    "ita": "Bene, grazie.",
+    "pol": "Dobrze, dziękuję.",
+    "ces": "Dobře, děkuji.",
+    "hun": "Jól vagyok, köszönöm.",
+    "tur": "İyiyim, teşekkürler."
   },
   {
     "kor": "당신은요?",
@@ -105,7 +160,12 @@
     "deu": "Und Ihnen?",
     "rus": "А у вас?",
     "heb": "ואתה?",
-    "kaz": "Өзіңіз ше?"
+    "kaz": "Өзіңіз ше?",
+    "ita": "E Lei?",
+    "pol": "A Ty?",
+    "ces": "A vy?",
+    "hun": "És Ön?",
+    "tur": "Ya siz?"
   },
   {
     "kor": "잘 자요.",
@@ -114,7 +174,12 @@
     "deu": "Gute Nacht.",
     "rus": "Спокойной ночи.",
     "heb": "לילה טוב.",
-    "kaz": "Қайырлы түн."
+    "kaz": "Қайырлы түн.",
+    "ita": "Buonanotte.",
+    "pol": "Dobranoc.",
+    "ces": "Dobrou noc.",
+    "hun": "Jó éjszakát.",
+    "tur": "İyi geceler."
   },
   {
     "kor": "나중에 봐요.",
@@ -123,7 +188,12 @@
     "deu": "Bis später.",
     "rus": "До встречи.",
     "heb": "נתראה אחר כך.",
-    "kaz": "Кейін кездескенше."
+    "kaz": "Кейін кездескенше.",
+    "ita": "A dopo.",
+    "pol": "Do zobaczenia później.",
+    "ces": "Uvidíme se později.",
+    "hun": "Viszlát később.",
+    "tur": "Sonra görüşürüz."
   },
   {
     "kor": "내일 봐요.",
@@ -132,7 +202,12 @@
     "deu": "Bis morgen.",
     "rus": "До завтра.",
     "heb": "נתראה מחר.",
-    "kaz": "Ертеңге дейін."
+    "kaz": "Ертеңге дейін.",
+    "ita": "A domani.",
+    "pol": "Do jutra.",
+    "ces": "Zítra na shledanou.",
+    "hun": "Holnap találkozunk.",
+    "tur": "Yarın görüşürüz."
   },
   {
     "kor": "만나서 반가워요.",
@@ -141,7 +216,12 @@
     "deu": "Freut mich.",
     "rus": "Рад знакомству.",
     "heb": "נעים להכיר.",
-    "kaz": "Танысқаныма қуаныштымын."
+    "kaz": "Танысқаныма қуаныштымын.",
+    "ita": "Piacere di conoscerti.",
+    "pol": "Miło mi cię poznać.",
+    "ces": "Těší mě.",
+    "hun": "Örülök a találkozásnak.",
+    "tur": "Memnun oldum."
   },
   {
     "kor": "도와드릴까요?",
@@ -150,7 +230,12 @@
     "deu": "Kann ich Ihnen helfen?",
     "rus": "Могу ли я вам помочь?",
     "heb": "אפשר לעזור לך?",
-    "kaz": "Көмектесе аламын ба?"
+    "kaz": "Көмектесе аламын ба?",
+    "ita": "Posso aiutarla?",
+    "pol": "Czy mogę pomóc?",
+    "ces": "Můžu vám pomoci?",
+    "hun": "Segíthetek?",
+    "tur": "Yardımcı olabilir miyim?"
   },
   {
     "kor": "네, 부탁해요.",
@@ -159,7 +244,12 @@
     "deu": "Ja, bitte.",
     "rus": "Да, пожалуйста.",
     "heb": "כן, בבקשה.",
-    "kaz": "Иә, өтінемін."
+    "kaz": "Иә, өтінемін.",
+    "ita": "Sì, per favore.",
+    "pol": "Tak, proszę.",
+    "ces": "Ano, prosím.",
+    "hun": "Igen, kérem.",
+    "tur": "Evet, lütfen."
   },
   {
     "kor": "아니요, 괜찮습니다.",
@@ -168,7 +258,12 @@
     "deu": "Nein, danke.",
     "rus": "Нет, спасибо.",
     "heb": "לא, תודה.",
-    "kaz": "Жоқ, рақмет."
+    "kaz": "Жоқ, рақмет.",
+    "ita": "No, grazie.",
+    "pol": "Nie, dziękuję.",
+    "ces": "Ne, děkuji.",
+    "hun": "Nem, köszönöm.",
+    "tur": "Hayır, teşekkürler."
   },
   {
     "kor": "조금만 천천히 말씀해 주시겠어요?",
@@ -177,7 +272,12 @@
     "deu": "Können Sie bitte langsamer sprechen?",
     "rus": "Говорите, пожалуйста, помедленнее.",
     "heb": "תוכל לדבר לאט יותר בבקשה?",
-    "kaz": "Сәл баяу сөйлей аласыз ба?"
+    "kaz": "Сәл баяу сөйлей аласыз ба?",
+    "ita": "Può parlare più lentamente, per favore?",
+    "pol": "Czy możesz mówić wolniej?",
+    "ces": "Mohl byste mluvit pomaleji, prosím?",
+    "hun": "Tudna egy kicsit lassabban beszélni?",
+    "tur": "Lütfen biraz daha yavaş konuşabilir misiniz?"
   },
   {
     "kor": "다시 한번 말씀해 주시겠어요?",
@@ -186,7 +286,12 @@
     "deu": "Wie bitte?",
     "rus": "Повторите, пожалуйста.",
     "heb": "סליחה?",
-    "kaz": "Кешіріңіз, қайталай аласыз ба?"
+    "kaz": "Кешіріңіз, қайталай аласыз ба?",
+    "ita": "Può ripetere, per favore?",
+    "pol": "Czy możesz powtórzyć?",
+    "ces": "Můžete to prosím zopakovat?",
+    "hun": "Megismételné, kérem?",
+    "tur": "Tekrar edebilir misiniz lütfen?"
   },
   {
     "kor": "이해하지 못했습니다.",
@@ -195,7 +300,12 @@
     "deu": "Ich verstehe nicht.",
     "rus": "Я не понимаю.",
     "heb": "אני לא מבין.",
-    "kaz": "Түсінбедім."
+    "kaz": "Түсінбедім.",
+    "ita": "Non capisco.",
+    "pol": "Nie rozumiem.",
+    "ces": "Nerozumím.",
+    "hun": "Nem értem.",
+    "tur": "Anlamıyorum."
   },
   {
     "kor": "좋은 주말 보내세요.",
@@ -204,7 +314,12 @@
     "deu": "Schönes Wochenende.",
     "rus": "Приятных выходных.",
     "heb": "שיהיה לך סוף שבוע נעים.",
-    "kaz": "Демалыс күндеріңіз жақсы өтсін."
+    "kaz": "Демалыс күндеріңіз жақсы өтсін.",
+    "ita": "Buon fine settimana.",
+    "pol": "Miłego weekendu.",
+    "ces": "Hezký víkend.",
+    "hun": "Kellemes hétvégét.",
+    "tur": "İyi hafta sonları."
   },
   {
     "kor": "즐거운 시간 보내세요.",
@@ -213,7 +328,12 @@
     "deu": "Viel Spaß.",
     "rus": "Хорошо проведите время.",
     "heb": "תהנו.",
-    "kaz": "Уақытыңызды жақсы өткізіңіз."
+    "kaz": "Уақытыңызды жақсы өткізіңіз.",
+    "ita": "Divertiti.",
+    "pol": "Baw się dobrze.",
+    "ces": "Bavte se.",
+    "hun": "Érezd jól magad.",
+    "tur": "İyi eğlenceler."
   },
   {
     "kor": "조심하세요.",
@@ -222,6 +342,11 @@
     "deu": "Pass auf dich auf.",
     "rus": "Берегите себя.",
     "heb": "תשמור על עצמך.",
-    "kaz": "Абайлаңыз."
+    "kaz": "Абайлаңыз.",
+    "ita": "Stia attento.",
+    "pol": "Uważaj na siebie.",
+    "ces": "Opatrujte se.",
+    "hun": "Vigyázz magadra.",
+    "tur": "Kendine iyi bak."
   }
 ]

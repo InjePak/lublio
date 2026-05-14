@@ -6,7 +6,12 @@
     "deu": "Ich muss in die Arztpraxis gehen.",
     "rus": "Мне нужно сходить к врачу.",
     "heb": "אני צריך ללכת למרפאה.",
-    "kaz": "Маған дәрігерге (емханаға) бару керек."
+    "kaz": "Маған дәрігерге (емханаға) бару керек.",
+    "ita": "Devo andare dal medico.",
+    "pol": "Muszę iść do lekarza.",
+    "ces": "Musím jít k lékaři.",
+    "hun": "Orvoshoz kell mennem.",
+    "tur": "Doktora gitmem gerekiyor."
   },
   {
     "kor": "오늘 아침부터 몸이 좋지 않았습니다.",
@@ -15,7 +20,12 @@
     "deu": "Ich fühle mich seit heute Morgen nicht gut.",
     "rus": "Я плохо себя чувствую с самого утра.",
     "heb": "אני לא מרגיש טוב מהבוקר.",
-    "kaz": "Бүгін таңертеңнен бері өзімді нашар сезініп тұрмын."
+    "kaz": "Бүгін таңертеңнен бері өзімді нашар сезініп тұрмын.",
+    "ita": "Non mi sento bene da stamattina.",
+    "pol": "Od rana źle się czuję.",
+    "ces": "Od rána se necítím dobře.",
+    "hun": "Ma reggel óta nem érzem jól magam.",
+    "tur": "Bu sabahtan beri kendimi iyi hissetmiyorum."
   },
   {
     "kor": "어디가 아픈지 설명해 주시겠어요?",
@@ -24,7 +34,12 @@
     "deu": "Können Sie beschreiben, wo der Schmerz ist?",
     "rus": "Вы можете описать, где именно болит?",
     "heb": "תוכל לתאר איפה הכאב?",
-    "kaz": "Қай жеріңіз ауырып тұрғанын сипаттап бере аласыз ба?"
+    "kaz": "Қай жеріңіз ауырып тұрғанын сипаттап бере аласыз ба?",
+    "ita": "Può descrivere dove sente dolore?",
+    "pol": "Czy może Pan/Pani opisać, gdzie boli?",
+    "ces": "Můžete popsat, kde vás to bolí?",
+    "hun": "Le tudná írni, hol fáj?",
+    "tur": "Ağrının nerede olduğunu tarif edebilir misiniz?"
   },
   {
     "kor": "며칠 동안 계속 등이 아팠습니다.",
@@ -33,7 +48,12 @@
     "deu": "Ich habe seit ein paar Tagen Rückenschmerzen.",
     "rus": "У меня болит спина уже несколько дней.",
     "heb": "כואב לי הגב כבר כמה ימים.",
-    "kaz": "Бірнеше күннен бері арқам ауырып жүр."
+    "kaz": "Бірнеше күннен бері арқам ауырып жүр.",
+    "ita": "Ho mal di schiena da qualche giorno.",
+    "pol": "Od kilku dni bolą mnie plecy.",
+    "ces": "Už pár dní mě bolí záda.",
+    "hun": "Néhány napja fáj a hátam.",
+    "tur": "Birkaç gündür belim ağrıyor."
   },
   {
     "kor": "알레르기가 있으신가요?",
@@ -42,7 +62,12 @@
     "deu": "Sind Sie gegen etwas allergisch?",
     "rus": "У вас есть на что-нибудь аллергия?",
     "heb": "האם אתה אלרגי למשהו?",
-    "kaz": "Сізде аллергия бар ма?"
+    "kaz": "Сізде аллергия бар ма?",
+    "ita": "Ha qualche allergia?",
+    "pol": "Czy jest Pan/Pani na coś uczulony/a?",
+    "ces": "Máte na něco alergii?",
+    "hun": "Van valamilyen allergiája?",
+    "tur": "Herhangi bir şeye alerjiniz var mı?"
   },
   {
     "kor": "열을 재봐야 할 것 같습니다.",
@@ -51,7 +76,12 @@
     "deu": "Ich glaube, ich sollte Ihre Temperatur messen.",
     "rus": "Думаю, мне нужно измерить вам температуру.",
     "heb": "אני חושב שכדאי שאמדוד לך חום.",
-    "kaz": "Дене қызуыңызды өлшеу керек сияқты."
+    "kaz": "Дене қызуыңызды өлшеу керек сияқты.",
+    "ita": "Penso di doverle misurare la febbre.",
+    "pol": "Myślę, że powinienem zmierzyć Panu/Pani temperaturę.",
+    "ces": "Myslím, že bych vám měl změřit teplotu.",
+    "hun": "Azt hiszem, meg kellene mérnem a lázát.",
+    "tur": "Ateşinizi ölçmem gerektiğini düşünüyorum."
   },
   {
     "kor": "이 약을 먹으면 졸릴 수도 있습니다.",
@@ -60,7 +90,12 @@
     "deu": "Dieses Medikament kann Sie schläfrig machen.",
     "rus": "Это лекарство может вызвать сонливость.",
     "heb": "התרופה הזו עלולה לגרום לך לנמנום.",
-    "kaz": "Бұл дәрі ұйқыңызды келтіруі мүмкін."
+    "kaz": "Бұл дәрі ұйқыңызды келтіруі мүмкін.",
+    "ita": "Questo farmaco può causare sonnolenza.",
+    "pol": "Ten lek może powodować senność.",
+    "ces": "Tento lék může vyvolat ospalost.",
+    "hun": "Ettől a gyógyszertől elálmosodhat.",
+    "tur": "Bu ilaç uykunuzu getirebilir."
   },
   {
     "kor": "의사가 며칠간 휴식을 취하라고 권했습니다.",
@@ -69,7 +104,12 @@
     "deu": "Der Arzt hat mir geraten, mich ein paar Tage auszuruhen.",
     "rus": "Врач посоветовал мне отдохнуть несколько дней.",
     "heb": "הרופא המליץ לי לנוח כמה ימים.",
-    "kaz": "Дәрігер маған бірнеше күн демалуға кеңес берді."
+    "kaz": "Дәрігер маған бірнеше күн демалуға кеңес берді.",
+    "ita": "Il medico mi ha consigliato di riposare per qualche giorno.",
+    "pol": "Lekarz zalecił mi odpoczynek przez kilka dni.",
+    "ces": "Lékař mi doporučil pár dní odpočinku.",
+    "hun": "Az orvos néhány nap pihenést javasolt.",
+    "tur": "Doktor birkaç gün dinlenmemi tavsiye etti."
   },
   {
     "kor": "혈액 검사를 위해 내일 다시 오세요.",
@@ -78,7 +118,12 @@
     "deu": "Bitte kommen Sie morgen zur Blutuntersuchung wieder.",
     "rus": "Пожалуйста, приходите завтра на анализ крови.",
     "heb": "נא לחזור מחר לבדיקת דם.",
-    "kaz": "Қан тапсыру үшін ертең қайта келіңіз."
+    "kaz": "Қан тапсыру үшін ертең қайта келіңіз.",
+    "ita": "Per favore, torni domani per l'esame del sangue.",
+    "pol": "Proszę wrócić jutro na badanie krwi.",
+    "ces": "Zítra se prosím vraťte na odběr krve.",
+    "hun": "Kérem, jöjjön vissza holnap vérvételre.",
+    "tur": "Lütfen kan tahlili için yarın tekrar gelin."
   },
   {
     "kor": "건강을 위해 운동을 더 많이 해야 합니다.",
@@ -87,7 +132,12 @@
     "deu": "Ich muss mehr Sport treiben, um gesund zu bleiben.",
     "rus": "Мне нужно больше заниматься спортом, чтобы быть здоровым.",
     "heb": "אני צריך להתעמל יותר כדי לשמור על הבריאות.",
-    "kaz": "Денсаулық үшін көбірек жаттығу жасауым керек."
+    "kaz": "Денсаулық үшін көбірек жаттығу жасауым керек.",
+    "ita": "Devo fare più esercizio per restare in salute.",
+    "pol": "Muszę więcej ćwiczyć, żeby zachować zdrowie.",
+    "ces": "Musím víc cvičit, abych zůstal zdravý.",
+    "hun": "Többet kell mozognom, hogy egészséges maradjak.",
+    "tur": "Sağlıklı kalmak için daha fazla egzersiz yapmam gerekiyor."
   },
   {
     "kor": "식후에 이 알약을 복용하세요.",
@@ -96,7 +146,12 @@
     "deu": "Nehmen Sie diese Tabletten nach den Mahlzeiten ein.",
     "rus": "Принимайте эти таблетки после еды.",
     "heb": "קח את הכדורים האלה אחרי הארוחות.",
-    "kaz": "Бұл таблеткаларды тамақтан кейін ішіңіз."
+    "kaz": "Бұл таблеткаларды тамақтан кейін ішіңіз.",
+    "ita": "Prenda queste compresse dopo i pasti.",
+    "pol": "Proszę przyjmować te tabletki po posiłkach.",
+    "ces": "Tyto tablety užívejte po jídle.",
+    "hun": "Ezeket a tablettákat étkezés után vegye be.",
+    "tur": "Bu hapları yemeklerden sonra alın."
   },
   {
     "kor": "치과 예약이 오후 3시에 있습니다.",
@@ -105,7 +160,12 @@
     "deu": "Ich habe um fünfzehn Uhr einen Termin beim Zahnarzt.",
     "rus": "Я записан к стоматологу на три часа дня.",
     "heb": "יש לי תור לרופא שיניים בשלוש בצהריים.",
-    "kaz": "Сағат 15:00-де тіс дәрігеріне жазылғанмын."
+    "kaz": "Сағат 15:00-де тіс дәрігеріне жазылғанмын.",
+    "ita": "Ho un appuntamento dal dentista alle quindici.",
+    "pol": "Mam wizytę u dentysty o piętnastej.",
+    "ces": "V patnáct hodin mám termín u zubaře.",
+    "hun": "Délután háromra van időpontom a fogorvoshoz.",
+    "tur": "Saat 15:00'te dişçi randevum var."
   },
   {
     "kor": "목이 붓고 침 삼키기가 어렵습니다.",
@@ -114,7 +174,12 @@
     "deu": "Mein Hals ist geschwollen und es ist schwer zu schlucken.",
     "rus": "У меня опухло горло, и мне трудно глотать.",
     "heb": "הגרון שלי נפוח וקשה לי לבלוע.",
-    "kaz": "Тамағым ісіп, жұтыну қиындап тұр."
+    "kaz": "Тамағым ісіп, жұтыну қиындап тұр.",
+    "ita": "Ho la gola gonfia e faccio fatica a deglutire.",
+    "pol": "Mam opuchnięte gardło i trudności z połykaniem.",
+    "ces": "Mám oteklý krk a špatně se mi polyká.",
+    "hun": "Be van vizesedve a torkom és nehezen nyelek.",
+    "tur": "Boğazım şişti ve yutkunmakta zorluk çekiyorum."
   },
   {
     "kor": "스트레스가 너무 많아서 잠을 잘 수가 없습니다.",
@@ -123,7 +188,12 @@
     "deu": "Ich habe zu viel Stress und kann nicht schlafen.",
     "rus": "У меня сильный стресс, и я не могу уснуть.",
     "heb": "יש לי יותר מדי לחץ ואני לא מצליח לישון.",
-    "kaz": "Күйзеліс көп болғандықтан ұйықтай алмай жүрмін."
+    "kaz": "Күйзеліс көп болғандықтан ұйықтай алмай жүрмін.",
+    "ita": "Sono troppo stressato e non riesco a dormire.",
+    "pol": "Mam za dużo stresu i nie mogę spać.",
+    "ces": "Mám moc stresu a nemůžu spát.",
+    "hun": "Túl sok a stressz és nem tudok aludni.",
+    "tur": "Çok stresliyim ve uyuyamıyorum."
   },
   {
     "kor": "처방전은 약국에 가져가시면 됩니다.",
@@ -132,7 +202,12 @@
     "deu": "Sie können das Rezept in die Apotheke bringen.",
     "rus": "Вы можете отнести рецепт в аптеку.",
     "heb": "אתה יכול לקחת את המרשם לבית המרקחת.",
-    "kaz": "Рецептті дәріханаға апарсаңыз болады."
+    "kaz": "Рецептті дәріханаға апарсаңыз болады.",
+    "ita": "Può portare la ricetta in farmacia.",
+    "pol": "Może Pan/Pani zanieść receptę do apteki.",
+    "ces": "S receptem můžete jít do lékárny.",
+    "hun": "A receptet a gyógyszertárban válthatja be.",
+    "tur": "Reçeteyi eczaneye götürebilirsiniz."
   },
   {
     "kor": "독감 예방 주사를 맞고 싶습니다.",
@@ -141,7 +216,12 @@
     "deu": "Ich möchte eine Grippeschutzimpfung bekommen.",
     "rus": "Я хотел бы сделать прививку от гриппа.",
     "heb": "הייתי רוצה לקבל חיסון נגד שפעת.",
-    "kaz": "Тұмауға қарсы екпе алғым келеді."
+    "kaz": "Тұмауға қарсы екпе алғым келеді.",
+    "ita": "Vorrei fare il vaccino antinfluenzale.",
+    "pol": "Chciałbym zaszczepić się przeciwko grypie.",
+    "ces": "Chtěl bych se nechat očkovat proti chřipce.",
+    "hun": "Szeretnék influenz elleni oltást kapni.",
+    "tur": "Grip aşısı olmak istiyorum."
   },
   {
     "kor": "운동하다가 발목을 삐었습니다.",
@@ -150,7 +230,12 @@
     "deu": "Ich habe mir beim Sport den Knöchel verstaucht.",
     "rus": "Я подвернул ногу во время тренировки.",
     "heb": "נקעתי את הקרסול בזמן שהתאמנתי.",
-    "kaz": "Жаттығу жасап жатып тобығымды тайдырып алдым."
+    "kaz": "Жаттығу жасап жатып тобығымды тайдырып алдым.",
+    "ita": "Mi sono slogato la caviglia mentre facevo sport.",
+    "pol": "Skręciłem kostkę podczas ćwiczeń.",
+    "ces": "Při cvičení jsem si vymknul kotník.",
+    "hun": "Edzés közben kificamítottam a bokámat.",
+    "tur": "Egzersiz yaparken bileğimi burktum."
   },
   {
     "kor": "비타민을 챙겨 먹는 것이 중요합니다.",
@@ -159,7 +244,12 @@
     "deu": "Es ist wichtig, seine Vitamine einzunehmen.",
     "rus": "Важно принимать витамины.",
     "heb": "חשוב לקחת ויטמינים.",
-    "kaz": "Дәрумендерді ішіп тұру маңызды."
+    "kaz": "Дәрумендерді ішіп тұру маңызды.",
+    "ita": "È importante prendere le vitamine.",
+    "pol": "Ważne jest, aby przyjmować witaminy.",
+    "ces": "Je důležité brát vitamíny.",
+    "hun": "Fontos a vitaminok szedése.",
+    "tur": "Vitaminlerinizi almanız önemlidir."
   },
   {
     "kor": "지난밤에 심한 두통이 있었습니다.",
@@ -168,7 +258,12 @@
     "deu": "Ich hatte gestern Abend starke Kopfschmerzen.",
     "rus": "Вчера вечером у меня сильно болела голова.",
     "heb": "היה לי כאב ראש חזק אתמול בלילה.",
-    "kaz": "Кеше түнде басым қатты ауырды."
+    "kaz": "Кеше түнде басым қатты ауырды.",
+    "ita": "Ieri sera ho avuto un forte mal di testa.",
+    "pol": "Wczoraj wieczorem miałem silny ból głowy.",
+    "ces": "Včera večer jsem měl silnou bolest hlavy.",
+    "hun": "Tegnap este erős fejfájásom volt.",
+    "tur": "Dün gece şiddetli bir baş ağrım vardı."
   },
   {
     "kor": "과일과 채소를 더 많이 먹으려고 노력 중입니다.",
@@ -177,7 +272,12 @@
     "deu": "Ich versuche, mehr Obst und Gemüse zu essen.",
     "rus": "Я стараюсь есть больше фруктов и овощей.",
     "heb": "אני מנסה לאכול יותר פירות וירקות.",
-    "kaz": "Жеміс-жидек пен көкөністі көбірек жеуге тырысып жүрмін."
+    "kaz": "Жеміс-жидек пен көкөністі көбірек жеуге тырысып жүрмін.",
+    "ita": "Sto cercando di mangiare più frutta e verdura.",
+    "pol": "Staram się jeść więcej owoców i warzyw.",
+    "ces": "Snažím se jíst víc ovoce a zeleniny.",
+    "hun": "Megpróbálok több gyümölcsöt és zöldséget enni.",
+    "tur": "Daha fazla meyve ve sebze yemeye çalışıyorum."
   },
   {
     "kor": "의사가 담배를 끊으라고 말했습니다.",
@@ -186,7 +286,12 @@
     "deu": "Der Arzt hat mir gesagt, ich soll mit dem Rauchen aufhören.",
     "rus": "Врач сказал мне бросить курить.",
     "heb": "הרופא אמר לי להפסיק לעשן.",
-    "kaz": "Дәрігер маған темекіні тастау керек екенін айтты."
+    "kaz": "Дәрігер маған темекіні тастау керек екенін айтты.",
+    "ita": "Il medico mi ha detto di smettere di fumare.",
+    "pol": "Lekarz powiedział mi, żebym rzucił palenie.",
+    "ces": "Lékař mi řekl, abych přestal kouřit.",
+    "hun": "Az orvos azt mondta, hogy hagyjam abba a dohányzást.",
+    "tur": "Doktor sigarayı bırakmamı söyledi."
   },
   {
     "kor": "이 증상이 얼마나 오래되었나요?",
@@ -195,7 +300,12 @@
     "deu": "Wie lange haben Sie diese Symptome schon?",
     "rus": "Как долго у вас эти симптомы?",
     "heb": "כמה זמן יש לך את התסמינים האלה?",
-    "kaz": "Бұл белгілердің байқалғанына қанша уақыт болды?"
+    "kaz": "Бұл белгілердің байқалғанына қанша уақыт болды?",
+    "ita": "Da quanto tempo ha questi sintomi?",
+    "pol": "Jak długo ma Pan/Pani te objawy?",
+    "ces": "Jak dlouho máte tyto příznaky?",
+    "hun": "Mióta vannak ezek a tünetei?",
+    "tur": "Bu semptomlarınız ne kadar süredir var?"
   },
   {
     "kor": "심호흡을 하세요, 그러면 좀 나아질 거예요.",
@@ -204,7 +314,12 @@
     "deu": "Atmen Sie tief durch, dann werden Sie sich besser fühlen.",
     "rus": "Сделайте глубокий вдох, и вам станет лучше.",
     "heb": "קח נשימה עמוקה ותרגיש טוב יותר.",
-    "kaz": "Терең тыныс алыңыз, сонда өзіңізді жақсы сезінесіз."
+    "kaz": "Терең тыныс алыңыз, сонда өзіңізді жақсы сезінесіз.",
+    "ita": "Faccia un respiro profondo e si sentirà meglio.",
+    "pol": "Proszę wziąć głęboki oddech, poczuje się Pan/Pani lepiej.",
+    "ces": "Zhluboka se nadechněte, bude vám lépe.",
+    "hun": "Vegyen egy mély lélegzetet, jobban lesz.",
+    "tur": "Derin bir nefes alın, daha iyi hissedeceksiniz."
   },
   {
     "kor": "치료비는 얼마인가요?",
@@ -213,7 +328,12 @@
     "deu": "Wie hoch sind die Behandlungskosten?",
     "rus": "Сколько стоит лечение?",
     "heb": "כמה עולה הטיפול?",
-    "kaz": "Емдеу құны қанша?"
+    "kaz": "Емдеу құны қанша?",
+    "ita": "A quanto ammontano le spese mediche?",
+    "pol": "Ile kosztuje leczenie?",
+    "ces": "Kolik stojí léčba?",
+    "hun": "Mennyibe kerül a kezelés?",
+    "tur": "Tedavi ücreti ne kadar?"
   },
   {
     "kor": "충분한 물을 마시는 것이 건강에 좋습니다.",
@@ -222,6 +342,11 @@
     "deu": "Genug Wasser zu trinken ist gut für die Gesundheit.",
     "rus": "Пить достаточно воды полезно для здоровья.",
     "heb": "לשתות מספיק מים זה טוב לבריאות שלך.",
-    "kaz": "Жеткілікті мөлшерде су ішу денсаулыққа пайдалы."
+    "kaz": "Жеткілікті мөлшерде су ішу денсаулыққа пайдалы.",
+    "ita": "Bere molta acqua fa bene alla salute.",
+    "pol": "Picie odpowiedniej ilości wody jest zdrowe.",
+    "ces": "Pít dostatek vody je zdravé.",
+    "hun": "A megfelelő mennyiségű vízfogyasztás egészséges.",
+    "tur": "Yeterli su içmek sağlığınız için iyidir."
   }
 ]

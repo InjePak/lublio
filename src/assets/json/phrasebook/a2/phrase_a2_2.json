@@ -6,7 +6,12 @@
     "deu": "Was ist Ihr Beruf?",
     "rus": "Кем вы работаете?",
     "heb": "במה אתה עובד?",
-    "kaz": "Сіз қайда жұмыс істейсіз?"
+    "kaz": "Сіз қайда жұмыс істейсіз?",
+    "ita": "Che lavoro fa?",
+    "pol": "Czym zajmujesz się zawodowo?",
+    "ces": "Co děláte za práci?",
+    "hun": "Mivel foglalkozol?",
+    "tur": "Ne iş yapıyorsunuz?"
   },
   {
     "kor": "저는 큰 회사에서 마케팅 매니저로 일합니다.",
@@ -15,7 +20,12 @@
     "deu": "Ich arbeite als Marketingmanager in einer großen Firma.",
     "rus": "Я работаю менеджером по маркетингу в крупной фирме.",
     "heb": "אני עובד כמנהל שיווק בחברה גדולה.",
-    "kaz": "Мен үлкен компанияда маркетинг менеджері болып жұмыс істеймін."
+    "kaz": "Мен үлкен компанияда маркетинг менеджері болып жұмыс істеймін.",
+    "ita": "Lavoro come marketing manager per una grande azienda.",
+    "pol": "Pracuję jako menedżer marketingu w dużej firmie.",
+    "ces": "Pracuji jako marketingový manažer ve velké firmě.",
+    "hun": "Marketing menedzserként dolgozom egy nagy cégnél.",
+    "tur": "Büyük bir firmada pazarlama müdürü olarak çalışıyorum."
   },
   {
     "kor": "저는 사무실에서 많은 이메일을 씁니다.",
@@ -24,7 +34,12 @@
     "deu": "Ich schreibe viele E-Mails im Büro.",
     "rus": "Я пишу много электронных писем в офисе.",
     "heb": "אני כותב הרבה אימיילים במשרד.",
-    "kaz": "Мен кеңседе көптеген электрондық хаттар жазамын."
+    "kaz": "Мен кеңседе көптеген электрондық хаттар жазамын.",
+    "ita": "Scrivo molte e-mail in ufficio.",
+    "pol": "Piszę dużo e-maili w biurze.",
+    "ces": "V kanceláři píšu hodně e-mailů.",
+    "hun": "Sok e-mailt írok az irodában.",
+    "tur": "Ofiste çok fazla e-posta yazıyorum."
   },
   {
     "kor": "제 동료들은 매우 친절하고 도움이 됩니다.",
@@ -33,7 +48,12 @@
     "deu": "Meine Kollegen sind sehr freundlich und hilfsbereit.",
     "rus": "Мои коллеги очень дружелюбные и всегда готовы помочь.",
     "heb": "הקולגות שלי מאוד ידידותיים ועוזרים.",
-    "kaz": "Әріптестерім өте мейірімді және көмекшіл."
+    "kaz": "Әріптестерім өте мейірімді және көмекшіл.",
+    "ita": "I miei colleghi sono molto gentili e disponibili.",
+    "pol": "Moi koledzy są bardzo uprzejmi i pomocni.",
+    "ces": "Moji kolegové jsou velmi přátelští a ochotní.",
+    "hun": "A kollégáim nagyon kedvesek és segítőkészek.",
+    "tur": "İş arkadaşlarım çok cana yakın ve yardımsever."
   },
   {
     "kor": "근무 시간은 오전 9시부터 오후 5시까지입니다.",
@@ -42,7 +62,12 @@
     "deu": "Meine Arbeitszeiten sind von neun bis fünf.",
     "rus": "Мой рабочий день с девяти до пяти.",
     "heb": "שעות העבודה שלי הן מתשע עד חמש.",
-    "kaz": "Жұмыс уақытым таңғы 9-дан кешкі 5-ке дейін."
+    "kaz": "Жұмыс уақытым таңғы 9-дан кешкі 5-ке дейін.",
+    "ita": "Il mio orario di lavoro è dalle nove alle diciassette.",
+    "pol": "Moje godziny pracy są od dziewiątej do siedemnastej.",
+    "ces": "Moje pracovní doba je od devíti do pěti.",
+    "hun": "A munkaidőm kilenctől ötig tart.",
+    "tur": "Mesaim sabah 9'dan akşam 5'e kadar."
   },
   {
     "kor": "저는 매주 수요일에 회의를 합니다.",
@@ -51,7 +76,12 @@
     "deu": "Ich habe jeden Mittwoch eine Besprechung.",
     "rus": "Каждую среду у меня совещание.",
     "heb": "יש לי ישיבה בכל יום רביעי.",
-    "kaz": "Әр сәрсенбіде менде жиналыс болады."
+    "kaz": "Әр сәрсенбіде менде жиналыс болады.",
+    "ita": "Ho una riunione ogni mercoledì.",
+    "pol": "W każdą środę mam spotkanie.",
+    "ces": "Každou středu mám schůzi.",
+    "hun": "Minden szerdán van egy megbeszélésem.",
+    "tur": "Her çarşamba bir toplantım var."
   },
   {
     "kor": "새로운 직장을 찾고 있습니다.",
@@ -60,7 +90,12 @@
     "deu": "Ich suche einen neuen Job.",
     "rus": "Я ищу новую работу.",
     "heb": "אני מחפש עבודה חדשה.",
-    "kaz": "Мен жаңа жұмыс іздеп жүрмін."
+    "kaz": "Мен жаңа жұмыс іздеп жүрмін.",
+    "ita": "Sto cercando un nuovo lavoro.",
+    "pol": "Szukam nowej pracy.",
+    "ces": "Hledám novou práci.",
+    "hun": "Új munkát keresek.",
+    "tur": "Yeni bir iş arıyorum."
   },
   {
     "kor": "어제 제 이력서를 보냈습니다.",
@@ -69,7 +104,12 @@
     "deu": "Ich habe gestern meinen Lebenslauf geschickt.",
     "rus": "Вчера я отправил своё резюме.",
     "heb": "שלחתי את קורות החיים שלי אתמול.",
-    "kaz": "Кеше мен түйіндемемді жібердім."
+    "kaz": "Кеше мен түйіндемемді жібердім.",
+    "ita": "Ieri ho inviato il mio curriculum.",
+    "pol": "Wczoraj wysłałem swoje CV.",
+    "ces": "Včera jsem poslal svůj životopis.",
+    "hun": "Tegnap elküldtem az önéletrajzomat.",
+    "tur": "Dün özgeçmişimi gönderdim."
   },
   {
     "kor": "저는 다음 주에 면접이 있습니다.",
@@ -78,7 +118,12 @@
     "deu": "Ich habe nächste Woche ein Vorstellungsgespräch.",
     "rus": "На следующей неделе у меня собеседование.",
     "heb": "יש לי ראיון עבודה בשבוע הבא.",
-    "kaz": "Келесі аптада менде жұмыс бойынша сұхбат бар."
+    "kaz": "Келесі аптада менде жұмыс бойынша сұхбат бар.",
+    "ita": "Ho un colloquio di lavoro la prossima settimana.",
+    "pol": "W przyszłym tygodniu mam rozmowę o pracę.",
+    "ces": "Příští týden mě čeká pracovní pohovor.",
+    "hun": "Jövő héten állásinterjúm lesz.",
+    "tur": "Gelecek hafta bir iş görüşmem var."
   },
   {
     "kor": "사무실에서 유니폼을 입어야 하나요?",
@@ -87,7 +132,12 @@
     "deu": "Muss ich im Büro eine Uniform tragen?",
     "rus": "Нужно ли мне носить форму в офисе?",
     "heb": "האם אני צריך ללבוש מדים במשרד?",
-    "kaz": "Кеңседе форма киюім керек пе?"
+    "kaz": "Кеңседе форма киюім керек пе?",
+    "ita": "Devo indossare la divisa in ufficio?",
+    "pol": "Czy w biurze muszę nosić mundur?",
+    "ces": "Musím v kanceláři nosit uniformu?",
+    "hun": "Kell egyenruhát viselnem az irodában?",
+    "tur": "Ofiste üniforma giymem gerekiyor mu?"
   },
   {
     "kor": "제 상사는 매우 엄격하지만 공정합니다.",
@@ -96,7 +146,12 @@
     "deu": "Mein Chef ist sehr streng, aber fair.",
     "rus": "Мой начальник очень строгий, но справедливый.",
     "heb": "הבוס שלי מאוד קשוח אבל הוגן.",
-    "kaz": "Бастығым өте қатал, бірақ әділ."
+    "kaz": "Бастығым өте қатал, бірақ әділ.",
+    "ita": "Il mio capo è molto severo ma giusto.",
+    "pol": "Mój szef jest bardzo surowy, ale sprawiedliwy.",
+    "ces": "Můj šéf je velmi přísný, ale spravedlivý.",
+    "hun": "A főnököm nagyon szigorú, de igazságos.",
+    "tur": "Patronum çok serttir ama adildir."
   },
   {
     "kor": "가끔 집에서 재택근무를 합니다.",
@@ -105,7 +160,12 @@
     "deu": "Ich arbeite manchmal von zu Hause aus.",
     "rus": "Иногда я работаю из дома.",
     "heb": "לפעמים אני עובד מהבית.",
-    "kaz": "Кейде мен үйден жұмыс істеймін."
+    "kaz": "Кейде мен үйден жұмыс істеймін.",
+    "ita": "A volte lavoro da casa.",
+    "pol": "Czasami pracuję z domu.",
+    "ces": "Někdy pracuji z domova.",
+    "hun": "Néha otthonról dolgozom.",
+    "tur": "Bazen evden çalışıyorum."
   },
   {
     "kor": "저는 업무상 여행을 자주 갑니다.",
@@ -114,7 +174,12 @@
     "deu": "Ich reise oft beruflich.",
     "rus": "Я часто езжу в командировки.",
     "heb": "אני נוסע הרבה במסגרת העבודה.",
-    "kaz": "Мен жұмыс бабымен жиі сапарға шығамын."
+    "kaz": "Мен жұмыс бабымен жиі сапарға шығамын.",
+    "ita": "Viaggio spesso per lavoro.",
+    "pol": "Często podróżuję służbowo.",
+    "ces": "Často cestuji pracovně.",
+    "hun": "Gyakran utazom a munkám miatt.",
+    "tur": "İş için sık sık seyahat ederim."
   },
   {
     "kor": "저는 제 직업에 만족합니다.",
@@ -123,7 +188,12 @@
     "deu": "Ich bin zufrieden mit meinem Beruf.",
     "rus": "Я доволен своей работой.",
     "heb": "אני מרוצה מהעבודה שלי.",
-    "kaz": "Мен өз жұмысыма ризамын."
+    "kaz": "Мен өз жұмысыма ризамын.",
+    "ita": "Sono soddisfatto del mio lavoro.",
+    "pol": "Jestem zadowolony ze swojej pracy.",
+    "ces": "Jsem se svou prací spokojený.",
+    "hun": "Elégedett vagyok a munkámmal.",
+    "tur": "İşimden memnunum."
   },
   {
     "kor": "오늘 할 일이 너무 많습니다.",
@@ -132,7 +202,12 @@
     "deu": "Ich habe heute zu viel Arbeit zu tun.",
     "rus": "Сегодня у меня слишком много работы.",
     "heb": "יש לי המון עבודה היום.",
-    "kaz": "Бүгін менде жұмыс өте көп."
+    "kaz": "Бүгін менде жұмыс өте көп.",
+    "ita": "Oggi ho troppe cose da fare.",
+    "pol": "Mam dzisiaj za dużo pracy.",
+    "ces": "Dnes mám příliš mnoho práce.",
+    "hun": "Túl sok dolgom van ma.",
+    "tur": "Bugün yapacak çok işim var."
   },
   {
     "kor": "점심시간에 같이 밥 먹을까요?",
@@ -141,7 +216,12 @@
     "deu": "Wollen wir in der Pause zusammen essen?",
     "rus": "Пообедаем вместе во время перерыва?",
     "heb": "נאכל צהריים ביחד בהפסקה?",
-    "kaz": "Үзіліс кезінде бірге түскі ас ішейік пе?"
+    "kaz": "Үзіліс кезінде бірге түскі ас ішейік пе?",
+    "ita": "Pranziamo insieme durante la pausa?",
+    "pol": "Zjemy razem lunch podczas przerwy?",
+    "ces": "Dáme si během pauzy společně oběd?",
+    "hun": "Ebédelünk együtt a szünetben?",
+    "tur": "Molada birlikte öğle yemeği yiyelim mi?"
   },
   {
     "kor": "그녀는 은행에서 회계사로 일합니다.",
@@ -150,7 +230,12 @@
     "deu": "Sie arbeitet als Buchhalterin in einer Bank.",
     "rus": "Она работает бухгалтером в банке.",
     "heb": "היא עובדת כרואת חשבון בבנק.",
-    "kaz": "Ол банкте есепші болып жұмыс істейді."
+    "kaz": "Ол банкте есепші болып жұмыс істейді.",
+    "ita": "Lei lavora come contabile in una banca.",
+    "pol": "Ona pracuje jako księgowa w banku.",
+    "ces": "Pracuje jako účetní v bance.",
+    "hun": "Könyvelőként dolgozik egy bankban.",
+    "tur": "O, bir bankada muhasebeci olarak çalışıyor."
   },
   {
     "kor": "제 컴퓨터가 작동하지 않습니다.",
@@ -159,7 +244,12 @@
     "deu": "Mein Computer funktioniert nicht.",
     "rus": "Мой компьютер не работает.",
     "heb": "המחשב שלי לא עובד.",
-    "kaz": "Менің компьютерім жұмыс істемей тұр."
+    "kaz": "Менің компьютерім жұмыс істемей тұр.",
+    "ita": "Il mio computer non funziona.",
+    "pol": "Mój komputer nie działa.",
+    "ces": "Můj počítač nefunguje.",
+    "hun": "Nem működik a számítógépem.",
+    "tur": "Bilgisayarım çalışmıyor."
   },
   {
     "kor": "저는 야근하는 것을 좋아하지 않습니다.",
@@ -168,7 +258,12 @@
     "deu": "Ich arbeite nicht gerne Überstunden.",
     "rus": "Я не люблю работать сверхурочно.",
     "heb": "אני לא אוהב לעבוד שעות נוספות.",
-    "kaz": "Мерзімнен тыс жұмыс істегенді ұнатпаймын."
+    "kaz": "Мерзімнен тыс жұмыс істегенді ұнатпаймын.",
+    "ita": "Non mi piace fare gli straordinari.",
+    "pol": "Nie lubię pracować w nadgodzinach.",
+    "ces": "Nerada pracuji přesčas.",
+    "hun": "Nem szeretek túlórázni.",
+    "tur": "Fazla mesai yapmayı sevmiyorum."
   },
   {
     "kor": "이 프로젝트는 매우 중요합니다.",
@@ -177,7 +272,12 @@
     "deu": "Dieses Projekt ist sehr wichtig.",
     "rus": "Этот проект очень важен.",
     "heb": "הפרויקט הזה מאוד חשוב.",
-    "kaz": "Бұл жоба өте маңызды."
+    "kaz": "Бұл жоба өте маңызды.",
+    "ita": "Questo progetto è molto importante.",
+    "pol": "Ten projekt jest bardzo ważny.",
+    "ces": "Tento projekt je velmi důležitý.",
+    "hun": "Ez a projekt nagyon fontos.",
+    "tur": "Bu proje çok önemli."
   },
   {
     "kor": "지난달에 승진했습니다.",
@@ -186,7 +286,12 @@
     "deu": "Ich wurde letzten Monat befördert.",
     "rus": "В прошлом месяце меня повысили.",
     "heb": "קיבלתי קידום בחודש שעבר.",
-    "kaz": "Өткен айда менің лауазымым өсті."
+    "kaz": "Өткен айда менің лауазымым өсті.",
+    "ita": "Ho ricevuto una promozione il mese scorso.",
+    "pol": "W zeszłym miesiącu dostałem awans.",
+    "ces": "Minulý měsíc mě povýšili.",
+    "hun": "Múlt hónapban előléptettek.",
+    "tur": "Geçen ay terfi aldım."
   },
   {
     "kor": "그는 고객들과 통화 중입니다.",
@@ -195,7 +300,12 @@
     "deu": "Er telefoniert mit Kunden.",
     "rus": "Он говорит по телефону с клиентами.",
     "heb": "הוא בטלפון עם לקוחות.",
-    "kaz": "Ол клиенттермен телефонмен сөйлесіп жатыр."
+    "kaz": "Ол клиенттермен телефонмен сөйлесіп жатыр.",
+    "ita": "Lui è al telefono con dei clienti.",
+    "pol": "On rozmawia przez telefon z klientami.",
+    "ces": "Telefonuje s klienty.",
+    "hun": "Ügyfelekkel telefonál.",
+    "tur": "O, müşterilerle telefonda görüşüyor."
   },
   {
     "kor": "사무실에 일찍 도착했습니다.",
@@ -204,7 +314,12 @@
     "deu": "Ich bin früh im Büro angekommen.",
     "rus": "Я пришел в офис рано.",
     "heb": "הגעתי למשרד מוקדם.",
-    "kaz": "Мен кеңсеге ерте келдім."
+    "kaz": "Мен кеңсеге ерте келдім.",
+    "ita": "Sono arrivato in ufficio presto.",
+    "pol": "Przyjechałem do biura wcześnie.",
+    "ces": "Dorazil jsem do kanceláře brzy.",
+    "hun": "Korán érkeztem az irodába.",
+    "tur": "Ofise erken geldim."
   },
   {
     "kor": "급여가 좋은 편입니다.",
@@ -213,7 +328,12 @@
     "deu": "Das Gehalt ist recht gut.",
     "rus": "Зарплата довольно хорошая.",
     "heb": "המשכורת די טובה.",
-    "kaz": "Жалақысы айтарлықтай жақсы."
+    "kaz": "Жалақысы айтарлықтай жақсы.",
+    "ita": "Lo stipendio è piuttosto buono.",
+    "pol": "Pensja jest całkiem dobra.",
+    "ces": "Plat je docela dobrý.",
+    "hun": "A fizetés elég jó.",
+    "tur": "Maaşı oldukça iyi."
   },
   {
     "kor": "퇴직 후에는 여행을 하고 싶습니다.",
@@ -222,6 +342,11 @@
     "deu": "Nach der Rente möchte ich reisen.",
     "rus": "Я хочу путешествовать после выхода на пенсию.",
     "heb": "אני רוצה לטייל אחרי שאצא לפנסיה.",
-    "kaz": "Мен зейнетке шыққаннан кейін саяхаттағым келеді."
+    "kaz": "Мен зейнетке шыққаннан кейін саяхаттағым келеді.",
+    "ita": "Voglio viaggiare dopo la pensione.",
+    "pol": "Chcę podróżować po przejściu na emeryturę.",
+    "ces": "Po odchodu do důchodu chci cestovat.",
+    "hun": "A nyugdíj után utazni szeretnék.",
+    "tur": "Emekli olduktan sonra seyahat etmek istiyorum."
   }
 ]

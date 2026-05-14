@@ -6,7 +6,12 @@
     "deu": "Ich fühle mich nicht gut.",
     "rus": "Я плохо себя чувствую.",
     "heb": "אני לא מרגיש טוב.",
-    "kaz": "Өзімді нашар сезініп тұрмын."
+    "kaz": "Өзімді нашар сезініп тұрмын.",
+    "ita": "Non mi sento bene.",
+    "pol": "Nie czuję się dobrze.",
+    "ces": "Necítím se dobře.",
+    "hun": "Nem érzem jól magam.",
+    "tur": "Kendimi iyi hissetmiyorum."
   },
   {
     "kor": "어디가 아프신가요?",
@@ -15,7 +20,12 @@
     "deu": "Wo tut es weh?",
     "rus": "Что у вас болит?",
     "heb": "איפה כואב לך?",
-    "kaz": "Қай жеріңіз ауырады?"
+    "kaz": "Қай жеріңіз ауырады?",
+    "ita": "Dove le fa male?",
+    "pol": "Co pana/panią boli?",
+    "ces": "Kde vás to bolí?",
+    "hun": "Hol fáj?",
+    "tur": "Nereniz ağrıyor?"
   },
   {
     "kor": "머리가 아파요.",
@@ -24,7 +34,12 @@
     "deu": "Ich habe Kopfschmerzen.",
     "rus": "У меня болит голова.",
     "heb": "כואב לי הראש.",
-    "kaz": "Басым ауырып тұр."
+    "kaz": "Басым ауырып тұр.",
+    "ita": "Ho mal di testa.",
+    "pol": "Boli mnie głowa.",
+    "ces": "Bolí mě hlava.",
+    "hun": "Fáj a fejem.",
+    "tur": "Başım ağrıyor."
   },
   {
     "kor": "배가 아파요.",
@@ -33,7 +48,12 @@
     "deu": "Ich habe Bauchschmerzen.",
     "rus": "У меня болит живот.",
     "heb": "כואבת לי הבטן.",
-    "kaz": "Ішім ауырып тұр."
+    "kaz": "Ішім ауырып тұр.",
+    "ita": "Ho mal di stomaco.",
+    "pol": "Boli mnie brzuch.",
+    "ces": "Bolí mě břicho.",
+    "hun": "Fáj a hasam.",
+    "tur": "Karnım ağrıyor."
   },
   {
     "kor": "목이 아파요.",
@@ -42,7 +62,12 @@
     "deu": "Ich habe Halsschmerzen.",
     "rus": "У меня болит горло.",
     "heb": "כואב לי הגרון.",
-    "kaz": "Тамағым ауырып тұр."
+    "kaz": "Тамағым ауырып тұр.",
+    "ita": "Ho mal di gola.",
+    "pol": "Boli mnie gardło.",
+    "ces": "Bolí mě v krku.",
+    "hun": "Fáj a torkom.",
+    "tur": "Boğazım ağrıyor."
   },
   {
     "kor": "감기에 걸렸어요.",
@@ -51,7 +76,12 @@
     "deu": "Ich habe eine Erkältung.",
     "rus": "Я простудился (простудилась).",
     "heb": "הצטננתי.",
-    "kaz": "Мен суық тигізіп алдым."
+    "kaz": "Мен суық тигізіп алдым.",
+    "ita": "Ho il raffreddore.",
+    "pol": "Jestem przeziębiony/a.",
+    "ces": "Mám rýmu.",
+    "hun": "Megfáztam.",
+    "tur": "Grip oldum."
   },
   {
     "kor": "열이 나요.",
@@ -60,7 +90,12 @@
     "deu": "Ich habe Fieber.",
     "rus": "У меня температура.",
     "heb": "יש לי חום.",
-    "kaz": "Қызуым көтеріліп тұр."
+    "kaz": "Қызуым көтеріліп тұр.",
+    "ita": "Ho la febbre.",
+    "pol": "Mam gorączkę.",
+    "ces": "Mám teplotu.",
+    "hun": "Lázas vagyok.",
+    "tur": "Ateşim var."
   },
   {
     "kor": "기침을 많이 해요.",
@@ -69,7 +104,12 @@
     "deu": "Ich habe starken Husten.",
     "rus": "Я сильно кашляю.",
     "heb": "יש לי שיעול חזק.",
-    "kaz": "Қатты жөтеліп тұрмын."
+    "kaz": "Қатты жөтеліп тұрмын.",
+    "ita": "Ho una brutta tosse.",
+    "pol": "Mam silny kaszel.",
+    "ces": "Mám silný kašel.",
+    "hun": "Erősen köhögök.",
+    "tur": "Çok öksürüyorum."
   },
   {
     "kor": "피곤해요.",
@@ -78,7 +118,12 @@
     "deu": "Ich bin müde.",
     "rus": "Я устал (устала).",
     "heb": "אני עייף(ה).",
-    "kaz": "Мен шаршадым."
+    "kaz": "Мен шаршадым.",
+    "ita": "Sono stanco/a.",
+    "pol": "Jestem zmęczony/a.",
+    "ces": "Jsem unavený/á.",
+    "hun": "Fáradt vagyok.",
+    "tur": "Yorgunum."
   },
   {
     "kor": "의사가 필요해요.",
@@ -87,7 +132,12 @@
     "deu": "Ich brauche einen Arzt.",
     "rus": "Мне нужен врач.",
     "heb": "אני צריך רופא.",
-    "kaz": "Маған дәрігер керек."
+    "kaz": "Маған дәрігер керек.",
+    "ita": "Ho bisogno di un medico.",
+    "pol": "Potrzebuję lekarza.",
+    "ces": "Potřebuji doktora.",
+    "hun": "Orvosra van szükségem.",
+    "tur": "Bir doktora ihtiyacım var."
   },
   {
     "kor": "병원에 가야 해요.",
@@ -96,7 +146,12 @@
     "deu": "Ich muss zum Arzt.",
     "rus": "Мне нужно в больницу.",
     "heb": "אני חייב ללכת לבית החולים.",
-    "kaz": "Маған ауруханаға бару керек."
+    "kaz": "Маған ауруханаға бару керек.",
+    "ita": "Devo andare in ospedale.",
+    "pol": "Muszę iść do szpitala.",
+    "ces": "Musím jít do nemocnice.",
+    "hun": "Kórházba kell mennem.",
+    "tur": "Hastaneye gitmem lazım."
   },
   {
     "kor": "약국이 어디에 있나요?",
@@ -105,7 +160,12 @@
     "deu": "Wo ist die Apotheke?",
     "rus": "Где находится аптека?",
     "heb": "איפה בית המרקחת?",
-    "kaz": "Дәріхана қай жерде орналасқан?"
+    "kaz": "Дәріхана қай жерде орналасқан?",
+    "ita": "Dov'è la farmacia?",
+    "pol": "Gdzie jest apteka?",
+    "ces": "Kde je lékárna?",
+    "hun": "Hol van a gyógyszertár?",
+    "tur": "Eczane nerede?"
   },
   {
     "kor": "약이 좀 필요합니다.",
@@ -114,7 +174,12 @@
     "deu": "Ich brauche etwas Medizin.",
     "rus": "Мне нужны лекарства.",
     "heb": "אני צריך תרופה.",
-    "kaz": "Маған дәрі-дәрмек керек."
+    "kaz": "Маған дәрі-дәрмек керек.",
+    "ita": "Ho bisogno di medicine.",
+    "pol": "Potrzebuję leków.",
+    "ces": "Potřebuji nějaké léky.",
+    "hun": "Gyógyszerre van szükségem.",
+    "tur": "İlaca ihtiyacım var."
   },
   {
     "kor": "눈이 아파요.",
@@ -123,7 +188,12 @@
     "deu": "Meine Augen tun weh.",
     "rus": "У меня болят глаза.",
     "heb": "כואבות לי העיניים.",
-    "kaz": "Көзім ауырып тұр."
+    "kaz": "Көзім ауырып тұр.",
+    "ita": "Mi fanno male gli occhi.",
+    "pol": "Bolą mnie oczy.",
+    "ces": "Bolí mě oči.",
+    "hun": "Fáj a szemem.",
+    "tur": "Gözlerim ağrıyor."
   },
   {
     "kor": "다리가 부러졌어요.",
@@ -132,7 +202,12 @@
     "deu": "Ich habe mir das Bein gebроchen.",
     "rus": "Я сломал (сломала) ногу.",
     "heb": "שברתי את הרגל.",
-    "kaz": "Аяғымды сындырып алдым."
+    "kaz": "Аяғымды сындырып алдым.",
+    "ita": "Mi sono rotto la gamba.",
+    "pol": "Złamałem/am nogę.",
+    "ces": "Zlomil jsem si nohu.",
+    "hun": "Eltörtem a lábam.",
+    "tur": "Bacağımı kırdım."
   },
   {
     "kor": "손을 씻으세요.",
@@ -141,7 +216,12 @@
     "deu": "Waschen Sie Ihre Hände.",
     "rus": "Мойте руки.",
     "heb": "שטוף את הידיים.",
-    "kaz": "Қолыңызды жуыңыз."
+    "kaz": "Қолыңызды жуыңыз.",
+    "ita": "Si lavi le mani.",
+    "pol": "Umyj ręce.",
+    "ces": "Umyjte si ruce.",
+    "hun": "Moss kezet.",
+    "tur": "Ellerinizi yıkayın."
   },
   {
     "kor": "건강에 좋은 음식을 드세요.",
@@ -150,7 +230,12 @@
     "deu": "Essen Sie gesund.",
     "rus": "Ешьте здоровую пищу.",
     "heb": "תאכל אוכל בריא.",
-    "kaz": "Дұрыс тамақтаныңыз."
+    "kaz": "Дұрыс тамақтаныңыз.",
+    "ita": "Mangi cibo sano.",
+    "pol": "Jedz zdrową żywność.",
+    "ces": "Jezte zdravé jídlo.",
+    "hun": "Egyél egészséges ételeket.",
+    "tur": "Sağlıklı yiyecekler yiyin."
   },
   {
     "kor": "충분히 자야 해요.",
@@ -159,7 +244,12 @@
     "deu": "Du brauchst genug Schlaf.",
     "rus": "Вам нужно достаточно спать.",
     "heb": "כדאי לך לישון מספיק.",
-    "kaz": "Сізге ұйқыңызды қандыру керек."
+    "kaz": "Сізге ұйқыңызды қандыру керек.",
+    "ita": "Hai bisogno di dormire a sufficienza.",
+    "pol": "Musisz się wyspać.",
+    "ces": "Potřebuješ dostatek spánku.",
+    "hun": "Elegendő alvásra van szükséged.",
+    "tur": "Yeterince uyuman lazım."
   },
   {
     "kor": "숨을 깊게 들이마시세요.",
@@ -168,7 +258,12 @@
     "deu": "Atmen Sie tief ein.",
     "rus": "Сделайте глубокий вдох.",
     "heb": "קח נשימה עמוקה.",
-    "kaz": "Терең тыныс алыңыз."
+    "kaz": "Терең тыныс алыңыз.",
+    "ita": "Faccia un respiro profondo.",
+    "pol": "Weź głęboki oddech.",
+    "ces": "Zhluboka se nadechněte.",
+    "hun": "Vegyen egy mély lélegzetet.",
+    "tur": "Derin bir nefes alın."
   },
   {
     "kor": "혈압이 높아요.",
@@ -177,7 +272,12 @@
     "deu": "Mein Blutdruck ist hoch.",
     "rus": "У меня высокое давление.",
     "heb": "לחץ הדם שלי גבוה.",
-    "kaz": "Қан қысымым жоғары."
+    "kaz": "Қан қысымым жоғары.",
+    "ita": "Ho la pressione alta.",
+    "pol": "Mam wysokie ciśnienie.",
+    "ces": "Mám vysoký krevní tlak.",
+    "hun": "Magas a vérnyomásom.",
+    "tur": "Tansiyonum yüksek."
   },
   {
     "kor": "알레르기가 있나요?",
@@ -186,7 +286,12 @@
     "deu": "Hast du Allergien?",
     "rus": "У вас есть аллергия?",
     "heb": "יש לך אלרגיות?",
-    "kaz": "Аллергияңыз бар ма?"
+    "kaz": "Аллергияңыз бар ма?",
+    "ita": "Ha qualche allergia?",
+    "pol": "Czy ma pan/pani jakieś alergie?",
+    "ces": "Máte nějaké alergie?",
+    "hun": "Van valamilyen allergiája?",
+    "tur": "Alerjiniz var mı?"
   },
   {
     "kor": "저는 견과류 알레르기가 있어요.",
@@ -195,7 +300,12 @@
     "deu": "Ich bin allergisch gegen Nüsse.",
     "rus": "У меня аллергия на орехи.",
     "heb": "אני אלרגי לאגוזים.",
-    "kaz": "Менің жаңғаққа аллергиям бар."
+    "kaz": "Менің жаңғаққа аллергиям бар.",
+    "ita": "Sono allergico alle noci.",
+    "pol": "Mam alergię na orzechy.",
+    "ces": "Mám alergii na ořechy.",
+    "hun": "Allergiás vagyok a diófélékre.",
+    "tur": "Kuruyemişe alerjim var."
   },
   {
     "kor": "이 약을 하루에 세 번 드세요.",
@@ -204,7 +314,12 @@
     "deu": "Nehmen Sie diese Medizin dreimal täglich.",
     "rus": "Принимайте это лекарство три раза в день.",
     "heb": "קח את התרופה הזו שלוש פעמים ביום.",
-    "kaz": "Бұл дәріні күніне үш рет ішіңіз."
+    "kaz": "Бұл дәріні күніне үш рет ішіңіз.",
+    "ita": "Prenda questa medicina tre volte al giorno.",
+    "pol": "Proszę brać ten lek trzy razy dziennie.",
+    "ces": "Berte tento lék třikrát denně.",
+    "hun": "Naponta háromszor vegye be ezt a gyógyszert.",
+    "tur": "Bu ilacı günde üç kez alın."
   },
   {
     "kor": "안경을 써야 해요.",
@@ -213,7 +328,12 @@
     "deu": "Ich muss eine Brille tragen.",
     "rus": "Мне нужно носить очки.",
     "heb": "אני צריך להרכיב משקפיים.",
-    "kaz": "Маған көзілдірік кию керек."
+    "kaz": "Маған көзілдірік кию керек.",
+    "ita": "Devo portare gli occhiali.",
+    "pol": "Muszę nosić okulary.",
+    "ces": "Musím nosit brýle.",
+    "hun": "Szemüveget kell hordanom.",
+    "tur": "Gözlük takmam gerekiyor."
   },
   {
     "kor": "빨리 낫길 바라요.",
@@ -222,6 +342,11 @@
     "deu": "Gute Besserung.",
     "rus": "Поправляйтесь скорее.",
     "heb": "תהיה בריא בקרוב.",
-    "kaz": "Тезірек сауығып кетіңіз."
+    "kaz": "Тезірек сауығып кетіңіз.",
+    "ita": "Guarisci presto.",
+    "pol": "Szybkiego powrotu do zdrowia.",
+    "ces": "Brzy se uzdrav.",
+    "hun": "Mielőbbi jobbulást!",
+    "tur": "Geçmiş olsun."
   }
 ]

@@ -6,7 +6,12 @@
     "deu": "Ich wohne in einer Wohnung.",
     "rus": "Я живу в квартире.",
     "heb": "אני גר בדירה.",
-    "kaz": "Мен пәтерде тұрамын."
+    "kaz": "Мен пәтерде тұрамын.",
+    "ita": "Abito in un appartamento.",
+    "pol": "Mieszkam w bloku.",
+    "ces": "Bydlím v bytě.",
+    "hun": "Lakásban lakom.",
+    "tur": "Bir apartmanda yaşıyorum."
   },
   {
     "kor": "제 집은 작지만 편안합니다.",
@@ -15,7 +20,12 @@
     "deu": "Mein Haus ist klein, aber gemütlich.",
     "rus": "Мой дом маленький, но уютный.",
     "heb": "הבית שלי קטן אבל נוח.",
-    "kaz": "Менің үйім кішкентай, бірақ жайлы."
+    "kaz": "Менің үйім кішкентай, бірақ жайлы.",
+    "ita": "La mia casa è piccola ma accogliente.",
+    "pol": "Mój dom jest mały, ale przytulny.",
+    "ces": "Můj dům je malý, ale útulný.",
+    "hun": "A házam kicsi, de kényelmes.",
+    "tur": "Evim küçük ama konforlu."
   },
   {
     "kor": "우리 집에는 방이 세 개 있습니다.",
@@ -24,7 +34,12 @@
     "deu": "Es gibt drei Zimmer in meinem Haus.",
     "rus": "В моем доме три комнаты.",
     "heb": "יש שלושה חדרים בבית שלי.",
-    "kaz": "Үйімде үш бөлме бар."
+    "kaz": "Үйімде үш бөлме бар.",
+    "ita": "In casa mia ci sono tre stanze.",
+    "pol": "W moim domu są trzy pokoje.",
+    "ces": "V mém domě jsou tři pokoje.",
+    "hun": "Három szoba van a házamban.",
+    "tur": "Evimde üç oda var."
   },
   {
     "kor": "이곳은 거실입니다.",
@@ -33,7 +48,12 @@
     "deu": "Das ist das Wohnzimmer.",
     "rus": "Это гостиная.",
     "heb": "זה הסלון.",
-    "kaz": "Бұл — қонақ бөлмесі."
+    "kaz": "Бұл — қонақ бөлмесі.",
+    "ita": "Questo è il soggiorno.",
+    "pol": "To jest salon.",
+    "ces": "To je obývací pokoj.",
+    "hun": "Ez a nappali.",
+    "tur": "Burası oturma odası."
   },
   {
     "kor": "부엌은 어디에 있나요?",
@@ -42,7 +62,12 @@
     "deu": "Wo ist die Küche?",
     "rus": "Где находится кухня?",
     "heb": "איפה המטבח?",
-    "kaz": "Ас үй қайда?"
+    "kaz": "Ас үй қайда?",
+    "ita": "Dov'è la cucina?",
+    "pol": "Gdzie jest kuchnia?",
+    "ces": "Kde je kuchyně?",
+    "hun": "Hol van a konyha?",
+    "tur": "Mutfak nerede?"
   },
   {
     "kor": "침실은 위층에 있습니다.",
@@ -51,7 +76,12 @@
     "deu": "Das Schlafzimmer ist oben.",
     "rus": "Спальня находится наверху.",
     "heb": "בקומה העליונה.",
-    "kaz": "Жатын бөлме жоғарғы қабатта."
+    "kaz": "Жатын бөлме жоғарғы қабатта.",
+    "ita": "La camera da letto è al piano di sopra.",
+    "pol": "Sypialnia jest na górze.",
+    "ces": "Ložnice je nahoře.",
+    "hun": "A hálószoba az emeleten van.",
+    "tur": "Yatak odası üst katta."
   },
   {
     "kor": "화장실은 깨끗합니다.",
@@ -60,7 +90,12 @@
     "deu": "Das Badezimmer ist sauber.",
     "rus": "Ванная комната чистая.",
     "heb": "חדר האמבטיה נקי.",
-    "kaz": "Жуйнатын бөлме таза."
+    "kaz": "Жуйнатын бөлме таза.",
+    "ita": "Il bagno è pulito.",
+    "pol": "Łazienka jest czysta.",
+    "ces": "Koupelna je čistá.",
+    "hun": "A fürdőszoba tiszta.",
+    "tur": "Banyo temiz."
   },
   {
     "kor": "거실에 소파가 있습니다.",
@@ -69,7 +104,12 @@
     "deu": "Es gibt ein Sofa im Wohnzimmer.",
     "rus": "В гостиной есть диван.",
     "heb": "יש ספה בסלון.",
-    "kaz": "Қонақ бөлмесінде диван бар."
+    "kaz": "Қонақ бөлмесінде диван бар.",
+    "ita": "C'è un divano in soggiorno.",
+    "pol": "W salonie jest kanapa.",
+    "ces": "V obývacím pokoji je pohovka.",
+    "hun": "Van egy kanapé a nappaliban.",
+    "tur": "Oturma odasında bir kanepe var."
   },
   {
     "kor": "침대 위에 베개가 있습니다.",
@@ -78,7 +118,12 @@
     "deu": "Es gibt ein Kissen auf dem Bett.",
     "rus": "На кровати лежит подушка.",
     "heb": "יש כרית על המיטה.",
-    "kaz": "Төсектің үстінде жастық бар."
+    "kaz": "Төсектің үстінде жастық бар.",
+    "ita": "C'è un cuscino sul letto.",
+    "pol": "Na łóżku jest poduszka.",
+    "ces": "Na posteli je polštář.",
+    "hun": "Van egy párna az ágyon.",
+    "tur": "Yatağın üzerinde bir yastık var."
   },
   {
     "kor": "저는 제 방에 책상이 있습니다.",
@@ -87,7 +132,12 @@
     "deu": "Ich habe einen Schreibtisch in meinem Zimmer.",
     "rus": "В моей комнате есть письменный стол.",
     "heb": "יש לי שולחן כתיבה בחדר שלי.",
-    "kaz": "Менің бөлмемде жазу үстелі бар."
+    "kaz": "Менің бөлмемде жазу үстелі бар.",
+    "ita": "Ho una scrivania in camera mia.",
+    "pol": "Mam biurko w swoim pokoju.",
+    "ces": "V pokoji mám pracovní stůl.",
+    "hun": "Van egy íróasztal a szobámban.",
+    "tur": "Odamda bir çalışma masası var."
   },
   {
     "kor": "벽에 시계가 걸려 있습니다.",
@@ -96,7 +146,12 @@
     "deu": "Es hängt eine Uhr an der Wand.",
     "rus": "На стене висят часы.",
     "heb": "יש שעון על הקיר.",
-    "kaz": "Қабырғада сағат ілініп тұр."
+    "kaz": "Қабырғада сағат ілініп тұр.",
+    "ita": "C'è un orologio sulla parete.",
+    "pol": "Na ścianie wisi zegar.",
+    "ces": "Na stěně visí hodiny.",
+    "hun": "Van egy óra a falon.",
+    "tur": "Duvarda bir saat var."
   },
   {
     "kor": "창문을 열어 주세요.",
@@ -105,7 +160,12 @@
     "deu": "Bitte öffne das Fenster.",
     "rus": "Открой окно, пожалуйста.",
     "heb": "אנא פתח את החלון.",
-    "kaz": "Терезені ашыңызшы."
+    "kaz": "Терезені ашыңызшы.",
+    "ita": "Apri la finestra, per favore.",
+    "pol": "Otwórz okno, proszę.",
+    "ces": "Otevři okno, prosím.",
+    "hun": "Kérlek, nyisd ki az ablakot.",
+    "tur": "Lütfen pencereyi aç."
   },
   {
     "kor": "문을 닫아 주세요.",
@@ -114,7 +174,12 @@
     "deu": "Bitte schließ die Tür.",
     "rus": "Закрой дверь, пожалуйста.",
     "heb": "אנא סגור את הדלת.",
-    "kaz": "Есікті жабыңызшы."
+    "kaz": "Есікті жабыңызшы.",
+    "ita": "Chiudi la porta, per favore.",
+    "pol": "Zamknij drzwi, proszę.",
+    "ces": "Zavři dveře, prosím.",
+    "hun": "Kérlek, csukd be az ajtót.",
+    "tur": "Lütfen kapıyı kapat."
   },
   {
     "kor": "텔레비전이 켜져 있습니다.",
@@ -123,7 +188,12 @@
     "deu": "Der Fernseher ist an.",
     "rus": "Телевизор включен.",
     "heb": "הטלוויזיה דולקת.",
-    "kaz": "Теледидар қосулы тұр."
+    "kaz": "Теледидар қосулы тұр.",
+    "ita": "La televisione è accesa.",
+    "pol": "Telewizor jest włączony.",
+    "ces": "Televize je zapnutá.",
+    "hun": "Be van kapcsolva a tévé.",
+    "tur": "Televizyon açık."
   },
   {
     "kor": "부엌에 냉장고가 있습니다.",
@@ -132,7 +202,12 @@
     "deu": "Es gibt einen Kühlschrank in der Küche.",
     "rus": "На кухне есть холодильник.",
     "heb": "יש מקרר במטבח.",
-    "kaz": "Ас үйде тоңазытқыш бар."
+    "kaz": "Ас үйде тоңазытқыш бар.",
+    "ita": "C'è un frigorifero in cucina.",
+    "pol": "W kuchni jest lodówka.",
+    "ces": "V kuchyni je lednice.",
+    "hun": "Van egy hűtő a konyhában.",
+    "tur": "Mutfakta bir buzdolabı var."
   },
   {
     "kor": "우리 집에는 작은 정원이 있습니다.",
@@ -141,7 +216,12 @@
     "deu": "Mein Haus hat einen kleinen Garten.",
     "rus": "У моего дома есть маленький сад.",
     "heb": "בבית שלי יש גינה קטנה.",
-    "kaz": "Үйімнің кішкентай бақшасы бар."
+    "kaz": "Үйімнің кішкентай бақшасы бар.",
+    "ita": "La mia casa ha un piccolo giardino.",
+    "pol": "Mój dom ma mały ogród.",
+    "ces": "Můj dům má malou zahradu.",
+    "hun": "Van egy kis kert a házamnál.",
+    "tur": "Evimin küçük bir bahçesi var."
   },
   {
     "kor": "저는 가족과 함께 삽니다.",
@@ -150,7 +230,12 @@
     "deu": "Ich wohne bei meiner Familie.",
     "rus": "Я живу со своей семьей.",
     "heb": "אני גר עם המשפחה שלי.",
-    "kaz": "Мен отбасыммен бірге тұрамын."
+    "kaz": "Мен отбасыммен бірге тұрамын.",
+    "ita": "Vivo con la mia famiglia.",
+    "pol": "Mieszkam z rodziną.",
+    "ces": "Bydlím s rodinou.",
+    "hun": "A családommal lakom.",
+    "tur": "Ailemle birlikte yaşıyorum."
   },
   {
     "kor": "열쇠를 찾을 수 없습니다.",
@@ -159,7 +244,12 @@
     "deu": "Ich kann die Schlüssel nicht finden.",
     "rus": "Я не могу найти ключи.",
     "heb": "אני לא מוצא את המפתחות.",
-    "kaz": "Кілттерді таба алмай жүрмін."
+    "kaz": "Кілттерді таба алмай жүрмін.",
+    "ita": "Non riesco a trovare le chiavi.",
+    "pol": "Nie mogę znaleźć kluczy.",
+    "ces": "Nemůžu najít klíče.",
+    "hun": "Nem találom a kulcsokat.",
+    "tur": "Anahtarları bulamıyorum."
   },
   {
     "kor": "탁자 위에 책이 있습니다.",
@@ -168,7 +258,12 @@
     "deu": "Es liegt ein Buch auf dem Tisch.",
     "rus": "На столе лежит книга.",
     "heb": "יש ספר על השולחן.",
-    "kaz": "Үстелдің үстінде кітап жатыр."
+    "kaz": "Үстелдің үстінде кітап жатыр.",
+    "ita": "C'è un libro sul tavolo.",
+    "pol": "Na stole leży książka.",
+    "ces": "Na stole je kniha.",
+    "hun": "Van egy könyv az asztalon.",
+    "tur": "Masanın üzerinde bir kitap var."
   },
   {
     "kor": "저는 매일 방을 청소합니다.",
@@ -177,7 +272,12 @@
     "deu": "Ich putze jeden Tag mein Zimmer.",
     "rus": "Я убираю свою комнату каждый день.",
     "heb": "אני מנקה את החדר שלי כל יום.",
-    "kaz": "Мен бөлмемді күн сайын жинаймын."
+    "kaz": "Мен бөлмемді күн сайын жинаймын.",
+    "ita": "Pulisco la mia stanza ogni giorno.",
+    "pol": "Codziennie sprzątam swój pokój.",
+    "ces": "Každý den si uklízím pokoj.",
+    "hun": "Minden nap kitakarítom a szobámat.",
+    "tur": "Her gün odamı temizlerim."
   },
   {
     "kor": "전등을 꺼 주세요.",
@@ -186,7 +286,12 @@
     "deu": "Bitte mach das Licht aus.",
     "rus": "Выключи свет, пожалуйста.",
     "heb": "אנא כבה את האור.",
-    "kaz": "Жарықты өшіріңізші."
+    "kaz": "Жарықты өшіріңізші.",
+    "ita": "Spegni la luce, per favore.",
+    "pol": "Zgaś światło, proszę.",
+    "ces": "Zhasni světlo, prosím.",
+    "hun": "Kérlek, oltsd le a lámpát.",
+    "tur": "Lütfen ışığı kapat."
   },
   {
     "kor": "바닥에 카페트가 있습니다.",
@@ -195,7 +300,12 @@
     "deu": "Es liegt ein Teppich auf dem Boden.",
     "rus": "На полу лежит ковер.",
     "heb": "יש שטיח על הרצפה.",
-    "kaz": "Еденде кілем жатыр."
+    "kaz": "Еденде кілем жатыр.",
+    "ita": "C'è un tappeto sul pavimento.",
+    "pol": "Na podłodze leży dywan.",
+    "ces": "Na podlaze je koberec.",
+    "hun": "Van egy szőnyeg a padlón.",
+    "tur": "Yerde bir halı var."
   },
   {
     "kor": "옷장 안에 옷이 많습니다.",
@@ -204,7 +314,12 @@
     "deu": "Im Kleiderschrank hängen viele Sachen.",
     "rus": "В шкафу много одежды.",
     "heb": "יש הרבה בגדים בארון.",
-    "kaz": "Шкафтың ішінде киім көп."
+    "kaz": "Шкафтың ішінде киім көп.",
+    "ita": "Ci sono molti vestiti nell'armadio.",
+    "pol": "W szafie jest dużo ubrań.",
+    "ces": "Ve skříni je hodně oblečení.",
+    "hun": "Sok ruha van a szekrényben.",
+    "tur": "Gardıropta çok kıyafet var."
   },
   {
     "kor": "거울 앞에 서 있습니다.",
@@ -213,7 +328,12 @@
     "deu": "Ich stehe vor dem Spiegel.",
     "rus": "Я стою перед зеркалом.",
     "heb": "אני עומד מול המראה.",
-    "kaz": "Мен айнаның алдында тұрмын."
+    "kaz": "Мен айнаның алдында тұрмын.",
+    "ita": "Sono davanti allo specchio.",
+    "pol": "Stoję przed lustrem.",
+    "ces": "Stojím před zrcadlem.",
+    "hun": "A tükör előtt állok.",
+    "tur": "Aynanın önünde duruyorum."
   },
   {
     "kor": "우리 집은 학교 근처에 있습니다.",
@@ -222,6 +342,11 @@
     "deu": "Mein Haus ist in der Nähe der Schule.",
     "rus": "Мой дом находится рядом со школой.",
     "heb": "הבית שלי ליד בית הספר.",
-    "kaz": "Үйім мектептің жанында."
+    "kaz": "Үйім мектептің жанында.",
+    "ita": "La mia casa è vicino alla scuola.",
+    "pol": "Mój dom jest blisko szkoły.",
+    "ces": "Můj dům je blízko školy.",
+    "hun": "A házam az iskola közelében van.",
+    "tur": "Evim okulun yakınında."
   }
 ]

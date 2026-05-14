@@ -6,7 +6,12 @@
     "deu": "Entschuldigung, kann ich Sie nach dem Weg fragen?",
     "rus": "Извините, вы не подскажете дорогу?",
     "heb": "סליחה, אפשר לשאול איך מגיעים?",
-    "kaz": "Кешіріңіз, жолды сұрауға бола ма?"
+    "kaz": "Кешіріңіз, жолды сұрауға бола ма?",
+    "ita": "Scusi, posso chiederle un'informazione?",
+    "pol": "Przepraszam, czy mogę zapytać o drogę?",
+    "ces": "Promiňte, mohu se zeptat na cestu?",
+    "hun": "Elnézést, útbaigazítást szeretnék kérni.",
+    "tur": "Affedersiniz, size yolu sorabilir miyim?"
   },
   {
     "kor": "기차역이 어디에 있나요?",
@@ -15,7 +20,12 @@
     "deu": "Wo ist der Bahnhof?",
     "rus": "Где находится железнодорожный вокзал?",
     "heb": "איפה תחנת הרכבת?",
-    "kaz": "Теміржол вокзалы қайда?"
+    "kaz": "Теміржол вокзалы қайда?",
+    "ita": "Dov'è la stazione ferroviaria?",
+    "pol": "Gdzie jest stacja kolejowa?",
+    "ces": "Kde je nádraží?",
+    "hun": "Hol van a vasútállomás?",
+    "tur": "Tren istasyonu nerede?"
   },
   {
     "kor": "가장 가까운 지하철역이 어디인가요?",
@@ -24,7 +34,12 @@
     "deu": "Wo ist die nächste U-Bahn-Station?",
     "rus": "Где ближайшая станция метро?",
     "heb": "איפה תחנת הרכבת התחתית הקרובה ביותר?",
-    "kaz": "Ең жақын метро станциясы қайда?"
+    "kaz": "Ең жақын метро станциясы қайда?",
+    "ita": "Dov'è la fermata della metropolitana più vicina?",
+    "pol": "Gdzie jest najbliższa stacja metra?",
+    "ces": "Kde je nejbližší stanice metra?",
+    "hun": "Hol van a legközelebbi metrómegálló?",
+    "tur": "En yakın metro durağı nerede?"
   },
   {
     "kor": "박물관에 어떻게 가나요?",
@@ -33,7 +48,12 @@
     "deu": "Wie komme ich zum Museum?",
     "rus": "Как мне добраться до музея?",
     "heb": "איך מגיעים למוזיאון?",
-    "kaz": "Мұражайға қалай баруға болады?"
+    "kaz": "Мұражайға қалай баруға болады?",
+    "ita": "Come si arriva al museo?",
+    "pol": "Jak dojść do muzeum?",
+    "ces": "Jak se dostanu k muzeu?",
+    "hun": "Hogyan jutok el a múzeumba?",
+    "tur": "Müzeye nasıl giderim?"
   },
   {
     "kor": "여기서 먼가요?",
@@ -42,7 +62,12 @@
     "deu": "Ist es weit von hier?",
     "rus": "Это далеко отсюда?",
     "heb": "זה רחוק מכאן?",
-    "kaz": "Бұл жерден алыс па?"
+    "kaz": "Бұл жерден алыс па?",
+    "ita": "È lontano da qui?",
+    "pol": "Czy to jest daleko stąd?",
+    "ces": "Je to odsud daleko?",
+    "hun": "Messze van innen?",
+    "tur": "Buraya uzak mı?"
   },
   {
     "kor": "걸어서 갈 수 있나요?",
@@ -51,7 +76,12 @@
     "deu": "Kann ich zu Fuß dorthin gehen?",
     "rus": "Можно ли туда дойти пешком?",
     "heb": "אפשר ללכת לשם ברגל?",
-    "kaz": "Ол жерге жаяу баруға бола ма?"
+    "kaz": "Ол жерге жаяу баруға бола ма?",
+    "ita": "Si può andare a piedi?",
+    "pol": "Czy można tam dojść pieszo?",
+    "ces": "Dá se tam dojít pěšky?",
+    "hun": "Gyalog is el lehet oda jutni?",
+    "tur": "Oraya yürüyerek gidebilir miyim?"
   },
   {
     "kor": "똑바로 가세요.",
@@ -60,7 +90,12 @@
     "deu": "Gehen Sie geradeaus.",
     "rus": "Идите прямо.",
     "heb": "ישר ישר.",
-    "kaz": "Тіке жүріңіз."
+    "kaz": "Тіке жүріңіз.",
+    "ita": "Vada dritto.",
+    "pol": "Proszę iść prosto.",
+    "ces": "Jděte rovně.",
+    "hun": "Menjen egyenesen.",
+    "tur": "Düz gidin."
   },
   {
     "kor": "왼쪽으로 도세요.",
@@ -69,7 +104,12 @@
     "deu": "Biegen Sie links ab.",
     "rus": "Поверните налево.",
     "heb": "פנה שמאלה.",
-    "kaz": "Солға бұрылыңыз."
+    "kaz": "Солға бұрылыңыз.",
+    "ita": "Giri a sinistra.",
+    "pol": "Proszę skręcić w lewo.",
+    "ces": "Zahněte doleva.",
+    "hun": "Forduljon balra.",
+    "tur": "Sola dönün."
   },
   {
     "kor": "오른쪽으로 도세요.",
@@ -78,7 +118,12 @@
     "deu": "Biegen Sie rechts ab.",
     "rus": "Поверните направо.",
     "heb": "פנה ימינה.",
-    "kaz": "Оңға бұрылыңыз."
+    "kaz": "Оңға бұрылыңыз.",
+    "ita": "Giri a destra.",
+    "pol": "Proszę skręcić w prawo.",
+    "ces": "Zahněte doprava.",
+    "hun": "Forduljon jobbra.",
+    "tur": "Sağa dönün."
   },
   {
     "kor": "길을 잃었습니다.",
@@ -87,7 +132,12 @@
     "deu": "Ich habe mich verlaufen.",
     "rus": "Я заблудился (заблудилась).",
     "heb": "הלכתי לאיבוד.",
-    "kaz": "Мен адасып кеттім."
+    "kaz": "Мен адасып кеттім.",
+    "ita": "Mi sono perso.",
+    "pol": "Zgubiłem się / Zgubiłam się.",
+    "ces": "Ztratil jsem se / Ztratila jsem se.",
+    "hun": "Eltévedtem.",
+    "tur": "Kayboldum."
   },
   {
     "kor": "지도가 있나요?",
@@ -96,7 +146,12 @@
     "deu": "Haben Sie einen Stadtplan?",
     "rus": "У вас есть карта?",
     "heb": "יש לך מפה?",
-    "kaz": "Сізде карта бар ма?"
+    "kaz": "Сізде карта бар ма?",
+    "ita": "Ha una mappa?",
+    "pol": "Czy ma pan/pani mapę?",
+    "ces": "Máte mapu?",
+    "hun": "Van Önnek térképe?",
+    "tur": "Haritanız var mı?"
   },
   {
     "kor": "이 근처에 은행이 있나요?",
@@ -105,7 +160,12 @@
     "deu": "Gibt es hier in der Nähe eine Bank?",
     "rus": "Есть ли здесь поблизости банк?",
     "heb": "יש בנק בסביבה?",
-    "kaz": "Осы маңда банк бар ма?"
+    "kaz": "Осы маңда банк бар ма?",
+    "ita": "C'è una banca qui vicino?",
+    "pol": "Czy w pobliżu jest bank?",
+    "ces": "Je tady poblíž banka?",
+    "hun": "Van bank a közelben?",
+    "tur": "Yakınlarda bir banka var mı?"
   },
   {
     "kor": "모퉁이에 있습니다.",
@@ -114,7 +174,12 @@
     "deu": "Es ist an der Ecke.",
     "rus": "Это на углу.",
     "heb": "זה בפינה.",
-    "kaz": "Ол бұрышта орналасқан."
+    "kaz": "Ол бұрышта орналасқан.",
+    "ita": "È all'angolo.",
+    "pol": "To jest na rogu.",
+    "ces": "Je to na rohu.",
+    "hun": "A sarkon van.",
+    "tur": "Köşede."
   },
   {
     "kor": "슈퍼마켓 옆에 있습니다.",
@@ -123,7 +188,12 @@
     "deu": "Es ist neben dem Supermarkt.",
     "rus": "Это рядом с супермаркетом.",
     "heb": "זה ליד הסופרמרקט.",
-    "kaz": "Ол супермаркеттің қасында."
+    "kaz": "Ол супермаркеттің қасында.",
+    "ita": "È accanto al supermercato.",
+    "pol": "To jest obok supermarketu.",
+    "ces": "Je to vedle supermarketu.",
+    "hun": "A szupermarket mellett van.",
+    "tur": "Süpermarketin yanında."
   },
   {
     "kor": "병원은 공원 맞은편에 있습니다.",
@@ -132,7 +202,12 @@
     "deu": "Das Krankenhaus ist gegenüber dem Park.",
     "rus": "Больница находится напротив парка.",
     "heb": "בית החולים נמצא מול הפארק.",
-    "kaz": "Аурухана саябақтың қарама-қарсы бетінде."
+    "kaz": "Аурухана саябақтың қарама-қарсы бетінде.",
+    "ita": "L'ospedale è di fronte al parco.",
+    "pol": "Szpital jest naprzeciwko parku.",
+    "ces": "Nemocnice je naproti parku.",
+    "hun": "A kórház a parkkal szemben van.",
+    "tur": "Hastane parkın karşısında."
   },
   {
     "kor": "두 번째 골목에서 왼쪽으로 도세요.",
@@ -141,7 +216,12 @@
     "deu": "Biegen Sie an der zweiten Straße links ab.",
     "rus": "Поверните налево на втором повороте.",
     "heb": "קח את הפנייה השנייה שמאלה.",
-    "kaz": "Екінші көшеден солға бұрылыңыз."
+    "kaz": "Екінші көшеден солға бұрылыңыз.",
+    "ita": "Giri a sinistra alla seconda strada.",
+    "pol": "Skręć w lewo na drugiej ulicy.",
+    "ces": "Na druhé křižovatce zahněte doleva.",
+    "hun": "A második utcánál forduljon balra.",
+    "tur": "İkinci sokaktan sola dönün."
   },
   {
     "kor": "신호등에서 멈추세요.",
@@ -150,7 +230,12 @@
     "deu": "Halten Sie an der Ampel an.",
     "rus": "Остановитесь на светофоре.",
     "heb": "עצור ברמזור.",
-    "kaz": "Бағдаршамға тоқтаңыз."
+    "kaz": "Бағдаршамға тоқтаңыз.",
+    "ita": "Si fermi al semaforo.",
+    "pol": "Proszę się zatrzymać na światłach.",
+    "ces": "Zastavte na semaforu.",
+    "hun": "Álljon meg a jelzőlámpánál.",
+    "tur": "Trafik ışıklarında durun."
   },
   {
     "kor": "다리를 건너세요.",
@@ -159,7 +244,12 @@
     "deu": "Überqueren Sie die Brücke.",
     "rus": "Перейдите через мост.",
     "heb": "חצה את הגשר.",
-    "kaz": "Көпірден өтіңіз."
+    "kaz": "Көпірден өтіңіз.",
+    "ita": "Attraversi il ponte.",
+    "pol": "Proszę przejść przez most.",
+    "ces": "Přejděte přes most.",
+    "hun": "Menjen át a hídon.",
+    "tur": "Köprüden geçin."
   },
   {
     "kor": "버스 정류장은 어디인가요?",
@@ -168,7 +258,12 @@
     "deu": "Wo ist die Bushaltestelle?",
     "rus": "Где автобусная остановка?",
     "heb": "איפה תחנת האוטובוס?",
-    "kaz": "Автобус аялдамасы қайда?"
+    "kaz": "Автобус аялдамасы қайда?",
+    "ita": "Dov'è la fermata dell'autobus?",
+    "pol": "Gdzie jest przystanek autobusowy?",
+    "ces": "Kde je autobusová zastávka?",
+    "hun": "Hol van a buszmegálló?",
+    "tur": "Otobüs durağı nerede?"
   },
   {
     "kor": "화장실이 어디에 있나요?",
@@ -177,7 +272,12 @@
     "deu": "Wo sind die Toiletten?",
     "rus": "Где здесь туалет?",
     "heb": "איפה השירותים?",
-    "kaz": "Әжетхана қайда?"
+    "kaz": "Әжетхана қайда?",
+    "ita": "Dove sono i bagni?",
+    "pol": "Gdzie są toalety?",
+    "ces": "Kde jsou toalety?",
+    "hun": "Hol van a mosdó?",
+    "tur": "Tuvalet nerede?"
   },
   {
     "kor": "엘리베이터가 어디 있나요?",
@@ -186,7 +286,12 @@
     "deu": "Wo ist der Aufzug?",
     "rus": "Где лифт?",
     "heb": "איפה המעלית?",
-    "kaz": "Лифт қайда?"
+    "kaz": "Лифт қайда?",
+    "ita": "Dove sono i bagni?",
+    "pol": "Gdzie są toalety?",
+    "ces": "Kde jsou toalety?",
+    "hun": "Hol van a mosdó?",
+    "tur": "Tuvalet nerede?"
   },
   {
     "kor": "이 주소로 가고 싶습니다.",
@@ -195,7 +300,12 @@
     "deu": "Ich möchte zu dieser Adresse.",
     "rus": "Я хочу поехать по этому адресу.",
     "heb": "אני רוצה להגיע לכתובת הזאת.",
-    "kaz": "Мен мына мекенжайға барғым келеді."
+    "kaz": "Мен мына мекенжайға барғым келеді.",
+    "ita": "Vorrei andare a questo indirizzo.",
+    "pol": "Chciałbym/Chciałabym pojechać pod ten adres.",
+    "ces": "Chtěl bych jet na tuto adresu.",
+    "hun": "Erre a címre szeretnék eljutni.",
+    "tur": "Bu adrese gitmek istiyorum."
   },
   {
     "kor": "걸어서 5분 걸립니다.",
@@ -204,7 +314,12 @@
     "deu": "Das sind fünf Minuten zu Fuß.",
     "rus": "Это в пяти минутах ходьбы.",
     "heb": "זה לוקח חמש דקות ברגל.",
-    "kaz": "Жаяу бес минуттық жер."
+    "kaz": "Жаяу бес минуттық жер.",
+    "ita": "Ci vogliono cinque minuti a piedi.",
+    "pol": "To zajmuje pięć minut pieszo.",
+    "ces": "Trvá to pět minut pěšky.",
+    "hun": "Öt perc gyalog.",
+    "tur": "Yürüyerek beş dakika sürer."
   },
   {
     "kor": "근처에 주유소가 있나요?",
@@ -213,7 +328,12 @@
     "deu": "Gibt es eine Tankstelle in der Nähe?",
     "rus": "Есть ли поблизости заправка?",
     "heb": "יש תחנת דלק בקרבת מקום?",
-    "kaz": "Жақын жерде жанармай бекеті бар ма?"
+    "kaz": "Жақын жерде жанармай бекеті бар ма?",
+    "ita": "C'è un benzinaio qui vicino?",
+    "pol": "Czy w pobliżu jest stacja benzynowa?",
+    "ces": "Je tady poblíž čerpací stanice?",
+    "hun": "Van benzinkút a közelben?",
+    "tur": "Yakınlarda bir akaryakıt istasyonu var mı?"
   },
   {
     "kor": "가르쳐 주셔서 감사합니다.",
@@ -222,6 +342,11 @@
     "deu": "Vielen Dank für die Wegbeschreibung.",
     "rus": "Спасибо за помощь.",
     "heb": "תודה על ההסבר.",
-    "kaz": "Жол көрсеткеніңізге рақмет."
+    "kaz": "Жол көрсеткеніңізге рақмет.",
+    "ita": "Grazie per le indicazioni.",
+    "pol": "Dziękuję za wskazówki.",
+    "ces": "Děkuji za radu.",
+    "hun": "Köszönöm az útbaigazítást.",
+    "tur": "Tarifiniz için teşekkürler."
   }
 ]

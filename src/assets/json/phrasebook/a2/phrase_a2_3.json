@@ -6,7 +6,12 @@
     "deu": "Ich möchte ein Einzelzimmer für zwei Nächte buchen.",
     "rus": "Я хотел бы забронировать одноместный номер на две ночи.",
     "heb": "הייתי רוצה להזמין חדר ליחיד לשני לילות.",
-    "kaz": "Екі түнге бір кісілік бөлмеге брондағым келеді."
+    "kaz": "Екі түнге бір кісілік бөлмеге брондағым келеді.",
+    "ita": "Vorrei prenotare una camera singola per due notti.",
+    "pol": "Chciałbym zarezerwować pokój jednoosobowy na dwie noce.",
+    "ces": "Chtěl bych si rezervovat jednolůžkový pokoj na dvě noci.",
+    "hun": "Szeretnék foglalni egy egyágyas szobát két éjszakára.",
+    "tur": "İki gece için tek kişilik bir oda ayırtmak istiyorum."
   },
   {
     "kor": "조식이 숙박 요금에 포함되어 있나요?",
@@ -15,7 +20,12 @@
     "deu": "Ist das Frühstück im Preis inbegriffen?",
     "rus": "Завтрак включен в стоимость?",
     "heb": "האם ארוחת הבוקר כלולה במחיר?",
-    "kaz": "Таңғы ас бағаға кіре ме?"
+    "kaz": "Таңғы ас бағаға кіре ме?",
+    "ita": "La colazione è inclusa nel prezzo?",
+    "pol": "Czy śniadanie jest wliczone w cenę?",
+    "ces": "Je snídaně v ceně?",
+    "hun": "Benne van a reggeli az árban?",
+    "tur": "Kahvaltı fiyata dahil mi?"
   },
   {
     "kor": "체크인은 몇 시부터 할 수 있나요?",
@@ -24,7 +34,12 @@
     "deu": "Ab wann kann ich einchecken?",
     "rus": "Во сколько заезд?",
     "heb": "מתי אפשר לעשות צ'ק-אין?",
-    "kaz": "Тіркелу уақыты сағат нешеде басталады?"
+    "kaz": "Тіркелу уақыты сағат нешеде басталады?",
+    "ita": "A che ora si può fare il check-in?",
+    "pol": "Od której godziny można się zameldować?",
+    "ces": "Od kolika hodin je možný check-in?",
+    "hun": "Hány órától lehet bejelentkezni?",
+    "tur": "Giriş saati kaçta?"
   },
   {
     "kor": "시내 중심가로 가는 지도가 있나요?",
@@ -33,7 +48,12 @@
     "deu": "Haben Sie einen Stadtplan vom Zentrum?",
     "rus": "У вас есть карта центра города?",
     "heb": "יש לכם מפה של מרכז העיר?",
-    "kaz": "Сізде қала орталығының картасы бар ма?"
+    "kaz": "Сізде қала орталығының картасы бар ма?",
+    "ita": "Avete una mappa del centro città?",
+    "pol": "Czy mają Państwo mapę centrum miasta?",
+    "ces": "Máte mapu centra města?",
+    "hun": "Van térképük a városközpontról?",
+    "tur": "Şehir merkezinin haritası var mı?"
   },
   {
     "kor": "공항까지 셔틀 버스가 있나요?",
@@ -42,7 +62,12 @@
     "deu": "Gibt es einen Shuttlebus zum Flughafen?",
     "rus": "Есть ли шаттл до аэропорта?",
     "heb": "יש שאטל לשדה התעופה?",
-    "kaz": "Әуежайға дейін шаттл автобусы бар ма?"
+    "kaz": "Әуежайға дейін шаттл автобусы бар ма?",
+    "ita": "C'è una navetta per l'aeroporto?",
+    "pol": "Czy jest autobus wahadłowy na lotnisko?",
+    "ces": "Je tu kyvadlová doprava na letiště?",
+    "hun": "Van reptéri transzferbusz?",
+    "tur": "Havalimanına servis aracı var mı?"
   },
   {
     "kor": "제 방에 수건이 더 필요합니다.",
@@ -51,7 +76,12 @@
     "deu": "Ich brauche mehr Handtücher in meinem Zimmer.",
     "rus": "Принесите, пожалуйста, ещё полотенец в номер.",
     "heb": "אני צריך עוד מגבות לחדר שלי.",
-    "kaz": "Бөлмеме тағы сүлгі керек."
+    "kaz": "Бөлмеме тағы сүлгі керек.",
+    "ita": "Avrei bisogno di più asciugamani in camera.",
+    "pol": "Potrzebuję więcej ręczników w pokoju.",
+    "ces": "Potřeboval bych na pokoj více ručníků.",
+    "hun": "Több törölközőre lenne szükségem a szobámba.",
+    "tur": "Odam için daha fazla havluya ihtiyacım var."
   },
   {
     "kor": "런던행 기차표 두 장을 사고 싶습니다.",
@@ -60,7 +90,12 @@
     "deu": "Ich möchte zwei Fahrkarten nach London kaufen.",
     "rus": "Я хотел бы купить два билета до Лондона.",
     "heb": "הייתי רוצה לקנות שני כרטיסים ללונדון.",
-    "kaz": "Лондонға екі билет сатып алғым келеді."
+    "kaz": "Лондонға екі билет сатып алғым келеді.",
+    "ita": "Vorrei comprare due biglietti per Londra.",
+    "pol": "Chciałbym kupić dwa bilety do Londynu.",
+    "ces": "Chtěl bych si koupit dvě jízdenky do Londýna.",
+    "hun": "Szeretnék venni két jegyet Londonba.",
+    "tur": "Londra'ya iki bilet almak istiyorum."
   },
   {
     "kor": "다음 기차는 몇 시에 출발하나요?",
@@ -69,7 +104,12 @@
     "deu": "Wann fährt der nächste Zug ab?",
     "rus": "Во сколько отправляется следующий поезд?",
     "heb": "מתי יוצאת הרכבת הבאה?",
-    "kaz": "Келесі пойыз сағат нешеде шығады?"
+    "kaz": "Келесі пойыз сағат нешеде шығады?",
+    "ita": "A che ora parte il prossimo treno?",
+    "pol": "O której odjeżdża następny pociąg?",
+    "ces": "V kolik hodin jede další vlak?",
+    "hun": "Mikor indul a következő vonat?",
+    "tur": "Bir sonraki tren saat kaçta kalkıyor?"
   },
   {
     "kor": "이 버스는 시청 근처에 서나요?",
@@ -78,7 +118,12 @@
     "deu": "Hält dieser Bus in der Nähe des Rathauses?",
     "rus": "Этот автобус останавливается возле ратуши?",
     "heb": "האם האוטובוס הזה עוצר ליד העירייה?",
-    "kaz": "Бұл автобус әкімшілік ғимаратының жанына тоқтай ма?"
+    "kaz": "Бұл автобус әкімшілік ғимаратының жанына тоқтай ма?",
+    "ita": "Questo autobus ferma vicino al municipio?",
+    "pol": "Czy ten autobus zatrzymuje się w pobliżu ratusza?",
+    "ces": "Staví tento autobus poblíž radnice?",
+    "hun": "Megáll ez a busz a városháza közelében?",
+    "tur": "Bu otobüs belediye binasının yakınında duruyor mu?"
   },
   {
     "kor": "수하물을 맡길 수 있는 곳이 있나요?",
@@ -87,7 +132,12 @@
     "deu": "Gibt es einen Ort, an dem ich mein Gepäck lassen kann?",
     "rus": "Есть ли здесь место, где я могу оставить свой багаж?",
     "heb": "יש מקום שבו אוכל להשאיר את המטען שלי?",
-    "kaz": "Жүгімді қалдыратын жер бар ма?"
+    "kaz": "Жүгімді қалдыратын жер бар ма?",
+    "ita": "C'è un posto dove posso lasciare i bagagli?",
+    "pol": "Czy jest miejsce, gdzie mogę zostawić bagaż?",
+    "ces": "Je tu někde místo, kde si mohu nechat zavazadla?",
+    "hun": "Le tudom tenni valahol a csomagjaimat?",
+    "tur": "Bagajımı bırakabileceğim bir yer var mı?"
   },
   {
     "kor": "방에서 와이파이를 사용할 수 있나요?",
@@ -96,7 +146,12 @@
     "deu": "Kann ich das WLAN im Zimmer nutzen?",
     "rus": "Можно ли пользоваться Wi-Fi в номере?",
     "heb": "אפשר להשתמש ב-Wi-Fi בחדר?",
-    "kaz": "Бөлмеде Wi-Fi қолдануға бола ма?"
+    "kaz": "Бөлмеде Wi-Fi қолдануға бола ма?",
+    "ita": "Posso usare il Wi-Fi in camera?",
+    "pol": "Czy mogę korzystać z Wi-Fi w pokoju?",
+    "ces": "Můžu na pokoji používat Wi-Fi?",
+    "hun": "Használhatom a Wi-Fit a szobában?",
+    "tur": "Odada Wi-Fi kullanabilir miyim?"
   },
   {
     "kor": "엘리베이터가 작동하지 않습니다.",
@@ -105,7 +160,12 @@
     "deu": "Der Aufzug funktioniert nicht.",
     "rus": "Лифт не работает.",
     "heb": "המעלית לא עובדת.",
-    "kaz": "Лифт жұмыс істемей тұр."
+    "kaz": "Лифт жұмыс істемей тұр.",
+    "ita": "L'ascensore non funziona.",
+    "pol": "Winda nie działa.",
+    "ces": "Výtah nefunguje.",
+    "hun": "Nem működik a lift.",
+    "tur": "Asansör çalışmıyor."
   },
   {
     "kor": "창가 좌석으로 부탁드립니다.",
@@ -114,7 +174,12 @@
     "deu": "Einen Fensterplatz, bitte.",
     "rus": "Место у окна, пожалуйста.",
     "heb": "מושב ליד החלון, בבקשה.",
-    "kaz": "Терезе жанындағы орын болса екен."
+    "kaz": "Терезе жанындағы орын болса екен.",
+    "ita": "Un posto vicino al finestrino, per favore.",
+    "pol": "Poproszę miejsce przy oknie.",
+    "ces": "Místo u okna, prosím.",
+    "hun": "Ablak melletti helyet kérek.",
+    "tur": "Pencere kenarı bir koltuk lütfen."
   },
   {
     "kor": "택시를 불러 주시겠어요?",
@@ -123,7 +188,12 @@
     "deu": "Könnten Sie mir bitte ein Taxi rufen?",
     "rus": "Вы не могли бы вызвать мне такси?",
     "heb": "תוכל להזמין לי מונית, בבקשה?",
-    "kaz": "Маған такси шақырып бере аласыз ба?"
+    "kaz": "Маған такси шақырып бере аласыз ба?",
+    "ita": "Potrebbe chiamarmi un taxi, per favore?",
+    "pol": "Czy mógłby Pan/Pani wezwać dla mnie taksówkę?",
+    "ces": "Mohl byste mi prosím zavolat taxi?",
+    "hun": "Tudna nekem hívni egy taxit?",
+    "tur": "Benim için bir taksi çağırabilir misiniz?"
   },
   {
     "kor": "근처에 좋은 이탈리아 식당을 추천해 주시겠어요?",
@@ -132,7 +202,12 @@
     "deu": "Können Sie ein gutes italienisches Restaurant in der Nähe empfehlen?",
     "rus": "Вы можете порекомендовать хороший итальянский ресторан поблизости?",
     "heb": "תוכל להמליץ על מסעדה איטלקית טובה בקרבת מקום?",
-    "kaz": "Жақын маңдағы жақсы итальян мейрамханасын ұсына аласыз ба?"
+    "kaz": "Жақын маңдағы жақсы итальян мейрамханасын ұсына аласыз ба?",
+    "ita": "Può consigliarmi un buon ristorante italiano nelle vicinanze?",
+    "pol": "Czy może Pan/Pani polecić dobrą włoską restaurację w pobliżu?",
+    "ces": "Můžete mi doporučit dobrou italskou restauraci v okolí?",
+    "hun": "Tudna ajánlani egy jó olasz éttermet a közelben?",
+    "tur": "Yakınlarda iyi bir İtalyan restoranı önerebilir misiniz?"
   },
   {
     "kor": "왕복 티켓인가요, 편도 티켓인가요?",
@@ -141,7 +216,12 @@
     "deu": "Ist das eine Rückfahrkarte oder eine einfache Fahrt?",
     "rus": "Билет в обе стороны или в одну?",
     "heb": "זה כרטיס הלוך ושוב או כרטיס לכיוון אחד?",
-    "kaz": "Бұл екі жақты билет пе, әлде бір жақты ма?"
+    "kaz": "Бұл екі жақты билет пе, әлде бір жақты ма?",
+    "ita": "È un biglietto di andata e ritorno o solo andata?",
+    "pol": "To bilet w obie strony czy w jedną?",
+    "ces": "Je to zpáteční jízdenka, nebo jen jednosměrná?",
+    "hun": "Retúrjegyről vagy csak odaútra szóló jegyről van szó?",
+    "tur": "Gidiş-dönüş bileti mi yoksa tek yön mü?"
   },
   {
     "kor": "체크아웃은 오전 11시까지 해야 합니다.",
@@ -150,7 +230,12 @@
     "deu": "Sie müssen bis elf Uhr auschecken.",
     "rus": "Вы должны выехать до одиннадцати утра.",
     "heb": "צריך לעשות צ'ק-אאוט עד אחת עשרה בבוקר.",
-    "kaz": "Таңғы 11-ге дейін тіркеуден шығуыңыз керек."
+    "kaz": "Таңғы 11-ге дейін тіркеуден шығуыңыз керек.",
+    "ita": "Il check-out deve essere effettuato entro le undici.",
+    "pol": "Wymeldowanie musi nastąpić do godziny jedenastej.",
+    "ces": "Musíte se odhlásit do jedenácti hodin dopoledne.",
+    "hun": "Délelőtt tizenegyig ki kell jelentkezni.",
+    "tur": "Sabah saat 11'e kadar çıkış yapmalısınız."
   },
   {
     "kor": "신용카드로 결제할 수 있나요?",
@@ -159,7 +244,12 @@
     "deu": "Kann ich mit Kreditkarte bezahlen?",
     "rus": "Можно ли оплатить кредитной картой?",
     "heb": "אפשר לשלם בכרטיס אשראי?",
-    "kaz": "Кредиттік картамен төлеуге бола ма?"
+    "kaz": "Кредиттік картамен төлеуге бола ма?",
+    "ita": "Posso pagare con carta di credito?",
+    "pol": "Czy mogę zapłacić kartą kredytową?",
+    "ces": "Můžu platit kreditní kartou?",
+    "hun": "Fizethetek hitelkártyával?",
+    "tur": "Kredi kartıyla ödeyebilir miyim?"
   },
   {
     "kor": "방이 너무 시끄러워서 잠을 잘 수가 없어요.",
@@ -168,7 +258,12 @@
     "deu": "Das Zimmer ist zu laut und ich kann nicht schlafen.",
     "rus": "В номере слишком шумно, я не могу уснуть.",
     "heb": "החדר רועש מדי ואני לא מצליח לישון.",
-    "kaz": "Бөлме өте шулы, ұйықтай алмай жатырмын."
+    "kaz": "Бөлме өте шулы, ұйықтай алмай жатырмын.",
+    "ita": "C'è troppo rumore in camera e non riesco a dormire.",
+    "pol": "W pokoju jest za głośno i nie mogę spać.",
+    "ces": "V pokoji je příliš velký hluk a nemůžu spát.",
+    "hun": "Túl zajos a szoba, nem tudok aludni.",
+    "tur": "Oda çok gürültülü, uyuyamıyorum."
   },
   {
     "kor": "에어컨을 어떻게 켜나요?",
@@ -177,7 +272,12 @@
     "deu": "Wie schalte ich die Klimaanlage ein?",
     "rus": "Как включить кондиционер?",
     "heb": "איך מפעילים את המזגן?",
-    "kaz": "Кондиционерді қалай қосады?"
+    "kaz": "Кондиционерді қалай қосады?",
+    "ita": "Come si accende l'aria condizionata?",
+    "pol": "Jak włączyć klimatyzację?",
+    "ces": "Jak se zapíná klimatizace?",
+    "hun": "Hogy kell bekapcsolni a légkondicionálót?",
+    "tur": "Klima nasıl açılıyor?"
   },
   {
     "kor": "이 주소로 가주세요.",
@@ -186,7 +286,12 @@
     "deu": "Bitte bringen Sie mich zu dieser Adresse.",
     "rus": "Пожалуйста, отвезите меня по этому адресу.",
     "heb": "בבקשה קח אותי לכתובת הזאת.",
-    "kaz": "Мені мына мекенжайға апарыңызшы."
+    "kaz": "Мені мына мекенжайға апарыңызшы.",
+    "ita": "Mi porti a questo indirizzo, per favore.",
+    "pol": "Proszę mnie zawieźć pod ten adres.",
+    "ces": "Prosím, vezměte mě na tuto adresu.",
+    "hun": "Vigyen el erre a címre, legyen szíves.",
+    "tur": "Lütfen beni bu adrese götürün."
   },
   {
     "kor": "비행기가 2시간 지연되었습니다.",
@@ -195,7 +300,12 @@
     "deu": "Der Flug hat zwei Stunden Verspätung.",
     "rus": "Рейс задерживается на два часа.",
     "heb": "הטיסה מתעכבת בשעתיים.",
-    "kaz": "Ұшақ екі сағатқа кешіктірілді."
+    "kaz": "Ұшақ екі сағатқа кешіктірілді.",
+    "ita": "Il volo ha due ore di ritardo.",
+    "pol": "Lot jest opóźniony o dwie godziny.",
+    "ces": "Let má dvě hodiny zpoždění.",
+    "hun": "A járat két órát késik.",
+    "tur": "Uçuş iki saat rötar yaptı."
   },
   {
     "kor": "가장 가까운 은행이 어디에 있나요?",
@@ -204,7 +314,12 @@
     "deu": "Wo ist die nächste Bank?",
     "rus": "Где находится ближайший банк?",
     "heb": "איפה הבנק הקרוב ביותר?",
-    "kaz": "Ең жақын банк қайда орналасқан?"
+    "kaz": "Ең жақын банк қайда орналасқан?",
+    "ita": "Dov'è la banca più vicina?",
+    "pol": "Gdzie jest najbliższy bank?",
+    "ces": "Kde je nejbližší banka?",
+    "hun": "Hol van a legközelebbi bank?",
+    "tur": "En yakın banka nerede?"
   },
   {
     "kor": "여기서 사진을 찍어도 되나요?",
@@ -213,7 +328,12 @@
     "deu": "Darf man hier Fotos machen?",
     "rus": "Здесь можно фотографировать?",
     "heb": "זה בסדר לצלם כאן?",
-    "kaz": "Мұнда суретке түсуге бола ма?"
+    "kaz": "Мұнда суретке түсуге бола ма?",
+    "ita": "È possibile scattare foto qui?",
+    "pol": "Czy można tutaj robić zdjęcia?",
+    "ces": "Může se zde fotografovat?",
+    "hun": "Szabad itt fényképezni?",
+    "tur": "Burada fotoğraf çekmek serbest mi?"
   },
   {
     "kor": "영수증을 주시겠어요?",
@@ -222,6 +342,11 @@
     "deu": "Könnte ich bitte eine Quittung haben?",
     "rus": "Можно мне чек, пожалуйста?",
     "heb": "אפשר חשבון?",
-    "kaz": "Түбіртекті бере аласыз ба?"
+    "kaz": "Түбіртекті бере аласыз ба?",
+    "ita": "Posso avere la ricevuta, per favore?",
+    "pol": "Czy mogę prosić o paragon?",
+    "ces": "Mohl byste mi prosím dát stvrzenku?",
+    "hun": "Kaphatnék egy nyugtát?",
+    "tur": "Fiş alabilir miyim lütfen?"
   }
 ]

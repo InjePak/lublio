@@ -6,7 +6,12 @@
     "deu": "Was magst du?",
     "rus": "Что вам нравится?",
     "heb": "מה אתה אוהב?",
-    "kaz": "Сіз нені ұнатасыз?"
+    "kaz": "Сіз нені ұнатасыз?",
+    "ita": "Cosa ti piace?",
+    "pol": "Co lubisz?",
+    "ces": "Co máš rád?",
+    "hun": "Mit szeretsz?",
+    "tur": "Nelerden hoşlanırsın?"
   },
   {
     "kor": "저는 초콜릿을 좋아합니다.",
@@ -15,7 +20,12 @@
     "deu": "Ich mag Schokolade.",
     "rus": "Я люблю шоколад.",
     "heb": "אני אוהב שוקולד.",
-    "kaz": "Мен шоколадты ұнатамын."
+    "kaz": "Мен шоколадты ұнатамын.",
+    "ita": "Mi piace il cioccolato.",
+    "pol": "Lubię czekoladę.",
+    "ces": "Mám rád čokoládu.",
+    "hun": "Szeretem a csokoládét.",
+    "tur": "Çikolatayı severim."
   },
   {
     "kor": "가장 좋아하는 음식은 무엇입니까?",
@@ -24,7 +34,12 @@
     "deu": "Was ist dein Lieblingsessen?",
     "rus": "Какая ваша любимая еда?",
     "heb": "מה המאכל האהוב עליך?",
-    "kaz": "Сүйікті асыңыз қандай?"
+    "kaz": "Сүйікті асыңыз қандай?",
+    "ita": "Qual è il tuo cibo preferito?",
+    "pol": "Jakie jest twoje ulubione jedzenie?",
+    "ces": "Jaké je tvé oblíbené jídlo?",
+    "hun": "Mi a kedvenc ételed?",
+    "tur": "En sevdiğin yemek ne?"
   },
   {
     "kor": "저는 피자를 가장 좋아합니다.",
@@ -33,7 +48,12 @@
     "deu": "Mein Lieblingsessen ist Pizza.",
     "rus": "Моя любимая еда — пицца.",
     "heb": "המאכל האהוב עלי הוא פיצה.",
-    "kaz": "Менің сүйікті асым — пицца."
+    "kaz": "Менің сүйікті асым — пицца.",
+    "ita": "Il mio cibo preferito è la pizza.",
+    "pol": "Moim ulubionym jedzeniem jest pizza.",
+    "ces": "Moje oblíbené jídlo je pizza.",
+    "hun": "A kedvenc ételem a pizza.",
+    "tur": "En sevdiğim yemek pizzadır."
   },
   {
     "kor": "커피 좋아하세요?",
@@ -42,7 +62,12 @@
     "deu": "Magst du Kaffee?",
     "rus": "Вы любите кофе?",
     "heb": "אתה אוהב קפה?",
-    "kaz": "Кофе ұнатасыз ба?"
+    "kaz": "Кофе ұнатасыз ба?",
+    "ita": "Ti piace il caffè?",
+    "pol": "Lubisz kawę?",
+    "ces": "Máš rád kávu?",
+    "hun": "Szereted a kávét?",
+    "tur": "Kahve sever misin?"
   },
   {
     "kor": "네, 정말 좋아합니다.",
@@ -51,7 +76,12 @@
     "deu": "Ja, ich liebe es.",
     "rus": "Да, я его обожаю.",
     "heb": "כן, אני אוהב את זה מאוד.",
-    "kaz": "Иә, өте жақсы көремін."
+    "kaz": "Иә, өте жақсы көремін.",
+    "ita": "Sì, lo adoro.",
+    "pol": "Tak, uwielbiam ją.",
+    "ces": "Ano, miluji ji.",
+    "hun": "Igen, imádom.",
+    "tur": "Evet, çok severim."
   },
   {
     "kor": "저는 고양이를 좋아합니다.",
@@ -60,7 +90,12 @@
     "deu": "Ich mag Katzen.",
     "rus": "Я люблю кошек.",
     "heb": "אני אוהב חתולים.",
-    "kaz": "Мен мысықтарды ұнатамын."
+    "kaz": "Мен мысықтарды ұнатамын.",
+    "ita": "Mi piacciono i gatti.",
+    "pol": "Lubię koty.",
+    "ces": "Mám rád kočky.",
+    "hun": "Szeretem a macskákat.",
+    "tur": "Kedileri severim."
   },
   {
     "kor": "어떤 스포츠를 좋아하세요?",
@@ -69,7 +104,12 @@
     "deu": "Welchen Sport magst du?",
     "rus": "Какой спорт вам нравится?",
     "heb": "אילו סוגי ספורט אתה אוהב?",
-    "kaz": "Қандай спорт түрлерін ұнатасыз?"
+    "kaz": "Қандай спорт түрлерін ұнатасыз?",
+    "ita": "Quali sport ti piacciono?",
+    "pol": "Jakie sporty lubisz?",
+    "ces": "Jaké sporty máš rád?",
+    "hun": "Milyen sportokat szeretsz?",
+    "tur": "Hangi sporları seversin?"
   },
   {
     "kor": "저는 축구 팬입니다.",
@@ -78,7 +118,12 @@
     "deu": "Ich bin ein Fußballfan.",
     "rus": "Я футбольный болельщик.",
     "heb": "אני אוהד כדורגל.",
-    "kaz": "Мен футбол жанкүйерімін."
+    "kaz": "Мен футбол жанкүйерімін.",
+    "ita": "Sono un tifoso di calcio.",
+    "pol": "Jestem fanem piłki nożnej.",
+    "ces": "Jsem fotbalový fanoušek.",
+    "hun": "Focirajongó vagyok.",
+    "tur": "Futbol taraftarıyım."
   },
   {
     "kor": "수영하는 것을 좋아하세요?",
@@ -87,7 +132,12 @@
     "deu": "Schwimmst du gerne?",
     "rus": "Вы любите плавать?",
     "heb": "אתה אוהב לשחות?",
-    "kaz": "Жүзгенді ұнатасыз ба?"
+    "kaz": "Жүзгенді ұнатасыз ба?",
+    "ita": "Ti piace nuotare?",
+    "pol": "Lubisz pływać?",
+    "ces": "Rád plaveš?",
+    "hun": "Szeretsz úszni?",
+    "tur": "Yüzmeyi sever misin?"
   },
   {
     "kor": "가장 좋아하는 색깔은 무엇인가요?",
@@ -96,7 +146,12 @@
     "deu": "Was ist deine Lieblingsfarbe?",
     "rus": "Какой ваш любимый цвет?",
     "heb": "מה הצבע האהוב עליך?",
-    "kaz": "Сүйікті түсіңіз қандай?"
+    "kaz": "Сүйікті түсіңіз қандай?",
+    "ita": "Qual è il tuo colore preferito?",
+    "pol": "Jaki jest twój ulubiony kolor?",
+    "ces": "Jaká je tvá oblíbená barva?",
+    "hun": "Mi a kedvenc színed?",
+    "tur": "En sevdiğin renk ne?"
   },
   {
     "kor": "저는 초록색을 좋아합니다.",
@@ -105,7 +160,12 @@
     "deu": "Ich mag Grün.",
     "rus": "Мне нравится зеленый цвет.",
     "heb": "אני אוהב ירוק.",
-    "kaz": "Маған жасыл түс ұнайды."
+    "kaz": "Маған жасыл түс ұнайды.",
+    "ita": "Mi piace il verde.",
+    "pol": "Lubię zielony.",
+    "ces": "Mám rád zelenou.",
+    "hun": "Szeretem a zöldet.",
+    "tur": "Yeşil rengi severim."
   },
   {
     "kor": "저는 책 읽는 것을 정말 좋아합니다.",
@@ -114,7 +174,12 @@
     "deu": "Ich lese sehr gerne Bücher.",
     "rus": "Я очень люблю читать книги.",
     "heb": "אני ממש אוהב לקרוא ספרים.",
-    "kaz": "Мен кітап оқығанды өте жақсы көремін."
+    "kaz": "Мен кітап оқығанды өте жақсы көремін.",
+    "ita": "Mi piace molto leggere libri.",
+    "pol": "Bardzo lubię czytać książki.",
+    "ces": "Moc rád čtu knihy.",
+    "hun": "Nagyon szeretek könyveket olvasni.",
+    "tur": "Kitap okumayı çok severim."
   },
   {
     "kor": "저는 공원에서 걷는 것을 좋아합니다.",
@@ -123,7 +188,12 @@
     "deu": "Ich gehe gerne im Park spazieren.",
     "rus": "Мне нравится гулять в парке.",
     "heb": "אני אוהב ללכת בפארק.",
-    "kaz": "Маған саябақта серуендеген ұнайды."
+    "kaz": "Маған саябақта серуендеген ұнайды.",
+    "ita": "Mi piace camminare nel parco.",
+    "pol": "Lubię spacerować w parku.",
+    "ces": "Rád se procházím v parku.",
+    "hun": "Szeretek a parkban sétálni.",
+    "tur": "Parkta yürümeyi severim."
   },
   {
     "kor": "저는 영화관에 가는 것을 좋아합니다.",
@@ -132,7 +202,12 @@
     "deu": "Ich gehe gerne ins Kino.",
     "rus": "Я люблю ходить в кино.",
     "heb": "אני אוהב ללכת לקולנוע.",
-    "kaz": "Мен киноға барғанды ұнатамын."
+    "kaz": "Мен киноға барғанды ұнатамын.",
+    "ita": "Mi piace andare al cinema.",
+    "pol": "Lubię chodzić do kina.",
+    "ces": "Rád chodím do kina.",
+    "hun": "Szeretek moziba járni.",
+    "tur": "Sinemaya gitmeyi severim."
   },
   {
     "kor": "어떤 음악을 좋아하세요?",
@@ -141,7 +216,12 @@
     "deu": "Was für Musik magst du?",
     "rus": "Какая музыка вам нравится?",
     "heb": "איזו מוזיקה אתה אוהב?",
-    "kaz": "Қандай музыканы ұнатасыз?"
+    "kaz": "Қандай музыканы ұнатасыз?",
+    "ita": "Che genere di musica ti piace?",
+    "pol": "Jaką muzykę lubisz?",
+    "ces": "Jaký druh hudby máš rád?",
+    "hun": "Milyen zenét szeretsz?",
+    "tur": "Ne tür müziklerden hoşlanırsın?"
   },
   {
     "kor": "저는 팝 음악을 좋아합니다.",
@@ -150,7 +230,12 @@
     "deu": "Ich mag Popmusik.",
     "rus": "Я люблю поп-музыку.",
     "heb": "אני אוהב מוזיקת פופ.",
-    "kaz": "Маған поп-музыка ұнайды."
+    "kaz": "Маған поп-музыка ұнайды.",
+    "ita": "Mi piace la musica pop.",
+    "pol": "Lubię muzykę pop.",
+    "ces": "Mám rád popovou hudbu.",
+    "hun": "Szeretem a popzenét.",
+    "tur": "Pop müziği severim."
   },
   {
     "kor": "저는 여행하는 것을 정말 좋아합니다.",
@@ -159,7 +244,12 @@
     "deu": "Ich reise sehr gerne.",
     "rus": "Я очень люблю путешествовать.",
     "heb": "אני אוהב מאוד לטייל.",
-    "kaz": "Мен саяхаттағанды өте жақсы көремін."
+    "kaz": "Мен саяхаттағанды өте жақсы көремін.",
+    "ita": "Amo viaggiare.",
+    "pol": "Uwielbiam podróżować.",
+    "ces": "Miluji cestování.",
+    "hun": "Imádok utazni.",
+    "tur": "Seyahat etmeyi çok severim."
   },
   {
     "kor": "그는 사진 찍는 것을 좋아합니다.",
@@ -168,7 +258,12 @@
     "deu": "Er fotografiert gerne.",
     "rus": "Ему нравится фотографировать.",
     "heb": "הוא אוהב לצלם תמונות.",
-    "kaz": "Оған суретке түсіру ұнайды."
+    "kaz": "Оған суретке түсіру ұнайды.",
+    "ita": "Gli piace scattare foto.",
+    "pol": "On lubi robić zdjęcia.",
+    "ces": "Rád fotí.",
+    "hun": "Szeret fotózni.",
+    "tur": "Fotoğraf çekmeyi sever."
   },
   {
     "kor": "그녀는 춤추는 것을 좋아합니다.",
@@ -177,7 +272,12 @@
     "deu": "Sie tanzt gerne.",
     "rus": "Ей нравится танцевать.",
     "heb": "היא אוהבת לרקוד.",
-    "kaz": "Оған билеу ұнайды."
+    "kaz": "Оған билеу ұнайды.",
+    "ita": "Le piace ballare.",
+    "pol": "Ona lubi tańczyć.",
+    "ces": "Ráda tančí.",
+    "hun": "Szeret táncolni.",
+    "tur": "Dans etmeyi sever."
   },
   {
     "kor": "저는 쇼핑하는 것을 좋아하지 않습니다.",
@@ -186,7 +286,12 @@
     "deu": "Ich gehe nicht gerne shoppen.",
     "rus": "Я не люблю ходить по магазинам.",
     "heb": "אני לא אוהב לעשות קניות.",
-    "kaz": "Мен дүкен аралағанды ұнатпаймын."
+    "kaz": "Мен дүкен аралағанды ұнатпаймын.",
+    "ita": "Non mi piace fare shopping.",
+    "pol": "Nie lubię robić zakupów.",
+    "ces": "Nerád nakupuji.",
+    "hun": "Nem szeretek vásárolni.",
+    "tur": "Alışveriş yapmayı sevmem."
   },
   {
     "kor": "저는 요리하는 것에 관심이 있습니다.",
@@ -195,7 +300,12 @@
     "deu": "Ich interessiere mich fürs Kochen.",
     "rus": "Я интересуюсь кулинарией.",
     "heb": "אני מתעניין בבישול.",
-    "kaz": "Менің ас әзірлеуге қызығушылығым бар."
+    "kaz": "Менің ас әзірлеуге қызығушылығым бар.",
+    "ita": "Mi interessa la cucina.",
+    "pol": "Interesuję się gotowaniem.",
+    "ces": "Zajímám se o vaření.",
+    "hun": "Érdekel a főzés.",
+    "tur": "Yemek yapmaya ilgi duyuyorum."
   },
   {
     "kor": "겨울보다 여름을 더 좋아합니다.",
@@ -204,7 +314,12 @@
     "deu": "Ich mag den Sommer lieber als den Winter.",
     "rus": "Я предпочитаю лето зиме.",
     "heb": "אני מעדיף קיץ על פני חורף.",
-    "kaz": "Мен қыстан қарағанда жазды көбірек ұнатамын."
+    "kaz": "Мен қыстан қарағанда жазды көбірек ұнатамын.",
+    "ita": "Preferisco l'estate all'inverno.",
+    "pol": "Wolę lato od zimy.",
+    "ces": "Dávám přednost létu před zimou.",
+    "hun": "Jobban szeretem a nyarat, mint a telet.",
+    "tur": "Yazı kışa tercih ederim."
   },
   {
     "kor": "저는 집에서 쉬는 것을 좋아합니다.",
@@ -213,7 +328,12 @@
     "deu": "Ich entspanne mich gerne zu Hause.",
     "rus": "Мне нравится отдыхать дома.",
     "heb": "אני אוהב להירגע בבית.",
-    "kaz": "Маған үйде демалған ұнайды."
+    "kaz": "Маған үйде демалған ұнайды.",
+    "ita": "Mi piace rilassarmi a casa.",
+    "pol": "Lubię odpoczywać w domu.",
+    "ces": "Rád relaxuji doma.",
+    "hun": "Szeretek otthon pihenni.",
+    "tur": "Evde dinlenmeyi severim."
   },
   {
     "kor": "저는 과일을 아주 좋아합니다.",
@@ -222,6 +342,11 @@
     "deu": "Ich mag Obst sehr gerne.",
     "rus": "Я очень люблю фрукты.",
     "heb": "אני מאוד אוהב פירות.",
-    "kaz": "Мен жемістерді өте жақсы көремін."
+    "kaz": "Мен жемістерді өте жақсы көремін.",
+    "ita": "Mi piace molto la frutta.",
+    "pol": "Bardzo lubię owoce.",
+    "ces": "Mám moc rád ovoce.",
+    "hun": "Nagyon szeretem a gyümölcsöket.",
+    "tur": "Meyveyi çok severim."
   }
 ]
