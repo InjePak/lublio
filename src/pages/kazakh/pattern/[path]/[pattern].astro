@@ -1,19 +1,19 @@
 ---
 import BaseLayout from "../../../../layouts/BaseLayout.astro";
 import SectionSwitcher from "../../../../components/SectionSwitcher.astro";
-import Box3rtl from "../../../../components/Box3rtl.astro";
+import Box3 from "../../../../components/Box3.astro";
 
 import chapters from "../../../../assets/json/patterns/chapters.json";
-import chapter1 from "../../../../assets/json/patterns/hebrew/chapter1.json";
-import chapter2 from "../../../../assets/json/patterns/hebrew/chapter2.json";
-import chapter3 from "../../../../assets/json/patterns/hebrew/chapter3.json";
-import chapter4 from "../../../../assets/json/patterns/hebrew/chapter4.json";
-import chapter5 from "../../../../assets/json/patterns/hebrew/chapter5.json";
-import chapter6 from "../../../../assets/json/patterns/hebrew/chapter6.json";
-import chapter7 from "../../../../assets/json/patterns/hebrew/chapter7.json";
-import chapter8 from "../../../../assets/json/patterns/hebrew/chapter8.json";
-import chapter9 from "../../../../assets/json/patterns/hebrew/chapter9.json";
-import chapter10 from "../../../../assets/json/patterns/hebrew/chapter10.json";
+import chapter1 from "../../../../assets/json/patterns/kazakh/chapter1.json";
+import chapter2 from "../../../../assets/json/patterns/kazakh/chapter2.json";
+import chapter3 from "../../../../assets/json/patterns/kazakh/chapter3.json";
+import chapter4 from "../../../../assets/json/patterns/kazakh/chapter4.json";
+import chapter5 from "../../../../assets/json/patterns/kazakh/chapter5.json";
+import chapter6 from "../../../../assets/json/patterns/kazakh/chapter6.json";
+import chapter7 from "../../../../assets/json/patterns/kazakh/chapter7.json";
+import chapter8 from "../../../../assets/json/patterns/kazakh/chapter8.json";
+import chapter9 from "../../../../assets/json/patterns/kazakh/chapter9.json";
+import chapter10 from "../../../../assets/json/patterns/kazakh/chapter10.json";
 
 export async function getStaticPaths() {
   // 모든 경로의 조합을 생성합니다.
@@ -76,8 +76,8 @@ const { path, pattern } = Astro.params;
 // getStaticPaths의 props에서 데이터를 가져옵니다.
 const { post } = Astro.props;
 
-// Section Switcher
-const tabItems = [
+// Visibility Controller
+const navItems = [
   { id: "phrase-b1", label: "B1" },
   { id: "phrase-b2", label: "B2" },
   { id: "phrase-c1", label: "C1" },
@@ -85,12 +85,12 @@ const tabItems = [
 ---
 
 <BaseLayout pageTitle={post.pattern + " | Lublio"}>
-  <Box3rtl
+  <Box3
     title=`${post.id}. ${post.pattern}`
     subtitle={post.translation}
-    language="heb"
+    language="kaz"
   />
-  <SectionSwitcher items={tabItems} />
+  <SectionSwitcher items={navItems} />
 
   {
     !post ? (
@@ -102,11 +102,10 @@ const tabItems = [
             {index === 0 && (
               <>
                 <div class={`phrase-box phrase-b1 riseUp_1`}>
-                  <h1>B1</h1>
                   {level.map((phrase, index) => {
                     return (
                       <>
-                        <p lang="he">
+                        <p lang="kk">
                           <span>●</span>
                           <br />
                           {phrase}
@@ -120,11 +119,10 @@ const tabItems = [
             {index === 1 && (
               <>
                 <div class={`phrase-box phrase-b2 riseUp_1`}>
-                  <h1>B2</h1>
                   {level.map((phrase, index) => {
                     return (
                       <>
-                        <p lang="he">
+                        <p lang="kk">
                           <span>●</span>
                           <br />
                           {phrase}
@@ -138,11 +136,10 @@ const tabItems = [
             {index === 2 && (
               <>
                 <div class={`phrase-box phrase-c1 riseUp_1`}>
-                  <h1>C1</h1>
                   {level.map((phrase, index) => {
                     return (
                       <>
-                        <p lang="he">
+                        <p lang="kk">
                           <span>●</span>
                           <br />
                           {phrase}
@@ -199,18 +196,18 @@ const tabItems = [
 
   .phrase-box > p {
     display: inline-block;
-    text-align: right;
+    text-align: left;
     width: 100%;
-    padding: 3rem;
-    font-size: 24px;
+    padding: 2rem;
+    font-size: 20px;
     font-weight: 500;
-    line-height: 3rem;
+    line-height: 2rem;
     margin-bottom: 1.5rem;
     hyphens: auto;
     overflow-wrap: break-word;
     font-family: "Inter", "Noto Hebrew", sans-serif;
-    background-color: var(--neutral50);
-    direction: rtl;
+    border: 1px solid var(--neutral400);
+    border-radius: 20px;
   }
 
   .phrase-box > p > span {
@@ -218,31 +215,13 @@ const tabItems = [
     text-transform: uppercase;
     width: 100%;
     font-weight: 700;
-    font-size: 24px;
     direction: ltr;
-    color: var(--blue300);
-    margin-bottom: 1rem;
+    color: var(--cyan400);
+    margin-bottom: 0.5rem;
   }
 
   .phrase-box > h1,
   .phrase-box > p {
     color: var(--neutral800);
-  }
-
-  /* Mobile */
-  @media (max-width: 480px) {
-    .phrase-box > h1 {
-      font-size: 24px;
-      margin-bottom: 1.5rem;
-    }
-
-    .phrase-box > p {
-      font-size: 18px;
-      margin-bottom: 1rem;
-    }
-
-    .phrase-box > p > span {
-      font-size: 18px;
-    }
   }
 </style>

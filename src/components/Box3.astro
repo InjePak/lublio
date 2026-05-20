@@ -279,29 +279,4 @@ const color100 = colorMap100[language] || "var(--neutral100)";
       transform: translateY(-100%);
     }
   }
-
-  /* Mobile */
-  @media (max-width: 480px) {
-    .box > h1 {
-      font-size: 38px;
-    }
-
-    .box > h1::after {
-      height: 10px;
-      bottom: 6px;
-      left: 0;
-      opacity: 0.8;
-      z-index: -1;
-      transform-origin: bottom left;
-      animation: underline 2.4s cubic-bezier(0, 0, 0.24, 1.21);
-    }
-
-    .box > h2 {
-      font-size: 18px;
-    }
-
-    .box > p {
-      font-size: 13px;
-    }
-  }
 </style>

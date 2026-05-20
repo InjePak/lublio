@@ -3,45 +3,45 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
 import BoxMain from "../../components/BoxMain.astro";
 import Button from "../../components/Button.astro";
 
-const pageTitle = "카자흐어";
+const pageTitle = "히브리어";
 ---
 
 <BaseLayout pageTitle={pageTitle + " | Lublio"}>
   <BoxMain
-    title="카자흐어"
-    subtitle="Қазақша"
-    description="카자흐어는 광활한 초원이 빚어낸 언어입니다. 유목 민족의 이야기와 전통은 세대를 넘어 입에서 입으로 전해져 왔고, 지금도 살아 숨 쉬고 있습니다. 돔브라의 울림처럼 유연하고 깊이 있는 언어, 지금 만나보세요."
-    language="kaz"
+    title="히브리어"
+    subtitle="עברית"
+    description="히브리어는 수백 년의 인내 끝에 다시 살아난 언어입니다. 고대 경전에 새겨진 그 단어들이 오늘날 이스라엘의 거리에서 그대로 울려 퍼집니다. 3천 년의 시간을 건너 우리에게 닿은 언어, 지금 만나보세요."
+    language="heb"
   />
 
   <div class="button-wrapper">
     <Button
-      title="카자흐어 회화"
-      subtitle="Фразалар"
+      title="히브리어 회화"
+      subtitle="ביטויים"
       description="CEFR A1 - B2"
-      language="kaz"
-      path="/kazakh/phrasebook"
+      language="heb"
+      path="/hebrew/phrasebook"
       level="phrase"
     />
 
     <Button
-      title="카자흐어 패턴"
-      subtitle="Үлгілер"
+      title="히브리어 패턴"
+      subtitle="תבניות"
       description="CEFR B1 - C1"
-      language="kaz"
-      path="/kazakh/pattern"
+      language="heb"
+      path="/hebrew/pattern"
       level="pattern"
     />
 
-    <Button
-      title="카자흐어 문법"
-      subtitle="Грамматика"
+    <!-- <Button
+      title="히브리어 문법"
+      subtitle="דקדוק"
       description="CEFR A0 - C1"
-      language="kaz"
-      path="/kazakh/grammar"
+      language="heb"
+      path="/hebrew/grammar"
       level="grammar"
       isDev="true"
-    />
+    /> -->
   </div>
 </BaseLayout>
 
