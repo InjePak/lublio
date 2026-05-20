@@ -102,7 +102,6 @@ const tabItems = [
             {index === 0 && (
               <>
                 <div class={`phrase-box phrase-b1 riseUp_1`}>
-                  <h1>B1</h1>
                   {level.map((phrase, index) => {
                     return (
                       <>
@@ -120,7 +119,6 @@ const tabItems = [
             {index === 1 && (
               <>
                 <div class={`phrase-box phrase-b2 riseUp_1`}>
-                  <h1>B2</h1>
                   {level.map((phrase, index) => {
                     return (
                       <>
@@ -138,7 +136,6 @@ const tabItems = [
             {index === 2 && (
               <>
                 <div class={`phrase-box phrase-c1 riseUp_1`}>
-                  <h1>C1</h1>
                   {level.map((phrase, index) => {
                     return (
                       <>
@@ -201,15 +198,16 @@ const tabItems = [
     display: inline-block;
     text-align: left;
     width: 100%;
-    padding: 3rem;
-    font-size: 24px;
+    padding: 2rem;
+    font-size: 20px;
     font-weight: 500;
-    line-height: 3rem;
+    line-height: 2rem;
     margin-bottom: 1.5rem;
     hyphens: auto;
     overflow-wrap: break-word;
     font-family: "Inter", "Noto Hebrew", sans-serif;
-    background-color: var(--neutral50);
+    border: 1px solid var(--neutral400);
+    border-radius: 20px;
   }
 
   .phrase-box > p > span {
@@ -217,10 +215,9 @@ const tabItems = [
     text-transform: uppercase;
     width: 100%;
     font-weight: 700;
-    font-size: 24px;
     direction: ltr;
-    color: var(--indigo300);
-    margin-bottom: 1rem;
+    color: var(--indigo400);
+    margin-bottom: 0.5rem;
   }
 
   .phrase-box > h1,

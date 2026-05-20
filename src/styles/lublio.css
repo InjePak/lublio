@@ -54,11 +54,11 @@ hr {
 
 .wrapper {
   background-color: transparent;
-  width: calc(100% - 250px);
+  width: calc(100% - 200px);
   height: auto;
   padding: 1.5rem;
   margin: 0 auto;
-  margin-left: 250px;
+  margin-left: 200px;
 }
 
 @keyframes gradient {
@@ -97,7 +97,7 @@ p {
   display: inline-block;
   width: 100%;
   height: auto;
-  color: var(--neutral800);
+  color: var(--neutral700);
   margin-bottom: 1.5rem;
   font-family: "Inter", "Noto Hebrew", sans-serif;
 }
@@ -107,7 +107,7 @@ h2::selection,
 h3::selection,
 p::selection {
   color: var(--neutral200);
-  background-color: var(--neutral800);
+  background-color: var(--neutral700);
 }
 
 h1 {
@@ -193,39 +193,39 @@ p {
 }
 
 .animated-underline::after {
-  background-color: var(--neutral200);
+  background-color: var(--neutral300);
 }
 
 .animated-underline-eng::after {
-  background-color: var(--pink200);
+  background-color: var(--pink300);
 }
 
 .animated-underline-fra::after {
-  background-color: var(--sky200);
+  background-color: var(--sky300);
 }
 
 .animated-underline-deu::after {
-  background-color: var(--amber200);
+  background-color: var(--amber300);
 }
 
 .animated-underline-rus::after {
-  background-color: var(--indigo200);
+  background-color: var(--indigo300);
 }
 
 .animated-underline-esp::after {
-  background-color: var(--orange200);
+  background-color: var(--orange300);
 }
 
 .animated-underline-ita::after {
-  background-color: var(--emerald200);
+  background-color: var(--emerald300);
 }
 
 .animated-underline-heb::after {
-  background-color: var(--blue200);
+  background-color: var(--blue300);
 }
 
 .animated-underline-kaz::after {
-  background-color: var(--cyan200);
+  background-color: var(--cyan300);
 }
 
 .animated-underline:hover,
@@ -272,7 +272,7 @@ ol > li {
 
 ol li::marker,
 ul li::marker {
-  color: var(--neutral800);
+  color: var(--neutral700);
   font-weight: bold;
   font-family: "Google Sans", sans-serif;
 }
@@ -307,7 +307,7 @@ ol > li > a:hover {
 .text-box {
   padding: 20px;
   background-color: transparent;
-  border: 2px solid var(--neutral800);
+  border: 2px solid var(--neutral700);
   border-radius: 10px;
   margin-bottom: 1.5rem;
 }
@@ -317,7 +317,7 @@ ol > li > a:hover {
   font-weight: 400;
   padding: 10px 0px;
   margin-bottom: 0px;
-  color: var(--neutral800);
+  color: var(--neutral700);
   font-family: "Google Sans", sans-serif;
 }
 
@@ -347,7 +347,7 @@ ol > li > a:hover {
 .styled-list > li {
   margin-left: 20px;
   margin-bottom: 10px;
-  color: var(--neutral800);
+  color: var(--neutral700);
   font-size: 16px;
   font-weight: 400;
   font-family: "Google Sans", sans-serif;
@@ -416,20 +416,21 @@ select {
   margin-bottom: 2rem;
   padding: 10px 15px;
   width: 100%;
-  color: var(--neutral800);
-  font-size: 18px;
+  color: var(--neutral700);
+  font-size: 16px;
   font-family: "Inter", "Noto Hebrew", sans-serif;
-  font-weight: 600;
+  font-weight: 500;
   outline: none;
   -o-appearance: none;
   -moz-appearance: none;
   -webkit-appearance: none;
   appearance: none;
-  border: none;
-  background-color: var(--neutral200);
+  border: 1px solid var(--neutral400);
+  border-radius: 30px;
+  background-color: transparent;
   background-image:
-    linear-gradient(45deg, transparent 50%, rgba(38, 38, 38, 0.8) 50%),
-    linear-gradient(135deg, rgba(38, 38, 38, 0.8) 50%, transparent 50%);
+    linear-gradient(45deg, transparent 50%, rgba(0, 0, 0, 0.8) 50%),
+    linear-gradient(135deg, rgba(0, 0, 0, 0.8) 50%, transparent 50%);
   background-position:
     calc(100% - 20px) calc(1em + 2px),
     calc(100% - 15px) calc(1em + 2px),
@@ -458,8 +459,8 @@ select:focus {
 }
 
 select > option {
-  background-color: var(--neutral800);
-  color: var(--neutral100);
+  background-color: var(--neutral200);
+  color: var(--neutral700);
   font-size: 16px;
   font-family: "Inter", "Noto Korea", sans-serif;
   font-weight: 500;
@@ -494,7 +495,7 @@ button {
   letter-spacing: 0px;
   margin: 10px;
   padding: 10px 20px;
-  color: var(--neutral800);
+  color: var(--neutral700);
   font-weight: 700;
   font-size: 18px;
   background-color: var(--neutral200);

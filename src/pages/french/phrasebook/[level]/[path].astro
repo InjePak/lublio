@@ -260,7 +260,13 @@ switch (level) {
       jsonData.map((data: any, index: number) => (
         <div class="phrase-box">
           <h1>{index + 1}</h1>
-          <h2 lang="fr">{data.fra}</h2>
+          <h2 lang="fr">
+            <img
+              alt="France"
+              src="https://purecatamphetamine.github.io/country-flag-icons/1x1/FR.svg"
+            />
+            {data.fra}
+          </h2>
           <p
             class="translation"
             data-kor={data.kor}
@@ -278,59 +284,55 @@ switch (level) {
 
 <style>
   .phrase-box {
-    background-color: var(--neutral50);
     margin-bottom: 2rem;
-    padding: 3rem;
+    padding: 2rem;
+    border: 1px solid var(--neutral400);
+    border-radius: 20px;
   }
 
   .phrase-box > h1 {
-    text-align: center;
-    width: 50px;
-    color: var(--neutral800);
-    padding: 0.5rem 1rem;
-    font-size: 20px;
+    text-align: left;
+    width: 100%;
+    color: var(--neutral700);
+    padding: 0.5rem 0;
+    padding-left: 0.5rem;
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    font-weight: 600;
     margin-bottom: 2rem;
-    border-left: 5px solid var(--sky300);
+    border-bottom: 1px solid var(--neutral400);
   }
 
   .phrase-box > h2 {
     text-align: left;
     font-family: "Inter", sans-serif;
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 500;
     hyphens: auto;
     overflow-wrap: break-word;
+    margin-bottom: 0;
+    color: var(--neutral700);
+  }
+
+  .phrase-box > h2 > img {
+    display: inline-block;
+    height: 18px;
+    transform: translateY(2px);
+    border-radius: 2px;
+    margin-right: 0.5rem;
   }
 
   .phrase-box > p {
     text-align: left;
-    font-size: 20px;
-    margin-top: 1rem;
-    line-height: 1.6rem;
-    color: var(--sky500);
+    font-size: 16px;
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
+    line-height: 1rem;
+    color: var(--neutral500);
   }
 
   .phrase-box > p > span {
     margin-right: 10px;
-  }
-
-  /* Mobile */
-  @media (max-width: 480px) {
-    .phrase-box > h1 {
-      font-size: 14px;
-      margin-bottom: 1rem;
-    }
-
-    .phrase-box > h2 {
-      font-size: 18px;
-      margin-top: 1rem;
-    }
-
-    .phrase-box > p {
-      font-size: 16px;
-      margin-bottom: 0.5rem;
-      line-height: 1.5rem;
-    }
   }
 </style>
 

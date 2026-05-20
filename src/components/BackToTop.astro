@@ -3,7 +3,7 @@ import { Icon } from "astro-icon/components";
 ---
 
 <button id="scroll-to-top" class="top-btn" aria-label="맨 위로 이동">
-  <span><Icon name="mdi:arrow-up-thick" /></span>
+  <span><Icon name="mdi:arrow-up" /></span>
 </button>
 
 <style>
@@ -15,9 +15,9 @@ import { Icon } from "astro-icon/components";
     right: 2rem;
     padding: 0;
     border-radius: 50%;
-    background-color: rgba(39, 39, 42, 0.9);
-    color: white;
-    border: none;
+    background-color: var(--neutral100);
+    color: var(--neutral700);
+    border: 1px solid var(--neutral400);
     cursor: pointer;
     transition:
       opacity 0.3s,
