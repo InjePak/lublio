@@ -2,7 +2,7 @@
   {
     "id": 1,
     "pattern": "Asıl sorun ... gibi görünüyor",
-    "translation": "The main issue seems to be ...",
+    "translation": "주요 문제는 ...인 것 같습니다.",
     "b1": [
       "Asıl sorun zamanın yetersizliği gibi görünüyor.",
       "Asıl sorun fiyatın çok yüksek olması gibi görünüyor.",
@@ -28,7 +28,7 @@
   {
     "id": 2,
     "pattern": "... için en etkili yaklaşım nedir?",
-    "translation": "How can we best approach ...?",
+    "translation": "...에 어떻게 가장 잘 접근할 수 있을까요?",
     "b1": [
       "Fransızca öğrenmek için en etkili yaklaşım nedir?",
       "Bu pastayı pişirmek için en etkili yaklaşım nedir?",
@@ -54,7 +54,7 @@
   {
     "id": 3,
     "pattern": "Ben ... öneriyorum",
-    "translation": "I suggest that we ...",
+    "translation": "저는 저희가 ...해야 한다고 제안합니다.",
     "b1": [
       "Ben mola vermeyi öneriyorum.",
       "Ben bu akşam pizza yemeyi öneriyorum.",
@@ -80,7 +80,7 @@
   {
     "id": 4,
     "pattern": "Olası çözümlerden biri — ...",
-    "translation": "A potential solution is to ...",
+    "translation": "잠재적인 해결책은 ...하는 것입니다.",
     "b1": [
       "Olası çözümlerden biri — erkenden yola çıkmak.",
       "Olası çözümlerden biri — yeni bir telefon satın almak.",
@@ -106,7 +106,7 @@
   {
     "id": 5,
     "pattern": "... yerine ... denesek mi?",
-    "translation": "What if we tried ... instead of ...?",
+    "translation": "... 대신 ...을 해보는 건 어떨까요?",
     "b1": [
       "Kahve yerine çay içmeyi denesek mi?",
       "Araba yerine bisiklete binmeyi denesek mi?",
@@ -132,7 +132,7 @@
   {
     "id": 6,
     "pattern": "... öncelik vermeliyiz",
-    "translation": "We need to prioritize ...",
+    "translation": "저희는 ...을 우선시 해야 돼요.",
     "b1": [
       "Aileye öncelik vermeliyiz.",
       "Sağlığa öncelik vermeliyiz.",
@@ -158,7 +158,7 @@
   {
     "id": 7,
     "pattern": "Sorunu ... bölelim",
-    "translation": "Let's break the problem down into ...",
+    "translation": "문제를 ...로 나누어 봅시다.",
     "b1": [
       "Sorunu iki parçaya bölelim.",
       "Sorunu basit adımlara bölelim.",
@@ -184,7 +184,7 @@
   {
     "id": 8,
     "pattern": "... etkisini hesaba kattınız mı?",
-    "translation": "Have you considered the impact of ...?",
+    "translation": "...의 영향을 고려해 보셨나요?",
     "b1": [
       "Yağmurun etkisini hesaba kattınız mı?",
       "Gürültünün etkisini hesaba kattınız mı?",
@@ -210,7 +210,7 @@
   {
     "id": 9,
     "pattern": "Bunu aşmanın bir yolu — ...",
-    "translation": "One way around this is to ...",
+    "translation": "이를 해결하는 한 가지 방법은 ...하는 것입니다.",
     "b1": [
       "Bunu aşmanın bir yolu — başka yoldan gitmek.",
       "Bunu aşmanın bir yolu — başka birine sormak.",
@@ -236,7 +236,7 @@
   {
     "id": 10,
     "pattern": "... yoluyla riski azaltabilirdik",
-    "translation": "We could mitigate the risk by ...",
+    "translation": "저희는 ...함으로써 위험을 완화할 수 있습니다.",
     "b1": [
       "Dikkatli olmak yoluyla riski azaltabilirdik.",
       "Kask takmak yoluyla riski azaltabilirdik.",
@@ -262,7 +262,7 @@
   {
     "id": 11,
     "pattern": "Belki de ... temel nedenine bakmalıyız",
-    "translation": "Perhaps we should look at the root cause of ...",
+    "translation": "어쩌면 ...의 근본 원인을 살펴봐야 할 것 같습니다.",
     "b1": [
       "Belki de yorgunluğunun temel nedenine bakmalıyız.",
       "Belki de bu gürültünün temel nedenine bakmalıyız.",
@@ -288,7 +288,7 @@
   {
     "id": 12,
     "pattern": "Bir sonraki acil adım — ...",
-    "translation": "The immediate next step should be ...",
+    "translation": "당장 다음 단계는 ...여야 합니다.",
     "b1": [
       "Bir sonraki acil adım — onu aramak.",
       "Bir sonraki acil adım — bu mektubu bitirmek.",
@@ -314,7 +314,7 @@
   {
     "id": 13,
     "pattern": "... hakkında farklı bir bakış açısı olan var mı?",
-    "translation": "Does anyone have a different perspective on ...?",
+    "translation": "...에 대해 다른 의견이 있는 분 계신가요?",
     "b1": [
       "Bu film hakkında farklı bir bakış açısı olan var mı?",
       "Seyahat hakkında farklı bir bakış açısı olan var mı?",
@@ -340,7 +340,7 @@
   {
     "id": 14,
     "pattern": "Kısa vadede ... yapabiliriz",
-    "translation": "In the short term, we can do ...",
+    "translation": "단기적으로는 ...을 할 수 있습니다.",
     "b1": [
       "Kısa vadede bir mola verebiliriz.",
       "Kısa vadede bir sandviç satın alabiliriz.",
@@ -366,7 +366,7 @@
   {
     "id": 15,
     "pattern": "... için bir sistem kurmalıyız",
-    "translation": "We should implement a system for ...",
+    "translation": "...을 위한 시스템을 도입해야 합니다.",
     "b1": [
       "Geri dönüşüm için bir sistem kurmalıyız.",
       "Temizlik için bir sistem kurmalıyız.",
@@ -392,7 +392,7 @@
   {
     "id": 16,
     "pattern": "... artılarını ve eksilerini değerlendirelim",
-    "translation": "Let's evaluate the pros and cons of ...",
+    "translation": "...의 장단점을 평가해 봅시다.",
     "b1": [
       "Bu seyahatin artılarını ve eksilerini değerlendirelim.",
       "Bu arabanın artılarını ve eksilerini değerlendirelim.",
@@ -418,7 +418,7 @@
   {
     "id": 17,
     "pattern": "Başarılı olmak için önce ... çözmeliyiz",
-    "translation": "To ensure success, we must first address ...",
+    "translation": "성공을 보장하기 위해서는 먼저 ...을 해결해야 합니다.",
     "b1": [
       "Başarılı olmak için önce para meselesini çözmeliyiz.",
       "Başarılı olmak için önce zaman meselesini çözmeliyiz.",
@@ -444,7 +444,7 @@
   {
     "id": 18,
     "pattern": "Önümüzdeki en büyük engel — ...",
-    "translation": "The biggest obstacle standing in the way is ...",
+    "translation": "앞길을 가로막는 가장 큰 장애물은 ...입니다.",
     "b1": [
       "Önümüzdeki en büyük engel — dil.",
       "Önümüzdeki en büyük engel — fiyat.",
@@ -470,7 +470,7 @@
   {
     "id": 19,
     "pattern": "Önerdiğim yaklaşım ... içeriyor",
-    "translation": "My proposed approach involves ...",
+    "translation": "제가 제안하는 접근 방식은 ...을 포함합니다.",
     "b1": [
       "Önerdiğim yaklaşım daha fazla konuşmayı içeriyor.",
       "Önerdiğim yaklaşım birlikte çalışmayı içeriyor.",
@@ -496,7 +496,7 @@
   {
     "id": 20,
     "pattern": "Belki de eksik olan parça — ...",
-    "translation": "Perhaps the missing piece is ...",
+    "translation": "아마도 빠진 조각은 ...일 것입니다.",
     "b1": [
       "Belki de eksik olan parça — sabır.",
       "Belki de eksik olan parça — zaman.",

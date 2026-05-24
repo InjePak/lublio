@@ -2,7 +2,7 @@
   {
     "id": 1,
     "pattern": "Meiner Meinung nach ...",
-    "translation": "In my opinion, ...",
+    "translation": "제 의견으로는 ...",
     "b1": [
       "Meiner Meinung nach ist das Wetter heute sehr schön.",
       "Meiner Meinung nach sollten wir mehr Sport treiben.",
@@ -28,7 +28,7 @@
   {
     "id": 2,
     "pattern": "Ich glaube, dass …",
-    "translation": "I believe that ...",
+    "translation": "저는 ...라고 생각해요.",
     "b1": [
       "Ich glaube, dass er heute später kommt.",
       "Ich glaube, dass wir die Prüfung bestehen können.",
@@ -54,7 +54,7 @@
   {
     "id": 3,
     "pattern": "Es scheint mir, dass …",
-    "translation": "It seems to me that ...",
+    "translation": "제가 보기에는 ...인 것 같아요.",
     "b1": [
       "Es scheint mir, dass es bald regnen wird.",
       "Es scheint mir, dass er heute sehr müde ist.",
@@ -80,7 +80,7 @@
   {
     "id": 4,
     "pattern": "Aus meiner Sicht …",
-    "translation": "From my perspective, ...",
+    "translation": "제 관점에서는 ...",
     "b1": [
       "Aus meiner Sicht ist das Frühstück die wichtigste Mahlzeit.",
       "Aus meiner Sicht ist das Auto zu teuer.",
@@ -106,7 +106,7 @@
   {
     "id": 5,
     "pattern": "Ich bin fest davon überzeugt, dass …",
-    "translation": "I strongly feel that ...",
+    "translation": "저는 …라고 강하게 느껴요.",
     "b1": [
       "Ich bin fest davon überzeugt, dass wir gewinnen werden.",
       "Ich bin fest davon überzeugt, dass Lernen Spaß macht.",
@@ -132,7 +132,7 @@
   {
     "id": 6,
     "pattern": "Ich würde behaupten, dass …",
-    "translation": "I would argue that ...",
+    "translation": "저는 ...라고 주장하고 싶어요.",
     "b1": [
       "Ich würde behaupten, dass Tee besser als Kaffee ist.",
       "Ich würde behaupten, dass es im Sommer zu heiß ist.",
@@ -158,7 +158,7 @@
   {
     "id": 7,
     "pattern": "Was ich meine, ist, dass …",
-    "translation": "What I mean is, ...",
+    "translation": "제 말의 뜻은 ...",
     "b1": [
       "Was ich meine, ist, dass wir mehr Zeit brauchen.",
       "Was ich meine, ist, dass der Test nicht einfach war.",
@@ -184,7 +184,7 @@
   {
     "id": 8,
     "pattern": "Wenn du mich fragst, ...",
-    "translation": "If you ask me, ...",
+    "translation": "제 의견을 물으신다면 ...",
     "b1": [
       "Wenn du mich fragst, ist das eine gute Idee.",
       "Wenn du mich fragst, schmeckt das Essen wunderbar.",
@@ -210,7 +210,7 @@
   {
     "id": 9,
     "pattern": "Ich stimme ... voll und ganz zu.",
-    "translation": "That's a valid point, but ...",
+    "translation": "...에 전적으로 동의합니다.",
     "b1": [
       "Ich stimme dir voll und ganz zu.",
       "Ich stimme diesem Plan voll und ganz zu.",
@@ -236,7 +236,7 @@
   {
     "id": 10,
     "pattern": "Das ist ein guter Punkt, aber …",
-    "translation": "That's a valid point, but ...",
+    "translation": "타당한 말씀입니다만, ...",
     "b1": [
       "Das ist ein guter Punkt, aber es ist zu teuer.",
       "Das ist ein guter Punkt, aber wir haben keine Zeit.",
@@ -262,7 +262,7 @@
   {
     "id": 11,
     "pattern": "Was ... angeht, bin ich anderer Meinung.",
-    "translation": "I beg to differ on ...",
+    "translation": "...에 대해서는 의견이 다릅니다.",
     "b1": [
       "Was das Essen angeht, bin ich anderer Meinung.",
       "Was den Film angeht, bin ich anderer Meinung.",
@@ -288,7 +288,7 @@
   {
     "id": 12,
     "pattern": "Ich verstehe zwar, dass ..., aber ich finde trotzdem …",
-    "translation": "While I understand that ..., I still feel ...",
+    "translation": "...라는 점은 이해하지만, 여전히 ...라고 생각합니다.",
     "b1": [
       "Ich verstehe zwar, dass du müde bist, aber ich finde trotzdem, wir sollten gehen.",
       "Ich verstehe zwar, dass es regnet, aber ich finde trotzdem, wir können spazieren gehen.",
@@ -314,7 +314,7 @@
   {
     "id": 13,
     "pattern": "Bei aller Höflichkeit ... / Mit Verlaub ...",
-    "translation": "With all due respect, ...",
+    "translation": "실례입니다만, ...",
     "b1": [
       "Bei aller Höflichkeit, ich glaube, Sie irren sich.",
       "Bei aller Höflichkeit, das ist nicht wahr.",
@@ -340,7 +340,7 @@
   {
     "id": 14,
     "pattern": "Ich bin mir nicht ganz sicher, ob/was …",
-    "translation": "I'm not entirely sure about ...",
+    "translation": "...에 대해 전적으로 확신하지는 못해요.",
     "b1": [
       "Ich bin mir nicht ganz sicher, ob er kommt.",
       "Ich bin mir nicht ganz sicher, was ich essen soll.",
@@ -366,7 +366,7 @@
   {
     "id": 15,
     "pattern": "Könnten Sie … näher erläutern?",
-    "translation": "Could you elaborate on ...?",
+    "translation": "...에 대해 좀 더 자세히 설명해주시겠어요?",
     "b1": [
       "Könnten Sie das Wort näher erläutern?",
       "Könnten Sie Ihre Idee näher erläutern?",
@@ -392,7 +392,7 @@
   {
     "id": 16,
     "pattern": "Ich habe gemischte Gefühle, was ... angeht.",
-    "translation": "I have mixed feelings about ...",
+    "translation": "...에 대해서는 복잡한 생각이 들어요.",
     "b1": [
       "Ich habe gemischte Gefühle, was den Umzug angeht.",
       "Ich habe gemischte Gefühle, was den neuen Job angeht.",
@@ -418,7 +418,7 @@
   {
     "id": 17,
     "pattern": "Lassen Sie uns bei ... uneinig bleiben.",
-    "translation": "Let's agree to disagree on ....",
+    "translation": "...에 대해서는 각자의 의견을 존중하기로 하죠.",
     "b1": [
       "Lassen Sie uns bei diesem Thema uneinig bleiben.",
       "Lassen Sie uns bei der Wahl des Restaurants uneinig bleiben.",
@@ -444,7 +444,7 @@
   {
     "id": 18,
     "pattern": "Haben Sie ... in Betracht gezogen?",
-    "translation": "Have you considered ...?",
+    "translation": "...을 고려해 보셨나요?",
     "b1": [
       "Haben Sie die Kosten in Betracht gezogen?",
       "Haben Sie das Wetter in Betracht gezogen?",
@@ -470,7 +470,7 @@
   {
     "id": 19,
     "pattern": "Das ist nicht immer der Fall, weil …",
-    "translation": "That's not always the case because ...",
+    "translation": "항상 그런 것은 아닙니다, 왜냐하면 ...",
     "b1": [
       "Das ist nicht immer der Fall, weil jeder Mensch anders ist.",
       "Das ist nicht immer der Fall, weil das Wetter oft wechselt.",
@@ -496,7 +496,7 @@
   {
     "id": 20,
     "pattern": "Ich sehe das ... (anders / genauso).",
-    "translation": "I see things ...",
+    "translation": "저는 상황을 ...게 봐요.",
     "b1": [
       "Ich sehe das genauso wie du.",
       "Ich sehe das ganz anders als er.",

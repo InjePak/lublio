@@ -2,7 +2,7 @@
   {
     "id": 1,
     "pattern": "Potrebbe eventualmente ...?",
-    "translation": "Could you possibly ...?",
+    "translation": "혹시 ...해 주실 수 있을까요?",
     "b1": [
       "Potrebbe eventualmente aiutarmi con i bagagli?",
       "Potrebbe eventualmente mandarmi il suo indirizzo?",
@@ -28,7 +28,7 @@
   {
     "id": 2,
     "pattern": "Le sarei grato/a se volesse ...",
-    "translation": "I would be grateful if you could ...",
+    "translation": "...해 주신다면 감사하겠습니다.",
     "b1": [
       "Le sarei grato se volesse aiutarmi.",
       "Le sarei grata se volesse rispondere al mio messaggio.",
@@ -54,7 +54,7 @@
   {
     "id": 3,
     "pattern": "Le dispiacerebbe ...?",
-    "translation": "Would you mind ...?",
+    "translation": "...해 주시겠어요?",
     "b1": [
       "Le dispiacerebbe abbassare il volume?",
       "Le dispiacerebbe fare una foto per noi?",
@@ -80,7 +80,7 @@
   {
     "id": 4,
     "pattern": "Le scrivo per richiedere ...",
-    "translation": "I'm writing to request ...",
+    "translation": "...을 요청드리고자 연락드렸습니다.",
     "b1": [
       "Le scrivo per richiedere informazioni sui corsi di italiano.",
       "Le scrivo per richiedere il suo aiuto.",
@@ -106,7 +106,7 @@
   {
     "id": 5,
     "pattern": "Ho bisogno di ... entro la fine di ...",
-    "translation": "I need ... by the end of ...",
+    "translation": "...까지 ...이 필요합니다.",
     "b1": [
       "Ho bisogno del mio passaporto entro la fine della giornata.",
       "Ho bisogno di questi documenti entro la fine della settimana.",
@@ -132,7 +132,7 @@
   {
     "id": 6,
     "pattern": "C'è qualche possibilità di ...?",
-    "translation": "Is there any chance of ...?",
+    "translation": "...할 수 있는 가능성이 있을까요?",
     "b1": [
       "C'è qualche possibilità di vincere?",
       "C'è qualche possibilità di bel tempo domani?",
@@ -158,7 +158,7 @@
   {
     "id": 7,
     "pattern": "Potrei chiederle di concentrarsi specificamente su ...?",
-    "translation": "Could I ask you to specifically focus on ...?",
+    "translation": "특별히 ...에 집중해 달라고 부탁드려도 될까요?",
     "b1": [
       "Potrei chiederle di concentrarsi specificamente sulla lettura?",
       "Potrei chiederle di concentrarsi specificamente su questo problema?",
@@ -184,7 +184,7 @@
   {
     "id": 8,
     "pattern": "Assicurarsi di includere ...",
-    "translation": "Please make sure to include ...",
+    "translation": "...을 꼭 포함시켜 주세요.",
     "b1": [
       "Assicurarsi di includere il proprio nome.",
       "Assicurarsi di includere le foto.",
@@ -210,7 +210,7 @@
   {
     "id": 9,
     "pattern": "Sarebbe possibile per lei fornire dettagli su ...?",
-    "translation": "Would it be possible for you to provide details on ...?",
+    "translation": "...에 대한 세부 사항을 알려주실 수 있을까요?",
     "b1": [
       "Sarebbe possibile per lei fornire dettagli sul prezzo?",
       "Sarebbe possibile per lei fornire dettagli sulla festa?",
@@ -236,7 +236,7 @@
   {
     "id": 10,
     "pattern": "Purtroppo, non sarò in grado di ...",
-    "translation": "Unfortunately, I won't be able to ...",
+    "translation": "안타깝게도, 제가 ...할 수 없을 것 같습니다.",
     "b1": [
       "Purtroppo, non sarò in grado di venire stasera.",
       "Purtroppo, non sarò in grado di finire in tempo.",
@@ -262,7 +262,7 @@
   {
     "id": 11,
     "pattern": "Temo di dover declinare ...",
-    "translation": "I'm afraid I have to decline ...",
+    "translation": "유감스럽게도 ...를 거절해야 할 것 같습니다.",
     "b1": [
       "Temo di dover declinare il suo invito.",
       "Temo di dover declinare questo regalo.",
@@ -288,7 +288,7 @@
   {
     "id": 12,
     "pattern": "Sembra difficile perché ...",
-    "translation": "That sounds challenging because ...",
+    "translation": "그것은 ... 때문에 어려울 것 같습니다.",
     "b1": [
       "Sembra difficile perché è troppo caro.",
       "Sembra difficile perché non ho tempo.",
@@ -314,7 +314,7 @@
   {
     "id": 13,
     "pattern": "Pur apprezzando l'offerta, devo rispettosamente declinare ...",
-    "translation": "While I appreciate the offer, I must respectfully refuse ...",
+    "translation": "제안은 감사하지만, 정중히 ...를 거절해야겠습니다.",
     "b1": [
       "Pur apprezzando l'offerta, devo rispettosamente declinare il suo aiuto.",
       "Pur apprezzando l'offerta, devo rispettosamente declinare questa torta.",
@@ -340,7 +340,7 @@
   {
     "id": 14,
     "pattern": "I miei impegni non mi permettono di ...",
-    "translation": "My schedule doesn't permit me to ...",
+    "translation": "제 일정이 ...하는 것을 허락하지 않네요.",
     "b1": [
       "I miei impegni non mi permettono di uscire stasera.",
       "I miei impegni non mi permettono di viaggiare questa settimana.",
@@ -366,7 +366,7 @@
   {
     "id": 15,
     "pattern": "Vorrei poter ..., ma attualmente sono impegnato/a con ...",
-    "translation": "I wish I could ..., but currently I'm occupied with ...",
+    "translation": "...할 수 있으면 좋겠지만, 지금은 ... 때문에 바쁩니다.",
     "b1": [
       "Vorrei poter aiutarti, ma attualmente sono impegnato con i compiti.",
       "Vorrei poter venire, ma attualmente sono impegnata con il lavoro.",
@@ -392,7 +392,7 @@
   {
     "id": 16,
     "pattern": "Potremo riconsiderare ... in seguito.",
-    "translation": "We can revisit ... later.",
+    "translation": "...는 나중에 다시 논의할 수 있습니다.",
     "b1": [
       "Potremo riconsiderare questa idea in seguito.",
       "Potremo riconsiderare la sua richiesta in seguito.",
@@ -418,7 +418,7 @@
   {
     "id": 17,
     "pattern": "Raccomando di parlare con ... di ...",
-    "translation": "I recommend speaking to ... about ...",
+    "translation": "...에 관해서는 ...와 이야기해 보시는 걸 추천합니다.",
     "b1": [
       "Raccomando di parlare con mio fratello di questo problema.",
       "Raccomando di parlare con il professore del tuo voto.",
@@ -444,7 +444,7 @@
   {
     "id": 18,
     "pattern": "La mia priorità attuale è ..., quindi devo declinare.",
-    "translation": "My priority right now is ..., so I must decline.",
+    "translation": "지금 저에겐 ...이 제일 중요해서, 거절해야 할 것 같습니다.",
     "b1": [
       "La mia priorità attuale è la mia salute, quindi devo declinare.",
       "La mia priorità attuale è il mio esame, quindi devo declinare.",
@@ -470,7 +470,7 @@
   {
     "id": 19,
     "pattern": "Potrebbe per favore chiarire cosa intende con ...?",
-    "translation": "Could you please clarify what you mean by ...?",
+    "translation": "...이 무슨 뜻인지 명확히 해주실 수 있을까요?",
     "b1": [
       "Potrebbe per favore chiarire cosa intende con 'più tardi'?",
       "Potrebbe per favore chiarire cosa intende con 'caro'?",
@@ -496,7 +496,7 @@
   {
     "id": 20,
     "pattern": "Se potesse solo ..., sarebbe di grande aiuto.",
-    "translation": "If you could just ..., that would be a great help.",
+    "translation": "...만 해주신다면 큰 도움이 될 것 같습니다.",
     "b1": [
       "Se potesse solo aiutarmi, sarebbe di grande aiuto.",
       "Se potesse solo aprire la porta, sarebbe di grande aiuto.",

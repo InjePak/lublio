@@ -2,7 +2,7 @@
   {
     "id": 1,
     "pattern": "Hem ... hem de ... önemlidir, çünkü ...",
-    "translation": "Both ... and ... are important because ...",
+    "translation": "...와 ... 둘 다 중요합니다. 왜냐하면 ...",
     "b1": [
       "Hem kahvaltı hem de öğle yemeği önemlidir, çünkü enerji verirler.",
       "Hem okumak hem de yazmak önemlidir, çünkü dil öğrenmeye yardımcı olurlar.",
@@ -28,7 +28,7 @@
   {
     "id": 2,
     "pattern": "...-dan/-den farklı olarak, ancak, ...",
-    "translation": "Unlike ..., however, ...",
+    "translation": "...와 달리, ...",
     "b1": [
       "Abimden farklı olarak, ancak, ben sporu çok seviyorum.",
       "Moskova'dan farklı olarak, ancak, burası çok sessiz.",
@@ -54,7 +54,7 @@
   {
     "id": 3,
     "pattern": "... ile ... arasındaki temel fark - ...",
-    "translation": "The main difference between ... and ... is that ...",
+    "translation": "...와 ...의 주요 차이점은 ...라는 것입니다.",
     "b1": [
       "Şehir ile köy arasındaki temel fark - şehirde çok araba olmasıdır.",
       "Çay ile kahve arasındaki temel fark - kahvede daha çok kafein olmasıdır.",
@@ -80,7 +80,7 @@
   {
     "id": 4,
     "pattern": "... ...-a/-e benziyor, çünkü ...",
-    "translation": "... is similar to ... in that ...",
+    "translation": "...는 ...라는 점에서 ...와 유사합니다.",
     "b1": [
       "Bu ev benimkine benziyor, çünkü beyaz renkte.",
       "O annesine benziyor, çünkü şarkı söylemeyi çok seviyor.",
@@ -106,7 +106,7 @@
   {
     "id": 5,
     "pattern": "...-da/-de X varken, ...-da/-de Y var.",
-    "translation": "While ... has X, ... has Y.",
+    "translation": "...가 X를 가진 반면, ...는 Y를 가집니다.",
     "b1": [
       "Bende zaman varken, arkadaşımda para var.",
       "Şehirde gürültü varken, köyde huzur var.",
@@ -132,7 +132,7 @@
   {
     "id": 6,
     "pattern": "Bir yandan ..., ama diğer yandan, ...",
-    "translation": "On the one hand ..., but on the other hand, ...",
+    "translation": "한편으로는 ..., 하지만 다른 한편으로는, ...",
     "b1": [
       "Bir yandan, çok uykum var, ama diğer yandan, çalışmak zorundayım.",
       "Bir yandan, bu çok ucuz, ama diğer yandan, kalitesi kötü.",
@@ -158,7 +158,7 @@
   {
     "id": 7,
     "pattern": "... ile karşılaştırıldığında, ...",
-    "translation": "In comparison to ..., ...",
+    "translation": "...와 비교하여, ...",
     "b1": [
       "Moskova ile karşılaştırıldığında, benim şehrim çok küçük.",
       "Geçen yıl ile karşılaştırıldığında, daha çok okumaya başladım.",
@@ -184,7 +184,7 @@
   {
     "id": 8,
     "pattern": "Aksine, ... ile ilgili durum önemli ölçüde farklılık gösteriyor.",
-    "translation": "Conversely, the situation with ... is quite different.",
+    "translation": "반대로 ...의 상황은 상당히 다릅니다.",
     "b1": [
       "Aksine, iş ile ilgili durum önemli ölçüde farklılık gösteriyor.",
       "Aksine, hava durumu ile ilgili durum önemli ölçüde farklılık gösteriyor.",
@@ -210,7 +210,7 @@
   {
     "id": 9,
     "pattern": "Onların ... gibi birkaç ortak özelliği var.",
-    "translation": "They share several common characteristics, such as ...",
+    "translation": "그들은 ...와 같은 몇 가지 공통적인 특징을 공유합니다.",
     "b1": [
       "Onların rengi ve boyutu gibi birkaç ortak özelliği var.",
       "Onların müzik ve spor sevgisi gibi birkaç ortak özelliği var.",
@@ -236,7 +236,7 @@
   {
     "id": 10,
     "pattern": "... derecesi ...-a/-e kıyasla ...-da/-de çok daha yüksektir.",
-    "translation": "The degree of ... is much greater in ... than in ...",
+    "translation": "...의 정도는 ...보다 ...에서 훨씬 큽니다.",
     "b1": [
       "Gürültü derecesi köye kıyasla şehirde çok daha yüksektir.",
       "Sıcaklık derecesi mayısa kıyasla temmuzda çok daha yüksektir.",
@@ -262,7 +262,7 @@
   {
     "id": 11,
     "pattern": "... doğru olsa da, ...-ı/-i de göz önünde bulundurmalıyız.",
-    "translation": "Although ... is true, we must also consider ...",
+    "translation": "비록 ...이 사실이지만, 저희는 또한 ...를 고려해야 합니다.",
     "b1": [
       "Bunun pahalı olduğu doğru olsa da, kaliteyi de göz önünde bulundurmalıyız.",
       "Onun akıllı olduğu doğru olsa da, deneyimini de göz önünde bulundurmalıyız.",
@@ -288,7 +288,7 @@
   {
     "id": 12,
     "pattern": "Önemli bir ayrışma noktası - ...",
-    "translation": "A significant point of divergence is ...",
+    "translation": "중요한 차이점은 ...입니다.",
     "b1": [
       "Önemli bir ayrışma noktası - bu ürünün fiyatıdır.",
       "Önemli bir ayrışma noktası - toplantı zamanıdır.",
@@ -314,7 +314,7 @@
   {
     "id": 13,
     "pattern": "... hariç, temelde birbirine benzerler.",
-    "translation": "They are fundamentally similar, except for ...",
+    "translation": "...을 제외하고는, 그것들은 근본적으로 유사합니다.",
     "b1": [
       "Rengi hariç, temelde birbirine benzerler.",
       "Fiyatı hariç, temelde birbirine benzerler.",
@@ -340,7 +340,7 @@
   {
     "id": 14,
     "pattern": "... ...-a/-e kıyasla çok daha etkilidir, çünkü ...",
-    "translation": "... is far more effective than ... because ...",
+    "translation": "...는 ...보다 훨씬 더 효과적입니다. 왜냐하면 ...",
     "b1": [
       "Tren arabaya kıyasla çok daha etkilidir, çünkü trafik yok.",
       "Bu yöntem diğerine kıyasla çok daha etkilidir, çünkü daha hızlı.",
@@ -366,7 +366,7 @@
   {
     "id": 15,
     "pattern": "... ile ... arasında bir paralellik kurabiliriz.",
-    "translation": "We can draw a parallel between ... and ...",
+    "translation": "...와 ... 사이에 유사점을 찾을 수 있습니다.",
     "b1": [
       "Bu kitap ile o film arasında bir paralellik kurabiliriz.",
       "Onun hayatı ile benim hayatım arasında bir paralellik kurabiliriz.",
@@ -392,7 +392,7 @@
   {
     "id": 16,
     "pattern": "Ne ... ne de ... ...-ı/-i sağlar.",
-    "translation": "Neither ... nor ... provides ...",
+    "translation": "...도 ...도 ...을 제공하지 않습니다.",
     "b1": [
       "Ne çay ne de kahve huzur sağlar.",
       "Ne iş ne de hobi çok para sağlar.",
@@ -418,7 +418,7 @@
   {
     "id": 17,
     "pattern": "... ile karşılaştırıldığında, ... ... gibi görünüyor.",
-    "translation": "When balanced against ..., ... appears to be ...",
+    "translation": "...와 균형을 이룰 때, ...은 ...한 것 같습니다.",
     "b1": [
       "Ev ile karşılaştırıldığında, oda çok küçük gibi görünüyor.",
       "Babası ile karşılaştırıldığında, çocuk çok genç gibi görünüyor.",
@@ -444,7 +444,7 @@
   {
     "id": 18,
     "pattern": "Onların ...-a/-e olan yaklaşımında belirgin bir tezat var.",
-    "translation": "There is a stark contrast in their approach to ...",
+    "translation": "...에 대한 그들의 접근 방식에는 극명한 대조가 있습니다.",
     "b1": [
       "Onların işe olan yaklaşımında belirgin bir tezat var.",
       "Onların yemeğe olan yaklaşımında belirgin bir tezat var.",
@@ -470,7 +470,7 @@
   {
     "id": 19,
     "pattern": "Benzerlik, ...-da/-de yatmaktadır.",
-    "translation": "The similarity lies in the fact that ...",
+    "translation": "유사점은 ...라는 사실에 있습니다.",
     "b1": [
       "Benzerlik, ikisinin de kırmızı renkte olmasında yatmaktadır.",
       "Benzerlik, ikimizin de sinemayı sevmesinde yatmaktadır.",
@@ -496,7 +496,7 @@
   {
     "id": 20,
     "pattern": "Yan yana koyup karşılaştırıldığında, ... ...-dan/-den açıkça daha iyi performans gösteriyor.",
-    "translation": "Compared side by side, ... clearly outperforms ...",
+    "translation": "나란히 비교했을 때 ...은 ...보다 명확히 뛰어납니다.",
     "b1": [
       "Yan yana koyup karşılaştırıldığında, bu telefon diğerinden açıkça daha iyi performans gösteriyor.",
       "Yan yana koyup karşılaştırıldığında, bizim takım onlardan açıkça daha iyi performans gösteriyor.",

@@ -2,7 +2,7 @@
   {
     "id": 1,
     "pattern": "Apprezzo davvero il suo aiuto riguardo a ...",
-    "translation": "I truly appreciate your help with ...",
+    "translation": "... 도와주셔서 진심으로 감사드립니다.",
     "b1": [
       "Apprezzo davvero il suo aiuto riguardo ai miei compiti.",
       "Apprezzo davvero il suo aiuto riguardo al mio trasloco.",
@@ -28,7 +28,7 @@
   {
     "id": 2,
     "pattern": "Ha un talento straordinario per ...",
-    "translation": "You have a remarkable talent for ...",
+    "translation": "...에 엄청난 재능이 있으시군요.",
     "b1": [
       "Ha un talento straordinario per la pittura.",
       "Ha un talento straordinario per cantare canzoni italiane.",
@@ -54,7 +54,7 @@
   {
     "id": 3,
     "pattern": "È stato incredibilmente premuroso da parte sua ...",
-    "translation": "That was incredibly thoughtful of you to ...",
+    "translation": "...해주시다니 정말 사려 깊으시네요.",
     "b1": [
       "È stato incredibilmente premuroso da parte sua portarmi dei fiori.",
       "È stato incredibilmente premuroso da parte sua aiutarmi con le borse.",
@@ -80,7 +80,7 @@
   {
     "id": 4,
     "pattern": "Sono così grato/a per il fatto che ...",
-    "translation": "I'm so grateful for the fact that ...",
+    "translation": "...라는 사실에 정말 감사해요.",
     "b1": [
       "Sono così grato per il fatto che tu sia mio amico.",
       "Sono così grato per il fatto che oggi ci sia bel tempo.",
@@ -106,7 +106,7 @@
   {
     "id": 5,
     "pattern": "La sua attenzione ai dettagli su ... è eccezionale.",
-    "translation": "Your attention to detail on ... is outstanding.",
+    "translation": "...에 대해서 정말 세심하시네요.",
     "b1": [
       "La sua attenzione ai dettagli su questo disegno è eccezionale.",
       "La sua attenzione ai dettagli sulla decorazione è eccezionale.",
@@ -132,7 +132,7 @@
   {
     "id": 6,
     "pattern": "Volevo ringraziarla specificamente per ...",
-    "translation": "I wanted to thank you specifically for ...",
+    "translation": "특히 ...에 대해 감사드리고 싶었어요.",
     "b1": [
       "Volevo ringraziarla specificamente per la cena.",
       "Volevo ringraziarla specificamente per la sua pazienza con me.",
@@ -158,7 +158,7 @@
   {
     "id": 7,
     "pattern": "Ha gestito questa situazione con tale grazia e ...",
-    "translation": "You handled that situation with such grace and ...",
+    "translation": "그 상황을 정말 품위 있고 ...하게 잘 처리하셨네요.",
     "b1": [
       "Ha gestito questa situazione con tale grazia e calma.",
       "Ha gestito questa situazione con tale grazia e gentilezza.",
@@ -184,7 +184,7 @@
   {
     "id": 8,
     "pattern": "Non avrei potuto farlo senza il suo ...",
-    "translation": "I couldn't have done this without your ...",
+    "translation": "당신의 ...이 없었다면 이 일을 해낼 수 없었을 거예요.",
     "b1": [
       "Non avrei potuto farlo senza il suo aiuto.",
       "Non avrei potuto farlo senza i suoi soldi.",
@@ -210,7 +210,7 @@
   {
     "id": 9,
     "pattern": "Il suo atteggiamento positivo è davvero fonte di ispirazione per ...",
-    "translation": "Your positive attitude is truly inspiring to ...",
+    "translation": "당신의 긍정적인 태도는 ...에게 정말 큰 영감을 줍니다.",
     "b1": [
       "Il suo atteggiamento positivo è davvero fonte di ispirazione per me.",
       "Il suo atteggiamento positivo è davvero fonte di ispirazione per i tuoi amici.",
@@ -236,7 +236,7 @@
   {
     "id": 10,
     "pattern": "Grazie per aver fatto più del necessario per ...",
-    "translation": "Thank you for going above and beyond to ...",
+    "translation": "...하기 위해 최선을 다해 주셔서 감사합니다.",
     "b1": [
       "Grazie per aver fatto più del necessario per aiutarmi.",
       "Grazie per aver fatto più del necessario per organizzare la festa.",
@@ -262,7 +262,7 @@
   {
     "id": 11,
     "pattern": "Ammiro davvero il modo in cui lei ...",
-    "translation": "I really admire the way you ...",
+    "translation": "...하는 당신의 방식이 정말 존경스럽네요.",
     "b1": [
       "Ammiro davvero il modo in cui lei parla italiano.",
       "Ammiro davvero il modo in cui lei suona il pianoforte.",
@@ -288,7 +288,7 @@
   {
     "id": 12,
     "pattern": "Che lavoro magnifico ha fatto su ...",
-    "translation": "What a wonderful job you did on ...",
+    "translation": "...에 대해 정말 멋진 일을 해내셨네요.",
     "b1": [
       "Che lavoro magnifico ha fatto su questo disegno!",
       "Che lavoro magnifico ha fatto sul suo giardino!",
@@ -314,7 +314,7 @@
   {
     "id": 13,
     "pattern": "Per me significa tutto il mondo che ...",
-    "translation": "It means the world to me that ...",
+    "translation": "...라는 사실은 저에게 무엇보다 소중합니다.",
     "b1": [
       "Per me significa tutto il mondo che tu sia qui.",
       "Per me significa tutto il mondo che lei mi aiuti.",
@@ -340,7 +340,7 @@
   {
     "id": 14,
     "pattern": "Il suo punto di vista su ... è incredibilmente prezioso.",
-    "translation": "Your perspective on ... is incredibly valuable.",
+    "translation": "...에 대한 당신의 관점은 정말 의미가 있습니다.",
     "b1": [
       "Il suo punto di vista su questo film è incredibilmente prezioso.",
       "Il suo punto di vista sul mio disegno è incredibilmente prezioso.",
@@ -366,7 +366,7 @@
   {
     "id": 15,
     "pattern": "Desidero esprimere la mia più profonda gratitudine per ...",
-    "translation": "I want to express my deepest gratitude for ...",
+    "translation": "...에 대해 깊은 감사의 말씀을 전하고 싶습니다.",
     "b1": [
       "Desidero esprimere la mia più profonda gratitudine per la sua accoglienza.",
       "Desidero esprimere la mia più profonda gratitudine per la sua gentilezza.",
@@ -392,7 +392,7 @@
   {
     "id": 16,
     "pattern": "Ha fatto un'enorme differenza in ...",
-    "translation": "You've made a huge difference in ...",
+    "translation": "당신은 ...에 큰 변화를 일으켰습니다.",
     "b1": [
       "Ha fatto un'enorme differenza nella mia vita.",
       "Ha fatto un'enorme differenza in questo progetto.",
@@ -418,7 +418,7 @@
   {
     "id": 17,
     "pattern": "Sono così colpito/a dalla sua capacità di ...",
-    "translation": "I'm so impressed by your ability to ...",
+    "translation": "...하시는 모습에 깊은 인상을 받았습니다.",
     "b1": [
       "Sono così colpito dalla sua capacità di parlare tre lingue.",
       "Sono così colpito dalla sua capacità di correre veloce.",
@@ -444,7 +444,7 @@
   {
     "id": 18,
     "pattern": "Grazie per aver preso il tempo di ...",
-    "translation": "Thank you for taking the time to ...",
+    "translation": "시간을 내어 ...해주셔서 감사합니다.",
     "b1": [
       "Grazie per aver preso il tempo di aiutarmi.",
       "Grazie per aver preso il tempo di ascoltarmi.",
@@ -470,7 +470,7 @@
   {
     "id": 19,
     "pattern": "Siamo fortunati ad avere qualcuno che sa ...",
-    "translation": "We are fortunate to have someone who can ...",
+    "translation": "...할 수 있는 분이 계셔서 정말 다행입니다.",
     "b1": [
       "Siamo fortunati ad avere qualcuno che sa parlare italiano.",
       "Siamo fortunati ad avere qualcuno che sa cucinare così bene.",
@@ -496,7 +496,7 @@
   {
     "id": 20,
     "pattern": "La sua disponibilità a ... si distingue davvero.",
-    "translation": "Your willingness to ... really stands out.",
+    "translation": "...하려는 귀하의 자세가 정말 돋보입니다.",
     "b1": [
       "La sua disponibilità ad imparare si distingue davvero.",
       "La sua disponibilità ad aiutare gli altri si distingue davvero.",

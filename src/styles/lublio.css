@@ -163,7 +163,7 @@ p {
 .animated-underline-fra,
 .animated-underline-deu,
 .animated-underline-rus,
-.animated-underline-esp,
+.animated-underline-tur,
 .animated-underline-ita,
 .animated-underline-heb,
 .animated-underline-kaz {
@@ -176,7 +176,7 @@ p {
 .animated-underline-fra::after,
 .animated-underline-deu::after,
 .animated-underline-rus::after,
-.animated-underline-esp::after,
+.animated-underline-tur::after,
 .animated-underline-ita::after,
 .animated-underline-heb::after,
 .animated-underline-kaz::after {
@@ -212,8 +212,8 @@ p {
   background-color: var(--indigo300);
 }
 
-.animated-underline-esp::after {
-  background-color: var(--orange300);
+.animated-underline-tur::after {
+  background-color: var(--rose300);
 }
 
 .animated-underline-ita::after {
@@ -233,7 +233,7 @@ p {
 .animated-underline-fra:hover,
 .animated-underline-deu:hover,
 .animated-underline-rus:hover,
-.animated-underline-esp:hover,
+.animated-underline-tur:hover,
 .animated-underline-ita:hover,
 .animated-underline-heb:hover,
 .animated-underline-kaz:hover {
@@ -245,7 +245,7 @@ p {
 .animated-underline-fra.is-active::after,
 .animated-underline-deu.is-active::after,
 .animated-underline-rus.is-active::after,
-.animated-underline-esp.is-active::after,
+.animated-underline-tur.is-active::after,
 .animated-underline-ita.is-active::after,
 .animated-underline-heb.is-active::after,
 .animated-underline-kaz.is-active::after {

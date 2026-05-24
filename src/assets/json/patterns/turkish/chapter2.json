@@ -2,7 +2,7 @@
   {
     "id": 1,
     "pattern": "... -diğini / -diğimi hatırlıyorum",
-    "translation": "I remember when ...",
+    "translation": "저는 ...했던 때를 기억해요.",
     "b1": [
       "Denize gittiğimiz zamanı hatırlıyorum.",
       "Bana ilk bisikletimi aldığın anı hatırlıyorum.",
@@ -28,7 +28,7 @@
   {
     "id": 2,
     "pattern": "Bir varmış bir yokmuş, ... varmış",
-    "translation": "Once upon a time, ...",
+    "translation": "옛날 옛적에 ...",
     "b1": [
       "Bir varmış bir yokmuş, çiçekleri çok seven küçük bir kız varmış.",
       "Bir varmış bir yokmuş, büyük bir sarayda yaşayan bir kral varmış.",
@@ -54,7 +54,7 @@
   {
     "id": 3,
     "pattern": "Hikaye ... ile başlıyor",
-    "translation": "The story begins with ...",
+    "translation": "이야기는 ...로 시작됩니다.",
     "b1": [
       "Hikaye harika bir yaz sabahı ile başlıyor.",
       "Hikaye parktaki bir karşılaşma ile başlıyor.",
@@ -80,7 +80,7 @@
   {
     "id": 4,
     "pattern": "Bu bana ... olduğu zamanları hatırlatıyor",
-    "translation": "That reminds me of a time when ...",
+    "translation": "그걸 보니 ...했던 때가 생각나네요.",
     "b1": [
       "Bu bana çok boş vaktimin olduğu zamanları hatırlatıyor.",
       "Bu bana sık sık birlikte yemek yediğimiz zamanları hatırlatıyor.",
@@ -106,7 +106,7 @@
   {
     "id": 5,
     "pattern": "Size ... hakkında bahsedeyim",
-    "translation": "Let me tell you about ...",
+    "translation": "...에 대해 이야기해 드릴게요.",
     "b1": [
       "Size köpeğim hakkında bahsedeyim.",
       "Size son tatilim hakkında bahsedeyim.",
@@ -132,7 +132,7 @@
   {
     "id": 6,
     "pattern": "Tam ... -cekken birden ...",
-    "translation": "We were just about to ... when suddenly ...",
+    "translation": "막 ...하려던 참이었는데, 갑자기 ...",
     "b1": [
       "Tam yola çıkacakken birden yağmur yağmaya başladı.",
       "Tam yemek yiyecekken birden telefon çaldı.",
@@ -158,7 +158,7 @@
   {
     "id": 7,
     "pattern": "Sonra hiç beklenmedik bir şey oldu: ...",
-    "translation": "And then, the most unexpected thing happened: ...",
+    "translation": "그러고 나서 가장 예상치 못한 일이 일어났어요. ...",
     "b1": [
       "Sonra hiç beklenmedik bir şey oldu: Yarışmayı ben kazandım.",
       "Sonra hiç beklenmedik bir şey oldu: Abim bana sürpriz yaptı.",
@@ -184,7 +184,7 @@
   {
     "id": 8,
     "pattern": "... anı asla unutmayacağım",
-    "translation": "I'll never forget the moment when ...",
+    "translation": "...했던 그 순간을 절대 잊지 못할 거예요.",
     "b1": [
       "Eyfel Kulesi'ni ilk gördüğüm anı asla unutmayacağım.",
       "Diplomamı aldığım anı asla unutmayacağım.",
@@ -210,7 +210,7 @@
   {
     "id": 9,
     "pattern": "Başta ... sandım ama sonradan ... anladım",
-    "translation": "At first, I thought ..., but later I realized ...",
+    "translation": "처음에는 ...라고 생각했는데, 나중에 ...라는 것을 깨달았어요..",
     "b1": [
       "Başta bunun kolay olduğunu sandım ama sonradan zor olduğunu anladım.",
       "Başta onun sert biri olduğunu sandım ama sonradan kibar olduğunu anladım.",
@@ -236,7 +236,7 @@
   {
     "id": 10,
     "pattern": "... -den sonra her şey değişti",
-    "translation": "Everything changed after ...",
+    "translation": "... 이후로 모든 것이 바뀌었어요.",
     "b1": [
       "Fransa seyahatimden sonra her şey değişti.",
       "Evlendiğimizden sonra her şey değişti.",
@@ -262,7 +262,7 @@
   {
     "id": 11,
     "pattern": "Farkına bile varmadan, ...",
-    "translation": "Before I knew it, ...",
+    "translation": "저도 모르는 사이에 ...",
     "b1": [
       "Farkına bile varmadan, saat gece yarısı olmuş.",
       "Farkına bile varmadan, pastanın hepsini yemişim.",
@@ -288,7 +288,7 @@
   {
     "id": 12,
     "pattern": "Bu deneyim bana ... öğretti",
-    "translation": "The whole experience taught me ...",
+    "translation": "그 모든 경험은 제게 ...라는 것을 가르쳐 주었어요.",
     "b1": [
       "Bu deneyim bana ailenin önemli olduğunu öğretti.",
       "Bu deneyim bana sabırlı olmak gerektiğini öğretti.",
@@ -314,7 +314,7 @@
   {
     "id": 13,
     "pattern": "İlk olan şey ... -di / -ydi",
-    "translation": "The first thing that happened was ...",
+    "translation": "가장 먼저 일어난 일은 ...였어요.",
     "b1": [
       "İlk olan şey anahtarlarımı kaybetmemdi.",
       "İlk olan şey onun bağırmasıydı.",
@@ -340,7 +340,7 @@
   {
     "id": 14,
     "pattern": "Geriye dönüp baktığımda, ... -diğini görebiliyorum",
-    "translation": "Looking back now, I can see that ...",
+    "translation": "지금 되돌아보니 ...라는 것을 알 수 있어요.",
     "b1": [
       "Geriye dönüp baktığımda, yanıldığımı görebiliyorum.",
       "Geriye dönüp baktığımda, bunun iyi bir fikir olduğunu görebiliyorum.",
@@ -366,7 +366,7 @@
   {
     "id": 15,
     "pattern": "Kendimi tamamen ... hissettim",
-    "translation": "I felt completely ...",
+    "translation": "저는 완전히 ...라고 느꼈어요.",
     "b1": [
       "Kendimi şehirde tamamen kaybolmuş hissettim.",
       "İşten sonra kendimi tamamen yorgun hissettim.",
@@ -392,7 +392,7 @@
   {
     "id": 16,
     "pattern": "Tam o andı ki ...",
-    "translation": "It was the moment when ...",
+    "translation": "...했던 순간이었어요.",
     "b1": [
       "Tam o andı ki biz pizza yiyorduk.",
       "Tam o andı ki o dans etmeye başladı.",
@@ -418,7 +418,7 @@
   {
     "id": 17,
     "pattern": "Kısacası, ...",
-    "translation": "To cut a long story short, ...",
+    "translation": "간단히 말해서 ...",
     "b1": [
       "Kısacası, güzel bir gün geçirdik.",
       "Kısacası, film kötüydü.",
@@ -444,7 +444,7 @@
   {
     "id": 18,
     "pattern": "Atmosfer çok ... -di",
-    "translation": "The atmosphere was very ...",
+    "translation": "분위기가 정말 ...했어요.",
     "b1": [
       "Göl kenarında atmosfer çok sakindi.",
       "Partide atmosfer çok eğlenceliydi.",
@@ -470,7 +470,7 @@
   {
     "id": 19,
     "pattern": "Bunu tek bir kelimeyle tanımlamam gerekirse, ... derdim",
-    "translation": "If I had to describe it in one word, I'd say ...",
+    "translation": "한 마디로 표현하자면 ...라고 하겠어요.",
     "b1": [
       "Bunu tek bir kelimeyle tanımlamam gerekirse, harika derdim.",
       "Bunu tek bir kelimeyle tanımlamam gerekirse, tuhaf derdim.",
@@ -496,7 +496,7 @@
   {
     "id": 20,
     "pattern": "Bütün bunlardaki en komik şey ... -di / -ydi",
-    "translation": "The funniest part of the whole thing was ...",
+    "translation": "그중에서 가장 웃겼던 부분은 ...였어요.",
     "b1": [
       "Bütün bunlardaki en komik şey köpeğimin pastayı yemiş olmasıydı.",
       "Bütün bunlardaki en komik şey fotoğraftaki onun yüz ifadesiydi.",

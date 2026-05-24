@@ -1,0 +1,53 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import BoxMain from "../../components/BoxMain.astro";
+import Button from "../../components/Button.astro";
+
+const pageTitle = "이탈리아어";
+---
+
+<BaseLayout pageTitle={pageTitle + " | Lublio"}>
+  <BoxMain
+    title="이탈리아어"
+    subtitle="Italiano"
+    description="이탈리아어는 예술만큼 화려하고 햇살만큼 따뜻한 언어입니다. 단테와 레오나르도가 그 문장들로 르네상스의 정신을 빚어냈고, 오늘날에도 지중해 전역에서 삶의 아름다움을 노래하고 있습니다. 관능적인 울림과 고전의 깊이를 동시에 품은 언어, 지금 만나보세요."
+    language="ita"
+  />
+
+  <div class="button-wrapper">
+    <Button
+      title="이탈리아어 회화"
+      subtitle="Frasi"
+      description="CEFR A1 - B2"
+      language="ita"
+      path="/italian/phrasebook"
+      level="phrase"
+    />
+
+    <Button
+      title="이탈리아어 패턴"
+      subtitle="Strutture"
+      description="CEFR B1 - C1"
+      language="ita"
+      path="/italian/pattern"
+      level="pattern"
+    />
+  </div>
+</BaseLayout>
+
+<style>
+  .button-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  /* Mobile */
+  @media (max-width: 480px) {
+    .button-wrapper {
+      gap: 10px;
+      margin-bottom: 10px;
+    }
+  }
+</style>

@@ -2,7 +2,7 @@
   {
     "id": 1,
     "pattern": "Vorrei informarla che ...",
-    "translation": "I'd like to inform you that ...",
+    "translation": "...라는 것을 알려드리고 싶습니다.",
     "b1": [
       "Vorrei informarla che il negozio è chiuso oggi.",
       "Vorrei informarla che il treno ha dieci minuti di ritardo.",
@@ -28,7 +28,7 @@
   {
     "id": 2,
     "pattern": "Il punto chiave da ricordare qui è ...",
-    "translation": "The key takeaway here is ...",
+    "translation": "여기서 핵심적인 내용은 ...입니다.",
     "b1": [
       "Il punto chiave da ricordare qui è che bisogna essere puntuali.",
       "Il punto chiave da ricordare qui è che questo libro è importante.",
@@ -54,7 +54,7 @@
   {
     "id": 3,
     "pattern": "Per chiarire, intendo ...",
-    "translation": "To clarify, I mean ...",
+    "translation": "명확히 하자면, 제 말은 ...라는 뜻입니다.",
     "b1": [
       "Per chiarire, intendo che partiamo a mezzogiorno.",
       "Per chiarire, intendo che è un regalo per te.",
@@ -80,7 +80,7 @@
   {
     "id": 4,
     "pattern": "Secondo il rapporto, ...",
-    "translation": "According to the report, ...",
+    "translation": "보고서에 따르면 ...",
     "b1": [
       "Secondo il rapporto, farà caldo questa estate.",
       "Secondo il rapporto, molta gente ama il cioccolato.",
@@ -106,7 +106,7 @@
   {
     "id": 5,
     "pattern": "Permettetemi di riformulare: ...",
-    "translation": "Let me rephrase that: ...",
+    "translation": "다시 말하자면 ...",
     "b1": [
       "Permettetemi di riformulare: è troppo caro per noi.",
       "Permettetemi di riformulare: sono d'accordo con te.",
@@ -132,7 +132,7 @@
   {
     "id": 6,
     "pattern": "Quello che volevo dire era ...",
-    "translation": "What I meant to say was ...",
+    "translation": "제가 말하고자 했던 것은 ...였습니다.",
     "b1": [
       "Quello che volevo dire era che ti voglio bene.",
       "Quello che volevo dire era che mi dispiace.",
@@ -158,7 +158,7 @@
   {
     "id": 7,
     "pattern": "La situazione attuale è che ...",
-    "translation": "The current status is that ...",
+    "translation": "현재 상태는 ...입니다.",
     "b1": [
       "La situazione attuale è che abbiamo finito il progetto.",
       "La situazione attuale è che il negozio è aperto.",
@@ -184,7 +184,7 @@
   {
     "id": 8,
     "pattern": "In altre parole, ...",
-    "translation": "In other words, ...",
+    "translation": "다시 말해서 ...",
     "b1": [
       "In altre parole, è gratuito.",
       "In altre parole, non posso venire.",
@@ -210,7 +210,7 @@
   {
     "id": 9,
     "pattern": "Solo per assicurarci di essere sulla stessa lunghezza d'onda, ...",
-    "translation": "Just to make sure we're on the same page, ...",
+    "translation": "우리가 같은 생각을 하고 있는지 확인하기 위해, ...",
     "b1": [
       "Solo per assicurarci di essere sulla stessa lunghezza d'onda, partiamo alle 8?",
       "Solo per assicurarci di essere sulla stessa lunghezza d'onda, paghi tu?",
@@ -236,7 +236,7 @@
   {
     "id": 10,
     "pattern": "Questo conferma che ...",
-    "translation": "This confirms that ...",
+    "translation": "이것은 ...라는 사실을 확인해 줍니다.",
     "b1": [
       "Questo conferma che hai ragione.",
       "Questo conferma che il treno è in ritardo.",
@@ -262,7 +262,7 @@
   {
     "id": 11,
     "pattern": "Permettetemi di approfondire ...",
-    "translation": "Allow me to elaborate on …",
+    "translation": "...에 대해 좀 더 자세히 설명하겠습니다.",
     "b1": [
       "Permettetemi di approfondire il mio viaggio.",
       "Permettetemi di approfondire la mia famiglia.",
@@ -288,7 +288,7 @@
   {
     "id": 12,
     "pattern": "I dettagli sono i seguenti: ...",
-    "translation": "The details are as follows: ...",
+    "translation": "세부 사항은 다음과 같습니다. ...",
     "b1": [
       "I dettagli sono i seguenti: il prezzo è di dieci euro.",
       "I dettagli sono i seguenti: appuntamento a mezzogiorno.",
@@ -314,7 +314,7 @@
   {
     "id": 13,
     "pattern": "Il punto importante qui non è ..., ma ...",
-    "translation": "The important point here is not ..., but ...",
+    "translation": "여기서 중요한 점은 ...이 아니라 ...입니다.",
     "b1": [
       "Il punto importante qui non è il prezzo, ma la qualità.",
       "Il punto importante qui non è il tempo, ma il piacere.",
@@ -340,7 +340,7 @@
   {
     "id": 14,
     "pattern": "Ad esempio, si consideri ...",
-    "translation": "For example, consider ...",
+    "translation": "예를 들어, ...를 생각해 보세요.",
     "b1": [
       "Ad esempio, si consideri questo bel tempo.",
       "Ad esempio, si consideri questo prezzo basso.",
@@ -366,7 +366,7 @@
   {
     "id": 15,
     "pattern": "L'essenziale è ...",
-    "translation": "The bottom line is …",
+    "translation": "결론적으로 말하자면 ...",
     "b1": [
       "L'essenziale è essere felici.",
       "L'essenziale è mangiare in modo sano.",
@@ -392,7 +392,7 @@
   {
     "id": 16,
     "pattern": "Passiamo in rassegna le principali conclusioni: ...",
-    "translation": "Let's review the main findings: ...",
+    "translation": "주요 결과를 검토해 봅시다. ...",
     "b1": [
       "Passiamo in rassegna le principali conclusioni: abbiamo finito.",
       "Passiamo in rassegna le principali conclusioni: è troppo caro.",
@@ -418,7 +418,7 @@
   {
     "id": 17,
     "pattern": "Per riassumere la situazione, ...",
-    "translation": "To sum up the situation, ...",
+    "translation": "상황을 요약하자면, ...",
     "b1": [
       "Per riassumere la situazione, siamo in ritardo.",
       "Per riassumere la situazione, non abbiamo più soldi.",
@@ -444,7 +444,7 @@
   {
     "id": 18,
     "pattern": "Quello che capisco è che ...",
-    "translation": "My understanding is that ...",
+    "translation": "제가 이해하기로는 ...",
     "b1": [
       "Quello che capisco è che sei stanco.",
       "Quello che capisco è che il film è finito.",
@@ -470,7 +470,7 @@
   {
     "id": 19,
     "pattern": "Solo per essere chiari, ...",
-    "translation": "Just to be clear, …",
+    "translation": "분명히 해두자면 ...",
     "b1": [
       "Solo per essere chiari, questa è la mia penna.",
       "Solo per essere chiari, non vengo stasera.",
@@ -496,7 +496,7 @@
   {
     "id": 20,
     "pattern": "Il risultato finale è stato ...",
-    "translation": "The final outcome was ...",
+    "translation": "최종 결과는 ...였습니다.",
     "b1": [
       "Il risultato finale è stato un successo.",
       "Il risultato finale è stato deludente.",

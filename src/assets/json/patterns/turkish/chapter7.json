@@ -2,7 +2,7 @@
   {
     "id": 1,
     "pattern": "Eğer biz ... , o zaman ... -ız/-iz",
-    "translation": "If we ..., then we will ...",
+    "translation": "만약 저희가 ...한다면, ...할 것입니다.",
     "b1": [
       "Eğer biz çok çalışırsak, o zaman sınavı geçeriz.",
       "Eğer biz şimdi çıkarsak, o zaman vaktinde varırız.",
@@ -28,7 +28,7 @@
   {
     "id": 2,
     "pattern": "... -sa/-se ne olurdu?",
-    "translation": "What would happen if ...?",
+    "translation": "만약 ...한다면 무슨 일이 일어날까요?",
     "b1": [
       "Çantamı kaybetsem ne olurdu?",
       "Biz çok fazla pasta yesek ne olurdu?",
@@ -54,7 +54,7 @@
   {
     "id": 3,
     "pattern": "Eğer sonuç ... olursa, ... -malıyız/-meliyiz",
-    "translation": "Should the outcome be ..., we must ...",
+    "translation": "결과가 ...라면, 우리는 ...해야 합니다.",
     "b1": [
       "Eğer sonuç iyi olursa, bunu kutlamalıyız.",
       "Eğer sonuç kötü olursa, yeniden başlamalıyız.",
@@ -80,7 +80,7 @@
   {
     "id": 4,
     "pattern": "Eğer ... bilseydim, ... -ardım/-erdim",
-    "translation": "If I had known ..., I would have ...",
+    "translation": "만약 제가 ...를 알았다면, 저는 ...했을 것입니다.",
     "b1": [
       "Eğer yağmuru bilseydim, şemsiyemi alırdım.",
       "Eğer gerçeği bilseydim, kırılırdım.",
@@ -106,7 +106,7 @@
   {
     "id": 5,
     "pattern": "... varsayarsak, ... olması muhtemeldir",
-    "translation": "Assuming that ..., it is likely that ...",
+    "translation": "...라고 가정하면, ...할 가능성이 높습니다.",
     "b1": [
       "Havanın açık olacağını varsayarsak, bizim sahile gitmemiz muhtemeldir.",
       "Senin çalışacağını varsayarsak, senin para kazanman muhtemeldir.",
@@ -132,7 +132,7 @@
   {
     "id": 6,
     "pattern": "Tahminime göre ... olacak.",
-    "translation": "I predict that ... will happen.",
+    "translation": "저는 ...이 일어날 것이라고 예측합니다.",
     "b1": [
       "Tahminime göre bu akşam yağmur olacak.",
       "Tahminime göre senin takımın şampiyon olacak.",
@@ -158,7 +158,7 @@
   {
     "id": 7,
     "pattern": "... olmazsa, ... -amayız/-emeyiz",
-    "translation": "Unless ... happens, we won't be able to ...",
+    "translation": "...이 일어나지 않는 한, 저희는 ...할 수 없을 것입니다.",
     "b1": [
       "O özür dilemezse, biz arkadaş olamayız.",
       "Hava açık olmazsa, biz dışarı çıkamayız.",
@@ -184,7 +184,7 @@
   {
     "id": 8,
     "pattern": "... durumunda, ... -malıyız/-meliyiz",
-    "translation": "In the event of ..., we should ...",
+    "translation": "...할 경우에, 저희는 ...해야 합니다.",
     "b1": [
       "Yağmur yağması durumunda, biz evde kalmalıyız.",
       "Acıkmamız durumunda, biz meyve satın almalıyız.",
@@ -210,7 +210,7 @@
   {
     "id": 9,
     "pattern": "... olmasının olasılığı yüksektir.",
-    "translation": "There's a high probability that ...",
+    "translation": "...할 확률이 높습니다.",
     "b1": [
       "Yarın yağmur yağması olasılığı yüksektir.",
       "Senin piyangoyu kazanma olasılığın yüksektir.",
@@ -236,7 +236,7 @@
   {
     "id": 10,
     "pattern": "Eğer ... , biz ... görebilirdik",
-    "translation": "We might see ... if ...",
+    "translation": "만약 ...한다면 저희는 ...을 볼 수도 있습니다.",
     "b1": [
       "Eğer biz denize gitsek, biz yunusları görebilirdik.",
       "Eğer gökyüzü açık olsa, biz yıldızları görebilirdik.",
@@ -262,7 +262,7 @@
   {
     "id": 11,
     "pattern": "Bu, gelecekte ... olacağı anlamına gelir",
-    "translation": "This suggests that the future holds ...",
+    "translation": "이것은 미래에 ...가 있을 것임을 시사합니다.",
     "b1": [
       "Bu, gelecekte iyi sürprizler olacağı anlamına gelir.",
       "Bu, gelecekte çok iş olacağı anlamına gelir.",
@@ -288,7 +288,7 @@
   {
     "id": 12,
     "pattern": "Sonuç tamamen ...-e/-a bağlıdır",
-    "translation": "The outcome depends entirely on whether or not ...",
+    "translation": "결과는 전적으로 ...인지 아닌지에 달려 있습니다.",
     "b1": [
       "Sonuç tamamen senin çalışmana bağlıdır.",
       "Sonuç tamamen hava durumuna bağlıdır.",
@@ -314,7 +314,7 @@
   {
     "id": 13,
     "pattern": "Eğer trend devam ederse, o zaman ...",
-    "translation": "If the trend continues, then ...",
+    "translation": "만약 이러한 추세가 계속된다면, 그때는 ...",
     "b1": [
       "Eğer trend devam ederse, o zaman hava çok sıcak olacak.",
       "Eğer trend devam ederse, o zaman biz maçta galip geleceğiz.",
@@ -340,7 +340,7 @@
   {
     "id": 14,
     "pattern": "Eğer onlar ... dikkate alsalardı, sonuç ... olurdu",
-    "translation": "Had they considered ..., the result would have been ...",
+    "translation": "만약 그들이 ...을 고려했더라면, 결과는 ...였을 것입니다.",
     "b1": [
       "Eğer onlar fiyatı dikkate alsalardı, sonuç farklı olurdu.",
       "Eğer onlar hava durumunu dikkate alsalardı, sonuç daha iyi olurdu.",
@@ -366,7 +366,7 @@
   {
     "id": 15,
     "pattern": "... durumuna karşı yedek bir plana ihtiyacımız var",
-    "translation": "We need a backup plan in case ...",
+    "translation": "...할 경우에 대비한 비상 계획이 필요합니다.",
     "b1": [
       "Yağmur yağması durumuna karşı yedek bir plana ihtiyacımız var.",
       "Trenin gecikmesi durumuna karşı yedek bir plana ihtiyacımız var.",
@@ -392,7 +392,7 @@
   {
     "id": 16,
     "pattern": "... düşünülebilir",
-    "translation": "It is conceivable that ...",
+    "translation": "...할 수 있다고 생각됩니다.",
     "b1": [
       "Senin yorulduğun düşünülebilir.",
       "Bugün öğleden sonra yağmur yağacağı düşünülebilir.",
@@ -418,7 +418,7 @@
   {
     "id": 17,
     "pattern": "... -sız/-siz ... imkansızdır",
-    "translation": "Without ..., it is impossible to ...",
+    "translation": "... 없이는 ...하는 것이 불가능합니다.",
     "b1": [
       "Parasız bu arabayı satın almak imkansızdır.",
       "Susuz yaşamak imkansızdır.",
@@ -444,7 +444,7 @@
   {
     "id": 18,
     "pattern": "Kanıtlar ... olacağına işaret ediyor.",
-    "translation": "The evidence points towards ... happening.",
+    "translation": "증거는 ...가 일어날 것임을 시사합니다.",
     "b1": [
       "Kanıtlar yağmur yağacağına işaret ediyor.",
       "Kanıtlar senin haklı olduğuna işaret ediyor.",
@@ -470,7 +470,7 @@
   {
     "id": 19,
     "pattern": "... şartıyla, biz ... başlayabiliriz",
-    "translation": "On the condition that ..., we can proceed with ...",
+    "translation": "...라는 조건하에, 저희는 ...을 진행할 수 있습니다....라는 조건하에, 저희는 ...을 진행할 수 있습니다.",
     "b1": [
       "Havanın açık olması şartıyla, biz yürüyüşe başlayabiliriz.",
       "Ödevini bitirmen şartıyla, biz oyuna başlayabiliriz.",
@@ -496,7 +496,7 @@
   {
     "id": 20,
     "pattern": "Uzun vadeli sonuç ...",
-    "translation": "The long-term implication is ...",
+    "translation": "장기적인 영향은 ...입니다.",
     "b1": [
       "Uzun vadeli sonuç bizim sağlığımızın daha iyi olması.",
       "Uzun vadeli sonuç bizim para tasarruf etmemiz.",

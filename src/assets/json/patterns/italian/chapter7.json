@@ -2,7 +2,7 @@
   {
     "id": 1,
     "pattern": "Se ..., allora ...",
-    "translation": "If we ..., then we will ...",
+    "translation": "만약 저희가 ...한다면, ...할 것입니다.",
     "b1": [
       "Se studiamo molto, allora supereremo l'esame.",
       "Se partiamo adesso, allora arriveremo in tempo.",
@@ -28,7 +28,7 @@
   {
     "id": 2,
     "pattern": "Cosa succederebbe se ...?",
-    "translation": "What would happen if ...?",
+    "translation": "만약 ...한다면 무슨 일이 일어날까요?",
     "b1": [
       "Cosa succederebbe se perdessi la mia borsa?",
       "Cosa succederebbe se mangiassimo troppi dolci?",
@@ -54,7 +54,7 @@
   {
     "id": 3,
     "pattern": "Se il risultato fosse ..., dovremmo ...",
-    "translation": "Should the outcome be ..., we must ...",
+    "translation": "결과가 ...라면, 우리는 ...해야 합니다.",
     "b1": [
       "Se il risultato fosse buono, dovremmo festeggiare.",
       "Se il risultato fosse brutto, dovremmo ricominciare.",
@@ -80,7 +80,7 @@
   {
     "id": 4,
     "pattern": "Se avessi saputo ..., avrei ...",
-    "translation": "If I had known ..., I would have ...",
+    "translation": "만약 제가 ...를 알았다면, 저는 ...했을 것입니다.",
     "b1": [
       "Se avessi saputo della pioggia, avrei preso l'ombrello.",
       "Se avessi saputo la verità, sarei stato triste.",
@@ -106,7 +106,7 @@
   {
     "id": 5,
     "pattern": "Supponendo che ..., è probabile che ...",
-    "translation": "Assuming that ..., it is likely that ...",
+    "translation": "...라고 가정하면, ...할 가능성이 높습니다.",
     "b1": [
       "Supponendo che faccia bel tempo, è probabile che andremo in spiaggia.",
       "Supponendo che tu lavori, è probabile che guadagnerai dei soldi.",
@@ -132,7 +132,7 @@
   {
     "id": 6,
     "pattern": "Prevedo che ... accadrà.",
-    "translation": "I predict that ... will happen.",
+    "translation": "저는 ...이 일어날 것이라고 예측합니다.",
     "b1": [
       "Prevedo che stasera pioverà.",
       "Prevedo che la tua squadra vincerà.",
@@ -158,7 +158,7 @@
   {
     "id": 7,
     "pattern": "A meno che ... non accada, non potremo ...",
-    "translation": "Unless ... happens, we won't be able to ...",
+    "translation": "...이 일어나지 않는 한, 저희는 ...할 수 없을 것입니다.",
     "b1": [
       "A meno che non si scusi, non potremo essere amici.",
       "A meno che non faccia bel tempo, non potremo andare fuori.",
@@ -184,7 +184,7 @@
   {
     "id": 8,
     "pattern": "In caso di ..., dovremmo ...",
-    "translation": "In the event of ..., we should ...",
+    "translation": "...할 경우에, 저희는 ...해야 합니다.",
     "b1": [
       "In caso di pioggia, dovremmo restare a casa.",
       "In caso di fame, dovremmo comprare della frutta.",
@@ -210,7 +210,7 @@
   {
     "id": 9,
     "pattern": "C'è un'alta probabilità che ...",
-    "translation": "There's a high probability that ...",
+    "translation": "...할 확률이 높습니다.",
     "b1": [
       "C'è un'alta probabilità che piova domani.",
       "C'è un'alta probabilità che tu vinca alla lotteria.",
@@ -236,7 +236,7 @@
   {
     "id": 10,
     "pattern": "Potremmo vedere ... se ...",
-    "translation": "We might see ... if ...",
+    "translation": "만약 ...한다면 저희는 ...을 볼 수도 있습니다.",
     "b1": [
       "Potremmo vedere dei delfini se andiamo in mare.",
       "Potremmo vedere le stelle se il cielo è sereno.",
@@ -262,7 +262,7 @@
   {
     "id": 11,
     "pattern": "Questo suggerisce che il futuro riserva ...",
-    "translation": "This suggests that the future holds ...",
+    "translation": "이것은 미래에 ...가 있을 것임을 시사합니다.",
     "b1": [
       "Questo suggerisce che il futuro riserva delle belle sorprese.",
       "Questo suggerisce che il futuro riserva molto lavoro.",
@@ -288,7 +288,7 @@
   {
     "id": 12,
     "pattern": "L'esito dipende interamente dal fatto che ... o meno.",
-    "translation": "The outcome depends entirely on whether or not ...",
+    "translation": "결과는 전적으로 ...인지 아닌지에 달려 있습니다.",
     "b1": [
       "L'esito dipende interamente dal tuo lavoro.",
       "L'esito dipende interamente dal tempo.",
@@ -314,7 +314,7 @@
   {
     "id": 13,
     "pattern": "Se la tendenza continua, allora ...",
-    "translation": "If the trend continues, then ...",
+    "translation": "만약 이러한 추세가 계속된다면, 그때는 ...",
     "b1": [
       "Se la tendenza continua, allora farà molto caldo.",
       "Se la tendenza continua, allora vinceremo la partita.",
@@ -340,7 +340,7 @@
   {
     "id": 14,
     "pattern": "Se avessero considerato ..., l'esito sarebbe stato ...",
-    "translation": "Had they considered ..., the result would have been ...",
+    "translation": "만약 그들이 ...을 고려했더라면, 결과는 ...였을 것입니다.",
     "b1": [
       "Se avessero considerato il prezzo, l'esito sarebbe stato diverso.",
       "Se avessero considerato il tempo, l'esito sarebbe stato migliore.",
@@ -366,7 +366,7 @@
   {
     "id": 15,
     "pattern": "Abbiamo bisogno di un piano di riserva nel caso in cui ...",
-    "translation": "We need a backup plan in case ...",
+    "translation": "...할 경우에 대비한 비상 계획이 필요합니다.",
     "b1": [
       "Abbiamo bisogno di un piano di riserva nel caso in cui piova.",
       "Abbiamo bisogno di un piano di riserva nel caso in cui il treno sia in ritardo.",
@@ -392,7 +392,7 @@
   {
     "id": 16,
     "pattern": "È concepibile che ...",
-    "translation": "It is conceivable that ...",
+    "translation": "...할 수 있다고 생각됩니다.",
     "b1": [
       "È concepibile che tu sia stanco.",
       "È concepibile che piova questo pomeriggio.",
@@ -418,7 +418,7 @@
   {
     "id": 17,
     "pattern": "Senza ..., è impossibile ...",
-    "translation": "Without ..., it is impossible to ...",
+    "translation": "... 없이는 ...하는 것이 불가능합니다.",
     "b1": [
       "Senza soldi, è impossibile comprare questa macchina.",
       "Senza acqua, è impossibile vivere.",
@@ -444,7 +444,7 @@
   {
     "id": 18,
     "pattern": "Le prove indicano che ... accadrà.",
-    "translation": "The evidence points towards ... happening.",
+    "translation": "증거는 ...가 일어날 것임을 시사합니다.",
     "b1": [
       "Le prove indicano che pioverà.",
       "Le prove indicano che hai ragione.",
@@ -470,7 +470,7 @@
   {
     "id": 19,
     "pattern": "A condizione che ..., possiamo procedere con ...",
-    "translation": "On the condition that ..., we can proceed with ...",
+    "translation": "...라는 조건하에, 저희는 ...을 진행할 수 있습니다.",
     "b1": [
       "A condizione che faccia bel tempo, possiamo procedere con la passeggiata.",
       "A condizione che tu finisca i compiti, possiamo procedere con il gioco.",
@@ -496,7 +496,7 @@
   {
     "id": 20,
     "pattern": "L'implicazione a lungo termine è ...",
-    "translation": "The long-term implication is ...",
+    "translation": "장기적인 영향은 ...입니다.",
     "b1": [
       "L'implicazione a lungo termine è che saremo in buona salute.",
       "L'implicazione a lungo termine è che risparmieremo soldi.",

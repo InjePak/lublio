@@ -2,7 +2,7 @@
   {
     "id": 1,
     "pattern": "Mi ricordo quando...",
-    "translation": "I remember when ...",
+    "translation": "저는 ...했던 때를 기억해요.",
     "b1": [
       "Mi ricordo quando siamo andati al mare.",
       "Mi ricordo quando ho ricevuto la mia prima bicicletta.",
@@ -28,7 +28,7 @@
   {
     "id": 2,
     "pattern": "C'era una volta...",
-    "translation": "Once upon a time, ...",
+    "translation": "옛날 옛적에 ...",
     "b1": [
       "C'era una volta una bambina che amava i fiori.",
       "C'era una volta un re che viveva in un grande castello.",
@@ -54,7 +54,7 @@
   {
     "id": 3,
     "pattern": "La storia inizia con...",
-    "translation": "The story begins with ...",
+    "translation": "이야기는 ...로 시작됩니다.",
     "b1": [
       "La storia inizia con una bella mattina d'estate.",
       "La storia inizia con un incontro al parco.",
@@ -80,7 +80,7 @@
   {
     "id": 4,
     "pattern": "Questo mi ricorda un'epoca in cui...",
-    "translation": "That reminds me of a time when ...",
+    "translation": "그걸 보니 ...했던 때가 생각나네요.",
     "b1": [
       "Questo mi ricorda un'epoca in cui avevo molto tempo libero.",
       "Questo mi ricorda un'epoca in cui mangiavamo spesso insieme.",
@@ -106,7 +106,7 @@
   {
     "id": 5,
     "pattern": "Lasciate che vi parli di...",
-    "translation": "Let me tell you about ...",
+    "translation": "...에 대해 이야기해 드릴게요.",
     "b1": [
       "Lasciate che vi parli del mio cane.",
       "Lasciate che vi parli delle mie ultime vacanze.",
@@ -132,7 +132,7 @@
   {
     "id": 6,
     "pattern": "Stavamo per... quando all'improvviso...",
-    "translation": "We were just about to ... when suddenly ...",
+    "translation": "막 ...하려던 참이었는데, 갑자기 ...",
     "b1": [
       "Stavamo per partire quando all'improvviso ha iniziato a piovere.",
       "Stavamo per mangiare quando all'improvviso il telefono ha squillato.",
@@ -158,7 +158,7 @@
   {
     "id": 7,
     "pattern": "E poi, è successa la cosa più inaspettata: ...",
-    "translation": "And then, the most unexpected thing happened: ...",
+    "translation": "그러고 나서 가장 예상치 못한 일이 일어났어요. ...",
     "b1": [
       "E poi, è successa la cosa più inaspettata: ho vinto il concorso.",
       "E poi, è successa la cosa più inaspettata: mio fratello è venuto a trovarmi.",
@@ -184,7 +184,7 @@
   {
     "id": 8,
     "pattern": "Non dimenticherò mai il momento in cui...",
-    "translation": "I'll never forget the moment when ...",
+    "translation": "...했던 그 순간을 절대 잊지 못할 거예요.",
     "b1": [
       "Non dimenticherò mai il momento in cui ho visto la Torre Eiffel.",
       "Non dimenticherò mai il momento in cui mi sono laureato.",
@@ -210,7 +210,7 @@
   {
     "id": 9,
     "pattern": "All'inizio pensavo..., ma poi ho capito...",
-    "translation": "At first, I thought ..., but later I realized ...",
+    "translation": "처음에는 ...라고 생각했는데, 나중에 ...라는 것을 깨달았어요.",
     "b1": [
       "All'inizio pensavo che fosse facile, ma poi ho capito che era difficile.",
       "All'inizio pensavo che fosse cattivo, ma poi ho capito che era gentile.",
@@ -236,7 +236,7 @@
   {
     "id": 10,
     "pattern": "Tutto è cambiato dopo...",
-    "translation": "Everything changed after ...",
+    "translation": "... 이후로 모든 것이 바뀌었어요.",
     "b1": [
       "Tutto è cambiato dopo il mio viaggio in Italia.",
       "Tutto è cambiato dopo il nostro matrimonio.",
@@ -262,7 +262,7 @@
   {
     "id": 11,
     "pattern": "Prima che me ne rendessi conto...",
-    "translation": "Before I knew it, ...",
+    "translation": "저도 모르는 사이에 ...",
     "b1": [
       "Prima che me ne rendessi conto, era già mezzanotte.",
       "Prima che me ne rendessi conto, avevo mangiato tutta la torta.",
@@ -288,7 +288,7 @@
   {
     "id": 12,
     "pattern": "Tutta questa esperienza mi ha insegnato che...",
-    "translation": "The whole experience taught me ...",
+    "translation": "그 모든 경험은 제게 ...라는 것을 가르쳐 주었어요.",
     "b1": [
       "Tutta questa esperienza mi ha insegnato che la famiglia è importante.",
       "Tutta questa esperienza mi ha insegnato che bisogna essere pazienti.",
@@ -314,7 +314,7 @@
   {
     "id": 13,
     "pattern": "La prima cosa che è successa è stata...",
-    "translation": "The first thing that happened was ...",
+    "translation": "가장 먼저 일어난 일은 ...였어요.",
     "b1": [
       "La prima cosa che è successa è stata che ho perso le chiavi.",
       "La prima cosa che è successa è stata che lui ha gridato.",
@@ -340,7 +340,7 @@
   {
     "id": 14,
     "pattern": "Guardando indietro, posso vedere che...",
-    "translation": "Looking back now, I can see that ...",
+    "translation": "지금 되돌아보니 ...라는 것을 알 수 있어요.",
     "b1": [
       "Guardando indietro, posso vedere che avevo torto.",
       "Guardando indietro, posso vedere che era una buona idea.",
@@ -366,7 +366,7 @@
   {
     "id": 15,
     "pattern": "Mi sono sentito/a completamente...",
-    "translation": "I felt completely ...",
+    "translation": "저는 완전히 ...라고 느꼈어요.",
     "b1": [
       "Mi sono sentito completamente perso in città.",
       "Mi sono sentita completamente stanca dopo il lavoro.",
@@ -392,7 +392,7 @@
   {
     "id": 16,
     "pattern": "Era il momento in cui...",
-    "translation": "It was the moment when ...",
+    "translation": "...했던 순간이었어요.",
     "b1": [
       "Era il momento in cui abbiamo mangiato la pizza.",
       "Era il momento in cui ha iniziato a ballare.",
@@ -418,7 +418,7 @@
   {
     "id": 17,
     "pattern": "Per farla breve...",
-    "translation": "To cut a long story short, ...",
+    "translation": "간단히 말해서 ...",
     "b1": [
       "Per farla breve, abbiamo passato una bella giornata.",
       "Per farla breve, il film era brutto.",
@@ -444,7 +444,7 @@
   {
     "id": 18,
     "pattern": "L'atmosfera era molto...",
-    "translation": "The atmosphere was very ...",
+    "translation": "분위기가 정말 ...했어요.",
     "b1": [
       "L'atmosfera era molto calma in riva al lago.",
       "L'atmosfera era molto gioiosa durante la festa.",
@@ -470,7 +470,7 @@
   {
     "id": 19,
     "pattern": "Se dovessi descriverlo in una parola, direi...",
-    "translation": "If I had to describe it in one word, I'd say ...",
+    "translation": "한 마디로 표현하자면 ...라고 하겠어요.",
     "b1": [
       "Se dovessi descriverlo in una parola, direi fantastico.",
       "Se dovessi descriverlo in una parola, direi strano.",
@@ -496,7 +496,7 @@
   {
     "id": 20,
     "pattern": "La parte più divertente di tutto questo è...",
-    "translation": "The funniest part of the whole thing was ...",
+    "translation": "그중에서 가장 웃겼던 부분은 ...였어요.",
     "b1": [
       "La parte più divertente di tutto questo è quando il mio cane ha mangiato la mia torta.",
       "La parte più divertente di tutto questo è la sua faccia nella foto.",

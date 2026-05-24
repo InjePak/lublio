@@ -2,7 +2,7 @@
   {
     "id": 1,
     "pattern": "Mi sento estremamente ... riguardo a ...",
-    "translation": "I feel overwhelmingly ... about ...",
+    "translation": "...에 대해 완전히 ...라고 느껴요.",
     "b1": [
       "Mi sento estremamente felice riguardo al mio nuovo lavoro.",
       "Mi sento estremamente stanco riguardo a questo viaggio.",
@@ -28,7 +28,7 @@
   {
     "id": 2,
     "pattern": "Mi ha davvero toccato il cuore quando ...",
-    "translation": "It truly touched my heart when ...",
+    "translation": "...했을 때 정말 감동받았어요.",
     "b1": [
       "Mi ha davvero toccato il cuore quando hai sorriso.",
       "Mi ha davvero toccato il cuore quando mi ha detto grazie.",
@@ -54,7 +54,7 @@
   {
     "id": 3,
     "pattern": "Sono profondamente preoccupato/a per ...",
-    "translation": "I'm deeply concerned about ...",
+    "translation": "저는 ...에 대해 깊이 우려하고 있습니다.",
     "b1": [
       "Sono profondamente preoccupato per la salute di mio padre.",
       "Sono profondamente preoccupata per i miei voti a scuola.",
@@ -80,7 +80,7 @@
   {
     "id": 4,
     "pattern": "È un gran peso tolto dalle mie spalle perché ...",
-    "translation": "There's a huge weight lifted off my shoulders because ...",
+    "translation": "... 덕분에 마음의 짐을 크게 덜었어요.",
     "b1": [
       "È un gran peso tolto dalle mie spalle perché ho finito i compiti.",
       "È un gran peso tolto dalle mie spalle perché il mio amico mi ha perdonato.",
@@ -106,7 +106,7 @@
   {
     "id": 5,
     "pattern": "Non posso nascondere quanto io apprezzi ...",
-    "translation": "I can't hide how much I appreciate ...",
+    "translation": "...에 얼마나 감사하는지 말로 다 표현할 수 없습니다.",
     "b1": [
       "Non posso nascondere quanto io apprezzi il tuo aiuto.",
       "Non posso nascondere quanto io apprezzi questo pasto.",
@@ -132,7 +132,7 @@
   {
     "id": 6,
     "pattern": "Provo una profonda tristezza a causa di ...",
-    "translation": "I feel a profound sense of sadness over ...",
+    "translation": "...에 대해 깊은 슬픔을 느낍니다.",
     "b1": [
       "Provo una profonda tristezza a causa della morte del mio cane.",
       "Provo una profonda tristezza a causa della tua partenza.",
@@ -158,7 +158,7 @@
   {
     "id": 7,
     "pattern": "Le parole non possono descrivere quanto ...",
-    "translation": "Words can’t describe how much ...",
+    "translation": "얼마나 ...한지 말로 다 표현할 수가 없어요.",
     "b1": [
       "Le parole non possono descrivere quanto io sia felice.",
       "Le parole non possono descrivere quanto sia bello.",
@@ -184,7 +184,7 @@
   {
     "id": 8,
     "pattern": "Ho avuto difficoltà con l'idea di ...",
-    "translation": "I have been struggling with the thought of ...",
+    "translation": "...라는 생각 때문에 괴로워하고 있어요.",
     "b1": [
       "Ho avuto difficoltà con l'idea di traslocare.",
       "Ho avuto difficoltà con l'idea di cambiare scuola.",
@@ -210,7 +210,7 @@
   {
     "id": 9,
     "pattern": "La mia più grande paura è che ...",
-    "translation": "My greatest fear is that ...",
+    "translation": "저의 가장 큰 두려움은 ...입니다.",
     "b1": [
       "La mia più grande paura è che il mio cane sia malato.",
       "La mia più grande paura è che io sia solo la sera.",
@@ -236,7 +236,7 @@
   {
     "id": 10,
     "pattern": "Questa situazione mi ha lasciato piuttosto ...",
-    "translation": "This situation has left me feeling quite ...",
+    "translation": "이 상황은 저를 상당히 ...하게 만들었습니다.",
     "b1": [
       "Questa situazione mi ha lasciato piuttosto triste.",
       "Questa situazione mi ha lasciato piuttosto stanco.",
@@ -262,7 +262,7 @@
   {
     "id": 11,
     "pattern": "Mi spezza il cuore vedere ...",
-    "translation": "It breaks my heart to see ...",
+    "translation": "...를 보는 것은 정말 마음이 아픕니다.",
     "b1": [
       "Mi spezza il cuore vedere persone povere per strada.",
       "Mi spezza il cuore vedere questo bambino piangere.",
@@ -288,7 +288,7 @@
   {
     "id": 12,
     "pattern": "Ammiro sinceramente la tua forza nel ...",
-    "translation": "I genuinely admire your strength in ...",
+    "translation": "저는 ...하는 당신의 강인함에 진심으로 감탄합니다.",
     "b1": [
       "Ammiro sinceramente la tua forza in questa situazione.",
       "Ammiro sinceramente la tua forza nel tuo lavoro.",
@@ -314,7 +314,7 @@
   {
     "id": 13,
     "pattern": "Il significato profondo dietro ... è ...",
-    "translation": "The deep meaning behind ... is ...",
+    "translation": "... 뒤에 숨겨진 깊은 의미는 ...입니다.",
     "b1": [
       "Il significato profondo dietro questo regalo è l'amicizia.",
       "Il significato profondo dietro le sue parole è l'amore.",
@@ -340,7 +340,7 @@
   {
     "id": 14,
     "pattern": "Sono assolutamente devastato/a da ...",
-    "translation": "I’m absolutely devastated by ...",
+    "translation": "저는 ... 때문에 완전히 망연자실했습니다.",
     "b1": [
       "Sono assolutamente devastato da questa notizia.",
       "Sono assolutamente devastata dal mio voto.",
@@ -366,7 +366,7 @@
   {
     "id": 15,
     "pattern": "È difficile esprimere la gioia che provo quando ...",
-    "translation": "It’s hard to articulate the joy I feel when ...",
+    "translation": "...할 때 느끼는 기쁨을 말로 표현하기 어렵습니다.",
     "b1": [
       "È difficile esprimere la gioia che provo quando ti vedo.",
       "È difficile esprimere la gioia que provo quando mangio la cioccolata.",
@@ -392,7 +392,7 @@
   {
     "id": 16,
     "pattern": "Questa esperienza mi ha dato una nuova prospettiva su ...",
-    "translation": "This experience has given me a new perspective on ...",
+    "translation": "이 경험은 저에게 ...에 대한 새로운 관점을 제공했습니다.",
     "b1": [
       "Questa esperienza mi ha dato una nuova prospettiva sulla vita.",
       "Questa esperienza mi ha dato una nuova prospettiva sul cibo italiano.",
@@ -418,7 +418,7 @@
   {
     "id": 17,
     "pattern": "Provo un immenso sollievo che ...",
-    "translation": "I feel an immense sense of relief that ...",
+    "translation": "저는 ...라는 것에 엄청난 안도감을 느낍니다.",
     "b1": [
       "Provo un immenso sollievo che tu sia qui.",
       "Provo un immenso sollievo che l'esame sia finito.",
@@ -444,7 +444,7 @@
   {
     "id": 18,
     "pattern": "C'è un senso di vuoto da quando ...",
-    "translation": "There is a feeling of emptiness since ...",
+    "translation": "... 이후로 공허한 기분이 듭니다.",
     "b1": [
       "C'è un senso di vuoto da quando te ne sei andato.",
       "C'è un senso di vuoto da quando la festa è finita.",
@@ -470,7 +470,7 @@
   {
     "id": 19,
     "pattern": "Mi assumo la piena responsabilità del mio sentimento di ...",
-    "translation": "I take full responsibility for my feeling of ...",
+    "translation": "제 ...한 감정에 대해 전적으로 책임을 느낍니다.",
     "b1": [
       "Mi assumo la piena responsabilità del mio sentimento di tristezza.",
       "Mi assumo la piena responsabilità del mio sentimento di rabbia.",
@@ -496,7 +496,7 @@
   {
     "id": 20,
     "pattern": "L'intensità della situazione mi ha fatto sentire ...",
-    "translation": "The intensity of the situation made me feel ...",
+    "translation": "상황의 강렬함이 저를 ...라고 느끼게 했습니다.",
     "b1": [
       "L'intensità della situazione mi ha fatto sentire paura.",
       "L'intensità della situation mi ha fatto sentire vivo.",

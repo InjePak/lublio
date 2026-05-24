@@ -2,7 +2,7 @@
   {
     "id": 1,
     "pattern": "...manız/meniz mümkün mü?",
-    "translation": "Could you possibly ...?",
+    "translation": "혹시 ...해 주실 수 있을까요?",
     "b1": [
       "Bana bavulumu taşımamda yardım etmeniz mümkün mü?",
       "Bana adresinizi göndermeniz mümkün mü?",
@@ -28,7 +28,7 @@
   {
     "id": 2,
     "pattern": "...rsanız/erseniz çok minnettar olurum",
-    "translation": "I would be grateful if you could ...",
+    "translation": "...해 주신다면 감사하겠습니다.",
     "b1": [
       "Bana yardım ederseniz çok minnettar olurum.",
       "Mesajıma cevap verirseniz çok minnettar olurum.",
@@ -54,7 +54,7 @@
   {
     "id": 3,
     "pattern": "...manızın/menizın bir sakıncası var mı?",
-    "translation": "Would you mind ...?",
+    "translation": "...해 주시겠어요?",
     "b1": [
       "Sesi kısmanızın bir sakıncası var mı?",
       "Bizi çekmenizin bir sakıncası var mı?",
@@ -80,7 +80,7 @@
   {
     "id": 4,
     "pattern": "... talep etmek için yazıyorum",
-    "translation": "I'm writing to request ...",
+    "translation": "...을 요청드리고자 연락드렸습니다.",
     "b1": [
       "Fransızca kursları hakkında bilgi talep etmek için yazıyorum.",
       "Sizden yardım talep etmek için yazıyorum.",
@@ -106,7 +106,7 @@
   {
     "id": 5,
     "pattern": "... sonuna kadar ... ihtiyacım var",
-    "translation": "I need ... by the end of ...",
+    "translation": "...까지 ...이 필요합니다.",
     "b1": [
       "Günün sonuna kadar pasaportuma ihtiyacım var.",
       "Haftanın sonuna kadar bu belgelere ihtiyacım var.",
@@ -132,7 +132,7 @@
   {
     "id": 6,
     "pattern": "... ihtimali var mı?",
-    "translation": "Is there any chance of ...?",
+    "translation": "...할 수 있는 가능성이 있을까요?",
     "b1": [
       "Kazanma ihtimalimiz var mı?",
       "Yarın havanın güzel olma ihtimali var mı?",
@@ -158,7 +158,7 @@
   {
     "id": 7,
     "pattern": "Sizden özellikle ... odaklanmanızı rica edebilir miyim?",
-    "translation": "Could I ask you to specifically focus on ...?",
+    "translation": "특별히 ...에 집중해 달라고 부탁드려도 될까요?",
     "b1": [
       "Sizden özellikle ders çalışmaya odaklanmanızı rica edebilir miyim?",
       "Sizden özellikle bu konuya odaklanmanızı rica edebilir miyim?",
@@ -184,7 +184,7 @@
   {
     "id": 8,
     "pattern": "... eklemeyi unutmayın",
-    "translation": "Please make sure to include ...",
+    "translation": "...을 꼭 포함시켜 주세요.",
     "b1": [
       "Adınızı eklemeyi unutmayın.",
       "Fotoğrafları eklemeyi unutmayın.",
@@ -210,7 +210,7 @@
   {
     "id": 9,
     "pattern": "... hakkında detaylı bilgi vermeniz mümkün mü?",
-    "translation": "Would it be possible for you to provide details on ...?",
+    "translation": "...에 대한 세부 사항을 알려주실 수 있을까요?",
     "b1": [
       "Fiyat hakkında detaylı bilgi vermeniz mümkün mü?",
       "Parti hakkında detaylı bilgi vermeniz mümkün mü?",
@@ -236,7 +236,7 @@
   {
     "id": 10,
     "pattern": "Maalesef ...amayacağım/emeyeceğim",
-    "translation": "Unfortunately, I won't be able to ...",
+    "translation": "안타깝게도, 제가 ...할 수 없을 것 같습니다.",
     "b1": [
       "Maalesef bu akşam gelemeyeceğim.",
       "Maalesef zamanında bitiremeyeceğim.",
@@ -262,7 +262,7 @@
   {
     "id": 11,
     "pattern": "Korkarım ... reddetmek zorundayım",
-    "translation": "I'm afraid I have to decline ...",
+    "translation": "유감스럽게도 ...를 거절해야 할 것 같습니다.",
     "b1": [
       "Davetinizi reddetmek zorundayım.",
       "Bu hediyeyi reddetmek zorundayım.",
@@ -288,7 +288,7 @@
   {
     "id": 12,
     "pattern": "Zor görünüyor, çünkü ...",
-    "translation": "That sounds challenging because ...",
+    "translation": "그것은 ... 때문에 어려울 것 같습니다.",
     "b1": [
       "Zor görünüyor, çünkü bu çok pahalı.",
       "Zor görünüyor, çünkü zamanım yok.",
@@ -314,7 +314,7 @@
   {
     "id": 13,
     "pattern": "Teklifiniz için teşekkür ederim ama ... saygıyla reddetmek zorundayım",
-    "translation": "While I appreciate the offer, I must respectfully refuse ...",
+    "translation": "제안은 감사하지만, 정중히 ...를 거절해야겠습니다.",
     "b1": [
       "Teklifiniz için teşekkür ederim ama yardımınızı saygıyla reddetmek zorundayım.",
       "Teklifiniz için teşekkür ederim ama bu pastayı saygıyla reddetmek zorundayım.",
@@ -340,7 +340,7 @@
   {
     "id": 14,
     "pattern": "Çalışma programım ... izin vermiyor",
-    "translation": "My schedule doesn't permit me to ...",
+    "translation": "제 일정이 ...하는 것을 허락하지 않네요.",
     "b1": [
       "Çalışma programım bugün dışarı çıkmama izin vermiyor.",
       "Çalışma programım bu hafta seyahat etmeme izin vermiyor.",
@@ -366,7 +366,7 @@
   {
     "id": 15,
     "pattern": "... isterdim ama şu anda ... ile meşgulüm",
-    "translation": "I wish I could ..., but currently I'm occupied with ...",
+    "translation": "...할 수 있으면 좋겠지만, 지금은 ... 때문에 바쁩니다.",
     "b1": [
       "Sana yardım etmek isterdim ama şu anda ev ödevim ile meşgulüm.",
       "Gelmek isterdim ama şu anda işim ile meşgulüm.",
@@ -392,7 +392,7 @@
   {
     "id": 16,
     "pattern": "... konusunu daha sonra tekrar değerlendirebiliriz",
-    "translation": "We can revisit ... later.",
+    "translation": "...는 나중에 다시 논의할 수 있습니다.",
     "b1": [
       "Bu fikir konusunu daha sonra tekrar değerlendirebiliriz.",
       "Talebiniz konusunu daha sonra tekrar değerlendirebiliriz.",
@@ -418,7 +418,7 @@
   {
     "id": 17,
     "pattern": "... hakkında ... ile konuşmanızı tavsiye ederim",
-    "translation": "I recommend speaking to ... about ...",
+    "translation": "...에 관해서는 ...와 이야기해 보시는 걸 추천합니다.",
     "b1": [
       "Bu sorun hakkında abim ile konuşmanızı tavsiye ederim.",
       "Notunuz hakkında öğretmeniniz ile konuşmanızı tavsiye ederim.",
@@ -444,7 +444,7 @@
   {
     "id": 18,
     "pattern": "Şu andaki ana hedefim ..., bu yüzden reddetmek zorundayım.",
-    "translation": "My priority right now is ..., so I must decline.",
+    "translation": "지금 저에겐 ...이 제일 중요해서, 거절해야 할 것 같습니다.",
     "b1": [
       "Şu andaki ana hedefim sağlığım, bu yüzden reddetmek zorundayım.",
       "Şu andaki ana hedefim sınavım, bu yüzden reddetmek zorundayım.",
@@ -470,7 +470,7 @@
   {
     "id": 19,
     "pattern": "... ile neyi kastettiğinizi netleştirebilir misiniz?",
-    "translation": "Could you please clarify what you mean by ...?",
+    "translation": "...이 무슨 뜻인지 명확히 해주실 수 있을까요?",
     "b1": [
       "'Daha sonra' ile neyi kastettiğinizi netleştirebilir misiniz?",
       "'Pahalı' ile neyi kastettiğinizi netleştirebilir misiniz?",
@@ -496,7 +496,7 @@
   {
     "id": 20,
     "pattern": "Sadece ...sanız/seniz büyük bir yardım olurdu.",
-    "translation": "If you could just ..., that would be a great help.",
+    "translation": "...만 해주신다면 큰 도움이 될 것 같습니다.",
     "b1": [
       "Sadece bana yardım etseniz büyük bir yardım olurdu.",
       "Sadece kapıyı açsanız büyük bir yardım olurdu.",

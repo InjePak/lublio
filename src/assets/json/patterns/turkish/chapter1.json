@@ -2,7 +2,7 @@
   {
     "id": 1,
     "pattern": "Bence ...",
-    "translation": "In my opinion, ...",
+    "translation": "제 의견으로는 ...",
     "b1": [
       "Bence bu film çok ilginç.",
       "Bence daha fazla sebze yemeliyiz.",
@@ -28,7 +28,7 @@
   {
     "id": 2,
     "pattern": "... -e olduğuna inanıyorum / Bence ...",
-    "translation": "I believe that ...",
+    "translation": "저는 ...라고 생각해요.",
     "b1": [
       "Bunun iyi bir fikir olduğuna inanıyorum.",
       "Bence Pavel gitti.",
@@ -54,7 +54,7 @@
   {
     "id": 3,
     "pattern": "Bana öyle geliyor ki ...",
-    "translation": "It seems to me that ...",
+    "translation": "제가 보기에는 ...인 것 같아요.",
     "b1": [
       "Bana öyle geliyor ki sen yorgunsun.",
       "Bana öyle geliyor ki otobüs gecikiyor.",
@@ -80,7 +80,7 @@
   {
     "id": 4,
     "pattern": "Benim bakış açıma göre, ...",
-    "translation": "From my perspective, ...",
+    "translation": "제 관점에서는 ...",
     "b1": [
       "Benim bakış açıma göre bu çok pahalı.",
       "Benim bakış açıma göre spor yapmak önemli.",
@@ -106,7 +106,7 @@
   {
     "id": 5,
     "pattern": "... -e kesinlikle inanıyorum",
-    "translation": "I strongly feel that ...",
+    "translation": "저는 …라고 강하게 느껴요.",
     "b1": [
       "Senin başarılı olacağına kesinlikle inanıyorum.",
       "Onun geleceğine kesinlikle inanıyorum.",
@@ -132,7 +132,7 @@
   {
     "id": 6,
     "pattern": "Bence ... / Şunu iddia edebilirim ki ...",
-    "translation": "I would argue that ...",
+    "translation": "저는 ...라고 주장하고 싶어요.",
     "b1": [
       "Bence bu iyi bir girişim.",
       "Gecenin çok eğlenceli geçtiğini iddia edebilirim.",
@@ -158,7 +158,7 @@
   {
     "id": 7,
     "pattern": "Demek istediğim şu ki, ...",
-    "translation": "What I mean is, ...",
+    "translation": "제 말의 뜻은 ...",
     "b1": [
       "Demek istediğim şu ki bu çok önemli.",
       "Demek istediğim şu ki özür dilerim.",
@@ -184,7 +184,7 @@
   {
     "id": 8,
     "pattern": "Bana sorarsanız, ...",
-    "translation": "If you ask me, ...",
+    "translation": "제 의견을 물으신다면 ...",
     "b1": [
       "Bana sorarsanız o gelmeyecek.",
       "Bana sorarsanız şimdi çok geç.",
@@ -210,7 +210,7 @@
   {
     "id": 9,
     "pattern": "... -e tamamen katılıyorum",
-    "translation": "I couldn't agree more with ...",
+    "translation": "...에 전적으로 동의합니다.",
     "b1": [
       "Sana tamamen katılıyorum.",
       "Bu fikre tamamen katılıyorum.",
@@ -236,7 +236,7 @@
   {
     "id": 10,
     "pattern": "Bu haklı bir nokta ama ...",
-    "translation": "That's a valid point, but ...",
+    "translation": "타당한 말씀입니다만, ...",
     "b1": [
       "Bu haklı bir nokta ama bu çok pahalı.",
       "Bu haklı bir nokta ama zamanım yok.",
@@ -262,7 +262,7 @@
   {
     "id": 11,
     "pattern": "... konusunda farklı düşünüyorum",
-    "translation": "I beg to differ on ...",
+    "translation": "...에 대해서는 의견이 다릅니다.",
     "b1": [
       "Fiyat konusunda farklı düşünüyorum.",
       "Renk konusunda farklı düşünüyorum.",
@@ -288,7 +288,7 @@
   {
     "id": 12,
     "pattern": "... anlasam da yine de ... olduğunu düşünüyorum",
-    "translation": "While I understand that ..., I still feel ...",
+    "translation": "...라는 점은 이해하지만, 여전히 ...라고 생각합니다.",
     "b1": [
       "Senin meşgul olduğunu anlasam da yine de gelmen gerektiğini düşünüyorum.",
       "Bunun zor olduğunu anlasam da yine de bunun mümkün olduğunu düşünüyorum.",
@@ -314,7 +314,7 @@
   {
     "id": 13,
     "pattern": "Tüm saygımla, ...",
-    "translation": "With all due respect, ...",
+    "translation": "실례입니다만, ...",
     "b1": [
       "Tüm saygımla, ben katılmıyorum.",
       "Tüm saygımla, siz bir detayı unuttunuz.",
@@ -340,7 +340,7 @@
   {
     "id": 14,
     "pattern": "... konusunda pek emin değilim",
-    "translation": "I'm not entirely sure about ...",
+    "translation": "...에 대해 전적으로 확신하지는 못해요.",
     "b1": [
       "Saat konusunda pek emin değilim.",
       "Senin ismin konusunda pek emin değilim.",
@@ -366,7 +366,7 @@
   {
     "id": 15,
     "pattern": "... konusunu biraz daha açabilir misiniz?",
-    "translation": "Could you elaborate on ...?",
+    "translation": "...에 대해 좀 더 자세히 설명해주시겠어요?",
     "b1": [
       "Bu mesele konusunu biraz daha açabilir misiniz?",
       "Kendi fikriniz konusunu biraz daha açabilir misiniz?",
@@ -392,7 +392,7 @@
   {
     "id": 16,
     "pattern": "... konusunda karışık hislere sahibim",
-    "translation": "I have mixed feelings about ...",
+    "translation": "...에 대해서는 복잡한 생각이 들어요.",
     "b1": [
       "Bu kitap konusunda karışık hislere sahibim.",
       "Yeni işim konusunda karışık hislere sahibim.",
@@ -418,7 +418,7 @@
   {
     "id": 17,
     "pattern": "... konusunda anlaşamadığımızı kabul edelim",
-    "translation": "Let's agree to disagree on ...",
+    "translation": "...에 대해서는 각자의 의견을 존중하기로 하죠.",
     "b1": [
       "Bu film konusunda anlaşamadığımızı kabul edelim.",
       "Müzik konusunda anlaşamadığımızı kabul edelim.",
@@ -444,7 +444,7 @@
   {
     "id": 18,
     "pattern": "... durumunu düşündünüz mü?",
-    "translation": "Have you considered ...?",
+    "translation": "...을 고려해 보셨나요?",
     "b1": [
       "Bu seçeneği düşündünüz mü?",
       "Fiyatı düşündünüz mü?",
@@ -470,7 +470,7 @@
   {
     "id": 19,
     "pattern": "Bu her zaman böyle değildir çünkü ...",
-    "translation": "That's not always the case because ...",
+    "translation": "항상 그런 것은 아닙니다, 왜냐하면 ...",
     "b1": [
       "Bu her zaman böyle değildir çünkü bu zor.",
       "Bu her zaman böyle değildir çünkü insanlar değişir.",
@@ -496,7 +496,7 @@
   {
     "id": 20,
     "pattern": "Durumu ... olarak görüyorum",
-    "translation": "I see things ...",
+    "translation": "저는 상황을 ...게 봐요.",
     "b1": [
       "Durumu farklı olarak görüyorum.",
       "Durumu iyi bir şekilde görüyorum.",

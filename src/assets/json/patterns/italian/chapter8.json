@@ -2,7 +2,7 @@
   {
     "id": 1,
     "pattern": "Entrambi, ... e ..., sono importanti perché ...",
-    "translation": "Both ... and ... are important because ...",
+    "translation": "...와 ... 둘 다 중요합니다. 왜냐하면 ...",
     "b1": [
       "Entrambi, lo sport e l'alimentazione, sono importanti perché fanno bene alla salute.",
       "Entrambi, leggere e scrivere, sono importanti perché impariamo molto.",
@@ -28,7 +28,7 @@
   {
     "id": 2,
     "pattern": "A differenza di ..., tuttavia, ...",
-    "translation": "Unlike ..., however, ...",
+    "translation": "...와 달리, ...",
     "b1": [
       "A differenza di mio fratello, tuttavia, non mi piace il calcio.",
       "A differenza di ieri, tuttavia, oggi fa molto bello.",
@@ -54,7 +54,7 @@
   {
     "id": 3,
     "pattern": "La principale differenza tra ... e ... è che ...",
-    "translation": "The main difference between ... and ... is that ...",
+    "translation": "...와 ...의 주요 차이점은 ...라는 것입니다.",
     "b1": [
       "La principale differenza tra il cane e il gatto è che il cane è più socievole.",
       "La principale differenza tra l'estate e l'inverno è che in estate fa più caldo.",
@@ -80,7 +80,7 @@
   {
     "id": 4,
     "pattern": "... è simile a ... nel senso che ...",
-    "translation": "... is similar to ... in that ...",
+    "translation": "...는 ...라는 점에서 ...와 유사합니다.",
     "b1": [
       "Il francese è simile all'italiano nel senso che sono entrambe lingue latine.",
       "Questo film è simile al primo nel senso che è molto divertente.",
@@ -106,7 +106,7 @@
   {
     "id": 5,
     "pattern": "Mentre ... ha X, ... ha Y.",
-    "translation": "While ... has X, ... has Y.",
+    "translation": "...가 X를 가진 반면, ...는 Y를 가집니다.",
     "b1": [
       "Mentre Parigi ha la Torre Eiffel, Seul ha la torre Namsan.",
       "Mentre io ho un gatto, il mio amico ha un cane.",
@@ -132,7 +132,7 @@
   {
     "id": 6,
     "pattern": "Da un lato ..., ma dall'altro, ...",
-    "translation": "On the one hand ..., but on the other hand, ...",
+    "translation": "한편으로는 ..., 하지만 다른 한편으로는, ...",
     "b1": [
       "Da un lato mi piace viaggiare, ma dall'altro mi piace stare a casa.",
       "Da un lato questo lavoro è duro, ma dall'altro lo stipendio è buono.",
@@ -158,7 +158,7 @@
   {
     "id": 7,
     "pattern": "In confronto a ..., ...",
-    "translation": "In comparison to ..., ...",
+    "translation": "...와 비교하여, ...",
     "b1": [
       "In confronto all'anno scorso, adesso fa più freddo.",
       "In confronto alla mia macchina, la tua è molto piccola.",
@@ -184,7 +184,7 @@
   {
     "id": 8,
     "pattern": "Al contrario, la situazione con ... è abbastanza diversa.",
-    "translation": "Conversely, the situation with ... is quite different.",
+    "translation": "반대로 ...의 상황은 상당히 다릅니다.",
     "b1": [
       "Al contrario, la situazione con il mio amico è abbastanza diversa.",
       "Al contrario, la situazione con questo progetto è abbastanza diversa.",
@@ -210,7 +210,7 @@
   {
     "id": 9,
     "pattern": "Condividono diverse caratteristiche comuni, come ...",
-    "translation": "They share several common characteristics, such as ...",
+    "translation": "그들은 ...와 같은 몇 가지 공통적인 특징을 공유합니다.",
     "b1": [
       "Condividono diverse caratteristiche comuni, come il colore e la dimensione.",
       "Condividono diverse caratteristiche comuni, come il gusto e l'odore.",
@@ -236,7 +236,7 @@
   {
     "id": 10,
     "pattern": "Il grado di ... è molto maggiore in ... che in ...",
-    "translation": "The degree of ... is much greater in ... than in ...",
+    "translation": "...의 정도는 ...보다 ...에서 훨씬 큽니다.",
     "b1": [
       "Il grado di rumore è molto maggiore in strada che in casa.",
       "Il grado di calore è molto maggiore nella zuppa che nel tè.",
@@ -262,7 +262,7 @@
   {
     "id": 11,
     "pattern": "Sebbene ... sia vero, dobbiamo anche considerare ...",
-    "translation": "Although ... is true, we must also consider ...",
+    "translation": "비록 ...이 사실이지만, 저희는 또한 ...를 고려해야 합니다.",
     "b1": [
       "Sebbene sia vero, dobbiamo anche considerare il prezzo.",
       "Sebbene tu abbia ragione, dobbiamo anche considerare la mia opinione.",
@@ -288,7 +288,7 @@
   {
     "id": 12,
     "pattern": "Un punto di divergenza significativo è ...",
-    "translation": "A significant point of divergence is ...",
+    "translation": "중요한 차이점은 ...입니다.",
     "b1": [
       "Un punto di divergenza significativo è il colore.",
       "Un punto di divergenza significativo è il prezzo.",
@@ -314,7 +314,7 @@
   {
     "id": 13,
     "pattern": "Sono fondamentalmente simili, ad eccezione di ...",
-    "translation": "They are fundamentally similar, except for ...",
+    "translation": "...을 제외하고는, 그것들은 근본적으로 유사합니다.",
     "b1": [
       "Sono fondamentalmente simili, ad eccezione del colore.",
       "Sono fondamentalmente simili, ad eccezione del prezzo.",
@@ -340,7 +340,7 @@
   {
     "id": 14,
     "pattern": "... è molto più efficace di ... perché ...",
-    "translation": "... is far more effective than ... because ...",
+    "translation": "...는 ...보다 훨씬 더 효과적입니다. 왜냐하면 ...",
     "b1": [
       "Il treno è molto più efficace dell'auto perché è più veloce.",
       "Il caffè è molto più efficace del tè perché mi dà più energia.",
@@ -366,7 +366,7 @@
   {
     "id": 15,
     "pattern": "Possiamo tracciare un parallelo tra ... e ...",
-    "translation": "We can draw a parallel between ... and ...",
+    "translation": "...와 ... 사이에 유사점을 찾을 수 있습니다.",
     "b1": [
       "Possiamo tracciare un parallelo tra la tua storia e la mia.",
       "Possiamo tracciare un parallelo tra questo film e la vita reale.",
@@ -392,7 +392,7 @@
   {
     "id": 16,
     "pattern": "Né ... né ... fornisce ...",
-    "translation": "Neither ... nor ... provides ...",
+    "translation": "...도 ...도 ...을 제공하지 않습니다.",
     "b1": [
       "Né questo ristorante né l'altro fornisce il caffè.",
       "Né lui né io forniamo aiuto.",
@@ -418,7 +418,7 @@
   {
     "id": 17,
     "pattern": "Se messo a confronto con ..., ... sembra essere ...",
-    "translation": "When balanced against ..., ... appears to be ...",
+    "translation": "...와 균형을 이룰 때, ...은 ...한 것 같습니다.",
     "b1": [
       "Se messo a confronto con il prezzo, questo dolce sembra essere buono.",
       "Se messo a confronto con la pioggia, questo viaggio sembra essere triste.",
@@ -444,7 +444,7 @@
   {
     "id": 18,
     "pattern": "C'è un contrasto netto nel loro approccio a ...",
-    "translation": "There is a stark contrast in their approach to ...",
+    "translation": "...에 대한 그들의 접근 방식에는 극명한 대조가 있습니다.",
     "b1": [
       "C'è un contrasto netto nel loro approccio all'educazione.",
       "C'è un contrasto netto nel loro approccio allo sport.",
@@ -470,7 +470,7 @@
   {
     "id": 19,
     "pattern": "La somiglianza risiede nel fatto che ...",
-    "translation": "The similarity lies in the fact that ...",
+    "translation": "유사점은 ...라는 사실에 있습니다.",
     "b1": [
       "La somiglianza risiede nel fatto che entrambi sono rossi.",
       "La somiglianza risiede nel fatto che ci piace la pizza.",
@@ -496,7 +496,7 @@
   {
     "id": 20,
     "pattern": "Messi a confronto, ... supera chiaramente ...",
-    "translation": "Compared side by side, ... clearly outperforms ...",
+    "translation": "나란히 비교했을 때 ...은 ...보다 명확히 뛰어납니다.",
     "b1": [
       "Messi a confronto, questo dolce supera chiaramente l'altro.",
       "Messi a confronto, l'aereo supera chiaramente l'autobus.",

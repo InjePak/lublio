@@ -9,7 +9,8 @@
     "rus": "Выражение мнения и несогласие",
     "heb": "הבעת דעה ואי-הסכמה",
     "kaz": "Пікір білдіру және келіспеу",
-    "tur": "Görüş Bildirme ve Karşı Çıkma"
+    "tur": "Görüş Bildirme ve Karşı Çıkma",
+    "ita": "Esprimere opinioni ed esprimere disaccordo"
   },
   {
     "id": 2,
@@ -21,7 +22,8 @@
     "rus": "Описание опыта и повествование",
     "heb": "תיאור חוויות וסיפור סיפור",
     "kaz": "Тәжірибені сипаттау және хикая айту",
-    "tur": "Deneyimleri Tanımlama ve Hikaye Anlatımı"
+    "tur": "Deneyimleri Tanımlama ve Hikaye Anlatımı",
+    "ita": "Descrivere esperienze e raccontare storie"
   },
   {
     "id": 3,
@@ -33,7 +35,8 @@
     "rus": "Подробные запросы и вежливый отказ",
     "heb": "בקשות מפורטות וסירוב נימוסי",
     "kaz": "Егжей-тегжейлі сұраулар және сыпайы бас тарту",
-    "tur": "Ayrıntılı İsteklerde Bulunma ve Kibarca Reddetme"
+    "tur": "Ayrıntılı İsteklerde Bulunma ve Kibarca Reddetme",
+    "ita": "Fare richieste dettagliate e rifiutare gentilmente"
   },
   {
     "id": 4,
@@ -45,7 +48,8 @@
     "rus": "Решение проблем и предложение решений",
     "heb": "פתרון בעיות והצעת פתרונות",
     "kaz": "Мәселелерді шешу және шешімдер ұсыну",
-    "tur": "Problem Çözme ve Çözüm Önerileri Sunma"
+    "tur": "Problem Çözme ve Çözüm Önerileri Sunma",
+    "ita": "Risoluzione di problemi e suggerimento di soluzioni"
   },
   {
     "id": 5,
@@ -57,7 +61,8 @@
     "rus": "Выражение глубоких эмоций",
     "heb": "הבעת רגשות עמוקים",
     "kaz": "Терең сезімдерді білдіру",
-    "tur": "Derin Duyguları İfade Etme"
+    "tur": "Derin Duyguları İfade Etme",
+    "ita": "Esprimere emozioni profonde"
   },
   {
     "id": 6,
@@ -69,7 +74,8 @@
     "rus": "Передача информации и уточнение",
     "heb": "מסירת מידע והבהרה",
     "kaz": "Ақпаратты жеткізу және түсіндіру",
-    "tur": "Bilgi Aktarma ve Açıklama"
+    "tur": "Bilgi Aktarma ve Açıklama",
+    "ita": "Fornire informazioni e chiarimenti"
   },
   {
     "id": 7,
@@ -81,7 +87,8 @@
     "rus": "Гипотезы и прогнозирование - Условные предложения",
     "heb": "העלאת השערות וחיזוי - משפטי תנאי",
     "kaz": "Гипотезалар құру және болжау - Шартты сөйлемдер",
-    "tur": "Varsayımda Bulunma ve Tahmin Etme - Koşul Cümleleri"
+    "tur": "Varsayımda Bulunma ve Tahmin Etme - Koşul Cümleleri",
+    "ita": "Formulare ipotesi e previsioni - Periodo ipotetico"
   },
   {
     "id": 8,
@@ -93,7 +100,8 @@
     "rus": "Сравнение и сопоставление",
     "heb": "השוואה והנגדה",
     "kaz": "Салыстыру және қарама-қарсы қою",
-    "tur": "Karşılaştırma ve Karşıtlık Kurma"
+    "tur": "Karşılaştırma ve Karşıtlık Kurma",
+    "ita": "Confrontare e contrastare"
   },
   {
     "id": 9,
@@ -105,7 +113,8 @@
     "rus": "Описание привычек и распорядка дня",
     "heb": "תיאור הרגלים וסדר יום",
     "kaz": "Күнделікті әдеттер мен күн тәртібі",
-    "tur": "Alışkanlıkları ve Günlük Rutinleri Tanımlama"
+    "tur": "Alışkanlıkları ve Günlük Rutinleri Tanımlama",
+    "ita": "Descrivere abitudini e routine quotidiane"
   },
   {
     "id": 10,
@@ -117,6 +126,7 @@
     "rus": "Искренние комплименты и благодарность",
     "heb": "מתן מחמאות כנות והכרת תודה",
     "kaz": "Шын жүректен комплимент айту және алғыс білдіру",
-    "tur": "İçten Övgülerde Bulunma ve Minnettarlık Gösterme"
+    "tur": "İçten Övgülerde Bulunma ve Minnettarlık Gösterme",
+    "ita": "Fare complimenti sinceri ed esprimere gratitudine"
   }
 ]

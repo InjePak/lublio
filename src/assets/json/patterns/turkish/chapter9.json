@@ -2,7 +2,7 @@
   {
     "id": 1,
     "pattern": "Her sabah genellikle ...",
-    "translation": "Every morning, I usually ...",
+    "translation": "매일 아침, 저는 보통 ...합니다.",
     "b1": [
       "Her sabah genellikle kahve içerim.",
       "Her sabah genellikle egzersiz yaparım.",
@@ -28,7 +28,7 @@
   {
     "id": 2,
     "pattern": "... zaman, ... eğilimindeyim",
-    "translation": "I tend to ... when ...",
+    "translation": "저는 ...할 때 ...하는 경향이 있어요.",
     "b1": [
       "Dışarıda yağmur yağdığı zaman, tembellik yapma eğilimindeyim.",
       "Param olduğu zaman, alışveriş yapma eğilimindeyim.",
@@ -54,7 +54,7 @@
   {
     "id": 3,
     "pattern": "Kural olarak, asla ...",
-    "translation": "As a rule, I never ...",
+    "translation": "일반적으로, 저는 절대 ...하지 않습니다.",
     "b1": [
       "Kural olarak, randevularıma asla geç kalmam.",
       "Kural olarak, asla et yemem.",
@@ -80,7 +80,7 @@
   {
     "id": 4,
     "pattern": "Günde en az bir kez ... özen gösteririm.",
-    "translation": "I make it a point to ... at least once a day.",
+    "translation": "적어도 하루에 한 번은 꼭 ...하려고 노력해요.",
     "b1": [
       "Günde en az bir kez yürüyüş yapmaya özen gösteririm.",
       "Günde en az bir kez annemi aramaya özen gösteririm.",
@@ -106,7 +106,7 @@
   {
     "id": 5,
     "pattern": "Her şeyden önce, her zaman ...",
-    "translation": "Before anything else, I always ...",
+    "translation": "무엇보다 먼저 저는 항상 ...해요.",
     "b1": [
       "Her şeyden önce, her zaman ellerimi yıkarım.",
       "Her şeyden önce, her zaman çay içerim.",
@@ -132,7 +132,7 @@
   {
     "id": 6,
     "pattern": "... alışkanlık haline getirdim",
-    "translation": "I've gotten into the habit of ...",
+    "translation": "...하는 습관이 생겼어요.",
     "b1": [
       "Sabahları su içmeyi alışkanlık haline getirdim.",
       "Parkta koşmayı alışkanlık haline getirdim.",
@@ -158,7 +158,7 @@
   {
     "id": 7,
     "pattern": "Rutim genellikle ... içerir",
-    "translation": "My routine typically involves ...",
+    "translation": "제 일과에는 보통 ...을 포함해요.",
     "b1": [
       "Rutim genellikle kahvaltı ve işi içerir.",
       "Rutim genellikle akşam yürüyüşünü içerir.",
@@ -184,7 +184,7 @@
   {
     "id": 8,
     "pattern": "Çoğu akşam kendimi ... bulurum",
-    "translation": "Most evenings, I find myself ...",
+    "translation": "대부분의 저녁에 저는 ...하곤 해요.",
     "b1": [
       "Çoğu akşam kendimi çok yorulmuş bulurum.",
       "Çoğu akşam kendimi film izlemek isterken bulurum.",
@@ -210,7 +210,7 @@
   {
     "id": 9,
     "pattern": "Sık sık yaptığım şey ...",
-    "translation": "What I often do is ...",
+    "translation": "제가 자주 하는 것은 ...입니다.",
     "b1": [
       "Sık sık yaptığım şey müzik dinlemektir.",
       "Sık sık yaptığım şey parkta yürüyüş yapmaktır.",
@@ -236,7 +236,7 @@
   {
     "id": 10,
     "pattern": "... adımını nadiren atlarım",
-    "translation": "I rarely skip the step of ...",
+    "translation": "저는 ...하는 것을 거의 빼먹지 않아요.",
     "b1": [
       "Kahvaltı yapma adımını nadiren atlarım.",
       "Esneme egzersizleri yapma adımını nadiren atlarım.",
@@ -262,7 +262,7 @@
   {
     "id": 11,
     "pattern": "Benim için ... günlük bir ritüeldir.",
-    "translation": "It's a daily ritual for me to ...",
+    "translation": "...하는 것은 저에게 매일의 의식과도 같아요.",
     "b1": [
       "Benim için sabahları çay içmek günlük bir ritüeldir.",
       "Benim için akşamları yürüyüş yapmak günlük bir ritüeldir.",
@@ -288,7 +288,7 @@
   {
     "id": 12,
     "pattern": "Genellikle bunu ... ile devam ettiririm",
-    "translation": "I usually follow that up with ...",
+    "translation": "그다음에는 보통 ...을 이어서 해요.",
     "b1": [
       "Genellikle bunu işe giderek devam ettiririm.",
       "Genellikle bunu su içerek devam ettiririm.",
@@ -314,7 +314,7 @@
   {
     "id": 13,
     "pattern": "Aksatmadan, her ...",
-    "translation": "Without fail, every ...",
+    "translation": "한 번도 거르지 않고, 매번 ...마다 ...해요.",
     "b1": [
       "Aksatmadan, her sabah koşarım.",
       "Aksatmadan, her pazartesi spor salonuna giderim.",
@@ -340,7 +340,7 @@
   {
     "id": 14,
     "pattern": "Sürekli ... unutmamaya çalışıyorum",
-    "translation": "I'm constantly trying to remember to ...",
+    "translation": "저는 계속 ...하는 것을 잊지 않으려고 노력 중이에요.",
     "b1": [
       "Sürekli anahtarımı unutmamaya çalışıyorum.",
       "Sürekli telefonumu unutmamaya çalışıyorum.",
@@ -366,7 +366,7 @@
   {
     "id": 15,
     "pattern": "Alışkanlığım ... olduğu için gelişti",
-    "translation": "My habit developed because ...",
+    "translation": "제 습관은 ... 때문에 생겼어요.",
     "b1": [
       "Alışkanlığım sporu çok sevdiğim için gelişti.",
       "Alışkanlığım annem öyle yaptığı için gelişti.",
@@ -392,7 +392,7 @@
   {
     "id": 16,
     "pattern": "Genellikle ... için zaman ayırırım",
-    "translation": "I usually allocate time for ...",
+    "translation": "저는 보통 ...을 위해 시간을 내요.",
     "b1": [
       "Genellikle spor için zaman ayırırım.",
       "Genellikle kitap okumak için zaman ayırırım.",
@@ -418,7 +418,7 @@
   {
     "id": 17,
     "pattern": "... benim için ikinci bir doğa haline geldi.",
-    "translation": "It's become second nature to me to ...",
+    "translation": "...은 저에게 아주 당연한 일이 되었어요.",
     "b1": [
       "Erken kalkmak benim için ikinci bir doğa haline geldi.",
       "Çok çalışmak benim için ikinci bir doğa haline geldi.",
@@ -444,7 +444,7 @@
   {
     "id": 18,
     "pattern": "Tipik bir iş günüm ... ile başlar",
-    "translation": "My typical workday starts with ...",
+    "translation": "제 업무는 보통 ...으로 시작해요.",
     "b1": [
       "Tipik bir iş günüm kahve ile başlar.",
       "Tipik bir iş günüm e-postaları kontrol etmekle başlar.",
@@ -470,7 +470,7 @@
   {
     "id": 19,
     "pattern": "Mümkün olduğunca ... kaçınmaya çalışıyorum",
-    "translation": "I try to avoid ... as much as possible.",
+    "translation": "가능한 한 ...을 피하려고 노력해요.",
     "b1": [
       "Mümkün olduğunca şekerden kaçınmaya çalışıyorum.",
       "Mümkün olduğunca gürültüden kaçınmaya çalışıyorum.",
@@ -496,7 +496,7 @@
   {
     "id": 20,
     "pattern": "... önce yaptığım en son şey ...",
-    "translation": "The last thing I do before ... is ...",
+    "translation": "...하기 전에 마지막으로 하는 일은 ...입니다.",
     "b1": [
       "Uyumadan önce yaptığım en son şey su içmektir.",
       "İşe başlamadan önce yaptığım en son şey aynaya bakmaktır.",

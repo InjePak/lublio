@@ -9,7 +9,12 @@
       "deu": "Sich vorstellen",
       "rus": "Рассказ о себе",
       "heb": "הצגה עצמית",
-      "kaz": "Өзін таныстыру"
+      "kaz": "Өзін таныстыру",
+      "ita": "Presentazione di sé",
+      "pol": "Przedstawienie się",
+      "ces": "Představení se",
+      "hun": "Bemutatkozás",
+      "tur": "Kendini tanıtma"
     },
     {
       "id": 2,
@@ -20,7 +25,12 @@
       "deu": "Begrüßung und Höflichkeit",
       "rus": "Приветствия и этикет",
       "heb": "ברכות ונימוסים",
-      "kaz": "Сәлемдесу және әдеп"
+      "kaz": "Сәлемдесу және әдеп",
+      "ita": "Saluti e buone maniere",
+      "pol": "Powitania i etykieta",
+      "ces": "Pozdravy a etiketa",
+      "hun": "Köszönés és etikett",
+      "tur": "Selamlaşma ve nezaket"
     },
     {
       "id": 3,
@@ -31,7 +41,12 @@
       "deu": "Familie und Freunde",
       "rus": "Семья и друзья",
       "heb": "משפחה וחברים",
-      "kaz": "Отбасы және достар"
+      "kaz": "Отбасы және достар",
+      "ita": "Famiglia e amici",
+      "pol": "Rodzina i przyjaciele",
+      "ces": "Rodina a přátelé",
+      "hun": "Család és barátok",
+      "tur": "Aile ve arkadaşlar"
     },
     {
       "id": 4,
@@ -42,7 +57,12 @@
       "deu": "Zahlen und Zeit",
       "rus": "Числа и время",
       "heb": "מספרים וזמן",
-      "kaz": "Сандар және уақыт"
+      "kaz": "Сандар және уақыт",
+      "ita": "Numeri e tempo",
+      "pol": "Liczby i czas",
+      "ces": "Čísla a čas",
+      "hun": "Számok és idő",
+      "tur": "Sayılar ve zaman"
     },
     {
       "id": 5,
@@ -53,7 +73,12 @@
       "deu": "Vorlieben",
       "rus": "Любимые вещи",
       "heb": "דברים אהובים",
-      "kaz": "Сүйікті нәрселер"
+      "kaz": "Сүйікті нәрселер",
+      "ita": "Preferenze",
+      "pol": "Ulubione rzeczy",
+      "ces": "Oblíbené věci",
+      "hun": "Kedvencek",
+      "tur": "Favoriler"
     },
     {
       "id": 6,
@@ -64,7 +89,12 @@
       "deu": "Mein Zuhause",
       "rus": "Мой дом",
       "heb": "הבית שלי",
-      "kaz": "Менің үйім"
+      "kaz": "Менің үйім",
+      "ita": "La mia casa",
+      "pol": "Mój dom",
+      "ces": "Můj domov",
+      "hun": "Otthonom",
+      "tur": "Evim"
     },
     {
       "id": 7,
@@ -75,7 +105,12 @@
       "deu": "Essen und Restaurant",
       "rus": "Еда и ресторан",
       "heb": "אוכל ומסעדות",
-      "kaz": "Тамақ және мейрамханалар"
+      "kaz": "Тамақ және мейрамханалар",
+      "ita": "Cibo e ristoranti",
+      "pol": "Jedzenie i restauracje",
+      "ces": "Jídlo a restaurace",
+      "hun": "Ételek és éttermek",
+      "tur": "Yemek ve restoranlar"
     },
     {
       "id": 8,
@@ -86,7 +121,12 @@
       "deu": "Tagesablauf",
       "rus": "Распорядок дня",
       "heb": "סדר יום",
-      "kaz": "Күн тәртібі"
+      "kaz": "Күн тәртібі",
+      "ita": "Routine quotidiana",
+      "pol": "Codzienna rutyna",
+      "ces": "Denní režim",
+      "hun": "Napi rutin",
+      "tur": "Günlük rutin"
     },
     {
       "id": 9,
@@ -97,7 +137,12 @@
       "deu": "Körper und Gesundheit",
       "rus": "Тело и здоровье",
       "heb": "גוף ובריאות",
-      "kaz": "Дене және денсаулық"
+      "kaz": "Дене және денсаулық",
+      "ita": "Corpo e salute",
+      "pol": "Ciało i zdrowie",
+      "ces": "Tělo a zdraví",
+      "hun": "Test és egészség",
+      "tur": "Vücut ve sağlık"
     },
     {
       "id": 10,
@@ -108,7 +153,12 @@
       "deu": "Einkaufen",
       "rus": "Покупки",
       "heb": "קניות",
-      "kaz": "Сауда жасау"
+      "kaz": "Сауда жасау",
+      "ita": "Shopping",
+      "pol": "Zakupy",
+      "ces": "Nakupování",
+      "hun": "Vásárlás",
+      "tur": "Alışveriş"
     },
     {
       "id": 11,
@@ -119,7 +169,12 @@
       "deu": "Wetter",
       "rus": "Погода",
       "heb": "מזג אוויר",
-      "kaz": "Ауа райы"
+      "kaz": "Ауа райы",
+      "ita": "Meteo",
+      "pol": "Pogoda",
+      "ces": "Počasí",
+      "hun": "Időjárás",
+      "tur": "Hava durumu"
     },
     {
       "id": 12,
@@ -130,7 +185,12 @@
       "deu": "Nach dem Weg fragen",
       "rus": "Ориентирование в городе",
       "heb": "לשאול את הדרך",
-      "kaz": "Жол сұрау"
+      "kaz": "Жол сұрау",
+      "ita": "Chiedere indicazioni",
+      "pol": "Pytanie o drogę",
+      "ces": "Ptaní se na cestu",
+      "hun": "Útbaigazítás kérése",
+      "tur": "Yol sorma"
     }
   ],
   "a2": [
@@ -143,7 +203,12 @@
       "deu": "Vergangene Erlebnisse",
       "rus": "Прошлый опыт",
       "heb": "חוויות מהעבר",
-      "kaz": "Өткен тәжірибелер"
+      "kaz": "Өткен тәжірибелер",
+      "ita": "Esperienze passate",
+      "pol": "Doświadczenia z przeszłości",
+      "ces": "Minulé zkušenosti",
+      "hun": "Múltbeli élmények",
+      "tur": "Geçmiş deneyimler"
     },
     {
       "id": 2,
@@ -154,7 +219,12 @@
       "deu": "Beruf und Arbeitsplatz",
       "rus": "Работа и офис",
       "heb": "עבודה ומקום עבודה",
-      "kaz": "Жұмыс және жұмыс орны"
+      "kaz": "Жұмыс және жұмыс орны",
+      "ita": "Lavoro e luogo di lavoro",
+      "pol": "Praca i miejsce pracy",
+      "ces": "Práce a pracoviště",
+      "hun": "Munka és munkahely",
+      "tur": "İş ve çalışma ortamı"
     },
     {
       "id": 3,
@@ -165,7 +235,12 @@
       "deu": "Reisen und Unterkunft",
       "rus": "Путешествие и отель",
       "heb": "נסיעות ולינה",
-      "kaz": "Саяхат және орналастыру"
+      "kaz": "Саяхат және орналастыру",
+      "ita": "Viaggi e alloggi",
+      "pol": "Podróże i zakwaterowanie",
+      "ces": "Cestování a ubytování",
+      "hun": "Utazás és szállás",
+      "tur": "Seyahat ve konaklama"
     },
     {
       "id": 4,
@@ -176,7 +251,12 @@
       "deu": "Einkaufen und Service",
       "rus": "Покупки и услуги",
       "heb": "קניות ושירותים",
-      "kaz": "Сауда және қызметтер"
+      "kaz": "Сауда және қызметтер",
+      "ita": "Shopping e servizi",
+      "pol": "Zakupy i usługi",
+      "ces": "Nakupování a služby",
+      "hun": "Vásárlás és szolgáltatások",
+      "tur": "Alışveriş ve hizmetler"
     },
     {
       "id": 5,
@@ -187,7 +267,12 @@
       "deu": "Gesundheit und Krankenhaus",
       "rus": "Здоровье и больница",
       "heb": "בריאות ובית חולים",
-      "kaz": "Денсаулық және аурухана"
+      "kaz": "Денсаулық және аурухана",
+      "ita": "Salute e ospedale",
+      "pol": "Zdrowie i szpital",
+      "ces": "Zdraví a nemocnice",
+      "hun": "Egészség és kórház",
+      "tur": "Sağlık ve hastane"
     },
     {
       "id": 6,
@@ -198,7 +283,12 @@
       "deu": "Pläne und Termine",
       "rus": "Планы и встречи",
       "heb": "תוכניות ופגישות",
-      "kaz": "Жоспарлар мен кездесулер"
+      "kaz": "Жоспарлар мен кездесулер",
+      "ita": "Piani e appuntamenti",
+      "pol": "Plany i spotkania",
+      "ces": "Plány a schůzky",
+      "hun": "Tervek és találkozók",
+      "tur": "Planlar ve randevular"
     },
     {
       "id": 7,
@@ -209,7 +299,12 @@
       "deu": "Verkehrsmittel",
       "rus": "Транспорт",
       "heb": "תחבורה",
-      "kaz": "Көлік құралдары"
+      "kaz": "Көлік құралдары",
+      "ita": "Trasporti",
+      "pol": "Transport",
+      "ces": "Doprava",
+      "hun": "Közlekedés",
+      "tur": "Ulaşım"
     },
     {
       "id": 8,
@@ -220,7 +315,12 @@
       "deu": "Aussehen und Persönlichkeit",
       "rus": "Внешность и характер",
       "heb": "מראה ואישיות",
-      "kaz": "Сыртқы келбет пен мінез"
+      "kaz": "Сыртқы келбет пен мінез",
+      "ita": "Aspetto e personalità",
+      "pol": "Wygląd i osobowość",
+      "ces": "Vzhled a osobnost",
+      "hun": "Külső és személyiség",
+      "tur": "Dış görünüş ve kişilik"
     },
     {
       "id": 9,
@@ -231,7 +331,12 @@
       "deu": "Nachbarschaft und Einrichtungen",
       "rus": "Район и удобства",
       "heb": "שכונה ומתקנים",
-      "kaz": "Көршілік және нысандар"
+      "kaz": "Көршілік және нысандар",
+      "ita": "Quartiere e servizi",
+      "pol": "Okolica i udogodnienia",
+      "ces": "Sousedství a vybavení",
+      "hun": "Környék és szolgáltatások",
+      "tur": "Mahalle ve tesisler"
     },
     {
       "id": 10,
@@ -242,7 +347,12 @@
       "deu": "Mode und Stil",
       "rus": "Мода и стиль",
       "heb": "אופנה וסגנון",
-      "kaz": "Сән және стиль"
+      "kaz": "Сән және стиль",
+      "ita": "Moda e stile",
+      "pol": "Moda i styl",
+      "ces": "Móda a styl",
+      "hun": "Divat és stílus",
+      "tur": "Moda ve stil"
     },
     {
       "id": 11,
@@ -253,7 +363,12 @@
       "deu": "Feste und Kultur",
       "rus": "Фестивали и культура",
       "heb": "פסטיבלים ותרבות",
-      "kaz": "Фестивальдер және мәдениет"
+      "kaz": "Фестивальдер және мәдениет",
+      "ita": "Festival e cultura",
+      "pol": "Festiwale i kultura",
+      "ces": "Festivaly a kultura",
+      "hun": "Fesztiválok és kultúra",
+      "tur": "Festivaller ve kültür"
     },
     {
       "id": 12,
@@ -264,7 +379,12 @@
       "deu": "Vergleichen",
       "rus": "Сравнение",
       "heb": "עריכת השוואות",
-      "kaz": "Салыстыру"
+      "kaz": "Салыстыру",
+      "ita": "Fare confronti",
+      "pol": "Porównywanie",
+      "ces": "Srovnávání",
+      "hun": "Összehasonlítás",
+      "tur": "Karşılaştırma yapma"
     }
   ],
   "b1": [
@@ -277,7 +397,12 @@
       "deu": "Träume und Hoffnungen",
       "rus": "Мечты и надежды",
       "heb": "חלומות ותקוות",
-      "kaz": "Армандар мен үміттер"
+      "kaz": "Армандар мен үміттер",
+      "ita": "Sogni e speranze",
+      "pol": "Marzenia i nadzieje",
+      "ces": "Sny a naděje",
+      "hun": "Álmok és remények",
+      "tur": "Hayaller ve umutlar"
     },
     {
       "id": 2,
@@ -288,7 +413,12 @@
       "deu": "Problemlösung",
       "rus": "Решение проблем",
       "heb": "פתרון בעיות",
-      "kaz": "Мәселелерді шешу"
+      "kaz": "Мәселелерді шешу",
+      "ita": "Risoluzione dei problemi",
+      "pol": "Rozwiązywanie problemów",
+      "ces": "Řešení problémů",
+      "hun": "Problémamegoldás",
+      "tur": "Problem çözme"
     },
     {
       "id": 3,
@@ -299,7 +429,12 @@
       "deu": "Film und Literatur",
       "rus": "Кино и литература",
       "heb": "קולנוע וספרות",
-      "kaz": "Кино және әдебиет"
+      "kaz": "Кино және әдебиет",
+      "ita": "Cinema e letteratura",
+      "pol": "Kino i literatura",
+      "ces": "Kino a literatura",
+      "hun": "Mozi és irodalom",
+      "tur": "Sinema ve edebiyat"
     },
     {
       "id": 4,
@@ -310,7 +445,12 @@
       "deu": "Gefühle und Psychologie",
       "rus": "Чувства и психология",
       "heb": "רגשות ופסיכולוגיה",
-      "kaz": "Сезімдер мен психология"
+      "kaz": "Сезімдер мен психология",
+      "ita": "Sentimenti e psicologia",
+      "pol": "Uczucia i psychologia",
+      "ces": "Pocity a psychologie",
+      "hun": "Érzések és pszichológia",
+      "tur": "Duygular ve psikoloji"
     },
     {
       "id": 5,
@@ -321,7 +461,12 @@
       "deu": "Umweltprobleme",
       "rus": "Экология",
       "heb": "נושאים סביבתיים",
-      "kaz": "Экологиялық мәселелер"
+      "kaz": "Экологиялық мәселелер",
+      "ita": "Questioni ambientali",
+      "pol": "Problemy środowiskowe",
+      "ces": "Environmentální problémy",
+      "hun": "Környezetvédelmi kérdések",
+      "tur": "Çevresel sorunlar"
     },
     {
       "id": 6,
@@ -332,7 +477,12 @@
       "deu": "Internet und Technologie",
       "rus": "Интернет и технологии",
       "heb": "אינטרנט וטכנולוגיה",
-      "kaz": "Интернет және технологиялар"
+      "kaz": "Интернет және технологиялар",
+      "ita": "Internet e tecnologia",
+      "pol": "Internet i technologia",
+      "ces": "Internet a technologie",
+      "hun": "Internet és technológia",
+      "tur": "İnternet ve teknoloji"
     },
     {
       "id": 7,
@@ -343,7 +493,12 @@
       "deu": "Bildung und Lernen",
       "rus": "Образование и учеба",
       "heb": "חינוך ולמידה",
-      "kaz": "Білім және оқу"
+      "kaz": "Білім және оқу",
+      "ita": "Istruzione e apprendimento",
+      "pol": "Edukacja i uczenie się",
+      "ces": "Vzdělávání a učení",
+      "hun": "Oktatás és tanulás",
+      "tur": "Eğitim ve öğrenme"
     },
     {
       "id": 8,
@@ -354,7 +509,12 @@
       "deu": "Reiseerlebnisse",
       "rus": "Истории из поездок",
       "heb": "סיפורי מסע",
-      "kaz": "Саяхат хикаялары"
+      "kaz": "Саяхат хикаялары",
+      "ita": "Storie di viaggio",
+      "pol": "Historie z podróży",
+      "ces": "Příběhy z cest",
+      "hun": "Utazási történetek",
+      "tur": "Seyahat hikayeleri"
     },
     {
       "id": 9,
@@ -365,7 +525,12 @@
       "deu": "Arbeitsmoral und Einstellung",
       "rus": "Рабочая этика",
       "heb": "אתיקה וגישה בעבודה",
-      "kaz": "Жұмыс этикасы мен көзқарас"
+      "kaz": "Жұмыс этикасы мен көзқарас",
+      "ita": "Etica e atteggiamento lavorativo",
+      "pol": "Etyka zawodowa i postawa",
+      "ces": "Pracovní etika a přístup",
+      "hun": "Munkaetika és hozzáállás",
+      "tur": "İş etiği ve tutum"
     },
     {
       "id": 10,
@@ -376,7 +541,12 @@
       "deu": "Traditionen und Bräuche",
       "rus": "Традиции и обычаи",
       "heb": "מסורות ומנהגים",
-      "kaz": "Дәстүрлер мен әдет-ғұрыптар"
+      "kaz": "Дәстүрлер мен әдет-ғұрыптар",
+      "ita": "Tradizioni e costumi",
+      "pol": "Tradycje i zwyczaje",
+      "ces": "Tradice a zvyky",
+      "hun": "Hagyományok és szokások",
+      "tur": "Gelenekler ve görenekler"
     },
     {
       "id": 11,
@@ -387,7 +557,12 @@
       "deu": "Gesundes Leben",
       "rus": "Здоровый образ жизни",
       "heb": "חיים בריאים",
-      "kaz": "Салауатты өмір салты"
+      "kaz": "Салауатты өмір салты",
+      "ita": "Vita sana",
+      "pol": "Zdrowy tryb życia",
+      "ces": "Zdravý životní styl",
+      "hun": "Egészséges életmód",
+      "tur": "Sağlıklı yaşam"
     },
     {
       "id": 12,
@@ -398,7 +573,12 @@
       "deu": "Meinung ausdrücken",
       "rus": "Выражение мнения",
       "heb": "הבעת דעה",
-      "kaz": "Пікір білдіру"
+      "kaz": "Пікір білдіру",
+      "ita": "Esprimere opinioni",
+      "pol": "Wyrażanie opinii",
+      "ces": "Vyjadřování názorů",
+      "hun": "Véleménynyilvánítás",
+      "tur": "Görüş bildirme"
     }
   ],
   "b2": [
@@ -411,7 +591,12 @@
       "deu": "Soziale Themen",
       "rus": "Социальные вопросы",
       "heb": "נושאים חברתיים",
-      "kaz": "Әлеуметтік мәселелер"
+      "kaz": "Әлеуметтік мәселелер",
+      "ita": "Questioni sociali",
+      "pol": "Problemy społeczne",
+      "ces": "Sociální otázky",
+      "hun": "Társadalmi kérdések",
+      "tur": "Sosyal meseleler"
     },
     {
       "id": 2,
@@ -422,7 +607,12 @@
       "deu": "Berufliche Weiterentwicklung",
       "rus": "Развитие карьеры",
       "heb": "פיתוח קריירה",
-      "kaz": "Мансаптық даму"
+      "kaz": "Мансаптық даму",
+      "ita": "Sviluppo di carriera",
+      "pol": "Rozwój zawodowy",
+      "ces": "Profesní rozvoj",
+      "hun": "Karrierfejlesztés",
+      "tur": "Kariyer gelişimi"
     },
     {
       "id": 3,
@@ -433,7 +623,12 @@
       "deu": "Hypothesen",
       "rus": "Условные ситуации",
       "heb": "מצבים היפותטיים",
-      "kaz": "Гипотетикалық жағдайлар"
+      "kaz": "Гипотетикалық жағдайлар",
+      "ita": "Situazioni ipotetiche",
+      "pol": "Sytuacje hipotetyczne",
+      "ces": "Hypotetické situace",
+      "hun": "Hipotetikus helyzetek",
+      "tur": "Varsayımsal durumlar"
     },
     {
       "id": 4,
@@ -444,7 +639,12 @@
       "deu": "Medien und Werbung",
       "rus": "СМИ и реклама",
       "heb": "מדיה ופרסום",
-      "kaz": "Бұқаралық ақпарат құралдары мен жарнама"
+      "kaz": "Бұқаралық ақпарат құралдары мен жарнама",
+      "ita": "Media e pubblicità",
+      "pol": "Media i reklama",
+      "ces": "Média a reklama",
+      "hun": "Média és reklám",
+      "tur": "Medya ve reklam"
     },
     {
       "id": 5,
@@ -455,7 +655,12 @@
       "deu": "Gesellschaftliche Konflikte",
       "rus": "Конфликты в обществе",
       "heb": "קונפליקטים בחברה",
-      "kaz": "Қоғамдағы қақтығыстар"
+      "kaz": "Қоғамдағы қақтығыстар",
+      "ita": "Conflitti nella società",
+      "pol": "Konflikty w społeczeństwie",
+      "ces": "Konflikty ve společnosti",
+      "hun": "Társadalmi konfliktusok",
+      "tur": "Toplumsal çatışmalar"
     },
     {
       "id": 6,
@@ -466,7 +671,12 @@
       "deu": "Wirtschaft und Konsum",
       "rus": "Экономика и потребление",
       "heb": "כלכלה וצריכה",
-      "kaz": "Экономика және тұтыну"
+      "kaz": "Экономика және тұтыну",
+      "ita": "Economia e consumo",
+      "pol": "Gospodarka i konsumpcja",
+      "ces": "Ekonomika a spotřeba",
+      "hun": "Gazdaság és fogyasztás",
+      "tur": "Ekonomi ve tüketim"
     },
     {
       "id": 7,
@@ -477,7 +687,44 @@
       "deu": "Wissenschaft und Innovation",
       "rus": "Наука и инновации",
       "heb": "מדע וחדשנות",
-      "kaz": "Ғылым және инновация"
+      "kaz": "Ғылым және инновация",
+      "ita": "Scienza e innovazione",
+      "pol": "Nauka i innowacje",
+      "ces": "Věda a inovace",
+      "hun": "Tudomány és innováció",
+      "tur": "Bilim ve inovasyon"
+    },
+    {
+      "id": 8,
+      "path": "art-and-aesthetics",
+      "kor": "예술과 미학",
+      "eng": "Art and Aesthetics",
+      "fra": "Art et esthétique",
+      "deu": "Kunst und Ästhetik",
+      "rus": "Искусство и эстетика",
+      "heb": "אמנות ואסתטיקה",
+      "kaz": "Өнер және эстетика",
+      "ita": "Arte ed estetica",
+      "pol": "Sztuka i estetyka",
+      "ces": "Umění a estetika",
+      "hun": "Művészet és esztétika",
+      "tur": "Sanat ve Estetik"
+    },
+    {
+      "id": 9,
+      "path": "society",
+      "kor": "사회",
+      "eng": "Society",
+      "fra": "Société",
+      "deu": "Gesellschaft",
+      "rus": "Общество",
+      "heb": "חברה",
+      "kaz": "Қоғам",
+      "ita": "Società",
+      "pol": "Społeczeństwo",
+      "ces": "Společnost",
+      "hun": "Társadalom",
+      "tur": "Toplum"
     },
     {
       "id": 10,
@@ -488,7 +735,12 @@
       "deu": "Überzeugung und Verhandlung",
       "rus": "Убеждение и переговоры",
       "heb": "שכנוע ומשא ומתן",
-      "kaz": "Сендіру және келіссөздер"
+      "kaz": "Сендіру және келіссөздер",
+      "ita": "Persuasione e negoziazione",
+      "pol": "Perswazja i negocjacje",
+      "ces": "Přesvědčování a vyjednávání",
+      "hun": "Meggyőzés és tárgyalás",
+      "tur": "İkna ve müzakere"
     },
     {
       "id": 11,
@@ -499,7 +751,12 @@
       "deu": "Abstrakte Begriffe",
       "rus": "Абстрактные понятия",
       "heb": "מושגים מופשטים",
-      "kaz": "Абстрактілі ұғымдар"
+      "kaz": "Абстрактілі ұғымдар",
+      "ita": "Concetti astratti",
+      "pol": "Pojęcia abstrakcyjne",
+      "ces": "Abstraktní pojmy",
+      "hun": "Absztrakt fogalmak",
+      "tur": "Soyut kavramlar"
     },
     {
       "id": 12,
@@ -510,7 +767,12 @@
       "deu": "Vorträge und Präsentationen",
       "rus": "Лекции и презентации",
       "heb": "הרצאות ומצגות",
-      "kaz": "Дәрістер мен презентациялар"
+      "kaz": "Дәрістер мен презентациялар",
+      "ita": "Discorsi e presentazioni",
+      "pol": "Wystąpienia i prezentacje",
+      "ces": "Přednášky a prezentace",
+      "hun": "Előadások és prezentációk",
+      "tur": "Konuşmalar ve sunumlar"
     }
   ]
 }

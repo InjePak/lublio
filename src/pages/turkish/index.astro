@@ -1,0 +1,53 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import BoxMain from "../../components/BoxMain.astro";
+import Button from "../../components/Button.astro";
+
+const pageTitle = "튀르키예어";
+---
+
+<BaseLayout pageTitle={pageTitle + " | Lublio"}>
+  <BoxMain
+    title="튀르키예어"
+    subtitle="Türkçe"
+    description="튀르키예어는 두 대륙만큼 광활하고 역사만큼 두터운 언어입니다. 오스만 제국의 문인들이 그 문장들로 동과 서의 지혜를 엮어냈고, 오늘날에도 유라시아 교차로에서 수억 명의 목소리를 이어가고 있습니다. 웅장한 스케일과 섬세한 결을 동시에 품은 언어, 지금 만나보세요."
+    language="tur"
+  />
+
+  <div class="button-wrapper">
+    <Button
+      title="튀르키예어 회화"
+      subtitle="Cümleler"
+      description="CEFR A1 - B2"
+      language="tur"
+      path="/turkish/phrasebook"
+      level="phrase"
+    />
+
+    <Button
+      title="튀르키예어 패턴"
+      subtitle="Kalıplar"
+      description="CEFR B1 - C1"
+      language="tur"
+      path="/turkish/pattern"
+      level="pattern"
+    />
+  </div>
+</BaseLayout>
+
+<style>
+  .button-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  /* Mobile */
+  @media (max-width: 480px) {
+    .button-wrapper {
+      gap: 10px;
+      margin-bottom: 10px;
+    }
+  }
+</style>
