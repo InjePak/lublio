@@ -145,8 +145,16 @@ const color100 = colorMap100[language] || "var(--neutral100)";
   }
 
   /* Mobile */
-  @media (max-width: 480px) {
+  @media (max-width: 1280px) {
     .btn {
+      position: relative;
+      background-color: transparent;
+      padding: 1.5rem;
+      transition: all 0.4s;
+      border: none;
+      border-top: 1px solid var(--neutral400);
+      border-bottom: 1px solid var(--neutral400);
+      border-radius: 0px;
       margin-bottom: 20px;
     }
 
@@ -155,7 +163,8 @@ const color100 = colorMap100[language] || "var(--neutral100)";
     }
 
     .btn > h2 {
-      font-size: 14px;
+      font-size: 15px;
+      font-weight: 500;
     }
   }
 </style>

@@ -142,4 +142,27 @@ const color100 = colorMap100[language] || "var(--neutral100)";
     left: 1.5rem;
     bottom: 0;
   }
+
+  /* Mobile */
+  @media (max-width: 1280px) {
+    .btn {
+      position: relative;
+      background-color: transparent;
+      padding: 1.5rem;
+      transition: all 0.4s;
+      border: none;
+      border-top: 1px solid var(--neutral400);
+      border-bottom: 1px solid var(--neutral400);
+      border-radius: 0px;
+      margin-bottom: 20px;
+    }
+
+    .btn > h1 {
+      font-size: 20px;
+    }
+
+    .btn > h2 {
+      font-size: 14px;
+    }
+  }
 </style>

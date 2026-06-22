@@ -14,6 +14,20 @@ import LogoSVG from "../../public/lublio-logo-light.svg?raw";
       <Fragment set:html={LogoSVG} />
     </a>
   </div>
+  <div class="menu-button">
+    <a href="/">
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        width="100%"
+        height="100%"
+        viewBox="0 0 24 24"
+      >
+        <path d="M0 0h24v24H0z" fill="none"></path>
+        <path fill="currentColor" d="M3 18v-2h18v2zm0-5v-2h18v2zm0-5V6h18v2z"
+        ></path>
+      </svg>
+    </a>
+  </div>
   <ul class="menu">
     <li>
       <a href="/english" class="menu-link">영어</a>
@@ -98,6 +112,10 @@ import LogoSVG from "../../public/lublio-logo-light.svg?raw";
     border-radius: 10px;
   }
 
+  .menu-button {
+    display: none;
+  }
+
   .menu {
     position: absolute;
     display: block;
@@ -131,6 +149,58 @@ import LogoSVG from "../../public/lublio-logo-light.svg?raw";
   .menu-link:hover {
     background-color: var(--neutral200);
     border-radius: 15px;
+  }
+
+  @media (max-width: 1280px) {
+    .header {
+      position: fixed;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: center;
+      top: 0;
+      justify-self: left;
+      width: 100%;
+      height: 60px;
+      z-index: 99;
+      transition: all 0.4s;
+      padding: 0;
+      background-color: rgba(245, 245, 245, 0.7);
+      border-right: none;
+    }
+
+    .logo {
+      position: relative;
+      width: 45px;
+      height: 45px;
+      margin: 5px 10px;
+      padding: 0.7rem;
+      transition: 0.4s all;
+    }
+
+    .menu-button {
+      position: relative;
+      display: block;
+      width: 45px;
+      height: 45px;
+      margin: 5px 10px;
+      padding: 0.7rem;
+      transition: 0.4s all;
+    }
+
+    .menu-button > a > svg {
+      color: var(--neutral800);
+    }
+
+    .menu-button:hover {
+      cursor: pointer;
+      background-color: var(--neutral200);
+      border-radius: 10px;
+    }
+
+    .menu {
+      display: none;
+    }
   }
 </style>
 

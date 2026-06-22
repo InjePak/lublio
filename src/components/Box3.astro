@@ -107,11 +107,6 @@ const color100 = colorMap100[language] || "var(--neutral100)";
     color100,
   }}
 >
-  .box {
-    border: 1px solid var(--neutral400);
-    border-radius: 20px;
-  }
-
   .box > h1,
   .box > h2,
   .box > p {
@@ -121,6 +116,13 @@ const color100 = colorMap100[language] || "var(--neutral100)";
   .box .loader::before,
   .box .loader::after {
     background-color: var(--color400);
+  }
+
+  /* Mobile */
+  @media (max-width: 1280px) {
+    .box {
+      background-color: var(--color100);
+    }
   }
 </style>
 
@@ -277,6 +279,41 @@ const color100 = colorMap100[language] || "var(--neutral100)";
 
     75% {
       transform: translateY(-100%);
+    }
+  }
+
+  /* Mobile */
+  @media (max-width: 1280px) {
+    .box {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 1 / 1;
+      height: 400px;
+      margin-bottom: 2rem;
+      outline: none;
+      z-index: 0;
+      text-decoration: none;
+      padding: 1.5rem;
+      transition: all 1s cubic-bezier(0.19, 1, 0.22, 1);
+      border: none;
+      border-radius: 0px;
+    }
+
+    .box > h1 {
+      display: inline-block;
+      font-size: 26px;
+      width: 80%;
+      margin-bottom: 0;
+      line-height: 32px;
+    }
+
+    .box > h2 {
+      font-size: 18px;
+      line-height: 24px;
+    }
+
+    .box > p {
+      font-size: 14px;
     }
   }
 </style>
