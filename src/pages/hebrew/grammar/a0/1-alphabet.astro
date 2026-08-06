@@ -1,13 +1,20 @@
 ---
 import BaseLayout from "../../../../layouts/BaseLayout.astro";
 import BoxMarkdown from "../../../../components/BoxMarkdown.astro";
+import AnchorNavigation from "../../../../components/AnchorNavigation.astro";
+import TableHorizontal from "../../../../components/TableHorizontal.astro";
+import TableVertical from "../../../../components/TableVertical.astro";
+import TableMatrix from "../../../../components/TableMatrix.astro";
 
 // Title
 const pageTitle = "히브리어 알파벳";
 
-import TableHorizontal from "../../../../components/TableHorizontal.astro";
-import TableVertical from "../../../../components/TableVertical.astro";
-import TableMatrix from "../../../../components/TableMatrix.astro";
+// Anchor Navigation
+const tabItems = [
+  { id: "group1", label: "A1" },
+  { id: "group2", label: "A2" },
+  { id: "group3", label: "B1" },
+];
 
 const hebrewAlphabet = {
   알파벳: [
@@ -140,26 +147,20 @@ const hebrewVowels = {
     "אֳנִי (배)",
   ],
 };
-
-// const data3 = {
-//   ich: ["bin", "war", "bin gewesen"],
-//   du: ["bist", "warst", "bist gewesen"],
-//   "er/sie/es": ["ist", "war", "ist gewesen"],
-//   wir: ["sind", "waren", "sind gewesen"],
-//   ihr: ["seid", "wart", "seid gewesen"],
-//   "sie/Sie": ["sind", "waren", "sind gewesen"],
-// };
 ---
 
 <BaseLayout pageTitle={pageTitle + " | Lublio"}>
   <BoxMarkdown
     title="히브리어 알파벳"
     subtitle="האלפבית העברי"
+    description="히브리어 알파벳과 어말형, 히브리어 모음부호"
     language="heb"
   />
 
+  <!-- <AnchorNavigation items={tabItems} /> -->
+
   <main>
-    <section class="group-a0 fade_1">
+    <section class="group1 fade_1">
       <h1>
         <span class="animated-underline-heb">히브리어 알파벳</span>
       </h1>
@@ -173,7 +174,7 @@ const hebrewVowels = {
 
     <hr />
 
-    <section class="group-a1 fade_1">
+    <section class="group2 fade_1">
       <h1>
         <span class="animated-underline-heb">히브리어 어말형 알파벳</span>
       </h1>
@@ -186,7 +187,7 @@ const hebrewVowels = {
 
     <hr />
 
-    <section class="group-a2 fade_1">
+    <section class="group3 fade_1">
       <h1>
         <span class="animated-underline-heb">히브리어 모음부호</span>
       </h1>

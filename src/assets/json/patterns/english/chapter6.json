@@ -261,7 +261,7 @@
   },
   {
     "id": 11,
-    "pattern": "Allow me to elaborate on …",
+    "pattern": "Allow me to elaborate on ...",
     "translation": "...에 대해 좀 더 자세히 설명하겠습니다.",
     "b1": [
       "Allow me to elaborate on my plan for the trip.",
@@ -365,8 +365,8 @@
   },
   {
     "id": 15,
-    "pattern": "The bottom line is …",
-    "translation": "결론적으로 말하자면 …",
+    "pattern": "The bottom line is ...",
+    "translation": "결론적으로 말하자면 ...",
     "b1": [
       "The bottom line is we need more time.",
       "The bottom line is the car is too expensive.",
@@ -469,8 +469,8 @@
   },
   {
     "id": 19,
-    "pattern": "Just to be clear, …",
-    "translation": "분명히 해두자면 …",
+    "pattern": "Just to be clear, ...",
+    "translation": "분명히 해두자면 ...",
     "b1": [
       "Just to be clear, I am not coming today.",
       "Just to be clear, you need a ticket.",
