@@ -1,0 +1,53 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import BoxMain from "../../components/BoxMain.astro";
+import Button from "../../components/Button.astro";
+
+const pageTitle = "Hungarian";
+---
+
+<BaseLayout pageTitle={pageTitle + " | Lublio"}>
+  <BoxMain
+    title="Hungarian"
+    subtitle="Magyar"
+    description="Hungarian is a language as graceful as the flowing Danube and as unique as the legend of the Magyars. Kazinczy and Márai crafted epic narratives and the solitude of the soul through their prose, and today, it continues its singular resonance across the Carpathian Basin. Discover a language that embodies both mystical originality and delicate cadence."
+    language="hun"
+  />
+
+  <div class="button-wrapper">
+    <Button
+      title="Mondatok"
+      subtitle="Phrasebook"
+      description="CEFR A1 - B2"
+      language="hun"
+      path="/hungarian/phrasebook"
+      level="phrase"
+    />
+
+    <Button
+      title="Minták"
+      subtitle="Speaking Pattern"
+      description="CEFR B1 - C1"
+      language="hun"
+      path="/hungarian/pattern"
+      level="pattern"
+    />
+  </div>
+</BaseLayout>
+
+<style>
+  .button-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  /* Mobile */
+  @media (max-width: 480px) {
+    .button-wrapper {
+      gap: 10px;
+      margin-bottom: 10px;
+    }
+  }
+</style>

@@ -110,7 +110,7 @@ p {
   height: auto;
   color: var(--neutral700);
   margin-bottom: 1.5rem;
-  font-family: "Inter", "Noto Hebrew", sans-serif;
+  font-family: "Inter", sans-serif;
 }
 
 h1::selection,
@@ -176,6 +176,9 @@ p {
 .animated-underline-rus,
 .animated-underline-tur,
 .animated-underline-ita,
+.animated-underline-pol,
+.animated-underline-ces,
+.animated-underline-hun,
 .animated-underline-heb,
 .animated-underline-kaz {
   position: relative;
@@ -189,6 +192,9 @@ p {
 .animated-underline-rus::after,
 .animated-underline-tur::after,
 .animated-underline-ita::after,
+.animated-underline-pol::after,
+.animated-underline-ces::after,
+.animated-underline-hun::after,
 .animated-underline-heb::after,
 .animated-underline-kaz::after {
   content: "";
@@ -231,6 +237,18 @@ p {
   background-color: var(--emerald100);
 }
 
+.animated-underline-pol::after {
+  background-color: var(--pink100);
+}
+
+.animated-underline-ces::after {
+  background-color: var(--blue100);
+}
+
+.animated-underline-hun::after {
+  background-color: var(--lime100);
+}
+
 .animated-underline-heb::after {
   background-color: var(--blue100);
 }
@@ -246,6 +264,9 @@ p {
 .animated-underline-rus:hover,
 .animated-underline-tur:hover,
 .animated-underline-ita:hover,
+.animated-underline-pol:hover,
+.animated-underline-ces:hover,
+.animated-underline-hun:hover,
 .animated-underline-heb:hover,
 .animated-underline-kaz:hover {
   cursor: default;
@@ -258,6 +279,9 @@ p {
 .animated-underline-rus.is-active::after,
 .animated-underline-tur.is-active::after,
 .animated-underline-ita.is-active::after,
+.animated-underline-pol.is-active::after,
+.animated-underline-ces.is-active::after,
+.animated-underline-hun.is-active::after,
 .animated-underline-heb.is-active::after,
 .animated-underline-kaz.is-active::after {
   transform: scaleX(1);
@@ -429,15 +453,16 @@ select {
   width: 100%;
   color: var(--neutral700);
   font-size: 16px;
-  font-family: "Inter", "Noto Hebrew", sans-serif;
+  font-family: "Inter", sans-serif;
   font-weight: 500;
   outline: none;
   -o-appearance: none;
   -moz-appearance: none;
   -webkit-appearance: none;
   appearance: none;
-  border: 1px solid var(--neutral400);
-  background-color: transparent;
+  border-radius: 10px;
+  border: none;
+  background-color: var(--white);
   background-image:
     linear-gradient(45deg, transparent 50%, rgba(0, 0, 0, 0.8) 50%),
     linear-gradient(135deg, rgba(0, 0, 0, 0.8) 50%, transparent 50%);
@@ -469,7 +494,7 @@ select:focus {
 }
 
 select > option {
-  background-color: var(--neutral200);
+  background-color: var(--neutral100);
   color: var(--neutral700);
   font-size: 16px;
   font-family: "Inter", "Noto Korea", sans-serif;
@@ -487,8 +512,6 @@ select > option:hover {
     color: var(--neutral700);
     font-size: 15px;
     border: none;
-    border-top: 1px solid var(--neutral400);
-    border-bottom: 1px solid var(--neutral400);
     border-radius: 0px;
   }
 

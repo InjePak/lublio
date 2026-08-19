@@ -5,14 +5,14 @@ import Button2 from "../../../components/Button2.astro";
 
 import chapters from "../../../assets/json/patterns/chapters.json";
 
-const pageTitle = "러시아어 패턴";
+const pageTitle = "Russian Speaking Pattern";
 ---
 
 <BaseLayout pageTitle={pageTitle + " | Lublio"}>
   <Box2
-    title="러시아어 패턴"
-    subtitle="Схемы"
-    description="단 하나의 패턴으로 수만 개의 문장을 만들어보세요. 문법에 대한 복잡한 고민은 필요 없습니다. 회화 실력을 빠르게 끌어올리는 가장 효율적인 방법을 경험해보세요."
+    title="Схемы"
+    subtitle="Russian Speaking Pattern"
+    description="Try creating tens of thousands of sentences using just one pattern. No need to worry about complicated grammar rules. Experience the most efficient way to quickly improve your conversational skills."
     language="rus"
   />
 
@@ -26,8 +26,8 @@ const pageTitle = "러시아어 패턴";
         chapters.map((post: any) => (
           <Button2
             id={post.id}
-            title={post.kor}
-            subtitle={post.rus}
+            title={post.rus}
+            subtitle={post.eng}
             language="rus"
             path={"/russian/pattern/" + post.path}
           />
@@ -41,7 +41,7 @@ const pageTitle = "러시아어 패턴";
   section > ul {
     display: grid;
     height: 100%;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr;
     justify-items: stretch;
     gap: 1.5rem;
     margin-bottom: 0rem;

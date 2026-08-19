@@ -3,21 +3,21 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
 import BoxMain from "../../components/BoxMain.astro";
 import Button from "../../components/Button.astro";
 
-const pageTitle = "프랑스어";
+const pageTitle = "French";
 ---
 
 <BaseLayout pageTitle={pageTitle + " | Lublio"}>
   <BoxMain
-    title="프랑스어"
+    title="French"
     subtitle="Français"
-    description="프랑스어는 일상의 모든 순간을 예술로 만드는 언어입니다. 카페의 대화도, 시장의 흥정도, 낯선 이에게 건네는 인사도 프랑스어를 거치면 어딘가 다른 결을 띠게 됩니다. 삶을 조금 더 아름답게 바라보게 만드는 언어, 지금 만나보세요."
+    description="French turns every slice of daily life into an art form. A casual café chat, bargaining at a local market, or a simple greeting to a stranger—everything takes on a richer tone through French. Step into a language that helps you see the world with a bit more beauty."
     language="fra"
   />
 
   <div class="button-wrapper">
     <Button
-      title="프랑스어 회화"
-      subtitle="Phrases"
+      title="Phrases"
+      subtitle="Phrasebook"
       description="CEFR A1 - B2"
       language="fra"
       path="/french/phrasebook"
@@ -25,23 +25,13 @@ const pageTitle = "프랑스어";
     />
 
     <Button
-      title="프랑스어 패턴"
-      subtitle="Modèles"
+      title="Modèles"
+      subtitle="Speaking Pattern"
       description="CEFR B1 - C1"
       language="fra"
       path="/french/pattern"
       level="pattern"
     />
-
-    <!-- <Button
-      title="종합 프랑스어"
-      subtitle="Francisation"
-      description="CEFR A0 - C1"
-      language="fra"
-      path="/french/composite"
-      level="composite"
-      isDev="true"
-    /> -->
   </div>
 </BaseLayout>
 

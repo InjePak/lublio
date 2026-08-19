@@ -243,17 +243,17 @@ switch (level) {
 }
 ---
 
-<BaseLayout pageTitle={chapter.kor + " | Lublio"}>
-  <Box2 title={chapter.kor} subtitle={chapter.deu} language="deu" />
+<BaseLayout pageTitle={chapter.eng + " | Lublio"}>
+  <Box2 title={chapter.deu} subtitle={chapter.eng} language="deu" />
 
   <select id="lang-switcher">
-    <option value="kor">한국어</option>
     <option value="eng">English</option>
     <option value="fra">Français</option>
-    <option value="rus">Русский</option>
-    <option value="heb">עברית</option>
-    <option value="kaz">Қазақша</option>
     <option value="ita">Italiano</option>
+    <option value="rus">Русский</option>
+    <option value="pol">Polski</option>
+    <option value="ces">Čeština</option>
+    <option value="hun">Magyar</option>
     <option value="tur">Türkçe</option>
   </select>
 
@@ -267,23 +267,23 @@ switch (level) {
           <h2 lang="de">
             <img
               alt="Germany"
-              src="https://purecatamphetamine.github.io/country-flag-icons/1x1/DE.svg"
+              src="https://purecatamphetamine.github.io/country-flag-icons/3x2/DE.svg"
             />
             {data.deu}
           </h2>
           <p
             class="translation"
-            data-kor={data.kor}
             data-eng={data.eng}
             data-fra={data.fra}
             data-deu={data.deu}
-            data-rus={data.rus}
-            data-heb={data.heb}
-            data-kaz={data.kaz}
             data-ita={data.ita}
+            data-rus={data.rus}
+            data-pol={data.pol}
+            data-ces={data.ces}
+            data-hun={data.hun}
             data-tur={data.tur}
           >
-            {data.kor}
+            {data.eng}
           </p>
         </div>
       ))
@@ -295,7 +295,8 @@ switch (level) {
   .phrase-box {
     margin-bottom: 2rem;
     padding: 2rem;
-    border: 1px solid var(--neutral400);
+    background-color: var(--white);
+    border-radius: 10px;
   }
 
   .phrase-box > h1 {
@@ -308,7 +309,7 @@ switch (level) {
     font-size: 16px;
     font-weight: 600;
     margin-bottom: 2rem;
-    border-bottom: 1px solid var(--neutral400);
+    border-bottom: 1px solid var(--neutral700);
   }
 
   .phrase-box > h2 {
@@ -336,7 +337,7 @@ switch (level) {
     margin-top: 1.5rem;
     margin-bottom: 1rem;
     line-height: 1rem;
-    color: var(--neutral500);
+    color: var(--neutral700);
   }
 
   .phrase-box > p > span {
@@ -348,8 +349,6 @@ switch (level) {
       margin-bottom: 2rem;
       padding: 1rem 1.5rem;
       border: none;
-      border-top: 1px solid var(--neutral400);
-      border-bottom: 1px solid var(--neutral400);
       border-radius: 0px;
     }
 

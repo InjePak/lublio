@@ -3,21 +3,21 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
 import BoxMain from "../../components/BoxMain.astro";
 import Button from "../../components/Button.astro";
 
-const pageTitle = "러시아어";
+const pageTitle = "Russian";
 ---
 
 <BaseLayout pageTitle={pageTitle + " | Lublio"}>
   <BoxMain
-    title="러시아어"
+    title="Russian"
     subtitle="Русский"
-    description="러시아어는 대륙만큼 넓고 겨울만큼 깊은 언어입니다. 톨스토이와 도스토옙스키가 그 문장들로 인간의 내면을 파헤쳤고, 오늘날에도 유라시아 전역에서 수억 명의 목소리를 잇고 있습니다. 압도적인 스케일과 섬세함을 동시에 품은 언어, 지금 만나보세요."
+    description="Russian is as vast as the continent and as deep as a northern winter. Tolstoy and Dostoevsky unraveled the human soul through its prose, and today it connects hundreds of millions of voices across Eurasia. Experience a language of grand scale and intricate emotional depth."
     language="rus"
   />
 
   <div class="button-wrapper">
     <Button
-      title="러시아어 회화"
-      subtitle="Фразы"
+      title="Фразы"
+      subtitle="Phrasebook"
       description="CEFR A1 - B2"
       language="rus"
       path="/russian/phrasebook"
@@ -25,23 +25,13 @@ const pageTitle = "러시아어";
     />
 
     <Button
-      title="러시아어 패턴"
-      subtitle="Схемы"
+      title="Схемы"
+      subtitle="Speaking Pattern"
       description="CEFR B1 - C1"
       language="rus"
       path="/russian/pattern"
       level="pattern"
     />
-
-    <!-- <Button
-      title="러시아어 문법"
-      subtitle="Грамматика"
-      description="CEFR A1 - B2"
-      language="rus"
-      path="/russian/grammar"
-      level="grammar"
-      isDev="true"
-    /> -->
   </div>
 </BaseLayout>
 

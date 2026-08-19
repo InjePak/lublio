@@ -62,7 +62,8 @@ const { items } = Astro.props;
 
   .visibility-toggle + span {
     display: inline-block;
-    border: 1px solid var(--neutral400);
+    background-color: var(--white);
+    border-radius: 10px;
     width: 100%;
     padding: 0.7rem;
     font-family: "Inter", sans-serif;
@@ -70,7 +71,7 @@ const { items } = Astro.props;
     font-weight: 600;
     font-size: 18px;
     text-align: center;
-    transition: all 0.2s ease;
+    transition: all 0.4s ease;
   }
 
   .visibility-toggle:not(:checked) + span {
@@ -97,6 +98,7 @@ const { items } = Astro.props;
 
     .visibility-toggle + span {
       border: none;
+      background-color: var(--neutral100);
       border-bottom: 1px solid var(--neutral400);
       border-radius: 0px;
       width: 100%;

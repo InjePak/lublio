@@ -1,0 +1,161 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import Box2 from "../../../components/Box2.astro";
+import Button2 from "../../../components/Button2.astro";
+import SectionSwitcher from "../../../components/SectionSwitcher.astro";
+
+import chapters from "../../../assets/json/phrasebook/chapters.json";
+const chapters_a1 = chapters["a1"];
+const chapters_a2 = chapters["a2"];
+const chapters_b1 = chapters["b1"];
+const chapters_b2 = chapters["b2"];
+
+// Title
+const pageTitle = "Hungarian Phrasebook";
+
+// Section Switcher
+const tabItems = [
+  { id: "group-a1", label: "A1" },
+  { id: "group-a2", label: "A2" },
+  { id: "group-b1", label: "B1" },
+  { id: "group-b2", label: "B2" },
+];
+---
+
+<BaseLayout pageTitle={pageTitle + " | Lublio"}>
+  <Box2
+    title="Mondatok"
+    subtitle="Hungarian Phrasebook"
+    description="A bright glance paired with a welcoming Szia—where the Danube reflects the golden twilight of a storied past, and every spoken word echoes with unique passion and melodic charm. This phrasebook captures the rich, vibrant heart of everyday Hungarian."
+    language="hun"
+  />
+
+  <SectionSwitcher items={tabItems} />
+
+  <main>
+    <section class="group-a1">
+      <h2>
+        <span class="animated-underline-hun">CEFR A1</span>
+      </h2>
+      <ul>
+        {
+          chapters_a1.map((post: any) => (
+            <Button2
+              id={post.id}
+              title={post.hun}
+              subtitle={post.eng}
+              language="hun"
+              path={"/hungarian/phrasebook/a1/" + post.path}
+            />
+          ))
+        }
+      </ul>
+    </section>
+
+    <section class="group-a2">
+      <h2>
+        <span class="animated-underline-hun">CEFR A2</span>
+      </h2>
+      <ul>
+        {
+          chapters_a2.map((post: any) => (
+            <Button2
+              id={post.id}
+              title={post.hun}
+              subtitle={post.eng}
+              language="hun"
+              path={"/hungarian/phrasebook/a2/" + post.path}
+            />
+          ))
+        }
+      </ul>
+    </section>
+
+    <section class="group-b1">
+      <h2>
+        <span class="animated-underline-hun">CEFR B1</span>
+      </h2>
+      <ul>
+        {
+          chapters_b1.map((post: any) => (
+            <Button2
+              id={post.id}
+              title={post.hun}
+              subtitle={post.eng}
+              language="hun"
+              path={"/hungarian/phrasebook/b1/" + post.path}
+            />
+          ))
+        }
+      </ul>
+    </section>
+
+    <section class="group-b2">
+      <h2>
+        <span class="animated-underline-hun">CEFR B2</span>
+      </h2>
+      <ul>
+        {
+          chapters_b2.map((post: any) => (
+            <Button2
+              id={post.id}
+              title={post.hun}
+              subtitle={post.eng}
+              language="hun"
+              path={"/hungarian/phrasebook/b2/" + post.path}
+            />
+          ))
+        }
+      </ul>
+    </section>
+  </main>
+</BaseLayout>
+
+<style>
+  section {
+    padding-top: 1.5rem;
+  }
+
+  section > ul {
+    display: grid;
+    height: 100%;
+    grid-template-columns: 1fr 1fr;
+    justify-items: stretch;
+    gap: 1.5rem;
+    margin-bottom: 0rem;
+  }
+
+  @media (max-width: 1280px) {
+    section > h2 {
+      margin-left: 1rem;
+    }
+
+    section > ul {
+      display: flex;
+      flex-direction: column;
+      height: 100%;
+      gap: 0rem;
+      margin-bottom: 0rem;
+    }
+  }
+</style>
+
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    const selectors = [
+      ".animated-underline",
+      ".animated-underline-eng",
+      ".animated-underline-fra",
+      ".animated-underline-deu",
+      ".animated-underline-rus",
+      ".animated-underline-hun",
+      ".animated-underline-ita",
+      ".animated-underline-heb",
+      ".animated-underline-kaz",
+    ];
+
+    document.querySelectorAll(selectors.join(", ")).forEach((el) => {
+      el.classList.add("is-active");
+    });
+  });
+</script>

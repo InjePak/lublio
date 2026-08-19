@@ -3,31 +3,21 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
 import BoxMain from "../../components/BoxMain.astro";
 import Button from "../../components/Button.astro";
 
-const pageTitle = "독일어";
+const pageTitle = "German";
 ---
 
 <BaseLayout pageTitle={pageTitle + " | Lublio"}>
   <BoxMain
-    title="독일어"
+    title="German"
     subtitle="Deutsch"
-    description="독일어는 사유의 언어입니다. 철학자들이 존재를 묻고, 엔지니어들이 세계를 설계하고, 시인들이 자연 앞에 경외를 표할 때, 독일어는 그 모든 무게를 정확하게 담아냈습니다. 엄밀하면서도 서정적인, 생각을 끝까지 밀어붙이게 만드는 언어, 지금 만나보세요."
+    description="German is the language of deep thought. When philosophers question existence, engineers design the modern world, and poets stand in awe of nature, German captures that weight with absolute precision. Precise yet surprisingly lyrical, it’s a language that pushes your thinking further."
     language="deu"
   />
 
   <div class="button-wrapper">
-    <!-- <Button
-      title="Grammatik"
-      subtitle="Grammar"
-      description="CEFR A1 - B2"
-      language="deu"
-      path="/german/grammar"
-      level="grammar"
-      isDev="true"
-    /> -->
-
     <Button
-      title="독일어 회화"
-      subtitle="Sätze"
+      title="Sätze"
+      subtitle="Phrasebook"
       description="CEFR A1 - B2"
       language="deu"
       path="/german/phrasebook"
@@ -35,23 +25,13 @@ const pageTitle = "독일어";
     />
 
     <Button
-      title="독일어 패턴"
-      subtitle="Muster"
+      title="Muster"
+      subtitle="Speaking Pattern"
       description="CEFR B1 - C1"
       language="deu"
       path="/german/pattern"
       level="pattern"
     />
-
-    <!-- <Button
-      title="Wortschatz"
-      subtitle="Vocabulary"
-      description="CEFR A1 - C1"
-      language="deu"
-      path="/german/vocabulary"
-      level="vocabulary"
-      isDev="true"
-    /> -->
   </div>
 </BaseLayout>
 

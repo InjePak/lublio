@@ -6,86 +6,86 @@ import "../styles/transition.css";
 const { title, subtitle, description, language } = Astro.props;
 
 const colorMap800: Record<string, string> = {
-  eng: "var(--pink800)",
   fra: "var(--sky800)",
   deu: "var(--amber800)",
   ita: "var(--emerald800)",
-  tur: "var(--rose800)",
   rus: "var(--indigo800)",
-  heb: "var(--blue800)",
-  kaz: "var(--cyan800)",
+  tur: "var(--rose800)",
+  pol: "var(--pink800)",
+  ces: "var(--blue800)",
+  hun: "var(--lime800)",
 };
 const colorMap700: Record<string, string> = {
-  eng: "var(--pink700)",
   fra: "var(--sky700)",
   deu: "var(--amber700)",
   ita: "var(--emerald700)",
-  tur: "var(--rose700)",
   rus: "var(--indigo700)",
-  heb: "var(--blue700)",
-  kaz: "var(--cyan700)",
+  tur: "var(--rose700)",
+  pol: "var(--pink700)",
+  ces: "var(--blue700)",
+  hun: "var(--lime700)",
 };
 const colorMap600: Record<string, string> = {
-  eng: "var(--pink600)",
   fra: "var(--sky600)",
   deu: "var(--amber600)",
   ita: "var(--emerald600)",
-  tur: "var(--rose600)",
   rus: "var(--indigo600)",
-  heb: "var(--blue600)",
-  kaz: "var(--cyan600)",
+  tur: "var(--rose600)",
+  pol: "var(--pink600)",
+  ces: "var(--blue600)",
+  hun: "var(--lime600)",
 };
 const colorMap500: Record<string, string> = {
-  eng: "var(--pink500)",
   fra: "var(--sky500)",
   deu: "var(--amber500)",
   ita: "var(--emerald500)",
-  tur: "var(--rose500)",
   rus: "var(--indigo500)",
-  heb: "var(--blue500)",
-  kaz: "var(--cyan500)",
+  tur: "var(--rose500)",
+  pol: "var(--pink500)",
+  ces: "var(--blue500)",
+  hun: "var(--lime500)",
 };
 const colorMap400: Record<string, string> = {
-  eng: "var(--pink400)",
   fra: "var(--sky400)",
   deu: "var(--amber400)",
   ita: "var(--emerald400)",
-  tur: "var(--rose400)",
   rus: "var(--indigo400)",
-  heb: "var(--blue400)",
-  kaz: "var(--cyan400)",
+  tur: "var(--rose400)",
+  pol: "var(--pink400)",
+  ces: "var(--blue400)",
+  hun: "var(--lime400)",
 };
 const colorMap300: Record<string, string> = {
-  eng: "var(--pink300)",
   fra: "var(--sky300)",
   deu: "var(--amber300)",
   ita: "var(--emerald300)",
-  tur: "var(--rose300)",
   rus: "var(--indigo300)",
-  heb: "var(--blue300)",
-  kaz: "var(--cyan300)",
+  tur: "var(--rose300)",
+  pol: "var(--pink300)",
+  ces: "var(--blue300)",
+  hun: "var(--lime300)",
 };
 const colorMap200: Record<string, string> = {
-  eng: "var(--pink200)",
   fra: "var(--sky200)",
   deu: "var(--amber200)",
   ita: "var(--emerald200)",
-  tur: "var(--rose200)",
   rus: "var(--indigo200)",
-  heb: "var(--blue200)",
-  kaz: "var(--cyan200)",
+  tur: "var(--rose200)",
+  pol: "var(--pink200)",
+  ces: "var(--blue200)",
+  hun: "var(--lime200)",
 };
 const colorMap100: Record<string, string> = {
-  eng: "var(--pink100)",
   fra: "var(--sky100)",
   deu: "var(--amber100)",
   ita: "var(--emerald100)",
-  tur: "var(--rose100)",
   rus: "var(--indigo100)",
-  heb: "var(--blue100)",
-  kaz: "var(--cyan100)",
+  tur: "var(--rose100)",
+  pol: "var(--pink100)",
+  ces: "var(--blue100)",
+  hun: "var(--lime100)",
 };
-const color800 = colorMap800[language] || "var(----neutral700)";
+const color800 = colorMap800[language] || "var(--neutral800)";
 const color700 = colorMap700[language] || "var(--neutral700)";
 const color600 = colorMap600[language] || "var(--neutral600)";
 const color500 = colorMap500[language] || "var(--neutral500)";
@@ -95,14 +95,14 @@ const color200 = colorMap200[language] || "var(--neutral200)";
 const color100 = colorMap100[language] || "var(--neutral100)";
 
 const greetingMap: Record<string, string> = {
-  eng: "HELLO",
-  deu: "HALLO",
   fra: "SALUT",
-  rus: "PRIVET",
-  heb: "SHALOM",
-  kaz: "SAELEM",
+  deu: "HALLO",
   ita: "CIAO",
+  rus: "PRIVET",
   tur: "SELAM",
+  pol: "CZESC",
+  ces: "AHOJ",
+  hun: "SZIA",
 };
 const greeting = greetingMap[language] || "Welcome";
 ---
@@ -149,8 +149,7 @@ const greeting = greetingMap[language] || "Welcome";
     }
   }
 
-  .box-right > .white-gradient,
-  .box-top > .white-gradient {
+  .box-right > .white-gradient {
     width: 100%;
     height: 100%;
     background: linear-gradient(
@@ -159,6 +158,12 @@ const greeting = greetingMap[language] || "Welcome";
       rgba(245, 245, 245, 0) 60%,
       rgba(245, 245, 245, 0)
     );
+    padding: 1.5rem;
+  }
+
+  .box-top > .white-gradient {
+    width: 100%;
+    height: 100%;
     padding: 1.5rem;
   }
 
@@ -195,7 +200,7 @@ const greeting = greetingMap[language] || "Welcome";
     display: flex;
     width: 100%;
     aspect-ratio: 1 / 1;
-    max-height: 380px;
+    height: 380px;
     margin-bottom: 2rem;
     outline: none;
     z-index: 0;
@@ -211,7 +216,7 @@ const greeting = greetingMap[language] || "Welcome";
 
   .box-left > h1 {
     position: relative;
-    font-family: "Noto Korean", sans-serif;
+    font-family: "Inter", sans-serif;
     text-transform: uppercase;
     display: inline;
     font-size: 40px;
@@ -224,7 +229,7 @@ const greeting = greetingMap[language] || "Welcome";
 
   .box-left > h2 {
     position: relative;
-    font-family: "Inter", "Noto Hebrew", sans-serif;
+    font-family: "Inter", sans-serif;
     display: block;
     font-size: 22px;
     font-weight: 600;
@@ -259,6 +264,8 @@ const greeting = greetingMap[language] || "Welcome";
   .box-right {
     width: 50%;
     height: 100%;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
   }
 
   .box-right > .white-gradient > h3 {
@@ -286,8 +293,8 @@ const greeting = greetingMap[language] || "Welcome";
       flex-direction: column;
       width: 100%;
       aspect-ratio: 0;
-      height: 100%;
-      margin-bottom: 2rem;
+      height: 500px;
+      margin-bottom: 1rem;
       outline: none;
       z-index: 0;
       text-decoration: none;
@@ -311,13 +318,19 @@ const greeting = greetingMap[language] || "Welcome";
     }
 
     .box-left > p {
-      position: relative;
-      margin-bottom: 0;
-      width: 100%;
+      position: absolute;
+      font-family: "Inter", sans-serif;
+      width: calc(100% - 3rem);
+      left: 1.5rem;
+      bottom: 1.5rem;
       font-size: 16px;
+      font-weight: 500;
+      letter-spacing: 0px;
+      line-height: 1.4;
+      transition: all 0.4s;
     }
 
-    .box > p:last-child {
+    .box-left > p:last-child {
       margin-bottom: 0px;
     }
 
@@ -330,7 +343,7 @@ const greeting = greetingMap[language] || "Welcome";
       align-items: center;
       justify-content: flex-end;
       width: 100%;
-      height: 60px;
+      height: 40px;
       margin-bottom: 1.5rem;
     }
 
@@ -338,11 +351,11 @@ const greeting = greetingMap[language] || "Welcome";
       position: relative;
       display: block;
       text-align: right;
-      font-family: "Fjalla One", sans-serif;
+      font-family: "Inter", sans-serif;
       text-transform: uppercase;
-      font-size: 36px;
-      font-weight: 600;
-      line-height: 14px;
+      font-size: 20px;
+      font-weight: 700;
+      line-height: 3px;
       margin: 0rem;
       margin-right: 0.5rem;
     }

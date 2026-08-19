@@ -11,22 +11,22 @@ const chapters_b1 = chapters["b1"];
 const chapters_b2 = chapters["b2"];
 
 // Title
-const pageTitle = "프랑스어 회화";
+const pageTitle = "French Phrasebook";
 
 // Section Switcher
 const tabItems = [
-  { id: "group-a1", label: "A1 (입문)" },
-  { id: "group-a2", label: "A2 (기초)" },
-  { id: "group-b1", label: "B1 (중급)" },
-  { id: "group-b2", label: "B2 (중고급)" },
+  { id: "group-a1", label: "A1" },
+  { id: "group-a2", label: "A2" },
+  { id: "group-b1", label: "B1" },
+  { id: "group-b2", label: "B2" },
 ];
 ---
 
 <BaseLayout pageTitle={pageTitle + " | Lublio"}>
   <Box2
-    title="프랑스어 회화"
-    subtitle="Phrases"
-    description="파리지앵과 눈이 마주치며 흘러나오는 살뤼 — 카페 테라스에 햇살이 비스듬히 내려앉는 곳, 말 한마디 한마디에 여유와 감각이 함께 실리는 곳. 이 회화 모음집은 일상의 프랑스어 깊숙이 흐르는 가볍고도 시적인 감성을 담았습니다."
+    title="Phrases"
+    subtitle="French Phrasebook"
+    description="A exchanged glance with a Parisian, accompanied by a soft Salut—where afternoon sunlight spills gently across a café terrace, and every spoken word naturally carries a relaxed, stylish grace. This phrasebook captures the light, poetic atmosphere that flows through everyday French."
     language="fra"
   />
 
@@ -42,8 +42,8 @@ const tabItems = [
           chapters_a1.map((post: any) => (
             <Button2
               id={post.id}
-              title={post.kor}
-              subtitle={post.fra}
+              title={post.fra}
+              subtitle={post.eng}
               language="fra"
               path={"/french/phrasebook/a1/" + post.path}
             />
@@ -61,8 +61,8 @@ const tabItems = [
           chapters_a2.map((post: any) => (
             <Button2
               id={post.id}
-              title={post.kor}
-              subtitle={post.fra}
+              title={post.fra}
+              subtitle={post.eng}
               language="fra"
               path={"/french/phrasebook/a2/" + post.path}
             />
@@ -80,8 +80,8 @@ const tabItems = [
           chapters_b1.map((post: any) => (
             <Button2
               id={post.id}
-              title={post.kor}
-              subtitle={post.fra}
+              title={post.fra}
+              subtitle={post.eng}
               language="fra"
               path={"/french/phrasebook/b1/" + post.path}
             />
@@ -99,8 +99,8 @@ const tabItems = [
           chapters_b2.map((post: any) => (
             <Button2
               id={post.id}
-              title={post.kor}
-              subtitle={post.fra}
+              title={post.fra}
+              subtitle={post.eng}
               language="fra"
               path={"/french/phrasebook/b2/" + post.path}
             />
@@ -119,7 +119,7 @@ const tabItems = [
   section > ul {
     display: grid;
     height: 100%;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr;
     justify-items: stretch;
     gap: 1.5rem;
     margin-bottom: 0rem;
