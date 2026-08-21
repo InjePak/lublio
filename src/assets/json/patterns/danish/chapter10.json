@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Jeg sætter virkelig stor pris på din hjælp med...",
+    "translation": "I truly appreciate your help with ...",
+    "b1": [
+      "Jeg sætter virkelig stor pris på din hjælp med disse lektier.",
+      "Jeg sætter virkelig stor pris på din hjælp med at flytte i dag.",
+      "Jeg sætter virkelig stor pris på din hjælp med at lave mad.",
+      "Jeg sætter virkelig stor pris på din hjælp med min computer.",
+      "Jeg sætter virkelig stor pris på din hjælp med indkøbene."
+    ],
+    "b2": [
+      "Jeg sætter virkelig stor pris på din hjælp med at forberede denne præsentation.",
+      "Jeg sætter virkelig stor pris på din hjælp med at løse dette tekniske problem.",
+      "Jeg sætter virkelig stor pris på din hjælp med at arrangere vores næste møde.",
+      "Jeg sætter virkelig stor pris på din hjælp med at gennemgå dette dokument.",
+      "Jeg sætter virkelig stor pris på din hjælp med at koordinere ugens opgaver."
+    ],
+    "c1": [
+      "Jeg sætter virkelig stor pris på din hjælp med at strukturere vores langsigtede strategi.",
+      "Jeg sætter virkelig stor pris på din hjælp med at navigere i denne meget komplekse sag.",
+      "Jeg sætter virkelig stor pris på din hjælp med at afdække de underliggende risici.",
+      "Jeg sætter virkelig stor pris på din hjælp med at facilitere denne svære forhandling.",
+      "Jeg sætter virkelig stor pris på din hjælp med at optimere vores interne arbejdsprocesser."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Du har et helt særligt talent for...",
+    "translation": "You have a remarkable talent for ...",
+    "b1": [
+      "Du har et helt særligt talent for at tegne flotte billeder.",
+      "Du har et helt særligt talent for at lave god mad.",
+      "Du har et helt særligt talent for at lytte til andre mennesker.",
+      "Du har et helt særligt talent for at lære nye sprog.",
+      "Du har et helt særligt talent for at spille guitar."
+    ],
+    "b2": [
+      "Du har et helt særligt talent for at forklare svære ting på en enkel måde.",
+      "Du har et helt særligt talent for at skabe en god stemning i rummet.",
+      "Du har et helt særligt talent for at finde kreative løsninger på problemer.",
+      "Du har et helt særligt talent for at bevare roen under stort pres.",
+      "Du har et helt særligt talent for at motivere dine kolleger i hverdagen."
+    ],
+    "c1": [
+      "Du har et helt særligt talent for at gennemskue ustrukturerede datamængder.",
+      "Du har et helt særligt talent for at forene modstridende interesser i gruppen.",
+      "Du har et helt særligt talent for strategisk tænkning og fremsyn.",
+      "Du har et helt særligt talent for at formulere komplekse faglige budskaber præcist.",
+      "Du har et helt særligt talent for at identificere uudnyttede potentialer i organisationen."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Det var utroligt betænksomt af dig at...",
+    "translation": "That was incredibly thoughtful of you to ...",
+    "b1": [
+      "Det var utroligt betænksomt af dig at tage kaffe med til mig.",
+      "Det var utroligt betænksomt af dig at huske min fødselsdag.",
+      "Det var utroligt betænksomt af dig at hjælpe mig med taskerne.",
+      "Det var utroligt betænksomt af dig at sende et sødt kort.",
+      "Det var utroligt betænksomt af dig at spørge til min familie."
+    ],
+    "b2": [
+      "Det var utroligt betænksomt af dig at overtage min vagt i weekenden.",
+      "Det var utroligt betænksomt af dig at sende de relevante papirer på forhånd.",
+      "Det var utroligt betænksomt af dig at tjekke op på mig efter min sygdom.",
+      "Det var utroligt betænksomt af dig at forberede en vegetarisk ret til mig.",
+      "Det var utroligt betænksomt af dig at dele dine noter fra mødet med mig."
+    ],
+    "c1": [
+      "Det var utroligt betænksomt af dig at tage højde for mine faglige ønsker i projektplanen.",
+      "Det var utroligt betænksomt af dig at skærme teamet under den hektiske fase.",
+      "Det var utroligt betænksomt af dig at anerkende deres indsats over for ledelsen.",
+      "Det var utroligt betænksomt af dig at adressere de potentielle bekymringer så tidligt.",
+      "Det var utroligt betænksomt af dig at afsætte tid til personlig mentoring midt i en krise."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Jeg er så taknemmelig for, at...",
+    "translation": "I'm so grateful for the fact that ...",
+    "b1": [
+      "Jeg er så taknemmelig for, at du ville komme i dag.",
+      "Jeg er så taknemmelig for, at solen skinner i weekenden.",
+      "Jeg er så taknemmelig for, at jeg har så gode venner.",
+      "Jeg er så taknemmelig for, at vi kan rejse sammen.",
+      "Jeg er så taknemmelig for, at maden smagte godt."
+    ],
+    "b2": [
+      "Jeg er så taknemmelig for, at vi altid kan tale åbent om tingene.",
+      "Jeg er så taknemmelig for, at du støttede min beslutning om at skifte job.",
+      "Jeg er så taknemmelig for, at projektet blev en succes til sidst.",
+      "Jeg er så taknemmelig for, at arbejdspladsen giver plads til fleksibilitet.",
+      "Jeg er så taknemmelig for, at vi nåede vores fælles mål i år."
+    ],
+    "c1": [
+      "Jeg er så taknemmelig for, at organisationen prioriterer kontinuerlig kompetenceudvikling.",
+      "Jeg er så taknemmelig for, at vores team udviser en så urokkelig faglige disciplin.",
+      "Jeg er så taknemmelig for, at ledelsen udviser tillid til vores strategiske autonomi.",
+      "Jeg er så taknemmelig for, at vi har opbygget en så stærk kultur for gensidig sparring.",
+      "Jeg er så taknemmelig for, at denne løsning sikrer langsigtede og bæredygtige resultater."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Din sans for detaljer ved... er fremragende.",
+    "translation": "Your attention to detail on ... is outstanding.",
+    "b1": [
+      "Din sans for detaljer ved dette billede er fremragende.",
+      "Din sans for detaljer ved borddækningen er fremragende.",
+      "Din sans for detaljer ved kagen er fremragende.",
+      "Din sans for detaljer ved teksten er fremragende.",
+      "Din sans for detaljer ved gaven er fremragende."
+    ],
+    "b2": [
+      "Din sans for detaljer ved denne rapport er fremragende.",
+      "Din sans for detaljer ved planlægningen af arrangementet er fremragende.",
+      "Din sans for detaljer ved det nye design er fremragende.",
+      "Din sans for detaljer ved budgettet er fremragende.",
+      "Din sans for detaljer ved korrekturen er fremragende."
+    ],
+    "c1": [
+      "Din sans for detaljer ved den kvantitative dataanalyse er fremragende.",
+      "Din sans for detaljer ved udarbejdelsen af kontrakten er fremragende.",
+      "Din sans for detaljer ved denne risikovurdering er fremragende.",
+      "Din sans for detaljer ved metodestrukturen er fremragende.",
+      "Din sans for detaljer ved gennemgangen af lovgivningen er fremragende."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Jeg ville lige takke dig specifikt for...",
+    "translation": "I wanted to thank you specifically for ...",
+    "b1": [
+      "Jeg ville lige takke dig specifikt for din søde besked.",
+      "Jeg ville lige takke dig specifikt for hjælpen i køkkenet.",
+      "Jeg ville lige takke dig specifikt for bogen, jeg lånte.",
+      "Jeg ville lige takke dig specifikt for din gode idé.",
+      "Jeg ville lige takke dig specifikt for turen i bilen."
+    ],
+    "b2": [
+      "Jeg ville lige takke dig specifikt for din grundige feedback på min rapport.",
+      "Jeg ville lige takke dig specifikt for at tage ordet under mødet i morges.",
+      "Jeg ville lige takke dig specifikt for din hurtige indsats i går.",
+      "Jeg ville lige takke dig specifikt for at dele din viden om emnet.",
+      "Jeg ville lige takke dig specifikt for din fleksibilitet vedrørende tidsplanen."
+    ],
+    "c1": [
+      "Jeg ville lige takke dig specifikt for dit engagement i den strategiske kortlægning.",
+      "Jeg ville lige takke dig specifikt for din konstruktive kritik af vores hypotese.",
+      "Jeg ville lige takke dig specifikt for din evne til at afbøde den opståede konflikt.",
+      "Jeg ville lige takke dig specifikt for din dybdegående analyse af markedsdataene.",
+      "Jeg ville lige takke dig specifikt for at fastholde den høje faglige standard."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Du håndterede den situation med så stor ro og...",
+    "translation": "You handled that situation with such grace and ...",
+    "b1": [
+      "Du håndterede den situation med så stor ro og venlighed.",
+      "Du håndterede den situation med så stor ro og tålmodighed.",
+      "Du håndterede den situation med så stor ro og et smil.",
+      "Du håndterede den situation med så stor ro og glæde.",
+      "Du håndterede den situation med så stor ro og god energi."
+    ],
+    "b2": [
+      "Du håndterede den situation med så stor ro og professionel distance.",
+      "Du håndterede den situation med så stor ro og overskud.",
+      "Du håndterede den situation med så stor ro og klar kommunikation.",
+      "Du håndterede den situation med så stor ro og empati over for kunden.",
+      "Du håndterede den situation med så stor ro og stor besindighed."
+    ],
+    "c1": [
+      "Du håndterede den situation med så stor ro og diplomatisk tæt.",
+      "Du håndterede den situation med så stor ro og strategisk overblik.",
+      "Du håndterede den situation med så stor ro og urokkelig autoritet.",
+      "Du håndterede den situation med så stor ro og intellektuel overlegenhed.",
+      "Du håndterede den situation med så stor ro og metodisk præcision."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Jeg kunne ikke have gjort dette uden...",
+    "translation": "I couldn't have done this without ...",
+    "b1": [
+      "Jeg kunne ikke have gjort dette uden din hjælp.",
+      "Jeg kunne ikke have gjort dette uden min familie.",
+      "Jeg kunne ikke have gjort dette uden en god kop kaffe.",
+      "Jeg kunne ikke have gjort dette uden din støtte.",
+      "Jeg kunne ikke have gjort dette uden min telefon."
+    ],
+    "b2": [
+      "Jeg kunne ikke have gjort dette uden din værdifulde vejledning undervejs.",
+      "Jeg kunne ikke have gjort dette uden teamets fantastiske indsats.",
+      "Jeg kunne ikke have gjort dette uden de rette værktøjer til rådighed.",
+      "Jeg kunne ikke have gjort dette uden din opmuntring i svære stunder.",
+      "Jeg kunne ikke have gjort dette uden at have god tid til forberedelse."
+    ],
+    "c1": [
+      "Jeg kunne ikke have gjort dette uden din ekspertise inden for området.",
+      "Jeg kunne ikke have gjort dette uden den indsigtsfulde sparring, du har ydet.",
+      "Jeg kunne ikke have gjort dette uden den tværfaglige opbakning fra afdelingen.",
+      "Jeg kunne ikke have gjort dette uden adgang til de nødvendige analytiske ressourcer.",
+      "Jeg kunne ikke have gjort dette uden din uforlignelige evne til at skære igennem støjen."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Dit positive syn på tingene er virkelig en inspiration for...",
+    "translation": "Your positive attitude is truly inspiring to ...",
+    "b1": [
+      "Dit positive syn på tingene er virkelig en inspiration for mig.",
+      "Dit positive syn på tingene er virkelig en inspiration for dine venner.",
+      "Dit positive syn på tingene er virkelig en inspiration for børnene.",
+      "Dit positive syn på tingene er virkelig en inspiration for vores klasse.",
+      "Dit positive syn på tingene er virkelig en inspiration for hele familien."
+    ],
+    "b2": [
+      "Dit positive syn på tingene er virkelig en inspiration for hele teamet på kontoret.",
+      "Dit positive syn på tingene er virkelig en inspiration for alle i denne udfordrende tid.",
+      "Dit positive syn på tingene er virkelig en inspiration for vores nye kolleger.",
+      "Dit positive syn på tingene er virkelig en inspiration for dem, der arbejder tæt sammen med dig.",
+      "Dit positive syn på tingene er virkelig en inspiration for os allesammen i hverdagen."
+    ],
+    "c1": [
+      "Dit positive syn på tingene er virkelig en inspiration for hele organisationens kultur.",
+      "Dit positive syn på tingene er virkelig en inspiration for den løsningsorienterede tilgang.",
+      "Dit positive syn på tingene er virkelig en inspiration for opretholdelsen af arbejdsmoralen under forandringsprocesser.",
+      "Dit positive syn på tingene er virkelig en inspiration for ledelsesgruppen i denne overgangsperiode.",
+      "Dit positive syn på tingene er virkelig en inspiration for udviklingen af et trygt og innovativt miljø."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Tak fordi du gør en ekstra indsats for at...",
+    "translation": "Thank you for going above and beyond to ...",
+    "b1": [
+      "Tak fordi du gør en ekstra indsats for at hjælpe mig i dag.",
+      "Tak fordi du gør en ekstra indsats for at lave lækker mad.",
+      "Tak fordi du gør en ekstra indsats for at holde orden her.",
+      "Tak fordi du gør en ekstra indsats for at køre mig hjem.",
+      "Tak fordi du gør en ekstra indsats for at forklare opgaven."
+    ],
+    "b2": [
+      "Tak fordi du gør en ekstra indsats for at færdiggøre projektet til tiden.",
+      "Tak fordi du gør en ekstra indsats for at yde en fremragende kundeservice.",
+      "Tak fordi du gør en ekstra indsats for at byde den nye medarbejder velkommen.",
+      "Tak fordi du gør en ekstra indsats for at løse de uforudsete udfordringer.",
+      "Tak fordi du gør en ekstra indsats for at arrangere denne workshop."
+    ],
+    "c1": [
+      "Tak fordi du gør en ekstra indsats for at sikre den absolutte kvalitet i leverancen.",
+      "Tak fordi du gør en ekstra indsats for at fremme synergi på tværs af organisationen.",
+      "Tak fordi du gør en ekstra indsats for at imødekomme de komplekse interessentbehov.",
+      "Tak fordi du gør en ekstra indsats for at optimere vores strategiske position på markedet.",
+      "Tak fordi du gør en ekstra indsats for at opretholde en urokkelig standard i arbejdet."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Jeg beundrer virkelig den måde, du... på.",
+    "translation": "I really admire the way you ...",
+    "b1": [
+      "Jeg beundrer virkelig den måde, du taler med andre på.",
+      "Jeg beundrer virkelig den måde, du bager brød på.",
+      "Jeg beundrer virkelig den måde, du tager dig af din hund på.",
+      "Jeg beundrer virkelig den måde, du altid smiler på.",
+      "Jeg beundrer virkelig den måde, du synger på."
+    ],
+    "b2": [
+      "Jeg beundrer virkelig den måde, du strukturerer din arbejdsdag på.",
+      "Jeg beundrer virkelig den måde, du tackler svære samtaler på.",
+      "Jeg beundrer virkelig den måde, du formår at engagere dit publikum på.",
+      "Jeg beundrer virkelig den måde, du afbalancerer arbejde og privatliv på.",
+      "Jeg beundrer virkelig den måde, du lærer nye færdigheder så hurtigt på."
+    ],
+    "c1": [
+      "Jeg beundrer virkelig den måde, du dekonstruerer komplekse problemstillinger på.",
+      "Jeg beundrer virkelig den måde, du udøver autentisk og nærværende lederskab på.",
+      "Jeg beundrer virkelig den måde, du navigerer i politisk følsomme miljøer på.",
+      "Jeg beundrer virkelig den måde, du fastholder det strategiske overblik under kriser på.",
+      "Jeg beundrer virkelig den måde, du integrerer etiske overvejelser i beslutningerne på."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Hvor var det et fantastisk stykke arbejde, du gjorde med...",
+    "translation": "What a wonderful job you did on ...",
+    "b1": [
+      "Hvor var det et fantastisk stykke arbejde, du gjorde med at rydde op.",
+      "Hvor var det et fantastisk stykke arbejde, du gjorde med tegningen.",
+      "Hvor var det et fantastisk stykke arbejde, du gjorde med maden.",
+      "Hvor var det et fantastisk stykke arbejde, du gjorde med at pynte op.",
+      "Hvor var det et fantastisk stykke arbejde, du gjorde med din tale."
+    ],
+    "b2": [
+      "Hvor var det et fantastisk stykke arbejde, du gjorde med at tilrettelægge konferencen.",
+      "Hvor var det et fantastisk stykke arbejde, du gjorde med den nye hjemmeside.",
+      "Hvor var det et fantastisk stykke arbejde, du gjorde med at løse den konflikt.",
+      "Hvor var det et fantastisk stykke arbejde, du gjorde med årsrapporten.",
+      "Hvor var det et fantastisk stykke arbejde, du gjorde med kundepræsentationen."
+    ],
+    "c1": [
+      "Hvor var det et fantastisk stykke arbejde, du gjorde med at omstrukturere afdelingen.",
+      "Hvor var det et fantastisk stykke arbejde, du gjorde med at facilitere den strategiske proces.",
+      "Hvor var det et fantastisk stykke arbejde, du gjorde med den dybdegående markedsanalyse.",
+      "Hvor var det et fantastisk stykke arbejde, du gjorde med at implementere de nye retningslinjer.",
+      "Hvor var det et fantastisk stykke arbejde, du gjorde med at sikre fuld opbakning fra interessenterne."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Det betyder alverden for mig, at...",
+    "translation": "It means the world to me that ...",
+    "b1": [
+      "Det betyder alverden for mig, at du vil hjælpe mig i dag.",
+      "Det betyder alverden for mig, at du husker på mig.",
+      "Det betyder alverden for mig, at vi er venner.",
+      "Det betyder alverden for mig, at du kom til min fest.",
+      "Det betyder alverden for mig, at du lyttede til mig."
+    ],
+    "b2": [
+      "Det betyder alverden for mig, at du støtter mig i mit nye projekt.",
+      "Det betyder alverden for mig, at du tog dig tid til at mødes med mig.",
+      "Det betyder alverden for mig, at du bakker mig op over for ledelsen.",
+      "Det betyder alverden for mig, at vores samarbejde fungerer så gnidningsløst.",
+      "Det betyder alverden for mig, at du viser mig så stor tillid."
+    ],
+    "c1": [
+      "Det betyder alverden for mig, at du anerkender den faglige indsats, der ligger bag.",
+      "Det betyder alverden for mig, at vi deler de samme grundlæggende værdier i arbejdet.",
+      "Det betyder alverden for mig, at du giver plads til metoderelateret innovation.",
+      "Det betyder alverden for mig, at du skaber trygge rammer for faglig uenighed.",
+      "Det betyder alverden for mig, at vi kan opretholde en urokkelig loyalitet i teamet."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Dit perspektiv på... er utroligt værdifuldt.",
+    "translation": "Your perspective on ... is incredibly valuable.",
+    "b1": [
+      "Dit perspektiv på denne bog er utroligt værdifuldt.",
+      "Dit perspektiv på problemet er utroligt værdifuldt.",
+      "Dit perspektiv på filmen er utroligt værdifuldt.",
+      "Dit perspektiv på rejseplanen er utroligt værdifuldt.",
+      "Dit perspektiv på sagen er utroligt værdifuldt."
+    ],
+    "b2": [
+      "Dit perspektiv på denne markedsudvikling er utroligt værdifuldt.",
+      "Dit perspektiv på vores nye strategi er utroligt værdifuldt.",
+      "Dit perspektiv på kundeoplevelsen er utroligt værdifuldt.",
+      "Dit perspektiv på projektets fremdrift er utroligt værdifuldt.",
+      "Dit perspektiv på samarbejdet på tværs af afdelinger er utroligt værdifuldt."
+    ],
+    "c1": [
+      "Dit perspektiv på de samfundsøkonomiske konsekvenser er utroligt værdifuldt.",
+      "Dit perspektiv på de underliggende strukturelle forandringer er utroligt værdifuldt.",
+      "Dit perspektiv på denne etiske problemstilling er utroligt værdifuldt.",
+      "Dit perspektiv på den langsigtede risikoprofil er utroligt værdifuldt.",
+      "Dit perspektiv på de makroøkonomiske tendenser er utroligt værdifuldt."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Jeg vil gerne udtrykke min dybeste taknemmelighed for...",
+    "translation": "I want to express my deepest gratitude for ...",
+    "b1": [
+      "Jeg vil gerne udtrykke min dybeste taknemmelighed for din store hjælp.",
+      "Jeg vil gerne udtrykke min dybeste taknemmelighed for den flotte gave.",
+      "Jeg vil gerne udtrykke min dybeste taknemmelighed for gæstfriheden.",
+      "Jeg vil gerne udtrykke min dybeste taknemmelighed for din støtte i dag.",
+      "Jeg vil gerne udtrykke min dybeste taknemmelighed for din venlighed."
+    ],
+    "b2": [
+      "Jeg vil gerne udtrykke min dybeste taknemmelighed for dit lange engagement i organisationen.",
+      "Jeg vil gerne udtrykke min dybeste taknemmelighed for den tillid, I har vist mig.",
+      "Jeg vil gerne udtrykke min dybeste taknemmelighed for uundværlig rådgivning undervejs.",
+      "Jeg vil gerne udtrykke min dybeste taknemmelighed for din uvurderlige indsats i projektet.",
+      "Jeg vil gerne udtrykke min dybeste taknemmelighed for den varme velkomst på kontoret."
+    ],
+    "c1": [
+      "Jeg vil gerne udtrykke min dybeste taknemmelighed for din bemærkelsesværdige indsats i krisetider.",
+      "Jeg vil gerne udtrykke min dybeste taknemmelighed for dit enestående strategiske lederskab.",
+      "Jeg vil gerne udtrykke min dybeste taknemmelighed for dit uvurderlige bidrag til forskningen.",
+      "Jeg vil gerne udtrykke min dybeste taknemmelighed for din utrættelige opretholdelse af vores faglige standarder.",
+      "Jeg vil gerne udtrykke min dybeste taknemmelighed for din visionære tilgang til forandringsprocessen."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Du har gjort en kæmpe forskel for...",
+    "translation": "You've made a huge difference in ...",
+    "b1": [
+      "Du har gjort en kæmpe forskel for mig i dag.",
+      "Du har gjort en kæmpe forskel for vores lille gruppe.",
+      "Du har gjort en kæmpe forskel for min familie.",
+      "Du har gjort en kæmpe forskel for børnene på skolen.",
+      "Du har gjort en kæmpe forskel for vores naboer."
+    ],
+    "b2": [
+      "Du har gjort en kæmpe forskel for arbejdet i denne afdeling.",
+      "Du har gjort en kæmpe forskel for vores nye medarbejdere.",
+      "Du har gjort en kæmpe forskel for udfaldet af dette projekt.",
+      "Du har gjort en kæmpe forskel for trivslen på arbejdspladsen.",
+      "Du har gjort en kæmpe forskel for vores lokale lokalsamfund."
+    ],
+    "c1": [
+      "Du har gjort en kæmpe forskel for udviklingen af vores langsigtede strategi.",
+      "Du har gjort en kæmpe forskel for optimeringen af vores operationelle modeller.",
+      "Du har gjort en kæmpe forskel for kvalitetssikringen på tværs af hele organisationen.",
+      "Du har gjort en kæmpe forskel for vores evne til at navigere i komplekse markeder.",
+      "Du har gjort en kæmpe forskel for kultiveringen af et innovativt fagmiljø."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Jeg er så imponeret over din evne til at...",
+    "translation": "I'm so impressed by your ability to ...",
+    "b1": [
+      "Jeg er så imponeret over din evne til at tale dansk.",
+      "Jeg er så imponeret over din evne til at huske navne.",
+      "Jeg er så imponeret over din evne til at lave mad så hurtigt.",
+      "Jeg er så imponeret over din evne til at løbe så langt.",
+      "Jeg er så imponeret over din evne til at synge pænt."
+    ],
+    "b2": [
+      "Jeg er så imponeret over din evne til at bevare overblikket under tidspres.",
+      "Jeg er så imponeret over din evne til at formidle kompliceret stof til alle.",
+      "Jeg er så imponeret over din evne til at motivere andre mennesker.",
+      "Jeg er så imponeret over din evne til at lære nye IT-systemer så let.",
+      "Jeg er så imponeret over din evne til at håndtere vanskelige kunder professionelt."
+    ],
+    "c1": [
+      "Jeg er så imponeret over din evne til at identificere subtile sammenhænge i komplekse data.",
+      "Jeg er så imponeret over din evne til at navigere ubesværet i tværkulturelle forhandlinger.",
+      "Jeg er så imponeret over din evne til at dekonstruere indgroede organisatoriske dogmer.",
+      "Jeg er så imponeret over din evne til at tænke syntetisk og langsigtet under forandringer.",
+      "Jeg er så imponeret over din evne til at udøve risikostyring med så stor metodisk stringens."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Tak fordi du tog dig tid til at...",
+    "translation": "Thank you for taking the time to ...",
+    "b1": [
+      "Tak fordi du tog dig tid til at snakke med mig.",
+      "Tak fordi du tog dig tid til at hjælpe mig med lektierne.",
+      "Tak fordi du tog dig tid til at drikke en kop kaffe med mig.",
+      "Tak fordi du tog dig tid til at vise mig vej.",
+      "Tak fordi du tog dig tid til at ringe til mig."
+    ],
+    "b2": [
+      "Tak fordi du tog dig tid til at give mig grundig feedback på min opgave.",
+      "Tak fordi du tog dig tid til at deltage i vores møde i dag.",
+      "Tak fordi du tog dig tid til at forklare processen for hele teamet.",
+      "Tak fordi du tog dig tid til at gennemgå min ansøgning i detaljer.",
+      "Tak fordi du tog dig tid til at lytte til mine forslag til forbedringer."
+    ],
+    "c1": [
+      "Tak fordi du tog dig tid til at afholde denne dybdegående faglige workshop.",
+      "Tak fordi du tog dig tid til at evaluere de langsigtede konsekvenser af beslutningen.",
+      "Tak fordi du tog dig tid til at udarbejde et så omfattende strategisk oplæg.",
+      "Tak fordi du tog dig tid til at yde uvurderlig sparring på vores metodiske rammeværk.",
+      "Tak fordi du tog dig tid til at konsultere alle relevante interessenter i processen."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Vi er heldige at have en, der kan...",
+    "translation": "We are fortunate to have someone who can ...",
+    "b1": [
+      "Vi er heldige at have en, der kan hjælpe os med dette.",
+      "Vi er heldige at have en, der kan tale engelsk så godt.",
+      "Vi er heldige at have en, der kan lave så god mad.",
+      "Vi er heldige at have en, der kan køre bilen i dag.",
+      "Vi er heldige at have en, der kan reparere ting her."
+    ],
+    "b2": [
+      "Vi er heldige at have en, der kan overtage ansvaret i travle perioder.",
+      "Vi er heldige at have en, der kan holde humøret oppe i teamet.",
+      "Vi er heldige at have en, der kan løse tekniske problemer så hurtigt.",
+      "Vi er heldige at have en, der kan kommunikere direkte med vores partnere.",
+      "Vi er heldige at have en, der kan strukturere vores ugentlige arbejdsgange."
+    ],
+    "c1": [
+      "Vi er heldige at have en, der kan tænke så dybt og analytisk om vores udfordringer.",
+      "Vi er heldige at have en, der kan brobygge mellem komplekse faglige discipliner.",
+      "Vi er heldige at have en, der kan udstikke en klar og visionær retning for afdelingen.",
+      "Vi er heldige at have en, der kan foretage så præcise risikovurderinger under usikkerhed.",
+      "Vi er heldige at have en, der kan fastholde det strategiske overblik uden at miste detaljen."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Din villighed til at... skiller sig virkelig ud.",
+    "translation": "Your willingness to ... really stands out.",
+    "b1": [
+      "Din villighed til at hjælpe andre skiller sig virkelig ud.",
+      "Din villighed til at lære nye ting skiller sig virkelig ud.",
+      "Din villighed til at lytte til mig skiller sig virkelig ud.",
+      "Din villighed til at dele dine ting skiller sig virkelig ud.",
+      "Din villighed til at møde op til tiden skiller sig virkelig ud."
+    ],
+    "b2": [
+      "Din villighed til at træde til med kort varsel skiller sig virkelig ud.",
+      "Din villighed til at tage nye udfordringer op skiller sig virkelig ud.",
+      "Din villighed til at samarbejde på tværs af holdet skiller sig virkelig ud.",
+      "Din villighed til at lade andre komme til orde skiller sig virkelig ud.",
+      "Din villighed til at tilpasse dig nye arbejdsgange skiller sig virkelig ud."
+    ],
+    "c1": [
+      "Din villighed til at påtage dig et komplekst fagligt ansvar skiller sig virkelig ud.",
+      "Din villighed til at udfordre etablerede praksisser skiller sig virkelig ud.",
+      "Din villighed til at investere tid i langsigtede udviklingsinitiativer skiller sig virkelig ud.",
+      "Din villighed til at udvise kognitiv fleksibilitet i forhandlingerne skiller sig virkelig ud.",
+      "Din villighed til at navigere uforfærdet i organisatorisk usikkerhed skiller sig virkelig ud."
+    ]
+  }
+]

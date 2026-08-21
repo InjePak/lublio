@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Jag kommer ihåg när ...",
+    "translation": "I remember when ...",
+    "b1": [
+      "Jag kommer ihåg när vi bodde i ett litet hus.",
+      "Jag kommer ihåg när jag köpte min första cykel.",
+      "Jag kommer ihåg när vi åkte till stranden varje sommar.",
+      "Jag kommer ihåg när det snöade mycket här.",
+      "Jag kommer ihåg när jag började i skolan."
+    ],
+    "b2": [
+      "Jag kommer ihåg när tekniken inte var en så stor del av vår vardag.",
+      "Jag kommer ihåg när vi var tvungna att planera resan utan GPS.",
+      "Jag kommer ihåg när det beslutet togs och hur alla reagerade.",
+      "Jag kommer ihåg när det här området fortfarande var mycket lugnt.",
+      "Jag kommer ihåg när vi jobbade tillsammans med det första projektet."
+    ],
+    "c1": [
+      "Jag kommer ihåg när den politiska diskursen präglades av mer ömsesidig respekt.",
+      "Jag kommer ihåg när idéer om hållbarhet fortfarande betraktades som radikala.",
+      "Jag kommer ihåg när samhällsstrukturen genomgick en drastisk förändring.",
+      "Jag kommer ihåg när kultursektorn ställdes inför sin största utmaning någonsin.",
+      "Jag kommer ihåg när detta begrepp först introducerades i den akademiska debatten."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Det var en gång ...",
+    "translation": "Once upon a time, ...",
+    "b1": [
+      "Det var en gång en liten hund som bodde i en by.",
+      "Det var en gång en kung som hade tre söner.",
+      "Det var en gång en flicka som älskade att läsa böcker.",
+      "Det var en gång ett gammalt träd i skogen.",
+      "Det var en gång en katt som ville lära sig simma."
+    ],
+    "b2": [
+      "Det var en gång ett litet företag som drömde om att förändra marknaden.",
+      "Det var en gång en tid då information sprids betydligt långsammare.",
+      "Det var en gång ett samhälle där alla kände sina grannar väl.",
+      "Det var en gång en tradition som upprätthölls i varje hushåll.",
+      "Det var en gång en idé som ingen trodde var genomförbar."
+    ],
+    "c1": [
+      "Det var en gång en epok då konstnärlig frihet värderades högre än kommersiell framgång.",
+      "Det var en gång ett politiskt landskap som tillät breda tvärpolitiska kompromisser.",
+      "Det var en gång en filosofisk skola som formade hela västerlandets tänkande.",
+      "Det var en gång en civilisation som blomstrade tack vare sin geografiska isolering.",
+      "Det var en gång en norm som antogs vara oomkullkullkastlig men som snabbt vittrade sönder."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Historien börjar med ...",
+    "translation": "The story begins with ...",
+    "b1": [
+      "Historien börjar med en lång resa.",
+      "Historien börjar med ett brevs ankomst.",
+      "Historien börjar med en regnig dag i juni.",
+      "Historien börjar med två vänner som möts på ett café.",
+      "Historien börjar med en hemlighet."
+    ],
+    "b2": [
+      "Historien börjar med ett oväntat beslut från företagsledningen.",
+      "Historien börjar med att huvudpersonen upptäcker ett gammalt dokument.",
+      "Historien börjar med en konflikt mellan två olika familjer.",
+      "Historien börjar med en slumpmässig händelse på en flygplats.",
+      "Historien börjar med att laget förlorar sin viktigaste match."
+    ],
+    "c1": [
+      "Historien börjar med en subtil förskjutning i det socioekonomiska landskapet.",
+      "Historien börjar med den dramatiska kollapsen av en etablerad institution.",
+      "Historien börjar med en kritisk granskning av rådande maktstrukturer.",
+      "Historien börjar med publiceringen av ett manifest som skakade samtiden.",
+      "Historien börjar med uppkomsten av en subkultur i skuggan av industrialiseringen."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Det påminner mig om en gång när ...",
+    "translation": "That reminds me of a time when ...",
+    "b1": [
+      "Det påminner mig om en gång när jag tappade min nyckel.",
+      "Det påminner mig om en gång när vi gick vilse i skogen.",
+      "Det påminner mig om en gång när det regnade hela dagen.",
+      "Det påminner mig om en gång när jag träffade en kändis.",
+      "Det påminner mig om en gång när vi lagade god mat."
+    ],
+    "b2": [
+      "Det påminner mig om en gång när ett liknande problem dök upp på jobbet.",
+      "Det påminner mig om en gång när vi var tvungna att ändra våra resplaner sista sekunden.",
+      "Det påminner mig om en gång när ett missförstånd orsakade stor förvirring.",
+      "Det påminner mig om en gång när jag underskattade hur svår uppgiften var.",
+      "Det påminner mig om en gång när vårt team lyckades vända en svår situation."
+    ],
+    "c1": [
+      "Det påminner mig om en gång när hela branschen drabbades av en oväntad kris.",
+      "Det påminner mig om en gång när de teoretiska modellerna misslyckades med att förutse verkligheten.",
+      "Det påminner mig om en gång när organisationen stod inför ett etiskt dilemma.",
+      "Det påminner mig om en gång när en till synes obetydlig händelse fick katastrofala följder.",
+      "Det påminner mig om en gång när ideologiska skillnader paralyserade beslutsprocessen."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Låt mig berätta om ...",
+    "translation": "Let me tell you about ...",
+    "b1": [
+      "Låt mig berätta om min senaste resa.",
+      "Låt mig berätta om min nya hund.",
+      "Låt mig berätta om vad som hände i går.",
+      "Låt mig berätta om min bästa vän.",
+      "Låt mig berätta om min favoritmat."
+    ],
+    "b2": [
+      "Låt mig berätta om projektet vi arbetade med förra året.",
+      "Låt mig berätta om en utmaning som förändrade mitt sätt att tänka.",
+      "Låt mig berätta om erfarenheten av att studera i ett annat land.",
+      "Låt mig berätta om huset som vi renoverade själva.",
+      "Låt mig berätta om mötet med den nya kunden."
+    ],
+    "c1": [
+      "Låt mig berätta om de bakomliggande faktorerna som drev fram denna reform.",
+      "Låt mig berätta om den komplexa dynamiken inom forskargruppen.",
+      "Låt mig berätta om hur den här filosofin tillämpas i praktiken.",
+      "Låt mig berätta om de strukturella hindren vi stötte på under processen.",
+      "Låt mig berätta om ett paradigmskifte som påverkade hela marknaden."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Vi skulle precis ... när plötsligt ...",
+    "translation": "We were just about to ... when suddenly ...",
+    "b1": [
+      "Vi skulle precis äta när plötsligt telefonen ringde.",
+      "Vi skulle precis gå ut när plötsligt det började regna.",
+      "Vi skulle precis sova när plötsligt ett högt ljud hördes.",
+      "Vi skulle precis åka när plötsligt bussen stannade.",
+      "Vi skulle precis stänga när plötsligt en kund kom in."
+    ],
+    "b2": [
+      "Vi skulle precis avsluta mötet när plötsligt strömmen gick.",
+      "Vi skulle precis skriva under kontraktet när plötsligt nya krav ställdes.",
+      "Vi skulle precis lansera produkten när plötsligt ett tekniskt fel upptäcktes.",
+      "Vi skulle precis gå ombord på flyget när plötsligt avgången ställdes in.",
+      "Vi skulle precis nå vårt mål när plötsligt oväntade hinder dök upp."
+    ],
+    "c1": [
+      "Vi skulle precis offentliggöra rapporten när plötsligt nya avgörande data uppdagades.",
+      "Vi skulle precis nå ett konsensus när plötsligt en intressekonflikt blottlades.",
+      "Vi skulle precis implementera strategin när plötsligt en marknadskrasch inträffade.",
+      "Vi skulle precis avveckla projektet när plötsligt ett genombrott uppnåddes i laboratoriet.",
+      "Vi skulle precis signera avtalet när plötsligt de geopolitiska spänningarna eskalerade."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Och sedan hände det mest oväntade: ...",
+    "translation": "And then, the most unexpected thing happened: ...",
+    "b1": [
+      "Och sedan hände det mest oväntade: han vann tävlingen.",
+      "Och sedan hände det mest oväntade: solen kom fram igen.",
+      "Och sedan hände det mest oväntade: hunden hittade nycklarna.",
+      "Och sedan hände det mest oväntade: alla började skratta.",
+      "Och sedan hände det mest oväntade: vi fick gratis biljetter."
+    ],
+    "b2": [
+      "Och sedan hände det mest oväntade: motståndaren erbjöd ett samarbete.",
+      "Och sedan hände det mest oväntade: förslaget röstades igenom utan debatt.",
+      "Och sedan hände det mest oväntade: kunden dubblerade sin beställning.",
+      "Och sedan hände det mest oväntade: systemet återställdes automatiskt.",
+      "Och sedan hände det mest oväntade: experterna ändrade sin bedömning."
+    ],
+    "c1": [
+      "Och sedan hände det mest oväntade: den marginaliserade aktören tog kontroll över debatten.",
+      "Och sedan hände det mest oväntade: hela den ekonomiska modellen kollapsade på få dagar.",
+      "Och sedan hände det mest oväntade: det uppstod ett sprunget motstånd från oväntat håll.",
+      "Och sedan hände det mest oväntade: de empiriska resultat motsade den etablerade teorin helt.",
+      "Och sedan hände det mest oväntade: en anonym donation räddade hela kulturarvsprojektet."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Jag kommer aldrig att glömma ögonblicket då ...",
+    "translation": "I'll never forget the moment when ...",
+    "b1": [
+      "Jag kommer aldrig att glömma ögonblicket då jag klarade provet.",
+      "Jag kommer aldrig att glömma ögonblicket då vi kom fram till huset.",
+      "Jag kommer aldrig att glömma ögonblicket då jag såg havet för första gången.",
+      "Jag kommer aldrig att glömma ögonblicket då min bror föddes.",
+      "Jag kommer aldrig att glömma ögonblicket då vi vann matchen."
+    ],
+    "b2": [
+      "Jag kommer aldrig att glömma ögonblicket då jag fick beskedet om jobbet.",
+      "Jag kommer aldrig att glömma ögonblicket då hela publiken började stående applaudera.",
+      "Jag kommer aldrig att glömma ögonblicket då jag insåg vidden av vårt misstag.",
+      "Jag kommer aldrig att glömma ögonblicket då räddningstjänsten anlände till platsen.",
+      "Jag kommer aldrig att glömma ögonblicket då projektet till slut blev godkänt."
+    ],
+    "c1": [
+      "Jag kommer aldrig att glömma ögonblicket då det historiska fredsavtalet undertecknades.",
+      "Jag kommer aldrig att glömma ögonblicket då sanningen bakom skandalen blottlades för allmänheten.",
+      "Jag kommer aldrig att glömma ögonblicket då den vetenskapliga upptäckten bekräftades i testerna.",
+      "Jag kommer aldrig att glömma ögonblicket då systemkrisen blev ett faktum för hela landet.",
+      "Jag kommer aldrig att glömma ögonblicket då idén som skulle förändra vår organisation föddes."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Först trodde jag ..., men senare insåg jag ...",
+    "translation": "At first, I thought ..., but later I realized ...",
+    "b1": [
+      "Först trodde jag att det var svårt, men senare insåg jag att det var lätt.",
+      "Först trodde jag att han var arga, men senare insåg jag att han bara var trött.",
+      "Först trodde jag att bussen var sen, men senare insåg jag att jag var på fel hållplats.",
+      "Först trodde jag att maten var stark, men senare insåg jag att den var god.",
+      "Först trodde jag att det var dyrt, men senare insåg jag att kvaliteten var bra."
+    ],
+    "b2": [
+      "Först trodde jag att lösningen var effektiv, men senare insåg jag dess begränsningar.",
+      "Först trodde jag att uppgiften var obetydlig, men senare insåg jag hur viktig den var.",
+      "Först trodde jag att vi var eniga, men senare insåg jag att vi hade olika mål.",
+      "Först trodde jag att förändringen var negativ, men senare insåg jag fördelarna.",
+      "Först trodde jag att problemet var tekniskt, men senare insåg jag att det var organisatoriskt."
+    ],
+    "c1": [
+      "Först trodde jag att teorin var helt heltäckande, men senare insåg jag dess strukturella svagheter.",
+      "Först trodde jag att politiken var välment, men senare insåg jag dess cyniska beräkningar.",
+      "Först trodde jag att datan var tillförlitlig, men senare insåg jag att urvalet var snedvridet.",
+      "Först trodde jag att konflikten var ytlig, men senare insåg jag dess djupt rotade historiska orsaker.",
+      "Först trodde jag att fenomenet var tillfälligt, men senare insåg jag att det var en bestående trend."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Allt förändrades efter ...",
+    "translation": "Everything changed after ...",
+    "b1": [
+      "Allt förändrades efter att vi flyttade till en ny stad.",
+      "Allt förändrades efter att han började sitt nya jobb.",
+      "Allt förändrades efter den sommaren.",
+      "Allt förändrades efter att jag köpte min dator.",
+      "Allt förändrades efter den där olyckan."
+    ],
+    "b2": [
+      "Allt förändrades efter att den nya ledningen tog över företaget.",
+      "Allt förändrades efter att den nya lagen infördes förra året.",
+      "Allt förändrades efter att vi lanserade den första digitala tjänsten.",
+      "Allt förändrades efter att den ekonomiska krisen drabbade regionen.",
+      "Allt förändrades efter att resultatet av undersökningen publicerades."
+    ],
+    "c1": [
+      "Allt förändrades efter att det ideologiska skiftet fick fäste i samhällsdebatten.",
+      "Allt förändrades efter den drastiska avregleringen av finansmarknaden.",
+      "Allt förändrades efter att det vetenskapliga genombrottet offentliggjordes.",
+      "Allt förändrades efter att de demografiska förändringarna nådde en kritisk punkt.",
+      "Allt förändrades efter att förtroendet för institutionerna raserades."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Innan jag visste ordet av ...",
+    "translation": "Before I knew it, ...",
+    "b1": [
+      "Innan jag visste ordet av var dagen slut.",
+      "Innan jag visste ordet av hade bussen åkt.",
+      "Innan jag visste ordet av var tårtan slut.",
+      "Innan jag visste ordet av var vi framme.",
+      "Innan jag visste ordet av hade alla gått hem."
+    ],
+    "b2": [
+      "Innan jag visste ordet av var deadline nådd.",
+      "Innan jag visste ordet av hade projektet växt betydligt.",
+      "Innan jag visste ordet av hade mötet varat i tre timmar.",
+      "Innan jag visste ordet av var alla biljetter slutsålda.",
+      "Innan jag visste ordet av hade situationen spårat ur."
+    ],
+    "c1": [
+      "Innan jag visste ordet av hade hela avdelningen omorganiserats i grunden.",
+      "Innan jag visste ordet av hade diskussionen urartat till en principstrid.",
+      "Innan jag visste ordet av hade de finansiella resurserna förbrukats helt.",
+      "Innan jag visste ordet av hade trenden spridit sig globalt via sociala medier.",
+      "Innan jag visste ordet av stod vi inför fullbordat faktum i förhandlingarna."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Hela upplevelsen lärde mig ...",
+    "translation": "The whole experience taught me ...",
+    "b1": [
+      "Hela upplevelsen lärde mig att vara mer försiktig.",
+      "Hela upplevelsen lärde mig att hjälpa andra.",
+      "Hela upplevelsen lärde mig att planera bättre.",
+      "Hela upplevelsen lärde mig att lyssna på mina vänner.",
+      "Hela upplevelsen lärde mig att inte ge upp."
+    ],
+    "b2": [
+      "Hela upplevelsen lärde mig vikten av god kommunikation i kristider.",
+      "Hela upplevelsen lärde mig att tålamod ofta är nyckeln till framgång.",
+      "Hela upplevelsen lärde mig att vara mer flexibel inför förändringar.",
+      "Hela upplevelsen lärde mig att underskatta inte förberedelsernas betydelse.",
+      "Hela upplevelsen lärde mig att lita mer på min egen magkänsla."
+    ],
+    "c1": [
+      "Hela upplevelsen lärde mig att navigera i komplexa och osäkra miljöer.",
+      "Hela upplevelsen lärde mig hur sköra organisationers förtroendekapital faktiskt är.",
+      "Hela upplevelsen lärde mig att ifrågasätta mina egna förutfattade meningar.",
+      "Hela upplevelsen lärde mig värdet av motståndskraft i stunder av kris.",
+      "Hela upplevelsen lärde mig att systemiska problem kräver systemiska lösningar."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Det första som hände var att ...",
+    "translation": "The first thing that happened was ...",
+    "b1": [
+      "Det första som hände var att elen slocknade.",
+      "Det första som hände var att tåget stannade.",
+      "Det första som hände var att regnet började falla.",
+      "Det första som hände var att dörren stängdes.",
+      "Det första som hände var att hundarna började skälla."
+    ],
+    "b2": [
+      "Det första som hände var att alla dokument raderades från servern.",
+      "Det första som hände var att larmet aktiverades i hela byggnaden.",
+      "Det första som hände var att chefen samlade alla anställda i salen.",
+      "Det första som hände var att leveransen blev försenad med två veckor.",
+      "Det första som hände var att pressen fick nys om nyheten."
+    ],
+    "c1": [
+      "Det första som hände var att valutakursen föll kraftigt på finansmarknaden.",
+      "Det första som hände var att förtroenderådet sammankallades till ett krisdatum.",
+      "Det första som hände var att kommunikationskanaler skars av helt.",
+      "Det första som hände var att nyckelpersoner lämnade sina poster i protest.",
+      "Det första som hände var att tillsynsmyndigheten inledde en granskning."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "När jag ser tillbaka nu kan jag se att ...",
+    "translation": "Looking back now, I can see that ...",
+    "b1": [
+      "När jag ser tillbaka nu kan jag se att det var ett bra beslut.",
+      "När jag ser tillbaka nu kan jag se att jag gjorde mitt bästa.",
+      "När jag ser tillbaka nu kan jag se att vi hade väldigt roligt.",
+      "När jag ser tillbaka nu kan jag se att tiden gick fort.",
+      "När jag ser tillbaka nu kan jag se att det var för dyrt."
+    ],
+    "b2": [
+      "När jag ser tillbaka nu kan jag se att vi borde ha agerat tidigare.",
+      "När jag ser tillbaka nu kan jag se att varningstecknen fanns där från början.",
+      "När jag ser tillbaka nu kan jag se hur mycket teamet har utvecklats.",
+      "När jag ser tillbaka nu kan jag se att det var ett nödvändigt steg.",
+      "När jag ser tillbaka nu kan jag se att misstaget lärde oss mycket."
+    ],
+    "c1": [
+      "När jag ser tillbaka nu kan jag se att händelsen var vändpunkten för hela rörelsen.",
+      "När jag ser tillbaka nu kan jag se att våra antaganden byggde på felaktig data.",
+      "När jag ser tillbaka nu kan jag se de strukturella mönster som styrde besluten.",
+      "När jag ser tillbaka nu kan jag se hur krisen la grunden för framtida innovation.",
+      "När jag ser tillbaka nu kan jag se att kompromissen var oundviklig under rådande omständigheter."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Jag kände mig helt ...",
+    "translation": "I felt completely ...",
+    "b1": [
+      "Jag kände mig helt trött efter resan.",
+      "Jag kände mig helt glad över beskedet.",
+      "Jag kände mig helt ensam i den stora staden.",
+      "Jag kände mig helt säker på mitt svar.",
+      "Jag känner mig helt mätt efter maten."
+    ],
+    "b2": [
+      "Jag kände mig helt överväldigad av allt stöd vi fick.",
+      "Jag kände mig helt ställd inför den svåra frågan.",
+      "Jag kände mig helt maktlös i den uppkomna situationen.",
+      "Jag kände mig helt lättad när beskedet äntligen kom.",
+      "Jag kände mig helt dränerad på energi efter veckan."
+    ],
+    "c1": [
+      "Jag kände mig helt främmandegjord inför organisationens nya kultur.",
+      "Jag kände mig helt paralyserad av det enorma ansvaret.",
+      "Jag kände mig helt exkluderad från den strategiska beslutsprocessen.",
+      "Jag kände mig helt desillusionerad efter att ha sett resultatet.",
+      "Jag kände mig helt stum inför den omfattande förödelsen."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Det var ögonblicket då ...",
+    "translation": "It was the moment when ...",
+    "b1": [
+      "Det var ögonblicket då regnet slutade.",
+      "Det var ögonblicket då jag hittade min väska.",
+      "Det var ögonblicket då tåget kom.",
+      "Det var ögonblicket då vi förstod allt.",
+      "Det var ögonblicket då ljuset tändes."
+    ],
+    "b2": [
+      "Det var ögonblicket då jag insåg att vi var tvungna att ge upp.",
+      "Det var ögonblicket då hela strategien ställdes på ända.",
+      "Det var ögonblicket då samarbetet äntligen började ge resultat.",
+      "Det var ögonblicket då misstroendet mellan parterna blev uppenbart.",
+      "Det var ögonblicket då vi överträffade vårt årliga försäljningsmål."
+    ],
+    "c1": [
+      "Det var ögonblicket då det politiska dödläget till slut bröts.",
+      "Det var ögonblicket då det paradigmskifte vi länge väntat på ägde rum.",
+      "Det var ögonblicket då institutionens trovärdighet urholkades helt.",
+      "Det var ögonblicket då forskarteamet insåg att de gjort en historisk upptäckt.",
+      "Det var ögonblicket då balansen mellan makterna förskjuts permanent."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "För att göra en lång historia kort, ...",
+    "translation": "To cut a long story short, ...",
+    "b1": [
+      "För att göra en lång historia kort, vi kom för sent.",
+      "För att göra en lång historia kort, vi köpte huset.",
+      "För att göra en lång historia kort, maten blev bränd.",
+      "För att göra en lång historia kort, jag tappade bort mobilen.",
+      "För att göra en lång historia kort, alla var nöjda."
+    ],
+    "b2": [
+      "För att göra en lång historia kort, projektet blev försenat med en månad.",
+      "För att göra en lång historia kort, vi var tvungna att byta leverantör.",
+      "För att göra en lång historia kort, budgeten överskreds med tjugo procent.",
+      "För att göra en lång historia kort, vi kom överens om en ny plan.",
+      "För att göra en lång historia kort, företaget lyckades vända förlust till vinst."
+    ],
+    "c1": [
+      "För att göra en lång historia kort, förhandlingarna kollapsade på grund av oenighet.",
+      "För att göra en lång historia kort, omstruktureringen ledde till ökad effektivitet.",
+      "För att göra en lång historia kort, initiativet rann ut i sanden till följd av resursbrist.",
+      "För att göra en lång historia kort, domstolen upphävde det tidigare beslutet.",
+      "För att göra en lång historia kort, reformen misslyckades med att nå sina primära mål."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Stämningen var mycket ...",
+    "translation": "The atmosphere was very ...",
+    "b1": [
+      "Stämningen var mycket god under middagen.",
+      "Stämningen var mycket lugn i parken.",
+      "Stämningen var mycket spänd före provet.",
+      "Stämningen var mycket trevlig på festen.",
+      "Stämningen var mycket konstig i rummet."
+    ],
+    "b2": [
+      "Stämningen var mycket tryckt under hela förhandlingen.",
+      "Stämningen var mycket entusiastisk när resultaten presenterades.",
+      "Stämningen var mycket professionell trots de svåra omständigheterna.",
+      "Stämningen var mycket avvaktande inför ledningens besked.",
+      "Stämningen var mycket kaosartad efter att larmet gick."
+    ],
+    "c1": [
+      "Stämningen var mycket hätsk under den parlamentariska debatten.",
+      "Stämningen var mycket uppskruvad inför det avgörande toppmötet.",
+      "Stämningen var mycket laddad med ömsesidig misstänksamhet mellan parterna.",
+      "Stämningen var mycket dämpad och präglad av sorrow efter beskedet.",
+      "Stämningen var mycket upplyftande och präglades av en känsla av historisk förändring."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Om jag var tvungen att beskriva det med ett ord skulle jag säga ...",
+    "translation": "If I had to describe it in one word, I'd say ...",
+    "b1": [
+      "Om jag var tvungen att beskriva det med ett ord skulle jag säga roligt.",
+      "Om jag var tvungen att beskriva det med ett ord skulle jag säga svårt.",
+      "Om jag var tvungen att beskriva det med ett ord skulle jag säga perfekt.",
+      "Om jag var tvungen att beskriva det med ett ord skulle jag säga tråkigt.",
+      "Om jag var tvungen att beskriva det med ett ord skulle jag säga annorlunda."
+    ],
+    "b2": [
+      "Om jag var tvungen att beskriva det med ett ord skulle jag säga utmanande.",
+      "Om jag var tvungen att beskriva det med ett ord skulle jag säga inspirerande.",
+      "Om jag var tvungen att beskriva det med ett ord skulle jag säga kaosartat.",
+      "Om jag var tvungen att beskriva det med ett ord skulle jag säga framgångsrikt.",
+      "Om jag var tvungen att beskriva det med ett ord skulle jag säga lärorikt."
+    ],
+    "c1": [
+      "Om jag var tvungen att beskriva det med ett ord skulle jag säga transformativt.",
+      "Om jag var tvungen att beskriva det med ett ord skulle jag säga katastrofalt.",
+      "Om jag var tvungen att beskriva det med ett ord skulle jag säga oundvikligt.",
+      "Om jag var tvungen att beskriva det med ett ord skulle jag säga revolutionerande.",
+      "Om jag var tvungen att beskriva det med ett ord skulle jag säga motsägelsefullt."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Det roligaste med det hela var ...",
+    "translation": "The funniest part of the whole thing was ...",
+    "b1": [
+      "Det roligaste med det hela var när hunden sprang bort.",
+      "Det roligaste med det hela var att ingen märkte något.",
+      "Det roligaste med det hela var hans ansiktsuttryck.",
+      "Det roligaste med det hela var när alla började dansa.",
+      "Det roligaste med det hela var att vi bar samma kläder."
+    ],
+    "b2": [
+      "Det roligaste med det hela var hur fel alla våra förutsägelser var.",
+      "Det roligaste med det hela var den absurda kedjan av missförstånd.",
+      "Det roligaste med det hela var att lösningen visade sig vara så enkel.",
+      "Det roligaste med det hela var hur chefen reagerade på överraskningen.",
+      "Det roligaste med det hela var att vi råkade hamna på fel möte."
+    ],
+    "c1": [
+      "Det roligaste med det hela var den totala kontrasten mellan teori och faktisk praxis.",
+      "Det roligaste med det hela var hur snabbt motståndarna ändrade sin retorik.",
+      "Det roligaste med det hela var den ironiska vändningen som inga experter kunde förutse.",
+      "Det roligaste med det hela var hur byråkratins stelbenthet ledde till sin egen orimlighet.",
+      "Det roligaste med det hela var att den mest osannolika hypotesen faktiskt visade sig stämma."
+    ]
+  }
+]

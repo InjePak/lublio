@@ -1,0 +1,169 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import Box2 from "../../../components/Box2.astro";
+import Button2 from "../../../components/Button2.astro";
+import SectionSwitcher from "../../../components/SectionSwitcher.astro";
+
+import chapters from "../../../assets/json/phrasebook/chapters.json";
+const chapters_a1 = chapters["a1"];
+const chapters_a2 = chapters["a2"];
+const chapters_b1 = chapters["b1"];
+const chapters_b2 = chapters["b2"];
+
+// Title
+const pageTitle = "Luxembourgish Phrasebook";
+
+// Section Switcher
+const tabItems = [
+  { id: "group-a1", label: "A1" },
+  { id: "group-a2", label: "A2" },
+  { id: "group-b1", label: "B1" },
+  { id: "group-b2", label: "B2" },
+];
+---
+
+<BaseLayout pageTitle={pageTitle + " | Lublio"}>
+  <Box2
+    title="Ausdrëck"
+    subtitle="Luxembourgish Phrasebook"
+    description="A multilingual conversation at a crossroads, accompanied by a flexible Hallo or Salut—where three languages dance together in one small heart, and every spoken word bridges cultures with quiet sophistication and layered belonging. This phrasebook captures the uniquely woven identity that defines everyday Luxembourgish."
+    language="lux"
+  />
+
+  <SectionSwitcher items={tabItems} />
+
+  <main>
+    <section class="group-a1">
+      <h2>
+        <span class="animated-underline-lux">CEFR A1</span>
+      </h2>
+      <ul>
+        {
+          chapters_a1.map((post: any) => (
+            <Button2
+              id={post.id}
+              title={post.lux}
+              subtitle={post.eng}
+              language="lux"
+              path={"/luxembourgish/phrasebook/a1/" + post.path}
+            />
+          ))
+        }
+      </ul>
+    </section>
+
+    <section class="group-a2">
+      <h2>
+        <span class="animated-underline-lux">CEFR A2</span>
+      </h2>
+      <ul>
+        {
+          chapters_a2.map((post: any) => (
+            <Button2
+              id={post.id}
+              title={post.lux}
+              subtitle={post.eng}
+              language="lux"
+              path={"/luxembourgish/phrasebook/a2/" + post.path}
+            />
+          ))
+        }
+      </ul>
+    </section>
+
+    <section class="group-b1">
+      <h2>
+        <span class="animated-underline-lux">CEFR B1</span>
+      </h2>
+      <ul>
+        {
+          chapters_b1.map((post: any) => (
+            <Button2
+              id={post.id}
+              title={post.lux}
+              subtitle={post.eng}
+              language="lux"
+              path={"/luxembourgish/phrasebook/b1/" + post.path}
+            />
+          ))
+        }
+      </ul>
+    </section>
+
+    <section class="group-b2">
+      <h2>
+        <span class="animated-underline-lux">CEFR B2</span>
+      </h2>
+      <ul>
+        {
+          chapters_b2.map((post: any) => (
+            <Button2
+              id={post.id}
+              title={post.lux}
+              subtitle={post.eng}
+              language="lux"
+              path={"/luxembourgish/phrasebook/b2/" + post.path}
+            />
+          ))
+        }
+      </ul>
+    </section>
+  </main>
+</BaseLayout>
+
+<style>
+  section {
+    padding-top: 1.5rem;
+  }
+
+  section > ul {
+    display: grid;
+    height: 100%;
+    grid-template-columns: 1fr;
+    justify-items: stretch;
+    gap: 1.5rem;
+    margin-bottom: 0rem;
+  }
+
+  @media (max-width: 1280px) {
+    section > h2 {
+      margin-left: 1rem;
+    }
+
+    section > ul {
+      display: flex;
+      flex-direction: column;
+      height: 100%;
+      gap: 0rem;
+      margin-bottom: 0rem;
+    }
+  }
+</style>
+
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    const selectors = [
+      ".animated-underline",
+      ".animated-underline-eng",
+      ".animated-underline-fra",
+      ".animated-underline-deu",
+      ".animated-underline-rus",
+      ".animated-underline-esp",
+      ".animated-underline-ita",
+      ".animated-underline-nld",
+      ".animated-underline-swe",
+      ".animated-underline-dan",
+      ".animated-underline-lux",
+      ".animated-underline-tur",
+      ".animated-underline-pol",
+      ".animated-underline-ces",
+      ".animated-underline-hun",
+      ".animated-underline-heb",
+      ".animated-underline-kaz",
+    ];
+
+    document.querySelectorAll(selectors.join(", ")).forEach((el) => {
+      el.classList.add("is-active");
+    });
+  });
+</script>

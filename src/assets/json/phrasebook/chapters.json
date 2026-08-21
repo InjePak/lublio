@@ -12,7 +12,11 @@
       "pol": "Przedstawienie się",
       "ces": "Představení se",
       "hun": "Bemutatkozás",
-      "tur": "Kendini tanıtma"
+      "tur": "Kendini tanıtma",
+      "nld": "Zichzelf voorstellen",
+      "swe": "Självpresentation",
+      "dan": "Præsentation af sig selv",
+      "lux": "Sich virstellen"
     },
     {
       "id": 2,
@@ -26,7 +30,11 @@
       "pol": "Powitania i etykieta",
       "ces": "Pozdravy a etiketa",
       "hun": "Köszönés és etikett",
-      "tur": "Selamlaşma ve nezaket"
+      "tur": "Selamlaşma ve nezaket",
+      "nld": "Begroetingen en omgangsvormen",
+      "swe": "Hälsningar och vett och etikett",
+      "dan": "Hilsener og god opførsel",
+      "lux": "Begréissung a Manieren"
     },
     {
       "id": 3,
@@ -40,7 +48,11 @@
       "pol": "Rodzina i przyjaciele",
       "ces": "Rodina a přátelé",
       "hun": "Család és barátok",
-      "tur": "Aile ve arkadaşlar"
+      "tur": "Aile ve arkadaşlar",
+      "nld": "Familie en vrienden",
+      "swe": "Familj och vänner",
+      "dan": "Familie og venner",
+      "lux": "Famill a Frënn"
     },
     {
       "id": 4,
@@ -54,7 +66,11 @@
       "pol": "Liczby i czas",
       "ces": "Čísla a čas",
       "hun": "Számok és idő",
-      "tur": "Sayılar ve zaman"
+      "tur": "Sayılar ve zaman",
+      "nld": "Getallen en tijd",
+      "swe": "Siffror och tid",
+      "dan": "Tal og tid",
+      "lux": "Zuelen an Zäit"
     },
     {
       "id": 5,
@@ -68,7 +84,11 @@
       "pol": "Ulubione rzeczy",
       "ces": "Oblíbené věci",
       "hun": "Kedvencek",
-      "tur": "Favoriler"
+      "tur": "Favoriler",
+      "nld": "Favorieten",
+      "swe": "Favoriter",
+      "dan": "Favoritter",
+      "lux": "Favoritten"
     },
     {
       "id": 6,
@@ -82,7 +102,11 @@
       "pol": "Mój dom",
       "ces": "Můj domov",
       "hun": "Otthonom",
-      "tur": "Evim"
+      "tur": "Evim",
+      "nld": "Mijn thuis",
+      "swe": "Mitt hem",
+      "dan": "Mit hjem",
+      "lux": "Mäin Doheem"
     },
     {
       "id": 7,
@@ -96,7 +120,11 @@
       "pol": "Jedzenie i restauracje",
       "ces": "Jídlo a restaurace",
       "hun": "Ételek és éttermek",
-      "tur": "Yemek ve restoranlar"
+      "tur": "Yemek ve restoranlar",
+      "nld": "Eten en restaurants",
+      "swe": "Mat och restauranger",
+      "dan": "Mad og restauranter",
+      "lux": "Iessen a Restauranten"
     },
     {
       "id": 8,
@@ -110,7 +138,11 @@
       "pol": "Codzienna rutyna",
       "ces": "Denní režim",
       "hun": "Napi rutin",
-      "tur": "Günlük rutin"
+      "tur": "Günlük rutin",
+      "nld": "Dagelijkse routine",
+      "swe": "Dagliga rutiner",
+      "dan": "Daglig rutine",
+      "lux": "Alltagsroutine"
     },
     {
       "id": 9,
@@ -124,7 +156,11 @@
       "pol": "Ciało i zdrowie",
       "ces": "Tělo a zdraví",
       "hun": "Test és egészség",
-      "tur": "Vücut ve sağlık"
+      "tur": "Vücut ve sağlık",
+      "nld": "Lichaam en gezondheid",
+      "swe": "Kropp och hälsa",
+      "dan": "Krop og helbred",
+      "lux": "Kierper a Gesondheet"
     },
     {
       "id": 10,
@@ -138,7 +174,11 @@
       "pol": "Zakupy",
       "ces": "Nakupování",
       "hun": "Vásárlás",
-      "tur": "Alışveriş"
+      "tur": "Alışveriş",
+      "nld": "Winkelen",
+      "swe": "Shopping",
+      "dan": "Indkøb",
+      "lux": "Akafen"
     },
     {
       "id": 11,
@@ -152,7 +192,11 @@
       "pol": "Pogoda",
       "ces": "Počasí",
       "hun": "Időjárás",
-      "tur": "Hava durumu"
+      "tur": "Hava durumu",
+      "nld": "Het weer",
+      "swe": "Väder",
+      "dan": "Vejr",
+      "lux": "Wieder"
     },
     {
       "id": 12,
@@ -166,7 +210,11 @@
       "pol": "Pytanie o drogę",
       "ces": "Ptaní se na cestu",
       "hun": "Útbaigazítás kérése",
-      "tur": "Yol sorma"
+      "tur": "Yol sorma",
+      "nld": "De weg vragen",
+      "swe": "Fråga efter vägen",
+      "dan": "Spørge om vej",
+      "lux": "Nom Wee froen"
     }
   ],
   "a2": [
@@ -182,7 +230,11 @@
       "pol": "Doświadczenia z przeszłości",
       "ces": "Minulé zkušenosti",
       "hun": "Múltbeli élmények",
-      "tur": "Geçmiş deneyimler"
+      "tur": "Geçmiş deneyimler",
+      "nld": "Ervaringen uit het verleden",
+      "swe": "Tidigare erfarenheter",
+      "dan": "Tidligere erfaringer",
+      "lux": "Erfarungen aus der Vergaangenheet"
     },
     {
       "id": 2,
@@ -196,7 +248,11 @@
       "pol": "Praca i miejsce pracy",
       "ces": "Práce a pracoviště",
       "hun": "Munka és munkahely",
-      "tur": "İş ve çalışma ortamı"
+      "tur": "İş ve çalışma ortamı",
+      "nld": "Werk en werkplek",
+      "swe": "Arbete och arbetsplats",
+      "dan": "Arbejde og arbejdsplads",
+      "lux": "Aarbecht a Arbeitsplaz"
     },
     {
       "id": 3,
@@ -210,7 +266,11 @@
       "pol": "Podróże i zakwaterowanie",
       "ces": "Cestování a ubytování",
       "hun": "Utazás és szállás",
-      "tur": "Seyahat ve konaklama"
+      "tur": "Seyahat ve konaklama",
+      "nld": "Reizen en accommodatie",
+      "swe": "Resor och boende",
+      "dan": "Rejser og overnatning",
+      "lux": "Reesen an Ënnerkonft"
     },
     {
       "id": 4,
@@ -224,7 +284,11 @@
       "pol": "Zakupy i usługi",
       "ces": "Nakupování a služby",
       "hun": "Vásárlás és szolgáltatások",
-      "tur": "Alışveriş ve hizmetler"
+      "tur": "Alışveriş ve hizmetler",
+      "nld": "Winkelen en diensten",
+      "swe": "Shopping och tjänster",
+      "dan": "Indkøb og tjenester",
+      "lux": "Akafen a Servicer"
     },
     {
       "id": 5,
@@ -238,7 +302,11 @@
       "pol": "Zdrowie i szpital",
       "ces": "Zdraví a nemocnice",
       "hun": "Egészség és kórház",
-      "tur": "Sağlık ve hastane"
+      "tur": "Sağlık ve hastane",
+      "nld": "Gezondheid en ziekenhuis",
+      "swe": "Hälsa och sjukhus",
+      "dan": "Sundhed og hospital",
+      "lux": "Gesondheet an Spidol"
     },
     {
       "id": 6,
@@ -252,7 +320,11 @@
       "pol": "Plany i spotkania",
       "ces": "Plány a schůzky",
       "hun": "Tervek és találkozók",
-      "tur": "Planlar ve randevular"
+      "tur": "Planlar ve randevular",
+      "nld": "Plannen en afspraken",
+      "swe": "Planer och möten",
+      "dan": "Planer og aftaler",
+      "lux": "Pläng a Rendez-vousen"
     },
     {
       "id": 7,
@@ -266,7 +338,11 @@
       "pol": "Transport",
       "ces": "Doprava",
       "hun": "Közlekedés",
-      "tur": "Ulaşım"
+      "tur": "Ulaşım",
+      "nld": "Vervoer",
+      "swe": "Transport",
+      "dan": "Transport",
+      "lux": "Transport"
     },
     {
       "id": 8,
@@ -280,7 +356,11 @@
       "pol": "Wygląd i osobowość",
       "ces": "Vzhled a osobnost",
       "hun": "Külső és személyiség",
-      "tur": "Dış görünüş ve kişilik"
+      "tur": "Dış görünüş ve kişilik",
+      "nld": "Uiterlijk en persoonlijkheid",
+      "swe": "Utseende och personlighet",
+      "dan": "Udseende og personlighed",
+      "lux": "Ausgesinn a Perséinlechkeet"
     },
     {
       "id": 9,
@@ -294,7 +374,11 @@
       "pol": "Okolica i udogodnienia",
       "ces": "Sousedství a vybavení",
       "hun": "Környék és szolgáltatások",
-      "tur": "Mahalle ve tesisler"
+      "tur": "Mahalle ve tesisler",
+      "nld": "Buurt en voorzieningen",
+      "swe": "Grannskap och faciliteter",
+      "dan": "Nabolag og faciliteter",
+      "lux": "Noperschaft a Facilitäten"
     },
     {
       "id": 10,
@@ -308,7 +392,11 @@
       "pol": "Moda i styl",
       "ces": "Móda a styl",
       "hun": "Divat és stílus",
-      "tur": "Moda ve stil"
+      "tur": "Moda ve stil",
+      "nld": "Mode en stijl",
+      "swe": "Mode och stil",
+      "dan": "Mode og stil",
+      "lux": "Moud a Stil"
     },
     {
       "id": 11,
@@ -322,7 +410,11 @@
       "pol": "Festiwale i kultura",
       "ces": "Festivaly a kultura",
       "hun": "Fesztiválok és kultúra",
-      "tur": "Festivaller ve kültür"
+      "tur": "Festivaller ve kültür",
+      "nld": "Festivals en cultuur",
+      "swe": "Festivaler och kultur",
+      "dan": "Festivaler og kultur",
+      "lux": "Festivallen a Kultur"
     },
     {
       "id": 12,
@@ -336,7 +428,11 @@
       "pol": "Porównywanie",
       "ces": "Srovnávání",
       "hun": "Összehasonlítás",
-      "tur": "Karşılaştırma yapma"
+      "tur": "Karşılaştırma yapma",
+      "nld": "Vergelijkingen maken",
+      "swe": "Göra jämförelser",
+      "dan": "Mage sammenligninger",
+      "lux": "Vergläicher maachen"
     }
   ],
   "b1": [
@@ -352,7 +448,11 @@
       "pol": "Marzenia i nadzieje",
       "ces": "Sny a naděje",
       "hun": "Álmok és remények",
-      "tur": "Hayaller ve umutlar"
+      "tur": "Hayaller ve umutlar",
+      "nld": "Dromen en hopen",
+      "swe": "Drömmar och hopp",
+      "dan": "Drømme og håb",
+      "lux": "Dreim an Hoffnungen"
     },
     {
       "id": 2,
@@ -366,7 +466,11 @@
       "pol": "Rozwiązywanie problemów",
       "ces": "Řešení problémů",
       "hun": "Problémamegoldás",
-      "tur": "Problem çözme"
+      "tur": "Problem çözme",
+      "nld": "Probleemoplossing",
+      "swe": "Problemlösning",
+      "dan": "Problemløsning",
+      "lux": "Problemléisen"
     },
     {
       "id": 3,
@@ -380,7 +484,11 @@
       "pol": "Kino i literatura",
       "ces": "Kino a literatura",
       "hun": "Mozi és irodalom",
-      "tur": "Sinema ve edebiyat"
+      "tur": "Sinema ve edebiyat",
+      "nld": "Film en literatuur",
+      "swe": "Film och litteratur",
+      "dan": "Film og litteratur",
+      "lux": "Kino a Literatur"
     },
     {
       "id": 4,
@@ -394,7 +502,11 @@
       "pol": "Uczucia i psychologia",
       "ces": "Pocity a psychologie",
       "hun": "Érzések és pszichológia",
-      "tur": "Duygular ve psikoloji"
+      "tur": "Duygular ve psikoloji",
+      "nld": "Gevoelens en psychologie",
+      "swe": "Känslor och psykologi",
+      "dan": "Følelser og psykologi",
+      "lux": "Gefiller a Psychologie"
     },
     {
       "id": 5,
@@ -408,7 +520,11 @@
       "pol": "Problemy środowiskowe",
       "ces": "Environmentální problémy",
       "hun": "Környezetvédelmi kérdések",
-      "tur": "Çevresel sorunlar"
+      "tur": "Çevresel sorunlar",
+      "nld": "Milieuproblemen",
+      "swe": "Miljöfrågor",
+      "dan": "Miljøproblemer",
+      "lux": "Emweltproblemer"
     },
     {
       "id": 6,
@@ -422,7 +538,11 @@
       "pol": "Internet i technologia",
       "ces": "Internet a technologie",
       "hun": "Internet és technológia",
-      "tur": "İnternet ve teknoloji"
+      "tur": "İnternet ve teknoloji",
+      "nld": "Internet en technologie",
+      "swe": "Internet och teknik",
+      "dan": "Internet og teknologi",
+      "lux": "Internet an Technologie"
     },
     {
       "id": 7,
@@ -436,7 +556,11 @@
       "pol": "Edukacja i uczenie się",
       "ces": "Vzdělávání a učení",
       "hun": "Oktatás és tanulás",
-      "tur": "Eğitim ve öğrenme"
+      "tur": "Eğitim ve öğrenme",
+      "nld": "Onderwijs en leren",
+      "swe": "Utbildning och lärande",
+      "dan": "Uddannelse og læring",
+      "lux": "Educatioun a Léieren"
     },
     {
       "id": 8,
@@ -450,7 +574,11 @@
       "pol": "Historie z podróży",
       "ces": "Příběhy z cest",
       "hun": "Utazási történetek",
-      "tur": "Seyahat hikayeleri"
+      "tur": "Seyahat hikayeleri",
+      "nld": "Reisverhalen",
+      "swe": "Reseberättelser",
+      "dan": "Rejsefortællinger",
+      "lux": "Reisgeschichten"
     },
     {
       "id": 9,
@@ -464,7 +592,11 @@
       "pol": "Etyka zawodowa i postawa",
       "ces": "Pracovní etika a přístup",
       "hun": "Munkaetika és hozzáállás",
-      "tur": "İş etiği ve tutum"
+      "tur": "İş etiği ve tutum",
+      "nld": "Werkethiek en houding",
+      "swe": "Arbetsetik och inställning",
+      "dan": "Arbejdsetik og holdning",
+      "lux": "Aarbechtsethik an Astellung"
     },
     {
       "id": 10,
@@ -478,7 +610,11 @@
       "pol": "Tradycje i zwyczaje",
       "ces": "Tradice a zvyky",
       "hun": "Hagyományok és szokások",
-      "tur": "Gelenekler ve görenekler"
+      "tur": "Gelenekler ve görenekler",
+      "nld": "Tradities en gewoonten",
+      "swe": "Traditioner och seder",
+      "dan": "Traditioner og skikke",
+      "lux": "Traditiounen a Brauch"
     },
     {
       "id": 11,
@@ -492,7 +628,11 @@
       "pol": "Zdrowy tryb życia",
       "ces": "Zdravý životní styl",
       "hun": "Egészséges életmód",
-      "tur": "Sağlıklı yaşam"
+      "tur": "Sağlıklı yaşam",
+      "nld": "Gezond leven",
+      "swe": "Hälsosamt liv",
+      "dan": "Sund livsstil",
+      "lux": "Gesond Liewen"
     },
     {
       "id": 12,
@@ -506,7 +646,11 @@
       "pol": "Wyrażanie opinii",
       "ces": "Vyjadřování názorů",
       "hun": "Véleménynyilvánítás",
-      "tur": "Görüş bildirme"
+      "tur": "Görüş bildirme",
+      "nld": "Meningen uiten",
+      "swe": "Uttrycka åsikter",
+      "dan": "Udtrykke meninger",
+      "lux": "Meenung äußeren"
     }
   ],
   "b2": [
@@ -522,7 +666,11 @@
       "pol": "Problemy społeczne",
       "ces": "Sociální otázky",
       "hun": "Társadalmi kérdések",
-      "tur": "Sosyal meseleler"
+      "tur": "Sosyal meseleler",
+      "nld": "Maatschappelijke kwesties",
+      "swe": "Samhällsfrågor",
+      "dan": "Samfundsproblemer",
+      "lux": "Sozial Froen"
     },
     {
       "id": 2,
@@ -536,7 +684,11 @@
       "pol": "Rozwój zawodowy",
       "ces": "Profesní rozvoj",
       "hun": "Karrierfejlesztés",
-      "tur": "Kariyer gelişimi"
+      "tur": "Kariyer gelişimi",
+      "nld": "Loopbaanontwikkeling",
+      "swe": "Karriärutveckling",
+      "dan": "Karriereudvikling",
+      "lux": "Karriärsentwécklung"
     },
     {
       "id": 3,
@@ -550,7 +702,11 @@
       "pol": "Sytuacje hipotetyczne",
       "ces": "Hypotetické situace",
       "hun": "Hipotetikus helyzetek",
-      "tur": "Varsayımsal durumlar"
+      "tur": "Varsayımsal durumlar",
+      "nld": "Hypothetische situaties",
+      "swe": "Hypotetiska situationer",
+      "dan": "Hypotetiske situationer",
+      "lux": "Hypothetesch Situatiounen"
     },
     {
       "id": 4,
@@ -564,7 +720,11 @@
       "pol": "Media i reklama",
       "ces": "Média a reklama",
       "hun": "Média és reklám",
-      "tur": "Medya ve reklam"
+      "tur": "Medya ve reklam",
+      "nld": "Media en reclame",
+      "swe": "Media och reklam",
+      "dan": "Medier og reklame",
+      "lux": "Medien a Reklam"
     },
     {
       "id": 5,
@@ -578,7 +738,11 @@
       "pol": "Konflikty w społeczeństwie",
       "ces": "Konflikty ve společnosti",
       "hun": "Társadalmi konfliktusok",
-      "tur": "Toplumsal çatışmalar"
+      "tur": "Toplumsal çatışmalar",
+      "nld": "Matschappelijke conflicten",
+      "swe": "Samhällskonflikter",
+      "dan": "Konflikter i samfundet",
+      "lux": "Konflikter an der Gesellschaft"
     },
     {
       "id": 6,
@@ -592,7 +756,11 @@
       "pol": "Gospodarka i konsumpcja",
       "ces": "Ekonomika a spotřeba",
       "hun": "Gazdaság és fogyasztás",
-      "tur": "Ekonomi ve tüketim"
+      "tur": "Ekonomi ve tüketim",
+      "nld": "Economie en consumptie",
+      "swe": "Ekonomi och konsumtion",
+      "dan": "Økonomi og forbrug",
+      "lux": "Economie a Konsum"
     },
     {
       "id": 7,
@@ -606,7 +774,11 @@
       "pol": "Nauka i innowacje",
       "ces": "Věda a inovace",
       "hun": "Tudomány és innováció",
-      "tur": "Bilim ve inovasyon"
+      "tur": "Bilim ve inovasyon",
+      "nld": "Wetenschap en innovatie",
+      "swe": "Vetenskap och innovation",
+      "dan": "Videnskab og innovation",
+      "lux": "Wëssenschaft an Innovatioun"
     },
     {
       "id": 8,
@@ -620,7 +792,11 @@
       "pol": "Sztuka i estetyka",
       "ces": "Umění a estetika",
       "hun": "Művészet és esztétika",
-      "tur": "Sanat ve Estetik"
+      "tur": "Sanat ve Estetik",
+      "nld": "Kunst en esthetiek",
+      "swe": "Konst och estetik",
+      "dan": "Kunst og æstetik",
+      "lux": "Konscht an Ästhetik"
     },
     {
       "id": 9,
@@ -634,7 +810,11 @@
       "pol": "Społeczeństwo",
       "ces": "Společnost",
       "hun": "Társadalom",
-      "tur": "Toplum"
+      "tur": "Toplum",
+      "nld": "Maatschappij",
+      "swe": "Samhälle",
+      "dan": "Samfund",
+      "lux": "Gesellschaft"
     },
     {
       "id": 10,
@@ -648,7 +828,11 @@
       "pol": "Perswazja i negocjacje",
       "ces": "Přesvědčování a vyjednávání",
       "hun": "Meggyőzés és tárgyalás",
-      "tur": "İkna ve müzakere"
+      "tur": "İkna ve müzakere",
+      "nld": "Overtuigen en onderhandelen",
+      "swe": "Övertalning och förhandling",
+      "dan": "Overtalelse og forhandling",
+      "lux": "Iwwerzeegung a Verhandlung"
     },
     {
       "id": 11,
@@ -662,7 +846,11 @@
       "pol": "Pojęcia abstrakcyjne",
       "ces": "Abstraktní pojmy",
       "hun": "Absztrakt fogalmak",
-      "tur": "Soyut kavramlar"
+      "tur": "Soyut kavramlar",
+      "nld": "Abstracte concepten",
+      "swe": "Abstrakta koncept",
+      "dan": "Abstrakte koncepter",
+      "lux": "Abstrakt Konzepten"
     },
     {
       "id": 12,
@@ -676,7 +864,11 @@
       "pol": "Wystąpienia i prezentacje",
       "ces": "Přednášky a prezentace",
       "hun": "Előadások és prezentációk",
-      "tur": "Konuşmalar ve sunumlar"
+      "tur": "Konuşmalar ve sunumlar",
+      "nld": "Lezingen en presentaties",
+      "swe": "Föredrag och presentationer",
+      "dan": "Taler og præsentationer",
+      "lux": "Virträg a Presentatiounen"
     }
   ]
 }

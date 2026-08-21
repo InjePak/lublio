@@ -176,6 +176,10 @@ p {
 .animated-underline-rus,
 .animated-underline-tur,
 .animated-underline-ita,
+.animated-underline-nld,
+.animated-underline-swe,
+.animated-underline-dan,
+.animated-underline-lux,
 .animated-underline-pol,
 .animated-underline-ces,
 .animated-underline-hun,
@@ -192,6 +196,10 @@ p {
 .animated-underline-rus::after,
 .animated-underline-tur::after,
 .animated-underline-ita::after,
+.animated-underline-nld::after,
+.animated-underline-swe::after,
+.animated-underline-dan::after,
+.animated-underline-lux::after,
 .animated-underline-pol::after,
 .animated-underline-ces::after,
 .animated-underline-hun::after,
@@ -229,8 +237,24 @@ p {
   background-color: var(--indigo100);
 }
 
-.animated-underline-tur::after {
+.animated-underline-nld::after {
+  background-color: var(--orange100);
+}
+
+.animated-underline-swe::after {
+  background-color: var(--blue100);
+}
+
+.animated-underline-dan::after {
   background-color: var(--rose100);
+}
+
+.animated-underline-lux::after {
+  background-color: var(--cyan100);
+}
+
+.animated-underline-tur::after {
+  background-color: var(--red100);
 }
 
 .animated-underline-ita::after {
@@ -242,7 +266,7 @@ p {
 }
 
 .animated-underline-ces::after {
-  background-color: var(--blue100);
+  background-color: var(--purple100);
 }
 
 .animated-underline-hun::after {
@@ -262,6 +286,10 @@ p {
 .animated-underline-fra:hover,
 .animated-underline-deu:hover,
 .animated-underline-rus:hover,
+.animated-underline-nld:hover,
+.animated-underline-swe:hover,
+.animated-underline-dan:hover,
+.animated-underline-lux:hover,
 .animated-underline-tur:hover,
 .animated-underline-ita:hover,
 .animated-underline-pol:hover,
@@ -277,6 +305,10 @@ p {
 .animated-underline-fra.is-active::after,
 .animated-underline-deu.is-active::after,
 .animated-underline-rus.is-active::after,
+.animated-underline-nld.is-active::after,
+.animated-underline-swe.is-active::after,
+.animated-underline-dan.is-active::after,
+.animated-underline-lux.is-active::after,
 .animated-underline-tur.is-active::after,
 .animated-underline-ita.is-active::after,
 .animated-underline-pol.is-active::after,

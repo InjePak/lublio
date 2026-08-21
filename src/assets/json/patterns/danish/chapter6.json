@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Jeg vil gerne informere dig om, at ...",
+    "translation": "I'd like to inform you that ...",
+    "b1": [
+      "Jeg vil gerne informere dig om, at mødet er aflyst.",
+      "Jeg vil gerne informere dig om, at bussen er forsinket.",
+      "Jeg vil gerne informere dig om, at butikken lukker tidligt i dag.",
+      "Jeg vil gerne informere dig om, at din pakke er ankommet.",
+      "Jeg vil gerne informere dig om, at vi har skiftet lokale."
+    ],
+    "b2": [
+      "Jeg vil gerne informere dig om, at projektet har nået sin første milepæl.",
+      "Jeg vil gerne informere dig om, at der er trådt nye retningslinjer i kraft.",
+      "Jeg vil gerne informere dig om, at din ansøgning er modtaget og under behandling.",
+      "Jeg vil gerne informere dig om, at vi har opdateret vores systemer.",
+      "Jeg vil gerne informere dig om, at budgettet for næste år er godkendt."
+    ],
+    "c1": [
+      "Jeg vil gerne informere dig om, at bestyrelsen har vedtaget den nye strategi.",
+      "Jeg vil gerne informere dig om, at der er indgået en bindende aftale mellem parterne.",
+      "Jeg vil gerne informere dig om, at auditeringen af driftsforholdene er fuldført.",
+      "Jeg vil gerne informere dig om, at den administrative omstrukturering påbegyndes næste måned.",
+      "Jeg vil gerne informere dig om, at de lovmæssige ændringer vil få direkte indvirkning på vores procedurer."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Den vigtigste pointe her er, at ...",
+    "translation": "The key takeaway here is ...",
+    "b1": [
+      "Den vigtigste pointe her er, at vi skal passe på vores helbred.",
+      "Den vigtigste pointe her er, at det er vigtigt at spare penge.",
+      "Den vigtigste pointe her er, at vi skal hjælpe hinanden.",
+      "Den vigtigste pointe her er, at holdet skal træne mere.",
+      "Den vigtigste pointe her er, at opgaven skal afleveres til tiden."
+    ],
+    "b2": [
+      "Den vigtigste pointe her er, at kundetilfredshed altid bør være vores førsteprioritet.",
+      "Den vigtigste pointe her er, at god kommunikation kan forhindre mange konflikter.",
+      "Den vigtigste pointe her er, at kvalitet er vigtigere end kvantitet i denne proces.",
+      "Den vigtigste pointe her er, at vi skal tilpasse os de nye markedsbetingelser.",
+      "Den vigtigste pointe her er, at forebyggelse er bedre end helbredelse."
+    ],
+    "c1": [
+      "Den vigtigste pointe her er, at den langsigtede bæredygtighed overskygger de kortsigtede gevinster.",
+      "Den vigtigste pointe her er, at strukturelle reformer er uundgåelige for fremtidig vækst.",
+      "Den vigtigste pointe her er, at innovationskapaciteten afhænger af tværfagligt samarbejde.",
+      "Den vigtigste pointe her er, at usikkerheden i markedet kræver en mere fleksibel tilgang.",
+      "Den vigtigste pointe her er, at dataintegritet udgør fundamentet for alle vores fremtidige analyser."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "For at præcisere mener jeg, at ...",
+    "translation": "To clarify, I mean ...",
+    "b1": [
+      "For at præcisere mener jeg, at testen var for svær.",
+      "For at præcisere mener jeg, at vi skal starte tidligere.",
+      "For at præcisere mener jeg, at prisen er for høj.",
+      "For at præcisere mener jeg, at vi bør tage toget i stedet.",
+      "For at præcisere mener jeg, at maden var god."
+    ],
+    "b2": [
+      "For at præcisere mener jeg, at tidsplanen bør revideres grundigt.",
+      "For at præcisere mener jeg, at vi bør fokusere mere på vores kernekompetencer.",
+      "For at præcisere mener jeg, at forslaget mangler et realistisk budget.",
+      "For at præcisere mener jeg, at alle medarbejdere skal inddrages i beslutningen.",
+      "For at præcisere mener jeg, at aftalen bør gælde i et helt år."
+    ],
+    "c1": [
+      "For at præcisere mener jeg, at de metodiske forudsætninger ikke er tilstrækkeligt underbyggede.",
+      "For at præcisere mener jeg, at den foreslåede model undervurderer de komplekse risikofaktorer.",
+      "For at præcisere mener jeg, at initiativet kræver en dybere forankring i ledelsesstrukturen.",
+      "For at præcisere mener jeg, at den strategiske målsætning bør omformuleres helt.",
+      "For at præcisere mener jeg, at evalueringen bør tage højde for de socioøkonomiske følgevirkninger."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "I henhold til rapporten ...",
+    "translation": "According to the report, ...",
+    "b1": [
+      "I henhold til rapporten skal vi spare på energien.",
+      "I henhold til rapporten er vejret unormalt varmt.",
+      "I henhold til rapporten har mange mennesker fået nye jobs.",
+      "I henhold til rapporten kører togene hurtigere nu.",
+      "I henhold til rapporten spiser folk mere frugt."
+    ],
+    "b2": [
+      "I henhold til rapporten er salget steget markant i det seneste kvartal.",
+      "I henhold til rapporten oplever branchen en voksende mangel på arbejdskraft.",
+      "I henhold til rapporten skal sikkerhedsreglerne strammes op i næste måned.",
+      "I henhold til rapporten har projektet overskredet det oprindelige budget.",
+      "I henhold til rapporten vurderes kundernes tilfredshed til at være meget høj."
+    ],
+    "c1": [
+      "I henhold til rapporten forventes den makroøkonomiske vækst at stagnere i de kommende år.",
+      "I henhold til rapporten påvises en direkte sammenhæng mellem regulering og markedsstabilitet.",
+      "I henhold til rapporten udgør de klimatiske forandringer en eksistentiel trussel mod infrastrukturen.",
+      "I henhold til rapporten anbefales en omgående genovervejelse af den finansielle risikoprofil.",
+      "I henhold til rapporten indikerer de demografiske forskydninger et voksende pres på velfærdssystemet."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Lad mig omformulere det: ...",
+    "translation": "Let me rephrase that: ...",
+    "b1": [
+      "Lad mig omformulere det: vi har ikke mere tid.",
+      "Lad mig omformulere det: jeg kan ikke komme i dag.",
+      "Lad mig omformulere det: det var ikke det, jeg ville.",
+      "Lad mig omformulere det: prisen er alt for høj.",
+      "Lad mig omformulere det: vi skal gøre det i morgen."
+    ],
+    "b2": [
+      "Lad mig omformulere det: resultatet opfylder desværre ikke vores kvalitetskrav.",
+      "Lad mig omformulere det: vi bliver nødt til at prioritere vores ressourcer anderledes.",
+      "Lad mig omformulere det: problemet ligger i måden, vi kommunikerer på.",
+      "Lad mig omformulere det: vi kan kun gennemføre det, hvis vi får mere støtte.",
+      "Lad mig omformulere det: det handler i bund og grund om at reducere omkostningerne."
+    ],
+    "c1": [
+      "Lad mig omformulere det: den nuværende strategi er utilstrækkelig i forhold til markedsdynamikken.",
+      "Lad mig omformulere det: vi er nødt til at genoverveje vores grundlæggende antagelser om projektet.",
+      "Lad mig omformulere det: kompromiset indebærer betydelige utilsigtede konsekvenser.",
+      "Lad mig omformulere det: løsningen kræver en fundamental transformation af hele organisationen.",
+      "Lad mig omformulere det: uden yderligere kapitaltilførsel er initiativet ikke længere bæredygtigt."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Det, jeg mente at sige, var, at ...",
+    "translation": "What I meant to say was ...",
+    "b1": [
+      "Det, jeg mente at sige, var, at jeg var forsinket.",
+      "Det, jeg mente at sige, var, at jeg godt kan lide maden.",
+      "Det, jeg mente at sige, var, at du gjorde et godt stykke arbejde.",
+      "Det, jeg mente at sige, var, at vi skal tage af sted nu.",
+      "Det, jeg mente at sige, var, at jeg glemte min nøgle."
+    ],
+    "b2": [
+      "Det, jeg mente at sige, var, at vi måske bør udsætte beslutningen indtil næste uge.",
+      "Det, jeg mente at sige, var, at opgaven er mere kompliceret end først antaget.",
+      "Det, jeg mente at sige, var, at jeg sætter stor pris på jeres indsats.",
+      "Det, jeg mente at sige, var, at forslaget kræver et par justeringer.",
+      "Det, jeg mente at sige, var, at vi bør konsultere en ekspert før vi fortsætter."
+    ],
+    "c1": [
+      "Det, jeg mente at sige, var, at de underliggende forudsætninger måske er fejlbehæftede.",
+      "Det, jeg mente at sige, var, at initiativet bør vurderes i en bredere strategisk kontekst.",
+      "Det, jeg mente at sige, var, at vi risikerer at underminere vores egen markedsposition.",
+      "Det, jeg mente at sige, var, at den foreslåede metode mangler videnskabelig evidens.",
+      "Det, jeg mente at sige, var, at omkostningerne vil overstige de forventede synergigevinster."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Den nuværende status er, at ...",
+    "translation": "The current status is that ...",
+    "b1": [
+      "Den nuværende status er, at arbejdet er næsten færdigt.",
+      "Den nuværende status er, at vi venter på bussen.",
+      "Den nuværende status er, at alle har betalt.",
+      "Den nuværende status er, at butikken er lukket.",
+      "Den nuværende status er, at vi søger en ny medarbejder."
+    ],
+    "b2": [
+      "Den nuværende status er, at første fase af projektet er gennemført med succes.",
+      "Den nuværende status er, at vi afventer godkendelse fra ledelsen.",
+      "Den nuværende status er, at forhandlingerne er midlertidigt sat på pause.",
+      "Den nuværende status er, at alle mål for dette kvartal er blevet nået.",
+      "Den nuværende status er, at problemet med systemet er blevet løst."
+    ],
+    "c1": [
+      "Den nuværende status er, at de juridiske drøftelser har nået en afgørende fase.",
+      "Den nuværende status er, at auditeringen har afdækket mindre uregelmæssigheder i regnskabet.",
+      "Den nuværende status er, at implementingen af reformen afventer parlamentarisk godkendelse.",
+      "Den nuværende status er, at konsortiummet har færdiggjort den indledende gennemvisningsfase.",
+      "Den nuværende status er, at risikovurderingen behandles i direktionen."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Med andre ord ...",
+    "translation": "In other words, ...",
+    "b1": [
+      "Med andre ord er vi for sent på den.",
+      "Med andre ord skal vi betale ekstra.",
+      "Med andre ord var det en god dag.",
+      "Med andre ord vil de ikke komme.",
+      "Med andre ord skal du gøre det om."
+    ],
+    "b2": [
+      "Med andre ord skal vi reducere vores udgifter væsentligt i år.",
+      "Med andre ord har vi opnået alle vores planlagte resultater.",
+      "Med andre ord kræver projektet en helt ny tilgang.",
+      "Med andre ord er kunden meget tilfreds med løsningen.",
+      "Med andre ord er aftalen gældende fra og med i dag."
+    ],
+    "c1": [
+      "Med andre ord er den nuværende forretningsmodel blevet forældet i det digitale landskab.",
+      "Med andre ord står vi over for en fundamental strukturel udfordring.",
+      "Med andre ord vil de foreslåede besparelser svække vores konkurrenceevne på lang sigt.",
+      "Med andre ord har initiativet forfejlet sin oprindelige strategiske hensigt.",
+      "Med andre ord er det absolut nødvendigt at etablere nye institutionelle rammer."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Blot for at sikre, at vi er helt enige, ...",
+    "translation": "Just to make sure we're on the same page, ...",
+    "b1": [
+      "Blot for at sikre, at vi er helt enige, mødes vi klokken otte.",
+      "Blot for at sikre, at vi er helt enige, køber jeg billetterne.",
+      "Blot for at sikre, at vi er helt enige, tager du maden med.",
+      "Blot for at sikre, at vi er helt enige, skal opgaven laves i dag.",
+      "Blot for at sikre, at vi er helt enige, kører vi i min bil."
+    ],
+    "b2": [
+      "Blot for at sikre, at vi er helt enige, opsummerer jeg lige de næste skridt i projektet.",
+      "Blot for at sikre, at vi er helt enige, dækker dette budget alle planlagte udgifter.",
+      "Blot for at sikre, at vi er helt enige, gælder tidsplanen indtil næste måned.",
+      "Blot for at sikre, at vi er helt enige, tager du dig af kontakten til kunden.",
+      "Blot for at sikre, at vi er helt enige, vil rapporten blive sendt ud i morgen."
+    ],
+    "c1": [
+      "Blot for at sikre, at vi er helt enige, omfatter aftalen også de immaterielle rettigheder.",
+      "Blot for at sikre, at vi er helt enige, er ansvarsfordelingen mellem parterne klart defineret.",
+      "Blot for at sikre, at vi er helt enige, er målsætningen om fuld overensstemmelse uændret.",
+      "Blot for at sikre, at vi er helt enige, gælder de økonomiske forudsætninger under hele forløbet.",
+      "Blot for at sikre, at vi er helt enige, involverer denne beslutning ingen yderligere forpligtelser."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Dette bekræfter, at ...",
+    "translation": "This confirms that ...",
+    "b1": [
+      "Dette bekræfter, at toget kører til tiden.",
+      "Dette bekræfter, at vi har bestilt bordet.",
+      "Dette bekræfter, at din ansøgning er modtaget.",
+      "Dette bekræfter, at skolen er lukket i morgen.",
+      "Dette bekræfter, at jeg har betalt regningen."
+    ],
+    "b2": [
+      "Dette bekræfter, at vores nye strategi virker efter hensigten.",
+      "Dette bekræfter, at der er stor efterspørgsel på vores produkter.",
+      "Dette bekræfter, at testen ikke viste nogen alvorlige fejl.",
+      "Dette bekræfter, at holdet har opnået det ønskede resultat.",
+      "Dette bekræfter, at aftalen træder i kraft umiddelbart."
+    ],
+    "c1": [
+      "Dette bekræfter, at de teoretiske antagelser er i overensstemmelse med de empiri baserede data.",
+      "Dette bekræfter, at de foretagne investeringer har genereret det forventede afkast.",
+      "Dette bekræfter, at organisationen besidder den fornødne omstillingsevne.",
+      "Dette bekræfter, at de implementerede sikkerhedsforanstaltninger er fuldt tilstrækkelige.",
+      "Dette bekræfter, at markedsudviklingen følger de langsigtede prognoser."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Tillad mig at uddybe ...",
+    "translation": "Allow me to elaborate on ...",
+    "b1": [
+      "Tillad mig at uddybe min idé.",
+      "Tillad mig at uddybe svaret på dit spørgsmål.",
+      "Tillad mig at uddybe planen for i morgen.",
+      "Tillad mig at uddybe grunden til mit valg.",
+      "Tillad mig at uddybe historien bag billedet."
+    ],
+    "b2": [
+      "Tillad mig at uddybe de vigtigste punkter i vores nye forretningsplan.",
+      "Tillad mig at uddybe årsagerne til denne pludselige ændring.",
+      "Tillad mig at uddybe, hvordan vi opnår vores målsætninger.",
+      "Tillad mig at uddybe de tekniske specifikationer i løsningen.",
+      "Tillad mig at uddybe fordelene ved det nye system."
+    ],
+    "c1": [
+      "Tillad mig at uddybe de komplekse teoretiske perspektiver bag analysen.",
+      "Tillad mig at uddybe de underliggende risikofaktorer i forbindelse med opkøbet.",
+      "Tillad mig at uddybe de socioøkonomiske konsekvenser af lovforslaget.",
+      "Tillad mig at uddybe de strategiske prioriteringer for den kommende femårsperiode.",
+      "Tillad mig at uddybe de metodiske overvejelser, der ligger til grund for resultaterne."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Detaljerne er som følger: ...",
+    "translation": "The details are as follows: ...",
+    "b1": [
+      "Detaljerne er som følger: mødet starter klokken ti.",
+      "Detaljerne er som følger: vi mødes ved stationen.",
+      "Detaljerne er som følger: bogen koster hundrede kroner.",
+      "Detaljerne er som følger: festen afholdes på lørdag.",
+      "Detaljerne er som følger: du skal medbringe dit pas."
+    ],
+    "b2": [
+      "Detaljerne er som følger: arbejdet opdeles i tre faser.",
+      "Detaljerne er som følger: leveringen finder sted inden ugens udgang.",
+      "Detaljerne er som følger: kurset omfatter ti moduler i alt.",
+      "Detaljerne er som følger: rabatten gælder kun for nye kunder.",
+      "Detaljerne er som følger: projektet udføres i tæt samarbejde med kommunen."
+    ],
+    "c1": [
+      "Detaljerne er som følger: kontrakten indeholder specifikke klausuler vedrørende opsigelse.",
+      "Detaljerne er som følger: midlerne vil blive fordelt i henhold til resultatbaserede kriterier.",
+      "Detaljerne er som følger: specifikationerne lever op til de nyeste EU-standarder.",
+      "Detaljerne er som følger: den administrative proces er struktureret i fire faser.",
+      "Detaljerne er som følger: vurderingen bygger på en omfattende kvantitativ analyse."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Det vigtige punkt her er ikke ..., men ...",
+    "translation": "The important point here is not ..., but ...",
+    "b1": [
+      "Det vigtige punkt her er ikke prisen, men kvaliteten.",
+      "Det vigtige punkt her er ikke at vinde, men at være med.",
+      "Det vigtige punkt her er ikke tiden, men resultatet.",
+      "Det vigtige punkt her er ikke stedet, men selskabet.",
+      "Det vigtige punkt her er ikke ordene, men handlingen."
+    ],
+    "b2": [
+      "Det vigtige punkt her er ikke de korte gevinster, men den langsigtede succes.",
+      "Det vigtige punkt her er ikke mængden af arbejde, men effektiviteten.",
+      "Det vigtige punkt her er ikke fejlen i sig selv, men hvordan vi lærer af den.",
+      "Det vigtige punkt her er ikke teorien, men den praktiske anvendelse.",
+      "Det vigtige punkt her er ikke omkostningerne, men den merværdi, vi skaber."
+    ],
+    "c1": [
+      "Det vigtige punkt her er ikke blot den teknologiske innovation, men dens etiske konsekvenser.",
+      "Det vigtige punkt her er ikke de umiddelbare symptomer, men de dybereliggende årsager.",
+      "Det vigtige punkt her er ikke de individuelle præstationer, men den kollektive synergi.",
+      "Det vigtige punkt her er ikke den formelle godkendelse, men den reelle implementering.",
+      "Det vigtige punkt her er ikke mængden af data, men evnen til at udlede præcise indsigter."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "For eksempel kan man overveje ...",
+    "translation": "For example, consider ...",
+    "b1": [
+      "For eksempel kan man overveje at rejse om sommeren.",
+      "For eksempel kan man overveje at spise mere grønt.",
+      "For eksempel kan man overveje at købe en brugt cykel.",
+      "For eksempel kan man overveje at læse denne bog.",
+      "For eksempel kan man overveje at tage bussen i stedet."
+    ],
+    "b2": [
+      "For eksempel kan man overveje at indføre fleksible arbejdstider på kontoret.",
+      "For eksempel kan man overveje at udlicitere visse opgaver til eksterne eksperter.",
+      "For eksempel kan man overveje at investere i mere energivenlige løsninger.",
+      "For eksempel kan man overveje at oprette en digital platform til kunderne.",
+      "For eksempel kan man overveje at afholde månedlige opfølgningsmøder."
+    ],
+    "c1": [
+      "For eksempel kan man overveje den langsigtede effekt på den regionale økonomi.",
+      "For eksempel kan man overveje de etiske implikationer ved brugen af kunstig intelligens.",
+      "For eksempel kan man overveje at omstrukturere hele den organisatoriske værdikæde.",
+      "For eksempel kan man overveje den historiske kontekst for de nuværende konflikter.",
+      "For eksempel kan man overveje at anvende alternative kvantitative metoder i undersøgelsen."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Kernen i sagen er, at ...",
+    "translation": "The bottom line is ...",
+    "b1": [
+      "Kernen i sagen er, at vi mangler penge.",
+      "Kernen i sagen er, at vi skal arbejde hårdere.",
+      "Kernen i sagen er, at toget er gået.",
+      "Kernen i sagen er, at vi er nødt til at hjælpe.",
+      "Kernen i sagen er, at alt er i orden."
+    ],
+    "b2": [
+      "Kernen i sagen er, at det nuværende projekt ikke længere er rentabelt.",
+      "Kernen i sagen er, at vi har brug for flere ressourcer til at nå målet.",
+      "Kernen i sagen er, at kunden ønsker en hurtigere levering.",
+      "Kernen i sagen er, at beslutningen ligger hos ledelsen.",
+      "Kernen i sagen er, at vi skal forbedre vores kommunikation i teamet."
+    ],
+    "c1": [
+      "Kernen i sagen er, at organisationen må tilpasse sig de globale markedsforskydninger.",
+      "Kernen i sagen er, at den nuværende strategi risikerer at underminere vores eksistensgrundlag.",
+      "Kernen i sagen er, at de økonomiske rammer kræver en umiddelbar prioritering af projekterne.",
+      "Kernen i sagen er, at tillid udgør den afgørende forudsætning for det videre samarbejde.",
+      "Kernen i sagen er, at manglende handling vil medføre betydelige konkurrencemæssige ulemper."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Lad os gennemgå de vigtigste konklusioner: ...",
+    "translation": "Let's review the main findings: ...",
+    "b1": [
+      "Lad os gennemgå de vigtigste konklusioner: testen var let.",
+      "Lad os gennemgå de vigtigste konklusioner: alle var glade.",
+      "Lad os gennemgå de vigtigste konklusioner: vi har brug for mere tid.",
+      "Lad os gennemgå de vigtigste konklusioner: bogen var god.",
+      "Lad os gennemgå de vigtigste konklusioner: maden smagte godt."
+    ],
+    "b2": [
+      "Lad os gennemgå de vigtigste konklusioner: undersøgelsen viser en høj kundetilfredshed.",
+      "Lad os gennemgå de vigtigste konklusioner: salget er steget i alle regioner.",
+      "Lad os gennemgå de vigtigste konklusioner: der er behov for mere uddannelse i teamet.",
+      "Lad os gennemgå de vigtigste konklusioner: processen kan gøres mere effektiv.",
+      "Lad os gennemgå de vigtigste konklusioner: budgettet er blevet overholdt."
+    ],
+    "c1": [
+      "Lad os gennemgå de vigtigste konklusioner: analysen indikerer et markant skift i forbrugeradfærden.",
+      "Lad os gennemgå de vigtigste konklusioner: datagrundlaget understøtter den opstillede hypotese.",
+      "Lad os gennemgå de vigtigste konklusioner: den nye model reducerer de operationelle risici væsentligt.",
+      "Lad os gennemgå de vigtigste konklusioner: der er konstateret en klar sammenhæng mellem faktorerne.",
+      "Lad os gennemgå de vigtigste konklusioner: rapporten anbefaler en omfattende revision af retningslinjerne."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "For at opsummere situationen ...",
+    "translation": "To sum up the situation, ...",
+    "b1": [
+      "For at opsummere situationen er alt klar nu.",
+      "For at opsummere situationen mangler vi kun én ting.",
+      "For at opsummere situationen var turen en succes.",
+      "For at opsummere situationen er vi klar til start.",
+      "For at opsummere situationen har alle det godt."
+    ],
+    "b2": [
+      "For at opsummere situationen står vi over for et par tekniske udfordringer.",
+      "For at opsummere situationen er projektet forsinket med to uger.",
+      "For at opsummere situationen er alle parter blevet enige om vilkårene.",
+      "For at opsummere situationen har vi opnået fremragende resultater på trods af udfordringerne.",
+      "For at opsummere situationen er budgettet næsten opbrugt."
+    ],
+    "c1": [
+      "For at opsummere situationen befinder vi os i en strategisk afgørende fase.",
+      "For at opsummere situationen har de eksterne faktorer skabt en usikker markedsposition.",
+      "For at opsummere situationen er der opnået enighed om de overordnede principper.",
+      "For at opsummere situationen udviser organisationen en høj grad af resiliens.",
+      "For at opsummere situationen er det nødvendigt at gribe ind over for de strukturelle problemer."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Min forståelse er, at ...",
+    "translation": "My understanding is that ...",
+    "b1": [
+      "Min forståelse er, at mødet starter nu.",
+      "Min forståelse er, at du tager med os.",
+      "Min forståelse er, at arbejdet er gjort.",
+      "Min forståelse er, at vi har en aftale.",
+      "Min forståelse er, at bussen kører snart."
+    ],
+    "b2": [
+      "Min forståelse er, at vi har fået grønt lys til at fortsætte med projektet.",
+      "Min forståelse er, at den nye kontrakt træder i kraft ved månedens udgang.",
+      "Min forståelse er, at alle afdelinger vil deltage i workshoppen.",
+      "Min forståelse er, at leverandøren har påtaget sig ansvaret for forsinkelsen.",
+      "Min forståelse er, at budgettet vil blive justeret i næste kvartal."
+    ],
+    "c1": [
+      "Min forståelse er, at bestyrelsen har godkendt den strategiske rammeaftale.",
+      "Min forståelse er, at de juridiske forhandlinger er nået til en afsluttende fase.",
+      "Min forståelse er, at den nye regulering vil få vidtrækkende konsekvenser for sektoren.",
+      "Min forståelse er, at konsortiummet vil finansiere den indledende markedsundersøgelse.",
+      "Min forståelse er, at der er opnået enighed om de væsentligste principper i aftalen."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Bare for at være helt klar, ...",
+    "translation": "Just to be clear, ...",
+    "b1": [
+      "Bare for at være helt klar, jeg kommer i morgen.",
+      "Bare for at være helt klar, dette er gratis.",
+      "Bare for at være helt klar, vi mødes klokken fem.",
+      "Bare for at være helt klar, du skal ikke betale nu.",
+      "Bare for at være helt klar, skolen er lukket."
+    ],
+    "b2": [
+      "Bare for at være helt klar, denne deadline kan ikke forlænges yderligere.",
+      "Bare for at være helt klar, tilbuddet gælder kun for nye kunder.",
+      "Bare for at være helt klar, alle skal udfylde denne formular senest i dag.",
+      "Bare for at være helt klar, vi overtager ikke det økonomiske ansvar.",
+      "Bare for at være helt klar, beslutningen er endelig og kan ikke ændres."
+    ],
+    "c1": [
+      "Bare for at være helt klar, denne aftale erstatter alle tidligere indgåede kontrakter.",
+      "Bare for at være helt klar, vurderingen bygger udelukkende på offentligt tilgængelige data.",
+      "Bare for at være helt klar, vi påtager os intet juridisk ansvar for eventuelle følgeskader.",
+      "Bare for at være helt klar, det strategiske fokus forbliver uændret under hele processen.",
+      "Bare for at være helt klar, de foreslåede ændringer kræver godkendelse fra samtlige interessenter."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Det endelige resultat var, at ...",
+    "translation": "The final outcome was ...",
+    "b1": [
+      "Det endelige resultat var, at vi vandt kampen.",
+      "Det endelige resultat var, at alle blev glade.",
+      "Det endelige resultat var, at vi kom for sent.",
+      "Det endelige resultat var, at prøven gik godt.",
+      "Det endelige resultat var, at bogen blev solgt."
+    ],
+    "b2": [
+      "Det endelige resultat var, at projektet blev gennemført inden for budgettet.",
+      "Det endelige resultat var, at vi indgik et succesfuldt samarbejde med kunden.",
+      "Det endelige resultat var, at forslaget blev vedtaget med et stort flertal.",
+      "Det endelige resultat var, at systemfejlen blev fuldstændigt udbedret.",
+      "Det endelige resultat var, at salget steg betydeligt i fjerde kvartal."
+    ],
+    "c1": [
+      "Det endelige resultat var, at forhandlingerne udmøntede sig i en banebrydende kompromisaftale.",
+      "Det endelige resultat var, at virksomheden sikrede sig en førende markedsposition i regionen.",
+      "Det endelige resultat var, at de implementerede tiltag afbødede de negative økonomiske konsekvenser.",
+      "Det endelige resultat var, at undersøgelsen påviste behovet for en omfattende strukturel reform.",
+      "Det endelige resultat var, at parterne opnåede fuld konsensus om de fremtidige prioriteringer."
+    ]
+  }
+]

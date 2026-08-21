@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Hver morgen bruger jeg som regel...",
+    "translation": "Every morning, I usually ...",
+    "b1": [
+      "Hver morgen bruger jeg som regel en time på at læse nyheder.",
+      "Hver morgen bruger jeg som regel at spise havregryn til morgenmad.",
+      "Hver morgen bruger jeg som regel at gå en kort tur i parken.",
+      "Hver morgen bruger jeg som regel at drikke en stor kop kaffe.",
+      "Hver morgen bruger jeg som regel at tjekke mine e-mails før arbejdet."
+    ],
+    "b2": [
+      "Hver morgen bruger jeg som regel tid på at planlægge min dag for at reducere stress.",
+      "Hver morgen bruger jeg som regel at lytte til en podcast om politik under min transport.",
+      "Hver morgen bruger jeg som regel et par minutter på meditation for at styrke mit fokus.",
+      "Hver morgen bruger jeg som regel at lave strækøvelser for at holde krop og sind frisk.",
+      "Hver morgen bruger jeg som regel at gennemgå dagens prioriteter med mine kolleger."
+    ],
+    "c1": [
+      "Hver morgen bruger jeg som regel den første time på fordybelse, før de daglige forstyrrelser melder sig.",
+      "Hver morgen bruger jeg som regel tid på at analysere de seneste markedstendenser inden arbejdsdagens start.",
+      "Hver morgen bruger jeg som regel en stund på refleksion for at opretholde en sund mental balance.",
+      "Hver morgen bruger jeg som regel at strukturere mine opgaver ud fra en streng prioriteringsmatrix.",
+      "Hver morgen bruger jeg som regel at skabe et roligt overblik over de strategiske udfordringer, vi står overfor."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Jeg har en tendens til at..., når...",
+    "translation": "I tend to ... when ...",
+    "b1": [
+      "Jeg har en tendens til at spise slik, når jeg er træt.",
+      "Jeg har en tendens til at glemme tiden, når jeg læser en god bog.",
+      "Jeg har en tendens til at drikke mere kaffe, når arbejdet er hårdt.",
+      "Jeg har en tendens til at gå hurtigt, når jeg har travlt.",
+      "Jeg har en tendens til at ringe til min mor, når jeg føler mig ensom."
+    ],
+    "b2": [
+      "Jeg har en tendens til at udsætte svære opgaver, når jeg føler mig overvældet.",
+      "Jeg har en tendens til at overanalysere situationen, når tingene ikke går som planlagt.",
+      "Jeg har en tendens til at trække mig tilbage, når der opstår konflikt på arbejdspladsen.",
+      "Jeg har en tendens til at bruge for mange penge, når jeg rejser i udlandet.",
+      "Jeg har en tendens til at miste tålmodigheden, når folk ikke overholder aftaler."
+    ],
+    "c1": [
+      "Jeg har en tendens til at påtage mig et uforholdsmæssigt stort ansvar, når projektfristerne nærmer sig.",
+      "Jeg har en tendens til at søge mod absolut kontrol, når usikkerheden i markedet stiger.",
+      "Jeg har en tendens til at blive overdrevent selvkritisk, når mine præstationer vurderes offentligt.",
+      "Jeg har en tendens til at nedtone egne synspunkter, når debatten tager en udpræget polariseret drejning.",
+      "Jeg har en tendens til at finde tryghed i strukturerede rammer, når komplekse forandringer udfordrer hverdagen."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Som regel gør jeg aldrig...",
+    "translation": "As a rule, I never ...",
+    "b1": [
+      "Som regel gør jeg aldrig det at spise aftensmad efter klokken otte.",
+      "Som regel gør jeg aldrig det at tjekke arbejdse-mails i weekenden.",
+      "Som regel gør jeg aldrig det at køre for stærkt på vejen.",
+      "Som regel gør jeg aldrig det at drikke kaffe sent om aftenen.",
+      "Som regel gør jeg aldrig det at låne penge af mine venner."
+    ],
+    "b2": [
+      "Som regel gør jeg aldrig det at træffe vigtige beslutninger uden grundig overvejelse.",
+      "Som regel gør jeg aldrig det at kritisere kolleger i andres påhør.",
+      "Som regel gør jeg aldrig det at gå på kompromis med min nattesøvn for arbejdets skyld.",
+      "Som regel gør jeg aldrig det at underskrive kontrakter uden at læse det med småt.",
+      "Som regel gør jeg aldrig det at lade personlige sympatier påvirke min faglige vurdering."
+    ],
+    "c1": [
+      "Som regel gør jeg aldrig det at drage forhastede konklusioner på et ufuldstændigt datagrundlag.",
+      "Som regel gør jeg aldrig det at ignorere modstridende argumenter under strategiske forhandlinger.",
+      "Som regel gør jeg aldrig det at fravige mine etiske principper for at opnå kortsigtet gevinst.",
+      "Som regel gør jeg aldrig det at lade følelsesmæssige reaktioner styre overordnede organisatoriske beslutninger.",
+      "Som regel gør jeg aldrig det at undervurdere de langsigtede konsekvenser af tilsyneladende mindre tiltag."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Jeg gør en dyd ud af at... mindst én gang om dagen.",
+    "translation": "I make it a point to ... at least once a day.",
+    "b1": [
+      "Jeg gør en dyd ud af at gå en tur mindst én gang om dagen.",
+      "Jeg gør en dyd ud af at drikke vand mindst én gang om dagen.",
+      "Jeg gør en dyd ud af at ringe til en ven mindst én gang om dagen.",
+      "Jeg gør en dyd ud af at rydde op på bordet mindst én gang om dagen.",
+      "Jeg gør en dyd ud af at læse en bog mindst én gang om dagen."
+    ],
+    "b2": [
+      "Jeg gør en dyd ud af at holde en pause fra skærmen mindst én gang om dagen.",
+      "Jeg gør en dyd ud af at anerkende en kollegas indsats mindst én gang om dagen.",
+      "Jeg gør en dyd ud af at lave en sund middag mindst én gang om dagen.",
+      "Jeg gør en dyd ud af at lære noget nyt mindst én gang om dagen.",
+      "Jeg gør en dyd ud af at reflektere over mine mål mindst én gang om dagen."
+    ],
+    "c1": [
+      "Jeg gør en dyd ud af at koble helt af fra digitale medier mindst én gang om dagen.",
+      "Jeg gør en dyd ud af at udfordre mine egne antagelser mindst én gang om dagen.",
+      "Jeg gør en dyd ud af at evaluere mine faglige prioriteter mindst én gang om dagen.",
+      "Jeg gør en dyd ud af at engagere mig i meningsfuld dialog mindst én gang om dagen.",
+      "Jeg gør en dyd ud af at fremme et positivt arbejdsmiljø mindst én gang om dagen."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Først og fremmest vil jeg altid...",
+    "translation": "Before anything else, I always ...",
+    "b1": [
+      "Først og fremmest vil jeg altid drikke et glas vand om morgenen.",
+      "Først og fremmest vil jeg altid tjekke vejret før jeg går ud.",
+      "Først og fremmest vil jeg altid lave en kop kaffe i køkkenet.",
+      "Først og fremmest vil jeg altid hilse pænt på mine kolleger.",
+      "Først og fremmest vil jeg altid rydde op i min taske."
+    ],
+    "b2": [
+      "Først og fremmest vil jeg altid prioritere min families trivsel i svære tider.",
+      "Først og fremmest vil jeg altid gennemgå dagens vigtigste møder grundigt.",
+      "Først og fremmest vil jeg altid sikre mig, at alle oplysninger er korrekte.",
+      "Først og fremmest vil jeg altid lytte til begge sider af en sag.",
+      "Først og fremmest vil jeg altid skabe overblik over de samlede omkostninger."
+    ],
+    "c1": [
+      "Først og fremmest vil jeg altid afdække de underliggende strukturelle årsager til problemet.",
+      "Først og fremmest vil jeg altid søge konsensus blandt de centrale interessenter.",
+      "Først og fremmest vil jeg altid vurdere de risici, der kan true projektets bæredygtighed.",
+      "Først og fremmest vil jeg altid sikre et stærkt værdimæssigt fundament for organisationen.",
+      "Først og fremmest vil jeg altid kritisk evaluere validiteten af de præsenterede påstande."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Jeg har vænnet mig til at...",
+    "translation": "I've gotten into the habit of ...",
+    "b1": [
+      "Jeg har vænnet mig til at stå tidligt op om morgenen.",
+      "Jeg har vænnet mig til at drikke te uden sukker.",
+      "Jeg har vænnet mig til at tage cyklen på arbejde.",
+      "Jeg har vænnet mig til at spise mere frugt hver dag.",
+      "Jeg har vænnet mig til at gå i seng klokken ti."
+    ],
+    "b2": [
+      "Jeg har vænnet mig til at skrive mine tanker ned i en journal hver aften.",
+      "Jeg har vænnet mig til at planlægge hele ugens indkøb om søndagen.",
+      "Jeg har vænnet mig til at tage trapperne i stedet for elevatoren.",
+      "Jeg har vænnet mig til at læse faglitteratur på et fremmedsprog.",
+      "Jeg har vænnet mig til at lægge telefonen væk i et andet rum under måltider."
+    ],
+    "c1": [
+      "Jeg har vænnet mig til systematisk at identificere potentielle flaskehalse i arbejdsprocessen.",
+      "Jeg har vænnet mig til regelmæssigt at revurdere mine personlige og faglige ambitionsniveauer.",
+      "Jeg har vænnet mig til at navigere i et komplekst og foranderligt markedsmiljø uden frygt.",
+      "Jeg har vænnet mig til altid at søge konstruktiv feedback for at fremme kontinuerlig læring.",
+      "Jeg har vænnet mig til at dekonstruere komplekse faglige problemstillinger i overskuelige elementer."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Min rutine indebærer typisk...",
+    "translation": "My routine typically involves ...",
+    "b1": [
+      "Min rutine indebærer typisk at tage en løbetur om morgenen.",
+      "Min rutine indebærer typisk at spise frokost med mine venner.",
+      "Min rutine indebærer typisk at læse lektier i to timer.",
+      "Min rutine indebærer typisk at rydde op i lejligheden.",
+      "Min rutine indebærer typisk at se tv efter aftensmaden."
+    ],
+    "b2": [
+      "Min rutine indebærer typisk at koordinere opgaver med mit team klokken ni.",
+      "Min rutine indebærer typisk at afsætte tid til personlig udvikling og læring.",
+      "Min rutine indebærer typisk at forberede morgendagens præsentationer om aftenen.",
+      "Min rutine indebærer typisk at gennemgå ugens budget for at holde styr på økonomien.",
+      "Min rutine indebærer typisk at dyrke motion tre til fire gange om ugen."
+    ],
+    "c1": [
+      "Min rutine indebærer typisk en dybdegående analyse af løbende projektmålinger.",
+      "Min rutine indebærer typisk strategiske afstemningsmøder med internationale partnere.",
+      "Min rutine indebærer typisk en kontinuerlig optimering af arbejdsgangene i afdelingen.",
+      "Min rutine indebærer typisk evaluering af organisationens langsigtede risikoprofil.",
+      "Min rutine indebærer typisk at skabe synergi mellem tværfaglige teams og interessenter."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "De fleste aftener tager jeg mig selv i at...",
+    "translation": "Most evenings, I find myself ...",
+    "b1": [
+      "De fleste aftener tager jeg mig selv i at se film i sofaen.",
+      "De fleste aftener tager jeg mig selv i at spise chokolade sent.",
+      "De fleste aftener tager jeg mig selv i at rulle på telefonen.",
+      "De fleste aftener tager jeg mig selv i at lytte til musik.",
+      "De fleste aftener tager jeg mig selv i at tænke på arbejdet."
+    ],
+    "b2": [
+      "De fleste aftener tager jeg mig selv i at læse nyheder om internationale forhold.",
+      "De fleste aftener tager jeg mig selv i at planlægge næste uges aktiviteter i detaljer.",
+      "De fleste aftener tager jeg mig selv i at reflektere over dagens udfordringer.",
+      "De fleste aftener tager jeg mig selv i at kigge efter nye rejsemål på internettet.",
+      "De fleste aftener tager jeg mig selv i at udskyde tidspunktet for at gå i seng."
+    ],
+    "c1": [
+      "De fleste aftener tager jeg mig selv i at gruble over komplekse teoretiske problemstillinger.",
+      "De fleste aftener tager jeg mig selv i at overveje nye strategiske initiativer for virksomheden.",
+      "De fleste aftener tager jeg mig selv i at analysere samfundsdebatten ud fra et kritisk perspektiv.",
+      "De fleste aftener tager jeg mig selv i at søge ny viden inden for mit faglige domæne.",
+      "De fleste aftener tager jeg mig selv i at afveje langsigtede personlige prioriteter over for faglige krav."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Det jeg ofte gør, er...",
+    "translation": "What I often do is ...",
+    "b1": [
+      "Det jeg ofte gør, er at tage bussen i stedet for at gå.",
+      "Det jeg ofte gør, er at skrive en huskeseddel til indkøb.",
+      "Det jeg ofte gør, er at drikke vand før måltider.",
+      "Det jeg ofte gør, er at hjælpe min familie i haven.",
+      "Det jeg ofte gør, er at ringe til en ven for at snakke."
+    ],
+    "b2": [
+      "Det jeg ofte gør, er at opdele store opgaver i mindre dele.",
+      "Det jeg ofte gør, er at søge råd hos mere erfarne kolleger.",
+      "Det jeg ofte gør, er at holde en kort pause for at genfinde fokuset.",
+      "Det jeg ofte gør, er at afsætte fast tid til motion i min kalender.",
+      "Det jeg ofte gør, er at dobbelttjekke vigtige dokumenter for fejl."
+    ],
+    "c1": [
+      "Det jeg ofte gør, er at etablere klare rammer for samarbejde på tværs af organisationen.",
+      "Det jeg ofte gør, er at udfordre etablerede dogmer for at åbne op for innovation.",
+      "Det jeg ofte gør, er at anvende kvantitative metoder til at understøtte kvalitative vurderinger.",
+      "Det jeg ofte gør, er at analysere historiske fortilfælde for at forudse fremtidige risici.",
+      "Det jeg ofte gør, er at facilitere strukturerede workshops for at fremme fælles forståelse."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Jeg springer sjældent det trin over at...",
+    "translation": "I rarely skip the step of ...",
+    "b1": [
+      "Jeg springer sjældent det trin over at børste tænder før sengetid.",
+      "Jeg springer sjældent det trin over at tjekke min taske om morgenen.",
+      "Jeg springer sjældent det trin over at vaske hænder før maden.",
+      "Jeg springer sjældent det trin over at slukke lyset i rummet.",
+      "Jeg springer sjældent det trin over at låse døren om aftenen."
+    ],
+    "b2": [
+      "Jeg springer sjældent det trin over at læse korrektur på vigtige e-mails.",
+      "Jeg springer sjældent det trin over at strække ud efter en hård træning.",
+      "Jeg springer sjældent det trin over at lave en klar dagsorden før et møde.",
+      "Jeg springer sjældent det trin over at sikkerhedskopiere mine filer på computeren.",
+      "Jeg springer sjældent det trin over at indhente feedback fra mit team."
+    ],
+    "c1": [
+      "Jeg springer sjældent det trin over at foretage en grundig konsekvensanalyse før en stor beslutning.",
+      "Jeg springer sjældent det trin over at validere mine kilders pålidelighed i dybden.",
+      "Jeg springer sjældent det trin over at afstemme forventninger med alle primære interessenter.",
+      "Jeg springer sjældent det trin over at gennemføre en systematisk risikovurdering af projektet.",
+      "Jeg springer sjældent det trin over at evaluere de langsigtede strategiske implikationer."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Det er et dagligt ritual for mig at...",
+    "translation": "It's a daily ritual for me to ...",
+    "b1": [
+      "Det er et dagligt ritual for mig at drikke en kop te om morgenen.",
+      "Det er et dagligt ritual for mig at gå en tur med hunden.",
+      "Det er et dagligt ritual for mig at læse nyheder på mobilen.",
+      "Det er et dagligt ritual for mig at vande blomsterne på altanen.",
+      "Det er et dagligt ritual for mig at skrive i min dagbog."
+    ],
+    "b2": [
+      "Det er et dagligt ritual for mig at lytte til en pædagogisk podcast under min pendlerafgang.",
+      "Det er et dagligt ritual for mig at lave ti minutters udstrækning om aftenen.",
+      "Det er et dagligt ritual for mig at gennemgå dagens præstationer og læringspunkter.",
+      "Det er et dagligt ritual for mig at holde en pause uden skærme midt på dagen.",
+      "Det er et dagligt ritual for mig at tilbringe kvalitetstid med min familie uden forstyrrelser."
+    ],
+    "c1": [
+      "Det er et dagligt ritual for mig at afsætte tid til uforstyrret intellektuel fordybelse.",
+      "Det er et dagligt ritual for mig at evaluere min personlige fremdrift mod langsigtede mål.",
+      "Det er et dagligt ritual for mig at engagere mig i refleksion over faglige etiske dilemmaer.",
+      "Det er et dagligt ritual for mig at scanne det internationale mediebillede for analytisk indsigt.",
+      "Det er et dagligt ritual for mig at kultivere en tilstand af mental klarhed og nærvær."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Som regel følger jeg det op med...",
+    "translation": "I usually follow that up with ...",
+    "b1": [
+      "Som regel følger jeg det op med et stort glas vand.",
+      "Som regel følger jeg det op med at tage et varmt bad.",
+      "Som regel følger jeg det op med en kort gåtur udenfor.",
+      "Som regel følger jeg det op med at spise en sund snack.",
+      "Som regel følger jeg det op med at ringe til en ven."
+    ],
+    "b2": [
+      "Som regel følger jeg det op med en kort evaluering af mødets resultater.",
+      "Som regel følger jeg det op med at skrive opfølgende notater til hele afdelingen.",
+      "Som regel følger jeg det op med tyve minutters let konditionstræning.",
+      "Som regel følger jeg det op med at gennemgå mine prioriteter for resten af dagen.",
+      "Som regel følger jeg det op med en grundig rengøring af arbejdsstationen."
+    ],
+    "c1": [
+      "Som regel følger jeg det op med en dybdegående syntese af de indsamlede observationer.",
+      "Som regel følger jeg det op med en strategisk vurdering af de mulige handlingsalternativer.",
+      "Som regel følger jeg det op med at udarbejde en udførlig rapport til ledelsesgruppen.",
+      "Som regel følger jeg det op med en kritisk gennemgang af de anvendte metodiske forudsætninger.",
+      "Som regel følger jeg det op med en systematisk overvågning af de implementerede tiltag."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Uden undtagelse, hver...",
+    "translation": "Without fail, every ...",
+    "b1": [
+      "Uden undtagelse, hver mandag går jeg til svømning.",
+      "Uden undtagelse, hver morgen spiser jeg morgenmad klokken syv.",
+      "Uden undtagelse, hver fredag ser vi en film i familien.",
+      "Uden undtagelse, hver weekend besøger jeg mine bedsteforældre.",
+      "Uden undtagelse, hver aften læser jeg en historie for børne."
+    ],
+    "b2": [
+      "Uden undtagelse, hver søndag planlægger jeg den kommende uges måltider og indkøb.",
+      "Uden undtagelse, hver måned afsætter jeg et beløb til min personlige opsparing.",
+      "Uden undtagelse, hver fredag gennemgår teamet ugens opnåede resultater og udfordringer.",
+      "Uden undtagelse, hver aften lægger jeg min telefon væk én time før sengetid.",
+      "Uden undtagelse, hver sommer tager jeg på en længere vandretur i naturen."
+    ],
+    "c1": [
+      "Uden undtagelse, hver kvartal gennemfører vi en omfattende revision af vores strategiske initiativer.",
+      "Uden undtagelse, hver uge afsætter jeg ressourcer til metodisk efteruddannelse og kompetenceudvikling.",
+      "Uden undtagelse, hver gang et projekt afsluttes, afholder vi en dybdegående evalueringssession.",
+      "Uden undtagelse, hver måned analyserer vi markedsudviklingen for at justere vores risikomodeller.",
+      "Uden undtagelse, hver arbejdsdag tilstræber jeg at opretholde en ubøjelig faglig standard."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Jeg prøver hele tiden at huske på at...",
+    "translation": "I'm constantly trying to remember to ...",
+    "b1": [
+      "Jeg prøver hele tiden at huske på at drikke nok vand i løbet af dagen.",
+      "Jeg prøver hele tiden at huske på at tage mine nøgler med mig.",
+      "Jeg prøver hele tiden at huske på at slukke for lyset i værelset.",
+      "Jeg prøver hele tiden at huske på at ringe til min søster.",
+      "Jeg prøver hele tiden at huske på at købe mælk i supermarkedet."
+    ],
+    "b2": [
+      "Jeg prøver hele tiden at huske på at holde pauser under lange arbejdsstræk.",
+      "Jeg prøver hele tiden at huske på at have en god kropsholdning foran computeren.",
+      "Jeg prøver hele tiden at huske på at gemme mine dokumenter regelmæssigt.",
+      "Jeg prøver hele tiden at huske på at lytte mere og tale mindre under drøftelser.",
+      "Jeg prøver hele tiden at huske på at fejre de små succeser i hverdagen."
+    ],
+    "c1": [
+      "Jeg prøver hele tiden at huske på at bevare et langsigtet perspektiv midt i akutte kriser.",
+      "Jeg prøver hele tiden at huske på at stille spørgsmålstegn ved mine egne underliggende antagelser.",
+      "Jeg prøver hele tiden at huske på at adskille faglige uenigheder fra personlige relationer.",
+      "Jeg prøver hele tiden at huske på at prioritere strategisk væsentlige opgaver frem for de blot hastende.",
+      "Jeg prøver hele tiden at huske på at opretholde empati i komplekse organisatoriske beslutningsprocesser."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Min vane opstod fordi...",
+    "translation": "My habit developed because ...",
+    "b1": [
+      "Min vane opstod fordi jeg gerne ville spare flere penge.",
+      "Min vane opstod fordi min mor altid lærte mig det.",
+      "Min vane opstod fordi jeg følte mig træt om morgenen.",
+      "Min vane opstod fordi jeg ville være mere sund.",
+      "Min vane opstod fordi jeg flyttede til en ny by."
+    ],
+    "b2": [
+      "Min vane opstod fordi jeg opdagede, hvor meget mere effektiv jeg blev af god planlægning.",
+      "Min vane opstod fordi min tidligere arbejdsplads krævede en høj grad af struktur.",
+      "Min vane opstod fordi jeg havde brug for en bedre balance mellem arbejde og fritid.",
+      "Min vane opstod fordi jeg ville reducere min daglige brug af sociale medier.",
+      "Min vane opstod fordi jeg ønskede at forbedre min fysiske og mentale udholdenhed."
+    ],
+    "c1": [
+      "Min vane opstod fordi jeg erkendte nødvendigheden af kognitiv genopladning i en hektisk hverdag.",
+      "Min vane opstod fordi komplekse projekter krævede en mere systematisk metodisk tilgang.",
+      "Min vane opstod fordi jeg søgte at minimere risikoen for kortsigtet tankegang i beslutningsprocessen.",
+      "Min vane opstod fordi erfaring lærte mig vigtigheden af forebyggende kvalitetssikring.",
+      "Min vane opstod fordi jeg tilstræbte at skabe en urokkelig faglig disciplin i mit arbejde."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Jeg afsætter som regel tid til...",
+    "translation": "I usually allocate time for ...",
+    "b1": [
+      "Jeg afsætter som regel tid til at læse i en bog hver aften.",
+      "Jeg afsætter som regel tid til at dyrke motion i weekenden.",
+      "Jeg afsætter som regel tid til at lave mad med mine venner.",
+      "Jeg afsætter som regel tid til at rydde op i mit værelse.",
+      "Jeg afsætter som regel tid til at slappe af efter arbejde."
+    ],
+    "b2": [
+      "Jeg afsætter som regel tid til at lære nye færdigheder gennem online kurser.",
+      "Jeg afsætter som regel tid til at netværke med andre i min branche.",
+      "Jeg afsætter som regel tid til at gennemgå mine økonomiske mål for måneden.",
+      "Jeg afsætter som regel tid til uforstyrret fordybelse i mine vigtigste opgaver.",
+      "Jeg afsætter som regel tid til at deltage i kulturelle arrangementer i byen."
+    ],
+    "c1": [
+      "Jeg afsætter som regel tid til dybdegående analyse af langsigtede strategiske scenarier.",
+      "Jeg afsætter som regel tid til mentorskab og faglig sparring med yngre kolleger.",
+      "Jeg afsætter som regel tid til kritisk refleksion over organisationens udviklingsretning.",
+      "Jeg afsætter som regel tid til at udforske tværfaglige teoretiske rammeværker.",
+      "Jeg afsætter som regel tid til at facilitere innovationsprocesser i mit fagmiljø."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Det er blevet helt naturligt for mig at...",
+    "translation": "It's become second nature to me to ...",
+    "b1": [
+      "Det er blevet helt naturligt for mig at cykle overalt i byen.",
+      "Det er blevet helt naturligt for mig at sortere mit affald derhjemme.",
+      "Det er blevet helt naturligt for mig at drikke kaffe uden mælk.",
+      "Det er blevet helt naturligt for mig at sige tak for maden.",
+      "Det er blevet helt naturligt for mig at stå tidligt op om søndagen."
+    ],
+    "b2": [
+      "Det er blevet helt naturligt for mig at tjekke fakta, før jeg deler nyheder videre.",
+      "Det er blevet helt naturligt for mig at prioritere opgaver ud fra deres vigtighed og hastighed.",
+      "Det er blevet helt naturligt for mig at kommunikere klart og direkte med mine kolleger.",
+      "Det er blevet helt naturligt for mig at genbruge materialer og passe på miljøet.",
+      "Det er blevet helt naturligt for mig at tage ansvar for mine egne fejl i arbejdet."
+    ],
+    "c1": [
+      "Det er blevet helt naturligt for mig at navigere ubesværet i komplekse organisatoriske hierarkier.",
+      "Det er blevet helt naturligt for mig at integrere bæredygtighedsovervejelser i alle beslutninger.",
+      "Det er blevet helt naturligt for mig at identificere strategiske synergier mellem forskellige projekter.",
+      "Det er blevet helt naturligt for mig at udvise kognitiv fleksibilitet under skiftende markedsvilkår.",
+      "Det er blevet helt naturligt for mig at bevare roen og overblikket i pressede krisesituationer."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Min typiske arbejdsdag starter med...",
+    "translation": "My typical workday starts with ...",
+    "b1": [
+      "Min typiske arbejdsdag starter med en god kop kaffe på kontoret.",
+      "Min typiske arbejdsdag starter med at tjekke min kalender for dagen.",
+      "Min typiske arbejdsdag starter med at sige godmorgen til kollegerne.",
+      "Min typiske arbejdsdag starter med at åbne min computer og e-mail.",
+      "Min typiske arbejdsdag starter med et kort kort møde i afdelingen."
+    ],
+    "b2": [
+      "Min typiske arbejdsdag starter med at gennemgå de mest hastende opgaver på min liste.",
+      "Min typiske arbejdsdag starter med et kort statusmøde med mit projektteam.",
+      "Min typiske arbejdsdag starter med at rydde op i indbakken for at skabe overblik.",
+      "Min typiske arbejdsdag starter med at prioritere dagens vigtigste leverancer.",
+      "Min typiske arbejdsdag starter med at læse de seneste faglige nyheder i branchen."
+    ],
+    "c1": [
+      "Min typiske arbejdsdag starter med en kritisk gennemgang af nøgletallene for afdelingens drift.",
+      "Min typiske arbejdsdag starter med en strategisk afstemning af dagens primære målsætninger.",
+      "Min typiske arbejdsdag starter med uforstyrret arbejdstid afsat til komplekse analysedokumenter.",
+      "Min typiske arbejdsdag starter med at koordinere indsatsen med internationale samarbejdspartnere.",
+      "Min typiske arbejdsdag starter med at afdække og adressere potentielle operationelle risici."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Jeg prøver at undgå... så meget som muligt.",
+    "translation": "I try to avoid ... as much as possible.",
+    "b1": [
+      "Jeg prøver at undgå at spise fastfood så meget som muligt.",
+      "Jeg prøver at undgå at komme for sent så meget som muligt.",
+      "Jeg prøver at undgå at bruge for mange penge så meget som muligt.",
+      "Jeg prøver at undgå at sidde ned hele dagen så mycket som muligt.",
+      "Jeg prøver at undgå sukker i hverdagen så meget som muligt."
+    ],
+    "b2": [
+      "Jeg prøver at undgå unødvendige afbrydelser i min arbejdstid så meget som muligt.",
+      "Jeg prøver at undgå at tage arbejdsrelaterede bekymringer med hjem så meget som muligt.",
+      "Jeg prøver at undgå konflikter, der ikke fører til noget konstruktivt, så meget som muligt.",
+      "Jeg prøver at undgå at bruge engangsplastik i hverdagen så meget som muligt.",
+      "Jeg prøver at undgå at træffe beslutninger på et ufuldstændigt grundlag så meget som muligt."
+    ],
+    "c1": [
+      "Jeg prøver at undgå overfladiske og ufunderede konklusioner i analysen så meget som muligt.",
+      "Jeg prøver at undgå organisatorisk silotænkning og manglende videndeling så meget som muligt.",
+      "Jeg prøver at undgå reaktive krisestyringsmønstre frem for proaktiv planlægning så meget som muligt.",
+      "Jeg prøver at undgå kortsigtet optimering på bekostning af langsigtede mål så meget som muligt.",
+      "Jeg prøver at undgå at gå på kompromis med den faglige stringens og kvalitet så meget som muligt."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Det sidste jeg gør før..., er...",
+    "translation": "The last thing I do before ... is ...",
+    "b1": [
+      "Det sidste jeg gør før jeg går i seng, er at slukke lyset.",
+      "Det sidste jeg gør før jeg tager afsted, er at tjekke min taske.",
+      "Det sidste jeg gør før jeg spiser, er at vaske mine hænder.",
+      "Det sidste jeg gør før jeg kører, er at tage sikkerhedssele på.",
+      "Det sidste jeg gør før weekenden, er at rydde op på bordet."
+    ],
+    "b2": [
+      "Det sidste jeg gør før jeg lader min computer op, er at gemme alle åbne dokumenter.",
+      "Det sidste jeg gør før jeg går fra arbejde, er at skrive huskeliste til i morgen.",
+      "Det sidste jeg gør før en præsentation, er at tage en dyb indånding og samle tankerne.",
+      "Det sidste jeg gør før jeg rejser, er at dobbelttjekke mine pas og billetter.",
+      "Det sidste jeg gør før et vigtigt møde, er at gennemgå dagsordenen en sidste gang."
+    ],
+    "c1": [
+      "Det sidste jeg gør før jeg godkender den endelige rapport, er at validere alle datakilder.",
+      "Det sidste jeg gør før vi lancerer projektet, er at gennemføre en risikovurdering af processen.",
+      "Det sidste jeg gør før jeg træffer den endelige beslutning, er at rådføre mig med eksperter.",
+      "Det sidste jeg gør før jeg afslutter den strategiske plan, er at sikre fuld opbakning fra ledelsen.",
+      "Det sidste jeg gør før evalueringen, er at samle alle kvalitative og kvantitative målinger."
+    ]
+  }
+]

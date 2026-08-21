@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Béid ... an ... si wichteg, well ...",
+    "translation": "Both ... and ... are important because ...",
+    "b1": [
+      "Béid, d'Musek an d'Konscht, si wichteg, well si eis Kreativitéit fërderen.",
+      "Béid, d'Aarbecht an d'Fräizäit, si wichteg, well mir e Gläichgewiicht brauchen.",
+      "Béid, d'Äppel an d'Biren, si wichteg, well si gesond sinn.",
+      "Béid, d'Liesen an d'Schreiwen, si wichteg fir d'Sprooch ze léieren.",
+      "Béid, d'Sonnen an de Reen, si wichteg fir d'Natur."
+    ],
+    "b2": [
+      "Béid, d'theoresch Wëssen an d'praktesch Erfahrung, si wichteg, well si sech ergänzen.",
+      "Béid, d'wirtschaftlech Entwécklung an de Écological-Schutz, si wichteg fir d'Zukunft.",
+      "Béid, d'Famill an de Beruf, si wichteg fir e glécklecht Liewen.",
+      "Béid, d'Inovatioun an d'Traditioun, si wichteg fir eis Kultur.",
+      "Béid, d'Kommunikatioun an d'Verständnis, si wichteg an der Politik."
+    ],
+    "c1": [
+      "Béid, d'individuell Fräiheet an d'kollektiv Verantwortung, si wichteg, well si eng demokratesch Gesellschaft definéieren.",
+      "Béid, d'technologesch Innovatioun an d'ethesch Iwwerleeung, si wichteg fir d'Mënschheet.",
+      "Béid, d'Strukturell Reformen an d'finanziell Investitiounen, si wichteg fir d'Kris ze bewältegen.",
+      "Béid, d'kulturell Diversitéit an d'sozial Kohäsioun, si wichteg fir den nationale Fridden.",
+      "Béid, d'wëssenschaftlech Evisenzen an d'ëffentlech Sensibiliséierung, si wichteg fir nohalteg Ännerungen."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Am Géigesaz zu ..., ass awer ...",
+    "translation": "Unlike ..., however, ...",
+    "b1": [
+      "Am Géigesaz zu mengem Brudder, léiere mech gär Friemsproochen.",
+      "Am Géigesaz zu gëschter, schéngt haut d'Sonn.",
+      "Am Géigesaz zu der Stad, ass et um Land ganz roueg.",
+      "Am Géigesaz zu mengem Papp, iessen ech léiwer Fësch.",
+      "Am Géigesaz zu dësem Film, war dee leschte vill méi spannend."
+    ],
+    "b2": [
+      "Am Géigesaz zu de meeschte Leit, fënnt hien dës Entscheedung falsch.",
+      "Am Géigesaz zu der vireger Etude, weisen dës Donnéeën e kloeren Trend.",
+      "Am Géigesaz zu de Firmen um Maart, hu mir eng aner Strategie.",
+      "Am Géigesaz zu menge Leeschtungen d'lescht Joer, sinn ech dëst Joer besser.",
+      "Am Géigesaz zu de politesche Verspriechen, huet sech d'Situatioun verschlechtert."
+    ],
+    "c1": [
+      "Am Géigesaz zu der dominanten Meenung an de Medie, muss een dës Fro méi déif analyséieren.",
+      "Am Géigesaz zu den historeschen Avantagen, steet d'Land elo virun enger grousser Erausfuerderung.",
+      "Am Géigesaz zu den initialen Prognosen, huet sech d'Projet als extrem rentabel erwisen.",
+      "Am Géigesaz zu der traditioneller Siichtweis, proposéiert dës Theorie e radikal neit Paradigm.",
+      "Am Géigesaz zu de strengen normativen Reegelen, bitt dës Method vill méi Flexibilitéit."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Den Haaptënnerscheed tëscht ... an ... ass, datt ...",
+    "translation": "The main difference between ... and ... is that ...",
+    "b1": [
+      "Den Haaptënnerscheed tëscht Sommer a Wanter ass, datt et am Summer waarm ass.",
+      "Den Haaptënnerscheed tëscht Kaffi an Téi ass, datt Kaffi méi Kaffein huet.",
+      "Den Haaptënnerscheed tëscht Auto an Zuch ass, datt den Zuch méi ëmweltfrëndlech ass.",
+      "Den Haaptënnerscheed tëscht hinnen ass, datt si a verschiddene Stied wunnen.",
+      "Den Haaptënnerscheed tëscht dësem Buch an deem aneren ass, datt dëst méi laang ass."
+    ],
+    "b2": [
+      "Den Haaptënnerscheed tëscht der privater an der ëffentlecher Schoul ass d'Finanzéierung.",
+      "Den Haaptënnerscheed tëscht deenen zwee Modeller ass, datt deen een energieeffikass ass.",
+      "Den Haaptënnerscheed tëscht dësen zwou Kulturen ass d'Perceptioun vun der Zäit.",
+      "Den Haaptënnerscheed tëscht deem alen an dem neie System ass d'Benotzerfrëndlechkeet.",
+      "Den Haaptënnerscheed tëscht hinne läit doran, wéi si mat Problemer ëmginn."
+    ],
+    "c1": [
+      "Den Haaptënnerscheed tëscht dësen zwou philosofesche Stréimungen ass d'Definitioun vum mënschleche Wëllen.",
+      "Den Haaptënnerscheed tëscht deenen zwee Wirtschaftsmodeller ass d'Intensitéit vun der Staatreguléierung.",
+      "Den Haaptënnerscheed tëscht de Strukturen ass d'Hierarchie an d'Decisiounsprozesser.",
+      "Den Haaptënnerscheed tëscht dësen Interpretatiounen ass den historesche Kontext.",
+      "Den Haaptënnerscheed tëscht dësem Konzept an deem vum Virgänger ass de Grad vun der Abstraktioun."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "... ass ähnlech wéi ..., well ...",
+    "translation": "... is similar to ... in that ...",
+    "b1": [
+      "Dës Stad ass ähnlech wéi meng Heemechtsstad, well si vill Parken huet.",
+      "Dëst Iessen ass ähnlech wéi Pizza, well et Kéis drop huet.",
+      "Dës Sprooch ass ähnlech wéi Däitsch, well d'Grammaire Deeler deelt.",
+      "Mäi Hond ass ähnlech wéi däin, well se béid ganz léif sinn.",
+      "Dëse Spill ass ähnlech wéi Fussball, well et mat engem Ball gespillt gëtt."
+    ],
+    "b2": [
+      "Dës Situatioun ass ähnlech wéi am leschte Joer, well mir keng Fongen hunn.",
+      "Dëst Land ass ähnlech wéi eis, well mir eng demokratesch Traditioun hunn.",
+      "Dës Method ass ähnlech wéi déi aner, well si op der selwechter Theorie baséiert.",
+      "D'Klima hei ass ähnlech wéi am Norde vum Land, well et oft reent.",
+      "Dëst Gesetz ass ähnlech wéi an anere Staaten, well et d'Rechter schützt."
+    ],
+    "c1": [
+      "Dës Kris ass ähnlech wéi déi an den 1930er Joren, well si duerch e Finanzschock ausgeléist gouf.",
+      "Dëse Prozess ass ähnlech wéi eng biologesch Evolutioun, well nëmmen déi stäerkst Iddien iwwerliewen.",
+      "Dës Struktur ass ähnlech wéi e neuralen Netzwierk, well si Informatiounen dezentraliséiert veraarbecht.",
+      "Dëse Phänomen ass ähnlech wéi eng Kettenreaktioun, well eng Ursaach direkt vill Konsequenzen huet.",
+      "Dës Approche ass ähnlech wéi d'Quantemechanik, well si mat Probabilitéiten amplaz vu Gewëssheeten schafft."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Wärend ... X huet, huet ... Y.",
+    "translation": "While ... has X, ... has Y.",
+    "b1": [
+      "Wärend meng Schwëster blo Aen huet, hunn ech gréng Aen.",
+      "Wärend dëst Haus e grousse Gaart huet, huet dat anert en Balkon.",
+      "Wärend hien en Auto huet, hëlt si leiwert den Zuch.",
+      "Wärend ech gär Kaffi drénken, drénkt si léiwer Téi.",
+      "Wärend den Dësch aus Holz ass, ass de Stull aus Plastik."
+    ],
+    "b2": [
+      "Wärend dës Stad vill Industrie huet, huet déi aner vill Touristen.",
+      "Wärend de Chef vill Erfahrung huet, huet den neie Mataarbechter modern Iddien.",
+      "Wärend de Süden dréche gëtt, huet den Norden genuch Reen.",
+      "Wärend dës Partei d'Steieren erhéije wëll, huet déi aner aner Pläng.",
+      "Wärend meng Aarbecht vill Kreativitéit verlaangt, huet seng Aarbecht eng routinéiert Struktur."
+    ],
+    "c1": [
+      "Wärend d'Industrienatiounen e grousse Kuelestoffofdrock hunn, hunn d'Entwécklungslänner d'Recht op wirtschaftleche Wuesstum.",
+      "Wärend d'Theorie eng elegant mathematesch Formuléierung huet, huet si keng empiresch Validatioun.",
+      "Wärend d'Majestéit vun der Konscht eng emotional Resonanz huet, huet d'Wëssenschaft eng objektiv Validitéit.",
+      "Wärend de private Secteur flexibel Kapitalstrukturen huet, huet de ëffentleche Secteur sozial Sécherheet.",
+      "Wärend d'Vergaangenheet irreversibel Fakten huet, huet d'Zukunft oppe Méiglechkeeten."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Op der enger Säit ..., awer op der anerer Säit, ...",
+    "translation": "On the one hand ..., but on the other hand, ...",
+    "b1": [
+      "Op der enger Säit ass et schéin an der Stad ze wunnen, awer op der anerer Säit ass et ganz laut.",
+      "Op der enger Säit wëll ech reesen, awer op der anerer Säit muss ech Sue spueren.",
+      "Op der enger Säit ass d'Aarbecht interessant, awer op der anerer Säit ass si ustrengend.",
+      "Op der enger Säit léieren ech gär, awer op der anerer Säit hunn ech vill Stress.",
+      "Op der enger Säit ass d'Iessen gutt, awer op der anerer Säit ass et deier."
+    ],
+    "b2": [
+      "Op der enger Säit schaaft d'Technologie nei Aarbechtsplazen, awer op der anerer Säit ersetzt si al Beroufer.",
+      "Op der enger Säit bréngt d'Globaliséierung méi Wueren, awer op der anerer Säit schued si de lokale Firmen.",
+      "Op der enger Säit musse mir d'Ëmwelt schützen, awer op der anerer Säit däerf d'Ekonomie net stoen.",
+      "Op der enger Säit bitt d'Stad vill Méiglechkeeten, awer op der anerer Säit ass d'Liewen do anonym.",
+      "Op der enger Säit ass d'Gesetz kloer, awer op der anerer Säit ginn et Ausnahmen."
+    ],
+    "c1": [
+      "Op der enger Säit garantéiert d'Digitaliséierung Effizienz, awer op der anerer Säit menacéiert si eis Dateschutzrechter.",
+      "Op der enger Säit erlaabt d'Monetärpolitik séier Reaktiounen, awer op der anerer Säit riskéiert si laangfristeg Inflatioun.",
+      "Op der enger Säit fördert d'Meritokratie d'Leeschtung, awer op der anerer Säit vergréissert si d'sozial Ongläichheeten.",
+      "Op der enger Säit stäerkt d'Integratioun d'Souveränitéit vum Block, awer op der anerer Säit schwächt si d'national Autonomie.",
+      "Op der enger Säit bitt d'Konscht absolut Fräiheet, awer op der anerer Säit riskéiert si hir gesellschaftlech Relevanz ze verléieren."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Am Verglach zu ..., ...",
+    "translation": "In comparison to ..., ...",
+    "b1": [
+      "Am Verglach zu gëschter ass et haut vill méi kal.",
+      "Am Verglach zu mengem ale Smartphone ass dësen vill méi séier.",
+      "Am Verglach zu Lëtzebuerg ass Frankräich vill méi grouss.",
+      "Am Verglach zu dësem Buch ass dat anert méi kuerz.",
+      "Am Verglach zu leschtem Joer hu mir méi Gäscht."
+    ],
+    "b2": [
+      "Am Verglach zu den Nopeschlänner sinn d'Liewenshaltungskäschten hei méi héich.",
+      "Am Verglach zu den éischte Méint ass d'Situatioun elo stabiliséiert.",
+      "Am Verglach zu anere Beroufer huet dësen eng besser Bezuelung.",
+      "Am Verglach zu de fréiere Joerzéngten hu mir vill méi Informatiounen.",
+      "Am Verglach zu den europäesche Standarde leist dës Stad ganz vill."
+    ],
+    "c1": [
+      "Am Verglach zu de strukturelle Krisen vum leschte Joerhonnert, ass dës Pandemie globaler vernetzt.",
+      "Am Verglach zu der klassescher Diplomatie, erlaabt d'sozial Medien eng direkt ëffentlech Kommunikatioun.",
+      "Am Verglach zu den etabléierten Institutiounen, handelen dës nei Bewegunge vill méi spontan.",
+      "Am Verglach zu de fréieren industrielle Revolutiounen, verläuft dës Transformatioun exponentiell méi séier.",
+      "Am Verglach zu der fréierer Reaktiounszäit, erwaarden d'Mäert haut eng direkt Politikanpassung."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Am Géigesaz dozou ass d'Situatioun mat ... ganz anescht.",
+    "translation": "Conversely, the situation with ... is quite different.",
+    "b1": [
+      "Am Géigesaz dozou ass d'Wieder an der Stad ganz anescht.",
+      "Am Géigesaz dozou ass d'Liewen um Land ganz anescht.",
+      "Am Géigesaz dozou ass d'Rees op d'Insel ganz anescht.",
+      "Am Géigesaz dozou ass d'Kultur do ganz anescht.",
+      "Am Géigesaz dozou war meng Erfahrung do ganz anescht."
+    ],
+    "b2": [
+      "Am Géigesaz dozou ass d'Situatioun um Aarbechtsmaart fir Jonk ganz anescht.",
+      "Am Géigesaz dozou ass d'Gesondheetssystem an deem Land ganz anescht.",
+      "Am Géigesaz dozou ass d'Haltung vun der Jugend zu dësem Thema ganz anescht.",
+      "Am Géigesaz dozou sinn d'Resultater vun der zweeter Schoul ganz anescht.",
+      "Am Géigesaz dozou war d'Reaktioun vun der Regierung ganz anescht."
+    ],
+    "c1": [
+      "Am Géigesaz dozou ass d'Demographie an de ländleche Regioune ganz anescht.",
+      "Am Géigesaz dozou ass den institutionelle Kader fir dës Innovatiounen ganz anescht.",
+      "Am Géigesaz dozou ass d'sozial Akzeptanz vun dëser Technologie ganz anescht.",
+      "Am Géigesaz dozou ass d'wirtschaftlech Resilienz vun dëse Secteuren ganz anescht.",
+      "Am Géigesaz dozou ass d'juristesch Interpretatioun vun dësem Artikel ganz anescht."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Si deelen e puer allgemeng Charakteristiken, wéi zum Beispill ...",
+    "translation": "They share several common characteristics, such as ...",
+    "b1": [
+      "Si deelen e puer allgemeng Charakteristiken, wéi zum Beispill d'Faarf an d'Gréisst.",
+      "Si deelen e puer allgemeng Charakteristiken, wéi zum Beispill d'Léift fir Déieren.",
+      "Si deelen e puer allgemeng Charakteristiken, wéi zum Beispill d'Hobbyen.",
+      "Si deelen e puer allgemeng Charakteristiken, wéi zum Beispill d'Sprooch an d'Kultur.",
+      "Si deelen e puer allgemeng Charakteristiken, wéi zum Beispill d'Interesse fir Sport."
+    ],
+    "b2": [
+      "Si deelen e puer allgemeng Charakteristiken, wéi zum Beispill d'Struktur an d'Zilsetzung.",
+      "Si deelen e puer allgemeng Charakteristiken, wéi zum Beispill d'Ofhängegkeet vun Energie.",
+      "Si deelen e puer allgemeng Charakteristiken, wéi zum Beispill d'Demographie an d'Economie.",
+      "Si deelen e puer allgemeng Charakteristiken, wéi zum Beispill d'Schwäch géint Inflatioun.",
+      "Si deelen e puer allgemeng Charakteristiken, wéi zum Beispill d'Geschicht an d'Traditiounen."
+    ],
+    "c1": [
+      "Si deelen e puer allgemeng Charakteristiken, wéi zum Beispill d'systemesch Ufällegkeet fir extern Schocken.",
+      "Si deelen e puer allgemeng Charakteristiken, wéi zum Beispill de Widderstand géint institutionell Reformen.",
+      "Si deelen e puer allgemeng Charakteristiken, wéi zum Beispill d'Zentraliséierung vun der Muecht an den Decisiounen.",
+      "Si deelen e puer allgemeng Charakteristiken, wéi zum Beispill d'Noutwennegkeet vun enger digitaler Moderniséierung.",
+      "Si deelen e puer allgemeng Charakteristiken, wéi zum Beispill den Asaz vu kënschtlecher Intelligenz."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Den Grad vun ... ass vill méi grouss an ... wéi an ...",
+    "translation": "The degree of ... is much greater in ... than in ...",
+    "b1": [
+      "Den Grad vun der Hëtzt ass vill méi grouss am Süden wéi am Norden.",
+      "Den Grad vun der Aschreiwe ass vill méi grouss an dësem Cours wéi an deem aneren.",
+      "Den Grad vun der Nofro ass vill méi grouss am Summer wéi am Wanter.",
+      "Den Grad vun der Gefor ass vill méi grouss hei wéi do.",
+      "Den Grad vun der Freed ass vill méi grouss bei de Kanner wéi bei den Erwuessenen."
+    ],
+    "b2": [
+      "Den Grad vun der Urbaniséierung ass vill méi grouss an den Haaptstied wéi op der Land.",
+      "Den Grad vun der Ofhängegkeet vum Internet ass vill méi grouss bei Jugendlechen wéi bei eeler Leit.",
+      "Den Grad vun der Diversitéit ass vill méi grouss an dëser Firma wéi an der aler.",
+      "Den Grad vun der Digitaliséierung ass vill méi grouss am Bankesecteur wéi am Handel.",
+      "Den Grad vun der Verschmotzung ass vill méi grouss an der Industriezone wéi am Park."
+    ],
+    "c1": [
+      "Den Grad vun der wirtschaftlecher Ongläichheet ass vill méi grouss an de Metropolen wéi an de ländleche Regiounen.",
+      "Den Grad vun der polaarer Polariséierung ass vill méi grouss an den digitale Medie wéi an der klassescher Politik.",
+      "Den Grad vun der Systemofhängegkeet ass vill méi grouss an eiser modernen Infrastruktur wéi fréier.",
+      "Den Grad vun der Bürokratiséierung ass vill méi grouss am ëffentleche Secteur wéi an Start-ups.",
+      "Den Grad vun der institutioneller Transparenz ass vill méi grouss an dësem Land wéi an den Nopeschstaaten."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Och wann ... wouer ass, musse mir och ... berécksichtegen.",
+    "translation": "Although ... is true, we must also consider ...",
+    "b1": [
+      "Och wann d'Wieder schéin ass, musse mir och op d'Kälte berécksichtegen.",
+      "Och wann d'Auto gutt ass, musse mir och de Präis berécksichtegen.",
+      "Och wann hien recht huet, musse mir och déi aner Meenung berécksichtegen.",
+      "Och wann d'Buch laang ass, musse mir och den Inhalt berécksichtegen.",
+      "Och wann et schwéier ass, musse mir och d'Zil berécksichtegen."
+    ],
+    "b2": [
+      "Och wann d'Economie wiisst, musse mir och d'sozial Ongläichheet berécksichtegen.",
+      "Och wann dës Method bëlleg ass, musse mir och d'Qualitéit berécksichtegen.",
+      "Och wann d'Leit méi schaffen, musse mir och d'Gesondheet berécksichtegen.",
+      "Och wann d'Gesetz gutt ass, musse mir och d'Ëmsetzung berécksichtegen.",
+      "Och wann d'Pläng super sinn, musse mir och d'Käschte berécksichtegen."
+    ],
+    "c1": [
+      "Och wann d'technologesch Effizienz bewisen ass, musse mir och déi ethesch Implikatioune berécksichtegen.",
+      "Och wann de kuerzfristege Gewënn grouss ass, musse mir och d'laangfristeg Noléissegkeet berécksichtegen.",
+      "Och wann d'Majoritéit dëst decidéiert huet, musse mir och d'Rechter vun de Minderheeten berécksichtegen.",
+      "Och wann d'global Statistike positiv sinn, musse mir och déi lokal Disparitéiten berécksichtegen.",
+      "Och wann d'Modeller stabil schéngen, musse mir och d'Potenzial fir schwarze Schwanen berécksichtegen."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "E wesentleche Punkt vun Divergenz ass ...",
+    "translation": "A significant point of divergence is ...",
+    "b1": [
+      "E wesentleche Punkt vun Divergenz ass d'Meenung iwwer d'Zäit.",
+      "E wesentleche Punkt vun Divergenz ass d'Wiel vun der Plaz.",
+      "E wesentleche Punkt vun Divergenz ass de Budget fir d'Rees.",
+      "E wesentleche Punkt vun Divergenz ass d'Zuel vun de Leit.",
+      "E wesentleche Punkt vun Divergenz ass d'Reiefolleg vun den Aufgaben."
+    ],
+    "b2": [
+      "E wesentleche Punkt vun Divergenz tëscht de Parteien ass d'Steierpolitik.",
+      "E wesentleche Punkt vun Divergenz ass d'Fro vun der Energieversuergung.",
+      "E wesentleche Punkt vun Divergenz an der Debatt ass d'Roll vum Staat.",
+      "E wesentleche Punkt vun Divergenz tëscht de Beroder ass d'Strategie.",
+      "E wesentleche Punkt vun Divergenz ass d'Interpretatioun vum Kontrakt."
+    ],
+    "c1": [
+      "E wesentleche Punkt vun Divergenz tëscht den Ekonomisten ass d'Bewäertung vun der Inflatioun.",
+      "E wesentleche Punkt vun Divergenz an de Verhandlungen ass d'Souveränitéitsfro.",
+      "E wesentleche Punkt vun Divergenz ass d'Definitioun vun de Mënscherechter am digitale Raum.",
+      "E wesentleche Punkt vun Divergenz tëscht de Richtlinnen ass den Tempo vun der Dekarboniséierung.",
+      "E wesentleche Punkt vun Divergenz an der Jurisprudenz ass d'Uwendung vun dësem Prinzip."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Si si grondsätzlech ähnlech, ausser fir ...",
+    "translation": "They are fundamentally similar, except for ...",
+    "b1": [
+      "Si si grondsätzlech ähnlech, ausser fir d'Faarf vum Auto.",
+      "Si si grondsätzlech ähnlech, ausser fir d'Gréisst vun de Stécker.",
+      "Si si grondsätzlech ähnlech, ausser fir de Präis.",
+      "Si si grondsätzlech ähnlech, ausser fir d'Zäit wou se opmaachen.",
+      "Si si grondsätzlech ähnlech, ausser fir de Geschmaach."
+    ],
+    "b2": [
+      "Si si grondsätzlech ähnlech, ausser fir e puer kleng Detailer am Design.",
+      "Si si grondsätzlech ähnlech, ausser fir d'Bedingunge vum Kontrakt.",
+      "Si si grondsätzlech ähnlech, ausser fir de Grad vun der Autonomie.",
+      "Si si grondsätzlech ähnlech, ausser fir d'Zuel vun de Mataarbechter.",
+      "Si si grondsätzlech ähnlech, ausser fir d'Zilpublikum."
+    ],
+    "c1": [
+      "Si si grondsätzlech ähnlech, ausser fir d'Aart a Weis wéi d'Governance strukturéiert ass.",
+      "Si si grondsätzlech ähnlech, ausser fir hir fundamental Approche zum Risikomanagement.",
+      "Si si grondsätzlech ähnlech, ausser fir d'Prioritéite bei der Allocatioun vun de Fongen.",
+      "Si si grondsätzlech ähnlech, ausser fir de juristesche Kader an deem si operéieren.",
+      "Si si grondsätzlech ähnlech, ausser fir d'philosophesch Viraussetzung hannert der Theorie."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "... ass vill méi effektiv wéi ..., well ...",
+    "translation": "... is far more effective than ... because ...",
+    "b1": [
+      "Dës Medizin ass vill méi effektiv wéi déi aner, well si méi séier hëlleft.",
+      "Dës Method ass vill méi effektiv wéi al Methoden, well si manner Zäit brauche.",
+      "Dëse Sport ass vill méi effektiv wéilafen, well hien d'Muskelen besser trainéiert.",
+      "Dëst Instrument ass vill méi effektiv wéi dat anert, well et méi laang hält.",
+      "Dës Sproochapp ass vill méi effektiv wéi e Buch, well een do schwätze kann."
+    ],
+    "b2": [
+      "Online-Training ass vill méi effektiv wéi Klassenzëmmeren, well et méi flexibel ass.",
+      "Dës Kampagne ass vill méi effektiv wéi Reklammen, well si direkt d'Leit usprécht.",
+      "Eng enk Zesummenaarbecht ass vill méi effektiv wéi eleng ze schaffen, well Iddie kombineiert ginn.",
+      "Dës Technologie ass vill méi effektiv wéi f fossil Energie, well si manner schued.",
+      "Dës Strategie ass vill méi effektiv wéi de viregte Plang, well si d'Mäert besser analyséiert."
+    ],
+    "c1": [
+      "Eng präventiv Politik ass vill méi effektiv wéi eng reaktiv Interventioun, well si systemesch Schied verhënnert.",
+      "Dezentraliséiert Entscheedungsprozesser si vill méi effektiv wéi strikt Hierarchien, well si méi séier op de Maart reagéieren.",
+      "D'Inklusioun vu lokale Gemeinschaften ass vill méi effektiv wéi top-down Projete, well si nohalteg ass.",
+      "D'Automatiséierung vu Routineaufgaben ass vill méi effektiv wéi mënschlech Kontroll, well si Feelerquote miniméiert.",
+      "D'Uwendung vun Nudges ass vill méi effektiv wéi Verbueter, well si fräiwëlleg Verännerunge fërdert."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Mir kënnen eng Parallell tëscht ... an ... zéien.",
+    "translation": "We can draw a parallel between ... and ...",
+    "b1": [
+      "Mir kënnen eng Parallell tëscht dësem Summer an deem vum leschte Joer zéien.",
+      "Mir kënnen eng Parallell tëscht dësem Buch an engem Film zéien.",
+      "Mir kënnen eng Parallell tëscht dësen zwee Kanner zéien.",
+      "Mir kënnen eng Parallell tëscht deenen zwou Stied zéien.",
+      "Mir kënnen eng Parallell tëscht dësen zwou Sportaarten zéien."
+    ],
+    "b2": [
+      "Mir kënnen eng Parallell tëscht der aktueller Kris an der Geschicht zéien.",
+      "Mir kënnen eng Parallell tëscht der Entwécklung vum Internet an där vum Buchdrock zéien.",
+      "Mir kënnen eng Parallell tëscht dem Verhalen vun de Firmen an deem vun de Konsumenten zéien.",
+      "Mir kënnen eng Parallell tëscht dëser politesch Beweegung an deenen aus den 1960er zéien.",
+      "Mir kënnen eng Parallell tëscht der Kビonaliséierung an der Globaliséierung zéien."
+    ],
+    "c1": [
+      "Mir kënnen eng markant Parallell tëscht dem Bied vun der kënschtlecher Intelligenz an der Industrialiséierung zéien.",
+      "Mir kënnen eng Parallell tëscht dem Fall vu groussen Empires an der modernen geopolitescher Fragmentéierung zéien.",
+      "Mir kënnen eng Parallell tëscht de klassesche Karteller an den aktuellen Tech-Monopolen zéien.",
+      "Mir kënnen eng Parallell tëscht den historesche Pandemien an den aktuellen gesellschaftleche Reaktiounen zéien.",
+      "Mir kënnen eng Parallell tëscht dem Paradigmewiessel an der Physik an deem an de Sozialwëssenschaften zéien."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Weder ... nach ... bitt ...",
+    "translation": "Neither ... nor ... provides ...",
+    "b1": [
+      "Weder d'Sonn nach de Wand bitt elo genuch Energie fir eis all.",
+      "Weder dësen Hotel nach deen aneren bitt e gudde Service.",
+      "Weder d'Buch nach de Film bitt eng kloer Äntwert.",
+      "Weder den Tea nach de Kaffi bitt dat wat ech wëll.",
+      "Weder hien nach si bitt eng Hëllef un."
+    ],
+    "b2": [
+      "Weder déi al Partei nach déi nei bitt eng vollstänneg Léisung fir d'Wunnengsnout.",
+      "Weder de private Secteur nach den ëffentleche bitt genuch Plazen an de Crèchen.",
+      "Weder d'Lokalzeitung nach d'internetsäit bitt zouverlässeg Informatiounen.",
+      "Weder dës Versécherung nach déi aner bitt Schutz fir dëse Risiko.",
+      "Weder de Manager nach säi Stellvertrieder bitt eng kloer Orientéierung."
+    ],
+    "c1": [
+      "Weder den nationale Kader nach déi international Konventioun bitt genuch Schutz géint dës nei Cyberrisiken.",
+      "Weder d'monetär Politik nach d'Steierinstrument bitt eleng eng Garantie géint d'Rezessioun.",
+      "Weder d'representativ Demokrasie nach d'Direkt Demokrasie bitt ouni Reformen eng Äntwert op d'Apathie.",
+      "Weder de formelle Wëssen nach d'Praxiserfahrung bitt eng komplett Virbereedung op sou komplex Krisen.",
+      "Weder d'Modeller vum Wuesstum nach d'degrowth-Theorien bidden e fehlerfräie Fahrplang."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Wa mir et mat ... vergläichen, schéngt ... ze sinn ...",
+    "translation": "When balanced against ..., ... appears to be ...",
+    "b1": [
+      "Wa mir et mat gëschter vergläichen, schéngt haut méi schéin ze sinn.",
+      "Wa mir et mat der Stad vergläichen, schéngt d'Duerf méi roueg ze sinn.",
+      "Wa mir et mat menge Käschte vergläichen, schéngt dëst bëlleg ze sinn.",
+      "Wa mir et mat dem leschte Joer vergläichen, schéngt d'Aarbecht méi einfach ze sinn.",
+      "Wa mir et mat deem anere Plang vergläichen, schéngt dëst besser ze sinn."
+    ],
+    "b2": [
+      "Wa mir et mat de Käschte vergläichen, schéngt dës Investitioun ganz sënnvoll ze sinn.",
+      "Wa mir et mat den anere Kandidaten vergläichen, schéngt säi Profil méi passend ze sinn.",
+      "Wa mir et mat den historeschen Donnéeën vergläichen, schéngt dës Situatioun nei ze sinn.",
+      "Wa mir et mat de klassesche Medien vergläichen, schéngt dës Platform méi attraktiv fir Jonk ze sinn.",
+      "Wa mir et mat de Reglementer vergläichen, schéngt dëse Projet legal ze sinn."
+    ],
+    "c1": [
+      "Wa mir et mat de laangfristeg Risike vergläichen, schéngt dës kuerzfristeg Léisung zimmlech kuerzsichteg ze sinn.",
+      "Wa mir et mat de globalen Benchmarken vergläichen, schéngt eis Wirtschaft iwwerassend resilient ze sinn.",
+      "Wa mir et mat de moraleschen Implikatioune vergläichen, schéngt dës technesch Machbarkeet sekundär ze sinn.",
+      "Wa mir et mat den alternative Strategie vergläichen, schéngt dës Reform den eenzege liewensfäeg Wee ze sinn.",
+      "Wa mir et mat der Komplexitéit vum Problem vergläichen, schéngt dës Äntwert ze einfach ze sinn."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Et gëtt e klassesche Kontrast an hirer Approche zu ...",
+    "translation": "There is a stark contrast in their approach to ...",
+    "b1": [
+      "Et gëtt e groussen Ënnerscheed an hirer Approche zu der Aarbecht.",
+      "Et gëtt e klassesche Kontrast an hirer Approche zu dësem Problem.",
+      "Et gëtt e groussen Ënnerscheed an hirer Approche zu de Suen.",
+      "Et gëtt e kloere Kontrast an hirer Approche zum Sport.",
+      "Et gëtt e kloere Kontrast an hirer Approche zu de Kanner."
+    ],
+    "b2": [
+      "Et gëtt e klassesche Kontrast an hirer Approche zu der Clientebetreiung.",
+      "Et gëtt e groussen Ënnerscheed an hirer Approche zur digitaler Sécherheet.",
+      "Et gëtt e kloere Kontrast an hirer Approche zur Ëmweltpolitik.",
+      "Et gëtt e klassesche Kontrast an hirer Approche zu den neien Technologien.",
+      "Et gëtt e groussen Ënnerscheed an hirer Approche zu der Bildung."
+    ],
+    "c1": [
+      "Et gëtt e klassesche Kontrast an hirer Approche zur Reguléierung vu Finanzmäert.",
+      "Et gëtt en déiwe Kontrast an hirer Approche zum Schutz vun Intellektuell Eegentum.",
+      "Et gëtt e klassesche Kontrast an hirer Approche zu geopoliteschen Allianzen.",
+      "Et gëtt e markante Kontrast an hirer Approche zur Integratioun vu Migranten.",
+      "Et gëtt e klassesche Kontrast an hirer Approche zu der Verëffentlechung vu Fuerschungsdaten."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "D'Ännelung läit doran, datt ...",
+    "translation": "The similarity lies in the fact that ...",
+    "b1": [
+      "D'Ännelung läit doran, datt si béid gär Musek lauschteren.",
+      "D'Ännelung läit doran, datt béid Haiser wäiss gemoolt sinn.",
+      "D'Ännelung läit doran, datt si déiselwecht Schoul besichen.",
+      "D'Ännelung läit doran, datt béid Plazen um Waasser leien.",
+      "D'Ännelung läit doran, datt si datselwecht Iessen gär hunn."
+    ],
+    "b2": [
+      "D'Ännelung läit doran, datt béid Firmen eng flach Hierarchie hunn.",
+      "D'Ännelung läit doran, datt si déiselwecht Erausfuerderung an der Produktioun hunn.",
+      "D'Ännelung läit doran, datt béid Länner staark op den Export setzen.",
+      "D'Ännelung läit doran, datt si hiert Personal intensiv trainéieren.",
+      "D'Ännelung läit doran, datt béid Systemer op der selwechter Software baséieren."
+    ],
+    "c1": [
+      "D'Ännelung läit doran, datt béid politesch Systemer ënner engem Vertrauensverloscht an d'Institutiounen leiden.",
+      "D'Ännelung läit doran, datt béid wëssenschaftlech Teams onofhängesch vранеen op déiselwecht Anomalie stouss.",
+      "D'Ännelung läit doran, datt béid ekonomesch Modeller eng strukturell Inflatioun prognostizéieren.",
+      "D'Ännelung läit doran, datt béid Kënschtler d'Traditioune vun der Avantgarde dekonstruéieren.",
+      "D'Ännelung läit doran, datt béid Organisatiounen déiselwecht Schwäch am Krisemanagement opweisen."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Wa mir se Nieweneinander stellen, iwwertrefft ... däitlech ...",
+    "translation": "Compared side by side, ... clearly outperforms ...",
+    "b1": [
+      "Wa mir se Nieweneinander stellen, iwwertrefft dësen Auto däitlech deen aneren.",
+      "Wa mir se Nieweneinander stellen, iwwertrefft dëst Telefon däitlech d'Konkurrenz.",
+      "Wa mir se Nieweneinander stellen, iwwertrefft dës Kamera däitlech d'Modeller vum leschte Joer.",
+      "Wa mir se Nieweneinander stellen, iwwertrefft dëse Spiller däitlech déi aner.",
+      "Wa mir se Nieweneinander stellen, iwwertrefft dës Planz däitlech déi am Schiet."
+    ],
+    "b2": [
+      "Wa mir se Nieweneinander stellen, iwwertrefft dës Software däitlech d'Firma-Léisungen.",
+      "Wa mir se Nieweneinander stellen, iwwertrefft dës Firma däitlech hir Konkurrente um Maart.",
+      "Wa mir se Nieweneinander stellen, iwwertrefft dës Marketingstrategie däitlech déi vum leschte Joer.",
+      "Wa mir se Nieweneinander stellen, iwwertrefft dës Solarzell däitlech d'Standardmodeller.",
+      "Wa mir se Nieweneinander stellen, iwwertrefft dëst Team däitlech déi aner Gruppen."
+    ],
+    "c1": [
+      "Wa mir se Nieweneinander stellen, iwwertrefft dës Algorithmus-Gestëtzte Prognose däitlech déi konventionell Method.",
+      "Wa mir se Nieweneinander stellen, iwwertrefft dës flexibel Fabrikatiounsanlag däitlech déi rigid industriell Struktur.",
+      "Wa mir se Nieweneinander stellen, iwwertrefft dës dezentraliséiert Energieinfrastruktur däitlech dat zentraliséiert Netzwierk.",
+      "Wa mir se Nieweneinander stellen, iwwertrefft dës viraussichtlech Politik däitlech déi reaktiv Moossnamen.",
+      "Wa mir se Nieweneinander stellen, iwwertrefft dësen interdisziplinäre Kader däitlech déi agespärte Fachberäicher."
+    ]
+  }
+]

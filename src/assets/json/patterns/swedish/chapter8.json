@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Både ... och ... är viktiga eftersom ...",
+    "translation": "Both ... and ... are important because ...",
+    "b1": [
+      "Både mat och vatten är viktiga eftersom vi behöver dem för att leva.",
+      "Både sömn och träning är viktiga eftersom de ger oss energi.",
+      "Både svenska och engelska är viktiga eftersom de hjälper oss att kommunicera.",
+      "Både läsning och skrivning är viktiga eftersom de behövs i skolan.",
+      "Både arbete och vila är viktiga eftersom kroppen behöver balans."
+    ],
+    "b2": [
+      "Både teoretisk kunskap och praktisk erfarenhet är viktiga eftersom de kompletterar varandra.",
+      "Både ekonomisk tillväxt och miljöskydd är viktiga eftersom de skapar ett hållbart samhälle.",
+      "Både intern kommunikation och kundservice är viktiga eftersom de påverkar företagets rykte.",
+      "Både personlig frihet och socialt ansvar är viktiga eftersom de bygger en trygg demokrati.",
+      "Både innovation och tradition är viktiga eftersom de driver utvecklingen framåt utan att förlora historien."
+    ],
+    "c1": [
+      "Både kortsiktiga stabiliseringsåtgärder och långsiktiga strukturreformer är viktiga eftersom de säkerställer finansiell uthållighet.",
+      "Både kvantitativ forskning och kvalitativ analys är viktiga eftersom de ger en helhetsbild av fenomenet.",
+      "Både förebyggande friskvård och avancerad sjukvård är viktiga eftersom de upprätthåller folkhälsan över tid.",
+      "Både global samverkan och lokal förankring är viktiga eftersom de möter komplexa samhällsutmaningar.",
+      "Både yttrandefrihet och källkritik är viktiga eftersom de utgör fundamentet för ett upplyst offentligt samtal."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Till skillnad från ..., är dock ...",
+    "translation": "Unlike ..., however, ...",
+    "b1": [
+      "Till skillnad från igår, är det dock soligt i dag.",
+      "Till skillnad från min bror, gillar jag dock inte kaffe.",
+      "Till skillnad från bussen, är dock tåget i tid.",
+      "Till skillnad från sommaren, är dock vintern väldigt kall.",
+      "Till skillnad från min gamla telefon, har dock den nya en bra kamera."
+    ],
+    "b2": [
+      "Till skillnad från förra året, har dock försäljningen ökat betydligt.",
+      "Till skillnad från de flesta konkurrenter, erbjuder dock vårt företag fri support.",
+      "Till skillnad från den tidigare modellen, är dock den här lösningen mer miljövänlig.",
+      "Till skillnad från offentlig sektor, är dock det privata näringslivet mer flexibelt.",
+      "Till skillnad från den teoretiska planen, kräver dock den praktiska delen mer tid."
+    ],
+    "c1": [
+      "Till skillnad från konventionella metoder, möjliggör dock denna teknologi en avsevärd resurseffektivisering.",
+      "Till skillnad från de initiala prognoserna, tyder dock de senaste data på en stundande konjunkturavmattning.",
+      "Till skillnad från den traditionella hierarkin, främjar dock denna organisationsmodell decentraliserat beslutsfattande.",
+      "Till skillnad från kortfristiga investeringar, genererar dock skogsinnehav en långsiktigt stabil avkastning.",
+      "Till skillnad från tidigare politiska direktiv, fokuserar dock det nya förslaget på genomgripande systemförändringar."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Den största skillnaden mellan ... och ... är att ...",
+    "translation": "The main difference between ... and ... is that ...",
+    "b1": [
+      "Den största skillnaden mellan kaffe och te är att kaffe är starkare.",
+      "Den största skillnaden mellan att bo i stan och på landet är att stan har mer ljud.",
+      "Den största skillnaden mellan bussen och tåget är att tåget går snabbare.",
+      "Den största skillnaden mellan sommar och vinter är att sommaren är varm.",
+      "Den största skillnaden mellan min gamla och nya bil är att den nya drar mindre bensin."
+    ],
+    "b2": [
+      "Den största skillnaden mellan heltids- och deltidsarbete är att heltidsarbete ger högre inkomst.",
+      "Den största skillnaden mellan att hyra och köpa en bostad är att du äger din bostad när du köper.",
+      "Den största skillnaden mellan e-post och traditionella brev är att e-post levereras direkt.",
+      "Den största skillnaden mellan förr och nu är att tekniken styr mer av vår vardag.",
+      "Den största skillnaden mellan våra produkter och deras är att vi använder bättre material."
+    ],
+    "c1": [
+      "Den största skillnaden mellan kvantitativa och kvalitativa metoder är att den förstnämnda fokuserar på mätbarhet.",
+      "Den största skillnaden mellan direkt och representativ demokrati är att medborgarna röstar i enskilda frågor i den direktare formen.",
+      "Den största skillnaden mellan linjär och cirkulär ekonomi är att den cirkulära strävar efter att helt eliminera avfall.",
+      "Den största skillnaden mellan strategiskt och operativt ledarskap är att det strategiska sätter den långsiktiga riktningen.",
+      "Den största skillnaden mellan marknadsekonomi och planekonomi är att marknadskrafterna styr prisbildningen i den förstnämnda."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "... liknar ... på så sätt att ...",
+    "translation": "... is similar to ... in that ...",
+    "b1": [
+      "Svenska liknar norska på så sätt att orden ofta är nästan likadana.",
+      "Att cykla liknar att köra bil på så sätt att man måste följa trafikerregler.",
+      "Den här filmen liknar den förra på så sätt att båda är väldigt roliga.",
+      "Äpplen liknar päron på så sätt att båda är goda frukter.",
+      "Bussen liknar spårvagnen på så sätt att båda stannar ofta."
+    ],
+    "b2": [
+      "Det här projektet liknar det förra på så sätt att båda kräver noggrann planering.",
+      "Vår nya strategi liknar konkurrentens på så sätt att vi fokuserar mer på digitala tjänster.",
+      "Arbetsmarknaden i dag liknar situationen på 90-talet på så sätt att kraven på utbildning ökar.",
+      "Att styra ett företag liknar att träna ett idrottslag på så sätt att lagarbete är avgörande.",
+      "Den här staden liknar Stockholm på så sätt att den har mycket vatten och grönområden."
+    ],
+    "c1": [
+      "Den nuvarande ekonomiska krisen liknar 1970-talets situation på så sätt att utbudschocker driver inflationen.",
+      "Det nya lagförslaget liknar den internationella standarden på så sätt att det skärper kraven på transparens.",
+      "Människans hjärna liknar ett komplext nätverk på så sätt att informationen bearbetas parallellt.",
+      "Denna juridiska doktrin liknar praxisen i EU-rätten på så sätt att proportionalitetsprincipen tillämpas strikt.",
+      "Företagets omstrukturering liknar tidigare reformer på så sätt att centraliseringen av beslutsmakten ökar."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Medan ... har X, har ... Y.",
+    "translation": "While ... has X, ... has Y.",
+    "b1": [
+      "Medan stan har mycket trafik, har landet ren luft.",
+      "Medan sommaren har långa dagar, har vintern mörka kvällar.",
+      "Medan jag har en cykel, har min kompis en bil.",
+      "Medan min telefon har liten skärm, har din dator stor skärm.",
+      "Medan katten har mjuk päls, har hunden långa öron."
+    ],
+    "b2": [
+      "Medan det första förslaget har låga kostnader, har det andra förslaget högre kvalitet.",
+      "Medan den privata sektorn har högre löner, har den offentliga sektorn bättre trygghet.",
+      "Medan Sverige har ett kallt klimat, har Spanien varmt väder nästan hela året.",
+      "Medan den gamla modellen har enkelt gränssnitt, har den nya avancerade funktioner.",
+      "Medan små företag har snabba beslutsvägar, har stora bolag större resurser."
+    ],
+    "c1": [
+      "Medan den västerländska modellen har individuellt fokus, har den östasiatiska kollektiv prioritering.",
+      "Medan primärvården har brett kompetensområde, har specialistvården djupgående expertis.",
+      "Medan aktieinvesteringar har hög riskprofil, har statsobligationer garanterad avkastning.",
+      "Medan traditionell tillverkning har höga marginalkostnader, har digitala tjänster skalfördelar.",
+      "Medan det första scenarioanalysen har optimistiska antaganden, har den andra försiktiga beräkningar."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Å ena sidan ..., men å andra sidan ...",
+    "translation": "On the one hand ..., but on the other hand, ...",
+    "b1": [
+      "Å ena sidan vill jag resa utomlands, men å andra sidan har jag inte tillräckligt med pengar.",
+      "Å ena sidan är kakan god, men å andra sidan är den inte nyttig.",
+      "Å ena sidan är det skönt att sova länge, men å andra sidan tappar man hela dagen.",
+      "Å ena sidan vill jag köpa en ny dator, men å andra sidan fungerar min gamla fortfarande.",
+      "Å ena sidan är det roligt med snö, men å andra sidan är det kallt."
+    ],
+    "b2": [
+      "Å ena sidan sparar distansarbete mycket tid, men å andra sidan kan man känna sig ensam.",
+      "Å ena sidan ger den nya tjänsten högre lön, men å andra sidan innebär den mycket mer stress.",
+      "Å ena sidan är förslaget väldigt innovativt, men å andra sidan är det ganska riskfyllt.",
+      "Å ena sidan ökar turismen stadsintäkterna, men å andra sidan skapar den trängsel för invånarna.",
+      "Å ena sidan är maten billig i den butiken, men å andra sidan är kvaliteten ganska låg."
+    ],
+    "c1": [
+      "Å ena sidan stimulerar avregleringen marknaden, men å andra sidan ökar den risken för monopolsituationer.",
+      "Å ena sidan möjliggör generativ AI enorma effektivitetsvinster, men å andra sidan väcker den svåra etiska frågor.",
+      "Å ena sidan förstärker globaliseringen det kulturella utbytet, men å andra sidan hotar den lokala traditioner.",
+      "Å ena sidan sänker skattelättnader tröskeln för nyföretagande, men å andra sidan minskar de statens intäkter.",
+      "Å ena sidan skyddar patenträtten innovationer, men å andra sidan kan den hämma fortsatt forskning och utveckling."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "I jämförelse med ..., ...",
+    "translation": "In comparison to ..., ...",
+    "b1": [
+      "I jämförelse med igår, mår jag mycket bättre i dag.",
+      "I jämförelse med bussen, är tåget mycket bekvämare.",
+      "I jämförelse med min bror, läser jag fler böcker.",
+      "I jämförelse med Stockholm, är den här staden ganska liten.",
+      "I jämförelse med förra veckan, har vi mycket mer att göra nu."
+    ],
+    "b2": [
+      "I jämförelse med tidigare år, har företaget gjort en enorm vinst.",
+      "I jämförelse med den gamla metoden, sparar vi både tid och pengar nu.",
+      "I jämförelse med andra länder i Europa, har Sverige mycket skog.",
+      "I jämförelse med våra konkurrenter, har vi en mycket snabbare kundtjänst.",
+      "I jämförelse med första halvåret, ser framtiden betydligt ljusare ut."
+    ],
+    "c1": [
+      "I jämförelse med traditionella energikällor, uppvisar solenergi en markant lägre miljöpåverkan.",
+      "I jämförelse med tidigare mandatperioder, präglas det politiska läget nu av större polarisering.",
+      "I jämförelse med den ursprungliga budgetramen, innebär det nya förslaget en betydande besparing.",
+      "I jämförelse med internationell standard, håller svensk hälso- och sjukvård en mycket hög kvalitet.",
+      "I jämförelse med konventionell tillverkning, minskar 3D-skrivartekniken avfallsmängden avsevärt."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Omvänt är situationen för ... helt annorlunda.",
+    "translation": "Conversely, the situation with ... is quite different.",
+    "b1": [
+      "Storstäder har mycket trafik. Omvänt är situationen för småbyar helt annorlunda.",
+      "Vissa gillar varmt väder. Omvänt är situationen för dem som älskar snö helt annorlunda.",
+      "Vuxna måste arbeta varje dag. Omvänt är situationen för små barn helt annorlunda.",
+      "Några elever tycker att matte är lätt. Omvänt är situationen för dem som kämpar helt annorlunda.",
+      "Hotell är ganska dyra i staden. Omvänt är situationen för vandrarhem helt annorlunda."
+    ],
+    "b2": [
+      "Exportföretagen gynnas av den svaga kronan. Omvänt är situationen för importörer helt annorlunda.",
+      "Restauranger i centrum har många kunder. Omvänt är situationen för butiker på landsbygden helt annorlunda.",
+      "Fastighetsägare tjänar på högre priser. Omvänt är situationen för förstagångsköpare helt annorlunda.",
+      "Tekniksektorn växer snabbt i år. Omvänt är situationen för den traditionella industrin helt annorlunda.",
+      "Vissa avdelningar har överskott i budgeten. Omvänt är situationen för marknadsföringsteamet helt annorlunda."
+    ],
+    "c1": [
+      "Höginkomsttagare påverkas marginellt av räntehöjningar. Omvänt är situationen för starkt skuldsatta hushåll helt annorlunda.",
+      "Stora multinationella bolag har goda finansieringsmöjligheter. Omvänt är situationen för små uppstartsbolag helt annorlunda.",
+      "Tjänstesektorn visar stark återhämtning efter krisen. Omvänt är situationen för tillverkningsindustrin helt annorlunda.",
+      "Urbana regioner lockar till sig ung arbetskraft. Omvänt är situationen för glesbygdskommuner helt annorlunda.",
+      "Länder med goda energiresurser har ett överskott. Omvänt är situationen för energiberoende nationer helt annorlunda."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "De delar flera gemensamma egenskaper, såsom ...",
+    "translation": "They share several common characteristics, such as ...",
+    "b1": [
+      "De delar flera gemensamma egenskaper, såsom att båda gillar sport och musik.",
+      "Sverige och Norge delar flera gemensamma egenskaper, såsom fint väder på sommaren och mycket snö på vintern.",
+      "Katter och hundar delar flera gemensamma egenskaper, såsom att de har fyra ben och mjuk päls.",
+      "Äpplen och päron delar flera gemensamma egenskaper, såsom att de växer på träd och smakar sött.",
+      "De här två husen delar flera gemensamma egenskaper, såsom att båda har röda tak och stora trädgårdar."
+    ],
+    "b2": [
+      "De två städerna delar flera gemensamma egenskaper, såsom ett rikt kulturliv och bra kollektivtrafik.",
+      "Våra produkter delar flera gemensamma egenskaper, såsom hög hållbarhet och stilren design.",
+      "Företagen delar flera gemensamma egenskaper, såsom fokus på kundnöjdhet och miljöansvar.",
+      "De här två yrkena delar flera gemensamma egenskaper, såsom krav på god kommunikation och flexibilitet.",
+      "Nordiska länder delar flera gemensamma egenskaper, såsom stark välfärd och hög livskvalitet."
+    ],
+    "c1": [
+      "De två teoretiska ramverken delar flera gemensamma egenskaper, såsom tonvikten på empirisk verifiering och systematisk analys.",
+      "Dessa ekonomiska modeller delar flera gemensamma egenskaper, såsom antagandet om rationella aktörer och marknadsjämvikt.",
+      "Organisationerna delar flera gemensamma egenskaper, såsom platta hierarkier och starkt engagemang för social hållbarhet.",
+      "De juridiska systemen delar flera gemensamma egenskaper, såsom skyddet för äganderätten och principen om likhet inför lagen.",
+      "Språken delar flera gemensamma egenskaper, såsom komplex gramatik och ett gemensamt indoeuropeiskt ursprung."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Graden av ... är mycket större i ... än i ...",
+    "translation": "The degree of ... is much greater in ... than in ...",
+    "b1": [
+      "Graden av snö är mycket större i norr än i söder.",
+      "Graden av ljud är mycket större i staden än på landet.",
+      "Graden av värme är mycket större på sommaren än på hösten.",
+      "Graden av stress är mycket större före provet än efter.",
+      "Graden av trafik är mycket större på morgonen än på natten."
+    ],
+    "b2": [
+      "Graden av automatisering är mycket större i nya fabriker än i gamla.",
+      "Graden av osäkerhet är mycket större på aktiemarknaden än på sparkontot.",
+      "Graden av flexibilitet är mycket större i små företag än i stora organisationer.",
+      "Graden av nöjdhet är mycket större hos kunder som får snabb hjälp än de som väntar.",
+      "Graden av konkurrens är mycket större i storstäder än i mindre kommuner."
+    ],
+    "c1": [
+      "Graden av digitalisering är mycket större i finanssektorn än i den traditionella byggbranschen.",
+      "Graden av social rörlighet är mycket större i de nordiska välfärdsstaterna än i många utvecklingsländer.",
+      "Graden av komplexitet är mycket större i internationella avtal än i nationella överenskommelser.",
+      "Graden av byråkratisk tröghet är mycket större i statliga myndigheter än i privata riskkapitalbolag.",
+      "Graden av politisk polarisering är mycket större i tvåpartisystem än i flerpartisystem med koalitionsregeringar."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Även om ... är sant, måste vi också överväga ...",
+    "translation": "Although ... is true, we must also consider ...",
+    "b1": [
+      "Även om det är sant att bilen är snabb, måste vi också överväga att den är dyr.",
+      "Även om det är sant att maten är god, måste vi också överväga att restaurangen är full.",
+      "Även om det är sant att det är roligt att resa, måste vi också överväga tiden det tar.",
+      "Även om det är sant att träning tar tid, måste vi också överväga hälsofördelarna.",
+      "Även om det är sant att lägenheten är fin, måste vi också överväga läget."
+    ],
+    "b2": [
+      "Även om det är sant att projektet håller budgeten, måste vi också överväga kvaliteten på arbetet.",
+      "Även om det är sant att försäljningen har ökat, måste vi också överväga de stigande kostnaderna.",
+      "Även om det är sant att tekniken förenklar vardagen, måste vi också överväga säkerhetsriskerna.",
+      "Även om det är sant att förslaget är populärt, måste vi också överväga de långsiktiga konsekvenserna.",
+      "Även om det är sant att företaget växer snabbt, måste vi också överväga personalens arbetsmiljö."
+    ],
+    "c1": [
+      "Även om det är sant att reformen sänker statens utgifter, måste vi också överväga dess socioekonomiska effekter.",
+      "Även om det är sant att ekonomisk tillväxt skapar resurser, måste vi också överväga ekologiska begränsningar.",
+      "Även om det är sant att marknaden är effektiv, måste vi också överväga marknadsmisslyckanden och kriser.",
+      "Även om det är sant att automation ökar produktiviteten, måste vi också överväga strukturarbetslösheten.",
+      "Även om det är sant att avtalet ger kortsiktiga fördelar, måste vi också överväga den strategiska risken."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "En betydande skillnad är ...",
+    "translation": "A significant point of divergence is ...",
+    "b1": [
+      "En betydande skillnad är att det första huset är mycket större.",
+      "En betydande skillnad är att den ena bilen går på el.",
+      "En betydande skillnad är priset mellan de två alternativen.",
+      "En betydande skillnad är hur mycket tid vi måste lägga ner.",
+      "En betydande skillnad är att min kompis bor i en annan stad."
+    ],
+    "b2": [
+      "En betydande skillnad är hur de två företagen hanterar sina kundrelationer.",
+      "En betydande skillnad är inställningen till övertidsarbete på arbetsplatsen.",
+      "En betydande skillnad är kraven på tidigare erfarenhet för tjänsterna.",
+      "En betydande skillnad är vilken målgrupp produkterna riktar sig till.",
+      "En betydande skillnad är tidsramen för genomförandet av projekten."
+    ],
+    "c1": [
+      "En betydande skillnad är synen på statens roll i reguljeringen av marknaden.",
+      "En betydande skillnad är den metodologiska ansatsen i de båda forskningsrapporterna.",
+      "En betydande skillnad är hanteringen av immateriella rättigheter i de två jurisdiktionerna.",
+      "En betydande skillnad är de bakomliggande teoretiska antagandena om mänskligt beteende.",
+      "En betydande skillnad är fördelningen av det finansiella ansvaret mellan aktörerna."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "De är i grunden lika, förutom ...",
+    "translation": "They are fundamentally similar, except for ...",
+    "b1": [
+      "De är i grunden lika, förutom färgen på husen.",
+      "De är i grunden lika, förutom att den ena har fler knappar.",
+      "De är i grunden lika, förutom storleken på skärmen.",
+      "De är i grunden lika, förutom priset i butiken.",
+      "De är i grunden lika, förutom tiden det tar att laga maten."
+    ],
+    "b2": [
+      "De två modellerna är i grunden lika, förutom batteritiden som är mycket bättre på den nyare.",
+      "Våra tjänster är i grunden lika, förutom att premiumpaketet innehåller mer support.",
+      "De två jobben är i grunden lika, förutom arbetstiderna som skiljer sig åt.",
+      "Städerna är i grunden lika, förutom att den ena har bättre kollektivtrafik.",
+      "Kontrakten är i grunden lika, förutom uppsägningstiden i det andra avtalet."
+    ],
+    "c1": [
+      "De två lagförslagen är i grunden lika, förutom finansieringsmekanismen som har ändrats.",
+      "Teorierna är i grunden lika, förutom definitionen av begreppet hållbarhet.",
+      "Strategierna är i grunden lika, förutom prioriteringen av internationella marknader.",
+      "Systemarkitekturerna är i grunden lika, förutom krypteringsprotokollet som används.",
+      "Utbildningsprogrammen är i grunden lika, förutom kravet på en avslutande praktikperiod."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "... är långt mer effektivt än ... eftersom ...",
+    "translation": "... is far more effective than ... because ...",
+    "b1": [
+      "Tåg är långt mer effektivt än bil eftersom man slipper bilköer.",
+      "E-post är långt mer effektivt än vanliga brev eftersom meddelandet kommer fram direkt.",
+      "Att träna regelbundet är långt mer effektivt än att bara träna ibland eftersom kroppen blir starkare.",
+      "Att handla online är långt mer effektivt än att gå i butiker eftersom det sparar tid.",
+      "Solen är långt mer effektiv än lampor eftersom den lyser upp hela rummet."
+    ],
+    "b2": [
+      "Direktkommunikation är långt mer effektivt än långa e-postkedjor eftersom missförstånd undviks.",
+      "Digital marknadsföring är långt mer effektivt än printreklam eftersom vi når rätt målgrupp.",
+      "Förebyggande underhåll är långt mer effektivt än akuta reparationer eftersom det förhindrar stop.",
+      "Automation är långt mer effektivt än manuell datainmatning eftersom risken för fel minskar.",
+      "Projektarbete i mindre grupper är långt mer effektivt än stora möten eftersom alla deltar aktiver."
+    ],
+    "c1": [
+      "Riktade ekonomiska incitament är långt mer effektivt än generella subventioner eftersom resurserna styrs rätt.",
+      "Tidig intervention i skolan är långt mer effektivt än senare kompensatoriska åtgärder eftersom grunden läggs tidigt.",
+      "En integrerad miljöpolitik är långt mer effektivt än punktinsatser eftersom den adresserar orsaker.",
+      "Dynamisk prissättning är långt mer effektivt än fasta priser eftersom den optimerar kapacitetsutnyttjandet.",
+      "Proaktiv rischantering är långt mer effektivt än reaktiv reaktion eftersom skadorna minimeras i förväg."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Vi kan dra en parallell mellan ... och ...",
+    "translation": "We can draw a parallel between ... and ...",
+    "b1": [
+      "Vi kan dra en parallell mellan att lära sig cykla och att lära sig simma.",
+      "Vi kan dra en parallell mellan matlagning och att följa ett recept i skolan.",
+      "Vi kan dra en parallell mellan vädret i dag och vädret förra veckan.",
+      "Vi kan dra en parallell mellan att spela fotboll och att arbeta i grupp.",
+      "Vi kan dra en parallell mellan att spara pengar och att spara tid."
+    ],
+    "b2": [
+      "Vi kan dra en parallell mellan utvecklingen på bostadsmarknaden och läget i ekonomin i stort.",
+      "Vi kan dra en parallell mellan hur ett företag styrs och hur en stad styrs.",
+      "Vi kan dra en parallell mellan den nuvarande trenden och vad som hände för tio år sedan.",
+      "Vi kan dra en parallell mellan personlig utveckling och professionell karriär.",
+      "Vi kan dra en parallell mellan kundnöjdhet och personalens trivsel på arbetsplatsen."
+    ],
+    "c1": [
+      "Vi kan dra en parallell mellan internetrevolutionen och den industriella revolutionen på 1800-talet.",
+      "Vi kan dra en parallell mellan finanskrisen 2008 och de nuvarande spänningarna i banksystemet.",
+      "Vi kan dra en parallell mellan biologiska ekosystem och strukturen i moderna affärsnätverk.",
+      "Vi kan dra en parallell mellan den geopolitiska utvecklingen och historiska maktförskjutningar.",
+      "Vi kan dra en parallell mellan regleringen av tobaksindustrin och dagens debatt om sociala medier."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Varken ... eller ... ger ...",
+    "translation": "Neither ... nor ... provides ...",
+    "b1": [
+      "Varken bussen eller tåget ger en snabb resa i dag.",
+      "Varken regn eller snö ger oss bra väder för picknick.",
+      "Varken kaffe eller te ger mig tillräckligt med energi nu.",
+      "Varken det första eller det andra alternativet ger ett lågt pris.",
+      "Varken min bror eller min syster ger mig rätt svar."
+    ],
+    "b2": [
+      "Varken den gamla eller den nya metoden ger ett helt tillfredsställande resultat.",
+      "Varken förslaget från ledningen eller fackets motförslag ger en snabb lösning.",
+      "Varken kortsiktiga besparingar eller tillfälliga lån ger en hållbar ekonomi.",
+      "Varken rean i butiken eller online-rabatten ger någon stor besparing.",
+      "Varken den första kandidaten eller den andra ger ett helt övertygande intryck."
+    ],
+    "c1": [
+      "Varken den monetära politiken eller finanspolitiken ger en omedelbar lösning på strukturell arbetslöshet.",
+      "Varken den föreslagna lagstiftningen eller branschens egna riktlinjer ger tillräckligt skydd för personuppgifter.",
+      "Varken teoretiska modeller eller historiska data ger en garanterad prognos om framtida marknadsrörelser.",
+      "Varken bilateral diplomati eller multilaterala sanktioner ger snabba resultat i konflikthanteringen.",
+      "Varken kortsiktiga vinstintressen eller överdriven byråkrati ger förutsättningar för sann innovation."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "När det vägs mot ..., verkar ... vara ...",
+    "translation": "When balanced against ..., ... appears to be ...",
+    "b1": [
+      "När det vägs mot kostnaden, verkar resan vara mycket prisvärd.",
+      "När det vägs mot den gamla bilen, verkar den nya vara mycket säkrare.",
+      "När det vägs mot tiden vi sparar, verkar biljetten vara billig.",
+      "När det vägs mot andra alternativ, verkar detta vara det bästa valet.",
+      "När det vägs mot risken, verkar vinsten vara ganska liten."
+    ],
+    "b2": [
+      "När det vägs mot fördelarna, verkar risken med projektet vara överkomlig.",
+      "När det vägs mot konkurrenternas erbjuda, verkar vårt pris vara väldigt konkurrenskraftigt.",
+      "När det vägs mot arbetsinsatsen, verkar resultatet vara helt rimligt.",
+      "När det vägs mot de potentiella vinsterna, verkar investeringen vara nödvändig.",
+      "När det vägs mot de tekniska utmaningarna, verkar tidsplanen vara för optimistisk."
+    ],
+    "c1": [
+      "När det vägs mot de långsiktiga samhällskostnaderna, verkar de initiala investeringarna vara fullt motiverade.",
+      "När det vägs mot de geopolitiska riskerna, verkar den föreslagna handelsstrategin vara alltför sårbara.",
+      "När det vägs mot alternativa energislag, verkar kärnkraften vara ett stabilt övergångsalternativ.",
+      "När det vägs mot de strikta regulatoriska kraven, verkar bolagets anpassningsförmåga vara god.",
+      "När det vägs mot den rådande makroekonomiska osäkerheten, verkar prognosen vara anmärkningsvärt stark."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Det finns en stark kontrast i deras förhållningssätt till ...",
+    "translation": "There is a stark contrast in their approach to ...",
+    "b1": [
+      "Det finns en stark kontrast i deras förhållningssätt till mat och hälsa.",
+      "Det finns en stark kontrast i deras förhållningssätt till pengar.",
+      "Det finns en stark kontrast i deras förhållningssätt till studier.",
+      "Det finns en stark kontrast i deras förhållningssätt till tider och möten.",
+      "Det finns en stark kontrast i deras förhållningssätt till fritid."
+    ],
+    "b2": [
+      "Det finns en stark kontrast i deras förhållningssätt till kundservice och support.",
+      "Det finns en stark kontrast i deras förhållningssätt till distansarbete på kontoret.",
+      "Det finns en stark kontrast i deras förhållningssätt till miljöfrågor och hållbarhet.",
+      "Det finns en stark kontrast i deras förhållningssätt till marknadsföring och reklam.",
+      "Det finns en stark kontrast i deras förhållningssätt till personalvård och arbetsmiljö."
+    ],
+    "c1": [
+      "Det finns en stark kontrast i deras förhållningssätt till risktagande och finansiell konsolidering.",
+      "Det finns en stark kontrast i deras förhållningssätt till internationell rätt och suveränitet.",
+      "Det finns en stark kontrast i deras förhållningssätt till dataskydd och användarintegritet.",
+      "Det finns en stark kontrast i deras förhållningssätt till innovation och traditionella affärsmodeller.",
+      "Det finns en stark kontrast i deras förhållningssätt till krislednings- och kommunikationsstrategier."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Likheten ligger i det faktum att ...",
+    "translation": "The similarity lies in the fact that ...",
+    "b1": [
+      "Likheten ligger i det faktum att båda två gillar att resa.",
+      "Likheten ligger i det faktum att båda städerna har mycket vatten.",
+      "Likheten ligger i det faktum att båda bilarna är röda.",
+      "Likheten ligger i det faktum att båda husen är gamla.",
+      "Likheten ligger i det faktum att båda böckerna handlar om historia."
+    ],
+    "b2": [
+      "Likheten ligger i det faktum att båda företagen satsar stort på digitalisering.",
+      "Likheten ligger i det faktum att båda projekten drabbades av samma förseningar.",
+      "Likheten ligger i det faktum att båda produkterna uppfyller höga säkerhetskrav.",
+      "Likheten ligger i det faktum att båda länderna har liknande välfärdssystem.",
+      "Likheten ligger i det faktum att båda metoderna kräver utbildad personal."
+    ],
+    "c1": [
+      "Likheten ligger i det faktum att båda modellerna bygger på samma grundläggande teoretiska antaganden.",
+      "Likheten ligger i det faktum att båda reformerna syftar till att öka den ekonomiska effektiviteten.",
+      "Likheten ligger i det faktum att båda juridiska tolkningarna utgår från proportionalitetsprincipen.",
+      "Likheten ligger i det faktum att båda regeringarna ställs inför identiska demografiska utmaningar.",
+      "Likheten ligger i det faktum att båda forskningsprojekten identifierade samma metodologiska begränsningar."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Jämförda sida vid sida, presterar ... tydligt bättre än ...",
+    "translation": "Compared side by side, ... clearly outperforms ...",
+    "b1": [
+      "Jämförda sida vid sida, presterar den nya datorn tydligt bättre än den gamla.",
+      "Jämförda sida vid sida, presterar den röda bilen tydligt bättre än den blåa.",
+      "Jämförda sida vid sida, presterar tåget tydligt bättre än bussen.",
+      "Jämförda sida vid sida, presterar den dyrare telefonen tydligt bättre än den billiga.",
+      "Jämförda sida vid sida, presterar det här teamet tydligt bättre än det andra."
+    ],
+    "b2": [
+      "Jämförda sida vid sida, presterar vår nya programvara tydligt bättre än den tidigare versionen.",
+      "Jämförda sida vid sida, presterar den uppdaterade motorn tydligt bättre än konkurrenternas.",
+      "Jämförda sida vid sida, presterar den nya försäljningsmodellen tydligt bättre än den traditionella.",
+      "Jämförda sida vid sida, presterar det nya batteriet tydligt bättre än äldre energilösningar.",
+      "Jämförda sida vid sida, presterar den nya arbetsmetoden tydligt bättre än våra gamla rutiner."
+    ],
+    "c1": [
+      "Jämförda sida vid sida, presterar den algoritmiska handelsmodellen tydligt bättre än manuella förvaltare.",
+      "Jämförda sida vid sida, presterar det nya kompositmaterialet tydligt bättre än konventionellt stål.",
+      "Jämförda sida vid sida, presterar den integrerade leveranskedjan tydligt bättre än fragmenterade alternativ.",
+      "Jämförda sida vid sida, presterar den förnybara energianläggningen tydligt bättre än fossila motsvarigheter.",
+      "Jämförda sida vid sida, presterar den optimerade kodbasen tydligt bättre än den äldre systemarkitekturen."
+    ]
+  }
+]

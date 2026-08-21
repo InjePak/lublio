@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Ech schätzen deng Hëllef mat ... wierklech.",
+    "translation": "I truly appreciate your help with ...",
+    "b1": [
+      "Ech schätzen deng Hëllef mat der Hausaufgab wierklech.",
+      "Ech schätzen deng Hëllef mat dem Kachen wierklech.",
+      "Ech schätzen deng Hëllef mat de Käschten wierklech.",
+      "Ech schätzen deng Hëllef mat dem Transport wierklech.",
+      "Ech schätzen deng Hëllef mat dem Akafe wierklech."
+    ],
+    "b2": [
+      "Ech schätzen deng Hëllef mat der Virbereedung vum Meeting wierklech.",
+      "Ech schätzen deng Hëllef mat dem technesche Problem wierklech.",
+      "Ech schätzen deng Hëllef mat dem Zuchplang wierklech.",
+      "Ech schätzen deng Hëllef mat dem Plënneren wierklech.",
+      "Ech schätzen deng Hëllef mat der Presentatioun wierklech."
+    ],
+    "c1": [
+      "Ech schätzen deng Hëllef mat der strategescher Analyse vum Projet wierklech.",
+      "Ech schätzen deng Hëllef mat der legaler Evaluatioun vum Kontrakt wierklech.",
+      "Ech schätzen deng Hëllef mat der Krisenbewältegung wierklech.",
+      "Ech schätzen deng Hëllef mat der systemescher Strukturéierung vum Bericht wierklech.",
+      "Ech schätzen deng Hëllef mat der Audit-Vorbereitung wierklech."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Du hues en aussergewéinlechen Talent fir ...",
+    "translation": "You have a remarkable talent for ...",
+    "b1": [
+      "Du hues en aussergewéinlechen Talent fir Sproochen ze léieren.",
+      "Du hues en aussergewéinlechen Talent fir gutt ze kachen.",
+      "Du hues en aussergewéinlechen Talent fir mat Kanner ze goen.",
+      "Du hues en aussergewéinlechen Talent fir ze molen.",
+      "Du hues en aussergewéinlechen Talent fir Musek ze maachen."
+    ],
+    "b2": [
+      "Du hues en aussergewéinlechen Talent fir Leit ze motivéieren.",
+      "Du hues en aussergewéinlechen Talent fir komplex Saachen einfach ze erklären.",
+      "Du hues en aussergewéinlechen Talent fir kreativ Léisungen ze fannen.",
+      "Du hues en aussergewéinlechen Talent fir a Stressmomenter roueg ze bleiwen.",
+      "Du hues en aussergewéinlechen Talent fir d'Leit ze lauschteren."
+    ],
+    "c1": [
+      "Du hues en aussergewéinlechen Talent fir abstrakt Konzepten a praktesch Strategien ëmzesetzen.",
+      "Du hues en aussergewéinlechen Talent fir verdeckt Risiken an Daten z'identifizéieren.",
+      "Du hues en aussergewéinlechen Talent fir international Verhandlungen ze féieren.",
+      "Du hues en aussergewéinlechen Talent fir multidisziplinäres Wëssen ze synthetiséieren.",
+      "Du hues en aussergewéinlechen Talent fir organisatoresch Strukturen ze optimiséieren."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Dat war onheemlech opmierksam vun dir, datt ...",
+    "translation": "That was incredibly thoughtful of you to ...",
+    "b1": [
+      "Dat war onheemlech opmierksam vun dir, datt s de mir e Kaffi bruecht hues.",
+      "Dat war onheemlech opmierksam vun dir, datt s de un mäi Gebuertsdag geduecht hues.",
+      "Dat war onheemlech opmierksam vun dir, datt s de mir beim Botzen gehollef hues.",
+      "Dat war onheemlech opmierksam vun dir, datt s de d'Fënster zougemaach hues.",
+      "Dat war onheemlech opmierksam vun dir, datt s de mir en Iessen hannerlooss hues."
+    ],
+    "b2": [
+      "Dat war onheemlech opmierksam vun dir, datt s de meng Virléift fir dëst Buch gemierkt hues.",
+      "Dat war onheemlech opmierksam vun dir, datt s de d'Versammlung op eng aner Zäit verréckt hues.",
+      "Dat war onheemlech opmierksam vun dir, datt s de de Bericht virum Termin gelies hues.",
+      "Dat war onheemlech opmierksam vun dir, datt s de mir eng roueg Plaz zum Schaffe ginn hues.",
+      "Dat war onheemlech opmierksam vun dir, datt s de den Transport fir de Gaascht organiséiert hues."
+    ],
+    "c1": [
+      "Dat war onheemlech opmierksam vun dir, datt s de déi subtil Ännerungen an de Kaderbedéngungen direkt erkannt hues.",
+      "Dat war onheemlech opmierksam vun dir, datt s de d'interkulturell Nuancen an dësem Dokument berécksichtegt hues.",
+      "Dat war onheemlech opmierksam vun dir, datt s de d'potenziell Konsequenze fir d'Stakeholderen am Viraus analyséiert hues.",
+      "Dat war onheemlech opmierksam vun dir, datt s de eng proaktiv Léisung fir den ethesche Dilemma proposéiert hues.",
+      "Dat war onheemlech opmierksam vun dir, datt s de d'Sécherheetsprotokoller ouni Auffro ugepasst hues."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Ech sinn sou dankbar fir d'Tatsaach, datt ...",
+    "translation": "I'm so grateful for the fact that ...",
+    "b1": [
+      "Ech sinn sou dankbar fir d'Tatsaach, datt mir sou gutt kënne laachen.",
+      "Ech sinn sou dankbar fir d'Tatsaach, datt d'Wieder haut esou schéin ass.",
+      "Ech sinn sou dankbar fir d'Tatsaach, datt ech sou eng léif Famill hunn.",
+      "Ech sinn sou dankbar fir d'Tatsaach, datt de Bus haut pünktlech war.",
+      "Ech sinn sou dankbar fir d'Tatsaach, datt mäi Hond nees gesond ass."
+    ],
+    "b2": [
+      "Ech sinn sou dankbar fir d'Tatsaach, datt mir dëse grousse Projet erfollegräich ofgeschloss hunn.",
+      "Ech sinn sou dankbar fir d'Tatsaach, datt ech meng Aarbecht vun doheem aus maache kann.",
+      "Ech sinn sou dankbar fir d'Tatsaach, datt d'Kollegen mir an enger schwiereger Phase gehollef hunn.",
+      "Ech sinn sou dankbar fir d'Tatsaach, datt ech dës Chance krut fir ze wuessen.",
+      "Ech sinn sou dankbar fir d'Tatsaach, datt mir esou en oppent Arbeitsëmfeld hunn."
+    ],
+    "c1": [
+      "Ech sinn sou dankbar fir d'Tatsaach, datt mir eng konstruktiv Diskussioun iwwer d'Systemreform gefouert hunn.",
+      "Ech sinn sou dankbar fir d'Tatsaach, datt d'Direktioun d'Wichtegkeet vun der Fuerschung unerkannt huet.",
+      "Ech sinn sou dankbar fir d'Tatsaach, datt eis strategesch Allianzen stabil an zouverlässeg sinn.",
+      "Ech sinn sou dankbar fir d'Tatsaach, datt mir d'Méiglechkeet hunn, d'Zukunft vun der Organisatioun mat ze gestalten.",
+      "Ech sinn sou dankbar fir d'Tatsaach, datt d'Transparenz an eisen Entscheedungsprozesser prioritär behandelt gëtt."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Deng Opmierksamkeet op Detailer bei ... ass aussergewéinlech.",
+    "translation": "Your attention to detail on ... is outstanding.",
+    "b1": [
+      "Deng Opmierksamkeet op Detailer bei dësem Zeechnen ass aussergewéinlech.",
+      "Deng Opmierksamkeet op Detailer bei dësem Rezept ass aussergewéinlech.",
+      "Deng Opmierksamkeet op Detailer bei der Zëmmerdekoratioun ass aussergewéinlech.",
+      "Deng Opmierksamkeet op Detailer bei dësem Bréif ass aussergewéinlech.",
+      "Deng Opmierksamkeet op Detailer bei der Kleederwahl ass aussergewéinlech."
+    ],
+    "b2": [
+      "Deng Opmierksamkeet op Detailer bei dësem Finanzbericht ass aussergewéinlech.",
+      "Deng Opmierksamkeet op Detailer bei der Planung vun der Rees ass aussergewéinlech.",
+      "Deng Opmierksamkeet op Detailer bei der Korektur vum Text ass aussergewéinlech.",
+      "Deng Opmierksamkeet op Detailer bei dësem Design ass aussergewéinlech.",
+      "Deng Opmierksamkeet op Detailer bei der Organisatioun vum Event ass aussergewéinlech."
+    ],
+    "c1": [
+      "Deng Opmierksamkeet op Detailer bei der Iwwerpréiwung vun de juridesche Klauselen ass aussergewéinlech.",
+      "Deng Opmierksamkeet op Detailer bei der Software-Validatioun ass aussergewéinlech.",
+      "Deng Opmierksamkeet op Detailer bei der architektonescher Planungsphase ass aussergewéinlech.",
+      "Deng Opmierksamkeet op Detailer bei der empiristescher Datenanalyse ass aussergewéinlech.",
+      "Deng Opmierksamkeet op Detailer bei der Risiko-Modellerung ass aussergewéinlech."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Ech wollt dir speziell Merci soen fir ...",
+    "translation": "I wanted to thank you specifically for ...",
+    "b1": [
+      "Ech wollt dir speziell Merci soen fir d'Hëllef mam Kaffi.",
+      "Ech wollt dir speziell Merci soen fir d'Blummen.",
+      "Ech wollt dir speziell Merci soen fir de Rideau opzehänken.",
+      "Ech wollt dir speziell Merci soen fir d'Geschenk.",
+      "Ech wollt dir speziell Merci soen fir d'Bucherees."
+    ],
+    "b2": [
+      "Ech wollt dir speziell Merci soen fir d'Ënnerstëtzung wärend der Krankheet.",
+      "Ech wollt dir speziell Merci soen fir d'Virbereedung vun der Konferenz.",
+      "Ech wollt dir speziell Merci soen fir d'Noriichten ze iwwersetzen.",
+      "Ech wollt dir speziell Merci soen fir d'Iwwername vun mengem Schichtdéngscht.",
+      "Ech wollt dir speziell Merci soen fir de gudd Noutfall-Rot."
+    ],
+    "c1": [
+      "Ech wollt dir speziell Merci soen fir d'Interventioun virum Ouschterrat.",
+      "Ech wollt dir speziell Merci soen fir d'Mediatioun am Konflikt tëscht den Departementer.",
+      "Ech wollt dir speziell Merci soen fir d'Bereetstellung vum vertraulechen Dossier.",
+      "Ech wollt dir speziell Merci soen fir déi exzellent Berodung bei der Investitioun.",
+      "Ech wollt dir speziell Merci soen fir d'Redaktioun vum manuellen Dossier."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Du hues déi Situatioun mat sou enger Eleganz an ... gehandhabt.",
+    "translation": "You handled that situation with such grace and ...",
+    "b1": [
+      "Du hues déi Situatioun mat sou enger Eleganz an Rou gehandhabt.",
+      "Du hues déi Situatioun mat sou enger Eleganz an Frëndlechkeet gehandhabt.",
+      "Du hues déi Situatioun mat sou enger Eleganz an Gedold gehandhabt.",
+      "Du hues déi Situatioun mat sou enger Eleganz an Hëllefsbereetschaft gehandhabt.",
+      "Du hues déi Situatioun mat sou enger Eleganz an engem Laachen gehandhabt."
+    ],
+    "b2": [
+      "Du hues déi Situatioun mat sou enger Eleganz an Diplomatie gehandhabt.",
+      "Du hues déi Situatioun mat sou enger Eleganz an Professionalitéit gehandhabt.",
+      "Du hues déi Situatioun mat sou enger Eleganz an Objektivitéit gehandhabt.",
+      "Du hues déi Situatioun mat sou enger Eleganz an Ausdauer gehandhabt.",
+      "Du hues déi Situatioun mat sou enger Eleganz an Verantwortung gehandhabt."
+    ],
+    "c1": [
+      "Du hues déi Situatioun mat sou enger Eleganz an souveräner Autoritéit gehandhabt.",
+      "Du hues déi Situatioun mat sou enger Eleganz an ethescher Integritéit gehandhabt.",
+      "Du hues déi Situatioun mat sou enger Eleganz an strategescher Vussiicht gehandhabt.",
+      "Du hues déi Situatioun mat sou enger Eleganz an institutioneller Klarsicht gehandhabt.",
+      "Du hues déi Situatioun mat sou enger Eleganz an psychologescher Sensibilitéit gehandhabt."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Ech hätt dat ouni ... ni gepackt.",
+    "translation": "I couldn't have done this without ...",
+    "b1": [
+      "Ech hätt dat ouni deng Hëllef ni gepackt.",
+      "Ech hätt dat ouni däi Rot ni gepackt.",
+      "Ech hätt dat ouni d'Kaart ni gepackt.",
+      "Ech hätt dat ouni däi Auto ni gepackt.",
+      "Ech hätt dat ouni d'Kachbouch ni gepackt."
+    ],
+    "b2": [
+      "Ech hätt dat ouni är wäertvoll Ënnerstëtzung ni gepackt.",
+      "Ech hätt dat ouni de Computer ni gepackt.",
+      "Ech hätt dat ouni d'Zäitlech Virbereedung ni gepackt.",
+      "Ech hätt dat ouni déi gutt Teamwork ni gepackt.",
+      "Ech hätt dat ouni d'Donnéeën ni gepackt."
+    ],
+    "c1": [
+      "Ech hätt dat ouni d'Expertise vum Fuerschungsteam ni gepackt.",
+      "Ech hätt dat ouni d'Finanzéierung vum Fong ni gepackt.",
+      "Ech hätt dat ouni d'juristesch Berodung ni gepackt.",
+      "Ech hätt dat ouni d'automatiséiert Systemer ni gepackt.",
+      "Ech hätt dat ouni d'interdisziplinär Zesummenaarbecht ni gepackt."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Deng positiv Haltung ass wierklech inspiréierend fir ...",
+    "translation": "Your positive attitude is truly inspiring to ...",
+    "b1": [
+      "Deng positiv Haltung ass wierklech inspiréierend fir mech.",
+      "Deng positiv Haltung ass wierklech inspiréierend fir d'Kanner.",
+      "Deng positiv Haltung ass wierklech inspiréierend fir d'Team.",
+      "Deng positiv Haltung ass wierklech inspiréierend fir d'Frënn.",
+      "Deng positiv Haltung ass wierklech inspiréierend fir d'Leit hei."
+    ],
+    "b2": [
+      "Deng positiv Haltung ass wierklech inspiréierend fir jiddereen am Büro.",
+      "Deng positiv Haltung ass wierklech inspiréierend fir déi nei Mataarbechter.",
+      "Deng positiv Haltung ass wierklech inspiréierend fir d'Studenten an der Klass.",
+      "Deng positiv Haltung ass wierklech inspiréierend fir d'Grupp an dëse schwieregen Zäiten.",
+      "Deng positiv Haltung ass wierklech inspiréierend fir d'Leedung."
+    ],
+    "c1": [
+      "Deng positiv Haltung ass wierklech inspiréierend fir d'organisatoresch Kultur insgesamt.",
+      "Deng positiv Haltung ass wierklech inspiréierend fir d'Entwécklung vun neie Initiativen.",
+      "Deng positiv Haltung ass wierklech inspiréierend fir d'Transformatioun vum Betrib.",
+      "Deng positiv Haltung ass wierklech inspiréierend fir d'Stäerkung vum Kollektivgeescht.",
+      "Deng positiv Haltung ass wierklech inspiréierend fir d'Bewäertung vun den neien Erausfuerderungen."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Merci datt s de d'Mühe gemaach hues fir ...",
+    "translation": "Thank you for going above and beyond to ...",
+    "b1": [
+      "Merci datt s de d'Mühe gemaach hues fir mir ze hëllefen.",
+      "Merci datt s de d'Mühe gemaach hues fir fréi op ze stoen.",
+      "Merci datt s de d'Mühe gemaach hues fir de Kuch ze baken.",
+      "Merci datt s de d'Mühe gemaach hues fir den Zëmmer ze botzen.",
+      "Merci datt s de d'Mühe gemaach hues fir d'Buskaart ze kafen."
+    ],
+    "b2": [
+      "Merci datt s de d'Mühe gemaach hues fir de Bericht fäerdeg ze maachen.",
+      "Merci datt s de d'Mühe gemaach hues fir de Client ze treffen.",
+      "Merci datt s de d'Mühe gemaach hues fir déi extra Informatioun ze fannen.",
+      "Merci datt s de d'Mühe gemaach hues fir de Plang unzepassen.",
+      "Merci datt s de d'Mühe gemaach hues fir d'Material ze besuergen."
+    ],
+    "c1": [
+      "Merci datt s de d'Mühe gemaach hues fir eng komplett Due Diligence duerchzeféieren.",
+      "Merci datt s de d'Mühe gemaach hues fir extern Experten anzebauen.",
+      "Merci datt s de d'Mühe gemaach hues fir e komplexe Risikomigratiounsplan opzestellen.",
+      "Merci datt s de d'Mühe gemaach hues fir d'Qualitéitskontroll ze iwwerpréiwen.",
+      "Merci datt s de d'Mühe gemaach hues fir d'Verhandlunge erfollegräich ofzeschléissen."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Ech bewonneren wierklech d'Art a Weis wéi du ...",
+    "translation": "I really admire the way you ...",
+    "b1": [
+      "Ech bewonneren wierklech d'Art a Weis wéi du mat Mënschen ëmgeet.",
+      "Ech bewonneren wierklech d'Art a Weis wéi du schéin zeechnes.",
+      "Ech bewonneren wierklech d'Art a Weis wéi du kachs.",
+      "Ech bewonneren wierklech d'Art a Weis wéi du spiels.",
+      "Ech bewonneren wierklech d'Art a Weis wéi du erzielt."
+    ],
+    "b2": [
+      "Ech bewonneren wierklech d'Art a Weis wéi du Är Zäit organiséiert.",
+      "Ech bewonneren wierklech d'Art a Weis wéi du mat Kritik ëmgeet.",
+      "Ech bewonneren wierklech d'Art a Weis wéi du eng Grupp leets.",
+      "Ech bewonneren wierklech d'Art a Weis wéi du komplexe Problemer léist.",
+      "Ech bewonneren wierklech d'Art a Weis wéi du roueg bleifs."
+    ],
+    "c1": [
+      "Ech bewonneren wierklech d'Art a Weis wéi du verschidden Interessen a Konsens bréngs.",
+      "Ech bewonneren wierklech d'Art a Weis wéi du philosophesch Konzepte mat der Praxis verbnënns.",
+      "Ech bewonneren wierklech d'Art a Weis wéi du d'Zukunft vun der Institutioun gestaltet.",
+      "Ech bewonneren wierklech d'Art a Weis wéi du strategesch Visiounen kommunizéiert.",
+      "Ech bewonneren wierklech d'Art a Weis wéi du d'Team an Krisenzeiten stäerks."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Wat eng fantastesch Aarbecht, déi s de gemaach hues bei ...",
+    "translation": "What a wonderful job you did on ...",
+    "b1": [
+      "Wat eng fantastesch Aarbecht, déi s de gemaach hues bei dësem Bild.",
+      "Wat eng fantastesch Aarbecht, déi s de gemaach hues bei deem Iessen.",
+      "Wat eng fantastesch Aarbecht, déi s de gemaach hues bei der Gaardenaarbecht.",
+      "Wat eng fantastesch Aarbecht, déi s de gemaach hues bei deem Bréif.",
+      "Wat eng fantastesch Aarbecht, déi s de gemaach hues bei der Dekoratioun."
+    ],
+    "b2": [
+      "Wat eng fantastesch Aarbecht, déi s de gemaach hues bei deem Projet.",
+      "Wat eng fantastesch Aarbecht, déi s de gemaach hues bei der Präsentatioun.",
+      "Wat eng fantastesch Aarbecht, déi s de gemaach hues bei der Organisatioun vum Fest.",
+      "Wat eng fantastesch Aarbecht, déi s de gemaach hues bei der Reparatur.",
+      "Wat eng fantastesch Aarbecht, déi s de gemaach hues bei dem Interview."
+    ],
+    "c1": [
+      "Wat eng fantastesch Aarbecht, déi s de gemaach hues bei der Implementatioun vum neie System.",
+      "Wat eng fantastesch Aarbecht, déi s de gemaach hues bei der Redaktioun vum strategesche Dokument.",
+      "Wat eng fantastesch Aarbecht, déi s de gemaach hues bei der Finanzaudit.",
+      "Wat eng fantastesch Aarbecht, déi s de gemaach hues bei der Strukturell Analyse vun de Mäert.",
+      "Wat eng fantastesch Aarbecht, déi s de gemaach hues bei der Krisenkommunikatioun."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Et bedeit mir d'Welt, datt ...",
+    "translation": "It means the world to me that ...",
+    "b1": [
+      "Et bedeit mir d'Welt, datt du fir mech do bass.",
+      "Et bedeit mir d'Welt, datt du un mech geduecht hues.",
+      "Et bedeit mir d'Welt, datt mir esou gutt Frënn sinn.",
+      "Et bedeit mir d'Welt, datt du mir dëst Geschenk ginn hues.",
+      "Et bedeit mir d'Welt, datt du mir gehollef hues."
+    ],
+    "b2": [
+      "Et bedeit mir d'Welt, datt du mir an där schwiereger Zäit gegleeft hues.",
+      "Et bedeit mir d'Welt, datt du meng Iddie ënnerstëtzt hues.",
+      "Et bedeit mir d'Welt, datt mir dës Zäit zesumme verbrénge kënnen.",
+      "Et bedeit mir d'Welt, datt du meng Konscht schätzt.",
+      "Et bedeit mir d'Welt, datt du mech versti kanns."
+    ],
+    "c1": [
+      "Et bedeit mir d'Welt, datt du meng ethesch Prinzipien an der Institutioun verteidegt hues.",
+      "Et bedeit mir d'Welt, datt du mir Äre vollen Vertrauen an deem grousse Projet geschenkt hues.",
+      "Et bedeit mir d'Welt, datt du d'Wichtegkeet vun dëser Fuerschung erkannt an ënnerstëtzt hues.",
+      "Et bedeit mir d'Welt, datt du als Mentor an mengem beruffleche Wee gedéngt hues.",
+      "Et bedeit mir d'Welt, datt du d'Solidaritéit am Team mat sou engem Engagement gelieft hues."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Deng Siichtweis iwwer ... ass onheemlech wäertvoll.",
+    "translation": "Your perspective on ... is incredibly valuable.",
+    "b1": [
+      "Deng Siichtweis iwwer dës Konscht ass onheemlech wäertvoll.",
+      "Deng Siichtweis iwwer dës Stad ass onheemlech wäertvoll.",
+      "Deng Siichtweis iwwer dat Buch ass onheemlech wäertvoll.",
+      "Deng Siichtweis iwwer dat Thema ass onheemlech wäertvoll.",
+      "Deng Siichtweis iwwer d'Liewen ass onheemlech wäertvoll."
+    ],
+    "b2": [
+      "Deng Siichtweis iwwer de Klimawandel ass onheemlech wäertvoll.",
+      "Deng Siichtweis iwwer d'Marketingstrategie ass onheemlech wäertvoll.",
+      "Deng Siichtweis iwwer dat neit Gesetz ass onheemlech wäertvoll.",
+      "Deng Siichtweis iwwer d'Aarbecht mat de Leit ass onheemlech wäertvoll.",
+      "Deng Siichtweis iwwer d'Investitioun ass onheemlech wäertvoll."
+    ],
+    "c1": [
+      "Deng Siichtweis iwwer déi geopolitesch Entwécklungen ass onheemlech wäertvoll.",
+      "Deng Siichtweis iwwer d'Implikatioune vun der künstlecher Intelligenz ass onheemlech wäertvoll.",
+      "Deng Siichtweis iwwer d'wirtschaftlech Trendanalysen ass onheemlech wäertvoll.",
+      "Deng Siichtweis iwwer d'global strukturell Reform ass onheemlech wäertvoll.",
+      "Deng Siichtweis iwwer d'integréiert Risiko-Bestëmmung ass onheemlech wäertvoll."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Ech wëll meng déifste Dankbarkeet ausdrécken fir ...",
+    "translation": "I want to express my deepest gratitude for ...",
+    "b1": [
+      "Ech wëll meng déifste Dankbarkeet ausdrécken fir Är grouss Hëllef.",
+      "Ech wëll meng déifste Dankbarkeet ausdrécken fir d'Gesondheet vun der Famill.",
+      "Ech wëll meng déifste Dankbarkeet ausdrécken fir d'Frëndlechkeet vun iech.",
+      "Ech wëll meng déifste Dankbarkeet ausdrécken fir de schéine Empfang.",
+      "Ech wëll meng déifste Dankbarkeet ausdrécken fir d'Ënnerstëtzung."
+    ],
+    "b2": [
+      "Ech wëll meng déifste Dankbarkeet ausdrécken fir d'Loyalitéit wärend der Kris.",
+      "Ech wëll meng déifste Dankbarkeet ausdrécken fir Är professionell Berodung.",
+      "Ech wëll meng déifste Dankbarkeet ausdrécken fir d'Zesummenaarbecht iwwer d'Joren.",
+      "Ech wëll meng déifste Dankbarkeet ausdrécken fir de Schutz an d'Hëllef.",
+      "Ech wëll meng déifste Dankbarkeet ausdrécken fir Är Gedold an dësem Fall."
+    ],
+    "c1": [
+      "Ech wëll meng déifste Dankbarkeet ausdrécken fir den aussergewéinlechen Asaz fir d'Institutioun.",
+      "Ech wëll meng déifste Dankbarkeet ausdrécken fir déi liewenslaang Mentorschaft.",
+      "Ech wëll meng déifste Dankbarkeet ausdrécken fir d'Attributioun vun dësem wichtege Mandat.",
+      "Ech wëll meng déifste Dankbarkeet ausdrécken fir d'Nohalteg Ënnerstëtzung vu menge wëssenschaftlechen Ziler.",
+      "Ech wëll meng déifste Dankbarkeet ausdrécken fir d'unerschütterlech ethesch Haltung."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Du hues en riesegen Ënnerscheed gemaach bei ...",
+    "translation": "You've made a huge difference in ...",
+    "b1": [
+      "Du hues en riesegen Ënnerscheed gemaach bei menger Ausbildung.",
+      "Du hues en riesegen Ënnerscheed gemaach bei dësem Haus.",
+      "Du hues en riesegen Ënnerscheed gemaach bei eisem Alldag.",
+      "Du hues en riesegen Ënnerscheed gemaach bei dësem Club.",
+      "Du hues en riesegen Ënnerscheed gemaach bei der Stëmmung."
+    ],
+    "b2": [
+      "Du hues en riesegen Ënnerscheed gemaach bei der Leeschtung vum Team.",
+      "Du hues en riesegen Ënnerscheed gemaach bei der Sécherheet op der Aarbecht.",
+      "Du hues en riesegen Ënnerscheed gemaach bei der Zesummenaarbecht vun den Departementer.",
+      "Du hues en riesegen Ënnerscheed gemaach bei der Léisung vun dësem komplexe Problem.",
+      "Du hues en riesegen Ënnerscheed gemaach bei der Ëmweltschutz-Initiativ."
+    ],
+    "c1": [
+      "Du hues en riesegen Ënnerscheed gemaach bei der Transformatioun vun der Organisatiounskultur.",
+      "Du hues en riesegen Ënnerscheed gemaach bei der strategescher Ausriichtung vum Betrib.",
+      "Du hues en riesegen Ënnerscheed gemaach bei der Erhéijung vun der globaler Effizienz.",
+      "Du hues en riesegen Ënnerscheed gemaach bei der Entwécklung vun neien nohaltegen Normen.",
+      "Du hues en riesegen Ënnerscheed gemaach bei der Verwirklechung vun dësem historesche Projet."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Ech si sou impressionéiert vun däiner Fäegkeet fir ...",
+    "translation": "I'm so impressed by your ability to ...",
+    "b1": [
+      "Ech si sou impressionéiert vun däiner Fäegkeet fir séier ze kachen.",
+      "Ech si sou impressionéiert vun däiner Fäegkeet fir gutt ze sangen.",
+      "Ech si sou impressionéiert vun däiner Fäegkeet fir Friemsproochen ze schwätzen.",
+      "Ech si sou impressionéiert vun däiner Fäegkeet fir Frënn ze maachen.",
+      "Ech si sou impressionéiert vun däiner Fäegkeet fir laang ze lafen."
+    ],
+    "b2": [
+      "Ech si sou impressionéiert vun däiner Fäegkeet fir Leit ze iwwerzeegen.",
+      "Ech si sou impressionéiert vun däiner Fäegkeet fir séier ze léieren.",
+      "Ech si sou impressionéiert vun däiner Fäegkeet fir verschidde Saachen gläichzäiteg ze maachen.",
+      "Ech si sou impressionéiert vun däiner Fäegkeet fir ënner Drock ze schaffen.",
+      "Ech si sou impressionéiert vun däiner Fäegkeet fir d'Leit ze berouegen."
+    ],
+    "c1": [
+      "Ech si sou impressionéiert vun däiner Fäegkeet fir komplex Donnéeën direkt ze analyséieren.",
+      "Ech si sou impressionéiert vun däiner Fäegkeet fir innovative Léisungen an engem traditionelle Kader ëmzesetzen.",
+      "Ech si sou impressionéiert vun däiner Fäegkeet fir d'Konsequenze vun globalen Krisen ze antizipéieren.",
+      "Ech si sou impressionéiert vun däiner Fäegkeet fir vergläichbar Verhandlungen erfollegräich ze leeden.",
+      "Ech si sou impressionéiert vun däiner Fäegkeet fir d'Equilibrum tëscht Wirtschaftlechkeet an Ethik ze halen."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Merci datt s de dir d'Zäit geholl hues fir ...",
+    "translation": "Thank you for taking the time to ...",
+    "b1": [
+      "Merci datt s de dir d'Zäit geholl hues fir mat mir ze schwätzen.",
+      "Merci datt s de dir d'Zäit geholl hues fir mir ze hëllefen.",
+      "Merci datt s de dir d'Zäit geholl hues fir ze kucken.",
+      "Merci datt s de dir d'Zäit geholl hues fir de Bréif ze liesen.",
+      "Merci datt s de dir d'Zäit geholl hues fir matkomm ze sinn."
+    ],
+    "b2": [
+      "Merci datt s de dir d'Zäit geholl hues fir meng Froen ze äntwerten.",
+      "Merci datt s de dir d'Zäit geholl hues fir d'Präsentatioun ze kucken.",
+      "Merci datt s de dir d'Zäit geholl hues fir de Plang ze erklären.",
+      "Merci datt s de dir d'Zäit geholl hues fir mech ze treffen.",
+      "Merci datt s de dir d'Zäit geholl hues fir de Bericht ze korrigéieren."
+    ],
+    "c1": [
+      "Merci datt s de dir d'Zäit geholl hues fir dës déifgehend strategesch Berodung ze ginn.",
+      "Merci datt s de dir d'Zäit geholl hues fir de komplexe Sachverhalt am Detail ze analyséieren.",
+      "Merci datt s de dir d'Zäit geholl hues fir eng grëndlech Evaluatioun vum Projet ze maachen.",
+      "Merci datt s de dir d'Zäit geholl hues fir mech an dës nei Thematik anzeféieren.",
+      "Merci datt s de dir d'Zäit geholl hues fir d'Verhandlungen mat de Partner ze féieren."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Mir si glécklech een ze hunn deen ... kann.",
+    "translation": "We are fortunate to have someone who can ...",
+    "b1": [
+      "Mir si glécklech een ze hunn deen gutt kachen kann.",
+      "Mir si glécklech een ze hunn deen d'Kanner hëllefe kann.",
+      "Mir si glécklech een ze hunn deen schéin Musek maache kann.",
+      "Mir si glécklech een ze hunn deen Auto fuere kann.",
+      "Mir si glécklech een ze hunn deen laache kann."
+    ],
+    "b2": [
+      "Mir si glécklech een ze hunn deen d'Technologie richteg bedéngen kann.",
+      "Mir si glécklech een ze hunn deen d'Finanze verwalten kann.",
+      "Mir si glécklech een ze hunn deen d'Leit motivéiere kann.",
+      "Mir si glécklech een ze hunn deen sou gutt op d'Clientë këmmeren kann.",
+      "Mir si glécklech een ze hunn deen d'Rees plange kann."
+    ],
+    "c1": [
+      "Mir si glécklech een ze hunn deen déi komplex international Richtlinnen verstoen kann.",
+      "Mir si glécklech een ze hunn deen d'Risikoanalyse op héijem Niveau maache kann.",
+      "Mir si glécklech een ze hunn deen d'Transformatioun vun der Software droen kann.",
+      "Mir si glécklech een ze hunn deen d'Verhandlungen mat de Regierungsorganer féieren kann.",
+      "Mir si glécklech een ze hunn deen d'interdisziplinär Fuerschung leede kann."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Deng Bereetschaft fir ... fällt wierklech op.",
+    "translation": "Your willingness to ... really stands out.",
+    "b1": [
+      "Deng Bereetschaft fir anerer ze hëllefen fällt wierklech op.",
+      "Deng Bereetschaft fir mat ze schaffen fällt wierklech op.",
+      "Deng Bereetschaft fir nei Saachen ausprobéieren fällt wierklech op.",
+      "Deng Bereetschaft fir ze léiere fällt wierklech op.",
+      "Deng Bereetschaft fir ze lauschteren fällt wierklech op."
+    ],
+    "b2": [
+      "Deng Bereetschaft fir Verantwortung ze iwwerhuelen fällt wierklech op.",
+      "Deng Bereetschaft fir Iwwerstonnen ze maachen fällt wierklech op.",
+      "Deng Bereetschaft fir kritesch Feedback unzehuelen fällt wierklech op.",
+      "Deng Bereetschaft fir nei Aufgaben z'iwwerhuelen fällt wierklech op.",
+      "Deng Bereetschaft fir anerer ze ënnerstëtzen fällt wierklech op."
+    ],
+    "c1": [
+      "Deng Bereetschaft fir Kompromësser ouni Verloscht un den ethesche Prinzipien anzegoen fällt wierklech op.",
+      "Deng Bereetschaft fir eng aktiv Roll an der Krisenbewältegung ze iwwerhuelen fällt wierklech op.",
+      "Deng Bereetschaft fir innovativ Weeër an der strategescher Planung ze goen fällt wierklech op.",
+      "Deng Bereetschaft fir d'Verantwortung fir fehlerhaft Decisiounen ze droen fällt wierklech op.",
+      "Deng Bereetschaft fir eng liewenslaang akademesch Weiderbildung ze maachen fällt wierklech op."
+    ]
+  }
+]

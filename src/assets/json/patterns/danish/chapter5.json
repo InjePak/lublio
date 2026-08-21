@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Jeg føler mig helt overvældet af ... angående ...",
+    "translation": "I feel overwhelmingly ... about ...",
+    "b1": [
+      "Jeg føler mig helt overvældet af glæde angående den gode nyhed.",
+      "Jeg føler mig helt overvældet af træthed angående det lange arbejde.",
+      "Jeg føler mig helt overvældet af stress angående den kommende eksamen.",
+      "Jeg føler mig helt overvældet af taknemmelighed angående din hjælp.",
+      "Jeg føler mig helt overvældet af tvivl angående mit nye valg."
+    ],
+    "b2": [
+      "Jeg føler mig helt overvældet af følelser angående hele denne situation.",
+      "Jeg føler mig helt overvældet af usikkerhed angående fremtiden for vores projekt.",
+      "Jeg føler mig helt overvældet af stolthed angående dit flotte resultat.",
+      "Jeg føler mig helt overvældet af ansvar angående den nye rolle i virksomheden.",
+      "Jeg føler mig helt overvældet af begejstring angående de nye muligheder."
+    ],
+    "c1": [
+      "Jeg føler mig helt overvældet af afmagt angående den komplekse politiske udvikling.",
+      "Jeg føler mig helt overvældet af ærefrygt angående den storslåede arkitektur.",
+      "Jeg føler mig helt overvældet af vemod angående tingenes uundgåelige forgængelighed.",
+      "Jeg føler mig helt overvældet af indignation angående den åbenlyse uretfærdighed.",
+      "Jeg føler mig helt overvældet af kompleksiteten angående det teoretiske rammeværk."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Det rørte virkelig mit hjerte, da ...",
+    "translation": "It truly touched my heart when ...",
+    "b1": [
+      "Det rørte virkelig mit hjerte, da du ringede til mig.",
+      "Det rørte virkelig mit hjerte, da børnene sang for os.",
+      "Det rørte virkelig mit hjerte, da hun gav mig blomsterne.",
+      "Det rørte virkelig mit hjerte, da han hjalp den gamle dame.",
+      "Det rørte virkelig mit hjerte, da vi så det gamle billede."
+    ],
+    "b2": [
+      "Det rørte virkelig mit hjerte, da du sendte mig de søde ord i en svær tid.",
+      "Det rørte virkelig mit hjerte, da hele holdet samledes for at støtte ham.",
+      "Det rørte virkelig mit hjerte, da kunden udtrykte sin dybe taknemmelighed.",
+      "Det rørte virkelig mit hjerte, da jeg så deres store genforening i lufthavnen.",
+      "Det rørte virkelig mit hjerte, da hun delte sin personlige historie."
+    ],
+    "c1": [
+      "Det rørte virkelig mit hjerte, da samfundet udviste en så overvældende solidaritet.",
+      "Det rørte virkelig mit hjerte, da han udviste en usædvanlig menneskelig rummelighed.",
+      "Det rørte virkelig mit hjerte, da hendes oprigtige medfølelse skinnede igennem i talen.",
+      "Det rørte virkelig mit hjerte, da de ukendte borgere trådte til med uvurderlig støtte.",
+      "Det rørte virkelig mit hjerte, da kunstneren fangede den smukke og rå menneskelige sårbardhed."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Jeg er dybt bekymret for ...",
+    "translation": "I'm deeply concerned about ...",
+    "b1": [
+      "Jeg er dybt bekymret for mit helbred.",
+      "Jeg er dybt bekymret for min vens eksamen.",
+      "Jeg er dybt bekymret for det dårlige vejr.",
+      "Jeg er dybt bekymret for økonomien i denne måned.",
+      "Jeg er dybt bekymret for vores rejse i morgen."
+    ],
+    "b2": [
+      "Jeg er dybt bekymret for medarbejdernes trivsel i denne periode.",
+      "Jeg er dybt bekymret for de stigende leveomkostninger i samfundet.",
+      "Jeg er dybt bekymret for projektets stramme tidsplan.",
+      "Jeg er dybt bekymret for konsekvenserne af de nye besparelser.",
+      "Jeg er dybt bekymret for den manglende gennemskuelighed i processen."
+    ],
+    "c1": [
+      "Jeg er dybt bekymret for erosionen af de demokratiske institutioner.",
+      "Jeg er dybt bekymret for den langsigtede bæredygtighed af vores økosystem.",
+      "Jeg er dybt bekymret for den voksende polarisering i den offentlige debat.",
+      "Jeg er dybt bekymret for de geopolitiske spændingers indvirkning på stabiliteten.",
+      "Jeg er dybt bekymret for den etiske regulering af de nyeste teknologier."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Der er lettet en kæmpe sten fra mine skuldre, fordi ...",
+    "translation": "There's a huge weight lifted off my shoulders because ...",
+    "b1": [
+      "Der er lettet en kæmpe sten fra mine skuldre, fordi prøven er overstået.",
+      "Der er lettet en kæmpe sten fra mine skuldre, fordi jeg fandt mine nøgler.",
+      "Der er lettet en kæmpe sten fra mine skuldre, fordi toget nåede frem.",
+      "Der er lettet en kæmpe sten fra mine skuldre, fordi du kom og hjalp.",
+      "Der er lettet en kæmpe sten fra mine skuldre, fordi lægen sagde, at alt var fint."
+    ],
+    "b2": [
+      "Der er lettet en kæmpe sten fra mine skuldre, fordi vi endelig har nået vores mål.",
+      "Der er lettet en kæmpe sten fra mine skuldre, fordi budgettet er blevet godkendt.",
+      "Der er lettet en kæmpe sten fra mine skuldre, fordi misforståelsen er blevet opklaret.",
+      "Der er lettet en kæmpe sten fra mine skuldre, fordi jeg har afleveret den store rapport.",
+      "Der er lettet en kæmpe sten fra mine skuldre, fordi kontrakten endelig er underskrevet."
+    ],
+    "c1": [
+      "Der er lettet en kæmpe sten fra mine skuldre, fordi auditeringen forløb uden anmærkninger.",
+      "Der er lettet en kæmpe sten fra mine skuldre, fordi den juridiske tvist er afsluttet med et forlig.",
+      "Der er lettet en kæmpe sten fra mine skuldre, fordi virksomheden har sikret den nødvendige kapital.",
+      "Der er lettet en kæmpe sten fra mine skuldre, fordi de usikre forudsætninger endelig er afklaret.",
+      "Der er lettet en kæmpe sten fra mine skuldre, fordi myndighederne har givet deres endelige godkendelse."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Jeg kan ikke skjule, hvor meget jeg sætter pris på ...",
+    "translation": "I can't hide how much I appreciate ...",
+    "b1": [
+      "Jeg kan ikke skjule, hvor meget jeg sætter pris på din hjælp.",
+      "Jeg kan ikke skjule, hvor meget jeg sætter pris på maden.",
+      "Jeg kan ikke skjule, hvor meget jeg sætter pris på din støtte.",
+      "Jeg kan ikke skjule, hvor meget jeg sætter pris på dette flotte gave.",
+      "Jeg kan ikke skjule, hvor meget jeg sætter pris på dit venskab."
+    ],
+    "b2": [
+      "Jeg kan ikke skjule, hvor mycket jeg sætter pris på din faglige indsats i projektet.",
+      "Jeg kan ikke skjule, hvor meget jeg sætter pris på den tillid, I viser mig.",
+      "Jeg kan ikke skjule, hvor meget jeg sætter pris på den konstruktive kritik.",
+      "Jeg kan ikke skjule, hvor meget jeg sætter pris på teamets engagement i denne uge.",
+      "Jeg kan ikke skjule, hvor meget jeg sætter pris på din fleksibilitet i situationen."
+    ],
+    "c1": [
+      "Jeg kan ikke skjule, hvor meget jeg sætter pris på din uforlignelige dedikation til sagen.",
+      "Jeg kan ikke skjule, hvor meget jeg sætter pris på det ekstraordinære engagement fra alle parter.",
+      "Jeg kan ikke skjule, hvor meget jeg sætter pris på den intellektuelle dybde i vores drøftelser.",
+      "Jeg kan ikke skjule, hvor meget jeg sætter pris på din udvisning af strategisk fremsynethed.",
+      "Jeg kan ikke skjule, hvor meget jeg sætter pris på den gensidige respekt, der præger vores samarbejde."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Jeg føler en dyb sorg over ...",
+    "translation": "I feel a profound sense of sadness over ...",
+    "b1": [
+      "Jeg føler en dyb sorg over tabet af min hund.",
+      "Jeg føler en dyb sorg over den dårlige nyhed.",
+      "Jeg føler en dyb sorg over at skulle sige farvel.",
+      "Jeg føler en dyb sorg over ulykken i byen.",
+      "Jeg føler en dyb sorg over at miste kontakten."
+    ],
+    "b2": [
+      "Jeg føler en dyb sorg over situationen for de ramte familier.",
+      "Jeg føler en dyb sorg over lukningen af den lokale skole.",
+      "Jeg føler en dyb sorg over måden, som samarbejdet afsluttedes på.",
+      "Jeg føler en dyb sorg over de spildte muligheder i dette projekt.",
+      "Jeg føler en dyb sorg over den voksende ensomhed blandt ældre."
+    ],
+    "c1": [
+      "Jeg føler en dyb sorg over den gradvise ødelæggelse af kulturarven.",
+      "Jeg føler en dyb sorg over tabet af den menneskelige værdighed i konflikten.",
+      "Jeg føler en dyb sorg over det tragiske tab af dyrebare menneskeliv.",
+      "Jeg føler en dyb sorg over den generelle mangel på empati i samfundet.",
+      "Jeg føler en dyb sorg over de uoprettelige skader på miljøet."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Ord kan ikke beskrive, hvor meget ...",
+    "translation": "Words can't describe how much ...",
+    "b1": [
+      "Ord kan ikke beskrive, hvor meget jeg elsker min familie.",
+      "Ord kan ikke beskrive, hvor meget jeg glæder mig.",
+      "Ord kan ikke beskrive, hvor meget jeg savner dig.",
+      "Ord kan ikke beskrive, hvor meget jeg kan lide dette sted.",
+      "Ord kan ikke beskrive, hvor meget jeg takker dig."
+    ],
+    "b2": [
+      "Ord kan ikke beskrive, hvor meget denne chance betyder for min karriere.",
+      "Ord kan ikke beskrive, hvor meget vi vil savne din ekspertise her.",
+      "Ord kan ikke beskrive, hvor meget jeres opmuntring hjalp mig igennem krisen.",
+      "Ord kan ikke beskrive, hvor meget indsats der ligger bag dette succesfulde resultat.",
+      "Ord kan ikke beskrive, hvor meget glæde den nyhed bragte til hele kontoret."
+    ],
+    "c1": [
+      "Ord kan ikke beskrive, hvor meget dette banebrydende værk har påvirket min tankegang.",
+      "Ord kan ikke beskrive, hvor meget den udviste standhaftighed har inspireret os alle.",
+      "Ord kan ikke beskrive, hvor meget denne opdagelse vil ændre vores faglige felt.",
+      "Ord kan ikke beskrive, hvor meget din uselviske handling har forandret liv.",
+      "Ord kan ikke beskrive, hvor meget det symbolske øjeblik rørte hele befolkningen."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Jeg har kæmpet med tanken om ...",
+    "translation": "I have been struggling with the thought of ...",
+    "b1": [
+      "Jeg har kæmpet med tanken om at flytte til en anden by.",
+      "Jeg har kæmpet med tanken om at skifte job.",
+      "Jeg har kæmpet med tanken om at fortælle ham sandheden.",
+      "Jeg har kæmpet med tanken om at holde op med at ryge.",
+      "Jeg har kæmpet med tanken om at rejse alene."
+    ],
+    "b2": [
+      "Jeg har kæmpet med tanken om at opgive projektet helt.",
+      "Jeg har kæmpet med tanken om at tage en lang pause fra arbejdet.",
+      "Jeg har kæmpet med tanken om, at jeg måske tog den forkerte beslutning.",
+      "Jeg har kæmpet med tanken om at konfrontere min leder med problemet.",
+      "Jeg har kæmpet med tanken om at sælge min virksomhed."
+    ],
+    "c1": [
+      "Jeg har kæmpet med tanken om de etiske konsekvenser af vores valg.",
+      "Jeg har kæmpet med tanken om min egen faglige utilstrækkelighed i denne rolle.",
+      "Jeg har kæmpet med tanken om at foretage en radikal strategisk omlægning.",
+      "Jeg har kæmpet med tanken om, hvorvidt kompromiset reelt var omkostningerne værd.",
+      "Jeg har kæmpet med tanken om den eksistentielle usikkerhed, vi står overfor."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Min største frygt er, at ...",
+    "translation": "My greatest fear is that ...",
+    "b1": [
+      "Min største frygt er, at jeg kommer for sent.",
+      "Min største frygt er, at jeg dumper eksamen.",
+      "Min største frygt er, at det begynder at regne.",
+      "Min største frygt er, at jeg mister mit pas.",
+      "Min største frygt er, at ingen kommer til min fest."
+    ],
+    "b2": [
+      "Min største frygt er, at vi ikke når at overholde deadlinen.",
+      "Min største frygt er, at budgettet overskrides væsentligt.",
+      "Min største frygt er, at projektet mister sin finansiering.",
+      "Min største frygt er, at kunderne mister tilliden til vores brand.",
+      "Min største frygt er, at vi gengentager de samme fejl fra fortiden."
+    ],
+    "c1": [
+      "Min største frygt er, at de systemiske svigt vil føre til uoprettelig skade.",
+      "Min største frygt er, at de vigtigste interessenter vil trække deres støtte tilbage.",
+      "Min største frygt er, at de utilsigtede følgevirkninger vil overskygge fordelene.",
+      "Min største frygt er, at organisationen vil stagnere på grund af berøringsangst.",
+      "Min største frygt er, at den faglige standard vil blive udvandet over tid."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Denne situation har efterladt mig med en følelse af at være ret ...",
+    "translation": "This situation has left me feeling quite ...",
+    "b1": [
+      "Denne situation har efterladt mig med en følelse af at være ret træt.",
+      "Denne situation har efterladt mig med en følelse af at være ret forvirret.",
+      "Denne situation har efterladt mig med en følelse af at være ret trist.",
+      "Denne situation har efterladt mig med en følelse af at være ret alene.",
+      "Denne situation har efterladt mig med en følelse af at være ret usikker."
+    ],
+    "b2": [
+      "Denne situation har efterladt mig med en følelse af at være ret frustreret over forløbet.",
+      "Denne situation har efterladt mig med en følelse af at være ret hjælpeløs over for ændringerne.",
+      "Denne situation har efterladt mig med en følelse af at være ret skuffet over resultatet.",
+      "Denne situation har efterladt mig med en følelse af at være ret optimistisk på trods af alt.",
+      "Denne situation har efterladt mig med en følelse af at være ret anspændt omkring næste skridt."
+    ],
+    "c1": [
+      "Denne situation har efterladt mig med en følelse af at være ret desillusioneret angående systemet.",
+      "Denne situation har efterladt mig med en følelse af at være ret desorienteret strategisk set.",
+      "Denne situation har efterladt mig med en følelse af at være ret modløs over de manglende fremskridt.",
+      "Denne situation har efterladt mig med en følelse af at være ret ængstelig ved de fremtidige perspektiver.",
+      "Denne situation har efterladt mig med en følelse af at være ret foruroliget over retsudviklingen."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Det skærer mig i hjertet at se ...",
+    "translation": "It breaks my heart to see ...",
+    "b1": [
+      "Det skærer mig i hjertet at se mit barn være ked af det.",
+      "Det skærer mig i hjertet at se den dyre bil blive ødelagt.",
+      "Det skærer mig i hjertet at se folk smide mad ud.",
+      "Det skærer mig i hjertet at se de syge dyr.",
+      "Det skærer mig i hjertet at se ham græde."
+    ],
+    "b2": [
+      "Det skærer mig i hjertet at se så mange mennesker miste deres arbejde.",
+      "Det skærer mig i hjertet at se den smukke natur blive forurenet.",
+      "Det skærer mig i hjertet at se gamle venner glide fra hinanden.",
+      "Det skærer mig i hjertet at se det gode projekt slå fejl.",
+      "Det skærer mig i hjertet at se den manglende støtte til de svage i samfundet."
+    ],
+    "c1": [
+      "Det skærer mig i hjertet at se de uskyldige ofre lide under konflikten.",
+      "Det skærer mig i hjertet at se årelangt kulturelt arbejde gå til grunde.",
+      "Det skærer mig i hjertet at se principper om retfærdighed blive trådt under fod.",
+      "Det skærer mig i hjertet at se det enorme potentiale gå til spilde på grund af bureaukrati.",
+      "Det skærer mig i hjertet at se den stigende fattigdom blandt sårbare grupper."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Jeg beundrer oprigtigt din styrke til at ...",
+    "translation": "I genuinely admire your strength in ...",
+    "b1": [
+      "Jeg beundrer oprigtigt din styrke til at fortsætte.",
+      "Jeg beundrer oprigtigt din styrke til at hjælpe andre.",
+      "Jeg beundrer oprigtigt din styrke til at arbejde så meget.",
+      "Jeg beundrer oprigtigt din styrke til at være glad.",
+      "Jeg beundrer oprigtigt din styrke til at tale foran mange mennesker."
+    ],
+    "b2": [
+      "Jeg beundrer oprigtigt din styrke til at håndtere den svære situation.",
+      "Jeg beundrer oprigtigt din styrke til at stå ved dine beslutninger.",
+      "Jeg beundrer oprigtigt din styrke til at bevare roen under pres.",
+      "Jeg beundrer oprigtigt din styrke til at starte forfra efter nederlaget.",
+      "Jeg beundrer oprigtigt din styrke til at tage ansvaret på dine skuldre."
+    ],
+    "c1": [
+      "Jeg beundrer oprigtigt din styrke til at navigere i det komplekse politiske landskab.",
+      "Jeg beundrer oprigtigt din styrke til at udvise ukuelig modstandskraft over for modgang.",
+      "Jeg beundrer oprigtigt din styrke til at fastholde din etiske integritet mod alle odds.",
+      "Jeg beundrer oprigtigt din styrke til at udvise empati og lederskab i krisetider.",
+      "Jeg beundrer oprigtigt din styrke til at gennemføre så ubehagelige, men nødvendige forandringer."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Den dybe mening bag ... er ...",
+    "translation": "The deep meaning behind ... is ...",
+    "b1": [
+      "Den dybe mening bag denne tradition er at samle familien.",
+      "Den dybe mening bag gaven er at sige tak.",
+      "Den dybe mening bag sangen er kærlighed.",
+      "Den dybe mening bag bogen er at lære noget nyt.",
+      "Den dybe mening bag historien er venskab."
+    ],
+    "b2": [
+      "Den dybe mening bag dette initiativ er at skabe mere lighed.",
+      "Den dybe mening bag vores nye strategi er at sikre langvarig vækst.",
+      "Den dybe mening bag maleriet er kunstnerens protest mod krig.",
+      "Den dybe mening bag denne ændring er at forbedre arbejdsmiljøet.",
+      "Den dybe mening bag talen var at samle hele organisationen."
+    ],
+    "c1": [
+      "Den dybe mening bag denne filosofiske tankegang er søgningen efter eksistentiel sandhed.",
+      "Den dybe mening bag reformen er en grundlæggende redefinition af samfundskontrakten.",
+      "Den dybe mening bag dette kunstneriske værk er kritikken af den moderne forbrugskultur.",
+      "Den dybe mening bag de politiske tiltag er at beskytte fremtidige generationers rettigheder.",
+      "Den dybe mening bag denne historiske begivenhed er påmindelsen om den skrøbelige fred."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Jeg er fuldstændig knust over ...",
+    "translation": "I'm absolutely devastated by ...",
+    "b1": [
+      "Jeg er fuldstændig knust over det dårlige resultat.",
+      "Jeg er fuldstændig knust over at have mistet min telefon.",
+      "Jeg er fuldstændig knust over den triste nyhed.",
+      "Jeg er fuldstændig knust over ulykken.",
+      "Jeg er fuldstændig knust over, at du ikke kan komme."
+    ],
+    "b2": [
+      "Jeg er fuldstændig knust over meddelelsen om virksomhedens lukning.",
+      "Jeg er fuldstændig knust over afvisningen på min ansøgning.",
+      "Jeg er fuldstændig knust over ødelæggelserne efter stormen.",
+      "Jeg er fuldstændig knust over det pludselige dødsfald i familien.",
+      "Jeg er fuldstændig knust over svigtet fra en nær ven."
+    ],
+    "c1": [
+      "Jeg er fuldstændig knust over de katastrofale følger af naturkatastrofen.",
+      "Jeg er fuldstændig knust over det tragiske tab af ukendte kulturværdier.",
+      "Jeg er fuldstændig knust over det fuldstændige sammenbrud i fredsforhandlingerne.",
+      "Jeg er fuldstændig knust over opdagelsen af det omfattende økonomiske bedrag.",
+      "Jeg er fuldstændig knust over den menneskelige tragedie, der udspiller sig i regionen."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Det er svært at sætte ord på den glæde, jeg føler, når ...",
+    "translation": "It's hard to articulate the joy I feel when ...",
+    "b1": [
+      "Det er svært at sætte ord på den glæde, jeg føler, når solen skinner.",
+      "Det er svært at sætte ord på den glæde, jeg føler, når jeg ser dig.",
+      "Det er svært at sætte ord på den glæde, jeg føler, når jeg kommer hjem.",
+      "Det er svært at sætte ord på den glæde, jeg føler, når vi spiser sammen.",
+      "Det er svært at sætte ord på den glæde, jeg føler, når jeg har fri."
+    ],
+    "b2": [
+      "Det er svært at sætte ord på den glæde, jeg føler, når et svært projekt lykkes.",
+      "Det er svært at sætte ord på den glæde, jeg føler, når jeg ser børnenes udvikling.",
+      "Det er svært at sætte ord på den glæde, jeg føler, når vi opnår vores fælles mål.",
+      "Det er svært at sætte ord på den glæde, jeg føler, når jeg hjælper andre med at få succes.",
+      "Det er svært at sætte ord på den glæde, jeg føler, når jeg rejser til nye steder."
+    ],
+    "c1": [
+      "Det er svært at sætte ord på den glæde, jeg føler, når årelangt forskningsarbejde endelig bærer frugt.",
+      "Det er svært at sætte ord på den glæde, jeg føler, når en dyb kunstnerisk oplevelse rammer mig.",
+      "Det er svært at sætte ord på den glæde, jeg føler, når vi opnår ægte konsensus efter ugers uenighed.",
+      "Det er svært at sætte ord på den glæde, jeg føler, når en ny generation overgår vores forventninger.",
+      "Det er svært at sætte ord på den glæde, jeg føler, når retfærdigheden endelig fyldestgøres."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Denne oplevelse har givet mig et nyt perspektiv på ...",
+    "translation": "This experience has given me a new perspective on ...",
+    "b1": [
+      "Denne oplevelse har givet mig et nyt perspektiv på mit liv.",
+      "Denne oplevelse har givet mig et nyt perspektiv på arbejdet.",
+      "Denne oplevelse har givet mig et nyt perspektiv på penge.",
+      "Denne oplevelse har givet mig et nyt perspektiv på familien.",
+      "Denne oplevelse har givet mig et nyt perspektiv på sundhed."
+    ],
+    "b2": [
+      "Denne oplevelse har givet mig et nyt perspektiv på balancen mellem arbejde og privatliv.",
+      "Denne oplevelse har givet mig et nyt perspektiv på vigtigheden af god kommunikation.",
+      "Denne oplevelse har givet mig et nyt perspektiv på, hvordan vi håndterer kriser.",
+      "Denne oplevelse har givet mig et nyt perspektiv på kulturforskelle i forretningsverdenen.",
+      "Denne oplevelse har givet mig et nyt perspektiv på værdien af teamwork."
+    ],
+    "c1": [
+      "Denne oplevelse har givet mig et nyt perspektiv på de underliggende samfundsstrukturer.",
+      "Denne oplevelse har givet mig et nyt perspektiv på menneskelig resiliens under ekstremt pres.",
+      "Denne oplevelse har givet mig et nyt perspektiv på de kompleksiteter, der præger globaliseringen.",
+      "Denne oplevelse har givet mig et nyt perspektiv på grænserne for traditionel ledelsesteori.",
+      "Denne oplevelse har givet mig et nyt perspektiv på sammenhængen mellem etik og teknologi."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Jeg føler en enorm lettelse over, at ...",
+    "translation": "I feel an immense sense of relief that ...",
+    "b1": [
+      "Jeg føler en enorm lettelse over, at prøven er færdig.",
+      "Jeg føler en enorm lettelse over, at ingen kom til skade.",
+      "Jeg føler en enorm lettelse over, at pakken ankom i tide.",
+      "Jeg føler en enorm lettelse over, at du har det godt.",
+      "Jeg føler en enorm lettelse over, at det ikke regner i dag."
+    ],
+    "b2": [
+      "Jeg føler en enorm lettelse over, at vi overholdt den svære deadline.",
+      "Jeg føler en enorm lettelse over, at operationen gik fuldstændig som planlagt.",
+      "Jeg føler en enorm lettelse over, at misforståelsen med kunden blev løst.",
+      "Jeg føler en enorm lettelse over, at alle arbejdspladser blev bevaret.",
+      "Jeg føler en enorm lettelse over, at aftalen blev indgået uden konflikt."
+    ],
+    "c1": [
+      "Jeg føler en enorm lettelse over, at de uafhængige analyser bekræftede vores hypotese.",
+      "Jeg føler en enorm lettelse over, at krisestyringsplanen afbødede de alvorligste konsekvenser.",
+      "Jeg føler en enorm lettelse over, at det juridiske efterspil fik et gunstigt udfald.",
+      "Jeg føler en enorm lettelse over, at de politiske forhandlinger endte med et holdbart kompromis.",
+      "Jeg føler en enorm lettelse over, at de finansielle markeder reagerede stabilt på ændringen."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Der har været en følelse af tomhed, siden ...",
+    "translation": "There is a feeling of emptiness since ...",
+    "b1": [
+      "Der har været en følelse af tomhed, siden du rejste.",
+      "Der har været en følelse af tomhed, siden festen sluttede.",
+      "Der har været en følelse af tomhed, siden vi solgte huset.",
+      "Der har været en følelse af tomhed, siden han flyttede.",
+      "Der har været en følelse af tomhed, siden skolen stoppede."
+    ],
+    "b2": [
+      "Der har været en følelse af tomhed, siden projektet blev afsluttet.",
+      "Der har været en følelse af tomhed, siden vores kollega gik på pension.",
+      "Der har været en følelse af tomhed, siden virksomheden lukkede afdelingen.",
+      "Der har været en følelse af tomhed, siden det store arrangement var overstået.",
+      "Der har været en følelse af tomhed, siden holdet blev opløst."
+    ],
+    "c1": [
+      "Der har været en følelse af tomhed, siden den karismatiske leder trådte tilbage.",
+      "Der har været en følelse af tomhed, siden de mangeårige kulturelle institutioner forsvandt.",
+      "Der har været en følelse af tomhed, siden den epokegørende reform blev skrottet.",
+      "Der har været en følelse af tomhed, siden fællesskabsånden i organisationen udvandedes.",
+      "Der har været en følelse af tomhed, siden det ikoniske vartegn blev revet ned."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Jeg tager det fulde ansvar for min følelse af ...",
+    "translation": "I take full responsibility for my feeling of ...",
+    "b1": [
+      "Jeg tager det fulde ansvar for min følelse af vrede.",
+      "Jeg tager det fulde ansvar for min følelse af jalousi.",
+      "Jeg tager det fulde ansvar for min følelse af skuffelse.",
+      "Jeg tager det fulde ansvar for min følelse af frygt.",
+      "Jeg tager det fulde ansvar for min følelse af usikkerhed."
+    ],
+    "b2": [
+      "Jeg tager det fulde ansvar for min følelse af frustration over forløbet.",
+      "Jeg tager det fulde ansvar for min følelse af utilstrækkelighed i opgaven.",
+      "Jeg tager det fulde ansvar for min følelse af skepsis over for planen.",
+      "Jeg tager det fulde ansvar for min følelse af utålmodighed med teamet.",
+      "Jeg tager det fulde ansvar for min følelse af ubehag ved beslutningen."
+    ],
+    "c1": [
+      "Jeg tager det fulde ansvar for min følelse af fremmedgørelse i den nuværende diskurs.",
+      "Jeg tager det fulde ansvar for min følelse af mistillid til den administrative proces.",
+      "Jeg tager det fulde ansvar for min følelse af desillusionering med den politiske linje.",
+      "Jeg tager det fulde ansvar for min følelse af reservation over for det nye dogme.",
+      "Jeg tager det fulde ansvar for min følelse af modvilje mod at indgå kompromiset."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Intensiteten i situationen fik mig til at føle mig ...",
+    "translation": "The intensity of the situation made me feel ...",
+    "b1": [
+      "Intensiteten i situationen fik mig til at føle mig bange.",
+      "Intensiteten i situationen fik mig til at føle mig træt.",
+      "Intensiteten i situationen fik mig til at føle mig stresset.",
+      "Intensiteten i situationen fik mig til at føle mig forvirret.",
+      "Intensiteten i situationen fik mig til at føle mig alene."
+    ],
+    "b2": [
+      "Intensiteten i situationen fik mig til at føle mig helt udmattet bagefter.",
+      "Intensiteten i situationen fik mig til at føle mig utilpas under mødet.",
+      "Intensiteten i situationen fik mig til at føle mig presset til at handle hurtigt.",
+      "Intensiteten i situationen fik mig til at føle mig yderst opmærksom på enhver detalje.",
+      "Intensiteten i situationen fik mig til at føle mig usikker på mit næste træk."
+    ],
+    "c1": [
+      "Intensiteten i situationen fik mig til at føle mig handlingslammet i et afgørende øjeblik.",
+      "Intensiteten i situationen fik mig til at føle mig fuldstændig drænet for emotionelle ressourcer.",
+      "Intensiteten i situationen fik mig til at føle mig akut bevidst om de eksistentielle indsatser.",
+      "Intensiteten i situationen fik mig til at føle mig fremmedgjort over for de øvrige deltagere.",
+      "Intensiteten i situationen fik mig til at føle mig sårbar over for den massive eksterne kritik."
+    ]
+  }
+]

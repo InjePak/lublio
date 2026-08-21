@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Wa mir ..., da wäerte mir ...",
+    "translation": "If we ..., then we will ...",
+    "b1": [
+      "Wa mir elo fortgoen, da wäerte mir de Bus kréien.",
+      "Wa mir méi léieren, da wäerte mir den Test packen.",
+      "Wa mir gutt kachen, da wäerte mir lecker iessen.",
+      "Wa mir fréi opstoen, da wäerte mir Zäit hunn.",
+      "Wa mir d'Fënster opmaachen, da wäerte mir frësch Loft hunn."
+    ],
+    "b2": [
+      "Wa mir d'Käschte reduzéieren, da wäerte mir e méi grousse Gewënn maachen.",
+      "Wa mir eis gutt preparéieren, da wäerte mir d'Clienten iwwerzeegen.",
+      "Wa mir d'Deadline respektéieren, da wäerte mir den Zouschlag kréien.",
+      "Wa mir d'Digitaliséierung viru schreiwen, da wäerte mir méi effizient ginn.",
+      "Wa mir méi an d'Mataarbechter investéieren, da wäerte mir d'Qualitéit verbesseren."
+    ],
+    "c1": [
+      "Wa mir eng konsequent Nohaltegkeetsstrategie implementéieren, da wäerte mir d'laangfristeg Kompetitivitéit sécherstellen.",
+      "Wa mir d'strukturell Reformen net elo ugoen, da wäerte mir irreversibel Maartdeeler verléieren.",
+      "Wa mir d'Interdependenze vun de globale Mäert ignoréieren, da wäerte mir systemesch Risiken huelen.",
+      "Wa mir eng grëndlech Reorganisatioun duerchféieren, da wäerte mir d'operativ Effizienz maximéieren.",
+      "Wa mir d'Transparenz an de Prozessketten erhéijen, da wäerte mir d'Vertrauen vun den Investisseuren stäerken."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Wat géif geschéien, wa ...?",
+    "translation": "What would happen if ...?",
+    "b1": [
+      "Wat géif geschéien, wa mir de Schlëssel verléieren?",
+      "Wat géif geschéien, wa et muer reent?",
+      "Wat géif geschéien, wa mir ze spéit kommen?",
+      "Wat géif geschéien, wa mir den Zuch verpassen?",
+      "Wat géif geschéien, wa mir eppes Neies probéieren?"
+    ],
+    "b2": [
+      "Wat géif geschéien, wa mir de Budget fir dëse Mount iwwerschreiden?",
+      "Wat géif geschéien, wa mir den Termin vum Projet änneren?",
+      "Wat géif geschéien, wa mir déi nei Software net installéieren?",
+      "Wat géif geschéien, wa mir d'Strategie an der leschter Sekonn wiesselen?",
+      "Wat géif geschéien, wa mir den Haaptclient verléieren?"
+    ],
+    "c1": [
+      "Wat géif geschéien, wa mir d'Normen an de Reglementer radikal dereguléieren?",
+      "Wat géif geschéien, wa mir de gesamte Produktiounsprozess op e dezentraliséierte Modell ëmstellen?",
+      "Wat géif geschéien, wa mir déi geostrategesch Allianzen opginn?",
+      "Wat géif geschéien, wa mir eng vollstänneg automatesch Gestioun vun de Finanzstréim aféieren?",
+      "Wat géif geschéien, wa mir d'Fundamenter vun eiser Corporate Governance komplett nei definéieren?"
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Soll d'Resultat ... sinn, musse mir ...",
+    "translation": "Should the outcome be ..., we must ...",
+    "b1": [
+      "Soll d'Resultat negativ sinn, musse mir nach eng Kéier kucken.",
+      "Soll d'Resultat gutt sinn, musse mir feieren.",
+      "Soll d'Resultat fäerdeg sinn, musse mir et schécken.",
+      "Soll d'Resultat falsch sinn, musse mir et riichtzéien.",
+      "Soll d'Resultat onkloer sinn, musse mir froen."
+    ],
+    "b2": [
+      "Soll d'Resultat vum Audit negativ sinn, musse mir direkt d'Prozeduren unpassen.",
+      "Soll d'Resultat vun de Verhandlungen net genuch sinn, musse mir nei Konditioune stellen.",
+      "Soll d'Resultat d'Erwaardungen iwwertreffen, musse mir d'Kapazitéiten erhéijen.",
+      "Soll d'Resultat vun der Ëmfro net positiv ausfallen, musse mir d'Produkt iwwerschaffen.",
+      "Soll d'Resultat verspéit sinn, musse mir d'Clienten zäiteg informéieren."
+    ],
+    "c1": [
+      "Soll d'Resultat vun der Evaluatioun eng strukturell Ineffizienz weisen, musse mir eng déifgräifend Restrukturéierung aféieren.",
+      "Soll d'Resultat d'Viraussiichte widderspriechen, musse mir d'hypotesesch Basen novéieren.",
+      "Soll d'Resultat eng Gefor fir d'Datenschutzbestëmmunge sinn, musse mir d'Architektur direkt iwwerschaffen.",
+      "Soll d'Resultat eng Liquiditéitsknappschaft signaliséieren, musse mir d'Reserven aktivéieren.",
+      "Soll d'Resultat d'Legalitéit vum Kontrakt a Fro stellen, musse mir juristesch Schrëtt an d'Wee leeden."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Wann ech gewosst hätt, ..., hätt ech ...",
+    "translation": "If I had known ..., I would have ...",
+    "b1": [
+      "Wann ech gewosst hätt, datt et reent, hätt ech den Iess-Scher geholl.",
+      "Wann ech gewosst hätt, datt du kënns, hätt ech Kaffi gemaach.",
+      "Wann ech gewosst hätt, datt et zou ass, hätt ech ugeruff.",
+      "Wann ech gewosst hätt, datt et schwéier ass, hätt ech méi geüübt.",
+      "Wann ech gewosst hätt, datt mir Zäit hunn, hätt ech gewaart."
+    ],
+    "b2": [
+      "Wann ech gewosst hätt, datt d'Verkéierslag esou schlecht ass, hätt ech e méi fréie Zuch geholl.",
+      "Wann ech gewosst hätt, datt d'Käschte sou héich wieren, hätt ech en aneren Offer gewielt.",
+      "Wann ech gewosst hätt, datt d'Sëtzung sou laang dauert, hätt ech méi Material matgeholl.",
+      "Wann ech gewosst hätt, datt de Client dës Ufuerderung huet, hätt ech de Plang geännert.",
+      "Wann ech gewosst hätt, datt d'Software sou vill Feeler huet, hätt ech eng aner getest."
+    ],
+    "c1": [
+      "Wann ech gewosst hätt, datt dës geopolitesch Entwécklung déi global Supply Chain esou destabiliséiert, hätt ech d'Portfoliodiversifikatioune virdru gemaach.",
+      "Wann ech gewosst hätt, datt d'Reguléierungsautoritéit sou strikt Richtlinne fäerdeg bréngt, hätt ech d'Konformitéitsaudit virdru verstäerkt.",
+      "Wann ech gewosst hätt, datt déi technesch Limite vum System dës Skaléierbarkeet verhënneren, hätt ech eng aner Software-Architecture gewielt.",
+      "Wann ech gewosst hätt, datt d'Konkurrenz dës innovativ Technologie sou séier iwwerhëlt, hätt ech méi aggressiv investéiert.",
+      "Wann ech gewosst hätt, datt den internen Widderstand géint dës Reorganisatioun sou massiv wier, hätt ech d'Changemanagement méi fréi ugefaangen."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Unhollend datt ..., ass et dacks esou datt ...",
+    "translation": "Assuming that ..., it is likely that ...",
+    "b1": [
+      "Unhollend datt d'Wieder schéin ass, ass et dacks esou datt mir dobausse sinn.",
+      "Unhollend datt hien Zäit huet, ass et dacks esou datt hien hëlleft.",
+      "Unhollend datt d'Geschäft op ass, ass et dacks esou datt et voll ass.",
+      "Unhollend datt et genuch Iessen gëtt, ass et dacks esou datt jiddereen zefridden ass.",
+      "Unhollend datt de Bus kënnt, ass et dacks esou datt mir pünktlech sinn."
+    ],
+    "b2": [
+      "Unhollend datt d'Nofro weider steigt, ass et dacks esou datt d'Präisser och klammen.",
+      "Unhollend datt d'Mataarbechter motivéiert sinn, ass et dacks esou datt d'Produktivitéit erhéicht gëtt.",
+      "Unhollend datt mir d'Budgetsziler erreechen, ass et dacks esou datt et nei Bonus gëtt.",
+      "Unhollend datt de Maart stabil bleift, ass et dacks esou datt d'Investisseuren zouversiichtlech sinn.",
+      "Unhollend datt d'Zesummenaarbecht gutt leeft, ass et dacks esou datt de Projet virdru fäerdeg ass."
+    ],
+    "c1": [
+      "Unhollend datt d'Inflatiounsraten op dësem Niveau bleiwen, ass et dacks esou datt d'Zentralbanken d'Zënssätz erhéijen.",
+      "Unhollend datt d'Digitaliséierungsquote sech beschleunegt, ass et dacks esou datt d'Nofro no spezialiséierte Fakkräfte exponentiellt wuess.",
+      "Unhollend datt d'Klimastandarden verschäerft ginn, ass et dacks esou datt traditionell Industrien eng komplett technologesch Konversioun maache mussen.",
+      "Unhollend datt d'Geopolitesch Spannungen uhalen, ass et dacks esou datt regional Supply Chains prioritär entwéckelt ginn.",
+      "Unhollend datt d'Konsumenteverhalen sech permanent verännert, ass et dacks esou datt d'Retail-Modeller sechkierem transforméiere mussen."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Ech soen Iech viraus, datt ... geschéie wäert.",
+    "translation": "I predict that ... will happen.",
+    "b1": [
+      "Ech soen Iech viraus, datt et muer reene wäert.",
+      "Ech soen Iech viraus, datt dëse Film populär wäert ginn.",
+      "Ech soen Iech viraus, datt mir d'Match gewanne wäerten.",
+      "Ech soen Iech viraus, datt hien ze spéit kënnt wäert.",
+      "Ech soen Iech viraus, datt dëst Iessen gutt wäert schmaachen."
+    ],
+    "b2": [
+      "Ech soen Iech viraus, datt d'Online-Verkafszuelen am nächste Quartal staark klamme wäerten.",
+      "Ech soen Iech viraus, datt d'Firma am nächste Joer nei Filialen opmaache wäert.",
+      "Ech soen Iech viraus, datt d'Ufuerderunge fir dës Positioun an Zukunft méi héich wäerte sinn.",
+      "Ech soen Iech viraus, datt d'Käschte fir d'Energie dëse Wanter an d'Luucht ginn wäerten.",
+      "Ech soen Iech viraus, datt d'Equipe d'Ziler bis Enn vum Joer erreeche wäert."
+    ],
+    "c1": [
+      "Ech soen Iech viraus, datt d'Kënschtlech Intelligenz eng fundamental Disruptioun am Administrativberäich verursaache wäert.",
+      "Ech soen Iech viraus, datt déi konventionell Geschäftsmodeller bannent engem Joerzéngt komplett veralten wäerten.",
+      "Ech soen Iech viraus, datt d'Erhéijung vun de Rohstoffpräisser zu enger laangfristeger Maartkorrektur féiere wäert.",
+      "Ech soen Iech viraus, datt déi nei ethesch Richtlinnen d'Entwécklung vun de Biotechnologien massiv beaflosse wäerten.",
+      "Ech soen Iech viraus, datt de Shift zum Homeoffice eng permanent Dezentraliséierung vun de grousse Stied ausléise wäert."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Ouni datt ... geschitt, kënne mir net ...",
+    "translation": "Unless ... happens, we won't be able to ...",
+    "b1": [
+      "Ouni datt mir d'Luucht uschalten, kënne mir näischt gesinn.",
+      "Ouni datt hien kënnt, kënne mir net ufänken.",
+      "Ouni datt et gutt waarm ass, kënne mir net dobausse bleiwen.",
+      "Ouni datt ech mäi Geld hunn, kënne mir net bezuelen.",
+      "Ouni datt mir de Bus huelen, kënne mir net pünktlech sinn."
+    ],
+    "b2": [
+      "Ouni datt d'Gënhemegung do ass, kënne mir de Bau net ufänken.",
+      "Ouni datt d'Finanzéierung geséchert ass, kënne mir de Projet net ausféieren.",
+      "Ouni datt d'Mataarbechter trainéiert sinn, kënne mir d'nei Maschinn net notzen.",
+      "Ouni datt de Client säi Feedback gëtt, kënne mir den Entwurf net finaliséieren.",
+      "Ouni datt mir d'Feeler behiewen, kënne mir d'App net lancéieren."
+    ],
+    "c1": [
+      "Ouni datt eng konsensuell Accord tëscht allen Akteuren erreecht gëtt, kënne mir d'Legislativprozedur net weiderféieren.",
+      "Ouni datt eng detailléiert Risikoanalyse virläit, kënne mir déi strategesch Investitioun net approbéieren.",
+      "Ouni datt déi technesch Interoperabilitéit garantéiert ass, kënne mir d'Systemer net verknäppen.",
+      "Ouni datt d'Zustëmmung vun der EU-Kommission virleist, kënne mir d'Subventiounen net ausbezuelen.",
+      "Ouni datt déi gesetzlech Konformitéit voll iwwerpréift ass, kënne mir de Produkt net um Maart bréngen."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Am Fall vun ..., solle mir ...",
+    "translation": "In the event of ..., we should ...",
+    "b1": [
+      "Am Fall vun engem Reen, solle mir dobannen bleiwen.",
+      "Am Fall vun enger Verspéidung, solle mir uruffen.",
+      "Am Fall vun engem Problem, solle mir froen.",
+      "Am Fall vun enger Ännerung, solle mir Bescheed soen.",
+      "Am Fall vun engem Noutfall, solle mir d'Polizei ruffen."
+    ],
+    "b2": [
+      "Am Fall vun engem Stroumausfall, solle mir direkt op d'Notstroumversuergung wiesselen.",
+      "Am Fall vun enger Reklamatioun vum Client, solle mir bannent 24 Stonnen reagéieren.",
+      "Am Fall vun enger Budgetskierzung, solle mir d'Prioritéite vun de Projete nei definéieren.",
+      "Am Fall vun enger Krankheet am Team, solle mir d'Aarbechte flexibel opdeelen.",
+      "Am Fall vun technische Komplikatiounen, solle mir den IT-Support kontaktéieren."
+    ],
+    "c1": [
+      "Am Fall vun engem Datenleck, solle mir direkt den Dateschutzbeoptragten an d'Krisenmanagement aktivéieren.",
+      "Am Fall vun enger makroekonomescher Kris, solle mir eis Liquiditéitspouster direkt erhéijen.",
+      "Am Fall vun enger Verännerung vum reglementaresche Kader, solle mir de Compliance-Audit aktualiséieren.",
+      "Am Fall vun enger hostile Iwwernahm, solle mir déi virdru preparéiert defensive Moossnamen ergräifen.",
+      "Am Fall vun engem systemesche Versoen vun der Cloud-Infrastruktur, solle mir op de Backup-Server ëmsetzen."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Et gëtt eng héich Wahrscheinlechkeet, datt ...",
+    "translation": "There's a high probability that ...",
+    "b1": [
+      "Et gëtt eng héich Wahrscheinlechkeet, datt et muer reent.",
+      "Et gëtt eng héich Wahrscheinlechkeet, datt hien ze spéit kënnt.",
+      "Et gëtt eng héich Wahrscheinlechkeet, datt den Test schwéier ass.",
+      "Et gëtt eng héich Wahrscheinlechkeet, datt d'Geschäft zou ass.",
+      "Et gëtt eng héich Wahrscheinlechkeet, datt mir gewannen."
+    ],
+    "b2": [
+      "Et gëtt eng héich Wahrscheinlechkeet, datt d'Präisser am Immobilienmaart weider klammen.",
+      "Et gëtt eng héich Wahrscheinlechkeet, datt d'Firma hir Verkafsziler dëst Joer iwwertrefft.",
+      "Et gëtt eng héich Wahrscheinlechkeet, datt d'Aféierung vun der neier Tax zu Protester féiert.",
+      "Et gëtt eng héich Wahrscheinlechkeet, datt de Client d'Offert no laange Verhandlunge akzeptéiert.",
+      "Et gëtt eng héich Wahrscheinlechkeet, datt mir d'Frist wéinst Personalmangel verpassen."
+    ],
+    "c1": [
+      "Et gëtt eng héich Wahrscheinlechkeet, datt d'Erhéijung vun de Zënssätz zu enger Ofkille vum Investitiounsklima féiert.",
+      "Et gëtt eng héich Wahrscheinlechkeet, datt déi nei technesch Normen zu enger Konsolidéierung vun de Maartspiller féieren.",
+      "Et gëtt eng héich Wahrscheinlechkeet, datt d'Alterung vun der Bevëlkerung de Sozialsystem onhaltbar mécht.",
+      "Et gëtt eng héich Wahrscheinlechkeet, datt d'Aféierung vun digitaler Währung d'Bankesektor fundamental ëmstrukturéiert.",
+      "Et gëtt eng héich Wahrscheinlechkeet, datt déi geopolitesch Restriktiounen d'global Handelsvolumen dauerhaft reduzéieren."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Mir kéinten ... gesinn, wa ...",
+    "translation": "We might see ... if ...",
+    "b1": [
+      "Mir kéinten e Reebou gesinn, wa d'Sonn erauskënnt.",
+      "Mir kéinten hien hei gesinn, wa mir méi laang waarden.",
+      "Mir kéinten eng Iwwerraschung gesinn, wa mir d'Dier opmaachen.",
+      "Mir kéinten d'Déieren gesinn, wa mir an de Bësch goen.",
+      "Mir kéinten e gudde Film gesinn, wa mir an d'Kino goen."
+    ],
+    "b2": [
+      "Mir kéinten eng spierbar Erhéijung vun de Clienten gesinn, wa mir d'Reklamm verstäerken.",
+      "Mir kéinten e Rückgang vun de Käschte gesinn, wa mir d'Logistik optimiséieren.",
+      "Mir kéinten eng besser Stimmung am Team gesinn, wa mir d'Aarbechtszäiten upassen.",
+      "Mir kéinten nei Investisseuren gesinn, wa mir de Businessplan presentéieren.",
+      "Mir kéinten e séiere Fortschrëtt gesinn, wa mir en zousätzlechen Expert astellen."
+    ],
+    "c1": [
+      "Mir kéinten eng paradigmatesch Verrécklung am Konsumenteverhalen gesinn, wa personaliséiert AI-Servicer de Standard ginn.",
+      "Mir kéinten eng signifikant Reduktioun vun den Emissiounen gesinn, wa strenger Steieren op fossilt Brennstoffer erhéicht ginn.",
+      "Mir kéinten eng Welle vu Start-up-Bankrotte gesinn, wa d'Venture-Capital-Fongen hir Konditioune verschäerfen.",
+      "Mir kéinten eng komplett Automatiséierung vum Clientsservice gesinn, wa generative Modeller voll integréiert ginn.",
+      "Mir kéinten eng substantiell Dezentraliséierung vum Energienetz gesinn, wa Mikro-Solaranlagen obligatoresch ginn."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Dat weist drop hin, datt d'Zukunft ... bréngt.",
+    "translation": "This suggests that the future holds ...",
+    "b1": [
+      "Dat weist drop hin, datt d'Zukunft vill Schéines bréngt.",
+      "Dat weist drop hin, datt d'Zukunft nei Iddien bréngt.",
+      "Dat weist drop hin, datt d'Zukunft méi Aarbecht bréngt.",
+      "Dat weist drop hin, datt d'Zukunft Ännerungen bréngt.",
+      "Dat weist drop hin, datt d'Zukunft spannend Momenter bréngt."
+    ],
+    "b2": [
+      "Dat weist drop hin, datt d'Zukunft méi Flexibilitéit an den Aarbechtsmodeller bréngt.",
+      "Dat weist drop hin, datt d'Zukunft eng verstäerkte Nofro no gréngen Technologien bréngt.",
+      "Dat weist drop hin, datt d'Zukunft méi Konkurrenz an dësem Maartsegment bréngt.",
+      "Dat weist drop hin, datt d'Zukunft nei Erausfuerderunge fir d'Cybersecurity bréngt.",
+      "Dat weist drop hin, datt d'Zukunft méi Enquête fir de Konsumenteschutz bréngt."
+    ],
+    "c1": [
+      "Dat weist drop hin, datt d'Zukunft eng fundamental Iwwerpréiwung vun de weltwäite Soziale Sécherheetssystemer bréngt.",
+      "Dat weist drop hin, datt d'Zukunft eng onëmgaangbar Verschmelzung vu Biologie an digitaler Technologie bréngt.",
+      "Dat weist drop hin, datt d'Zukunft eng komplett Transformatioun vun de geopolitesche Muechtstrukturen bréngt.",
+      "Dat weist drop hin, datt d'Zukunft eng dezentral an autonom Verwaltung vun de grousse Infrastrukturen bréngt.",
+      "Dat weist drop hin, datt d'Zukunft en neie gesellschaftleche Konsank iwwer d'Grenzen vum Wuesstum bréngt."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "D'Resultat hänkt ganz dovun of, ob ...",
+    "translation": "The outcome depends entirely on whether or not ...",
+    "b1": [
+      "D'Resultat hänkt ganz dovun of, ob et muer reent oder net.",
+      "D'Resultat hänkt ganz dovun of, ob mir genuch Zäit hunn.",
+      "D'Resultat hänkt ganz dovun of, ob hien d'Wourecht seet.",
+      "D'Resultat hänkt ganz dovun of, ob de Bus pünktlech kënnt.",
+      "D'Resultat hänkt ganz dovun of, ob mir d'Spill gewannen."
+    ],
+    "b2": [
+      "D'Resultat hänkt ganz dovun of, ob d'Bank eis de Kredit genehmegt.",
+      "D'Resultat hänkt ganz dovun of, ob d'Mataarbechter mat der neier Software averstane sinn.",
+      "D'Resultat hänkt ganz dovun of, ob mir déi néideg Rohstoffer rechtzäiteg kréien.",
+      "D'Resultat hänkt ganz dovun of, ob d'Campagne genuch Clienten unzitt.",
+      "D'Resultat hänkt ganz dovun of, ob de Chef d'Ausnahmen erlaabt."
+    ],
+    "c1": [
+      "D'Resultat hänkt ganz dovun of, ob et geléngt, d'Regulateuren an de fréie Phasen vum Innovatiounsprozess matzepaken.",
+      "D'Resultat hänkt ganz dovun of, ob d'Integritéit vun de verschlësselten Donnéeën iwwer d'gesamte Supply Chain erhale bleift.",
+      "D'Resultat hänkt ganz dovun of, ob d'intern Ekipp fäeg ass, sech un déi paradigmatesch Neiorientéierung unzepassen.",
+      "D'Resultat hänkt ganz dovun of, ob déi international Kooperatioun bei de Klimaofkommes verbindlech bleift.",
+      "D'Resultat hänkt ganz dovun of, ob mir de Spagat tëscht kuerzfristege Gewënn a laangfristege Nohaltegkeetsziler packen."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Wann den Trend esou weidergeet, da ...",
+    "translation": "If the trend continues, then ...",
+    "b1": [
+      "Wann den Trend esou weidergeet, da wäerte mir vill Kaddoen hunn.",
+      "Wann den Trend esou weidergeet, da gëtt et ëmmer méi waarm.",
+      "Wann den Trend esou weidergeet, da bleiwen all d'Leit doheem.",
+      "Wann den Trend esou weidergeet, da verpasse mir eisen Zuch.",
+      "Wann den Trend esou weidergeet, da schreiwen mir alleguer gutt Noten."
+    ],
+    "b2": [
+      "Wann den Trend esou weidergeet, da ginn déi physesch Geschäfter ganz duerch Online-Handel ersat.",
+      "Wann den Trend esou weidergeet, da wäert d'Aarbecht aus dem Heem Büro de Standard ginn.",
+      "Wann den Trend esou weidergeet, da mussen d'Entreprisen hir Sécherheetsbudgeten däitlech erhéijen.",
+      "Wann den Trend esou weidergeet, da wäert d'Nofro no erneierbaren Energien d'Offer iwwersteigen.",
+      "Wann den Trend esou weidergeet, da ginn d'Wunnenge an der Stad onbezuelbar fir jonk Familljen."
+    ],
+    "c1": [
+      "Wann den Trend esou weidergeet, da wäert d'digital Verspéidung vun de ländleche Regiounen zu engem irreversible wirtschaftleche Schif féieren.",
+      "Wann den Trend esou weidergeet, da wäerten d'automatiséiert Systemer iwwer 80% vun de routinebaséierten Operatiounen iwwerhuelen.",
+      "Wann den Trend esou weidergeet, da wäert d'Konzentratioun vu Kapital an de few groussen Tech-Giganten d'Maartkonkurrenz zerstéieren.",
+      "Wann den Trend esou weidergeet, da gëtt d'Verschmotzung vun de Ozeaner eng existenziell Bedrohung fir d'Liewensmëttelversuergung.",
+      "Wann den Trend esou weidergeet, da wäert d'Polariséierung vun de politesche Meenungen d'demokratesch Institutiounen destabiliséieren."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Hätten si ... berécksiichtegt, wier d'Resultat ... gewiescht.",
+    "translation": "Had they considered ..., the result would have been ...",
+    "b1": [
+      "Hätten si d'Wieder berécksiichtegt, wier d'Resultat vill besser gewiescht.",
+      "Hätten si d'Zäit berécksiichtegt, wier d'Resultat net sou spéit gewiescht.",
+      "Hätten si de Präis berécksiichtegt, wier d'Resultat méi bëlleg gewiescht.",
+      "Hätten si meng Iddi berécksiichtegt, wier d'Resultat méi einfach gewiescht.",
+      "Hätten si d'Warnung berécksiichtegt, wier d'Resultat méi sécher gewiescht."
+    ],
+    "b2": [
+      "Hätten si déi verännert Maartbedingungen berécksiichtegt, wier d'Resultat vum Projet erfollegräich gewiescht.",
+      "Hätten si d'Kapazitéite vum Team berécksiichtegt, wier d'Resultat manner stresseg gewiescht.",
+      "Hätten si d'Feedback vun de Clienten berécksiichtegt, wier d'Resultat vum Produkt besser ugeholl ginn.",
+      "Hätten si d'Finanzéierungskäschte berécksiichtegt, wier d'Resultat vun der Investitioun méi rentabel gewiescht.",
+      "Hätten si déi technesch Restriktiounen berécksiichtegt, wier d'Resultat ouni dës Verzögerunge gewiescht."
+    ],
+    "c1": [
+      "Hätten si déi komplexe geostrategesch Implikatioune berécksiichtegt, wier d'Resultat vun der Fusioun net esou katastrofal gewiescht.",
+      "Hätten si déi reglementaresch Ännerungen am Virfeld berécksiichtegt, wier d'Resultat vun der Konformitéitsprüfung positiv gewiescht.",
+      "Hätten si d'laangfristeg Erosioun vun de Ressourcen berécksiichtegt, wier d'Resultat vun der Produktiounsstrategie nohalteg gewiescht.",
+      "Hätten si déi psychologesch Barrièren vum Personal berécksiichtegt, wier d'Resultat vum Changemanagement méi glat gewiescht.",
+      "Hätten si d'systemesch Interdependenze vum Finanzpascht berécksiichtegt, wier d'Resultat vun der Risikomanagement méi robust gewiescht."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Mir brauchen e Plang B fir den Noutfall, datt ...",
+    "translation": "We need a backup plan in case ...",
+    "b1": [
+      "Mir brauchen e Plang B fir den Noutfall, datt et reent.",
+      "Mir brauchen e Plang B fir den Noutfall, datt hien net kënnt.",
+      "Mir brauchen e Plang B fir den Noutfall, datt d'Geschäft zou ass.",
+      "Mir brauchen e Plang B fir den Noutfall, datt mir de Schlëssel verléieren.",
+      "Mir brauchen e Plang B fir den Noutfall, datt den Zuch ausfält."
+    ],
+    "b2": [
+      "Mir brauchen e Plang B fir den Noutfall, datt de Client eis Offert refuséiert.",
+      "Mir brauchen e Plang B fir den Noutfall, datt d'Serveren während dem Event ofstierzen.",
+      "Mir brauchen e Plang B fir den Noutfall, datt d'Budgetsziler net rechtzäiteg erreecht ginn.",
+      "Mir brauchen e Plang B fir den Noutfall, datt d'Schlësselmataarbechter d'Firma verloossen.",
+      "Mir brauchen e Plang B fir den Noutfall, datt d'Liwwerung vun de Materialie verspéit ass."
+    ],
+    "c1": [
+      "Mir brauchen e Plang B fir den Noutfall, datt d'Zentralbank d'Zënssätz drastesch an d'Luucht setzt.",
+      "Mir brauchen e Plang B fir den Noutfall, datt d'Transaktioun vun de Kontrollautoritéiten blockéiert gëtt.",
+      "Mir brauchen e Plang B fir den Noutfall, datt en erwaarten Technologie-Breakthrough ausbléift.",
+      "Mir brauchen e Plang B fir den Noutfall, datt en onerwaartet geopolitescht Embargo d'Exporten stoppt.",
+      "Mir brauchen e Plang B fir den Noutfall, datt déi primär Cloud-Infrastruktur komplett kompromittéiert gëtt."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Et ass denkbar, datt ...",
+    "translation": "It is conceivable that ...",
+    "b1": [
+      "Et ass denkbar, datt mir muer fréi opstoen.",
+      "Et ass denkbar, datt hien eis e Kaddo bréngt.",
+      "Et ass denkbar, datt dëse Film ganz lëschteg ass.",
+      "Et ass denkbar, datt mir d'Vakanz am Süden maachen.",
+      "Et ass denkbar, datt d'Wieder schéin bleift."
+    ],
+    "b2": [
+      "Et ass denkbar, datt d'Firma nächst Joer eng véier Deeg Woch aféiert.",
+      "Et ass denkbar, datt mir d'Präisser wéinst de Käschten upassen mussen.",
+      "Et ass denkbar, datt d'Zuel vun de Clienten dëse Summer staark wuesse wäert.",
+      "Et ass denkbar, datt d'Team fir dëse Projet an en anert Büro geet.",
+      "Et ass denkbar, datt d'Reegele bis zum Enn vum Mount geännert ginn."
+    ],
+    "c1": [
+      "Et ass denkbar, datt d'Kombination vu künstlecher Intelligenz an Automatiséierung d'Gewerkschaften komplett transforméiert.",
+      "Et ass denkbar, datt d'Aféierung vun nationale Kryptowährungen d'traditionell Bankesystemer iwwerflësseg mécht.",
+      "Et ass denkbar, datt d'Weltgesondheetsorganisatioun nei Pandemie-Richtlinnen verbindlech fir all Natioune mécht.",
+      "Et ass denkbar, datt d'Raumfaartindustrie bannent engem Joerzéngt kommersiell Reesen an d'Orbit erméiglecht.",
+      "Et ass denkbar, datt d'Erhéijung vun de Energiekäschten zu enger Migratioun vu schwéierer Industrie an aner Kontinenter féiert."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Ouni ..., ass et onméiglech ze ...",
+    "translation": "Without ..., it is impossible to ...",
+    "b1": [
+      "Ouni Waasser, ass et onméiglech ze iwwerliewen.",
+      "Ouni Geld, ass et onméiglech ze shoppen.",
+      "Ouni Zäit, ass et onméiglech d'Aarbecht ze maachen.",
+      "Ouni Hëllef, ass et onméiglech de schwéiere Këscht ze hiewen.",
+      "Ouni Pass, ass et onméiglech ze reesen."
+    ],
+    "b2": [
+      "Ouni genee Daten, ass et onméiglech e seriöse Budget opzestellen.",
+      "Ouni d'Zustëmmung vun der Direktioun, ass et onméiglech de Kontrakt ze ënnerschreiwen.",
+      "Ouni qualifizéiert Personal, ass et onméiglech den neie Service unzebidden.",
+      "Ouni marketing Kampagne, ass et onméiglech d'Clienten z'erreechen.",
+      "Ouni gutt Kommunikatioun, ass et onméiglech eng stabil Ekipp ze bauen."
+    ],
+    "c1": [
+      "Ouni eng déifgräifend Systemanalyse, ass et onméiglech d'Wuerzelen vun de chronesche Feeler ze identifizéieren.",
+      "Ouni strikt Konformitéit mat den internen Direktiven, ass et onméiglech den Audit ze bestehen.",
+      "Ouni eng transnational Zesummenaarbecht, ass et onméiglech den internationale Klimawandel ze bewältegen.",
+      "Ouni eng transparent Kommunikatioun vun der Leedung, ass et onméiglech d'Moral vum Personal oprechtzehalen.",
+      "Ouni virausgesaten Investitiounen an d'R&D, ass et onméiglech laangfristeg kompetitiv ze bleiwen."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "D'Beweiser weisen drop hin, datt ... geschitt.",
+    "translation": "The evidence points towards ... happening.",
+    "b1": [
+      "D'Beweiser weisen drop hin, datt en Accident geschitt.",
+      "D'Beweiser weisen drop hin, datt et reene wäert.",
+      "D'Beweiser weisen drop hin, datt hien d'Wourecht seet.",
+      "D'Beweiser weisen drop hin, datt d'Iessen gutt ass.",
+      "D'Beweiser weisen drop hin, datt si doheem sinn."
+    ],
+    "b2": [
+      "D'Beweiser weisen drop hin, datt d'Verkafszuelen wéinst der Konkurrenz falen.",
+      "D'Beweiser weisen drop hin, datt d'Mataarbechter mat den neie Regele net eens sinn.",
+      "D'Beweiser weisen drop hin, datt de System duerch en externen Ugrëff gestéiert gouf.",
+      "D'Beweiser weisen drop hin, datt d'Investitioun an d'Nei Mëttel sech gelount huet.",
+      "D'Beweiser weisen drop hin, datt d'Verspéidung duerch d'Logistik entstanen ass."
+    ],
+    "c1": [
+      "D'Beweiser weisen drop hin, datt déi strukturell Mängel an der Architektur zu de laangfristege Verloschter féieren.",
+      "D'Beweiser weisen drop hin, datt d'Korrelatioun tëscht der Digitaliséierung an der Produktivitéit staark positiv ass.",
+      "D'Beweiser weisen drop hin, datt d'Erhéijung vun de Steierbelaaschtungen d'Investitiounsklima schwächt.",
+      "D'Beweiser weisen drop hin, datt d'Verschwörung vun de globalen Supply Chains d'Inflation ugedriwwen huet.",
+      "D'Beweiser weisen drop hin, datt d'Verännerung vum Konsumenteverhalen permanent a irreversibel ass."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Ënner der Bedingung datt ..., kënne mir ... virugoen.",
+    "translation": "On the condition that ..., we can proceed with ...",
+    "b1": [
+      "Ënner der Bedingung datt et dréche bleift, kënne mir spadséiere virugoen.",
+      "Ënner der Bedingung datt du fäerdeg bass, kënne mir iessen virugoen.",
+      "Ënner der Bedingung datt hien hëlleft, kënne mir d'Aarbecht virugoen.",
+      "Ënner der Bedingung datt de Bus kënnt, kënne mir an d'Stad virugoen.",
+      "Ënner der Bedingung datt dat Geld do ass, kënne mir kafen virugoen."
+    ],
+    "b2": [
+      "Ënner der Bedingung datt de Client den Devis akzeptéiert, kënne mir mat der Produktioun virugoen.",
+      "Ënner der Bedingung datt de Budget genehmegt gëtt, kënne mir mam Projet virugoen.",
+      "Ënner der Bedingung datt all d'Dokumenter komplett sinn, kënne mir mat der Uwendung virugoen.",
+      "Ënner der Bedingung datt d'Leedung hir Zoustëmmung gëtt, kënne mir mat der Neier Säit virugoen.",
+      "Ënner der Bedingung datt d'Tester ouni Feeler sinn, kënne mir mat der Verëffentlechung virugoen."
+    ],
+    "c1": [
+      "Ënner der Bedingung datt déi juristesch Konformitéit vun allen Drëttubidder verifizéiert ass, kënne mir mat der Partnerschaft virugoen.",
+      "Ënner der Bedingung datt déi technesch Sécherheetsnormen voll agehale ginn, kënne mir mat der systemescher Integratioun virugoen.",
+      "Ënner der Bedingung datt d'Finanzéierung iwwer d'Gesamtdauer geséchert ass, kënne mir mat der urbaner Restrukturéierung virugoen.",
+      "Ënner der Bedingung datt de Konsens tëscht de soziale Partner erreecht ass, kënne mir mat der politescher Reform virugoen.",
+      "Ënner der Bedingung datt keng weider Risikoindikatoren opfalen, kënne mir mat der strategescher Expansioun virugoen."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Déi laangfristeg Auswierkung ass, datt ...",
+    "translation": "The long-term implication is ...",
+    "b1": [
+      "Déi laangfristeg Auswierkung ass, datt mir vill Sue spueren.",
+      "Déi laangfristeg Auswierkung ass, datt mir nei Frënn kréien.",
+      "Déi laangfristeg Auswierkung ass, datt d'Haus méi schéin gëtt.",
+      "Déi laangfristeg Auswierkung ass, datt de Plang besser gëtt.",
+      "Déi laangfristeg Auswierkung ass, datt eis Gesondheet stäerkt."
+    ],
+    "b2": [
+      "Déi laangfristeg Auswierkung ass, datt d'Firma hir Marktpositioun wesentlech stäerkt.",
+      "Déi laangfristeg Auswierkung ass, datt d'Käschte fir d'Maintenance däitlech sinken.",
+      "Déi laangfristeg Auswierkung ass, datt d'Mataarbechter méi laang an der Entreprise bleiwen.",
+      "Déi laangfristeg Auswierkung ass, datt d'Clienten eng méi héich Loyalitéit weisen.",
+      "Déi laangfristeg Auswierkung ass, datt d'Energieeffizienz vun de Gebaier permanent verbessert gëtt."
+    ],
+    "c1": [
+      "Déi laangfristeg Auswierkung ass, datt d'Erosioun vun den traditionellen Aarbechtsplazen eng fundamental Neidefinitioun vum Steiersystem verlaangt.",
+      "Déi laangfristeg Auswierkung ass, datt d'global Inkorporatioun vun de fossillefräien Technologien d'fossilt Ära definitiv beënnert.",
+      "Déi laangfristeg Auswierkung ass, datt déi demographesch Verrécklung d'sozial Sécherheetsschemaer zwéngt, sech radikal anzepassen.",
+      "Déi laangfristeg Auswierkung ass, datt d'Dezentraliséierung vun den Informatiounssystemer d'Zentralmuecht vu grousse Konzern schwächt.",
+      "Déi laangfristeg Auswierkung ass, datt d'Erhéijung vun den Ëmweltnormen eng permanent Konversioun vun der weltwäiter Industrie ausléist."
+    ]
+  }
+]

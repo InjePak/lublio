@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Dat Haaptproblem schengt ... ze sinn.",
+    "translation": "The main issue seems to be ...",
+    "b1": [
+      "Dat Haaptproblem schengt d'Zäit ze sinn.",
+      "Dat Haaptproblem schengt dat schlecht Wieder ze sinn.",
+      "Dat Haaptproblem schengt den héije Präis ze sinn.",
+      "Dat Haaptproblem schengt de Kaméidi ze sinn.",
+      "Dat Haaptproblem schengt de Mangel u Plaz ze sinn."
+    ],
+    "b2": [
+      "Dat Haaptproblem schengt de Mangel un Informatiounen ze sinn.",
+      "Dat Haaptproblem schengt déi schlecht Kommunikatioun am Team ze sinn.",
+      "Dat Haaptproblem schengt d'Verspéidung vun der Liwwerung ze sinn.",
+      "Dat Haaptproblem schengt dat begrenzte Budget ze sinn.",
+      "Dat Haaptproblem schengt d'Komplexitéit vun der Aufgab ze sinn."
+    ],
+    "c1": [
+      "Dat Haaptproblem schengt déi ontraureg strukturell Schwächung vum System ze sinn.",
+      "Dat Haaptproblem schengt déi feelend Transparenz an der Entscheedungsfannung ze sinn.",
+      "Dat Haaptproblem schengt d'Divergenz tëscht de strategesche Ziler ze sinn.",
+      "Dat Haaptproblem schengt déi chronesch Ënnerfinanzéierung vum Sektor ze sinn.",
+      "Dat Haaptproblem schengt déi persistent Incohérence vun den neien Direktiven ze sinn."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Wéi kënne mir am beschten ... ungoen?",
+    "translation": "How can we best approach ...?",
+    "b1": [
+      "Wéi kënne mir am beschten dës Aufgab ungoen?",
+      "Wéi kënne mir am beschten de Problem ungoen?",
+      "Wéi kënne mir am beschten d'Aarbecht ungoen?",
+      "Wéi kënne mir am beschten d'Léiere vun der Sprooch ungoen?",
+      "Wéi kënne mir am beschten déi nei Situatioun ungoen?"
+    ],
+    "b2": [
+      "Wéi kënne mir am beschten déi neie Projete fir de Client ungoen?",
+      "Wéi kënne mir am beschten d'Restrukturéierung vum Departement ungoen?",
+      "Wéi kënne mir am beschten d'Upassung vun de Präisser ungoen?",
+      "Wéi kënne mir am beschten d'Verhandlungen mat de Partneren ungoen?",
+      "Wéi kënne mir am beschten d'Organisatioun vum Event ungoen?"
+    ],
+    "c1": [
+      "Wéi kënne mir am beschten déi déifgräifend Transformativ Verännerungen ungoen?",
+      "Wéi kënne mir am beschten déi komplex ethnesch Froestellungen ungoen?",
+      "Wéi kënne mir am beschten déi makroekonomesch Erausfuerderungen ungoen?",
+      "Wéi kënne mir am beschten déi géo-politesch Onsecherheeten am Secteur ungoen?",
+      "Wéi kënne mir am beschten d'Harmoniséierung vun den europäesche Standarde ungoen?"
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Ech schloen vir, datt mir ...",
+    "translation": "I suggest that we ...",
+    "b1": [
+      "Ech schloen vir, datt mir elo iessen ginn.",
+      "Ech schloen vir, datt mir kuerz een Paus maachen.",
+      "Ech schloen vir, datt mir de Bus huelen.",
+      "Ech schloen vir, datt mir muer rëm ufangen.",
+      "Ech schloen vir, datt mir d'Fënster opmaachen."
+    ],
+    "b2": [
+      "Ech schloen vir, datt mir déi nei Strategie ausprobéieren.",
+      "Ech schloen vir, datt mir de Zäitplang liicht änneren.",
+      "Ech schloen vir, datt mir eng zousätzlech Versammlung plangen.",
+      "Ech schloen vir, datt mir d'Verantwortung an der Ekipp opdeelen.",
+      "Ech schloen vir, datt mir den Devis virun der Decisioun kontrolléieren."
+    ],
+    "c1": [
+      "Ech schloen vir, datt mir d'Methodologie vun dëser Studie gründlech iwwerdenken.",
+      "Ech schloen vir, datt mir eng onofhängeg Evaluatioun vun de Risiken ufroen.",
+      "Ech schloen vir, datt mir déi laangfristeg Auswierkunge méi am Detail analyséieren.",
+      "Ech schloen vir, datt mir en interdisziplinären Arbeitsgrupp opbauen.",
+      "Ech schloen vir, datt mir déi juridisch Incohérenzen am Kontrakt d'éischt klären."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Eng méiglech Léisung ass et, fir ...",
+    "translation": "A potential solution is to ...",
+    "b1": [
+      "Eng méiglech Léisung ass et, fir méi séier ze schaffen.",
+      "Eng méiglech Léisung ass et, fir en neien Auto ze kafen.",
+      "Eng méiglech Léisung ass et, fir méi fréi ze kommen.",
+      "Eng méiglech Léisung ass et, fir d'App ze benotzen.",
+      "Eng méiglech Léisung ass et, fir Hëllef ze froen."
+    ],
+    "b2": [
+      "Eng méiglech Léisung ass et, fir den Zäitplang flexibel ze gestalten.",
+      "Eng méiglech Léisung ass et, fir d'Personal fir déi Task ze schoulungsmoosseg ze stäerken.",
+      "Eng méiglech Léisung ass et, fir d'Budget an zwee Deeler opzedeelen.",
+      "Eng méiglech Léisung ass et, fir eng neier Software ze implementéieren.",
+      "Eng méiglech Léisung ass et, fir d'Prozeduren méi einfach ze maachen."
+    ],
+    "c1": [
+      "Eng méiglech Léisung ass et, fir eng nei Form vun ëffentlech-privater Partnerschaft anzegoen.",
+      "Eng méiglech Léisung ass et, fir déi bestehend Reguléierung vollkommen ze restrukturéieren.",
+      "Eng méiglech Léisung ass et, fir e multifunktionale System zur Donnéeënauswäertung anzeféieren.",
+      "Eng méiglech Léisung ass et, fir d'Diversifikatioun vun de Ressourcen ze beschleunegen.",
+      "Eng méiglech Léisung ass et, fir d'Harmoniséierung vun den interne Prozessabläif ze froen."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Wat wann mir ... amplaz vun ... ausprobéieren géifen?",
+    "translation": "What if we tried ... instead of ...?",
+    "b1": [
+      "Wat wann mir de Zuch amplaz vun dem Auto ausprobéieren géifen?",
+      "Wat wann mir Waasser amplaz vun Cola ausprobéieren géifen?",
+      "Wat wann mir de Park amplaz vun dem Kino ausprobéieren géifen?",
+      "Wat wann mir d'E-Mail amplaz vun dem Bréif ausprobéieren géifen?",
+      "Wat wann mir déi nei Method amplaz vun der aler ausprobéieren géifen?"
+    ],
+    "b2": [
+      "Wat wann mir en Online-Meeting amplaz vun der Präsenzversammlung ausprobéieren géifen?",
+      "Wat wann mir den Direktverkaaf amplaz vun de Zwëschenhändler ausprobéieren géifen?",
+      "Wat wann mir een neie Liwwerant amplaz vun dem albekannten ausprobéieren géifen?",
+      "Wat wann mir eng flexibel Aarbechtszäit amplaz vun de festen Zäiten ausprobéieren géifen?",
+      "Wat wann mir e digitalen Devis amplaz vun der Pabeiersform ausprobéieren géifen?"
+    ],
+    "c1": [
+      "Wat wann mir eng dezentraliséiert Formatiounsarchitektur amplaz vun engem monolithesche Modell ausprobéieren géifen?",
+      "Wat wann mir qualitative Fuerschungsmethoden amplaz vun reng quantitative Statistiken ausprobéieren géifen?",
+      "Wat wann mir prädiktiv Analysen amplaz vun reaktive Moossnahmen ausprobéieren géifen?",
+      "Wat wann mir performant Partnerallianzen amplaz vun internen Entwécklungen ausprobéieren géifen?",
+      "Wat wann mir en iterative Prototyping-Prozess amplaz vun der klassescher Phasenplanung ausprobéieren géifen?"
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Mir mussen ... Prioritéit ginn.",
+    "translation": "We need to prioritize ...",
+    "b1": [
+      "Mir mussen der Gesondheet Prioritéit ginn.",
+      "Mir mussen der Sécherheet Prioritéit ginn.",
+      "Mir mussen der Famill Prioritéit ginn.",
+      "Mir mussen de Schoulen Prioritéit ginn.",
+      "Mir mussen den Hausaufgaben Prioritéit ginn."
+    ],
+    "b2": [
+      "Mir mussen der Reduzéierung vun de Käschten Prioritéit ginn.",
+      "Mir mussen der Zefriddenheet vun de Clienten Prioritéit ginn.",
+      "Mir mussen der Verbesserung vun der Qualitéit Prioritéit ginn.",
+      "Mir mussen der Sécherheet vun den Donnéeën Prioritéit ginn.",
+      "Mir mussen der Einhaltung vun de Fristen Prioritéit ginn."
+    ],
+    "c1": [
+      "Mir mussen der Nohaltegkeet vun eisen Investitiounen Prioritéit ginn.",
+      "Mir mussen der Digitaliséierung vun den administrative Prozesser Prioritéit ginn.",
+      "Mir mussen der Konsolidéierung vun der finanzieller Basis Prioritéit ginn.",
+      "Mir mussen der Präventioun vu systemesche Risiken Prioritéit ginn.",
+      "Mir mussen der kritescher Analyse vun den internationale Mäert Prioritéit ginn."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Loss eis dat Problem opdeelen an ...",
+    "translation": "Let's break the problem down into ...",
+    "b1": [
+      "Loss eis dat Problem opdeelen an zwee Deeler.",
+      "Loss eis dat Problem opdeelen an kleng Schrëtt.",
+      "Loss eis dat Problem opdeelen an einfach Aufgaben.",
+      "Loss eis dat Problem opdeelen an dräi Punkten.",
+      "Loss eis dat Problem opdeelen an nei Froen."
+    ],
+    "b2": [
+      "Loss eis dat Problem opdeelen an eenzel Phasen fir dat nächst Joer.",
+      "Loss eis dat Problem opdeelen an konkrete Verantwortungsberäicher.",
+      "Loss eis dat Problem opdeelen an kuerz- a laangfristeg Ziler.",
+      "Loss eis dat Problem opdeelen an verschidde Kategorie vu Risiken.",
+      "Loss eis dat Problem opdeelen an Aufgaben fir déi eenzel Ekippen."
+    ],
+    "c1": [
+      "Loss eis dat Problem opdeelen an analytesch kohärent Deelaspekter.",
+      "Loss eis dat Problem opdeelen an thematesch Aarbechtsgruppen fir eng besser Synergie.",
+      "Loss eis dat Problem opdeelen an strukturell, finansielle an organisatoresch Dimensiounen.",
+      "Loss eis dat Problem opdeelen an prioritär Reorganisatiounsschrëtt.",
+      "Loss eis dat Problem opdeelen an methodologesch separat Fuerschungsphasen."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Hutt Dir d'Auswierkunge vun ... berécksiichtegt?",
+    "translation": "Have you considered the impact of ...?",
+    "b1": [
+      "Hutt Dir d'Auswierkunge vum Wieder berécksiichtegt?",
+      "Hutt Dir d'Auswierkunge vum Präis berécksiichtegt?",
+      "Hutt Dir d meescht Auswierkunge vum Verkéier berécksiichtegt?",
+      "Hutt Dir d'Auswierkunge vum Kaméidi berécksiichtegt?",
+      "Hutt Dir d'Auswierkunge vun der Verspéidung berécksiichtegt?"
+    ],
+    "b2": [
+      "Hutt Dir d'Auswierkunge vun der neier Gesetzgebung berécksiichtegt?",
+      "Hutt Dir d'Auswierkunge vum Personalmangel op d'Produktioun berécksiichtegt?",
+      "Hutt Dir d'Auswierkunge vun der Inflatioun op eisen Devis berécksiichtegt?",
+      "Hutt Dir d'Auswierkunge vun den neie Steieren berécksiichtegt?",
+      "Hutt Dir d'Auswierkunge vun dëser Decisioun op d'Clienten berécksiichtegt?"
+    ],
+    "c1": [
+      "Hutt Dir d'Auswierkunge vun der geopolitescher Instabilitéit berécksiichtegt?",
+      "Hutt Dir d'Auswierkunge vun der demographescher Entwécklung op d'Pensiounssystemer berécksiichtegt?",
+      "Hutt Dir d'Auswierkunge vun der künstlecher Intelligenz op den Aarbechtsmaart berécksiichtegt?",
+      "Hutt Dir d'Auswierkunge vun der Devaluatioun vun der Währung op d'Investitiounen berécksiichtegt?",
+      "Hutt Dir d'Auswierkunge vun der struktureller Ëmstrukturéierung berécksiichtegt?"
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Eng Méiglechkeet fir dat ze ëmgoen ass, fir ...",
+    "translation": "One way around this is to ...",
+    "b1": [
+      "Eng Méiglechkeet fir dat ze ëmgoen ass, fir en anere Wee ze huelen.",
+      "Eng Méiglechkeet fir dat ze ëmgoen ass, fir méi fréi unzufänken.",
+      "Eng Méiglechkeet fir dat ze ëmgoen ass, fir online ze kafen.",
+      "Eng Méiglechkeet fir dat ze ëmgoen ass, fir d'App ze benotzen.",
+      "Eng Méiglechkeet fir dat ze ëmgoen ass, fir am Viraus ze reservéieren."
+    ],
+    "b2": [
+      "Eng Méiglechkeet fir dat ze ëmgoen ass, fir en alternativen Liwwerant ze sichen.",
+      "Eng Méiglechkeet fir dat ze ëmgoen ass, fir en Tëschenzäit-Plang auszearbeiten.",
+      "Eng Méiglechkeet fir dat ze ëmgoen ass, fir eng Ausnahmegenehmegung unzufroen.",
+      "Eng Méiglechkeet fir dat ze ëmgoen ass, fir d'Aarbecht op verschidde Persounen opzedeelen.",
+      "Eng Méiglechkeet fir dat ze ëmgoen ass, fir d'Konditioune vum Kontrakt nei ze verhandelen."
+    ],
+    "c1": [
+      "Eng Méiglechkeet fir dat ze ëmgoen ass, fir d'juristesch Grauzonen fir eng Iwwergangsphas ze notzen.",
+      "Eng Méiglechkeet fir dat ze ëmgoen ass, fir eng flexibel Reguléierungsklausel am Ofkommes anzebauen.",
+      "Eng Méiglechkeet fir dat ze ëmgoen ass, fir eng Bypas-Prozedur an de Reklamatiounsprozess anzeféieren.",
+      "Eng Méiglechkeet fir dat ze ëmgoen ass, fir eng Strategie vun der gradueller Dezentraliséierung ze verfollegen.",
+      "Eng Méiglechkeet fir dat ze ëmgoen ass, fir eng reegelméisseg Iwwerpréiwung vun de Restriktiounen ze garantéieren."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Mir kéinten de Risiko reduzéieren, duerch ...",
+    "translation": "We could mitigate the risk by ...",
+    "b1": [
+      "Mir kéinten de Risiko reduzéieren, duerch lues ze fueren.",
+      "Mir kéinten de Risiko reduzéieren, duerch en Helme unzeleeën.",
+      "Mir kéinten de Risiko reduzéieren, duerch e Regenschirm matzehuelen.",
+      "Mir kéinten de Risiko reduzéieren, duerch e Passwuert ze huelen.",
+      "Mir kéinten de Risiko reduzéieren, duerch d'Spueren vu Suen."
+    ],
+    "b2": [
+      "Mir kéinten de Risiko reduzéieren, duerch eng zousätzlech Assuranz ze huelen.",
+      "Mir kéinten de Risiko reduzéieren, duerch reegelméisseg Backups vun den Donnéeën.",
+      "Mir kéinten de Risiko reduzéieren, duerch eng strikt Iwwerwaachung vum Budget.",
+      "Mir kéinten de Risiko reduzéieren, duerch eng Diversifikatioun vun de Liwweranten.",
+      "Mir kéinten de Risiko reduzéieren, duerch zousätzlech Sécherheetskontrollen."
+    ],
+    "c1": [
+      "Mir kéinten de Risiko reduzéieren, duerch d'Implementéierung vun engem proaktive Risikomanagement.",
+      "Mir kéinten de Risiko reduzéieren, duerch déi strategesch Streuung vun de finanzielle Portfolioen.",
+      "Mir kéinten de Risiko reduzéieren, duerch eng detailléiert juristesch Préifung vun alle Klauselen.",
+      "Mir kéinten de Risiko reduzéieren, duerch d'Etabléierung vu strenge Qualitéitssécherungsprotokollen.",
+      "Mir kéinten de Risiko reduzéieren, duerch d'Entwécklung vu robusten Noutfallpläng fir de Krisenfall."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Vläicht sollt mir d'Ursaach vu ... analyséieren.",
+    "translation": "Perhaps we should look at the root cause of ...",
+    "b1": [
+      "Vläicht sollt mir d'Ursaach vu mengem Feeler analyséieren.",
+      "Vläicht sollt mir d'Ursaach vum Problem analyséieren.",
+      "Vläicht sollt mir d'Ursaach vum Kaméidi analyséieren.",
+      "Vläicht sollt mir d'Ursaach vun der Verspéidung analyséieren.",
+      "Vläicht sollt mir d'Ursaach vun der Panne analyséieren."
+    ],
+    "b2": [
+      "Vläicht sollt mir d'Ursaach vu der Onzefriddenheet vun de Clienten analyséieren.",
+      "Vläicht sollt mir d'Ursaach vum héije Personalwechsel analyséieren.",
+      "Vläicht sollt mir d'Ursaach vun de reegelméissege Systemausfäll analyséieren.",
+      "Vläicht sollt mir d'Ursaach vu deenen onerwaarten zousätzleche Käschten analyséieren.",
+      "Vläicht sollt mir d'Ursaach vum Réckgang vun de Verkafszuelen analyséieren."
+    ],
+    "c1": [
+      "Vläicht sollt mir d'Ursaach vun der struktureller Ineffizienz an der Organisatioun analyséieren.",
+      "Vläicht sollt mir d'Ursaach vun der erodéierender Vertrauensbasis an der Institutioun analyséieren.",
+      "Vläicht sollt mir d'Ursaach vun der persistenter Stagnatioun um Maart analyséieren.",
+      "Vläicht sollt mir d'Ursaach vun der Fehlallokatioun vun de finanziellen Mëttelen analyséieren.",
+      "Vläicht sollt mir d'Ursaach vun de kritesche Mëssverständnisse bei den internationalen Deeg analyséieren."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Den direkten nächsten Schrëtt sollt ... sinn.",
+    "translation": "The immediate next step should be ...",
+    "b1": [
+      "Den direkten nächsten Schrëtt sollt en Telefonsuruff sinn.",
+      "Den direkten nächsten Schrëtt sollt e Kaffi maachen sinn.",
+      "Den direkten nächsten Schrëtt sollt d'Schreiwe vun der E-Mail sinn.",
+      "Den direkten nächsten Schrëtt sollt den Empfang vun de Kaarten sinn.",
+      "Den direkten nächsten Schrëtt sollt d meescht Buchung vum Zëmmers sinn."
+    ],
+    "b2": [
+      "Den direkten nächsten Schrëtt sollt d'Bestätegung vun den Detailer mam Client sinn.",
+      "Den direkten nächsten Schrëtt sollt d'Organisatioun vun engem néie Meeting sinn.",
+      "Den direkten nächsten Schrëtt sollt d'Schécke vum neien Devis sinn.",
+      "Den direkten nächsten Schrëtt sollt d'Korrektur vun den Dokumenter sinn.",
+      "Den direkten nächsten Schrëtt sollt d'Informéiere vun der ganzer Ekipp sinn."
+    ],
+    "c1": [
+      "Den direkten nächsten Schrëtt sollt d'Validatioun vun der neier Strategie duerch de Verwaltungsrot sinn.",
+      "Den direkten nächsten Schrëtt sollt d'Abaue vun der neier Directive an eise Regulativ sinn.",
+      "Den direkten nächsten Schrëtt sollt d'Finaliséierung vun den Ausféierungsbestëmmunge sinn.",
+      "Den direkten nächsten Schrëtt sollt d'Auleedung vun der adäquater Auditéierung sinn.",
+      "Den direkten nächsten Schrëtt sollt déi offiziell Notifikatioun un déi international Partneren sinn."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Hët iergendeen eng aner Perspektiv op ...?",
+    "translation": "Does anyone have a different perspective on ...?",
+    "b1": [
+      "Hët iergendeen eng aner Perspektiv op dëse Film?",
+      "Hët iergendeen eng aner Perspektiv op den neie Plang?",
+      "Hët iergendeen eng aner Perspektiv op de Präis?",
+      "Hët iergendeen eng aner Perspektiv op dat Thema?",
+      "Hët iergendeen eng aner Perspektiv op dat Buch?"
+    ],
+    "b2": [
+      "Hët iergendeen eng aner Perspektiv op d'Verteilung vum Budget?",
+      "Hët iergendeen eng aner Perspektiv op déi virgeschloen Neiorganisatioun?",
+      "Hët iergendeen eng aner Perspektiv op déi nei Marketing-Campagne?",
+      "Hët iergendeen eng aner Perspektiv op déi zukünfteg Entwécklung vum Projet?",
+      "Hët iergendeen eng aner Perspektiv op d'Ursaache vun dëser Kris?"
+    ],
+    "c1": [
+      "Hët iergendeen eng aner Perspektiv op déi makroekonomesch Impakte vun dëser Reform?",
+      "Hët iergendeen eng aner Perspektiv op déi ethnesch Dimensioun vun dëser Technologiefuerschung?",
+      "Hët iergendeen eng aner Perspektiv op déi geostrategesch Implikatioune fir d'Regioun?",
+      "Hët iergendeen eng aner Perspektiv op d'Interpretation vun dëse wëssenschaftleche Donnéeën?",
+      "Hët iergendeen eng aner Perspektiv op d'Nohaltegkeet vun dëser laangfristeger Politik?"
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Kuerzfristeg kënne mir ... maachen.",
+    "translation": "In the short term, we can do ...",
+    "b1": [
+      "Kuerzfristeg kënne mir eng Paus maachen.",
+      "Kuerzfristeg kënne mir d'Aarbecht stoppen.",
+      "Kuerzfristeg kënne mir eng E-Mail schreiwen.",
+      "Kuerzfristeg kënne mir en anere Wee huelen.",
+      "Kuerzfristeg kënne mir d'Fënster zoumaachen."
+    ],
+    "b2": [
+      "Kuerzfristeg kënne mir d'Prozedur vereinfachen fir Zäit ze spueren.",
+      "Kuerzfristeg kënne mir eng täschesch Léin-Léisung fir d'Ekipp benotzen.",
+      "Kuerzfristeg kënne mir täschesch täschesch zousätzlech Hëllef anzestellen.",
+      "Kuerzfristeg kënne mir d'Frist fir de Projet ëm eng Woch verlängeren.",
+      "Kuerzfristeg kënne mir d'Prioritéit op déi dréngendst Aufgab setzen."
+    ],
+    "c1": [
+      "Kuerzfristeg kënne mir eng Provisoresch Reglementéierung a Kraaft setzen.",
+      "Kuerzfristeg kënne mir eng Ëmleedung vun den onnotzen finanzielle Ressourcen veranlassen.",
+      "Kuerzfristeg kënne mir eng Iwwergangs-Struktur fir déi lafend Operatiounen etabléieren.",
+      "Kuerzfristeg kënne mir d'Sätz vun den Noutfallmoossnamen aktivéieren.",
+      "Kuerzfristeg kënne mir eng temporär Ausnameregelung mat den Auteurë vereinbaren."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Mir sollten e System fir ... implementéieren.",
+    "translation": "We should implement a system for ...",
+    "b1": [
+      "Mir sollten e System fir d'Kontroll vu de Kaarten implementéieren.",
+      "Mir sollten e System fir d meescht Reservatioune implementéieren.",
+      "Mir sollten e System fir d'Spueren vu Stroum implementéieren.",
+      "Mir sollten e System fir d'Sammelen vu Müll implementéieren.",
+      "Mir sollten e System fir d'Organisatioun vun de Bicher implementéieren."
+    ],
+    "b2": [
+      "Mir sollten e System fir d'Gestioun vun de Clientsdaten implementéieren.",
+      "Mir sollten e System fir d'Iwwerwaachung vum Budget implementéieren.",
+      "Mir sollten e System fir d'Automatisioun vun de Rechnungen implementéieren.",
+      "Mir sollten e System fir d'Bewäertung vun de Leeschtungen implementéieren.",
+      "Mir sollten e System fir d'Sécherheet vun de Passewierder implementéieren."
+    ],
+    "c1": [
+      "Mir sollten e System fir déi kontinuéierlech Evaluatioun vu Risiken implementéieren.",
+      "Mir sollten e System fir d'Echtzäit-Analyse vu grousse Donnéeënmengen implementéieren.",
+      "Mir sollten e System fir d'Sécherstellung vun der gudder Governance implementéieren.",
+      "Mir sollten e System fir déi automatiséiert Konformitéitstestung implementéieren.",
+      "Mir sollten e System fir d'Monitoring vun der Nohaltegkeet iwwer all Departementer implementéieren."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Loss eis déi Vir- an Nodeeler vun ... evaluéieren.",
+    "translation": "Let's evaluate the pros and cons of ...",
+    "b1": [
+      "Loss eis déi Vir- an Nodeeler vun dëser Rees evaluéieren.",
+      "Loss eis déi Vir- an Nodeeler vun engem neien Auto evaluéieren.",
+      "Loss eis déi Vir- an Nodeeler vun der neuer Wunneng evaluéieren.",
+      "Loss eis déi Vir- an Nodeeler vum Online-Léieren evaluéieren.",
+      "Loss eis déi Vir- an Nodeeler vum Plang evaluéieren."
+    ],
+    "b2": [
+      "Loss eis déi Vir- an Nodeeler vun der Aarbecht doheem evaluéieren.",
+      "Loss eis déi Vir- an Nodeeler vun engem neien Zesummenaarbechtsvertrag evaluéieren.",
+      "Loss eis déi Vir- an Nodeeler vun der Auslagerung vun der IT evaluéieren.",
+      "Loss eis déi Vir- an Nodeeler vun neie Marketingkanäl evaluéieren.",
+      "Loss eis déi Vir- an Nodeeler vun der Erhéijung vun den Devisen evaluéieren."
+    ],
+    "c1": [
+      "Loss eis déi Vir- an Nodeeler vun der radikaler Digitaliséierung vun den Prozesser evaluéieren.",
+      "Loss eis déi Vir- an Nodeeler vun enger internationaler Expansioun an dëser Krisenephaz evaluéieren.",
+      "Loss eis déi Vir- an Nodeeler vun enger kompletter Restrukturéierung vun der Organisatiounsstruktur evaluéieren.",
+      "Loss eis déi Vir- an Nodeeler vun der Einführung vu strengen Nohaltegkeetskréiterien evaluéieren.",
+      "Loss eis déi Vir- an Nodeeler vun enger strategescher Fusioun mat eisem Haaptkonkurrent evaluéieren."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Fir den Erfolleg ze garantéieren, mussen mir fir d'éischt ... léisen.",
+    "translation": "To ensure success, we must first address ...",
+    "b1": [
+      "Fir den Erfolleg ze garantéieren, mussen mir fir d'éischt d'Fro vum Präis léisen.",
+      "Fir den Erfolleg ze garantéieren, mussen mir fir d'éischt dat Problem mat der Zäit léisen.",
+      "Fir den Erfolleg ze garantéieren, mussen mir fir d'éischt d'Sproochefro léisen.",
+      "Fir den Erfolleg ze garantéieren, mussen mir fir d'éischt d'Plazproblem léisen.",
+      "Fir den Erfolleg ze garantéieren, mussen mir fir d'éischt de Transportsystem léisen."
+    ],
+    "b2": [
+      "Fir den Erfolleg ze garantéieren, mussen mir fir d'éischt d'Kommunikatiounsproblemer am Team léisen.",
+      "Fir den Erfolleg ze garantéieren, mussen mir fir d'éischt déi finanziell Froen mat den Investorä léisen.",
+      "Fir den Erfolleg ze garantéieren, mussen mir fir d'éischt déi technesch Feeler an der Software léisen.",
+      "Fir den Erfolleg ze garantéieren, mussen mir fir d'éischt déi juristesch Hindernisser léisen.",
+      "Fir den Erfolleg ze garantéieren, mussen mir fir d'éischt d'Aarbechtskonditioune léisen."
+    ],
+    "c1": [
+      "Fir den Erfolleg ze garantéieren, mussen mir fir d'éischt déi strukturell Incohérenzen am System léisen.",
+      "Fir den Erfolleg ze garantéieren, mussen mir fir d'éischt déi tiefgräifend Meenungsverschiddenheeten am Verwaltungsrot léisen.",
+      "Fir den Erfolleg ze garantéieren, mussen mir fir d'éischt d'Problem vun der Mangel u Vertrauen bei den Akteuren léisen.",
+      "Fir den Erfolleg ze garantéieren, mussen mir fir d'éischt déi fir d'Zukunft kritescht Reguléierungsfroen léisen.",
+      "Fir den Erfolleg ze garantéieren, mussen mir fir d'éischt déi laangfristeg Finanzéierungsonsécherheet léisen."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Dat gréisst Hindernis ass ...",
+    "translation": "The biggest obstacle standing in the way is ...",
+    "b1": [
+      "Dat gréisst Hindernis ass de Mangel un Zäit.",
+      "Dat gréisst Hindernis ass dat schlecht Wieder.",
+      "Dat gréisst Hindernis ass den héije Präis.",
+      "Dat gréisst Hindernis ass de laange Wee.",
+      "Dat gréisst Hindernis ass déi schwéier Sprooch."
+    ],
+    "b2": [
+      "Dat gréisst Hindernis ass de Mangel am Budget fir dëst Joer.",
+      "Dat gréisst Hindernis ass déi fehlend Erlaabnes vun de Autoritéiten.",
+      "Dat gréisst Hindernis ass de Widerstand géint déi nei Verännerungen.",
+      "Dat gréisst Hindernis ass d'Kuerzfristegegkeet vun der Frist.",
+      "Dat gréisst Hindernis ass déi schlechte Qualitéit vum Material."
+    ],
+    "c1": [
+      "Dat gréisst Hindernis ass déi bürokratesch Starre vun den institutionellen Strukturen.",
+      "Dat gréisst Hindernis ass déi laangjäreg strukturell Ofhängegkeet vun externe Partneren.",
+      "Dat gréisst Hindernis ass déi persistent Inkompatibilitéit vun den neie Systemer.",
+      "Dat gréisst Hindernis ass déi feelend politesch Volontéit fir eng déif Reform.",
+      "Dat gréisst Hindernis ass déi grouss Komplexitéit vun der internationaler Gesetzgebung."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Mäi virgeschloenen Usaz beinhaltet ...",
+    "translation": "My proposed approach involves ...",
+    "b1": [
+      "Mäi virgeschloenen Usaz beinhaltet méi Training.",
+      "Mäi virgeschloenen Usaz beinhaltet d meescht Benotzung vun engem Plang.",
+      "Mäi virgeschloenen Usaz beinhaltet d'Hëllef vun den Elteren.",
+      "Mäi virgeschloenen Usaz beinhaltet eng nei Lëscht vu Regelen.",
+      "Mäi virgeschloenen Usaz beinhaltet eng Paus all Stonn."
+    ],
+    "b2": [
+      "Mäi virgeschloenen Usaz beinhaltet d'Reduzéierung vun den alldeeglechen Ausgaben.",
+      "Mäi virgeschloenen Usaz beinhaltet eng besser Aarbechtsverdeelung am Team.",
+      "Mäi virgeschloenen Usaz beinhaltet reegelméisseg Iwwerpréiwunge vun de Resultater.",
+      "Mäi virgeschloenen Usaz beinhaltet eng verstäerkt Zesummenaarbecht mat den Externe.",
+      "Mäi virgeschloenen Usaz beinhaltet d'Einféierung vun neie Qualitéitsstandarder."
+    ],
+    "c1": [
+      "Mäi virgeschloenen Usaz beinhaltet eng nei Ausrichtung vun der ganzer Unternehmensstrategie.",
+      "Mäi virgeschloenen Usaz beinhaltet déi gründlech Restrukturéierung vun de bestehende Prozesser.",
+      "Mäi virgeschloenen Usaz beinhaltet d'Schafung vun enger interdisziplinärer Plattform fir Innovatioun.",
+      "Mäi virgeschloenen Usaz beinhaltet d'Implementéierung vun enger kritescher Risikoanalyse.",
+      "Mäi virgeschloenen Usaz beinhaltet eng ëmfaassend Digitaliséierung vun allen administrativen Ofläif."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Vläicht ass dat fehlend Puzzlestéck ...",
+    "translation": "Perhaps the missing piece is ...",
+    "b1": [
+      "Vläicht ass dat fehlend Puzzlestéck méi Zeit.",
+      "Vläicht ass dat fehlend Puzzlestéck eng nei Iddi.",
+      "Vläicht ass dat fehlend Puzzlestéck e gutt Buch.",
+      "Vläicht ass dat fehlend Puzzlestéck e bëssen Rou.",
+      "Vläicht ass dat fehlend Puzzlestéck eng méi kloer Äntwert."
+    ],
+    "b2": [
+      "Vläicht ass dat fehlend Puzzlestéck eng besser Kommunikatioun tëscht de Sektoren.",
+      "Vläicht ass dat fehlend Puzzlestéck d'Erfahrung vun engem externen Berater.",
+      "Vläicht ass dat fehlend Puzzlestéck déi néideg Motivation vun der Ekipp.",
+      "Vläicht ass dat fehlend Puzzlestéck eng moderner technesch Ausrüstung.",
+      "Vläicht ass dat fehlend Puzzlestéck eng däitlech Definitioun vun de Ziler."
+    ],
+    "c1": [
+      "Vläicht ass dat fehlend Puzzlestéck eng ëmfaassend nei Bewäertung vun de Marchéskonditiounen.",
+      "Vläicht ass dat fehlend Puzzlestéck d'Etabléierung vun engem strategesche Vertrauensverhältnis.",
+      "Vläicht ass dat fehlend Puzzlestéck eng holistesch Analyse vun der sozio-ökonomescher Lag.",
+      "Vläicht ass dat fehlend Puzzlestéck déi néideg flexibel Reguléierung op europäeschem Niveau.",
+      "Vläicht ass dat fehlend Puzzlestéck d'Synergie tëscht der akademescher Fuerschung an der Praxis."
+    ]
+  }
+]

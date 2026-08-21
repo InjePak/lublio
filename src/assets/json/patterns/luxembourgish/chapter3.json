@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Kéint Dir vläicht ...?",
+    "translation": "Could you possibly ...?",
+    "b1": [
+      "Kéint Dir vläicht d'Dier opmaachen?",
+      "Kéint Dir vläicht méi lues schwätzen?",
+      "Kéint Dir vläicht mir mat dësem Koffer hëllefen?",
+      "Kéint Dir vläicht d'Rechnung bréngen?",
+      "Kéint Dir vläicht d'Saz nach eng Kéier widderhuelen?"
+    ],
+    "b2": [
+      "Kéint Dir vläicht d'Dokumenter bis muer d'Häerz schécken?",
+      "Kéint Dir vläicht dëse Rendez-vous op déi nächst Woch verréckelen?",
+      "Kéint Dir vläicht den Detailer vum Kontrakt nach eng Kéier préiwen?",
+      "Kéint Dir vläicht mir de Rapport iwwer d'Finanzen zur Verfügung stellen?",
+      "Kéint Dir vläicht d'Konditioune vun dësem Offer erklären?"
+    ],
+    "c1": [
+      "Kéint Dir vläicht déi laangfristeg Auswierkunge vun dëser Strategie am Detail analyséieren?",
+      "Kéint Dir vläicht am Kader vun den anstehenden Verhandlungen dës Fro zur Sprooch bréngen?",
+      "Kéint Dir vläicht eng ëmfaassend Bewäertung vun de Risiken opstellen?",
+      "Kéint Dir vläicht déi technesch Spezifikatioune fir de Projet nach eng Kéier präziséieren?",
+      "Kéint Dir vläicht déi juristesch Implikatioune vun dëser nei Decisioun ofklären?"
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Ech wär Iech dankbar, wann Dir kéint ...",
+    "translation": "I would be grateful if you could ...",
+    "b1": [
+      "Ech wär Iech dankbar, wann Dir mir d'Auerzäit kéint soen.",
+      "Ech wär Iech dankbar, wann Dir mir bei den Hausaufgaben kéint hëllefen.",
+      "Ech wär Iech dankbar, wann Dir d'Äntwert per Mail kéint schécken.",
+      "Ech wär Iech dankbar, wann Dir mech muer am Moie kéint uruffen.",
+      "Ech wär Iech dankbar, wann Dir d'Liicht kéint ausmaachen."
+    ],
+    "b2": [
+      "Ech wär Iech dankbar, wann Dir mir eng schrëftlech Bestätegung kéint schécken.",
+      "Ech wär Iech dankbar, wann Dir dës Informatiounen vertraulich kéint behandelen.",
+      "Ech wär Iech dankbar, wann Dir d'Presentatioun virum Treffen kéint iwwerpréiwen.",
+      "Ech wär Iech dankbar, wann Dir de Status vum Dossier kéint aktualiséieren.",
+      "Ech wär Iech dankbar, wann Dir eis Ufro esou séier wéi méiglech kéint bearbeiten."
+    ],
+    "c1": [
+      "Ech wär Iech dankbar, wann Dir déi néideg Schrëtt fir d'Klärung vun dëser Situatioun kéint abelegen.",
+      "Ech wär Iech dankbar, wann Dir mir d'Protokoll vum Kolloquium fir eisen Archiv kéint eraginn.",
+      "Ech wär Iech dankbar, wann Dir Är Expertenanalyse iwwer de Maart kéint zur Verfügung stellen.",
+      "Ech wär Iech dankbar, wann Dir déi organisatoresch Prozeduren fir déi international Konferenz kéint koordinéieren.",
+      "Ech wär Iech dankbar, wann Dir dëse Kompromëssvirschlag am Verwaltungsrot kéint vertrieden."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Wier et Iech ee Problem, fir ...?",
+    "translation": "Would you mind ...?",
+    "b1": [
+      "Wier et Iech ee Problem, fir eng Minutt ze waarden?",
+      "Wier et Iech ee Problem, fir d'Fënster zouzemaachen?",
+      "Wier et Iech ee Problem, fir d'Musek méi leise ze maachen?",
+      "Wier et Iech ee Problem, fir d'Formular auszefëllen?",
+      "Wier et Iech ee Problem, fir mir d'Salz ze ginn?"
+    ],
+    "b2": [
+      "Wier et Iech ee Problem, fir den neien Entworf fir d'Formatioun z'iwwerschaffen?",
+      "Wier et Iech ee Problem, fir mir déi aktualiséiert Lëscht vun de Kontakter ze ginn?",
+      "Wier et Iech ee Problem, fir eis Plaz am Meetingraum ze wiesselen?",
+      "Wier et Iech ee Problem, fir d'Feedback iwwer dëse Rapport bis eFreideg ze ginn?",
+      "Wier et Iech ee Problem, fir de Client iwwer déi nei Entwécklungen z'informéieren?"
+    ],
+    "c1": [
+      "Wier et Iech ee Problem, fir déi methodologesch Usätz vun dëser Studie méi am Detail z'erklären?",
+      "Wier et Iech ee Problem, fir eng zousätzlech Evaluatioun vun de budgetäre Konsequenzen duerchzuféieren?",
+      "Wier et Iech ee Problem, fir dës komplex Thematik an der nächster Comitéssëtzung z'erörteren?",
+      "Wier et Iech ee Problem, fir d'Koordinatioun vun den interdisziplinären Aarbechtsgruppen z'iwwerhuelen?",
+      "Wier et Iech ee Problem, fir déi fir eis juristesch kritescht Dokumenter z'iwwerpréiwen?"
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Ech schreiwen Iech, fir ze froen ...",
+    "translation": "I'm writing to request ...",
+    "b1": [
+      "Ech schreiwen Iech, fir no méi Informatiounen ze froen.",
+      "Ech schreiwen Iech, fir no engem Rendez-vous ze froen.",
+      "Ech schreiwen Iech, fir no Ärer Hëllef ze froen.",
+      "Ech schreiwen Iech, fir no der Plaz vum Cours ze froen.",
+      "Ech schreiwen Iech, fir no enger Brochür ze froen."
+    ],
+    "b2": [
+      "Ech schreiwen Iech, fir no enger Verlängerung vun der Frist fir d'Aarbecht ze froen.",
+      "Ech schreiwen Iech, fir no engem detailléierte Devis fir de Projet ze froen.",
+      "Ech schreiwen Iech, fir no der Bestätegung vun eiser Reservatioun ze froen.",
+      "Ech schreiwen Iech, fir no enger Réckerstattung fir déi beschiedegt Wuer ze froen.",
+      "Ech schreiwen Iech, fir no enger Ausnam fir dës Reegel ze froen."
+    ],
+    "c1": [
+      "Ech schreiwen Iech, fir no enger offizieller Stellungnahm iwwer déi nei Ëmweltrichtlinnen ze froen.",
+      "Ech schreiwen Iech, fir no den noutwendegen Erlaabnes fir déi wëssenschaftlech Studie ze froen.",
+      "Ech schreiwen Iech, fir no enger Kooperatioun am Kader vum europäesche Fuerschungsprojet ze froen.",
+      "Ech schreiwen Iech, fir no enger Iwwerpréiwung vun der finanzielle Mëttelallokatioun ze froen.",
+      "Ech schreiwen Iech, fir no der Genehmegung vun eisen ausseruerdentlechen Ausgaben ze froen."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Ech brauche ... bis zum Enn vun ...",
+    "translation": "I need ... by the end of ...",
+    "b1": [
+      "Ech brauche mäi Pass bis zum Enn vun der Woch.",
+      "Ech brauche de Schlëssel bis zum Enn vum Dag.",
+      "Ech brauche d'Buch bis zum Enn vum Mount.",
+      "Ech brauche d'Resultat bis zum Enn vum Nomëtteg.",
+      "Ech brauche dat neit Handduch bis zum Enn vun der Vakanz."
+    ],
+    "b2": [
+      "Ech brauche de kompletten Informatiounsdossier bis zum Enn vum Trimester.",
+      "Ech brauche d'Bestätegung vun de Participanten bis zum Enn vun dëser Woch.",
+      "Ech brauche déi nei Präis-Lëscht bis zum Enn vum Joer.",
+      "Ech brauche d'Freigabe fir de Budget bis zum Enn vum Mount.",
+      "Ech brauche de Feedback vum Client bis zum Enn vum Dag."
+    ],
+    "c1": [
+      "Ech brauche déi ëmfaassend Strategieanalyse bis zum Enn vun dësem Semester.",
+      "Ech brauche déi konsolidéiert Bilanz vun der Gesellschaft bis zum Enn vum Geschäftsjoer.",
+      "Ech brauche déi wëssenschaftlech Validatioun vun den Donnéeën bis zum Enn vun der Testphas.",
+      "Ech brauche déi juristesch Evaluatioun vum Accord bis zum Enn vum Verhandlungszyklus.",
+      "Ech brauche déi detailléiert Audit-Resultater bis zum Enn vum aktuellen Mandat."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Gëtt et eng Méiglechkeet fir ...?",
+    "translation": "Is there any chance of ...?",
+    "b1": [
+      "Gëtt et eng Méiglechkeet fir muer e Dësch ze reservéieren?",
+      "Gëtt et eng Méiglechkeet fir méi spricher ze ginn?",
+      "Gëtt et eng Méiglechkeet fir mat der Kaart ze bezuelen?",
+      "Gëtt et eng Méiglechkeet fir e Remise ze kréien?",
+      "Gëtt et eng Méiglechkeet fir de Bus nach ze kréien?"
+    ],
+    "b2": [
+      "Gëtt et eng Méiglechkeet fir d'Liwwerzäiten ze verkierzen?",
+      "Gëtt et eng Méiglechkeet fir d'Formatioun online ze maachen?",
+      "Gëtt et eng Méiglechkeet fir de Projet wéinst der Situatioun opzeschieben?",
+      "Gëtt et eng Méiglechkeet fir de Kontrakt ënner neie Konditiounen z'erneieren?",
+      "Gëtt et eng Méiglechkeet fir en neie Budget fir d'Ekipp ze ufroen?"
+    ],
+    "c1": [
+      "Gëtt et eng Méiglechkeet fir dës Problematik an de wëssenschaftleche Discours opzehuelen?",
+      "Gëtt et eng Méiglechkeet fir eng ausseruerdentlech Iwwerpréiwung vum Beschloss z'erreechen?",
+      "Gëtt et eng Méiglechkeet fir d'Kombinatioun vu béiden innovativen Methoden ze realiséieren?",
+      "Gëtt et eng Méiglechkeet fir eng täschesch Allianzen mat den internationalen Akteuren ze schléissen?",
+      "Gëtt et eng Méiglechkeet fir déi strukturell Schwachstellen vum System kuerzfristeg ze behiewen?"
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Kéint ech Iech froen, Iech speziell op ... ze konzentréieren?",
+    "translation": "Could I ask you to specifically focus on ...?",
+    "b1": [
+      "Kéint ech Iech froen, Iech speziell op déi éischt Säit ze konzentréieren?",
+      "Kéint ech Iech froen, Iech speziell op de Vocabel ze konzentréieren?",
+      "Kéint ech Iech froen, Iech speziell op d'Aussprooch ze konzentréieren?",
+      "Kéint ech Iech froen, Iech speziell op d'Reegelen am Spill ze konzentréieren?",
+      "Kéint ech Iech froen, Iech speziell op d'Wieder fir muer ze konzentréieren?"
+    ],
+    "b2": [
+      "Kéint ech Iech froen, Iech speziell op d'Käschtereduzéierung an dëser Phas ze konzentréieren?",
+      "Kéint ech Iech froen, Iech speziell op de Feeler am System ze konzentréieren?",
+      "Kéint Dir Iech wuel speziell op d'Feedback vun den Zeugen konzentréieren?",
+      "Kéint ech Iech froen, Iech speziell op d'Aarbechtszeite vum Team ze konzentréieren?",
+      "Kéint ech Iech froen, Iech speziell op d'Qualitéit vun der Liwwerung ze konzentréieren?"
+    ],
+    "c1": [
+      "Kéint ech Iech froen, Iech speziell op déi ethnesch Implikatioune vun dëser Technologiefuerschung ze konzentréieren?",
+      "Kéint ech Iech froen, Iech speziell op déi makroekonomesch Variablen vun eisem Modell ze konzentréieren?",
+      "Kéint ech Iech froen, Iech speziell op déi juristesch Grauzonen an dëser Reguléierung ze konzentréieren?",
+      "Kéint ech Iech froen, Iech speziell op déi soziologesch Impakte fir d'Bevëlkerung ze konzentréieren?",
+      "Kéint ech Iech froen, Iech speziell op d'Nohaltegkeet vun den nei virgeschloene Moossnamen ze konzentréieren?"
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Vergiesst w.s.e. net ..., mat anzebannen.",
+    "translation": "Please make sure to include ...",
+    "b1": [
+      "Vergiesst w.s.e. net Ären Numm mat anzebannen.",
+      "Vergiesst w.s.e. net d'Telefonsnummer mat anzebannen.",
+      "Vergiesst w.s.e. net d'Datum op dem Bréif mat anzebannen.",
+      "Vergiesst w.s.e. net eng Fläsch Wasser mat anzebannen.",
+      "Vergiesst w.s.e. net Är Adress mat anzebannen."
+    ],
+    "b2": [
+      "Vergiesst w.s.e. net déi lescht Verkafszuelen am Rapport mat anzebannen.",
+      "Vergiesst w.s.e. net d'Referenze vum Project mat anzebannen.",
+      "Vergiesst w.s.e. net d'Kritik vun de Clienten an Ärer Analyse mat anzebannen.",
+      "Vergiesst w.s.e. net d'Detailer iwwer d'Finanzéierung mat anzebannen.",
+      "Vergiesst w.s.e. net déi zousätzlech Käschten am Devis mat anzebannen."
+    ],
+    "c1": [
+      "Vergiesst w.s.e. net déi empíresch Bewäertung vun de Resultater mat anzebannen.",
+      "Vergiesst w.s.e. net d'Auswirkungen vun der Gesetzgebung op d'Mëttelstandsfirmen mat anzebannen.",
+      "Vergiesst w.s.e. net déi fir déi akademesch Debatt relevante Literaturquellen mat anzebannen.",
+      "Vergiesst w.s.e. net d'Analyse vun de geostrategeschen Risiken an den Dokumenter mat anzebannen.",
+      "Vergiesst w.s.e. net déi sozio-kulturell Aspekter an dësem Entwécklungs-Interpretatiounsmodell mat anzebannen."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Wier et méiglech, datt Dir Detailer iwwer ... uginn géift?",
+    "translation": "Would it be possible for you to provide details on ...?",
+    "b1": [
+      "Wier et méiglech, datt Dir Detailer iwwer d'Preisser uginn géift?",
+      "Wier et méiglech, datt Dir Detailer iwwer de Clubaflaf uginn géift?",
+      "Wier et méiglech, datt Dir Detailer iwwer d'Zäiten uginn géift?",
+      "Wier et méiglech, datt Dir Detailer iwwer d'Plaz uginn géift?",
+      "Wier et méiglech, datt Dir Detailer iwwer de Menü uginn géift?"
+    ],
+    "b2": [
+      "Wier et méiglech, datt Dir Detailer iwwer d'Ëmsetzung vun de Moossnamen uginn géift?",
+      "Wier et méiglech, datt Dir Detailer iwwer d'Partnere vum Projet uginn géift?",
+      "Wier et méiglech, datt Dir Detailer iwwer déi nei Sécherheetsreegelen uginn géift?",
+      "Wier et méiglech, datt Dir Detailer iwwer déi zousätzlech Servicer uginn géift?",
+      "Wier et méiglech, datt Dir Detailer iwwer d'Qualifikatioune vum Personal uginn géift?"
+    ],
+    "c1": [
+      "Wier et méiglech, datt Dir Detailer iwwer déi finansielle Restrukturéierung vum Sektor uginn géift?",
+      "Wier et méiglech, datt Dir Detailer iwwer d'Methodologie vun Ärer statistescher Erhebung uginn géift?",
+      "Wier et méiglech, datt Dir Detailer iwwer d'Abläufe vun den diplomatesche Verhandlungen uginn géift?",
+      "Wier et méiglech, datt Dir Detailer iwwer déi sozio-demographesch Variabele vun Ärer Studie uginn géift?",
+      "Wier et méiglech, datt Dir Detailer iwwer d'Systemarchitektur vun der neier Plattform uginn géift?"
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Leider wäert ech net an der Lag sinn fir ...",
+    "translation": "Unfortunately, I won't be able to ...",
+    "b1": [
+      "Leider wäert ech net an der Lag sinn fir muer ze kommen.",
+      "Leider wäert ech net an der Lag sinn fir Iech ze hëllefen.",
+      "Leider wäert ech net an der Lag sinn fir den Auto ze léinen.",
+      "Leider wäert ech net an der Lag sinn fir op de Fest ze goen.",
+      "Leider wäert ech net an der Lag sinn fir d'Buch haut erëmzebréngen."
+    ],
+    "b2": [
+      "Leider wäert ech net an der Lag sinn fir um Reunioun vun dëser Woch deelzehuelen.",
+      "Leider wäert ech net an der Lag sinn fir d'Frist fir de Projet an ze halen.",
+      "Leider wäert ech net an der Lag sinn fir dës Propositioun an dëser Form unzenuelen.",
+      "Leider wäert ech net an der Lag sinn fir Iech eng positiv Äntwert ze ginn.",
+      "Leider wäert ech net an der Lag sinn fir de Budget ouni Freigab ze erhéijen."
+    ],
+    "c1": [
+      "Leider wäert ech net an der Lag sinn fir d'Verantwortung fir dës Fehlerënnerung z'iwwerhuelen.",
+      "Leider wäert ech net an der Lag sinn fir d'Vertriedung vun eisen Interessen op der Konferenz ze garantéieren.",
+      "Leider wäert ech net an der Lag sinn fir dëse komplexen Entworf virum Enn vum Trimester ze validéieren.",
+      "Leider wäert ech net an der Lag sinn fir un där interdisziplinärer Studie als Co-Auteur matzeschaffen.",
+      "Leider wäert ech net an der Lag sinn fir déi néideg Budgetsmëttelen kuerzfristeg freizeginn."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Ech fäerten, ech muss ... oflehnen.",
+    "translation": "I'm afraid I have to decline ...",
+    "b1": [
+      "Ech fäerten, ech muss Är Invitatioun oflehnen.",
+      "Ech fäerten, ech muss dëst Offere oflehnen.",
+      "Ech fäerten, ech muss d'Demande oflehnen.",
+      "Ech fäerten, ech muss Är Hëllef oflehnen.",
+      "Ech fäerten, ech muss den neie Virschlag oflehnen."
+    ],
+    "b2": [
+      "Ech fäerten, ech muss d'Konditioune vun dësem neie Kontrakt oflehnen.",
+      "Ech fäerten, ech muss Är Propositioun fir d'Zesummenaarbecht oflehnen.",
+      "Ech fäerten, ech muss d'Ännerung vum Zäitplang aus organisatoresche Grënn oflehnen.",
+      "Ech fäerten, ech muss dës Erhéijung vun den Depensen oflehnen.",
+      "Ech fäerten, ech muss Äert Offer fir déi nei Plaz am Betrieb oflehnen."
+    ],
+    "c1": [
+      "Ech fäerten, ech muss déi rezent Ëmsetzung vun dëse Moossnamen aus prinzipielle Grënn oflehnen.",
+      "Ech fäerten, ech muss eng Bedeelegung un dësem wëssenschaftlech kontroverse Projet oflehnen.",
+      "Ech fäerten, ech muss déi virgeschloe Strategie wéinst deene héije Risiken oflehnen.",
+      "Ech fäerten, ech muss dës compromise Offer wéinst feelender Transparenz oflehnen.",
+      "Ech fäerten, ech muss d'Upassung vun den Ethikrichtlinnen an dëser Form oflehnen."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Dat kléngt usprochsvoll well ...",
+    "translation": "That sounds challenging because ...",
+    "b1": [
+      "Dat kléngt usprochsvoll well ech net vill Zäit hunn.",
+      "Dat kléngt usprochsvoll well d meescht Saachen ze deier sinn.",
+      "Dat kléngt usprochsvoll well mir keng Erfahrung hunn.",
+      "Dat kléngt usprochsvoll well d'Wieder ganz schlecht ass.",
+      "Dat kléngt usprochsvoll well d'Wunneg ze kleng ass."
+    ],
+    "b2": [
+      "Dat kléngt usprochsvoll well eis Ressourcen am Moment staark limitéiert sinn.",
+      "Dat kléngt usprochsvoll well d'Frist fir d'Liwwerung ganz kuerz ugesat ass.",
+      "Dat kléngt usprochsvoll well den Niveau vun de Fuerderungen ganz héich ass.",
+      "Dat kléngt usprochsvoll well d'Team d'Technologie nach net gutt kennt.",
+      "Dat kléngt usprochsvoll well de Maart am Moment ganz instabil ass."
+    ],
+    "c1": [
+      "Dat kléngt usprochsvoll well déi politesch an institutionell Barrièren enorm sinn.",
+      "Dat kléngt usprochsvoll well déi wëssenschaftlech Validitéit vun dësen Donnéeën nach bestridden gëtt.",
+      "Dat kléngt usprochsvoll well eng séier Ëmstellung déi ganz strukturell Basis gefährde géif.",
+      "Dat kléngt usprochsvoll well dës Approche eng komplett Paradigmenverschiebung erfuerdert.",
+      "Dat kléngt usprochsvoll well déi juristesch Restriktiounen eis Handlungsfräiheet staark aschränken."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Och wann ech d'Offer schätzen, muss ech mat Respekt ... refuséieren.",
+    "translation": "While I appreciate the offer, I must respectfully refuse ...",
+    "b1": [
+      "Och wann ech d'Offer schätzen, muss ech mat Respekt Är Hëllef refuséieren.",
+      "Och wann ech d'Offer schätzen, muss ech mat Respekt den Kaddo refuséieren.",
+      "Och wann ech d'Offer schätzen, muss ech mat Respekt den Invité refuséieren.",
+      "Och wann ech d'Offer schätzen, muss ech mat Respekt de Kaffi refuséieren.",
+      "Och wann ech d'Offer schätzen, muss ech mat Respekt de Wee am Auto refuséieren."
+    ],
+    "b2": [
+      "Och wann ech d'Offer schätzen, muss ech mat Respekt d'Aarbechtsplaz am Ausland refuséieren.",
+      "Och wann ech d'Offer schätzen, muss ech mat Respekt dës zousätzlech Aufgab refuséieren.",
+      "Och wann ech d'Offer schätzen, muss ech mat Respekt déi nei finanziell Bedéngunge refuséieren.",
+      "Och wann ech d'Offer schätzen, muss ech mat Respekt d'Konditioune vun dëser Partnerschaft refuséieren.",
+      "Och wann ech d'Offer schätzen, muss ech mat Respekt d'Iwwerhuelung vum neie Projet refuséieren."
+    ],
+    "c1": [
+      "Och wann ech d'Offer schätzen, muss ech mat Respekt eng Nominatioun fir dëse Poste refuséieren.",
+      "Och wann ech d'Offer schätzen, muss ech mat Respekt déi proposéiert Mëschung vu Fuerschungsmëttelen refuséieren.",
+      "Och wann ech d'Offer schätzen, muss ech mat Respekt d'Bedeelegung un dësem Konsortium refuséieren.",
+      "Och wann ech d'Offer schätzen, muss ech mat Respekt déi proposéiert Kompromëssformel refuséieren.",
+      "Och wann ech d'Offer schätzen, muss ech mat Respekt d'Gestioun vun dëser kritescher Restrukturéierung refuséieren."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Mäi Zäitplang erlaabt et mir net fir ...",
+    "translation": "My schedule doesn't permit me to ...",
+    "b1": [
+      "Mäi Zäitplang erlaabt et mir net fir haut ze kommen.",
+      "Mäi Zäitplang erlaabt et mir net fir Sport ze maachen.",
+      "Mäi Zäitplang erlaabt et mir net fir laang ze bleiwen.",
+      "Mäi Zäitplang erlaabt et mir net fir op de Concert ze goen.",
+      "Mäi Zäitplang erlaabt et mir net fir dech ze treffen."
+    ],
+    "b2": [
+      "Mäi Zäitplang erlaabt et mir net fir dës täschesch Aarbecht op mech ze huelen.",
+      "Mäi Zäitplang erlaabt et mir net fir u béide Reuniounen deelzehuelen.",
+      "Mäi Zäitplang erlaabt et mir net fir d'Aarbecht virum eFreideg ofzeschléissen.",
+      "Mäi Zäitplang erlaabt et mir net fir nach eng zousätzlech Formatioun ze maachen.",
+      "Mäi Zäitplang erlaabt et mir net fir dës Woch eng Rees ze plangen."
+    ],
+    "c1": [
+      "Mäi Zäitplang erlaabt et mir net fir d'Expertise vun dësem komplexe Dossier ze ginn.",
+      "Mäi Zäitplang erlaabt et mir net fir d'Supervisioun vum Fuerschungsprojet z'iwwerhuelen.",
+      "Mäi Zäitplang erlaabt et mir net fir déi gefuerdert wëssenschaftlech Publikatioune fristgerecht ze liwweren.",
+      "Mäi Zäitplang erlaabt et mir net fir reegelméisseg un den internationale Kommissiounen deelzehuelen.",
+      "Mäi Zäitplang erlaabt et mir net fir d'Evaluatioun vun deenen neie Projete séier duerchzuféieren."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Ech wënschte mäin kéint ..., awer am Moment sinn ech beschäftegt mat ...",
+    "translation": "I wish I could ..., but currently I'm occupied with ...",
+    "b1": [
+      "Ech wënschte mäin kéint Iech hëllefen, awer am Moment sinn ech beschäftegt mat den Hausaufgaben.",
+      "Ech wënschte mäin kéint matgoen, awer am Moment sinn ech beschäftegt mat mengem Zëmmer.",
+      "Ech wënschte mäin kéint kachen, awer am Moment sinn ech beschäftegt mat der Aarbecht.",
+      "Ech wënschte mäin kéint kommen, awer am Moment sinn ech beschäftegt mat der Famill.",
+      "Ech wënschte mäin kéint telefoniéieren, awer am Moment sinn ech beschäftegt mat den Akeef."
+    ],
+    "b2": [
+      "Ech wënschte mäin kéint de Projet iwwerhuelen, awer am Moment sinn ech beschäftegt mat dem nei erstallten Audit.",
+      "Ech wënschte mäin kéint Iech um neie Stand halen, awer am Moment sinn ech beschäftegt mat de Klienten.",
+      "Ech wënschte mäin kéint op de Seminar goen, awer am Moment sinn ech beschäftegt mat de Finanzen.",
+      "Ech wënschte mäin kéint d'Organisatioun maachen, awer am Moment sinn ech beschäftegt mat eiser neier Filial.",
+      "Ech wënschte mäin kéint de Rapport schreiwen, awer am Moment sinn ech beschäftegt mat dem Budget."
+    ],
+    "c1": [
+      "Ech wënschte mäin kéint un dësem Panel deelhuelen, awer am Moment sinn ech beschäftegt mat der Ausarbeitung vun der Verfassungsreform.",
+      "Ech wënschte mäin kéint méi Zäit fir dës wëssenschaftlech Studie opbringen, awer am Moment sinn ech beschäftegt mat der Fuerschung am Laboratoire.",
+      "Ech wënschte mäin kéint déi diplomatesch Delegatioun begleeden, awer am Moment sinn ech beschäftegt mat de Krisen-Verhandlungen.",
+      "Ech wënschte mäin kéint d'Moderatioun vun der Debatt huelen, awer am Moment sinn ech beschäftegt mat der Publikatioun vum Buch.",
+      "Ech wënschte mäin kéint d'Systemarchitektur kontrolléieren, awer am Moment sinn ech beschäftegt mat der Restrukturéierung vum Departement."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Mir kënnen ... méi spéit erëm opgräifen.",
+    "translation": "We can revisit ... later.",
+    "b1": [
+      "Mir kënnen dat Thema méi spéit erëm opgräifen.",
+      "Mir kënnen déi Fro méi spéit erëm opgräifen.",
+      "Mir kënnen de Plang méi spéit erëm opgräifen.",
+      "Mir kënnen d'Vakanz-Iddi méi spéit erëm opgräifen.",
+      "Mir kënnen de Film-Projet méi spéit erëm opgräifen."
+    ],
+    "b2": [
+      "Mir kënnen d'Diskussioun iwwer de Budget méi spéit erëm opgräifen.",
+      "Mir kënnen dëse Virschlag am nächste Mount méi spéit erëm opgräifen.",
+      "Mir kënnen déi nei Strategie fir de Maart méi spéit erëm opgräifen.",
+      "Mir kënnen d'Personalplanung am nächste Trimester méi spéit erëm opgräifen.",
+      "Mir kënnen den Entworf vun der Decisioun méi spéit erëm opgräifen."
+    ],
+    "c1": [
+      "Mir kënnen dës komplex ideologesch Debatt zu engem méi gëeegneten Zäitpunkt méi spéit erëm opgräifen.",
+      "Mir kënnen déi methodologesch Usätz vun eiser Studie am Kader vun enger zweeter Phas méi spéit erëm opgräifen.",
+      "Mir kënnen déi juristesch Detailer vun dëser Partnerschaft no der Analyse méi spéit erëm opgräifen.",
+      "Mir kënnen déi strategesch Neiausrichtung vun der Organisatioun op där nächster Generalversammlung méi spéit erëm opgräifen.",
+      "Mir kënnen dës ethesch Froestellungen um internationale Kolloquium méi spéit erëm opgräifen."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Ech rekommendéieren Iech mat ... iwwer ... ze schwätzen.",
+    "translation": "I recommend speaking to ... about ...",
+    "b1": [
+      "Ech rekommendéieren Iech mat dem Dokter iwwer Är Gesondheet ze schwätzen.",
+      "Ech rekommendéieren Iech mat dem Léierin iwwer d'Nouten ze schwätzen.",
+      "Ech rekommendéieren Iech mat dem Chef iwwer de Congé ze schwätzen.",
+      "Ech rekommendéieren Iech mat de Elteren iwwer de Plang ze schwätzen.",
+      "Ech rekommendéieren Iech mat dem Verkeefer iwwer de Präis ze schwätzen."
+    ],
+    "b2": [
+      "Ech rekommendéieren Iech mat dem Personalchef iwwer déi nei Aarbechtszäiten ze schwätzen.",
+      "Ech rekommendéieren Iech mat dem Comptabel iwwer d'Steieren ze schwätzen.",
+      "Ech rekommendéieren Iech mat de Spezialisten iwwer d'Sécherheet ze schwätzen.",
+      "Ech rekommendéieren Iech mat der Direktioun iwwer de neie Projet ze schwätzen.",
+      "Ech rekommendéieren Iech mat de Juristen iwwer de Kontrakt ze schwätzen."
+    ],
+    "c1": [
+      "Ech rekommendéieren Iech mat de Regierungsvertrieder iwwer déi nei Gesetzgebung ze schwätzen.",
+      "Ech rekommendéieren Iech mat den internationalen Experten iwwer déi makroekonomesch Risiken ze schwätzen.",
+      "Ech rekommendéieren Iech mat der Ethikkommissioun iwwer d'Konditioune vun dëser Fuerschung ze schwätzen.",
+      "Ech rekommendéieren Iech mat den Wëssenschaftler iwwer déi wäitreechend Implikatiounen ze schwätzen.",
+      "Ech rekommendéieren Iech mat de Verantwortlechen vun der Institutioun iwwer déi strukturell Reformen ze schwätzen."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Meng Prioritéit am Moment ass ..., dofir muss ech oflehnen.",
+    "translation": "My priority right now is ..., so I must decline.",
+    "b1": [
+      "Meng Prioritéit am Moment ass meng Gesondheet, dofir muss ech oflehnen.",
+      "Meng Prioritéit am Moment ass mäin Examen, dofir muss ech oflehnen.",
+      "Meng Prioritéit am Moment ass meng Famill, dofir muss ech oflehnen.",
+      "Meng Prioritéit am Moment ass meng Aarbecht, dofir muss ech oflehnen.",
+      "Meng Prioritéit am Moment ass d'Haus, dofir muss ech oflehnen."
+    ],
+    "b2": [
+      "Meng Prioritéit am Moment ass d'Ahalung vum Budget, dofir muss ech oflehnen.",
+      "Meng Prioritéit am Moment ass d'Restrukturéierung vum Team, dofir muss ech oflehnen.",
+      "Meng Prioritéit am Moment ass de Schluss vum aktuelle Projet, dofir muss ech oflehnen.",
+      "Meng Prioritéit am Moment ass d'Zefriddenheet vun eise bestehende Clienten, dofir muss ech oflehnen.",
+      "Meng Prioritéit am Moment ass d'Virbereedung vun der Formatioun, dofir muss ech oflehnen."
+    ],
+    "c1": [
+      "Meng Prioritéit am Moment ass d'Sécherung vun der finanzieller Stabilitéit vun der Organisatioun, dofir muss ech oflehnen.",
+      "Meng Prioritéit am Moment ass d'Finaliséierung vun der wëssenschaftlecher Publikatioun, dofir muss ech oflehnen.",
+      "Meng Prioritéit am Moment ass déi strategesch Kriseninterventioun am Betrib, dofir muss ech oflehnen.",
+      "Meng Prioritéit am Moment ass d'Sécherstellung vun de juristeschen Standarder, dofir muss ech oflehnen.",
+      "Meng Prioritéit am Moment ass d'Koordinatioun vun den internationalen Allianzen, dofir muss ech oflehnen."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Kéint Dir w.s.e. klären wat Dir mengt mat ...?",
+    "translation": "Could you please clarify what you mean by ...?",
+    "b1": [
+      "Kéint Dir w.s.e. klären wat Dir mengt mat dësem Wuert?",
+      "Kéint Dir w.s.e. klären wat Dir mengt mat deem Plang?",
+      "Kéint Dir w.s.e. klären wat Dir mengt mat der Zäit?",
+      "Kéint Dir w.s.e. klären wat Dir mengt mat der Reegel?",
+      "Kéint Dir w.s.e. klären wat Dir mengt mat dem Präis?"
+    ],
+    "b2": [
+      "Kéint Dir w.s.e. klären wat Dir mengt mat 'Flexibilitéit an der Aarbechtszäit'?",
+      "Kéint Dir w.s.e. klären wat Dir mengt mat der Upassung vun de Budgeten?",
+      "Kéint Dir w.s.e. klären wat Dir mengt mat den 'zousätzleche Käschten'?",
+      "Kéint Dir w.s.e. klären wat Dir mengt mat der Neiausrichtung vum Projet?",
+      "Kéint Dir w.s.e. klären wat Dir mengt mat de rezenten 'Verännerungen am Team'?"
+    ],
+    "c1": [
+      "Kéint Dir w.s.e. klären wat Dir mengt mat dëser 'paradigmatescher Neibewäertung' vun der Situatioun?",
+      "Kéint Dir w.s.e. klären wat Dir mengt mat den 'ethneschen Implikatioune' vun Ärer Studie?",
+      "Kéint Dir w.s.e. klären wat Dir mengt mat der 'systemescher Incohérence' am Rapports-Text?",
+      "Kéint Dir w.s.e. klären wat Dir mengt mat de 'geostrategeschen Auswierkunge' vun dëser Decisioun?",
+      "Kéint Dir w.s.e. klären wat Dir mengt mat der 'Erosioun vun den institutionelle Standarder'?"
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Wann Dir just ... kéint, wär dat eng grouss Hëllef.",
+    "translation": "If you could just ..., that would be a great help.",
+    "b1": [
+      "Wann Dir just mir de Wee kéint weisen, wär dat eng grouss Hëllef.",
+      "Wann Dir just d'Dier kéint halen, wär dat eng grouss Hëllef.",
+      "Wann Dir just d'Mail kéint schécken, wär dat eng grouss Hëllef.",
+      "Wann Dir just den Dësch kéint decken, wär dat eng grouss Hëllef.",
+      "Wann Dir just mir eng Minutt kéint ginn, wär dat eng grouss Hëllef."
+    ],
+    "b2": [
+      "Wann Dir just déi néideg Dokumenter kéint ënnerschreiwen, wär dat eng grouss Hëllef.",
+      "Wann Dir just de Status vun der Liwwerung kéint iwwerpréiwen, wär dat eng grouss Hëllef.",
+      "Wann Dir just d'Korrektur vum Rapport kéint maachen, wär dat eng grouss Hëllef.",
+      "Wann Dir just de Clienten den neie Plang kéint erklären, wär dat eng grouss Hëllef.",
+      "Wann Dir just eng kuerz Bestätegung kéint schécken, wär dat eng grouss Hëllef."
+    ],
+    "c1": [
+      "Wann Dir just déi wëssenschaftlech Methodologie fir eist Team kéint validéieren, wär dat eng grouss Hëllef.",
+      "Wann Dir just d'Interventioun op dëser konzeptueller Basis kéint ausrichten, wär dat eng grouss Hëllef.",
+      "Wann Dir just déi kritescht Donnéeën an den wëssenschaftleche Rapport kéint integréieren, wär dat eng grouss Hëllef.",
+      "Wann Dir just d'Averstandnis vun der Direktioun fir dës Prozedur kéint erreechen, wär dat eng grouss Hëllef.",
+      "Wann Dir just déi macroekonomesch Prognosen fir de Comité kéint präziséieren, wär dat eng grouss Hëllef."
+    ]
+  }
+]

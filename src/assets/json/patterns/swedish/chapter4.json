@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Huvudproblemet verkar vara ...",
+    "translation": "The main issue seems to be ...",
+    "b1": [
+      "Huvudproblemet verkar vara att bussen alltid är sen.",
+      "Huvudproblemet verkar vara att kaffemaskinen är trasig.",
+      "Huvudproblemet verkar vara att vi saknar tillräckligt med tid.",
+      "Huvudproblemet verkar vara att telefonen inte laddar.",
+      "Huvudproblemet verkar vara att rummet är för kallt."
+    ],
+    "b2": [
+      "Huvudproblemet verkar vara den bristfälliga kommunikationen mellan avdelningarna.",
+      "Huvudproblemet verkar vara att budgeten inte räcker till för alla aktiviteter.",
+      "Huvudproblemet verkar vara att kunderna inte förstår den nya instruktionen.",
+      "Huvudproblemet verkar vara en ojämn fördelning av arbetsbelastningen.",
+      "Huvudproblemet verkar vara att den nya mjukvaran saknar viktiga funktioner."
+    ],
+    "c1": [
+      "Huvudproblemet verkar vara den strukturella trögheten inom organisationen.",
+      "Huvudproblemet verkar vara avsaknaden av en långsiktig övergripande strategi.",
+      "Huvudproblemet verkar vara de djupt rotade motsättningarna mellan intressenterna.",
+      "Huvudproblemet verkar vara att de metodologiska ramverken är föråldrade.",
+      "Huvudproblemet verkar vara en implicit konflikt mellan tillväxtmål och hållbarhetskrav."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Hur kan vi bäst ta oss an ...?",
+    "translation": "How can we best approach ...?",
+    "b1": [
+      "Hur kan vi bäst ta oss an den här läxan?",
+      "Hur kan vi bäst ta oss an problemet med städningen?",
+      "Hur kan vi bäst ta oss an den långa resan?",
+      "Hur kan vi bäst ta oss an vår nya uppgift?",
+      "Hur kan vi bäst ta oss an den svåra frågan?"
+    ],
+    "b2": [
+      "Hur kan vi bäst ta oss an utmaningen med de stigande kostnaderna?",
+      "Hur kan vi bäst ta oss an förändringarna i den nya organisationen?",
+      "Hur kan vi bäst ta oss an kundernas klagomål den här månaden?",
+      "Hur kan vi bäst ta oss an projektet med tanke på den korta tidsfristen?",
+      "Hur kan vi bäst ta oss an marknadsföringen inför produktlanseringen?"
+    ],
+    "c1": [
+      "Hur kan vi bäst ta oss an de komplexa etiska dilemman som AI-utvecklingen medför?",
+      "Hur kan vi bäst ta oss an den tilltagande polariseringen inom samhällsdebatten?",
+      "Hur kan vi bäst ta oss an de omfattande strukturella utmaningarna i regionen?",
+      "Hur kan vi bäst ta oss an uppgiften att harmonisera de två helt olika företagskulturerna?",
+      "Hur kan vi bäst ta oss an genomförandet av denna genomgripande lagstiftningsreform?"
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Jag föreslår att vi ...",
+    "translation": "I suggest that we ...",
+    "b1": [
+      "Jag föreslår att vi tar en paus nu.",
+      "Jag föreslår att vi äter lunch tillsammans.",
+      "Jag föreslår att vi går hem lite tidigare.",
+      "Jag föreslår att vi köper nya möbler.",
+      "Jag föreslår att vi ringer honom direkt."
+    ],
+    "b2": [
+      "Jag föreslår att vi omfördelar resurserna för att hinna med deadline.",
+      "Jag föreslår att vi bokar in ett extra möte nästa vecka för att stämma av.",
+      "Jag föreslår att vi undersöker alternativ från andra leverantörer.",
+      "Jag föreslår att vi genomför en enkät bland våra kunder först.",
+      "Jag föreslår att vi uppdaterar vår rutin för att undvika framtida fel."
+    ],
+    "c1": [
+      "Jag föreslår att vi initierar en oberoende utredning av hela händelseförloppet.",
+      "Jag föreslår att vi omformulerar den teoretiska hypotesen utifrån de nya rönen.",
+      "Jag föreslår att vi implementerar ett mer stringent regelverk för riskhantering.",
+      "Jag föreslår att vi etablerar ett tvärvetenskapligt forum för att belysa frågan.",
+      "Jag föreslår att vi intar en mer avvaktande position tills marknaden har stabiliserats."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "En potentiell lösning är att ...",
+    "translation": "A potential solution is to ...",
+    "b1": [
+      "En potentiell lösning är att köpa en ny bil.",
+      "En potentiell lösning är att dela upp arbetet.",
+      "En potentiell lösning är att gå upp tidigare på morgonen.",
+      "En potentiell lösning är att använda en annan app.",
+      "En potentiell lösning är att fråga läraren om hjälp."
+    ],
+    "b2": [
+      "En potentiell lösning är att erbjuda flexibla arbetstider till personalen.",
+      "En potentiell lösning är att digitalisera hela godkännandeprocessen.",
+      "En potentiell lösning är att förlänga avtalet med sex månader.",
+      "En potentiell lösning är att ta in extern kompetens för just detta steg.",
+      "En potentiell lösning är att förenkla användargränssnittet för våra kunder."
+    ],
+    "c1": [
+      "En potentiell lösning är att genomföra en genomgripande omstrukturering av kapitalsystemet.",
+      "En potentiell lösning är att etablera ett offentlig-privat partnerskap för infrastrukturen.",
+      "En potentiell lösning är att decentralisera beslutsmakten till de lokala enheterna.",
+      "En potentiell lösning är att diversifiera tillgångarna för att minimera den finansiella exponeringen.",
+      "En potentiell lösning är att fasa ut de subventioner som motverkar våra hållbarhetsmål."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Vad sägs om att testa ... istället för ...?",
+    "translation": "What if we tried ... instead of ...?",
+    "b1": [
+      "Vad sägs om att testa att cykla istället för att ta bussen?",
+      "Vad sägs om att testa att laga mat hemma istället för att äta ute?",
+      "Vad sägs om att testa en ny film istället för den gamla?",
+      "Vad sägs om att testa att läsa boken istället för att se filmen?",
+      "Vad sägs om att testa att träna på morgonen istället för på kvällen?"
+    ],
+    "b2": [
+      "Vad sägs om att testa att använda ett digitalt verktyg istället för att skicka e-post?",
+      "Vad sägs om att testa en kortare mötestid istället för de vanliga långa mötena?",
+      "Vad sägs om att testa digital marknadsföring istället för tryckta flygblad?",
+      "Vad sägs om att testa att jobba i projektform istället för linjeorganisation?",
+      "Vad sägs om att testa direkta intervjuer istället för att bara skicka ut enkäten?"
+    ],
+    "c1": [
+      "Vad sägs om att testa ett kvalitativt tillvägagångssätt istället för en rent kvantitativ metodik?",
+      "Vad sägs om att testa en proaktiv kommunikationsstrategi istället för att reagera i efterhand?",
+      "Vad sägs om att testa en principbaserad modell istället för detaljerade regelsystem?",
+      "Vad sägs om att testa cirkulära affärsmodeller istället för den linjära standardmodellen?",
+      "Vad sägs om att testa ett iterativt tillvägagångssätt istället för den traditionella vattenfallsmodellen?"
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Vi måste prioritera ...",
+    "translation": "We need to prioritize ...",
+    "b1": [
+      "Vi måste prioritera vår hälsa.",
+      "Vi måste prioritera att städa huset idag.",
+      "Vi måste prioritera att göra klart läxan.",
+      "Vi måste prioritera att sova ordentligt.",
+      "Vi måste prioritera att köpa mat först."
+    ],
+    "b2": [
+      "Vi måste prioritera säkerheten på arbetsplatsen.",
+      "Vi måste prioritera de mest akuta kundärendena just nu.",
+      "Vi måste prioritera att hålla den ursprungliga budgeten.",
+      "Vi måste prioritera god kommunikation inom teamet.",
+      "Vi måste prioritera kompetensutveckling för alla anställda."
+    ],
+    "c1": [
+      "Vi måste prioritera att bevara den långsiktiga finansiella stabiliteten.",
+      "Vi måste prioritera åtgärder som stärker den sociala sammanhållningen.",
+      "Vi måste prioritera integriteten och metodologin i vår vetenskapliga granskning.",
+      "Vi måste prioritera en snabb omställning till klimatneutrala produktionskedjor.",
+      "Vi måste prioritera att skydda kritiska infrastrukturer mot cyberhot."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Låt oss dela upp problemet i ...",
+    "translation": "Let's break the problem down into ...",
+    "b1": [
+      "Låt oss dela upp problemet i två mindre delar.",
+      "Låt oss dela upp problemet i enkla steg.",
+      "Låt oss dela upp problemet i tre olika frågor.",
+      "Låt oss dela upp problemet i vad vi kan göra nu och sedan.",
+      "Låt oss dela upp problemet i mindre uppgifter."
+    ],
+    "b2": [
+      "Låt oss dela upp problemet i tre huvudsakliga faser för att göra det hanterbart.",
+      "Låt oss dela upp problemet i tekniska och organisatoriska aspekter.",
+      "Låt oss dela upp problemet i kortsiktiga och långsiktiga utmaningar.",
+      "Låt oss dela upp problemet i kategorier utifrån vilken avdelning det rör.",
+      "Låt oss dela upp problemet i interna och externa faktorer."
+    ],
+    "c1": [
+      "Låt oss dela upp problemet i dess fundamentala teoretiska komponenter.",
+      "Låt oss dela upp problemet i juridiska, ekonomiska och etiska dimensioner.",
+      "Låt oss dela upp problemet i sekventiella delmoment för en djupgående analys.",
+      "Låt oss dela upp problemet i makro- och mikronivåer av påverkan.",
+      "Låt oss dela upp problemet i grundorsaker, symptombilder och följdverkningar."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Har du övervägt effekten av ...?",
+    "translation": "Have you considered the impact of ...?",
+    "b1": [
+      "Har du övervägt effekten av det dåliga vädret?",
+      "Har du övervägt effekten av att komma för sent?",
+      "Har du övervägt effekten av att höja priset?",
+      "Har du övervägt effekten av att byta skola?",
+      "Har du övervägt effekten av för lite sömn?"
+    ],
+    "b2": [
+      "Har du övervägt effekten av de nya skattereglerna på vår verksamhet?",
+      "Har du övervägt effekten av personalomsättningen på projektets tidsplan?",
+      "Har du övervägt effekten av den ökade konkurrensen i regionen?",
+      "Har du övervägt effekten av förändringarna på medarbetarnas motivation?",
+      "Har du övervägt effekten av valutakursens svängningar på vår vinst?"
+    ],
+    "c1": [
+      "Har du övervägt effekten av den demografiska strukturen på framtidens välfärdssystem?",
+      "Har du övervägt effekten av algoritmiska snedvridningar i beslutsfattandet?",
+      "Har du övervägt effekten av inflationstrycket på de långsiktiga investeringskalkylerna?",
+      "Har du övervägt effekten av de nya miljödirektiven på hela leverantörskedjan?",
+      "Har du övervägt effekten av geopolitisk instabilitet på vår strategiska positionering?"
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Ett sätt att komma runt detta är att ...",
+    "translation": "One way around this is to ...",
+    "b1": [
+      "Ett sätt att komma runt detta är att ta en annan väg.",
+      "Ett sätt att komma runt detta är att be om hjälp.",
+      "Ett sätt att komma runt detta är att vänta tills i morgon.",
+      "Ett sätt att komma runt detta är att använda en annan dator.",
+      "Ett sätt att komma runt detta är att ändra tiden för mötet."
+    ],
+    "b2": [
+      "Ett sätt att komma runt detta är att tillfälligt hyra in extra personal.",
+      "Ett sätt att komma runt detta är att omförhandla villkoren i leverantörsavtalet.",
+      "Ett sätt att komma runt detta är att dela upp kostnaderna över två budgetår.",
+      "Ett sätt att komma runt detta är att automatisera de manuella stegen.",
+      "Ett sätt att komma runt detta är att skapa en alternativ tidsplan för lanseringen."
+    ],
+    "c1": [
+      "Ett sätt att komma runt detta är att etablera en tillfällig undantagsklausul i regelverket.",
+      "Ett sätt att komma runt detta är att nyttja tredjepartsplattformar för att kringgå flaskhalsen.",
+      "Ett sätt att komma runt detta är att omstrukturera ägarförhållandena i dotterbolaget.",
+      "Ett sätt att komma runt detta är att implementera en parallell testmiljö för systemet.",
+      "Ett sätt att komma runt detta är att ingå strategiska allianser med regionala aktörer."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Vi skulle kunna minska risken genom att ...",
+    "translation": "We could mitigate the risk by ...",
+    "b1": [
+      "Vi skulle kunna minska risken genom att ta med ett paraply.",
+      "Vi skulle kunna minska risken genom att köra långsamt.",
+      "Vi skulle kunna minska risken genom att spara en kopia.",
+      "Vi skulle kunna minska risken genom att låsa dörren ordentligt.",
+      "Vi skulle kunna minska risken genom att gå tillsammans."
+    ],
+    "b2": [
+      "Vi skulle kunna minska risken genom att göra en noggrann bakgrundskontroll.",
+      "Vi skulle kunna minska risken genom att diversifiera vår leverantörsbas.",
+      "Vi skulle kunna minska risken genom att teckna en omfattande försäkring.",
+      "Vi skulle kunna minska risken genom att testa produkten på en mindre marknad först.",
+      "Vi skulle kunna minska risken genom att utbilda alla anställda i säkerhet."
+    ],
+    "c1": [
+      "Vi skulle kunna minska risken genom att införa rigida finansiella kontrollmekanismer.",
+      "Vi skulle kunna minska risken genom att hedga våra valutapositioner mot volatilitet.",
+      "Vi skulle kunna minska risken genom att etablera en oberoende etisk granskningskommitté.",
+      "Vi skulle kunna minska risken genom att genomföra omfattande konsekvensanalyser.",
+      "Vi skulle kunna minska risken genom att bygga in redundant kapacitet i systemet."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Kanske borde vi titta på grundorsaken till ...",
+    "translation": "Perhaps we should look at the root cause of ...",
+    "b1": [
+      "Kanske borde vi titta på grundorsaken till att du alltid är trött.",
+      "Kanske borde vi titta på grundorsaken till att bilen inte startar.",
+      "Kanske borde vi titta på grundorsaken till att det läcker vatten.",
+      "Kanske borde vi titta på grundorsaken till varför vi bråkar.",
+      "Kanske borde vi titta på grundorsaken till att maten blev bränd."
+    ],
+    "b2": [
+      "Kanske borde vi titta på grundorsaken till den höga personalomsättningen.",
+      "Kanske borde vi titta på grundorsaken till varför projektet ständigt blir försenat.",
+      "Kanske borde vi titta på grundorsaken till de återkommande tekniska problemen.",
+      "Kanske borde vi titta på grundorsaken till att försäljningen har minskat.",
+      "Kanske borde vi titta på grundorsaken till missnöjet bland våra kunder."
+    ],
+    "c1": [
+      "Kanske borde vi titta på grundorsaken till den tilltagande alienationen i samhället.",
+      "Kanske borde vi titta på grundorsaken till de strukturella skevheterna i lönebildningen.",
+      "Kanske borde vi titta på grundorsaken till den systemiska ineffektiviteten inom organisationen.",
+      "Kanske borde vi titta på grundorsaken till bristen på förtroende för myndigheterna.",
+      "Kanske borde vi titta på grundorsaken till de upprepade marknadsmisslyckandena inom sektorn."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Det omedelbara nästa steget bör vara ...",
+    "translation": "The immediate next step should be ...",
+    "b1": [
+      "Det omedelbara nästa steget bör vara att städa upp i köket.",
+      "Det omedelbara nästa steget bör vara att ringa och boka tid.",
+      "Det omedelbara nästa steget bör vara att köpa biljetterna.",
+      "Det omedelbara nästa steget bör vara att skriva klart texten.",
+      "Det omedelbara nästa steget bör vara att packa väskan."
+    ],
+    "b2": [
+      "Det omedelbara nästa steget bör vara att skicka ut en mötesinkallelse till alla berörda.",
+      "Det omedelbara nästa steget bör vara att sammanställa alla siffror från förra kvartalet.",
+      "Det omedelbara nästa steget bör vara att kontakta kunden och förklara läget.",
+      "Det omedelbara nästa steget bör vara att godkänna den reviderade budgeten.",
+      "Det omedelbara nästa steget bör vara att fördela uppgifterna i det nya projektet."
+    ],
+    "c1": [
+      "Det omedelbara nästa steget bör vara att sammankalla krishanteringsgruppen för rådplägning.",
+      "Det omedelbara nästa steget bör vara att frysa de finansiella transaktionerna tillfälligt.",
+      "Det omedelbara nästa steget bör vara att upprätta en formell avsiktsförklaring mellan parterna.",
+      "Det omedelbara nästa steget bör vara att publicera ett pressmeddelande för att bemöta spekulationerna.",
+      "Det omedelbara nästa steget bör vara att tillsätta en arbetsgrupp för metodutveckling."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Har någon ett annat perspektiv på ...?",
+    "translation": "Does anyone have a different perspective on ...?",
+    "b1": [
+      "Har någon ett annat perspektiv på vilken film vi ska se?",
+      "Har någon ett annat perspektiv på vart vi ska resa?",
+      "Har någon ett annat perspektiv på vad vi ska äta ikväll?",
+      "Har någon ett annat perspektiv på den här boken?",
+      "Har någon ett annat perspektiv på hur vi ska göra?"
+    ],
+    "b2": [
+      "Har någon ett annat perspektiv på den här försäljningsstrategin?",
+      "Har någon ett annat perspektiv på hur vi bör fördela årets budget?",
+      "Har någon ett annat perspektiv på orsakerna bakom förseningarna?",
+      "Har någon ett annat perspektiv på den nya personalpolicyn?",
+      "Har någon ett annat perspektiv på resultatet av kundundersökningen?"
+    ],
+    "c1": [
+      "Har någon ett annat perspektiv på de geopolitiska konsekvenserna av detta avtal?",
+      "Har någon ett annat perspektiv på de makroekonomiska bedömningarna i rapporten?",
+      "Har någon ett annat perspektiv på de etiska implikationerna av forskningsstudien?",
+      "Har någon ett annat perspektiv på den rådande tolkningen av lagstiftningen?",
+      "Har någon ett annat perspektiv på de långsiktiga effekterna av denna samhällsreform?"
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "På kort sikt kan vi göra ...",
+    "translation": "In the short term, we can do ...",
+    "b1": [
+      "På kort sikt kan vi göra en enkel middag.",
+      "På kort sikt kan vi hyra en bil några dagar.",
+      "På kort sikt kan vi låna böcker på biblioteket.",
+      "På kort sikt kan vi stanna kvar i lägenheten.",
+      "På kort sikt kan vi ta bussen istället."
+    ],
+    "b2": [
+      "På kort sikt kan vi erbjuda övertidsersättning för att lösa underbemanningen.",
+      "På kort sikt kan vi skära ner på de administrativa utgifterna.",
+      "På kort sikt kan vi använda en tillfällig lösning för hemsidan.",
+      "På kort sikt kan vi fokusera på våra befintliga nyckelkunder.",
+      "På kort sikt kan vi pausa alla nya rekryteringar."
+    ],
+    "c1": [
+      "På kort sikt kan vi stabilisera likviditeten genom riktade likviditetsstöd.",
+      "På kort sikt kan vi införa temporära restriktioner för att dämpa efterfrågan.",
+      "På kort sikt kan vi göra avsteg från de ordinarie rutinerna för att hantera krisen.",
+      "På kort sikt kan vi genomföra punktinsatser för att lindra de mest akuta symptomen.",
+      "På kort sikt kan vi omallokera befintliga medel för att täcka det omedelbara underskottet."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Vi borde införa ett system för ...",
+    "translation": "We should implement a system for ...",
+    "b1": [
+      "Vi borde införa ett system för att sortera sopor.",
+      "Vi borde införa ett system för att spara pengar.",
+      "Vi borde införa ett system för att städa hemma.",
+      "Vi borde införa ett system för att komva ihåg födelsedagar.",
+      "Vi borde införa ett system för att dela på räkningarna."
+    ],
+    "b2": [
+      "Vi borde införa ett system för att följa upp kundernas feedback kontinuerligt.",
+      "Vi borde införa ett system för automatisk hantering av fakturor.",
+      "Vi borde införa ett system för att mäta medarbetarnas arbetstillfredsställelse.",
+      "Vi borde införa ett system för kvalitetssäkring i alla produktionsled.",
+      "Vi borde införa ett system för säker hantering av känsliga personuppgifter."
+    ],
+    "c1": [
+      "Vi borde införa ett system för systematisk utvärdering av politiska reformer.",
+      "Vi borde införa ett system för tidig upptäckt av finansiella oegentligheter.",
+      "Vi borde införa ett system för kunskapsåterföring mellan olika forskningsorgan.",
+      "Vi borde införa ett system för kontinuerlig övervakning av miljöpåverkan.",
+      "Vi borde införa ett system för transparent uppföljning av regelefterlevnad."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Låt oss utvärdera för- och nackdelarna med ...",
+    "translation": "Let's evaluate the pros and cons of ...",
+    "b1": [
+      "Låt oss utvärdera för- och nackdelarna med att flytta till en ny stad.",
+      "Låt oss utvärdera för- och nackdelarna med att skaffa hund.",
+      "Låt oss utvärdera för- och nackdelarna med att köpa en elbil.",
+      "Låt oss utvärdera för- och nackdelarna med att byta jobb.",
+      "Låt oss utvärdera för- och nackdelarna med att studera på distans."
+    ],
+    "b2": [
+      "Låt oss utvärdera för- och nackdelarna med att lägga ut IT-driften på entreprenad.",
+      "Låt oss utvärdera för- och nackdelarna med en övergång till helt distansarbete.",
+      "Låt oss utvärdera för- och nackdelarna med att lansera produkten utomlands.",
+      "Låt oss utvärdera för- och nackdelarna med att byta till en ny mjukvaruleverantör.",
+      "Låt oss utvärdera för- och nackdelarna med att sänka priset på våra tjänster."
+    ],
+    "c1": [
+      "Låt oss utvärdera för- och nackdelarna med att implementera en universell basinkomst.",
+      "Låt oss utvärdera för- och nackdelarna med genomgripande avregleringar inom sektorn.",
+      "Låt oss utvärdera för- och nackdelarna med att ingå i en överstatlig union.",
+      "Låt oss utvärdera för- och nackdelarna med en tvingande kvotering i styrelser.",
+      "Låt oss utvärdera för- och nackdelarna med att använda protektionistiska tullar."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "För att säkerställa framgång måste vi först adressera ...",
+    "translation": "To ensure success, we must first address ...",
+    "b1": [
+      "För att säkerställa framgång måste vi först adressera problemen med tiden.",
+      "För att säkerställa framgång måste vi först adressera bristen på pengar.",
+      "För att säkerställa framgång måste vi först adressera vårt dåliga humör.",
+      "För att säkerställa framgång måste vi först adressera alla olösta läxor.",
+      "För att säkerställa framgång måste vi först adressera felet på bilen."
+    ],
+    "b2": [
+      "För att säkerställa framgång måste vi först adressera bristen på intern kommunikation.",
+      "För att säkerställa framgång måste vi först adressera kundernas tveksamhet inför produkten.",
+      "För att säkerställa framgång måste vi först adressera kompetensluckorna i vårt team.",
+      "För att säkerställa framgång måste vi först adressera risken för försenade leveranser.",
+      "För att säkerställa framgång måste vi först adressera de oklarheter som finns i kontraktet."
+    ],
+    "c1": [
+      "För att säkerställa framgång måste vi först adressera de bakomliggande strukturella obalanserna.",
+      "För att säkerställa framgång måste vi först adressera bristen på förtroende hos nyckelintressenterna.",
+      "För att säkerställa framgång måste vi först adressera de rättsliga osäkerheterna kring projektet.",
+      "För att säkerställa framgång måste vi först adressera de organisatoriska motstånden mot förändringen.",
+      "För att säkerställa framgång måste vi först adressera frågan om långsiktig finansiell bärbarhet."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Det största hindret som står i vägen är ...",
+    "translation": "The biggest obstacle standing in the way is ...",
+    "b1": [
+      "Det största hindret som står i vägen är att det är för dyrt.",
+      "Det största hindret som står i vägen är det dåliga vädret.",
+      "Det största hindret som står i vägen är att vi inte har någon bil.",
+      "Det största hindret som står i vägen är att språket är svårt.",
+      "Det största hindret som står i vägen är bristen på tid."
+    ],
+    "b2": [
+      "Det största hindret som står i vägen är den stränga tidsfristen vi har fått.",
+      "Det största hindret som står i vägen är bristen på godkännande från ledningen.",
+      "Det största hindret som står i vägen är det rådande ekonomiska läget på marknaden.",
+      "Det största hindret som står i vägen är motståndet mot nya arbetssätt inom gruppen.",
+      "Det största hindret som står i vägen är att det saknas klara riktlinjer."
+    ],
+    "c1": [
+      "Det största hindret som står i vägen är den omfattande byråkratiska trögheten.",
+      "Det största hindret som står i vägen är den politiska oviljan att genomföra nödvändiga reformer.",
+      "Det största hindret som står i vägen är det skrala vetenskapliga underlaget i dagsläget.",
+      "Det största hindret som står i vägen är bristen på gränsöverskridande regelharmonisering.",
+      "Det största hindret som står i vägen är de inbyggda intressekonflikterna mellan aktörerna."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Mitt föreslagna tillvägagångssätt innebär att ...",
+    "translation": "My proposed approach involves ...",
+    "b1": [
+      "Mitt föreslagna tillvägagångssätt innebär att vi startar direkt på morgonen.",
+      "Mitt föreslagna tillvägagångssätt innebär att vi delar upp alla sysslor.",
+      "Mitt föreslagna tillvägagångssätt innebär att vi frågar någon om hjälp.",
+      "Mitt föreslagna tillvägagångssätt innebär att vi övar varje dag.",
+      "Mitt föreslagna tillvägagångssätt innebär att vi spara hälften av pengarna."
+    ],
+    "b2": [
+      "Mitt föreslagna tillvägagångssätt innebär att vi testar systemet i tre faser.",
+      "Mitt föreslagna tillvägagångssätt innebär att vi involverar kunderna tidigt i processen.",
+      "Mitt föreslagna tillvägagångssätt innebär att vi fokuserar helt på kärnverksamheten.",
+      "Mitt föreslagna tillvägagångssätt innebär att vi sänker utgifterna under första kvartalet.",
+      "Mitt föreslagna tillvägagångssätt innebär att vi utbildar personalen innan lanseringen."
+    ],
+    "c1": [
+      "Mitt föreslagna tillvägagångssätt innebär att vi tillämpar en tvärvetenskaplig analysmodell.",
+      "Mitt föreslagna tillvägagångssätt innebär att vi stegvis fasar ut det gamla ramverket.",
+      "Mitt föreslagna tillvägagångssätt innebär att vi etablerar ett konsortium av nyckelaktörer.",
+      "Mitt föreslagna tillvägagångssätt innebär att vi integrerar riskhantering i varje beslutsled.",
+      "Mitt föreslagna tillvägagångssätt innebär att vi omstrukturerar hela leveranskedjan från grunden."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Kanske är den pusselbit som saknas ...",
+    "translation": "Perhaps the missing piece is ...",
+    "b1": [
+      "Kanske är den pusselbit som saknas lite mer tålamod.",
+      "Kanske är den pusselbit som saknas en bättre plan.",
+      "Kanske är den pusselbit som saknas rätt verktyg.",
+      "Kanske är den pusselbit som saknas mer vila.",
+      "Kanske är den pusselbit som saknas en bra bok."
+    ],
+    "b2": [
+      "Kanske är den pusselbit som saknas en tydligare rollfördelning i teamet.",
+      "Kanske är den pusselbit som saknas en effektivare kommunikationskanal.",
+      "Kanske är den pusselbit som saknas djupare insikt i kundernas behov.",
+      "Kanske är den pusselbit som saknas ett starkare stöd från ledningen.",
+      "Kanske är den pusselbit som saknas mer kontinuerlig uppföljning av resultaten."
+    ],
+    "c1": [
+      "Kanske är den pusselbit som saknas ett genuint tvärsektoriellt samarbete.",
+      "Kanske är den pusselbit som saknas ett paradigmskifte i hur vi värderar resurser.",
+      "Kanske är den pusselbit som saknas en djupare förståelse för de sociokulturella faktorerna.",
+      "Kanske är den pusselbit som saknas ett mer flexibelt och adaptivt regelverk.",
+      "Kanske är den pusselbit som saknas en mer nyanserad teoretisk modell för analysen."
+    ]
+  }
+]

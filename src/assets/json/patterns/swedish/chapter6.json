@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Jag vill informera dig om att ...",
+    "translation": "I'd like to inform you that ...",
+    "b1": [
+      "Jag vill informera dig om att tåget är försenat.",
+      "Jag vill informera dig om att mötet börjar klockan nio.",
+      "Jag vill informera dig om att butiken är stängd i dag.",
+      "Jag vill informera dig om att din beställning har skickats.",
+      "Jag vill informera dig om att vi har bytt rum."
+    ],
+    "b2": [
+      "Jag vill informera dig om att vårt projekt har blivit godkänt.",
+      "Jag vill informera dig om att öppettiderna kommer att ändras nästa vecka.",
+      "Jag vill informera dig om att du har fått en ny handläggare.",
+      "Jag vill informera dig om att betalningen inte har registrerats ännu.",
+      "Jag vill informera dig om att systemet kommer att uppdateras i kväll."
+    ],
+    "c1": [
+      "Jag vill informera dig om att styrelsen har beslutat att skjuta upp omstruktureringen.",
+      "Jag vill informera dig om att de nya direktiven träder i kraft från och med nästa kvartal.",
+      "Jag vill informera dig om att avtalsvillkoren har reviderats efter de senaste förhandlingarna.",
+      "Jag vill informera dig om att undersökningen har påvisat betydande avvikelser i protokollet.",
+      "Jag vill informera dig om att ansökan har avslagits på grund av bristande dokumentation."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Det viktigaste att ta med sig här är att ...",
+    "translation": "The key takeaway here is ...",
+    "b1": [
+      "Det viktigaste att ta med sig här är att vi måste öva mer.",
+      "Det viktigaste att ta med sig här är att äta bra mat.",
+      "Det viktigaste att ta med sig här är att komma i tid.",
+      "Det viktigaste att ta med sig här är att läsa alla instruktioner.",
+      "Det viktigaste att ta med sig här är att spara dina filer."
+    ],
+    "b2": [
+      "Det viktigaste att ta med sig här är att god kommunikation förhindrar missförstånd.",
+      "Det viktigaste att ta med sig här är att vi nådde våra mål trots förseningarna.",
+      "Det viktigaste att ta med sig här är att kundnöjdheten har ökat avsevärt.",
+      "Det viktigaste att ta med sig här är att noggrann planering sparar både tid och pengar.",
+      "Det viktigaste att ta med sig här är att alla i teamet måste ta sitt ansvar."
+    ],
+    "c1": [
+      "Det viktigaste att ta med sig här är att marknadsdynamiken kräver en högre grad av flexibilitet.",
+      "Det viktigaste att ta med sig här är att de strukturella reformerna har gett långsiktiga resultat.",
+      "Det viktigaste att ta med sig här är att innovation kräver kontinuerliga investeringar i kompetensutveckling.",
+      "Det viktigaste att ta med sig här är att hållbarhet måste genomsyra hela värdekedjan.",
+      "Det viktigaste att ta med sig här är att riskminimering måste balanseras mot tillväxtambitioner."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "För att förtydliga menar jag ...",
+    "translation": "To clarify, I mean ...",
+    "b1": [
+      "För att förtydliga menar jag att vi träffas i morgon i stället.",
+      "För att förtydliga menar jag att boken är väldigt bra.",
+      "För att förtydliga menar jag att priset inkluderar allt.",
+      "För att förtydliga menar jag att jag är för trött för att gå ut.",
+      "För att förtydliga menar jag att du kan ringa mig när som helst."
+    ],
+    "b2": [
+      "För att förtydliga menar jag att vi måste prioritera de mest akuta uppgifterna först.",
+      "För att förtydliga menar jag att ändringen endast gäller för nya kunder.",
+      "För att förtydliga menar jag att projektbudgeten behöver justeras innan vi fortsätter.",
+      "För att förtydliga menar jag att förslaget kräver ytterligare utredning.",
+      "För att förtydliga menar jag att hela avdelningen kommer att beröras av beslutet."
+    ],
+    "c1": [
+      "För att förtydliga menar jag att de metodologiska bristerna påverkar resultatets validitet.",
+      "För att förtydliga menar jag att vår strategi måste anpassas till de nya regulatoriska kraven.",
+      "För att förtydliga menar jag att analysen inte tar hänsyn till de makroekonomiska svängningarna.",
+      "För att förtydliga menar jag att incitamenten måste linjera med våra övergripande hållbarhetsmål.",
+      "För att förtydliga menar jag att implementeringen förutsätter en tvärfunktionell samverkan."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Enligt rapporten ...",
+    "translation": "According to the report, ...",
+    "b1": [
+      "Enligt rapporten ska det regna i morgon.",
+      "Enligt rapporten är vägen stängd i helgen.",
+      "Enligt rapporten mår flest människor bra här.",
+      "Enligt rapporten var testet ganska lätt.",
+      "Enligt rapporten har försäljningen gått bra."
+    ],
+    "b2": [
+      "Enligt rapporten har energiförbrukningen minskat under det senaste kvartalet.",
+      "Enligt rapporten är kunderna mycket nöjda med den nya tjänsten.",
+      "Enligt rapporten behöver vi anställa mer personal till i höst.",
+      "Enligt rapporten har kostnaderna ökat mer än väntat.",
+      "Enligt rapporten finns det en stor potential för tillväxt i regionen."
+    ],
+    "c1": [
+      "Enligt rapporten uppvisar arbetsmarknaden en oroande strukturell obalans.",
+      "Enligt rapporten har de socioekonomiska klyftorna fördjupats under det gångna decenniet.",
+      "Enligt rapporten krävs det omedelbara klimatpolitiska åtgärder för att nå målen.",
+      "Enligt rapporten finns det en stark korrelation mellan kompetensförsörjning och innovationstakt.",
+      "Enligt rapporten har de digitala investeringarna genererat en betydande effektivitetsvinst."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Låt mig omformulera det: ...",
+    "translation": "Let me rephrase that: ...",
+    "b1": [
+      "Låt mig omformulera det: vi åker klockan fem i stället.",
+      "Låt mig omformulera det: jag tycker att filmen var tråkig.",
+      "Låt mig omformulera det: du behöver inte betala nu.",
+      "Låt mig omformulera det: det är för kallt för att simma.",
+      "Låt mig omformulera det: jag kan hjälpa dig med läxan."
+    ],
+    "b2": [
+      "Låt mig omformulera det: vi måste fokusera på kvalitet framför kvantitet.",
+      "Låt mig omformulera det: tidsplanen är för snäv för att vi ska hinna klart.",
+      "Låt mig omformulera det: problemet ligger i vår interna kommunikation.",
+      "Låt mig omformulera det: vi behöver fler resurser för att genomföra det här.",
+      "Låt mig omformulera det: detta är ett gyllene tillfälle som vi inte får missa."
+    ],
+    "c1": [
+      "Låt mig omformulera det: den nuvarande affärsmodellen är inte långsiktigt hållbar.",
+      "Låt mig omformulera det: åtgärderna är otillräckliga för att neutralisera de identifierade riskerna.",
+      "Låt mig omformulera det: vi måste ompröva våra grundläggande antaganden om marknaden.",
+      "Låt mig omformulera det: framgången beror helt på vår förmåga att ställa om snabbt.",
+      "Låt mig omformulera det: förslaget saknar en förankring i den faktiska genomförbarheten."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Vad jag menade att säga var att ...",
+    "translation": "What I meant to say was ...",
+    "b1": [
+      "Vad jag menade att säga var att jag var för sen.",
+      "Vad jag menade att säga var att maten var god.",
+      "Vad jag menade att säga var att du gjorde ett bra jobb.",
+      "Vad jag menade att säga var att vi kan mötas där.",
+      "Vad jag menade att säga var att jag glömde min väska."
+    ],
+    "b2": [
+      "Vad jag menade att säga var att vi bör skjuta upp mötet till nästa vecka.",
+      "Vad jag menade att säga var att lösningen inte är helt oproblematisk.",
+      "Vad jag menade att säga var att alla måste godkänna det nya schemat.",
+      "Vad jag menade att säga var att vi uppskattar dina insatser för teamet.",
+      "Vad jag menade att säga var att resultatet var bättre än förväntat."
+    ],
+    "c1": [
+      "Vad jag menade att säga var att de strategiska initiativen saknar tillräcklig finansiering.",
+      "Vad jag menade att säga var att avvikelsen i siffrorna kräver en noggrannare granskning.",
+      "Vad jag menade att säga var att förslaget kan få oavsiktliga konsekvenser för organisationen.",
+      "Vad jag menade att säga var att vi inte bör draga förhastade slutsatser utifrån detta underlag.",
+      "Vad jag menade att säga var att reformen behöver komplementeras med tydliga riktlinjer."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Den nuvarande statusen är att ...",
+    "translation": "The current status is that ...",
+    "b1": [
+      "Den nuvarande statusen är att bussen är sen.",
+      "Den nuvarande statusen är att alla har kommit hit.",
+      "Den nuvarande statusen är att vi väntar på svar.",
+      "Den nuvarande statusen är att arbetet är klart.",
+      "Den nuvarande statusen är att maten är färdig."
+    ],
+    "b2": [
+      "Den nuvarande statusen är att vi har slutfört den första fasen av projektet.",
+      "Den nuvarande statusen är att förhandlingarna har pausats tillfälligt.",
+      "Den nuvarande statusen är att vi inväntar godkännande från ledningen.",
+      "Den nuvarande statusen är att de flesta testerna har visat positiva resultat.",
+      "Den nuvarande statusen är att systemet fungerar utan några avbrott."
+    ],
+    "c1": [
+      "Den nuvarande statusen är att remissinstanserna ännu inte har lämnat sina slutgiltiga yttranden.",
+      "Den nuvarande statusen är att budgetförhandlingarna har hamnat i ett låst läge.",
+      "Den nuvarande statusen är att implementeringen av IT-infrastrukturen löper enligt tidsplan.",
+      "Den nuvarande statusen är att avtalet ligger för granskning hos våra juridiska rådgivare.",
+      "Den nuvarande statusen är att omstruktureringen har påbörjats men möter visst internt motstånd."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Med andra ord ...",
+    "translation": "In other words, ...",
+    "b1": [
+      "Med andra ord måste vi gå nu.",
+      "Med andra ord var det för dyrt.",
+      "Med andra ord kan vi inte komma i dag.",
+      "Med andra ord har vi vunnit matchen.",
+      "Med andra ord är det stängt i morgon."
+    ],
+    "b2": [
+      "Med andra ord måste vi drastiskt minska våra månatliga utgifter.",
+      "Med andra ord har projektet blivit mycket mer framgångsrikt än väntat.",
+      "Med andra ord måste alla anställda följa de nya säkerhetsreglerna.",
+      "Med andra ord behöver vi förändra vårt sätt att arbeta med kunderna.",
+      "Med andra ord är det dags att fatta ett definitivt beslut i frågan."
+    ],
+    "c1": [
+      "Med andra ord står vi inför en omfattande reorganisation av hela verksamheten.",
+      "Med andra ord är de ekonomiska prognoserna förenade med betydande osäkerhetsfaktorer.",
+      "Med andra ord krävs det ett paradigmbrott för att vi ska kunna behålla vår marknadsposition.",
+      "Med andra ord har de vidtagna åtgärderna misslyckats med att uppnå avsedd effekt.",
+      "Med andra ord måste vi harmonisera våra processer med de internationella standarderna."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Bara så att vi är på samma sida: ...",
+    "translation": "Just to make sure we're on the same page, ...",
+    "b1": [
+      "Bara så att vi är på samma sida: vi ses klockan tre.",
+      "Bara så att vi är på samma sida: du köper brödet och jag köper mjölken.",
+      "Bara så att vi är på samma sida: vi åker med min bil.",
+      "Bara så att vi är på samma sida: läxan ska vara klar på fredag.",
+      "Bara så att vi är på samma sida: vi ska träffas utanför bion."
+    ],
+    "b2": [
+      "Bara så att vi är på samma sida: du tar hand om presentationen och jag gör rapporten.",
+      "Bara så att vi är på samma sida: budgeten får inte överskridas under några omständigheter.",
+      "Bara så att vi är på samma sida: målet är att lansera produkten innan sommaren.",
+      "Bara så att vi är på samma sida: detta beslut gäller fram till nästa utvärdering.",
+      "Bara så att vi är på samma sida: kunden förväntar sig en leverans senast på torsdag."
+    ],
+    "c1": [
+      "Bara så att vi är på samma sida: ansvaret för riskanalysen ligger helt på er avdelning.",
+      "Bara så att vi är på samma sida: omförhandlingen av avtalet förutsätter att alla parter enas.",
+      "Bara så att vi är på samma sida: den långsiktiga strategin prioriterar hållbarhet framför kortsiktig vinst.",
+      "Bara så att vi är på samma sida: vi är överens om de övergripande ramarna för projektet.",
+      "Bara så att vi är på samma sida: alla ändringar i kravspecifikationen måste dokumenteras skriftligen."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Detta bekräftar att ...",
+    "translation": "This confirms that ...",
+    "b1": [
+      "Detta bekräftar att tåget är inställt.",
+      "Detta bekräftar att vi har bokat rummet.",
+      "Detta bekräftar att du har klarat testet.",
+      "Detta bekräftar att alla kan komma i kväll.",
+      "Detta bekräftar att brevet har kommit fram."
+    ],
+    "b2": [
+      "Detta bekräftar att vår nya strategi faktiskt fungerar bra.",
+      "Detta bekräftar att det fanns ett stort intresse för vår produkt.",
+      "Detta bekräftar att leveransen kommer att bli försenad med två dagar.",
+      "Detta bekräftar att misstankarna om fel i systemet var stämda.",
+      "Detta bekräftar att vi har tillräckligt med resurser för att fortsätta."
+    ],
+    "c1": [
+      "Detta bekräftar att den hypotes vi ställde upp i början av studien var korrekt.",
+      "Detta bekräftar att de vidtagna ekonomiska incitamenten har haft en positiv effekt.",
+      "Detta bekräftar att organisationen uppfyller alla krav för den nya certifieringen.",
+      "Detta bekräftar att marknadstrenden rör sig mot mer hållbara konsumtionsmönster.",
+      "Detta bekräftar att de strukturella svagheterna fortfarande kvarstår i systemet."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Tillåt mig att utveckla ...",
+    "translation": "Allow me to elaborate on ...",
+    "b1": [
+      "Tillåt mig att utveckla vad jag sa tidigare.",
+      "Tillåt mig att utveckla min idé om festen.",
+      "Tillåt mig att utveckla hur vi kan spara pengar.",
+      "Tillåt mig att utveckla varför jag valde detta.",
+      "Tillåt mig att utveckla planen för i dag."
+    ],
+    "b2": [
+      "Tillåt mig att utveckla resonemanget bakom vårt nya förslag.",
+      "Tillåt mig att utveckla hur den nya processen kommer att fungera i praktiken.",
+      "Tillåt mig att utveckla varför den här investeringen är viktig för oss.",
+      "Tillåt mig att utveckla de viktigaste punkterna i vår marknadsföringsplan.",
+      "Tillåt mig att utveckla vilka fördelar detta har för våra kunder."
+    ],
+    "c1": [
+      "Tillåt mig att utveckla de teoretiska principer som ligger till grund för modellen.",
+      "Tillåt mig att utveckla de komplexa orsakssambanden bakom denna utveckling.",
+      "Tillåt mig att utveckla hur de strategiska direktiven ska operationaliseras i verksamheten.",
+      "Tillåt mig att utveckla de långsiktiga konsekvenserna av detta policybeslut.",
+      "Tillåt mig att utveckla de metodologiska överväganden som har vägt tyngst."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Detaljerna är som följer: ...",
+    "translation": "The details are as follows: ...",
+    "b1": [
+      "Detaljerna är som följer: mötet är på måndag klockan tio.",
+      "Detaljerna är som följer: vi åker buss till staden.",
+      "Detaljerna är som följer: biljetten kostar hundra kronor.",
+      "Detaljerna är som följer: du måste ta med dig passet.",
+      "Detaljerna är som följer: festen börjar klockan sju."
+    ],
+    "b2": [
+      "Detaljerna är som följer: projektet startar nästa månad och pågår i sex veckor.",
+      "Detaljerna är som följer: utbildningen omfattar tre moduler och ett slutprov.",
+      "Detaljerna är som följer: leveransen sker via tre olika sändningar.",
+      "Detaljerna är som följer: alla anställda får en bonus på fem procent.",
+      "Detaljerna är som följer: renoveringen kommer att ske i två olika faser."
+    ],
+    "c1": [
+      "Detaljerna är som följer: transaktionen genomförs i tre etapper med villkorad tillträdesdag.",
+      "Detaljerna är som följer: omstruktureringen innebär en konsolidering av tre avdelningar.",
+      "Detaljerna är som följer: kraven uppfylls genom en kombination av tekniska och organisatoriska åtgärder.",
+      "Detaljerna är som följer: den finansiella ramen är uppdelad på fyra verksamhetsområden.",
+      "Detaljerna är som följer: avtalet reglerar immaterialrätten samt ansvarsfördelningen vid tvister."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Den viktiga punkten här är inte ..., utan ...",
+    "translation": "The important point here is not ..., but ...",
+    "b1": [
+      "Den viktiga punkten här är inte priset, utan kvaliteten.",
+      "Den viktiga punkten här är inte vem som vann, utan att vi hade roligt.",
+      "Den viktiga punkten här är inte var vi bor, utan hur vi lever.",
+      "Den viktiga punkten här är inte vad du sa, utan hur du sa det.",
+      "Den viktiga punkten här är inte maten, utan sällskapet."
+    ],
+    "b2": [
+      "Den viktiga punkten här är inte hur snabbt vi blir klara, utan hur noggrant vi arbetar.",
+      "Den viktiga punkten här är inte vad som gick fel, utan hur vi löser problemet nu.",
+      "Den viktiga punkten här är inte kostnaden på kort sikt, utan nyttan på lång sikt.",
+      "Den viktiga punkten här är inte mängden information, utan hur relevant den är.",
+      "Den viktiga punkten här är inte vem som har rätt, utan vad som är bäst för projektet."
+    ],
+    "c1": [
+      "Den viktiga punkten här är inte de enskilda symptomen, utan de bakomliggande orsakerna.",
+      "Den viktiga punkten här är inte den teoretiska modellen, utan dess praktiska tillämpbarhet.",
+      "Den viktiga punkten här är inte de kortsiktiga vinsterna, utan den långsiktiga hållbarheten.",
+      "Den viktiga punkten här är inte de formella strukturerna, utan den faktiska kulturen i organisationen.",
+      "Den viktiga punkten här är inte mängden data, utan förmågan att dra korrekta slutsatser."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Överväg till exempel ...",
+    "translation": "For example, consider ...",
+    "b1": [
+      "Överväg till exempel att ta bussen i stället för bilen.",
+      "Överväg till exempel att köpa en begagnad cykel.",
+      "Överväg till exempel att äta mer frukt varje dag.",
+      "Överväg till exempel att plugga lite varje kväll.",
+      "Överväg till exempel att gå på bio på en tisdag."
+    ],
+    "b2": [
+      "Överväg till exempel hur mycket tid vi skulle spara med ett nytt digitalt verktyg.",
+      "Överväg till exempel konsekvenserna av att inte uppdatera vår säkerhetspolicy.",
+      "Överväg till exempel möjligheten att erbjuda flexibla arbetstider för personalen.",
+      "Överväg till exempel hur en prisökning kan påverka vår kundbas på lång sikt.",
+      "Överväg till exempel att samarbeta med lokala aktörer för att nå ut bredare."
+    ],
+    "c1": [
+      "Överväg till exempel de socioekonomiska effekterna av en höjd skattesats på konsumtion.",
+      "Överväg till exempel hur demografiska förändringar kommer att påverka framtidens välfärdssystem.",
+      "Överväg till exempel de etiska dilemman som uppstår vid användningen av AI i rekrytering.",
+      "Överväg till exempel effekterna av en kraftig fluktuation i råvarupriserna på global nivå.",
+      "Överväg till exempel hur geostrategiska förskjutningar påverkar den internationella handeln."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Det kokar ner till att ...",
+    "translation": "The bottom line is ...",
+    "b1": [
+      "Det kokar ner till att vi måste spara pengar.",
+      "Det kokar ner till att vi inte har tillräckligt med tid.",
+      "Det kokar ner till att alla måste hjälpa till.",
+      "Det kokar ner till att maten är slut.",
+      "Det kokar ner till att vi behöver en ny plan."
+    ],
+    "b2": [
+      "Det kokar ner till att vi måste öka vår försäljning under nästa månad.",
+      "Det kokar ner till att kunderna vill ha bättre service till lägre priser.",
+      "Det kokar ner till att projektet inte är lönsamt i sin nuvarande form.",
+      "Det kokar ner till att vi måste fatta ett beslut innan veckans slut.",
+      "Det kokar ner till att samarbetet kräver mer ömsesidigt förtroende."
+    ],
+    "c1": [
+      "Det kokar ner till att organisationen måste genomgå en genomgripande digital transformation.",
+      "Det kokar ner till att vår konkurrenskraft är helt beroende av vår spetskompetens.",
+      "Det kokar ner till att de föreslagna åtgärderna inte är tillräckliga för att nå målen.",
+      "Det kokar ner till att vi måste prioritera finansiell stabilitet framför ekspansion.",
+      "Det kokar ner till att förtroendet för varumärket måste återuppbyggas från grunden."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Låt oss gå igenom de viktigaste slutsatserna: ...",
+    "translation": "Let's review the main findings: ...",
+    "b1": [
+      "Låt oss gå igenom de viktigaste slutsatserna: testen var bra och alla förstod uppgiften.",
+      "Låt oss gå igenom de viktigaste slutsatserna: vi har tillräckligt med pengar för resan.",
+      "Låt oss gå igenom de viktigaste slutsatserna: alla vill ha pizza i kväll.",
+      "Låt oss gå igenom de viktigaste slutsatserna: bussen var det snabbaste alternativet.",
+      "Låt oss gå igenom de viktigaste slutsatserna: det var en väldigt lyckad dag."
+    ],
+    "b2": [
+      "Låt oss gå igenom de viktigaste slutsatserna: undersökningen visar att kunderna är nöjda.",
+      "Låt oss gå igenom de viktigaste slutsatserna: kostnaderna har minskat med tio procent.",
+      "Låt oss gå igenom de viktigaste slutsatserna: det finns ett stort behov av mer utbildning.",
+      "Låt oss gå igenom de viktigaste slutsatserna: den nya produkten säljer bäst i städerna.",
+      "Låt oss gå igenom de viktigaste slutsatserna: kommunikationen i teamet behöver förbättras."
+    ],
+    "c1": [
+      "Låt oss gå igenom de viktigaste slutsatserna: datan indikerar en tydlig korrelation mellan variablerna.",
+      "Låt oss gå igenom de viktigaste slutsatserna: de vidtagna åtgärderna har minskat riskprofilen avsevärt.",
+      "Låt oss gå igenom de viktigaste slutsatserna: marknadsandelen har ökat trots stark konkurrens.",
+      "Låt oss gå igenom de viktigaste slutsatserna: effektiviteten har påverkats negativt av de tekniska avbrotten.",
+      "Låt oss gå igenom de viktigaste slutsatserna: utredningen rekommenderar en översyn av gällande regelverk."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "För att sammanfatta situationen ...",
+    "translation": "To sum up the situation, ...",
+    "b1": [
+      "För att sammanfatta situationen: tåget är försenat och vi väntar här.",
+      "För att sammanfatta situationen: maten är klar och alla är hungriga.",
+      "För att sammanfatta situationen: vi har hittat nycklarna och allt är bra.",
+      "För att sammanfatta situationen: regnet har slutat och vi kan gå ut.",
+      "För att sammanfatta situationen: butiken var stängd så vi går hem."
+    ],
+    "b2": [
+      "För att sammanfatta situationen: projektet ligger efter i tidsplanen men håller budgeten.",
+      "För att sammanfatta situationen: vi har löst det största problemet men har några kvar.",
+      "För att sammanfatta situationen: alla parter är överens om de viktigaste punkterna.",
+      "För att sammanfatta situationen: försäljningen var god under sommaren men har sakta ner nu.",
+      "För att sammanfatta situationen: vi behöver mer information innan vi fäller ett avgörande."
+    ],
+    "c1": [
+      "För att sammanfatta situationen: marknadsläget förblir volatile med betydande osäkerheter.",
+      "För att sammanfatta situationen: förhandlingarna befinner sig i ett skede där kompromisser är nödvändiga.",
+      "För att sammanfatta situationen: de finansiella indikatorerna pekar på en stundande konjunkturavmattning.",
+      "För att sammanfatta situationen: omstruktureringen har genomförts med bibehållen operativ kapacitet.",
+      "För att sammanfatta situationen: det råder konsensus om behovet av genomgripande institutionella reformer."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Min uppfattning är att ...",
+    "translation": "My understanding is that ...",
+    "b1": [
+      "Min uppfattning är att mötet är ställt in i dag.",
+      "Min uppfattning är att alla gillar det nya förslaget.",
+      "Min uppfattning är att det ska bli sol i morgon.",
+      "Min uppfattning är att kontoret stänger klockan fem.",
+      "Min uppfattning är att bussen går var tionde minut."
+    ],
+    "b2": [
+      "Min uppfattning är att vi har tillräckligt med budget för hela projektet.",
+      "Min uppfattning är att kunden var nöjd med vår senaste presentation.",
+      "Min uppfattning är att den nya lagen kommer att påverka vår bransch mycket.",
+      "Min uppfattning är att vi ska fokusera på marknadsföring under nästa kvartal.",
+      "Min uppfattning är att leverantören har lovat att skicka varorna på fredag."
+    ],
+    "c1": [
+      "Min uppfattning är att regelverket lämnar utrymme för olika tolkningsmöjligheter.",
+      "Min uppfattning är att styrelsen har ställt sig bakom den strategiska inriktningen.",
+      "Min uppfattning är att avtalet innebär en balanserad riskfördelning mellan parterna.",
+      "Min uppfattning är att de finansiella reservkapitalen täcker de potentiella förlusterna.",
+      "Min uppfattning är att den vetenskapliga konsensusen stödjer våra slutsatser."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Bara för att vara tydlig: ...",
+    "translation": "Just to be clear, ...",
+    "b1": [
+      "Bara för att vara tydlig: jag kommer inte i morgon.",
+      "Bara för att vara tydlig: middagen är gratis för alla.",
+      "Bara för att vara tydlig: du måste stänga fönstret.",
+      "Bara för att vara tydlig: vi åker klockan åtta sharp.",
+      "Bara för att vara tydlig: detta är sista chansen."
+    ],
+    "b2": [
+      "Bara för att vara tydlig: detta beslut gäller med omedelbar verkan.",
+      "Bara för att vara tydlig: vi kan inte ge några rabatter på denna produkt.",
+      "Bara för att vara tydlig: alla ansökningar måste skickas in innan deadline.",
+      "Bara för att vara tydlig: detta är en tillfällig lösning på problemet.",
+      "Bara för att vara tydlig: ingen har tillåtelse att arbeta övertid utan godkännande."
+    ],
+    "c1": [
+      "Bara för att vara tydlig: företaget tar inget ekonomiskt ansvar för indirekta förluster.",
+      "Bara för att vara tydlig: dessa riktlinjer är tvingande och lämnar inget utrymme för avsteg.",
+      "Bara för att vara tydlig: överenskommelsen förutsätter ett fullständigt godkännande från tillsynsmyndigheten.",
+      "Bara för att vara tydlig: detta är vår slutgiltiga ståndpunkt i förhandlingarna.",
+      "Bara för att vara tydlig: immateriella rättigheter förblir leverantörens exklusiva egendom."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Det slutgiltiga resultatet blev att ...",
+    "translation": "The final outcome was ...",
+    "b1": [
+      "Det slutgiltiga resultatet blev att vi vann matchen.",
+      "Det slutgiltiga resultatet blev att alla var nöjda.",
+      "Det slutgiltiga resultatet blev att vi stannade hemma.",
+      "Det slutgiltiga resultatet blev att provet gick jättebra.",
+      "Det slutgiltiga resultatet blev att filmen fick höga betyg."
+    ],
+    "b2": [
+      "Det slutgiltiga resultatet blev att vi lyckades sänka projektets totalkostnad.",
+      "Det slutgiltiga resultatet blev att två avdelningar slogs ihop till en.",
+      "Det slutgiltiga resultatet blev att kunden förlängde avtalet med ett år.",
+      "Det slutgiltiga resultatet blev att vi nådde en kompromiss som passade alla.",
+      "Det slutgiltiga resultatet blev att lanseringen sköts upp till nästa månad."
+    ],
+    "c1": [
+      "Det slutgiltiga resultatet blev att bolaget uppnådde rekordhög lönsamhet under räkenskapsåret.",
+      "Det slutgiltiga resultatet blev att lagförslaget antogs efter omfattande debatt i parlamentet.",
+      "Det slutgiltiga resultatet blev att fusionen genomfördes utan betydande organisatoriska störningar.",
+      "Det slutgiltiga resultatet blev att parterna tecknade ett flerårigt strategiskt partnerskapsavtal.",
+      "Det slutgiltiga resultatet blev att utredningen mynnade ut i en rad konkreta reformförslag."
+    ]
+  }
+]

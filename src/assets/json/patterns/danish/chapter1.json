@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Efter min mening ...",
+    "translation": "In my opinion, ...",
+    "b1": [
+      "Efter min mening er denne film meget interessant.",
+      "Efter min mening bør vi spise flere grøntsager.",
+      "Efter min mening er byen for støjende om sommeren.",
+      "Efter min mening er det en god udfordring at lære dansk.",
+      "Efter min mening kommer det til at regne i eftermiddag."
+    ],
+    "b2": [
+      "Efter min mening bør regeringen investere mere i vedvarende energi.",
+      "Efter min mening fremmer hjemmearbejde en bedre balance mellem arbejdsliv og privatliv.",
+      "Efter min mening lever denne reform ikke op til borgernes forventninger.",
+      "Efter min mening er det afgørende at gøre unge opmærksomme på miljøbeskyttelse.",
+      "Efter min mening har globaliseringen en kompleks indvirkning på lokale kulturer."
+    ],
+    "c1": [
+      "Efter min mening svækker den digitale tilstedeværelse overalt snedigt vores koncentrationsevne.",
+      "Efter min mening kan dette problem ikke løses uden øget internationalt samarbejde.",
+      "Efter min mening overskrider æstetikken i dette værk datidens traditionelle rammer.",
+      "Efter min mening ville det være illusorisk at tro, at økonomisk vækst kan være uendelig.",
+      "Efter min mening udgør usikre ansættelsesforhold en væsentlig hindring for social trivsel."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Jeg mener, at ...",
+    "translation": "I believe that ...",
+    "b1": [
+      "Jeg mener, at det er vigtigt at sove godt.",
+      "Jeg mener, at denne bog er bedre end filmen.",
+      "Jeg mener, at vi skal passe på naturen.",
+      "Jeg mener, at offentlig transport bør være billigere.",
+      "Jeg mener, at han har ret i denne sag."
+    ],
+    "b2": [
+      "Jeg mener, at uddannelsessystemet har brug for en grundlæggende modernisering.",
+      "Jeg mener, at kunstig intelligens vil ændre arbejdsmarkedet markant.",
+      "Jeg mener, at virksomheder bør tage større socialt ansvar.",
+      "Jeg mener, at sundhedssektoren bør tildeles flere ressourcer.",
+      "Jeg mener, at kritisk tænkning er en afgørende færdighed i dag."
+    ],
+    "c1": [
+      "Jeg mener, at den nuværende diskurs i høj grad ignorerer de underliggende strukturelle årsager.",
+      "Jeg mener, at de etiske dilemmaer ved denne teknologi overskygger de umiddelbare fordele.",
+      "Jeg mener, at en bæredygtig omstilling kræver et radikalt opgør med eksisterende forbrugsmønstre.",
+      "Jeg mener, at den socioøkonomiske ulighed truer sammenhængskraften i samfundet.",
+      "Jeg mener, at denne hypotese hviler på et ufuldstændigt datagrundlag."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Det lader til, at ... / Det virker som om, at ...",
+    "translation": "It seems to me that ...",
+    "b1": [
+      "Det virker som om, at det bliver godt vejr i morgen.",
+      "Det lader til, at banen er lukket i dag.",
+      "Det virker som om, at de har løst problemet.",
+      "Det lader til, at projektet tager længere tid end forventet.",
+      "Det virker som om, at alle er glade for beslutningen."
+    ],
+    "b2": [
+      "Det lader til, at markedet er i færd med at stabilisere sig efter krisen.",
+      "Det virker som om, at argumenterne mod forslaget mangler et solidt grundlag.",
+      "Det lader til, at den nye strategi allerede har skabt positive resultater.",
+      "Det virker som om, at parterne er villige til at indgå et kompromis.",
+      "Det lader til, at offentligheden i stigende grad støtter initiativet."
+    ],
+    "c1": [
+      "Det lader til, at de underliggende dynamikker i denne konflikt er langt mere komplekse end som så.",
+      "Det virker som om, at beslutningstagerne har undervurderet de langsigtede konsekvenser.",
+      "Det lader til, at fænomenet er et direkte symptom på en dybere samfundsmæssig krise.",
+      "Det virker som om, at institutionen har svært ved at tilpasse sig de hurtige teknologiske forandringer.",
+      "Det lader til, at den akademiske konsensus på området er ved at skifte."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Fra mit perspektiv ...",
+    "translation": "From my perspective, ...",
+    "b1": [
+      "Fra mit perspektiv er det en god løsning.",
+      "Fra mit perspektiv skal vi starte forfra.",
+      "Fra mit perspektiv er opgaven ikke så svær.",
+      "Fra mit perspektiv har alle gjort deres bedste.",
+      "Fra mit perspektiv er det vigtigt at lytte til andre."
+    ],
+    "b2": [
+      "Fra mit perspektiv indebærer denne beslutning en betydelig risiko.",
+      "Fra mit perspektiv bør vi prioritere de langsigtede mål frem for kortsigtede gevinster.",
+      "Fra mit perspektiv er manglen på kommunikation det største problem i teamet.",
+      "Fra mit perspektiv åbner denne udvikling op for nye og spændende muligheder.",
+      "Fra mit perspektiv er en mere balanceret tilgang nødvendig."
+    ],
+    "c1": [
+      "Fra mit perspektiv udgør dette et paradigmeskift i vores tilgang til problemstillingen.",
+      "Fra mit perspektiv er initiativet veltænkt, men udførelsen efterlader adskillige mangler.",
+      "Fra mit perspektiv er det afgørende at skelne mellem korrelation og kausalitet i denne analyse.",
+      "Fra mit perspektiv bør de etiske aspekter vægte tungere end de rent økonomiske hensyn.",
+      "Fra mit perspektiv afspejler denne debat en fundamental uoverensstemmelse i vores værdigrundlag."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Jeg føler stærkt, at ...",
+    "translation": "I strongly feel that ...",
+    "b1": [
+      "Jeg føler stærkt, at vi skal hjælpe hinanden.",
+      "Jeg føler stærkt, at dette er det rigtige valg.",
+      "Jeg føler stærkt, at børn bør bruge mindre tid på skærme.",
+      "Jeg føler stærkt, at reglerne skal være ens for alle.",
+      "Jeg føler stærkt, at vi må gøre noget nu."
+    ],
+    "b2": [
+      "Jeg føler stærkt, at alle bør have lige adgang til uddannelse og sundhed.",
+      "Jeg føler stærkt, at denne beslutning vil få uheldige konsekvenser for lokalsamfundet.",
+      "Jeg føler stærkt, at vi må beskytte vores privatliv i den digitale tidsalder.",
+      "Jeg føler stærkt, at der er brug for mere gennemsigtighed i denne proces.",
+      "Jeg føler stærkt, at dyrevelfærd bør tages mere alvorligt."
+    ],
+    "c1": [
+      "Jeg føler stærkt, at tilsidesættelsen af disse principper er en trussel mod retsstaten.",
+      "Jeg føler stærkt, at vi står ved et afgørende vendepunkt, der kræver øjeblikkelig handling.",
+      "Jeg føler stærkt, at den nuværende politik underminerer de svageste grupper i samfundet.",
+      "Jeg føler stærkt, at tavshed i denne sag er ensbetydende med stiltiende accept.",
+      "Jeg føler stærkt, at den akademiske frihed skal forsvares mod eksternt pres."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Jeg vil hævde, at ...",
+    "translation": "I would argue that ...",
+    "b1": [
+      "Jeg vil hævde, at det er bedre at overveje det en ekstra gang.",
+      "Jeg vil hævde, at denne metode er hurtigere.",
+      "Jeg vil hævde, at det er muligt at lære alt med tid.",
+      "Jeg vil hævde, at sund mad giver mere energi.",
+      "Jeg vil hævde, at vi kan gøre det bedre næste gang."
+    ],
+    "b2": [
+      "Jeg vil hævde, at kulturel udveksling er afgørende for at skabe gensidig forståelse.",
+      "Jeg vil hævde, at økonomisk vækst ikke bør ske på bekostning af miljøet.",
+      "Jeg vil hævde, at fleksibilitet på arbejdspladsen øger medarbejdernes produktivitet.",
+      "Jeg vil hævde, at denne model har vist sig ueffektiv i praksis.",
+      "Jeg vil hævde, at forebyggelse er langt mere omkostningseffektivt end behandling."
+    ],
+    "c1": [
+      "Jeg vil hævde, at dette fænomen er en direkte konsekvens af årtiers forfejlet lovgivning.",
+      "Jeg vil hævde, at begrebet behøver en grundig omdefinering i en moderne kontekst.",
+      "Jeg vil hævde, at de præsenterede data er utilstrækkelige til at drage så vidtrækkende konklusioner.",
+      "Jeg vil hævde, at autonomi og ansvar er uløseligt forbundne størrelser.",
+      "Jeg vil hævde, at den reelle udfordring ligger i at bygge bro mellem teori og praksis."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Det, jeg mener, er, at ...",
+    "translation": "What I mean is, ...",
+    "b1": [
+      "Det, jeg mener, er, at vi skal være forsigtige.",
+      "Det, jeg mener, er, at det koster for meget.",
+      "Det, jeg mener, er, at vi kan mødes i morgen i stedet.",
+      "Det, meger mener, er, at opgaven er næsten færdig.",
+      "Det, jeg mener, er, at alle bør deltage."
+    ],
+    "b2": [
+      "Det, jeg mener, er, at planen i sig selv er god, men tidsplanen er urealistisk.",
+      "Det, jeg mener, er, at vi bør fokusere på kvalitet frem for kvantitet.",
+      "Det, jeg mener, er, at ændringen vil kræve en betydelig tilpasning fra alles side.",
+      "Det, jeg mener, er, at vi mangler konkrete eksempler til at understøtte påstanden.",
+      "Det, jeg mener, er, at kommunikationen mellem afdelingerne skal forbedres."
+    ],
+    "c1": [
+      "Det, jeg mener, er, at vi uforvarende kommer til at reproducere de uligheder, vi søger at bekæmpe.",
+      "Det, jeg mener, er, at løsningen ikke blot kræver justeringer, men en gennemgribende strukturel transformation.",
+      "Det, jeg mener, er, at det teoretiske fundament lider under en række modstridende antagelser.",
+      "Det, jeg mener, er, at initiativet i sin nuværende udformning risikerer at modarbejde sit eget formål.",
+      "Det, jeg mener, er, at vi skal se ud over de umiddelbare symptomer og adressere de underliggende drivkræfter."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Hvis du spørger mig, ...",
+    "translation": "If you ask me, ...",
+    "b1": [
+      "Hvis du spørger mig, er det en fantastisk idé.",
+      "Hvis du spørger mig, bør vi tage af sted tidligt.",
+      "Hvis du spørger mig, var kampen ret kedelig.",
+      "Hvis du spørger mig, er restauranten for dyr.",
+      "Hvis du spørger mig, har han gjort et godt stykke arbejde."
+    ],
+    "b2": [
+      "Hvis du spørger mig, burde projektet have været prioriteret anderledes.",
+      "Hvis du spørger mig, mangler der en klar vision for virksomhedens fremtid.",
+      "Hvis du spørger mig, er denne investering forbundet med alt for stor usikkerhed.",
+      "Hvis du spørger mig, er løsningen overraskende simpel.",
+      "Hvis du spørger mig, burde reguleringen af dette område have været strammere."
+    ],
+    "c1": [
+      "Hvis du spørger mig, er denne debat i høj grad præget af overfladiske politiske paroler.",
+      "Hvis du spørger mig, vidner reaktionen om en dyb mangel på forståelse for komplekse systemer.",
+      "Hvis du spørger mig, er det et klassisk eksempel på kortsynet planlægning.",
+      "Hvis du spørger mig, bør man stille sig stærkt kritisk over for de fremlagte resultater.",
+      "Hvis du spørger mig, udgør dette et alvorligt tilbageskridt for hele sektoren."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Jeg kunne ikke være mere enig i ...",
+    "translation": "I couldn't agree more with ...",
+    "b1": [
+      "Jeg kunne ikke være mere enig i din vurdering.",
+      "Jeg kunne ikke være mere enig i, at det er vigtigt.",
+      "Jeg kunne ikke være mere enig i hans forslag.",
+      "Jeg kunne ikke være mere enig i, at vi skal spare på energien.",
+      "Jeg kunne ikke være mere enig i, at maden smagte godt."
+    ],
+    "b2": [
+      "Jeg kunne ikke være mere enig i analysen af det nuværende arbejdsmarked.",
+      "Jeg kunne ikke være mere enig i, at bæredygtighed skal være vores hovedprioritet.",
+      "Jeg kunne ikke være mere enig i eksperternes anbefalinger i denne sag.",
+      "Jeg kunne ikke være mere enig i, at der er brug for en reform af uddannelsessektoren.",
+      "Jeg kunne ikke være mere enig i din kritik af projektets ledelse."
+    ],
+    "c1": [
+      "Jeg kunne ikke være mere enig i den præsenterede diagnose af den kulturelle krise.",
+      "Jeg kunne ikke være mere enig i synspunktet om, at innovation kræver institutionel frihed.",
+      "Jeg kunne ikke være mere enig i forfatterens konklusion vedrørende de langsigtede konsekvenser.",
+      "Jeg kunne ikke være mere enig i nødvendigheden af en tværfaglig tilgang til problemet.",
+      "Jeg kunne ikke være mere enig i kritikken af det metodiske grundlag i rapporten."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Det er en pointe, men ...",
+    "translation": "That's a valid point, but ...",
+    "b1": [
+      "Det er en pointe, men det er for dyrt.",
+      "Det er en pointe, men vi har ikke nok tid.",
+      "Det er en pointe, men ikke alle er enige.",
+      "Det er en pointe, men det kan blive svært.",
+      "Det er en pointe, men hvor skal vi starte?"
+    ],
+    "b2": [
+      "Det er en god pointe, men vi bliver nødt til at tage hensyn til budgetbegrænsningerne.",
+      "Det er en pointe, men argumentet tager ikke højde for de nyeste markedsdata.",
+      "Det er en pointe, men gennemførelsen vil kræve betydelige ressourcer.",
+      "Det er en pointe, men der er andre faktorer, der spiller en lige så stor rolle.",
+      "Det er en pointe, men erfaringerne viser, at det er svært i praksis."
+    ],
+    "c1": [
+      "Det er en valid pointe, men den overser de underliggende strukturelle uligheder i systemet.",
+      "Det er en pointe, men analysen mangler at inddrage de utilsigtede bivirkninger af tiltaget.",
+      "Det er en pointe, men præmissen for ræsonnementet hviler på et anfægteligt grundlag.",
+      "Det er en pointe, men det ændrer ikke ved det grundlæggende etiske dilemma.",
+      "Det er en pointe, men løsningen er i bedste fald midlertidig og adresserer ikke årsagen."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Jeg er ikke helt enig i ...",
+    "translation": "I beg to differ on ...",
+    "b1": [
+      "Jeg er ikke helt enig i den beslutning.",
+      "Jeg er ikke helt enig i, at det var nemt.",
+      "Jeg er ikke helt enig i hans forklaring.",
+      "Jeg er ikke helt enig i, at vi skal vente.",
+      "Jeg er ikke helt enig i resultatet."
+    ],
+    "b2": [
+      "Jeg må erklære mig uenig i udlægningen af sagen.",
+      "Jeg er ikke helt enig i påstanden om, at tiltaget har været en succes.",
+      "Jeg må stille mig uenig i prioriteringen af de økonomiske midler.",
+      "Jeg er ikke helt enig i antagelsen om, at forbrugerne vil acceptere prisstigningen.",
+      "Jeg må tillade mig at være uenig i vurderingen af risiciene."
+    ],
+    "c1": [
+      "Jeg må på det kraftigste erklære mig uenig i den fremsatte tese om fænomenets årsager.",
+      "Jeg tillader mig at være uenig i den gængse fortolkning af de foreliggende data.",
+      "Jeg må anfægte antagelsen om, at markedskræfterne automatisk vil løse dette problem.",
+      "Jeg er uenig i konklusionen og vil hævde, at bevisbyrden fortsat påhviler forfatterne.",
+      "Jeg må tage afstand fra synspunktet om, at målet i dette tilfælde helliger midlet."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Selvom jeg forstår, at ..., føler jeg stadig ...",
+    "translation": "While I understand that ..., I still feel ...",
+    "b1": [
+      "Selvom jeg forstår, at det er travlt, føler jeg stadig, at vi bør tage en pause.",
+      "Selvom jeg forstår, at det er dyrt, føler jeg stadig, at det er pengene værd.",
+      "Selvom jeg forstår, at det er svært, føler jeg stadig, at vi skal prøve.",
+      "Selvom jeg forstår din grund, føler jeg stadig, at det var forkert.",
+      "Selvom jeg forstår planen, føler jeg stadig, at vi mangler detaljer."
+    ],
+    "b2": [
+      "Selvom jeg forstår, at omstruktureringen er nødvendig, føler jeg stadig, at processen har været forhastet.",
+      "Selvom jeg forstår argumenterne for besparelser, føler jeg stadig, at det vil skade kvaliteten.",
+      "Selvom jeg forstår, at teknologien sparer tid, føler jeg stadig, at den menneskelige kontakt mistes.",
+      "Selvom jeg forstår de juridiske hensyn, føler jeg stadig, at afgørelsen er urimelig.",
+      "Selvom jeg forstår behovet for kontrol, føler jeg stadig, at det hæmmer innovationen."
+    ],
+    "c1": [
+      "Selvom jeg forstår de pragmatiske hensyn bag forslaget, føler jeg stadig, at det på sigt vil udhule vores principper.",
+      "Selvom jeg forstår kompleksiteten i sagen, føler jeg stadig, at reaktionen fra ledelsens side har været utilstrækkelig.",
+      "Selvom jeg forstår de teoretiske rammer, føler jeg stadig, at modellen fejler i mødet med virkeligheden.",
+      "Selvom jeg forstår behovet for kompromis, føler jeg stadig, at denne løsning indebærer alt for store koncessioner.",
+      "Selvom jeg forstår historikken bag konflikten, føler jeg stadig, at der mangler en konstruktiv vilje til forsoning."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Med all respekt ...",
+    "translation": "With all due respect, ...",
+    "b1": [
+      "Med all respekt synes jeg, det er en dårlig idé.",
+      "Med all respekt tror jeg, du tager fejl.",
+      "Med all respekt er jeg ikke enig.",
+      "Med all respekt bør vi spørge en anden.",
+      "Med all respekt tager det for lang tid."
+    ],
+    "b2": [
+      "Med all respekt tager denne konklusion ikke højde for de faktiske forhold.",
+      "Med all respekt mener jeg, at strategien beror på en fejlagtig antagelse.",
+      "Med all respekt har udvalget overset en væsentlig detalje i rapporten.",
+      "Med all respekt virker forslaget urealistisk i den nuværende kontekst.",
+      "Med all respekt bør vi genoverveje måden, opgaven gribes an på."
+    ],
+    "c1": [
+      "Med all respekt forekommer argumentationen at være præget af en vis faglig nærsynethed.",
+      "Med all respekt bør institutionen udvise større selvkritik i behandlingen af denne sag.",
+      "Med all respekt hviler denne analyse på et metodisk grundlag, der må betegnes som forældet.",
+      "Med all respekt mener jeg, at ledelsen bør påtage sig det fulde ansvar for forløbet.",
+      "Med all respekt mangler der et empirisk belæg for at fremsætte så vidtrækkende påstande."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Jeg er ikke helt sikker på ...",
+    "translation": "I'm not entirely sure about ...",
+    "b1": [
+      "Jeg er ikke helt sikker på, hvad du mener.",
+      "Jeg er ikke helt sikker på, om det virker.",
+      "Jeg er ikke helt sikker på tiden for mødet.",
+      "Jeg er ikke helt sikker på, at det er den rigtige vej.",
+      "Jeg er ikke helt sikker på prisen."
+    ],
+    "b2": [
+      "Jeg er ikke helt sikker på, om denne løsning er holdbar på lang sigt.",
+      "Jeg er ikke helt sikker på, om vi har tilstrækkelige ressourcer til projektet.",
+      "Jeg er ikke helt sikker på, at resultaterne repræsenterer hele befolkningen.",
+      "Jeg er ikke helt sikker på konsekvenserne af denne ny lovgivning.",
+      "Jeg er ikke helt sikker på, om timingen for lanceringen er den rette."
+    ],
+    "c1": [
+      "Jeg er ikke helt sikker på, om det teoretiske fundament i undersøgelsen holder til nærmere eftersyn.",
+      "Jeg er ikke helt sikker på, om vi kan uddrage så entydige konklusioner på det foreliggende grundlag.",
+      "Jeg er ikke helt sikker på hensigtsmæssigheden af at implementere denne model uden pilotforsøg.",
+      "Jeg er ikke helt sikker på, at de økonomiske fremskrivninger tager højde for globale markedsudsving.",
+      "Jeg er ikke helt sikker på, at tiltaget vil have den ønskede kausale effekt."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Kan du uddybe ...?",
+    "translation": "Could you elaborate on ...?",
+    "b1": [
+      "Kan du uddybe det første punkt?",
+      "Kan du uddybe, hvad du mener med det?",
+      "Kan du uddybe din plan lidt mere?",
+      "Kan du uddybe, hvorfor det er vigtigt?",
+      "Kan du uddybe med et eksempel?"
+    ],
+    "b2": [
+      "Kan du uddybe de økonomiske beregninger bag forslaget?",
+      "Kan du uddybe, hvordan denne ændring vil påvirke medarbejderne?",
+      "Kan du uddybe strategien for den kommende ekspansion?",
+      "Kan du uddybe de tekniske specifikationer i løsningen?",
+      "Kan du uddybe begrundelsen for at vælge denne leverandør?"
+    ],
+    "c1": [
+      "Kan du uddybe de metodiske overvejelser, der ligger til grund for undersøgelsen?",
+      "Kan du uddybe, hvordan denne tese forholder sig til den eksisterende litteratur på området?",
+      "Kan du uddybe de utilsigtede konsekvenser, som denne model potentielt kan medføre?",
+      "Kan du uddybe de etiske implikationer af at anvende denne specifikke teknologi?",
+      "Kan du uddybe, hvordan analysen vægter de kvalitative kontra de kvantitative data?"
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Jeg har blandede følelser omkring ...",
+    "translation": "I have mixed feelings about ...",
+    "b1": [
+      "Jeg har blandede følelser omkring det nye arbejde.",
+      "Jeg har blandede følelser omkring flytningen.",
+      "Jeg har blandede følelser omkring filmen.",
+      "Jeg har blandede følelser omkring hans ideer.",
+      "Jeg har blandede følelser omkring ændringen."
+    ],
+    "b2": [
+      "Jeg har blandede følelser omkring den nye virksomhedspolitik.",
+      "Jeg har blandede følelser omkring brugen af kunstig intelligens i undervisningen.",
+      "Jeg har blandede følelser omkring projektets udfald.",
+      "Jeg har blandede følelser omkring turismens indvirkning på byen.",
+      "Jeg har blandede følelser omkring den foreslåede aftale."
+    ],
+    "c1": [
+      "Jeg har blandede følelser omkring kommercialiseringen af videnskabelig forskning.",
+      "Jeg har blandede følelser omkring den stigende regulering af de digitale platforme.",
+      "Jeg har blandede følelser omkring implikationerne af denne vidtrækkende reform.",
+      "Jeg har blandede følelser omkring den teknologiske optimisme, der præger debatten.",
+      "Jeg har blandede følelser omkring balancen mellem national sikkerhed og personlig frihed."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Lad os være enige om at være uenige om ...",
+    "translation": "Let's agree to disagree on ...",
+    "b1": [
+      "Lad os være enige om at være uenige om det punkt.",
+      "Lad os være enige om at være uenige om politikken.",
+      "Lad os være enige om at være uenige om, hvem der vinder.",
+      "Lad os være enige om at være uenige om sagen.",
+      "Lad os være enige om at være uenige og komme videre."
+    ],
+    "b2": [
+      "Lad os være enige om at være uenige om den bedste metode til at nå målet.",
+      "Lad os være enige om at være uenige om prioriteringen af budgettet.",
+      "Lad os være enige om at være uenige om fortolkningen af reglerne.",
+      "Lad os være enige om at være uenige om projektets langsigtede værdi.",
+      "Lad os være enige om at være uenige om årsagerne til problemet."
+    ],
+    "c1": [
+      "Lad os være enige om at være uenige om de grundlæggende filosofiske antagelser i denne debat.",
+      "Lad os være enige om at være uenige om den teoretiske overlegenhed af denne model.",
+      "Lad os være enige om at være uenige om vægtningen af de etiske kriterier i evalueringen.",
+      "Lad os være enige om at være uenige om den historiske udlægning af begivenhederne.",
+      "Lad os være enige om at være uenige om den ideologiske ramme for reformen."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Har du overvejet ...?",
+    "translation": "Have you considered ...?",
+    "b1": [
+      "Har du overvejet at tage bussen?",
+      "Har du overvejet at skifte job?",
+      "Har du overvejet at flytte til en anden by?",
+      "Har du overvejet at spørge om hjælp?",
+      "Har du overvejet at købe en brugt bil?"
+    ],
+    "b2": [
+      "Har du overvejet de mulige konsekvenser for holdets trivsel?",
+      "Har du overvejet at implementere en mere fleksibel løsning?",
+      "Har du overvejet at søge ekstern rådgivning i denne sag?",
+      "Har du overvejet alternativerne til den nuværende strategi?",
+      "Har du overvejet impacten på vores eksisterende kundebase?"
+    ],
+    "c1": [
+      "Har du overvejet de utilsigtede strukturelle følgevirkninger af dette tiltag?",
+      "Har du overvejet at anskue problemstillingen ud fra et socioøkonomisk perspektiv?",
+      "Har du overvejet risikoen for, at antagelserne skævvrider datamaterialet?",
+      "Har du overvejet de etiske implikationer ved at automatisere denne proces?",
+      "Har du overvejet at foretage en mere dybdegående kvalitativ analyse?"
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Det er ikke altid tilfældet, fordi ...",
+    "translation": "That's not always the case because ...",
+    "b1": [
+      "Det er ikke altid tilfældet, fordi reglerne kan ændre sig.",
+      "Det er ikke altid tilfældet, fordi priserne varierer.",
+      "Det er ikke altid tilfældet, fordi folk reagerer forskelligt.",
+      "Det er ikke altid tilfældet, fordi vejret kan skifte.",
+      "Det er ikke altid tilfældet, fordi der findes undtagelser."
+    ],
+    "b2": [
+      "Det er ikke altid tilfældet, fordi lokale markedsforhold spiller en stor rolle.",
+      "Det er ikke altid tilfældet, fordi ny teknologi hurtigt kan ændre forudsætningerne.",
+      "Det er ikke altid tilfældet, fordi individuelle faktorer ofte påvirker resultatet.",
+      "Det er ikke altid tilfældet, fordi strategien afhænger af virksomhedens størrelse.",
+      "Det er ikke altid tilfældet, fordi kulturelle forskelle skaber helt andre dynamikker."
+    ],
+    "c1": [
+      "Det er ikke altid tilfældet, fordi den kausale sammenhæng sjældent er så lineær som antaget.",
+      "Det er ikke altid tilfældet, fordi komplekse systemer udviser uforudsigelig adfærd under pres.",
+      "Det er ikke altid tilfældet, fordi de empiriske data ofte afslører betydelige variationer.",
+      "Det er ikke altid tilfældet, fordi institutionelle rammer kan modvirke effekten.",
+      "Det er ikke altid tilfældet, fordi den teoretiske idealmodel adskiller sig markant fra den praktiske virkelighed."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Jeg ser tingene ...",
+    "translation": "I see things ...",
+    "b1": [
+      "Jeg ser tingene på en anden måde.",
+      "Jeg ser tingene meget enkelt.",
+      "Jeg ser tingene fra en positiv vinkel.",
+      "Jeg ser tingene lidt anderledes end dig.",
+      "Jeg ser tingene ud fra min egen erfaring."
+    ],
+    "b2": [
+      "Jeg ser tingene i et mere langsigtet perspektiv.",
+      "Jeg ser tingene ud fra en praktisk synsvinkel frem for en teoretisk.",
+      "Jeg ser tingene som en mulighed for personlig og faglig udvikling.",
+      "Jeg ser tingene meget ligesom den øvrige ledelse.",
+      "Jeg ser tingene fra flere forskellige vinkler før en beslutning."
+    ],
+    "c1": [
+      "Jeg ser tingene igennem en strukturel og systemkritisk optik.",
+      "Jeg ser tingene som et resultat af en længere historisk og kulturel udvikling.",
+      "Jeg ser tingene udfra en helhedsorienteret tilgang, hvor alle variable må medtænkes.",
+      "Jeg ser tingene som et udtryk for en underliggende værdikonflikt i samfundet.",
+      "Jeg ser tingene ud fra et pragmatisk synspunkt uden ideologiske skyklapper."
+    ]
+  }
+]

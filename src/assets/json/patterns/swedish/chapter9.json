@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Varje morgon brukar jag ...",
+    "translation": "Every morning, I usually ...",
+    "b1": [
+      "Varje morgon brukar jag dricka en kopp kaffe.",
+      "Varje morgon brukar jag äta smörgås till frukost.",
+      "Varje morgon brukar jag lyssna på radio.",
+      "Varje morgon brukar jag gå en kort promenad.",
+      "Varje morgon brukar jag läsa nyheterna."
+    ],
+    "b2": [
+      "Varje morgon brukar jag planera min arbetsdag i detalj.",
+      "Varje morgon brukar jag göra några lätta strechövningar.",
+      "Varje morgon brukar jag kolla igenom viktiga mejl.",
+      "Varje morgon brukar jag cykla till jobbet om vädret tillåter.",
+      "Varje morgon brukar jag ta mig tid för lite meditation."
+    ],
+    "c1": [
+      "Varje morgon brukar jag gå igenom dagens globala marknadsnoteringar.",
+      "Varje morgon brukar jag avsätta tid för oavbruten reflektion och mental förberedelse.",
+      "Varje morgon brukar jag prioritera mina mest krävande arbetsuppgifter först.",
+      "Varje morgon brukar jag stämma av de strategiska målen för veckan.",
+      "Varje morgon brukar jag hålla mig uppdaterad om de senaste branschnyheterna."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Jag tenderar att ... när ...",
+    "translation": "I tend to ... when ...",
+    "b1": [
+      "Jag tenderar att dricka mer vatten när det är varmt.",
+      "Jag tenderar att sova längre när jag är ledig.",
+      "Jag tenderar att bli trött när jag kollar på film.",
+      "Jag tenderar att pröva nya rätter när jag reser.",
+      "Jag tenderar att gå snabbare när jag är stressad."
+    ],
+    "b2": [
+      "Jag tenderar att tappa fokus när det är för mycket buller omkring mig.",
+      "Jag tenderar att skjuta upp saker när uppgifterna känns för överväldigande.",
+      "Jag tenderar att bli mer kreativ när jag arbetar under viss tidspress.",
+      "Jag tenderar att handla mer impulsmässigt när jag är hungrig.",
+      "Jag tenderar att överanalysera situationer när jag ställs inför svåra beslut."
+    ],
+    "c1": [
+      "Jag tenderar att inta en mer avvaktande hållning när komplexa konflikter uppstår.",
+      "Jag tenderar att förlita mig på kvantitativa data när strategiska beslut ska fattas.",
+      "Jag tenderar att ifrågasätta etablerade strukturer när effektiviteten brister.",
+      "Jag tenderar att prioritera långsiktig stabilitet när marknaden uppvisar hög volatilitet.",
+      "Jag tenderar att söka konstruktiv kritik när jag färdigställer omfattande projekt."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Som regel ... jag aldrig ...",
+    "translation": "As a rule, I never ...",
+    "b1": [
+      "Som regel äter jag aldrig godis före maten.",
+      "Som regel dricker jag aldrig kaffe sent på kvällen.",
+      "Som regel hoppar jag aldrig över frukosten.",
+      "Som regel springer jag aldrig till bussen.",
+      "Som regel använder jag aldrig mobilen vid matbordet."
+    ],
+    "b2": [
+      "Som regel kollar jag aldrig jobbmejl under helgerna.",
+      "Som regel fattar jag aldrig viktiga beslut när jag är arg.",
+      "Som regel handlar jag aldrig utan att först jämföra priserna.",
+      "Som regel avbryter jag aldrig andra när de talar på möten.",
+      "Som regel lånar jag aldrig pengar för rent privata nöjen."
+    ],
+    "c1": [
+      "Som regel kompromissar jag aldrig med yrkesetiska principer i mitt arbete.",
+      "Som regel fattar jag aldrig avgörande beslut utan att rådfråga relevanta experter.",
+      "Som regel godtar jag aldrig obekräftade uppgifter utan noggrann källkritik.",
+      "Som regel underskattar jag aldrig tidsåtgången för komplexa projekt.",
+      "Som regel åtar jag mig aldrig uppdrag som strider mot min värdegrund."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Jag gör det till en regel att ... minst en gång om dagen.",
+    "translation": "I make it a point to ... at least once a day.",
+    "b1": [
+      "Jag gör det till en regel att gå ut minst en gång om dagen.",
+      "Jag gör det till en regel att ringa min mamma minst en gång om dagen.",
+      "Jag gör det till en regel att dricka vatten minst en gång om dagen.",
+      "Jag gör det till en regel att städa rummet minst en gång om dagen.",
+      "Jag gör det till en regel att läsa en bok minst en gång om dagen."
+    ],
+    "b2": [
+      "Jag gör det till en regel att ta en ordentlig paus minst en gång om dagen.",
+      "Jag gör det till en regel att kolla mina att göra-listor minst en gång om dagen.",
+      "Jag gör det till en regel att ge någon en komplimang minst en gång om dagen.",
+      "Jag gör det till en regel att röra på mig ordentligt minst en gång om dagen.",
+      "Jag gör det till en regel att rensa min e-postkorg minst en gång om dagen."
+    ],
+    "c1": [
+      "Jag gör det till en regel att utvärdera dagens framsteg minst en gång om dagen.",
+      "Jag gör det till en regel att koppla bort alla digitala enheter minst en gång om dagen.",
+      "Jag gör det till en regel att reflektera över mina prioriteringar minst en gång om dagen.",
+      "Jag gör det till en regel att stämma av läget med mitt team minst en gång om dagen.",
+      "Jag gör det till en regel att avsätta tid för kompetensutveckling minst en gång om dagen."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Innan något annat, ... jag alltid ...",
+    "translation": "Before anything else, I always ...",
+    "b1": [
+      "Innan något annat, dricker jag alltid ett glas vatten.",
+      "Innan något annat, öppnar jag alltid fönstret.",
+      "Innan något annat, matar jag alltid katten.",
+      "Innan något annat, bäddar jag alltid sängen.",
+      "Innan något annat, kollar jag alltid klockan."
+    ],
+    "b2": [
+      "Innan något annat, skriver jag alltid upp mina viktigaste uppgifter för dagen.",
+      "Innan något annat, säkerställer jag alltid att kaffebryggaren är igång.",
+      "Innan något annat, går jag alltid igenom dagens schema på kontoret.",
+      "Innan något annat, stänger jag alltid av aviseringarna på min telefon.",
+      "Innan något annat, stämmer jag alltid av att alla verktyg är redo."
+    ],
+    "c1": [
+      "Innan något annat, analyserar jag alltid de mest kritiska riskfaktorer i projektet.",
+      "Innan något annat, skapar jag mig alltid en helhetsbild av den rådande situationen.",
+      "Innan något annat, säkerställer jag alltid att alla säkerhetsprotokoll efterföljs.",
+      "Innan något annat, prioriterar jag alltid strategiska initiativ framför löpande drift.",
+      "Innan något annat, verifierar jag alltid att underlagets data är korrekt."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Jag har fått för vana att ...",
+    "translation": "I've gotten into the habit of ...",
+    "b1": [
+      "Jag har fått för vana att promenera efter middagen.",
+      "Jag har fått för vana att dricka te innan jag lägger mig.",
+      "Jag har fått för vana att skriva dagbok varje kväll.",
+      "Jag har fått för vana att cykla till affären.",
+      "Jag har fått för vana att vakna tidigt på morgonen."
+    ],
+    "b2": [
+      "Jag har fått för vana att förbereda morgondagens kläder kvällen innan.",
+      "Jag har fått för vana att stänga av skärmar en timme före sömn.",
+      "Jag har fått för vana att ta trapporna i stället för hissen.",
+      "Jag har fått för vana att dubbelkolla att dörren är låst.",
+      "Jag har fått för vana att lyssna på ljudböcker under pendlingen."
+    ],
+    "c1": [
+      "Jag har fått för vana att kontinuerligt dokumentera mina insikter från kundmöten.",
+      "Jag har fått för vana att regelbundet omvärdera mina kortsiktiga målsättningar.",
+      "Jag har fått för vana att tillämpa strukturerade metoder för problemlösning.",
+      "Jag har fått för vana att hålla mig uppdaterad gällande ny lagstiftning.",
+      "Jag har fått för vana att aktivt söka feedback från mina kollegor."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Min rutin innebär vanligtvis att ...",
+    "translation": "My routine typically involves ...",
+    "b1": [
+      "Min rutin innebär vanligtvis att jag äter frukost klockan sju.",
+      "Min rutin innebär vanligtvis att jag tar bussen till skolan.",
+      "Min rutin innebär vanligtvis att jag lagar mat på kvällen.",
+      "Min rutin innebär vanligtvis att jag tränar två gånger i veckan.",
+      "Min rutin innebär vanligtvis att jag städar på helgen."
+    ],
+    "b2": [
+      "Min rutin innebär vanligtvis att jag går igenom mejlen det första jag gör.",
+      "Min rutin innebär vanligtvis att jag tar en kort promenad på lunchen.",
+      "Min rutin innebär vanligtvis att jag stämmer av med teamet varje måndag.",
+      "Min rutin innebär vanligtvis att jag avsätter tid för egen planering.",
+      "Min rutin innebär vanligtvis att jag avslutar arbetsdagen med att rensa skrivbordet."
+    ],
+    "c1": [
+      "Min rutin innebär vanligtvis att jag genomför en systematisk granskning av nyckeltal.",
+      "Min rutin innebär vanligtvis att jag balanserar operativa uppgifter med strategisk utveckling.",
+      "Min rutin innebär vanligtvis att jag samordnar resurser mellan olika avdelningar.",
+      "Min rutin innebär vanligtvis att jag analyserar marknadstrender inför nästa kvartal.",
+      "Min rutin innebär vanligtvis att jag optimerar interna arbetsflöden kontinuerligt."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "De flesta kvällar kommar jag på mig själv med att ...",
+    "translation": "Most evenings, I find myself ...",
+    "b1": [
+      "De flesta kvällar kommer jag på mig själv med att titta på TV.",
+      "De flesta kvällar kommer jag på mig själv med att läsa en bok.",
+      "De flesta kvällar kommer jag på mig själv med att lyssna på musik.",
+      "De flesta kvällar kommer jag på mig själv med att prata med min familj.",
+      "De flesta kvällar kommer jag på mig själv med att laga något gott."
+    ],
+    "b2": [
+      "De flesta kvällar kommer jag på mig själv med att slöskrolla på mobilen alldeles för länge.",
+      "De flesta kvällar kommer jag på mig själv med att tänka på morgondagens uppgifter.",
+      "De flesta kvällar kommer jag på mig själv med att planera helgens aktiviteter.",
+      "De flesta kvällar kommer jag på mig själv med att rensa upp i köket innan läggdags.",
+      "De flesta kvällar kommer jag på mig själv med att kolla jobbmejl en sista gång."
+    ],
+    "c1": [
+      "De flesta kvällar kommer jag på mig själv med att reflektera över dagens strategiska beslut.",
+      "De flesta kvällar kommer jag på mig själv med att fördjupa mig i facklitteratur.",
+      "De flesta kvällar kommer jag på mig själv med att analysera komplexa problemställningar.",
+      "De flesta kvällar kommer jag på mig själv med att söka nya perspektiv på pågående projekt.",
+      "De flesta kvällar kommer jag på mig själv med att utvärdera min personliga utveckling."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Det jag ofta gör är att ...",
+    "translation": "What I often do is ...",
+    "b1": [
+      "Det jag ofta gör är att dricka vatten när jag är törstig.",
+      "Det jag ofta gör är att gå en sväng på stan.",
+      "Det jag ofta gör är att ringa en kompis på helgen.",
+      "Det jag ofta gör är att handla mat efter jobbet.",
+      "Det jag ofta gör är att vila en stund efter maten."
+    ],
+    "b2": [
+      "Det jag ofta gör är att skriva ned tankar i mitt anteckningsblock.",
+      "Det jag ofta gör är att dela upp stora projekt i mindre delar.",
+      "Det jag ofta gör är att dubbelkolla alla siffror innan jag skickar rapporten.",
+      "Det jag ofta gör är att be om hjälp när jag kör fast.",
+      "Det jag ofta gör är att ta en kort kaffepaus för att rensa hjärnan."
+    ],
+    "c1": [
+      "Det jag ofta gör är att ifrågasätta underliggande antaganden i analysen.",
+      "Det jag ofta gör är att söka konsensus bland alla involverade intressenter.",
+      "Det jag ofta gör är att identifiera flaskhalsar i den befintliga processen.",
+      "Det jag ofta gör är att omstrukturera prioriteringarna utifrån nya data.",
+      "Det jag ofta gör är att proaktivt adressera potentiella risker i ett tidigt skede."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Jag hoppar sällan över steget att ...",
+    "translation": "I rarely skip the step of ...",
+    "b1": [
+      "Jag hoppar sällan över steget att borsta tänderna.",
+      "Jag hoppar sällan över steget att tvätta händerna innan maten.",
+      "Jag hoppar sällan över steget att låsa dörren när jag går ut.",
+      "Jag hoppar sällan över steget att läsa receptet noga.",
+      "Jag hoppar sällan över steget att stänga av datorn."
+    ],
+    "b2": [
+      "Jag hoppar sällan över steget att korrekturläsa mina mejl innan jag skickar.",
+      "Jag hoppar sällan över steget att värma upp ordentligt före träningen.",
+      "Jag hoppar sällan över steget att stämma av med kunden efter mötet.",
+      "Jag hoppar sällan över steget att göra en säkerhetskopia av mina filer.",
+      "Jag hoppar sällan över steget att städa arbetsytan när dagen är slut."
+    ],
+    "c1": [
+      "Jag hoppar sällan över steget att genomföra en noggrann konsekvensanalys.",
+      "Jag hoppar sällan över steget att verifiera källans tillförlitlighet i utredningar.",
+      "Jag hoppar sällan över steget att inhämta synpunkter från juridiskt ansvariga.",
+      "Jag hoppar sällan över steget att dokumentera metodbeskrivningen i rapporten.",
+      "Jag hoppar sällan över steget att göra en utvärdering efter genomfört projekt."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Det är en daglig ritual för mig att ...",
+    "translation": "It's a daily ritual for me to ...",
+    "b1": [
+      "Det är en daglig ritual för mig att dricka morgonkaffe i lugn och ro.",
+      "Det är en daglig ritual för mig att promenera i parken.",
+      "Det är en daglig ritual för mig att läsa tidningen.",
+      "Det är en daglig ritual för mig att vattna växterna.",
+      "Det är en daglig ritual för mig att lyssna på min favoritmusik."
+    ],
+    "b2": [
+      "Det är en daglig ritual för mig att skriva ner tre saker jag är tacksam för.",
+      "Det är en daglig ritual för mig att avsätta tid för meditation.",
+      "Det är en daglig ritual för mig att gå igenom mina mål för veckan.",
+      "Det är en daglig ritual för mig att dricka en grön smoothie.",
+      "Det är en daglig ritual för mig att ta en paus utan några skärmar."
+    ],
+    "c1": [
+      "Det är en daglig ritual för mig att reflektera över min personliga ledarskapsfilosofi.",
+      "Det är en daglig ritual för mig att analysera förändringar i omvärldsläget.",
+      "Det är en daglig ritual för mig att utvärdera balansen mellan arbete och privatliv.",
+      "Det är en daglig ritual för mig att söka ny kunskap inom mitt specialområde.",
+      "Det är en daglig ritual för mig att säkerställa god kommunikation inom organisationen."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Jag brukar vanligtvis följa upp det med att ...",
+    "translation": "I usually follow that up with ...",
+    "b1": [
+      "Jag brukar vanligtvis följa upp det med att dricka ett glas vatten.",
+      "Jag brukar vanligtvis följa upp det med att borsta tänderna.",
+      "Jag brukar vanligtvis följa upp det med att ta en kort promenad.",
+      "Jag brukar vanligtvis följa upp det med att vila en stund.",
+      "Jag brukar vanligtvis följa upp det med att äta lite frukt."
+    ],
+    "b2": [
+      "Jag brukar vanligtvis följa upp det med att skicka minnesanteckningar till mötesdeltagarna.",
+      "Jag brukar vanligtvis följa upp det med att uppdatera min kalender.",
+      "Jag brukar vanligtvis följa upp det med att kolla min att göra-lista.",
+      "Jag brukar vanligtvis följa upp det med att svara på brådskande meddelanden.",
+      "Jag brukar vanligtvis följa upp det med att ta en stretchpaus."
+    ],
+    "c1": [
+      "Jag brukar vanligtvis följa upp det med att utarbeta en konkret handlingsplan.",
+      "Jag brukar vanligtvis följa upp det med att stämma av framdriften mot uppsatta nyckeltal.",
+      "Jag brukar vanligtvis följa upp det med att distribuera en sammanfattande lägesrapport.",
+      "Jag brukar vanligtvis följa upp det med att genomföra en riskbedömning av nästa fas.",
+      "Jag brukar vanligtvis följa upp det med att säkerställa resursallokeringen i projektet."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Utan undantag, varje ..., ...",
+    "translation": "Without fail, every ..., ...",
+    "b1": [
+      "Utan undantag, varje morgon dricker jag kaffe.",
+      "Utan undantag, varje fredag äter vi tacos.",
+      "Utan undantag, varje helg träffar jag mina vänner.",
+      "Utan undantag, varje kväll går jag och lägger mig klockan tio.",
+      "Utan undantag, varje måndag åker jag bussen till jobbet."
+    ],
+    "b2": [
+      "Utan undantag, varje söndag planerar jag matsedeln för hela veckan.",
+      "Utan undantag, varje månad går jag igenom min personliga budget.",
+      "Utan undantag, varje kväll stänger jag av arbetstelefonen helt.",
+      "Utan undantag, varje morgon går jag ut med hunden oavsett väder.",
+      "Utan undantag, varje fredagseftermiddag städar jag mitt skrivbord."
+    ],
+    "c1": [
+      "Utan undantag, varje kvartal utvärderar vi vår strategiska marknadsposition.",
+      "Utan undantag, varje vecka genomför vi en systematisk uppföljning av alla projekt.",
+      "Utan undantag, varje år granskar vi företagets miljöpåverkan noggrant.",
+      "Utan undantag, varje månad analyserar ledningsgruppen ekonomiska avvikelser.",
+      "Utan undantag, varje leverans genomgår en oberoende kvalitetsgranskning."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Jag försöker hela tiden komma ihåg att ...",
+    "translation": "I'm constantly trying to remember to ...",
+    "b1": [
+      "Jag försöker hela tiden komma ihåg att dricka mer vatten.",
+      "Jag försöker hela tiden komma ihåg att ta med mina nycklar.",
+      "Jag försöker hela tiden komma ihåg att ringa min mormor.",
+      "Jag försöker hela tiden komma ihåg att stänga av ljuset.",
+      "Jag försöker hela tiden komma ihåg att köpa mjölk."
+    ],
+    "b2": [
+      "Jag försöker hela tiden komma ihåg att ta regelbundna pauser från skärmen.",
+      "Jag försöker hela tiden komma ihåg att sträcka på ryggen när jag sitter.",
+      "Jag försöker hela tiden komma ihåg att skriva ner idéer så fort de dyker upp.",
+      "Jag försöker hela tiden komma ihåg att andas djupt när jag känner mig stressad.",
+      "Jag försöker hela tiden komma ihåg att hålla min kalender uppdaterad."
+    ],
+    "c1": [
+      "Jag försöker hela tiden komma ihåg att delegera operativa uppgifter till teamet.",
+      "Jag försöker hela tiden komma ihåg att behålla ett långsiktigt perspektiv i beslutsfattandet.",
+      "Jag försöker hela tiden komma ihåg att utmana mina egna fördomar i analyser.",
+      "Jag försöker hela tiden komma ihåg att prioritera värdeskapande aktiviteter.",
+      "Jag försöker hela tiden komma ihåg att beakta alla intressenters synpunkter."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Min vana utvecklades eftersom ...",
+    "translation": "My habit developed because ...",
+    "b1": [
+      "Min vana utvecklades eftersom jag ville spara pengar.",
+      "Min vana utvecklades eftersom jag var så trött på morgonen.",
+      "Min vana utvecklades eftersom jag ville bli bättre på svenska.",
+      "Min vana utvecklades eftersom min kompis tipsade mig.",
+      "Min vana utvecklades eftersom jag köpte en ny cykel."
+    ],
+    "b2": [
+      "Min vana utvecklades eftersom jag behövde reducera min dagliga stressnivå.",
+      "Min vana utvecklades eftersom min tidigare arbetsmetod var för tidskrävande.",
+      "Min vana utvecklades eftersom jag ville förbättra min sömnkvalitet.",
+      "Min vana utvecklades eftersom jag insåg vikten av regelbunden motion.",
+      "Min vana utvecklades eftersom jag behövde bättre struktur i min vardag."
+    ],
+    "c1": [
+      "Min vana utvecklades eftersom jag identifierade ett starkt behov av ökad effektivitet.",
+      "Min vana utvecklades eftersom branschens höga förändringstakt krävde kontinuerlig anpassning.",
+      "Min vana utvecklades eftersom komplexiteten i mina projekt ökade avsevärt.",
+      "Min vana utvecklades eftersom jag strävade efter att minimera risken för mänskliga faktorn.",
+      "Min vana utvecklades eftersom det fanns ett krav på högre transparens i arbetsprocessen."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Jag brukar vanligtvis avsätta tid för ...",
+    "translation": "I usually allocate time for ...",
+    "b1": [
+      "Jag brukar vanligtvis avsätta tid för att läsa böcker.",
+      "Jag brukar vanligtvis avsätta tid för att träna på gymmet.",
+      "Jag brukar vanligtvis avsätta tid för att träffa kompisar.",
+      "Jag brukar vanligtvis avsätta tid för att laga god mat.",
+      "Jag brukar vanligtvis avsätta tid för att vila på eftermiddagen."
+    ],
+    "b2": [
+      "Jag brukar vanligtvis avsätta tid för kompetensutveckling varje vecka.",
+      "Jag brukar vanligtvis avsätta tid för obokad planering på fredagar.",
+      "Jag brukar vanligtvis avsätta tid för att rensa upp i mina digitala filer.",
+      "Jag brukar vanligtvis avsätta tid för djuparbete utan några avbrott.",
+      "Jag brukar vanligtvis avsätta tid för personlig reflektion under helgen."
+    ],
+    "c1": [
+      "Jag brukar vanligtvis avsätta tid för omvärldsanalys och strategisk omvärldsbevakning.",
+      "Jag brukar vanligtvis avsätta tid för mentorskap och utveckling av medarbetare.",
+      "Jag brukar vanligtvis avsätta tid för granskning av finansiella prognoser.",
+      "Jag brukar vanligtvis avsätta tid för tvärfunktionellt samarbete med andra avdelningar.",
+      "Jag brukar vanligtvis avsätta tid för metodutveckling inom organisationen."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Det har blivit som en andra natur för mig att ...",
+    "translation": "It's become second nature to me to ...",
+    "b1": [
+      "Det har blivit som en andra natur för mig att cykla till jobbet.",
+      "Det har blivit som en andra natur för mig att släcka ljuset när jag lämnar ett rum.",
+      "Det har blivit som en andra natur för mig att dricka vatten direkt när jag vaknar.",
+      "Det har blivit som en andra natur för mig att säga tack till busschauffören.",
+      "Det har blivit som en andra natur för mig att bädda sängen på morgonen."
+    ],
+    "b2": [
+      "Det har blivit som en andra natur för mig att korrekturläsa alla dokument noggrant.",
+      "Det har blivit som en andra natur för mig att sortera hushållsavfallet ordentligt.",
+      "Det har blivit som en andra natur för mig att dubbelkolla alla tider i min kalender.",
+      "Det har blivit som en andra natur för mig att ta anteckningar under viktiga möten.",
+      "Det har blivit som en andra natur för mig att stänga av aviseringar när jag ska fokusera."
+    ],
+    "c1": [
+      "Det har blivit som en andra natur för mig att kritiskt granska alla underliggande antaganden.",
+      "Det har blivit som en andra natur för mig att bedöma risker ur ett helhetsperspektiv.",
+      "Det har blivit som en andra natur för mig att identifiera förbättringspotential i rutiner.",
+      "Det har blivit som en andra natur för mig att balansera kortsiktiga vinster mot långsiktiga mål.",
+      "Det har blivit som en andra natur för mig att navigera i osäkra och föränderliga miljöer."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Min typiska arbetsdag börjar med att ...",
+    "translation": "My typical workday starts with ...",
+    "b1": [
+      "Min typiska arbetsdag börjar med att jag dricker en kopp kaffe.",
+      "Min typiska arbetsdag börjar med att jag hälsar på mina kollegor.",
+      "Min typiska arbetsdag börjar med att jag startar min dator.",
+      "Min typiska arbetsdag börjar med att jag kollar vad jag ska göra.",
+      "Min typiska arbetsdag börjar med att jag åker buss klockan åtta."
+    ],
+    "b2": [
+      "Min typiska arbetsdag börjar med att jag går igenom min inkorg efter brådskande mejl.",
+      "Min typiska arbetsdag börjar med ett kort stående avstämningsmöte med teamet.",
+      "Min typiska arbetsdag börjar med att jag prioriterar dagens tre viktigaste uppgifter.",
+      "Min typiska arbetsdag börjar med att jag läser igenom dagens mötesagendor.",
+      "Min typiska arbetsdag börjar med en stunds tyst arbete innan telefonerna börjar ringa."
+    ],
+    "c1": [
+      "Min typiska arbetsdag börjar med att jag stämmer av operativa nyckeltal från det gångna dygnet.",
+      "Min typiska arbetsdag börjar med att jag identifiera eventuella avvikelser i projektportföljen.",
+      "Min typiska arbetsdag börjar med en övergripande bedömning av dagens resursbehov.",
+      "Min typiska arbetsdag börjar med att jag synkroniserar prioriteringarna med ledningsgruppen.",
+      "Min typiska arbetsdag börjar med en genomgång av externa marknadssignaler och nyheter."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Jag försöker undvika ... så mycket som möjligt.",
+    "translation": "I try to avoid ... as much as possible.",
+    "b1": [
+      "Jag försöker undvika socker så mycket som möjligt.",
+      "Jag försöker undvika att ta bilen så mycket som möjligt.",
+      "Jag försöker undvika skärmar innan jag ska sova så mycket som möjligt.",
+      "Jag försöker undvika att komma för sent så mycket som möjligt.",
+      "Jag försöker undvika skräpmat så mycket som möjligt."
+    ],
+    "b2": [
+      "Jag försöker undvika onödig övertid så mycket som möjligt.",
+      "Jag försöker undvika multitasking när jag behöver fokusera så mycket som möjligt.",
+      "Jag försöker undvika impulsiva köp så mycket som möjligt.",
+      "Jag försöker undvika negativa nyheter på kvällen så mycket som möjligt.",
+      "Jag försöker undvika långa och ostrukturerade möten så mycket som möjligt."
+    ],
+    "c1": [
+      "Jag försöker undvika kortsiktiga lösningar som äventyrar kvaliteten så mycket som möjligt.",
+      "Jag försöker undvika mikrostyrning av mina medarbetare så mycket som möjligt.",
+      "Jag försöker undvika intressekonflikter i beslutsfattandet så mycket som möjligt.",
+      "Jag försöker undvika ad hoc-beslut utan adekvat beslutsunderlag så mycket som möjligt.",
+      "Jag försöker undvika överdriven byråkratisering av arbetsprocesserna så mycket som möjligt."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Det sista jag gör innan ... är att ...",
+    "translation": "The last thing I do before ... is ...",
+    "b1": [
+      "Det sista jag gör innan jag lägger mig är att ställa väckarklockan.",
+      "Det sista jag gör innan jag går hemifrån är att klappa hunden.",
+      "Det sista jag gör innan jag äter är att tvätta händerna.",
+      "Det sista jag gör innan jag åker till jobbet är att ta på mig jackan.",
+      "Det sista jag gör innan jag sover är att stänga av lampan."
+    ],
+    "b2": [
+      "Det sista jag gör innan jag går från kontoret är att rensa mitt skrivbord.",
+      "Det sista jag gör innan jag skickar rapporten är att korrekturläsa texten.",
+      "Det sista jag gör innan helgen börjar är att skriva en göra-lista inför måndagen.",
+      "Det sista jag gör innan mötet startar är att stänga av ljudet på telefonen.",
+      "Det sista jag gör innan jag åker på semester är att ställa in ett frånvaromeddelande."
+    ],
+    "c1": [
+      "Det sista jag gör innan jag godkänner budgeten är att verifiera alla finansiella antaganden.",
+      "Det sista jag gör innan vi lanserar produkten är att genomföra en slutgiltig kvalitetssäkring.",
+      "Det sista jag gör innan jag avslutar projektet är att sammanställa en utvärderingsrapport.",
+      "Det sista jag gör innan presskonferensen är att stämma av budskapen med talepunkterna.",
+      "Det sista jag gör innan avtalet undertecknas är att säkerställa att alla juridiska villkor uppfylls."
+    ]
+  }
+]

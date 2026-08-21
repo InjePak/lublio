@@ -9,7 +9,11 @@
     "pol": "Chciałbym otrzymać zwrot pieniędzy za tę koszulę.",
     "ces": "Chtěl bych vrátit peníze za tuhle košili.",
     "hun": "Szeretném visszakérni a pénzt ezért az ingért.",
-    "tur": "Bu gömlek için para iadesi almak istiyorum."
+    "tur": "Bu gömlek için para iadesi almak istiyorum.",
+    "nld": "Ik wil graag geld terug voor dit overhemd.",
+    "swe": "Jag skulle vilja få en återbetalning för den här skjortan.",
+    "dan": "Jeg vil gerne have pengene tilbage for denne skjorte.",
+    "lux": "Ech wéilt gär d'Sue fir dës Hiem zeréckkréien."
   },
   {
     "kor": "영수증을 여기 가지고 있습니다.",
@@ -21,7 +25,11 @@
     "pol": "Mam tutaj paragon.",
     "ces": "Mám tady účtenku.",
     "hun": "Nalam van a nyugta.",
-    "tur": "Fişim yanımda."
+    "tur": "Fişim yanımda.",
+    "nld": "Ik heb de bon hier.",
+    "swe": "Jag har kvittot här.",
+    "dan": "Jeg har kvitteringen her.",
+    "lux": "Ech hunn d'Kwittung hei."
   },
   {
     "kor": "근처에 약국이 있나요?",
@@ -33,7 +41,11 @@
     "pol": "Czy w pobliżu jest apteka?",
     "ces": "Je tady poblíž lékárna?",
     "hun": "Van a közelben gyógyszertár?",
-    "tur": "Buralarda yakınlarda bir eczane var mı?"
+    "tur": "Buralarda yakınlarda bir eczane var mı?",
+    "nld": "Is er een apotheek in de buurt?",
+    "swe": "Finns det ett apotek i närheten?",
+    "dan": "Er der et apotek i nærheden?",
+    "lux": "Gëtt et eng Apdikt an der Noperschaft?"
   },
   {
     "kor": "이 구두를 다른 사이즈로 교환할 수 있나요?",
@@ -45,7 +57,11 @@
     "pol": "Czy mogę wymienić te buty na inny rozmiar?",
     "ces": "Můžu tyhle boty vyměnit za jinou velikost?",
     "hun": "Kicserélhetem ezt a cipőt egy másik méretre?",
-    "tur": "Bu ayakkabıları farklı bir numarayla değiştirebilir miyim?"
+    "tur": "Bu ayakkabıları farklı bir numarayla değiştirebilir miyim?",
+    "nld": "Kan ik deze schoenen ruilen voor een andere maat?",
+    "swe": "Kan jag byta de här skorna till en annan storlek?",
+    "dan": "Kan jeg ombytte disse sko til en anden størrelse?",
+    "lux": "Kann ech dës Schong an enger anerer Gréisst tauschen?"
   },
   {
     "kor": "탈의실은 2층에 있습니다.",
@@ -57,7 +73,11 @@
     "pol": "Przymierzalnie znajdują się na pierwszym piętrze.",
     "ces": "Zkušební kabinky jsou v prvním patře.",
     "hun": "A próbafülkék az első emeleten vannak.",
-    "tur": "Soyunma kabinleri birinci katta."
+    "tur": "Soyunma kabinleri birinci katta.",
+    "nld": "De passend kamers bevinden zich op de eerste verdieping.",
+    "swe": "Provrummen ligger på första våningen.",
+    "dan": "Prøverummene er på første sal.",
+    "lux": "D'Probezëmmer sinn um éischte Stack."
   },
   {
     "kor": "카드로 결제해도 괜찮나요?",
@@ -69,7 +89,11 @@
     "pol": "Czy mogę zapłacić kartą?",
     "ces": "Můžu platit kartou?",
     "hun": "Fizethetek kártyával?",
-    "tur": "Kartla ödeyebilir miyim?"
+    "tur": "Kartla ödeyebilir miyim?",
+    "nld": "Kan ik met pin betalen?",
+    "swe": "Går det bra att betala med kort?",
+    "dan": "Kan man betale med kort?",
+    "lux": "Kann ech mat Kaart bezuelen?"
   },
   {
     "kor": "이 가격에 할인이 포함된 건가요?",
@@ -81,7 +105,11 @@
     "pol": "Czy ten cena zawiera już rabat?",
     "ces": "Je v této ceně zahrnuta sleva?",
     "hun": "Ez az ár már tartalmazza a kedvezményt?",
-    "tur": "İndirim bu fiyata dahil mi?"
+    "tur": "İndirim bu fiyata dahil mi?",
+    "nld": "Is de korting bij deze prijs inbegrepen?",
+    "swe": "Ingår rabatten i det här priset?",
+    "dan": "Er rabatten inkluderet i denne pris?",
+    "lux": "Ass de Rabatt an dësem Präis abegraff?"
   },
   {
     "kor": "제 신발을 수선하는 데 얼마나 걸릴까요?",
@@ -93,7 +121,11 @@
     "pol": "Jak długo potrwa naprawa moich butów?",
     "ces": "Jak dlouho bude trvat oprava mých bot?",
     "hun": "Mennyi ideig tart megjavítani a cipőmet?",
-    "tur": "Ayakkabılarımın tamiri ne kadar sürer?"
+    "tur": "Ayakkabılarımın tamiri ne kadar sürer?",
+    "nld": "Hoe lang duurt het om mijn schoenen te repareren?",
+    "swe": "Hur lång tid tar det att laga mina skor?",
+    "dan": "Hvor lang tid vil det tage at reparere mine sko?",
+    "lux": "Wéi laang dauert et fir meng Schong ze reparéieren?"
   },
   {
     "kor": "식료품점은 몇 시에 문을 닫나요?",
@@ -105,7 +137,11 @@
     "pol": "O której godzinie zamykają sklep spożywczy?",
     "ces": "V kolik hodin zavírají potraviny?",
     "hun": "Mikor zár az élelmiszerbolt?",
-    "tur": "Market saat kaçta kapanıyor?"
+    "tur": "Market saat kaçta kapanıyor?",
+    "nld": "Hoe laat sluit de supermarkt?",
+    "swe": "Vilken tid stänger matvarubutiken?",
+    "dan": "Hvad tid lukker supermarkedet?",
+    "lux": "Wéi eng Zäit mécht den Supermarché zou?"
   },
   {
     "kor": "줄 끝이 어디인가요?",
@@ -117,7 +153,11 @@
     "pol": "Gdzie jest koniec kolejki?",
     "ces": "Kde je konec fronty?",
     "hun": "Hol van a sor vége?",
-    "tur": "Sıranın sonu neresi?"
+    "tur": "Sıranın sonu neresi?",
+    "nld": "Waar is het einde van de rij?",
+    "swe": "Var är slutet på kön?",
+    "dan": "Hvor er enden af køen?",
+    "lux": "Wou ass d'Enn vun der Rei?"
   },
   {
     "kor": "이 바지는 저에게 너무 깁니다.",
@@ -129,7 +169,11 @@
     "pol": "Te spodnie są dla mnie za długie.",
     "ces": "Tyhle kalhoty jsou mi moc dlouhé.",
     "hun": "Ez a nadrág túl hosszú nekem.",
-    "tur": "Bu pantolon bana çok uzun."
+    "tur": "Bu pantolon bana çok uzun.",
+    "nld": "Deze broek is te lang voor mij.",
+    "swe": "De här byxorna är för långa för mig.",
+    "dan": "Disse bukser er for lange til mig.",
+    "lux": "Dës Hues ass mir ze laang."
   },
   {
     "kor": "배달 서비스를 제공하시나요?",
@@ -141,7 +185,11 @@
     "pol": "Czy oferują Państwo usługi dostawy?",
     "ces": "Nabízíte doručovací službu?",
     "hun": "Vállalnak házhozszállítást?",
-    "tur": "Teslimat hizmetiniz var mı?"
+    "tur": "Teslimat hizmetiniz var mı?",
+    "nld": "Biedt u een bezorgservice aan?",
+    "swe": "Erbjuder ni hemkörning?",
+    "dan": "Tilbyder I leveringsservice?",
+    "lux": "Bitt Dir e Liwwerservice un?"
   },
   {
     "kor": "학생 할인을 받을 수 있나요?",
@@ -153,7 +201,11 @@
     "pol": "Czy mogę otrzymać zniżkę studencką?",
     "ces": "Můžu dostat studentskou slevu?",
     "hun": "Kaphatok diákkedvezményt?",
-    "tur": "Öğrenci indirimi alabilir miyim?"
+    "tur": "Öğrenci indirimi alabilir miyim?",
+    "nld": "Kan ik studentenkorting krijgen?",
+    "swe": "Kan jag få studentrabatt?",
+    "dan": "Kan jeg få studierabat?",
+    "lux": "Kann ech e Studentenrabatt kréien?"
   },
   {
     "kor": "그것을 선물용으로 포장해 주시겠어요?",
@@ -165,7 +217,11 @@
     "pol": "Czy mogę prosić o zapakowanie tego na prezent?",
     "ces": "Mohl byste mi to prosím zabalit jako dárek?",
     "hun": "Be tudná csomagolni ajándékként?",
-    "tur": "Bunu hediye paketi yapabilir misiniz lütfen?"
+    "tur": "Bunu hediye paketi yapabilir misiniz lütfen?",
+    "nld": "Kunt u het als cadeautje inpakken, alstublieft?",
+    "swe": "Kan du slå in den som en present, tack?",
+    "dan": "Vil du pakke den ind som en gave, tak?",
+    "lux": "Kënnt Dir et wgl. als Cadeau abauen?"
   },
   {
     "kor": "이 제품의 보증 기간은 얼마인가요?",
@@ -177,7 +233,11 @@
     "pol": "Jak długa jest gwarancja na ten produkt?",
     "ces": "Jak dlouhá je záruka na tento produkt?",
     "hun": "Mennyi ideig tart a garancia erre a termékre?",
-    "tur": "Bu ürünün garantisi ne kadar süreli?"
+    "tur": "Bu ürünün garantisi ne kadar süreli?",
+    "nld": "Hoe lang is de garantie op dit product?",
+    "swe": "Hur lång är garantin på den här produkten?",
+    "dan": "Hvor lang er garantien på dette produkt?",
+    "lux": "Wéi laang ass d'Garantie op dëse Produit?"
   },
   {
     "kor": "찾으시는 특별한 것이 있나요?",
@@ -189,7 +249,11 @@
     "pol": "Czy szuka Pan/Pani czegoś konkretnego?",
     "ces": "Hledáte něco konkrétního?",
     "hun": "Keres valami konkrétat?",
-    "tur": "Özellikle aradığınız bir şey var mı?"
+    "tur": "Özellikle aradığınız bir şey var mı?",
+    "nld": "Bent u ergens specifiek naar op zoek?",
+    "swe": "Letar du efter något särskilt?",
+    "dan": "Leder du efter noget bestemt?",
+    "lux": "Sicht Dir eppes Bestëmmtes?"
   },
   {
     "kor": "재고가 있는지 확인해 보겠습니다.",
@@ -201,7 +265,11 @@
     "pol": "Sprawdzę, czy jest na stanie.",
     "ces": "Podívám se, jestli je to na skladě.",
     "hun": "Megnézem, van-e raktáron.",
-    "tur": "Stokta olup olmadığını kontrol edeceğim."
+    "tur": "Stokta olup olmadığını kontrol edeceğim.",
+    "nld": "Ik ga controleren of het op voorraad is.",
+    "swe": "Jag ska kolla om den finns i lager.",
+    "dan": "Jeg vil tjekke, om den er på lager.",
+    "lux": "Ech kucken ob et op Stock ass."
   },
   {
     "kor": "이것은 가죽으로 만들어졌나요?",
@@ -213,7 +281,11 @@
     "pol": "Czy to jest wykonane ze skóry?",
     "ces": "Je to vyrobené z kůže?",
     "hun": "Ez bőrből készült?",
-    "tur": "Bu deriden mi yapılmış?"
+    "tur": "Bu deriden mi yapılmış?",
+    "nld": "Is dit gemaakt van leer?",
+    "swe": "Är den här gjord av läder?",
+    "dan": "Er denne lavet af læder?",
+    "lux": "Ass dat aus Lieder gemaach?"
   },
   {
     "kor": "현금 인출기가 어디에 있는지 아시나요?",
@@ -225,7 +297,11 @@
     "pol": "Czy wiesz, gdzie jest bankomat?",
     "ces": "Nevíte, kde je bankomat?",
     "hun": "Tudja, hol van a bankautomata?",
-    "tur": "Bankamatiğin nerede olduğunu biliyor musunuz?"
+    "tur": "Bankamatiğin nerede olduğunu biliyor musunuz?",
+    "nld": "Weet u waar de geldautomaat is?",
+    "swe": "Vet du var uttagsautomaten är?",
+    "dan": "Ved du, hvor hæveautomaten er?",
+    "lux": "Wësst Dir wou den Bankomat ass?"
   },
   {
     "kor": "소포를 보내기 위해 우체국에 가야 합니다.",
@@ -237,7 +313,11 @@
     "pol": "Muszę iść na pocztę, aby wysłać paczkę.",
     "ces": "Musím jít na poštu poslat balík.",
     "hun": "El kell mennem a postára feladni egy csomagot.",
-    "tur": "Paket göndermek için postaneye gitmem gerekiyor."
+    "tur": "Paket göndermek için postaneye gitmem gerekiyor.",
+    "nld": "Ik moet naar het postkantoor om een pakket te versturen.",
+    "swe": "Jag måste gå till posten för att skicka ett paket.",
+    "dan": "Jeg skal på posthuset for at sende en pakke.",
+    "lux": "Ech muss op d'Post goen fir e Pak ze schécken."
   },
   {
     "kor": "봉투값으로 10펜스를 더 내야 합니다.",
@@ -249,7 +329,11 @@
     "pol": "Za torbę trzeba dopłacić dziesięć groszy.",
     "ces": "Za tašku musíte připlatit deset pencí.",
     "hun": "Tíz pennynyi felárat kell fizetni a szatyorért.",
-    "tur": "Poşet için ekstra on kuruş ödemeniz gerekiyor."
+    "tur": "Poşet için ekstra on kuruş ödemeniz gerekiyor.",
+    "nld": "U moet tien cent extra betalen voor een tas.",
+    "swe": "Du måste betala tio cent extra för en påse.",
+    "dan": "Du skal betale ti øre ekstra for en pose.",
+    "lux": "Dir musst zéng Cent extra fir eng Sak bezuelen."
   },
   {
     "kor": "이 카트 좀 사용해도 될까요?",
@@ -261,7 +345,11 @@
     "pol": "Czy mogę skorzystać z tego wózka?",
     "ces": "Můžu použít tento vozík?",
     "hun": "Használhatom ezt a kocsit?",
-    "tur": "Bu arabayı kullanabilir miyim?"
+    "tur": "Bu arabayı kullanabilir miyim?",
+    "nld": "Mag ik deze winkelwagen gebruiken?",
+    "swe": "Får jag använda den här vagnen?",
+    "dan": "Må jeg bruge denne indkøbsvogn?",
+    "lux": "Derf ech dëse Won benotzen?"
   },
   {
     "kor": "가격표가 어디에 있나요?",
@@ -273,7 +361,11 @@
     "pol": "Gdzie jest metka z ceną?",
     "ces": "Kde je cenovka?",
     "hun": "Hol van az árcédula?",
-    "tur": "Fiyat etiketi nerede?"
+    "tur": "Fiyat etiketi nerede?",
+    "nld": "Waar hangt het prijskaartje?",
+    "swe": "Var sitter prislappen?",
+    "dan": "Hvor er prisskiltet?",
+    "lux": "Wou ass d'Präisschëld?"
   },
   {
     "kor": "미용실 예약을 하고 싶습니다.",
@@ -285,7 +377,11 @@
     "pol": "Chciałbym umówić się na wizytę u fryzjera.",
     "ces": "Chtěl bych se objednat ke kadeřníkovi.",
     "hun": "Szeretnék időpontot kérni a fodrászhoz.",
-    "tur": "Kuaförden randevu almak istiyorum."
+    "tur": "Kuaförden randevu almak istiyorum.",
+    "nld": "Ik wil graag een afspraak maken bij de kapper.",
+    "swe": "Jag skulle vilja boka en tid hos frisören.",
+    "dan": "Jeg vil gerne bestille en tid hos frisøren.",
+    "lux": "Ech wéilt gär en Rendez-vous beim Coiffeur maachen."
   },
   {
     "kor": "도와주셔서 정말 감사합니다.",
@@ -297,6 +393,10 @@
     "pol": "Bardzo dziękuję za pomoc.",
     "ces": "Děkuji vám mnohokrát za pomoc.",
     "hun": "Nagyon köszönöm a segítséget.",
-    "tur": "Yardımınız için çok teşekkürler."
+    "tur": "Yardımınız için çok teşekkürler.",
+    "nld": "Hartelijk dank voor uw hulp.",
+    "swe": "Tack så mycket för din hjälp.",
+    "dan": "Mange tak for din hjælp.",
+    "lux": "Vill Muech Merci fir Är Hëllef."
   }
 ]

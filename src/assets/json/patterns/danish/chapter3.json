@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Kunne du muligvis ...?",
+    "translation": "Could you possibly ...?",
+    "b1": [
+      "Kunne du muligvis hjælpe mig med denne opgave?",
+      "Kunne du muligvis lukke vinduet?",
+      "Kunne du muligvis sende mig adressen?",
+      "Kunne du muligvis tale lidt langsommere?",
+      "Kunne du muligvis hente mig på stationen?"
+    ],
+    "b2": [
+      "Kunne du muligvis sende mig rapporten inden mødet?",
+      "Kunne du muligvis tjekke om dokumentet er korrekt?",
+      "Kunne du muligvis udsætte deadline til på fredag?",
+      "Kunne du muligvis forklare mig processen igen?",
+      "Kunne du muligvis arrangere et kort møde i morgen?"
+    ],
+    "c1": [
+      "Kunne du muligvis fremskaffe de seneste regnskabstal for projektevalueringen?",
+      "Kunne du muligvis uddybe de metodiske overvejelser i analysen?",
+      "Kunne du muligvis genoverveje den oprindelige tidsplan for implementeringen?",
+      "Kunne du muligvis fremskynde godkendelsesprocessen hos direktionen?",
+      "Kunne du muligvis udarbejde et udkast til aftalen inden ugens udgang?"
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Jeg ville være taknemmelig, hvis du kunne ...",
+    "translation": "I would be grateful if you could ...",
+    "b1": [
+      "Jeg ville være taknemmelig, hvis du kunne hjælpe mig.",
+      "Jeg ville være taknemmelig, hvis du kunne sende en mail.",
+      "Jeg ville være taknemmelig, hvis du kunne komme til tiden.",
+      "Jeg ville være taknemmelig, hvis du kunne svare hurtigt.",
+      "Jeg ville være taknemmelig, hvis du kunne give mig besked."
+    ],
+    "b2": [
+      "Jeg ville være taknemmelig, hvis du kunne gennemgå dette udkast.",
+      "Jeg ville være taknemmelig, hvis du kunne bekræfte modtagelsen af filerne.",
+      "Jeg ville være taknemmelig, hvis du kunne fremsende de nødvendige bilag.",
+      "Jeg ville være taknemmelig, hvis du kunne give en kort opdatering på sagen.",
+      "Jeg ville være taknemmelig, hvis du kunne koordinere aftalen med kunden."
+    ],
+    "c1": [
+      "Jeg ville være taknemmelig, hvis du kunne præcisere de juridiske forbehold i kontrakten.",
+      "Jeg ville være taknemmelig, hvis du kunne facilitere kontakten til de relevante myndigheder.",
+      "Jeg ville være taknemmelig, hvis du kunne foretage en risikovurdering af det nye forslag.",
+      "Jeg ville være taknemmelig, hvis du kunne inddrage de seneste nøgletal i præsentationen.",
+      "Jeg ville være taknemmelig, hvis du kunne redegøre for de økonomiske konsekvenser af beslutningen."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Gør det dig noget at ...? / Vil du have noget imod at ...?",
+    "translation": "Would you mind ...?",
+    "b1": [
+      "Gør det dig noget at åbne døren?",
+      "Vil du have noget imod at vente to minutter?",
+      "Gør det dig noget at slukke for musikken?",
+      "Vil du have noget imod at tage et billede af os?",
+      "Gør det dig noget at ringe tilbage senere?"
+    ],
+    "b2": [
+      "Gør det dig noget at gennemlæse min præsentation for fejl?",
+      "Vil du have noget imod at tage referat under mødet?",
+      "Gør det dig noget at tage over for mig i næste uge?",
+      "Vil du have noget imod at ombooke vores aftale til tirsdag?",
+      "Gør det dig noget at dele din skærm under opkaldet?"
+    ],
+    "c1": [
+      "Vil du have noget imod at omformulere det afsnit for at undgå misforståelser?",
+      "Gør det dig noget at fremlægge det reviderede budget for bestyrelsen?",
+      "Vil du have noget imod at udskyde offentliggørelsen af rapporten indtil videre?",
+      "Gør det dig noget at tage føringen i de kommende kontraktforhandlinger?",
+      "Vil du have noget imod at præsentere analysen på vegne af vores afdeling?"
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Jeg skriver for at anmode om ...",
+    "translation": "I'm writing to request ...",
+    "b1": [
+      "Jeg skriver for at anmode om mere information.",
+      "Jeg skriver for at anmode om en ny tid.",
+      "Jeg skriver for at anmode om din hjælp.",
+      "Jeg skriver for at anmode om et møde.",
+      "Jeg skriver for at anmode om en bekræftelse."
+    ],
+    "b2": [
+      "Jeg skriver for at anmode om en forlængelse af deadlinen.",
+      "Jeg skriver for at anmode om adgang til det nye system.",
+      "Jeg skriver for at anmode om refusion for mine rejseomkostninger.",
+      "Jeg skriver for at anmode om yderligere dokumentation i sagen.",
+      "Jeg skriver for at anmode om et skriftligt tilbud på ydelsen."
+    ],
+    "c1": [
+      "Jeg skriver for at anmode om en formel genoptagelse af sagen.",
+      "Jeg skriver for at anmode om aktindsigt i de relevante retsdokumenter.",
+      "Jeg skriver for at anmode om tilladelse til at afvige fra standardproceduren.",
+      "Jeg skriver for at anmode om en uvildig vurdering af det faglige grundlag.",
+      "Jeg skriver for at anmode om godkendelse af de strategiske rammer for projektet."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Jeg har brug for ... inden udgangen af ...",
+    "translation": "I need ... by the end of ...",
+    "b1": [
+      "Jeg har brug for dit svar inden udgangen af dagen.",
+      "Jeg har brug for bogen inden udgangen af ugen.",
+      "Jeg har brug for pengene inden udgangen af måneden.",
+      "Jeg har brug for en beslutning inden udgangen af ugen.",
+      "Jeg har brug for oplysningerne inden udgangen af dagen."
+    ],
+    "b2": [
+      "Jeg har brug for de endelige tal inden udgangen af denne måned.",
+      "Jeg har brug for din feedback inden udgangen af ugen.",
+      "Jeg har brug for projektplanen inden udgangen af andet kvartal.",
+      "Jeg har brug for godkendelsen inden udgangen af arbejdsdagen.",
+      "Jeg har brug for alle rapporterne inden udgangen af året."
+    ],
+    "c1": [
+      "Jeg har brug for en fuldstændig konsekvensanalyse inden udgangen af indeværende måned.",
+      "Jeg har brug for de reviderede regnskaber inden udgangen af regnskabsåret.",
+      "Jeg har brug for en juridisk vurdering inden udgangen af denne uge.",
+      "Jeg har brug for risikoprofilen inden udgangen af evalueringsfasen.",
+      "Jeg har brug for bestyrelsens godkendelse inden udgangen af kvartalet."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Er der nogen chance for ...?",
+    "translation": "Is there any chance of ...?",
+    "b1": [
+      "Er der nogen chance for, at du kan komme i dag?",
+      "Er der nogen chance for rabat?",
+      "Er der nogen chance for, at det bliver solskin?",
+      "Er der nogen chance for at få bord på restauranten?",
+      "Er der nogen chance for, at vi kan starte tidligere?"
+    ],
+    "b2": [
+      "Er der nogen chance for at flytte mødet til i eftermiddag?",
+      "Er der nogen chance for at få et ekstra budget til dette projekt?",
+      "Er der nogen chance for, at leveringen ankommer før fredag?",
+      "Er der nogen chance for at ændre billetten til en anden dato?",
+      "Er der nogen chance for, at vi kan få en kort pause nu?"
+    ],
+    "c1": [
+      "Er der nogen chance for at genforhandle vilkårene i rammeaftalen?",
+      "Er der nogen chance for at fremskynde den administrative sagsbehandling?",
+      "Er der nogen chance for, at vi kan opnå politisk opbakning til forslaget?",
+      "Er der nogen chance for at tilpasse modellen til de nye markedskrav?",
+      "Er der nogen chance for at afbøde de negative økonomiske konsekvenser?"
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Kunne jeg bede dig om specifikt at fokusere på ...?",
+    "translation": "Could I ask you to specifically focus on ...?",
+    "b1": [
+      "Kunne jeg bede dig om specifikt at fokusere på grammatikken?",
+      "Kunne jeg bede dig om specifikt at fokusere på prisen?",
+      "Kunne jeg bede dig om specifikt at fokusere på første del?",
+      "Kunne jeg bede dig om specifikt at fokusere på billederne?",
+      "Kunne jeg bede dig om specifikt at fokusere på tidsplanen?"
+    ],
+    "b2": [
+      "Kunne jeg bede dig om specifikt at fokusere på de økonomiske nøgletal?",
+      "Kunne jeg bede dig om specifikt at fokusere på kundefeedbacken i rapporten?",
+      "Kunne jeg bede dig om specifikt at fokusere på markedsføringsstrategien?",
+      "Kunne jeg bede dig om specifikt at fokusere på tekniske fejl i systemet?",
+      "Kunne jeg bede dig om specifikt at fokusere på risikostyringen i projektet?"
+    ],
+    "c1": [
+      "Kunne jeg bede dig om specifikt at fokusere på de langsigtede strukturelle følgevirkninger?",
+      "Kunne jeg bede dig om specifikt at fokusere på de juridiske faldgruber i aftalen?",
+      "Kunne jeg bede dig om specifikt at fokusere på bæredygtighedsaspekterne i analysen?",
+      "Kunne jeg bede dig om specifikt at fokusere på de socioøkonomiske faktorer i undersøgelsen?",
+      "Kunne jeg bede dig om specifikt at fokusere på den metodiske konsistens i rapporten?"
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Sørg venligst for at inkludere ...",
+    "translation": "Please make sure to include ...",
+    "b1": [
+      "Sørg venligst for at inkludere din adresse i e-mailen.",
+      "Sørg venligst for at inkludere alle navne på listen.",
+      "Sørg venligst for at inkludere kvitteringen.",
+      "Sørg venligst for at inkludere frugt i indkøbene.",
+      "Sørg venligst for at inkludere datoen på dokumentet."
+    ],
+    "b2": [
+      "Sørg venligst for at inkludere alle relevante bilag i ansøgningen.",
+      "Sørg venligst for at inkludere et kort sammendrag i starten af rapporten.",
+      "Sørg venligst for at inkludere budgetestimaterne for næste år.",
+      "Sørg venligst for at inkludere alle interessenter i mødeindkaldelsen.",
+      "Sørg venligst for at inkludere specifikke eksempler til at understøtte pointen."
+    ],
+    "c1": [
+      "Sørg venligst for at inkludere en grundig følsomhedsanalyse i det finansielle oplæg.",
+      "Sørg venligst for at inkludere de etiske overvejelser i den faglige vurdering.",
+      "Sørg venligst for at inkludere en historisk sammenligning i datamaterialet.",
+      "Sørg venligst for at inkludere alle potentielle juridiske forbehold i aftaleudkastet.",
+      "Sørg venligst for at inkludere kvalitative data for at nuancere konklusionen."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Ville det være muligt for dig at give detaljer om ...?",
+    "translation": "Would it be possible for you to provide details on ...?",
+    "b1": [
+      "Ville det være muligt for dig at give detaljer om rejsen?",
+      "Ville det være muligt for dig at give detaljer om prisen?",
+      "Ville det være muligt for dig at give detaljer om jobbet?",
+      "Ville det være muligt for dig at give detaljer om kurset?",
+      "Ville det være muligt for dig at give detaljer om hotellet?"
+    ],
+    "b2": [
+      "Ville det være muligt for dig at give detaljer om tidsplanen for lanceringen?",
+      "Ville det være muligt for dig at give detaljer om de forventede omkostninger?",
+      "Ville det være muligt for dig at give detaljer om kravene til stillingen?",
+      "Ville det være muligt for dig at give detaljer om resultaterne af undersøgelsen?",
+      "Ville det være muligt for dig at give detaljer om de tekniske specifikationer?"
+    ],
+    "c1": [
+      "Ville det være muligt for dig at give detaljer om den bagvedliggende beregningsmodel?",
+      "Ville det være muligt for dig at give detaljer om implementeringsstrategiens faser?",
+      "Ville det være muligt for dig at give detaljer om de kontraktlige forpligtelser?",
+      "Ville det være muligt for dig at give detaljer om de metodiske begrænsninger i undersøgelsen?",
+      "Ville det være muligt for dig at give detaljer om risikominimeringsplanen?"
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Desværre vil jeg ikke være i stand til at ...",
+    "translation": "Unfortunately, I won't be able to ...",
+    "b1": [
+      "Desværre vil jeg ikke være i stand til at komme i dag.",
+      "Desværre vil jeg ikke være i stand til at hjælpe dig i morgen.",
+      "Desværre vil jeg ikke være i stand til at deltage i festen.",
+      "Desværre vil jeg ikke være i stand til at svare med det samme.",
+      "Desværre vil jeg ikke være i stand til at nå toget."
+    ],
+    "b2": [
+      "Desværre vil jeg ikke være i stand til at deltage i mødet i næste uge.",
+      "Desværre vil jeg ikke være i stand til at overholde den oprindelige deadline.",
+      "Desværre vil jeg ikke være i stand til at godkende budgettet i dets nuværende form.",
+      "Desværre vil jeg ikke være i stand til at tage flere opgaver ind i denne måned.",
+      "Desværre vil jeg ikke være i stand til at deltage i opkaldet på grund af en dobbeltbooking."
+    ],
+    "c1": [
+      "Desværre vil jeg ikke være i stand til at efterkomme din anmodning på grund af fortrolighedsaftalen.",
+      "Desværre vil jeg ikke være i stand til at støtte forslaget i lyset af de seneste risikovurderinger.",
+      "Desværre vil jeg ikke være i stand til at garantere leverancen inden for den angivne tidsramme.",
+      "Desværre vil jeg ikke være i stand til at påtage mig projektledelsen givet mine nuværende forpligtelser.",
+      "Desværre vil jeg ikke være i stand til at godkende aftalen uden forudgående retslig rådgivning."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Jeg er bange for, at jeg må afslå ...",
+    "translation": "I'm afraid I have to decline ...",
+    "b1": [
+      "Jeg er bange for, at jeg må afslå din invitation.",
+      "Jeg er bange for, at jeg må afslå tilbuddet.",
+      "Jeg er bange for, at jeg må afslå at hjælpe denne gang.",
+      "Jeg er bange for, at jeg må afslå forslaget.",
+      "Jeg er bange for, at jeg må afslå anmodningen."
+    ],
+    "b2": [
+      "Jeg er bange for, at jeg må afslå jobtilbuddet af personlige årsager.",
+      "Jeg er bange for, at jeg må afslå at deltage i projektet i denne omgang.",
+      "Jeg er bange for, at jeg må afslå ansøgningen om ekstra ressourcer.",
+      "Jeg er bange for, at jeg må afslå aftaleudkastet i sin nuværende form.",
+      "Jeg er bange for, at jeg må afslå muligheden for at præsentere på konferencen."
+    ],
+    "c1": [
+      "Jeg er bange for, at jeg må afslå det fremsatte kompromis, da det strider mod vores principper.",
+      "Jeg er bange for, at jeg må afslå opfordringen til at indtræde i bestyrelsen på nuværende tidspunkt.",
+      "Jeg er bange for, at jeg må afslå partnerskabsaftalen af konkurrencemæssige hensyn.",
+      "Jeg er bange for, at jeg må afslå anmodningen om dispensation fra gældende retningslinjer.",
+      "Jeg er bange for, at jeg må afslå det finansielle tilbud, da det ikke afspejler markedsværdien."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Det lyder udfordrende, fordi ...",
+    "translation": "That sounds challenging because ...",
+    "b1": [
+      "Det lyder udfordrende, fordi tiden er knap.",
+      "Det lyder udfordrende, fordi det er meget dyrt.",
+      "Det lyder udfordrende, fordi opgaven er svær.",
+      "Det lyder udfordrende, fordi vi mangler folk.",
+      "Det lyder udfordrende, fordi vejret er dårligt."
+    ],
+    "b2": [
+      "Det lyder udfordrende, fordi tidsplanen allerede er stram.",
+      "Det lyder udfordrende, fordi budgettet er begrænset.",
+      "Det lyder udfordrende, fordi ressourcerne i afdelingen er fuldt udnyttede.",
+      "Det lyder udfordrende, fordi kravene fra kunden har ændret sig.",
+      "Det lyder udfordrende, fordi markedssituationen er usikker."
+    ],
+    "c1": [
+      "Det lyder udfordrende, fordi de regulatoriske rammer sætter snævre grænser.",
+      "Det lyder udfordrende, fordi den teknologiske infrastruktur kræver en gennemgribende opgradering.",
+      "Det lyder udfordrende, fordi der er en udtalt modstand mod forandring i organisationen.",
+      "Det lyder udfordrende, fordi de underliggende forudsætninger hviler på et usikkert empirisk grundlag.",
+      "Det lyder udfordrende, fordi det kræver tværfaglig konsensus blandt uafhængige aktører."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Selvom jeg sætter pris på tilbuddet, må jeg respektfuldt sige nej ...",
+    "translation": "While I appreciate the offer, I must respectfully refuse ...",
+    "b1": [
+      "Selvom jeg sætter pris på tilbuddet, må jeg respektfuldt sige nej tak.",
+      "Selvom jeg sætter pris på tilbuddet, må jeg respektfuldt sige nej til at deltage.",
+      "Selvom jeg sætter pris på tilbuddet, må jeg respektfuldt sige nej til hjælpen.",
+      "Selvom jeg sætter pris på tilbuddet, må jeg respektfuldt sige nej i denne omgang.",
+      "Selvom jeg sætter pris på tilbuddet, må jeg respektfuldt sige nej til maden."
+    ],
+    "b2": [
+      "Selvom jeg sætter pris på tilbuddet, må jeg respektfuldt sige nej til stillingen.",
+      "Selvom jeg sætter pris på tilbuddet, må jeg respektfuldt sige nej til samarbejdet.",
+      "Selvom jeg sætter pris på tilbuddet, må jeg respektfuldt sige nej til at overtage projektet.",
+      "Selvom jeg sætter pris på tilbuddet, må jeg respektfuldt sige nej til de ændrede vilkår.",
+      "Selvom jeg sætter pris på tilbuddet, må jeg respektfuldt sige nej til konsulentrollen."
+    ],
+    "c1": [
+      "Selvom jeg sætter pris på tilbuddet, må jeg respektfuldt sige nej til at indgå i konsortiet.",
+      "Selvom jeg sætter pris på tilbuddet, må jeg respektfuldt sige nej til den tilbudte kompensation.",
+      "Selvom jeg sætter pris på tilbuddet, må jeg respektfuldt sige nej til at støtte kampagnen.",
+      "Selvom jeg sætter pris på tilbuddet, må jeg respektfuldt sige nej på grund af interessekonflikter.",
+      "Selvom jeg sætter pris på tilbuddet, må jeg respektfuldt sige nej til de foreslåede kontraktvilkår."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Min tidsplan tillader mig ikke at ...",
+    "translation": "My schedule doesn't permit me to ...",
+    "b1": [
+      "Min tidsplan tillader mig ikke at deltage i dag.",
+      "Min tidsplan tillader mig ikke at rejse i denne uge.",
+      "Min tidsplan tillader mig ikke at mødes i morgen.",
+      "Min tidsplan tillader mig ikke at tage ekstra arbejdstimer.",
+      "Min tidsplan tillader mig ikke at tage på ferie nu."
+    ],
+    "b2": [
+      "Min tidsplan tillader mig ikke at påtage mig yderligere opgaver i øjeblikket.",
+      "Min tidsplan tillader mig ikke at være til stede under hele konferencen.",
+      "Min tidsplan tillader mig ikke at deltage i det ugentlige statusmøde.",
+      "Min tidsplan tillader mig ikke at rejse til udlandet i denne måned.",
+      "Min tidsplan tillader mig ikke at afsætte tid til en grundig gennemgang."
+    ],
+    "c1": [
+      "Min tidsplan tillader mig ikke at indtræde i arbejdsgruppen på nuværende tidspunkt.",
+      "Min tidsplan tillader mig ikke at påtage mig hvervet som udvalgsformand.",
+      "Min tidsplan tillader mig ikke at facilitere den heldags workshop, du foreslår.",
+      "Min tidsplan tillader mig ikke at deltage i de omfattende eksterne konsultationer.",
+      "Min tidsplan tillader mig ikke at yde den nødvendige faglige supervision i dette kvartal."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Jeg ville ønske, at jeg kunne ..., men i øjeblikket er jeg optaget af ...",
+    "translation": "I wish I could ..., but currently I'm occupied with ...",
+    "b1": [
+      "Jeg ville ønske, at jeg kunne hjælpe, men i øjeblikket er jeg optaget af lektier.",
+      "Jeg ville ønske, at jeg kunne komme, men i øjeblikket er jeg optaget af mit arbejde.",
+      "Jeg ville ønske, at jeg kunne rejse med, men i øjeblikket er jeg optaget af min eksamen.",
+      "Jeg ville ønske, at jeg kunne deltage, men i øjeblikket er jeg optaget af rengøring.",
+      "Jeg ville ønske, at jeg kunne mødes, men i øjeblikket er jeg optaget af familien."
+    ],
+    "b2": [
+      "Jeg ville ønske, at jeg kunne deltage i projektet, men i øjeblikket er jeg optaget af årsafslutningen.",
+      "Jeg ville ønske, at jeg kunne tage opgaven, men i øjeblikket er jeg optaget af en vigtig deadline.",
+      "Jeg ville ønske, at jeg kunne bidrage, men i øjeblikket er jeg optaget af en omstrukturering.",
+      "Jeg ville ønske, at jeg kunne komme til mødet, men i øjeblikket er jeg optaget af en kundepræsentation.",
+      "Jeg ville ønske, at jeg kunne hjælpe teamet, men i øjeblikket er jeg optaget af rekrutteringen."
+    ],
+    "c1": [
+      "Jeg ville ønske, at jeg kunne indtræde i panelet, men i øjeblikket er jeg optaget af færdiggørelsen af mit forskningsprojekt.",
+      "Jeg ville ønske, at jeg kunne påtage mig rådgivningsrollen, men i øjeblikket er jeg optaget af en strategisk revision.",
+      "Jeg ville ønske, at jeg kunne deltage i udvalgsarbejdet, men i øjeblikket er jeg optaget af en implementeringsfase.",
+      "Jeg ville ønske, at jeg kunne udarbejde rapporten, men i øjeblikket er jeg optaget af en omfattende audit.",
+      "Jeg ville ønske, at jeg kunne støtte initiativet, men i øjeblikket er jeg optaget af krisehåndtering i organisationen."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Vi kan vende tilbage til ... senere.",
+    "translation": "We can revisit ... later.",
+    "b1": [
+      "Vi kan vende tilbage til det emne senere.",
+      "Vi kan vende tilbage til spørgsmålet senere.",
+      "Vi kan vende tilbage til planen senere.",
+      "Vi kan vende tilbage til prisen senere.",
+      "Vi kan vende tilbage til ideen senere."
+    ],
+    "b2": [
+      "Vi kan vende tilbage til budgetdiskussionen senere på mødet.",
+      "Vi kan vende tilbage til detaljerne i aftalen senere på ugen.",
+      "Vi kan vende tilbage til spørgsmålet om ressourcer, når vi har flere data.",
+      "Vi kan vende tilbage til tidsplanen, når projektet er godkendt.",
+      "Vi kan vende tilbage til evalueringen senere i forløbet."
+    ],
+    "c1": [
+      "Vi kan vende tilbage til de teoretiske overvejelser, når det empiriske grundlag er plads.",
+      "Vi kan vende tilbage til drøftelsen af de strategiske målsætninger på næste seminar.",
+      "Vi kan vende tilbage til spørgsmålet om strukturændringer, når fusionen er gennemført.",
+      "Vi kan vende tilbage til analysen af de langsigtede risici på et senere tidspunkt.",
+      "Vi kan vende tilbage til dette punkt, når de juridiske afklaringer foreligger."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Jeg anbefaler at tale med ... om ...",
+    "translation": "I recommend speaking to ... about ...",
+    "b1": [
+      "Jeg anbefaler at tale med chefen om lønnen.",
+      "Jeg anbefaler at tale med lægen om problemet.",
+      "Jeg anbefaler at tale med Peter om projektet.",
+      "Jeg anbefaler at tale med lærerem om eksamen.",
+      "Jeg anbefaler at tale med receptionen om værelset."
+    ],
+    "b2": [
+      "Jeg anbefaler at tale med HR-afdelingen om dine personalegoder.",
+      "Jeg anbefaler at tale med IT-support om de tekniske vanskeligheder.",
+      "Jeg anbefaler at tale med økonomiafdelingen om budgetændringerne.",
+      "Jeg anbefaler at tale med projektlederen om tidsplanen.",
+      "Jeg anbefaler at tale med den ansvarlige rådgiver om kontraktvilkårene."
+    ],
+    "c1": [
+      "Jeg anbefaler at tale med den juridiske afdeling om de etiske og retlige implikationer.",
+      "Jeg anbefaler at tale med den faglige ekspertgruppe om de metodiske udfordringer.",
+      "Jeg anbefaler at tale med økonomidirektøren om de langsigtede kapitalkrav.",
+      "Jeg anbefaler at tale med kommunikationsstrategen om håndteringen af medierne.",
+      "Jeg anbefaler at tale med udvalgsformanden om mulighederne for dispensation."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Min prioritet lige nu er ..., så jeg må sige nej.",
+    "translation": "My priority right now is ..., so I must decline.",
+    "b1": [
+      "Min prioritet lige nu er mine studier, så jeg må sige nej.",
+      "Min prioritet lige nu er min familie, så jeg må sige nej.",
+      "Min prioritet lige nu er mit helbred, så jeg må sige nej.",
+      "Min prioritet lige nu er at færdiggøre opgaven, så jeg må sige nej.",
+      "Min prioritet lige nu er at hvile mig, så jeg må sige nej."
+    ],
+    "b2": [
+      "Min prioritet lige nu er at overholde projektfristen, så jeg må sige nej.",
+      "Min prioritet lige nu er omstruktureringen af afdelingen, så jeg må sige nej.",
+      "Min prioritet lige nu er at nedbringe arbejdsbyrden, så jeg må sige nej.",
+      "Min prioritet lige nu er fokus på vores kernekunder, så jeg må sige nej.",
+      "Min prioritet lige nu er at stabilisere driften, så jeg må sige nej."
+    ],
+    "c1": [
+      "Min prioritet lige nu er konsolideringen af vores eksisterende portefølje, så jeg må sige nej.",
+      "Min prioritet lige nu er færdiggørelsen af den strategiske handlingsplan, så jeg må sige nej.",
+      "Min prioritet lige nu er at sikre den økonomiske bæredygtighed, så jeg må sige nej.",
+      "Min prioritet lige nu er håndteringen af den igangværende omstilling, så jeg må sige nej.",
+      "Min prioritet lige nu er overholdelse af de nye regulatoriske krav, så jeg må sige nej."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Kan du venligst præcisere, hvad du mener med ...?",
+    "translation": "Could you please clarify what you mean by ...?",
+    "b1": [
+      "Kan du venligst præcisere, hvad du mener med det ord?",
+      "Kan du venligst præcisere, hvad du mener med denne regel?",
+      "Kan du venligst præcisere, hvad du mener med tidspunktet?",
+      "Kan du venligst præcisere, hvad du mener med opgaven?",
+      "Kan du venligst præcisere, hvad du mener med spørgsmålet?"
+    ],
+    "b2": [
+      "Kan du venligst præcisere, hvad du mener med en rimelig tidsramme?",
+      "Kan du venligst præcisere, hvad du mener med en fleksibel ordning?",
+      "Kan du venligst præcisere, hvad du mener med yderligere ressourcer?",
+      "Kan du venligst præcisere, hvad du mener med ændringer i strategien?",
+      "Kan du venligst præcisere, hvad du mener med det forventede resultat?"
+    ],
+    "c1": [
+      "Kan du venligst præcisere, hvad du mener med en gennemgribende strukturel tilpasning?",
+      "Kan du venligst præcisere, hvad du mener med de metodiske forudsætninger i undersøgelsen?",
+      "Kan du venligst præcisere, hvad du mener med en risikobaseret tilgang i denne kontekst?",
+      "Kan du venligst præcisere, hvad du mener med institutionel modstandsdygtighed?",
+      "Kan du venligst præcisere, hvad du mener med de langsigtede bæredygtighedskriterier?"
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Hvis du bare kunne ..., ville det være en stor hjælp.",
+    "translation": "If you could just ..., that would be a great help.",
+    "b1": [
+      "Hvis du bare kunne sende en e-mail, ville det være en stor hjælp.",
+      "Hvis du bare kunne hjælpe mig i ti minutter, ville det være en stor hjælp.",
+      "Hvis du bare kunne rydde op på bordet, ville det være en stor hjælp.",
+      "Hvis du bare kunne tjekke tiden, ville det være en stor hjælp.",
+      "Hvis du bare kunne holde døren, ville det være en stor hjælp."
+    ],
+    "b2": [
+      "Hvis du bare kunne gennemgå tallene en ekstra gang, ville det være en stor hjælp.",
+      "Hvis du bare kunne bekræfte aftalen skriftligt, ville det være en stor hjælp.",
+      "Hvis du bare kunne sende referatet til teamet, ville det være en stor hjælp.",
+      "Hvis du bare kunne opdatere dokumentet inden mødet, ville det være en stor hjælp.",
+      "Hvis du bare kunne koordinere med leverandøren, ville det være en stor hjælp."
+    ],
+    "c1": [
+      "Hvis du bare kunne udarbejde et kort beslutningsoplæg, ville det være en stor hjælp.",
+      "Hvis du bare kunne kvalitetssikre det faglige indhold i rapporten, ville det være en stor hjælp.",
+      "Hvis du bare kunne afklare de juridiske uklarheder med rådgiveren, ville det være en stor hjælp.",
+      "Hvis du bare kunne syntetisere de samlede høringssvar, ville det være en stor hjælp.",
+      "Hvis du bare kunne repræsentere vores afdeling ved styregruppemødet, ville det være en stor hjælp."
+    ]
+  }
+]

@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Ech géif Iech gär meedelen, datt ...",
+    "translation": "I'd like to inform you that ...",
+    "b1": [
+      "Ech géif Iech gär meedelen, datt de Bus muer ze spéit kënnt.",
+      "Ech géif Iech gär meedelen, datt d'Geschäft haut zou ass.",
+      "Ech géif Iech gär meedelen, datt de Rendez-vous geännert huet.",
+      "Ech géif Iech gär meedelen, datt mäi Numm Marc ass.",
+      "Ech géif Iech gär meedelen, datt de Kurs elo unfengt."
+    ],
+    "b2": [
+      "Ech géif Iech gär meedelen, datt d'Dokumenter elo komplett sinn.",
+      "Ech géif Iech gär meedelen, datt d'Versammlung op de nächste Méindeg verlegt gouf.",
+      "Ech géif Iech gär meedelen, datt mir eng nei Léisung fonnt hunn.",
+      "Ech géif Iech gär meedelen, datt Är Ufro mat Erfolleg veraarbecht gouf.",
+      "Ech géif Iech gär meedelen, datt eis Prozeduren geännert goufen."
+    ],
+    "c1": [
+      "Ech géif Iech gär meedelen, datt déi nei Direktiven ab direktem Effekt a Kraaft treten.",
+      "Ech géif Iech gär meedelen, datt déi juridisch Iwwerpréiwung keng Onreegelméissegkeeten opgewisen huet.",
+      "Ech géif Iech gär meedelen, datt d'Finanzéierung vun der Infrastruktur definitiv geséchert ass.",
+      "Ech géif Iech gär meedelen, datt déi strategesch Allianz tëscht de Sektoren elo offiziell ass.",
+      "Ech géif Iech gär meedelen, datt eng grëndlech Evaluatioun vun de Risiken duerchgefouert gouf."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Dat wichtegst Resultat hei ass, datt ...",
+    "translation": "The key takeaway here is ...",
+    "b1": [
+      "Dat wichtegst Resultat hei ass, datt d'Aarbecht fäerdeg ass.",
+      "Dat wichtegst Resultat hei ass, datt de Preis ganz gutt ass.",
+      "Dat wichtegst Resultat hei ass, datt mir vill Zäit hunn.",
+      "Dat wichtegst Resultat hei ass, datt d'Wieder schéin bleift.",
+      "Dat wichtegst Resultat hei ass, datt jiddereen glécklech ass."
+    ],
+    "b2": [
+      "Dat wichtegst Resultat hei ass, datt d'Zefriddenheet vun de Clienten gestiegen ass.",
+      "Dat wichtegst Resultat hei ass, datt mir d'Käschten däitlech senke konnten.",
+      "Dat wichtegst Resultat hei ass, datt eis Ekipp méi effizient schafft.",
+      "Dat wichtegst Resultat hei ass, datt de Sektor sech séier entwéckelt.",
+      "Dat wichtegst Resultat hei ass, datt mir d meescht Feeler vermidde kënnen."
+    ],
+    "c1": [
+      "Dat wichtegst Resultat hei ass, datt eng nohalteg Restrukturéierung onëmgaangbar ass.",
+      "Dat wichtegst Resultat hei ass, datt déi laangfristeg Stabilitéit vum Maart geséchert ginn ass.",
+      "Dat wichtegst Resultat hei ass, datt déi digital Transformation nei Kompetenzen verlaangt.",
+      "Dat wichtegst Resultat hei ass, datt déi strukturell Schwächen direkt behuewen musse ginn.",
+      "Dat wichtegst Resultat hei ass, datt d'Konsolidéierung vun de Ressourcen de Schlëssel zum Erfolleg ass."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Fir ze klären, ech mengen ...",
+    "translation": "To clarify, I mean ...",
+    "b1": [
+      "Fir ze klären, ech mengen de Plang fir muer.",
+      "Fir ze klären, ech mengen dëse klenge Vëlo.",
+      "Fir ze klären, ech mengen de Wee iwwer de Park.",
+      "Fir ze klären, ech mengen d'Haus um Eck.",
+      "Fir ze klären, ech mengen déi nei E-Mail."
+    ],
+    "b2": [
+      "Fir ze klären, ech mengen déi nei Strategie fir dat nächst Joer.",
+      "Fir ze klären, ech mengen d'Upassung vum aktuellen Budget.",
+      "Fir ze klären, ech mengen de Verkaf vun den alen Equipementer.",
+      "Fir ze klären, ech mengen eng zousätzlech Schoulung fir d'Personal.",
+      "Fir ze klären, ech mengen eng Verbesserung vun der interner Kommunikatioun."
+    ],
+    "c1": [
+      "Fir ze klären, ech mengen d'Nohaltegkeet vun den ewigen Investitiounsentscheedungen.",
+      "Fir ze klären, ech mengen déi paradigmatesch Verännerung am Konsumverhalen.",
+      "Fir ze klären, ech mengen eng substantiell Upassung vun de reglementaresche Kaderen.",
+      "Fir ze klären, ech mengen déi konzeptuell Reorganisatioun vun der Infrastruktur.",
+      "Fir ze klären, ech mengen d'Optiméierung vun den dezentraliséierten Entscheedungsprozesser."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Laut dem Rapport, ...",
+    "translation": "According to the report, ...",
+    "b1": [
+      "Laut dem Rapport, ass d'Wieder muer ganz gutt.",
+      "Laut dem Rapport, ass de Preis fir den Auto ze héich.",
+      "Laut dem Rapport, kënnt de Zuch um fënnef Auer.",
+      "Laut dem Rapport, hunn d'Schüler gutt Noten.",
+      "Laut dem Rapport, ass d'Stad ganz sécher."
+    ],
+    "b2": [
+      "Laut dem Rapport, ass de Verkaf dëst Trimester däitlech geklommen.",
+      "Laut dem Rapport, sinn d'Ausgaben fir Energie ze grouss.",
+      "Laut dem Rapport, feelt et un qualifizéiertem Personal am Land.",
+      "Laut dem Rapport, sinn d'Clienten ganz zefridden mat den neie Servicer.",
+      "Laut dem Rapport, muss de Projet virum Enn vum Joer fäerdeg sinn."
+    ],
+    "c1": [
+      "Laut dem Rapport, ass eng makroekonomesch Instabilitéit am nächste Quartal ze erwaarden.",
+      "Laut dem Rapport, huet d'Digitaliséierung en irreversibelen Impakt op de Aarbechtsmaart.",
+      "Laut dem Rapport, sinn déi strukturell Mängel an der Verwaltung d'Ursaach fir déi Retarden.",
+      "Laut dem Rapport, ass eng grëndlech Revisioun vun den Ëmweltstandarden dréngend néideg.",
+      "Laut dem Rapport, lafen déi finansielle Verpflichtungen zevill op laang Siicht."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Loss mech dat anescht formuléieren: ...",
+    "translation": "Let me rephrase that: ...",
+    "b1": [
+      "Loss mech dat anescht formuléieren: mir bunn haut keng Zäit.",
+      "Loss mech dat anescht formuléieren: de Kaddo ass net hei.",
+      "Loss mech dat anescht formuléieren: mir goen muer spadséieren.",
+      "Loss mech dat anescht formuléieren: ech brauche méi Hëllef.",
+      "Loss mech dat anescht formuléieren: de Bus ass schonn fort."
+    ],
+    "b2": [
+      "Loss mech dat anescht formuléieren: d'Prioritéit läit op der Sécherheet vun de Clienten.",
+      "Loss mech dat anescht formuléieren: mir mussen eise Budget méi streng kontrolléieren.",
+      "Loss mech dat anescht formuléieren: d'Zesummenaarbecht ass essentiell fir den Erfolleg.",
+      "Loss mech dat anescht formuléieren: d'Frist fir d'Uwendung ass elo eriwwer.",
+      "Loss mech dat anescht formuléieren: dës Léisung ass méi bëlleg a méi séier."
+    ],
+    "c1": [
+      "Loss mech dat anescht formuléieren: eng strategesch Neiausrichtung vun der Entreprise ass direkt erfuerderlech.",
+      "Loss mech dat anescht formuléieren: d'Synthes vun dësen zwee Usätz bitt déi optimal Léisung.",
+      "Loss mech dat anescht formuléieren: ouni eng substantiell Reform verléieren mir eis Kompetitivitéit.",
+      "Loss mech dat anescht formuléieren: d'Effizienz vun eisem Handele hänkt vun der Transparenz of.",
+      "Loss mech dat anescht formuléieren: déi potenziell Risiken iwwerweien déi kuerzfristeg Virdeeler."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Wat ech soe wollt, war ...",
+    "translation": "What I meant to say was ...",
+    "b1": [
+      "Wat ech soe wollt, war datt d'E-Mail geschéckt ass.",
+      "Wat ech soe wollt, war datt mir muer treffen.",
+      "Wat ech soe wollt, war datt ech doheem sinn.",
+      "Wat ech soe wollt, war datt d'Iessen gutt schmeckt.",
+      "Wat ech soe wollt, war datt mir kee Broder méi hunn."
+    ],
+    "b2": [
+      "Wat ech soe wollt, war datt de Plang un déi nei Konditiounen ugepasst muss ginn.",
+      "Wat ech soe wollt, war datt d'Personal méi Ënnerstëtzung brauch.",
+      "Wat ech soe wollt, war datt mir eng täschesch Léisung feelen hunn.",
+      "Wat ech soe wollt, war datt den Devis nach net definitiv ass.",
+      "Wat ech soe wollt, war datt déi lescht Entscheedung beim Chefe läit."
+    ],
+    "c1": [
+      "Wat ech soe wollt, war datt déi methodologesch Feeler d'Validitéit vun de Resultater a Fro stellen.",
+      "Wat ech soe wollt, war datt déi gesellschaftlech Entwécklung eis Viraussiicht iwwertraff huet.",
+      "Wat ech soe wollt, war datt d'Gestioun vun de Krisen eng kohärent Kommunikatioun verlaangt.",
+      "Wat ech soe wollt, war datt mir déi ethnesch Implikatioune net vernoléissegen däerfen.",
+      "Wat ech soe wollt, war datt d'Komplexitéit vun der Lag eng méi déif Analyse erfuerdert."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Den aktuellen Statut ass, datt ...",
+    "translation": "The current status is that ...",
+    "b1": [
+      "Den aktuellen Statut ass, datt d'Aarbecht leeft.",
+      "Den aktuellen Statut ass, datt de Bus kënnt.",
+      "Den aktuellen Statut ass, datt mir prett sinn.",
+      "Den aktuellen Statut ass, datt alles roueg ass.",
+      "Den aktuellen Statut ass, datt de Kaddo gewielt ass."
+    ],
+    "b2": [
+      "Den aktuellen Statut ass, datt d'Verhandlungen mat de Partneren nach lafen.",
+      "Den aktuellen Statut ass, datt den éischte Entwurf vum Bericht fäerdeg ass.",
+      "Den aktuellen Statut ass, datt mir op déi offiziell Genehmegung waarden.",
+      "Den aktuellen Statut ass, datt de System ouni Feeler funktionéiert.",
+      "Den aktuellen Statut ass, datt den Devis vum Client ugeholl gouf."
+    ],
+    "c1": [
+      "Den aktuellen Statut ass, datt déi lafend Auditë nach keng Mängel opgedeckt hunn.",
+      "Den aktuellen Statut ass, datt d'Integritéit vun den Donnéeën vollkommen geséchert ass.",
+      "Den aktuellen Statut ass, datt d'Konditioune vum Kontrakt nei verhandelt ginn.",
+      "Den aktuellen Statut ass, datt d'Restrukturéierungsphase wéi geplangt virun dréit.",
+      "Den aktuellen Statut ass, datt déi diplomatesch Gespréicher eng Positiv Wendung huelen."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "An anere Wierder, ...",
+    "translation": "In other words, ...",
+    "b1": [
+      "An anere Wierder, mir bleiwen doheem.",
+      "An anere Wierder, dat ass ze deier.",
+      "An anere Wierder, hien ass ganz midd.",
+      "An anere Wierder, dat Spill ass eriwwer.",
+      "An anere Wierder, meescht Léisung ass einfach."
+    ],
+    "b2": [
+      "An anere Wierder, mir mussen d'Käschten esou séier wéi méiglech reduzéieren.",
+      "An anere Wierder, de Projet huet eng Verspéidung vun zwei Wochen.",
+      "An anere Wierder, d'Clienten sinn net ganz mat de Resultater zefridden.",
+      "An anere Wierder, d'Organisatioun brauch eng komplett Neiorientéierung.",
+      "An anere Wierder, mir mussen déi nei Software séier implementéieren."
+    ],
+    "c1": [
+      "An anere Wierder, déi bestehend Reguléierung bitt keng adequat Léisung fir de Problem.",
+      "An anere Wierder, déi geplangt Moossnamen sinn net genuch fir d'Nohaltegkeet ze garantéieren.",
+      "An anere Wierder, déi finanziell Interdependenzen maachen d'Situatioun extrem komplex.",
+      "An anere Wierder, eng nei Evalatioun vun de systemesche Risiken ass onëmgaangbar.",
+      "An anere Wierder, d'Erosioun vum Vertrauen huet déifgräifend Auswierkungen op de Maart."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Just fir sécher ze sinn, datt mir um selwechten Niveau sinn, ...",
+    "translation": "Just to make sure we're on the same page, ...",
+    "b1": [
+      "Just fir sécher ze sinn, datt mir um selwechten Niveau sinn, mir treffen eis um sechs.",
+      "Just fir sécher ze sinn, datt mir um selwechten Niveau sinn, den Zuch fährst elo.",
+      "Just fir sécher ze sinn, datt mir um selwechten Niveau sinn, du méchs den Tee.",
+      "Just fir sécher ze sinn, datt mir um selwechten Niveau sinn, de Schlëssel läit do.",
+      "Just fir sécher ze sinn, datt mir um selwechten Niveau sinn, de Park ass op."
+    ],
+    "b2": [
+      "Just fir sécher ze sinn, datt mir um selwechten Niveau sinn, d'Frist ass den neie Freideg.",
+      "Just fir sécher ze sinn, datt mir um selwechten Niveau sinn, de Budget bleift onverännert.",
+      "Just fir sécher ze sinn, datt mir um selwechten Niveau sinn, d'Verantwortung läit bei Iech.",
+      "Just fir sécher ze sinn, datt mir um selwechten Niveau sinn, de Rapport muss muer geschéckt ginn.",
+      "Just fir sécher ze sinn, datt mir um selwechten Niveau sinn, d'Ekipp schafft vum Homeoffice aus."
+    ],
+    "c1": [
+      "Just fir sécher ze sinn, datt mir um selwechten Niveau sinn, d'Zil ass d'Harmoniséierung vun de Prozeduren.",
+      "Just fir sécher ze sinn, datt mir um selwechten Niveau sinn, déi nei Stratégie verlaangt eng voll Transparenz.",
+      "Just fir sécher ze sinn, datt mir um selwechten Niveau sinn, déi juridisch Bedéngungen si strikt anzehalen.",
+      "Just fir sécher ze sinn, datt mir um selwechten Niveau sinn, d'Mëttel ginn nëmmen no der Audit-Validéierung fräigeginn.",
+      "Just fir sécher ze sinn, datt mir um selwechten Niveau sinn, déi laangfristeg Metriken ginn am September ugepasst."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Dat bestätegt, datt ...",
+    "translation": "This confirms that ...",
+    "b1": [
+      "Dat bestätegt, datt de Plang gutt ass.",
+      "Dat bestätegt, datt den Auto neit ass.",
+      "Dat bestätegt, datt d'Sonn muer schéngt.",
+      "Dat bestätegt, datt mir fäerdeg sinn.",
+      "Dat bestätegt, datt d'Sprooch einfach ass."
+    ],
+    "b2": [
+      "Dat bestätegt, datt eis Marketingstrategie ganz erfolgreich war.",
+      "Dat bestätegt, datt d'Ausgaben méi héich si wéi mir erwaart haten.",
+      "Dat bestätegt, datt d'Clienten déi nei Funktioune vun der App schätzen.",
+      "Dat bestätegt, datt d'Iwwerpréiwung vun de Dokumenter néideg war.",
+      "Dat bestätegt, datt mir op deem richtegen Wee sinn."
+    ],
+    "c1": [
+      "Dat bestätegt, datt déi virdrun opgestallt Hypothes duerch d'Donnéeën gestäipt gëtt.",
+      "Dat bestätegt, datt déi strukturell Mängel an der Organisatioun laangfristeg Auswierkungen hunn.",
+      "Dat bestätegt, datt d'Maartdynamik sech däitlech zugonschte vun den neie Sektoren verännert.",
+      "Dat bestätegt, datt d'Verstäerkung vun de Sécherheetsmesuren absolut noutwendeg war.",
+      "Dat bestätegt, datt déi intern Reorganisatioun zu enger méi héijer Produktivitéit geféiert huet."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Erlabt mir méi am Detail iwwer ... ze schwätzen.",
+    "translation": "Allow me to elaborate on ...",
+    "b1": [
+      "Erlabt mir méi am Detail iwwer mäin Hobby ze schwätzen.",
+      "Erlabt mir méi am Detail iwwer dës Rees ze schwätzen.",
+      "Erlabt mir méi am Detail iwwer d meescht Buch ze schwätzen.",
+      "Erlabt mir méi am Detail iwwer de Spill-Plang ze schwätzen.",
+      "Erlabt mir méi am Detail iwwer dat neit Haus ze schwätzen."
+    ],
+    "b2": [
+      "Erlabt mir méi am Detail iwwer déi nei Prozeduren an eisem Departement ze schwätzen.",
+      "Erlabt mir méi am Detail iwwer déi finanziell Resultater vun dësem Trimester ze schwätzen.",
+      "Erlabt mir méi am Detail iwwer d meescht Virdeeler vun dësem System ze schwätzen.",
+      "Erlabt mir méi am Detail iwwer déi geplangte Marketing-Aktioune ze schwätzen.",
+      "Erlabt mir méi am Detail iwwer d'Ufuerderunge fir dës Positioun ze schwätzen."
+    ],
+    "c1": [
+      "Erlabt mir méi am Detail iwwer déi epistemologesch Grundlagen vun eiser Studie ze schwätzen.",
+      "Erlabt mir méi am Detail iwwer déi geopolitesch Implikatioune vun dësem Ofkommes ze schwätzen.",
+      "Erlabt mir méi am Detail iwwer déi komplexe Reorganisatiounsprozesser ze schwätzen.",
+      "Erlabt mir méi am Detail iwwer déi strategesch Diversifikatioun vun de Portfolioen ze schwätzen.",
+      "Erlabt mir méi am Detail iwwer déi interdisziplinär Zesummenaarbecht an dëser Phaz ze schwätzen."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Déi eenzel Detailer sinn hei hei folgend: ...",
+    "translation": "The details are as follows: ...",
+    "b1": [
+      "Déi eenzel Detailer sinn hei folgend: mir startem um néng Auer.",
+      "Déi eenzel Detailer sinn hei folgend: d'Kaart kost zéng Euro.",
+      "Déi eenzel Detailer sinn hei folgend: dat Iessen ass frësch.",
+      "Déi eenzel Detailer sinn hei folgend: de Bus stoppt hei.",
+      "Déi eenzel Detailer sinn hei folgend: d'Zëmmer ass propper."
+    ],
+    "b2": [
+      "Déi eenzel Detailer sinn hei folgend: d'Projet fängt de nächste Mount un an dauert zwee Joer.",
+      "Déi eenzel Detailer sinn hei folgend: d'Konditioune gi vum 1. Januar un ugepasst.",
+      "Déi eenzel Detailer sinn hei folgend: all d'Participante mussen sech online registréieren.",
+      "Déi eenzel Detailer sinn hei folgend: de Budget gëtt tëscht de Vertrieder opgeteilt.",
+      "Déi eenzel Detailer sinn hei folgend: déi neie Regele gëllen fir all d'Departementer."
+    ],
+    "c1": [
+      "Déi eenzel Detailer sinn hei folgend: d'Spezifikatioune verlaangen eng méi héich Präzisioun an de Messungen.",
+      "Déi eenzel Detailer sinn hei folgend: déi juridisch Bestëmmunge ginn an dräi Phasen ëmgesat.",
+      "Déi eenzel Detailer sinn hei folgend: d'Risikoallokatioun ass am Kontrakt präzis festgeluecht.",
+      "Déi eenzel Detailer sinn hei folgend: d'Tranchë vun de Subventioune ginn no Audit fräigeghallt.",
+      "Déi eenzel Detailer sinn hei folgend: d'Evaluatiounskriiterie goufen grondleeënd nei strukturéiert."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "De wichtegen Punkt hei ass net ..., mee ...",
+    "translation": "The important point here is not ..., but ...",
+    "b1": [
+      "De wichtegen Punkt hei ass net de Präis, mee d'Qualitéit.",
+      "De wichtegen Punkt hei ass net d'Zäit, mee d'Aarbecht.",
+      "De wichtegen Punkt hei ass net de Wee, mee d'Zil.",
+      "De wichtegen Punkt hei ass net d'Wieder, mee d meescht Laun.",
+      "De wichtegen Punkt hei ass net den Auto, mee d'Sécherheet."
+    ],
+    "b2": [
+      "De wichtegen Punkt hei ass net déi kuerzfristeg Luucht, mee de laangfristege Verkaf.",
+      "De wichtegen Punkt hei ass net de Mangel u Ressourcen, mee d'Gestioun dovun.",
+      "De wichtegen Punkt hei ass net déi eenzel Form, mee déi ganz Funktionalitéit.",
+      "De wichtegen Punkt hei ass net de Feeler selwer, mee wéi mir doratt léieren.",
+      "De wichtegen Punkt hei ass net d meescht Vitesse, mee déi héich Präzisioun."
+    ],
+    "c1": [
+      "De wichtegen Punkt hei ass net déi Rengheet vun der Theorie, mee hir pragmatesch Uwendbarkeet.",
+      "De wichtegen Punkt hei ass net déi quantitative Quantitéit, mee déi qualitative Relevanz vun den Donnéeën.",
+      "De wichtegen Punkt hei ass net de konzeptuellen Diskurs, mee déi reell Auswierkung op d'Bevëlkerung.",
+      "De wichtegen Punkt hei ass net d'Sichen no Schuldigen, mee d'Identifikatioun vun de Systemfeeler.",
+      "De wichtegen Punkt hei ass net déi eleng Effizienz, mee déi vollkomm an deetlech Nohaltegkeet."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Als Beispill, iwwerleet Iech ...",
+    "translation": "For example, consider ...",
+    "b1": [
+      "Als Beispill, iwwerleet Iech d'Wieder am Summer.",
+      "Als Beispill, iwwerleet Iech d'Aarbecht an engem Saz.",
+      "Als Beispill, iwwerleet Iech d'Liewen an enger klenger Stad.",
+      "Als Beispill, iwwerleet Iech d'Benotze vum Vëlo.",
+      "Als Beispill, iwwerleet Iech d'Léiere vun enger neuer Sprooch."
+    ],
+    "b2": [
+      "Als Beispill, iwwerleet Iech déi nei Entwécklungen am Beräich vun den erneierbare Energien.",
+      "Als Beispill, iwwerleet Iech d'Verännerung vun de Konsumgewunnechten duerch den E-Commerce.",
+      "Als Beispill, iwwerleet Iech d'Aféierung vun der Vier-Deeg-Woch an aneren Entreprisen.",
+      "Als Beispill, iwwerleet Iech den Impakt vu flexiblen Aarbechtszäiten op d'Produktivitéit.",
+      "Als Beispill, iwwerleet Iech d'Nohaltegkeet vun de lokalen Versuergungsketten."
+    ],
+    "c1": [
+      "Als Beispill, iwwerleet Iech déi komplex Implikatioune vun der künstlecher Intelligenz op den Aarbechtsmaart.",
+      "Als Beispill, iwwerleet Iech déi déifgräifend Demographesch Verännerungen an den entwéckelte Natiounen.",
+      "Als Beispill, iwwerleet Iech d'Akwécklung vu gréngen Technologien an de globale Mäert.",
+      "Als Beispill, iwwerleet Iech déi systemic Risiken duerch déi interkonnektéiert Finanzmäert.",
+      "Als Beispill, iwwerleet Iech d'Paradoxon vun der Informatiounsiwwerlaaschtung an der moderner Kommunikatioun."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "D'Fazit ass, datt ...",
+    "translation": "The bottom line is ...",
+    "b1": [
+      "D'Fazit ass, datt mir kee Geld méi hunn.",
+      "D'Fazit ass, datt d meescht Aarbecht gemaach ass.",
+      "D'Fazit ass, datt de Plang klappt.",
+      "D'Fazit ass, datt de Spill gutt war.",
+      "D'Fazit ass, datt d'Zäit ëm ass."
+    ],
+    "b2": [
+      "D'Fazit ass, datt dëse Projet e grousse wirtschaftlechen Erfolleg fir d'Firma ass.",
+      "D'Fazit ass, datt mir méi Ressourcen an d meescht Fuerschung investéiere mussen.",
+      "D'Fazit ass, datt déi nei Stratégie eis Competitivitéit um Maart stäerkt.",
+      "D'Fazit ass, datt d'Aarbechtskonditioune vun der Ekipp verbessert gi mussen.",
+      "D'Fazit ass, datt d'Zefriddenheet vun de Clienten eis héchst Prioritéit bleift."
+    ],
+    "c1": [
+      "D'Fazit ass, datt ouni eng substantiell Restrukturéierung d'Iwwerliewe vun der Entreprise geféierdet ass.",
+      "D'Fazit ass, datt déi makroekonomesch Gegebenheeten eng Adaptatioun vun eise Strategien erfuerderen.",
+      "D'Fazit ass, datt d'Nohaltegkeet de fundamentele Feiler vun eiser zukünftger Entwécklung bilden muss.",
+      "D'Fazit ass, datt déi systemesch Risiken duerch eng rigoréis Gestioun miniméiert gi mussen.",
+      "D'Fazit ass, datt déi interdisziplinär Zesummenaarbecht de Schlëssel fir d'Innovatioun duerstellt."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Loss eis déi wichtegst Erkenntnesser iwwerpréiwen: ...",
+    "translation": "Let's review the main findings: ...",
+    "b1": [
+      "Loss eis déi wichtegst Erkenntnesser iwwerpréiwen: de Preis ass gutt.",
+      "Loss eis déi wichtegst Erkenntnesser iwwerpréiwen: d'Aarbecht ass séier.",
+      "Loss eis déi wichtegst Erkenntnesser iwwerpréiwen: d'Wieder war schéin.",
+      "Loss eis déi wichtegst Erkenntnesser iwwerpréiwen: de Wee ass laang.",
+      "Loss eis déi wichtegst Erkenntnesser iwwerpréiwen: d'Schoul war interessant."
+    ],
+    "b2": [
+      "Loss eis déi wichtegst Erkenntnesser iwwerpréiwen: d'Nofro um Maart ass staark gestiegen.",
+      "Loss eis déi wichtegst Erkenntnesser iwwerpréiwen: d'Mataarbechter sinn mat de neien Aarbechtszäite zefridden.",
+      "Loss eis déi wichtegst Erkenntnesser iwwerpréiwen: d meescht Online-Presenz muss nach verbessert ginn.",
+      "Loss eis déi wichtegst Erkenntnesser iwwerpréiwen: de Budget gouf fir dëst Joer vollkommen respektéiert.",
+      "Loss eis déi wichtegst Erkenntnesser iwwerpréiwen: d'Qualitéit vun de Produkter ass konstant gebrach."
+    ],
+    "c1": [
+      "Loss eis déi wichtegst Erkenntnesser iwwerpréiwen: déi empíresch Donnéeën stäipen d'Haapthypothes vun der Studie.",
+      "Loss eis déi wichtegst Erkenntnesser iwwerpréiwen: d'Ineffizienz an de Prozesser ass op strukturell Mängel zréckzuführen.",
+      "Loss eis déi wichtegst Erkenntnesser iwwerpréiwen: déi laangfristeg Investitioune weisen eng héich Rentabilitéit op.",
+      "Loss eis déi wichtegst Erkenntnesser iwwerpréiwen: d'Aféierung vun den neien Technologien huet d'Produktivitéit verdoppelt.",
+      "Loss eis déi wichtegst Erkenntnesser iwwerpréiwen: déi geographesch Expansioun mécht nei Mäert op."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Fir d'Situatioun zesummenzefaassen, ...",
+    "translation": "To sum up the situation, ...",
+    "b1": [
+      "Fir d'Situatioun zesummenzefaassen, alles ass gutt gelaf.",
+      "Fir d'Situatioun zesummenzefaassen, mir sinn ze spéit kënnt.",
+      "Fir d'Situatioun zesummenzefaassen, dat neit Haus ass fantastesch.",
+      "Fir d'Situatioun zesummenzefaassen, de Test war einfach.",
+      "Fir d'Situatioun zesummenzefaassen, mir hunn vill Zäit geschafft."
+    ],
+    "b2": [
+      "Fir d'Situatioun zesummenzefaassen, de Projet ass um richtege Wee trotz de schwieregen Bedingungen.",
+      "Fir d'Situatioun zesummenzefaassen, déi nei Moossnamen hunn positiv Resultater gewisen.",
+      "Fir d'Situatioun zesummenzefaassen, mir mussen d'Käschten an der neier Phase reduzéieren.",
+      "Fir d'Situatioun zesummenzefaassen, d'Zefriddenheet vun de Clienten ass dëst Joer méi héich.",
+      "Fir d'Situatioun zesummenzefaassen, d'Equipe huet all hir Zilsetzunge mat Success erreecht."
+    ],
+    "c1": [
+      "Fir d'Situatioun zesummenzefaassen, déi strategesch Reorganisatioun huet d meescht Effizienz vun de Prozesser verbessert.",
+      "Fir d'Situatioun zesummenzefaassen, d'Gestioun vu Risiken verlaangt eng lafend Iwwerwaachung vun der Mäert.",
+      "Fir d'Situatioun zesummenzefaassen, déi finanziell Restrukturéierung huet déi néideg Liquiditéit geséchert.",
+      "Fir d'Situatioun zesummenzefaassen, déi politesch Reformen bidden nei Geleeënheeten fir de Sektor.",
+      "Fir d'Situatioun zesummenzefaassen, déi wëssenschaftlech Fortschrëtter erlaben eng méi präzis Analyse."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Mäi Verständnis ass, datt ...",
+    "translation": "My understanding is that ...",
+    "b1": [
+      "Mäi Verständnis ass, datt de Meeting um zéng Auer ass.",
+      "Mäi Verständnis ass, datt meescht Aarbecht fäerdeg ass.",
+      "Mäi Verständnis ass, datt d'Kaart am Auto läit.",
+      "Mäi Verständnis ass, datt meescht Sonn muer schéngt.",
+      "Mäi Verständnis ass, datt d'Buch interessant ass."
+    ],
+    "b2": [
+      "Mäi Verständnis ass, datt déi nei Reguléierung fir alleguer d meescht Mataarbechter gëllt.",
+      "Mäi Verständnis ass, datt den Devis vum Direkter genehmegt gouf.",
+      "Mäi Verständnis ass, datt mir d'Resultater nach dës Woch kréien.",
+      "Mäi Verständnis ass, datt d meescht Schoulung fir déi nei Mataarbechter obligatoresch ass.",
+      "Mäi Verständnis ass, datt déi lafend Verhandlungen séier en Enn fannen."
+    ],
+    "c1": [
+      "Mäi Verständnis ass, datt déi nei Directiven d'Transparenz an de Finanztransaktiounen erhéijen sollen.",
+      "Mäi Verständnis ass, datt déi konzeptuell Lücken am Gesetzgebungsprozess geschwënn zougemaach ginn.",
+      "Mäi Verständnis ass, datt d'Aféierung vum neie System e reibungslose Iwwergang garantéiere soll.",
+      "Mäi Verständnis ass, datt déi wëssenschaftlech Donnéeën eng kloer Richtung fir déi nei Politik virginn.",
+      "Mäi Verständnis ass, datt déi strategesch Allianz eis Positionéierung um globale Maart stäerkt."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Just fir kloer ze sinn, ...",
+    "translation": "Just to be clear, ...",
+    "b1": [
+      "Just fir kloer ze sinn, mir fänken muer un.",
+      "Just fir kloer ze sinn, dëst ass mäi Stull.",
+      "Just fir kloer ze sinn, ech ginn elo heem.",
+      "Just fir kloer ze sinn, dat Iessen ass net gratis.",
+      "Just fir kloer ze sinn, de Bus fährst um fënnef."
+    ],
+    "b2": [
+      "Just fir kloer ze sinn, mir akzeptéieren keng Verspレーidungen bei den Dokumenter.",
+      "Just fir kloer ze sinn, d'Entscheedung ass fir déi ganzer Ekipp bindend.",
+      "Just fir kloer ze sinn, d'Budget muss strikt agehale ginn.",
+      "Just fir kloer ze sinn, dës Moossnam ass op zwee Méint limitéiert.",
+      "Just fir kloer ze sinn, d'Responsabilitéit läit ganz bei den eenzelne Departementer."
+    ],
+    "c1": [
+      "Just fir kloer ze sinn, meescht Non-Konformitéit mat den neie Regele féiert zu direkte Sanktiounen.",
+      "Just fir kloer ze sinn, d'Validitéit vum Kontrakt hänkt vun der Erfëllung vun alle Klauselen ab.",
+      "Just fir kloer ze sinn, déi stratégesch Ausrichtung erfuerdert eng voll Engagement vu jidderengem.",
+      "Just fir kloer ze sinn, keng Täsch fir täschesch Kompromisser existéiert an dëser Sécherheetsfro.",
+      "Just fir kloer ze sinn, d'Prozedur verlaangt eng minuziéis Dokumentatioun vun allen Operatiounen."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Dat schlussendlecht Resultat war ...",
+    "translation": "The final outcome was ...",
+    "b1": [
+      "Dat schlussendlecht Resultat war ganz gutt.",
+      "Dat schlussendlecht Resultat war de Gewënn vum Spill.",
+      "Dat schlussendlecht Resultat war eng nei Iddi.",
+      "Dat schlussendlecht Resultat war d'Aarbecht z'erreechen.",
+      "Dat schlussendlecht Resultat war eng schéi Vakanz."
+    ],
+    "b2": [
+      "Dat schlussendlecht Resultat war eng substantiell Erhéijung vun de Verkafszuelen.",
+      "Dat schlussendlecht Resultat war eng erfolgreich Ëmsetzung vum neie Projet.",
+      "Dat schlussendlecht Resultat war eng Verbesserung vun der Zesummenaarbecht am Team.",
+      "Dat schlussendlecht Resultat war eng séier Eenegung mat de Clienten.",
+      "Dat schlussendlecht Resultat war eng Reduktioun vun den alldeeglechen Ausgaben."
+    ],
+    "c1": [
+      "Dat schlussendlecht Resultat war eng komplett Neiorientéierung vun der laangfristeger Unternehmenspolitik.",
+      "Dat schlussendlecht Resultat war eng substantiell Stäerkung vun eiser Positioun um internationale Maart.",
+      "Dat schlussendlecht Resultat war d'Harmoniséierung vun de juristesche Kaderen iwwer d'Grenzen hinweg.",
+      "Dat schlussendlecht Resultat war d'Schafung vun enger nohalteger a méi ressilienter Organisatiounsstruktur.",
+      "Dat schlussendlecht Resultat war d'Validéierung vun eise wëssenschaftleche Fuerschungsmethoden."
+    ]
+  }
+]

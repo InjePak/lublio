@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Om vi ..., så kommer vi att ...",
+    "translation": "If we ..., then we will ...",
+    "b1": [
+      "Om vi skyndar oss, så kommer vi att hinna med bussen.",
+      "Om vi sparar pengar, så kommer vi att kunna resa i sommar.",
+      "Om vi tränar mycket, så kommer vi att mår bättre.",
+      "Om vi pluggar tillsammans, så kommer vi att klara provet.",
+      "Om vi äter nu, så kommer vi att vara mätta hela kvällen."
+    ],
+    "b2": [
+      "Om vi samarbetar mer, så kommer vi att nå vårt mål snabbare.",
+      "Om vi sänker priserna, så kommer vi att locka fler kunder.",
+      "Om vi byter strategi, så kommer vi att undvika framtida problem.",
+      "Om vi investerar i ny teknik, så kommer vi att bli effektivare.",
+      "Om vi förbättrar kommunikationen, så kommer vi att minska alla missförstånd."
+    ],
+    "c1": [
+      "Om vi effektiviserar våra interna processer, så kommer vi att stärka vår konkurrenskraft avsevärt.",
+      "Om vi bortser från riskerna, så kommer vi att äventyra hela projektets stabilitet.",
+      "Om vi genomför dessa reformer, så kommer vi att skapa långsiktig tillväxt.",
+      "Om vi misslyckas med att anpassa oss, så kommer vi att förlora vår marknadsposition.",
+      "Om vi prioriterar hållbarhet, så kommer vi att säkra vår relevans i branschen."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Vad skulle hända om ...?",
+    "translation": "What would happen if ...?",
+    "b1": [
+      "Vad skulle hända om det regnar i morgon?",
+      "Vad skulle hända om vi kommer för sent?",
+      "Vad skulle hända om jag tappar min telefon?",
+      "Vad skulle hända om bussen ställs in?",
+      "Vad skulle hända om vi inte har tillräckligt med mat?"
+    ],
+    "b2": [
+      "Vad skulle hända om vi missar vår viktiga deadline?",
+      "Vad skulle hända om budgeten inte räcker till hela projektet?",
+      "Vad skulle hända om kunden avbryter kontraktet?",
+      "Vad skulle hända om strömmen går under presentationen?",
+      "Vad skulle hända om vi ändrar reglerna helt och hållet?"
+    ],
+    "c1": [
+      "Vad skulle hända om de globala leveranskedjorna kollapsade helt?",
+      "Vad skulle hända om inflationen fortsätter att stiga i den här takten?",
+      "Vad skulle hända om regleringarna skärps avsevärt nästa år?",
+      "Vad skulle hända om styrelsen avslår förslaget utan vidare diskussion?",
+      "Vad skulle hända om den nya teknologin gör vår affärsmodell föråldrad?"
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Om resultatet blir ..., måste vi ...",
+    "translation": "Should the outcome be ..., we must ...",
+    "b1": [
+      "Om resultatet blir dåligt, måste vi försöka igen.",
+      "Om resultatet blir bra, måste vi fira tillsammans.",
+      "Om resultatet blir nej, måste vi hitta en annan lösning.",
+      "Om resultatet blir för dyrt, måste vi spara mer.",
+      "Om resultatet blir försenat, måste vi vänta lite till."
+    ],
+    "b2": [
+      "Om resultatet blir negativt, måste vi omvärdera hela vår tidsplan.",
+      "Om resultatet blir osäkert, måste vi göra ytterligare taster.",
+      "Om resultatet blir framgångsrikt, måste vi utöka vår kapacitet.",
+      "Om resultatet blir överraskande, måste vi analysera orsakerna noga.",
+      "Om resultatet blir otillräckligt, måste vi be om mer resurser."
+    ],
+    "c1": [
+      "Om resultatet blir otillfredsställande, måste vi omedelbart vidta korrigerande åtgärder.",
+      "Om resultatet blir gynnsamt, måste vi kapitalisera på framgången direkt.",
+      "Om resultatet blir tvetydigt, måste vi fördjupa den metodologiska analysen.",
+      "Om resultatet blir konfliktfyllt, måste vi tillkalla en extern medlare.",
+      "Om resultatet blir ohållbart, måste vi avbryta projektet i sin helhet."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Om jag hade vetat ..., skulle jag ha ...",
+    "translation": "If I had known ..., I would have ...",
+    "b1": [
+      "Om jag hade vetat att det skulle regna, skulle jag ha tagit ett paraply.",
+      "Om jag hade vetat att du var sjuk, skulle jag ha ringt dig.",
+      "Om jag hade vetat att du kom, skulle jag ha lagat mer mat.",
+      "Om jag hade vetat att vägen var avstängd, skulle jag ha tagit bussen.",
+      "Om jag hade vetat priset, skulle jag ha köpt den tidigare."
+    ],
+    "b2": [
+      "Om jag hade vetat att mötet var inställt, skulle jag ha stannat hemma.",
+      "Om jag hade vetat om problemen, skulle jag ha hjälpt till från början.",
+      "Om jag hade vetat hur svårt provet var, skulle jag ha pluggat mer.",
+      "Om jag hade vetat om reglerna, skulle jag ha gjort annorlunda.",
+      "Om jag hade vetat att tåget var försenat, skulle jag ha tagit bilen."
+    ],
+    "c1": [
+      "Om jag hade vetat om de finansiella riskerna, skulle jag ha avrått från investeringen.",
+      "Om jag hade vetat om de dolda kostnaderna, skulle jag ha omförhandlat avtalet.",
+      "Om jag hade vetat att förutsättningarna skulle ändras, skulle jag ha agerat annorlunda.",
+      "Om jag hade vetat om personalbristen, skulle jag ha begärt mer resurser i förväg.",
+      "Om jag hade vetat om de juridiskt komplicerade kraven, skulle jag ha anlitat en expert."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Förutsatt att ..., är det sannolikt att ...",
+    "translation": "Assuming that ..., it is likely that ...",
+    "b1": [
+      "Förutsatt att vädret blir fint, är det sannolikt att vi går till stranden.",
+      "Förutsatt att tåget är i tid, är det sannolikt att jag hinner hem till middag.",
+      "Förutsatt att alla hjälper till, är det sannolikt att vi blir klara i dag.",
+      "Förutsatt att butiken är öppen, är det sannolikt att jag köper bröd.",
+      "Förutsatt att boken är bra, är det sannolikt att jag läser ut den."
+    ],
+    "b2": [
+      "Förutsatt att vi får godkänt på budgeten, är det sannolikt att vi anställer fler.",
+      "Förutsatt att leveransen kommer på fredag, är det sannolikt att vi lanserar nästa vecka.",
+      "Förutsatt att kunden blir nöjd, är det sannolikt att vi får ett nytt kontrakt.",
+      "Förutsatt att alla följer planen, är det sannolikt att projektet lyckas.",
+      "Förutsatt att priserna står sig, är det sannolikt att vinsten ökar."
+    ],
+    "c1": [
+      "Förutsatt att marknadsläget stabiliseras, är det sannolikt att investeringarna återhämtar sig.",
+      "Förutsatt att politisk konsensus uppnås, är det sannolikt att reformen röstas igenom.",
+      "Förutsatt att de strategiska målen uppfylls, är det sannolikt att bolaget expanderar internationellt.",
+      "Förutsatt att trenden håller i sig, är det sannolikt att efterfrågan ökar exponentiellt.",
+      "Förutsatt att regelverket inte ändras, är det sannolikt att marjinerna förbättras."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Jag förutspår att ... kommer att hända.",
+    "translation": "I predict that ... will happen.",
+    "b1": [
+      "Jag förutspår att det kommer att regna i kväll.",
+      "Jag förutspår att vårt lag kommer att vinna matchen.",
+      "Jag förutspår att priser kommer att gå upp.",
+      "Jag förutspår att hon kommer att bli glad.",
+      "Jag förutspår att festen kommer att bli rolig."
+    ],
+    "b2": [
+      "Jag förutspår att fler kommer att arbeta hemifrån i framtiden.",
+      "Jag förutspår att efterfrågan på dessa produkter kommer att öka snabbt.",
+      "Jag förutspår att det kommer att bli en stor förändring på företaget.",
+      "Jag förutspår att den här trenden kommer att försvinna snart.",
+      "Jag förutspår att projektet kommer att ta längre tid än vi tror."
+    ],
+    "c1": [
+      "Jag förutspår att en omfattande konsolidering i branschen kommer att hända.",
+      "Jag förutspår att teknologiska genombrott kommer att förändra marknadsstrukturen helt.",
+      "Jag förutspår att demografiska förändringar kommer att påverka bostadsmarknaden kraftigt.",
+      "Jag förutspår att nya strängare miljölagar kommer att införas inom kort.",
+      "Jag förutspår att de ekonomiska klyftorna kommer att fördjupas om inga åtgärder vidtas."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "När inte ... händer, kommer vi inte att kunna ...",
+    "translation": "Unless ... happens, we won't be able to ...",
+    "b1": [
+      "När inte solen skiner, kommer vi inte att kunna bada.",
+      "När inte bussen kommer, kommer vi inte att kunna åka hem.",
+      "När inte du hjälper mig, kommer jag inte att kunna bli klar.",
+      "När inte butiken öppnar, kommer vi inte att kunna handla.",
+      "När inte regnet slutar, kommer vi inte att kunna spela fotboll."
+    ],
+    "b2": [
+      "När inte vi får mer pengar, kommer vi inte att kunna slutföra projektet.",
+      "När inte tidsplanen förlängs, kommer vi inte att kunna leverera i tid.",
+      "När inte alla skriver under, kommer vi inte att kunna starta samarbetet.",
+      "När inte vi hittar en lösning, kommer vi inte att kunna gå vidare.",
+      "När inte råvarorna anländer, kommer vi inte att kunna fortsätta produktionen."
+    ],
+    "c1": [
+      "När inte ytterligare finansiering säkras, kommer vi inte att kunna kommersialisera produkten.",
+      "När inte styrelsen ger sitt godkännande, kommer vi inte att kunna genomföra uppköpet.",
+      "När inte myndigheterna beviljar tillstånd, kommer vi inte att kunna inleda byggnationen.",
+      "När inte de strukturella problemen åtgärdas, kommer vi inte att kunna nå långsiktig stabilitet.",
+      "När inte en politisk kompromiss nås, kommer vi inte att kunna bryta dödläget."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "I händelse av ..., bör vi ...",
+    "translation": "In the event of ..., we should ...",
+    "b1": [
+      "I händelse av regn, bör vi stanna inomhus.",
+      "I händelse av brand, bör vi gå ut direkt.",
+      "I händelse av förseningar, bör vi ringa och berätta.",
+      "I händelse av sjukdom, bör vi stanna hemma.",
+      "I händelse av problem, bör vi fråga om hjälp."
+    ],
+    "b2": [
+      "I händelse av strömavbrott, bör vi använda reservgeneratorn.",
+      "I händelse av inställda tåg, bör vi boka en hyrbil.",
+      "I händelse av konflikt, bör vi sätta oss ner och prata.",
+      "I händelse av brist på material, bör vi kontakta en annan leverantör.",
+      "I händelse av klagomål, bör vi erbjuda kompensation direkt."
+    ],
+    "c1": [
+      "I händelse av en plötslig marknadskrasch, bör vi aktivera vår krishanteringsplan.",
+      "I händelse av avtalsbrott, bör vi omedelbart vidta juridiska åtgärder.",
+      "I händelse av extrema väderhändelser, bör vi säkra infrastrukturen utan dröjsmål.",
+      "I händelse av cyberattacker, bör vi isolera systemen och informera tillsynsmyndigheten.",
+      "I händelse av förändrad lagstiftning, bör vi anpassa vår compliance-strategi omgående."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Det är hög sannolikhet för att ...",
+    "translation": "There's a high probability that ...",
+    "b1": [
+      "Det är hög sannolikhet för att det blir sol i morgon.",
+      "Det är hög sannolikhet för att bussen är försenad.",
+      "Det är hög sannolikhet för att hon kommer på festen.",
+      "Det är hög sannolikhet för att vi vinner spelet.",
+      "Det är hög sannolikhet för att priset stiger."
+    ],
+    "b2": [
+      "Det är hög sannolikhet för att projektet blir klart innan deadline.",
+      "Det är hög sannolikhet för att räntan höjs under nästa månad.",
+      "Det är hög sannolikhet för att chefen godkänner vår semesteransökan.",
+      "Det är hög sannolikhet för att den nya produkten blir populär.",
+      "Det är hög sannolikhet för att vi måste ändra i schemat."
+    ],
+    "c1": [
+      "Det är hög sannolikhet för att aktiemarknaden drabbas av ökad volatilitet.",
+      "Det är hög sannolikhet för att fusionsförhandlingarna utmynnar i ett avtal.",
+      "Det är hög sannolikhet för att den föreslagna lagändringen röstas igenom.",
+      "Det är hög sannolikhet för att råvarupriserna kommer att fluktuera kraftigt.",
+      "Det är hög sannolikhet för att digitaliseringen kommer att ersätta vissa yrkesroller."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Vi kan få se ... om ...",
+    "translation": "We might see ... if ...",
+    "b1": [
+      "Vi kan få se snö om det blir kallare.",
+      "Vi kan få se lägre priser om vi väntar till rean.",
+      "Vi kan få se bättre resultat om vi tränar mer.",
+      "Vi kan få se fler fåglar om vi går till parken.",
+      "Vi kan få se en bra film om vi går på bio."
+    ],
+    "b2": [
+      "Vi kan få se högre vinster om vi skär ner på kostnaderna.",
+      "Vi kan få se en förbättrad arbetsmiljö om vi ändrar rutinerna.",
+      "Vi kan få se en ökning i försäljningen om vi satsar på reklam.",
+      "Vi kan få se nöjdare kunder om vi svarar snabbare på mejl.",
+      "Vi kan få se försenade leveranser om vädret blir sämre."
+    ],
+    "c1": [
+      "Vi kan få se betydande marknadsförskjutningar om nya aktörer träder in.",
+      "Vi kan få se en genomgripande samhällsförändring om teknologin etableras helt.",
+      "Vi kan få se en ökad polarisering om inte dialogen förbättras.",
+      "Vi kan få se en uppgång i ekonomin om investeringsklimatet stärks.",
+      "Vi kan få se radikala strukturella anpassningar om intäkterna fortsätter falla."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Detta tyder på att framtiden bär med sig ...",
+    "translation": "This suggests that the future holds ...",
+    "b1": [
+      "Detta tyder på att framtiden bär med sig mycket sol och värme.",
+      "Detta tyder på att framtiden bär med sig goda nyheter.",
+      "Detta tyder på att framtiden bär med sig nya möjligheter för oss.",
+      "Detta tyder på att framtiden bär med sig lägre priser på mat.",
+      "Detta tyder på att framtiden bär med sig roliga resor."
+    ],
+    "b2": [
+      "Detta tyder på att framtiden bär med sig stora utmaningar för företaget.",
+      "Detta tyder på att framtiden bär med sig mer flexibla arbetssätt.",
+      "Detta tyder på att framtiden bär med sig hårdare konkurrens på marknaden.",
+      "Detta tyder på att framtiden bär med sig ett ökat fokus på miljön.",
+      "Detta tyder på att framtiden bär med sig en positiv tillväxt."
+    ],
+    "c1": [
+      "Detta tyder på att framtiden bär med sig en omfattande omstrukturering av hela sektorn.",
+      "Detta tyder på att framtiden bär med sig genomgripande teknologiska paradigmskiften.",
+      "Detta tyder på att framtiden bär med sig komplexa etiska dilemman gällande AI.",
+      "Detta tyder på att framtiden bär med sig skärpta kraven på hållbarhet och transparens.",
+      "Detta tyder på att framtiden bär med sig betydande geostrategiska osäkerhetsfaktorer."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Resultatet beror helt på om ... eller inte.",
+    "translation": "The outcome depends entirely on whether or not ...",
+    "b1": [
+      "Resultatet beror helt på om det regnar eller inte.",
+      "Resultatet beror helt på om vi hinner med tåget eller inte.",
+      "Resultatet beror helt på om du kommer på festen eller inte.",
+      "Resultatet beror helt på om maten räcker eller inte.",
+      "Resultatet beror helt på om butiken har öppet eller inte."
+    ],
+    "b2": [
+      "Resultatet beror helt på om vi får godkänt på budgeten eller inte.",
+      "Resultatet beror helt på om kunden accepterar vårt förslag eller inte.",
+      "Resultatet beror helt på om teamet kan samarbeta effektivt eller inte.",
+      "Resultatet beror helt på om leveransen kommer i tid eller inte.",
+      "Resultatet beror helt på om vi lyckas lösa problemet eller inte."
+    ],
+    "c1": [
+      "Resultatet beror helt på om parterna kan nå en kompromiss i förhandlingarna eller inte.",
+      "Resultatet beror helt på om de finansiella marknaderna stabiliseras eller inte.",
+      "Resultatet beror helt på om lagstiftningen röstas igenom i parlamentet eller inte.",
+      "Resultatet beror helt på om företaget kan säkra den nödvändiga finansieringen eller inte.",
+      "Resultatet beror helt på om de vetenskapliga testerna bekräftar hypotesen eller inte."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Om trenden fortsätter, då ...",
+    "translation": "If the trend continues, then ...",
+    "b1": [
+      "Om trenden fortsätter, då blir det väldigt varmt i sommar.",
+      "Om trenden fortsätter, då kommer alla att köpa cyklar.",
+      "Om trenden fortsätter, då vinner vårt lag serien.",
+      "Om trenden fortsätter, då blir biljetterna för dyra.",
+      "Om trenden fortsätter, då blir det svårt att hitta bostad."
+    ],
+    "b2": [
+      "Om trenden fortsätter, då kommer försäljningen att nå nya rekordnivåer.",
+      "Om trenden fortsätter, då måste vi anställa mer personal till hösten.",
+      "Om trenden fortsätter, då kommer kostnaderna att överskrida vår budget.",
+      "Om trenden fortsätter, då kommer fler kunder att välja våra digitala tjänster.",
+      "Om trenden fortsätter, då måst vi flytta till ett större kontor."
+    ],
+    "c1": [
+      "Om trenden fortsätter, då kommer de demografiska förändringarna att belasta välfärden hårt.",
+      "Om trenden fortsätter, då riskerar vi en permanent urholkning av vår konkurrenskraft.",
+      "Om trenden fortsätter, då kommer konsumtionsmönstren att förändras i grunden.",
+      "Om trenden fortsätter, då blir det nödvändigt med genomgripande statliga interventioner.",
+      "Om trenden fortsätter, då kommer energiförbrukningen att nå ohållbara nivåer."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Hade de övervägt ..., skulle resultatet ha blivit ...",
+    "translation": "Had they considered ..., the result would have been ...",
+    "b1": [
+      "Hade de övervägt vädret, skulle resultatet ha blivit mycket bättre.",
+      "Hade de övervägt priset, skulle resultatet ha blivit mer billigt.",
+      "Hade de övervägt tiden, skulle resultatet ha blivit mindre stressigt.",
+      "Hade de övervägt avståndet, skulle resultatet ha blivit enklare.",
+      "Hade de övervägt maten, skulle resultatet ha blivit en roligare fest."
+    ],
+    "b2": [
+      "Hade de övervägt kundernas feedback, skulle resultatet ha blivit mycket mer framgångsrikt.",
+      "Hade de övervägt risken för förseningar, skulle resultatet ha blivit stabilare.",
+      "Hade de övervägt alternativ teknik, skulle resultatet ha blivit billigare.",
+      "Hade de övervägt personalens arbetsbelastning, skulle resultatet ha blivit högre kvalitet.",
+      "Hade de övervägt konkurrenternas priser, skulle resultatet ha blivit bättre försäljning."
+    ],
+    "c1": [
+      "Hade de övervägt de långsiktiga miljöeffekterna, skulle resultatet ha blivit mer hållbart.",
+      "Hade de övervägt de makroekonomiska faktorerna, skulle resultatet ha blivit helt annorlunda.",
+      "Hade de övervägt de juridiska implikationerna, skulle resultatet ha blivit mindre kostsamt.",
+      "Hade de övervägt de strategiska alternativen, skulle resultatet ha blivit betydligt mer gynnsamt.",
+      "Hade de övervägt de etiska aspekterna, skulle resultatet ha blivit mer accepterat i offentligheten."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Vi behöver en reservplan i fall att ...",
+    "translation": "We need a backup plan in case ...",
+    "b1": [
+      "Vi behöver en reservplan i fall att det regnar.",
+      "Vi behöver en reservplan i fall att bussen är sen.",
+      "Vi behöver en reservplan i fall att maten inte räcker.",
+      "Vi behöver en reservplan i fall att bion är full.",
+      "Vi behöver en reservplan i fall att nyckeln tappas bort."
+    ],
+    "b2": [
+      "Vi behöver en reservplan i fall att leverantören inte levererar i tid.",
+      "Vi behöver en reservplan i fall att budgeten skärs ner.",
+      "Vi behöver en reservplan i fall att nyckelpersoner slutar på företaget.",
+      "Vi behöver en reservplan i fall att systemet kraschar under lanseringen.",
+      "Vi behöver en reservplan i fall att kunden tackar nej till erbjudandet."
+    ],
+    "c1": [
+      "Vi behöver en reservplan i fall att de geopolitiska spänningarna eskalerar ytterligare.",
+      "Vi behöver en reservplan i fall att myndigheterna drar tillbaka tillståndet.",
+      "Vi behöver en reservplan i fall att finansieringspartnerna drar sig ur i sista stund.",
+      "Vi behöver en reservplan i fall att den nya regleringen träder i kraft i förtid.",
+      "Vi behöver en reservplan i fall att marknadsefterfrågan viker obönhörligen."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Det är tänkbart att ...",
+    "translation": "It is conceivable that ...",
+    "b1": [
+      "Det är tänkbart att vi kan åka i morgon i stället.",
+      "Det är tänkbart att priset sjunker nästa vecka.",
+      "Det är tänkbart att hon har glömt bort mötet.",
+      "Det är tänkbart att det blir snö i december.",
+      "Det är tänkbart att tåget är lite försenat."
+    ],
+    "b2": [
+      "Det är tänkbart att vi måste ändra vår projektplan något.",
+      "Det är tänkbart att konkurrenterna sänker sina priser snart.",
+      "Det är tänkbart att vi behöver ta in extra personal under högsäsongen.",
+      "Det är tänkbart att samarbetet kan utökas till fler områden.",
+      "Det är tänkbart att resultatet blir bättre än vår första prognos."
+    ],
+    "c1": [
+      "Det är tänkbart att denna upptäckt banar väg för helt nya medicinska behandlingar.",
+      "Det är tänkbart att inflationstrycket kvarstår under en längre period än förväntat.",
+      "Det är tänkbart att strukturella skiften kommer att förändra hela branschlandskapet.",
+      "Det är tänkbart att parterna återupptar förhandlingarna under andra förutsättningar.",
+      "Det är tänkbart att den tekniska lösningen kräver en fullständig ombearbetning."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Utan ..., är det omöjligt att ...",
+    "translation": "Without ..., it is impossible to ...",
+    "b1": [
+      "Utan pengar, är det omöjligt att köpa mat.",
+      "Utan biljetter, är det omöjligt att gå på bion.",
+      "Utan karta, är det omöjligt att hitta rätt.",
+      "Utan nyckel, är det omöjligt att öppna dörren.",
+      "Utan vatten, är det omöjligt att göra kaffe."
+    ],
+    "b2": [
+      "Utan tydliga instruktioner, är det omöjligt att slutföra uppgiften korrekt.",
+      "Utan tillräcklig budget, är det omöjligt att genomföra hela projektet.",
+      "Utan bra samarbete, är det omöjligt att nå goda resultat.",
+      "Utan rätt verktyg, är det omöjligt att reparera maskinen.",
+      "Utan kundernas förtroende, är det omöjligt att bygga ett starkt varumärke."
+    ],
+    "c1": [
+      "Utan noggrann riskanalys, är det omöjligt att fatta välgrundade strategiska beslut.",
+      "Utan adekvat finansiering, är det omöjligt att bedriva långsiktig spetsforskning.",
+      "Utan politisk vilja, är det omöjligt att genomföra nödvändiga samhällsreformer.",
+      "Utan transparens, är det omöjligt att upprätthålla institutionellt förtroende.",
+      "Utan tvärvetenskaplig samverkan, är det omöjligt att lösa komplexa klimatutmaningar."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Bevisen pekar mot att ... kommer att hända.",
+    "translation": "The evidence points towards ... happening.",
+    "b1": [
+      "Bevisen pekar mot att det kommer att bli regn i dag.",
+      "Bevisen pekar mot att priserna kommer att stiga.",
+      "Bevisen pekar mot att tåget kommer att bli försenat.",
+      "Bevisen pekar mot att vart lag kommer att vinna.",
+      "Bevisen pekar mot att festen kommer att bli lyckad."
+    ],
+    "b2": [
+      "Bevisen pekar mot att försäljningen kommer att öka under nästa kvartal.",
+      "Bevisen pekar mot att den nya strategin kommer att ge bra resultat.",
+      "Bevisen pekar mot att kunderna kommer att välja det billigare alternativet.",
+      "Bevisen pekar mot att projektet kommer att hålla tidsplanen.",
+      "Bevisen pekar mot att marknaden kommer att återhämta sig snart."
+    ],
+    "c1": [
+      "Bevisen pekar mot att en märkbar konjunkturavmattning kommer att hända inom kort.",
+      "Bevisen pekar mot että den föreslagna modellen kommer att generera högre effektivitet.",
+      "Bevisen pekar mot att en drastisk förändring i konsumentbeteendet kommer att hända.",
+      "Bevisen pekar mot att skärpta regulatoriska krav kommer att införas globalt.",
+      "Bevisen pekar mot att den teknologiska skiftet kommer att accelerera ytterligare."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "På villkor att ..., kan vi fortsätta med ...",
+    "translation": "On the condition that ..., we can proceed with ...",
+    "b1": [
+      "På villkor att du är klar, kan vi fortsätta med maten.",
+      "På villkor att regnet slutar, kan vi fortsätta med promenaden.",
+      "På villkor att bussen kommer, kan vi fortsätta med resan.",
+      "På villkor att alla förstår, kan vi fortsätta med läxan.",
+      "På villkor att du vill, kan vi fortsätta med spelet."
+    ],
+    "b2": [
+      "På villkor att budgeten godkänns, kan vi fortsätta med rekryteringen.",
+      "På villkor att testerna lyckas, kan vi fortsätta med lanseringen.",
+      "På villkor att kunden är nöjd, kan vi fortsätta med nästa fas.",
+      "På villkor att avtalet skrivs under, kan vi fortsätta med samarbetet.",
+      "På villkor att säkerheten garanteras, kan vi fortsätta med arbetet."
+    ],
+    "c1": [
+      "På villkor att alla regulatoriska krav uppfylls, kan vi fortsätta med fusionen.",
+      "På villkor att finansieringen är helt säkrad, kan vi fortsätta med investeringsplanen.",
+      "På villkor att riskanalysen visar positiva resultat, kan vi fortsätta med expansionen.",
+      "På villkor att styrelsen ger sitt slutgiltiga medgivande, kan vi fortsätta med omstruktureringen.",
+      "På villkor att miljötillståndet beviljas, kan vi fortsätta med anläggningsarbetet."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Den långsiktiga konsekvensen är att ...",
+    "translation": "The long-term implication is that ...",
+    "b1": [
+      "Den långsiktiga konsekvensen är att vi sparar mycket pengar.",
+      "Den långsiktiga konsekvensen är att vi får mer tid tillsammans.",
+      "Den långsiktiga konsekvensen är att vårt hus blir varmare.",
+      "Den långsiktiga konsekvensen är att vi lär oss svenska bättre.",
+      "Den långsiktiga konsekvensen är att kroppen mår bra."
+    ],
+    "b2": [
+      "Den långsiktiga konsekvensen är att företagets varumärke stärks avsevärt.",
+      "Den långsiktiga konsekvensen är att våra driftskostnader kommer att minska.",
+      "Den långsiktiga konsekvensen är att vi får en mer stabil kundbas.",
+      "Den långsiktiga konsekvensen är att medarbetarnas nöjdhet ökar övertid.",
+      "Den långsiktiga konsekvensen är att vi måste ändra våra rutinmässiga arbetssätt."
+    ],
+    "c1": [
+      "Den långsiktiga konsekvensen är att marknadsstrukturen kommer att förändras i grunden.",
+      "Den långsiktiga konsekvensen är att organisationens konkurrenskraft blir helt avgörande.",
+      "Den långsiktiga konsekvensen är att de ekologiska systemen kan drabbas av bestående skador.",
+      "Den långsiktiga konsekvensen är att det krävs en omfattande kompetensväxling inom sektorn.",
+      "Den långsiktiga konsekvensen är att det finansiella utrymmet för framtida investeringar begränsas."
+    ]
+  }
+]

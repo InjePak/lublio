@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Enligt min mening ...",
+    "translation": "In my opinion, ...",
+    "b1": [
+      "Enligt min mening är den här filmen mycket intressant.",
+      "Enligt min mening borde vi äta mer grönsaker.",
+      "Enligt min mening är staden för högljudd på sommaren.",
+      "Enligt min mening är det en rolig utmaning att lära sig svenska.",
+      "Enligt min mening kommer det att regna i eftermiddag."
+    ],
+    "b2": [
+      "Enligt min mening borde regeringen investera mer i förnybar energi.",
+      "Enligt min mening främjar distansarbete en bättre balans mellan arbete och fritid.",
+      "Enligt min mening motsvarar denna reform inte medborgarnas förväntningar.",
+      "Enligt min mening är det avgörande att öka ungdomars medvetenhet om miljöskydd.",
+      "Enligt min mening har globaliseringen en komplex inverkan på lokala kulturer."
+    ],
+    "c1": [
+      "Enligt min mening försämrar den digitala närvaron smygande vår koncentrationsförmåga.",
+      "Enligt min mening kan detta problem inte lösas utan ökat internationellt samarbete.",
+      "Enligt min mening överskrider verkets estetik epokens traditionella konventioner.",
+      "Enligt min mening vore det illusoriskt att tro att ekonomisk tillväxt kan vara oändlig.",
+      "Enligt min mening utgör osäkra anställningsvillkor ett stort hinder för social utveckling."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Jag tror att ...",
+    "translation": "I believe that ...",
+    "b1": [
+      "Jag tror att det blir fint väder i morgon.",
+      "Jag tror att han har rätt.",
+      "Jag tror att bussen kommer snart.",
+      "Jag tror att detta är den bästa lösningen.",
+      "Jag tror att vi behöver mer tid."
+    ],
+    "b2": [
+      "Jag tror att ny teknik kan hjälpa oss att lösa klimatklubben.",
+      "Jag tror att mångfald på arbetsplatsen leder till bättre resultat.",
+      "Jag tror att utbildningssystemet behöver reformeras för framtiden.",
+      "Jag tror att det är viktigt att bevara kulturella traditioner.",
+      "Jag tror att konsumenter har stor makt att påverka marknaden."
+    ],
+    "c1": [
+      "Jag tror att en systematisk förändring krävs för att bemöta krisen.",
+      "Jag tror att etiska överväganden måste gå före kortsiktig vinst.",
+      "Jag tror att den växande klyftan i samhället hotar den sociala sammanhållningen.",
+      "Jag tror att vetenskaplig skepsis är avgörande för demokratisk debatt.",
+      "Jag tror att kognitiv mångfald är en förutsättning för sann innovation."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Det verkar som om ...",
+    "translation": "It seems to me that ...",
+    "b1": [
+      "Det verkar som om det kommer att regna.",
+      "Det verkar som om alla är trötta idag.",
+      "Det verkar som om prisen har gått upp.",
+      "Det verkar som om tåget är försenat.",
+      "Det verkar som om vi har gått vilse."
+    ],
+    "b2": [
+      "Det verkar som om marknaden återhämtar sig snabbare än väntat.",
+      "Det verkar som om det finns ett missförstånd mellan parterna.",
+      "Det verkar som om de nya riktlinjerna har skapat förvirring.",
+      "Det verkar som om projektet kräver mer resurser än beräknat.",
+      "Det verkar som om opinionen håller på att svänga i frågan."
+    ],
+    "c1": [
+      "Det verkar som om de bakomliggande orsakerna är mer komplexa än vad som framgår.",
+      "Det verkar som om den politiska diskursen har polariserats ytterligare.",
+      "Det verkar som om åtgärderna endast behandlar symptomen snarare än grundproblemet.",
+      "Det verkar som om den nuvarande modellen är ohållbar i längden.",
+      "Det verkar som om de teoretiska antagandena inte stämmer överens med praktiken."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Ur mitt perspektiv ...",
+    "translation": "From my perspective, ...",
+    "b1": [
+      "Ur mitt perspektiv är det ett bra beslut.",
+      "Ur mitt perspektiv är uppgiften inte så svår.",
+      "Ur mitt perspektiv bör vi vänta lite till.",
+      "Ur mitt perspektiv är det viktigast att ha roligt.",
+      "Ur mitt perspektiv är erbjudandet ganska bra."
+    ],
+    "b2": [
+      "Ur mitt perspektiv innebär förändringen både möjligheter och utmaningar.",
+      "Ur mitt perspektiv är transparens nyckeln till att bygga förtroende.",
+      "Ur mitt perspektiv måste vi prioritera långsiktig hållbarhet.",
+      "Ur mitt perspektiv saknar argumentet en stark empirisk grund.",
+      "Ur mitt perspektiv har företaget ett stort samhällsansvar."
+    ],
+    "c1": [
+      "Ur mitt perspektiv blottlägger denna kris djupgående strukturella brister.",
+      "Ur mitt perspektiv är den föreslagna strategin i grunden missriktad.",
+      "Ur mitt perspektiv måste man ta hänsyn till de socioekonomiska konsekvenserna.",
+      "Ur mitt perspektiv utgör detta en genomgripande paradigmförändring.",
+      "Ur mitt perspektiv är balansen mellan integritet och säkerhet hårfin."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Jag känner starkt att ...",
+    "translation": "I strongly feel that ...",
+    "b1": [
+      "Jag känner starkt att detta är fel.",
+      "Jag känner starkt att vi måste hjälpa dem.",
+      "Jag känner starkt att det är dags att förändra något.",
+      "Jag känner starkt att alla borde få vara med.",
+      "Jag känner starkt att detta är rätt väg att gå."
+    ],
+    "b2": [
+      "Jag känner starkt att allas röster bör bli hörda i den här frågan.",
+      "Jag känner starkt att orättvisor i samhället måste bekämpas.",
+      "Jag känner starkt att kvaliteten på sjukvården inte får försämras.",
+      "Jag känner starkt att vi måste ta mer ansvar för vår planet.",
+      "Jag känner starkt att personlig integritet är en fundamental rättighet."
+    ],
+    "c1": [
+      "Jag känner starkt att kompromisser i denna kärnfråga skulle urholka våra värderingar.",
+      "Jag känner starkt att den nuvarande politiken är etiskt ohållbar.",
+      "Jag känner starkt att marginaliserade gruppers rättigheter måste skyddas villkorslöst.",
+      "Jag känner starkt att det krävs ett radikalt nytt förhållningssätt till frågan.",
+      "Jag känner starkt att tystnad i detta sammanhang innebär ett tyst medgivande."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Jag skulle hävda att ...",
+    "translation": "I would argue that ...",
+    "b1": [
+      "Jag skulle hävda att det är bättre att cykla än att köra bil.",
+      "Jag skulle hävda att engelska är lättare än svenska.",
+      "Jag skulle hävda att vi behöver mer vila.",
+      "Jag skulle hävda att boken är bättre än filmen.",
+      "Jag skulle hävda att det är för dyrt."
+    ],
+    "b2": [
+      "Jag skulle hävda att utbildning är den viktigaste faktorn för framgång.",
+      "Jag skulle hävda att fördelarna överväger nackdelarna i detta fall.",
+      "Jag skulle hävda att regelbunden motion minskar stress avsevärt.",
+      "Jag skulle hävda att förslaget behöver utvecklas ytterligare.",
+      "Jag skulle hävda att kritiken är delvis obefogad."
+    ],
+    "c1": [
+      "Jag skulle hävda att fenomenet är en direkt konsekvens av oreglerad kapitalism.",
+      "Jag skulle hävda att den traditionella teorin är otillräcklig i detta kontext.",
+      "Jag skulle hävda att kulturell hegemoni formar våra uppfattningar omedvetet.",
+      "Jag skulle hävda att bristen på tillsyn utgör en systemisk risk.",
+      "Jag skulle hävda att detta beslut sätter ett farligt prejudikat."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Vad jag menar är att ...",
+    "translation": "What I mean is, ...",
+    "b1": [
+      "Vad jag menar är att det är för sent nu.",
+      "Vad jag menar är att vi måste spara pengar.",
+      "Vad jag menar är att han inte gjorde det med flit.",
+      "Vad jag menar är att det inte är så enkelt.",
+      "Vad jag menar är att jag inte har tid idag."
+    ],
+    "b2": [
+      "Vad jag menar är att vi måste se över hela processen, inte bara resultatet.",
+      "Vad jag menar är att kommunikationen mellan avdelningarna har brustit.",
+      "Vad jag menar är att förslaget är bra i teorin men svårt i praktiken.",
+      "Vad jag menar är att vi bör ta hänsyn till alla intressenter.",
+      "Vad jag menar är att prioriteringarna måste ändras omgående."
+    ],
+    "c1": [
+      "Vad jag menar är att implicit bias påverkar beslutsprocessen mer än vi erkänner.",
+      "Vad jag menar är att kortsiktiga vinster inte får överskugga långsiktiga konsekvenser.",
+      "Vad jag menar är att diskursen har skiftat från substans till ytliga argument.",
+      "Vad jag menar är att institutionell tröghet hindrar nödvändiga innovationer.",
+      "Vad jag menar är att begreppet i sig kräver en noggrannare redefinition."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Om du frågar mig ...",
+    "translation": "If you ask me, ...",
+    "b1": [
+      "Om du frågar mig är det ett stort misstag.",
+      "Om du frågar mig borde vi stanna hemma.",
+      "Om du frågar mig lagar hon den bästa maten.",
+      "Om du frågar mig är priset för högt.",
+      "Om du frågar mig var det inte roligt."
+    ],
+    "b2": [
+      "Om du frågar mig fokuserar projektet på fel saker.",
+      "Om du frågar mig borde företaget satsa mer på personalen.",
+      "Om du frågar mig är den nya lagen alldeles för sträng.",
+      "Om du frågar mig överdriver medierna situationen.",
+      "Om du frågar mig krävs det helt nya tag i frågan."
+    ],
+    "c1": [
+      "Om du frågar mig underskattar man de sociokulturella effekterna av detta beslut.",
+      "Om du frågar mig saknar analysen en kritisk granskning av källorna.",
+      "Om du frågar mig är detta ett skolboksexempel på byråkratisk överdrivenhet.",
+      "Om du frågar mig är reaktionen en symptom på ett djupare strukturellt problem.",
+      "Om du frågar mig borde man ha förutsett dessa konsekvenser från början."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Jag kunde inte hålla mer med om ...",
+    "translation": "I couldn't agree more with ...",
+    "b1": [
+      "Jag kunde inte hålla mer med om ditt förslag.",
+      "Jag kunde inte hålla mer med om vad du sa om maten.",
+      "Jag kunde inte hålla mer med om att det är för kallt.",
+      "Jag kunde inte hålla mer med om hans idé.",
+      "Jag kunde inte hålla mer med om att filmen var bra."
+    ],
+    "b2": [
+      "Jag kunde inte hålla mer med om vikten av god arbetsmiljö.",
+      "Jag kunde inte hålla mer med om slutsatserna i rapporten.",
+      "Jag kunde inte hålla mer med om behovet av bättre kollektivtrafik.",
+      "Jag kunde inte hålla mer med om din bedömning av situationen.",
+      "Jag kunde inte hålla mer med om att hållbarhet måste komma först."
+    ],
+    "c1": [
+      "Jag kunde inte hålla mer med om din skarpsinniga analys av läget.",
+      "Jag kunde inte hålla mer med om kritiken mot det nuvarande regelverket.",
+      "Jag kunde inte hålla mer med om att etiska dilemman måste belysas grundligare.",
+      "Jag kunde inte hålla mer med om behovet av en genomgripande reform.",
+      "Jag kunde inte hålla mer med om ditt resonemang kring de långsiktiga riskerna."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Det är en poäng, men ...",
+    "translation": "That's a valid point, but ...",
+    "b1": [
+      "Det är en poäng, men det är för dyrt.",
+      "Det är en poäng, men vi har inte tid.",
+      "Det är en poäng, men jag tycker annorlunda.",
+      "Det är en poäng, men vädret är dåligt.",
+      "Det är en poäng, men det kan bli svårt."
+    ],
+    "b2": [
+      "Det är en poäng, men vi måste också tänka på budgeten.",
+      "Det är en poäng, men risken för förseningar är fortfarande stor.",
+      "Det är en poäng, men alla kollegor håller inte med.",
+      "Det är en poäng, men implementationen kräver mer utbildning.",
+      "Det är en poäng, men lösningen täcker inte alla behov."
+    ],
+    "c1": [
+      "Det är en poäng, men resonemanget bortser från de makroekonomiska variablerna.",
+      "Det är en poäng, men de empiriska beläggen för det påståendet är svaga.",
+      "Det är en poäng, men det förutsätter en homogen målgrupp vilket inte finns.",
+      "Det är en poäng, men konsekvensanalysen verkar vara otillräcklig.",
+      "Det är en poäng, men det står i strid med de etiska riktlinjerna."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Jag håller inte med om ...",
+    "translation": "I beg to differ on ...",
+    "b1": [
+      "Jag håller inte med om det valet.",
+      "Jag håller inte med om att det var tråkigt.",
+      "Jag håller inte med om din idé.",
+      "Jag håller inte med om vad han sa.",
+      "Jag håller inte med om priset."
+    ],
+    "b2": [
+      "Jag håller inte med om att den nya metoden är effektivare.",
+      "Jag håller inte med om din tolkning av resultaten.",
+      "Jag håller inte med om att förändringen var nödvändig.",
+      "Jag håller inte med om prioritetsordningen i projektet.",
+      "Jag håller inte med om att budgeten borde skäras ner."
+    ],
+    "c1": [
+      "Jag håller inte med om de underliggande antagandena i denna premiss.",
+      "Jag håller inte med om att denna åtgärd är den mest ändamålsenliga.",
+      "Jag håller inte med om slutsatsen i den akademiska avhandlingen.",
+      "Jag håller inte med om kategoriseringen av dessa komplexa fenomen.",
+      "Jag håller inte med om att problemet kan isoleras på det sättet."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Även om jag förstår att ..., känner jag ändå ...",
+    "translation": "While I understand that ..., I still feel ...",
+    "b1": [
+      "Även om jag förstår att det är dyrt, känner jag ändå att vi borde köpa det.",
+      "Även om jag förstår att du är trött, känner jag ändå att vi borde städa.",
+      "Även om jag förstår att det tar tid, känner jag ändå att det är värt det.",
+      "Även om jag förstår att han är ung, känner jag ändå att han måste ta ansvar.",
+      "Även om jag förstår att reglerna finns, känner jag ändå att det är orättvist."
+    ],
+    "b2": [
+      "Även om jag förstår att beslutet togs av ekonomiska skäl, känner jag ändå oro.",
+      "Även om jag förstår att tiden är knapp, känner jag ändå att kvaliteten lider.",
+      "Även om jag förstår fördelarna med automatisering, känner jag ändå för de anställda.",
+      "Även om jag förstår argumenten för reformen, känner jag ändå viss tveksamhet.",
+      "Även om jag förstår att förändring tar tid, känner jag ändå att det går för långsamt."
+    ],
+    "c1": [
+      "Även om jag förstår den teoretiska ramens intelligens, känner jag ändå att den brister i praktiken.",
+      "Även om jag förstår de pragmatiska skälen, känner jag ändå att de etiska principerna har kompromissats.",
+      "Även om jag förstår behovet av konsolidering, känner jag ändå oro för den lokala autonomin.",
+      "Även om jag förstår de finansiella restriktionerna, känner jag ändå att prioriteringarna är snedvridna.",
+      "Även om jag förstår att datan tyder på förbättring, känner jag ändå att de mänskliga faktorerna ignoreras."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Med all respekt ...",
+    "translation": "With all due respect, ...",
+    "b1": [
+      "Med all respekt håller jag inte med.",
+      "Med all respekt tror jag att du har fel.",
+      "Med all respekt vill jag göra det på mitt sätt.",
+      "Med all respekt är det inte din sak.",
+      "Med all respekt tycker jag att vi borde vänta."
+    ],
+    "b2": [
+      "Med all respekt speglar detta beslut inte hela teamets åsikt.",
+      "Med all respekt verkar den här planen sakna en tydlig tidsram.",
+      "Med all respekt har vi prövat den metoden tidigare utan framgång.",
+      "Med all respekt borde ledningen ha informerat oss tidigare.",
+      "Med all respekt räcker inte dessa åtgärder för att lösa krisen."
+    ],
+    "c1": [
+      "Med all respekt saknar argumentationen den stringens som krävs i sammanhanget.",
+      "Med all respekt verkar styrelsen underskatta de långsiktiga konsekvenserna.",
+      "Med all respekt stämmer den beskrivningen inte överens med verkligheten.",
+      "Med all respekt framstår policyn som en kortsiktig lösning på ett strukturellt problem.",
+      "Med all respekt har expertisens rekommendationer förbises i denna process."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Jag är inte helt säker på ...",
+    "translation": "I'm not entirely sure about ...",
+    "b1": [
+      "Jag är inte helt säker på vad han sa.",
+      "Jag är inte helt säker på vart vi ska gå.",
+      "Jag är inte helt säker på om tåget går nu.",
+      "Jag är inte helt säker på svaret.",
+      "Jag är inte helt säker på vilket datum det är."
+    ],
+    "b2": [
+      "Jag är inte helt säker på om den här strategin kommer att fungera.",
+      "Jag är inte helt säker på hur vi ska tolka de nya reglerna.",
+      "Jag är inte helt säker på om budgeten kommer att räcka.",
+      "Jag är inte helt säker på att alla i gruppet är överens.",
+      "Jag är inte helt säker på nyttan med denna investering."
+    ],
+    "c1": [
+      "Jag är inte helt säker på att den valda metodiken är vetenskapligt hållbar.",
+      "Jag är inte helt säker på hållbarheten i den föreslagna affärsmodellen.",
+      "Jag är inte helt säker på att kausaliteten i studien kan bevisas.",
+      "Jag är inte helt säker på att konsekvensanalysen har varit tillräckligt omfattande.",
+      "Jag är inte helt säker på rimligheten i dessa framtidsprognoser."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Skulle du kunna utveckla ...?",
+    "translation": "Could you elaborate on ...?",
+    "b1": [
+      "Skulle du kunna utveckla din idé?",
+      "Skulle du kunna utveckla vad du menar?",
+      "Skulle du kunna utveckla din fråga?",
+      "Skulle du kunna utveckla den sista punkten?",
+      "Skulle du kunna utveckla planen lite mer?"
+    ],
+    "b2": [
+      "Skulle du kunna utveckla hur ni tänker kring kostnaderna?",
+      "Skulle du kunna utveckla resonemanget bakom beslutet?",
+      "Skulle du kunna utveckla vilka alternativ som finns?",
+      "Skulle du kunna utveckla tidsplanen för projektet?",
+      "Skulle du kunna utveckla hur detta påverkar kunderna?"
+    ],
+    "c1": [
+      "Skulle du kunna utveckla de teoretiska implikationerna av denna upptäckt?",
+      "Skulle du kunna utveckla strategin för riskminimering i detta skede?",
+      "Skulle du kunna utveckla hur de metodologiska avvikelserna hanterades?",
+      "Skulle du kunna utveckla ditt argument angående de strukturella hindren?",
+      "Skulle du kunna utveckla de långsiktiga effekterna på organisationen?"
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Jag har kluvna känslor inför ...",
+    "translation": "I have mixed feelings about ...",
+    "b1": [
+      "Jag har kluvna känslor inför att flytta.",
+      "Jag har kluvna känslor inför det nya jobbet.",
+      "Jag har kluvna känslor inför filmen.",
+      "Jag har kluvna känslor inför den nya maten.",
+      "Jag har kluvna känslor inför resan."
+    ],
+    "b2": [
+      "Jag har kluvna känslor inför omorganiseringen på företaget.",
+      "Jag har kluvna känslor inför användningen av AI i skolan.",
+      "Jag har kluvna känslor inför den nya turismpolitiken.",
+      "Jag har kluvna känslor inför förändringarna i schemat.",
+      "Jag har kluvna känslor inför de föreslagna skatteändringarna."
+    ],
+    "c1": [
+      "Jag har kluvna känslor inför den snabba teknologiska utvecklingen och dess etiska gränser.",
+      "Jag har kluvna känslor inför kommersialiseringen av offentliga tjänster.",
+      "Jag har kluvna känslor inför effekterna av globalisering på nationella identiteter.",
+      "Jag har kluvna känslor inför balansen mellan statlig kontroll och personlig frihet.",
+      "Jag har kluvna känslor inför den akademiska världens fokusering på mätbara resultat."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Låt oss enas om att vara oense om ...",
+    "translation": "Let's agree to disagree on ...",
+    "b1": [
+      "Låt oss enas om att vara oense om vad vi ska äta.",
+      "Låt oss enas om att vara oense om vilken film som är bäst.",
+      "Låt oss enas om att vara oense om fotbollsmatchen.",
+      "Låt oss enas om att vara oense om musiken.",
+      "Låt oss enas om att vara oense om färgen på väggen."
+    ],
+    "b2": [
+      "Låt oss enas om att vara oense om den bästa metoden för projektet.",
+      "Låt oss enas om att vara oense om prioriteringarna i budgeten.",
+      "Låt oss enas om att vara oense om vem som bär ansvaret.",
+      "Låt oss enas om att vara oense om tolkningen av reglerna.",
+      "Låt oss enas om att vara oense om tidsplanen."
+    ],
+    "c1": [
+      "Låt oss enas om att vara oense om de ideologiska grundvalarna i denna fråga.",
+      "Låt oss enas om att vara oense om de filosofiska tolkningarna av texten.",
+      "Låt oss enas om att vara oense om de framtida ekonomiska prognoserna.",
+      "Låt oss enas om att vara oense om den politiska strategins etiska principer.",
+      "Låt oss enas om att vara oense om historiska händelsers betydelse."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Har du övervägt ...?",
+    "translation": "Have you considered ...?",
+    "b1": [
+      "Har du övervägt att ta bussen istället?",
+      "Har du övervägt att pröva en ny restaurang?",
+      "Har du övervägt att köpa en ny cykel?",
+      "Har du övervägt att studera utomlands?",
+      "Har du övervägt att byta färg?"
+    ],
+    "b2": [
+      "Har du övervägt att tillämpa en mer flexibel arbetstid?",
+      "Har du övervägt de ekonomiska konsekvenserna av detta beslut?",
+      "Har du övervägt att ta in extern hjälp i projektet?",
+      "Har du övervägt alternativa lösningar på problemet?",
+      "Har du övervägt hur detta påverkar långsiktiga mål?"
+    ],
+    "c1": [
+      "Har du övervägt de socioekonomiska effekterna på marginaliserade grupper?",
+      "Har du övervägt de etiska implikationerna av att använda den här datan?",
+      "Har du övervägt risken för oväntade systemiska återkopplingar?",
+      "Har du övervägt att omformulera den teoretiska hypotesen helt och hållet?",
+      "Har du övervägt hur internationella konventioner kan påverka genomförandet?"
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Det är inte alltid fallet eftersom ...",
+    "translation": "That's not always the case because ...",
+    "b1": [
+      "Det är inte alltid fallet eftersom det kan regna.",
+      "Det är inte alltid fallet eftersom priser ändras.",
+      "Det är inte alltid fallet eftersom alla människor är olika.",
+      "Det är inte alltid fallet eftersom bussen kan vara försenad.",
+      "Det är inte alltid fallet eftersom affären kan vara stängd."
+    ],
+    "b2": [
+      "Det är inte alltid fallet eftersom marknaden är mycket oförutsägbar.",
+      "Det är inte alltid fallet eftersom olika regioner har olika behov.",
+      "Det är inte alltid fallet eftersom tekniken inte alltid fungerar som planerat.",
+      "Det är inte alltid fallet eftersom regler kan förändras snabbt.",
+      "Det är inte alltid fallet eftersom kostnaderna kan stiga oväntat."
+    ],
+    "c1": [
+      "Det är inte alltid fallet eftersom strukturella faktorer ofta motverkar den förväntade effekten.",
+      "Det är inte alltid fallet eftersom empirisk data visar på stora regionala variationer.",
+      "Det är inte alltid fallet eftersom teoretiska modeller sällan fångar verklighetens komplexitet.",
+      "Det är inte alltid fallet eftersom psykologiska mekanismer kan snedvrida beslutsfattandet.",
+      "Det är inte alltid fallet eftersom historiska prejudikat inte garanterar framtida utfall."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Jag ser på saken ...",
+    "translation": "I see things ...",
+    "b1": [
+      "Jag ser på saken på ett annat sätt.",
+      "Jag ser på saken ganska enkelt.",
+      "Jag ser på saken från en god sida.",
+      "Jag ser på saken mycket positivt.",
+      "Jag ser på saken på samma sätt som du."
+    ],
+    "b2": [
+      "Jag ser på saken ur ett mer pragmatiskt perspektiv.",
+      "Jag ser på saken med en viss skepsis.",
+      "Jag ser på saken som en möjlighet till utveckling.",
+      "Jag ser på saken utifrån ett helhetsperspektiv.",
+      "Jag ser på saken med stor oro för framtiden."
+    ],
+    "c1": [
+      "Jag ser på saken genom en kritiskt teoretisk lins.",
+      "Jag ser på saken som en återspegling av djupare strukturella spänningar.",
+      "Jag ser på saken utifrån ett tvärvetenskapligt synsätt.",
+      "Jag ser på saken som ett komplext samspel mellan historia och nutid.",
+      "Jag ser på saken med hänsyn till de långsiktiga geopolitiska effekterna."
+    ]
+  }
+]

@@ -9,7 +9,11 @@
     "pol": "Jaki jest najszybszy sposób, aby dostać się do centrum miasta?",
     "ces": "Jaká je nejrychlejší cesta do centra města?",
     "hun": "Mi a leggyorsabb módja annak, hogy bejussunk a városközpontba?",
-    "tur": "Şehir merkezine gitmenin en hızlı yolu nedir?"
+    "tur": "Şehir merkezine gitmenin en hızlı yolu nedir?",
+    "nld": "Wat is de snelste manier om naar het stadscentrum te gaan?",
+    "swe": "Vad är det snabbaste sättet att komma till stadskärnan?",
+    "dan": "Hvad er den hurtigste måde at komme til byens centrum på?",
+    "lux": "Wat ass de séierste Wee an d'Stadzenter?"
   },
   {
     "kor": "런던행 왕복 티켓 한 장 주세요.",
@@ -21,7 +25,11 @@
     "pol": "Poproszę bilet powrotny do Londynu.",
     "ces": "Jeden zpáteční lístek do Londýna, prosím.",
     "hun": "Egy retúrjegyet kérek Londonba.",
-    "tur": "Londra'ya bir gidiş-dönüş bileti lütfen."
+    "tur": "Londra'ya bir gidiş-dönüş bileti lütfen.",
+    "nld": "Een retourtje naar Londen, alstublieft.",
+    "swe": "En tur- och returbiljett till London, tack.",
+    "dan": "En returbillet til London, tak.",
+    "lux": "En Hin- an Zréckbilljee op London, wgl."
   },
   {
     "kor": "다음 버스는 10분 후에 도착합니다.",
@@ -33,7 +41,11 @@
     "pol": "Następny autobus przyjedzie za dziesięć minut.",
     "ces": "Příští autobus přijede za deset minut.",
     "hun": "A következő busz tíz perc múlva érkezik.",
-    "tur": "Bir sonraki otobüs on dakika içinde geliyor."
+    "tur": "Bir sonraki otobüs on dakika içinde geliyor.",
+    "nld": "De volgende bus arriveert over tien minuten.",
+    "swe": "Nästa buss anländer om tio minuter.",
+    "dan": "Den næste bus ankommer om ti minutter.",
+    "lux": "Den nächsten Bus kënnt an zéng Minutten."
   },
   {
     "kor": "기차역에 가려면 어디서 내려야 하나요?",
@@ -45,7 +57,11 @@
     "pol": "Gdzie powinienem wysiąść, żeby dojść do dworca kolejowego?",
     "ces": "Kde mám vystoupit, abych se dostal na nádraží?",
     "hun": "Hol kell leszállnom a vasútállomáshoz?",
-    "tur": "Tren istasyonu için nerede inmeliyim?"
+    "tur": "Tren istasyonu için nerede inmeliyim?",
+    "nld": "Waar moet ik uitstappen voor het treinstation?",
+    "swe": "Var ska jag gå av för tågstationen?",
+    "dan": "Hvor skal jeg stå af for at komme til banegården?",
+    "lux": "Wou muss ech fir d'Gare aussteigen?"
   },
   {
     "kor": "여기서 차를 빌릴 수 있나요?",
@@ -57,7 +73,11 @@
     "pol": "Czy można tutaj wypożyczyć samochód?",
     "ces": "Dá se tady půjčit auto?",
     "hun": "Lehet itt autót bérelni?",
-    "tur": "Burada araba kiralamak mümkün mü?"
+    "tur": "Burada araba kiralamak mümkün mü?",
+    "nld": "Is het mogelijk om hier een auto te huren?",
+    "swe": "Går det att hyra en bil här?",
+    "dan": "Er det muligt at leje en bil her?",
+    "lux": "Ass et méiglech, hei en Auto ze lounen?"
   },
   {
     "kor": "교통 체증 때문에 늦었습니다.",
@@ -69,7 +89,11 @@
     "pol": "Spóźniłem się przez korki.",
     "ces": "Jdu pozdě kvůli dopravní zácpě.",
     "hun": "Késtem a forgalmi dugó miatt.",
-    "tur": "Trafik sıkışıklığı yüzünden geciktim."
+    "tur": "Trafik sıkışıklığı yüzünden geciktim.",
+    "nld": "Ik ben te laat vanwege de file.",
+    "swe": "Jag är sen på grund av trafikstockningen.",
+    "dan": "Jeg er forsinket på grund af trafikproppen.",
+    "lux": "Ech sinn ze späte wéinst dem Stau."
   },
   {
     "kor": "박물관까지 가려면 버스를 갈아타야 하나요?",
@@ -81,7 +105,11 @@
     "pol": "Czy muszę się przesiadać, żeby dojechać do muzeum?",
     "ces": "Musím přestupovat, abych se dostal k muzeu?",
     "hun": "Át kell szállnom másik buszra a múzeumhoz?",
-    "tur": "Müzeye gitmek için otobüs değiştirmem gerekiyor mu?"
+    "tur": "Müzeye gitmek için otobüs değiştirmem gerekiyor mu?",
+    "nld": "Moet ik overstappen op een andere bus om bij het museum te komen?",
+    "swe": "Måste jag byta buss för att komma till museet?",
+    "dan": "Skal jeg skifte bus for at komme til museet?",
+    "lux": "Muss ech de Bus wiesselen fir an de Musée ze kommen?"
   },
   {
     "kor": "기차가 정시에 출발하나요?",
@@ -93,7 +121,11 @@
     "pol": "Czy pociąg odjeżdża punktualnie?",
     "ces": "Odjíždí ten vlak včas?",
     "hun": "Pontosan indul a vonat?",
-    "tur": "Tren zamanında kalkıyor mu?"
+    "tur": "Tren zamanında kalkıyor mu?",
+    "nld": "Vertrekt de trein op tijd?",
+    "swe": "Avgår tåget i tid?",
+    "dan": "Afgår toget til tiden?",
+    "lux": "Fiert den Zuch op Zäit fort?"
   },
   {
     "kor": "공항까지 택시비가 얼마나 나오나요?",
@@ -105,7 +137,11 @@
     "pol": "Ile kosztuje przejazd taksówką na lotnisko?",
     "ces": "Kolik stojí taxi na letiště?",
     "hun": "Mennyibe kerül a taxi az airportra?",
-    "tur": "Havalimanına taksi ücreti ne kadar tutar?"
+    "tur": "Havalimanına taksi ücreti ne kadar tutar?",
+    "nld": "Hoeveel kost een taxirit naar het vlieghaven?",
+    "swe": "Hur mycket kostar taxiresan till flygplatsen?",
+    "dan": "Hvor meget koster en taxitur til lufthavnen?",
+    "lux": "Wéi vill kascht d'Taxifahrt op den Flughafen?"
   },
   {
     "kor": "저는 보통 자전거를 타고 출근합니다.",
@@ -117,7 +153,11 @@
     "pol": "Zazwyczaj jeżdżę do pracy rowerem.",
     "ces": "Do práce obvykle jezdím na kole.",
     "hun": "Általában biciklivel járok dolgozni.",
-    "tur": "İşe genellikle bisikletle giderim."
+    "tur": "İşe genellikle bisikletle giderim.",
+    "nld": "Ik ga meestal met de fiets naar mijn werk.",
+    "swe": "Jag brukar cykla till jobbet.",
+    "dan": "Jeg cykler normalt på arbejde.",
+    "lux": "Ech fueren normalerweis mat dem Vëlo op d'Schicht."
   },
   {
     "kor": "이 티켓으로 지하철을 탈 수 있나요?",
@@ -129,7 +169,11 @@
     "pol": "Czy mogę użyć tego biletu w metrze?",
     "ces": "Můžu tenhle lístek použít na metro?",
     "hun": "Használhatom ezt a jegyet a metróhoz?",
-    "tur": "Bu bileti metro için kullanabilir miyim?"
+    "tur": "Bu bileti metro için kullanabilir miyim?",
+    "nld": "Kan ik dit kaartje gebruiken voor de metro?",
+    "swe": "Kan jag använda den här biljetten för tunnelbanan?",
+    "dan": "Kan jeg bruge denne billett til metroen?",
+    "lux": "Kann ech dëse Billjee fir d'Metro benotzen?"
   },
   {
     "kor": "가장 가까운 주유소가 어디인가요?",
@@ -141,7 +185,11 @@
     "pol": "Gdzie jest najbliższa stacja benzynowa?",
     "ces": "Kde je nejbližší čerpací stanice?",
     "hun": "Hol van a legközelebbi benzinkút?",
-    "tur": "En yakın benzin istasyonu nerede?"
+    "tur": "En yakın benzin istasyonu nerede?",
+    "nld": "Waar is het dichtstbijzijnde benzinestation?",
+    "swe": "Var är närmaste mack?",
+    "dan": "Hvor er den nærmeste tankstation?",
+    "lux": "Wou ass déi næchst Bensinstatioun?"
   },
   {
     "kor": "기차 안에서 음식을 먹어도 되나요?",
@@ -153,7 +201,11 @@
     "pol": "Czy w pociągu wolno jeść?",
     "ces": "Může se ve vlaku jíst?",
     "hun": "Szabad enni a vonaton?",
-    "tur": "Trende yemek yiyebilir miyiz?"
+    "tur": "Trende yemek yiyebilir miyiz?",
+    "nld": "Mogen we eten in de trein?",
+    "swe": "Får man äta på tåget?",
+    "dan": "Må man spise i toget?",
+    "lux": "Derf een am Zuch iessen?"
   },
   {
     "kor": "막차를 놓쳤습니다.",
@@ -165,7 +217,11 @@
     "pol": "Uciekł mi ostatni pociąg.",
     "ces": "Ujel mi poslední vlak.",
     "hun": "Lekéstem az utolsó vonatot.",
-    "tur": "Son treni kaçırdım."
+    "tur": "Son treni kaçırdım.",
+    "nld": "Ik heb de laatste trein gemist.",
+    "swe": "Jag missade sista tåget.",
+    "dan": "Jeg missede det sidste tog.",
+    "lux": "Ech hunn de leschten Zuch verpasst."
   },
   {
     "kor": "비행기 체크인 카운터는 어디인가요?",
@@ -177,7 +233,11 @@
     "pol": "Gdzie jest stanowisko odprawy na ten lot?",
     "ces": "Kde je odbavovací přepážka pro tento let?",
     "hun": "Hol van a járathoz a check-in pult?",
-    "tur": "Uçuş için check-in masası nerede?"
+    "tur": "Uçuş için check-in masası nerede?",
+    "nld": "Waar is de incheckbalie voor de vlucht?",
+    "swe": "Var är incheckningsdisken för flyget?",
+    "dan": "Hvor er check-in-skranken til flyet?",
+    "lux": "Wou ass den Check-in-Schalter fir de Fluch?"
   },
   {
     "kor": "어디서 택시를 잡을 수 있나요?",
@@ -189,7 +249,11 @@
     "pol": "Gdzie mogę złapać taksówkę?",
     "ces": "Kde si můžu vzít taxi?",
     "hun": "Hol tudok taxit fogni?",
-    "tur": "Nereden taksi tutabilirim?"
+    "tur": "Nereden taksi tutabilirim?",
+    "nld": "Waar kan ik een taxi nemen?",
+    "swe": "Var kan jag ta en taxi?",
+    "dan": "Hvor kan jeg fange en taxa?",
+    "lux": "Wou kann ech en Taxi huelen?"
   },
   {
     "kor": "이 버스는 매 15분마다 운행됩니다.",
@@ -201,7 +265,11 @@
     "pol": "Ten autobus kursuje co piętnaście minut.",
     "ces": "Tento autobus jezdí každých patnáct minut.",
     "hun": "Ez a busz tizenöt percenként jár.",
-    "tur": "Bu otobüs her on beş dakikada bir kalkıyor."
+    "tur": "Bu otobüs her on beş dakikada bir kalkıyor.",
+    "nld": "Deze bus rijdt elke vijftien minuten.",
+    "swe": "Den här bussen går var femtonde minut.",
+    "dan": "Denne bus kører hvert kvarter.",
+    "lux": "Dëse Bus fiert all fofzéng Minutten."
   },
   {
     "kor": "길을 건널 때 조심하세요.",
@@ -213,7 +281,11 @@
     "pol": "Uważaj, kiedy przechodzisz przez jezdnię.",
     "ces": "Dávej pozor, když přecházíš silnici.",
     "hun": "Légy óvatos, amikor átmész az úton!",
-    "tur": "Karşıdan karşıya geçerken dikkatli ol."
+    "tur": "Karşıdan karşıya geçerken dikkatli ol.",
+    "nld": "Kijk goed uit als je de straat oversteekt.",
+    "swe": "Var försiktig när du korsar gatan.",
+    "dan": "Pas på, når du krydser vejen.",
+    "lux": "Pas op, wann Dir d'Strooss iwwerquint."
   },
   {
     "kor": "항상 안전벨트를 매야 합니다.",
@@ -225,7 +297,11 @@
     "pol": "Zawsze należy zapinać pasy bezpieczeństwa.",
     "ces": "Vždycky se musíte připoutat.",
     "hun": "Mindig be kell kötni a biztonsági övet.",
-    "tur": "Emniyet kemerini her zaman takmalısınız."
+    "tur": "Emniyet kemerini her zaman takmalısınız.",
+    "nld": "Je moet altijd je autogordel dragen.",
+    "swe": "Du måste alltid ha bälte på dig.",
+    "dan": "Du skal altid have sikkerhedssele på.",
+    "lux": "Dir musst ëmmer Äre Sécherheetsgurt unhues."
   },
   {
     "kor": "기차가 사고 때문에 지연되었습니다.",
@@ -237,7 +313,11 @@
     "pol": "Pociąg jest opóźniony z powodu wypadku.",
     "ces": "Vlak má zpoždění kvůli nehodě.",
     "hun": "Baleset miatt késik a vonat.",
-    "tur": "Tren kaza nedeniyle gecikti."
+    "tur": "Tren kaza nedeniyle gecikti.",
+    "nld": "De trein heeft vertraging door een ongeval.",
+    "swe": "Tåget är försenat på grund av en olycka.",
+    "dan": "Toget er forsinket på grund af en ulykke.",
+    "lux": "Den Zuch huet Retard wéinst engem Accident."
   },
   {
     "kor": "이 근처에 주차할 곳이 있나요?",
@@ -249,7 +329,11 @@
     "pol": "Czy jest tutaj w pobliżu jakieś miejsce do parkowania?",
     "ces": "Dá se tady někde poblíž zaparkovat?",
     "hun": "Van a közelben valahol parkolóhely?",
-    "tur": "Buralarda park edecek bir yer var mı?"
+    "tur": "Buralarda park edecek bir yer var mı?",
+    "nld": "Is er hier in de buurt een parkeerplaats?",
+    "swe": "Finns det någon parkering här i närheten?",
+    "dan": "Er der et sted at parkere i nærheden?",
+    "lux": "Gëtt et hei an der Neetecht eng Parkméiglechkeet?"
   },
   {
     "kor": "여기는 일방통행 도로입니다.",
@@ -261,7 +345,11 @@
     "pol": "To jest ulica jednokierunkowa.",
     "ces": "Tohle je jednosměrka.",
     "hun": "Ez egyirányú utca.",
-    "tur": "Burası tek yönlü bir sokak."
+    "tur": "Burası tek yönlü bir sokak.",
+    "nld": "Dit is een eenrichtingsweg.",
+    "swe": "Det här är en enkelriktad gata.",
+    "dan": "Dette er en ensrettet gade.",
+    "lux": "Dëst ass eng Eeërrichtungstrooss."
   },
   {
     "kor": "오이스터 카드(교통카드)를 충전해야 합니다.",
@@ -273,7 +361,11 @@
     "pol": "Muszę doładować moją kartę miejską.",
     "ces": "Musím si dobít kartu na dopravu.",
     "hun": "Fel kell töltenem az utazási kártyámat.",
-    "tur": "Ulaşım kartıma para yüklemem gerekiyor."
+    "tur": "Ulaşım kartıma para yüklemem gerekiyor.",
+    "nld": "Ik moet mijn OV-chipkaart opwaarderen.",
+    "swe": "Jag måste ladda mitt resekort.",
+    "dan": "Jeg skal tanke mit rejsekort op.",
+    "lux": "Ech muss meng Fahrkaart oplueden."
   },
   {
     "kor": "버스 정류장에서 사람들이 줄을 서 있습니다.",
@@ -285,7 +377,11 @@
     "pol": "Ludzie stoją w kolejce na przystanku autobusowym.",
     "ces": "Lidé stojí ve frontě na autobusové zastávce.",
     "hun": "Az emberek sorban állnak a buszmegállóban.",
-    "tur": "Otobüs durağında insanlar kuyrukta bekliyor."
+    "tur": "Otobüs durağında insanlar kuyrukta bekliyor.",
+    "nld": "Mensen staan in de rij bij de bushalte.",
+    "swe": "Folk står i kö vid busshållplatsen.",
+    "dan": "Folk står i kø ved busstoppestedet.",
+    "lux": "D'Leit stinn an der Rei un der Bushalt."
   },
   {
     "kor": "목적지까지 얼마나 걸리나요?",
@@ -297,6 +393,10 @@
     "pol": "Ile czasu zajmuje dojazd do celu?",
     "ces": "Jak dlouho trvá cesta do cíle?",
     "hun": "Mennyi időbe telik, mire odaérünk?",
-    "tur": "Varış noktasına ulaşmak ne kadar sürer?"
+    "tur": "Varış noktasına ulaşmak ne kadar sürer?",
+    "nld": "Hoe lang duurt het om de bestemming te bereiken?",
+    "swe": "Hur lång tid tar det att nå destinationen?",
+    "dan": "Hvor lang tid tager det at nå destinationen?",
+    "lux": "Wéi lang dauert et bis op d'Destinatioun?"
   }
 ]

@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Menger Meenung no, ...",
+    "translation": "In my opinion, ...",
+    "b1": [
+      "Menger Meenung no ass dëse Film ganz interessant.",
+      "Menger Meenung no solle mir méi Geméis iessen.",
+      "Menger Meenung no ass d'Stad am Summer ze laut.",
+      "Menger Meenung no ass Lëtzebuergesch léieren eng gutt Erausfuerderung.",
+      "Menger Meenung no wäert et dësen Nomëtteg reenen."
+    ],
+    "b2": [
+      "Menger Meenung no sollt d'Regierung méi an erneierbar Energie investéieren.",
+      "Menger Meenung no fërdert Teleaarbecht eng besser Balance tëscht Beruffs- a Privatliewen.",
+      "Menger Meenung no äntwert dës Reform net op d'Erwaardunge vun de Bierger.",
+      "Menger Meenung no ass et ganz wichteg, déi Jugendlech fir den Emweltschutz ze sensibiliséieren.",
+      "Menger Meenung no huet d'Globaliséierung een komplexen Impakt op déi lokal Kulturen."
+    ],
+    "c1": [
+      "Menger Meenung no schwächt déi dauerhaft Präsenz vu digitalen Medien ons Konzentratiounsfäegkeet.",
+      "Menger Meenung no kann dës Problematik net ouni eng verstäerkt international Kooperatioun geléist ginn.",
+      "Menger Meenung no geet d'Aesthetic vun dësem Werk iwwer déi traditionell Coden aus där Zäit eraus.",
+      "Menger Meenung no wier et illusoresch ze gleewen, datt d'Wirtschaftswuesstum onendlech ka sinn.",
+      "Menger Meenung no ass d'Prekariséierung vun der Aarbecht eng grouss Brems fir de sozialen Entfaltung."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Ech gleewen, datt ...",
+    "translation": "I believe that ...",
+    "b1": [
+      "Ech gleewen, datt et muer schéint Wieder gëtt.",
+      "Ech gleewen, datt mir méi Sport maache sollten.",
+      "Ech gleewen, datt hien d'Wourecht seet.",
+      "Ech gleewen, datt dëse Restaurant dee beschten an der Stad ass.",
+      "Ech gleewen, datt mir séier eng Léisung fannen."
+    ],
+    "b2": [
+      "Ech gleewen, datt nei Technologien ons Liewensqualitéit däitlech verbessere kënnen.",
+      "Ech gleewen, datt d'Erzéihung de Schlëssel fir eng gerecht Gesellschaft ass.",
+      "Ech gleewen, datt dës Moossnam positiv Auswierkungen op d'Ekonomie wäert hunn.",
+      "Ech gleewen, datt d'Transparenz an der Politik d'Vertrauen erëmhierstelle kann.",
+      "Ech gleewen, datt jiddereen eng zweet Chance verdéngt huet."
+    ],
+    "c1": [
+      "Ech gleewen, datt d'Mënschheet virun engem entscheedenden ethschen Wendepunkt steet.",
+      "Ech gleewen, datt eng nohalteg Entwécklung e fundamentalt Ëmdenken vun eisem Konsummodell verlaangt.",
+      "Ech gleewen, datt d'Kulturschafend eng zentral Roll am gesellschaftlechen Diskurs spillen.",
+      "Ech gleewen, datt déi geopolitesch Instabilitéit déifgräifend Ursaachen huet.",
+      "Ech gleewen, datt d'Artifiziel Intelligenz d'Aarbechtswelt op eng eemoleg Aart a Weis transforméiere wäert."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Mir schéngt et, wéi wann ...",
+    "translation": "It seems to me that ...",
+    "b1": [
+      "Mir schéngt et, wéi wann de Bus Verspéidung huet.",
+      "Mir schéngt et, wéi wann si vill Aarbecht huet.",
+      "Mir schéngt et, wéi wann dëse Plang gutt ass.",
+      "Mir schéngt et, wéi wann hien midd ass.",
+      "Mir schéngt et, wéi wann d'Aufgab ze schwéier ass."
+    ],
+    "b2": [
+      "Mir schéngt et, wéi wann d'Situatioun sech lues a lues verbessert.",
+      "Mir schéngt et, wéi wann d'Kommunikatioun tëscht de Requêtë feelt.",
+      "Mir schéngt et, wéi wann eng Minoritéit vun de Leit iwwer dëse Projet informéiert ass.",
+      "Mir schéngt et, wéi wann d'Budgeten net richteg agesat ginn.",
+      "Mir schéngt et, wéi wann mir d'Prioritéiten nei uleeë musse."
+    ],
+    "c1": [
+      "Mir schéngt et, wéi wann déi aktuell Moossname just Symptombekämpfung wieren.",
+      "Mir schéngt et, wéi wann d'Spannungen bannent der Organisatioun den neie Projet blokkieren.",
+      "Mir schéngt et, wéi wann mir d'laangfristeg Konsequenze vun dëser Entscheedung ënnerschätzen.",
+      "Mir schéngt et, wéi wann den öffentlechen Diskurs ëmmer méi polariséiert gëtt.",
+      "Mir schéngt et, wéi wann dës Paradigma-Verschiebung onvermeidlech wier."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "A mengen Aen, ...",
+    "translation": "From my perspective, ...",
+    "b1": [
+      "A mengen Aen ass dat eng gutt Idee.",
+      "A mengen Aen ass den Auto ze deier.",
+      "A mengen Aen huet hie recht.",
+      "A mengen Aen ass d'Liewen um Land méi roueg.",
+      "A mengen Aen ass et ze spéit fir fortzefueren."
+    ],
+    "b2": [
+      "A mengen Aen ass d'Flexibilitéit am Beruff ee wichtegen Deel vum Erfolleg.",
+      "A mengen Aen sollt d'Kultur fir jiddereen zougänglech gemaach ginn.",
+      "A mengen Aen representéiert dëse Projet ee grousse Schrëtt no vir.",
+      "A mengen Aen feelt et an eiser Gesellschaft un Empathie.",
+      "A mengen Aen ass d'Klimaännerung déi gréisst Erausfuerderung vun eiser Zäit."
+    ],
+    "c1": [
+      "A mengen Aen ass dëst Argument eng konzeptuell Fehlerhaftegkeet.",
+      "A mengen Aen reflektéiert dës politesch Decisioun eng kuerzsiichteg Strategie.",
+      "A mengen Aen verursaacht dës Dynamik eng geféierlech Fragmentéierung vun der Gesellschaft.",
+      "A mengen Aen mussen déi eethesch Normen un déi technesch Entwécklung ugepasst ginn.",
+      "A mengen Aen ass d'Integratioun vun neien Iddien e Katalysator fir Innovatioun."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Ech sinn d'Iwwerzeegung, datt ...",
+    "translation": "I strongly feel that ...",
+    "b1": [
+      "Ech sinn d'Iwwerzeegung, datt mir dëse Match gewannen.",
+      "Ech sinn d'Iwwerzeegung, datt si déi richteg Decisioun geholl huet.",
+      "Ech sinn d'Iwwerzeegung, datt d'Natur schéien ass.",
+      "Ech sinn d'Iwwerzeegung, datt Gesondheet dat Wichtigst ass.",
+      "Ech sinn d'Iwwerzeegung, datt mir gutt zesummeschaffe kënnen."
+    ],
+    "b2": [
+      "Ech sinn d'Iwwerzeegung, datt d'Inklusioun an de Schoulen eng Prioritéit sollt sinn.",
+      "Ech sinn d'Iwwerzeegung, datt d'Diversitéit eng Bereicherung fir eist Land ass.",
+      "Ech sinn d'Iwwerzeegung, datt mir déi jonk Generatioun méi ënnerstëtze mussen.",
+      "Ech sinn d meeschten d'Iwwerzeegung, datt d'Investitioun an d'Fuerschung absolut noutwendeg ass.",
+      "Ech sinn d'Iwwerzeegung, datt e gerechten Loun d'Basis fir sozial Stabilitéit ass."
+    ],
+    "c1": [
+      "Ech sinn d'Iwwerzeegung, datt eng radikal Kéier an der Ëmweltpolitik onëmgaanglech ass.",
+      "Ech sinn d'Iwwerzeegung, datt d'Erhaltung vun der Demokratie eng stänneg Revisitatioun vun de Wäerter erfuerdert.",
+      "Ech sinn d'Iwwerzeegung, datt dës intellektuell Haltung e fundamentalt Hindernis fir de Fortschrëtt ass.",
+      "Ech sinn d'Iwwerzeegung, datt d'Mënscherechter onantaschtbar bleiwen musse.",
+      "Ech sinn d'Iwwerzeegung, datt d'systemesch Interdependenz vun den internationalen Mäert nei Reglementer verlaangt."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Ech géif behaapten, datt ...",
+    "translation": "I would argue that ...",
+    "b1": [
+      "Ech géif behaapten, datt d'Liesen hëlleft fir besser ze schreiwen.",
+      "Ech géif behaapten, datt Kaffi moossvoll gutt fir d'Gesondheet ass.",
+      "Ech géif behaapten, datt reesen eis Horizonter erweidert.",
+      "Ech géif behaapten, datt d'Musek eis Stëmmung verbessert.",
+      "Ech géif behaapten, datt mir méi schlofen musse."
+    ],
+    "b2": [
+      "Ech géif behaapten, datt de Wirtschaftswuesstum net op Käschte vun der Ëmwelt goe däerf.",
+      "Ech géif behaapten, datt déi sozial Medien méi Nodeeler wéi Virdeeler fir déi Jonk hunn.",
+      "Ech géif behaapten, datt de perséinlechen Engagement den Ënnerscheed mécht.",
+      "Ech géif behaapten, datt dëse System eng grëndlech Reform brauch.",
+      "Ech géif behaapten, datt Kuerzaarbecht eng gutt Léisung an der Kris war."
+    ],
+    "c1": [
+      "Ech géif behaapten, datt dëssozio-ekonomesch Desequiliber d'Stabilitéit vun eise Systemer bedrohen.",
+      "Ech géif behaapten, datt d'Iwwerleeënheet vu bestëmmte politeschen Doktrinen op falsch Suppositiounen berout.",
+      "Ech géif behaapten, datt d'Kultur d'Haaptstützpunkt vun der nationaler Identitéit ass.",
+      "Ech géif behaapten, datt déi intellektuell Integritéit an der wëssenschaftlecher Fuerschung absolut muss erhal ginn.",
+      "Ech géif behaapten, datt den technologesche Fortschrëtt net automatesch mat mënschlechem Fortschrëtt gläichzesetzen ass."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Wat ech mengen ass, datt ...",
+    "translation": "What I mean is, ...",
+    "b1": [
+      "Wat ech mengen ass, datt mir méi Zäit brauche.",
+      "Wat ech mengen ass, datt de Präis ze héich ass.",
+      "Wat ech mengen ass, datt dat keng gutt Iddi ass.",
+      "Wat ech mengen ass, datt mir elo fortgoe sollten.",
+      "Wat ech mengen ass, datt hien hëllefe kann."
+    ],
+    "b2": [
+      "Wat ech mengen ass, datt mir eng ganzheetlech Léisung fir dëst Problem fannen musse.",
+      "Wat ech mengen ass, datt d'Qualitéit méi wichteg ass wéi d'Quantitéit.",
+      "Wat ech mengen ass, datt d'Prozeduren vereinfacht gi mussen.",
+      "Wat ech mengen ass, datt mir de Kontext vun der Situatioun berücksichtegen musse.",
+      "Wat ech mengen ass, datt d'Verantwortung bei eis all läit."
+    ],
+    "c1": [
+      "Wat ech mengen ass, datt déi Kärproblematik an de strukturellen Aspekter vun der Organisatioun läit.",
+      "Wat ech mengen ass, datt eng reng monethär Approche d'Sümpfe vun der Aarmut net ka besechtegen.",
+      "Wat ech mengen ass, datt déi epistemoogesch Grondlag vum Diskurs muss hannerfrot ginn.",
+      "Wat ech mengen ass, datt d'Erhaltung vun der Biodiversitéit e paradigmatesche Wiessel erfuerdert.",
+      "Wat ech mengen ass, datt déi juristesch Grauzonen zu villen Mëssbrauche féieren."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Wann Dir mech frot, ...",
+    "translation": "If you ask me, ...",
+    "b1": [
+      "Wann Dir mech frot, ass dëst dat bescht Buch vum Joer.",
+      "Wann Dir mech frot, solle mir méi dacks trëppelen goen.",
+      "Wann Dir mech frot, ass den Zuch méi bequem wéi den Auto.",
+      "Wann Dir mech frot, ass dës Faarf ganz schéin.",
+      "Wann Dir mech frot, ass et haut ze kal fir schwammen ze goen."
+    ],
+    "b2": [
+      "Wann Dir mech frot, goufen d'Ressourcen an dësem Projet net effizient benotzt.",
+      "Wann Dir mech frot, mussen d'Gesetzer fir den Dateschutz verschärft ginn.",
+      "Wann Dir mech frot, ass d'Investitioun an den ëffentlechen Transport de beschte Wee.",
+      "Wann Dir mech frot, bréngt dës nei Reegel nëmmen zousätzlech Bürokratie.",
+      "Wann Dir mech frot, feelt et dem Team u kloerer Orientéierung."
+    ],
+    "c1": [
+      "Wann Dir mech frot, ass dës Reaktioun vun der Regierung reng opportunistesch.",
+      "Wann Dir mech frot, reflektéiert dës Kris déi déif Incohérence vun eisem Wirtschaftssystem.",
+      "Wann Dir mech frot, ass déi aktuell Debatt vill ze polariséiert an net sachlech genuch.",
+      "Wann Dir mech frot, leide mir ënner enger systemescher Erosioun vum gesellschaftlechen Zesummenhalt.",
+      "Wann Dir mech frot, wäert dës Technologiewell d'Aarbechtswelt fundmental ëmstrécken."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Ech ka mir voll a ganz uschléissen bei ...",
+    "translation": "I couldn't agree more with ...",
+    "b1": [
+      "Ech ka mir voll a ganz uschléissen bei Denger Iddi.",
+      "Ech ka mir voll a ganz uschléissen bei dem wat Du sees.",
+      "Ech ka mir voll a ganz uschléissen bei Denger Propositioun.",
+      "Ech ka mir voll a ganz uschléissen bei Denger Analyse vun dësem Film.",
+      "Ech ka mir voll a ganz uschléissen bei dëser Entscheedung."
+    ],
+    "b2": [
+      "Ech ka mir voll a ganz uschléissen bei dësem Appell fir méi Nohaltegkeet.",
+      "Ech ka mir voll a ganz uschléissen bei der Meenung vum Expert iwwer den Aarbechtsmaart.",
+      "Ech ka mir voll a ganz uschléissen bei der Kritik un dëser neier Moossnam.",
+      "Ech ka mir voll a ganz uschléissen bei Denger Ausso iwwer d'Wichtegkeet vun der Erzéihung.",
+      "Ech ka mir voll a ganz uschléissen bei der Strategie vun der Firma."
+    ],
+    "c1": [
+      "Ech ka mir voll a ganz uschléissen bei dëser nuancéierter an am Detail duerchduechter Analyse.",
+      "Ech ka mir voll a ganz uschléissen bei dëser kritescher Evaluatioun vun der aktueller Emweltpolitik.",
+      "Ech ka mir voll a ganz uschléissen bei dem Plädoyer fir d'Erhaltung vun der intellektueller Onofhängegkeet.",
+      "Ech ka mir voll a ganz uschléissen bei dëser wëssenschaftlecher Thees iwwer de Klimawandel.",
+      "Ech ka mir voll a ganz uschléissen bei der Konklusioun vum Rapport iwwer déi sozial Inogalitéiten."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Dat ass ee validen Argument, awer ...",
+    "translation": "That's a valid point, but ...",
+    "b1": [
+      "Dat ass ee validen Argument, awer de Präis ass ze héich.",
+      "Dat ass ee validen Argument, awer mir hunn keng Zäit.",
+      "Dat ass ee validen Argument, awer d'Wieder ass schlecht.",
+      "Dat ass ee validen Argument, awer mir brauche méi Informatiounen.",
+      "Dat ass ee validen Argument, awer net jidderee stëmmt zou."
+    ],
+    "b2": [
+      "Dat ass ee validen Argument, awer mir mussen och déi laangfristeg Käschten bedenken.",
+      "Dat ass ee validen Argument, awer d'ëmwelttechnesch Konsequenze si mir net kloer.",
+      "Dat ass ee validen Argument, awer d'Praxis kéint vill méi komplizéiert ginn.",
+      "Dat ass ee validen Argument, awer et ginn nach aner Alternativen, déi mir iwwerleeë sollten.",
+      "Dat ass ee validen Argument, awer mir kënnen d'Risiken net einfach ignoréieren."
+    ],
+    "c1": [
+      "Dat ass ee validen Argument, awer dës Perspektiv hëlt déi strukturell Ongläichheeten net genuch a Betracht.",
+      "Dat ass ee validen Argument, awer déi empíresch Evidenz weist op eng vill méi komplex Realitéit hin.",
+      "Dat ass ee validen Argument, awer dës Léisung kéint ongewollt an destruktiv Niewewierkungen hunn.",
+      "Dat ass ee validen Argument, awer mir mussen de macroekonomesche Kontext mat an d'Rechnung zéien.",
+      "Dat ass ee validen Argument, awer d'ethnesch Implikatioune vun dëser Decisioun dierfen net vernoléissegt ginn."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Ech sinn do net ganz averstanen mat ...",
+    "translation": "I beg to differ on ...",
+    "b1": [
+      "Ech sinn do net ganz averstanen mat Denger Meenung.",
+      "Ech sinn do net ganz averstanen mat dësem Plang.",
+      "Ech sinn do net ganz averstanen mat dem Resultat.",
+      "Ech sinn do net ganz averstanen mat der Propositioun.",
+      "Ech sinn do net ganz averstanen mat Ärer Interpretatioun."
+    ],
+    "b2": [
+      "Ech sinn do net ganz averstanen mat der Analyse vun der wirtschaftlecher Situatioun.",
+      "Ech sinn do net ganz averstanen mat der Wiel vun de Prioritéiten an dësem Budget.",
+      "Ech sinn do net ganz averstanen mat der Argumentatioun vun der Direktioun.",
+      "Ech sinn do net ganz averstanen mat de Schlussfolgerungen aus dëser Studie.",
+      "Ech sinn do net ganz averstanen mat der Sécherheetspolitik vun der Gemeng."
+    ],
+    "c1": [
+      "Ech sinn do net ganz averstanen mat dëser extrem vereinfachter Duerstellung vum Problem.",
+      "Ech sinn do net ganz averstanen mat den theoreteschen Grondlagen vun dëser Doktrin.",
+      "Ech sinn do net ganz averstanen mat der Methodologie, déi fir dës Evaluatioun benotzt gouf.",
+      "Ech sinn do net ganz averstanen mat der Interpretatioun vun den historeschen Donnéeën.",
+      "Ech sinn do net ganz averstanen mat der Behauptung, datt dës Approche alternativlos wier."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Och wann ech verstehen datt ..., spieren ech dach ...",
+    "translation": "While I understand that ..., I still feel ...",
+    "b1": [
+      "Och wann ech verstehen datt et deier ass, spieren ech dach datt et sech lount.",
+      "Och wann ech verstehen datt Du midd bass, spieren ech dach datt mir elo d'Aarbecht fäerdeg maache mussen.",
+      "Och wann ech verstehen datt et reent, spieren ech dach datt mir rausgoe kënnen.",
+      "Och wann ech verstehen datt d'Reegel wichteg ass, spieren ech dach datt mir eng Ausnahm maache kënnen.",
+      "Och wann ech verstehen datt Du besuergt bass, spieren ech dach datt alles gutt geet."
+    ],
+    "b2": [
+      "Och wann ech verstehen datt dës Reform néideg ass, spieren ech dach datt d'Iwwergangsperiod ze kuerz ass.",
+      "Och wann ech verstehen datt d'Firma Sue spueren muss, spieren ech dach datt d'Entloossungen net déi richteg Léisung sinn.",
+      "Och wann ech verstehen datt d'Technologie eis hëlleft, spieren ech dach datt mir d'mënschlech Kontakter net verléiere däerfen.",
+      "Och wann ech verstehen datt d'Moossnam gutt gemengt ass, spieren ech dach datt se ze streng kontrolléiert gëtt.",
+      "Och wann ech verstehen datt den Zäitdrock grouss ass, spieren ech dach datt d'Qualitéit net dorënner leiden däerf."
+    ],
+    "c1": [
+      "Och wann ech verstehen datt déi ekonomesch Drockmëttelen eng Roll spillen, spieren ech dach datt déi ethnesch Prinzipie Prioritéit mussen hunn.",
+      "Och wann ech verstehen datt d'Effizienz vun der Administratioun muss gesteigert ginn, spieren ech dach datt eng ze staark Automatiséierung d'Gerechtegkeet ka schueden.",
+      "Och wann ech verstehen datt d'Sécherheetsbedierfnes vun der Bevëlkerung grouss ass, spieren ech dach datt d'Privatsphär net komplett opgeschaff ginn däerf.",
+      "Och wann ech verstehen datt déi wëssenschaftlech Theorie logesch klingend ass, spieren ech dach datt se d'Komplexitéit vun der Praxis ignoréiert.",
+      "Och wann ech verstehen datt d'Globaliséierung Chance bitt, spieren ech dach datt mir déi lokal Identitéite méi stäerken musse."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Mat all gebührendem Respekt, ...",
+    "translation": "With all due respect, ...",
+    "b1": [
+      "Mat all gebührendem Respekt, muss ech soen datt d'Iessen net gutt schmeckt.",
+      "Mat all gebührendem Respekt, fannen ech dëse Plang net ganz gutt.",
+      "Mat all gebührendem Respekt, widderspriechen ech Iech op dësem Punkt.",
+      "Mat all gebührendem Respekt, gehéiert dat net heihin.",
+      "Mat all gebührendem Respekt, hutt Dir meng Fro net beäntwert."
+    ],
+    "b2": [
+      "Mat all gebührendem Respekt, mengen ech datt Dir d'Komplexitéit vun der Situatioun ënnerschätzt.",
+      "Mat all gebührendem Respekt, huet d'Direktioun hei eng falschen Decisioun geholl.",
+      "Mat all gebührendem Respekt, entsprécht dës Propositioun net de Bedierfnesser vun der Bevëlkerung.",
+      "Mat all gebührendem Respekt, sinn dës Donnéeën net méi aktuell.",
+      "Mat all gebührendem Respekt, sollt Dir d'Meenung vum Team méi eescht huelen."
+    ],
+    "c1": [
+      "Mat all gebührendem Respekt, berout Äert Argument op enger unvollständeger Interpretatioun vun den Tatsaachen.",
+      "Mat all gebührendem Respekt, ass déi gewielt Strategie inkompatibel mat eisen laangfristege Ziler.",
+      "Mat all gebührendem Respekt, stellt dës Prozedur e verfassungsrechtlechen Dilemma duer.",
+      "Mat all gebührendem Respekt, feelt et Ärer Analyse an dësem spezifesche Beräich un wëssenschaftlecher Déift.",
+      "Mat all gebührendem Respekt, dierf d'Erhaltung vun enger Institution net iwwer dem Wohl vun de Bierger stoen."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Ech sinn mir net ganz sécher iwwer ...",
+    "translation": "I'm not entirely sure about ...",
+    "b1": [
+      "Ech sinn mir net ganz sécher iwwer dës Äntwert.",
+      "Ech sinn mir net ganz sécher iwwer d'Auerzäit vum Rendez-vous.",
+      "Ech sinn mir net ganz sécher iwwer den Datum vum Examen.",
+      "Ech sinn mir net ganz sécher iwwer de Wee fir dohin.",
+      "Ech sinn mir net ganz sécher iwwer d'Wieder fir muer."
+    ],
+    "b2": [
+      "Ech sinn mir net ganz sécher iwwer déi laangfristeg Auswierkunge vun dëser Decisioun.",
+      "Ech sinn mir net ganz sécher iwwer d'Zouverlässegkeet vun dësen Informatiounen.",
+      "Ech sinn mir net ganz sécher iwwer d'Anerkennung vun dësem Diploms am Ausland.",
+      "Ech sinn mir net ganz sécher iwwer d'Léisung fir dëst technesch Problem.",
+      "Ech sinn mir net ganz sécher iwwer d'Finanzéierung vun dësem neie Projet."
+    ],
+    "c1": [
+      "Ech sinn mir net ganz sécher iwwer déi juristesch Haltbarkeet vun dësem neie Gesetzestext.",
+      "Ech sinn mir net ganz sécher iwwer d'Validitéit vun den theoreteschen Postulaten an dëser Studie.",
+      "Ech sinn mir net ganz sécher iwwer déi geo-strategesch Implikatioune vun dësem Abkommen.",
+      "Ech sinn mir net ganz sécher iwwer d'Ethischkeet vun dësem wëssenschaftlechen Experiment.",
+      "Ech sinn mir net ganz sécher iwwer déi nohalteg Rentabilitéit vun dëser Iwwerhalung vum System."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Kéint Dir méi detailléiert erklären ...?",
+    "translation": "Could you elaborate on ...?",
+    "b1": [
+      "Kéint Dir méi detailléiert erklären, wat Dir meent?",
+      "Kéint Dir méi detailléiert erklären, wéi den neie Plang funktionéiert?",
+      "Kéint Dir méi detailléiert erklären, firwat d'Käschte sou héich sinn?",
+      "Kéint Dir méi detailléiert erklären, wou d'Aarbecht gemaach gëtt?",
+      "Kéint Dir méi detailléiert erklären, wéini mir d'Resultater kréien?"
+    ],
+    "b2": [
+      "Kéint Dir méi detailléiert erklären, wéi Dir dës Reegelen ëmsetzen wëllt?",
+      "Kéint Dir méi detailléiert erklären, wéi d'Risiken an dësem Projet evaluéiert goufen?",
+      "Kéint Dir méi detailléiert erklären, wéi eng Impakt dat op eis Partner wäert hunn?",
+      "Kéint Dir méi detailléiert erklären, op wéi enger Basis dës Prognosen berouen?",
+      "Kéint Dir méi detailléiert erklären, wat d'Haaptursaache fir dës Verspéidung sinn?"
+    ],
+    "c1": [
+      "Kéint Dir méi detailléiert erklären, wéi sech déi epistemologesch Virunnehmunge op Är Fuerschung auswierken?",
+      "Kéint Dir méi detailléiert erklären, wéi d'Méiglechkeeten an déi makroekonomesch Variablen an Ärem Modell verknëppt sinn?",
+      "Kéint Dir méi detailléiert erklären, op wéi eng Aart a Weis dës Reform déi institutionell Stabilitéit beaflosst?",
+      "Kéint Dir méi detailléiert erklären, wéi d'Reguléierung vun den Dateschutzerklärungssystemer konzipéiert gëtt?",
+      "Kéint Dir méi detailléiert erklären, wéi déi intellektuell Eegentumsrechter an dësem internationale Kontext geschützt ginn?"
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Ech hunn gemëschte Gefiller iwwer ...",
+    "translation": "I have mixed feelings about ...",
+    "b1": [
+      "Ech hunn gemëschte Gefiller iwwer eise neie Chef.",
+      "Ech hunn gemëschte Gefiller iwwer d'Pläng fir de Weekend.",
+      "Ech hunn gemëschte Gefiller iwwer de Film, den mir gëschter gesinn hunn.",
+      "Ech hunn gemëschte Gefiller iwwer déi nei Reegelen an der Schoul.",
+      "Ech hunn gemëschte Gefiller iwwer den Ëmzug an eng aner Stad."
+    ],
+    "b2": [
+      "Ech hunn gemëschte Gefiller iwwer d'Erhéijung vun de Steieren fir den Ëmweltschutz.",
+      "Ech hunn gemëschte Gefiller iwwer d'Benotzung vun AI am Alldag.",
+      "Ech hunn gemëschte Gefiller iwwer déi séier Expansioun vun eiser Firma.",
+      "Ech hunn gemëschte Gefiller iwwer déi nei Aarbechtszäitmodeller.",
+      "Ech hunn gemëschte Gefiller iwwer d'Restrukturéierung vum Departement."
+    ],
+    "c1": [
+      "Ech hunn gemëschte Gefiller iwwer d'Kommerzialiséierung vun der akademescher Fuerschung.",
+      "Ech hunn gemëschte Gefiller iwwer déi zousätzlech Iwwerwaachungsmoossnamen am ëffentleche Raum.",
+      "Ech hunn gemëschte Gefiller iwwer d'Dereguléierung vum Finanzmarkt an de Wuesstumssecteuren.",
+      "Ech hunn gemëschte Gefiller iwwer d'Etabléierung vu supranationalen Entscheedungsinstanzen.",
+      "Ech hunn gemëschte Gefiller iwwer d'Automatiséierung vun eethschen Entscheedungsprozesser."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Loosst eis verbleiwen datt mir net derselwer Meenung sinn iwwer ...",
+    "translation": "Let's agree to disagree on ...",
+    "b1": [
+      "Loosst eis verbleiwen datt mir net derselwer Meenung sinn iwwer dëse Film.",
+      "Loosst eis verbleiwen datt mir net derselwer Meenung sinn iwwer dat wat mir iesse sollen.",
+      "Loosst eis verbleiwen datt mir net derselwer Meenung sinn iwwer d'Wahl vun der Vakanzendestinatioun.",
+      "Loosst eis verbleiwen datt mir net derselwer Meenung sinn iwwer de Spillstil vun der Ekipp.",
+      "Loosst eis verbleiwen datt mir net derselwer Meenung sinn iwwer d'Faarf vum Auto."
+    ],
+    "b2": [
+      "Loosst eis verbleiwen datt mir net derselwer Meenung sinn iwwer déi beschte Marketingstrategie.",
+      "Loosst eis verbleiwen datt mir net derselwer Meenung sinn iwwer d'Ursaache vun der Wirtschaftskris.",
+      "Loosst eis verbleiwen datt mir net derselwer Meenung sinn iwwer déi politesch Prioritéiten.",
+      "Loosst eis verbleiwen datt mir net derselwer Meenung sinn iwwer d'Bewäertung vun dësem Projet.",
+      "Loosst eis verbleiwen datt mir net derselwer Meenung sinn iwwer d'Noutwendegkeet vun dësen Restriktiounen."
+    ],
+    "c1": [
+      "Loosst eis verbleiwen datt mir net derselwer Meenung sinn iwwer déi theoretesch Fundamenter vun dëser Soziologie-Thees.",
+      "Loosst eis verbleiwen datt mir net derselwer Meenung sinn iwwer déi ideologesch Interpretatioun vun den historeschen Eventer.",
+      "Loosst eis verbleiwen datt mir net derselwer Meenung sinn iwwer d'Gerechtegkeet vun dëser steierlecher Ëmverteilung.",
+      "Loosst eis verbleiwen datt mir net derselwer Meenung sinn iwwer déi ethesch Grenzen vun der Genforschung.",
+      "Loosst eis verbleiwen datt mir net derselwer Meenung sinn iwwer déi laangfristeg Auswierkunge vun der Währungsreform."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Hutt Dir schonn un ... geduecht?",
+    "translation": "Have you considered ...?",
+    "b1": [
+      "Hutt Dir schonn un d'Käschte geduecht?",
+      "Hutt Dir schonn un d'Wieder geduecht?",
+      "Hutt Dir schonn un eng aner Léisung geduecht?",
+      "Hutt Dir schonn un den Zäitplang geduecht?",
+      "Hutt Dir schonn un de Bus geduecht fir dohinner ze goen?"
+    ],
+    "b2": [
+      "Hutt Dir schonn un déi méiglech Niewewierkunge vun dësem Plang geduecht?",
+      "Hutt Dir schonn un d'Alternative am Beräich vun den erneierbaren Energien geduecht?",
+      "Hutt Dir schonn un eng Zesummenaarbecht mat eise lokalen Partner geduecht?",
+      "Hutt Dir schonn un déi Juristesch Risiken vun dësem Projet geduecht?",
+      "Hutt Dir schonn un d'Auswierkungen op de Reussite vun de Studenten geduecht?"
+    ],
+    "c1": [
+      "Hutt Dir schonn un d'Konsequenze vun dëser Decisioun fir déi geopolitesch Stabilitéit an der Regioun geduecht?",
+      "Hutt Dir schonn un d'Synergien geduecht, déi duerch eng interdisziplinär Approche entstoe kéinten?",
+      "Hutt Dir schonn un déi laangfristeg sozio-demographesch Entwécklungen geduecht?",
+      "Hutt Dir schonn un d'Risiken vun enger ze grousser Monopoliséierung an dësem Maartsegment geduecht?",
+      "Hutt Dir schonn un d'Revisioun vun den ethesche Richtlinnen am Kader vun dëser technologescher Innovatioun geduecht?"
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Dat ass net ëmmer de Fall, well ...",
+    "translation": "That's not always the case because ...",
+    "b1": [
+      "Dat ass net ëmmer de Fall, well de Bus heiansdo ze spéit kënnt.",
+      "Dat ass net ëmmer de Fall, well et am Summer och reene kann.",
+      "Dat ass net ëmmer de Fall, well net alleguer d'Leit déiselwecht Saachen gären hunn.",
+      "Dat ass net ëmmer de Fall, well de Präis ka wiesselen.",
+      "Dat ass net ëmmer de Fall, well mir net ëmmer Zäit hunn."
+    ],
+    "b2": [
+      "Dat ass net ëmmer de Fall, well d'Resultater vun de spezifesche Bedéngungen ofhänken.",
+      "Dat ass net ëmmer de Fall, well déi nei Technologien och nei Problemer mat sech bréngen.",
+      "Dat ass net ëmmer de Fall, well d'Reegelen an all Land anescht sinn.",
+      "Dat ass net ëmmer de Fall, well d'Erfarung weist, datt et vill Ausnahme ginn.",
+      "Dat ass net ëmmer de Fall, well d'Prognosen net ëmmer akkurat sinn."
+    ],
+    "c1": [
+      "Dat ass net ëmmer de Fall, well déi makroekonomesch Variablen duerch exogen Schocken beaflosst kënne ginn.",
+      "Dat ass net ëmmer de Fall, well déi empiresch Analyse d'Existenz vu signifikanten Anomalie opweist.",
+      "Dat ass net ëmmer de Fall, well d'Dynamik vun de soziale Bezéiungen ganz komplex ass.",
+      "Dat ass net ëmmer de Fall, well institutionell Restriktiounen d'Ëmsetzung vun dëse Politiken dacks behënneren.",
+      "Dat ass net ëmmer de Fall, well den historesche Kontext d'Interpretatioun vun dëse Phänomener staark verännert."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Ech gesinn d'Saachen ...",
+    "translation": "I see things ...",
+    "b1": [
+      "Ech gesinn d'Saachen e bësschen anescht.",
+      "Ech gesinn d'Saachen ganz positiv.",
+      "Ech gesinn d'Saachen op eng einfach Manéier.",
+      "Ech gesinn d'Saachen aus engem anere Bléckwénkel.",
+      "Ech gesinn d'Saachen net sou negativ wéi Du."
+    ],
+    "b2": [
+      "Ech gesinn d'Saachen éischter aus enger pragmatescher Perspektiv.",
+      "Ech gesinn d'Saachen an engem méi breeden, gesellschaftlechen Zesamenhang.",
+      "Ech gesinn d'Saachen mat engem gewëssen Optimismus wat d'Zukunft ugeet.",
+      "Ech gesinn d'Saachen duerch eng méi kritesch Brëll wéi meng Kollegen.",
+      "Ech gesinn d'Saachen als eng grouss Geleeënheet fir eng Verännerung."
+    ],
+    "c1": [
+      "Ech gesinn d'Saachen duerch d'Prisma vun enger déifgräifender struktureller Transformatioun.",
+      "Ech gesinn d'Saachen als d'Resultat vun enger komplizéierter Interaktioun vu villen geopolitesche Faktoren.",
+      "Ech gesinn d'Saachen am Liicht vun de rezenten wëssenschaftleche Entdeckungen an dësem Beräich.",
+      "Ech gesinn d'Saachen mat enger wesentlecher Skepsis vis-à-vis vun den offiziellen Stëmmen.",
+      "Ech gesinn d'Saachen als Deel vun engem méi groussen, historesch bedéngten Paradigmawechsel."
+    ]
+  }
+]
