@@ -9,7 +9,11 @@
     "pol": "Zazwyczaj wstaję o siódmej.",
     "ces": "Obvykle vstávám v sedm hodin.",
     "hun": "Általában hét órakor kelek.",
-    "tur": "Genelde saat yedide kalkarım."
+    "tur": "Genelde saat yedide kalkarım.",
+    "nld": "Ik sta meestal om zeven uur op.",
+    "swe": "Jag brukar gå upp klockan sju.",
+    "dan": "Jeg står normalt op klokken syv.",
+    "lux": "Ech stinn meeschtens um siwen Auer op."
   },
   {
     "kor": "샤워를 합니다.",
@@ -21,7 +25,11 @@
     "pol": "Biorę prysznic.",
     "ces": "Dám si sprchu.",
     "hun": "Zuhanyozom.",
-    "tur": "Duş alırım."
+    "tur": "Duş alırım.",
+    "nld": "Ik neem een douche.",
+    "swe": "Jag tar en dusch.",
+    "dan": "Jeg tager et bad.",
+    "lux": "Ech huelen eng Dusch."
   },
   {
     "kor": "옷을 입습니다.",
@@ -33,7 +41,11 @@
     "pol": "Ubieram się.",
     "ces": "Oblékám se.",
     "hun": "Felöltözöm.",
-    "tur": "Giyinirim."
+    "tur": "Giyinirim.",
+    "nld": "Ik kleed me aan.",
+    "swe": "Jag klär på mig.",
+    "dan": "Jeg klæder mig på.",
+    "lux": "Ech kleeden mech un."
   },
   {
     "kor": "아침 식사를 합니다.",
@@ -45,7 +57,11 @@
     "pol": "Jem śniadanie.",
     "ces": "Snídám.",
     "hun": "Reggelizem.",
-    "tur": "Kahvaltı yaparım."
+    "tur": "Kahvaltı yaparım.",
+    "nld": "Ik ontbijt.",
+    "swe": "Jag äter frukost.",
+    "dan": "Jeg spiser morgenmad.",
+    "lux": "Ech iessen moies."
   },
   {
     "kor": "이를 닦습니다.",
@@ -57,7 +73,11 @@
     "pol": "Myję zęby.",
     "ces": "Čistím si zuby.",
     "hun": "Fogad mosok.",
-    "tur": "Dişlerimi fırçalarım."
+    "tur": "Dişlerimi fırçalarım.",
+    "nld": "Ik poets mijn tanden.",
+    "swe": "Jag borstar tänderna.",
+    "dan": "Jeg børster tænder.",
+    "lux": "Ech botzen d'Zänn."
   },
   {
     "kor": "8시 반에 집을 나섭니다.",
@@ -69,7 +89,11 @@
     "pol": "Wychodzę z domu o wpół do dziewiątej.",
     "ces": "Vycházím z domu v půl deváté.",
     "hun": "Fél kilenckor indulok el otthonról.",
-    "tur": "Evden sekiz buçukta çıkarım."
+    "tur": "Evden sekiz buçukta çıkarım.",
+    "nld": "Ik verlaat het huis om half negen.",
+    "swe": "Jag lämnar huset halv nio.",
+    "dan": "Jeg forlader huset klokken halv ni.",
+    "lux": "Ech verloossen d'Haus um halwer néng."
   },
   {
     "kor": "버스를 타고 출근합니다.",
@@ -81,7 +105,11 @@
     "pol": "Jade autobusem do pracy.",
     "ces": "Jezdím do práce autobusem.",
     "hun": "Busszal megyek dolgozni.",
-    "tur": "İşe otobüsle giderim."
+    "tur": "İşe otobüsle giderim.",
+    "nld": "Ik neem de bus naar mijn werk.",
+    "swe": "Jag tar bussen till jobbet.",
+    "dan": "Jeg tager bussen på arbejde.",
+    "lux": "Ech huelen de Bus op d'Schicht."
   },
   {
     "kor": "걸어서 학교에 갑니다.",
@@ -93,7 +121,11 @@
     "pol": "Idę do szkoły na piechotę.",
     "ces": "Jdu do školy pěšky.",
     "hun": "Gyalog megyek iskolába.",
-    "tur": "Okula yürüyerek giderim."
+    "tur": "Okula yürüyerek giderim.",
+    "nld": "Ik loop naar school.",
+    "swe": "Jag går till skolan.",
+    "dan": "Jeg går i skole.",
+    "lux": "Ech ginn zu Fouss an d'Schoul."
   },
   {
     "kor": "9시에 업무를 시작합니다.",
@@ -105,7 +137,11 @@
     "pol": "Zaczynam pracę o dziewiątej.",
     "ces": "Začínám pracovat v devět.",
     "hun": "Kilenckor kezdem a munkát.",
-    "tur": "İşe saat dokuzda başlarım."
+    "tur": "İşe saat dokuzda başlarım.",
+    "nld": "Ik begin om negen uur met werken.",
+    "swe": "Jag börjar arbeta klockan nio.",
+    "dan": "Jeg begynder at arbejde klokken ni.",
+    "lux": "Ech fänken um néng Auer un ze schaffen."
   },
   {
     "kor": "이메일을 확인합니다.",
@@ -117,7 +153,11 @@
     "pol": "Sprawdzam maile.",
     "ces": "Kontroluji si e-maily.",
     "hun": "Megnézem az e-mailjeimet.",
-    "tur": "E-postalarımı kontrol ederim."
+    "tur": "E-postalarımı kontrol ederim.",
+    "nld": "Ik controleer mijn e-mails.",
+    "swe": "Jag kollar min e-post.",
+    "dan": "Jeg tjekker mine e-mails.",
+    "lux": "Ech kontrolléieren meng E-Mailen."
   },
   {
     "kor": "오후 1시에 점심을 먹습니다.",
@@ -129,7 +169,11 @@
     "pol": "Jem obiad o pierwszej.",
     "ces": "Obědvám v jednu hodinu.",
     "hun": "Egy órakor ebédelek.",
-    "tur": "Saat birde öğle yemeği yerim."
+    "tur": "Saat birde öğle yemeği yerim.",
+    "nld": "Ik lunch om één uur 's middags.",
+    "swe": "Jag äter lunch klockan ett.",
+    "dan": "Jeg spiser frokost klokken ét.",
+    "lux": "Ech iessen um eent Mëtteg."
   },
   {
     "kor": "차 한 잔을 마십니다.",
@@ -141,7 +185,11 @@
     "pol": "Piję herbatę.",
     "ces": "Piji šálek čaje.",
     "hun": "Iszom egy csésze teát.",
-    "tur": "Bir fincan çay içerim."
+    "tur": "Bir fincan çay içerim.",
+    "nld": "Ik drink een kop thee.",
+    "swe": "Jag dricker en kopp te.",
+    "dan": "Jeg drikker en kop te.",
+    "lux": "Ech drénken eng Taass Téi."
   },
   {
     "kor": "5시에 퇴근합니다.",
@@ -153,7 +201,11 @@
     "pol": "Kończę pracę o piątej.",
     "ces": "Končím v práci v pět.",
     "hun": "Ötkor végzek a munkával.",
-    "tur": "İşten saat beşte çıkarım."
+    "tur": "İşten saat beşte çıkarım.",
+    "nld": "Ik ben om vijf uur klaar met werken.",
+    "swe": "Jag slutat arbeta klockan fem.",
+    "dan": "Jeg får fri klokken fem.",
+    "lux": "Ech sinn um fënnef Auer fäerdeg mat schaffen."
   },
   {
     "kor": "슈퍼마켓에 갑니다.",
@@ -165,7 +217,11 @@
     "pol": "Idę do supermarketu.",
     "ces": "Jdu do supermarketu.",
     "hun": "Elmegyek a szupermarketbe.",
-    "tur": "Markete giderim."
+    "tur": "Markete giderim.",
+    "nld": "Ik ga naar de supermarkt.",
+    "swe": "Jag går till stormarknaden.",
+    "dan": "Jeg tager i supermarkedet.",
+    "lux": "Ech ginn an de Supermaart."
   },
   {
     "kor": "집에 돌아와서 요리를 합니다.",
@@ -177,7 +233,11 @@
     "pol": "Wracam do domu i gotuję.",
     "ces": "Vrátím se domů a vařím.",
     "hun": "Hazamegyek és főzök.",
-    "tur": "Eve gelip yemek yaparım."
+    "tur": "Eve gelip yemek yaparım.",
+    "nld": "Ik kom thuis en kook.",
+    "swe": "Jag kommer hem och lagar mat.",
+    "dan": "Jeg kommer hjem og laver mad.",
+    "lux": "Ech kommen doheem un a kachen."
   },
   {
     "kor": "7시에 저녁을 먹습니다.",
@@ -189,7 +249,11 @@
     "pol": "Jem kolację o siódmej.",
     "ces": "Večeřím v sedm.",
     "hun": "Hétkor vacsorázom.",
-    "tur": "Saat yedide akşam yemeği yerim."
+    "tur": "Saat yedide akşam yemeği yerim.",
+    "nld": "Ik dineer om zeven uur.",
+    "swe": "Jag äter middag klockan sju.",
+    "dan": "Jeg spiser aftensmad klokken syv.",
+    "lux": "Ech iessen um siwen Auer owes."
   },
   {
     "kor": "설거지를 합니다.",
@@ -201,7 +265,11 @@
     "pol": "Zmywam naczynia.",
     "ces": "Myju nádobí.",
     "hun": "Elmosogatok.",
-    "tur": "Bulaşıkları yıkarım."
+    "tur": "Bulaşıkları yıkarım.",
+    "nld": "Ik doe de afwas.",
+    "swe": "Jag diskar.",
+    "dan": "Jeg tager opvasken.",
+    "lux": "Ech spoulesch d'Geschier."
   },
   {
     "kor": "거실에서 TV를 봅니다.",
@@ -213,7 +281,11 @@
     "pol": "Oglądam telewizję w salonie.",
     "ces": "Dívám se na televizi v obýváku.",
     "hun": "Tévét nézek a nappaliban.",
-    "tur": "Oturma odasında televizyon izlerim."
+    "tur": "Oturma odasında televizyon izlerim.",
+    "nld": "Ik kijk tv in de woonkamer.",
+    "swe": "Jag kollar på tv i vardagsrummet.",
+    "dan": "Jeg ser tv i stuen.",
+    "lux": "Ech kucken Tëlee an der Wunnzëmmer."
   },
   {
     "kor": "가끔 신문을 읽습니다.",
@@ -225,7 +297,11 @@
     "pol": "Czasami czytam gazetę.",
     "ces": "Někdy si čtu noviny.",
     "hun": "Néha újságot olvasok.",
-    "tur": "Bazen gazete okurum."
+    "tur": "Bazen gazete okurum.",
+    "nld": "Ik lees soms de krant.",
+    "swe": "Jag läser ibland tidningen.",
+    "dan": "Jeg læser nogle gange avisen.",
+    "lux": "Ech liesen heiansdo d'Zeitung."
   },
   {
     "kor": "인터넷을 합니다.",
@@ -237,7 +313,11 @@
     "pol": "Surfuję w internecie.",
     "ces": "Surfuji na internetu.",
     "hun": "Internetezem.",
-    "tur": "İnternette gezinirim."
+    "tur": "İnternette gezinirim.",
+    "nld": "Ik surf op internet.",
+    "swe": "Jag surfar på internet.",
+    "dan": "Jeg surfer på internettet.",
+    "lux": "Ech surfen um Internet."
   },
   {
     "kor": "운동하러 갑니다.",
@@ -249,7 +329,11 @@
     "pol": "Idę na trening.",
     "ces": "Jdu si zacvičit.",
     "hun": "Edzeni megyek.",
-    "tur": "Antrenmana giderim."
+    "tur": "Antrenmana giderim.",
+    "nld": "Ik ga sporten.",
+    "swe": "Jag tränar.",
+    "dan": "Jeg tager til træning.",
+    "lux": "Ech ginn trainéieren."
   },
   {
     "kor": "음악을 듣습니다.",
@@ -261,7 +345,11 @@
     "pol": "Słucham muzyki.",
     "ces": "Poslouchám hudbu.",
     "hun": "Zenét hallgatok.",
-    "tur": "Müzik dinlerim."
+    "tur": "Müzik dinlerim.",
+    "nld": "Ik luister naar muziek.",
+    "swe": "Jag lyssnar på musik.",
+    "dan": "Jeg lytter til musik.",
+    "lux": "Ech lauschteren Musek."
   },
   {
     "kor": "일기를 씁니다.",
@@ -273,7 +361,11 @@
     "pol": "Piszę w pamiętniku.",
     "ces": "Píšu si deník.",
     "hun": "Naplót írok.",
-    "tur": "Günlük yazarım."
+    "tur": "Günlük yazarım.",
+    "nld": "Ik schrijf in mijn dagboek.",
+    "swe": "Jag skriver i min dagbok.",
+    "dan": "Jeg skriver i min dagbog.",
+    "lux": "Ech schreiwen an mäi Tagebuch."
   },
   {
     "kor": "밤 11시에 잠자리에 듭니다.",
@@ -285,7 +377,11 @@
     "pol": "Idę spać o jedenastej.",
     "ces": "Jdu spát v jedenáct.",
     "hun": "Tizenegykor fekszem le.",
-    "tur": "Saat on birde yatarım."
+    "tur": "Saat on birde yatarım.",
+    "nld": "Ik ga om elf uur naar bed.",
+    "swe": "Jag går och lägger mig klockan elva.",
+    "dan": "Jeg går i seng klokken elleve.",
+    "lux": "Ech ginn um eelef Auer an d'Bett."
   },
   {
     "kor": "빨리 잠이 듭니다.",
@@ -297,6 +393,10 @@
     "pol": "Szybko zasypiam.",
     "ces": "Rychle usnu.",
     "hun": "Gyorsan elalszom.",
-    "tur": "Hemen uykuya dalarım."
+    "tur": "Hemen uykuya dalarım.",
+    "nld": "Ik val snel in slaap.",
+    "swe": "Jag somnar snabbt.",
+    "dan": "Jeg falder hurtigt i søvn.",
+    "lux": "Ech schlofen séier an."
   }
 ]

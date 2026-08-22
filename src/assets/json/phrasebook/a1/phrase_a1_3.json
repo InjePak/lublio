@@ -9,7 +9,11 @@
     "pol": "Ile osób liczy twoja rodzina?",
     "ces": "Kolik je vás v rodině?",
     "hun": "Hányan vagytok a családban?",
-    "tur": "Ailen kaç kişi?"
+    "tur": "Ailen kaç kişi?",
+    "nld": "Hoeveel mensen zijn er in je familie?",
+    "swe": "Hur många personer finns det i din familj?",
+    "dan": "Hvor mange mennesker er der i din familie?",
+    "lux": "Wéi vill Leit si bei dir an der Famill?"
   },
   {
     "kor": "우리 가족은 네 명입니다.",
@@ -21,7 +25,11 @@
     "pol": "Moja rodzina liczy cztery osoby.",
     "ces": "Jsme v rodině čtyři.",
     "hun": "Négyen vagyunk a családban.",
-    "tur": "Ailemiz dört kişiden oluşuyor."
+    "tur": "Ailemiz dört kişiden oluşuyor.",
+    "nld": "Er zijn vier mensen in mijn familie.",
+    "swe": "Det är fyra personer i min familj.",
+    "dan": "Vi er fire personer i min familie.",
+    "lux": "Mir si véier Leit an eiser Famill."
   },
   {
     "kor": "형제나 자매가 있나요?",
@@ -33,7 +41,11 @@
     "pol": "Masz rodzeństwo?",
     "ces": "Máš sourozence?",
     "hun": "Vannak testvéreid?",
-    "tur": "Hiç kardeşin var mı?"
+    "tur": "Hiç kardeşin var mı?",
+    "nld": "Heb je broers of zussen?",
+    "swe": "Har du några syskon?",
+    "dan": "Har du søskende?",
+    "lux": "Hues du Geschwëster?"
   },
   {
     "kor": "저는 외동입니다.",
@@ -45,7 +57,11 @@
     "pol": "Jestem jedynakiem.",
     "ces": "Jsem jedináček.",
     "hun": "Egyke vagyok.",
-    "tur": "Tek çocuğum."
+    "tur": "Tek çocuğum.",
+    "nld": "Ik ben enig kind.",
+    "swe": "Jag är ensambarn.",
+    "dan": "Jeg er enebarn.",
+    "lux": "Ech sinn en Einzelkand."
   },
   {
     "kor": "제 아버지는 의사입니다.",
@@ -57,7 +73,11 @@
     "pol": "Mój ojciec jest lekarzem.",
     "ces": "Můj otec je lékař.",
     "hun": "Apukám orvos.",
-    "tur": "Babam doktor."
+    "tur": "Babam doktor.",
+    "nld": "Mijn vader is arts.",
+    "swe": "Min far är läkare.",
+    "dan": "Min far er læge.",
+    "lux": "Mäi Papp ass Dokter."
   },
   {
     "kor": "제 어머니는 선생님입니다.",
@@ -69,7 +89,11 @@
     "pol": "Moja mama jest nauczycielką.",
     "ces": "Moje matka je učitelka.",
     "hun": "Anyukám tanár.",
-    "tur": "Annem öğretmen."
+    "tur": "Annem öğretmen.",
+    "nld": "Mijn moeder is lerares.",
+    "swe": "Min mor är lärare.",
+    "dan": "Min mor er lærer.",
+    "lux": "Meng Mamm ass Enseignante."
   },
   {
     "kor": "이 사람은 제 남동생입니다.",
@@ -81,7 +105,11 @@
     "pol": "To jest mój młodszy brat.",
     "ces": "To je můj mladší bratr.",
     "hun": "Ő az öcsém.",
-    "tur": "Bu benim erkek kardeşim."
+    "tur": "Bu benim erkek kardeşim.",
+    "nld": "Dit is mijn jongere broer.",
+    "swe": "Det här är min lillebror.",
+    "dan": "Dette er min lillebror.",
+    "lux": "Dat ass mäi jéngere Brudder."
   },
   {
     "kor": "이 사람은 제 언니입니다.",
@@ -93,7 +121,11 @@
     "pol": "To jest moja starsza siostra.",
     "ces": "To je moje starší sestra.",
     "hun": "Ő a nővérem.",
-    "tur": "Bu benim ablam."
+    "tur": "Bu benim ablam.",
+    "nld": "Dit is mijn oudere zus.",
+    "swe": "Det här är min storasyster.",
+    "dan": "Dette er min storesøster.",
+    "lux": "Dat ass meng eeler Schwëster."
   },
   {
     "kor": "부모님은 어디에 사세요?",
@@ -105,7 +137,11 @@
     "pol": "Gdzie mieszkają twoi rodzice?",
     "ces": "Kde bydlí tvoji rodiče?",
     "hun": "Hol laknak a szüleid?",
-    "tur": "Ailen nerede yaşıyor?"
+    "tur": "Ailen nerede yaşıyor?",
+    "nld": "Waar wonen je ouders?",
+    "swe": "Var bor dina föräldrar?",
+    "dan": "Hvor bor dine forældre?",
+    "lux": "Wou wunnen deng Elteren?"
   },
   {
     "kor": "저는 할머니와 할아버지를 사랑합니다.",
@@ -117,7 +153,11 @@
     "pol": "Kocham moich dziadków.",
     "ces": "Miluji své prarodiče.",
     "hun": "Szeretem a nagyszüleimet.",
-    "tur": "Büyükannemi ve büyükbabamı çok seviyorum."
+    "tur": "Büyükannemi ve büyükbabamı çok seviyorum.",
+    "nld": "Ik houd van mijn grootouders.",
+    "swe": "Jag älskar mina mor- och farföräldrar.",
+    "dan": "Jeg elsker mine bedsteforældre.",
+    "lux": "Ech hunn meng Grousselteren gären."
   },
   {
     "kor": "제 가장 친한 친구 이름은 샘입니다.",
@@ -129,7 +169,11 @@
     "pol": "Mój najlepszy przyjaciel ma na imię Sam.",
     "ces": "Můj nejlepší kamarád se jmenuje Sam.",
     "hun": "A legjobb barátomat Samnek hívják.",
-    "tur": "En yakın arkadaşımın adı Sam."
+    "tur": "En yakın arkadaşımın adı Sam.",
+    "nld": "Mijn beste vriend heet Sam.",
+    "swe": "Min bästa vän heter Sam.",
+    "dan": "Min bedste ven hedder Sam.",
+    "lux": "Mäi beschte Frënd heescht Sam."
   },
   {
     "kor": "우리는 학교 친구입니다.",
@@ -141,7 +185,11 @@
     "pol": "Jesteśmy przyjaciółmi ze szkoły.",
     "ces": "Jsme kamarádi ze školy.",
     "hun": "Iskolai barátok vagyunk.",
-    "tur": "Okuldan arkadaşız."
+    "tur": "Okuldan arkadaşız.",
+    "nld": "Wij zijn schoolvrienden.",
+    "swe": "Vi är skolkompisar.",
+    "dan": "Vi er skolevenner.",
+    "lux": "Mir si Schoulfrënn."
   },
   {
     "kor": "제 친구는 매우 친절합니다.",
@@ -153,7 +201,11 @@
     "pol": "Mój przyjaciel jest bardzo miły.",
     "ces": "Můj kamarád je velmi laskavý.",
     "hun": "A barátom nagyon kedves.",
-    "tur": "Arkadaşım çok naziktir."
+    "tur": "Arkadaşım çok naziktir.",
+    "nld": "Mijn vriend is erg aardig.",
+    "swe": "Min vän är väldigt snäll.",
+    "dan": "Min ven er meget venlig.",
+    "lux": "Mäi Frënd ass ganz léif."
   },
   {
     "kor": "저는 친구들과 노는 것을 좋아합니다.",
@@ -165,7 +217,11 @@
     "pol": "Lubię spędzać czas z przyjaciółmi.",
     "ces": "Rád trávím čas s kamarády.",
     "hun": "Szeretek a barátaimmal lógni.",
-    "tur": "Arkadaşlarımla vakit geçirmeyi severim."
+    "tur": "Arkadaşlarımla vakit geçirmeyi severim.",
+    "nld": "Ik vind het leuk om met mijn vrienden op te trekken.",
+    "swe": "Jag tycker om att umgås med mina vänner.",
+    "dan": "Jeg kan godt lide at være sammen med mine venner.",
+    "lux": "Ech si gär mat menge Frënn ënnerwee."
   },
   {
     "kor": "결혼하셨나요?",
@@ -177,7 +233,11 @@
     "pol": "Jesteś żonaty / zamężna?",
     "ces": "Jsi ženatý / vdaná?",
     "hun": "Házas vagy?",
-    "tur": "Evli misiniz?"
+    "tur": "Evli misiniz?",
+    "nld": "Ben je getrouwd?",
+    "swe": "Är du gift?",
+    "dan": "Er du gift?",
+    "lux": "Bass du bestuet?"
   },
   {
     "kor": "저는 미혼입니다.",
@@ -189,7 +249,11 @@
     "pol": "Jestem singlem.",
     "ces": "Jsem svobodný / svobodná.",
     "hun": "Egyedülálló vagyok.",
-    "tur": "Bekarım."
+    "tur": "Bekarım.",
+    "nld": "Ik ben vrijgezel.",
+    "swe": "Jag är singel.",
+    "dan": "Jeg er single.",
+    "lux": "Ech sinn eenzel."
   },
   {
     "kor": "자녀가 있으신가요?",
@@ -201,7 +265,11 @@
     "pol": "Masz dzieci?",
     "ces": "Máš děti?",
     "hun": "Vannak gyerekeid?",
-    "tur": "Çocuğun var mı?"
+    "tur": "Çocuğun var mı?",
+    "nld": "Heb je kinderen?",
+    "swe": "Har du barn?",
+    "dan": "Har du børn?",
+    "lux": "Hues du Kanner?"
   },
   {
     "kor": "저는 아들 한 명과 딸 한 명이 있습니다.",
@@ -213,7 +281,11 @@
     "pol": "Mam syna i córkę.",
     "ces": "Mám syna a dceru.",
     "hun": "Van egy fiam és egy lányom.",
-    "tur": "Bir oğlum ve bir kızım var."
+    "tur": "Bir oğlum ve bir kızım var.",
+    "nld": "Ik heb een zoon en een dochter.",
+    "swe": "Jag har en son och en dotter.",
+    "dan": "Jeg har en søn og en datter.",
+    "lux": "Ech hunn e Jong an e Meedchen."
   },
   {
     "kor": "제 친구는 런던에 삽니다.",
@@ -225,7 +297,11 @@
     "pol": "Mój przyjaciel mieszka w Londynie.",
     "ces": "Můj kamarád bydlí v Londýně.",
     "hun": "A barátom Londonban él.",
-    "tur": "Arkadaşım Londra'da yaşıyor."
+    "tur": "Arkadaşım Londra'da yaşıyor.",
+    "nld": "Mijn vriend woont in Londen.",
+    "swe": "Min vän bor i London.",
+    "dan": "Min ven bor i London.",
+    "lux": "Mäi Frënd wunnt zu London."
   },
   {
     "kor": "우리는 주말에 만납니다.",
@@ -237,7 +313,11 @@
     "pol": "Spotykamy się w weekendy.",
     "ces": "Vídáme se o víkendech.",
     "hun": "Hétvégenként szoktunk találkozni.",
-    "tur": "Hafta sonları buluşuruz."
+    "tur": "Hafta sonları buluşuruz.",
+    "nld": "Wij ontmoeten elkaar in het weekend.",
+    "swe": "Vi träffas på helgerna.",
+    "dan": "Vi mødes i weekenderne.",
+    "lux": "Mir treffen eis um Weekend."
   },
   {
     "kor": "그녀는 저와 동갑입니다.",
@@ -249,7 +329,11 @@
     "pol": "Ona jest w moim wieku.",
     "ces": "Je stejně stará jako já.",
     "hun": "Egyidős velem.",
-    "tur": "O benimle aynı yaşta."
+    "tur": "O benimle aynı yaşta.",
+    "nld": "Zij is van dezelfde leeftijd als ik.",
+    "swe": "Hon är i samma ålder som jag.",
+    "dan": "Hun er på samme alder som mig.",
+    "lux": "Si ass am selwechten Alter wéi ech."
   },
   {
     "kor": "제 남동생은 축구를 좋아합니다.",
@@ -261,7 +345,11 @@
     "pol": "Mój młodszy brat lubi piłkę nożną.",
     "ces": "Můj mladší bratr má rád fotbal.",
     "hun": "Az öcsém szereti a focit.",
-    "tur": "Erkek kardeşim futbolu sever."
+    "tur": "Erkek kardeşim futbolu sever.",
+    "nld": "Mijn jongere broer houdt van voetbal.",
+    "swe": "Min lillebror gillar fotboll.",
+    "dan": "Min lillebror kan lide fodbold.",
+    "lux": "Mäi jéngere Brudder spillt gär Fussball."
   },
   {
     "kor": "제 여자친구는 똑똑합니다.",
@@ -273,7 +361,11 @@
     "pol": "Moja dziewczyna jest mądra.",
     "ces": "Moje přítelkyně je chytrá.",
     "hun": "A barátnőm okos.",
-    "tur": "Kız arkadaşım zekidir."
+    "tur": "Kız arkadaşım zekidir.",
+    "nld": "Mijn vriendin is slim.",
+    "swe": "Min flickvän är smart.",
+    "dan": "Min kæreste er klog.",
+    "lux": "Meng Frëndin ass schlau."
   },
   {
     "kor": "가족들과 함께 저녁을 먹습니다.",
@@ -285,7 +377,11 @@
     "pol": "Jadam kolację z rodziną.",
     "ces": "Večeřím se svou rodinou.",
     "hun": "A családommal vacsorázom.",
-    "tur": "Ailemle birlikte akşam yemeği yerim."
+    "tur": "Ailemle birlikte akşam yemeği yerim.",
+    "nld": "Ik eet avondeten met mijn familie.",
+    "swe": "Jag äter middag med min familj.",
+    "dan": "Jeg spiser aftensmad med min familie.",
+    "lux": "Ech iessen Owes mat menger Famill."
   },
   {
     "kor": "그는 저의 친척입니다.",
@@ -297,6 +393,10 @@
     "pol": "On jest moim krewnym.",
     "ces": "Je to můj příbuzný.",
     "hun": "Ő a rokonom.",
-    "tur": "O benim akrabam."
+    "tur": "O benim akrabam.",
+    "nld": "Hij is een familielid van mij.",
+    "swe": "Han är en släkting till mig.",
+    "dan": "Han er en slægtning til mig.",
+    "lux": "Hien ass ee vu menge Familljememberen."
   }
 ]

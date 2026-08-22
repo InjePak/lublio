@@ -9,7 +9,11 @@
     "pol": "Jestem głodny.",
     "ces": "Mám hlad.",
     "hun": "Éhes vagyok.",
-    "tur": "Açım."
+    "tur": "Açım.",
+    "nld": "Ik heb honger.",
+    "swe": "Jag är hungrig.",
+    "dan": "Jeg er sulten.",
+    "lux": "Ech hunn Honger."
   },
   {
     "kor": "목이 말라요.",
@@ -21,7 +25,11 @@
     "pol": "Chce mi się pić.",
     "ces": "Mám žízeň.",
     "hun": "Szomjas vagyok.",
-    "tur": "Susadım."
+    "tur": "Susadım.",
+    "nld": "Ik heb dorst.",
+    "swe": "Jag är törstig.",
+    "dan": "Jeg er tørstig.",
+    "lux": "Ech hunn Duuscht."
   },
   {
     "kor": "예약을 하고 싶습니다.",
@@ -33,7 +41,11 @@
     "pol": "Chciałbym zarezerwować stolik.",
     "ces": "Chtěl bych si rezervovat stůl.",
     "hun": "Szeretnék asztalt foglalni.",
-    "tur": "Bir masa ayırtmak istiyorum."
+    "tur": "Bir masa ayırtmak istiyorum.",
+    "nld": "Ik wil graag een tafel reserveren.",
+    "swe": "Jag skulle vilja boka ett bord.",
+    "dan": "Jeg vil gerne reservere et bord.",
+    "lux": "Ech wéilt gären en Dësch reservéieren."
   },
   {
     "kor": "두 명 자리가 있나요?",
@@ -45,7 +57,11 @@
     "pol": "Czy mają państwo stolik dla dwóch osób?",
     "ces": "Máte stůl pro dva?",
     "hun": "Van asztaluk két főre?",
-    "tur": "İki kişilik masanız var mı?"
+    "tur": "İki kişilik masanız var mı?",
+    "nld": "Hebt u een tafel voor twee?",
+    "swe": "Har ni ett bord för två?",
+    "dan": "Har I et bord til to?",
+    "lux": "Hutt Dir en Dësch fir zwéin?"
   },
   {
     "kor": "메뉴판 좀 보여주시겠어요?",
@@ -57,7 +73,11 @@
     "pol": "Czy mogę prosić o menu?",
     "ces": "Mohl byste mi prosím ukázat jídelní lístek?",
     "hun": "Megkaphatnám az étlapot?",
-    "tur": "Menüyü görebilir miyim lütfen?"
+    "tur": "Menüyü görebilir miyim lütfen?",
+    "nld": "Kan ik de menukaart zien, alstublieft?",
+    "swe": "Kan jag få se menyn, tack?",
+    "dan": "Må jeg se menukortet, tak?",
+    "lux": "Kann ech d'Menüskart gesinn, wann ech gelift?"
   },
   {
     "kor": "주문하시겠습니까?",
@@ -69,7 +89,11 @@
     "pol": "Czy są państwo gotowi, żeby zamówić?",
     "ces": "Máte vybráno?",
     "hun": "Sikerült választani?",
-    "tur": "Sipariş vermek için hazır mısınız?"
+    "tur": "Sipariş vermek için hazır mısınız?",
+    "nld": "Bent u klaar om te bestellen?",
+    "swe": "Är ni redo att beställa?",
+    "dan": "Er I klar til at bestille?",
+    "lux": "Sidd Dir prett fir ze bestellen?"
   },
   {
     "kor": "물 한 병 주세요.",
@@ -81,7 +105,11 @@
     "pol": "Poproszę butelkę wody.",
     "ces": "Láhev vody, prosím.",
     "hun": "Egy üveg vizet kérek.",
-    "tur": "Bir şişe su lütfen."
+    "tur": "Bir şişe su lütfen.",
+    "nld": "Een fles water, alstublieft.",
+    "swe": "En flaska vatten, tack.",
+    "dan": "En flaske vand, tak.",
+    "lux": "Eng Fläsch Waasser, wann ech gelift."
   },
   {
     "kor": "저는 피쉬 앤 칩스를 먹겠습니다.",
@@ -93,7 +121,11 @@
     "pol": "Poproszę rybę z frytkami.",
     "ces": "Dám si rybu s hranolkami.",
     "hun": "Fish and chips-et kérek.",
-    "tur": "Fish and chips alayım."
+    "tur": "Fish and chips alayım.",
+    "nld": "Ik neem de fish and chips.",
+    "swe": "Jag tar fish and chips.",
+    "dan": "Jeg tager fish and chips.",
+    "lux": "Ech huelen d'Fish and Chips."
   },
   {
     "kor": "오늘의 수프는 무엇인가요?",
@@ -105,7 +137,11 @@
     "pol": "Jaka jest dzisiaj zupa dnia?",
     "ces": "Jaká je dnešní polévka?",
     "hun": "Mi a mai napileves?",
-    "tur": "Günün çorbası nedir?"
+    "tur": "Günün çorbası nedir?",
+    "nld": "Wat is de soep van de dag?",
+    "swe": "Vad är dagens soppa?",
+    "dan": "Hvad er dagens suppe?",
+    "lux": "Wat ass d'Zopp vum Dag?"
   },
   {
     "kor": "저는 채식주의자입니다.",
@@ -117,7 +153,11 @@
     "pol": "Jestem wegetarianinem.",
     "ces": "Jsem vegetarián.",
     "hun": "Vegetáriánus vagyok.",
-    "tur": "Vejetaryenim."
+    "tur": "Vejetaryenim.",
+    "nld": "Ik ben vegetariër.",
+    "swe": "Jag är vegetarian.",
+    "dan": "Jeg er vegetar.",
+    "lux": "Ech si Vegetarijaner."
   },
   {
     "kor": "매운 음식인가요?",
@@ -129,7 +169,11 @@
     "pol": "Czy to jest ostre?",
     "ces": "Je to pálivé?",
     "hun": "Ez csípős?",
-    "tur": "Bu acı mı?"
+    "tur": "Bu acı mı?",
+    "nld": "Is het pittig?",
+    "swe": "Är det starkt?",
+    "dan": "Er det stærkt?",
+    "lux": "Ass et schaarf?"
   },
   {
     "kor": "소금 좀 건네주시겠어요?",
@@ -141,7 +185,11 @@
     "pol": "Czy możesz podać mi sól?",
     "ces": "Mohl byste mi podat sůl, prosím?",
     "hun": "Ideadnád a sót, kérlek?",
-    "tur": "Tuzu uzatabilir misiniz lütfen?"
+    "tur": "Tuzu uzatabilir misiniz lütfen?",
+    "nld": "Kunt u alstublieft de zout doorgeven?",
+    "swe": "Kan du skicka saltet, tack?",
+    "dan": "Vil du række mig saltet, tak?",
+    "lux": "Kanns de mir d'Salz ginn, wann ech gelift?"
   },
   {
     "kor": "아침 식사는 몇 시에 하나요?",
@@ -153,7 +201,11 @@
     "pol": "O której godzinie jest śniadanie?",
     "ces": "V kolik hodin je snídaně?",
     "hun": "Hánykor van a reggeli?",
-    "tur": "Kahvaltı saat kaçta?"
+    "tur": "Kahvaltı saat kaçta?",
+    "nld": "Hoe laat is het ontbijt?",
+    "swe": "Vilken tid är frukosten?",
+    "dan": "Hvad tid er morgenmaden?",
+    "lux": "Wéini gëtt et Frigo?"
   },
   {
     "kor": "맛있게 드세요!",
@@ -165,7 +217,11 @@
     "pol": "Smacznego!",
     "ces": "Dobrou chuť!",
     "hun": "Jó étvágyat!",
-    "tur": "Afiyet olsun!"
+    "tur": "Afiyet olsun!",
+    "nld": "Eet smakelijk!",
+    "swe": "Smaklig måltid!",
+    "dan": "Velbekomme!",
+    "lux": "Gudden Appetit!"
   },
   {
     "kor": "정말 맛있어요.",
@@ -177,7 +233,11 @@
     "pol": "To jest bardzo smaczne.",
     "ces": "Je to moc dobré.",
     "hun": "Nagyon finom.",
-    "tur": "Çok lezzetli."
+    "tur": "Çok lezzetli.",
+    "nld": "Het is erg lekker.",
+    "swe": "Det är mycket gott.",
+    "dan": "Det er meget lækkert.",
+    "lux": "Et ass ganz lecker."
   },
   {
     "kor": "우유를 넣은 차 한 잔 주세요.",
@@ -189,7 +249,11 @@
     "pol": "Poproszę herbatę z mlekiem.",
     "ces": "Čaj s mlékem, prosím.",
     "hun": "Egy tejes teát kérek.",
-    "tur": "Sütlü bir çay lütfen."
+    "tur": "Sütlü bir çay lütfen.",
+    "nld": "Een kop thee met melk, alstublieft.",
+    "swe": "En kopp te med mjölk, tack.",
+    "dan": "En kop te med mælk, tak.",
+    "lux": "Eng Taass Téi mat Mëllech, wann ech gelift."
   },
   {
     "kor": "설탕은 넣지 마세요.",
@@ -201,7 +265,11 @@
     "pol": "Bez cukru, proszę.",
     "ces": "Bez cukru, prosím.",
     "hun": "Cukor nélkül kérem.",
-    "tur": "Şekersiz olsun lütfen."
+    "tur": "Şekersiz olsun lütfen.",
+    "nld": "Geen suiker, alstublieft.",
+    "swe": "Inget socker, tack.",
+    "dan": "Ingen sukker, tak.",
+    "lux": "Kee Socker, wann ech gelift."
   },
   {
     "kor": "포크를 떨어뜨렸어요.",
@@ -213,7 +281,11 @@
     "pol": "Upuściłem widelec.",
     "ces": "Upadla mi vidlička.",
     "hun": "Leejtettem a villámat.",
-    "tur": "Çatalımı düşürdüm."
+    "tur": "Çatalımı düşürdüm.",
+    "nld": "Ik heb mijn vork laten vallen.",
+    "swe": "Jag tappade min gaffel.",
+    "dan": "Jeg tabte min gaffel.",
+    "lux": "Ech hunn meng Gabel falen gelooss."
   },
   {
     "kor": "이 요리는 너무 짭니다.",
@@ -225,7 +297,11 @@
     "pol": "To danie jest za słone.",
     "ces": "To jídlo je příliš slané.",
     "hun": "Ez az étel túl sós.",
-    "tur": "Bu yemek çok tuzlu."
+    "tur": "Bu yemek çok tuzlu.",
+    "nld": "Dit gerecht is te zout.",
+    "swe": "Den här rätten är för salt.",
+    "dan": "Denne ret er for salt.",
+    "lux": "Dëse Gerjocht ass ze zout."
   },
   {
     "kor": "디저트 메뉴가 있나요?",
@@ -237,7 +313,11 @@
     "pol": "Czy jest karta deserów?",
     "ces": "Máte lístek s dezerty?",
     "hun": "Van desszertlap?",
-    "tur": "Tatlı menüsü var mı?"
+    "tur": "Tatlı menüsü var mı?",
+    "nld": "Is er een dessertmenukaart?",
+    "swe": "Finns det en efterrättsmeny?",
+    "dan": "Er der et dessertkort?",
+    "lux": "Gëtt et eng Dessertskart?"
   },
   {
     "kor": "계산서 좀 주시겠어요?",
@@ -249,7 +329,11 @@
     "pol": "Poproszę o rachunek.",
     "ces": "Účet, prosím.",
     "hun": "A számlát kérem.",
-    "tur": "Hesabı alabilir miyim lütfen?"
+    "tur": "Hesabı alabilir miyim lütfen?",
+    "nld": "Kan ik de rekening krijgen, alstublieft?",
+    "swe": "Kan jag få notan, tack?",
+    "dan": "Må jeg få regningen, tak?",
+    "lux": "Kann ech d'Rechnung kréien, wann ech gelift?"
   },
   {
     "kor": "카드로 결제할 수 있나요?",
@@ -261,7 +345,11 @@
     "pol": "Czy mogę zapłacić kartą?",
     "ces": "Můžu platit kartou?",
     "hun": "Fizethetek kártyával?",
-    "tur": "Kartla ödeyebilir miyim?"
+    "tur": "Kartla ödeyebilir miyim?",
+    "nld": "Kan ik met pin betalen?",
+    "swe": "Kan man betala med kort?",
+    "dan": "Kan jeg betale med kort?",
+    "lux": "Kann ech mat Kaart bezuelen?"
   },
   {
     "kor": "현금으로 계산할게요.",
@@ -273,7 +361,11 @@
     "pol": "Zapłacę gotówką.",
     "ces": "Zaplatím hotově.",
     "hun": "Készpénzzel fizetek.",
-    "tur": "Nakit ödeyeceğim."
+    "tur": "Nakit ödeyeceğim.",
+    "nld": "Ik betaal contant.",
+    "swe": "Jag betalar kontant.",
+    "dan": "Jeg betaler kontant.",
+    "lux": "Ech bezuele bar."
   },
   {
     "kor": "남은 음식을 포장해 주시겠어요?",
@@ -285,7 +377,11 @@
     "pol": "Czy mogę prosić o zapakowanie resztek?",
     "ces": "Mohl bych si to nechat zabalit s sebou?",
     "hun": "Elvihetném a maradékot?",
-    "tur": "Kalanları paket yapabilir misiniz?"
+    "tur": "Kalanları paket yapabilir misiniz?",
+    "nld": "Kan ik de restjes meenemen?",
+    "swe": "Kan jag få ta med resterna?",
+    "dan": "Kan jeg få resterne med hjem?",
+    "lux": "Kann ech de Rescht mat huelen?"
   },
   {
     "kor": "거스름돈은 가지세요.",
@@ -297,6 +393,10 @@
     "pol": "Reszty nie trzeba.",
     "ces": "To je dobré.",
     "hun": "Tartsa meg az aprót.",
-    "tur": "Üstü kalsın."
+    "tur": "Üstü kalsın.",
+    "nld": "Hou het wisselgeld maar.",
+    "swe": "Behåll växeln.",
+    "dan": "Behold bare the bjarte / Behold bare pengene (Behold vekslet)",
+    "lux": "Behalen d'Rescht."
   }
 ]

@@ -9,7 +9,11 @@
     "pol": "Mieszkam w bloku.",
     "ces": "Bydlím v bytě.",
     "hun": "Lakásban lakom.",
-    "tur": "Bir apartmanda yaşıyorum."
+    "tur": "Bir apartmanda yaşıyorum.",
+    "nld": "Ik woon in een appartement.",
+    "swe": "Jag bor i en lägenhet.",
+    "dan": "Jeg bor i en lejlighed.",
+    "lux": "Ech wunnen an engem Appartement."
   },
   {
     "kor": "제 집은 작지만 편안합니다.",
@@ -21,7 +25,11 @@
     "pol": "Mój dom jest mały, ale przytulny.",
     "ces": "Můj dům je malý, ale útulný.",
     "hun": "A házam kicsi, de kényelmes.",
-    "tur": "Evim küçük ama konforlu."
+    "tur": "Evim küçük ama konforlu.",
+    "nld": "Mijn huis is klein maar comfortabel.",
+    "swe": "Mitt hem är litet men bekvämt.",
+    "dan": "Mit hjem er lille, men behageligt.",
+    "lux": "Mäi Haus ass kleng, awer gemittlech."
   },
   {
     "kor": "우리 집에는 방이 세 개 있습니다.",
@@ -33,7 +41,11 @@
     "pol": "W moim domu są trzy pokoje.",
     "ces": "V mém domě jsou tři pokoje.",
     "hun": "Három szoba van a házamban.",
-    "tur": "Evimde üç oda var."
+    "tur": "Evimde üç oda var.",
+    "nld": "Er zijn drie kamers in mijn huis.",
+    "swe": "Det finns tre rum i mitt hem.",
+    "dan": "Der er tre rum i mit hjem.",
+    "lux": "Et gi dräi Zëmmer an mengem Haus."
   },
   {
     "kor": "이곳은 거실입니다.",
@@ -45,7 +57,11 @@
     "pol": "To jest salon.",
     "ces": "To je obývací pokoj.",
     "hun": "Ez a nappali.",
-    "tur": "Burası oturma odası."
+    "tur": "Burası oturma odası.",
+    "nld": "Dit is de woonkamer.",
+    "swe": "Det här är vardagsrummet.",
+    "dan": "Dette er stuen.",
+    "lux": "Dat ass d'Wunnzëmmer."
   },
   {
     "kor": "부엌은 어디에 있나요?",
@@ -57,7 +73,11 @@
     "pol": "Gdzie jest kuchnia?",
     "ces": "Kde je kuchyně?",
     "hun": "Hol van a konyha?",
-    "tur": "Mutfak nerede?"
+    "tur": "Mutfak nerede?",
+    "nld": "Waar is de keuken?",
+    "swe": "Var är köket?",
+    "dan": "Hvor er køkkenet?",
+    "lux": "Wou ass d'Kichen?"
   },
   {
     "kor": "침실은 위층에 있습니다.",
@@ -69,7 +89,11 @@
     "pol": "Sypialnia jest na górze.",
     "ces": "Ložnice je nahoře.",
     "hun": "A hálószoba az emeleten van.",
-    "tur": "Yatak odası üst katta."
+    "tur": "Yatak odası üst katta.",
+    "nld": "De slaapkamer is boven.",
+    "swe": "Sovrummet ligger en trappa upp.",
+    "dan": "Soveværelset er ovenpå.",
+    "lux": "D'Schlofzëmmer ass uewen."
   },
   {
     "kor": "화장실은 깨끗합니다.",
@@ -81,7 +105,11 @@
     "pol": "Łazienka jest czysta.",
     "ces": "Koupelna je čistá.",
     "hun": "A fürdőszoba tiszta.",
-    "tur": "Banyo temiz."
+    "tur": "Banyo temiz.",
+    "nld": "De badkamer is schoon.",
+    "swe": "Badrummet är rent.",
+    "dan": "Badeværelset er rent.",
+    "lux": "D'Buedzëmmer ass propper."
   },
   {
     "kor": "거실에 소파가 있습니다.",
@@ -93,7 +121,11 @@
     "pol": "W salonie jest kanapa.",
     "ces": "V obývacím pokoji je pohovka.",
     "hun": "Van egy kanapé a nappaliban.",
-    "tur": "Oturma odasında bir kanepe var."
+    "tur": "Oturma odasında bir kanepe var.",
+    "nld": "Er staat een bank in de woonkamer.",
+    "swe": "Det finns en soffa i vardagsrummet.",
+    "dan": "Der er en sofa i stuen.",
+    "lux": "Et steet en Canapé an der Wunnzëmmer."
   },
   {
     "kor": "침대 위에 베개가 있습니다.",
@@ -105,7 +137,11 @@
     "pol": "Na łóżku jest poduszka.",
     "ces": "Na posteli je polštář.",
     "hun": "Van egy párna az ágyon.",
-    "tur": "Yatağın üzerinde bir yastık var."
+    "tur": "Yatağın üzerinde bir yastık var.",
+    "nld": "Er ligt een kussen op het bed.",
+    "swe": "Det ligger en kudde på sängen.",
+    "dan": "Der ligger en pude på sengen.",
+    "lux": "Et läit e Këssen um Bett."
   },
   {
     "kor": "저는 제 방에 책상이 있습니다.",
@@ -117,7 +153,11 @@
     "pol": "Mam biurko w swoim pokoju.",
     "ces": "V pokoji mám pracovní stůl.",
     "hun": "Van egy íróasztal a szobámban.",
-    "tur": "Odamda bir çalışma masası var."
+    "tur": "Odamda bir çalışma masası var.",
+    "nld": "Ik heb een bureau in mijn kamer.",
+    "swe": "Jag har ett skrivbord i mitt rum.",
+    "dan": "Jeg har et skrivebord på mit værelse.",
+    "lux": "Ech hunn en Schreifdësch a mengem Zëmmer."
   },
   {
     "kor": "벽에 시계가 걸려 있습니다.",
@@ -129,7 +169,11 @@
     "pol": "Na ścianie wisi zegar.",
     "ces": "Na stěně visí hodiny.",
     "hun": "Van egy óra a falon.",
-    "tur": "Duvarda bir saat var."
+    "tur": "Duvarda bir saat var.",
+    "nld": "Er hangt een klok aan de muur.",
+    "swe": "Det hänger en klocka på väggen.",
+    "dan": "Der hænger et ur på væggen.",
+    "lux": "Et hänkt eng Auer un der Mauer."
   },
   {
     "kor": "창문을 열어 주세요.",
@@ -141,7 +185,11 @@
     "pol": "Otwórz okno, proszę.",
     "ces": "Otevři okno, prosím.",
     "hun": "Kérlek, nyisd ki az ablakot.",
-    "tur": "Lütfen pencereyi aç."
+    "tur": "Lütfen pencereyi aç.",
+    "nld": "Open het raam, alsjeblieft.",
+    "swe": "Vänligen öppna fönstret.",
+    "dan": "Åbn venligst vinduet.",
+    "lux": "Maach d'Fënster op, wann ech gelift."
   },
   {
     "kor": "문을 닫아 주세요.",
@@ -153,7 +201,11 @@
     "pol": "Zamknij drzwi, proszę.",
     "ces": "Zavři dveře, prosím.",
     "hun": "Kérlek, csukd be az ajtót.",
-    "tur": "Lütfen kapıyı kapat."
+    "tur": "Lütfen kapıyı kapat.",
+    "nld": "Sluit de deur, alsjeblieft.",
+    "swe": "Stäng dörren, tack.",
+    "dan": "Luk venligst døren.",
+    "lux": "Maach d'Dier zou, wann ech gelift."
   },
   {
     "kor": "텔레비전이 켜져 있습니다.",
@@ -165,7 +217,11 @@
     "pol": "Telewizor jest włączony.",
     "ces": "Televize je zapnutá.",
     "hun": "Be van kapcsolva a tévé.",
-    "tur": "Televizyon açık."
+    "tur": "Televizyon açık.",
+    "nld": "De televisie staat aan.",
+    "swe": "Tv:n är på.",
+    "dan": "Fjernsynet er tændt.",
+    "lux": "Den Tëlee ass un."
   },
   {
     "kor": "부엌에 냉장고가 있습니다.",
@@ -177,7 +233,11 @@
     "pol": "W kuchni jest lodówka.",
     "ces": "V kuchyni je lednice.",
     "hun": "Van egy hűtő a konyhában.",
-    "tur": "Mutfakta bir buzdolabı var."
+    "tur": "Mutfakta bir buzdolabı var.",
+    "nld": "Er staat een koelkast in de keuken.",
+    "swe": "Det finns ett kylskåp i köket.",
+    "dan": "Der er et køleskab i køkkenet.",
+    "lux": "Et steet e Frigo an der Kichen."
   },
   {
     "kor": "우리 집에는 작은 정원이 있습니다.",
@@ -189,7 +249,11 @@
     "pol": "Mój dom ma mały ogród.",
     "ces": "Můj dům má malou zahradu.",
     "hun": "Van egy kis kert a házamnál.",
-    "tur": "Evimin küçük bir bahçesi var."
+    "tur": "Evimin küçük bir bahçesi var.",
+    "nld": "Mijn huis heeft een kleine tuin.",
+    "swe": "Mitt hus har en liten trädgård.",
+    "dan": "Mit hus har en lille have.",
+    "lux": "Mäi Haus huet e klenge Gaart."
   },
   {
     "kor": "저는 가족과 함께 삽니다.",
@@ -201,7 +265,11 @@
     "pol": "Mieszkam z rodziną.",
     "ces": "Bydlím s rodinou.",
     "hun": "A családommal lakom.",
-    "tur": "Ailemle birlikte yaşıyorum."
+    "tur": "Ailemle birlikte yaşıyorum.",
+    "nld": "Ik woon samen met mijn familie.",
+    "swe": "Jag bor med min familj.",
+    "dan": "Jeg bor sammen med min familie.",
+    "lux": "Ech wunnen zesumme mat menger Famill."
   },
   {
     "kor": "열쇠를 찾을 수 없습니다.",
@@ -213,7 +281,11 @@
     "pol": "Nie mogę znaleźć kluczy.",
     "ces": "Nemůžu najít klíče.",
     "hun": "Nem találom a kulcsokat.",
-    "tur": "Anahtarları bulamıyorum."
+    "tur": "Anahtarları bulamıyorum.",
+    "nld": "Ik kan de sleutels niet vinden.",
+    "swe": "Jag kan inte hitta nycklarna.",
+    "dan": "Jeg kan ikke finde nøglerne.",
+    "lux": "Ech fannen d'Schlësselen net."
   },
   {
     "kor": "탁자 위에 책이 있습니다.",
@@ -225,7 +297,11 @@
     "pol": "Na stole leży książka.",
     "ces": "Na stole je kniha.",
     "hun": "Van egy könyv az asztalon.",
-    "tur": "Masanın üzerinde bir kitap var."
+    "tur": "Masanın üzerinde bir kitap var.",
+    "nld": "Er ligt een boek op de tafel.",
+    "swe": "Det ligger en bok på bordet.",
+    "dan": "Der ligger en bog på bordet.",
+    "lux": "Et läit e Buch um Dësch."
   },
   {
     "kor": "저는 매일 방을 청소합니다.",
@@ -237,7 +313,11 @@
     "pol": "Codziennie sprzątam swój pokój.",
     "ces": "Každý den si uklízím pokoj.",
     "hun": "Minden nap kitakarítom a szobámat.",
-    "tur": "Her gün odamı temizlerim."
+    "tur": "Her gün odamı temizlerim.",
+    "nld": "Ik maak elke dag mijn kamer schoon.",
+    "swe": "Jag städar mitt rum varje dag.",
+    "dan": "Jeg gør mit værelse rent hver dag.",
+    "lux": "Ech botzen all Dag mäi Zëmmer."
   },
   {
     "kor": "전등을 꺼 주세요.",
@@ -249,7 +329,11 @@
     "pol": "Zgaś światło, proszę.",
     "ces": "Zhasni světlo, prosím.",
     "hun": "Kérlek, oltsd le a lámpát.",
-    "tur": "Lütfen ışığı kapat."
+    "tur": "Lütfen ışığı kapat.",
+    "nld": "Doe het licht uit, alsjeblieft.",
+    "swe": "Släck ljuset, tack.",
+    "dan": "Sluk venligst lyset.",
+    "lux": "Maach d'Luucht aus, wann ech gelift."
   },
   {
     "kor": "바닥에 카페트가 있습니다.",
@@ -261,7 +345,11 @@
     "pol": "Na podłodze leży dywan.",
     "ces": "Na podlaze je koberec.",
     "hun": "Van egy szőnyeg a padlón.",
-    "tur": "Yerde bir halı var."
+    "tur": "Yerde bir halı var.",
+    "nld": "Er ligt een tapijt op de vloer.",
+    "swe": "Det ligger en matta på golvet.",
+    "dan": "Der ligger et tæppe på gulvet.",
+    "lux": "Et läit en Teppech um Buedem."
   },
   {
     "kor": "옷장 안에 옷이 많습니다.",
@@ -273,7 +361,11 @@
     "pol": "W szafie jest dużo ubrań.",
     "ces": "Ve skříni je hodně oblečení.",
     "hun": "Sok ruha van a szekrényben.",
-    "tur": "Gardıropta çok kıyafet var."
+    "tur": "Gardıropta çok kıyafet var.",
+    "nld": "Er hangen veel kleren in de kledingkast.",
+    "swe": "Det finns många kläder i garderoben.",
+    "dan": "Der er mange klæder i garderoben.",
+    "lux": "Et hänken vill Kleeder am Kleederschaf."
   },
   {
     "kor": "거울 앞에 서 있습니다.",
@@ -285,7 +377,11 @@
     "pol": "Stoję przed lustrem.",
     "ces": "Stojím před zrcadlem.",
     "hun": "A tükör előtt állok.",
-    "tur": "Aynanın önünde duruyorum."
+    "tur": "Aynanın önünde duruyorum.",
+    "nld": "Ik sta voor de spiegel.",
+    "swe": "Jag står framför spegeln.",
+    "dan": "Jeg står foran spejlet.",
+    "lux": "Ech stinn viru spigel."
   },
   {
     "kor": "우리 집은 학교 근처에 있습니다.",
@@ -297,6 +393,10 @@
     "pol": "Mój dom jest blisko szkoły.",
     "ces": "Můj dům je blízko školy.",
     "hun": "A házam az iskola közelében van.",
-    "tur": "Evim okulun yakınında."
+    "tur": "Evim okulun yakınında.",
+    "nld": "Mijn huis is in de buurt van de school.",
+    "swe": "Mitt hus ligger nära skolan.",
+    "dan": "Mit hus ligger tæt på skolen.",
+    "lux": "Mäi Haus ass an der Noperschaft vun der Schoul."
   }
 ]

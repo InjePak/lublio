@@ -9,7 +9,11 @@
     "pol": "Jaka jest dzisiaj pogoda?",
     "ces": "Jaké je dnes počasí?",
     "hun": "Milyen ma az idő?",
-    "tur": "Bugün hava nasıl?"
+    "tur": "Bugün hava nasıl?",
+    "nld": "Hoe is het weer vandaag?",
+    "swe": "Hur är vädret idag?",
+    "dan": "Hvordan er vejret i dag?",
+    "lux": "Wéi ass d'Wieder haut?"
   },
   {
     "kor": "날씨가 아주 좋습니다.",
@@ -21,7 +25,11 @@
     "pol": "Pogoda jest piękna.",
     "ces": "Je krásné počasí.",
     "hun": "Nagyon szép idő van.",
-    "tur": "Hava harika."
+    "tur": "Hava harika.",
+    "nld": "Het weer is heerlijk.",
+    "swe": "Vädret är underbart.",
+    "dan": "Vejret er dejligt.",
+    "lux": "D'Wieder ass ganz schéin."
   },
   {
     "kor": "오늘은 화창합니다.",
@@ -33,7 +41,11 @@
     "pol": "Dzisiaj jest słonecznie.",
     "ces": "Dneska je slunečno.",
     "hun": "Ma napsütéses idő van.",
-    "tur": "Bugün hava güneşli."
+    "tur": "Bugün hava güneşli.",
+    "nld": "Het is zonnig vandaag.",
+    "swe": "Det är soligt idag.",
+    "dan": "Det er solrigt i dag.",
+    "lux": "Haut ass et sonneg."
   },
   {
     "kor": "밖은 덥습니다.",
@@ -45,7 +57,11 @@
     "pol": "Na zewnątrz jest gorąco.",
     "ces": "Venku je horko.",
     "hun": "Meleg van kint.",
-    "tur": "Dışarısı sıcak."
+    "tur": "Dışarısı sıcak.",
+    "nld": "Het is warm buiten.",
+    "swe": "Det är varmt ute.",
+    "dan": "Det er varmt udenfor.",
+    "lux": "Et ass waarm doussen."
   },
   {
     "kor": "조금 춥네요.",
@@ -57,7 +73,11 @@
     "pol": "Jest trochę zimno.",
     "ces": "Je docela zima.",
     "hun": "Kicsit hideg van.",
-    "tur": "Hava biraz soğuk."
+    "tur": "Hava biraz soğuk.",
+    "nld": "Het is een beetje koud.",
+    "swe": "Det är lite kallt.",
+    "dan": "Det er lidt koldt.",
+    "lux": "Et ass e bëssen a kale."
   },
   {
     "kor": "비가 오고 있어요.",
@@ -69,7 +89,11 @@
     "pol": "Pada deszcz.",
     "ces": "Prší.",
     "hun": "Esik az eső.",
-    "tur": "Yağmur yağıyor."
+    "tur": "Yağmur yağıyor.",
+    "nld": "Het regent.",
+    "swe": "Det regnar.",
+    "dan": "Det regner.",
+    "lux": "Et reent."
   },
   {
     "kor": "하늘에 구름이 많아요.",
@@ -81,7 +105,11 @@
     "pol": "Jest pochmurno.",
     "ces": "Je zataženo.",
     "hun": "Felhős az ég.",
-    "tur": "Hava bulutlu."
+    "tur": "Hava bulutlu.",
+    "nld": "Het is bewolkt.",
+    "swe": "Det är molnigt.",
+    "dan": "Det er skyet.",
+    "lux": "Et ass wolwëg."
   },
   {
     "kor": "바람이 많이 불어요.",
@@ -93,7 +121,11 @@
     "pol": "Jest bardzo wietrznie.",
     "ces": "Je velmi větrno.",
     "hun": "Nagyon fúj a szél.",
-    "tur": "Hava çok rüzgarlı."
+    "tur": "Hava çok rüzgarlı.",
+    "nld": "Het waait erg hard.",
+    "swe": "Det blåser mycket.",
+    "dan": "Det blæser meget.",
+    "lux": "Et wéiert vill."
   },
   {
     "kor": "눈이 오고 있습니다.",
@@ -105,7 +137,11 @@
     "pol": "Pada śnieg.",
     "ces": "Sněží.",
     "hun": "Esik a hó.",
-    "tur": "Kar yağıyor."
+    "tur": "Kar yağıyor.",
+    "nld": "Het sneeuwt.",
+    "swe": "Det snöar.",
+    "dan": "Det sneer.",
+    "lux": "Et schneit."
   },
   {
     "kor": "안개가 꼈어요.",
@@ -117,7 +153,11 @@
     "pol": "Jest mglisto.",
     "ces": "Je mlha.",
     "hun": "Köd van.",
-    "tur": "Hava sisli."
+    "tur": "Hava sisli.",
+    "nld": "Het is mistig.",
+    "swe": "Det är dimmigt.",
+    "dan": "Det er tåget.",
+    "lux": "Et ass niwweleg."
   },
   {
     "kor": "오늘은 시원합니다.",
@@ -129,7 +169,11 @@
     "pol": "Dzisiaj jest chłodno.",
     "ces": "Dneska je chladno.",
     "hun": "Ma hűvös van.",
-    "tur": "Bugün hava serin."
+    "tur": "Bugün hava serin.",
+    "nld": "Het is koel vandaag.",
+    "swe": "Det är svalt idag.",
+    "dan": "Det er køligt i dag.",
+    "lux": "Haut ass et kill."
   },
   {
     "kor": "날씨가 따뜻해지고 있어요.",
@@ -141,7 +185,11 @@
     "pol": "Pogoda robi się coraz cieplejsza.",
     "ces": "Počasí se otepluje.",
     "hun": "Melegszik az idő.",
-    "tur": "Hava ısınıyor."
+    "tur": "Hava ısınıyor.",
+    "nld": "Het weer wordt warmer.",
+    "swe": "Vädret blir varmare.",
+    "dan": "Vejret bliver varmere.",
+    "lux": "D'Wieder gëtt méi waarm."
   },
   {
     "kor": "우산이 필요해요.",
@@ -153,7 +201,11 @@
     "pol": "Potrzebuję parasola.",
     "ces": "Potřebuji deštník.",
     "hun": "Szükségem van egy esernyőre.",
-    "tur": "Bir şemsiyeye ihtiyacım var."
+    "tur": "Bir şemsiyeye ihtiyacım var.",
+    "nld": "Ik heb een paraplu nodig.",
+    "swe": "Jag behöver ett paraply.",
+    "dan": "Jeg har brug for en paraply.",
+    "lux": "Ech brauche en Iesschirm."
   },
   {
     "kor": "하늘이 파랗습니다.",
@@ -165,7 +217,11 @@
     "pol": "Niebo jest niebieskie.",
     "ces": "Obloha je modrá.",
     "hun": "Kék az ég.",
-    "tur": "Gökyüzü mavi."
+    "tur": "Gökyüzü mavi.",
+    "nld": "De hemel is blauw.",
+    "swe": "Himlen är blå.",
+    "dan": "Himlen er blå.",
+    "lux": "Den Himmel ass blo."
   },
   {
     "kor": "기온이 몇 도인가요?",
@@ -177,7 +233,11 @@
     "pol": "Ile jest stopni?",
     "ces": "Kolik je stupňů?",
     "hun": "Hány fok van?",
-    "tur": "Hava kaç derece?"
+    "tur": "Hava kaç derece?",
+    "nld": "Wat is de temperatuur?",
+    "swe": "Vad är det för temperatur?",
+    "dan": "Hvad er temperaturen?",
+    "lux": "Wat ass d'Temperatur?"
   },
   {
     "kor": "영하 5도입니다.",
@@ -189,7 +249,11 @@
     "pol": "Jest pięć stopni poniżej zera.",
     "ces": "Je pět stupňů pod nulou.",
     "hun": "Mínusz öt fok van.",
-    "tur": "Hava sıfırın altında beş derece."
+    "tur": "Hava sıfırın altında beş derece.",
+    "nld": "Het is vijf graden onder nul.",
+    "swe": "Det är fem grader minus.",
+    "dan": "Det er fem grader frost.",
+    "lux": "Et si fënnef Grad ënner Null."
   },
   {
     "kor": "저는 여름을 좋아합니다.",
@@ -201,7 +265,11 @@
     "pol": "Lubię lato.",
     "ces": "Mám rád léto.",
     "hun": "Szeretem a nyarat.",
-    "tur": "Yaz mevsimini severim."
+    "tur": "Yaz mevsimini severim.",
+    "nld": "Ik hou van de zomer.",
+    "swe": "Jag gillar sommaren.",
+    "dan": "Jeg kan lide sommeren.",
+    "lux": "Ech hu gär de Summer."
   },
   {
     "kor": "겨울은 너무 추워요.",
@@ -213,7 +281,11 @@
     "pol": "Zima jest zbyt mroźna.",
     "ces": "Zima je moc studená.",
     "hun": "A tél túl hideg.",
-    "tur": "Kış çok soğuk."
+    "tur": "Kış çok soğuk.",
+    "nld": "De winter is te koud.",
+    "swe": "Vintern är för kall.",
+    "dan": "Vinteren er for kold.",
+    "lux": "De Wanter ass ze kal."
   },
   {
     "kor": "봄에는 꽃이 피어요.",
@@ -225,7 +297,11 @@
     "pol": "Wiosną kwitną kwiaty.",
     "ces": "Na jaře kvetou květiny.",
     "hun": "Tavasszal nyílnak a virágok.",
-    "tur": "İlkbaharda çiçekler açar."
+    "tur": "İlkbaharda çiçekler açar.",
+    "nld": "Bloemen bloeien in de lente.",
+    "swe": "Blommor blommar på våren.",
+    "dan": "Blomster springer ud om foråret.",
+    "lux": "Blummen bléien am Fréijoer."
   },
   {
     "kor": "가을은 아름답습니다.",
@@ -237,7 +313,11 @@
     "pol": "Jesień jest piękna.",
     "ces": "Podzim je krásný.",
     "hun": "Gyönyörű az ősz.",
-    "tur": "Sonbahar güzeldir."
+    "tur": "Sonbahar güzeldir.",
+    "nld": "De herfst is prachtig.",
+    "swe": "Hösten är vacker.",
+    "dan": "Efteråret er smukt.",
+    "lux": "Den Hierscht ass schéin."
   },
   {
     "kor": "내일 날씨 예보는 어때요?",
@@ -249,7 +329,11 @@
     "pol": "Jaka jest prognoza pogody na jutro?",
     "ces": "Jaká jest předpověď počasí na zítra?",
     "hun": "Mi a holnapi időjárás-előrejelzés?",
-    "tur": "Yarın için hava durumu tahmini nedir?"
+    "tur": "Yarın için hava durumu tahmini nedir?",
+    "nld": "Wat is de weersverwachting voor morgen?",
+    "swe": "Vad är väderprognosen för imorgon?",
+    "dan": "Hvad er vejrudsigten for i morgen?",
+    "lux": "Wéi ass d'Wiederprognos fir muer?"
   },
   {
     "kor": "폭풍이 오고 있어요.",
@@ -261,7 +345,11 @@
     "pol": "Nadchodzi burza.",
     "ces": "Blíží se bouřka.",
     "hun": "Vihar közeledik.",
-    "tur": "Fırtına geliyor."
+    "tur": "Fırtına geliyor.",
+    "nld": "Er komt een storm aan.",
+    "swe": "En storm är på väg.",
+    "dan": "Der er en storm på vej.",
+    "lux": "En Stuerm kënnt."
   },
   {
     "kor": "해가 떴어요.",
@@ -273,7 +361,11 @@
     "pol": "Wyszło słońce.",
     "ces": "Vyšlo slunce.",
     "hun": "Kisütött a nap.",
-    "tur": "Güneş açtı."
+    "tur": "Güneş açtı.",
+    "nld": "De zon schijnt.",
+    "swe": "Solen skiner.",
+    "dan": "Solen skinner.",
+    "lux": "D'Sonn schéngt."
   },
   {
     "kor": "공기가 매우 건조합니다.",
@@ -285,7 +377,11 @@
     "pol": "Powietrze jest bardzo suche.",
     "ces": "Vzduch je velmi suchý.",
     "hun": "Nagyon száraz a levegő.",
-    "tur": "Hava çok kuru."
+    "tur": "Hava çok kuru.",
+    "nld": "De lucht is erg droog.",
+    "swe": "Luften är väldigt torr.",
+    "dan": "Luften er meget tør.",
+    "lux": "D'Loft ass ganz dréchen."
   },
   {
     "kor": "코트를 입으세요.",
@@ -297,6 +393,10 @@
     "pol": "Załóż płaszcz.",
     "ces": "Vezmi si kabát.",
     "hun": "Vegyél fel kabátot.",
-    "tur": "Palto giy."
+    "tur": "Palto giy.",
+    "nld": "Draag een jas.",
+    "swe": "Ta på dig en jacka.",
+    "dan": "Tag en frakke på.",
+    "lux": "Drei e Mantel."
   }
 ]

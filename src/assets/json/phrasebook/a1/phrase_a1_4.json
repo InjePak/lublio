@@ -9,7 +9,11 @@
     "pol": "Która jest godzina?",
     "ces": "Kolik je hodin?",
     "hun": "Mennyi az idő?",
-    "tur": "Saat kaç?"
+    "tur": "Saat kaç?",
+    "nld": "Hoe laat is het nu?",
+    "swe": "Vad är klockan nu?",
+    "dan": "Hvad er klokken nu?",
+    "lux": "Wéi vill Auer ass et elo?"
   },
   {
     "kor": "현재 시각은 오후 3시입니다.",
@@ -21,7 +25,11 @@
     "pol": "Jest trzecia po południu.",
     "ces": "Jsou tři hodiny odpoledne.",
     "hun": "Délután három óra van.",
-    "tur": "Saat öğleden sonra üç."
+    "tur": "Saat öğleden sonra üç.",
+    "nld": "Het is drie uur 's middags.",
+    "swe": "Klockan är tre på eftermiddagen.",
+    "dan": "Klokken er tre om eftermiddagen.",
+    "lux": "Et ass dräi Auer noëttes."
   },
   {
     "kor": "8시 30분입니다.",
@@ -33,7 +41,11 @@
     "pol": "Jest wpół do dziewiątej.",
     "ces": "Je půl deváté.",
     "hun": "Fél kilenc van.",
-    "tur": "Saat sekiz buçuk."
+    "tur": "Saat sekiz buçuk.",
+    "nld": "Het is half negen.",
+    "swe": "Klockan är halv nio.",
+    "dan": "Klokken er halv ni.",
+    "lux": "Et ass halwer néng."
   },
   {
     "kor": "10시 15분 전입니다.",
@@ -45,7 +57,11 @@
     "pol": "Jest za kwadrans dziesiąta.",
     "ces": "Je tři čtvrtě na deset.",
     "hun": "Háromnegyed tíz van.",
-    "tur": "Saate on bir var."
+    "tur": "Saate on bir var.",
+    "nld": "Het is kwart voor tien.",
+    "swe": "Klockan är kvart i tio.",
+    "dan": "Klokken er et kvarter i ti.",
+    "lux": "Et ass e Véirel vir zéng."
   },
   {
     "kor": "오늘은 무슨 요일인가요?",
@@ -57,7 +73,11 @@
     "pol": "Jaki jest dzisiaj dzień?",
     "ces": "Co je dnes za den?",
     "hun": "Milyen nap van ma?",
-    "tur": "Bugün günlerden ne?"
+    "tur": "Bugün günlerden ne?",
+    "nld": "Welke dag is het vandaag?",
+    "swe": "Vilken dag är det idag?",
+    "dan": "Hvilken dag er det i dag?",
+    "lux": "Wéi een Dag ass haut?"
   },
   {
     "kor": "오늘은 월요일입니다.",
@@ -69,7 +89,11 @@
     "pol": "Dzisiaj jest poniedziałek.",
     "ces": "Dnes je pondělí.",
     "hun": "Ma hétfő van.",
-    "tur": "Bugün Pazartesi."
+    "tur": "Bugün Pazartesi.",
+    "nld": "Vandaag is het maandag.",
+    "swe": "Idag är det måndag.",
+    "dan": "I dag er det mandag.",
+    "lux": "Haut ass Méindeg."
   },
   {
     "kor": "내일은 5월 1일입니다.",
@@ -81,7 +105,11 @@
     "pol": "Jutro jest pierwszy maja.",
     "ces": "Zítra je prvního května.",
     "hun": "Holnap május elseje lesz.",
-    "tur": "Yarın bir Mayıs."
+    "tur": "Yarın bir Mayıs.",
+    "nld": "Morgen is het één mei.",
+    "swe": "Imorgon är det första maj.",
+    "dan": "I morgen er det første maj.",
+    "lux": "Muer ass den éischte Mee."
   },
   {
     "kor": "제 생일은 10월입니다.",
@@ -93,7 +121,11 @@
     "pol": "Moje urodziny są w październiku.",
     "ces": "Moje narozeniny jsou v říjnu.",
     "hun": "Októberben van a születésnapom.",
-    "tur": "Doğum günüm Ekim ayında."
+    "tur": "Doğum günüm Ekim ayında.",
+    "nld": "Mijn verjaardag is in oktober.",
+    "swe": "Min födelsedag är i oktober.",
+    "dan": "Min fødselsdag er i oktober.",
+    "lux": "Mäi Gebuertsdag ass am Oktober."
   },
   {
     "kor": "저는 아침 7시에 일어납니다.",
@@ -105,7 +137,11 @@
     "pol": "Wstaję o siódmej.",
     "ces": "Vstávám v sedm hodin.",
     "hun": "Hét órakor kelek.",
-    "tur": "Saat yedide kalkarım."
+    "tur": "Saat yedide kalkarım.",
+    "nld": "Ik sta om zeven uur op.",
+    "swe": "Jag går upp klockan sju.",
+    "dan": "Jeg står op klokken syv.",
+    "lux": "Ech stinn um siwen Auer op."
   },
   {
     "kor": "수업은 언제 시작하나요?",
@@ -117,7 +153,11 @@
     "pol": "O której zaczyna się lekcja?",
     "ces": "Kdy začíná lekce?",
     "hun": "Mikor kezdődik az óra?",
-    "tur": "Ders ne zaman başlıyor?"
+    "tur": "Ders ne zaman başlıyor?",
+    "nld": "Wanneer begint de les?",
+    "swe": "När börjar lektionen?",
+    "dan": "Hvornår starter timen?",
+    "lux": "Wéini fänkt de Cours un?"
   },
   {
     "kor": "이것은 얼마인가요?",
@@ -129,7 +169,11 @@
     "pol": "Ile to kosztuje?",
     "ces": "Kolik to stojí?",
     "hun": "Ez mennyibe kerül?",
-    "tur": "Bu ne kadar?"
+    "tur": "Bu ne kadar?",
+    "nld": "Hoeveel kost dit?",
+    "swe": "Hur mycket kostar det här?",
+    "dan": "Hvor meget koster dette?",
+    "lux": "Wéi vill kascht dat?"
   },
   {
     "kor": "그것은 20파운드입니다.",
@@ -141,7 +185,11 @@
     "pol": "To kosztuje dwadzieścia funtów.",
     "ces": "Stojí to dvacet liber.",
     "hun": "Húsz fontba kerül.",
-    "tur": "O yirmi pound."
+    "tur": "O yirmi pound.",
+    "nld": "Het is twintig pond.",
+    "swe": "Det kostar tjugo pund.",
+    "dan": "Det koster tyve pund.",
+    "lux": "Dat kascht zwanzeg Pond."
   },
   {
     "kor": "전화번호가 무엇인가요?",
@@ -153,7 +201,11 @@
     "pol": "Jaki jest twój numer telefonu?",
     "ces": "Jaké je tvé telefonní číslo?",
     "hun": "Mi a telefonszámod?",
-    "tur": "Telefon numaran ne?"
+    "tur": "Telefon numaran ne?",
+    "nld": "Wat is je telefoonnummer?",
+    "swe": "Vad är ditt telefonnummer?",
+    "dan": "Hvad er dit telefonnummer?",
+    "lux": "Wat ass deng Telefonsnummer?"
   },
   {
     "kor": "저는 100까지 셀 수 있습니다.",
@@ -165,7 +217,11 @@
     "pol": "Umiem liczyć do stu.",
     "ces": "Umím počítat do sta.",
     "hun": "El tudok számolni százig.",
-    "tur": "Yüze kadar sayabilirim."
+    "tur": "Yüze kadar sayabilirim.",
+    "nld": "Ik kan tot honderd tellen.",
+    "swe": "Jag kan räkna till hundra.",
+    "dan": "Jeg kan tælle til hundrede.",
+    "lux": "Ech kann bis honnert zielen."
   },
   {
     "kor": "사과 다섯 개 주세요.",
@@ -177,7 +233,11 @@
     "pol": "Poproszę pięć jabłek.",
     "ces": "Pět jablek, prosím.",
     "hun": "Öt almát kérek.",
-    "tur": "Beş elma lütfen."
+    "tur": "Beş elma lütfen.",
+    "nld": "Vijf appels, alstublieft.",
+    "swe": "Fem äpplen, tack.",
+    "dan": "Fem æbler, tak.",
+    "lux": "Fënnef Äppel, wann ech gelift."
   },
   {
     "kor": "10분 기다려 주세요.",
@@ -189,7 +249,11 @@
     "pol": "Proszę poczekać dziesięć minut.",
     "ces": "Prosím, počkejte deset minut.",
     "hun": "Kérlek, várj tíz percet.",
-    "tur": "Lütfen on dakika bekleyin."
+    "tur": "Lütfen on dakika bekleyin.",
+    "nld": "Wacht tien minuten, alstublieft.",
+    "swe": "Vänta tio minuter, tack.",
+    "dan": "Vent ti minutter, tak.",
+    "lux": "Waart w.e.g. zéng Minutten."
   },
   {
     "kor": "일주일은 7일입니다.",
@@ -201,7 +265,11 @@
     "pol": "Tydzień ma siedem dni.",
     "ces": "Týden má sedm dní.",
     "hun": "Egy hét hét napból áll.",
-    "tur": "Bir haftada yedi gün vardır."
+    "tur": "Bir haftada yedi gün vardır.",
+    "nld": "Een week heeft zeven dagen.",
+    "swe": "En vecka har sju dagar.",
+    "dan": "En uge har syv dage.",
+    "lux": "Eng Woch huet siwe Deeg."
   },
   {
     "kor": "지금은 정오입니다.",
@@ -213,7 +281,11 @@
     "pol": "Jest południe.",
     "ces": "Je poledne.",
     "hun": "Most dél van.",
-    "tur": "Şu an öğle vakti."
+    "tur": "Şu an öğle vakti.",
+    "nld": "Het is nu middag.",
+    "swe": "Det är middag nu.",
+    "dan": "Det er middag nu.",
+    "lux": "Et ass elo Mëtteg."
   },
   {
     "kor": "한 시간 후에 만나요.",
@@ -225,7 +297,11 @@
     "pol": "Do zobaczenia za godzinę.",
     "ces": "Uvidíme se za hodinu.",
     "hun": "Egy óra múlva találkozunk.",
-    "tur": "Bir saat sonra görüşürüz."
+    "tur": "Bir saat sonra görüşürüz.",
+    "nld": "Tot over een uur.",
+    "swe": "Vi ses om en timme.",
+    "dan": "Vi ses om en time.",
+    "lux": "Bis an enger Stonn."
   },
   {
     "kor": "저는 매일 8시간씩 잡니다.",
@@ -237,7 +313,11 @@
     "pol": "Śpię osiem godzin dziennie.",
     "ces": "Spím osm hodin denně.",
     "hun": "Napi nyolc órát alszom.",
-    "tur": "Her gün sekiz saat uyurum."
+    "tur": "Her gün sekiz saat uyurum.",
+    "nld": "Ik slaap elke dag acht uur.",
+    "swe": "Jag sover åtta timmar varje dag.",
+    "dan": "Jeg sover otte timer hver dag.",
+    "lux": "Ech schloen all Dag aacht Stonnen."
   },
   {
     "kor": "그는 30살입니다.",
@@ -249,7 +329,11 @@
     "pol": "On ma trzydzieści lat.",
     "ces": "Je mu třicet let.",
     "hun": "Harminc éves.",
-    "tur": "O otuz yaşında."
+    "tur": "O otuz yaşında.",
+    "nld": "Hij is dertig jaar oud.",
+    "swe": "Han är trettio år gammal.",
+    "dan": "Han er tredive år gammel.",
+    "lux": "Hien ass drësseg Joer al."
   },
   {
     "kor": "박물관은 9시에 엽니다.",
@@ -261,7 +345,11 @@
     "pol": "Muzeum otwiera się o dziewiątej.",
     "ces": "Muzeum otevírá v devět.",
     "hun": "A múzeum kilenckor nyit.",
-    "tur": "Müze dokuzda açılıyor."
+    "tur": "Müze dokuzda açılıyor.",
+    "nld": "Het museum opent om negen uur.",
+    "swe": "Museet öppnar klockan nio.",
+    "dan": "Museet åbner klokken ni.",
+    "lux": "De Musée mécht um néng Auer op."
   },
   {
     "kor": "버스는 15분마다 옵니다.",
@@ -273,7 +361,11 @@
     "pol": "Autobus przyjeżdża co piętnaście minut.",
     "ces": "Autobus jezdí každých patnáct minut.",
     "hun": "A busz tizenöt percenként jár.",
-    "tur": "Otobüs her on beş dakikada bir gelir."
+    "tur": "Otobüs her on beş dakikada bir gelir.",
+    "nld": "De bus komt elke vijftien minuten.",
+    "swe": "Bussen kommer var femtonde minut.",
+    "dan": "Bussen kommer hvert femtende minut.",
+    "lux": "De Bus kënnt all fofzéng Minutten."
   },
   {
     "kor": "오늘은 2024년 6월 10일입니다.",
@@ -285,7 +377,11 @@
     "pol": "Dzisiaj jest dziesiąty czerwca dwa tysiące dwudziestego czwartego roku.",
     "ces": "Dnes je desátého června dva tisíce dvacet čtyři.",
     "hun": "Ma 2024. június tizedike van.",
-    "tur": "Bugün on Haziran iki bin yirmi dört."
+    "tur": "Bugün on Haziran iki bin yirmi dört.",
+    "nld": "Vandaag is het 10 juni 2024.",
+    "swe": "Idag är det 10 juni 2024.",
+    "dan": "I dag er det 10. juni 2024.",
+    "lux": "Haut ass den 10. Juni 2024."
   },
   {
     "kor": "시간이 거의 다 됐어요.",
@@ -297,6 +393,10 @@
     "pol": "Czas prawie się skończył.",
     "ces": "Čas skoro vypršel.",
     "hun": "Majdnem lejárt az idő.",
-    "tur": "Vakit neredeyse doldu."
+    "tur": "Vakit neredeyse doldu.",
+    "nld": "De tijd is bijna om.",
+    "swe": "Tiden är nästan ute.",
+    "dan": "Tiden er næsten gået.",
+    "lux": "D'Zäit ass bal ëm."
   }
 ]

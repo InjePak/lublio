@@ -9,7 +9,11 @@
     "pol": "Nie czuję się dobrze.",
     "ces": "Necítím se dobře.",
     "hun": "Nem érzem jól magam.",
-    "tur": "Kendimi iyi hissetmiyorum."
+    "tur": "Kendimi iyi hissetmiyorum.",
+    "nld": "Ik voel me niet goed.",
+    "swe": "Jag mår inte bra.",
+    "dan": "Jeg har det ikke godt.",
+    "lux": "Ech fill mech net gutt."
   },
   {
     "kor": "어디가 아프신가요?",
@@ -21,7 +25,11 @@
     "pol": "Co pana/panią boli?",
     "ces": "Kde vás to bolí?",
     "hun": "Hol fáj?",
-    "tur": "Nereniz ağrıyor?"
+    "tur": "Nereniz ağrıyor?",
+    "nld": "Waar doet het pijn?",
+    "swe": "Var gör det ont?",
+    "dan": "Hvor gør det ondt?",
+    "lux": "Wou deet et wéi?"
   },
   {
     "kor": "머리가 아파요.",
@@ -33,7 +41,11 @@
     "pol": "Boli mnie głowa.",
     "ces": "Bolí mě hlava.",
     "hun": "Fáj a fejem.",
-    "tur": "Başım ağrıyor."
+    "tur": "Başım ağrıyor.",
+    "nld": "Ik heb hoofdpijn.",
+    "swe": "Jag har huvudvärk.",
+    "dan": "Jeg har hovedpine.",
+    "lux": "Ech hunn Kappwéi."
   },
   {
     "kor": "배가 아파요.",
@@ -45,7 +57,11 @@
     "pol": "Boli mnie brzuch.",
     "ces": "Bolí mě břicho.",
     "hun": "Fáj a hasam.",
-    "tur": "Karnım ağrıyor."
+    "tur": "Karnım ağrıyor.",
+    "nld": "Ik heb buikpijn.",
+    "swe": "Jag har ont i magen.",
+    "dan": "Jeg har mavesmerter.",
+    "lux": "Ech hunn Bauchwéi."
   },
   {
     "kor": "목이 아파요.",
@@ -57,7 +73,11 @@
     "pol": "Boli mnie gardło.",
     "ces": "Bolí mě v krku.",
     "hun": "Fáj a torkom.",
-    "tur": "Boğazım ağrıyor."
+    "tur": "Boğazım ağrıyor.",
+    "nld": "Ik heb keelpijn.",
+    "swe": "Jag har ont i halsen.",
+    "dan": "Jeg har ondt i halsen.",
+    "lux": "Ech hunn Halswéi."
   },
   {
     "kor": "감기에 걸렸어요.",
@@ -69,7 +89,11 @@
     "pol": "Jestem przeziębiony/a.",
     "ces": "Mám rýmu.",
     "hun": "Megfáztam.",
-    "tur": "Grip oldum."
+    "tur": "Grip oldum.",
+    "nld": "Ik ben verkouden.",
+    "swe": "Jag är förkyld.",
+    "dan": "Jeg er forkølet.",
+    "lux": "Ech si verkielt."
   },
   {
     "kor": "열이 나요.",
@@ -81,7 +105,11 @@
     "pol": "Mam gorączkę.",
     "ces": "Mám teplotu.",
     "hun": "Lázas vagyok.",
-    "tur": "Ateşim var."
+    "tur": "Ateşim var.",
+    "nld": "Ik heb koorts.",
+    "swe": "Jag har feber.",
+    "dan": "Jeg har feber.",
+    "lux": "Ech hunn Féiwer."
   },
   {
     "kor": "기침을 많이 해요.",
@@ -93,7 +121,11 @@
     "pol": "Mam silny kaszel.",
     "ces": "Mám silný kašel.",
     "hun": "Erősen köhögök.",
-    "tur": "Çok öksürüyorum."
+    "tur": "Çok öksürüyorum.",
+    "nld": "Ik hoest erg.",
+    "swe": "Jag hostar mycket.",
+    "dan": "Jeg hoster meget.",
+    "lux": "Ech houschten däitlech."
   },
   {
     "kor": "피곤해요.",
@@ -105,7 +137,11 @@
     "pol": "Jestem zmęczony/a.",
     "ces": "Jsem unavený/á.",
     "hun": "Fáradt vagyok.",
-    "tur": "Yorgunum."
+    "tur": "Yorgunum.",
+    "nld": "Ik ben moe.",
+    "swe": "Jag är trött.",
+    "dan": "Jeg er træt.",
+    "lux": "Ech sinn müdeg."
   },
   {
     "kor": "의사가 필요해요.",
@@ -117,7 +153,11 @@
     "pol": "Potrzebuję lekarza.",
     "ces": "Potřebuji doktora.",
     "hun": "Orvosra van szükségem.",
-    "tur": "Bir doktora ihtiyacım var."
+    "tur": "Bir doktora ihtiyacım var.",
+    "nld": "Ik heb een dokter nodig.",
+    "swe": "Jag behöver en läkare.",
+    "dan": "Jeg har brug for en læge.",
+    "lux": "Ech brauche en Dokter."
   },
   {
     "kor": "병원에 가야 해요.",
@@ -129,7 +169,11 @@
     "pol": "Muszę iść do szpitala.",
     "ces": "Musím jít do nemocnice.",
     "hun": "Kórházba kell mennem.",
-    "tur": "Hastaneye gitmem lazım."
+    "tur": "Hastaneye gitmem lazım.",
+    "nld": "Ik moet naar het ziekenhuis.",
+    "swe": "Jag måste gå till sjukhuset.",
+    "dan": "Jeg skal på hospitalet.",
+    "lux": "Ech muss an d'Spidol goen."
   },
   {
     "kor": "약국이 어디에 있나요?",
@@ -141,7 +185,11 @@
     "pol": "Gdzie jest apteka?",
     "ces": "Kde je lékárna?",
     "hun": "Hol van a gyógyszertár?",
-    "tur": "Eczane nerede?"
+    "tur": "Eczane nerede?",
+    "nld": "Waar is de apotheek?",
+    "swe": "Var är apoteket?",
+    "dan": "Hvor er apoteket?",
+    "lux": "Wou ass d'Apdikt?"
   },
   {
     "kor": "약이 좀 필요합니다.",
@@ -153,7 +201,11 @@
     "pol": "Potrzebuję leków.",
     "ces": "Potřebuji nějaké léky.",
     "hun": "Gyógyszerre van szükségem.",
-    "tur": "İlaca ihtiyacım var."
+    "tur": "İlaca ihtiyacım var.",
+    "nld": "Ik heb medicijnen nodig.",
+    "swe": "Jag behöver medicin.",
+    "dan": "Jeg har brug for noget medicin.",
+    "lux": "Ech brauche Medikamenter."
   },
   {
     "kor": "눈이 아파요.",
@@ -165,7 +217,11 @@
     "pol": "Bolą mnie oczy.",
     "ces": "Bolí mě oči.",
     "hun": "Fáj a szemem.",
-    "tur": "Gözlerim ağrıyor."
+    "tur": "Gözlerim ağrıyor.",
+    "nld": "Mijn ogen doen pijn.",
+    "swe": "Mina ögon gör ont.",
+    "dan": "Mine øjne gør ondt.",
+    "lux": "Meng Aen deen wéi."
   },
   {
     "kor": "다리가 부러졌어요.",
@@ -177,7 +233,11 @@
     "pol": "Złamałem/am nogę.",
     "ces": "Zlomil jsem si nohu.",
     "hun": "Eltörtem a lábam.",
-    "tur": "Bacağımı kırdım."
+    "tur": "Bacağımı kırdım.",
+    "nld": "Ik heb mijn been gebroken.",
+    "swe": "Jag bröt benet.",
+    "dan": "Jeg har brækket mit ben.",
+    "lux": "Ech hunn mir d'Been gebrach."
   },
   {
     "kor": "손을 씻으세요.",
@@ -189,7 +249,11 @@
     "pol": "Umyj ręce.",
     "ces": "Umyjte si ruce.",
     "hun": "Moss kezet.",
-    "tur": "Ellerinizi yıkayın."
+    "tur": "Ellerinizi yıkayın.",
+    "nld": "Was je handen.",
+    "swe": "Tvätta händerna.",
+    "dan": "Vask dine hænder.",
+    "lux": "Basch d'Hänn."
   },
   {
     "kor": "건강에 좋은 음식을 드세요.",
@@ -201,7 +265,11 @@
     "pol": "Jedz zdrową żywność.",
     "ces": "Jezte zdravé jídlo.",
     "hun": "Egyél egészséges ételeket.",
-    "tur": "Sağlıklı yiyecekler yiyin."
+    "tur": "Sağlıklı yiyecekler yiyin.",
+    "nld": "Eet gezond eten.",
+    "swe": "Ät hälsosam mat.",
+    "dan": "Spis sund mad.",
+    "lux": "Iess gesond."
   },
   {
     "kor": "충분히 자야 해요.",
@@ -213,7 +281,11 @@
     "pol": "Musisz się wyspać.",
     "ces": "Potřebuješ dostatek spánku.",
     "hun": "Elegendő alvásra van szükséged.",
-    "tur": "Yeterince uyuman lazım."
+    "tur": "Yeterince uyuman lazım.",
+    "nld": "Je hebt genoeg slaap nodig.",
+    "swe": "Du behöver tillräckligt med sömn.",
+    "dan": "Du har brug for nok søvn.",
+    "lux": "Du brauchs genuch Schlof."
   },
   {
     "kor": "숨을 깊게 들이마시세요.",
@@ -225,7 +297,11 @@
     "pol": "Weź głęboki oddech.",
     "ces": "Zhluboka se nadechněte.",
     "hun": "Vegyen egy mély lélegzetet.",
-    "tur": "Derin bir nefes alın."
+    "tur": "Derin bir nefes alın.",
+    "nld": "Haal diep adem.",
+    "swe": "Ta ett djupt andetag.",
+    "dan": "Tag en dyb indånding.",
+    "lux": "Huel en déif Zuch."
   },
   {
     "kor": "혈압이 높아요.",
@@ -237,7 +313,11 @@
     "pol": "Mam wysokie ciśnienie.",
     "ces": "Mám vysoký krevní tlak.",
     "hun": "Magas a vérnyomásom.",
-    "tur": "Tansiyonum yüksek."
+    "tur": "Tansiyonum yüksek.",
+    "nld": "Mijn bloeddruk is hoog.",
+    "swe": "Mitt blodtryck är högt.",
+    "dan": "Mit blodtryk er højt.",
+    "lux": "Mäi Bluttndrock ass héich."
   },
   {
     "kor": "알레르기가 있나요?",
@@ -249,7 +329,11 @@
     "pol": "Czy ma pan/pani jakieś alergie?",
     "ces": "Máte nějaké alergie?",
     "hun": "Van valamilyen allergiája?",
-    "tur": "Alerjiniz var mı?"
+    "tur": "Alerjiniz var mı?",
+    "nld": "Heb je allergieën?",
+    "swe": "Har du några allergier?",
+    "dan": "Har du nogle allergier?",
+    "lux": "Hues du Allergien?"
   },
   {
     "kor": "저는 견과류 알레르기가 있어요.",
@@ -261,7 +345,11 @@
     "pol": "Mam alergię na orzechy.",
     "ces": "Mám alergii na ořechy.",
     "hun": "Allergiás vagyok a diófélékre.",
-    "tur": "Kuruyemişe alerjim var."
+    "tur": "Kuruyemişe alerjim var.",
+    "nld": "Ik ben allergisch voor noten.",
+    "swe": "Jag är allergisk mot nötter.",
+    "dan": "Jeg er allergisk over for nødder.",
+    "lux": "Ech sinn allergesch géint Nëss."
   },
   {
     "kor": "이 약을 하루에 세 번 드세요.",
@@ -273,7 +361,11 @@
     "pol": "Proszę brać ten lek trzy razy dziennie.",
     "ces": "Berte tento lék třikrát denně.",
     "hun": "Naponta háromszor vegye be ezt a gyógyszert.",
-    "tur": "Bu ilacı günde üç kez alın."
+    "tur": "Bu ilacı günde üç kez alın.",
+    "nld": "Neem dit medicijn driemaal daags.",
+    "swe": "Ta den här medicinen tre gånger om dagen.",
+    "dan": "Tag denne medicin tre gange om dagen.",
+    "lux": "Huel dës Medikamenter dräimol am Dag."
   },
   {
     "kor": "안경을 써야 해요.",
@@ -285,7 +377,11 @@
     "pol": "Muszę nosić okulary.",
     "ces": "Musím nosit brýle.",
     "hun": "Szemüveget kell hordanom.",
-    "tur": "Gözlük takmam gerekiyor."
+    "tur": "Gözlük takmam gerekiyor.",
+    "nld": "Ik moet een bril dragen.",
+    "swe": "Jag behöver ha glasögon.",
+    "dan": "Jeg skal have briller på.",
+    "lux": "Ech muss eng Brëll droen."
   },
   {
     "kor": "빨리 낫길 바라요.",
@@ -297,6 +393,10 @@
     "pol": "Szybkiego powrotu do zdrowia.",
     "ces": "Brzy se uzdrav.",
     "hun": "Mielőbbi jobbulást!",
-    "tur": "Geçmiş olsun."
+    "tur": "Geçmiş olsun.",
+    "nld": "Beterschap!",
+    "swe": "Krya på dig!",
+    "dan": "God bedring!",
+    "lux": "Gutt Besserung!"
   }
 ]

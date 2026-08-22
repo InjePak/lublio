@@ -9,7 +9,11 @@
     "pol": "Przepraszam, czy mogę zapytać o drogę?",
     "ces": "Promiňte, mohu se zeptat na cestu?",
     "hun": "Elnézést, útbaigazítást szeretnék kérni.",
-    "tur": "Affedersiniz, size yolu sorabilir miyim?"
+    "tur": "Affedersiniz, size yolu sorabilir miyim?",
+    "nld": "Pardon, mag ik u de weg vragen?",
+    "swe": "Ursäkta, kan jag fråga om vägen?",
+    "dan": "Undskyld, kan jeg spørge om vej?",
+    "lux": "Pardon, kann ech Iech no dem Wee froen?"
   },
   {
     "kor": "기차역이 어디에 있나요?",
@@ -21,7 +25,11 @@
     "pol": "Gdzie jest stacja kolejowa?",
     "ces": "Kde je nádraží?",
     "hun": "Hol van a vasútállomás?",
-    "tur": "Tren istasyonu nerede?"
+    "tur": "Tren istasyonu nerede?",
+    "nld": "Waar is het treinstation?",
+    "swe": "Var är tågstationen?",
+    "dan": "Hvor er togstationen?",
+    "lux": "Wou ass den Zuchgare?"
   },
   {
     "kor": "가장 가까운 지하철역이 어디인가요?",
@@ -33,7 +41,11 @@
     "pol": "Gdzie jest najbliższa stacja metra?",
     "ces": "Kde je nejbližší stanice metra?",
     "hun": "Hol van a legközelebbi metrómegálló?",
-    "tur": "En yakın metro durağı nerede?"
+    "tur": "En yakın metro durağı nerede?",
+    "nld": "Waar is het dichtstbijzijnde metrostation?",
+    "swe": "Var är närmaste tunnelbanestation?",
+    "dan": "Hvor er den nærmeste metrostation?",
+    "lux": "Wou ass déi næchst Metrostation?"
   },
   {
     "kor": "박물관에 어떻게 가나요?",
@@ -45,7 +57,11 @@
     "pol": "Jak dojść do muzeum?",
     "ces": "Jak se dostanu k muzeu?",
     "hun": "Hogyan jutok el a múzeumba?",
-    "tur": "Müzeye nasıl giderim?"
+    "tur": "Müzeye nasıl giderim?",
+    "nld": "Hoe kom ik bij het museum?",
+    "swe": "Hur kommer jag till museet?",
+    "dan": "Hvordan kommer jeg til museet?",
+    "lux": "Wéi kommen ech an de Musée?"
   },
   {
     "kor": "여기서 먼가요?",
@@ -57,7 +73,11 @@
     "pol": "Czy to jest daleko stąd?",
     "ces": "Je to odsud daleko?",
     "hun": "Messze van innen?",
-    "tur": "Buraya uzak mı?"
+    "tur": "Buraya uzak mı?",
+    "nld": "Is het ver hier vandaan?",
+    "swe": "Är det långt härifrån?",
+    "dan": "Er det langt væk herfra?",
+    "lux": "Ass et wäit vun hei?"
   },
   {
     "kor": "걸어서 갈 수 있나요?",
@@ -69,7 +89,11 @@
     "pol": "Czy można tam dojść pieszo?",
     "ces": "Dá se tam dojít pěšky?",
     "hun": "Gyalog is el lehet oda jutni?",
-    "tur": "Oraya yürüyerek gidebilir miyim?"
+    "tur": "Oraya yürüyerek gidebilir miyim?",
+    "nld": "Kan ik erheen lopen?",
+    "swe": "Kan jag gå dit?",
+    "dan": "Kan jeg gå derhen?",
+    "lux": "Kann ech dohin goen?"
   },
   {
     "kor": "똑바로 가세요.",
@@ -81,7 +105,11 @@
     "pol": "Proszę iść prosto.",
     "ces": "Jděte rovně.",
     "hun": "Menjen egyenesen.",
-    "tur": "Düz gidin."
+    "tur": "Düz gidin.",
+    "nld": "Ga rechtdoor.",
+    "swe": "Gå rakt fram.",
+    "dan": "Gå lige ud.",
+    "lux": "Gitt just aus."
   },
   {
     "kor": "왼쪽으로 도세요.",
@@ -93,7 +121,11 @@
     "pol": "Proszę skręcić w lewo.",
     "ces": "Zahněte doleva.",
     "hun": "Forduljon balra.",
-    "tur": "Sola dönün."
+    "tur": "Sola dönün.",
+    "nld": "Sla linksaf.",
+    "swe": "Sväng vänster.",
+    "dan": "Drej til venstre.",
+    "lux": "Dreift lénks."
   },
   {
     "kor": "오른쪽으로 도세요.",
@@ -105,7 +137,11 @@
     "pol": "Proszę skręcić w prawo.",
     "ces": "Zahněte doprava.",
     "hun": "Forduljon jobbra.",
-    "tur": "Sağa dönün."
+    "tur": "Sağa dönün.",
+    "nld": "Sla rechtsaf.",
+    "swe": "Sväng höger.",
+    "dan": "Drej til højre.",
+    "lux": "Dreift riets."
   },
   {
     "kor": "길을 잃었습니다.",
@@ -117,7 +153,11 @@
     "pol": "Zgubiłem się / Zgubiłam się.",
     "ces": "Ztratil jsem se / Ztratila jsem se.",
     "hun": "Eltévedtem.",
-    "tur": "Kayboldum."
+    "tur": "Kayboldum.",
+    "nld": "Ik ben de weg kwijt.",
+    "swe": "Jag har gått vilse.",
+    "dan": "Jeg er gået tabt.",
+    "lux": "Ech hunn mech verwiesselt."
   },
   {
     "kor": "지도가 있나요?",
@@ -129,7 +169,11 @@
     "pol": "Czy ma pan/pani mapę?",
     "ces": "Máte mapu?",
     "hun": "Van Önnek térképe?",
-    "tur": "Haritanız var mı?"
+    "tur": "Haritanız var mı?",
+    "nld": "Heb je een plattegrond?",
+    "swe": "Har du en karta?",
+    "dan": "Har du et kort?",
+    "lux": "Hues du eng Kaart?"
   },
   {
     "kor": "이 근처에 은행이 있나요?",
@@ -141,7 +185,11 @@
     "pol": "Czy w pobliżu jest bank?",
     "ces": "Je tady poblíž banka?",
     "hun": "Van bank a közelben?",
-    "tur": "Yakınlarda bir banka var mı?"
+    "tur": "Yakınlarda bir banka var mı?",
+    "nld": "Is er een bank in de buurt?",
+    "swe": "Finns det en bank i närheten?",
+    "dan": "Er der en bank i nærheden?",
+    "lux": "Gëtt et eng Bank an der Géigend?"
   },
   {
     "kor": "모퉁이에 있습니다.",
@@ -153,7 +201,11 @@
     "pol": "To jest na rogu.",
     "ces": "Je to na rohu.",
     "hun": "A sarkon van.",
-    "tur": "Köşede."
+    "tur": "Köşede.",
+    "nld": "Het is op de hoek.",
+    "swe": "Det är på hörnet.",
+    "dan": "Det er på hjørnet.",
+    "lux": "Et ass um Eck."
   },
   {
     "kor": "슈퍼마켓 옆에 있습니다.",
@@ -165,7 +217,11 @@
     "pol": "To jest obok supermarketu.",
     "ces": "Je to vedle supermarketu.",
     "hun": "A szupermarket mellett van.",
-    "tur": "Süpermarketin yanında."
+    "tur": "Süpermarketin yanında.",
+    "nld": "Het is naast de supermarkt.",
+    "swe": "Det är bredvid stormarknaden.",
+    "dan": "Det er ved siden af supermarkedet.",
+    "lux": "Et ass nieft dem Supermaart."
   },
   {
     "kor": "병원은 공원 맞은편에 있습니다.",
@@ -177,7 +233,11 @@
     "pol": "Szpital jest naprzeciwko parku.",
     "ces": "Nemocnice je naproti parku.",
     "hun": "A kórház a parkkal szemben van.",
-    "tur": "Hastane parkın karşısında."
+    "tur": "Hastane parkın karşısında.",
+    "nld": "Het ziekenhuis is tegenover het park.",
+    "swe": "Sjukhuset ligger mitt emot parken.",
+    "dan": "Hospitalet er over for parken.",
+    "lux": "D'Spidol ass géintiwwer vum Park."
   },
   {
     "kor": "두 번째 골목에서 왼쪽으로 도세요.",
@@ -189,7 +249,11 @@
     "pol": "Skręć w lewo na drugiej ulicy.",
     "ces": "Na druhé křižovatce zahněte doleva.",
     "hun": "A második utcánál forduljon balra.",
-    "tur": "İkinci sokaktan sola dönün."
+    "tur": "İkinci sokaktan sola dönün.",
+    "nld": "Neem de tweede straat links.",
+    "swe": "Ta andra gatan till vänster.",
+    "dan": "Tag den anden gade til venstre.",
+    "lux": "Huel déi zweet Strooss lénks."
   },
   {
     "kor": "신호등에서 멈추세요.",
@@ -201,7 +265,11 @@
     "pol": "Proszę się zatrzymać na światłach.",
     "ces": "Zastavte na semaforu.",
     "hun": "Álljon meg a jelzőlámpánál.",
-    "tur": "Trafik ışıklarında durun."
+    "tur": "Trafik ışıklarında durun.",
+    "nld": "Stop bij de stoplichten.",
+    "swe": "Stanna vid trafikljusen.",
+    "dan": "Stop ved trafiklysene.",
+    "lux": "Bleift bei de Luuchten stoen."
   },
   {
     "kor": "다리를 건너세요.",
@@ -213,7 +281,11 @@
     "pol": "Proszę przejść przez most.",
     "ces": "Přejděte přes most.",
     "hun": "Menjen át a hídon.",
-    "tur": "Köprüden geçin."
+    "tur": "Köprüden geçin.",
+    "nld": "Steek de brug over.",
+    "swe": "Korsa bron.",
+    "dan": "Kryds broen.",
+    "lux": "Iwwerholl d'Bréck."
   },
   {
     "kor": "버스 정류장은 어디인가요?",
@@ -225,7 +297,11 @@
     "pol": "Gdzie jest przystanek autobusowy?",
     "ces": "Kde je autobusová zastávka?",
     "hun": "Hol van a buszmegálló?",
-    "tur": "Otobüs durağı nerede?"
+    "tur": "Otobüs durağı nerede?",
+    "nld": "Waar is de bushalte?",
+    "swe": "Var är busshållplatsen?",
+    "dan": "Hvor er busstoppestedet?",
+    "lux": "Wou ass d'Busarrêt?"
   },
   {
     "kor": "화장실이 어디에 있나요?",
@@ -237,7 +313,11 @@
     "pol": "Gdzie są toalety?",
     "ces": "Kde jsou toalety?",
     "hun": "Hol van a mosdó?",
-    "tur": "Tuvalet nerede?"
+    "tur": "Tuvalet nerede?",
+    "nld": "Waar zijn de toiletten?",
+    "swe": "Var är toaletterna?",
+    "dan": "Hvor er toiletterne?",
+    "lux": "Wou sinn d'Toilette?"
   },
   {
     "kor": "엘리베이터가 어디 있나요?",
@@ -249,7 +329,11 @@
     "pol": "Gdzie są toalety?",
     "ces": "Kde jsou toalety?",
     "hun": "Hol van a mosdó?",
-    "tur": "Tuvalet nerede?"
+    "tur": "Tuvalet nerede?",
+    "nld": "Waar is de lift?",
+    "swe": "Var är hissen?",
+    "dan": "Hvor er elevatoren?",
+    "lux": "Wou ass den Ascenseur?"
   },
   {
     "kor": "이 주소로 가고 싶습니다.",
@@ -261,7 +345,11 @@
     "pol": "Chciałbym/Chciałabym pojechać pod ten adres.",
     "ces": "Chtěl bych jet na tuto adresu.",
     "hun": "Erre a címre szeretnék eljutni.",
-    "tur": "Bu adrese gitmek istiyorum."
+    "tur": "Bu adrese gitmek istiyorum.",
+    "nld": "Ik wil naar dit adres.",
+    "swe": "Jag vill till den här adressen.",
+    "dan": "Jeg vil gerne til denne adresse.",
+    "lux": "Ech wëll op dës Adress goen."
   },
   {
     "kor": "걸어서 5분 걸립니다.",
@@ -273,7 +361,11 @@
     "pol": "To zajmuje pięć minut pieszo.",
     "ces": "Trvá to pět minut pěšky.",
     "hun": "Öt perc gyalog.",
-    "tur": "Yürüyerek beş dakika sürer."
+    "tur": "Yürüyerek beş dakika sürer.",
+    "nld": "Het is vijf minuten lopen.",
+    "swe": "Det tar fem minuter till fots.",
+    "dan": "Det tager fem minutter til fots.",
+    "lux": "Et dauert fënnef Minutten zu Fouss."
   },
   {
     "kor": "근처에 주유소가 있나요?",
@@ -285,7 +377,11 @@
     "pol": "Czy w pobliżu jest stacja benzynowa?",
     "ces": "Je tady poblíž čerpací stanice?",
     "hun": "Van benzinkút a közelben?",
-    "tur": "Yakınlarda bir akaryakıt istasyonu var mı?"
+    "tur": "Yakınlarda bir akaryakıt istasyonu var mı?",
+    "nld": "Is er een benzinestation in de buurt?",
+    "swe": "Finns det en bensinmack i närheten?",
+    "dan": "Er der en tankstation i nærheden?",
+    "lux": "Gëtt et eng Bensinsstatioun an der Géigend?"
   },
   {
     "kor": "가르쳐 주셔서 감사합니다.",
@@ -297,6 +393,10 @@
     "pol": "Dziękuję za wskazówki.",
     "ces": "Děkuji za radu.",
     "hun": "Köszönöm az útbaigazítást.",
-    "tur": "Tarifiniz için teşekkürler."
+    "tur": "Tarifiniz için teşekkürler.",
+    "nld": "Bedankt voor de routebeschrijving.",
+    "swe": "Tack för vägbeskrivningen.",
+    "dan": "Mange tak for kørselsvejledningen.",
+    "lux": "Merci fir de Wee ze weisen."
   }
 ]
