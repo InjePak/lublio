@@ -2,7 +2,7 @@
   {
     "id": 1,
     "pattern": "... -dığını/-ceğini bildirmek isterim",
-    "translation": "...라는 것을 알려드리고 싶습니다.",
+    "translation": "I'd like to inform you that ...",
     "b1": [
       "Mağazanın bugün kapalı olduğunu bildirmek isterim.",
       "Trenin on dakika geciktiğini bildirmek isterim.",
@@ -28,7 +28,7 @@
   {
     "id": 2,
     "pattern": "Burada en önemli şey ...",
-    "translation": "여기서 핵심적인 내용은 ...입니다.",
+    "translation": "The key takeaway here is ...",
     "b1": [
       "Burada en önemli şey zamanında gelmek.",
       "Burada en önemli şey bu kitabın önemi.",
@@ -54,7 +54,7 @@
   {
     "id": 3,
     "pattern": "Açıklığa kavuşturmak gerekirse, demek istediğim ...",
-    "translation": "명확히 하자면, 제 말은 ...라는 뜻입니다.",
+    "translation": "To clarify, I mean ...",
     "b1": [
       "Açıklığa kavuşturmak gerekirse, demek istediğim öğlen gidiyoruz.",
       "Açıklığa kavuşturmak gerekirse, demek istediğim bu senin için bir hediye.",
@@ -80,7 +80,7 @@
   {
     "id": 4,
     "pattern": "Rapora göre, ...",
-    "translation": "보고서에 따르면 ...",
+    "translation": "According to the report, ...",
     "b1": [
       "Rapora göre, bu yaz hava çok sıcak olacak.",
       "Rapora göre, birçok insan çikolatayı çok seviyor.",
@@ -106,7 +106,7 @@
   {
     "id": 5,
     "pattern": "Şöyle ifade etmeme izin verin: ...",
-    "translation": "다시 말하자면 ...",
+    "translation": "Let me rephrase that: ...",
     "b1": [
       "Şöyle ifade etmeme izin verin: bu bizim için çok pahalı.",
       "Şöyle ifade etmeme izin verin: seninle aynı fikirdeyim.",
@@ -132,7 +132,7 @@
   {
     "id": 6,
     "pattern": "Aslında söylemek istediğim ... -ydi",
-    "translation": "제가 말하고자 했던 것은 ...였습니다.",
+    "translation": "What I meant to say was ...",
     "b1": [
       "Aslında söylemek istediğim seni seviyorum demekti.",
       "Aslında söylemek istediğim beni affet demekti.",
@@ -158,7 +158,7 @@
   {
     "id": 7,
     "pattern": "Mevcut durum şöyle: ...",
-    "translation": "현재 상태는 ...입니다.",
+    "translation": "The current status is that ...",
     "b1": [
       "Mevcut durum şöyle: projeyi bitirdik.",
       "Mevcut durum şöyle: mağaza açık.",
@@ -184,7 +184,7 @@
   {
     "id": 8,
     "pattern": "Başka bir deyişle, ...",
-    "translation": "다시 말해서 ...",
+    "translation": "In other words, ...",
     "b1": [
       "Başka bir deyişle, bu bedava.",
       "Başka bir deyişle, gelemem.",
@@ -210,7 +210,7 @@
   {
     "id": 9,
     "pattern": "Aynı fikirde olduğumuzdan emin olmak için, ... ?",
-    "translation": "우리가 같은 생각을 하고 있는지 확인하기 위해, ...",
+    "translation": "Just to make sure we're on the same page, ...",
     "b1": [
       "Aynı fikirde olduğumuzdan emin olmak için, saat 8'de mi çıkıyoruz?",
       "Aynı fikirde olduğumuzdan emin olmak için, sen mi ödüyorsun?",
@@ -236,7 +236,7 @@
   {
     "id": 10,
     "pattern": "Bu durum ... -dığını doğrular",
-    "translation": "이것은 ...라는 사실을 확인해 줍니다.",
+    "translation": "This confirms that ...",
     "b1": [
       "Bu durum senin haklı olduğunu doğrular.",
       "Bu durum trenin geciktiğini doğrular.",
@@ -262,7 +262,7 @@
   {
     "id": 11,
     "pattern": "Hakkında biraz daha ayrıntı vermeme izin verin: ...",
-    "translation": "...에 대해 좀 더 자세히 설명하겠습니다.",
+    "translation": "Allow me to elaborate on ...",
     "b1": [
       "Seyahatim hakkında biraz daha ayrıntı vermeme izin verin.",
       "Ailem hakkında biraz daha ayrıntı vermeme izin verin.",
@@ -288,7 +288,7 @@
   {
     "id": 12,
     "pattern": "Tüm detaylar şu şekilde: ...",
-    "translation": "세부 사항은 다음과 같습니다. ...",
+    "translation": "The details are as follows: ...",
     "b1": [
       "Tüm detaylar şu şekilde: fiyatı on euro.",
       "Tüm detaylar şu şekilde: buluşma öğlen olacak.",
@@ -314,7 +314,7 @@
   {
     "id": 13,
     "pattern": "Burada önemli olan ... değil, ...",
-    "translation": "여기서 중요한 점은 ...이 아니라 ...입니다.",
+    "translation": "The important point here is not ..., but ...",
     "b1": [
       "Burada önemli olan fiyatı değil, kalitesi.",
       "Burada önemli olan zaman değil, keyif almak.",
@@ -340,7 +340,7 @@
   {
     "id": 14,
     "pattern": "Örnek olarak, ... -yi göz önünde bulundurun",
-    "translation": "예를 들어, ...를 생각해 보세요.",
+    "translation": "For example, consider ...",
     "b1": [
       "Örnek olarak, bu harika hava durumunu göz önünde bulundurun.",
       "Örnek olarak, bu düşük fiyatı göz önünde bulundurun.",
@@ -366,7 +366,7 @@
   {
     "id": 15,
     "pattern": "Özetle asıl mesele şu: ...",
-    "translation": "결론적으로 말하자면 ...",
+    "translation": "The bottom line is ...",
     "b1": [
       "Özetle asıl mesele şu: mutlu olmak.",
       "Özetle asıl mesele şu: doğru beslenmek.",
@@ -392,7 +392,7 @@
   {
     "id": 16,
     "pattern": "Ana bulguları inceleyelim: ...",
-    "translation": "주요 결과를 검토해 봅시다. ...",
+    "translation": "Let's review the main findings: ...",
     "b1": [
       "Ana bulguları inceleyelim: bitirdik.",
       "Ana bulguları inceleyelim: bu çok pahalı.",
@@ -418,7 +418,7 @@
   {
     "id": 17,
     "pattern": "Durumu özetlemek gerekirse, ...",
-    "translation": "상황을 요약하자면, ...",
+    "translation": "To sum up the situation, ...",
     "b1": [
       "Durumu özetlemek gerekirse, gecikiyoruz.",
       "Durumu özetlemek gerekirse, paramız bitti.",
@@ -444,7 +444,7 @@
   {
     "id": 18,
     "pattern": "Anladığım kadarıyla, ...",
-    "translation": "제가 이해하기로는 ...",
+    "translation": "My understanding is that ...",
     "b1": [
       "Anladığım kadarıyla, yorgunsun.",
       "Anladığım kadarıyla, film bitti.",
@@ -470,7 +470,7 @@
   {
     "id": 19,
     "pattern": "Net olmak gerekirse, ...",
-    "translation": "분명히 해두자면 ...",
+    "translation": "Just to be clear, ...",
     "b1": [
       "Net olmak gerekirse, bu benim kalemim.",
       "Net olmak gerekirse, bu akşam gelmeyeceğim.",
@@ -496,7 +496,7 @@
   {
     "id": 20,
     "pattern": "Nihai sonuç ... oldu",
-    "translation": "최종 결과는 ...였습니다.",
+    "translation": "The final outcome was ...",
     "b1": [
       "Nihai sonuç başarılı oldu.",
       "Nihai sonuç hayal kırıklığı yarattı.",

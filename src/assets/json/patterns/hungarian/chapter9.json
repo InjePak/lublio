@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Minden reggel általában ...",
+    "translation": "Every morning, I usually ...",
+    "b1": [
+      "Minden reggel általában kávét iszom.",
+      "Minden reggel általában korán kelékezem.",
+      "Minden reggel általában futni megyek.",
+      "Minden reggel általában átnézem a híreket.",
+      "Minden reggel általában zenét hallgatok."
+    ],
+    "b2": [
+      "Minden reggel általában átfutom a legfontosabb e-maileket, mielőtt elkezdem a munkát.",
+      "Minden reggel általában szánok tíz percet a nyújtásra és a lazításra.",
+      "Minden reggel általában előre megtervezem a napomat, hogy ne maradjak el.",
+      "Minden reggel általában friss gyümölcsből készítek reggelit.",
+      "Minden reggel általában megnézem az időjárás-előrejelzést, mielőtt elindulok."
+    ],
+    "c1": [
+      "Minden reggel általában strukturált analízissel indítom a napot a tőzsdei mozgásokról.",
+      "Minden reggel általában metodikusan végigveszem a konzorciumi teendőket.",
+      "Minden reggel általában absztrahálom a legfrissebb szakmai cikkek konklúzióit.",
+      "Minden reggel általában proaktívan priorizálom a napi kritikus feladatokat.",
+      "Minden reggel általában optimalizálom az időbeosztásomat a határidők függvényében."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Általában szoktam ..., amikor ...",
+    "translation": "I tend to ... when ...",
+    "b1": [
+      "Általában szoktam zenét hallgatni, amikor tanulok.",
+      "Általában szoktam kávét kérni, amikor fáradt vagyok.",
+      "Általában szoktam otthon maradni, amikor esik az eső.",
+      "Általában szoktam segíteni, amikor kérik.",
+      "Általában szoktam pihenni, amikor vége a munkaidőnek."
+    ],
+    "b2": [
+      "Általában szoktam jegyzetelni, amikor fontos tárgyaláson veszek részt.",
+      "Általában szoktam hallgatni, amikor a kollégák vitatkoznak.",
+      "Általában szoktam plusz időt kérni, amikor a feladat túl összetett.",
+      "Általában szoktam ellenőrizni a részleteket, amikor szerződést írok alá.",
+      "Általában szoktam konzultálni a csapattal, amikor elakadok."
+    ],
+    "c1": [
+      "Általában szoktam alternatív scenáriókat felállítani, amikor stratégiai döntést hozok.",
+      "Általában szoktam kritikusan viszonyulni az adatokhoz, amikor az audit eredményét vizsgálom.",
+      "Általában szoktam jogi szakértőt bevonni, amikor kétértelmű passzussal találkozom.",
+      "Általában szoktam fenntartásokkal kezelni a gyors sikereket, amikor piaci elemzést készítek.",
+      "Általában szoktam mélyreható kutatást végezni, amikor új paradigmát vezetünk be."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Alapszabályként soha nem ...",
+    "translation": "As a rule, I never ...",
+    "b1": [
+      "Alapszabályként soha nem kések el.",
+      "Alapszabályként soha nem eszem húst.",
+      "Alapszabályként soha nem hagyom el a kulcsot.",
+      "Alapszabályként soha nem dolgozom éjszaka.",
+      "Alapszabályként soha nem iszom kávét este."
+    ],
+    "b2": [
+      "Alapszabályként soha nem hozok döntést alapos mérlegelés nélkül.",
+      "Alapszabályként soha nem írok alá dokumentumot olvasás nélkül.",
+      "Alapszabályként soha nem halasztom a fontos feladatokat az utolsó pillanatra.",
+      "Alapszabályként soha nem osztok meg belső céges információt külsössel.",
+      "Alapszabályként soha nem utasítom el a kollégák segítségkérését."
+    ],
+    "c1": [
+      "Alapszabályként soha nem hagyom figyelmen kívül a compliance előírásokat a projektekben.",
+      "Alapszabályként soha nem lépek át jogi kompetenciahatárokat hivatalos eljárásban.",
+      "Alapszabályként soha nem hagyatkozom pusztán a megérzéseimre adatalapú elemzésnél.",
+      "Alapszabályként soha nem kötök kompromisszumot az alapvető etikai elveimben.",
+      "Alapszabályként soha nem hárítom át a felelősséget a csapatomra strukturális hibák esetén."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Fontos célom, hogy legalább naponta egyszer ...",
+    "translation": "I make it a point to ... at least once a day.",
+    "b1": [
+      "Fontos célom, hogy legalább naponta egyszer igyak egy teát.",
+      "Fontos célom, hogy legalább naponta egyszer kimenjek a friss levegőre.",
+      "Fontos célom, hogy legalább naponta egyszer felhívjam anyukámat.",
+      "Fontos célom, hogy legalább naponta egyszer olvassam egy könyvet.",
+      "Fontos célom, hogy legalább naponta egyszer tornázzak egy kicsit."
+    ],
+    "b2": [
+      "Fontos célom, hogy legalább naponta egyszer átmozgassam a testemet munka közben.",
+      "Fontos célom, hogy legalább naponta egyszer ellenőrizzem a büdzsé alakulását.",
+      "Fontos célom, hogy legalább naponta egyszer szánjak időt a tudatos pihenésre.",
+      "Fontos célom, hogy legalább naponta egyszer személyesen egyeztessem a feladatokat a csapattal.",
+      "Fontos célom, hogy legalább naponta egyszer igyak elegendő mennyiségű vizet."
+    ],
+    "c1": [
+      "Fontos célom, hogy legalább naponta egyszer kritikusan felülvizsgáljam a kockázatkezelési mátrixot.",
+      "Fontos célom, hogy legalább naponta egyszer elemezzem a makrogazdasági mutatók változásait.",
+      "Fontos célom, hogy legalább naponta egyszer transzparens módon kommunikáljak a partnerekkel.",
+      "Fontos célom, hogy legalább naponta egyszer validáljam a szoftverfejlesztési mérföldköveket.",
+      "Fontos célom, hogy legalább naponta egyszer szinkronizáljam a stratégiát a központi célokkal."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Mindenekelőtt mindig ...",
+    "translation": "Before anything else, I always ...",
+    "b1": [
+      "Mindenekelőtt mindig megmosom az arcom.",
+      "Mindenekelőtt mindig megnézem a telefonomat.",
+      "Mindenekelőtt mindig köszöntök a kollégáknak.",
+      "Mindenekelőtt mindig kinyitom az ablakot.",
+      "Mindenekelőtt mindig bekapcsolom a gépet."
+    ],
+    "b2": [
+      "Mindenekelőtt mindig áttekintem a napi teendők listáját, mielőtt bármihez kezdek.",
+      "Mindenekelőtt mindig ellenőrizem a rendszer frissítéseit a munka megkezdése előtt.",
+      "Mindenekelőtt mindig tisztázom a prioritásokat a főnökömmel a projektnél.",
+      "Mindenekelőtt mindig megteremtem a nyugodt munkakörnyezetet.",
+      "Mindenekelőtt mindig elolvasom a sürgős értesítéseket reggel."
+    ],
+    "c1": [
+      "Mindenekelőtt mindig felmérem a jogi és pénzügyi kockázatokat az új tranzakcióknál.",
+      "Mindenekelőtt mindig konzultálok a compliance felelőssel a belső szabályzatokról.",
+      "Mindenekelőtt mindig validálom a konzorciumi megállapodás alapvető feltételeit.",
+      "Mindenekelőtt mindig strukturált keretbe helyezem a napi komplex feladatokat.",
+      "Mindenekelőtt mindig elemezem a szerverek stabilitását a napi indítás előtt."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Rászoktam arra, hogy ...",
+    "translation": "I've gotten into the habit of ...",
+    "b1": [
+      "Rászoktam arra, hogy korán feküdjem le.",
+      "Rászoktam arra, hogy vizet igyam üdítő helyett.",
+      "Rászoktam arra, hogy gyalog járjak dolgozni.",
+      "Rászoktam arra, hogy jegyzeteljem a dolgokat.",
+      "Rászoktam arra, hogy este olvassam."
+    ],
+    "b2": [
+      "Rászoktam arra, hogy minden este leírjam a következő nap fő céljait.",
+      "Rászoktam arra, hogy elkerüljem a telefont az alvás előtti órában.",
+      "Rászoktam arra, hogy rendszeresen szünetet tartsak a képernyő előtt.",
+      "Rászoktam arra, hogy minden kiadásomat aprólékosan vezessem.",
+      "Rászoktam arra, hogy heti sporttervet készítsek magamnak."
+    ],
+    "c1": [
+      "Rászoktam arra, hogy minden stratégiai döntést írásos dokumentummal támasszak alá.",
+      "Rászoktam arra, hogy proaktívan monitorozzam a piaci trendek változásait.",
+      "Rászoktam arra, hogy a bonyolult jogi szövegeket többszörösen validáljam.",
+      "Rászoktam arra, hogy a konzorciumi partnerekkel rendszeres státuszülést tartsak.",
+      "Rászoktam arra, hogy a szoftveres tesztelési eredményeket szigorú metrikák alapján mérjem."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "A rutinom általában magában foglalja, hogy ...",
+    "translation": "My routine typically involves ...",
+    "b1": [
+      "A rutinom általában magában foglalja, hogy reggel tornázom.",
+      "A rutinom általában magában foglalja, hogy kávét főzök.",
+      "A rutinom általában magában foglalja, hogy elolvasom a híreket.",
+      "A rutinom általában magában foglalja, hogy sétálok egyet.",
+      "A rutinom általában magában foglalja, hogy rendet rakok."
+    ],
+    "b2": [
+      "A rutinom általában magában foglalja, hogy átnézem a heti naptáramat vasárnap este.",
+      "A rutinom általában magában foglalja, hogy minden nap harminc percet olvasok szakirodalmat.",
+      "A rutinom általában magában foglalja, hogy délben rövid ebédszünetet tartok a friss levegőn.",
+      "A rutinom általában magában foglalja, hogy lezárom a napot a függőben lévő ügyek áttekintésével.",
+      "A rutinom általában magában foglalja, hogy ellenőrzöm a legfontosabb pénzügyi számlákat."
+    ],
+    "c1": [
+      "A rutinom általában magában foglalja, hogy integrálom a legfrissebb makrogazdasági elemzéseket a tervezésbe.",
+      "A rutinom általában magában foglalja, hogy strukturált riportot készítek a vezetőség számára.",
+      "A rutinom általában magában foglalja, hogy szisztematikusan felülvizsgálom a projekt kockázatait.",
+      "A rutinom általában magában foglalja, hogy auditálom a belső folyamatok hatékonyságát.",
+      "A rutinom általában magában foglalja, hogy szinkronizálom a jogi osztály álláspontját a fejlesztőkkel."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "A legtöbb estén azon kapom magam, hogy ...",
+    "translation": "Most evenings, I find myself ...",
+    "b1": [
+      "A legtöbb estén azon kapom magam, hogy filmet nézek.",
+      "A legtöbb estén azon kapom magam, hogy olvasok.",
+      "A legtöbb estén azon kapom magam, hogy zenét hallgatok.",
+      "A legtöbb estén azon kapom magam, hogy a kanapén pihenek.",
+      "A legtöbb estén azon kapom magam, hogy teát főzök."
+    ],
+    "b2": [
+      "A legtöbb estén azon kapom magam, hogy még a munkás e-maileket böngészem.",
+      "A legtöbb estén azon kapom magam, hogy főzéssel kapcsolom ki az agyam.",
+      "A legtöbb estén azon kapom magam, hogy a jövő heti terveken gondolkodom.",
+      "A legtöbb estén azon kapom magam, hogy a családdal beszélgetek a nap eseményeiről.",
+      "A legtöbb estén azon kapom magam, hogy egy jó könyvbe temetkezem."
+    ],
+    "c1": [
+      "A legtöbb estén azon kapom magam, hogy bonyolult piaci trendeket elemzek a szabadidőmben.",
+      "A legtöbb estén azon kapom magam, hogy a konzorciumi szerződés apró részleteit bújom.",
+      "A legtöbb estén azon kapom magam, hogy nemzetközi gazdasági cikkeket tanulmányozok.",
+      "A legtöbb estén azon kapom magam, hogy a másnapi stratégiai prezentációt csiszolom.",
+      "A legtöbb estén azon kapom magam, hogy strukturális reformok hatásain töprengek."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Amit gyakran csinálok, az az, hogy ...",
+    "translation": "What I often do is ...",
+    "b1": [
+      "Amit gyakran csinálok, az az, hogy sétálok egyet.",
+      "Amit gyakran csinálok, az az, hogy zenét hallgatok.",
+      "Amit gyakran csinálok, az az, hogy kávét veszek.",
+      "Amit gyakran csinálok, az az, hogy felhívom a barátomat.",
+      "Amit gyakran csinálok, az az, hogy olvasok egy cikket."
+    ],
+    "b2": [
+      "Amit gyakran csinálok, az az, hogy listát írok a teendőimről, mielőtt elkezdem a napot.",
+      "Amit gyakran csinálok, az az, hogy újraegyeztetem a határidőket a csapattal.",
+      "Amit gyakran csinálok, az az, hogy rövid szünetet iktatok be az intenzív munka közepén.",
+      "Amit gyakran csinálok, az az, hogy kétszer is átnézem a kiküldött üzeneteket.",
+      "Amit gyakran csinálok, az az, hogy konzultálok a kollégákkal a jobb ötletekért."
+    ],
+    "c1": [
+      "Amit gyakran csinálok, az az, hogy alternatív jogi modelleket tesznie próbára a vitás esetekben.",
+      "Amit gyakran csinálok, az az, hogy szisztematikusan lebontom a komplex projekteket komponensekre.",
+      "Amit gyakran csinálok, az az, hogy empirikus adatokkal validálom a vezetőségi felvetéseket.",
+      "Amit gyakran csinálok, az az, hogy proaktívan feltárom a potenciális rendszerszintű hibákat.",
+      "Amit gyakran csinálok, az az, hogy transzparens kommunikációs csatornát építek ki a partnerekkel."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Ritkán hagyom ki azt a lépést, hogy ...",
+    "translation": "I rarely skip the step of ...",
+    "b1": [
+      "Ritkán hagyom ki azt a lépést, hogy kezet mossak.",
+      "Ritkán hagyom ki azt a lépést, hogy bezárjam az ajtaját.",
+      "Ritkán hagyom ki azt a lépést, hogy megigyom a kávémat.",
+      "Ritkán hagyom ki azt a lépést, hogy ellenőrizzem a telefonmat.",
+      "Ritkán hagyom ki azt a lépést, hogy köszönjek."
+    ],
+    "b2": [
+      "Ritkán hagyom ki azt a lépést, hogy lementsem a fontos fájlok biztonsági másolatát.",
+      "Ritkán hagyom ki azt a lépést, hogy átfussam a szerződés apró betűs részeit.",
+      "Ritkán hagyom ki azt a lépést, hogy köszönetet mondjak a kollégák segítségéért.",
+      "Ritkán hagyom ki azt a lépést, hogy ellenőrizzem a repülőjegy adatait indulás előtt.",
+      "Ritkán hagyom ki azt a lépést, hogy tisztázzam az elvárásokat egy új megbízásnál."
+    ],
+    "c1": [
+      "Ritkán hagyom ki azt a lépést, hogy formális compliance ellenőrzést végezzek minden fúziónál.",
+      "Ritkán hagyom ki azt a lépést, hogy jogi szakértővel véleményeztessem a konzorciumi iratokat.",
+      "Ritkán hagyom ki azt a lépést, hogy szigorú kockázatelemzést készítsek tőkeinjekció előtt.",
+      "Ritkán hagyom ki azt a lépést, hogy auditáljam a szoftverfrissítések biztonsági protokollját.",
+      "Ritkán hagyom ki azt a lépést, hogy leellenőrizzem a makrogazdasági adatok hitelességét."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Napi rituálém az, hogy ...",
+    "translation": "It's a daily ritual for me to ...",
+    "b1": [
+      "Napi rituálém az, hogy meginni egy jó kávét reggel.",
+      "Napi rituálém az, hogy hallgatni egy kedvenc dalt.",
+      "Napi rituálém az, hogy átnézni a napirendet.",
+      "Napi rituálém az, hogy elmenni egy rövid sétára.",
+      "Napi rituálém az, hogy írni egy üzenetet."
+    ],
+    "b2": [
+      "Napi rituálém az, hogy tíz percet szánok a gondolataim rendezésére munka előtt.",
+      "Napi rituálém az, hogy délután megnézem a legfrissebb gazdasági híreket.",
+      "Napi rituálém az, hogy rendszerezzem az asztalomat, mielőtt elhagyom az irodát.",
+      "Napi rituálém az, hogy friss zöld teát készítsek a délutáni órákban.",
+      "Napi rituálém az, hogy átfutom a legfontosabb határidőket."
+    ],
+    "c1": [
+      "Napi rituálém az, hogy szisztematikusan áttekintsem a globális tőzsdei indexeket reggelente.",
+      "Napi rituálém az, hogy metodikusan elemezzem a konzorciumi projekt napi mérföldköveit.",
+      "Napi rituálém az, hogy kritikus szemmel felülvizsgáljam a belső operációs folyamatokat.",
+      "Napi rituálém az, hogy strukturált naplót vezessek a stratégiai döntések hátteréről.",
+      "Napi rituálém az, hogy proaktívan felmérjem a napi munkavégzés esetleges jogi kockázatait."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Általában ezt azzal folytatom, hogy ...",
+    "translation": "I usually follow that up with ...",
+    "b1": [
+      "Általában ezt azzal folytatom, hogy kinyitom a leveleket.",
+      "Általában ezt azzal folytatom, hogy bekapcsolom a tévét.",
+      "Általában ezt azzal folytatom, hogy elkezdem a főzést.",
+      "Általában ezt azzal folytatom, hogy elmegyek a boltba.",
+      "Általában ezt azzal folytatom, hogy leülök az asztalhoz."
+    ],
+    "b2": [
+      "Általában ezt azzal folytatom, hogy válaszolok a legfontosabb e-mailekre.",
+      "Általában ezt azzal folytatom, hogy megbeszélem a feladatokat a kollégákkal.",
+      "Általában ezt azzal folytatom, hogy átnézem a tegnapi munka eredményeit.",
+      "Általában ezt azzal folytatom, hogy megtervezem a délutáni programot.",
+      "Általában ezt azzal folytatom, hogy friss adatokkal frissítem a táblázatot."
+    ],
+    "c1": [
+      "Általában ezt azzal folytatom, hogy részletes hatásvizsgálatot készítek a vezetőségnek.",
+      "Általában ezt azzal folytatom, hogy jogi egyeztetést kezdeményezek a partnercéggel.",
+      "Általában ezt azzal folytatom, hogy integrálom az új metrikákat a meglévő modellbe.",
+      "Általában ezt azzal folytatom, hogy strukturált megbeszélést hívok össze a konzorciummal.",
+      "Általában ezt azzal folytatom, hogy validálom a szoftver tesztelési eredményeit."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Kivételek nélkül, minden ...",
+    "translation": "Without fail, every ...",
+    "b1": [
+      "Kivételek nélkül, minden reggel kávét iszom.",
+      "Kivételek nélkül, minden nap elmegyek sétálni.",
+      "Kivételek nélkül, minden este fogat mosok.",
+      "Kivételek nélkül, minden héten találkozom vele.",
+      "Kivételek nélkül, minden hónapban fizetek."
+    ],
+    "b2": [
+      "Kivételek nélkül, minden hétfőn áttekintem a heti célokat a csapattal.",
+      "Kivételek nélkül, minden hónap végén lezárom a számlákat.",
+      "Kivételek nélkül, minden reggel átfutom a legfontosabb hírleveleket.",
+      "Kivételek nélkül, minden egyes projekt előtt aláíratom a titoktartásit.",
+      "Kivételek nélkül, minden nap szánok időt a testmozgásra."
+    ],
+    "c1": [
+      "Kivételek nélkül, minden negyedév végén teljes körű pénzügyi auditot végzünk.",
+      "Kivételek nélkül, minden fúziós tárgyalás előtt szigorú jogi átvilágítást tartunk.",
+      "Kivételek nélkül, minden stratégiai döntést írásos konszenzussal hagyunk jóvá.",
+      "Kivételek nélkül, minden konzorciumi megállapodást jogi szakértővel vizsgáltatunk át.",
+      "Kivételek nélkül, minden kritikus rendszermódosítást tesztelési fázis előz meg."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Folyamatosan próbálok emlékezni arra, hogy ...",
+    "translation": "I'm constantly trying to remember to ...",
+    "b1": [
+      "Folyamatosan próbálok emlékezni arra, hogy bezárjam az ajtót.",
+      "Folyamatosan próbálok emlékezni arra, hogy vegyek kenyeret.",
+      "Folyamatosan próbálok emlékezni arra, hogy időben induljak.",
+      "Folyamatosan próbálok emlékezni arra, hogy hívjam fel.",
+      "Folyamatosan próbálok emlékezni arra, hogy kapcsoljam ki a lámpát."
+    ],
+    "b2": [
+      "Folyamatosan próbálok emlékezni arra, hogy elegendő vizet igyak napközben.",
+      "Folyamatosan próbálok emlékezni arra, hogy tartsak szünetet a monitor előtt.",
+      "Folyamatosan próbálok emlékezni arra, hogy küldjem el a heti jelentést időben.",
+      "Folyamatosan próbálok emlékezni arra, hogy türelmes maradjak a nehéz ügyfelekkel.",
+      "Folyamatosan próbálok emlékezni arra, hogy ne vigyem haza a munkahelyi stresszt."
+    ],
+    "c1": [
+      "Folyamatosan próbálok emlékezni arra, hogy a konzorciumi kommunikációban tartsam a transzparenciát.",
+      "Folyamatosan próbálok emlékezni arra, hogy ne hagyjam figyelmen kívül a compliance szabályokat.",
+      "Folyamatosan próbálok emlékezni arra, hogy az adatalapú döntéshozatal írja felül a megérzéseket.",
+      "Folyamatosan próbálok emlékezni arra, hogy proaktívan kezeljem a rendszerszintű kockázatokat.",
+      "Folyamatosan próbálok emlékezni arra, hogy a jogi keretrendszer változásait folyamatosan monitorozzam."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Azért alakult ki ez a szokásom, mert ...",
+    "translation": "My habit developed because ...",
+    "b1": [
+      "Azért alakult ki ez a szokásom, mert nagyon szeretem a kávét.",
+      "Azért alakult ki ez a szokásom, mert így könnyebb a reggel.",
+      "Azért alakult ki ez a szokásom, mert ezt láttam otthon.",
+      "Azért alakult ki ez a szokásom, mert így nem kések el.",
+      "Azért alakult ki ez a szokásom, mert jólesik."
+    ],
+    "b2": [
+      "Azért alakult ki ez a szokásom, mert észrevettem, hogy így sokkal hatékonyabb vagyok.",
+      "Azért alakult ki ez a szokásom, mert a korábbi hibáimból szerettem volna tanulni.",
+      "Azért alakult ki ez a szokásom, mert a stresszes helyzetekben ez segít megnyugodni.",
+      "Azért alakult ki ez a szokásom, mert a főnököm ezt kérte a munkám során.",
+      "Azért alakult ki ez a szokásom, mert így sokkal jobban tudom kontrollálni az időmet."
+    ],
+    "c1": [
+      "Azért alakult ki ez a szokásom, mert a bonyolult projektek precíz strukturálást igényelnek.",
+      "Azért alakult ki ez a szokásom, mert a piaci volatilitás miatt proaktívnak kellett lennem.",
+      "Azért alakult ki ez a szokásom, mert a korábbi jogi viták rávilágítottak a részletek fontosságára.",
+      "Azért alakult ki ez a szokásom, mert a konzorciumi együttműködés megköveteli a teljes transzparenciát.",
+      "Azért alakult ki ez a szokásom, mert a rendszerszintű kockázatok elkerülése ezt diktálta."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Általában időt különítek el arra, hogy ...",
+    "translation": "I usually allocate time for ...",
+    "b1": [
+      "Általában időt különítek el arra, hogy olvassam.",
+      "Általában időt különítek el arra, hogy sportoljak.",
+      "Általában időt különítek el arra, hogy találkozzam a barátaimmal.",
+      "Általában időt különítek el arra, hogy pihenjek.",
+      "Általában időt különítek el arra, hogy főzzek."
+    ],
+    "b2": [
+      "Általában időt különítek el arra, hogy átnézzem a heti fejlődési terveimet.",
+      "Általában időt különítek el arra, hogy elmélyülten tanuljak valamilyen új témát.",
+      "Általában időt különítek el arra, hogy rendet rakjak a digitális fájljaim között.",
+      "Általában időt különítek el arra, hogy átbeszéljem a problémákat a csapattal.",
+      "Általában időt különítek el arra, hogy kint sétáljak a természetben."
+    ],
+    "c1": [
+      "Általában időt különítek el arra, hogy elemezzem a nemzetközi gazdasági trendeket.",
+      "Általában időt különítek el arra, hogy átfésüljem a friss jogszabály-módosításokat.",
+      "Általában időt különítek el arra, hogy strukturált kockázatelemzést végezzek.",
+      "Általában időt különítek el arra, hogy validáljam a konzorciumi partnerek jelentéseit.",
+      "Általában időt különítek el arra, hogy auditáljam a belső operációs stratégiánkat."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Számomra már teljesen természetessé vált, hogy ...",
+    "translation": "It's become second nature to me to ...",
+    "b1": [
+      "Számomra már teljesen természetessé vált, hogy korán kelek.",
+      "Számomra már teljesen természetessé vált, hogy köszönök mindennek.",
+      "Számomra már teljesen természetessé vált, hogy vizet iszom.",
+      "Számomra már teljesen természetessé vált, hogy rendet rakok.",
+      "Számomra már teljesen természetessé vált, hogy magyarul beszélek."
+    ],
+    "b2": [
+      "Számomra már teljesen természetessé vált, hogy előre megtervezem a heti teendőimet.",
+      "Számomra már teljesen természetessé vált, hogy kritikus szemmel vizsgálom az ajánlatokat.",
+      "Számomra már teljesen természetessé vált, hogy írásban rögzítsem a megállapodásokat.",
+      "Számomra már teljesen természetessé vált, hogy azonnal reagáljak a sürgős üzenetekre.",
+      "Számomra már teljesen természetessé vált, hogy megköszönjem a kollégák munkáját."
+    ],
+    "c1": [
+      "Számomra már teljesen természetessé vált, hogy minden döntést adatvezérelt metrikákkal támasszak alá.",
+      "Számomra már teljesen természetessé vált, hogy proaktívan kiszűrjem a jogi kiskapukat.",
+      "Számomra már teljesen természetessé vált, hogy komplex problémákat strukturált komponensekre bontsak.",
+      "Számomra már teljesen természetessé vált, hogy teljes transzparenciát tartsak a konzorciumi üléseken.",
+      "Számomra már teljesen természetessé vált, hogy a kockázatkezelést integráljam a napi rutinba."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "A tipikus munkanapom azzal kezdődik, hogy ...",
+    "translation": "My typical workday starts with ...",
+    "b1": [
+      "A tipikus munkanapom azzal kezdődik, hogy kávét iszom.",
+      "A tipikus munkanapom azzal kezdődik, hogy bekapcsolom a gépet.",
+      "A tipikus munkanapom azzal kezdődik, hogy elolvasom az e-maileket.",
+      "A tipikus munkanapom azzal kezdődik, hogy átnézem a naptárat.",
+      "A tipikus munkanapom azzal kezdődik, hogy köszöntök a főnöknek."
+    ],
+    "b2": [
+      "A tipikus munkanapom azzal kezdődik, hogy áttekintem a napi legfontosabb határidőket.",
+      "A tipikus munkanapom azzal kezdődik, hogy rövid megbeszélést tartok a csapattal.",
+      "A tipikus munkanapom azzal kezdődik, hogy priorizálom a beérkező sürgős feladatokat.",
+      "A tipikus munkanapom azzal kezdődik, hogy ellenőrzöm az előző napi projektek státuszát.",
+      "A tipikus munkanapom azzal kezdődik, hogy átfutom a legfrissebb piaci híreket."
+    ],
+    "c1": [
+      "A tipikus munkanapom azzal kezdődik, hogy elemzem a nemzetközi tőzsdék éjszakai mozgásait.",
+      "A tipikus munkanapom azzal kezdődik, hogy metodikusan átfutom a konzorciumi jogi státuszriportokat.",
+      "A tipikus munkanapom azzal kezdődik, hogy strukturált kockázati mátrixot készítek a napi ülésekhez.",
+      "A tipikus munkanapom azzal kezdődik, hogy validálom a kritikus szoftverfejlesztési mérföldköveket.",
+      "A tipikus munkanapom azzal kezdődik, hogy szinkronizálom a compliance irányelveket a projektekkel."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Amennyire csak lehet, próbálom kerülni, hogy ...",
+    "translation": "I try to avoid ... as much as possible.",
+    "b1": [
+      "Amennyire csak lehet, próbálom kerülni, hogy kések.",
+      "Amennyire csak lehet, próbálom kerülni, hogy édességet egyek.",
+      "Amennyire csak lehet, próbálom kerülni, hogy stresszeljem magam.",
+      "Amennyire csak lehet, próbálom kerülni, hogy autóval menjek a dugóba.",
+      "Amennyire csak lehet, próbálom kerülni, hogy elfelejtsem a dolgokat."
+    ],
+    "b2": [
+      "Amennyire csak lehet, próbálom kerülni, hogy az utolsó pillanatra hagyjam a munkát.",
+      "Amennyire csak lehet, próbálom kerülni, hogy felesleges megbeszéléseken üljek.",
+      "Amennyire csak lehet, próbálom kerülni, hogy munka közben a telefonomat nézegessem.",
+      "Amennyire csak lehet, próbálom kerülni, hogy elhamarkodott döntéseket hozzak.",
+      "Amennyire csak lehet, próbálom kerülni, hogy rossz kommunikáció miatt hibázzak."
+    ],
+    "c1": [
+      "Amennyire csak lehet, próbálom kerülni, hogy megalapozatlan feltételezésekre építsek stratégiát.",
+      "Amennyire csak lehet, próbálom kerülni, hogy jogi kiskapukra hagyatkozzak a projekteknél.",
+      "Amennyire csak lehet, próbálom kerülni, hogy a konzorciumi partnerekkel ellentmondásba kerüljek.",
+      "Amennyire csak lehet, próbálom kerülni, hogy strukturális hiányosságokat hagyjak a jelentésekben.",
+      "Amennyire csak lehet, próbálom kerülni, hogy a makrogazdasági kockázatokat figyelmen kívül hagyjam."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Az utolsó dolog, amit ... előtt csinálok, az az, hogy ...",
+    "translation": "The last thing I do before ... is ...",
+    "b1": [
+      "Az utolsó dolog, amit alvás előtt csinálok, az az, hogy kikapcsolom a lámpát.",
+      "Az utolsó dolog, amit elindulás előtt csinálok, az az, hogy ellenőrzöm a kulcsot.",
+      "Az utolsó dolog, amit evés előtt csinálok, az az, hogy kezet mosok.",
+      "Az utolsó dolog, amit munka előtt csinálok, az az, hogy iszom egy vizet.",
+      "Az utolsó dolog, amit hazatérés előtt csinálok, az az, hogy bezárom az ajtót."
+    ],
+    "b2": [
+      "Az utolsó dolog, amit az iroda elhagyása előtt csinálok, az az, hogy átfutom a holnapi teendőket.",
+      "Az utolsó dolog, amit elalvás előtt csinálok, az az, hogy átnézem a másnapi naptáramat.",
+      "Az utolsó dolog, amit a jelentés leadása előtt csinálok, az az, hogy ellenőrzöm a hibákat.",
+      "Az utolsó dolog, amit a tárgyalás előtt csinálok, az az, hogy átfutom a legfontosabb pontokat.",
+      "Az utolsó dolog, amit a gép kikapcsolása előtt csinálok, az az, hogy lementem a fájlokat."
+    ],
+    "c1": [
+      "Az utolsó dolog, amit a szerződés aláírása előtt csinálok, az az, hogy jogi szakértővel validáltatom.",
+      "Az utolsó dolog, amit a projekt lezárása előtt csinálok, az az, hogy teljes körű auditot tartok.",
+      "Az utolsó dolog, amit a konzorciumi ülés előtt csinálok, az az, hogy áttekintem a kockázati mátrixot.",
+      "Az utolsó dolog, amit a tőkebevonás előtt csinálok, az az, hogy ellenőrzöm a makrogazdasági mutatókat.",
+      "Az utolsó dolog, amit a szoftverfrissítés élesítése előtt csinálok, az az, hogy biztonsági másolatot készítek."
+    ]
+  }
+]

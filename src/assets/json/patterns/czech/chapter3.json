@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Mohl/a bys eventuálně ...?",
+    "translation": "Could you possibly ...?",
+    "b1": [
+      "Mohl bys eventuálně pomoci mi s tímto úkolem?",
+      "Mohla bys eventuálně koupit chléb cestou domů?",
+      "Mohl bys eventuálně otevřít okno?",
+      "Mohla bys eventuálně půjčit mi své pero?",
+      "Mohl bys eventuálně zavolat zítra?"
+    ],
+    "b2": [
+      "Mohl bys eventuálně zkontrolovat moji prezentaci před schůzkou?",
+      "Mohla bys eventuálně poslat ty dokumenty do konce dne?",
+      "Mohl bys eventuálně změnit termín naší schůzky na příští týden?",
+      "Mohla bys eventuálně zajistit rezervaci v té restauraci?",
+      "Mohl bys eventuálně vysvětlit tento postup ještě jednou?"
+    ],
+    "c1": [
+      "Mohl bys eventuálně zohlednit tyto korekce v naší závětrné strategické zprávě?",
+      "Mohla bys eventuálně přehodnotit rozdělení financí pro tento akademický grant?",
+      "Mohl bys eventuálně participovat na revizi kodexu chování naší instituce?",
+      "Mohla bys eventuálně provést detailní analýzu rizik před podpisem smlouvy?",
+      "Mohl bys eventuálně akcelerovat proces schvalování tohoto inovačního protokolu?"
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Byl/a bych vděčný/á, kdybys mohl/a ...",
+    "translation": "I would be grateful if you could ...",
+    "b1": [
+      "Byl bych vděčný, kdybys mohl přijít včas.",
+      "Byla bych vděčná, kdybys mohl uklidit kuchyň.",
+      "Byl bych vděčný, kdybys mi pomohl s češtinou.",
+      "Byla bych vděčná, kdybys mi poslala fotky.",
+      "Byl bych vděčný, kdybys mi dal vědět."
+    ],
+    "b2": [
+      "Byl bych vděčný, kdybys mohl poskytnout zpětnou vazbu k mému návrhu.",
+      "Byla bych vděčná, kdybys mi mohla doporučit dobrou knihu o historii.",
+      "Byl bych vděčný, kdybys mohl potvrdit naši účast na konferenci.",
+      "Byla bych vděčná, kdybys mohla prověřit aktuální stav našich zásob.",
+      "Byl bych vděčný, kdybys mi pomohl připravit podklady pro klienta."
+    ],
+    "c1": [
+      "Byl bych vděčný, kdybys mohl osobně intervenovat v této diplomatické roztržce.",
+      "Byla bych vděčná, kdybys mohla poskytnout hlubší teoretický vhled do tohoto fenoménu.",
+      "Byl bych vděčný, kdybys mohl zprostředkovat kontakt s vedoucími představiteli výzkumu.",
+      "Byla bych vděčná, kdybys mohla garantovat dodržení etických standardů v projektu.",
+      "Byl bych vděčný, kdybys mohl provést komplexní audit našich interních procesů."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Vadilo by ti, kdyby ... / Vadilo by ti ...?",
+    "translation": "Would you mind ...?",
+    "b1": [
+      "Vadilo by ti zavřít dveře?",
+      "Vadilo by ti, kdybych si sedl tady?",
+      "Vadilo by ti chvíli počkat?",
+      "Vadilo by ti půjčit mi auto?",
+      "Vadilo by ti mluvit trochu tišeji?"
+    ],
+    "b2": [
+      "Vadilo by ti posunout naši schůzku na pozdější hodinu?",
+      "Vadilo by ti, kdybych dnes odešel z práce dříve?",
+      "Vadilo by ti projít tento text a opravit chyby?",
+      "Vadilo by ti sdílet své poznámky z minulé porady?",
+      "Vadilo by ti převzít tento úkol místo mě?"
+    ],
+    "c1": [
+      "Vadilo by ti veřejně obhajovat toto kontroverzní vědecké stanovisko?",
+      "Vadilo by ti korigovat formulace v našem manifestu tak, aby odpovídaly normě?",
+      "Vadilo by ti moderovat tuto bouřlivou panelovou diskusi?",
+      "Vadilo by ti akceptovat revizi podmínek ve prospěch celé instituce?",
+      "Vadilo by ti poskytnout svědectví před etickou komisí?"
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Píši vám, abych požádal/a o ...",
+    "translation": "I'm writing to request ...",
+    "b1": [
+      "Píši vám, abych požádal o informace o kurzu.",
+      "Píši vám, abych požádal o potvrzení rezervace.",
+      "Píši vám, abych požádal o nový pas.",
+      "Píši vám, abych požádal o slevu.",
+      "Píši vám, abych požádal o pomoc."
+    ],
+    "b2": [
+      "Píši vám, abych požádal o prodloužení termínu odevzdání projektu.",
+      "Píši vám, abych požádal o vystavení potvrzení o studiu.",
+      "Píši vám, abych požádal o schůzku s ředitelem oddělení.",
+      "Píši vám, abych požádal o zaslání podrobného ceníku služeb.",
+      "Píši vám, abych požádal o změnu pracovního zařazení."
+    ],
+    "c1": [
+      "Píši vám, abych požádal o oficiální stanovisko k této legislativní anomálii.",
+      "Píši vám, abych požádal o zpřístupnění archivních dokumentů k výzkumu.",
+      "Píši vám, abych požádal o institucionální podporu pro náš mezinárodní grant.",
+      "Píši vám, abych požádal o revizi rozhodnutí licenční komise.",
+      "Píši vám, abych požádal o revokaci původního usnesení správní rady."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Potřebuji ... do konce ...",
+    "translation": "I need ... by the end of ...",
+    "b1": [
+      "Potřebuji ty peníze do konce týdne.",
+      "Potřebuji ten dokument do konce dne.",
+      "Potřebuji nové boty do konce měsíce.",
+      "Potřebuji odpověď do konce zítřka.",
+      "Potřebuji odpočinek do konce roku."
+    ],
+    "b2": [
+      "Potřebuji kompletní zprávu do konce tohoto týdne.",
+      "Potřebuji schválení rozpočtu do konce března.",
+      "Potřebuji zpětnou vazbu od týmu do konce zítřejšího dopoledne.",
+      "Potřebuji vyřešit tento technický problém do konce směny.",
+      "Potřebuji podepsanou smlouvu do konce tohoto čtvrtletí."
+    ],
+    "c1": [
+      "Potřebuji finální korekturu monografie do konce akademického roku.",
+      "Potřebuji hloubkovou analýzu trhu do konce aktuálního fiskálního období.",
+      "Potřebuji rekapitulaci strategických cílů do konce nadcházejícího zasedání.",
+      "Potřebuji konsolidaci veškerých účetních výkazů do konce příštího týdne.",
+      "Potřebuji právní posudek k této akvizici do konce tohoto měsíce."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Existuje nějaká šance na ...?",
+    "translation": "Is there any chance of ...?",
+    "b1": [
+      "Existuje nějaká šance na slevu?",
+      "Existuje nějaká šance na hezké počasí zítra?",
+      "Existuje nějaká šance na lístky?",
+      "Existuje nějaká šance na odklad zkoušky?",
+      "Existuje nějaká šance na lepší místo?"
+    ],
+    "b2": [
+      "Existuje nějaká šance na získání dodatečného financování pro náš projekt?",
+      "Existuje nějaká šance na změnu podmínek této smlouvy?",
+      "Existuje nějaká šance na dřívější termín dodání?",
+      "Existuje nějaká šance na schválení naší žádosti ještě tento týden?",
+      "Existuje nějaká šance na účast externích odborníků na konferenci?"
+    ],
+    "c1": [
+      "Existuje nějaká šance na revizi přísných pravidel této mezinárodní úmluvy?",
+      "Existuje nějaká šance na záchranu historické budovy před demolicí?",
+      "Existuje nějaká šance na dosažení konsensu v tak polarizované debatě?",
+      "Existuje nějaká šance na získání exkluzivních práv k tomuto patentu?",
+      "Existuje nějaká šance na přehodnocení vědeckého paradigmatu v této oblasti?"
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Mohl/a bych tě požádat, abys se specificky zaměřil/a na ...?",
+    "translation": "Could I ask you to specifically focus on ...?",
+    "b1": [
+      "Mohl bych tě požádat, abys se specificky zaměřil na gramatiku?",
+      "Mohla bych tě požádat, abys se specificky zaměřila na úvod?",
+      "Mohl bych tě požádat, abys se specificky zaměřil na cenu?",
+      "Mohla bych tě požádat, abys se specificky zaměřila na detaily?",
+      "Mohl bych tě požádat, abys se specificky zaměřil na tento bod?"
+    ],
+    "b2": [
+      "Mohl bych tě požádat, abys se specificky zaměřil na finanční náklady projektu?",
+      "Mohla bych tě požádat, abys se specifically zaměřila na bezpečnostní rizika?",
+      "Mohl bych tě požádat, abys se specificky zaměřil na zpětnou vazbu od zákazníků?",
+      "Mohla bych tě požádat, abys se specificky zaměřila na efektivitu marketingu?",
+      "Mohl bych tě požádat, abys se specificky zaměřil na kvalitu výstupu?"
+    ],
+    "c1": [
+      "Mohl bych tě požádat, abys se specificky zaměřil na epistemologické kořeny této teorie?",
+      "Mohla bych tě požádat, abys se specificky zaměřila na skryté sociologické dopady?",
+      "Mohl bych tě požádat, abys se specificky zaměřil na metodologickou přesnost sběru dat?",
+      "Mohla bych tě požádat, abys se specificky zaměřila na strukturální slabiny systému?",
+      "Mohl bych tě požádat, abys se specificky zaměřil na etický rozměr tohoto výzkumu?"
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Prosím, ujisti se, že zahrneš ...",
+    "translation": "Please make sure to include ...",
+    "b1": [
+      "Prosím, ujisti se, že zahrneš všechny detaily.",
+      "Prosím, ujisti se, že zahrneš i moje jméno.",
+      "Prosím, ujisti se, že zahrneš správnou adresu.",
+      "Prosím, ujisti se, že zahrneš datum narození.",
+      "Prosím, ujisti se, že zahrneš i příklady."
+    ],
+    "b2": [
+      "Prosím, ujisti se, že zahrneš odhady nákladů pro příští rok.",
+      "Prosím, ujisti se, že zahrneš výsledky z průzkumu trhu.",
+      "Prosím, ujisti se, že zahrneš kontaktní údaje na všechny účastníky.",
+      "Prosím, ujisti se, že zahrneš i alternativní řešení problému.",
+      "Prosím, ujisti se, že zahrneš poznámky z minulé porady."
+    ],
+    "c1": [
+      "Prosím, ujisti se, že zahrneš komplexní bibliografický přehled relevantní literatury.",
+      "Prosím, ujisti se, že zahrneš detailní statistickou analýzu odchylek.",
+      "Prosím, ujisti se, že zahrneš reflexi možných geopolitických rizik.",
+      "Prosím, ujisti se, že zahrneš legislativní rámec platný v dané jurisdikci.",
+      "Prosím, ujisti se, že zahrneš teoretickou oporu pro naše empirické závěry."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Bylo by možné poskytnout podrobnosti o ...?",
+    "translation": "Would it be possible for you to provide details on ...?",
+    "b1": [
+      "Bylo by možné poskytnout podrobnosti o té nabídce?",
+      "Bylo by možné poskytnout podrobnosti o ceně?",
+      "Bylo by možné poskytnout podrobnosti o čase?",
+      "Bylo by možné poskytnout podrobnosti o ubytování?",
+      "Bylo by možné poskytnout podrobnosti o programu?"
+    ],
+    "b2": [
+      "Bylo by možné poskytnout podrobnosti o podmínkách spolupráce?",
+      "Bylo by možné poskytnout podrobnosti o plánovaném rozpočtu?",
+      "Bylo by možné poskytnout podrobnosti o technických specifikacích?",
+      "Bylo by možné poskytnout podrobnosti o termínech dodání?",
+      "Bylo by možné poskytnout podrobnosti o záruce?"
+    ],
+    "c1": [
+      "Bylo by možné poskytnout podrobnosti o struktuře akcionářů naší společnosti?",
+      "Bylo by možné poskytnout podrobnosti o metodice výpočtu těchto ukazatelů?",
+      "Bylo by možné poskytnout podrobnosti o právním statusu dotčených pozemků?",
+      "Bylo by možné poskytnout podrobnosti o licenčních ujednáních pro tento software?",
+      "Bylo by možné poskytnout podrobnosti o historickém vývoji tohoto jevu?"
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Bohužel nebudu schopen/a ...",
+    "translation": "Unfortunately, I won't be able to ...",
+    "b1": [
+      "Bohužel nebudu schopen přijít na zasedání.",
+      "Bohužel nebudu schopná dokončit to dnes.",
+      "Bohužel nebudu schopen ti půjčit peníze.",
+      "Bohužel nebudu schopná jet s vámi.",
+      "Bohužel nebudu schopen odpovědět hned."
+    ],
+    "b2": [
+      "Bohužel nebudu schopen zúčastnit se zítřejší konference.",
+      "Bohužel nebudu schopná odevzdat zprávu do pátku.",
+      "Bohužel nebudu schopen zajistit financování pro tento nápad.",
+      "Bohužel nebudu schopná vést tento projekt kvůli vytížení.",
+      "Bohužel nebudu schopen akceptovat vaše podmínky."
+    ],
+    "c1": [
+      "Bohužel nebudu schopen garantovat dodržení těchto přísných termínů.",
+      "Bohužel nebudu schopná akceptovat jmenování do této dozorčí rady.",
+      "Bohužel nebudu schopen obhájit toto chybné rozhodnutí před správní radou.",
+      "Bohužel nebudu schopná poskytnout požadované právní záruky.",
+      "Bohužel nebudu schopen podpořit tuto kontroverzní legislativní úpravu."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Obávám se, že musím odmítnout ...",
+    "translation": "I'm afraid I have to decline ...",
+    "b1": [
+      "Obávám se, že musím odmítnout tuto nabídku.",
+      "Obávám se, že musím odmítnout tvoji pomoc.",
+      "Obávám se, že musím odmítnout jídlo.",
+      "Obávám se, že musím odmítnout pozvání.",
+      "Obávám se, že musím odmítnout návrh."
+    ],
+    "b2": [
+      "Obávám se, že musím odmítnout účast na této schůzce.",
+      "Obávám se, že musím odmítnout revizi smlouvy v tomto znění.",
+      "Obávám se, že musím odmítnout další spolupráci na projektu.",
+      "Obávám se, že musím odmítnout vaši žádost o slevu.",
+      "Obávám se, že musím odmítnout převzetí nových povinností."
+    ],
+    "c1": [
+      "Obávám se, že musím odmítnout předložení této neověřené hypotézy.",
+      "Obávám se, že musím odmítnout akceptaci podmínek v tomto jednostranném dokumentu.",
+      "Obávám se, že musím odmítnout udělení záštity nad touto akcí.",
+      "Obávám se, že musím odmítnout schválení takto deficitního rozpočtu.",
+      "Obávám se, že musím odmítnout revizi našich dlouhodobých závazků."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "To zní náročně, protože ...",
+    "translation": "That sounds challenging because ...",
+    "b1": [
+      "To zní náročně, protože nemám čas.",
+      "To zní náročně, protože je to moc drahé.",
+      "To zní náročně, protože neumím česky.",
+      "To zní náročně, protože je to daleko.",
+      "To zní náročně, protože je toho moc."
+    ],
+    "b2": [
+      "To zní náročně, protože termín je příliš krátký.",
+      "To zní náročně, protože na to nemáme dostatek zdrojů.",
+      "To zní náročně, protože konkurence na trhu je obrovská.",
+      "To zní náročně, protože pravidla se neustále mění.",
+      "To zní náročně, protože vyžaduje to hluboké znalosti oboru."
+    ],
+    "c1": [
+      "To zní náročně, protože systémové bariéry brání rychlé implementaci změn.",
+      "To zní náročně, protože epistemologická složitost tématu přesahuje rámec naší studie.",
+      "To zní náročně, protože střet zájmů mezi partnery ohrožuje stabilitu projektu.",
+      "To zní náročně, protože vysoká míra nejistoty na trhu eliminuje spolehlivé prognózy.",
+      "To zní náročně, protože dosažení konsensu v tak fragmentovaném týmu je takřka nemožné."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "I když si nabídky vážím, musím s úctou odmítnout ...",
+    "translation": "While I appreciate the offer, I must respectfully refuse ...",
+    "b1": [
+      "I když si nabídky vážím, musím s úctou odmítnout.",
+      "I když si tvé pomoci vážím, musím s úctou odmítnout.",
+      "I když si toho vážím, musím odmítnout.",
+      "I když vím, že je to dobré, musím odmítnout.",
+      "I když děkuji za nabídku, musím odmítnout."
+    ],
+    "b2": [
+      "I když si nabídky na povýšení vážím, musím s úctou odmítnout z rodinných důvodů.",
+      "I když si pozvání vážím, musím s úctou odmítnout kvůli pracovnímu vytížení.",
+      "I když si vážím vaší důvěry, musím s úctou odmítnout vedení tohoto úseku.",
+      "I když nabídka zní lákavě, musím s úctou odmítnout.",
+      "I když si vážím možnosti spolupráce, musím s úctou odmítnout."
+    ],
+    "c1": [
+      "I když si vážím projevené důvěry správní rady, musím s úctou odmítnout kandidaturu na post předsedy.",
+      "I když oceňuji lukrativnost nabídky, musím s úctou odmítnout akvizici našich podílů.",
+      "I když si vážím této vědecké pocty, musím s úctou odmítnout převzetí ocenění.",
+      "I když uznávám význam projektu, musím s úctou odmítnout aktivní účast.",
+      "I když vnímám prestiž pozice, musím s úctou odmítnout toto angažmá."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Můj rozvrh mi nedovoluje ...",
+    "translation": "My schedule doesn't permit me to ...",
+    "b1": [
+      "Můj rozvrh mi nedovoluje přijít.",
+      "Můj rozvrh mi nedovoluje jet na výlet.",
+      "Můj rozvrh mi nedovoluje spát dlouho.",
+      "Můj rozvrh mi nedovoluje sledovat filmy.",
+      "Můj rozvrh mi nedovoluje cvičit každý den."
+    ],
+    "b2": [
+      "Můj rozvrh mi nedovoluje vzít si další úkol tento týden.",
+      "Můj rozvrh mi nedovoluje účastnit se večerních kurzů.",
+      "Můj rozvrh mi nedovoluje cestovat do zahraničí v nejbližší době.",
+      "Můj rozvrh mi nedovoluje věnovat se tomuto projektu naplno.",
+      "Můj rozvrh mi nedovoluje udělat si volno."
+    ],
+    "c1": [
+      "Můj rozvrh mi nedovoluje assumovat další akademické závazky v tomto semestru.",
+      "Můj rozvrh mi nedovoluje participovat na zdlouhavých expertních konzultacích.",
+      "Můj rozvrh mi nedovoluje osobní dohled nad realizací této náročné fáze.",
+      "Můj rozvrh mi nedovoluje integrovat další výzkumné aktivity do mých povinností.",
+      "Můj rozvrh mi nedovoluje vyhovět této mimořádné žádosti o audit."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Kéž bych mohl/a ..., ale aktuálně jsem zaneprázdněn/a ...",
+    "translation": "I wish I could ..., but currently I'm occupied with ...",
+    "b1": [
+      "Kéž bych mohl přijít, ale aktuálně jsem zaneprázdněn prací.",
+      "Kéž bych mohla pomoci, ale aktuálně jsem zaneprázdněná učením.",
+      "Kéž bych mohl jet s vámi, ale aktuálně jsem zaneprázdněn.",
+      "Kéž bych mohla odpočívat, ale aktuálně jsem zaneprázdněná úklidem.",
+      "Kéž bych mohl odpovědět, ale aktuálně jsem zaneprázdněn schůzkou."
+    ],
+    "b2": [
+      "Kéž bych vám mohl pomoci s prezentací, ale aktuálně jsem zaneprázdněn přípravou naší vlastní uzávěrky.",
+      "Kéž bych mohla přijmout pozvání, ale aktuálně jsem zaneprázdněná řešením krizové situace v týmu.",
+      "Kéž bych mohl investovat do vašeho projektu, ale aktuálně jsem zaneprázdněn konsolidací financí.",
+      "Kéž bych mohla jet na stáž, ale aktuálně jsem zaneprázdněná dokončováním disertační práce.",
+      "Kéž bych vám mohl věnovat víc času, ale aktuálně jsem zaneprázdněn auditem."
+    ],
+    "c1": [
+      "Kéž bych mohl osobně korigovat váš rukopis, ale aktuálně jsem zaneprázdněn finalizací vlastního vědeckého spisu.",
+      "Kéž bych mohla garantovat podporu vaší iniciativě, ale aktuálně jsem zaneprázdněná restrukturalizací instituce.",
+      "Kéž bych mohl participovat na vašem sympoziu, ale aktuálně jsem zaneprázdněn vedením klíčových vyjednávání.",
+      "Kéž bych mohla poskytnout expertní posudek, ale aktuálně jsem zaneprázdněná plněním závazků vůči univerzitě.",
+      "Kéž bych mohl vést váš doktorandský tým, ale aktuálně jsem zaneprázdněn mezinárodním výzkumem."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Můžeme se vrátit k ... později.",
+    "translation": "We can revisit ... later.",
+    "b1": [
+      "Můžeme se vrátit k tomuto tématu později.",
+      "Můžeme se vrátit k nákupu později.",
+      "Můžeme se vrátit k otázce později.",
+      "Můžeme se vrátit k jídlu později.",
+      "Můžeme se vrátit k tomu filmu později."
+    ],
+    "b2": [
+      "Můžeme se vrátit k projednávání tohoto rozpočtu později.",
+      "Můžeme se vrátit k návrhu marketingové strategie později.",
+      "Můžeme se vrátit k této technické chybě později.",
+      "Můžeme se vrátit k hodnocení našich zaměstnanců později.",
+      "Můžeme se vrátit k nápadu s rozšířením týmu později."
+    ],
+    "c1": [
+      "Můžeme se vrátit k revizi našich strategických priorit později.",
+      "Můžeme se vrátit k filozofickým východiskům této koncepce později.",
+      "Můžeme se vrátit k posouzení etických dopadů tohoto nařízení později.",
+      "Můžeme se vrátit k analýze tržních anomálií později.",
+      "Můžeme se vrátit k rozboru strukturálních problémů instituce později."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Doporučuji promluvit si s ... ohledně ...",
+    "translation": "I recommend speaking to ... about ...",
+    "b1": [
+      "Doporučuji promluvit si s ředitelem ohledně toho problému.",
+      "Doporučuji promluvit si s učitelem ohledně známky.",
+      "Doporučuji promluvit si s maminkou ohledně dárku.",
+      "Doporučuji promluvit si s lékařem ohledně bolesti.",
+      "Doporučuji promluvit si s kolegou ohledně úkolu."
+    ],
+    "b2": [
+      "Doporučuji promluvit si s vedoucím oddělení ohledně vašeho platu.",
+      "Doporučuji promluvit si s IT oddělením ohledně tohoto softwaru.",
+      "Doporučuji promluvit si s právníkem ohledně podmínek smlouvy.",
+      "Doporučuji promluvit si s marketingovým týmem ohledně té kampaně.",
+      "Doporučuji promluvit si s personálním oddělením ohledně vaší stáže."
+    ],
+    "c1": [
+      "Doporučuji promluvit si s předsedou etické komise ohledně schválení protokolu.",
+      "Doporučuji promluvit si s hlavním architektem ohledně územního plánu.",
+      "Doporučuji promluvit si s finančním ředitelem ohledně alokace grantových prostředků.",
+      "Doporučuji promluvit si s předním expertem v oboru ohledně metodiky výzkumu.",
+      "Doporučuji promluvit si s vedoucím právního odboru ohledně licenčních práv."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Moje priorita teď je ..., takže musím odmítnout.",
+    "translation": "My priority right now is ..., so I must decline.",
+    "b1": [
+      "Moje priorita teď je zkouška, takže musím odmítnout.",
+      "Moje priorita teď je rodina, takže musím odmítnout.",
+      "Moje priorita teď je odpočinek, takže musím odmítnout.",
+      "Moje priorita teď je zdraví, takže musím odmítnout.",
+      "Moje priorita teď je peníze, takže musím odmítnout."
+    ],
+    "b2": [
+      "Moje priorita teď je dokončení klíčového projektu, takže musím odmítnout další úkoly.",
+      "Moje priorita teď je stabilizace firmy, takže musím odmítnout rizikové investice.",
+      "Moje priorita teď je příprava na audit, takže musím odmítnout nové schůzky.",
+      "Moje priorita teď je odevzdání diplomové práce, takže musím odmítnout brigádu.",
+      "Moje priorita teď je rekonvalescence, takže musím odmítnout cestování."
+    ],
+    "c1": [
+      "Moje priorita teď je ochrana duševního vlastnictví naší instituce, takže musím odmítnout externí sdílení dat.",
+      "Moje priorita teď je konsolidace základního výzkumu, takže musím odmítnout komerční zakázky.",
+      "Moje priorita teď je dodržení přísných etických norem, takže musím odmítnout tento sporný protokol.",
+      "Moje priorita teď je obhajoba mé teoretické pozice, takže musím odmítnout formální kompromisy.",
+      "Moje priorita teď je restrukturalizacja našeho vědeckého týmu, takže musím odmítnout nové administrativní role."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Mohl/a bys prosím upřesnit, co tím myslíš, když říkáš ...?",
+    "translation": "Could you please clarify what you mean by ...?",
+    "b1": [
+      "Mohl bys prosím upřesnit, co tím myslíš, když říkáš brzy?",
+      "Mohla bys prosím upřesnit, co tím myslíš, když říkáš drahé?",
+      "Mohl bys prosím upřesnit, co tím myslíš, když říkáš daleko?",
+      "Mohla bys prosím upřesnit, co tím myslíš, když říkáš pozdě?",
+      "Mohl bys prosím upřesnit, co tím myslíš, když říkáš jinak?"
+    ],
+    "b2": [
+      "Mohl bys prosím upřesnit, co tím myslíš, když říkáš zásadní změna v plánu?",
+      "Mohla bys prosím upřesnit, co tím myslíš, když říkáš nespolehlivý dodavatel?",
+      "Mohl bys prosím upřesnit, co tím myslíš, když říkáš nestandardní postup?",
+      "Mohla bys prosím upřesnit, co tím myslíš, když říkáš rychlé řešení?",
+      "Mohl bys prosím upřesnit, co tím myslíš, když říkáš dostatečné záruky?"
+    ],
+    "c1": [
+      "Mohl bys prosím upřesnit, co tím myslíš, když říkáš epistemologická krize našeho oboru?",
+      "Mohla bys prosím upřesnit, co tím myslíš, když říkáš systémová eroze hodnot?",
+      "Mohl bys prosím upřesnit, co tím myslíš, když říkáš radikální revize metodiky?",
+      "Mohla bys prosím upřesnit, co tím myslíš, když říkáš netransparentní financování projektu?",
+      "Mohl bys prosím upřesnit, co tím myslíš, když říkáš kolize právních rámců?"
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Kdyby jsi mohl/a jen ..., to by byla velká pomoc.",
+    "translation": "If you could just ..., that would be a great help.",
+    "b1": [
+      "Kdybys mohl jen poslat email, to by byla velká pomoc.",
+      "Kdybys mohla jen koupit mléko, to by byla velká pomoc.",
+      "Kdybys mohl jen počkat, to by byla velká pomoc.",
+      "Kdybys mohla jen podepsat papír, to by byla velká pomoc.",
+      "Kdybys mohl jen zavřít dveře, to by byla velká pomoc."
+    ],
+    "b2": [
+      "Kdybys mohl jen zkontrolovat ty čísla, to by byla velká pomoc.",
+      "Kdybys mohla jen vytisknout dokumenty, to by byla velká pomoc.",
+      "Kdybys mohl jen odpovědět klientovi, to by byla velká pomoc.",
+      "Kdybys mohla jen potvrdit termín, to by byla velká pomoc.",
+      "Kdybys mohl jen předat zprávu šéfovi, to by byla velká pomoc."
+    ],
+    "c1": [
+      "Kdybys mohl jen verifikovat zdrojová data v této tabulce, to by byla velká pomoc.",
+      "Kdybys mohla jen provést jazykovou korekturu úvodu, to by byla velká pomoc.",
+      "Kdybys mohl jen formátovat bibliografii podle normy, to by byla velká pomoc.",
+      "Kdybys mohla jen sepsat stručné shrnutí porady, to by byla velká pomoc.",
+      "Kdybys mohl jen ověřit platnost tohoto paragrafu, to by byla velká pomoc."
+    ]
+  }
+]

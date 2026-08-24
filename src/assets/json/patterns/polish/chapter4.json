@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Głównym problemem wydaje się być ...",
+    "translation": "The main issue seems to be ...",
+    "b1": [
+      "Głównym problemem wydaje się być brak czasu.",
+      "Głównym problemem wydaje się być za wysoka cena.",
+      "Głównym problemem wydaje się być zła pogoda.",
+      "Głównym problemem wydaje się być brak informacji.",
+      "Głównym problemem wydaje się być mała sala."
+    ],
+    "b2": [
+      "Głównym problemem wydaje się być brak jasnej komunikacji między działami.",
+      "Głównym problemem wydaje się być opóźnienie w dostawie materiałów.",
+      "Głównym problemem wydaje się być zbyt mała liczba pracowników w biurze.",
+      "Głównym problemem wydaje się być przestarzały sprzęt komputerowy.",
+      "Głównym problemem wydaje się być spadek zainteresowania naszą ofertą."
+    ],
+    "c1": [
+      "Głównym problemem wydaje się być systemowa niewydolność dotychczasowych procedur nadzorczych.",
+      "Głównym problemem wydaje się być strukturalna niezgodność celów operacyjnych z długofalową strategią spółki.",
+      "Głównym problemem wydaje się być chroniczny deficit kapitału ludzkiego o odpowiednich kwalifikacjach analitycznych.",
+      "Głównym problemem wydaje się być głęboka inercja instytucjonalna hamująca procesy transformacyjne.",
+      "Głównym problemem wydaje się być asymetria informacji między poszczególnymi szczeblami zarządzania."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Jak najlepiej podejść do ...?",
+    "translation": "How can we best approach ...?",
+    "b1": [
+      "Jak najlepiej podejść do nauki słówek?",
+      "Jak najlepiej podejść do tego trudnego zadania?",
+      "Jak najlepiej podejść do organizacji tej imprezy?",
+      "Jak najlepiej podejść do wyboru nowego telefonu?",
+      "Jak najlepiej podejść do planowania wakacji?"
+    ],
+    "b2": [
+      "Jak najlepiej podejść do negocjacji z tym trudnym klientem?",
+      "Jak najlepiej podejść do optymalizacji kosztów naszej kampanii reklamowej?",
+      "Jak najlepiej podejść do wdrożenia nowego systemu rezerwacji?",
+      "Jak najlepiej podejść do przygotowania prezentacji dla zarządu?",
+      "Jak najlepiej podejść do rozwiązania tego konfliktu w zespole?"
+    ],
+    "c1": [
+      "Jak najlepiej podejść do transformacji cyfrowej struktur korporacyjnych bez zakłócania bieżących operacji?",
+      "Jak najlepiej podejść do kompleksowej ewaluacji ryzyka regulacyjnego w nowej jurysdykcji?",
+      "Jak najlepiej podejść do restrukturyzacji zadłużenia w obliczu niestabilności rynkowej?",
+      "Jak najlepiej podejść do harmonizacji przepisów wewnętrznych z unijnymi dyrektywami compliance?",
+      "Jak najlepiej podejść do redefinicji modelu biznesowego w warunkach gwałtownej zmiany technologicznej?"
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Sugeruję, abyśmy ...",
+    "translation": "I suggest that we ...",
+    "b1": [
+      "Sugeruję, abyśmy poszli na spacer.",
+      "Sugeruję, abyśmy zamówili pizzę.",
+      "Sugeruję, abyśmy zaczęli wcześniej.",
+      "Sugeruję, abyśmy kupili bilety online.",
+      "Sugeruję, abyśmy zrobili przerwę."
+    ],
+    "b2": [
+      "Sugeruję, abyśmy przełożyli spotkanie na inny dzień.",
+      "Sugeruję, abyśmy przeprowadzili dodatkowe testy przed premierą.",
+      "Sugeruję, abyśmy skonsultowali ten pomysł z działem prawnym.",
+      "Sugeruję, abyśmy przygotowali alternatywny plan działań.",
+      "Sugeruję, abyśmy zebrali opinie od naszych stałych klientów."
+    ],
+    "c1": [
+      "Sugeruję, abyśmy poddali ten projekt niezależnemu audytowi zewnętrznemu.",
+      "Sugeruję, abyśmy wstrzymali procedurę przetargową do czasu wyjaśnienia wątpliwości prawnych.",
+      "Sugeruję, abyśmy zrewidowali założenia budżetowe w świetle ostatnich wahań kursowych.",
+      "Sugeruję, abyśmy powołali dedykowaną grupę roboczą do spraw zarządzania kryzysowego.",
+      "Sugeruję, abyśmy formalnie wystąpili o interpretację podatkową do odpowiedniego organu."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Potencjalnym rozwiązaniem jest ...",
+    "translation": "A potential solution is to ...",
+    "b1": [
+      "Potencjalnym rozwiązaniem jest kupno nowego komputera.",
+      "Potencjalnym rozwiązaniem jest zmiana godziny spotkania.",
+      "Potencjalnym rozwiązaniem jest zapytanie kogoś o drogę.",
+      "Potencjalnym rozwiązaniem jest zatrudnienie pomocy.",
+      "Potencjalnym rozwiązaniem jest zrobienie listy zakupów."
+    ],
+    "b2": [
+      "Potencjalnym rozwiązaniem jest zatrudnienie zewnętrznego podwykonawcy na ten okres.",
+      "Potencjalnym rozwiązaniem jest wprowadzenie pracy hybrydowej dla całego działu.",
+      "Potencjalnym rozwiązaniem jest automatyzacja procesu fakturowania.",
+      "Potencjalnym rozwiązaniem jest zorganizowanie dodatkowych szkoleń z obsługi programu.",
+      "Potencjalnym rozwiązaniem jest rozszerzenie naszej oferty o pakiety premium."
+    ],
+    "c1": [
+      "Potencjalnym rozwiązaniem jest restrukturyzacja kapitałowa poprzez wyemitowanie obligacji korporacyjnych.",
+      "Potencjalnym rozwiązaniem jest wdrożenie zdecentralizowanej struktury zarządzania opartej na niezależnych jednostkach biznesowych.",
+      "Potencjalnym rozwiązaniem jest zawiązanie strategicznej kooperacji z liderem rynku technologicznego.",
+      "Potencjalnym rozwiązaniem jest przeprowadzenie rygorystycznej dywersyfikacji źródeł pozyskiwania komponentów.",
+      "Potencjalnym rozwiązaniem jest powołanie fundacji korporacyjnej w celu optymalizacji obciążeń podatkowych."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Co powiesz na to, żebyśmy spróbowali ... zamiast ...?",
+    "translation": "What if we tried ... instead of ...?",
+    "b1": [
+      "Co powiesz na to, żebyśmy spróbowali pójść pieszo zamiast jechać autobusem?",
+      "Co powiesz na to, żebyśmy spróbowali gotować w domu zamiast zamawiać?",
+      "Co powiesz na to, żebyśmy spróbowali uczyć się rano zamiast wieczorem?",
+      "Co powiesz na to, żebyśmy spróbowali obejrzeć film zamiast czytać?",
+      "Co powiesz na to, żebyśmy spróbowali spotkać się w kawiarni zamiast w parku?"
+    ],
+    "b2": [
+      "Co powiesz na to, żebyśmy spróbowali skorzystać z darmowego oprogramowania zamiast kupować licencję?",
+      "Co powiesz na to, żebyśmy spróbowali wysłać mailing zamiast dzwonić do każdego klienta?",
+      "Co powiesz na to, żebyśmy spróbowali poprowadzić projekt w systemie zinn zamiast tradycyjnego?",
+      "Co powiesz na to, żebyśmy spróbowali zorganizować targi w internecie zamiast na żywo?",
+      "Co powiesz na to, żebyśmy spróbowali wynająć mniejsze biuro zamiast płacić wyższy czynsz?"
+    ],
+    "c1": [
+      "Co powiesz na to, żebyśmy spróbowali zastosować metodę analityczną opartej na dużych zbiorach danych zamiast tradycyjnych badań fokusowych?",
+      "Co powiesz na to, żebyśmy spróbowali powierzyć obsługę prawną zewnętrznej kancelarii zamiast utrzymywać wewnętrzny dział?",
+      "Co powiesz na to, żebyśmy spróbowali przeprowadzić kampanię w mediach społecznościowych zamiast inwestować w tradycyjną prasę?",
+      "Co powiesz na to, żebyśmy spróbowali wdrożyć system pracy zdalnej oparty na zadaniach zamiast na sztywnych godzinach?",
+      "Co powiesz na to, żebyśmy spróbowali oprzeć naszą ekspansję na modelu franczyzowym zamiast otwierać własne placówki?"
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Musimy ustalić priorytety dla ...",
+    "translation": "We need to prioritize ...",
+    "b1": [
+      "Musimy ustalić priorytety dla naszych zadań.",
+      "Musimy ustalić priorytety dla wydatków.",
+      "Musimy ustalić priorytety dla nauki.",
+      "Musimy ustalić priorytety dla tego projektu.",
+      "Musimy ustalić priorytety dla codziennych obowiązków."
+    ],
+    "b2": [
+      "Musimy ustalić priorytety dla zgłaszanych przez klientów błędów w systemie.",
+      "Musimy ustalić priorytety dla zadań w naszym nowym harmonogramie.",
+      "Musimy ustalić priorytety dla działań marketingowych w tym kwartale.",
+      "Musimy ustalić priorytety dla wdrażania nowych funkcji w aplikacji.",
+      "Musimy ustalić priorytety dla wydatków z budżetu operacyjnego."
+    ],
+    "c1": [
+      "Musimy ustalić priorytety dla inwestycji kapitałowych w perspektywie długoterminowej.",
+      "Musimy ustalić priorytety dla alokacji zasobów technologicznych w procesie transformacji.",
+      "Musimy ustalić priorytety dla rozpatrywania wniosków legislacyjnych w obliczu ograniczeń czasowych.",
+      "Musimy ustalić priorytety dla działań naprawczych w ramach polityki compliance.",
+      "Musimy ustalić priorytety dla strategicznych partnerstw międzynarodowych w obecnym cyklu."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Podzielmy ten problem na ...",
+    "translation": "Let's break the problem down into ...",
+    "b1": [
+      "Podzielmy ten problem na mniejsze części.",
+      "Podzielmy ten problem na dwa etapy.",
+      "Podzielmy ten problem na konkretne zadania.",
+      "Podzielmy ten problem na koszty i czas.",
+      "Podzielmy ten problem na łatwiejsze kroki."
+    ],
+    "b2": [
+      "Podzielmy ten problem na czynniki techniczne i organizacyjne.",
+      "Podzielmy ten problem na kwestie finansowe oraz logistyczne.",
+      "Podzielmy ten problem na etapy projektowania i wdrażania.",
+      "Podzielmy ten problem na analizę rynku i ocenę naszych możliwości.",
+      "Podzielmy ten problem na priorytety krótkoterminowe i długoterminowe."
+    ],
+    "c1": [
+      "Podzielmy ten problem na składowe makroekonomiczne, prawne oraz operacyjne.",
+      "Podzielmy ten problem na analizę ryzyka systemowego, technologicznego i reputacyjnego.",
+      "Podzielmy ten problem na aspekty zgodności regulacyjnej, rentowności i akceptacji społecznej.",
+      "Podzielmy ten problem na fazę diagnostyczną, koncepcyjną oraz wdrożeniową.",
+      "Podzielmy ten problem na uwarunkowania strukturalne, kapitałowe i zasobowe."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Czy wziąłeś / wzięłać pod uwagę wpływ ...?",
+    "translation": "Have you considered the impact of ...?",
+    "b1": [
+      "Czy wzięłaś pod uwagę wpływ pogody na naszą wycieczkę?",
+      "Czy wziąłeś pod uwagę wpływ ceny na sprzedaż?",
+      "Czy wzięłaś pod uwagę wpływ hałasu w tym miejscu?",
+      "Czy wziąłeś pod uwagę wpływ zmęczenia na naukę?",
+      "Czy wzięłaś pod uwagę wpływ tej zmiany na plan?"
+    ],
+    "b2": [
+      "Czy wziąłeś pod uwagę wpływ inflacji na nasze koszty produkcji w przyszłym roku?",
+      "Czy wzięłaś pod uwagę wpływ nowej konkurencji na naszą pozycję na rynku?",
+      "Czy wziąłeś pod uwagę wpływ opóźnienia dostawy na finalny termin oddania projektu?",
+      "Czy wzięłaś pod uwagę wpływ zmian w prawie podatkowym na nasze rozliczenia?",
+      "Czy wziąłeś pod uwagę wpływ rotacji pracowników na stabilność zespołu?"
+    ],
+    "c1": [
+      "Czy wziąłeś pod uwagę wpływ długofalowych trendów demograficznych na strukturę naszego popytu?",
+      "Czy wzięłaś pod uwagę wpływ zaostrzenia unijnych norm środowiskowych na rentowność produkcji?",
+      "Czy wziąłeś pod uwagę wpływ zmian kursów walutowych na bilans finansowy całej grupy?",
+      "Czy wzięłaś pod uwagę wpływ potencjalnego kryzysu reputacyjnego na wartość naszych aktywów niematerialnych?",
+      "Czy wziąłeś pod uwagę wpływ globalnych zakłóceń łańcuchów dostaw na ciągłość naszych operacji?"
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Jednym ze sposobów na obejście tego jest ...",
+    "translation": "One way around this is to ...",
+    "b1": [
+      "Jednym ze sposobów na obejście tego jest pójście inną drogą.",
+      "Jednym ze sposobów na obejście tego jest zapytanie kogoś innego.",
+      "Jednym ze sposobów na obejście tego jest zrobienie tego jutro.",
+      "Jednym ze sposobów na obejście tego jest kupienie tańszej rzeczy.",
+      "Jednym ze sposobów na obejście tego jest napisanie wiadomości."
+    ],
+    "b2": [
+      "Jednym ze sposobów na obejście tego ograniczenia budżetowego jest przesunięcie środków z innego działu.",
+      "Jednym ze sposobów na obejście tego problemu z dostawą jest zmiana dostawcy na lokalnego.",
+      "Jednym ze sposobów na obejście tego braku czasu jest oddelegowanie części zadań.",
+      "Jednym ze sposobów na obejście tego błędu w systemie jest ręczne wprowadzanie danych.",
+      "Jednym ze sposobów na obejście tego wymogu formalnego jest dołączenie dodatkowego oświadczenia."
+    ],
+    "c1": [
+      "Jednym ze sposobów na obejście tego impasu negocjacyjnego jest zaangażowanie niezależnego mediatora.",
+      "Jednym ze sposobów na obejście tego błędu legislacyjnego jest powołanie się na przepisy unijne wyższego rzędu.",
+      "Jednym ze sposobów na obejście tego ograniczenia strukturalnego jest utworzenie spółki celowej.",
+      "Jednym ze sposobów na obejście tego problemu licencyjnego jest migracja na oprogramowanie typu open source.",
+      "Jednym ze sposobów na obejście tego ryzyka walutowego jest zastosowanie instrumentów hedgingowych."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Możemy zminimalizować ryzyko poprzez ...",
+    "translation": "We could mitigate the risk by ...",
+    "b1": [
+      "Możemy zminimalizować ryzyko poprzez dokładne sprawdzenie wszystkiego.",
+      "Możemy zminimalizować ryzyko poprzez wcześniejsze wyjście z domu.",
+      "Możemy zminimalizować ryzyko poprzez zapisanie adresu.",
+      "Możemy zminimalizować ryzyko poprzez zapychanie o szczegóły.",
+      "Możemy zminimalizować ryzyko poprzez zabranie parasola."
+    ],
+    "b2": [
+      "Możemy zminimalizować ryzyko poprzez podpisanie szczegółowej umowy z podwykonawcą.",
+      "Możemy zminimalizować ryzyko poprzez wcześniejsze przetestowanie nowego oprogramowania.",
+      "Możemy zminimalizować ryzyko poprzez stworzenie planu awaryjnego na wypadek awarii.",
+      "Możemy zminimalizować ryzyko poprzez zabezpieczenie dodatkowych środków finansowych w budżecie.",
+      "Możemy zminimalizować ryzyko poprzez regularne robienie kopii zapasowych danych."
+    ],
+    "c1": [
+      "Możemy zminimalizować ryzyko poprzez wdrożenie wielopoziomowego systemu kontroli wewnętrznej i compliance.",
+      "Możemy zminimalizować ryzyko poprzez dywersyfikację portfela rynkowego i pozyskanie alternatywnych partnerów.",
+      "Możemy zminimalizować ryzyko poprzez przeprowadzenie rygorystycznych testów warunków skrajnych dla całej struktury.",
+      "Możemy zminimalizować ryzyko poprzez zawarcie kompleksowych polis ubezpieczeniowych od utraty zysków.",
+      "Możemy zminimalizować ryzyko poprzez formalne zakontraktowanie rezerwowych zasobów technologicznych."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Być może powinniśmy przyjrzeć się pierwotnej przyczyny ...",
+    "translation": "Perhaps we should look at the root cause of ...",
+    "b1": [
+      "Być może powinniśmy przyjrzeć się pierwotnej przyczyny tego błędu.",
+      "Być może powinniśmy przyjrzeć się pierwotnej przyczyny naszego opóźnienia.",
+      "Być może powinniśmy przyjrzeć się pierwotnej przyczyny braku klientów.",
+      "Być może powinniśmy przyjrzeć się pierwotnej przyczyny tej pomyłki.",
+      "Być może powinniśmy przyjrzeć się pierwotnej przyczyny tego problemu."
+    ],
+    "b2": [
+      "Być może powinniśmy przyjrzeć się pierwotnej przyczyny ciągłych awarii tego sprzętu.",
+      "Być może powinniśmy przyjrzeć się pierwotnej przyczyny wysokiej rotacji pracowników w naszym dziale.",
+      "Być może powinniśmy przyjrzeć się pierwotnej przyczyny spadku sprzedaży w ubiegłym kwartale.",
+      "Być może powinniśmy przyjrzeć się pierwotnej przyczyny niezadowolenia naszych kluczowych klientów.",
+      "Być może powinniśmy przyjrzeć się pierwotnej przyczyny powtarzających się opóźnień w realizacji projektów."
+    ],
+    "c1": [
+      "Być może powinniśmy przyjrzeć się pierwotnej przyczyny systemowej inercji utrudniającej innowacje w strukturach korporacyjnych.",
+      "Być może powinniśmy przyjrzeć się pierwotnej przyczyny chronicznych zaburzeń w łańcuchu dostaw komponentów krytycznych.",
+      "Być może powinniśmy przyjrzeć się pierwotnej przyczyny głębokiej polaryzacji poglądów wewnątrz organu decyzyjnego.",
+      "Być może powinniśmy przyjrzeć się pierwotnej przyczyny rozbieżności między deklarowaną strategią a realnymi działaniami operacyjnymi.",
+      "Być może powinniśmy przyjrzeć się pierwotnej przyczyny erozji zaufania do naszej marki na rynku międzynarodowym."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Najbliższym krokiem powinno być ...",
+    "translation": "The immediate next step should be ...",
+    "b1": [
+      "Najbliższym krokiem powinno być podpisanie umowy.",
+      "Najbliższym krokiem powinno być wysłanie maila.",
+      "Najbliższym krokiem powinno być opłacenie rachunku.",
+      "Najbliższym krokiem powinno być kupienie biletów.",
+      "Najbliższym krokiem powinno być sprawdzenie wyników."
+    ],
+    "b2": [
+      "Najbliższym krokiem powinno być zatwierdzenie ostatecznego budżetu przez dyrekcję.",
+      "Najbliższym krokiem powinno być skontaktowanie się z wybranym dostawcą w celu ustalenia szczegółów.",
+      "Najbliższym krokiem powinno być przygotowanie oficjalnego raportu dla klienta.",
+      "Najbliższym krokiem powinno być zorganizowanie spotkania roboczego z zespołem techncznym.",
+      "Najbliższym krokiem powinno być zebranie opinii od wszystkich uczestników projektu."
+    ],
+    "c1": [
+      "Najbliższym krokiem powinno być sporządzenie wiążącej opinii prawnej przez zewnętrznych ekspertów.",
+      "Najbliższym krokiem powinno być zwołanie nadzwyczajnego posiedzenia rady nadzorczej w celu podjęcia uchwały.",
+      "Najbliższym krokiem powinno być zainicjowanie procedury notyfikacji zmian w odpowiednim urzędzie nadzoru.",
+      "Najbliższym krokiem powinno być przeprowadzenie szczegółowego audytu bezpieczeństwa danych w nowym systemie.",
+      "Najbliższym krokiem powinno być formalne wystosowanie zapytania ofertowego do wyselekcjonowanych konsorcjów."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Czy ktoś ma inne spojrzenie na ...?",
+    "translation": "Does anyone have a different perspective on ...?",
+    "b1": [
+      "Czy ktoś ma inne spojrzenie na tę sprawę?",
+      "Czy ktoś ma inne spojrzenie na ten pomysł?",
+      "Czy ktoś ma inne spojrzenie na wybór restauracji?",
+      "Czy ktoś ma inne spojrzenie na plan wycieczki?",
+      "Czy ktoś ma inne spojrzenie na ten film?"
+    ],
+    "b2": [
+      "Czy ktoś ma inne spojrzenie na strategię rozwoju naszego działu w tym roku?",
+      "Czy ktoś ma inne spojrzenie na propozycję nowego systemu premiowania pracowników?",
+      "Czy ktoś ma inne spojrzenie na ocenę ryzyka związanego z tą inwestycją?",
+      "Czy ktoś ma inne spojrzenie na podział obowiązków w naszym zespole projektowym?",
+      "Czy ktoś ma inne spojrzenie na harmonogram wdrożenia zmian organizacyjnych?"
+    ],
+    "c1": [
+      "Czy ktoś ma inne spojrzenie na długofalowe implikacje geopolityczne tej decyzji ekspansyjnej?",
+      "Czy ktoś ma inne spojrzenie na etyczny wymiar wdrażania zaawansowanych algorytmów sztucznej inteligencji?",
+      "Czy ktoś ma inne spojrzenie na interpretację przepisów prawa antymonopolowego w tym kontekście?",
+      "Czy ktoś ma inne spojrzenie na makroekonomiczne założenia przyjęte w prognozie rentowności?",
+      "Czy ktoś ma inne spojrzenie na strukturalne przyczyny niepowodzenia poprzedniej reformy?"
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "W krótkiej perspektywie możemy zrobić ...",
+    "translation": "In the short term, we can do ...",
+    "b1": [
+      "W krótkiej perspektywie możemy zrobić mały remont.",
+      "W krótkiej perspektywie możemy zrobić oszczędności na jedzeniu.",
+      "W krótkiej perspektywie możemy zrobić przerwę w nauce.",
+      "W krótkiej perspektywie możemy zrobić dodatkowe zadania.",
+      "W krótkiej perspektywie możemy zrobić plan na ten tydzień."
+    ],
+    "b2": [
+      "W krótkiej perspektywie możemy zrobić audyt dotychczasowych wydatków reklamowych.",
+      "W krótkiej perspektywie możemy zrobić tymczasowe poprawki w systemie, aby uniknąć błędów.",
+      "W krótkiej perspektywie możemy zrobić dodatkowe szkolenie stanowiskowe dla nowych osób.",
+      "W krótkiej perspektywie możemy zrobić przesunięcia kadrowe wewnątrz działu obsługi.",
+      "W krótkiej perspektywie możemy zrobić przegląd otwartych zadań i skrócić terminy."
+    ],
+    "c1": [
+      "W krótkiej perspektywie możemy zrobić cięcia kosztów operacyjnych i zamrozić rekrutację na stanowiska wspierające.",
+      "W krótkiej perspektywie możemy zrobić awaryjną renegocjację warunków umów z kluczowymi dostawcami.",
+      "W krótkiej perspektywie możemy zrobić restrukturyzację zadłużenia krótkoterminowego poprzez emisję papierów dłużnych.",
+      "W krótkiej perspektywie możemy zrobić tymczasowe zawieszenie realizacji mniej zyskownych kontraktów.",
+      "W krótkiej perspektywie możemy zrobić audyt płynności finansowej pod kątem optymalizacji kapitału obrotowego."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Powinniśmy wdrożyć system do ...",
+    "translation": "We should implement a system for ...",
+    "b1": [
+      "Powinniśmy wdrożyć system do zbierania punktów.",
+      "Powinniśmy wdrożyć system do rezerwacji stolików.",
+      "Powinniśmy wdrożyć system do sprawdzania obecności.",
+      "Powinniśmy wdrożyć system do zamawiania jedzenia.",
+      "Powinniśmy wdrożyć system do organizacji zadań."
+    ],
+    "b2": [
+      "Powinniśmy wdrożyć system do monitorowania czasu pracy pracowników zdalnych.",
+      "Powinniśmy wdrożyć system do automatycznego fakturowania i obsługi płatności.",
+      "Powinniśmy wdrożyć system do szybkiego zgłaszania i śledzenia błędów technicznych.",
+      "Powinniśmy wdrożyć system do regularnej oceny wyników i feedbacku w zespole.",
+      "Powinniśmy wdrożyć system do zarządzania relacjami z naszymi klientami."
+    ],
+    "c1": [
+      "Powinniśmy wdrożyć system do zautomatyzowanego zarządzania ryzykiem zgodności regulacyjnej (compliance).",
+      "Powinniśmy wdrożyć system do kompleksowego raportowania niefinansowego w standardach ESG.",
+      "Powinniśmy wdrożyć system do zaawansowanej analityki predykcyjnej zachowań konsumenckich.",
+      "Powinniśmy wdrożyć system do szyfrowanej komunikacji i ochrony poufnych danych korporacyjnych.",
+      "Powinniśmy wdrożyć system do permanentnego monitorowania efektywności procesów operacyjnych w czasie rzeczywistym."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Oceńmy za i przeciw ...",
+    "translation": "Let's evaluate the pros and cons of ...",
+    "b1": [
+      "Oceńmy za i przeciw kupna tego samochodu.",
+      "Oceńmy za i przeciw zmiany pracy.",
+      "Oceńmy za i przeciw wyjazdu za granicę.",
+      "Oceńmy za i przeciw zamieszkania w mieście.",
+      "Oceńmy za i przeciw podjęcia tych studiów."
+    ],
+    "b2": [
+      "Oceńmy za i przeciw wprowadzenia czterodniowego tygodnia pracy w naszej firmie.",
+      "Oceńmy za i przeciw całkowitego przejścia na model pracy zdalnej.",
+      "Oceńmy za i przeciw podwyższenia cen naszych usług w nowym roku.",
+      "Oceńmy za i przeciw zakupu nowego oprogramowania zamiast dzierżawy w chmurze.",
+      "Oceńmy za i przeciw fuzji z naszym głównym konkurentem na rynku krajowym."
+    ],
+    "c1": [
+      "Oceńmy za i przeciw relokacji głównej siedziby spółki do innej jurysdykcji podatkowej.",
+      "Oceńmy za i przeciw wejścia na giełdę poprzez publiczną emisję akcji (IPO).",
+      "Oceńmy za i przeciw całkowitego outsourkowania kluczowego procesu technologicznego.",
+      "Oceńmy za i przeciw przyjęcia zewnętrznego finansowania kapitałowego kosztem utraty części kontroli.",
+      "Oceńmy za i przeciw wdrożenia kontrowersyjnej strategii agresywnej ekspansji rynkowej."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Aby zapewnić sukces, musimy najpierw zająć się ...",
+    "translation": "To ensure success, we must first address ...",
+    "b1": [
+      "Aby zapewnić sukces, musimy najpierw zająć się nauką.",
+      "Aby zapewnić sukces, musimy najpierw zająć się organizacją.",
+      "Aby zapewnić sukces, musimy najpierw zająć się finansami.",
+      "Aby zapewnić sukces, musimy najpierw zająć się tym błędem.",
+      "Aby zapewnić sukces, musimy najpierw zająć się przygotowaniami."
+    ],
+    "b2": [
+      "Aby zapewnić sukces, musimy najpierw zająć się wyjaśnieniem nieporozumień z klientem.",
+      "Aby zapewnić sukces, musimy najpierw zająć się uzupełnieniem braków kadrowych w zespole.",
+      "Aby zapewnić sukces, musimy najpierw zająć się dokładnym przetestowaniem nowego produktu.",
+      "Aby zapewnić sukces, musimy najpierw zająć się zabezpieczeniem stabilnego finansowania.",
+      "Aby zapewnić sukces, musimy najpierw zająć się uporządkowaniem dokumentacji projektowej."
+    ],
+    "c1": [
+      "Aby zapewnić sukces, musimy najpierw zająć się usunięciem strukturalnych barier prawnych i regulacyjnych.",
+      "Aby zapewnić sukces, musimy najpierw zająć się redukcją ryzyka walutowego i zabezpieczeniem kontraktów.",
+      "Aby zapewnić sukces, musimy najpierw zająć się odbudową nadszarpniętego zaufania interesariuszy.",
+      "Aby zapewnić sukces, musimy najpierw zająć się przeprowadzeniem rygorystycznego audytu technologicznego infrastruktury.",
+      "Aby zapewnić sukces, musimy najpierw zająć się neutralizacją oporu wewnętrznego wobec zmian organizacyjnych."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Największą przeszkodą stojącą na drodze jest ...",
+    "translation": "The biggest obstacle standing in the way is ...",
+    "b1": [
+      "Największą przeszkodą stojącą na drodze jest brak pieniędzy.",
+      "Największą przeszkodą stojącą na drodze jest zła pogoda.",
+      "Największą przeszkodą stojącą na drodze jest nieznajomość języka.",
+      "Największą przeszkodą stojącą na drodze jest brak czasu.",
+      "Największą przeszkodą stojącą na drodze jest duża odległość."
+    ],
+    "b2": [
+      "Największą przeszkodą stojącą na drodze jest opór pracowników przed zmianą dotychczasowych nawyków.",
+      "Największą przeszkodą stojącą na drodze jest bardzo wysoka konkurencja w tym sektorze.",
+      "Największą przeszkodą stojącą na drodze jest skomplikowana i biurokratyczna procedura urzędowa.",
+      "Największą przeszkodą stojącą na drodze jest ograniczenie budżetowe narzucone przez centralę.",
+      "Największą przeszkodą stojącą na drodze jest brak dostępu do najnowszych technologii."
+    ],
+    "c1": [
+      "Największą przeszkodą stojącą na drodze jest głęboka inercja kulturowa i brak otwartości na innowacje strukturalne.",
+      "Największą przeszkodą stojącą na drodze jest niestabilność ram prawnych oraz nieprzewidywwność polityki podatkowej.",
+      "Największą przeszkodą stojącą na drodze jest asymetria informacji oraz silne lobby tradycyjnych graczy rynkowych.",
+      "Największą przeszkodą stojącą na drodze jest chroniczny niedobór wysoko wykwalifikowanych kadr eksperckich.",
+      "Największą przeszkodą stojącą na drodze jest sprzeczność między interesami kluczowych akcjonariuszy a długofalowym celem spółki."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Moje proponowane podejście polega na ...",
+    "translation": "My proposed approach involves ...",
+    "b1": [
+      "Moje proponowane podejście polega na wcześniejszym wstawaniu.",
+      "Moje proponowane podejście polega na zrobieniu planu.",
+      "Moje proponowane podejście polega na oszczędzaniu pieniędzy.",
+      "Moje proponowane podejście polega na nauce w grupach.",
+      "Moje proponowane podejście polega na codziennym ćwiczeniu."
+    ],
+    "b2": [
+      "Moje proponowane podejście polega na stopniowym wprowadzaniu zmian zamiast rewolucji.",
+      "Moje proponowane podejście polega na bezpośrednim kontakcie z klientem zamiast ankiet.",
+      "Moje proponowane podejście polega na podzieleniu projektu na niezależne moduły.",
+      "Moje proponowane podejście polega na zaangażowaniu całego zespołu w proces decyzyjny.",
+      "Moje proponowane podejście polega na jednoczesnym testowaniu dwóch różnych wersji strategii."
+    ],
+    "c1": [
+      "Moje proponowane podejście polega na stworzeniu zdecentralizowanej sieci kompetencji opartej na niezależnych węzłach eksperckich.",
+      "Moje proponowane podejście polega na jednoczesnej restrukturyzacji operacyjnej i finansowej w ramach skoordynowanego planu naprawczego.",
+      "Moje proponowane podejście polega na wykorzystaniu metodologii agile do dynamicznego zarządzania ryzykiem regulacyjnym.",
+      "Moje proponowane podejście polega na symulacji warunków skrajnych przed podjęciem ostatecznych decyzji kapitałowych.",
+      "Moje proponowane podejście polega na zintegrowaniu kryteriów zrównoważonego rozwoju bezpośrednio z podstawowymi wskaźnikami efektywności biznesowej."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Być może brakującym elementem jest ...",
+    "translation": "Perhaps the missing piece is ...",
+    "b1": [
+      "Być może brakującym elementem jest twoja opinia.",
+      "Być może brakującym elementem jest trochę cierpliwości.",
+      "Być może brakującym elementem jest dokładny adres.",
+      "Być może brakującym elementem jest jeden dokument.",
+      "Być może brakującym elementem jest lepsza organizacja."
+    ],
+    "b2": [
+      "Być może brakującym elementem jest szczera rozmowa z zespołem na temat problemów.",
+      "Być może brakującym elementem jest dokładna analiza danych sprzedażowych z zeszłego roku.",
+      "Być może brakującym elementem jest jasne określenie odpowiedzialności za poszczególne zadania.",
+      "Być może brakującym elementem jest dodatkowe wsparcie techniczne w kluczowym momencie.",
+      "Być może brakującym elementem jest lepsze zrozumienie realnych potrzeb naszych odbiorców."
+    ],
+    "c1": [
+      "Być może brakującym elementem jest precyzyjna korelacja między celami strategicznymi a systemem motywacyjnym pracowników.",
+      "Być może brakującym elementem jest niezależna ekspertyza prawna oceniająca ryzyko długoterminowych zobowiązań.",
+      "Być może brakującym elementem jest formalny mechanizm weryfikacji skuteczności wdrażanych działań korygujących.",
+      "Być może brakującym elementem jest synergia między pionem badawczym a działem komercjalizacji produktu.",
+      "Być może brakującym elementem jest spójna wizja transformacji cyfrowej akceptowana przez wszystkich udziałowców."
+    ]
+  }
+]

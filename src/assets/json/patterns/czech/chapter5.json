@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Cítím se ohromně ... ohledně ...",
+    "translation": "I feel overwhelmingly ... about ...",
+    "b1": [
+      "Cítím se ohromně šťastně ohledně této novinky.",
+      "Cítím se ohromně unaveně ohledně práce.",
+      "Cítím se ohromně nadšeně ohledně výletu.",
+      "Cítím se ohromně nervózně ohledně zkoušky.",
+      "Cítím se ohromně smutně ohledně konce prázdnin."
+    ],
+    "b2": [
+      "Cítím se ohromně vděčně ohledně vaší pomoci.",
+      "Cítím se ohromně zmateně ohledně této situace.",
+      "Cítím se ohromně hrdě ohledně našich výsledků.",
+      "Cítím se ohromně nejistě ohledně budoucnosti projektu.",
+      "Cítím se ohromně motivovaně ohledně nové výzvy."
+    ],
+    "c1": [
+      "Cítím se ohromně přetíženě ohledně kumulace akademických povinností.",
+      "Cítím se ohromně ambivalentně ohledně nabídnutého kariérního postupu.",
+      "Cítím se ohromně fascinovaně ohledně komplexnosti tohoto fenoménu.",
+      "Cítím se ohromně dezorientovaně ohledně paradigmatických změn ve společnosti.",
+      "Cítím se ohromně excitovaně ohledně participace na tomto vědeckém projektu."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Opravdu se mě dotklo u srdce, když ...",
+    "translation": "It truly touched my heart when ...",
+    "b1": [
+      "Opravdu se mě dotklo u srdce, když mi přinesl květiny.",
+      "Opravdu se mě dotklo u srdce, když mi děti pomohly.",
+      "Opravdu se mě dotklo u srdce, když mi zavolala.",
+      "Opravdu se mě dotklo u srdce, když jsem to viděl.",
+      "Opravdu se mě dotklo u srdce, když mi poděkoval."
+    ],
+    "b2": [
+      "Opravdu se mě dotklo u srdce, když mi kolegové vyjádřili podporu.",
+      "Opravdu se mě dotklo u srdce, když jsem viděl tu nečekanou štědrost.",
+      "Opravdu se mě dotklo u srdce, když mi věnoval tu starou knihu.",
+      "Opravdu se mě dotklo u srdce, když se lidé spojili, aby pomohli.",
+      "Opravdu se mě dotklo u srdce, když mi vyprávěl svůj příběh."
+    ],
+    "c1": [
+      "Opravdu se mě dotklo u srdce, když disident promluvil o svém utrpení ve vězení.",
+      "Opravdu se mě dotklo u srdce, když archivář odhalil zapomenuté osudy obětí.",
+      "Opravdu se mě dotklo u srdce, když stařec sdílel své hluboké reflexe o pomíjivosti života.",
+      "Opravdu se mě dotklo u srdce, když jsem poznal nefalšovanou lidskou solidaritu v krizi.",
+      "Opravdu se mě dotklo u srdce, když básník vyjádřil esenci lidské opuštěnosti."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Mám hluboké obavy ohledně ...",
+    "translation": "I'm deeply concerned about ...",
+    "b1": [
+      "Mám hluboké obavy ohledně mého zdraví.",
+      "Mám hluboké obavy ohledně zítřejší zkoušky.",
+      "Mám hluboké obavy ohledně peněz.",
+      "Mám hluboké obavy ohledně počasí.",
+      "Mám hluboké obavy ohledně jeho chování."
+    ],
+    "b2": [
+      "Mám hluboké obavy ohledně budoucnosti našeho oddělení.",
+      "Mám hluboké obavy ohledně dopadu inflace na úspory.",
+      "Mám hluboké obavy ohledně nedostatku bezpečnostních opatření.",
+      "Mám hluboké obavy ohledně kvality dodávaných materiálů.",
+      "Mám hluboké obavy ohledně stabilizace trhu."
+    ],
+    "c1": [
+      "Mám hluboké obavy ohledně systematické eroze demokratických institucí.",
+      "Mám hluboké obavy ohledně nezvratných ekologických změn v regionu.",
+      "Mám hluboké obavy ohledně manipulace s informacemi v digitálním prostoru.",
+      "Mám hluboké obavy ohledně nárůstu sociální polarizace a radikalizace.",
+      "Mám hluboké obavy ohledně etických důsledků nespoutaného vývoje umělé inteligence."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Spadl mi obrovský kámen ze srdce, protože ...",
+    "translation": "There's a huge weight lifted off my shoulders because ...",
+    "b1": [
+      "Spadl mi obrovský kámen ze srdce, protože zkouška dopadla dobře.",
+      "Spadl mi obrovský kámen ze srdce, protože jsem našel klíče.",
+      "Spadl mi obrovský kámen ze srdce, protože už neprší.",
+      "Spadl mi obrovský kámen ze srdce, protože přijel včas.",
+      "Spadl mi obrovský kámen ze srdce, protože je zdravý."
+    ],
+    "b2": [
+      "Spadl mi obrovský kámen ze srdce, protože se nám podařilo uzavřít kontrakt.",
+      "Spadl mi obrovský kámen ze srdce, protože výsledky testů jsou negativní.",
+      "Spadl mi obrovský kámen ze srdce, protože audit proběhl bez problémů.",
+      "Spadl mi obrovský kámen ze srdce, protože projekt byl schválen vedením.",
+      "Spadl mi obrovský kámen ze srdce, protože dluh byl plně splacen."
+    ],
+    "c1": [
+      "Spadl mi obrovský kámen ze srdce, protože obhajoba disertační práce skončila úspěšně.",
+      "Spadl mi obrovský kámen ze srdce, protože etická komise schválila náš výzkumný protokol.",
+      "Spadl mi obrovský kámen ze srdce, protože se podařilo odvrátit hrozbu soudního sporu.",
+      "Spadl mi obrovský kámen ze srdce, protože institucionální financování bylo obnoveno.",
+      "Spadl mi obrovský kámen ze srdce, protože napětí v mezinárodním vyjednávání opadlo."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Nedokážu skrýt, jak moc oceňuji ...",
+    "translation": "I can't hide how much I appreciate ...",
+    "b1": [
+      "Nedokážu skrýt, jak moc oceňuji tvoji pomoc.",
+      "Nedokážu skrýt, jak moc oceňuji tento dárek.",
+      "Nedokážu skrýt, jak moc oceňuji dobré jídlo.",
+      "Nedokážu skrýt, jak moc oceňuji tvoje slova.",
+      "Nedokážu skrýt, jak moc oceňuji volný den."
+    ],
+    "b2": [
+      "Nedokážu skrýt, jak moc oceňuji vaši trpělivost během mé stáže.",
+      "Nedokážu skrýt, jak moc oceňuji podporu celého mého týmu.",
+      "Nedokážu skrýt, jak moc oceňuji profesionální přístup ředitele.",
+      "Nedokážu skrýt, jak moc oceňuji včasné dodání materiálů.",
+      "Nedokážu skrýt, jak moc oceňuji upřímnou zpětnou vazbu."
+    ],
+    "c1": [
+      "Nedokážu skrýt, jak moc oceňuji erudovanost a hloubku vaši analýzy.",
+      "Nedokážu skrýt, jak moc oceňuji neochvějnou integritu v této morální krizi.",
+      "Nedokážu skrýt, jak moc oceňuji metodologickou preciznost v této studii.",
+      "Nedokážu skrýt, jak moc oceňuji neformální mentoring během mého výzkumu.",
+      "Nedokážu skrýt, jak moc oceňuji noblesu a takt ve vašem jednání."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Cítím hluboký smutek nad ...",
+    "translation": "I feel a profound sense of sadness over ...",
+    "b1": [
+      "Cítím hluboký smutek nad tímto koncem.",
+      "Cítím hluboký smutek nad ztrátou psa.",
+      "Cítím hluboký smutek nad špatnou zprávou.",
+      "Cítím hluboký smutek nad deštivým dnem.",
+      "Cítím hluboký smutek nad tím filmem."
+    ],
+    "b2": [
+      "Cítím hluboký smutek nad odchodem našeho kolegy do důchodu.",
+      "Cítím hluboký smutek nad zničením historické budovy ve městě.",
+      "Cítím hluboký smutek nad tím, jak se vztahy v rodině zhoršily.",
+      "Cítím hluboký smutek nad zrušením tohoto tradičního festivalu.",
+      "Cítím hluboký smutek nad úpadkem místního řemesla."
+    ],
+    "c1": [
+      "Cítím hluboký smutek nad postupným zánikem vzácných jazykových menšin.",
+      "Cítím hluboký smutek nad devastací jedinečných přírodních ekosystémů.",
+      "Cítím hluboký smutek nad vytrácením hluboké lidské empatie v moderní době.",
+      "Cítím hluboký smutek nad kulturní sterilizací veřejného prostoru.",
+      "Cítím hluboký smutek nad ztrátou historické paměti naší generace."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Slova nedokážou popsat, jak moc ...",
+    "translation": "Words can't describe how much ...",
+    "b1": [
+      "Slova nedokážou popsat, jak moc tě mám rád.",
+      "Slova nedokážou popsat, jak moc chci spát.",
+      "Slova nedokážou popsat, jak moc mi chybíš.",
+      "Slova nedokážou popsat, jak moc jsem unavený.",
+      "Slova nedokážou popsat, jak moc to bolí."
+    ],
+    "b2": [
+      "Slova nedokážou popsat, jak moc jsem vděčný za vaši pomoc.",
+      "Slova nedokážou popsat, jak moc mě ten zážitek ovlivnil.",
+      "Slova nedokážou popsat, jak moc se těším na naši dovolenou.",
+      "Slova nedokážou popsat, jak moc obdivuji tvoji odvahu.",
+      "Slova nedokážou popsat, jak moc mě ta zpráva šokovala."
+    ],
+    "c1": [
+      "Slova nedokážou popsat, jak moc mě zasáhla hloubka této tragédie.",
+      "Slova nedokážou popsat, jak moc obdivuji neúnavnou vytrvalost tohoto badatele.",
+      "Slova nedokážou popsat, jak moc mě fascinuje genialita tohoto uměleckého díla.",
+      "Slova nedokážou popsat, jak moc jsem vyčerpaný tíhou této zodpovědnosti.",
+      "Slova nedokážou popsat, jak moc mě pohltila atmosféra tohoto posvátného místa."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Bojoval/a jsem s myšlenkou na ...",
+    "translation": "I have been struggling with the thought of ...",
+    "b1": [
+      "Bojoval jsem s myšlenkou na odchod z práce.",
+      "Bojoval jsem s myšlenkou na prodej auta.",
+      "Bojovala jsem s myšlenkou na zrušení cesty.",
+      "Bojoval jsem s myšlenkou na změnu účesu.",
+      "Bojovala jsem s myšlenkou na to koupi."
+    ],
+    "b2": [
+      "Bojoval jsem s myšlenkou na ukončení studia před dokončením.",
+      "Bojovala jsem s myšlenkou na přestěhování do jiného města.",
+      "Bojoval jsem s myšlenkou na odmítnutí této lukrativní nabídky.",
+      "Bojovala jsem s myšlenkou na zveřejnění mého příběhu.",
+      "Bojoval jsem s myšlenkou na rezignaci na mou pozici."
+    ],
+    "c1": [
+      "Bojoval jsem s myšlenkou na úplné opuštění akademické dráhy.",
+      "Bojovala jsem s myšlenkou na veřejnou konfrontaci s vlivem zkorumpovaného systému.",
+      "Bojoval jsem s myšlenkou na permanentní relokaci do zahraničí.",
+      "Bojovala jsem s myšlenkou na odmítnutí autorství v kontroverzním vědeckém sborníku.",
+      "Bojoval jsem s myšlenkou na radikální změnu dosavadního životního stylu."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Mým největším strachem je, že ...",
+    "translation": "My greatest fear is that ...",
+    "b1": [
+      "Mým největším strachem je, že zkoušku udělám špatně.",
+      "Mým největším strachem je, že ztratím telefon.",
+      "Mým největším strachem je, že přijdu pozdě.",
+      "Mým největším strachem je, že to nepochopím.",
+      "Mým největším strachem je, že onemocním."
+    ],
+    "b2": [
+      "Mým největším strachem je, že zklamu důvěru svého týmu.",
+      "Mým největším strachem je, že projekt skončí finančním krachem.",
+      "Mým největším strachem je, že ztratím práci, kterou mám rád.",
+      "Mým největším strachem je, že nedokážu skloubit práci a rodinu.",
+      "Mým největším strachem je, že se mi nepodaří dodržet termín."
+    ],
+    "c1": [
+      "Mým největším strachem je, že mé celoživotní vědecké dílo bude zneužito.",
+      "Mým největším strachem je, že moje iniciativa vyvolá opačný společenský efekt.",
+      "Mým největším strachem je, že ztratím schopnost kritického a nezávislého myšlení.",
+      "Mým největším strachem je, že instituce ztratí svou morální rovnováhu.",
+      "Mým největším strachem je, že mé morální zásady selhou v kritické zkoušce."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Tato situace ve mně zanechala pocit ...",
+    "translation": "This situation has left me feeling quite ...",
+    "b1": [
+      "Tato situace ve mně zanechala pocit strachu.",
+      "Tato situace ve mně zanechala pocit radosti.",
+      "Tato situace ve mně zanechala pocit překvapení.",
+      "Tato situace ve mně zanechala pocit úlevy.",
+      "Tato situace ve mně zanechala pocit zklamání."
+    ],
+    "b2": [
+      "Tato situace ve mně zanechala pocit velké nejistoty.",
+      "Tato situace ve mně zanechala pocit totálního vyčerpání.",
+      "Tato situace ve mně zanechala pocit zbytečné křivdy.",
+      "Tato situace ve mně zanechala pocit hluboké vděčnosti.",
+      "Tato situace ve mně zanechala pocit ztracené kontroly."
+    ],
+    "c1": [
+      "Tato situace ve mně zanechala pocit naprosté morální prázdnoty.",
+      "Tato situace ve mně zanechala pocit hluboké intelektuální frustrace.",
+      "Tato situace ve mně zanechala pocit deziluze z lidské povahy.",
+      "Tato situace ve mně zanechala pocit odcizení od vlastního prostředí.",
+      "Tato situace ve mně zanechala pocit existenciální tísně."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Trhá mi to srdce, když vidím ...",
+    "translation": "It breaks my heart to see ...",
+    "b1": [
+      "Trhá mi to srdce, když vidím plakat dítě.",
+      "Trhá mi to srdce, když vidím hladového psa.",
+      "Trhá mi to srdce, když vidím starého člověka samotného.",
+      "Trhá mi to srdce, když vidím rozbitou hračku.",
+      "Trhá mi to srdce, když vidím smutnou tvář."
+    ],
+    "b2": [
+      "Trhá mi to srdce, když vidím, jak se staří lidé trápí samotou.",
+      "Trhá mi to srdce, když vidím opuštěná zvířata v útulku.",
+      "Trhá mi to srdce, když vidím mladé lidi bez jakékoliv perspektivy.",
+      "Trhá mi to srdce, když vidím, jak se rodina po letech rozpadá.",
+      "Trhá mi to srdce, když vidím zničenou přírodu po bouři."
+    ],
+    "c1": [
+      "Trhá mi to srdce, když vidím systematické ničení kulturního dědictví ve válce.",
+      "Trhá mi to srdce, když vidím bezmoc nevinných obětí politických čistek.",
+      "Trhá mi to srdce, když vidím utrpení lidí zbavených lidské důstojnosti.",
+      "Trhá mi to srdce, když vidím ztrátu naděje v očích dětí vyrůstajících v ghettech.",
+      "Trhá mi to srdce, když vidím devastaci lidských životů pod tíhou fanatismu."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Upřímně obdivuji tvoji sílu v ...",
+    "translation": "I genuinely admire your strength in ...",
+    "b1": [
+      "Upřímně obdivuji tvoji sílu v této chvíli.",
+      "Upřímně obdivuji tvoji sílu v učení.",
+      "Upřímně obdivuji tvoji sílu v práci.",
+      "Upřímně obdivuji tvoji sílu v běhání.",
+      "Upřímně obdivuji tvoji sílu v němčině."
+    ],
+    "b2": [
+      "Upřímně obdivuji tvoji sílu v zvládání této těžké životní situace.",
+      "Upřímně obdivuji tvoji sílu v boji s touto vážnou nemocí.",
+      "Upřímně obdivuji tvoji sílu v obhajobě tvého názoru před šéfem.",
+      "Upřímně obdivuji tvoji sílu v péči o celou rodinu.",
+      "Upřímně obdivuji tvoji sílu v překonávání všech překážek."
+    ],
+    "c1": [
+      "Upřímně obdivuji tvoji sílu v zachování nezávislosti pod masivním tlakem.",
+      "Upřímně obdivuji tvoji sílu v morální integritze během politických čistek.",
+      "Upřímně obdivuji tvoji sílu v překonávání celoživotního vědeckého skeptismu.",
+      "Upřímně obdivuji tvoji sílu v osobní oběti pro blaho celé komunity.",
+      "Upřímně obdivuji tvoji sílu v nesení břemene veřejné odpovědnosti."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Hluboký význam skrytý za ... je ...",
+    "translation": "The deep meaning behind ... is ...",
+    "b1": [
+      "Hluboký význam skrytý za tímto darem je láska.",
+      "Hluboký význam skrytý za tím gestem je přátelství.",
+      "Hluboký význam skrytý za tím slovem je naděje.",
+      "Hluboký význam skrytý za tou písní je smutek.",
+      "Hluboký význam skrytý za tím úsměvem je síla."
+    ],
+    "b2": [
+      "Hluboký význam skrytý za tímto starým zvykem je úcta k předkům.",
+      "Hluboký význam skrytý za tímto uměleckým dílem je kritika společnosti.",
+      "Hluboký význam skrytý za jejím mlčením byla ochrana rodiny.",
+      "Hluboký význam skrytý za touto symbolickou gestikulací je smíření.",
+      "Hluboký význam skrytý za tímto rituálem je obnova života."
+    ],
+    "c1": [
+      "Hluboký význam skrytý za touto filosofickou metaforou je lidská konečnost.",
+      "Hluboký význam skrytý za architektonickým stylem katedrály je transcendence.",
+      "Hluboký význam skrytý za touto legislativní anomálií je ochrana menšin.",
+      "Hluboký význam skrytý za tímto tragickým dramatem je katarze duše.",
+      "Hluboký význam skrytý za tímto lingvistickým idiomem je kolektivní paměť."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Jsem naprosto zničena/ý tím, že ...",
+    "translation": "I'm absolutely devastated by ...",
+    "b1": [
+      "Jsem naprosto zničen tím, že jsem ztratil práci.",
+      "Jsem naprosto zničena tím, že prší o dovolené.",
+      "Jsem naprosto zničen tím, že prohrál náš tým.",
+      "Jsem naprosto zničena tím, že rozbila mobil.",
+      "Jsem naprosto zničen tím, že zmeškal vlak."
+    ],
+    "b2": [
+      "Jsem naprosto zničen tím, že náš projekt nebyl vybrán.",
+      "Jsem naprosto zničena tím, že se přítel odstěhoval do ciziny.",
+      "Jsem naprosto zničen tím, že zrušili náš oblíbený podnik.",
+      "Jsem naprosto zničena tím, že auto úplně shořelo.",
+      "Jsem naprosto zničen tím, že zkouška dopadla neúspěšně."
+    ],
+    "c1": [
+      "Jsem naprosto zničen náhlým úmrtím mého dlouholetého mentora a přítele.",
+      "Jsem naprosto zničena zjištěním, že data mého výzkumu byla zfalšována.",
+      "Jsem naprosto zničen totálním krachem instituce, kterou jsem budoval.",
+      "Jsem naprosto zničena ztrátou celoživotního archivu při náhlém požáru.",
+      "Jsem naprosto zničen zjištěním zrady od člověka, kterému jsem plně věřil."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Je těžké vyjádřit radost, kterou cítím, když ...",
+    "translation": "It's hard to articulate the joy I feel when ...",
+    "b1": [
+      "Je těžké vyjádřit radost, kterou cítím, když tě vidím.",
+      "Je těžké vyjádřit radost, kterou cítím, když jím čokoládu.",
+      "Je těžké vyjádřit radost, kterou cítím, když svítí slunce.",
+      "Je těžké vyjádřit radost, kterou cítím, když jsem doma.",
+      "Je těžké vyjádřit radost, kterou cítím, když dostanu dárek."
+    ],
+    "b2": [
+      "Je těžké vyjádřit radost, kterou cítím, když vidím úspěch svých dětí.",
+      "Je těžké vyjádřit radost, kterou cítím, když konečně dokončím velký projekt.",
+      "Je těžké vyjádřit radost, kterou cítím, když se po dlouhé době setkám s přáteli.",
+      "Je těžké vyjádřit radost, kterou cítím, když se mi splní velký sen.",
+      "Je těžké vyjádřit radost, kterou cítím, když slyším tuto hudbu."
+    ],
+    "c1": [
+      "Je těžké vyjádřit radost, kterou cítím, když vědecká hypotéza po letech přinese ovoce.",
+      "Je těžké vyjádřit radost, kterou cítím, když sleduji záchrodu vzácného kulturního artefaktu.",
+      "Je těžké vyjádřit radost, kterou cítím, když vidím obnovu zdevastované přírody.",
+      "Je těžké vyjádřit radost, kterou cítím, když vnímám harmonii a mír po bouřlivých sporech.",
+      "Je těžké vyjádřit radost, kterou cítím, když student pochopí podstatu mého oboru."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Tato zkušenost mi dala nový pohled na ...",
+    "translation": "This experience has given me a new perspective on ...",
+    "b1": [
+      "Tato zkušenost mi dala nový pohled na život.",
+      "Tato zkušenost mi dala nový pohled na práci.",
+      "Tato zkušenost mi dala nový pohled na peníze.",
+      "Tato zkušenost mi dala nový pohled na cestování.",
+      "Tato zkušenost mi dala nový pohled na lidi."
+    ],
+    "b2": [
+      "Tato zkušenost mi dala nový pohled na hodnotu přátelství.",
+      "Tato zkušenost mi dala nový pohled na význam vzdělání.",
+      "Tato zkušenost mi dala nový pohled na řízení lidí v krizi.",
+      "Tato zkušenost mi dala nový pohled na mé vlastní priority.",
+      "Tato zkušenost mi dala nový pohled na fungování velké firmy."
+    ],
+    "c1": [
+      "Tato zkušenost mi dala nový pohled na křehkost lidské civilizace.",
+      "Tato zkušenost mi dala nový pohled na relativitu kulturních hodnot v globalizovaném světě.",
+      "Tato zkušenost mi dala nový pohled na dynamiku moci v mezinárodních institucích.",
+      "Tato zkušenost mi dala nový pohled na etické dimenze vědeckého bádání.",
+      "Tato zkušenost mi dala nový pohled na hloubku lidské psychiky v extrémních situacích."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Cítím nesmírnou úlevu, že ...",
+    "translation": "I feel an immense sense of relief that ...",
+    "b1": [
+      "Cítím nesmírnou úlevu, že to skončilo.",
+      "Cítím nesmírnou úlevu, že jsi v pořádku.",
+      "Cítím nesmírnou úlevu, že jsme to stihli.",
+      "Cítím nesmírnou úlevu, že je to zdarma.",
+      "Cítím nesmírnou úlevu, že už neprší."
+    ],
+    "b2": [
+      "Cítím nesmírnou úlevu, že se nám podařilo najít ztracený dokument.",
+      "Cítím nesmírnou úlevu, že operace proběhla úspěšně.",
+      "Cítím nesmírnou úlevu, že zkouška je konečně za mnou.",
+      "Cítím nesmírnou úlevu, že klient přijal naše podmínky.",
+      "Cítím nesmírnou úlevu, že se situace v týmu uklidnila."
+    ],
+    "c1": [
+      "Cítím nesmírnou úlevu, že revize rozpočtu odvrátila hrozbu bankrotu instituce.",
+      "Cítím nesmírnou úlevu, že se podařilo obhájit naši pozici před vědeckou radou.",
+      "Cítím nesmírnou úlevu, že krizový protokol zamezil šíření toxických informací.",
+      "Cítím nesmírnou úlevu, že se mezinárodní mise vrátila bez zranění.",
+      "Cítím nesmírnou úlevu, že audit potvrdil naprostou bezúhonnost projektu."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Od té doby, co ..., je tu pocit prázdnoty.",
+    "translation": "There is a feeling of emptiness since ...",
+    "b1": [
+      "Od té doby, co odešel, je tu pocit prázdnoty.",
+      "Od té doby, co skočilo léto, je tu pocit prázdnoty.",
+      "Od té doby, co vyklidili dům, je tu pocit prázdnoty.",
+      "Od té doby, co zavřeli obchod, je tu pocit prázdnoty.",
+      "Od té doby, co dohráli, je tu pocit prázdnoty."
+    ],
+    "b2": [
+      "Od té doby, co děti odrostly a odešly z domova, je tu pocit prázdnoty.",
+      "Od té doby, co jsme projekt dokončili, je tu pocit prázdnoty.",
+      "Od té doby, co se kolega odstěhoval, je tu pocit prázdnoty v kanceláři.",
+      "Od té doby, co festival skončil, je tu pocit prázdnoty v celém městě.",
+      "Od té doby, co ten starý strom pokáceli, je tu pocit prázdnoty."
+    ],
+    "c1": [
+      "Od té doby, co univerzita opustila historickou budovu, je tu pocit prázdnoty.",
+      "Od té doby, co utichly debaty o naší reformě, je tu pocit prázdnoty.",
+      "Od té doby, co mentor zemřel, je tu pocit prázdnoty v celém akademickém sboru.",
+      "Od té doby, co se muzeum uzavřelo k rekonstrukci, je tu pocit prázdnoty v kultuře.",
+      "Od té doby, co ideály hnutí vyprchaly, je tu pocit prázdnoty v politickém prostoru."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Přebírám plnou zodpovědnost za svůj pocit ...",
+    "translation": "I take full responsibility for my feeling of ...",
+    "b1": [
+      "Přebírám plnou zodpovědnost za svůj pocit viny.",
+      "Přebírám plnou zodpovědnost za svůj pocit strachu.",
+      "Přebírám plnou zodpovědnost za svůj pocit nejistoty.",
+      "Přebírám plnou zodpovědnost za svůj pocit zklamání.",
+      "Přebírám plnou zodpovědnost za svůj pocit vzteku."
+    ],
+    "b2": [
+      "Přebírám plnou zodpovědnost za svůj pocit selhání v tomto úkolu.",
+      "Přebírám plnou zodpovědnost za svůj pocit přetížení v práci.",
+      "Přebírám plnou zodpovědnost za svůj pocit křivdy z minulé schůzky.",
+      "Přebírám plnou zodpovědnost za svůj pocit nedostatečné přípravy.",
+      "Přebírám plnou zodpovědnost za svůj pocit zmatku v novém prostředí."
+    ],
+    "c1": [
+      "Přebírám plnou zodpovědnost za svůj pocit intelektuální izolace v debatě.",
+      "Přebírám plnou zodpovědnost za svůj pocit morální odpovědnosti za výsledek.",
+      "Přebírám plnou zodpovědnost za svůj pocit profesního vyhoření.",
+      "Přebírám plnou zodpovědnost za svůj pocit skeptického odtud-poka.",
+      "Přebírám plnou zodpovědnost za svůj pocit ztráty ideového směru v projektu."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Intenzita situace ve mně vyvolala pocit ...",
+    "translation": "The intensity of the situation made me feel ...",
+    "b1": [
+      "Intenzita situace ve mně vyvolala pocit strachu.",
+      "Intenzita situace ve mně vyvolala pocit úlevy.",
+      "Intenzita situace ve mně vyvolala pocit tepla.",
+      "Intenzita situace ve mně vyvolala pocit zmatku.",
+      "Intenzita situace ve mně vyvolala pocit klidu."
+    ],
+    "b2": [
+      "Intenzita situace ve mně vyvolala pocit okamžité nutnosti jednat.",
+      "Intenzita situace ve mně vyvolala pocit hlubokého ohrožení.",
+      "Intenzita situace ve mně vyvolala pocit totální paralýzy.",
+      "Intenzita situace ve mně vyvolala pocit silné sounáležitosti s týmem.",
+      "Intenzita situace ve mně vyvolala pocit velkého tlaku."
+    ],
+    "c1": [
+      "Intenzita situace ve mně vyvolala pocit hluboké existenciální krize.",
+      "Intenzita situace ve mně vyvolala pocit mimořádné duchovní bdělosti.",
+      "Intenzita situace ve mně vyvolala pocit akutní kognitivní disonance.",
+      "Intenzita situace ve mně vyvolala pocit absolutní historické odpovědnosti.",
+      "Intenzita situace ve mně vyvolala pocit vnitřní katarze a očisty."
+    ]
+  }
+]

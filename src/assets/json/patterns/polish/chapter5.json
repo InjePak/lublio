@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Czuję się przytłaczająco ... w sprawie ...",
+    "translation": "I feel overwhelmingly ... about ...",
+    "b1": [
+      "Czuję się przytłaczająco szczęśliwa w sprawie naszej wycieczki.",
+      "Czuję się przytłaczająco zmęczona w sprawie tej pracy.",
+      "Czuję się przytłaczająco zagubiona w sprawie tego zadania.",
+      "Czuję się przytłaczająco podekscytowana w sprawie nowego mieszkania.",
+      "Czuję się przytłaczająco smutna w sprawie tej wiadomości."
+    ],
+    "b2": [
+      "Czuję się przytłaczająco optymistycznie nastawiona w sprawie perspektyw rozwoju naszej firmy.",
+      "Czuję się przytłaczająco zestresowana w sprawie zbliżających się egzaminów końcowych.",
+      "Czuję się przytłaczająco wdzięczna w sprawie otrzymanej pomocy od zespołu.",
+      "Czuję się przytłaczająco niepewna w sprawie zmian w strukturze organizacyjnej.",
+      "Czuję się przytłaczająco dumna w sprawie osiągniętych przez nas wyników sprzedaży."
+    ],
+    "c1": [
+      "Czuję się przytłaczająco zaniepokojona w sprawie długofalowych konsekwencji tej kontrowersyjnej decyzji politycznej.",
+      "Czuję się przytłaczająco usatysfakcjonowana w sprawie pomyślnego zakończenia skomplikowanego audytu międzynarodowego.",
+      "Czuję się przytłaczająco przytłoczona w sprawie kumulacji obowiązków regulacyjnych w bieżącym kwartale.",
+      "Czuję się przytłaczająco zobowiązana w sprawie powierzonego mi mandatu zaufania społecznego.",
+      "Czuję się przytłaczająco zdezorientowana w sprawie niejasnych założeń nowej strategii korporacyjnej."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "To naprawdę poruszyło moje serce, kiedy ...",
+    "translation": "It truly touched my heart when ...",
+    "b1": [
+      "To naprawdę poruszyło moje serce, kiedy pomogłeś mi w trudnej chwili.",
+      "To naprawdę poruszyło moje serce, kiedy dostałem ten miły list.",
+      "To naprawdę poruszyło moje serce, kiedy zobaczyliśmy ten piękny zachód słońca.",
+      "To naprawdę poruszyło moje serce, kiedy pies zaczął się do mnie tulić.",
+      "To naprawdę poruszyło moje serce, kiedy podziękowałaś mi za wsparcie."
+    ],
+    "b2": [
+      "To naprawdę poruszyło moje serce, kiedy cały zespół zjednoczył się, by pomóc mi w projekcie.",
+      "To naprawdę poruszyło moje serce, kiedy usłyszałem o tej bezinteresownej akcji charytatywnej.",
+      "To naprawdę poruszyło moje serce, kiedy stary znajomy napisał po tylu latach milczenia.",
+      "To naprawdę poruszyło moje serce, kiedy pacjent podziękował mi za uratowanie zdrowia.",
+      "To naprawdę poruszyło moje serce, kiedy dzieci przygotowały niespodziankę na rocznicę."
+    ],
+    "c1": [
+      "To naprawdę poruszyło moje serce, kiedy społeczność akademicka jednogłośnie upamiętniła jego wybitny wkład naukowy.",
+      "To naprawdę poruszyło moje serce, kiedy weteran wojenny opowiedział o trudach pojednania narodowego.",
+      "To naprawdę poruszyło moje serce, kiedy anonimowy darczyńca sfinansował leczenie dla tych dzieci.",
+      "To naprawdę poruszyło moje serce, kiedy artysta zadedykował swoje opus magnum zmarłemu mentorowi.",
+      "To naprawdę poruszyło moje serce, kiedy świadkowie tamtych wydarzeń odważnie podzielili się swoją bolesną prawdą."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Jestem głęboko zaniepokojony / zaniepokojona tym, że ...",
+    "translation": "I'm deeply concerned about ...",
+    "b1": [
+      "Jestem głęboko zaniepokojona tym, że pogoda się psuje.",
+      "Jestem głęboko zaniepokojony tym, że spóźnisz się na pociąg.",
+      "Jestem głęboko zaniepokojona tym, że nie zdążymy na czas.",
+      "Jestem głęboko zaniepokojony tym, że zgubiłeś klucze.",
+      "Jestem głęboko zaniepokojona tym, że ceny w sklepach rosną."
+    ],
+    "b2": [
+      "Jestem głęboko zaniepokojony tym, że jakość naszych usług spada z miesiąca na miesiąc.",
+      "Jestem głęboko zaniepokojona tym, że wciąż brakuje nam kluczowych danych do tego raportu.",
+      "Jestem głęboko zaniepokojony tym, że klienci masowo rezygnują z naszych abonamentów.",
+      "Jestem głęboko zaniepokojona tym, że budżet na ten rok został drastycznie obcięty.",
+      "Jestem głęboko zaniepokojony tym, że rotacja w zespole zagraża ciągłości projektów."
+    ],
+    "c1": [
+      "Jestem głęboko zaniepokojona tym, że systemowa erozja norm prawnych zagraża stabilności państwa prawa.",
+      "Jestem głęboko zaniepokojony tym, że brak adekwatnych zabezpieczeń compliance narazi spółkę na sankcje.",
+      "Jestem głęboko zaniepokojona tym, że unormowania środowiskowe w nowej ustawie są rażąco niewystarczające.",
+      "Jestem głęboko zaniepokojony tym, że asymetria informacji w tym sektorze wypacza uczciwą konkurencję rynkową.",
+      "Jestem głęboko zaniepokojona tym, że chroniczny deficyt kapitału ludzkiego uniemożliwia realizację strategii."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Spadł mi ogromny kamień z serca, ponieważ ...",
+    "translation": "There's a huge weight lifted off my shoulders because ...",
+    "b1": [
+      "Spadł mi ogromny kamień z serca, ponieważ egzamin już się skończył.",
+      "Spadł mi ogromny kamień z serca, ponieważ znalazłem zgubiony portfel.",
+      "Spadł mi ogromny kamień z serca, ponieważ dzisiaj nie będzie padać.",
+      "Spadł mi ogromny kamień z serca, ponieważ mama czuje się już lepiej.",
+      "Spadł mi ogromny kamień z serca, ponieważ zdążyłem na ten autobus."
+    ],
+    "b2": [
+      "Spadł mi ogromny kamień z serca, ponieważ klient w końcu zaakceptował nasz projekt.",
+      "Spadł mi ogromny kamień z serca, ponieważ wyniki badań okazały się całkowicie w porządku.",
+      "Spadł mi ogromny kamień z serca, ponieważ udało się nam zamknąć budżet na czas.",
+      "Spadł mi ogromny kamień z serca, ponieważ awaria systemu została w pełni usunięta.",
+      "Spadł mi ogromny kamień z serca, ponieważ spłaciłem ostatnią ratę kredytu."
+    ],
+    "c1": [
+      "Spadł mi ogromny kamień z serca, ponieważ sąd wydał korzystny dla nas wyrok w tej spornej kwestii.",
+      "Spadł mi ogromny kamień z serca, ponieważ po długich negocjacjach podpisano umowę ramową.",
+      "Spadł mi ogromny kamień z serca, ponieważ niezależny audyt potwierdził pełną zgodność naszych procedur.",
+      "Spadł mi ogromny kamień z serca, ponieważ regulator ostatecznie odrzucił skargę konkurencji.",
+      "Spadł mi ogromny kamień z serca, ponieważ międzynarodowe konsorcjum zagwarantowało nam finansowanie."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Nie mogę ukryć, jak bardzo doceniam ...",
+    "translation": "I can't hide how much I appreciate ...",
+    "b1": [
+      "Nie mogę ukryć, jak bardzo doceniam twoją pomoc.",
+      "Nie mogę ukryć, jak bardzo doceniam ten prezent.",
+      "Nie mogę ukryć, jak bardzo doceniam dobre jedzenie.",
+      "Nie mogę ukryć, jak bardzo doceniam twoją szczerość.",
+      "Nie mogę ukryć, jak bardzo doceniam wolny weekend."
+    ],
+    "b2": [
+      "Nie mogę ukryć, jak bardzo doceniam zaangażowanie całego zespołu w ten trudny projekt.",
+      "Nie mogę ukryć, jak bardzo doceniam twoje wsparcie w tych stresujących chwilach.",
+      "Nie mogę ukryć, jak bardzo doceniam cierpliwość, z jaką mi wszystko wyjaśniłeś.",
+      "Nie mogę ukryć, jak bardzo doceniam terminowość i profesjonalizm tego dostawcy.",
+      "Nie mogę ukryć, jak bardzo doceniam zaufanie, jakim obdarzył mnie zarząd."
+    ],
+    "c1": [
+      "Nie mogę ukryć, jak bardzo doceniam intelektualny wkład kolegów w tę skomplikowaną ekspertyzę.",
+      "Nie mogę ukryć, jak bardzo doceniam niezłomność rady nadzorczej w obronie interesów akcjonariuszy.",
+      "Nie mogę ukryć, jak bardzo doceniam rygor metodologiczny zastosowany w tym badaniu naukowym.",
+      "Nie mogę ukryć, jak bardzo doceniam bezkompromisowe dążenie do prawdy w debacie publicznej.",
+      "Nie mogę ukryć, jak bardzo doceniam strategiczną wizję i empatię naszego nowego lidera."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Czuję głęboki smutek z powodu ...",
+    "translation": "I feel a profound sense of sadness over ...",
+    "b1": [
+      "Czuję głęboki smutek z powodu tej wiadomości.",
+      "Czuję głęboki smutek z powodu końca wakacji.",
+      "Czuję głęboki smutek z powodu strat w ogrodzie.",
+      "Czuję głęboki smutek z powodu twojego wyjazdu.",
+      "Czuję głęboki smutek z powodu złej pogody."
+    ],
+    "b2": [
+      "Czuję głęboki smutek z powodu zamknięcia naszej ulubionej restauracji na rogu.",
+      "Czuję głęboki smutek z powodu odejścia mojego wieloletniego współpracownika z firmy.",
+      "Czuję głęboki smutek z powodu odwołania długo wyczekiwanego wydarzenia kulturalnego.",
+      "Czuję głęboki smutek z powodu zniszczeń spowodowanych przez niedawną nawałnicę.",
+      "Czuję głęboki smutek z powodu spadku poziomu czytelnictwa wśród młodych ludzi."
+    ],
+    "c1": [
+      "Czuję głęboki smutek z powodu bezpowrotnej utraty unikalnych zabytków architektonicznych w tym regionie.",
+      "Czuję głęboki smutek z powodu systemowej degradacji tradycyjnych rzemiosł w dobie masowej produkcji.",
+      "Czuję głęboki smutek z powodu obojętności społecznej wobec losu uchodźców klimatycznych.",
+      "Czuję głęboki smutek z powodu erozji zaufania publicznego do fundamentalnych instytucji państwowych.",
+      "Czuję głęboki smutek z powodu nieodwracalnego uszczerbku na bioróżnorodności tego ekosystemu."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Słowa nie są w stanie opisać, jak bardzo ...",
+    "translation": "Words can't describe how much ...",
+    "b1": [
+      "Słowa nie są w stanie opisać, jak bardzo ci dziękuję.",
+      "Słowa nie są w stanie opisać, jak bardzo tęsknię.",
+      "Słowa nie są w stanie opisać, jak bardzo mi pomogłeś.",
+      "Słowa nie są w stanie opisać, jak bardzo się cieszę.",
+      "Słowa nie są w stanie opisać, jak bardzo smakowało mi to danie."
+    ],
+    "b2": [
+      "Słowa nie są w stanie opisać, jak bardzo jestem wdzięczna za uratowanie mojej pracy.",
+      "Słowa nie są w stanie opisać, jak bardzo poruszyła mnie ta niespodzianka urodzinowa.",
+      "Słowa nie są w stanie opisać, jak bardzo czuję się zmęczony tym intensywnym miesiącem.",
+      "Słowa nie są w stanie opisać, jak bardzo dumny jestem z osiągnięć mojego syna.",
+      "Słowa nie są w stanie opisać, jak bardzo żałuję popełnionego wczoraj błędu."
+    ],
+    "c1": [
+      "Słowa nie są w stanie opisać, jak bardzo jestem wstrząśnięty skalą ludzkiej tragedii w tamtej strefie.",
+      "Słowa nie są w stanie opisać, jak bardzo podziwiam odwagę sygnalistów ujawniających nadużycia.",
+      "Słowa nie są w stanie opisać, jak bardzo cenię sobie intelektualną stymulację płynącą z tej współpracy.",
+      "Słowa nie są w stanie opisać, jak bardzo odczuwam brak jego wizjonerskiego przywództwa.",
+      "Słowa nie są w stanie opisać, jak bardzo dziękuję za bezwarunkowe wsparcie w kryzysie."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Zagańkam się z myślą o ... / Borykam się z myśli ...",
+    "translation": "I have been struggling with the thought of ...",
+    "b1": [
+      "Borykam się z myślą o zmianie pracy.",
+      "Borykam się z myślą o wyprowadzce do innego miasta.",
+      "Borykam się z myślą o napisaniu tego egzaminu.",
+      "Borykam się z myślą o kupnie nowego auta.",
+      "Borykam się z myślą o porzuceniu diety."
+    ],
+    "b2": [
+      "Borykam się z myślą o rezygnacji ze stanowiska z powodu ciągłego stresu.",
+      "Borykam się z myślą o poinformowaniu szefa o moim odejściu z firmy.",
+      "Borykam się z myślą o samodzielnym poprowadzeniu tak dużego przedsięwzięcia.",
+      "Borykam się z myślą o podjęciu studiów podyplomowych za granicą.",
+      "Borykam się z myślą o odmówieniu pomocy mojemu bliskiemu przyjacielowi."
+    ],
+    "c1": [
+      "Borykam się z myślą o całkowitej reorientacji mojej ścieżki naukowej w dobie sztucznej inteligencji.",
+      "Borykam się z myślą o zakwestionowaniu decyzji zarządu wbrew interesom większościowych akcjonariuszy.",
+      "Borykam się z myślą o publicznym ujawnieniu rażących nieprawidłowości proceduralnych w urzędzie.",
+      "Borykam się z myślą o zrezygnowaniu z ubiegania się o ten prestiżowy grant badawczy.",
+      "Borykam się z myślą o wystąpieniu z koalicji i pójściu całkowicie własną drogą polityczną."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Moją największą obawą jest to, że ...",
+    "translation": "My greatest fear is that ...",
+    "b1": [
+      "Moją największą obawą jest to, że zaciemni.",
+      "Moją największą obawą jest to, że spóźnię się na samolot.",
+      "Moją największą obawą jest to, że nie zdam testu.",
+      "Moją największą obawą jest to, że zgubię telefon.",
+      "Moją największą obawą jest to, że zapomnę słów."
+    ],
+    "b2": [
+      "Moją największą obawą jest to, że nasz projekt zostanie odrzucony przez inwestorów.",
+      "Moją największą obawą jest to, że stracę pracę w wyniku nadchodzącej restrukturyzacji.",
+      "Moją największą obawą jest to, że nie spełnię oczekiwań nowego zespołu.",
+      "Moją największą obawą jest to, że ukryta wada techniczna zniszczy cały produkt.",
+      "Moją największą obawą jest to, że stracę kontakt z przyjaciółmi po wyprowadzce."
+    ],
+    "c1": [
+      "Moją największą obawą jest to, że nieodwracalne zmiany klimatyczne przekroczą krytyczne punkty zwrotne.",
+      "Moją największą obawą jest to, że zautomatyzowane algorytmy całkowicie zdominują procesy decyzyjne w sądownictwie.",
+      "Moją największą obawą jest to, że kryzys geopolityczny doprowadzi do zerwania kluczowych łańcuchów dostaw.",
+      "Moją największą obawą jest to, że korupcja instytucjonalna zniweczy lata wysiłków reformatorskich.",
+      "Moją największą obawą jest to, że polaryzacja społeczna uniemożliwi wypracowanie jakiegokolwiek konsensusu."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Ta sytuacja sprawiła, że czuję się dość ...",
+    "translation": "This situation has left me feeling quite ...",
+    "b1": [
+      "Ta sytuacja sprawiła, że czuję się dość zagubiona.",
+      "Ta sytuacja sprawiła, że czuję się dość zmęczony.",
+      "Ta sytuacja sprawiła, że czuję się dość spokojna.",
+      "Ta sytuacja sprawiła, że czuję się dość zdezorientowany.",
+      "Ta sytuacja sprawiła, że czuję się dość bezpieczna."
+    ],
+    "b2": [
+      "Ta sytuacja sprawiła, że czuję się dość niepewnie odnośnie mojej przyszłości w firmie.",
+      "Ta sytuacja sprawiła, że czuję się dość bezradna wobec tych nagłych zmian.",
+      "Ta sytuacja sprawiła, że czuję się dość zaskoczony brakiem jakiejkolwiek reakcji ze strony szefostwa.",
+      "Ta sytuacja sprawiła, że czuję się dość sfrustrowana ciągłym przekładaniem terminów.",
+      "Ta sytuacja sprawiła, że czuję się dość przytłoczony natłokiem nowych obowiązków."
+    ],
+    "c1": [
+      "Ta sytuacja sprawiła, że czuję się dość osamotniona w obronie fundamentalnych zasad etyki zawodowej.",
+      "Ta sytuacja sprawiła, że czuję się dość sceptycznie nastawiony do deklarowanych intencji regulatora.",
+      "Ta sytuacja sprawiła, że czuję się dość zaniepokojona eskalacją napięć na linii zarząd-związki zawodowe.",
+      "Ta sytuacja sprawiła, że czuję się dość zdeterminowany, by przeprowadzić gruntowny audyt systemu.",
+      "Ta sytuacja sprawiła, że czuję się dość skonfundowany sprzecznymi sygnałami płynącymi z centrali."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Kraka mi się serce, kiedy widzę ...",
+    "translation": "It breaks my heart to see ...",
+    "b1": [
+      "Kraj mi się serce, kiedy widzę płaczące dziecko.",
+      "Pęka mi serce, kiedy widzę bezdomne zwierzęta.",
+      "Pęka mi serce, kiedy widzę zniszczony park.",
+      "Pęka mi serce, kiedy widzę samotną staruszkę.",
+      "Pęka mi serce, kiedy widzę zmarnowane jedzenie."
+    ],
+    "b2": [
+      "Pęka mi serce, kiedy widzę, jak ciężko pracują ci ludzie bez żadnych perspektyw na awans.",
+      "Pęka mi serce, kiedy widzę zamykające się małe, tradycyjne sklepy w naszej okolicy.",
+      "Pęka mi serce, kiedy widzę brak zainteresowania nauką u tak utalentowanej młodzieży.",
+      "Pęka mi serce, kiedy widzę, jak stres niszczy zdrowie moich bliskich współpracowników.",
+      "Pęka mi serce, kiedy widzę porzucone i zaniedbane tereny dawnej fabryki."
+    ],
+    "c1": [
+      "Pęka mi serce, kiedy widzę systemową marginalizację całych społeczności w oblicze cyfrowego wykluczenia.",
+      "Pęka mi serce, kiedy widzę nieodwracalne szkody wyrządzone unikalnym ekosystemom przez chciwość korporacji.",
+      "Pęka mi serce, kiedy widzę bezradność pacjentów w obliczu biurokratycznych absurdów systemu opieki.",
+      "Pęka mi serce, kiedy widzę instrumentalne traktowanie wartości demokratycznych przez populistycznych liderów.",
+      "Pęka mi serce, kiedy widzę niszczenie dorobku życia pokoleń przez bezsensowne konflikty zbrojne."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Szczerze podziwiam twoją siłę w ...",
+    "translation": "I genuinely admire your strength in ...",
+    "b1": [
+      "Szczerze podziwiam twoją siłę w tej trudnej sytuacji.",
+      "Szczerze podziwiam twoją siłę w codziennych treningach.",
+      "Szczerze podziwiam twoją siłę w nauce języków.",
+      "Szczerze podziwiam twoją siłę w opiece nad dziećmi.",
+      "Szczerze podziwiam twoją siłę w znoszeniu tej pogody."
+    ],
+    "b2": [
+      "Szczerze podziwiam twoją siłę w radzeniu sobie z tak wymagającym szefem.",
+      "Szczerze podziwiam twoją siłę w przezwyciężaniu kolejnych problemów zdrowotnych.",
+      "Szczerze podziwiam twoją siłę w utrzymaniu spokoju podczas wczorajszej awantury.",
+      "Szczerze podziwiam twoją siłę w łączeniu pracy na etacie z wychowywaniem czwórki dzieci.",
+      "Szczerze podziwiam twoją siłę w podnoszeniu się po tamtej bolesnej porażce biznesowej."
+    ],
+    "c1": [
+      "Szczerze podziwiam twoją siłę w obronie prawdy w obliczu zmasowanego ataku medialnego.",
+      "Szczerze podziwiam twoją siłę w zachowaniu niezależności sądowniczej pod ogromną presją polityczną.",
+      "Szczerze podziwiam twoją siłę w koordynowaniu tej skomplikowanej akcji ratunkowej w strefie kryzysu.",
+      "Szczerze podziwiam twoją siłę w godzeniu sprzecznych interesów silnych graczy podczas negocjacji.",
+      "Szczerze podziwiam twoją siłę w prowadzeniu badań nad tą niszową i kontrowersyjną teorią."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Głębsze znaczenie kryjące się za ... to ...",
+    "translation": "The deep meaning behind ... is ...",
+    "b1": [
+      "Głębsze znaczenie kryjące się za tym gestem to przyjaźń.",
+      "Głębsze znaczenie kryjące się za tym filmem to miłość.",
+      "Głębsze znaczenie kryjące się za tą historią to nadzieja.",
+      "Głębsze znaczenie kryjące się za tym prezentem to pamięć.",
+      "Głębsze znaczenie kryjące się za tym snem to zmiana."
+    ],
+    "b2": [
+      "Głębsze znaczenie kryjące się za tą decyzją zarządu to chęć ochrony stabilności finansowej.",
+      "Głębsze znaczenie kryjące się za tym wierszem to tęsknota za utraconą ojczyzną.",
+      "Głębsze znaczenie kryjące się za tą zmianą logo to otwarcie się na młodszego klienta.",
+      "Głębsze znaczenie kryjące się za tym protestem to sprzeciw wobec rosnących nierówności.",
+      "Głębsze znaczenie kryjące się za tą tradycją to przekazywanie wartości z pokolenia na pokolenie."
+    ],
+    "c1": [
+      "Głębsze znaczenie kryjące się za tą reformą konstytucyjną to całkowita przebudowa relacji na linii państwo-obywatel.",
+      "Głębsze znaczenie kryjące się za tym symbolicznym gestem dyplomatycznym to ciche uznanie stref wpływów.",
+      "Głębsze znaczenie kryjące się za tą rzeźbą awangardową to krytyka konsumpcjonizmu późnego kapitalizmu.",
+      "Głębsze znaczenie kryjące się za tą anomalią statystyczną to głęboki strukturalny kryzys zaufania.",
+      "Głębsze znaczenie kryjące się za tą deklaracją programową to próba redefinicji tożsamości całego ugrupowania."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Jestem absolutnie zdruzgotany / zdruzgotana z powodu ...",
+    "translation": "I'm absolutely devastated by ...",
+    "b1": [
+      "Jestem absolutnie zdruzgotana z powodu przegranego meczu.",
+      "Jestem absolutnie zdruzgotany z powodu złamanej nogi.",
+      "Jestem absolutnie zdruzgotana z powodu odwołanej wycieczki.",
+      "Jestem absolutnie zdruzgotany z powodu zgubionego telefonu.",
+      "Jestem absolutnie zdruzgotana z powodu tej tragicznej informacji."
+    ],
+    "b2": [
+      "Jestem absolutnie zdruzgotany z powodu nagłego zamknięcia naszego oddziału i zwolnień.",
+      "Jestem absolutnie zdruzgotana z powodu odrzucenia wniosku o dofinansowanie mojego projektu.",
+      "Jestem absolutnie zdruzgotany z powodu pożaru, który zniszczył dorobek całego życia.",
+      "Jestem absolutnie zdruzgotana z powodu zdrady osoby, której tak bardzo ufałam.",
+      "Jestem absolutnie zdruzgotany z powodu niepowodzenia kluczowego egzaminu zawodowego."
+    ],
+    "c1": [
+      "Jestem absolutnie zdruzgotana z powodu nagłej śmierci mojego mentora i wybitnego autorytetu naukowej.",
+      "Jestem absolutnie zdruzgotany z powodu unieważnienia wieloletnich wyników badań przez zarzuty o fałszowanie danych.",
+      "Jestem absolutnie zdruzgotana z powodu odrzucenia naszego kluczowego pozwu przez Sąd Najwyższy.",
+      "Jestem absolutnie zdruzgotany z powodu bankructwa funduszu powierniczego zarządzającego oszczędnościami życia.",
+      "Jestem absolutnie zdruzgotana z powodu zniszczenia bezcennego archiwum historycznego w wyniku zaniedbania."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Trudno ubrać w słowa radość, jaką czuję, gdy ...",
+    "translation": "It's hard to articulate the joy I feel when ...",
+    "b1": [
+      "Trudno ubrać w słowa radość, jaką czuję, gdy wracasz do domu.",
+      "Trudno ubrać w słowa radość, jaką czuję, gdy świeci słońce.",
+      "Trudno ubrać w słowa radość, jaką czuję, gdy spotykam przyjaciół.",
+      "Trudno ubrać w słowa radość, jaką czuję, gdy dostaję prezent.",
+      "Trudno ubrać w słowa radość, jaką czuję, gdy jedziemy na urlop."
+    ],
+    "b2": [
+      "Trudno ubrać w słowa radość, jaką czuję, gdy w końcu widzę efekty mojej ciężkiej pracy.",
+      "Trudno ubrać w słowa radość, jaką czuję, gdy udaje mi się komuś realnie pomóc.",
+      "Trudno ubrać w słowa radość, jaką czuję, gdy cała nasza rodzina zasiada do świątecznego stołu.",
+      "Trudno ubrać w słowa radość, jaką czuję, gdy odbieram dyplom ukończenia studiów.",
+      "Trudno ubrać w słowa radość, jaką czuję, gdy adoptowany pies w końcu mi zaufał."
+    ],
+    "c1": [
+      "Trudno ubrać w słowa radość, jaką czuję, gdy opublikowano monografię będącą zwieńczeniem dziesięciu lat badań.",
+      "Trudno ubrać w słowa radość, jaką czuję, gdy nasz zespół odniósł niespodziewane zwycięstwo w finale międzynarodowym.",
+      "Trudno ubrać w słowa radość, jaką czuję, gdy pacjent po latach cierpienia powraca do pełnej sprawności.",
+      "Trudno ubrać w słowa radość, jaką czuję, gdy udało się ocalić przed wyburzeniem ten unikalny zabytek.",
+      "Trudno ubrać w słowa radość, jaką czuję, gdy po raz pierwszy wzięłam na ręce moje zdrowe dziecko."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "To doświadczenie dało mi nowe spojrzenie na ...",
+    "translation": "This experience has given me a new perspective on ...",
+    "b1": [
+      "To doświadczenie dało mi nowe spojrzenie na naukę języków.",
+      "To doświadczenie dało mi nowe spojrzenie na codzienne obowiązki.",
+      "To doświadczenie dało mi nowe spojrzenie na moją rodzinę.",
+      "To doświadczenie dało mi nowe spojrzenie na spędzanie wolnego czasu.",
+      "To doświadczenie dało mi nowe spojrzenie na podróżowanie."
+    ],
+    "b2": [
+      "To doświadczenie dało mi nowe spojrzenie na znaczenie pracy zespołowej w kryzysowych momentach.",
+      "To doświadczenie dało mi nowe spojrzenie na potrzeby i oczekiwania naszych klientów.",
+      "To doświadczenie dało mi nowe spojrzenie na rolę zdrowia psychicznego w naszym życiu.",
+      "To doświadczenie dało mi nowe spojrzenie na zarządzanie domowym budżetem.",
+      "To doświadczenie dało mi nowe spojrzenie na edukację zdalną i jej możliwości."
+    ],
+    "c1": [
+      "To doświadczenie dało mi nowe spojrzenie na mechanizmy funkcjonowania dyplomacji międzynarodowej w czasie konfliktu.",
+      "To doświadczenie dało mi nowe spojrzenie na etyczne dylematy związane z wdrażaniem sztucznej inteligencji.",
+      "To doświadczenie dało mi nowe spojrzenie na strukturalne przyczyny nierówności społecznych w rozwiniętych gospodarkach.",
+      "To doświadczenie dało mi nowe spojrzenie na relację między niezależnością twórczą a komercjalizacją sztuki.",
+      "To doświadczenie dało mi nowe spojrzenie na paradygmat zrównoważonego rozwoju w architekturze miejskiej."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Czuję ogromną ulgę, że ...",
+    "translation": "I feel an immense sense of relief that ...",
+    "b1": [
+      "Czuję ogromną ulgę, że zdążyłem na pociąg.",
+      "Czuję ogromną ulgę, że pogoda się poprawiła.",
+      "Czuję ogromną ulgę, że znalazłem zgubioną kartę.",
+      "Czuję ogromną ulgę, że egzamin już minął.",
+      "Czuję ogromną ulgę, że zdążyłem na czas."
+    ],
+    "b2": [
+      "Czuję ogromną ulgę, że operacja mojego brata przebiegła całkowicie bez powikłań.",
+      "Czuję ogromną ulgę, że udało nam się oddać ten krytyczny raport przed ostatecznym terminem.",
+      "Czuję ogromną ulgę, że zgubiony pies został w końcu odnaleziony cały i zdrowy.",
+      "Czuję ogromną ulgę, że kontrola skarbowa w naszej firmie nie wykazała żadnych nieprawidłowości.",
+      "Czuję ogromną ulgę, że konflikt z sąsiadem został polubownie rozwiązany."
+    ],
+    "c1": [
+      "Czuję ogromną ulgę, że Sąd Najwyższy podtrzymał wyrok chroniący nasze prawa autorskie.",
+      "Czuję ogromną ulgę, że niezależna komisja śledcza oczyściła mnie z wszelkich bezpodstawnych zarzutów.",
+      "Czuję ogromną ulgę, że po trwających miesiącach negocjacji wreszcie sfinalizowano fuzję strategiczną.",
+      "Czuję ogromną ulgę, że międzynarodowi eksperci potwierdzili pełne bezpieczeństwo ekologiczne naszej inwestycji.",
+      "Czuję ogromną ulgę, że trudna procedura notyfikacji w urzędzie unijnym zakończyła się sukcesem."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Od czasu ... towarzyszy mi poczucie pustki.",
+    "translation": "There is a feeling of emptiness since ...",
+    "b1": [
+      "Od czasu wyprowadzki towarzyszy mi poczucie pustki.",
+      "Od czasu zakończenia szkoły towarzyszy mi poczucie pustki.",
+      "Od czasu twojego wyjazdu towarzyszy mi poczucie pustki.",
+      "Od czasu zamknięcia kina towarzyszy mi poczucie pustki.",
+      "Od czasu tego snu towarzyszy mi poczucie pustki."
+    ],
+    "b2": [
+      "Od czasu odejścia naszego głównego menedżera towarzyszy mi poczucie pustki w dziale.",
+      "Od czasu zakończenia pracy nad tym fascynującym projektem towarzyszy mi poczucie pustki.",
+      "Od czasu, gdy dzieci wyjechały na studia, w naszym domu towarzyszy mi poczucie pustki.",
+      "Od czasu odwołania festiwalowych koncertów towarzyszy mi poczucie pustki na rynku.",
+      "Od czasu rozstania z wieloletnimi przyjaciółmi towarzyszy mi poczucie pustki."
+    ],
+    "c1": [
+      "Od czasu nagłego zamknięcia wydziału humanistycznego towarzyszy mi poczucie pustki w strukturach uniwersytetu.",
+      "Od czasu radykalnego cięcia funduszy na badania towarzyszy mi poczucie pustki w naszym instytucie.",
+      "Od czasu śmierci wybitnego profesora towarzyszy mi poczucie pustki w polskim środowisku naukowym.",
+      "Od czasu wygaszenia tamtej tradycyjnej gałęzi przemysłu w regionie towarzyszy mi poczucie pustki gospodarczej.",
+      "Od czasu bezpowrotnego zniszczenia tamtego unikalnego archiwum towarzyszy mi poczucie pustki historycznej."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Biorę na siebie pełną odpowiedzialność za to, że czuję się ...",
+    "translation": "I take full responsibility for my feeling of ...",
+    "b1": [
+      "Biorę na siebie pełną odpowiedzialność za to, że czuję się zagubiony.",
+      "Biorę na siebie pełną odpowiedzialność za to, że czuję się zmęczona.",
+      "Biorę na siebie pełną odpowiedzialność za to, że czuję się rozczarowany.",
+      "Biorę na siebie pełną odpowiedzialność za to, że czuję się samotna.",
+      "Biorę na siebie pełną odpowiedzialność za to, że czuję się nieprzygotowany."
+    ],
+    "b2": [
+      "Biorę na siebie pełną odpowiedzialność za to, że czuję się wypalony zawodowo po tym roku.",
+      "Biorę na siebie pełną odpowiedzialność za to, że czuję się winna zaniedbania relacji z rodziną.",
+      "Biorę na siebie pełną odpowiedzialność za to, że czuję się bezradna wobec własnych nawyków.",
+      "Biorę na siebie pełną odpowiedzialność za to, że czuję się sfrustrowany brakiem postępów w nauce.",
+      "Biorę na siebie pełną odpowiedzialność za to, że czuję się niepewnie z powodu braku organizacji."
+    ],
+    "c1": [
+      "Biorę na siebie pełną odpowiedzialność za to, że czuję się intelektualnie odizolowany w tej strukturze.",
+      "Biorę na siebie pełną odpowiedzialność za to, że czuję się moralnie zobowiązany do złożenia dymisji.",
+      "Biorę na siebie pełną odpowiedzialność za to, że czuję się emocjonalnie wycieńczony tą batalią prawną.",
+      "Biorę na siebie pełną odpowiedzialność za to, że czuję się professionally niedostosowany do nowej ery.",
+      "Biorę na siebie pełną odpowiedzialność za to, że czuję się permanentnie przebodźcowany informacyjnie."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Intensywność tej sytuacji sprawiła, że poczułem / poczułam ...",
+    "translation": "The intensity of the situation made me feel ...",
+    "b1": [
+      "Intensywność tej sytuacji sprawiła, że poczułam ogromny strach.",
+      "Intensywność tej sytuacji sprawiła, že poczułem totalną pustkę w głowie.",
+      "Intensywność tej sytuacji sprawiła, że poczułam wielką ulgę.",
+      "Intensywność tej sytuacji sprawiła, że poczułem dreszcz emocji.",
+      "Intensywność tej sytuacji sprawiła, że poczułam nagłą złość."
+    ],
+    "b2": [
+      "Intensywność tej sytuacji sprawiła, że poczułam potrzebę natychmiastowej ucieczki od problemów.",
+      "Intensywność tej sytuacji sprawiła, że poczułem dziwny spokój tuż przed ogłoszeniem wyniku.",
+      "Intensywność tej sytuacji sprawiła, że poczułam ogromną dumę z naszej odporności psychicznej.",
+      "Intensywność tej sytuacji sprawiła, że poczułem totalne zagubienie w gąszczu nowych reguł.",
+      "Intensywność tej sytuacji sprawiła, že poczułam głęboką wdzięczność wobec stojących za mną ludzi."
+    ],
+    "c1": [
+      "Intensywność tej sytuacji sprawiła, że poczułem metafizyczny dystans do wszelkich ziemskich ambicji zawodowych.",
+      "Intensywność tej sytuacji sprawiła, że poczułam absolutną klarowność co do konieczności radykalnej zmiany.",
+      "Intensywność tej sytuacji sprawiła, że poczułem paraliżujący brak wpływu na bieg nieuchronnych wydarzeń.",
+      "Intensywność tej sytuacji sprawiła, że poczułam mistyczne zjednoczenie z grupą walczącą o wspólną sprawę.",
+      "Intensywność tej sytuacji sprawiła, że poczułem nagłe uwolnienie od chronicznego lęku przed porażką."
+    ]
+  }
+]

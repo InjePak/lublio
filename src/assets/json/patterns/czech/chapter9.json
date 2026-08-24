@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Každé ráno obvykle ...",
+    "translation": "Every morning, I usually ...",
+    "b1": [
+      "Každé ráno obvykle snídám v kuchyni.",
+      "Každé ráno obvykle pijeme černý čaj.",
+      "Každé ráno obvykle poslouchám r",
+      "Každé ráno obvykle cvičím dvacet minut.",
+      "Každé ráno obvykle čtu zprávy."
+    ],
+    "b2": [
+      "Každé ráno obvykle začínám den krátkou meditací.",
+      "Každé ráno obvykle kontroluji nejdůležitější e-maily.",
+      "Každé ráno obvykle připravuji čerstvou kávu pro celou rodinu.",
+      "Každé ráno obvykle větrám všechny místnosti v bytě.",
+      "Každé ráno obvykle plánuji své úkoly na nadcházející den."
+    ],
+    "c1": [
+      "Každé ráno obvykle provádím detailní analýzu klíčových ukazatelů výkonnosti.",
+      "Každé ráno obvykle syntetizuji nejnovější globální trendy před zahájením porady.",
+      "Každé ráno obvykle zahajuji den systematickým přehledem odborné literatury.",
+      "Každé ráno obvykle optimalizuji svůj harmonogram podle aktuálních priorit.",
+      "Každé ráno obvykle vyhodnocuji rizika spojená s probíhajícími projekty."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Mívám ve zvyku ..., když ...",
+    "translation": "I tend to ... when ...",
+    "b1": [
+      "Mívám ve zvyku pít čaj, když pracuji.",
+      "Mívám ve zvyku poslouchat hudbu, když uklízím.",
+      "Mívám ve zvyku číst knihu, když jsem unavený.",
+      "Mívám ve zvyku jít ven, když svítí slunce.",
+      "Mívám ve zvyku vařit doma, když mám volno."
+    ],
+    "b2": [
+      "Mívám ve zvyku odkládat složité úkoly, když nemám dostatek klidu.",
+      "Mívám ve zvyku konzultovat rozhodnutí s kolegy, když si nejsem jistý.",
+      "Mívám ve zvyku vypínat telefon, když potřebuji hlubokou soustředěnost.",
+      "Mívám ve zvyku zapisovat si nápady, když mě něco napadne na cestách.",
+      "Mívám ve zvyku revidovat rozpočet, když končí kalendářní měsíc."
+    ],
+    "c1": [
+      "Mívám ve zvyku aplikovat heuristické modely, když čelím nejednoznačným datům.",
+      "Mívám ve zvyku delegovat operativní řízení, když se horizontálně rozšiřují kompetence.",
+      "Mívám ve zvyku redefinovávat strategické cíle, když externí faktory naruší trh.",
+      "Mívám ve zvyku provádět důkladný audit procesů, když se vyskytne systémová chyba.",
+      "Mívám ve zvyku zpochybňovat zažitá dogmata, když hledám inovativní řešení."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Zpravidla nikdy ...",
+    "translation": "As a rule, I never ...",
+    "b1": [
+      "Zpravidla nikdy piji kávu pozdě večer.",
+      "Zpravidla nikdy nechodím spát po půlnoci.",
+      "Zpravidla nikdy nekupuji věci bez přemýšlení.",
+      "Zpravidla nikdy nejím maso k večeři.",
+      "Zpravidla nikdy nezapomínám na narozeniny."
+    ],
+    "b2": [
+      "Zpravidla nikdy neodepisuji na pracovní maily o víkendu.",
+      "Zpravidla nikdy neslibuji to, co nemohu splnit.",
+      "Zpravidla nikdy neměním názor bez podložených argumentů.",
+      "Zpravidla nikdy nepodceňuji přípravu před důležitou schůzkou.",
+      "Zpravidla nikdy nenechávám věci na poslední chvíli."
+    ],
+    "c1": [
+      "Zpravidla nikdy nekompromituji etické standardy kvůli krátkodobému zisku.",
+      "Zpravidla nikdy neuzavírám smlouvy bez předchozí právní revize.",
+      "Zpravidla nikdy nepřeceňuji prediktivní přesnost makroekonomických modelů.",
+      "Zpravidla nikdy neschvaluji rozpočet bez podrobné nákladové analýzy.",
+      "Zpravidla nikdy neignoruji zpětnou vazbu od klíčových stakeholderů."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Dávám si záležet na tom, abych ... alespoň jednou denně.",
+    "translation": "I make it a point to ... at least once a day.",
+    "b1": [
+      "Dávám si záležet na tom, abych vypil sklenici vody alespoň jednou denně.",
+      "Dávám si záležet na tom, abych mluvil česky alespoň jednou denně.",
+      "Dávám si záležet na tom, abych se prošel venku alespoň jednou denně.",
+      "Dávám si záležet na tom, abych snědl ovoce alespoň jednou denně.",
+      "Dávám si záležet na tom, abych zavolal mamince alespoň jednou denně."
+    ],
+    "b2": [
+      "Dávám si záležet na tom, abych si udělal přestávku na protažení alespoň jednou denně.",
+      "Dávám si záležet na tom, abych zkontroloval stav svých financí alespoň jednou denně.",
+      "Dávám si záležet na tom, abych si přečetl novou stránku slovní zásoby alespoň jednou denně.",
+      "Dávám si záležet na tom, abych uklidil svůj pracovní stůl alespoň jednou denně.",
+      "Dávám si záležet na tom, abych se podíval na čerstvé zprávy alespoň jednou denně."
+    ],
+    "c1": [
+      "Dávám si záležet na tom, abych provedl krátkou sebereflexi své produktivity alespoň jednou denně.",
+      "Dávám si záležet na tom, abych ověřil integritu zálohovaných dat alespoň jednou denně.",
+      "Dávám si záležet na tom, abych korigoval směřování probíhajících projektů alespoň jednou denně.",
+      "Dávám si záležet na tom, abych analyzoval nové tržní metriky alespoň jednou denně.",
+      "Dávám si záležet na tom, abych optimalizoval komunikační kanály v týmu alespoň jednou denně."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Než cokoliv jiného, vždycky ...",
+    "translation": "Before anything else, I always ...",
+    "b1": [
+      "Než cokoliv jiného, vždycky si umyju obličej.",
+      "Než cokoliv jiného, vždycky si dám ranní kávu.",
+      "Než cokoliv jiného, vždycky zkontroluji telefon.",
+      "Než cokoliv jiného, vždycky otevřu okno.",
+      "Než cokoliv jiného, vždycky nakrmím kočku."
+    ],
+    "b2": [
+      "Než cokoliv jiného, vždycky si projdu seznam úkolů na dnešek.",
+      "Než cokoliv jiného, vždycky zkontroluji stav mého bankovního účtu.",
+      "Než cokoliv jiného, vždycky si protáhnu tělo cvičením.",
+      "Než cokoliv jiného, vždycky si připravím čistý pracovní stůl.",
+      "Než cokoliv jiného, vždycky si utřídím myšlenky v tichu."
+    ],
+    "c1": [
+      "Než cokoliv jiného, vždycky vyhodnotím kritická systémová hlášení.",
+      "Než cokoliv jiného, vždycky provedu sken bezpečnostních incidentů.",
+      "Než cokoliv jiného, vždycky stanovím priority pro nadcházející maraton schůzek.",
+      "Než cokoliv jiného, vždycky analyzuji overnight změny na finančních trzích.",
+      "Než cokoliv jiného, vždycky zkontroluji aktuální legislativní novely."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Zvykl jsem si na ...",
+    "translation": "I've gotten into the habit of ...",
+    "b1": [
+      "Zvykl jsem si na ranní běhání.",
+      "Zvykl jsem si na pití čisté vody.",
+      "Zvykl jsem si na brzké vstávání.",
+      "Zvykl jsem si na psaní deníku.",
+      "Zvykl jsem si na vaření večeře."
+    ],
+    "b2": [
+      "Zvykl jsem si na pravidelné zálohování souborů.",
+      "Zvykl jsem si na čtení odborných článků před spaním.",
+      "Zvykl jsem si na používání digitálního kalendáře.",
+      "Zvykl jsem si na večerní procházky po městě.",
+      "Zvykl jsem si na odmítání zbytečných schůzek."
+    ],
+    "c1": [
+      "Zvykl jsem si na rigorózní ověřování zdrojů informací.",
+      "Zvykl jsem si na aplikaci agilních metodik v osobním životě.",
+      "Zvykl jsem si na systematické mapování konkurenčních strategií.",
+      "Zvykl jsem si na důslednou deeskalaci konfliktních situací.",
+      "Zvykl jsem si na pravidelnou revizi dlouhodobých investic."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Moje rutina obvykle zahrnuje ...",
+    "translation": "My routine typically involves ...",
+    "b1": [
+      "Moje rutina obvykle zahrnuje ranní kávu a čtení.",
+      "Moje rutina obvykle zahrnuje procházku se psem.",
+      "Moje rutina obvykle zahrnuje cvičení a sprchu.",
+      "Moje rutina obvykle zahrnuje nákup čerstvých potravin.",
+      "Moje rutina obvykle zahrnuje sledování večerních zpráv."
+    ],
+    "b2": [
+      "Moje rutina obvykle zahrnuje ranní poradu s týmem a kontrolu mailů.",
+      "Moje rutina obvykle zahrnuje hodinu intenzivního studia cizího jazyka.",
+      "Moje rutina obvykle zahrnuje přípravu jídel na celý nadcházející den.",
+      "Moje rutina obvykle zahrnuje odpolední protažení a krátkou relaxaci.",
+      "Moje rutina obvykle zahrnuje týdenní vyhodnocení dosažených cílů."
+    ],
+    "c1": [
+      "Moje rutina obvykle zahrnuje křížovou kontrolu finančních výkazů.",
+      "Moje rutina obvykle zahrnuje syntézu dat z různých analytických nástrojů.",
+      "Moje rutina obvykle zahrnuje hloubkovou inspekci technologické infrastruktury.",
+      "Moje rutina obvykle zahrnuje komplexní audit bezpečnostních protokolů.",
+      "Moje rutina obvykle zahrnuje strategickou revizi portfolia projektů."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Většinou se v noci přistihnu při tom, že ...",
+    "translation": "Most evenings, I find myself ...",
+    "b1": [
+      "Většinou se večer přistihnu při tom, že jím sladkosti.",
+      "Většinou se večer přistihnu při tom, že sleduji seriály.",
+      "Většinou se večer přistihnu při tom, že myslím na práci.",
+      "Většinou se večer přistihnu při tom, že koukám z okna.",
+      "Většinou se večer přistihnu při tom, že čtu telefon."
+    ],
+    "b2": [
+      "Většinou se večer přistihnu při tom, že odpovídám na pozdní pracovní e-maily.",
+      "Většinou se večer přistihnu při tom, že přemýšlím o zítřejších úkolech.",
+      "Většinou se večer přistihnu při tom, že bezcílně listuji sociálními sítěmi.",
+      "Většinou se večer přistihnu při tom, že plánuji víkendový výlet.",
+      "Většinou se večer přistihnu při tom, že poslouchám dlouhý podcast."
+    ],
+    "c1": [
+      "Většinou se večer přistihnu při tom, že mentálně dekonstruuji dnešní obchodní vyjednávání.",
+      "Většinou se večer přistihnu při tom, že koriguji koncepty připravované strategie.",
+      "Většinou se večer přistihnu při tom, že analyzuji makroekonomické dopady zpráv.",
+      "Většinou se večer přistihnu při tom, že studuji mezinárodní tržní trendy.",
+      "Většinou se večer přistihnu při tom, že optimalizuji kód pro nový projekt."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "To, co často dělám, je, že ...",
+    "translation": "What I often do is ...",
+    "b1": [
+      "To, co často dělám, je, že piji vodu s citronem.",
+      "To, co často dělám, je, že chodím do parku.",
+      "To, co často dělám, je, że poslouchám hudbu nahlas.",
+      "To, co často dělám, je, že peču domácí chléb.",
+      "To, co často dělám, je, že píšu seznam úkolů."
+    ],
+    "b2": [
+      "To, co často dělám, je, že si rozdělím velký úkol na menší části.",
+      "To, co často dělám, je, že volám rodičům během obědové pauzy.",
+      "To, co často dělám, je, že si zapisuji nové nápady do sešitu.",
+      "To, co často dělám, je, že měním cestu domů, abych viděl něco nového.",
+      "To, co často dělám, je, že omezuji čas strávený na telefonu."
+    ],
+    "c1": [
+      "To, co často dělám, je, že provádím radikální revizi zbytečných procesů.",
+      "To, co často dělám, je, že testuji hypotézy na reálných klientských datech.",
+      "To, co často dělám, je, že aplikuji principy krizového řízení s předstihem.",
+      "To, co často dělám, je, že vyhledávám externí oponenturu pro své názory.",
+      "To, co často dělám, je, že transformuji komplexní výstupy do srozumitelných vizualizací."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Málokdy vynechávám ...",
+    "translation": "I rarely skip the step of ...",
+    "b1": [
+      "Málokdy vynechávám ranní kávu.",
+      "Málokdy vynechávám čištění zubů.",
+      "Málokdy vynechávám snídani.",
+      "Málokdy vynechávám víkendový odpočinek.",
+      "Málokdy vynechávám večerní procházku."
+    ],
+    "b2": [
+      "Málokdy vynechávám ranní protažení těla.",
+      "Málokdy vynechávám kontrolu finančního rozpočtu.",
+      "Málokdy vynechávám čtení zpráv před prací.",
+      "Málokdy vynechávám přípravu oblečení na další den.",
+      "Málokdy vynechávám pitný režim během dne."
+    ],
+    "c1": [
+      "Málokdy vynechávám pravidelný audit kybernetické bezpečnosti.",
+      "Málokdy vynechávám detailní analýzu zpětné vazby od klíčových klientů.",
+      "Málokdy vynechávám právní kontrolu nových smluvních podmínek.",
+      "Málokdy vynechávám průběžnou kalibraci interních metrik.",
+      "Málokdy vynechávám systematickou přípravu na krizové scénáře."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Je pro mě denním rituálem, že ...",
+    "translation": "It's a daily ritual for me to ...",
+    "b1": [
+      "Je pro mě denním rituálem, že si dám kávu na balkou.",
+      "Je pro mě denním rituálem, že si pustím dobrou hudbu.",
+      "Je pro mě denním rituálem, že se projdu se psem.",
+      "Je pro mě denním rituálem, že si přečtu kapitolu knížky.",
+      "Je pro mě denním rituálem, že napíšu zprávu rodině."
+    ],
+    "b2": [
+      "Je pro mě denním rituálem, že strávím půl hodiny učením cizího jazyka.",
+      "Je pro mě denním rituálem, že si na konci dne uklidím stůl.",
+      "Je pro mě denním rituálem, že si v klidu vychutnám snídani bez telefonu.",
+      "Je pro mě denním rituálem, že zhodnotím splněné denní cíle.",
+      "Je pro mě denním rituálem, že si před spaním vyvětrám ložnici."
+    ],
+    "c1": [
+      "Je pro mě denním rituálem, že provedu rekapitulaci strategických cílů.",
+      "Je pro mě denním rituálem, že zanalyzuji denní odchylky v klíčových metrikách.",
+      "Je pro mě denním rituálem, že věnuji čas tichému hlubokému promýšlení.",
+      "Je pro mě denním rituálem, že ověřím stav všech záložních systémů.",
+      "Je pro mě denním rituálem, že koriguji harmonogram s ohledem na nepředvídané události."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Obvykle na to navazuji tím, že ...",
+    "translation": "I usually follow that up with ...",
+    "b1": [
+      "Obvykle na to navazuji tím, že jdu do sprchy.",
+      "Obvykle na to navazuji tím, že si pustím televizi.",
+      "Obvykle na to navazuji tím, že začnu vařit oběd.",
+      "Obvykle na to navazuji tím, že si obléknu kabát.",
+      "Obvykle na to navazuji tím, že zamknu dveře."
+    ],
+    "b2": [
+      "Obvykle na to navazuji tím, že si sednu k vyřizování e-mailů.",
+      "Obvykle na to navazuji tím, že naplánuji odpolední schůzky.",
+      "Obvykle na to navazuji tím, že vyrazím na pravidelný nákup.",
+      "Obvykle na to navazuji tím, že zapnu počítač a zkontroluji úkoly.",
+      "Obvykle na to navazuji tím, že si připravím odpolední svačinu."
+    ],
+    "c1": [
+      "Obvykle na to navazuji tím, že svolám operativní poradu vedoucích sekcí.",
+      "Obvykle na to navazuji tím, že iniciuji proces schvalování rozpočtu.",
+      "Obvykle na to navazuji tím, že odesílám strukturovaný report managementu.",
+      "Obvykle na to navazuji tím, že aktivuji krizový komunikační protokol.",
+      "Obvykle na to navazuji tím, že implementuji schválené systémové změny."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Bezpodmínečně každý den ...",
+    "translation": "Without fail, every ...",
+    "b1": [
+      "Bezpodmínečně každý den vypiji dva litry vody.",
+      "Bezpodmínečně každý den jdu na čerstvý vzduch.",
+      "Bezpodmínečně každý den si vyčistím zuby třikrát.",
+      "Bezpodmínečně každý den zavolám babičce.",
+      "Bezpodmínečně každý den poslouchám písničky."
+    ],
+    "b2": [
+      "Bezpodmínečně každý den si najdu čas na čtení knihy.",
+      "Bezpodmínečně každý den zkontroluji stav svých úkolů.",
+      "Bezpodmínečně každý den věnuji alespoň chvíli procvičování slovíček.",
+      "Bezpodmínečně každý den si jdu na chvíli zacvičit.",
+      "Bezpodmínečně každý den projdu své finanční výdaje."
+    ],
+    "c1": [
+      "Bezpodmínečně každý den provádím monitoring klíčových ekonomických indikátorů.",
+      "Bezpodmínečně každý den validuji bezpečnostní certifikáty serverů.",
+      "Bezpodmínečně každý den kontroluji plnění legislativních povinností firmy.",
+      "Bezpodmínečně každý den zajišťuji bezpečné zálohování klientských dat.",
+      "Bezpodmínečně každý den hodnotím efektivitu nastavených procesů."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Neustále se snažím pamatovat na to, abych ...",
+    "translation": "I'm constantly trying to remember to ...",
+    "b1": [
+      "Neustále se snažím pamatovat na to, abych zamknul dveře.",
+      "Neustále se snažím pamatovat na to, abych koupil chléb.",
+      "Neustále se snažím pamatovat na to, abych vzal klíče.",
+      "Neustále se snažím pamatovat na to, abych vypnul světla.",
+      "Neustále se snažím pamatovat na to, abych zavřel okno."
+    ],
+    "b2": [
+      "Neustále se snažím pamatovat na to, abych pil dostatek vody během práce.",
+      "Neustále se snažím pamatovat na to, abych dělal přestávky na protažení očí.",
+      "Neustále se snažím pamatovat na to, abych odpovídal na zprávy včas.",
+      "Neustále se snažím pamatovat na to, abych nenechával nabíječku v zásuvce.",
+      "Neustále se snažím pamatovat na to, abych si zapisoval nápady."
+    ],
+    "c1": [
+      "Neustále se snažím pamatovat na to, abych dodržoval zásady kybernetické hygieny.",
+      "Neustále se snažím pamatovat na to, abych minimalizoval kognitivní zkreslení v analýzách.",
+      "Neustále se snažím pamatovat na to, abych udržoval transparentní komunikaci s týmem.",
+      "Neustále se snažím pamatovat na to, abych nezanedbával dlouhodobé strategické cíle kvůli operativě.",
+      "Neustále se snažím pamatovat na to, abych chránil důvěrná data před únikem."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Můj zvyk vznikl proto, že ...",
+    "translation": "My habit developed because ...",
+    "b1": [
+      "Můj zvyk vznikl proto, že jsem chtěl být zdravý.",
+      "Můj zvyk vznikl proto, že nemám rád ranní shon.",
+      "Můj zvyk vznikl proto, že mi to poradil lékař.",
+      "Můj zvyk vznikl proto, že to tak dělala maminka.",
+      "Můj zvyk vznikl proto, že mi to šetří peníze."
+    ],
+    "b2": [
+      "Můj zvyk vznikl proto, že mi pomáhá lépe se soustředit v práci.",
+      "Můj zvyk vznikl proto, že jsem chtěl snížit míra každodenního stresu.",
+      "Můj zvyk vznikl proto, že mi to doporučil můj osobní trenér.",
+      "Můj zvyk vznikl proto, že jsem potřeboval mít lepší přehled o čase.",
+      "Můj zvyk vznikl proto, že starý způsob organizace už nefungoval."
+    ],
+    "c1": [
+      "Můj zvyk vznikl proto, že jsem potřeboval optimalizovat časovou efektivitu při růstu firmy.",
+      "Můj zvyk vznikl proto, že jsem chtěl eliminovat opakované lidské chyby v datech.",
+      "Můj zvyk vznikl proto, že externí tržní prostředí vyžadovalo rychlejší adaptaci.",
+      "Můj zvyk vznikl proto, že jsem identifikoval slabá místa v původním workflow.",
+      "Můj zvyk vznikl proto, že dlouhodobá data potvrdila vyšší úspěšnost tohoto postupu."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Obvykle si vyhrazuji čas na ...",
+    "translation": "I usually allocate time for ...",
+    "b1": [
+      "Obvykle si vyhrazuji čas na odpočinek.",
+      "Obvykle si vyhrazuji čas na čtení.",
+      "Obvykle si vyhrazuji čas na sport.",
+      "Obvykle si vyhrazuji čas na vaření.",
+      "Obvykle si vyhrazuji čas na úklid."
+    ],
+    "b2": [
+      "Obvykle si vyhrazuji čas na studium nových technologií.",
+      "Obvykle si vyhrazuji čas na osobní rozvoj a koníčky.",
+      "Obvykle si vyhrazuji čas na týdenní plánování schůzek.",
+      "Obvykle si vyhrazuji čas na neformální rozhovory s kolegy.",
+      "Obvykle si vyhrazuji čas na pravidelnou regeneraci po práci."
+    ],
+    "c1": [
+      "Obvykle si vyhrazuji čas na hloubkovou strategickou analýzu trhu.",
+      "Obvykle si vyhrazuji čas na rešpektování etických aspektů probíhajících projektů.",
+      "Obvykle si vyhrazuji čas na komplexní supervizi svěřených týmů.",
+      "Obvykle si vyhrazuji čas na osobní mentální restart před krizovými jednáními.",
+      "Obvykle si vyhrazuji čas na studium legislativních změn v oboru."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Stalo se mi to druhou přirozeností, ...",
+    "translation": "It's become second nature to me to ...",
+    "b1": [
+      "Stalo se mi to druhou přirozeností, zdravit lidi na ulici.",
+      "Stalo se mi to druhou přirozeností, zhasínat světla po odchodu.",
+      "Stalo se mi to druhou přirozeností, třídit domovní odpad.",
+      "Stalo se mi to druhou přirozeností, pít kávu bez cukru.",
+      "Stalo se mi to druhou přirozeností, chodit všude včas."
+    ],
+    "b2": [
+      "Stalo se mi to druhou přirozeností, dělat si zálohy důležitých souborů.",
+      "Stalo se mi to druhou přirozeností, kontrolovat si pravopis před odesláním.",
+      "Stalo se mi to druhou přirozeností, plánovat si harmonogram na týden dopředu.",
+      "Stalo se mi to druhou přirozeností, vyjadřovat názor věcně a klidně.",
+      "Stalo se mi to druhou přirozeností, vypínat telefon během soustředěné práce."
+    ],
+    "c1": [
+      "Stalo se mi to druhou přirozeností, kriticky posuzovat pravdivost mediálních zpráv.",
+      "Stalo se mi to druhou přirozeností, okamžitě identifikovat skrytá systémová rizika.",
+      "Stalo se mi to druhou přirozeností, deeskalovat napětí v komunikačních rozepřích.",
+      "Stalo se mi to druhou přirozeností, automaticky aplikovat data do rozhodovacích procesů.",
+      "Stalo se mi to druhou přirozeností, přistupovat ke každému problému analyticky."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Můj typický pracovní den začíná tím, že ...",
+    "translation": "My typical workday starts with ...",
+    "b1": [
+      "Můj typický pracovní den začíná tím, že vypiji šálek kávy.",
+      "Můj typický pracovní den začíná tím, že zapnu počítač.",
+      "Můj typický pracovní den začíná tím, že zkontroluji maily.",
+      "Můj typický pracovní den začíná tím, že otevřu kancelář.",
+      "Můj typický pracovní den začíná tím, že si sednu ke stolu."
+    ],
+    "b2": [
+      "Můj typický pracovní den začíná tím, že si projdu seznam urgentních úkolů.",
+      "Můj typický pracovní den začíná tím, že se připojím na ranní stand-up poradu.",
+      "Můj typický pracovní den začíná tím, že si vytřídím příchozí zprávy.",
+      "Můj typický pracovní den začíná tím, že zkontroluji stav běžících projektů.",
+      "Můj typický pracovní den začíná tím, že si naplánuji časové bloky."
+    ],
+    "c1": [
+      "Můj typický pracovní den začíná tím, že vyhodnotím noční výstupy automatizovaných procesů.",
+      "Můj typický pracovní den začíná tím, že provedu prioritizaci krizových tiketů.",
+      "Můj typický pracovní den začíná tím, že analyzuji ranní finanční futures a indexy.",
+      "Můj typický pracovní den začíná tím, že reviduji bezpečnostní protokoly serveru.",
+      "Můj typický pracovní den začíná tím, že synchronizuji harmonogram s exekutivním týmem."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Snažím se co nejvíce vyhýbat ...",
+    "translation": "I try to avoid ... as much as possible.",
+    "b1": [
+      "Snažím se co nejvíce vyhýbat sladkým jídlům.",
+      "Snažím se co nejvíce vyhýbat ranní dopravní zácpě.",
+      "Snažím se co nejvíce vyhýbat stresovým situacím.",
+      "Snažím se co nejvíce vyhýbat pozdnímu spánku.",
+      "Snažím se co nejvíce vyhýbat nákupům o víkendu."
+    ],
+    "b2": [
+      "Snažím se co nejvíce vyhýbat zbytečnému vyřizování e-mailů.",
+      "Snažím se co nejvíce vyhýbat prokrastinaci během pracovního dopoledne.",
+      "Snažím se co nejvíce vyhýbat neefektivním a dlouhým schůzkám.",
+      "Snažím se co nejvíce vyhýbat nákupu zbytečných věcí v slevách.",
+      "Snažím se co nejvíce vyhýbat konzumaci těžkých jídel večer."
+    ],
+    "c1": [
+      "Snažím se co nejvíce vyhýbat neověřeným domněnkám při strategickém plánování.",
+      "Snažím se co nejvíce vyhýbat systémové duplicitě v procesech.",
+      "Snažím se co nejvíce vyhýbat kognitivní únavě způsobené multitaskingem.",
+      "Snažím se co nejvíce vyhýbat právním rizikům spojeným s nejasnými smlouvami.",
+      "Snažím se co nejvíce vyhýbat centralizovaným úzkým hrdlům v komunikaci."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Poslední věc, kterou dělám před ..., je ...",
+    "translation": "The last thing I do before ..., is ...",
+    "b1": [
+      "Poslední věc, kterou dělám před spaním, je vypnutí světla.",
+      "Poslední věc, kterou dělám před odchodem, je kontrola klíčů.",
+      "Poslední věc, kterou dělám před jídlem je umytí rukou.",
+      "Poslední věic, kterou dělám před startem, je nadechnutí.",
+      "Poslední věc, kterou dělám před zkouškou, je opakování."
+    ],
+    "b2": [
+      "Poslední věc, kterou dělám před odchodem z kanceláře, je kontrola všech oken.",
+      "Poslední věc, kterou dělám před spánkem, je vypnutí všech obrazovek.",
+      "Poslední věic, kterou dělám před důležitou prezentací, je hluboký nádech.",
+      "Poslední věc, kterou dělám před odevzdáním projektu, je rychlá korektura.",
+      "Poslední věc, kterou dělám před uzavřením počítače, je naplánování zítřka."
+    ],
+    "c1": [
+      "Poslední věc, kterou dělám před schválením rozpočtu, je verifikace všech nákladových položek.",
+      "Poslední věc, kterou dělám před publikováním kódu, je spuštění finálních testů.",
+      "Poslední věc, kterou dělám před podpisem smlouvy, je konzultace s právním oddělením.",
+      "Poslední věc, kterou dělám před zahájením auditu, je kontrola úplnosti dokumentace.",
+      "Poslední věc, kterou dělám před uzávěrkou reportu, je ověření křížových vazeb dat."
+    ]
+  }
+]

@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Zarówno ..., jak i ... są ważne, ponieważ ...",
+    "translation": "Both ... and ... are important because ...",
+    "b1": [
+      "Zarówno nauka, jak i odpoczynek są ważne, ponieważ pomagają zachować zdrowie.",
+      "Zarówno owoce, jak i warzywa są ważne, ponieważ mają dużo witamin.",
+      "Zarówno praca, jak i czas wolny są ważne, ponieważ dają nam radość.",
+      "Zarówno czytanie, jak i sport są ważne, ponieważ rozwijają ciało i umysł.",
+      "Zarówno rodzina, jak i przyjaciele są ważne, ponieważ dają wsparcie."
+    ],
+    "b2": [
+      "Zarówno elastyczne godziny pracy, jak i wysoka pensja są ważne, ponieważ przyciągają najlepszych specjalistów.",
+      "Zarówno jakość obsługi, jak i cena produktu są ważne, ponieważ decydują o sukcesie firmy.",
+      "Zarówno teoria, jak i praktyka są ważne, ponieważ dają pełne przygotowanie do zawodu.",
+      "Zarówno oszczędności, jak i inwestycje są ważne, ponieważ chronią przed kryzysem.",
+      "Zarówno jasna komunikacja, jak i zaufanie w zespole są ważne, ponieważ budują efektywność."
+    ],
+    "c1": [
+      "Zarówno rygorystyczne standardy compliance, jak i innowacyjność są ważne, ponieważ zapewniają spółce stabilny i bezpieczny rozwój.",
+      "Zarówno ochrona danych osobowych, jak i swoboda przepływu informacji są ważne, ponieważ gwarantują równowagę w gospodarce cyfrowej.",
+      "Zarówno długofalowa strategia ekologiczna, jak i doraźna rentowność są ważne, ponieważ decydują o przetrwaniu na rynku.",
+      "Zarówno niezależność sądownictwa, jak i stabilność polityczna są ważne, ponieważ przyciągają inwestorów zagranicznych.",
+      "Zarówno rozwój kapitału ludzkiego, jak i nowoczesna infrastruktura są ważne, ponieważ budują konkurencyjność państwa."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "W przeciwieństwie do ..., jednak ...",
+    "translation": "Unlike ..., however, ...",
+    "b1": [
+      "W przeciwieństwie do mojego brata, ja jednak lubię wczesne wstawanie.",
+      "W przeciwieństwie do lata, zima jest jednak bardzo zimna.",
+      "W przeciwieństwie do tego filmu, książka była jednak ciekawa.",
+      "W przeciwieństwie do wczoraj, dziś jednak świeci słońce.",
+      "W przeciwieństwie do kawy, herbata mi jednak nie smakuje."
+    ],
+    "b2": [
+      "W przeciwieństwie do ubiegłego roku, nasz zespół osiągnął jednak wyższe wyniki sprzedaży.",
+      "W przeciwieństwie do pracy w biurze, praca zdalna wymaga jednak dużej samodyscypliny.",
+      "W przeciwieństwie do tradycyjnych sklepów, ta platforma oferuje jednak darmową dostawę.",
+      "W przeciwieństwie do pierwotnych planów, budżet okazał się jednak wystarczający.",
+      "W przeciwieństwie do konkurencji, nasza firma stawia jednak na najwyższą jakość."
+    ],
+    "c1": [
+      "W przeciwieństwie do tradycyjnego sektor bankowego, fintechy wykazują jednak znacznie większą elastyczność strukturalną.",
+      "W przeciwieństwie do sztywnej doktryny poprzedniego zarządu, nowa strategia charakteryzuje się jednak otwartością na ryzyko.",
+      "W przeciwieństwie do krótkoterminowych celów politycznych, reforma ta wymaga jednak konsekwencji przez całą dekadę.",
+      "W przeciwieństwie do dynamicznie rosnących rynków wschodnich, gospodarka europejska notuje jednak stagnację.",
+      "W przeciwieństwie do zunifikowanych standardów korporacyjnych, kultura tej organizacji pozostaje jednak unikalna."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Główna różnica między ... a ... polega na tym, że ...",
+    "translation": "The main difference between ... and ... is that ...",
+    "b1": [
+      "Główna różnica między psem a kotem polega na tym, że psy są głośniejsze.",
+      "Główna różnica między kawą a herbatą polega na tym, że mają inny smak.",
+      "Główna różnica między latem a zimą polega na tym, że jest cieplej.",
+      "Główna różnica między tymi autami polega na tym, że jedno jest tańsze.",
+      "Główna różnica między nami polega na tym, że ty wolisz kino."
+    ],
+    "b2": [
+      "Główna różnica między pracą stacjonarną a zdalną polega na tym, że tracimy mniej czasu na dojazdy.",
+      "Główna różnica między tymi ofertami polega na tym, że ta druga zawiera dodatkowe ubezpieczenie.",
+      "Główna różnica między naszymi działami polega na tym, że oni odpowiadają za marketing.",
+      "Główna różnica między tymi materiałami polega na tym, że jeden jest odporny na wodę.",
+      "Główna różnica między tymi metodami nauki polega na tym, że kładą nacisk na mówienie."
+    ],
+    "c1": [
+      "Główna różnica między tymi modelami biznesowymi polega na tym, że pierwszy opiera się na subskrypcji, a drugi na prowizji.",
+      "Główna różnica między prawem cywilnym a karnym polega na tym, że to drugie rozstrzyga o odpowiedzialności karnej.",
+      "Główna różnica między fuzją a przejęciem polega na tym, że zachowują one odmienny status podmiotowy.",
+      "Główna różnica między inflacją popytową a kosztową polega na tym, że jej źródło leży po stronie podaży.",
+      "Główna różnica między tymi systemami politycznymi polega na tym, że brakuje w nich trójpodziału władzy."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "... jest podobny(-a) do ... pod tym względem, że ...",
+    "translation": "... is similar to ... in that ...",
+    "b1": [
+      "Ten film jest podobny do tamtego pod tym względem, że opowiada o miłości.",
+      "Mój brat jest podobny do mnie pod tym względem, że lubi sport.",
+      "To miasto jest podobne do Warszawy pod tym względem, że jest duże.",
+      "Ten sweter jest podobny do mojej kurtki pod tym względem, że jest ciepły.",
+      "Ta książka jest podobna do poprzedniej pod tym względem, że ma ciekawego bohatera."
+    ],
+    "b2": [
+      "Nasza nowa strategia jest podobna do ubiegłorocznej pod tym względem, że skupia się na klientach.",
+      "Praca w tej korporacji jest podobna do pracy w agencji pod tym względem, że wymaga elastyczności.",
+      "Ten produkt jest podobny do poprzedniej wersji pod tym względem, że zachowuje prosty interfejs.",
+      "Nasz nowy system jest podobny do rozwiązania konkurencji pod tym względem, że działa w chmurze.",
+      "Ta inwestycja jest podobna do poprzednich pod tym względem, że niesie wysokie ryzyko."
+    ],
+    "c1": [
+      "Obecny kryzys jest podobny do tego z lat trzydziestych pod tym względem, że wynika z załamania płynności.",
+      "Ta technologia jest podobna do poprzednich generacji pod tym względem, że wymaga gruntownej zmiany regulacji.",
+      "Model zarządzania w tej spółce jest podobny do struktur holenderskich pod tym względem, że opiera się na konsensusie.",
+      "Ten traktat handlowy jest podobny do porozumień z lat dziewięćdziesiątych pod tym względem, że faworyzuje monopol.",
+      "Nasza polityka ekspansji jest podobna do działań lidera rynku pod tym względem, że eliminuje mniejszych graczy."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Podczas gdy ... ma X, ... ma Y.",
+    "translation": "While ... has X, ... has Y.",
+    "b1": [
+      "Podczas gdy ja mam jabłko, mój brat ma banana.",
+      "Podczas gdy dzisiaj mamy słońce, wczoraj mieliśmy deszcz.",
+      "Podczas gdy mój pokój ma duże okno, twój pokój ma mały balkon.",
+      "Podczas gdy ten sklep ma niskie ceny, tamten ma lepszą jakość.",
+      "Podczas gdy ona ma czas, ja mam mnóstwo pracy."
+    ],
+    "b2": [
+      "Podczas gdy dział marketingu ma wysoki budżet, dział logistyki ma spore ograniczenia finansowe.",
+      "Podczas gdy stara wersja miała błędy w systemie, nowa aktualizacja ma dodatkowe zabezpieczenia.",
+      "Podczas gdy nasz główny konkurent ma sieć stacjonarną, my mamy wyłącznie sklep internetowy.",
+      "Podczas gdy praca w biurze ma stałe godziny, praca zdalna ma elastyczny grafik.",
+      "Podczas gdy ten pracownik ma duże doświadczenie, nowy kolega ma świeże pomysły."
+    ],
+    "c1": [
+      "Podczas gdy państwa rozwinięte mają nadwyżki kapitałowe, kraje rozwijające się mają strukturalny deficyt budżetowy.",
+      "Podczas gdy system prawny w Anglii ma charakter precedensowy, polski system ma rodowód skodyfikowany.",
+      "Podczas gdy inwestorzy strategiczni mają długofalową wizję, gracze giełdowi mają krótkoterminowe oczekiwania zysku.",
+      "Podczas gdy spółka matka ma pełną kontrolę kapitałową, spółka córka ma operacyjną niezależność.",
+      "Podczas gdy dawne umowy miały charakter otwarty, obecne kontrakty mają bardzo rygorystyczne klauzule."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Z jednej strony ..., ale z drugiej strony ...",
+    "translation": "On the one hand ..., but on the other hand, ...",
+    "b1": [
+      "Z jednej strony ta praca jest ciekawa, ale z drugiej strony jest bardzo trudna.",
+      "Z jednej strony lubię miasto, ale z drugiej strony wole ciszę wsi.",
+      "Z jednej strony chcę iść na spacer, ale z drugiej strony pada deszcz.",
+      "Z jednej strony kupno nowego auta jest fajne, ale z drugiej strony jest drogie.",
+      "Z jednej strony uczyć się warto, ale z drugiej strony trzeba odpocząć."
+    ],
+    "b2": [
+      "Z jednej strony praca zdalna daje nam swobodę, ale z drugiej strony osłabia relacje w zespole.",
+      "Z jednej strony ta oferta jest tania, ale z drugiej strony nie zawiera serwisu.",
+      "Z jednej strony rozbudowa biura to dobra inwestycja, ale z drugiej strony generuje ogromne koszty.",
+      "Z jednej strony zmiana systemu pomoże w przyszłości, ale z drugiej strony wymaga trudnego wdrożenia.",
+      "Z jednej strony chcemy zatrudnić eksperta, ale z drugiej strony jego stawka przekracza nasz budżet."
+    ],
+    "c1": [
+      "Z jednej strony sztuczna inteligencja rewolucjonizuje rynek pracy, ale z drugiej strony drastycznie zwiększa ryzyko bezrobocia strukturalnego.",
+      "Z jednej strony globalizacja przynosi wzrost gospodarczy, ale z drugiej strony pogłębia nierówności społeczne.",
+      "Z jednej strony zaostrzenie przepisów chroni konsumentów, ale z drugiej strony dusi innowacyjność w sektorze msp.",
+      "Z jednej strony fuzja gwarantuje nam dominację rynkową, ale z drugiej strony grozi nam postępowanie antymonopolowe.",
+      "Z jednej strony restrukturyzacja ratuje spółkę przed upadłością, ale z drugiej strony niesie masowe zwolnienia."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "W porównaniu do ..., ...",
+    "translation": "In comparison to ..., ...",
+    "b1": [
+      "W porównaniu do wczorajszego dnia, dzisiejszy jest bardzo ciepły.",
+      "W porównaniu do mojego starego telefonu, ten działa bardzo szybko.",
+      "W porównaniu do tamtego sklepu, tu jest taniej.",
+      "W porównaniu do zimy, lato ma dłuższe dni.",
+      "W porównaniu do brata, moja siostra dużo czyta."
+    ],
+    "b2": [
+      "W porównaniu do ubiegłego roku, nasze wydatki na reklamesą znacznie wyższe.",
+      "W porównaniu do pracy w biurze, praca w domu daje mi więcej spokoju.",
+      "W porównaniu do poprzedniego projektu, ten wymaga większego zaangażowania zespołu.",
+      "W porównaniu do tradycyjnych form płatności, aplikacja jest o wiele szybsza.",
+      "W porównaniu do konkurencyjnej firmy, nasze warunki zatrudnienia są bardziej atrakcyjne."
+    ],
+    "c1": [
+      "W porównaniu do stabilnych rynków zachodnich, gospodarka krajowa charakteryzuje się znacznie wyższą zmiennością walutową.",
+      "W porównaniu do poprzedniej dyrektywy, nowe przepisy nakładają na przedsiębiorstwa drastycznie surowsze kary.",
+      "W porównaniu do tradycyjnych modeli instytucjonalnych, ta organizacja wykazuje pełną transparentność operacyjną.",
+      "W porównaniu do skumulowanego długu publicznego, te rezerwy budżetowe stanowią zaledwie ułamek potrzeb.",
+      "W porównaniu do pierwotnych szacunków audytorów, straty spółki okazały się kilkukrotnie wyższe."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Natomiast sytuacja z ... wygląda zupełnie inaczej.",
+    "translation": "Conversely, the situation with ... is quite different.",
+    "b1": [
+      "U mnie pogoda jest ładna. Natomiast sytuacja z deszczem w górach wygląda zupełnie inaczej.",
+      "Ja wolę kawę. Natomiast sytuacja z herbatą u mojej mamy wygląda zupełnie inaczej.",
+      "Mój telefon działa świetnie. Natomiast sytuacja z komputerem wygląda zupełnie inaczej.",
+      "W moim sklepie jest tanio. Natomiast sytuacja z cenami w centrum wygląda zupełnie inaczej.",
+      "Wczoraj miałem wolne. Natomiast sytuacja z pracą w dzisiaj wygląda zupełnie inaczej."
+    ],
+    "b2": [
+      "Nasz dział odnotował rekordowe wyniki. Natomiast sytuacja z działem logistyki wygląda zupełnie inaczej.",
+      "W Warszawie rynek nieruchomości rośnie. Natomiast sytuacja z mniejszymi miastami wygląda zupełnie inaczej.",
+      "Młodzi pracownicy chętnie wybierają hybrydę. Natomiast sytuacja ze starszą kadrą wygląda zupełnie inaczej.",
+      "Wprowadzenie nowej funkcji w aplikacji powiodło się. Natomiast sytuacja z wersją desktopową wygląda zupełnie inaczej.",
+      "Projekt reklamowy zakończył się sukcesem. Natomiast sytuacja z audytem finansowym wygląda zupełnie inaczej."
+    ],
+    "c1": [
+      "Sektor technologiczny odnotował gigantyczne zyski. Natomiast sytuacja z tradycyjnym przemysłem ciężkim wygląda zupełnie inaczej.",
+      "Kraje Europy Zachodniej skutecznie wdrożyły transformację. Natomiast sytuacja z państwami uzależnionymi od węgla wygląda zupełnie inaczej.",
+      "Spółka giełdowa wykazuje pełną płynność. Natomiast sytuacja z nieuregulowanymi długami spółki córki wygląda zupełnie inaczej.",
+      "Duże korporacje łatwo adaptują się do nowych norm. Natomiast sytuacja z sektorem małych przedsiębiorств wygląda zupełnie inaczej.",
+      "Wartość akcji gwałtownie wzrosła po komunikacie. Natomiast sytuacja z długoterminowym zaufaniem inwestorów wygląda zupełnie inaczej."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Dzielą one kilka wspólnych cech, takich jak ...",
+    "translation": "They share several common characteristics, such as ...",
+    "b1": [
+      "Te dwa auta dzielą kilka wspólnych cech, takich jak kolor i cena.",
+      "Te psy dzielą kilka wspólnych cech, takich jak wielkość i rasa.",
+      "Te miasta dzielą kilka wspólnych cech, takich jak bliskość morza.",
+      "Te książki dzielą kilka wspólnych cech, takich jak ciekawy temat.",
+      "Te domy dzielą kilka wspólnych cech, takich jak ogród i dach."
+    ],
+    "b2": [
+      "Te dwie oferty dzielą kilka wspólnych cech, takich jak darmowa dostawa i gwarancja.",
+      "Nasi główni konkurenci dzielą kilka wspólnych cech, takich jak wysoka jakość i wysoka cena.",
+      "Te programy komputerowe dzielą kilka wspólnych cech, takich jak prosty interfejs i szybkość działania.",
+      "Oba stanowiska dzielą kilka wspólnych cech, takich jak praca z klientem i elastyczny czas.",
+      "Te projekty dzielą kilka wspólnych cech, takich jak krótki termin realizacji i niski budżet."
+    ],
+    "c1": [
+      "Te upadające instytucje finansowe dzielą kilka wspólnych cech, takich jak toksyczne aktywa i brak płynności.",
+      "Wiodące spółki technologiczne dzielą kilka wspólnych cech, takich jak agresywna ekspansja i omijanie podatków.",
+      "Rozpatrywane modele ustrojowe dzielą kilka wspólnych cech, takich jak centralizacja władzy i brak niezależnych mediów.",
+      "Te skomplikowane transakcje dzielą kilka wspólnych cech, takich jak brak przejrzystości i raj podatkowy.",
+      "Wspomniane kryzysy makroekonomiczne dzielą kilka wspólnych cech, takich jak bańka spekulacyjna na rynku."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Stopień ... jest znacznie większy w ... niż w ...",
+    "translation": "The degree of ... is much greater in ... than in ...",
+    "b1": [
+      "Stopień trudności jest znacznie większy w tym teście niż w tamtym.",
+      "Stopień zmęczenia jest znacznie większy dzisiaj niż wczoraj.",
+      "Stopień hałasu jest znacznie większy w mieście niż na wsi.",
+      "Stopień ciepła jest znacznie większy w lipcu niż w maju.",
+      "Stopień jasności jest znacznie większy w tym pokoju niż w kuchni."
+    ],
+    "b2": [
+      "Stopień skomplikowania tego projektu jest znacznie większy w naszym dziale niż w tamtym.",
+      "Stopień ryzyka finansowego jest znacznie większy w tej inwestycji niż w obligacjach.",
+      "Stopień satysfakcji klientów jest znacznie większy w sklepie stacjonarnym niż w sieci.",
+      "Stopień zaangażowania pracowników jest znacznie większy przy pracy w biurze niż zdalnie.",
+      "Stopień biurokracji jest znacznie większy w tej instytucji niż w prywatnej firmie."
+    ],
+    "c1": [
+      "Stopień koncentracji kapitału jest znacznie większy w sektorze big tech niż w tradycyjnych gałęziach.",
+      "Stopień niestabilności rynkowej jest znacznie większy w krajach rozwijających się niż w strefie euro.",
+      "Stopień wewnętrznej korupcji jest znacznie większy w tym resorcie niż w agencjach rządowych.",
+      "Stopień uzależnienia od zewnętrznych dostawców jest znacznie większy w tej branży niż u konkurencji.",
+      "Stopień systemowego ryzyka prawnego jest znacznie większy w tym kontrakcie niż w standardowej umowie."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Chociaż ... jest prawdą, musimy również wziąć pod uwagę ...",
+    "translation": "Although ... is true, we must also consider ...",
+    "b1": [
+      "Chociaż to prawda, że jest zimno, musimy również wziąć pod uwagę spacer.",
+      "Chociaż to prawda, że film był długi, musimy również wziąć pod uwagę jego fabułę.",
+      "Chociaż to prawda, że nie mam czasu, musimy również wziąć pod uwagę ten projekt.",
+      "Chociaż to prawda, że jest drogo, musimy również wziąć pod uwagę jakość.",
+      "Chociaż to prawda, że on się pomylił, musimy również wziąć pod uwagę jego chęci."
+    ],
+    "b2": [
+      "Chociaż to prawda, że koszty rosną, musimy również wziąć pod uwagę rozwój firmy.",
+      "Chociaż to prawda, że klient rezygnuje, musimy również wziąć pod uwagę naszą winę w obsłudze.",
+      "Chociaż to prawda, że brakuje nam rąk do pracy, musimy również wziąć pod uwagę budżet płacowy.",
+      "Chociaż to prawda, że projekt opóźni się o tydzień, musimy również wziąć pod uwagę testy jakości.",
+      "Chociaż to prawda, że konkurencja jest silna, musimy również wziąć pod uwagę nasze unikalne cechy."
+    ],
+    "c1": [
+      "Chociaż to prawda, że fuzja przyniesie nam monopol, musimy również wziąć pod uwagę ryzyko sankcji ze strony urzędu.",
+      "Chociaż to prawda, że te cięcia ratują płynność, musimy również wziąć pod uwagę masowy odpływ talentów.",
+      "Chociaż to prawda, że prawo nas do tego nie zmusza, musimy również wziąć pod uwagę standardy etyczne.",
+      "Chociaż to prawda, że audyt nie wykazał przestępstwa, musimy również wziąć pod uwagę utratę zaufania rynku.",
+      "Chociaż to prawda, że popyt gwałtownie rośnie, musimy również wziąć pod uwagę wyczerpanie zasobów surowcowych."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Istotnym punktem rozbieżności jest ...",
+    "translation": "A significant point of divergence is ...",
+    "b1": [
+      "Istotnym punktem rozbieżności jest cena tego auta.",
+      "Istotnym punktem rozbieżności jest nasz plan na urlop.",
+      "Istotnym punktem rozbieżności jest kolor ścian w pokoju.",
+      "Istotnym punktem rozbieżności jest termin wyjazdu.",
+      "Istotnym punktem rozbieżności jest wybór restauracji na obiad."
+    ],
+    "b2": [
+      "Istotnym punktem rozbieżności w negocjacjach jest ostateczna wysokość marży.",
+      "Istotnym punktem rozbieżności między działami jest podział obowiązków projektowych.",
+      "Istotnym punktem rozbieżności w tej umowie jest klauzula o karach umownych.",
+      "Istotnym punktem rozbieżności pozostaje kwestia godzin pracy zespołu.",
+      "Istotnym punktem rozbieżności w budżecie jest alokacja środków na marketing."
+    ],
+    "c1": [
+      "Istotnym punktem rozbieżności między akcjonariuszami a zarządem jest polityka dywidendowa spółki.",
+      "Istotnym punktem rozbieżności w unijnych traktatach jest zasada jednomyślności w głosowaniach.",
+      "Istotnym punktem rozbieżności w interpretacji przepisów podatkowych jest definicja kosztów uzyskania przychodu.",
+      "Istotnym punktem rozbieżności podczas szczytu klimatycznego był harmonogram rezygnacji z węgla.",
+      "Istotnym punktem rozbieżności w procesie arbitrażowym jest jurysdykcja prawa właściwego dla umowy."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Są one fundamentalnie podobne, z wyjątkiem ...",
+    "translation": "They are fundamentally similar, except for ...",
+    "b1": [
+      "Te domy są fundamentalnie podobne, z wyjątkiem koloru dachu.",
+      "Te telefony są fundamentalnie podobne, z wyjątkiem pamięci.",
+      "Te sukienki są fundamentalnie podobne, z wyjątkiem długości.",
+      "Te psy są fundamentalnie podobne, z wyjątkiem wieku.",
+      "Te plany są fundamentalnie podobne, z wyjątkiem godziny spotkania."
+    ],
+    "b2": [
+      "Te dwa modele samochodów są fundamentalnie podobne, z wyjątkiem wyposażenia wnętrza.",
+      "Nasze oferty są fundamentalnie podobne, z wyjątkiem okresu trwania gwarancji.",
+      "Te dwa projekty budżetowe są fundamentalnie podobne, z wyjątkiem wydatków na sprzęt.",
+      "Te wersje programu są fundamentalnie podobne, z wyjątkiem dodatkowej funkcji bezpieczeństwa.",
+      "Te dwa działy są fundamentalnie podobne, z wyjątkiem liczby zatrudnionych osób."
+    ],
+    "c1": [
+      "Te dwa instrumenty finansowe są fundamentalnie podobne, z wyjątkiem struktury zabezpieczenia kapitału.",
+      "Wspomniane systemy prawne są fundamentalnie podobne, z wyjątkiem procedury odwoławczej przed sądem.",
+      "Te modele strukturalne spółki są fundamentalnie podobne, z wyjątkiem praw głosu akcjonariuszy mniejszościowych.",
+      "Oba traktaty handlowe są fundamentalnie podobne, z wyjątkiem klauzul dotyczących ceł importowych.",
+      "Te strategie zarządzania ryzykiem są fundamentalnie podobne, z wyjątkiem limitów ekspozycji walutowej."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "... jest o wiele bardziej skuteczny(-a) niż ..., ponieważ ...",
+    "translation": "... is far more effective than ... because ...",
+    "b1": [
+      "Ten lek jest o wiele bardziej skuteczny niż stary, ponieważ działa szybko.",
+      "Ta metoda nauki jest o wiele bardziej skuteczna niż czytanie, ponieważ powtarzasz słowa.",
+      "Ten szampon jest o wiele bardziej skuteczny niż tamten, ponieważ ma lepszy skład.",
+      "Ta reklama jest o wiele bardziej skuteczna niż plakat, ponieważ dociera do młodych.",
+      "Ten klucz jest o wiele bardziej skuteczny niż stary, ponieważ pasuje idealnie."
+    ],
+    "b2": [
+      "Praca w ciszy jest o wiele bardziej skuteczna niż w hałasie, ponieważ łatwiej się skupić.",
+      "Komunikacja mailowa jest o wiele bardziej skuteczna niż telefon, ponieważ zostawia ślad ustaleń.",
+      "Nasz nowy system jest o wiele bardziej skuteczny niż poprzedni, ponieważ automatyzuje raporty.",
+      "Szkolenie praktyczne jest o wiele bardziej skuteczne niż wykład, ponieważ daje gotowe umiejętności.",
+      "Kampania w social media jest o wiele bardziej skuteczna niż ulotki, ponieważ trafia w grupę docelową."
+    ],
+    "c1": [
+      "Autonomiczny system wykrywania zagrożeń jest o wiele bardziej skuteczny niż nadzór ludzki, ponieważ eliminuje błąd zmęczenia.",
+      "Restrukturyzacja długu przez obligacje jest o wiele bardziej skuteczna niż kredyt komercyjny, ponieważ obniża koszty stałe.",
+      "Szybka interwencja banku centralnego jest o wiele bardziej skuteczna niż wolny rynek, ponieważ zapobiega panice.",
+      "Ukierunkowany audyt celowy jest o wiele bardziej skuteczny niż kontrola ogólna, ponieważ dociera do źródeł malwersacji.",
+      "Dyplomatyczna presja sankcyjna jest o wiele bardziej skuteczna niż izolacja, ponieważ zmusza do podjęcia rozmów."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Możemy przeprowadzić analogię między ... a ...",
+    "translation": "We can draw a parallel between ... and ...",
+    "b1": [
+      "Możemy przeprowadzić analogię między nauką języka a nauką gry na pianinie.",
+      "Możemy przeprowadzić analogię między ludzkim ciałem a działaniem maszyny.",
+      "Możemy przeprowadzić analogię między tym filmem a znaną książką.",
+      "Możemy przeprowadzić analogię między pracą w biurze a treningiem sportowym.",
+      "Możemy przeprowadzić analogię między relacjami w rodzinie a współpracą w pracy."
+    ],
+    "b2": [
+      "Możemy przeprowadzić analogię między obecnym kryzysem na rynku a załomieniem z ubiegłej dekady.",
+      "Możemy przeprowadzić analogię między zarządzaniem państwem a prowadzeniem dużej korporacji.",
+      "Możemy przeprowadzić analogię między rozwojem technologii cyfrowych a rewolucją przemysłową.",
+      "Możemy przeprowadzić analogię między strategią marketingową a taktyką wojskową.",
+      "Możemy przeprowadzić analogię między strukturą naszego zespołu a ekosystemem biologicznym."
+    ],
+    "c1": [
+      "Możemy przeprowadzić analogię między bańką spekulacyjną na rynku nieruchomości a kryzysem subprime z 2008 roku.",
+      "Możemy przeprowadzić analogię między ekspansją współczesnych monopoli cyfrowych a imperialnymitrustami naftowymi.",
+      "Możemy przeprowadzić analogię między erozją zaufania do instytucji publicznych a upadkiem republik antycznych.",
+      "Możemy przeprowadzić analogię między mechanizmami prania brudnych pieniędzy a strukturą tradycyjnych rajów podatkowych.",
+      "Możemy przeprowadzić analogię między polityką appeasementu w XX wieku a obecną biernością wobec agresji."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Ani ..., ani ... nie zapewnia ...",
+    "translation": "Neither ... nor ... provides ...",
+    "b1": [
+      "Ani ten sklep, ani tamten nie zapewnia darmowej dostawy.",
+      "Ani kawa, ani herbata nie zapewnia mi energii rano.",
+      "Ani ten film, ani książka nie zapewnia dobrej rozrywki.",
+      "Ani ten hotel, ani pensjonat nie zapewnia basenu.",
+      "Ani mój brat, ani ja nie zapewniamy, że zdążymy na czas."
+    ],
+    "b2": [
+      "Ani tradycyjna reklama, ani ulotki nie zapewniają nam dzisiaj odpowiedniego napływu klientów.",
+      "Ani praca zdalna, ani biuro nie zapewniają pełnej równowagi między życiem a pracą bez wysiłku.",
+      "Ani ta umowa, ani aneks nie zapewniają nam ochrony przed stratami finansowymi.",
+      "Ani wyższa pensja, ani bonusy nie zapewniają długofalowego zaangażowania bez dobrej atmosfery.",
+      "Ani testy automatyczne, ani manualne nie zapewniają stuprocentowej pewności braku błędów."
+    ],
+    "c1": [
+      "Ani restrukturyzacja zadłużenia, ani dokapitalizowanie ze skarbu państwa nie zapewniają uzdrowienia tej spółki.",
+      "Ani formalna zgoda regulatora, ani akceptacja audytorów nie zapewniają bezbłędności modelu biznesowego.",
+      "Ani doraźna pomoc finansowa, ani pakiety stymulacyjne nie zapewniają trwałego wzrostu gospodarczego w recesji.",
+      "Ani sztywne zasady compliance, ani kodeks etyczny nie zapewniają odporności na celową korupcję menedżerów.",
+      "Ani mechanizmy obronne giełdy, ani interwencja państwa nie zapewniają ochrony przed wrogim przejęciem."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "W porównaniu do ..., ... wydaje się być ...",
+    "translation": "When balanced against ..., ... appears to be ...",
+    "b1": [
+      "W porównaniu do ceny, ten telefon wydaje się być bardzo tani.",
+      "W porównaniu do wysiłku, ten wynik wydaje się być mały.",
+      "W porównaniu do pogody, ten spacer wydaje się być dobrym pomysłem.",
+      "W porównaniu do nudy w domu, wyjście wydaje się być ciekawe.",
+      "W porównaniu do wczoraj, dziś wydaje się być cieplej."
+    ],
+    "b2": [
+      "W porównaniu do kosztów wdrożenia, ta nowa funkcja wydaje się być bardzo opłacalna.",
+      "W porównaniu do strat wizerunkowych, ta kara finansowa wydaje się być mniejszym złem.",
+      "W porównaniu do wymagań stawianych kandydatom, to stanowisko wydaje się być dobrze opłacane.",
+      "W porównaniu do poprzednich wersji, ta aplikacja wydaje się być o wiele stabilniejsza.",
+      "W porównaniu do ryzyka rynkowego, nasza strategia wydaje się być bezpieczna."
+    ],
+    "c1": [
+      "W porównaniu do skali kryzysu demograficznego, te świadczenia socjalne wydają się być kroplą w morzu potrzeb.",
+      "W porównaniu do korzyści z fuzji, ryzyko postepowania antymonopolowego wydaje się być akceptowalną ceną.",
+      "W porównaniu do długofalowych oszczędności, te początkowe koszty audytu wydają się być znikome.",
+      "W porównaniu do potęgi gigantów technologicznych, te lokalne regulacje wydają się być iluzoryczną ochroną.",
+      "W porównaniu do dowodów w akta sprawy, ta linia obrony oskarżonego wydaje się być całkowicie niewiarygodna."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Istnieje rażący kontrast w ich podejściu do ...",
+    "translation": "There is a stark contrast in their approach to ...",
+    "b1": [
+      "Istnieje rażący kontrast w ich podejściu do zwierząt.",
+      "Istnieje rażący kontrast w ich podejściu do nauki języków.",
+      "Istnieje rażący kontrast w ich podejściu do wydawania pieniędzy.",
+      "Istnieje rażący kontrast w ich podejściu do porządku w pokoju.",
+      "Istnieje rażący kontrast w ich podejściu do wolnego czasu."
+    ],
+    "b2": [
+      "Istnieje rażący kontrast w ich podejściu do obsługi niezadowolonych klientów.",
+      "Istnieje rażący kontrast w ich podejściu do wdrażania innowacji technologicznych.",
+      "Istnieje rażący kontrast w ich podejściu do zarządzania budżetem projektowym.",
+      "Istnieje rażący kontrast w ich podejściu do polityki pracy zdalnej.",
+      "Istnieje rażący kontrast w ich podejściu do relacji z głównymi partnerami biznesowymi."
+    ],
+    "c1": [
+      "Istnieje rażący kontrast w ich podejściu do standardów korporacyjnego ładu i transparentności finansowej.",
+      "Istnieje rażący kontrast w ich podejściu do globalnej polityki klimatycznej i redukcji emisji.",
+      "Istnieje rażący kontrast w ich podejściu do praw mniejszości oraz niezależności sądownictwa.",
+      "Istnieje rażący kontrast w ich podejściu do regulacji sektora finansowego i unikania podatków.",
+      "Istnieje rażący kontrast w ich podejściu do bezpieczeństwa danych osobowych i prywatności użytkowników."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Podobieństwo tkwi w faktu, że ...",
+    "translation": "The similarity lies in the fact that ...",
+    "b1": [
+      "Podobieństwo tkwi w faktu, że oba auta są czerwone.",
+      "Podobieństwo tkwi w faktu, że obaj lubimy pizzę.",
+      "Podobieństwo tkwi w faktu, że te domy mają małe ogrody.",
+      "Podobieństwo tkwi w faktu, że te filmy opowiadają o przyrodzie.",
+      "Podobieństwo tkwi w faktu, że one kosztują tyle samo."
+    ],
+    "b2": [
+      "Podobieństwo tkwi w faktu, że obie firmy borykają się z brakiem wykwalifikowanych kadr.",
+      "Podobieństwo tkwi w faktu, że oba projekty przekroczyły pierwotny budżet.",
+      "Podobieństwo tkwi w faktu, że te systemy wymagają stałego dostępu do internetu.",
+      "Podobieństwo tkwi w faktu, że obie oferty zostały odrzucone przez głównego klienta.",
+      "Podobieństwo tkwi w faktu, że oba działy pracują w modelu hybrydowym."
+    ],
+    "c1": [
+      "Podobieństwo tkwi w faktu, że obie upadające instytucje stosowały toksyczną dźwignię finansową.",
+      "Podobieństwo tkwi w faktu, że te reżimy autorytarne systemowo fałszują wskaźniki makroekonomiczne.",
+      "Podobieństwo tkwi w faktu, że oba kryzysy wywołane zostały pęknięciem bańki na rynku aktywów.",
+      "Podobieństwo tkwi w faktu, że te korporacje unikają opodatkowania poprzez sztuczne struktury w rajach.",
+      "Podobieństwo tkwi w faktu, že obie partie opierają swój program na radykalnym populizmie."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "W zestawieniu obok siebie, ... wyraźnie przewyższa ...",
+    "translation": "Compared side by side, ... clearly outperforms ...",
+    "b1": [
+      "W zestawieniu obok siebie, ten nowy telefon wyraźnie przewyższa stary model.",
+      "W zestawieniu obok siebie, ta restauracja wyraźnie przewyższa tamtą pod względem smaku.",
+      "W zestawieniu obok siebie, ten rower wyraźnie przewyższa mój stary pojazd.",
+      "W zestawieniu obok siebie, ta kurtka wyraźnie przewyższa sweter w deszczu.",
+      "W zestawieniu obok siebie, ten komputer wyraźnie przewyższa tamten laptop."
+    ],
+    "b2": [
+      "W zestawieniu obok siebie, nasz nowy system zarządzania wyraźnie przewyższa przestarzałe oprogramowanie.",
+      "W zestawieniu obok siebie, ta kampania marketingowa wyraźnie przewyższa zeszłoroczne działania.",
+      "W zestawieniu obok siebie, propozycja naszego zespołu wyraźnie przewyższa ofertę konkurencji.",
+      "W zestawieniu obok siebie, ten dostawca wyraźnie przewyższa poprzednią firmę pod kątem terminowości.",
+      "W zestawieniu obok siebie, nowa linia produktów wyraźnie przewyższa dotychczasowy asortyment."
+    ],
+    "c1": [
+      "W zestawieniu obok siebie, scentralizowany model zarządzania ryzykiem wyraźnie przewyższa rozproszone procedury.",
+      "W zestawieniu obok siebie, model biznesowy platform cyfrowych wyraźnie przewyższa tradycyjny handel detaliczny.",
+      "W zestawieniu obok siebie, niezależny audyt prawny wyraźnie przewyższa wewnętrzne kontrole korporacyjne.",
+      "W zestawieniu obok siebie, zdywersyfikowany portfel obligacji wyraźnie przewyższa akcje w okresie recesji.",
+      "W zestawieniu obok siebie, kompleksowa strategia compliance wyraźnie przewyższa wybiórcze unikanie kar."
+    ]
+  }
+]

@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "A fő problémának az tűnik, hogy ...",
+    "translation": "The main issue seems to be ...",
+    "b1": [
+      "A fő problémának az tűnik, hogy nincs elég időnk.",
+      "A fő problémának az tűnik, hogy drága a jegy.",
+      "A fő problémának az tűnik, hogy nem ismerjük az utat.",
+      "A fő problémának az tűnik, hogy elfogyott a pénz.",
+      "A fő problémának az tűnik, hogy késik a busz."
+    ],
+    "b2": [
+      "A fő problémának az tűnik, hogy a részlegek nem kommunikálnak egymással hatékonyan.",
+      "A fő problémának az tűnik, hogy a határidők túl szorosak a kapacitásunkhoz képest.",
+      "A fő problémának az tűnik, hogy a vevők elégedetlenek a termék minőségével.",
+      "A fő problémának az tűnik, hogy hiányzik a megfelelő szakképzett munkaerő.",
+      "A fő problémának az tűnik, hogy a költségvetés nem fedezi a váratlan kiadásokat."
+    ],
+    "c1": [
+      "A fő problémának az tűnik, hogy a strukturális hiányosságok gátolják a hosszú távú növekedést.",
+      "A fő problémának az tűnik, hogy az intézményi keretrendszer nem kompatibilis az uniós normákkal.",
+      "A fő problémának az tűnik, hogy a technológiai elavulás veszélyezteti a piaci pozíciónkat.",
+      "A fő problémának az tűnik, hogy a döntéshozatali mechanizmus túlzottan bürokratikus és lassú.",
+      "A fő problémának az tűnik, hogy a humántőke fluktuációja destabilizálja a kutatási projekteket."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Hogyan tudnánk a legjobban megközelíteni ...-t?",
+    "translation": "How can we best approach ...?",
+    "b1": [
+      "Hogyan tudnánk a legjobban megközelíteni ezt a kérdést?",
+      "Hogyan tudnánk a legjobban megközelíteni a várost?",
+      "Hogyan tudnánk a legjobban megközelíteni a feladatot?",
+      "Hogyan tudnánk a legjobban megközelíteni a problémát?",
+      "Hogyan tudnánk a legjobban megközelíteni az embereket?"
+    ],
+    "b2": [
+      "Hogyan tudnánk a legjobban megközelíteni a célközönséget a kampányban?",
+      "Hogyan tudnánk a legjobban megközelíteni az ügyfélszolgálati panaszokat?",
+      "Hogyan tudnánk a legjobban megközelíteni a költségek lefaragását?",
+      "Hogyan tudnánk a legjobban megközelíteni a beszállítókkal való tárgyalást?",
+      "Hogyan tudnánk a legjobban megközelíteni az új szoftver bevezetését?"
+    ],
+    "c1": [
+      "Hogyan tudnánk a legjobban megközelíteni a komplex gazdasági krízis kezelését?",
+      "Hogyan tudnánk a legjobban megközelíteni a nemzetközi piacon való terjeszkedést?",
+      "Hogyan tudnánk a legjobban megközelíteni a jogi megfelelés biztosításának kihívását?",
+      "Hogyan tudnánk a legjobban megközelíteni a kutatási adatok etikai dimenzióit?",
+      "Hogyan tudnánk a legjobban megközelíteni a szervezeti kultúra átalakítását?"
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Azt javaslom, hogy ...",
+    "translation": "I suggest that we ...",
+    "b1": [
+      "Azt javaslom, hogy induljunk el korán.",
+      "Azt javaslom, hogy együnk egy pizzát.",
+      "Azt javaslom, hogy pihenjünk egy kicsit.",
+      "Azt javaslom, hogy kérdezzük meg őt.",
+      "Azt javaslom, hogy vegyük meg ezt."
+    ],
+    "b2": [
+      "Azt javaslom, hogy szervezzünk egy megbeszélést a hét elején.",
+      "Azt javaslom, hogy kérjünk árajánlatot több cégtől is.",
+      "Azt javaslom, hogy teszteljük le a rendszert a hivatalos indulás előtt.",
+      "Azt javaslom, hogy osszuk meg a feladatokat a csapattagok között.",
+      "Azt javaslom, hogy halasszuk el a döntést a pontos adatok megismeréséig."
+    ],
+    "c1": [
+      "Azt javaslom, hogy hozzunk létre egy független auditáló bizottságot a vizsgálathoz.",
+      "Azt javaslom, hogy implementáljunk egy decentralizált döntéshozatali modellt.",
+      "Azt javaslom, hogy revideáljuk a szerződéses feltételeket a kockázatok minimalizálása érdekében.",
+      "Azt javaslom, hogy kössünk stratégiai szövetséget a piaci versenytársunk helyett.",
+      "Azt javaslom, hogy fektessünk nagyobb hangsúlyt a prediktív adatelemzésre."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Egy lehetséges megoldás az, hogy ...",
+    "translation": "A potential solution is to ...",
+    "b1": [
+      "Egy lehetséges megoldás az, hogy kinyitjuk az ablakot.",
+      "Egy lehetséges megoldás az, hogy veszek egy új kulcsot.",
+      "Egy lehetséges megoldás az, hogy felhívom őt.",
+      "Egy lehetséges megoldás az, hogy elmegyünk gyalog.",
+      "Egy lehetséges megoldás az, hogy megvárjuk holnapig."
+    ],
+    "b2": [
+      "Egy lehetséges megoldás az, hogy átcsoportosítjuk a meglévő erőforrásokat.",
+      "Egy lehetséges megoldás az, hogy online oktatásra váltunk átmenetileg.",
+      "Egy lehetséges megoldás az, hogy külső szakértőt vonunk be a projektbe.",
+      "Egy lehetséges megoldás az, hogy meghosszabbítjuk a pályázat leadási határidejét.",
+      "Egy lehetséges megoldás az, hogy automata rendszert vezetünk be a raktárban."
+    ],
+    "c1": [
+      "Egy lehetséges megoldás az, hogy vertikális integrációval optimalizáljuk az értékesítési láncot.",
+      "Egy lehetséges megoldás az, hogy a finanszírozási modellt alternatív tőkebevonással egészítjük ki.",
+      "Egy lehetséges megoldás az, hogy jogi úton rendezzük a vitás szellemi tulajdonjogokat.",
+      "Egy lehetséges megoldás az, hogy a belső protokoll szigorításával zárjuk ki a biztonsági réseket.",
+      "Egy lehetséges megoldás az, hogy a struktúra teljes átszervezésével hárítjuk el a stagnálást."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Mi lenne, ha ... helyett ...-t próbálnánk meg?",
+    "translation": "What if we tried ... instead of ...?",
+    "b1": [
+      "Mi lenne, ha busz helyett gyalog próbálnánk meg?",
+      "Mi lenne, ha kávé helyett teát próbálnánk meg?",
+      "Mi lenne, ha ma helyett holnap próbálnánk meg?",
+      "Mi lenne, ha film helyett könyvet próbálnánk meg?",
+      "Mi lenne, ha piros helyett kéket próbálnánk meg?"
+    ],
+    "b2": [
+      "Mi lenne, ha a hagyományos hirdetés helyett a közösségi médiás kampányt próbálnánk meg?",
+      "Mi lenne, ha a személyes megbeszélés helyett az online konferenciát próbálnánk meg?",
+      "Mi lenne, ha a külső cég megbízása helyett házon belül próbálnánk meg?",
+      "Mi lenne, ha az áremelés helyett a költségek csökkentését próbálnánk meg?",
+      "Mi lenne, ha a papíralapú ügyintézés helyett a digitális rendszert próbálnánk meg?"
+    ],
+    "c1": [
+      "Mi lenne, ha a reaktív kríziskezelés helyett a proaktív kockázatelemzést próbálnánk meg?",
+      "Mi lenne, ha a centralizált irányítás helyett az önvezető egységeket próbálnánk meg?",
+      "Mi lenne, ha a kvantitatív mutatók helyett a kvalitatív hatásvizsgálatot próbálnánk meg?",
+      "Mi lenne, ha a hagyományos banki hitel helyett a kockázati tőkebevonást próbálnánk meg?",
+      "Mi lenne, ha az egyoldalú döntéshozatal helyett a transzparens konszenzusteremtést próbálnánk meg?"
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Prioritásként kell kezelnünk ...-t.",
+    "translation": "We need to prioritize ...",
+    "b1": [
+      "Prioritásként kell kezelnünk a tanulást.",
+      "Prioritásként kell kezelnünk a munkát.",
+      "Prioritásként kell kezelnünk az egészséget.",
+      "Prioritásként kell kezelnünk a biztonságot.",
+      "Prioritásként kell kezelnünk a fizetést."
+    ],
+    "b2": [
+      "Prioritásként kell kezelnünk az ügyfelek elégedettségének növelését.",
+      "Prioritásként kell kezelnünk a határidők pontos betartását ebben a negyedévben.",
+      "Prioritásként kell kezelnünk a legkritikusabb szoftverhibák javítását.",
+      "Prioritásként kell kezelnünk a munkatársak folyamatos továbbképzését.",
+      "Prioritásként kell kezelnünk a költséghatékonyság javítását a projektekben."
+    ],
+    "c1": [
+      "Prioritásként kell kezelnünk a jogi és adatvédelmi megfelelés biztosítását.",
+      "Prioritásként kell kezelnünk a likviditási tartalékok stabilizálását a válság idején.",
+      "Prioritásként kell kezelnünk a stratégiai partnerekkel való hosszú távú szövetséget.",
+      "Prioritásként kell kezelnünk a humántőke megtartását a fokozódó munkaerőpiaci versenyben.",
+      "Prioritásként kell kezelnünk a kutatás-fejlesztési divízió finanszírozását."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Bontsuk a problémát ... részekre.",
+    "translation": "Let's break the problem down into ...",
+    "b1": [
+      "Bontsuk a problémát kisebb részekre.",
+      "Bontsuk a problémát két részre.",
+      "Bontsuk a problémát érthető részekre.",
+      "Bontsuk a problémát külön részekre.",
+      "Bontsuk a problémát egyszerű részekre."
+    ],
+    "b2": [
+      "Bontsuk a problémát technikai és pénzügyi részekre a könnyebb áttekinthetőségért.",
+      "Bontsuk a problémát rövid távú és hosszú távú feladatokra.",
+      "Bontsuk a problémát a különböző részlegek szerint érintett területekre.",
+      "Bontsuk a problémát az okok és a következmények vizsgálatára.",
+      "Bontsuk a problémát három kezelhető fázisra."
+    ],
+    "c1": [
+      "Bontsuk a problémát makrogazdasági, strukturális és operációs dimenziókra.",
+      "Bontsuk a problémát jogi, etikai és gazdasági kockázati tényezőkre.",
+      "Bontsuk a problémát belső szervezeti és külső piaci komponensekre.",
+      "Bontsuk a problémát elméleti premisszákra és gyakorlati végrehajtási fázisokra.",
+      "Bontsuk a problémát rendszerszintű anomáliákra és egyéni teljesítménybeli hiányosságokra."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Gondoltál ... hatására / következményeire?",
+    "translation": "Have you considered the impact of ...?",
+    "b1": [
+      "Gondoltál a döntés hatására?",
+      "Gondoltál az időjárás következményeire?",
+      "Gondoltál a változás hatására?",
+      "Gondoltál a hír következményeire?",
+      "Gondoltál a szó hatására?"
+    ],
+    "b2": [
+      "Gondoltál az áremelés hatására a vásárlói kedvvel kapcsolatban?",
+      "Gondoltál a távmunka következményeire a csapatszellem szempontjából?",
+      "Gondoltál a határidő-módosítás hatására a partnercégekre nézve?",
+      "Gondoltál az új szabályzat következményeire a mindennapi munkában?",
+      "Gondoltál a marketingkampány hatására a márkaimázsra?"
+    ],
+    "c1": [
+      "Gondoltál a jogszabály-változás hatására a hosszú távú beruházási stratégiánkra?",
+      "Gondoltál a humántőke elvándorlásának következményeire a kutatási kapacitásunkra?",
+      "Gondoltál a globális gazdasági trendek hatására a helyi piaci versenyképességünkre?",
+      "Gondoltál a strukturális reformok következményeire a társadalmi kohézióra?",
+      "Gondoltál a technológiai transzfer hatására a szellemi tulajdonjogaink védelmére?"
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Ennek egy módja az, hogy ...",
+    "translation": "One way around this is to ...",
+    "b1": [
+      "Ennek egy módja az, hogy kinyitod.",
+      "Ennek egy módja az, hogy megkérdezed.",
+      "Ennek egy módja az, hogy másfelé mész.",
+      "Ennek egy módja az, hogy korábbankel.",
+      "Ennek egy módja az, hogy fizetsz."
+    ],
+    "b2": [
+      "Ennek egy módja az, hogy közvetlenül egyeztetünk a felelős vezetővel.",
+      "Ennek egy módja az, hogy egyedi kedvezményt biztosítunk a hűséges ügyfeleknek.",
+      "Ennek egy módja az, hogy automatizáljuk a monoton adminisztratív feladatokat.",
+      "Ennek egy módja az, hogy részletekben fizetjük ki a megállapodott összeget.",
+      "Ennek egy módja az, hogy belső fórumot hozunk létre a félreértések tisztázására."
+    ],
+    "c1": [
+      "Ennek egy módja az, hogy strukturált arbitrázzsal oldjuk meg a jogi holtpontot.",
+      "Ennek egy módja az, hogy fedezeti ügyletekkel minimalizáljuk a piaci árfolyamkockázatot.",
+      "Ennek egy módja az, hogy konzorciumi együttműködéssel osztjuk meg a tőkeigényes beruházás terhét.",
+      "Ennek egy módja az, hogy harmadik fél bevonásával validáljuk a kutatási eredményeket.",
+      "Ennek egy módja az, hogy jogi kiskapu helyett törvénymódosítási kezdeményezéssel élünk."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Csökkenthetnénk a kockázatot azzal, hogy ...",
+    "translation": "We could mitigate the risk by ...",
+    "b1": [
+      "Csökkenthetnénk a kockázatot azzal, hogy óvatosabbak vagyunk.",
+      "Csökkenthetnénk a kockázatot azzal, hogy többet tanulunk.",
+      "Csökkenthetnénk a kockázatot azzal, hogy időben indulunk.",
+      "Csökkenthetnénk a kockázatot azzal, hogy megkérdezzük.",
+      "Csökkenthetnénk a kockázatot azzal, hogy ellenőrizzük."
+    ],
+    "b2": [
+      "Csökkenthetnénk a kockázatot azzal, hogy több független árajánlatot kérünk be.",
+      "Csökkenthetnénk a kockázatot azzal, hogy tartalék tervet készítünk a projekthez.",
+      "Csökkenthetnénk a kockázatot azzal, hogy jogász, ellenőriztetjük a szerződést.",
+      "Csökkenthetnénk a kockázatot azzal, hogy tesztfázist iktatunk be a bevezetés előtt.",
+      "Csökkenthetnénk a kockázatot azzal, hogy diverzifikáljuk a beszállítói körünket."
+    ],
+    "c1": [
+      "Csökkenthetnénk a kockázatot azzal, hogy átfogó impaktanalízist végzünk a döntés előtt.",
+      "Csökkenthetnénk a kockázatot azzal, hogy nemzetközi garanciavállalást kötünk a tranzakcióra.",
+      "Csökkenthetnénk a kockázatot azzal, hogy a kritikus adatokról redundáns biztonsági mentést készítünk.",
+      "Csökkenthetnénk a kockázatot azzal, hogy etikai bizottsági jóváhagyást kérünk a kutatáshoz.",
+      "Csökkenthetnénk a kockázatot azzal, hogy fokozatos, fázisvezérelt tőkeallokációt alkalmazunk."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Talán meg kellene vizsgálnunk ... gyökerét / okát.",
+    "translation": "Perhaps we should look at the root cause of ...",
+    "b1": [
+      "Talán meg kellene vizsgálnunk a hiba okát.",
+      "Talán meg kellene vizsgálnunk a probléma gyökerét.",
+      "Talán meg kellene vizsgálnunk a dolog hátterét.",
+      "Talán meg kellene vizsgálnunk a helyzet okát.",
+      "Talán meg kellene vizsgálnunk a hiány okát."
+    ],
+    "b2": [
+      "Talán meg kellene vizsgálnunk a visszaeső eladások mögöttes okait.",
+      "Talán meg kellene vizsgálnunk a magas fluktuáció gyökerét a cégnél.",
+      "Talán meg kellene vizsgálnunk az ismétlődő technikai hibák hátterét.",
+      "Talán meg kellene vizsgálnunk az ügyfélpanaszok valódi gyökereit.",
+      "Talán meg kellene vizsgálnunk a kommunikációs zavarok fő okát."
+    ],
+    "c1": [
+      "Talán meg kellene vizsgálnunk a rendszerszintű anomáliák strukturális gyökereit.",
+      "Talán meg kellene vizsgálnunk a gazdasági stagnálás fundamentális okait.",
+      "Talán meg kellene vizsgálnunk az intézményi válság mögött húzódó morális krízist.",
+      "Talán meg kellene vizsgálnunk a piacon tapasztalható anomáliák kiváltó okát.",
+      "Talán meg kellene vizsgálnunk a bürokratikus elakadások mélyebb ok-okozati összefüggéseit."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "A legelső teendőnk az kell legyen, hogy ...",
+    "translation": "The immediate next step should be ...",
+    "b1": [
+      "A legelső teendőnk az kell legyen, hogy felhívjuk.",
+      "A legelső teendőnk az kell legyen, hogy kifizetjük.",
+      "A legelső teendőnk az kell legyen, hogy megkeressük.",
+      "A legelső teendőnk az kell legyen, hogy megkérdezzük.",
+      "A legelső teendőnk az kell legyen, hogy elindulunk."
+    ],
+    "b2": [
+      "A legelső teendőnk az kell legyen, hogy összehívjuk a projektcsapatot.",
+      "A legelső teendőnk az kell legyen, hogy tisztázzuk a félreértéseket az ügyféllel.",
+      "A legelső teendőnk az kell legyen, hogy leállítjuk a hibás rendszerelemet.",
+      "A legelső teendőnk az kell legyen, hogy felmérjük a pontos károkat.",
+      "A legelső teendőnk az kell legyen, hogy kiküldjük a hivatalos tájékoztatást."
+    ],
+    "c1": [
+      "A legelső teendőnk az kell legyen, hogy zároljuk a veszélyeztetett számlákat és adatbázisokat.",
+      "A legelső teendőnk az kell legyen, hogy hivatalos jogi egyeztetést kezdeményezzünk.",
+      "A legelső teendőnk az kell legyen, hogy megállítsuk a strukturális tőkekivonást.",
+      "A legelső teendőnk az kell legyen, hogy konszenzusra jussunk a felügyelőbizottsággal.",
+      "A legelső teendőnk az kell legyen, hogy vészhelyzeti protokoll alá vonjuk a divíziót."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Van valakinek eltérő véleménye ...-ről?",
+    "translation": "Does anyone have a different perspective on ...?",
+    "b1": [
+      "Van valakinek eltérő véleménye erről?",
+      "Van valakinek eltérő véleménye a tervről?",
+      "Van valakinek eltérő véleménye a filmről?",
+      "Van valakinek eltérő véleménye az ötletről?",
+      "Van valakinek eltérő véleménye a helyről?"
+    ],
+    "b2": [
+      "Van valakinek eltérő véleménye a javasolt költségvetési elosztásról?",
+      "Van valakinek eltérő véleménye a marketingstratégia irányáról?",
+      "Van valakinek eltérő véleménye a határidők módosításáról?",
+      "Van valakinek eltérő véleménye a jelölt alkalmasságáról?",
+      "Van valakinek eltérő véleménye a tervezett átszervezésről?"
+    ],
+    "c1": [
+      "Van valakinek eltérő véleménye a makrogazdasági előrejelzések interpretációjáról?",
+      "Van valakinek eltérő véleménye a strukturális reformok ütemezéséről?",
+      "Van valakinek eltérő véleménye a konzorciumi megállapodás feltételeiről?",
+      "Van valakinek eltérő véleménye az etikai bizottság által felvázolt irányelvekről?",
+      "Van valakinek eltérő véleménye a globális kockázatbecslés eredményeiről?"
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Rövid távon azt tehetjük, hogy ...",
+    "translation": "In the short term, we can do ...",
+    "b1": [
+      "Rövid távon azt tehetjük, hogy várunk egy kicsit.",
+      "Rövid távon azt tehetjük, hogy megvesszük olcsóbban.",
+      "Rövid távon azt tehetjük, hogy pihenünk.",
+      "Rövid távon azt tehetjük, hogy átvisszük holnapra.",
+      "Rövid távon azt tehetjük, hogy megkérdezzük a főnököt."
+    ],
+    "b2": [
+      "Rövid távon azt tehetjük, hogy befagyasztjuk a nem létszükségletű kiadásokat.",
+      "Rövid távon azt tehetjük, hogy manuális ügyintézéssel pótoljuk a kieső rendszert.",
+      "Rövid távon azt tehetjük, hogy túlórával ledolgozzuk a lemaradást.",
+      "Rövid távún azt tehetjük, hogy extra ügyfélszolgálati kapacitást vonunk be.",
+      "Rövid távon azt tehetjük, hogy átmeneti kedvezményekkel ösztönözzük a vevőket."
+    ],
+    "c1": [
+      "Rövid távon azt tehetjük, hogy áthidaló hitellel biztosítjuk a cég likviditását.",
+      "Rövid távon azt tehetjük, hogy moratóriumot hirdetünk a vitatott projektelemre.",
+      "Rövid távon azt tehetjük, hogy külső krízismenedzsmentet bízunk meg a tűzoltással.",
+      "Rövid távon azt tehetjük, hogy a kommunikációs válságstáb révén stabilizáljuk a közhangulatot.",
+      "Rövid távon azt tehetjük, hogy ideiglenes jogi védelem alatt folytatjuk a munkát."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Be kellene vezetnünk egy rendszert ...-re.",
+    "translation": "We should implement a system for ...",
+    "b1": [
+      "Be kellene vezetnünk egy rendszert a fizetésre.",
+      "Be kellene vezetnünk egy rendszert a bejelentkezésre.",
+      "Be kellene vezetnünk egy rendszert a kulcsokra.",
+      "Be kellene vezetnünk egy rendszert a tisztaságra.",
+      "Be kellene vezetnünk egy rendszert a rendelésre."
+    ],
+    "b2": [
+      "Be kellene vezetnünk egy rendszert a hibák gyors jelentésére.",
+      "Be kellene vezetnünk egy rendszert az ügyfelek visszajelzéseinek kezelésére.",
+      "Be kellene vezetnünk egy rendszert a munkaidő pontos követésére.",
+      "Be kellene vezetnünk egy rendszert a raktárkészlet automatikus ellenőrzésére.",
+      "Be kellene vezetnünk egy rendszert a belső információk megosztására."
+    ],
+    "c1": [
+      "Be kellene vezetnünk egy rendszert a transzparens teljesítményértékelésre és compliance-re.",
+      "Be kellene vezetnünk egy rendszert a prediktív kockázatkezelésre és adatelemzésre.",
+      "Be kellene vezetnünk egy rendszert a szellemi tulajdonjogok biztonságos kezelésére.",
+      "Be kellene vezetnünk egy rendszert a decentralizált beszerzések hitelesítésére.",
+      "Be kellene vezetnünk egy rendszert a fenntarthatósági mutatók mérésére."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Értékeljük az előnyöket és hátrányokat ...-ben / ...-nél.",
+    "translation": "Let's evaluate the pros and cons of ...",
+    "b1": [
+      "Értékeljük az előnyöket és hátrányokat ebben a dologban.",
+      "Értékeljük az előnyöket és hátrányokat a tervnél.",
+      "Értékeljük az előnyöket és hátrányokat az ajánlatban.",
+      "Értékeljük az előnyöket és hátrányokat a helyzetben.",
+      "Értékeljük az előnyöket és hátrányokat a döntésnél."
+    ],
+    "b2": [
+      "Értékeljük az előnyöket és hátrányokat a távmunka bevezetésénél.",
+      "Értékeljük az előnyöket és hátrányokat az új szoftver vásárlásánál.",
+      "Értékeljük az előnyöket és hátrányokat a külföldi terjeszkedésben.",
+      "Értékeljük az előnyöket és hátrányokat a kiszervezési folyamatban.",
+      "Értékeljük az előnyöket és hátrányokat az áremelésnél."
+    ],
+    "c1": [
+      "Értékeljük az előnyöket és hátrányokat a strukturális reorganizáció vonatkozásában.",
+      "Értékeljük az előnyöket és hátrányokat a tőzsdei bevezetés opciójánál.",
+      "Értékeljük az előnyöket és hátrányokat a kizárólagos licencszerződés megkötésében.",
+      "Értékeljük az előnyöket és hátrányokat a mesterséges intelligencia alapú automatizálásban.",
+      "Értékeljük az előnyöket és hátrányokat a nemzetközi konzorciumi tagságban."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "A siker érdekében először ...-vel kell foglalkoznunk.",
+    "translation": "To ensure success, we must first address ...",
+    "b1": [
+      "A siker érdekében először a tanulással kell foglalkoznunk.",
+      "A siker érdekében először a pénzzel kell foglalkoznunk.",
+      "A siker érdekében először a csapattal kell foglalkoznunk.",
+      "A siker érdekében először az alappal kell foglalkoznunk.",
+      "A siker érdekében először a tervezéssel kell foglalkoznunk."
+    ],
+    "b2": [
+      "A siker érdekében először a stabil alapok lerakásával kell foglalkoznunk.",
+      "A siker érdekében először a hiányzó jogosultságok beszerzésével kell foglalkoznunk.",
+      "A siker érdekében először a belső kommunikáció javításával kell foglalkoznunk.",
+      "A siker érdekében először a kulcsfontosságú partnerek megnyerésével kell foglalkoznunk.",
+      "A siker érdekében először a költségvetés jóváhagyásával kell foglalkoznunk."
+    ],
+    "c1": [
+      "A siker érdekében először a jogi keretrendszer tisztázásával kell foglalkoznunk.",
+      "A siker érdekében először a rendszerszintű biztonsági rések felszámolásával kell foglalkoznunk.",
+      "A siker érdekében először a tőkebevonási garanciák megszerzésével kell foglalkoznunk.",
+      "A siker érdekében először a humántőke stabilizálásával kell foglalkoznunk.",
+      "A siker érdekében először a nemzetközi standardoknak való megfelelőséggel kell foglalkoznunk."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "A legnagyobb akadály, ami az útban áll, az ...",
+    "translation": "The biggest obstacle standing in the way is ...",
+    "b1": [
+      "A legnagyobb akadály, ami az útban áll, az idő.",
+      "A legnagyobb akadály, ami az útban áll, a pénz.",
+      "A legnagyobb akadály, ami az útban áll, a távolság.",
+      "A legnagyobb akadály, ami az útban áll, a szabály.",
+      "A legnagyobb akadály, ami az útban áll, a nyelv."
+    ],
+    "b2": [
+      "A legnagyobb akadály, ami az útban áll, a szűkös költségvetés.",
+      "A legnagyobb akadály, ami az útban áll, a vezetőség ellenállása.",
+      "A legnagyobb akadály, ami az útban áll, a felkészült szakemberek hiánya.",
+      "A legnagyobb akadály, ami az útban áll, a szigorú törvényi szabályozás.",
+      "A legnagyobb akadály, ami az útban áll, a rosszul megválasztott határidő."
+    ],
+    "c1": [
+      "A legnagyobb akadály, ami az útban áll, a mélyen gyökerező bürokratikus inercia.",
+      "A legnagyobb akadály, ami az útban áll, a versenytársak által monopolisztikus piac.",
+      "A legnagyobb akadály, ami az útban áll, a kompatibilitási hiányosság a rendszerek között.",
+      "A legnagyobb akadály, ami az útban áll, a globális gazdasági volatilitás okozta bizonytalanság.",
+      "A legnagyobb akadály, ami az útban áll, az érdekelt felek közötti konszenzus hiánya."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Az általam javasolt megközelítés magában foglalja ...-t.",
+    "translation": "My proposed approach involves ...",
+    "b1": [
+      "Az általam javasolt megközelítés magában foglalja a megbeszélést.",
+      "Az általam javasolt megközelítés magában foglalja a tesztet.",
+      "Az általam javasolt megközelítés magában foglalja a segítségkérést.",
+      "Az általam javasolt megközelítés magában foglalja a változást.",
+      "Az általam javasolt megközelítés magában foglalja a munkát."
+    ],
+    "b2": [
+      "Az általam javasolt megközelítés magában foglalja a folyamatos ellenőrzést.",
+      "Az általam javasolt megközelítés magában foglalja a külső szakértők bevonását.",
+      "Az általam javasolt megközelítés magában foglalja a munkaidő rugalmasabbá tételét.",
+      "Az általam javasolt megközelítés magában foglalja a marketingbüdzsé növelését.",
+      "Az általam javasolt megközelítés magában foglalja a heti rendszeres státuszüléseket."
+    ],
+    "c1": [
+      "Az általam javasolt megközelítés magában foglalja a transzparens auditot és a fázisvezérelt tőkeallokációt.",
+      "Az általam javasolt megközelítés magában foglalja a szellemi tulajdonjogok jogi újraszabályozását.",
+      "Az általam javasolt megközelítés magában foglalja a decentralizált döntéshozatali struktúra kiépítését.",
+      "Az általam javasolt megközelítés magában foglalja a prediktív kockázatbecslési modellek alkalmazását.",
+      "Az általam javasolt megközelítés magában foglalja a nemzetközi konzorciumi partnerségek bővítését."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Talán a hiányzó láncszem az, hogy ...",
+    "translation": "Perhaps the missing piece is ...",
+    "b1": [
+      "Talán a hiányzó láncszem az, hogy nem kérdeztük meg.",
+      "Talán a hiányzó láncszem az, hogy nincs elég pénz.",
+      "Talán a hiányzó láncszem az, hogy nem tudjuk a címet.",
+      "Talán a hiányzó láncszem az, hogy hiányzik egy kulcs.",
+      "Talán a hiányzó láncszem az, hogy fáradtak vagyunk."
+    ],
+    "b2": [
+      "Talán a hiányzó láncszem az, hogy nem vontuk be a marketingeseket időben.",
+      "Talán a hiányzó láncszem az, hogy hiányzik a pontos visszajelzés a vevőktől.",
+      "Talán a hiányzó láncszem az, hogy nincsenek világosan definiált felelősségi körök.",
+      "Talán a hiányzó láncszem az, hogy a csapat nem ismeri az új szoftvert.",
+      "Talán a hiányzó láncszem az, hogy elfelejtettük tesztelni a rendszert."
+    ],
+    "c1": [
+      "Talán a hiányzó láncszem az, hogy a stratégiai tervezésből hiányzik a makrogazdasági adatok szintézise.",
+      "Talán a hiányzó láncszem az, hogy a jogi megfelelés nem épült be a fejlesztési fázisba.",
+      "Talán a hiányzó láncszem az, hogy a belső ösztönző rendszer nem támogatja az innovációt.",
+      "Talán a hiányzó láncszem az, hogy az empírikus adatok validációja elmaradt.",
+      "Talán a hiányzó láncszem az, hogy a vezetés és a végrehajtó stáb között megakadt a kommunikáció."
+    ]
+  }
+]

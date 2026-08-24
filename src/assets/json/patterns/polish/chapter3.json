@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Czy mógłbyś / mogłabyś ewentualnie ...?",
+    "translation": "Could you possibly ...?",
+    "b1": [
+      "Czy mógłbyś ewentualnie pożyczyć mi swój długopis?",
+      "Czy mogłabyś ewentualnie otworzyć okno?",
+      "Czy mógłbyś ewentualnie pomóc nam z tym zadaniem?",
+      "Czy mogłabyś ewentualnie kupić chleb po drodze?",
+      "Czy mógłbyś ewentualnie przysłać mi te zdjęcia?"
+    ],
+    "b2": [
+      "Czy mógłbyś ewentualnie przesunąć nasze spotkanie na czwartek?",
+      "Czy mogłabyś ewentualnie sprawdzić ten raport przed wysłaniem do klienta?",
+      "Czy mógłbyś ewentualnie polecić kogoś do pracy w naszym dziale?",
+      "Czy mogłabyś ewentualnie przygotować krótkie podsumowanie ostatnich wyników?",
+      "Czy mógłbyś ewentualnie zerknąć na ten dokument finansowy?"
+    ],
+    "c1": [
+      "Czy mógłbyś ewentualnie dokonać krytycznej rewizji założeń metodologicznych w tym projekcie badawczym?",
+      "Czy mogłabyś ewentualnie uwzględnić dodatkowe parametry ekologiczne w naszej strategii rozwoju?",
+      "Czy mógłbyś ewentualnie przyspieszyć procedurę weryfikacji dokumentacji przetargowej?",
+      "Czy mogłabyś ewentualnie zorganizować poufne konsultacje z naszymi partnerami zagranicznymi?",
+      "Czy mógłbyś ewentualnie podjąć się mediacji w tym sporze kompetencyjnym między działami?"
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Będę wdzięczny / wdzięczna, jeśli mogłbyś / mogłabyś ...",
+    "translation": "I would be grateful if you could ...",
+    "b1": [
+      "Będę wdzięczna, jeśli mogłabyś pomóc mi w nauce.",
+      "Będę wdzięczny, jeśli mógłbyś oddać mi książkę jutro.",
+      "Będę wdzięczna, jeśli mogłabyś zadzwonić do mnie wieczorem.",
+      "Będę wdzięczny, jeśli mógłbyś posprzątać pokój.",
+      "Będę wdzięczna, jeśli mogłabyś sprawdzić mój tekst."
+    ],
+    "b2": [
+      "Będę wdzięczny, jeśli mógłbyś przesłać mi brakujące dane do końca dnia.",
+      "Będę wdzięczna, jeśli mogłabyś potwierdzić naszą rezerwację w hotelu.",
+      "Będę wdzięczny, jeśli mógłbyś zaktualizować ten harmonogram prac.",
+      "Będę wdzięczna, jeśli mogłabyś przygotować materiały na jutrzejszą naradę.",
+      "Będę wdzięczny, jeśli mógłbyś skontaktować się z tym dostawcą."
+    ],
+    "c1": [
+      "Będę wdzięczny, jeśli mógłbyś sporządzić szczegółową ekspertyzę prawną dotyczącą tej umowy.",
+      "Będę wdzięczna, jeśli mogłabyś przeprowadzić dogłębną analizę ryzyka rynkowego.",
+      "Będę wdzięczny, jeśli mógłbyś uwzględnić moje uwagi w ostatecznej wersji raportu strategicznego.",
+      "Będę wdzięczna, jeśli mogłabyś zainicjować wewnętrzny audyt procedur bezpieczeństwa.",
+      "Będę wdzięczny, jeśli mógłbyś włączyć te postulaty do oficjalnego stanowiska zarządu."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Czy miałbyś / miałabyś coś przeciwko temu, żeby ...?",
+    "translation": "Would you mind ...?",
+    "b1": [
+      "Czy miałbyś coś przeciwko temu, żeby zamknąć drzwi?",
+      "Czy miałabyś coś przeciwko temu, żebyśmy usiedli tutaj?",
+      "Czy miałbyś coś przeciwko temu, żeby otworzyć okno?",
+      "Czy miałabyś coś przeciwko temu, żeby pożyczyć mi rower?",
+      "Czy miałbyś coś przeciwko temu, żeby przyjść dzisiaj wcześniej?"
+    ],
+    "b2": [
+      "Czy miałbyś coś przeciwko temu, żebyśmy zmienili termin dzisiejszego spotkania?",
+      "Czy miałabyś coś przeciwko temu, żeby przejąć moje obowiązki na czas urlopu?",
+      "Czy miałbyś coś przeciwko temu, żebyśmy przedyskutowali ten punkt na samym końcu?",
+      "Czy miałabyś coś przeciwko temu, żeby zaprosić na naradę nowego koordynatora?",
+      "Czy miałbyś coś przeciwko temu, żeby przesłać mi notatki z wczorajszej rozmowy?"
+    ],
+    "c1": [
+      "Czy miałbyś coś przeciwko temu, żebyśmy poddali pod wątpliwość dotychczasowe założenia budżetowe?",
+      "Czy miałabyś coś przeciwko temu, żeby wstrzymać publikację komunikatu prasowego do wyjaśnienia sprawy?",
+      "Czy miałbyś coś przeciwko temu, żeby rozszerzyć zakres planowanego audytu o kwestie compliance?",
+      "Czy miałabyś coś przeciwko temu, żeby odroczyć ostateczną decyzję do czasu uzyskania opinii eksperta?",
+      "Czy miałbyś coś przeciwko temu, żeby zmodyfikować strukturę naszego wniosku grantowego?"
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Piszę, aby poprosić o ...",
+    "translation": "I'm writing to request ...",
+    "b1": [
+      "Piszę, aby poprosić o dodatkowe informacje o kursie.",
+      "Piszę, aby poprosić o zmianę terminu rezerwacji.",
+      "Piszę, aby poprosić o zaświadczenie ze szkoły.",
+      "Piszę, aby poprosić o zwrot kosztów biletu.",
+      "Piszę, aby poprosić o przesłanie nowego cennika."
+    ],
+    "b2": [
+      "Piszę, aby poprosić o oficjalne potwierdzenie naszego zlecenia.",
+      "Piszę, aby poprosić o wgląd do dokumentacji technicznej projektu.",
+      "Piszę, aby poprosić o urlop w dniach od 10 do 15 lipca.",
+      "Piszę, aby poprosić o wydłużenie czasu spłaty naszej faktury.",
+      "Piszę, aby poprosić o dostarczenie materiałów promocyjnych do biura."
+    ],
+    "c1": [
+      "Piszę, aby poprosić o udostępnienie poufnych akt sprawy w trybie dostępu do informacji publicznej.",
+      "Piszę, aby poprosić o formalną rewizję warunków umowy ramowej w świetle nowych przepisów.",
+      "Piszę, aby poprosić o delegowanie niezależnego eksperta do komisji rozjemczej.",
+      "Piszę, aby poprosić o pilną interwencję w sprawie naruszenia praw autorskich naszej marki.",
+      "Piszę, aby poprosić o wstrzymanie egzekucji decyzji administracyjnej do czasu rozpatrzenia odwołania."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Potrzebuję ... do końca ...",
+    "translation": "I need ... by the end of ...",
+    "b1": [
+      "Potrzebuję tej książki do końca tygodnia.",
+      "Potrzebuję twojej odpowiedzi do końca dnia.",
+      "Potrzebuję tych dokumentów do końca miesiąca.",
+      "Potrzebuję urlopu do końca sierpnia.",
+      "Potrzebuję nowego komputera do końca roku."
+    ],
+    "b2": [
+      "Potrzebuję zatwierdzonego budżetu do końca tego tygodnia.",
+      "Potrzebuję kompletnego raportu sprzedaży do końca bieżącego miesiąca.",
+      "Potrzebuję opinii prawnej w tej sprawie do końca czwartku.",
+      "Potrzebuję listy uczestników szkolenia do końca dnia roboczego.",
+      "Potrzebuję wstępnego projektu nowej strony do końca kwartału."
+    ],
+    "c1": [
+      "Potrzebuję ostatecznych wyników badań klinicznych do końca bieżącego cyklu rozliczeniowego.",
+      "Potrzebuję skonsolidowanego bilansu strat i zysków do końca przedostatniego dnia miesiąca.",
+      "Potrzebuję pisemnej zgody organu nadzorczego do końca okresu przejściowego.",
+      "Potrzebuję pełnej specyfikacji technicznej nowej infrastruktury do końca kwartału rozliczeniowego.",
+      "Potrzebuję opinii komitetu etycznego do końca etapu przygotowawczego projektu."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Czy istnieje jakakolwiek szansa na to, że ...?",
+    "translation": "Is there any chance of ...?",
+    "b1": [
+      "Czy istnieje jakakolwiek szansa na to, że dostaniemy zniżkę?",
+      "Czy istnieje jakakolwiek szansa na to, że pójdziemy do kina dzisiaj?",
+      "Czy istnieje jakakolwiek szansa na to, że pogoda się poprawi?",
+      "Czy istnieje jakakolwiek szansa na to, że znajdziesz wolny stolik?",
+      "Czy istnieje jakakolwiek szansa na to, że wygramy ten mecz?"
+    ],
+    "b2": [
+      "Czy istnieje jakakolwiek szansa na to, że termin oddania projektu zostanie przedłużony?",
+      "Czy istnieje jakakolwiek szansa na to, że klient zaakceptuje naszą nową ofertę cenową?",
+      "Czy istnieje jakakolwiek szansa na to, że dostaniemy dodatkowe fundusze na ten cel?",
+      "Czy istnieje jakakolwiek szansa na to, że zwolni się miejsce na tym szkoleniu?",
+      "Czy istnieje jakakolwiek szansa na to, że naprawią ten błąd systemowy jeszcze dziś?"
+    ],
+    "c1": [
+      "Czy istnieje jakakolwiek szansa na to, że sąd uwzględni nasz wniosek o zawieszenie postępowania?",
+      "Czy istnieje jakakolwiek szansa na to, że ministerstwo zmieni zdanie w sprawie tej kontrowersyjnej reformy?",
+      "Czy istnieje jakakolwiek szansa na to, że inwestor wycofa się z warunków blokujących transakcję?",
+      "Czy istnieje jakakolwiek szansa na to, że niezależni eksperci zakwestionują wiarygodność tamtego audytu?",
+      "Czy istnieje jakakolwiek szansa na to, że uda się osiągnąć konsensus na nadchodzącym szczycie?"
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Czy mógłbym / mogłabym prosić cię o skupienie się szczególnie na ...?",
+    "translation": "Could I ask you to specifically focus on ...?",
+    "b1": [
+      "Czy mogłabym prosić cię o skupienie się szczególnie na tej części tekstu?",
+      "Czy mógłbym prosić cię o skupienie się szczególnie na błędach gramatycznych?",
+      "Czy mogłabym prosić cię o skupienie się szczególnie na wymowie?",
+      "Czy mógłbym prosić cię o skupienie się szczególnie na tym zadaniu?",
+      "Czy mogłabym prosić cię o skupienie się szczególnie na słownictwie?"
+    ],
+    "b2": [
+      "Czy mógłbym prosić cię o skupienie się szczególnie na analizie konkurencji w nowym raporcie?",
+      "Czy mogłabym prosić cię o skupienie się szczególnie na optymalizacji kosztów operacyjnych?",
+      "Czy mógłbym prosić cię o skupienie się szczególnie na potrzebach naszych kluczowych klientów?",
+      "Czy mogłabym prosić cię o skupienie się szczególnie na procedurach bezpieczeństwa w dziale IT?",
+      "Czy mógłbym prosić cię o skupienie się szczególnie na terminowości dostaw od tego partnera?"
+    ],
+    "c1": [
+      "Czy mógłbym prosić cię o skupienie się szczególnie na makroekonomicznych uwarunkowaniach inflacji w tej analizie?",
+      "Czy mogłabym prosić cię o skupienie się szczególnie na prawnych aspektach ochrony danych osobowych?",
+      "Czy mógłbym prosić cię o skupienie się szczególnie na strukturalnych przyczynach kryzysu w tamtym regionie?",
+      "Czy mogłabym prosić cię o skupienie się szczególnie na epistemologicznych podstawach tej teorii naukowej?",
+      "Czy mógłbym prosić cię o skupienie się szczególnie na etycznych implikacjach wdrażania sztucznej inteligencji?"
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Proszę upewnić się, że włączono / uwzględniono ...",
+    "translation": "Please make sure to include ...",
+    "b1": [
+      "Proszę upewnić się, że uwzględniono wszystkie koszty.",
+      "Proszę upewnić się, że włączono do planu tę wycieczkę.",
+      "Proszę upewnić się, że uwzględniono mój adres w zgłoszeniu.",
+      "Proszę upewnić się, że włączono światła w samochodzie.",
+      "Proszę upewnić się, że uwzględniono wszystkie uwagi."
+    ],
+    "b2": [
+      "Proszę upewnić się, że uwzględniono w budżecie koszty ewentualnych szkoleń.",
+      "Proszę upewnić się, że włączono do raportu dane z ostatniego kwartału.",
+      "Proszę upewnić się, że uwzględniono preferencje klientów w nowej ofercie.",
+      "Proszę upewnić się, że włączono wszystkie wymagane załączniki do dokumentacji.",
+      "Proszę upewnić się, że uwzględniono opinie ekspertów z naszej branży."
+    ],
+    "c1": [
+      "Proszę upewnić się, że uwzględniono długofalowe skutki środowiskowe w analizie wykonalności projektu.",
+      "Proszę upewnić się, że włączono do umowy klauzule zabezpieczające przed ryzykiem walutowym.",
+      "Proszę upewnić się, że uwzględniono międzynarodowe standardy raportowania niefinansowego.",
+      "Proszę upewnić się, że włączono do protokołu wszystkie zgłoszone przez opozycję poprawki.",
+      "Proszę upewnić się, że uwzględniono kryteria zrównoważonego rozwoju w specyfikacji przetargowej."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Czy byłoby możliwe podanie szczegółów dotyczących ...?",
+    "translation": "Would it be possible for you to provide details on ...?",
+    "b1": [
+      "Czy byłoby możliwe podanie szczegółów dotyczących tej wycieczki?",
+      "Czy byłoby możliwe podanie szczegółów dotyczących nowego kursu?",
+      "Czy byłoby możliwe podanie szczegółów dotyczących wynajmu mieszkania?",
+      "Czy byłoby możliwe podanie szczegółów dotyczących godziny spotkania?",
+      "Czy byłoby możliwe podanie szczegółów dotyczących ceny biletu?"
+    ],
+    "b2": [
+      "Czy byłoby możliwe podanie szczegółów dotyczących warunków współpracy z nowym dostawcą?",
+      "Czy byłoby możliwe podanie szczegółów dotyczących harmonogramu wdrażania systemu?",
+      "Czy byłoby możliwe podanie szczegółów dotyczących struktury kosztów tego projektu?",
+      "Czy byłoby możliwe podanie szczegółów dotyczących kryteriów oceny pracowników?",
+      "Czy byłoby możliwe podanie szczegółów dotyczących planowanych zmian organizacyjnych?"
+    ],
+    "c1": [
+      "Czy byłoby możliwe podanie szczegółów dotyczących mechanizmów finansowania tej inwestycji strukturalnej?",
+      "Czy byłoby możliwe podanie szczegółów dotyczących kryteriów prawnych zastosowania tej procedury nadzwyczajnej?",
+      "Czy byłoby możliwe podanie szczegółów dotyczących metodologii przeprowadzonych testów bezpieczeństwa?",
+      "Czy byłoby możliwe podanie szczegółów dotyczących założeń makroekonomicznych przyjętych w prognozie?",
+      "Czy byłoby możliwe podanie szczegółów dotyczących relacji kapitałowych między powiązanymi spółkami?"
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Niestety, nie będę w stanie ...",
+    "translation": "Unfortunately, I won't be able to ...",
+    "b1": [
+      "Niestety, nie będę w stanie przyjść na twoje urodziny.",
+      "Niestety, nie będę w stanie pomóc ci dzisiaj po południu.",
+      "Niestety, nie będę w stanie zdążyć na ten pociąg.",
+      "Niestety, nie będę w stanie kupić tego biletu.",
+      "Niestety, nie będę w stanie odpowiedzieć na to pytanie."
+    ],
+    "b2": [
+      "Niestety, nie będę w stanie uczestniczyć w dzisiejszym spotkaniu zarządu.",
+      "Niestety, nie będę w stanie ukończyć tego raportu przed końcem tygodnia.",
+      "Niestety, nie będę w stanie przyjąć tego zlecenia z powodu braku wolnych terminów.",
+      "Niestety, nie będę w stanie dojechać na konferencję z przyczyn osobistych.",
+      "Niestety, nie będę w stanie zapewnić wsparcia technicznego w tym tygodniu."
+    ],
+    "c1": [
+      "Niestety, nie będę w stanie podpisać się pod rekomendacjami komitetu ze względów merytorycznych.",
+      "Niestety, nie będę w stanie zagwarantować terminowości dostaw w warunkach obecnego kryzysu logistycznego.",
+      "Niestety, nie będę w stanie zaakceptować warunków umowy niespełniających standardów compliance.",
+      "Niestety, nie będę w stanie wziąć udziału w pracach nad nowelizacją ustawy ze względu na konflikty interesów.",
+      "Niestety, nie będę w stanie zweryfikować poprawności danych w tak rygorystycznym reżimie czasowym."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Obawiam się, że muszę odmówić / odrzucić ...",
+    "translation": "I'm afraid I have to decline ...",
+    "b1": [
+      "Obawiam się, że muszę odmówić tej prośby.",
+      "Obawiam się, że muszę odrzucić to zaproszenie.",
+      "Obawiam się, że muszę odmówić zakupu.",
+      "Obawiam się, że muszę odmówić pomocy w tym temacie.",
+      "Obawiam się, że muszę odrzucić tę ofertę pracy."
+    ],
+    "b2": [
+      "Obawiam się, że muszę odrzucić proponowane warunki finansowe naszej umowy.",
+      "Obawiam się, że muszę odmówić udziału w tym projekcie z powodu nadmiaru obowiązków.",
+      "Obawiam się, że muszę odrzucić wniosek o urlop w tym terminie.",
+      "Obawiam się, że muszę odmówić wprowadzenia tych zmian bez zgody zarządu.",
+      "Obawiam się, że muszę odrzucić reklamację z powodu przekroczenia terminu."
+    ],
+    "c1": [
+      "Obawiam się, że muszę odrzucić tę propozycję współpracy ze względu na ryzyko reputacyjne.",
+      "Obawiam się, że muszę odmówić poparcia dla tej inicjatywy legislacyjnej w jej obecnym kształcie.",
+      "Obawiam się, że muszę odrzucić wyniki tego audytu z powodu poważnych uchybień metodologicznych.",
+      "Obawiam się, że muszę odmówić autoryzacji tekstu naruszającego zasady bezstronności.",
+      "Obawiam się, że muszę odrzucić wniosek o odstępstwo od procedury przetargowej."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "To brzmi wyzwająco, ponieważ ...",
+    "translation": "That sounds challenging because ...",
+    "b1": [
+      "To brzmi wyzywająco, ponieważ nigdy tego nie robiłem.",
+      "To brzmi wyzywająco, ponieważ mamy mało czasu.",
+      "To brzmi wyzywająco, ponieważ zadanie jest dość trudne.",
+      "To brzmi wyzywająco, ponieważ pogoda nie sprzyja.",
+      "To brzmi wyzywająco, ponieważ nie znamy jeszcze szczegółów."
+    ],
+    "b2": [
+      "To brzmi wyzywająco, ponieważ budżet na ten rok został już w pełni rozdysponowany.",
+      "To brzmi wyzywająco, ponieważ nasz zespół musi pracować jednocześnie nad trzema dużymi projektami.",
+      "To brzmi wyzywająco, ponieważ rynek docelowy jest bardzo konkurencyjny i nasycony.",
+      "To brzmi wyzywająco, ponieważ nowe przepisy wchodzą w życie z dnia na dzień.",
+      "To brzmi wyzywająco, ponieważ wymaga to całkowitej zmiany naszych przyzwyczajeń operacyjnych."
+    ],
+    "c1": [
+      "To brzmi wyzywająco, ponieważ godzi w fundamentalne interesy potężnych graczy rynkowych.",
+      "To brzmi wyzywająco, ponieważ strukturalna złożość problemu przewyższa nasze dotychczasowe zasoby analityczne.",
+      "To brzmi wyzywająco, ponieważ zderza się z głęboko zakorzenioną inercją instytucjonalną.",
+      "To brzmi wyzywająco, ponieważ wymaga pogodzenia sprzecznych paradygmatów prawnych dwóch jurysdykcji.",
+      "To brzmi wyzywająco, ponieważ skala planowanej transformacji niesie ze sobą ogromne ryzyko systemowe."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Chociaż doceniam tę propozycję, muszę z szacunkiem odmówić ...",
+    "translation": "While I appreciate the offer, I must respectfully refuse ...",
+    "b1": [
+      "Chociaż doceniam tę propozycję, muszę z szacunkiem odmówić pomocy.",
+      "Chociaż doceniam tę propozycję, muszę z szacunkiem odmówić wyjścia.",
+      "Chociaż doceniam tę propozycję, muszę z szacunkiem odmówić zakupu.",
+      "Chociaż doceniam tę propozycję, muszę z szacunkiem odmówić przyjęcia prezentu.",
+      "Chociaż doceniam tę propozycję, muszę z szacunkiem odmówić udziału."
+    ],
+    "b2": [
+      "Chociaż doceniam tę propozycję awansu, muszę z szacunkiem odmówić ze względów osobistych.",
+      "Chociaż doceniam tę propozycję współpracy, muszę z szacunkiem odmówić z uwagi na inne zobowiązania.",
+      "Chociaż doceniam tę propozycję dołączenia do zespołu, muszę z szacunkiem odmówić.",
+      "Chociaż doceniam tę propozycję patronatu, muszę z szacunkiem odmówić z braku czasu.",
+      "Chociaż doceniam tę propozycję testowania produktu, muszę z szacunkiem odmówić."
+    ],
+    "c1": [
+      "Chociaż doceniam tę propozycję objęcia kierownictwa nad komitetem, muszę z szacunkiem odmówić ze względu na konflikt interesów.",
+      "Chociaż doceniam tę propozycję udziału w debacie, muszę z szacunkiem odmówić z powodów etycznych.",
+      "Chociaż doceniam tę propozycję partnerstwa strategicznego, muszę z szacunkiem odmówić z uwagi na ograniczenia statutowe.",
+      "Chociaż doceniam tę propozycję przyjęcia funkcji doradczej, muszę z szacunkiem odmówić.",
+      "Chociaż doceniam tę propozycję publikacji mojego tekstu, muszę z szacunkiem odmówić z powodów praw autorskich."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Mój harmonogram nie pozwala mi na ...",
+    "translation": "My schedule doesn't permit me to ...",
+    "b1": [
+      "Mój harmonogram nie pozwala mi na dodatkowe spotkania w tym tygodniu.",
+      "Mój harmonogram nie pozwala mi na wyjazd w najbliższy weekend.",
+      "Mój harmonogram nie pozwala mi na podjęcie nowej pracy.",
+      "Mój harmonogram nie pozwala mi na dłuższy odpoczynek.",
+      "Mój harmonogram nie pozwala mi na codzienne treningi."
+    ],
+    "b2": [
+      "Mój harmonogram nie pozwala mi na zaangażowanie się w ten dodatkowy projekt badawczy.",
+      "Mój harmonogram nie pozwala mi na uczestnictwo w konferencji zagranicznej w przyszłym miesiącu.",
+      "Mój harmonogram nie pozwala mi na przyjęcie tak szybkiego terminu realizacji.",
+      "Mój harmonogram nie pozwala mi na regularne prowadzenie tych szkoleń.",
+      "Mój harmonogram nie pozwala mi na osobiste stawiennictwo na jutrzejszej naradzie."
+    ],
+    "c1": [
+      "Mój harmonogram nie pozwala mi na jednoczesne koordynowanie prac nad dwoma tak skomplikowanymi wdrożeniami.",
+      "Mój harmonogram nie pozwala mi na przyjęcie funkcji oficjalnego recenzenta w tym przewodzie habilitacyjnym.",
+      "Mój harmonogram nie pozwala mi na natychmiastowe włączenie się w prace nad kryzysowym pakietem legislacyjnym.",
+      "Mój harmonogram nie pozwala mi na odbycie długoterminowej wizyty studyjnej w centrali firmy.",
+      "Mój harmonogram nie pozwala mi na podjęcie dodatkowych zobowiązań eksperckich w tym kwartale."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Chciał(a)bym ..., ale obecnie jestem zajęty / zajęta ...",
+    "translation": "I wish I could ..., but currently I'm occupied with ...",
+    "b1": [
+      "Chciałbym ci pomóc, ale obecnie jestem zajęty nauką do egzaminu.",
+      "Chciałabym pójść z tobą do kina, ale obecnie jestem zajęta gotowaniem obiadów.",
+      "Chciałbym pojechać na wycieczkę, ale obecnie jestem zajęty pracą w ogrodzie.",
+      "Chciałabym oddzwonić później, ale obecnie jestem zajęta sprzątaniem.",
+      "Chciałbym kupić ten samochód, ale obecnie jestem zajęty oszczędzaniem."
+    ],
+    "b2": [
+      "Chciałbym wziąć udział w tym szkoleniu, ale obecnie jestem zajęty wdrażaniem nowego systemu w firmie.",
+      "Chciałabym zająć się tym raportem, ale obecnie jestem zajęta obsługą kluczowych klientów.",
+      "Chciałbym skonsultować ten pomysł z tobą, ale obecnie jestem zajęty przygotowaniem rocznego budżetu.",
+      "Chciałabym dołączyć do waszego zespołu, ale obecnie jestem zajęta koordynowaniem innej kampanii.",
+      "Chciałbym odpowiedzieć na twojego maila, ale obecnie jestem zajęty analizą wyników finansowych."
+    ],
+    "c1": [
+      "Chciałbym zaangażować się w tę debatę ekspercką, ale obecnie jestem zajęty pisaniem monografii naukowej.",
+      "Chciałabym przeanalizować te dane statystyczne, ale obecnie jestem zajęta audytem procedur instytucjonalnych.",
+      "Chciałbym podjąć się mediacji w tym sporze, ale obecnie jestem zajęty restrukturyzacją całego działu.",
+      "Chciałabym wziąć udział w tej misji obserwacyjnej, ale obecnie jestem zajęta przygotowaniem reformy prawnej.",
+      "Chciałbym zrecenzować ten artykuł, ale obecnie jestem zajęty oceną wniosków grantowych."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Możemy do tego wrócić w późniejszym terminie.",
+    "translation": "We can revisit ... later.",
+    "b1": [
+      "Możemy do tego pomysłu wrócić w późniejszym terminie.",
+      "Możemy do tej rozmowy wrócić w późniejszym terminie.",
+      "Możemy do zakupu tego radia wrócić w późniejszym terminie.",
+      "Możemy do tej wycieczki wrócić w późniejszym terminie.",
+      "Możemy do tego planu wrócić w późniejszym terminie."
+    ],
+    "b2": [
+      "Możemy do tej propozycji współpracy wrócić w późniejszym terminie, gdy sytuacja się uspokoi.",
+      "Możemy do wyboru nowego dostawcy oprogramowania wrócić w późniejszym terminie.",
+      "Możemy do kwestii podwyżek płac wrócić w późniejszym terminie, po zamknięciu kwartału.",
+      "Możemy do zmian w strukturze organizacyjnej wrócić w późniejszym terminie.",
+      "Możemy do tej strategii marketingowej wrócić w późniejszym terminie, na kolejnym spotkaniu."
+    ],
+    "c1": [
+      "Możemy do tej koncepcji reformy strukturalnej wrócić w późniejszym terminie, po ustabilizowaniu się sytuacji makroekonomicznej.",
+      "Możemy do kwestii renegocjacji umowy międzynarodowej wrócić w późniejszym terminie, po wyborach.",
+      "Możemy do rozpatrzenia tego wniosku grantowego wrócić w późniejszym terminie, w kolejnym naborze.",
+      "Możemy do sporu kompetencyjnego między departamentami wrócić w późniejszym terminie, po mediacji.",
+      "Możemy do wdrożenia tamtej innowacji technologicznej wrócić w późniejszym terminie, po rozwianiu wątpliwości prawnych."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Polecam porozmawiać z ... na temat ...",
+    "translation": "I recommend speaking to ... about ...",
+    "b1": [
+      "Polecam porozmawiać z szefem na temat twojego urlopu.",
+      "Polecam porozmawiać z nauczycielem na temat tej oceny.",
+      "Polecam porozmawiać z sąsiadem na temat hałasu.",
+      "Polecam porozmawiać z mamą na temat tego wyjazdu.",
+      "Polecam porozmawiać z kolegiem na temat projektu."
+    ],
+    "b2": [
+      "Polecam porozmawiać z kierownikiem działu IT na temat problemów z siecią.",
+      "Polecam porozmawiać z działem księgowości na temat rozliczenia delegacji.",
+      "Polecam porozmawiać z naszym głównym prawnikiem na temat tej klauzuli w umowie.",
+      "Polecam porozmawiać z koordynatorem projektu na temat zmian w harmonogramie.",
+      "Polecam porozmawiać z działem HR na temat możliwości dofinansowania kursu."
+    ],
+    "c1": [
+      "Polecam porozmawiać z rzecznikiem praw obywatelskich na temat konstytucyjności tego przepisu.",
+      "Polecam porozmawiać z głównym analitykiem finansowym na temat ryzyka walutowego w transakcji.",
+      "Polecam porozmawiać z przewodniczącym komisji rewizyjnej na temat uchybień w procedurze.",
+      "Polecam porozmawiać z niezależnym ekspertem ds. compliance na temat wdrażania nowych standardów.",
+      "Polecam porozmawiać z dyrektorem instytutu badawczego na temat grantu celowego."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Moim priorytetem w tej chwili jest ..., więc muszę odmówić.",
+    "translation": "My priority right now is ..., so I must decline.",
+    "b1": [
+      "Moim priorytetem w tej chwili jest nauka do egzaminu, więc muszę odmówić wyjścia.",
+      "Moim priorytetem w tej chwili jest zdrowie, więc muszę odmówić udziału w zawodach.",
+      "Moim priorytetem w tej chwili jest praca, więc muszę odmówić tej prośby.",
+      "Moim priorytetem w tej chwili jest oszczędzanie, więc muszę odmówić zakupu.",
+      "Moim priorytetem w tej chwili jest odpoczynek, więc muszę odmówić spotkania."
+    ],
+    "b2": [
+      "Moim priorytetem w tej chwili jest terminowe zakończenie kluczowego projektu dla klienta, więc muszę odmówić przyjęcia nowych zadań.",
+      "Moim priorytetem w tej chwili jest stabilizacja finansowa firmy, więc muszę odmówić inwestycji w ten pomysł.",
+      "Moim priorytetem w tej chwili jest reorganizacja mojego zespołu, więc muszę odmówić wyjazdu na konferencję.",
+      "Moim priorytetem w tej chwili jest wdrożenie nowego systemu bezpieczeństwa, więc muszę odmówić audytu zewnętrznego.",
+      "Moim priorytetem w tej chwili jest rekrutacja brakujących specjalistów, więc muszę odmówić udziału w tym panelu."
+    ],
+    "c1": [
+      "Moim priorytetem w tej chwili jest obrona przyjętej strategii przed sądem arbitrażowym, więc muszę odmówić zaangażowania w inne spory.",
+      "Moim priorytetem w tej chwili jest restrukturyzacja zadłużenia spółki, więc muszę odmówić rozpatrywania nowych wniosków inwestycyjnych.",
+      "Moim priorytetem w tej chwili jest zakończenie kluczowego badania klinicznego, więc muszę odmówić pisania artykułów przeglądowych.",
+      "Moim priorytetem w tej chwili jest wdrożenie unijnych dyrektyw w strukturach urzędu, więc muszę odmówić delegacji zagranicznych.",
+      "Moim priorytetem w tej chwili jest ochrona własności intelektualnej naszej technologii, więc muszę odmówić udostępnienia kodu źródłowego."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Czy mógłbyś / mogłabyś wyjaśnić, co masz na myśli, mówiąc ...?",
+    "translation": "Could you please clarify what you mean by ...?",
+    "b1": [
+      "Czy mógłbyś wyjaśnić, co masz na myśli, mówiąc, że to skomplikowane?",
+      "Czy mogłabyś wyjaśnić, co masz na myśli, mówiąc, że jesteś zajęta?",
+      "Czy mógłbyś wyjaśnić, co masz na myśli, mówiąc, że to za droga?",
+      "Czy mogłabyś wyjaśnić, co masz na myśli, mówiąc, że zmieniłaś zdanie?",
+      "Czy mógłbyś wyjaśnić, co masz na myśli, mówiąc, że jutro nie przyjedziesz?"
+    ],
+    "b2": [
+      "Czy mógłbyś wyjaśnić, co masz na myśli, mówiąc, że nasz plan wymaga całkowitej restrukturyzacji?",
+      "Czy mogłabyś wyjaśnić, co masz na myśli, mówiąc, że klient nie jest do końca zadowolony z efektów?",
+      "Czy mógłbyś wyjaśnić, co masz na myśli, mówiąc, że te przepisy stwarzają ryzyko prawne?",
+      "Czy mogłabyś wyjaśnić, co masz na myśli, mówiąc, że budżet na ten kwartał zostanie obcięty?",
+      "Czy mógłbyś wyjaśnić, co masz na myśli, mówiąc, że musimy zmienić dostawcę w trybie natychmiastowym?"
+    ],
+    "c1": [
+      "Czy mógłbyś wyjaśnić, co masz na myśli, mówiąc, że paradygmat ekonomiczny tego projektu jest fundamentalnie błędny?",
+      "Czy mogłabyś wyjaśnić, co masz na myśli, mówiąc, że instytucjonalna niezależność tego organu została naruszona?",
+      "Czy mógłbyś wyjaśnić, co masz na myśli, mówiąc, że nasza metoda badawcza obarczona jest błędem systemowym?",
+      "Czy mogłabyś wyjaśnić, co masz na myśli, mówiąc, że ta klauzula umowna ma charakter abuzywny?",
+      "Czy mógłbyś wyjaśnić, co masz na myśli, mówiąc, że dyskurs publiczny wokół tej reformy jest całkowicie zmanipulowany?"
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Gdybyś mógł / mogła po prostu ..., to byłaby wielka pomoc.",
+    "translation": "If you could just ..., that would be a great help.",
+    "b1": [
+      "Gdybyś mógł po prostu kupić mleko, to byłaby wielka pomoc.",
+      "Gdybyś mogła po prostu przesłać mi ten plik, to byłaby wielka pomoc.",
+      "Gdybyś mógł po prostu zamknąć drzwi, to byłaby wielka pomoc.",
+      "Gdybyś mogła po prostu potwierdzić obecność, to byłaby wielka pomoc.",
+      "Gdybyś mógł po prostu oddzwonić później, to byłaby wielka pomoc."
+    ],
+    "b2": [
+      "Gdybyś mógł po prostu podpisać tę fakturę dzisiaj, to byłaby wielka pomoc.",
+      "Gdybyś mogła po prostu sprawdzić te błędy w tekście, to byłaby wielka pomoc.",
+      "Gdybyś mógł po prostu przesłać listę uczestników do dzisiejszego popołudnia, to byłaby wielka pomoc.",
+      "Gdybyś mogła po prostu zarezerwować ten pokój w hotelu, to byłaby wielka pomoc.",
+      "Gdybyś mógł po prostu zaktualizować status naszego zamówienia, to byłaby wielka pomoc."
+    ],
+    "c1": [
+      "Gdybyś mógł po prostu parafować te kluczowe anekse do umowy, to byłaby wielka pomoc w sfinalizowaniu transakcji.",
+      "Gdybyś mogła po prostu zweryfikować zgodność tych danych z wymogami GDPR, to byłaby wielka pomoc dla zespołu compliance.",
+      "Gdybyś mógł po prostu zatwierdzić ostateczną wersję kosztorysu przed posiedzeniem zarządu, to byłaby wielka pomoc.",
+      "Gdybyś mogła po prostu przesłać zredagowane streszczenie raportu do północy, to byłaby wielka pomoc dla wydawcy.",
+      "Gdybyś mógł po prostu podpisać pismo przewodnie do ministerstwa, to byłaby wielka pomoc w dotrzymaniu terminu."
+    ]
+  }
+]

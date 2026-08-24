@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Véleményem szerint, ...",
+    "translation": "In my opinion, ...",
+    "b1": [
+      "Véleményem szerint ez a film nagyon érdekes.",
+      "Véleményem szerint több zöldséget kellene ennünk.",
+      "Véleményem szerint a város túl zajos nyáron.",
+      "Véleményem szerint magyarul tanulni jó kihívás.",
+      "Véleményem szerint ma délután esni fog."
+    ],
+    "b2": [
+      "Véleményem szerint a kormánynak többet kellene beruháznia a megújuló energiákba.",
+      "Véleményem szerint a távmunka elősegíti a munka és a magánélet jobb egyensúlyát.",
+      "Véleményem szerint ez a reform nem felel meg a polgárok elvárásainak.",
+      "Véleményem szerint alapvető fontosságú a fiatalok környezetvédelemre való ösztönzése.",
+      "Véleményem szerint a globalizációnak összetett hatása van a helyi kultúrákra."
+    ],
+    "c1": [
+      "Véleményem szerint a digitális eszközök mindenütt jelenléte észrevétlenül rontja a koncentrációs képességünket.",
+      "Véleményem szerint ezt a problémát nem lehet fokozott nemzetközi szintű egyeztetés nélkül megoldani.",
+      "Véleményem szerint e mű esztétikája túllép a kor hagyományos kódjain.",
+      "Véleményem szerint illúzió lenne azt hinni, hogy a gazdasági növekedés végtelen lehet.",
+      "Véleményem szerint a munkahelyek bizonytalansága jelentős akadályt képez a társadalmi kibontakozás előtt."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Úgy vélem, hogy ...",
+    "translation": "I believe that ...",
+    "b1": [
+      "Úgy vélem, hogy holnap jó idő lesz.",
+      "Úgy vélem, hogy fontos sokat olvasni.",
+      "Úgy vélem, hogy a sport egészséges.",
+      "Úgy vélem, hogy ez a könyv nagyon hasznos.",
+      "Úgy vélem, hogy a segítség jó dolog."
+    ],
+    "b2": [
+      "Úgy vélem, hogy a fiataloknak több lehetőségre van szükségük a munkaerőpiacon.",
+      "Úgy vélem, hogy az oktatási rendszernek alkalmazkodnia kell a modern kihívásokhoz.",
+      "Úgy vélem, hogy a kulturális sokszínűség gazdagítja a társadalmat.",
+      "Úgy vélem, hogy a stressz kezelése kulcsfontosságú a mentális egészség szempontjából.",
+      "Úgy vélem, hogy a technológiai fejlődés alapvetően változtatja meg az életünket."
+    ],
+    "c1": [
+      "Úgy vélem, hogy a jelenlegi gazdasági modell fenntarthatatlanná vált hosszú távon.",
+      "Úgy vélem, hogy az információáramlás sebessége alapjaiban alakítja át a kritikus gondolkodásunkat.",
+      "Úgy vélem, hogy az egyéni szabadságjogok nem sérthetik a közösség biztonságát.",
+      "Úgy vélem, hogy a művészetek támogatása elengedhetetlen a nemzeti identitás megőrzéséhez.",
+      "Úgy vélem, hogy a tudományos kutatások finanszírozása elsőbbséget kell, hogy élvezzen."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Nekem úgy tűnik, hogy ...",
+    "translation": "It seems to me that ...",
+    "b1": [
+      "Nekem úgy tűnik, hogy fáradt vagy.",
+      "Nekem úgy tűnik, hogy nem érted a problémát.",
+      "Nekem úgy tűnik, hogy ez a feladat nehéz.",
+      "Nekem úgy tűnik, hogy szereted a zenét.",
+      "Nekem úgy tűnik, hogy ő nagyon kedves."
+    ],
+    "b2": [
+      "Nekem úgy tűnik, hogy a döntéshozók figyelmen kívül hagyják a lakosság véleményét.",
+      "Nekem úgy tűnik, hogy a vállalkozások egyre inkább a digitális marketingre támaszkodnak.",
+      "Nekem úgy tűnik, hogy a hagyományos értékek lassan háttérbe szorulnak.",
+      "Nekem úgy tűnik, hogy a közösségi média túlságosan befolyásolja a mindennapjainkat.",
+      "Nekem úgy tűnik, hogy a turizmus növekedése komoly terhet ró a városra."
+    ],
+    "c1": [
+      "Nekem úgy tűnik, hogy a politikai diskurzus egyre inkább a felszínesség felé tolódik el.",
+      "Nekem úgy tűnik, hogy a mesterséges intelligencia térnyerése paradigmaváltást hoz a munka világában.",
+      "Nekem úgy tűnik, hogy a modern ember elidegenedése a természettől visszafordíthatatlan folyamat.",
+      "Nekem úgy tűnik, hogy a kulturális homogenizáció veszélyezteti a helyi sajátosságokat.",
+      "Nekem úgy tűnik, hogy a tudományos diskurzus és a közvélemény közötti szakadék mélyül."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Az én szemszögemből, ...",
+    "translation": "From my perspective, ...",
+    "b1": [
+      "Az én szemszögemből ez a helyzet nem olyan rossz.",
+      "Az én szemszögemből a tanulás a legfontosabb most.",
+      "Az én szemszögemből a barátság mindennél értékesebb.",
+      "Az én szemszögemből ez a munka érdekes.",
+      "Az én szemszögemből a döntés helyes volt."
+    ],
+    "b2": [
+      "Az én szemszögemből a külföldi tapasztalatszerzés kulcsfontosságú a személyes fejlődéshez.",
+      "Az én szemszögemből a vállalatok sikerének alapja az elégedett munkaerő.",
+      "Az én szemszögemből a helyi termékek támogatása gazdasági kérdés is.",
+      "Az én szemszögemből az egészségügyi reformok halaszthatatlanok.",
+      "Az én szemszögemből a nyelvek ismerete megkönnyíti a kultúrák közötti megértést."
+    ],
+    "c1": [
+      "Az én szemszögemből a globalizált gazdaság kihívásai új típusú kompetenciákat követelnek meg.",
+      "Az én szemszögemből a kulturális örökség védelme nem zárja ki a modernizációt.",
+      "Az én szemszögemből a szociális egyenlőtlenségek kezelése államfenntartó érdek.",
+      "Az én szemszögemből a művészi kifejezés szabadsága abszolút érték kell legyen.",
+      "Az én szemszögemből a geopolitikai változások alapvetően írják át a kereskedelmi útvonalakat."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Határozottan úgy érzem, hogy ...",
+    "translation": "I strongly feel that ...",
+    "b1": [
+      "Határozottan úgy érzem, hogy pihennem kell.",
+      "Határozottan úgy érzem, hogy ez a döntés helyes.",
+      "Határozottan úgy érzem, hogy szeretem ezt a várost.",
+      "Határozottan úgy érzem, hogy ma jó napunk lesz.",
+      "Határozottan úgy érzem, hogy ezt meg kell tennünk."
+    ],
+    "b2": [
+      "Határozottan úgy érzem, hogy a munkahelyi légkör fontosabb, mint a fizetés.",
+      "Határozottan úgy érzem, hogy a fiatalokat jobban be kell vonni a közösségi életbe.",
+      "Határozottan úgy érzem, hogy a művészeteknek nagyobb teret kellene kapniuk az iskolákban.",
+      "Határozottan úgy érzem, hogy a klímaváltozás elleni küzdelem mindannyiunk közös feladata.",
+      "Határozottan úgy érzem, hogy az őszinte kommunikáció alapvető minden kapcsolatban."
+    ],
+    "c1": [
+      "Határozottan úgy érzem, hogy a technológiai fejlődés etikai határait szigorúbban kellene szabályozni.",
+      "Határozottan úgy érzem, hogy a modern társadalom eltévesztette a spiritualitás és a racionalitás egyensúlyát.",
+      "Határozottan úgy érzem, hogy az oktatás színvonalának romcá válása veszélyezteti a jövőnket.",
+      "Határozottan úgy érzem, hogy a felelősségvállalás hiánya a mai közélet legnagyobb rákfenéje.",
+      "Határozottan úgy érzem, hogy a kulturális gyökereink ápolása védelem a globalizáció uniformizáló hatása ellen."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Azt állítanám, hogy ...",
+    "translation": "I would argue that ...",
+    "b1": [
+      "Azt állítanám, hogy a foci a legnépszerűbb sport.",
+      "Azt állítanám, hogy a nyár a legjobb évszak.",
+      "Azt állítanám, hogy ez a film nagyon izgalmas.",
+      "Azt állítanám, hogy a tea jobb, mint a kávé.",
+      "Azt állítanám, hogy a macskák nagyon okosak."
+    ],
+    "b2": [
+      "Azt állítanám, hogy az online oktatás soha nem fogja teljesen helyettesíteni a hagyományos iskolát.",
+      "Azt állítanám, hogy a szabadidő helyes elosztása növeli a hatékonyságot.",
+      "Azt állítanám, hogy a reklámok alapvetően befolyásolják a vásárlási szokásainkat.",
+      "Azt állítanám, hogy a helyi közösségek erősítése csökkenti a bűnözést.",
+      "Azt állítanám, hogy a fenntartható fejlődés nemcsak opció, hanem kötelesség."
+    ],
+    "c1": [
+      "Azt állítanám, hogy a nemzeti identitás fogalma átalakulóban van a migrációs hullámok hatására.",
+      "Azt állítanám, hogy a szabad akarat illúziója mögött ideológiai struktúrák állnak.",
+      "Azt állítanám, hogy a gazdasági globalizáció a kulturális diverzitás kárára érvényesül.",
+      "Azt állítanám, hogy a szellemi tulajdonjogok reformra szorulnak a digitális korban.",
+      "Azt állítanám, hogy a modern demokrácia krízisét a médiatudatosság hiánya okozza."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Úgy értem, hogy ...",
+    "translation": "What I mean is, ...",
+    "b1": [
+      "Úgy értem, hogy holnap korán kell kelnünk.",
+      "Úgy értem, hogy ez a ruha nagyon szép.",
+      "Úgy értem, hogy most nincs időm erre.",
+      "Úgy értem, hogy holnap találkozhatunk.",
+      "Úgy értem, hogy ő a legjobb barátom."
+    ],
+    "b2": [
+      "Úgy értem, hogy a tapasztalat sokszor fontosabb, mint a diploma.",
+      "Úgy értem, hogy a szabályokat mindenkinek be kell tartania kivétel nélkül.",
+      "Úgy értem, hogy a tervezés hiánya sok időt vesz el.",
+      "Úgy értem, hogy a nyelvtudás ma már alapkövetelmény a munkahelyeken.",
+      "Úgy értem, hogy a segítségnyújtás nem kerül semmibe."
+    ],
+    "c1": [
+      "Úgy értem, hogy a jogi keretrendszer nem képes lépést tartani az innováció sebességével.",
+      "Úgy értem, hogy a kulturális berendezkedésünk határozza meg a percepcióinkat.",
+      "Úgy értem, hogy az intézményi reformok önmagukban nem elegendőek a strukturális változáshoz.",
+      "Úgy értem, hogy a kritikai attitűd hiánya sebezhetővé teszi a társadalmat a manipulációval szemben.",
+      "Úgy értem, hogy a fejlődés fogalmát újra kellene definiálnunk a materiális szempontokon túl."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Ha engem kérdezel, ...",
+    "translation": "If you ask me, ...",
+    "b1": [
+      "Ha engem kérdezel, ez a kabát nagyon drága.",
+      "Ha engem kérdezel, a pizza finomabb.",
+      "Ha engem kérdezel, együtt kell mennünk.",
+      "Ha engem kérdezel, ez a zene jó.",
+      "Ha engem kérdezel, segíthetek neked."
+    ],
+    "b2": [
+      "Ha engem kérdezel, a túl sok stressz az egészségünk legnagyobb ellensége.",
+      "Ha engem kérdezel, a tömegközlekedés jobb választás a városban.",
+      "Ha engem kérdezel, az olvasás jobban fejleszt, mint a TV nézés.",
+      "Ha engem kérdezel, a megbízhatóság a legfontosabb emberi tulajdonság.",
+      "Ha engem kérdezel, érdemes új dolgokat kipróbálni az életben."
+    ],
+    "c1": [
+      "Ha engem kérdezel, a művészetek támogatása az intellektusunk túlélése miatt lényeges.",
+      "Ha engem kérdezel, a technológiai fejlődés nem egyenlő a valódi emberi fejlődéssel.",
+      "Ha engem kérdezel, a történelmi múltunk ismerete elengedhetetlen a jelen megértéséhez.",
+      "Ha engem kérdezel, az egyéni felelősségvállalás hiánya rombolja a civil társadalmat.",
+      "Ha engem kérdezel, a globalizált világban a lokális értékek védelme kulcskérdés."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Teljesen egyetértek azzal, hogy ...",
+    "translation": "I couldn't agree more with ...",
+    "b1": [
+      "Teljesen egyetértek azzal, hogy a víz fontos.",
+      "Teljesen egyetértek azzal, hogy szeretsz utazni.",
+      "Teljesen egyetértek azzal, hogy tanulni kell.",
+      "Teljesen egyetértek azzal, hogy a pihenés kell.",
+      "Teljesen egyetértek azzal, hogy ő nagyon kedves."
+    ],
+    "b2": [
+      "Teljesen egyetértek azzal, hogy az egészség a legfontosabb kincsünk.",
+      "Teljesen egyetértek azzal, hogy a csapatmunka hatékonyabb eredményt hoz.",
+      "Teljesen egyetértek azzal, hogy a folyamatos tanulás elengedhetetlen ma.",
+      "Teljesen egyetértek azzal, hogy a környezetvédelem mindannyiunk ügye.",
+      "Teljesen egyetértek azzal, hogy a sport segít levezetni a stresszt."
+    ],
+    "c1": [
+      "Teljesen egyetértek azzal a feltevéssel, hogy az oktatás reformja nélkül nincs valódi társadalmi mobilitás.",
+      "Teljesen egyetértek azzal, hogy a digitális írástudás ugyanolyan fontos, mint a hagyományos.",
+      "Teljesen egyetértek azzal, hogy a gazdasági növekedés hajszolása ökológiai katasztrófához vezethet.",
+      "Teljesen egyetértek azzal, hogy a kulturális örökség ápolása erősíti a nemzeti kohéziót.",
+      "Teljesen egyetértek azzal, hogy a tudományos objektivitás sérülhet a politikai nyomás hatására."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Ez egy érvényes szempont, de ...",
+    "translation": "That's a valid point, but ...",
+    "b1": [
+      "Ez egy érvényes szempont, de drága.",
+      "Ez egy érvényes szempont, de én mást gondolok.",
+      "Ez egy érvényes szempont, de nincs időnk.",
+      "Ez egy érvényes szempont, de nehéz megcsinálni.",
+      "Ez egy érvényes szempont, de holnap jobb lesz."
+    ],
+    "b2": [
+      "Ez egy érvényes szempont, de a költségvetést is figyelembe kell vennünk.",
+      "Ez egy érvényes szempont, de a határidő nagyon szűkös.",
+      "Ez egy érvényes szempont, de a tapasztalat mást mutat.",
+      "Ez egy érvényes szempont, de a minőség fontosabb.",
+      "Ez egy érvényes szempont, de vannak más alternatívák is."
+    ],
+    "c1": [
+      "Ez egy érvényes szempont, de a makrogazdasági mutatók árnyalják ezt a képet.",
+      "Ez egy érvényes szempont, de a hosszú távú következmények súlyosabbak lehetnek.",
+      "Ez egy érvényes szempont, de figyelmen kívül hagyja a strukturális anomáliákat.",
+      "Ez egy érvényes szempont, de az elmélet és a gyakorlat gyakran eltér egymástól.",
+      "Ez egy érvényes szempont, de a jogi szabályozás ezt jelenleg nem teszi lehetővé."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Ezzel kapcsolatban más véleményen vagyok, mint ...",
+    "translation": "I beg to differ on ...",
+    "b1": [
+      "Ezzel kapcsolatban más véleményen vagyok, mint te.",
+      "Ezzel kapcsolatban más véleményen vagyok, mint a tanár.",
+      "Ezzel kapcsolatban más véleményen vagyok, mint Péter.",
+      "Ezzel kapcsolatban más véleményen vagyok, mint amire számítottam.",
+      "Ezzel kapcsolatban más véleményen vagyok, mint a hírekben."
+    ],
+    "b2": [
+      "Ezzel kapcsolatban más véleményen vagyok, mint a legtöbb ember a környezetemben.",
+      "Ezzel kapcsolatban más véleményen vagyok, mint a hivatalos álláspont.",
+      "Ezzel kapcsolatban más véleményen vagyok, mint a cikk szerzője.",
+      "Ezzel kapcsolatban más véleményen vagyok, mint a korábbi tapasztalataim alapján.",
+      "Ezzel kapcsolatban más véleményen vagyok, mint a statisztikák mutatják."
+    ],
+    "c1": [
+      "Ezzel a megközelítéssel kapcsolatban más véleményen vagyok, tekintve a komplex globális összefüggéseket.",
+      "Ezzel kapcsolatban más véleményen vagyok, mivel az empirikus adatok mást sugallnak.",
+      "Ezzel kapcsolatban más véleményen vagyok, mivel a történelem tanulságai mást igazolnak.",
+      "Ezzel kapcsolatban más véleményen vagyok, mint a szakértői konszenzus.",
+      "Ezzel kapcsolatban más véleményen vagyok, mivel a fundamentális okok eltérőek."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Bár megértem, hogy ..., azért mégis úgy érzem, hogy ...",
+    "translation": "While I understand that ..., I still feel ...",
+    "b1": [
+      "Bár megértem, hogy fáradt vagy, azért mégis úgy érzem, hogy dolgoznunk kell.",
+      "Bár megértem, hogy drága, azért mégis úgy érzem, hogy meg kell vennünk.",
+      "Bár megértem, hogy hideg van, azért mégis úgy érzem, hogy sétálnunk kell.",
+      "Bár megértem, hogy nehéz, azért mégis úgy érzem, hogy meg tudod csinálni.",
+      "Bár megértem, hogy sietsz, azért mégis úgy érzem, hogy ráérünk."
+    ],
+    "b2": [
+      "Bár megértem, hogy a cégnek profitra van szüksége, azért mégis úgy érzem, hogy a dolgozók érdekei is fontosak.",
+      "Bár megértem, hogy a szabályok szigorúak, azért mégis úgy érzem, hogy van kivétel.",
+      "Bár megértem, hogy kevés az idő, azért mégis úgy érzem, hogy alaposan meg kell fontolni.",
+      "Bár megértem, hogy a változás nehéz, azért mégis úgy érzem, hogy szükség van rá.",
+      "Bár megértem, hogy a veszély valós, azért mégis úgy érzem, hogy nem szabad megijedni."
+    ],
+    "c1": [
+      "Bár megértem, hogy a gazdasági racionalitás ezt diktálja, azért mégis úgy érzem, hogy a szociális felelősségvállalás elengedhetetlen.",
+      "Bár megértem, hogy a hatékonyság a cél, azért mégis úgy érzem, hogy az emberi tényező háttérbe szorul.",
+      "Bár megértem, hogy az innováció kockázatos, azért mégis úgy érzem, hogy a stagnálás veszélyesebb.",
+      "Bár megértem, hogy a biztonság növelése korlátozásokkal jár, azért mégis úgy érzem, hogy a szabadságjogok sérülnek.",
+      "Bár megértem, hogy a hagyományok megőrzése fontos, azért mégis úgy érzem, hogy a megújulás elkerülhetetlen."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Teljes tisztelettel, de ...",
+    "translation": "With all due respect, ...",
+    "b1": [
+      "Teljes tisztelettel, de ez nem igaz.",
+      "Teljes tisztelettel, de ezt rosszul tudod.",
+      "Teljes tisztelettel, de én nem értek egyet.",
+      "Teljes tisztelettel, de most más a véleményem.",
+      "Teljes tisztelettel, de ezt nem fogadom el."
+    ],
+    "b2": [
+      "Teljes tisztelettel, de a javaslata nem veszi figyelembe a jelenlegi korlátokat.",
+      "Teljes tisztelettel, de ez a megközelítés nem fog működni ebben a helyzetben.",
+      "Teljes tisztelettel, de a döntése meglepett minket.",
+      "Teljes tisztelettel, de az adatok mást mutatnak, mint amit állít.",
+      "Teljes tisztelettel, de a problémát nem így kellene kezelni."
+    ],
+    "c1": [
+      "Teljes tisztelettel, de az Ön által felvázolt koncepció elméletileg és gyakorlatilag is tarthatatlan.",
+      "Teljes tisztelettel, de az érvelése figyelmen kívül hagyja a történelmi kontextust.",
+      "Teljes tisztelettel, de a szakmai standardok nem engedik meg ezt a fajta kompromisszumot.",
+      "Teljes tisztelettel, de ez a stratégia katasztrofális következményekkel járhat hosszú távon.",
+      "Teljes tisztelettel, de a logikája hibás ebben a kérdéskörben."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Nem vagyok teljesen biztos benne, hogy ...",
+    "translation": "I'm not entirely sure about ...",
+    "b1": [
+      "Nem vagyok teljesen biztos benne, hogy holnap jön-e.",
+      "Nem vagyok teljesen biztos benne, hogy ez a jó út.",
+      "Nem vagyok teljesen biztos benne, hogy megértettem.",
+      "Nem vagyok teljesen biztos benne, hogy mennyibe kerül.",
+      "Nem vagyok teljesen biztos benne, hogy bezárták-e a boltot."
+    ],
+    "b2": [
+      "Nem vagyok teljesen biztos benne, hogy ez a döntés hosszú távon is kifizetődő lesz.",
+      "Nem vagyok teljesen biztos benne, hogy a projekt határidőre elkészül.",
+      "Nem vagyok teljesen biztos benne, hogy mindenki megkapta az információt.",
+      "Nem vagyok teljesen biztos benne, hogy a tervezett költségvetés elegendő lesz.",
+      "Nem vagyok teljesen biztos benne, hogy érdemes-e most váltani."
+    ],
+    "c1": [
+      "Nem vagyok teljesen biztos benne, hogy a jogszabály-módosítás eléri a kívánt visszatartó erőt.",
+      "Nem vagyok teljesen biztos benne, hogy a piaci előrejelzések megalapozottak ebben a volatilis környezetben.",
+      "Nem vagyok teljesen biztos benne, hogy az intézkedés nem vált ki ellenkező hatást.",
+      "Nem vagyok teljesen biztos benne, hogy a rendelkezésre álló adatok elegendőek a megalapozott döntéshez.",
+      "Nem vagyok teljesen biztos benne, hogy a hosszú távú hatások fel lettek mérve."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Kifejtenéd bővebben, hogy ...?",
+    "translation": "Could you elaborate on ...?",
+    "b1": [
+      "Kifejtenéd bővebben, hogy mit gondolsz?",
+      "Kifejtenéd bővebben, hogy miért tetted ezt?",
+      "Kifejtenéd bővebben, hogy hova mennél?",
+      "Kifejtenéd bővebben, hogy hogyan segíthetek?",
+      "Kifejtenéd bővebben, hogy mi a terv?"
+    ],
+    "b2": [
+      "Kifejtenéd bővebben, hogy pontosan milyen feltételei vannak ennek a szerződésnek?",
+      "Kifejtenéd bővebben, hogy hogyan képzeled el a jövőbeli együttműködést?",
+      "Kifejtenéd bővebben, hogy milyen okok vezettek ehhez a változáshoz?",
+      "Kifejtenéd bővebben, hogy mi a célja ennek a stratégiának?",
+      "Kifejtenéd bővebben, hogy milyen tapasztalataid vannak ezen a területen?"
+    ],
+    "c1": [
+      "Kifejtenéd bővebben, hogy milyen elméleti keretrendszerre támaszkodva jutottál erre a következtetésre?",
+      "Kifejtenéd bővebben, hogy az általad említett strukturális reformok milyen finanszírozási modellt igényelnek?",
+      "Kifejtenéd bővebben, hogy a fenntarthatósági kritériumok miként érvényesülnek a gyakorlatban?",
+      "Kifejtenéd bővebben, hogy milyen geopolitikai tényezőket vettél figyelembe az elemzés során?",
+      "Kifejtenéd bővebben, hogy a paradigma váltás hogyan érinti a jelenlegi intézményi struktúrákat?"
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Kevert érzéseim vannak ezzel kapcsolatban, mert ...",
+    "translation": "I have mixed feelings about ...",
+    "b1": [
+      "Kevert érzéseim vannak ezzel kapcsolatban, mert nem ismerem jól.",
+      "Kevert érzéseim vannak ezzel kapcsolatban, mert örülök is meg félek is.",
+      "Kevert érzéseim vannak ezzel kapcsolatban, mert ez nehéz döntés.",
+      "Kevert érzéseim vannak ezzel kapcsolatban, mert jó és rossz hírem is van.",
+      "Kevert érzéseim vannak ezzel kapcsolatban, mert nem tudom, mit tegyek."
+    ],
+    "b2": [
+      "Kevert érzéseim vannak az új állásajánlattal kapcsolatban, mert jobb fizetést kínálnak, de messze van.",
+      "Kevert érzéseim vannak a modern technológiák elterjedésével kapcsolatban, mert kényelmesek, de elveszik a magánéletet.",
+      "Kevert érzéseim vannak a várossal kapcsolatban, mert szép, de túl zsúfolt.",
+      "Kevert érzéseim vannak a változással kapcsolatban, mert izgalmas, de bizonytalan.",
+      "Kevert érzéseim vannak a döntésünket illetően, mert gyorsan kellett határozni."
+    ],
+    "c1": [
+      "Kevert érzéseim vannak a globalizáció kulturális hatásaival kapcsolatban, mivel gazdagít, de homogenizál is.",
+      "Kevert érzéseim vannak a mesterséges intelligencia fejlődésével kapcsolatban, mert lenyűgöző, de egzisztenciális fenyegetést is jelent.",
+      "Kevert érzéseim vannak az intézményi reformokat illetően, mert korszerűsítenek, de bürokratizálnak is.",
+      "Kevert érzéseim vannak a gazdasági növekedés és a környezetvédelem dilemmájával kapcsolatban.",
+      "Kevert érzéseim vannak a digitális transzformációval kapcsolatban, tekintve a magánszféra védelmének kihívásait."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Egyezzünk ki abban, hogy nem értünk egyet ebben: ...",
+    "translation": "Let's agree to disagree on ...",
+    "b1": [
+      "Egyezzünk ki abban, hogy nem értünk egyet ebben a zenében.",
+      "Egyezzünk ki abban, hogy nem értünk egyet ebben a filmben.",
+      "Egyezzünk ki abban, hogy nem értünk egyet ebben a dologban.",
+      "Egyezzünk ki abban, hogy nem értünk egyet ebben a színben.",
+      "Egyezzünk ki abban, hogy nem értünk egyet ebben a kérdésben."
+    ],
+    "b2": [
+      "Egyezzünk ki abban, hogy nem értünk egyet ebben a politikai kérdésben, és lépjünk tovább.",
+      "Egyezzünk ki abban, hogy nem értünk egyet ebben, mert mindketten a saját igazunkat védjük.",
+      "Egyezzünk ki abban, hogy nem értünk egyet ebben a módszerben, de a végeredmény közös.",
+      "Egyezzünk ki abban, hogy nem értünk egyet ebben, és zárjuk le a vitát.",
+      "Egyezzünk ki abban, hogy nem értünk egyet ebben az ízlésbeli dologban."
+    ],
+    "c1": [
+      "Mivel az alapértékeink gyökeresen eltérnek, talán jobb, ha megegyezünk abban, hogy nem értünk egyet ebben.",
+      "Tekintve, hogy a világnézetünk különbözik, egyezzünk ki abban, hogy nem értünk egyet ebben a vitatott témában.",
+      "Ezen az elvi alapon aligha találunk közös nevezőt, így egyezzünk ki abban, hogy nem értünk egyet.",
+      "A fundamentális premisszáink eltérése miatt egyezzünk ki abban, hogy nem értünk egyet ebben a konklúzióban.",
+      "Mivel az interpretációnk eltérő, egyezzünk ki abban, hogy nem értünk egyet ebben a dilemmában."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Gondoltál arra, hogy ...?",
+    "translation": "Have you considered ...?",
+    "b1": [
+      "Gondoltál arra, hogy elmenj nyaralni?",
+      "Gondoltál arra, hogy megkérdezd őt?",
+      "Gondoltál arra, hogy holnap korábban indulj?",
+      "Gondoltál arra, hogy megtanulj magyarul?",
+      "Gondoltál arra, hogy megváltoztasd a hajad színét?"
+    ],
+    "b2": [
+      "Gondoltál arra, hogy felmondj és saját vállalkozásba kezdj?",
+      "Gondoltál arra, hogy home office-ból dolgozz a jövő héten?",
+      "Gondoltál arra, hogy segítséget kérj a szakdolgozathoz?",
+      "Gondoltál arra, hogy átköltözz egy másik városba?",
+      "Gondoltál arra, hogy befektesd a megtakarításaidat?"
+    ],
+    "c1": [
+      "Gondoltál arra, hogy a javasolt stratégia hosszú távon fenntarthatatlan lehet a piaci változások miatt?",
+      "Gondoltál arra, hogy alternatív finanszírozási formákat vonj be a projektbe?",
+      "Gondoltál arra, hogy az etikai dilemmák milyen reputációs kockázatot rejtenek magukban?",
+      "Gondoltál arra, hogy a humántőke fejlesztése fontosabb lehet a tárgyi eszközöknél?",
+      "Gondoltál arra, hogy a jogi környezet szigorodása felülírhatja az eddigi terveidet?"
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Ez nem mindig van így, mert ...",
+    "translation": "That's not always the case because ...",
+    "b1": [
+      "Ez nem mindig van így, mert minden ember más.",
+      "Ez nem mindig van így, mert az időjárás változhat.",
+      "Ez nem mindig van így, mert néha szerencsénk van.",
+      "Ez nem mindig van így, mert a szabályok változnak.",
+      "Ez nem mindig van így, mert én is ott voltam."
+    ],
+    "b2": [
+      "Ez nem mindig van így, mert a tapasztalatok azt mutatják, hogy a kivételek erősítik a szabályt.",
+      "Ez nem mindig van így, mert a körülmények váratlanul megváltozhatnak.",
+      "Ez nem mindig van így, mert a méret és a minőség nem jár mindig kéz a kézben.",
+      "Ez nem mindig van így, mert a statisztika csalóka lehet.",
+      "Ez nem mindig van így, mert az elmélet a gyakorlatban gyakran csődöt mond."
+    ],
+    "c1": [
+      "Ez nem mindig van így, mert a komplex rendszerek dinamikája nem követlineáris mintázatokat.",
+      "Ez nem mindig van így, mert az anomáliák gyakran alapvető strukturális változásokat jeleznek előre.",
+      "Ez nem mindig van így, mert a kontextuális tényezők gyökeresen átírhatják a kimenetet.",
+      "Ez nem mindig van így, mert az általánosítások figyelmen kívül hagyják az egyedi sajátosságokat.",
+      "Ez nem mindig van így, mert a változó globális tendenciák felülírják a lokális törvényszerűségeket."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Úgy látom a dolgokat, hogy ...",
+    "translation": "I see things ...",
+    "b1": [
+      "Úgy látom a dolgokat, hogy minden rendben lesz.",
+      "Úgy látom a dolgokat, hogy együtt könnyebb.",
+      "Úgy látom a dolgokat, hogy ez egy jó lehetőség.",
+      "Úgy látom a dolgokat, hogy most kell lépni.",
+      "Úgy látom a dolgokat, hogy a helyzet javul."
+    ],
+    "b2": [
+      "Úgy látom a dolgokat, hogy a jövő a digitális megoldásoké.",
+      "Úgy látom a dolgokat, hogy a nehézségek ellenére is érdemes folytatni.",
+      "Úgy látom a dolgokat, hogy a kommunikáció hiánya okozza a legtöbb félreértést.",
+      "Úgy látom a dolgokat, hogy a fejlődéshez meg kell lépni a kényelmetlen döntéseket is.",
+      "Úgy látom a dolgokat, hogy a csapat együttműködése a siker kulcsa."
+    ],
+    "c1": [
+      "Úgy látom a dolgokat, hogy a modern társadalom válsága valójában egy mélyebb morális krízis tünete.",
+      "Úgy látom a dolgokat, hogy az emberiség túlélése a globális szolidaritás szintjétől függ.",
+      "Úgy látom a dolgokat, hogy a kultúrák közötti párbeszéd az egyetlen kiút a jelenlegi feszültségekből.",
+      "Úgy látom a dolgokat, hogy a jövő generációi drágán fizetnek a jelenkori pazarlásunkért.",
+      "Úgy látom a dolgokat, hogy az öntudatra ébredés az egyéni felelősségvállalással veszi kezdetét."
+    ]
+  }
+]

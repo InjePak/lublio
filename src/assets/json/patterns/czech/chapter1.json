@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Podle mého názoru, ...",
+    "translation": "In my opinion, ...",
+    "b1": [
+      "Podle mého názoru je tento film velmi zajímavý.",
+      "Podle mého názoru bychom měli jíst více zeleniny.",
+      "Podle mého názoru je město v létě příliš hlučné.",
+      "Podle mého názoru je učení se češtině velká výzva.",
+      "Podle mého názoru bude dnes odpoledne pršet."
+    ],
+    "b2": [
+      "Podle mého názoru by vláda měla více investovat do obnovitelných zdrojů energie.",
+      "Podle mého názoru práce na dálku podporuje lepší rovnováhu mezi pracovním a soukromým životem.",
+      "Podle mého názoru tato reforma neodpovídá očekáváním občanů.",
+      "Podle mého názoru je zásadní informovat mladé lidi o ochraně životního prostředí.",
+      "Podle mého názoru má globalizace složitý dopad na místní kultury."
+    ],
+    "c1": [
+      "Podle mého názoru všudypřítomnost digitálních technologií nenápadně narušuje naše schopnosti soustředění.",
+      "Podle mého názoru nelze tuto problematiku vyřešit bez zvýšené mezinárodní konzultace.",
+      "Podle mého názoru estetika tohoto díla překračuje tradiční kódy té doby.",
+      "Podle mého názoru by bylo iluzorní věřit, že ekonomický růst může být nekonečný.",
+      "Podle mého názoru představuje prekarizace práce hlavní překážku sociálního rozkvětu."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Věřím, že ...",
+    "translation": "I believe that ...",
+    "b1": [
+      "Věřím, že tento úkol zvládneš.",
+      "Věřím, že zítra bude pěkné počasí.",
+      "Věřím, že poctivá práce se vyplatí.",
+      "Věřím, že v životě je nejdůležitější zdraví.",
+      "Věřím, že se brzy znovu uvidíme."
+    ],
+    "b2": [
+      "Věřím, že vzdělání je klíčem k lepší budoucnosti.",
+      "Věřím, že cestování rozšiřuje obzory a mění pohled na svět.",
+      "Věřím, že komunikace je základem každého úspěšného vztahu.",
+      "Věřím, že moderní technologie mohou lidem usnadnit život.",
+      "Věřím, že kultura a umění sbližují lidi."
+    ],
+    "c1": [
+      "Věřím, že hluboká empatie představuje pilíř morální společnosti.",
+      "Věřím, že současná krize identity vyvolává potřebu duchovní obnovy.",
+      "Věřím, že svoboda projevu musí jít ruku v ruce s odpovědností vůči celku.",
+      "Věřím, že neustálé sebezpytování je nezbytnou podmínkou pro duševní růst.",
+      "Věřím, že filozofické myšlení obohacuje naše vnímání lidské existence."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Zdá se mi, že ...",
+    "translation": "It seems to me that ...",
+    "b1": [
+      "Zdá se mi, že tento obchod je dnes zavřený.",
+      "Zdá se mi, že unavený.",
+      "Zdá se mi, že tato kniha je docela tlustá.",
+      "Zdá se mi, že autobus má zpoždění.",
+      "Zdá se mi, že se tvoje čeština zlepšuje."
+    ],
+    "b2": [
+      "Zdá se mi, že lidé v dnešní době tráví příliš mnoho času na sociálních sítích.",
+      "Zdá se mi, že tato situace vyžaduje rychlé řešení.",
+      "Zdá se mi, že mladá generace je mnohem ambicióznější než dřív.",
+      "Zdá se mi, že trh práce prochází velkými změnami.",
+      "Zdá se mi, že ochrana přírody už není pro některé politiky prioritou."
+    ],
+    "c1": [
+      "Zdá se mi, že současný rytmus života systematicky potlačuje prostor pro hlubokou reflexi.",
+      "Zdá se mi, že umělá inteligence zásadně transformuje definici lidské kreativity.",
+      "Zdá se mi, že podíl byrokracie na úkor svobody neustále narůstá.",
+      "Zdá se mi, že rostoucí individualismus oslabuje tradiční sociální vazby.",
+      "Zdá se mi, že estetické hodnoty ustupují do pozadí před utilitárním pragmatismem."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Z mého pohledu ...",
+    "translation": "From my perspective, ...",
+    "b1": [
+      "Z mého pohledu je to skvělý nápad.",
+      "Z mého pohledu je důležité mluvit pravdu.",
+      "Z mého pohledu žijeme v hezkém městě.",
+      "Z mého pohledu je sport dobrý pro zdraví.",
+      "Z mého pohledu to nestojí za ty peníze."
+    ],
+    "b2": [
+      "Z mého pohledu by školy měly klást větší důraz na praktické dovednosti.",
+      "Z mého pohledu je flexibilita v zaměstnání velkou výhodou.",
+      "Z mého pohledu má tento projekt obrovský potenciál do budoucna.",
+      "Z mého pohledu je nezbytné podporovat místní podnikatele.",
+      "Z mého pohledu hraje rodina v životě klíčovou roli."
+    ],
+    "c1": [
+      "Z mého pohledu geopolitické změny radikálně překreslují mapu světového obchodu.",
+      "Z mého pohledu nelze vědu oddělit od etických důsledků jejích objevů.",
+      "Z mého pohledu představuje současná krize hodnot příležitost k hluboké restrukturalizaci.",
+      "Z mého pohledu urbanistická architektura silně formuje psychiku městského obyvatelstva.",
+      "Z mého pohledu je pluralita názorů základním stavebním kamenem demokracie."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Mám silný pocit, že ...",
+    "translation": "I strongly feel that ...",
+    "b1": [
+      "Mám silný pocit, že jsme tady už byli.",
+      "Mám silný pocit, že zkoušku udělám.",
+      "Mám silný pocit, že jsem něco zapomněl.",
+      "Mám silný pocit, že se brzy oteplí.",
+      "Mám silný pocit, že ten člověk lže."
+    ],
+    "b2": [
+      "Mám silný pocit, že společnost podceňuje vliv vzdělávání dospělých.",
+      "Mám silný pocit, že by se mělo více mluvit o duševním zdraví.",
+      "Mám silný pocit, že tato změna přinese víc škody než užitku.",
+      "Mám silný pocit, že ochrana soukromí na internetu je nedostatečná.",
+      "Mám silný pocit, že mladí lidé dnes čelí obrovskému tlaku."
+    ],
+    "c1": [
+      "Mám silný pocit, že komercializace kultury ohrožuje podstatu umělecké tvorby.",
+      "Mám silný pocit, že technologický pokrok předběhl naše etické uvažování.",
+      "Mám silný pocit, že byrokracie v mnoha ohledech dusí inovativního ducha.",
+      "Mám silný pocit, že degradace životního prostředí dosáhla kritického bodu.",
+      "Mám silný pocit, že ztráta historické paměti vede k opakování stejných chyb."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Tvrdil bych, že ...",
+    "translation": "I would argue that ...",
+    "b1": [
+      "Tvrdil bych, že čeština není nejjednodušší jazyk.",
+      "Tvrdil bych, že léto je nejlepší roční období.",
+      "Tvrdil bych, že vařit doma je zdravější.",
+      "Tvrdil bych, že čtení knih je lepší než sledování televize.",
+      "Tvrdil bych, že pes je nejlepší přítel člověka."
+    ],
+    "b2": [
+      "Tvrdil bych, že úspěch v kariéře nezávisí jen na štěstí, ale hlavně na dřině.",
+      "Tvrdil bych, že tradiční média postupně ustupují internetovým zdrojům.",
+      "Tvrdil bych, že cestování v mladém věku formuje osobnost.",
+      "Tvrdil bych, že investice do školství se státu mnohonásobně vrátí.",
+      "Tvrdil bych, že psychická pohoda je důležitější než peníze."
+    ],
+    "c1": [
+      "Tvrdil bych, že umělecké vyjádření je svrchovaně svobodné a nesmí být cenzurováno.",
+      "Tvrdil bych, že ekonomický model založený na neustálém růstu je dlouhodobě neudržitelný.",
+      "Tvrdil bych, že krize politických institucí odráží hlubší úpadek občanské angažovanosti.",
+      "Tvrdil bych, že jazyk netvoří jen nástroj komunikace, ale utváří samotné myšlení.",
+      "Tvrdil bych, že globalizace paradoxně posiluje potřebu lokální identity."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Chci tím říct, že ...",
+    "translation": "What I mean is, ...",
+    "b1": [
+      "Chci tím říct, že nemám čas.",
+      "Chci tím říct, že to můžeme udělat zítra.",
+      "Chci tím říct, že ten dům je moc drahý.",
+      "Chci tím říct, že mi chybíš.",
+      "Chci tím říct, že se mi to nelíbí."
+    ],
+    "b2": [
+      "Chci tím říct, že bychom měli najít kompromis.",
+      "Chci tím říct, že bez přípravy to nezvládneme.",
+      "Chci tím říct, že změna pravidel nás ovlivní všechny.",
+      "Chci tím říct, že bychom měli dát šanci novým nápadům.",
+      "Chci tím říct, že kvalita je důležitější než kvantita."
+    ],
+    "c1": [
+      "Chci tím říct, že formální dodržování předpisů nestačí k dosažení skutečné spravedlnosti.",
+      "Chci tím říct, že primární příčinou problému není nedostatek prostředků, ale špatná alokace.",
+      "Chci tím říct, že vnitřní motivace převyšuje jakoukoliv vnější odměnu.",
+      "Chci tím říct, že povrchní digitalizace výuky nemůže nahradit hluboký pedagogický vztah.",
+      "Chci tím říct, že dogmatické lpění na teoriích brání pragmatickému řešení."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Když se mě zeptáš, ...",
+    "translation": "If you ask me, ...",
+    "b1": [
+      "Když se mě zeptáš, raději bych zůstal doma.",
+      "Když se mě zeptáš, ten film byl nudný.",
+      "Když se mě zeptáš, měli bychom jít ven.",
+      "Když se mě zeptáš, je to skvělý dárek.",
+      "Když se mě zeptáš, nic se nestalo."
+    ],
+    "b2": [
+      "Když se mě zeptáš, tohle řešení nikam nevede.",
+      "Když se mě zeptáš, lidé by měli více cestovat.",
+      "Když se mě zeptáš, tyhle šaty ti moc sluší.",
+      "Když se mě zeptáš, situace na trhu se brzy zlepší.",
+      "Když se mě zeptáš, měli bychom to zkusit znovu."
+    ],
+    "c1": [
+      "Když se mě zeptáš, moderní umění často postrádá hlubší řemeslný základ.",
+      "Když se mě zeptáš, technologický pokrok přináší víc osamělosti než propojení.",
+      "Když se mě zeptáš, vzdělávací systém zcela ignoruje reálné potřeby trhu.",
+      "Když se mě zeptáš, slepý konzumismus ničí morální základy společnosti.",
+      "Když se mě zeptáš, bez odvahy riskovat nelze dosáhnout ničeho velkého."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Nemohl bych souhlasit víc s ...",
+    "translation": "I couldn't agree more with ...",
+    "b1": [
+      "Nemohl bych souhlasit víc s tvým názorem.",
+      "Nemohl bych souhlasit víc s tímto plánem.",
+      "Nemohl bych souhlasit víc s tímto rozhodnutím.",
+      "Nemohl bych souhlasit víc s tím, co říkáš.",
+      "Nemohl bych souhlasit víc s tvou volbou."
+    ],
+    "b2": [
+      "Nemohl bych souhlasit víc s tím, že zdraví je to nejdůležitější.",
+      "Nemohl bych souhlasit víc s myšlenkou udržitelného rozvoje.",
+      "Nemohl bych souhlasit víc s tím, že zkušenosti jsou cennější než teorie.",
+      "Nemohl bych souhlasit víc s nutností reformy vzdělávacího systému.",
+      "Nemohl bych souhlasit víc s tím, co řekl ředitel na schůzi."
+    ],
+    "c1": [
+      "Nemohl bych souhlasit víc s tezí, že svoboda bez odpovědnosti vede k anarchii.",
+      "Nemohl bych souhlasit víc s názorem, že ekologická krize vyžaduje globální změnu myšlení.",
+      "Nemohl bych souhlasit víc s tvrzením, že krása spočívá v jednoduchosti.",
+      "Nemohl bych souhlasit víc s myšlenkou, že kultura je zrcadlem národa.",
+      "Nemohl bych souhlasit víc s postojem, že morální integrita je nadřazená úspěchu."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "To je pádný argument, ale ...",
+    "translation": "That's a valid point, but ...",
+    "b1": [
+      "To je pádný argument, ale já to vidím jinak.",
+      "To je pádný argument, ale zkusme to.",
+      "To je pádný argument, ale venku prší.",
+      "To je pádný argument, ale nemáme peníze.",
+      "To je pádný argument, ale je to moc daleko."
+    ],
+    "b2": [
+      "To je pádný argument, ale musíme myslet i na rizika.",
+      "To je pádný argument, ale náklady jsou příliš vysoké.",
+      "To je pádný argument, ale časový limit je moc krátký.",
+      "To je pádný argument, ale výsledky ukazují opak.",
+      "To je pádný argument, ale musíme zohlednit i zájmy veřejnosti."
+    ],
+    "c1": [
+      "To je pádný argument, ale zcela opomíjí dlouhodobé strukturální důsledky.",
+      "To je pádný argument, ale v kontextu globální ekonomiky ztrácí na platnosti.",
+      "To je pádný argument, ale empirická data svědčí o něčem jiném.",
+      "To je pádný argument, ale koliduje s fundamentálními etickými principy.",
+      "To je pádný argument, ale přehlíží skryté psychologické aspekty problému."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Dovolím si nesouhlasit s ...",
+    "translation": "I beg to differ on ...",
+    "b1": [
+      "Dovolím si nesouhlasit s tvým výběrem.",
+      "Dovolím si nesouhlasit s tímto tvrzením.",
+      "Dovolím si nesouhlasit s cenou.",
+      "Dovolím si nesouhlasit s tímto plánem.",
+      "Dovolím si nesouhlasit s jeho chováním."
+    ],
+    "b2": [
+      "Dovolím si nesouhlasit s tvrzením, že mladí lidé nečtou knihy.",
+      "Dovolím si nesouhlasit s metodou, kterou firma zvolila.",
+      "Dovolím si nesouhlasit s hodnocením této situace.",
+      "Dovolím si nesouhlasit s tím, že digitalizace vyřeší všechny problémy.",
+      "Dovolím si nesouhlasit s rozhodnutím vedení."
+    ],
+    "c1": [
+      "Dovolím si nesouhlasit s premisou, že technologický pokrok je vždy synonymem lidského pokroku.",
+      "Dovolím si nesouhlasit s interpretací historických událostí v této knize.",
+      "Dovolím si nesouhlasit s názorem, že umění by mělo sloužit morálnímu poučení.",
+      "Dovolím si nesouhlasit s dogmatickým pojetím tržní ekonomiky.",
+      "Dovolím si nesouhlasit s tezí, že národní státy ztrácejí svůj význam."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "I když chápu, že ..., stále si myslím, že ...",
+    "translation": "While I understand that ..., I still feel ...",
+    "b1": [
+      "I když chápu, že jsi unavený, stále si myslím, že bychom měli jít ven.",
+      "I když chápu, že je to drahé, stále si myslím, že to stojí za to.",
+      "I když chápu, že nemáš čas, stále si myslím, že to zvládneš.",
+      "I když chápu tvojí obavu, stále si myslím, že to vyjde.",
+      "I když chápu, že prší, stále si myslím, že můžeme vyrazit."
+    ],
+    "b2": [
+      "I když chápu, že tato opatření jsou nutná, stále si myslím, že omezují svobodu.",
+      "I když chápu, že nemáš zkušenosti, stále si myslím, že bys to měl zkusit.",
+      "I když chápu finanční důvody firmy, stále si myslím, že propouštění je chyba.",
+      "I když chápu tvůj postoj, stále si myslím, že existuje lepší řešení.",
+      "I když chápu výhody města, stále si myslím, že na venkově je klidněji."
+    ],
+    "c1": [
+      "I když chápu pragmatické pohnutky politiky, stále si myslím, že obětuje morální zásady.",
+      "I když chápu tlak na efektivitu, stále si myslím, že ničí tvůrčí potenciál.",
+      "I když chápu snahu o maximální zabezpečení, stále si myslím, že eroduje soukromí.",
+      "I když chápu ekonomický přínos turismu, stále si myslím, že ničí místní kulturu.",
+      "I když chápu opodstatnění kritiky, stále si myslím, že dílo má hlubokou hodnotu."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "S veškerou úctou, ...",
+    "translation": "With all due respect, ...",
+    "b1": [
+      "S veškerou úctou, nemáš pravdu.",
+      "S veškerou úctou, tohle nemyslíš vážně.",
+      "S veškerou úctou, to není můj problém.",
+      "S veškerou úctou, udělal jsi chybu.",
+      "S veškerou úctou, potřebuji pomoct teď."
+    ],
+    "b2": [
+      "S veškerou úctou, vaše analýza nezohledňuje aktuální data na trhu.",
+      "S veškerou úctou, tento návrh by mírně zhoršil naši pozici.",
+      "S veškerou úctou, nemůžeme akceptovat takové podmínky.",
+      "S veškerou úctou, kolega opomíjí hlavní podstatu problému.",
+      "S veškerou úctou, toto rozhodnutí bylo unáhlené."
+    ],
+    "c1": [
+      "S veškerou úctou, vaše argumentace se opírá o chybné teoretické předpoklady.",
+      "S veškerou úctou, tento přístup ignoruje hlubší systémové souvislosti.",
+      "S veškerou úctou, taková interpretace zcela zkresluje původní záměr autora.",
+      "S veškerou úctou, odmítám nést odpovědnost za důsledky cizích chyb.",
+      "S veškerou úctou, předložená strategie postrádá jakoukoliv vizi."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Nejsem si úplně jistý ohledně ...",
+    "translation": "I'm not entirely sure about ...",
+    "b1": [
+      "Nejsem si úplně jistý ohledně té ceny.",
+      "Nejsem si úplně jistý ohledně zítřejšího termínu.",
+      "Nejsem si úplně jistý ohledně adresy.",
+      "Nejsem si úplně jistý ohledně počasí.",
+      "Nejsem si úplně jistý ohledně jeho jména."
+    ],
+    "b2": [
+      "Nejsem si úplně jistý ohledně budoucího vývoje na trhu práce.",
+      "Nejsem si úplně jistý ohledně úspěchu této investice.",
+      "Nejsem si úplně jistý ohledně reakce našich zákazníků.",
+      "Nejsem si úplně jistý ohledně správnosti tohoto postupu.",
+      "Nejsem si úplně jistý ohledně toho, zda to stihneme včas."
+    ],
+    "c1": [
+      "Nejsem si úplně jistý ohledně dlouhodobé udržitelnosti tohoto ekonomického modelu.",
+      "Nejsem si úplně jistý ohledně etických dopadů genetického výzkumu.",
+      "Nejsem si úplně jistý ohledně pravdivosti těchto statistických údajů.",
+      "Nejsem si úplně jistý ohledně vlivu umělé inteligence na lidské vědomí.",
+      "Nejsem si úplně jistý ohledně hloubky interpretace tohoto filosofického textu."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Mohl bys to víc rozvést / přiblížit?",
+    "translation": "Could you elaborate on ...?",
+    "b1": [
+      "Mohl bys to víc rozvést? Nerozumím ti.",
+      "Mohl bys to víc přiblížit? Jak to myslíš?",
+      "Mohl bys to víc rozvést, prosím?",
+      "Mohl bys k tomu říct něco víc?",
+      "Mohl bys mi to vysvětlit podrobněji?"
+    ],
+    "b2": [
+      "Mohl bys víc rozvést své myšlenky ohledně té strategie?",
+      "Mohl bys víc přiblížit, jak funguje ten nový systém?",
+      "Mohl bys to víc rozvést, abychom pochopili detaily projektu?",
+      "Mohl bys uvést konkrétní příklad k tomu, co jsi řekl?",
+      "Mohl bys to víc přiblížit pro ostatní členy týmu?"
+    ],
+    "c1": [
+      "Mohl bys víc rozvést teoretická východiska tvého výzkumu?",
+      "Mohl bys hlouběji přiblížit filozofické konotace tohoto literárního díla?",
+      "Mohl bys podrobněji rozvést mechanismus fungování těchto tržních mechanismů?",
+      "Mohl bys detailně přiblížit sociologické dopady této reformy?",
+      "Mohl bys fundovaněji rozvést vliv geopolitických faktorů na danou situaci?"
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Mám na to smíšené pocity / rozporuplné pocity ...",
+    "translation": "I have mixed feelings about ...",
+    "b1": [
+      "Mám na to smíšené pocity.",
+      "Mám smíšené pocity z toho nového bytu.",
+      "Mám rozporuplné pocity z té dnešní zprávy.",
+      "Mám smíšené pocity, když na to pomyslím.",
+      "Mám na ten film poněkud smíšené pocity."
+    ],
+    "b2": [
+      "Mám smíšené pocity ohledně stěhování do jiného města.",
+      "Mám rozporuplné pocity z nové firemní strategie.",
+      "Mám smíšené pocity z toho, jak rychle se technologie mění.",
+      "Mám rozporuplné pocity ohledně výsledků naší práce.",
+      "Mám smíšené pocity z nabídky, kterou jsem dostal."
+    ],
+    "c1": [
+      "Mám hluboce smíšené pocity ohledně morálních důsledků biotechnologického pokroku.",
+      "Mám rozporuplné pocity z dopadu globalizace na diverzitu menších kultur.",
+      "Mám smíšené pocity ohledně institucionalizace umělecké tvorby.",
+      "Mám rozporuplné pocity z rychlého nástupu automatizace ve společnosti.",
+      "Mám smíšené pocity ohledně ideologického směřování současné politické scény."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Shodněme se na tom, že spolu nesouhlasíme ...",
+    "translation": "Let's agree to disagree on ...",
+    "b1": [
+      "Shodněme se na tom, že se neshodneme.",
+      "Pojďme se shodnout na tom, že každý máme svůj názor.",
+      "Shodněme se raději na tom, že v tomhle nemáme jasno.",
+      "Nechme to tak, shodněme se na tom, že nesouhlasíme.",
+      "Pojďme to uzavřít, každý to vidíme jinak."
+    ],
+    "b2": [
+      "Tohle nikam nevede, shodněme se raději na tom, že spolu nesouhlasíme.",
+      "Protože se v tomto bodě neshodneme, pojďme se shodnout na tom, že nesouhlasíme.",
+      "Nezměníme názor toho druhého, shodněme se na tom, že máme odlišné pohledy.",
+      "Abychom předešli hádce, shodněme se raději na tom, že v tomhle se neshodneme.",
+      "Respektujme naše rozdíly a shodněme se na tom, že nesouhlasíme."
+    ],
+    "c1": [
+      "Vzhledem k nepropustnosti našich názorových proudů nezbývá než se shodnout na tom, že se neshodneme.",
+      "Jelikož vycházíme z radikálně odlišných paradigmata, shodněme se na tom, že nesouhlasíme.",
+      "Tváří v tvář neslučitelným hodnotovým rámcům se musíme shodnout na tom, že spolu nesouhlasíme.",
+      "Protože debata vyčerpala své racionální argumenty, uzavřeme to vzájemnou shodou v nesouhlasu.",
+      "Při zachování vzájemného respektu k intelektuální pluralitě se shodněme na tom, že setrváváme v neshodě."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Uvažoval/a jsi o tom, že ...?",
+    "translation": "Have you considered ...?",
+    "b1": [
+      "Uvažoval jsi o tom, že bys změnil práci?",
+      "Uvažovala jsi o tom, že pojedeš na dovolenou?",
+      "Uvažoval jsi o tom, že si koupíš nové auto?",
+      "Uvažovala jsi o tom, že se přestěhuješ?",
+      "Uvažoval jsi o tom, že začneš cvičit?"
+    ],
+    "b2": [
+      "Uvažoval jsi o tom, že bys investoval do nemovitostí?",
+      "Uvažovala jsi o tom, že spojíš studium s praxí?",
+      "Uvažoval jsi o tom, že požádáš o povýšení?",
+      "Uvažovala jsi o tom, že založíš vlastní podnikání?",
+      "Uvažoval jsi o tom, že využiješ online kurzy?"
+    ],
+    "c1": [
+      "Uvažoval jsi o tom, že by hlubší revize firemní kultury mohla vyřešit vaše interní krize?",
+      "Uvažovala jsi o tom, že epistemologický základ tvé teorie vyžaduje revaluaci?",
+      "Uvažoval jsi o tom, že by alternativní financování projektu přineslo větší svobodu?",
+      "Uvažovala jsi o tom, že integrace principů udržitelnosti zvýší hodnotu vaší značky?",
+      "Uvažoval jsi o tom, že interdisciplinární přístup zcela promění tvůj pohled na věc?"
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Tak to vždycky není, protože ...",
+    "translation": "That's not always the case because ...",
+    "b1": [
+      "Tak to vždycky není, protože každý člověk je jiný.",
+      "Tak to vždycky není, protože někdy prší.",
+      "Tak to vždycky není, protože to záleží na situaci.",
+      "Tak to vždycky není, protože nemáme dost peněz.",
+      "Tak to vždycky není, protože obchod může mít zavřeno."
+    ],
+    "b2": [
+      "Tak to vždycky není, protože trh se neustále mění.",
+      "Tak to vždycky není, protože zkušenosti hrají velkou roli.",
+      "Tak to vždycky není, protože lidské chování je nepředvídatelné.",
+      "Tak to vždycky není, protože teorie se od praxe často liší.",
+      "Tak to vždycky není, protože pravidla se mohou upravit."
+    ],
+    "c1": [
+      "Tak to vždycky není, protože historické paralely v sobě nesou skrytá zkreslení.",
+      "Tak to vždycky není, protože komplexní sociální systémy vykazují nelineární chování.",
+      "Tak to vždycky není, protože empirická realita málokdy odpovídá idealizovaným modelům.",
+      "Tak to vždycky není, protože kulturní kontext radikálně mění význam jednotlivých jevů.",
+      "Tak to vždycky není, protože vědecká paradigmata procházejí občasnými krizemi a zlomy."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Vidím to tak, že ...",
+    "translation": "I see things ...",
+    "b1": [
+      "Vidím to tak, že musíme jet hned.",
+      "Vidím to tak, že to zvládneme.",
+      "Vidím to tak, že je to dobrá volba.",
+      "Vidím to tak, že on má pravdu.",
+      "Vidím to tak, že zítra zůstaneme doma."
+    ],
+    "b2": [
+      "Vidím to tak, že bez větší investice se neposuneme dál.",
+      "Vidím to tak, že firma potřebuje čerstvý vítr a nové lidi.",
+      "Vidím to tak, že bychom měli problém vyřešit co nejdříve.",
+      "Vidím to tak, že úspěch závisí na naší vzájemné spolupráci.",
+      "Vidím to tak, že moderní technologie nám spíše pomáhají než škodí."
+    ],
+    "c1": [
+      "Vidím to tak, že současná krize představuje přelomový bod pro redefinici našich priorit.",
+      "Vidím to tak, že umělecká pravda se skrývá v prožitku, nikoliv v dogmatických pravidlech.",
+      "Vidím to tak, že eroze tradičních institucí otevírá prostor pro radikální společenskou inovaci.",
+      "Vidím to tak, že výzva spočívá v nalezení rovnováhy mezi technologickým růstem a lidskou důstojností.",
+      "Vidím to tak, že hluboká reflexe minulosti je jedinou zárukou správného směřování do budoucna."
+    ]
+  }
+]

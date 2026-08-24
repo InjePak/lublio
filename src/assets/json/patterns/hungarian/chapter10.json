@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Nagyon hálás vagyok a segítségedért a ...-val/vel kapcsolatban.",
+    "translation": "I truly appreciate your help with ...",
+    "b1": [
+      "Nagyon hálás vagyok a segítségedért a házimunkában.",
+      "Nagyon hálás vagyok a segítségedért a tanulásban.",
+      "Nagyon hálás vagyok a segítségedért a főzésben.",
+      "Nagyon hálás vagyok a segítségedért a vásárlásban.",
+      "Nagyon hálás vagyok a segítségedért a takarításban."
+    ],
+    "b2": [
+      "Nagyon hálás vagyok a segítségedért a projekt előkészítésében.",
+      "Nagyon hálás vagyok a segítségedért a prezentáció összeállításában.",
+      "Nagyon hálás vagyok a segítségedért a költözés megszervezésében.",
+      "Nagyon hálás vagyok a segítségedért az új kolléga betanításában.",
+      "Nagyon hálás vagyok a segítségedért a külföldi út lefoglalásában."
+    ],
+    "c1": [
+      "Nagyon hálás vagyok a segítségedért a konzorciumi szerződés jogi felülvizsgálatában.",
+      "Nagyon hálás vagyok a segítségedért a makrogazdasági adatok elemzésében.",
+      "Nagyon hálás vagyok a segítségedért a belső compliance protokollok kidolgozásában.",
+      "Nagyon hálás vagyok a segítségedért a kvantitatív modellek strukturálásában.",
+      "Nagyon hálás vagyok a segítségedért a válságkezelési stratégia kidolgozásában."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Feltűnő tehetséged van a ...-hoz/hez.",
+    "translation": "You have a remarkable talent for ...",
+    "b1": [
+      "Feltűnő tehetséged van a rajzoláshoz.",
+      "Feltűnő tehetséged van a zenéhez.",
+      "Feltűnő tehetséged van a nyelvekhez.",
+      "Feltűnő tehetséged van a sportokhoz.",
+      "Feltűnő tehetséged van a főzéshez."
+    ],
+    "b2": [
+      "Feltűnő tehetséged van az idegen nyelvek tanulásához.",
+      "Feltűnő tehetséged van az emberek irányításához.",
+      "Feltűnő tehetséged van a grafikai tervezéshez.",
+      "Feltűnő tehetséged van a problémák megoldásához.",
+      "Feltűnő tehetséged van a nyilvános beszédhez."
+    ],
+    "c1": [
+      "Feltűnő tehetséged van a komplex strukturális adatok vizualizálásához.",
+      "Feltűnő tehetséged van a nemzetközi tárgyalások stratégiai levezetéséhez.",
+      "Feltűnő tehetséged van a jogi kiskapuk pontos azonosításához.",
+      "Feltűnő tehetséged van a sztochasztikus modellek elemzéséhez.",
+      "Feltűnő tehetséged van a szervezeti kultúra harmonizálásához."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Nagyon figyelmes volt tőled, hogy ...",
+    "translation": "That was incredibly thoughtful of you to ...",
+    "b1": [
+      "Nagyon figyelmes volt tőled, hogy elhoztad a kávét.",
+      "Nagyon figyelmes volt tőled, hogy felhívtál.",
+      "Nagyon figyelmes volt tőled, hogy hoztál süteményt.",
+      "Nagyon figyelmes volt tőled, hogy segítettél mosogatni.",
+      "Nagyon figyelmes volt tőled, hogy megvártál."
+    ],
+    "b2": [
+      "Nagyon figyelmes volt tőled, hogy gondoskodtál a részletekről.",
+      "Nagyon figyelmes volt tőled, hogy emlékeztettél a határidőre.",
+      "Nagyon figyelmes volt tőled, hogy átvállaltad a feladatomat.",
+      "Nagyon figyelmes volt tőled, hogy hoztál jegyzeteket a gyűlésről.",
+      "Nagyon figyelmes volt tőled, hogy előre lefoglaltad az asztalt."
+    ],
+    "c1": [
+      "Nagyon figyelmes volt tőled, hogy proaktívan jelezted a compliance kockázatokat.",
+      "Nagyon figyelmes volt tőled, hogy áttekintetted a konzorciumi paktum finom részleteit.",
+      "Nagyon figyelmes volt tőled, hogy korrigáltad a makrogazdasági modell hibáit.",
+      "Nagyon figyelmes volt tőled, hogy figyelembe vetted a statisztikai bizonytalanságokat.",
+      "Nagyon figyelmes volt tőled, hogy dokumentáltad a döntéshozatali folyamat mérföldköveit."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Nagyon hálás vagyok amiatt, hogy ...",
+    "translation": "I'm so grateful for the fact that ...",
+    "b1": [
+      "Nagyon hálás vagyok amiatt, hogy eljöttél.",
+      "Nagyon hálás vagyok amiatt, hogy itt vagy.",
+      "Nagyon hálás vagyok amiatt, hogy meghallgattál.",
+      "Nagyon hálás vagyok amiatt, hogy szóltál.",
+      "Nagyon hálás vagyok amiatt, hogy segítettél."
+    ],
+    "b2": [
+      "Nagyon hálás vagyok amiatt, hogy ilyen rugalmas voltál az időponttal.",
+      "Nagyon hálás vagyok amiatt, hogy támogattad az ötletemet.",
+      "Nagyon hálás vagyok amiatt, hogy időben befejeztük a projektet.",
+      "Nagyon hálás vagyok amiatt, hogy megosztottad a tapasztalataidat.",
+      "Nagyon hálás vagyok amiatt, hogy ennyire türelmes voltál velem."
+    ],
+    "c1": [
+      "Nagyon hálás vagyok amiatt, hogy segítettél átvészelni a piaci volatilitás időszakát.",
+      "Nagyon hálás vagyok amiatt, hogy tisztáztad a jogi félreértéseket a partnerekkel.",
+      "Nagyon hálás vagyok amiatt, hogy precízen validáltad a kvantitatív adatokat.",
+      "Nagyon hálás vagyok amiatt, hogy fenntartottad a belső kontrollok szigorú láncát.",
+      "Nagyon hálás vagyok amiatt, hogy konszenzusra jutottunk a strukturális reformokban."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "A részletekre való odafigyelésed a ...-ban/ben kiemelkedő.",
+    "translation": "Your attention to detail on ... is outstanding.",
+    "b1": [
+      "A részletekre való odafigyelésed a munkában kiemelkedő.",
+      "A részletekre való odafigyelésed a rajzban kiemelkedő.",
+      "A részletekre való odafigyelésed a tesztben kiemelkedő.",
+      "A részletekre való odafigyelésed a tervezésben kiemelkedő.",
+      "A részletekre való odafigyelésed az írásban kiemelkedő."
+    ],
+    "b2": [
+      "A részletekre való odafigyelésed a jelentés készítésében kiemelkedő.",
+      "A részletekre való odafigyelésed a büdzsé összeállításában kiemelkedő.",
+      "A részletekre való odafigyelésed a szerződések átnézésében kiemelkedő.",
+      "A részletekre való odafigyelésed a grafikai tervezésben kiemelkedő.",
+      "A részletekre való odafigyelésed a szerverek beállításában kiemelkedő."
+    ],
+    "c1": [
+      "A részletekre való odafigyelésed a compliance audit lefolytatásában kiemelkedő.",
+      "A részletekre való odafigyelésed a konzorciumi szerződések elemzésében kiemelkedő.",
+      "A részletekre való odafigyelésed a statisztikai adatok validálásában kiemelkedő.",
+      "A részletekre való odafigyelésed a szoftverarchitektúra tervezésében kiemelkedő.",
+      "A részletekre való odafigyelésed a makrogazdasági előrejelzések készítésében kiemelkedő."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Különösen meg akartam köszönni neked a ...-t.",
+    "translation": "I wanted to thank you specifically for ...",
+    "b1": [
+      "Különösen meg akartam köszönni neked a kávét.",
+      "Különösen meg akartam köszönni neked a fuvart.",
+      "Különösen meg akartam köszönni neked a jegyzetet.",
+      "Különösen meg akartam köszönni neked az ebédet.",
+      "Különösen meg akartam köszönni neked a könyvet."
+    ],
+    "b2": [
+      "Különösen meg akartam köszönni neked a szakmai tanácsot.",
+      "Különösen meg akartam köszönni neked a gyors közbenjárást.",
+      "Különösen meg akartam köszönni neked a türelmes magyarázatot.",
+      "Különösen meg akartam köszönni neked a bátorítást a vizsga előtt.",
+      "Különösen meg akartam köszönni neked a váratlan helyzet kezelését."
+    ],
+    "c1": [
+      "Különösen meg akartam köszönni neked a jogi kiskapuk pontos feltárását.",
+      "Különösen meg akartam köszönni neked a konzorciumi egyeztetések levezetését.",
+      "Különösen meg akartam köszönni neked a statisztikai anomáliák kiszűrését.",
+      "Különösen meg akartam köszönni neked a válságkezelési protokoll aktiválását.",
+      "Különösen meg akartam köszönni neked a belső audit zökkenőmentes lebonyolítását."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Olyan kegyelemmel és ...-val kezelted azt a helyzetet, hogy ...",
+    "translation": "You handled that situation with such grace and ...",
+    "b1": [
+      "Olyan kegyelemmel és nyugalommal kezelted azt a helyzetet, hogy meglepődtem.",
+      "Olyan kegyelemmel és mosollyal kezelted azt a helyzetet, hogy mindenki örült.",
+      "Olyan kegyelemmel és kedvességgel kezelted azt a helyzetet, hogy nem volt vita.",
+      "Olyan kegyelemmel és csenddel kezelted azt a helyzetet, hogy minden simán ment.",
+      "Olyan kegyelemmel és figyelemmel kezelted azt a helyzetet, hogy jó volt nézni."
+    ],
+    "b2": [
+      "Olyan kegyelemmel és szakértelemmel kezelted azt a helyzetet, hogy a vevő elégedett maradt.",
+      "Olyan kegyelemmel és magabiztossággal kezelted azt a helyzetet, hogy a csapat megnyugodott.",
+      "Olyan kegyelemmel és diplomatikussággal kezelted azt a helyzetet, hogy elkerültük a botrányt.",
+      "Olyan kegyelemmel és türelemmel kezelted azt a helyzetet, hogy minden probléma megoldódott.",
+      "Olyan kegyelemmel és határozottsággal kezelted azt a helyzetet, hogy a főnök is dicsért."
+    ],
+    "c1": [
+      "Olyan kegyelemmel és jogi precizitással kezelted azt a helyzetet, hogy a konzorcium megőrizte a bizalmát.",
+      "Olyan kegyelemmel és analitikus higgadtsággal kezelted azt a helyzetet, hogy a piaci krízis ellenére stabilak maradtunk.",
+      "Olyan kegyelemmel és strukturális rálátással kezelted azt a helyzetet, hogy a compliance audit sikeres lett.",
+      "Olyan kegyelemmel és stratégiai éleslátással kezelted azt a helyzetet, hogy a versenytársak lépéshátrányba kerültek.",
+      "Olyan kegyelemmel és makrogazdasági rálátással kezelted azt a helyzetet, hogy elkerültük a veszteséget."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Ezt nem tudtam volna megcsinálni ... nélkül.",
+    "translation": "I couldn't have done this without ...",
+    "b1": [
+      "Ezt nem tudtam volna megcsinálni a segítséged nélkül.",
+      "Ezt nem tudtam volna megcsinálni a térkép nélkül.",
+      "Ezt nem tudtam volna megcsinálni a pénz nélkül.",
+      "Ezt nem tudtam volna megcsinálni a kocsi nélkül.",
+      "Ezt nem tudtam volna megcsinálni a jegyzeteim nélkül."
+    ],
+    "b2": [
+      "Ezt nem tudtam volna megcsinálni a támogatásod nélkül.",
+      "Ezt nem tudtam volna megcsinálni a tapasztalatod nélkül.",
+      "Ezt nem tudtam volna megcsinálni a szoftver nélkül.",
+      "Ezt nem tudtam volna megcsinálni a csapatod munkája nélkül.",
+      "Ezt nem tudtam volna megcsinálni az útmutatásod nélkül."
+    ],
+    "c1": [
+      "Ezt nem tudtam volna megcsinálni a jogi mentorálásod nélkül.",
+      "Ezt nem tudtam volna megcsinálni a konzorciumi adatok elemzése nélkül.",
+      "Ezt nem tudtam volna megcsinálni a prediktív modell nélkül.",
+      "Ezt nem tudtam volna megcsinálni a compliance szakértelmed nélkül.",
+      "Ezt nem tudtam volna megcsinálni a makrogazdasági előrejelzések nélkül."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "A pozitív hozzáállásod valóban inspiráló ... számára.",
+    "translation": "Your positive attitude is truly inspiring to ...",
+    "b1": [
+      "A pozitív hozzáállásod valóban inspiráló számomra.",
+      "A pozitív hozzáállásod valóban inspiráló a gyerekek számára.",
+      "A pozitív hozzáállásod valóban inspiráló a barátaid számára.",
+      "A pozitív hozzáállásod valóban inspiráló a csoport számára.",
+      "A pozitív hozzáállásod valóban inspiráló mindenki számára."
+    ],
+    "b2": [
+      "A pozitív hozzáállásod valóban inspiráló a kollégák számára.",
+      "A pozitív hozzáállásod valóban inspiráló a projektcsapat számára.",
+      "A pozitív hozzáállásod valóban inspiráló az új belépők számára.",
+      "A pozitív hozzáállásod valóban inspiráló a vezetőség számára.",
+      "A pozitív hozzáállásod valóban inspiráló a tanulók számára."
+    ],
+    "c1": [
+      "A pozitív hozzáállásod valóban inspiráló a konzorciumi partnerek számára a válság idején.",
+      "A pozitív hozzáállásod valóban inspiráló a kutatócsoport számára a nehéz adatelemzések közepette.",
+      "A pozitív hozzáállásod valóban inspiráló a compliance osztály számára a szigorú auditok alatt.",
+      "A pozitív hozzáállásod valóban inspiráló a struktúraváltást végző szervezet számára.",
+      "A pozitív hozzáállásod valóban inspiráló a nemzetközi delegáció számára a tárgyalások során."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Köszönöm, hogy mindent megtettél és túlléptél a kötelességeden a ... érdekében.",
+    "translation": "Thank you for going above and beyond to ...",
+    "b1": [
+      "Köszönöm, hogy mindent megtettél és túlléptél a kötelességeden a siker érdekében.",
+      "Köszönöm, hogy mindent megtettél és túlléptél a kötelességeden a munka érdekében.",
+      "Köszönöm, hogy mindent megtettél és túlléptél a kötelességeden a buli érdekében.",
+      "Köszönöm, hogy mindent megtettél és túlléptél a kötelességeden a kedvemért.",
+      "Köszönöm, hogy mindent megtettél és túlléptél a kötelességeden a feladat érdekében."
+    ],
+    "b2": [
+      "Köszönöm, hogy mindent megtettél és túlléptél a kötelességeden a határidő betartása érdekében.",
+      "Köszönöm, hogy mindent megtettél és túlléptél a kötelességeden az ügyfél elégedettsége érdekében.",
+      "Köszönöm, hogy mindent megtettél és túlléptél a kötelességeden a projekt lezárása érdekében.",
+      "Köszönöm, hogy mindent megtettél és túlléptél a kötelességeden a minőség biztosítása érdekében.",
+      "Köszönöm, hogy mindent megtettél és túlléptél a kötelességeden a csapat támogatása érdekében."
+    ],
+    "c1": [
+      "Köszönöm, hogy mindent megtettél és túlléptél a kötelességeden a konzorciumi megállapodás aláírása érdekében.",
+      "Köszönöm, hogy mindent megtettél és túlléptél a kötelességeden a belső compliance protokollok teljesítés érdekében.",
+      "Köszönöm, hogy mindent megtettél és túlléptél a kötelességeden a komplex statisztikai audit lefolytatása érdekében.",
+      "Köszönöm, hogy mindent megtettél és túlléptél a kötelességeden a rendszerszintű kockázatok elhárítása érdekében.",
+      "Köszönöm, hogy mindent megtettél és túlléptél a kötelességeden a makrogazdasági adatok validálása érdekében."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Nagyon csodálom azt a módszert, ahogyan ...",
+    "translation": "I really admire the way you ...",
+    "b1": [
+      "Nagyon csodálom azt a módszert, ahogyan beszélsz.",
+      "Nagyon csodálom azt a módszert, ahogyan főzöl.",
+      "Nagyon csodálom azt a módszert, ahogyan dolgozol.",
+      "Nagyon csodálom azt a módszert, ahogyan vezetsz.",
+      "Nagyon csodálom azt a módszert, ahogyan tanulsz."
+    ],
+    "b2": [
+      "Nagyon csodálom azt a módszert, ahogyan az embereket kezeled.",
+      "Nagyon csodálom azt a módszert, ahogyan a problémákat megoldod.",
+      "Nagyon csodálom azt a módszert, ahogyan a prezentációt tartod.",
+      "Nagyon csodálom azt a módszert, ahogyan az idődet osztod be.",
+      "Nagyon csodálom azt a módszert, ahogyan a konfliktusokat kezeled."
+    ],
+    "c1": [
+      "Nagyon csodálom azt a módszert, ahogyan a jogi vitákat strukturálod.",
+      "Nagyon csodálom azt a módszert, ahogyan a konzorciumi érdekeket összehangolod.",
+      "Nagyon csodálom azt a módszert, ahogyan a kvantitatív modelleket felépíted.",
+      "Nagyon csodálom azt a módszert, ahogyan a belső compliance rendszert irányítod.",
+      "Nagyon csodálom azt a módszert, ahogyan a makrogazdasági trendeket elemzed."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Micsoda csodálatos munkát végeztél a ...-n/en/on/ön!",
+    "translation": "What a wonderful job you did on ...",
+    "b1": [
+      "Micsoda csodálatos munkát végeztél a házon!",
+      "Micsoda csodálatos munkát végeztél a vacsorán!",
+      "Micsoda csodálatos munkát végeztél a kertben!",
+      "Micsoda csodálatos munkát végeztél a rajzon!",
+      "Micsoda csodálatos munkát végeztél a feladaton!"
+    ],
+    "b2": [
+      "Micsoda csodálatos munkát végeztél a prezentáción!",
+      "Micsoda csodálatos munkát végeztél a weboldalon!",
+      "Micsoda csodálatos munkát végeztél a jelentésen!",
+      "Micsoda csodálatos munkát végeztél a rendezvényen!",
+      "Micsoda csodálatos munkát végeztél a költségvetésen!"
+    ],
+    "c1": [
+      "Micsoda csodálatos munkát végeztél a konzorciumi szerződésen!",
+      "Micsoda csodálatos munkát végeztél a compliance auditon!",
+      "Micsoda csodálatos munkát végeztél a prediktív adatelemzésen!",
+      "Micsoda csodálatos munkát végeztél a strukturális reformterven!",
+      "Micsoda csodálatos munkát végeztél a makrogazdasági prognózison!"
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Világokat jelent nekem, hogy ...",
+    "translation": "It means the world to me that ...",
+    "b1": [
+      "Világokat jelent nekem, hogy eljöttél a születésnapomra.",
+      "Világokat jelent nekem, hogy segítettél a tegnap.",
+      "Világokat jelent nekem, hogy meghallgattál.",
+      "Világokat jelent nekem, hogy bízol bennem.",
+      "Világokat jelent nekem, hogy itt vagy."
+    ],
+    "b2": [
+      "Világokat jelent nekem, hogy támogattál a nehéz időszakban.",
+      "Világokat jelent nekem, hogy kiálltál mellettem a megbeszélésen.",
+      "Világokat jelent nekem, hogy számíthatok a segítségedre a munkában.",
+      "Világokat jelent nekem, hogy elismerted az erőfeszítéseimet.",
+      "Világokat jelent nekem, hogy megosztottad velem a terveidet."
+    ],
+    "c1": [
+      "Világokat jelent nekem, hogy szakmai hitelességeddel támogattad a konzorciumi álláspontomat.",
+      "Világokat jelent nekem, hogy átvezettél a compliance audit legnehezebb fázisán.",
+      "Világokat jelent nekem, hogy segítettél tisztázni a jogi dilemmáimat.",
+      "Világokat jelent nekem, hogy validáltad a kutatási modelljeimet a krízis idején.",
+      "Világokat jelent nekem, hogy mentoráltál a stratégiai döntéshozatalban."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "A nézőpontod a ...-mal/vel kapcsolatban hihetetlenül értékes.",
+    "translation": "Your perspective on ... is incredibly valuable.",
+    "b1": [
+      "A nézőpontod az élettel kapcsolatban hihetetlenül értékes.",
+      "A nézőpontod ezzel kapcsolatban hihetetlenül értékes.",
+      "A nézőpontod a problémával kapcsolatban hihetetlenül értékes.",
+      "A nézőpontod a tervvel kapcsolatban hihetetlenül értékes.",
+      "A nézőpontod a könyvvel kapcsolatban hihetetlenül értékes."
+    ],
+    "b2": [
+      "A nézőpontod a piaci trendekkel kapcsolatban hihetetlenül értékes.",
+      "A nézőpontod az új marketingstratégiával kapcsolatban hihetetlenül értékes.",
+      "A nézőpontod a csapatfejlesztéssel kapcsolatban hihetetlenül értékes.",
+      "A nézőpontod az online oktatással kapcsolatban hihetetlenül értékes.",
+      "A nézőpontod a befektetésekkel kapcsolatban hihetetlenül értékes."
+    ],
+    "c1": [
+      "A nézőpontod a konzorciumi jogi kockázatokkal kapcsolatban hihetetlenül értékes.",
+      "A nézőpontod a makrogazdasági ciklusok alakulásával kapcsolatban hihetetlenül értékes.",
+      "A nézőpontod a compliance protokollok szigorításával kapcsolatban hihetetlenül értékes.",
+      "A nézőpontod a kvantitatív modellek validálásával kapcsolatban hihetetlenül értékes.",
+      "A nézőpontod a strukturális reformok hatékonyságával kapcsolatban hihetetlenül értékes."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Szeretném kifejezni legmélyebb hálámat a ...-ért.",
+    "translation": "I want to express my deepest gratitude for ...",
+    "b1": [
+      "Szeretném kifejezni legmélyebb hálámat a támogatásodért.",
+      "Szeretném kifejezni legmélyebb hálámat a kedvességedért.",
+      "Szeretném kifejezni legmélyebb hálámat a segítségedért.",
+      "Szeretném kifejezni legmélyebb hálámat a türelmedért.",
+      "Szeretném kifejezni legmélyebb hálámat a vendéglátásért."
+    ],
+    "b2": [
+      "Szeretném kifejezni legmélyebb hálámat a szakmai mentorálásodért.",
+      "Szeretném kifejezni legmélyebb hálámat a nehéz helyzetben nyújtott segítségért.",
+      "Szeretném kifejezni legmélyebb hálámat a projekt sikeréhez adott hozzájárulásodért.",
+      "Szeretném kifejezni legmélyebb hálámat a bizalmadért és a lojalitásodért.",
+      "Szeretném kifejezni legmélyebb hálámat az önzetlen közreműködésedért."
+    ],
+    "c1": [
+      "Szeretném kifejezni legmélyebb hálámat a konzorciumi szerződés sikeres megkötéséért.",
+      "Szeretném kifejezni legmélyebb hálámat a belső compliance rendszer kiépítéséért.",
+      "Szeretném kifejezni legmélyebb hálámat a rendszerszintű jogi kockázatok elhárításáért.",
+      "Szeretném kifejezni legmélyebb hálámat a kritikus adatelemzések levezetéséért.",
+      "Szeretném kifejezni legmélyebb hálámat a válságkezelési stratégia kidolgozásáért."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Hatalmas különbséget hoztál létre a ...-ban/ben.",
+    "translation": "You've made a huge difference in ...",
+    "b1": [
+      "Hatalmas különbséget hoztál létre a munkámban.",
+      "Hatalmas különbséget hoztál létre az életemben.",
+      "Hatalmas különbséget hoztál létre a szobámban.",
+      "Hatalmas különbséget hoztál létre a hangulatban.",
+      "Hatalmas különbséget hoztál létre a csapatban."
+    ],
+    "b2": [
+      "Hatalmas különbséget hoztál létre a vállalkozás fejlődésében.",
+      "Hatalmas különbséget hoztál létre a projekt hatékonyságában.",
+      "Hatalmas különbséget hoztál létre a munkahelyi légkörben.",
+      "Hatalmas különbséget hoztál létre az ügyfélkapcsolatokban.",
+      "Hatalmas különbséget hoztál létre a tanulási folyamatban."
+    ],
+    "c1": [
+      "Hatalmas különbséget hoztál létre a konzorciumi tárgyalások kimenetelében.",
+      "Hatalmas különbséget hoztál létre a belső compliance kultúra alakításában.",
+      "Hatalmas különbséget hoztál létre a statisztikai kockázatkezelési modellben.",
+      "Hatalmas különbséget hoztál létre a jogi struktúrák átalakításában.",
+      "Hatalmas különbséget hoztál létre a makrogazdasági elemzések minőségében."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Nagyon lenyűgözött az a képességed, hogy ...",
+    "translation": "I'm so impressed by your ability to ...",
+    "b1": [
+      "Nagyon lenyűgözött az a képességed, hogy ilyen gyorsan futsz.",
+      "Nagyon lenyűgözött az a képességed, hogy jól beszélsz magyarul.",
+      "Nagyon lenyűgözött az a képességed, hogy szépen rajzolsz.",
+      "Nagyon lenyűgözött az a képességed, hogy mindig mosolygoog.",
+      "Nagyon lenyűgözött az a képességed, hogy mindent megjegzel."
+    ],
+    "b2": [
+      "Nagyon lenyűgözött az a képességed, hogy nyugodt maradsz a stresszben.",
+      "Nagyon lenyűgözött az a képességed, hogy egyszerre több feladatot oldasz meg.",
+      "Nagyon lenyűgözött az a képességed, hogy tisztán elmagyarázod a dolgokat.",
+      "Nagyon lenyűgözött az a képességed, hogy gyorsan döntesz nehéz helyzetben.",
+      "Nagyon lenyűgözött az a képességed, hogy meggyőzöd az embereket."
+    ],
+    "c1": [
+      "Nagyon lenyűgözött az a képességed, hogy átlátod a komplex jogi szövegeket.",
+      "Nagyon lenyűgözött az a képességed, hogy szintetizálod a makrogazdasági adatokat.",
+      "Nagyon lenyűgözött az a képességed, hogy zökkenőmentesen kezeled a konzorciumi konfliktusokat.",
+      "Nagyon lenyűgözött az a képességed, hogy hibátlanul alkalmazod a compliance előírásokat.",
+      "Nagyon lenyűgözött az a képességed, hogy sztochasztikus modellekből pontos következtetést vonsz le."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Köszönöm, hogy szakítottál időt arra, hogy ...",
+    "translation": "Thank you for taking the time to ...",
+    "b1": [
+      "Köszönöm, hogy szakítottál időt arra, hogy beszélgessünk.",
+      "Köszönöm, hogy szakítottál időt arra, hogy eljöjj.",
+      "Köszönöm, hogy szakítottál időt arra, hogy segíts.",
+      "Köszönöm, hogy szakítottál időt arra, hogy megnézd.",
+      "Köszönöm, hogy szakítottál időt arra, hogy válaszolj."
+    ],
+    "b2": [
+      "Köszönöm, hogy szakítottál időt arra, hogy átnézd a jelentésemet.",
+      "Köszönöm, hogy szakítottál időt arra, hogy elmagyarázd a feladatot.",
+      "Köszönöm, hogy szakítottál időt arra, hogy meghhallgasd az ötletemet.",
+      "Köszönöm, hogy szakítottál időt arra, hogy találkozzunk az irodában.",
+      "Köszönöm, hogy szakítottál időt arra, hogy segíts a költözésben."
+    ],
+    "c1": [
+      "Köszönöm, hogy szakítottál időt arra, hogy áttekintsd a konzorciumi szerződésszöveget.",
+      "Köszönöm, hogy szakítottál időt arra, hogy validáld a belső compliance jelentést.",
+      "Köszönöm, hogy szakítottál időt arra, hogy elemezd a makrogazdasági trendeket.",
+      "Köszönöm, hogy szakítottál időt arra, hogy egyeztessünk a jogi kockázatokról.",
+      "Köszönöm, hogy szakítottál időt arra, hogy átvedd velem a statisztikai modelleket."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Szerencsések vagyunk, hogy van valaki, aki képes ...",
+    "translation": "We are fortunate to have someone who can ...",
+    "b1": [
+      "Szerencsések vagyunk, hogy van valaki, aki képes így főzni.",
+      "Szerencsések vagyunk, hogy van valaki, aki képes segíteni.",
+      "Szerencsések vagyunk, hogy van valaki, aki képes vezetni.",
+      "Szerencsések vagyunk, hogy van valaki, aki képes megszervezni.",
+      "Szerencsések vagyunk, hogy van valaki, aki képes mosolyogni."
+    ],
+    "b2": [
+      "Szerencsések vagyunk, hogy van valaki, aki képes összefogni a csapatot.",
+      "Szerencsések vagyunk, hogy van valaki, aki képes megoldani a technikai problémákat.",
+      "Szerencsések vagyunk, hogy van valaki, aki képes tárgyalni a partnerekkel.",
+      "Szerencsések vagyunk, hogy van valaki, aki képes határidőre befejezni a munkát.",
+      "Szerencsések vagyunk, hogy van valaki, aki képes átlátni a költségvetést."
+    ],
+    "c1": [
+      "Szerencsések vagyunk, hogy van valaki, aki képes navigálni a komplex jogi keretek között.",
+      "Szerencsések vagyunk, hogy van valaki, aki képes kezelni a konzorciumi vitákat.",
+      "Szerencsések vagyunk, hogy van valaki, aki képes auditálni a belső compliance protokollokat.",
+      "Szerencsések vagyunk, hogy van valaki, aki képes elemezni a makrogazdasági anomáliákat.",
+      "Szerencsések vagyunk, hogy van valaki, aki képes strukturálni a kvantitatív modelleket."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "A hajlandóságod arra, hogy ..., igazán kitűnik.",
+    "translation": "Your willingness to ... really stands out.",
+    "b1": [
+      "A hajlandóságod arra, hogy segíts, igazán kitűnik.",
+      "A hajlandóságod arra, hogy tanulj, igazán kitűnik.",
+      "A hajlandóságod arra, hogy megoszd, igazán kitűnik.",
+      "A hajlandóságod arra, hogy dolgozz, igazán kitűnik.",
+      "A hajlandóságod arra, hogy eljöjj, igazán kitűnik."
+    ],
+    "b2": [
+      "A hajlandóságod arra, hogy átvedd a vezetést, igazán kitűnik.",
+      "A hajlandóságod arra, hogy túlórázz a projektért, igazán kitűnik.",
+      "A hajlandóságod arra, hogy meghhallgasd a másikat, igazán kitűnik.",
+      "A hajlandóságod arra, hogy kipróbálj új dolgokat, igazán kitűnik.",
+      "A hajlandóságod arra, hogy kompromisszumot köss, igazán kitűnik."
+    ],
+    "c1": [
+      "A hajlandóságod arra, hogy felelősséget vállalj a konzorciumi kockázatokért, igazán kitűnik.",
+      "A hajlandóságod arra, hogy mélyrehatóan áttekintsd a belső compliance hibákat, igazán kitűnik.",
+      "A hajlandóságod arra, hogy támogasd a strukturális reformokat, igazán kitűnik.",
+      "A hajlandóságod arra, hogy integráld a makrogazdasági tényezőket a modellbe, igazán kitűnik.",
+      "A hajlandóságod arra, hogy szakmai útmutatást nyújts a nehéz helyzetekben, igazán kitűnik."
+    ]
+  }
+]

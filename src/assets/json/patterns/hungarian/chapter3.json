@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Megtehetnéd esetleg, hogy ...?",
+    "translation": "Could you possibly ...?",
+    "b1": [
+      "Megtehetnéd esetleg, hogy hozol egy pohár vizet?",
+      "Megtehetnéd esetleg, hogy bezárod az ablakot?",
+      "Megtehetnéd esetleg, hogy segítesz ebben a feladatban?",
+      "Megtehetnéd esetleg, hogy ma este eljössz?",
+      "Megtehetnéd esetleg, hogy átküldöd a fotót?"
+    ],
+    "b2": [
+      "Megtehetnéd esetleg, hogy átnézed a jelentésemet holnap reggelig?",
+      "Megtehetnéd esetleg, hogy lemondod a találkozót a nevemben?",
+      "Megtehetnéd esetleg, hogy küldesz egy emlékeztetőt a kollégáknak?",
+      "Megtehetnéd esetleg, hogy módosítod a határidőt a rendszerben?",
+      "Megtehetnéd esetleg, hogy hozol magaddal extra nyomtatványokat?"
+    ],
+    "c1": [
+      "Megtehetnéd esetleg, hogy soron kívül felülvizsgálod a költségvetési javaslatunkat?",
+      "Megtehetnéd esetleg, hogy közvetítesz a felek között a vitás kérdésben?",
+      "Megtehetnéd esetleg, hogy rendelkezésre bocsátod a korábbi kutatások adatait?",
+      "Megtehetnéd esetleg, hogy hivatalos állásfoglalást kérsz a jogi osztálytól?",
+      "Megtehetnéd esetleg, hogy integrálod a legfrissebb módosításokat a dokumentumba?"
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Nagyon hálás lennék, ha tudnál ...",
+    "translation": "I would be grateful if you could ...",
+    "b1": [
+      "Nagyon hálás lennék, ha tudnál segíteni a tanulásban.",
+      "Nagyon hálás lennék, ha tudnál hozni egy kávét.",
+      "Nagyon hálás lennék, ha tudnál vigyázni a kutyámra.",
+      "Nagyon hálás lennék, ha tudnál ma hamarabb jönni.",
+      "Nagyon hálás lennék, ha tudnál adni egy tollat."
+    ],
+    "b2": [
+      "Nagyon hálás lennék, ha tudnál néhány percet szánni a prezentációm áttekintésére.",
+      "Nagyon hálás lennék, ha tudnál ajánlani egy megbízható szerelőt.",
+      "Nagyon hálás lennék, ha tudnál informálni a változásokról időben.",
+      "Nagyon hálás lennék, ha tudnál helyettesíteni holnap délután.",
+      "Nagyon hálás lennék, ha tudnál küldeni egy részletes árajánlatot."
+    ],
+    "c1": [
+      "Nagyon hálás lennék, ha tudnál szakmai véleményt adni a koncepciótervünkről.",
+      "Nagyon hálás lennék, ha tudnál közbenjárni az ügyünkben a vezetőségnél.",
+      "Nagyon hálás lennék, ha tudnál támogatást nyújtani a nemzetközi pályázat előkészítésében.",
+      "Nagyon hálás lennék, ha tudnál részletes elemzést készíteni a piaci kockázatokról.",
+      "Nagyon hálás lennék, ha tudnál biztosítani egy zárt tárgyalót a holnapi megbeszélésre."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Lenne kedved / Zavarna, ha ...?",
+    "translation": "Would you mind ...?",
+    "b1": [
+      "Zavarna, ha kinyitnám az ablakot?",
+      "Zavarna, ha leülnék ide?",
+      "Zavarna, ha most elmennék?",
+      "Zavarna, ha kérdeznék valamit?",
+      "Zavarna, ha meghallgatnám ezt a dalt?"
+    ],
+    "b2": [
+      "Zavarna, ha áttennénk a megbeszélést holnapra?",
+      "Zavarna, ha megkérném, hogy halkabban beszéljen?",
+      "Zavarna, ha én is csatlakoznék a csoporthoz?",
+      "Zavarna, ha egy kicsit később érkeznék?",
+      "Zavarna, ha kikapcsolnám a zenét?"
+    ],
+    "c1": [
+      "Zavarna, ha kétségbe vonnám az általad említett statisztika hitelességét?",
+      "Zavarna, ha a vitatott pontokat elhalasztanánk a következő ülésig?",
+      "Zavarna, ha közvetlenül felvenném a kapcsolatot a külföldi partnerrel?",
+      "Zavarna, ha a projekt struktúráját alapjaiban átalakítanám?",
+      "Zavarna, ha a határidő meghosszabbítását kérném a megrendelőtől?"
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Azért írok, hogy kérjem ...",
+    "translation": "I'm writing to request ...",
+    "b1": [
+      "Azért írok, hogy kérjem a jegyemet.",
+      "Azért írok, hogy kérjem a segítségét.",
+      "Azért írok, hogy kérjem a kulcsot.",
+      "Azért írok, hogy kérjem a napirendet.",
+      "Azért írok, hogy kérjem a könyvet."
+    ],
+    "b2": [
+      "Azért írok, hogy kérjem a szabadságom jóváhagyását a jövő hétre.",
+      "Azért írok, hogy kérjem a hiányzó dokumentumok pótlását.",
+      "Azért írok, hogy kérjem az adatmódosítást a rendszerben.",
+      "Azért írok, hogy kérjem a számla másolatát e-mailben.",
+      "Azért írok, hogy kérjem a foglalásom törlését."
+    ],
+    "c1": [
+      "Azért írok, hogy kérjem a támogatási összeg folyósítását a megállapodás értelmében.",
+      "Azért írok, hogy kérjem a hivatali dokumentumok hitelesített másolatát.",
+      "Azért írok, hogy kérjem a szakértői bizottság hivatalos állásfoglalását.",
+      "Azért írok, hogy kérjem a rendkívüli ülésszak összehívását.",
+      "Azért írok, hogy kérjem a zárolt bankszámla feloldásához szükséges procedúra elindítását."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Szükségem van ...-ra ...-ig.",
+    "translation": "I need ... by the end of ...",
+    "b1": [
+      "Szükségem van a pénzre holnapig.",
+      "Szükségem van a tollra most.",
+      "Szükségem van a kabátra péntekig.",
+      "Szükségem van a könyvre holnapig.",
+      "Szükségem van egy kis időre ma."
+    ],
+    "b2": [
+      "Szükségem van a jelentésre a hét végéig.",
+      "Szükségem van a végleges válaszra holnap délutánig.",
+      "Szükségem van az adatokra a hónap végéig.",
+      "Szükségem van a javított verzióra kedd estig.",
+      "Szükségem van a visszaigazolásra a mai nap folyamán."
+    ],
+    "c1": [
+      "Szükségem van a teljeskörű auditált mérlegre a negyedév végéig.",
+      "Szükségem van a szakmai bírálatra a konferencia kezdete előtt.",
+      "Szükségem van a jogi szakvéleményre a szerződés aláírása előtt.",
+      "Szükségem van a kríziskezelési tervre a holnapi rendkívüli ülésig.",
+      "Szükségem van a kutatási eredmények szintézisére a jövő hét elejéig."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Van rá esély, hogy ...?",
+    "translation": "Is there any chance of ...?",
+    "b1": [
+      "Van rá esély, hogy holnap találkozzunk?",
+      "Van rá esély, hogy szép idő lesz?",
+      "Van rá esély, hogy kapok egy jegyet?",
+      "Van rá esély, hogy ma korábban végezzünk?",
+      "Van rá esély, hogy segítesz nekem?"
+    ],
+    "b2": [
+      "Van rá esély, hogy elhalasztjuk a határidőt?",
+      "Van rá esély, hogy mégis kapunk kedvezményt?",
+      "Van rá esély, hogy a főnök elfogadja az ötletünket?",
+      "Van rá esély, hogy a csomag megérkezik holnapra?",
+      "Van rá esély, hogy találunk szabad szobát a hétvégére?"
+    ],
+    "c1": [
+      "Van rá esély, hogy a nemzetközi zsűri felülvizsgálja a korábbi döntését?",
+      "Van rá esély, hogy a költségvetési keret összegét megemeljék a projekthez?",
+      "Van rá esély, hogy a tárgyalási fordulót átütemezzék a jövő hónapra?",
+      "Van rá esély, hogy a szabadalmi eljárást felgyorsítsák rendkívüli indokkal?",
+      "Van rá esély, hogy a konzorcium elfogadja a módosított feltételeket?"
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Megkérhetlek, hogy kifejezetten ...-ra fókuszálj?",
+    "translation": "Could I ask you to specifically focus on ...?",
+    "b1": [
+      "Megkérhetlek, hogy kifejezetten a feladatra fókuszálj?",
+      "Megkérhetlek, hogy kifejezetten a tanulásra fókuszálj?",
+      "Megkérhetlek, hogy kifejezetten erre a részegségre fókuszálj?",
+      "Megkérhetlek, hogy kifejezetten a szavakra fókuszálj?",
+      "Megkérhetlek, hogy kifejezetten a lényegre fókuszálj?"
+    ],
+    "b2": [
+      "Megkérhetlek, hogy kifejezetten a pénzügyi részletekre fókuszálj a jelentésben?",
+      "Megkérhetlek, hogy kifejezetten az ügyfelek igényeire fókuszálj a prezentációban?",
+      "Megkérhetlek, hogy kifejezetten a hibák javítására fókuszálj most?",
+      "Megkérhetlek, hogy kifejezetten a jövő évi tervekre fókuszálj?",
+      "Megkérhetlek, hogy kifejezetten a minőségbiztosításra fókuszálj?"
+    ],
+    "c1": [
+      "Megkérhetlek, hogy kifejezetten a strukturális anomáliákra fókuszálj az elemzés során?",
+      "Megkérhetlek, hogy kifejezetten a jogi kockázatbecslésre fókuszálj a szerződésben?",
+      "Megkérhetlek, hogy kifejezetten a humántőke fejlesztési stratégiájára fókuszálj?",
+      "Megkérhetlek, hogy kifejezetten a fenntarthatósági kritériumokra fókuszálj?",
+      "Megkérhetlek, hogy kifejezetten a makrogazdasági hatásokra fókuszálj?"
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Kérlek, figyelj arra, hogy benne legyen ...",
+    "translation": "Please make sure to include ...",
+    "b1": [
+      "Kérlek, figyelj arra, hogy benne legyen a neved is.",
+      "Kérlek, figyelj arra, hogy benne legyen a dátum.",
+      "Kérlek, figyelj arra, hogy benne legyen a cím.",
+      "Kérlek, figyelj arra, hogy benne legyen a telefonszám.",
+      "Kérlek, figyelj arra, hogy benne legyen az ár is."
+    ],
+    "b2": [
+      "Kérlek, figyelj arra, hogy benne legyen a pontos költségvetés a tervezetben.",
+      "Kérlek, figyelj arra, hogy benne legyen a határidő is az e-mailben.",
+      "Kérlek, figyelj arra, hogy benne legyen az összes elérhetőségünk.",
+      "Kérlek, figyelj arra, hogy benne legyen a korábbi projektek listája.",
+      "Kérlek, figyelj arra, hogy benne legyen a vásárlói visszajelzés is."
+    ],
+    "c1": [
+      "Kérlek, figyelj arra, hogy benne legyen a hatásvizsgálati elemzés a dokumentációban.",
+      "Kérlek, figyelj arra, hogy benne legyen a nemzetközi standardoknak való megfelelés igazolása.",
+      "Kérlek, figyelj arra, hogy benne legyen a felelősségvállalási nyilatkozat.",
+      "Kérlek, figyelj arra, hogy benne legyen az etikai kódex szerinti irányelv.",
+      "Kérlek, figyelj arra, hogy benne legyen a kétéves cash-flow előrejelzés."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Lehetséges lenne, hogy részleteket adj ...-ról?",
+    "translation": "Would it be possible for you to provide details on ...?",
+    "b1": [
+      "Lehetséges lenne, hogy részleteket adj az árról?",
+      "Lehetséges lenne, hogy részleteket adj a programról?",
+      "Lehetséges lenne, hogy részleteket adj a tervekről?",
+      "Lehetséges lenne, hogy részleteket adj a helyről?",
+      "Lehetséges lenne, hogy részleteket adj az időről?"
+    ],
+    "b2": [
+      "Lehetséges lenne, hogy részleteket adj a jövő heti utazás feltételeiről?",
+      "Lehetséges lenne, hogy részleteket adj a tervezett költségekről?",
+      "Lehetséges lenne, hogy részleteket adj a projekt mérföldköveiről?",
+      "Lehetséges lenne, hogy részleteket adj a várható eredményekről?",
+      "Lehetséges lenne, hogy részleteket adj a feladatok megosztásáról?"
+    ],
+    "c1": [
+      "Lehetséges lenne, hogy részleteket adj a tervezett reorganizáció jogi hátteréről?",
+      "Lehetséges lenne, hogy részleteket adj a konzorciumi partnerek feladatairól?",
+      "Lehetséges lenne, hogy részleteket adj a külföldi befektetők finanszírozási struktúrájáról?",
+      "Lehetséges lenne, hogy részleteket adj a szellemi tulajdonjogok megosztásáról?",
+      "Lehetséges lenne, hogy részleteket adj a kríziskezelési protokoll lépéseiről?"
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Sajnos nem fogom tudni ...",
+    "translation": "Unfortunately, I won't be able to ...",
+    "b1": [
+      "Sajnos nem fogom tudni elhozni a könyvet.",
+      "Sajnos nem fogom tudni ma megcsinálni.",
+      "Sajnos nem fogom tudni kifizetni.",
+      "Sajnos nem fogom tudni elhinni.",
+      "Sajnos nem fogom tudni megtalálni."
+    ],
+    "b2": [
+      "Sajnos nem fogom tudni vállalni ezt a plusz feladatot a héten.",
+      "Sajnos nem fogom tudni időben befejezni a jelentést.",
+      "Sajnos nem fogom tudni elfogadni a meghívást a vacsorára.",
+      "Sajnos nem fogom tudni átütemezni a találkozónkat.",
+      "Sajnos nem fogom tudni biztosítani a kért felszerelést."
+    ],
+    "c1": [
+      "Sajnos nem fogom tudni képviselni a céget a nemzetközi kongresszuson.",
+      "Sajnos nem fogom tudni garantálni a határidő betartását a jelenlegi kapacitással.",
+      "Sajnos nem fogom tudni aláírni a dokumentumot a jogi aggályok miatt.",
+      "Sajnos nem fogom tudni jóváhagyni a költségvetés módosítását ebben a formában.",
+      "Sajnos nem fogom tudni átvenni a projekt vezetését a meglévő kötelezettségeim mellett."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Attól tartok, el kell utasítanom ...",
+    "translation": "I'm afraid I have to decline ...",
+    "b1": [
+      "Attól tartok, el kell utasítanom a segítséget.",
+      "Attól tartok, el kell utasítanom az ajánlatot.",
+      "Attól tartok, el kell utasítanom a kérést.",
+      "Attól tartok, el kell utasítanom ezt.",
+      "Attól tartok, el kell utasítanom a holnapi programot."
+    ],
+    "b2": [
+      "Attól tartok, el kell utasítanom a fizetésemeléssel kapcsolatos kérését jelenleg.",
+      "Attól tartok, el kell utasítanom a részvételt a hétvégi konferencián.",
+      "Attól tartok, el kell utasítanom a módosítási javaslatot.",
+      "Attól tartok, el kell utasítanom az együttműködési megállapodást.",
+      "Attól tartok, el kell utasítanom a túlóra vállalását ezen a héten."
+    ],
+    "c1": [
+      "Attól tartok, el kell utasítanom a konzorciumi tagságra vonatkozó felkérést.",
+      "Attól tartok, el kell utasítanom a szerződéshosszabbítást a feltételek miatt.",
+      "Attól tartok, el kell utasítanom a rendkívüli forrásigénylést.",
+      "Attól tartok, el kell utasítanom a kutatási adatok nyilvánosságra hozatalát.",
+      "Attól tartok, el kell utasítanom a tőkeemelési javaslatot ekkora kockázat mellett."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Ez kihívásnak tűnik, mert ...",
+    "translation": "That sounds challenging because ...",
+    "b1": [
+      "Ez kihívásnak tűnik, mert nincs sok időm.",
+      "Ez kihívásnak tűnik, mert nehéz a nyelv.",
+      "Ez kihívásnak tűnik, mert messze van.",
+      "Ez kihívásnak tűnik, mert fáradt vagyok.",
+      "Ez kihívásnak tűnik, mert sok a dolog."
+    ],
+    "b2": [
+      "Ez kihívásnak tűnik, mert a határidő rendkívül rövid.",
+      "Ez kihívásnak tűnik, mert kevés az emberünk a feladatra.",
+      "Ez kihívásnak tűnik, mert új technológiát kell bevezetnünk.",
+      "Ez kihívásnak tűnik, mert a büdzsé nagyon korlátozott.",
+      "Ez kihívásnak tűnik, mert eltérőek a piaci elvárások."
+    ],
+    "c1": [
+      "Ez kihívásnak tűnik, mert a jogi környezet folyamatosan változik.",
+      "Ez kihívásnak tűnik, mert a rendszerszintű integráció komoly kockázatokat rejt.",
+      "Ez kihívásnak tűnik, mert a geopolitikai feszültségek befolyásolják a láncot.",
+      "Ez kihívásnak tűnik, mert a kulturális különbségek nehezítik a konszenzust.",
+      "Ez kihívásnak tűnik, mert a volatilis piac miatt az előrejelzés szinte lehetetlen."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Bár értékelem a lehetőséget, tisztelettel visszautasítom ...",
+    "translation": "While I appreciate the offer, I must respectfully refuse ...",
+    "b1": [
+      "Bár értékelem a lehetőséget, tisztelettel visszautasítom ezt.",
+      "Bár értékelem a lehetőséget, tisztelettel visszautasítom a meghívást.",
+      "Bár értékelem a lehetőséget, tisztelettel visszautasítom a kérést.",
+      "Bár értékelem a lehetőséget, tisztelettel visszautasítom a teát.",
+      "Bár értékelem a lehetőséget, tisztelettel visszautasítom a segítséget."
+    ],
+    "b2": [
+      "Bár értékelem a lehetőséget, tisztelettel visszautasítom az állásajánlatot.",
+      "Bár értékelem a lehetőséget, tisztelettel visszautasítom a közös projektet.",
+      "Bár értékelem a lehetőséget, tisztelettel visszautasítom az utazást.",
+      "Bár értékelem a lehetőséget, tisztelettel visszautasítom a felkérést.",
+      "Bár értékelem a lehetőséget, tisztelettel visszautasítom a plusz megbízatást."
+    ],
+    "c1": [
+      "Bár értékelem a lehetőséget, tisztelettel visszautasítom a vezetői pozíciót a kötelezettségeim miatt.",
+      "Bár értékelem a lehetőséget, tisztelettel visszautasítom a részvényesi csatlakozást.",
+      "Bár értékelem a lehetőséget, tisztelettel visszautasítom a kizárólagos partnerségi ajánlatot.",
+      "Bár értékelem a lehetőséget, tisztelettel visszautasítom a tanácsadói megbízást.",
+      "Bár értékelem a lehetőséget, tisztelettel visszautasítom a felkérést a bizottságba."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Az időbeosztásom nem engedi meg, hogy ...",
+    "translation": "My schedule doesn't permit me to ...",
+    "b1": [
+      "Az időbeosztásom nem engedi meg, hogy elmenjek.",
+      "Az időbeosztásom nem engedi meg, hogy segítsek.",
+      "Az időbeosztásom nem engedi meg, hogy aludjak.",
+      "Az időbeosztásom nem engedi meg, hogy pihenjek.",
+      "Az időbeosztásom nem engedi meg, hogy ma találkozzunk."
+    ],
+    "b2": [
+      "Az időbeosztásom nem engedi meg, hogy részt vegyek a képzésen.",
+      "Az időbeosztásom nem engedi meg, hogy elutazzak a jövő héten.",
+      "Az időbeosztásom nem engedi meg, hogyvállaljam a plusz órákat.",
+      "Az időbeosztásom nem engedi meg, hogy időben elkészüljek.",
+      "Az időbeosztásom nem engedi meg, hogy találkozzunk."
+    ],
+    "c1": [
+      "Az időbeosztásom nem engedi meg, hogy magamra vállaljam a főszerkesztői teendőket.",
+      "Az időbeosztásom nem engedi meg, hogy a delegáció élére álljak a túrán.",
+      "Az időbeosztásom nem engedi meg, hogy személyesen részt vegyek a tárgyalásokon.",
+      "Az időbeosztásom nem engedi meg, hogy elvállaljam ezt az átfogó auditot.",
+      "Az időbeosztásom nem engedi meg, hogy a kutatás minden fázisában jelen legyek."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Bár bárcsak tudnék ..., de jelenleg lefoglal ...",
+    "translation": "I wish I could ..., but currently I'm occupied with ...",
+    "b1": [
+      "Bár bárcsak tudnék segíteni, de jelenleg lefoglal a munka.",
+      "Bár bárcsak tudnék jönni, de jelenleg lefoglal a tanulás.",
+      "Bár bárcsak tudnék pihenni, de jelenleg lefoglal a takarítás.",
+      "Bár bárcsak tudnék válaszolni, de jelenleg lefoglal a főzés.",
+      "Bár bárcsak tudnék beszélgetni, de jelenleg lefoglal a feladat."
+    ],
+    "b2": [
+      "Bár bárcsak tudnék csatlakozni, de jelenleg lefoglal az éves jelentés elkészítése.",
+      "Bár bárcsak tudnék utazni, de jelenleg lefoglal az új lakás felújítása.",
+      "Bár bárcsak tudnék segíteni, de jelenleg lefoglal a saját projektem.",
+      "Bár bárcsak tudnék időt szakítani rá, de jelenleg lefoglal a vizsgákra való készülés.",
+      "Bár bárcsak tudnék figyelni, de jelenleg lefoglal egy másik sürgős ügy."
+    ],
+    "c1": [
+      "Bár bárcsak tudnék részt venni a konferencián, de jelenleg lefoglal a strukturális reformok koordinálása.",
+      "Bár bárcsak tudnék konzultálni, de jelenleg lefoglal a nemzetközi audit lefolytatása.",
+      "Bár bárcsak tudnék szakítani időt, de jelenleg lefoglal a krízishelyzet kezelése.",
+      "Bár bárcsak tudnék mentorálni, de jelenleg lefoglal a saját kutatócsoportom irányítása.",
+      "Bár bárcsak tudnék szerepet vállalni, de jelenleg lefoglal a tőkebevonási folyamat."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Erre később visszatérhetünk.",
+    "translation": "We can revisit ... later.",
+    "b1": [
+      "Erre később visszatérhetünk.",
+      "Erre a kérdésre később visszatérhetünk.",
+      "Erre a dologra később visszatérhetünk.",
+      "Erre a témára később visszatérhetünk.",
+      "Erre a feladatra később visszatérhetünk."
+    ],
+    "b2": [
+      "Erre a javaslatra később visszatérhetünk, ha lesz elég időnk.",
+      "Erre a problémára később visszatérhetünk a jövő héten.",
+      "Erre az ötletre később visszatérhetünk a költségvetés után.",
+      "Erre a vitára később visszatérhetünk, ha lecsillapodtunk.",
+      "Erre a részletre később visszatérhetünk az egyeztetésen."
+    ],
+    "c1": [
+      "Erre a strukturális kérdésre később visszatérhetünk, miután megkaptuk a jogi szakvéleményt.",
+      "Erre a stratégiai pontra később visszatérhetünk a negyedéves értékelés során.",
+      "Erre a vitás kimenetelre később visszatérhetünk a következő plenáris ülésen.",
+      "Erre a technológiai dilemmára később visszatérhetünk a tesztek után.",
+      "Erre a tőkeallokációs kérdésre később visszatérhetünk a konszolidációt követően."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Azt javaslom, hogy beszélj ...-val erről.",
+    "translation": "I recommend speaking to ... about ...",
+    "b1": [
+      "Azt javaslom, hogy beszélj Péterrel erről.",
+      "Azt javaslom, hogy beszélj a tanárral erről.",
+      "Azt javaslom, hogy beszélj anyával erről.",
+      "Azt javaslom, hogy beszélj a főnökkel erről.",
+      "Azt javaslom, hogy beszélj a barátoddal erről."
+    ],
+    "b2": [
+      "Azt javaslom, hogy beszélj a projektvezetővel erről a problémáról.",
+      "Azt javaslom, hogy beszélj a HR-essel erről a szabadságos dologról.",
+      "Azt javaslom, hogy beszélj a könyvelővel a számlák miatt.",
+      "Azt javaslom, hogy beszélj az ügyfélszolgálattal a reklamációról.",
+      "Azt javaslom, hogy beszélj a szakértővel a technikai részletekről."
+    ],
+    "c1": [
+      "Azt javaslom, hogy beszélj a jogi osztállyal a szerződéses feltételekről.",
+      "Azt javaslom, hogy beszélj a főigazgatóval a stratégiai irányváltásról.",
+      "Azt javaslom, hogy beszélj a pénzügyi igazgatóval a keretösszegről.",
+      "Azt javaslom, hogy beszélj a bizottság elnökével a pályázat menetéről.",
+      "Azt javaslom, hogy beszélj az adatvédelmi tisztviselővel a protokollról."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "A fő prioritásom most ..., szóval el kell utasítanom.",
+    "translation": "My priority right now is ..., so I must decline.",
+    "b1": [
+      "A fő prioritásom most a tanulás, szóval el kell utasítanom.",
+      "A fő prioritásom most a munka, szóval el kell utasítanom.",
+      "A fő prioritásom most az alvás, szóval el kell utasítanom.",
+      "A fő prioritásom most a pihenés, szóval el kell utasítanom.",
+      "A fő prioritásom most az egészségem, szóval el kell utasítanom."
+    ],
+    "b2": [
+      "A fő prioritásom most a vizsgák letétele, szóval el kell utasítanom a bulit.",
+      "A fő prioritásom most az új projekt befejezése, szóval el kell utasítanom a plusz feladatot.",
+      "A fő prioritásom most a család, szóval el kell utasítanom a külföldi utat.",
+      "A fő prioritásom most a költségcsökkentés, szóval el kell utasítanom a beruházást.",
+      "A fő prioritásom most a minőségbiztosítás, szóval el kell utasítanom a kapkodást."
+    ],
+    "c1": [
+      "A fő prioritásom most a jogi megfelelés biztosítása, szóval el kell utasítanom a kockázatos megállapodást.",
+      "A fő prioritásom most a cég likviditásának megőrzése, szóval el kell utasítanom a tőkelekötést.",
+      "A fő prioritásom most a krízishelyzet elhárítása, szóval el kell utasítanom a rutin feladatokat.",
+      "A fő prioritásom most a kutatási fázis lezárása, szóval el kell utasítanom a konferencia-felkérést.",
+      "A fő prioritásom most a strukturális konszolidáció, szóval el kell utasítanom a bővítési terveket."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Megkérhetem, hogy pontosítsd, mit értesz ... alatt?",
+    "translation": "Could you please clarify what you mean by ...?",
+    "b1": [
+      "Megkérhetem, hogy pontosítsd, mit értesz ez alatt?",
+      "Megkérhetem, hogy pontosítsd, mit értesz a tegnap alatt?",
+      "Megkérhetem, hogy pontosítsd, mit értesz a segítség alatt?",
+      "Megkérhetem, hogy pontosítsd, mit értesz a pénz alatt?",
+      "Megkérhetem, hogy pontosítsd, mit értesz a terv alatt?"
+    ],
+    "b2": [
+      "Megkérhetem, hogy pontosítsd, mit értesz a határidő módosítása alatt?",
+      "Megkérhetem, hogy pontosítsd, mit értesz a költségek csökkentése alatt?",
+      "Megkérhetem, hogy pontosítsd, mit értesz a rugalmas munkaidő alatt?",
+      "Megkérhetem, hogy pontosítsd, mit értesz a minőségi követelmények alatt?",
+      "Megkérhetem, hogy pontosítsd, mit értesz a feladatok átcsoportosítása alatt?"
+    ],
+    "c1": [
+      "Megkérhetem, hogy pontosítsd, mit értesz a strukturális reformok végrehajtása alatt?",
+      "Megkérhetem, hogy pontosítsd, mit értesz a szellemi tulajdonjogok átszállása alatt?",
+      "Megkérhetem, hogy pontosítsd, mit értesz a makrogazdasági mutatók romlása alatt?",
+      "Megkérhetem, hogy pontosítsd, mit értesz a harmadik fél általi garancia alatt?",
+      "Megkérhetem, hogy pontosítsd, mit értesz az intézményi autonómia korlátozása alatt?"
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Ha csak annyit megtennél, hogy ..., az nagy segítség lenne.",
+    "translation": "If you could just ..., that would be a great help.",
+    "b1": [
+      "Ha csak annyit megtennél, hogy hozol egy tollat, az nagy segítség lenne.",
+      "Ha csak annyit megtennél, hogy bezárod az ajtót, az nagy segítség lenne.",
+      "Ha csak annyit megtennél, hogy válaszolsz, az nagy segítség lenne.",
+      "Ha csak annyit megtennél, hogy megvársz, az nagy segítség lenne.",
+      "Ha csak annyit megtennél, hogy szólsz neki, az nagy segítség lenne."
+    ],
+    "b2": [
+      "Ha csak annyit megtennél, hogy átküldöd a fájlt, az nagy segítség lenne.",
+      "Ha csak annyit megtennél, hogy lefordítod ezt az oldalt, az nagy segítség lenne.",
+      "Ha csak annyit megtennél, hogy aláírod a papírt, az nagy segítség lenne.",
+      "Ha csak annyit megtennél, hogy szólsz a főnöknek, az nagy segítség lenne.",
+      "Ha csak annyit megtennél, hogy lefoglalod a szobát, az nagy segítség lenne."
+    ],
+    "c1": [
+      "Ha csak annyit megtennél, hogy hitelesíted a dokumentumot, az nagy segítség lenne.",
+      "Ha csak annyit megtennél, hogy átnézed a jogi nyilatkozatot, az nagy segítség lenne.",
+      "Ha csak annyit megtennél, hogy továbbítod a kérést a hivatalnak, az nagy segítség lenne.",
+      "Ha csak annyit megtennél, hogy ellenőrzöd a költségvetési táblázatot, az nagy segítség lenne.",
+      "Ha csak annyit megtennél, hogy jóváhagyod a költségeket, az nagy segítség lenne."
+    ]
+  }
+]

@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Hlavním problémem se zdá být ...",
+    "translation": "The main issue seems to be ...",
+    "b1": [
+      "Hlavním problémem se zdá být nedostatek času.",
+      "Hlavním problémem se zdá být vysoká cena.",
+      "Hlavním problémem se zdá být špatné počasí.",
+      "Hlavním problémem se zdá být starý počítač.",
+      "Hlavním problémem se zdá být malá místnost."
+    ],
+    "b2": [
+      "Hlavním problémem se zdá být nedostatečná komunikace v týmu.",
+      "Hlavním problémem se zdá být pozdní dodávka materiálů.",
+      "Hlavním problémem se zdá být nedostatek zkušeností s novým systémem.",
+      "Hlavním problémem se zdá být příliš mnoho administrativy.",
+      "Hlavním problémem se zdá být nízká motivace zaměstnanců."
+    ],
+    "c1": [
+      "Hlavním problémem se zdá být hluboká strukturální neefektivita v rozhodovacích procesech.",
+      "Hlavním problémem se zdá být systémový rozpor mezi teoretickými cíli a reálnou praxí.",
+      "Hlavním problémem se zdá být absence jasné vize v dlouhodobém horizontu instituce.",
+      "Hlavním problémem se zdá být eroze důvěry v klíčové komunikační kanály.",
+      "Hlavním problémem se zdá být setrvačnost myšlení bránící jakékoliv inovaci."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Jak můžeme nejlépe přistoupit k ...?",
+    "translation": "How can we best approach ...?",
+    "b1": [
+      "Jak můžeme nejlépe přistoupit k tomuto úkolu?",
+      "Jak můžeme nejlépe přistoupit k výběru nového auta?",
+      "Jak můžeme nejlépe přistoupit k učení češtiny?",
+      "Jak můžeme nejlépe přistoupit k přípravě večeře?",
+      "Jak můžeme nejlépe přistoupit k tomuto problému?"
+    ],
+    "b2": [
+      "Jak můžeme nejlépe přistoupit k řešení této krize?",
+      "Jak můžeme nejlépe přistoupit k implementaci nové strategie?",
+      "Jak můžeme nejlépe přistoupit k oslovení nových zákazníků?",
+      "Jak můžeme nejlépe přistoupit k vyjednávání s dodavateli?",
+      "Jak můžeme nejlépe přistoupit k optimalizaci našich nákladů?"
+    ],
+    "c1": [
+      "Jak můžeme nejlépe přistoupit k restrukturalizaci celého vědeckého aparátu?",
+      "Jak můžeme nejlépe přistoupit k mitigaci geopolitických rizik v regionu?",
+      "Jak můžeme nejlépe přistoupit k reflexi etických dopadů nových technologií?",
+      "Jak můžeme nejlépe přistoupit k transformaci tradičních kulturních hodnot?",
+      "Jak můžeme nejlépe přistoupit k integraci divergentních názorových proudů?"
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Navrhuji, abychom ...",
+    "translation": "I suggest that we ...",
+    "b1": [
+      "Navrhuji, abychom šli ven.",
+      "Navrhuji, abychom začali dříve.",
+      "Navrhuji, abychom si dali pauzu.",
+      "Navrhuji, abychom koupili lístky.",
+      "Navrhuji, abychom jeli autem."
+    ],
+    "b2": [
+      "Navrhuji, abychom uspořádali mimořádnou schůzku týmu.",
+      "Navrhuji, abychom rozdělili úkoly mezi všechny členy.",
+      "Navrhuji, abychom odložili termín odevzdání o dva dny.",
+      "Navrhuji, abychom využili externího konzultanta.",
+      "Navrhuji, abychom otestovali nový software před spuštěním."
+    ],
+    "c1": [
+      "Navrhuji, abychom revidovali naše teoretická východiska před zahájením další fáze.",
+      "Navrhuji, abychom institucionalizovali pravidelné kontroly etických standardů.",
+      "Navrhuji, abychom implementovali decentralizovaný model řízení projektů.",
+      "Navrhuji, abychom zahájili hloubkový audit našich interních procesů.",
+      "Navrhuji, abychom iniciovali mezinárodní konsorcium pro tento výzkum."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Potenciálním řešením je ...",
+    "translation": "A potential solution is to ...",
+    "b1": [
+      "Potenciálním řešením je koupit nový.",
+      "Potenciálním řešením je zeptat se učitele.",
+      "Potenciálním řešením je jet dřív.",
+      "Potenciálním řešením je udělat to zítra.",
+      "Potenciálním řešením je zavolat mu."
+    ],
+    "b2": [
+      "Potenciálním řešením je najmout nového člověka do týmu.",
+      "Potenciálním řešením je automatizovat tento proces.",
+      "Potenciálním řešením je přerozdělit stávající finanční zdroje.",
+      "Potenciálním řešením je zavést flexibilní pracovní dobu.",
+      "Potenciálním řešením je uspořádat školení pro zaměstnance."
+    ],
+    "c1": [
+      "Potenciálním řešením je radikální redesign celé architektury systému.",
+      "Potenciálním řešením je vytvoření nezávislé komise pro dohled nad dodržováním pravidel.",
+      "Potenciálním řešením je přechod k hybridnímu modelu financování výzkumu.",
+      "Potenciálním řešením je redefinice klíčových metrik úspěšnosti projektu.",
+      "Potenciálním řešením je aplikace interdisciplinárního přístupu k této problematice."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Co kdybychom zkusili ... namísto ...?",
+    "translation": "What if we tried ... instead of ...?",
+    "b1": [
+      "Co kdybychom zkusili jít pěšky namísto auta?",
+      "Co kdybychom zkusili vařit doma namísto restaurace?",
+      "Co kdybychom zkusili číst knihu namísto televize?",
+      "Co kdybychom zkusili pracovat ráno namísto večera?",
+      "Co kdybychom zkusili modrou barvu namísto červené?"
+    ],
+    "b2": [
+      "Co kdybychom zkusili online formu schůzky namísto osobní účasti?",
+      "Co kdybychom zkusili investovat do reklamy namísto slev?",
+      "Co kdybychom zkusili použít tento software namísto starého?",
+      "Co kdybychom zkusili rozdělit úkol na menší části namísto jednoho celku?",
+      "Co kdybychom zkusili oslovit jiné publikum namísto stávajícího?"
+    ],
+    "c1": [
+      "Co kdybychom zkusili induktivní metodu výzkumu namísto deduktivní?",
+      "Co kdybychom zkusili aplikovat kvantitativní analýzu namísto čistě kvalitativní?",
+      "Co kdybychom zkusili zapojit veřejnost namísto exkluzivního expertního panelu?",
+      "Co kdybychom zkusili horizontální strukturu řízení namísto hierarchické?",
+      "Co kdybychom zkusili dlouhodobý strategický plán namísto krátkodobých opatření?"
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Musíme stanovit prioritu pro ...",
+    "translation": "We need to prioritize ...",
+    "b1": [
+      "Musíme stanovit prioritu pro naše zdraví.",
+      "Musíme stanovit prioritu pro dokončení školy.",
+      "Musíme stanovit prioritu pro tento úkol.",
+      "Musíme stanovit prioritu pro nákup.",
+      "Musíme stanovit prioritu pro odpočinek."
+    ],
+    "b2": [
+      "Musíme stanovit prioritu pro spokojenost našich zákazníků.",
+      "Musíme stanovit prioritu pro snižování provozních nákladů.",
+      "Musíme stanovit prioritu pro bezpečnost dat.",
+      "Musíme stanovit prioritu pro rozvoj nových dovedností týmu.",
+      "Musíme stanovit prioritu pro včasné odevzdání zprávy."
+    ],
+    "c1": [
+      "Musíme stanovit prioritu pro ochranu intelektuálního vlastnictví instituce.",
+      "Musíme stanovit prioritu pro etickou udržitelnost našich budoucích aktivit.",
+      "Musíme stanovit prioritu pro systematickou eliminaci systémových chyb.",
+      "Musíme stanovit prioritu pro hloubkovou analýzu dlouhodobých dopadů.",
+      "Musíme stanovit prioritu pro posílení institucionální integrity."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Rozdělme si tento problém na ...",
+    "translation": "Let's break the problem down into ...",
+    "b1": [
+      "Rozdělme si tento problém na menší části.",
+      "Rozdělme si tento úkol na dva dny.",
+      "Rozdělme si tento text na odstavce.",
+      "Rozdělme si tento seznam na dvě poloviny.",
+      "Rozdělme si tento den na práci a odpočinek."
+    ],
+    "b2": [
+      "Rozdělme si tento problém na technické a finanční aspekty.",
+      "Rozdělme si tento projekt na tři hlavní fáze.",
+      "Rozdělme si tento úkol podle specializace každého člena.",
+      "Rozdělme si tento výzkum na teoretickou a praktickou část.",
+      "Rozdělme si tuto zprávu na logické celky."
+    ],
+    "c1": [
+      "Rozdělme si tento komplexní problém na epistemologické, sociologické a ekonomické roviny.",
+      "Rozdělme si tento systémový kolaps na primární příčiny a sekundární symptomy.",
+      "Rozdělme si tento rozsáhlý diskurs na historická parciální období.",
+      "Rozdělme si toto dilema na etická a pragmatická kritéria.",
+      "Rozdělme si tento strategický cíl na dílčí měřitelné metriky."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Uvažoval/a jsi o dopadu ...?",
+    "translation": "Have you considered the impact of ...?",
+    "b1": [
+      "Uvažoval jsi o dopadu této změny?",
+      "Uvažovala jsi o dopadu počasí na výlet?",
+      "Uvažoval jsi o dopadu ceny?",
+      "Uvažovala jsi o dopadu tohoto rozhodnutí?",
+      "Uvažoval jsi o dopadu na naše plány?"
+    ],
+    "b2": [
+      "Uvažoval jsi o dopadu inflace na náš rozpočet?",
+      "Uvažovala jsi o dopadu odchodu klíčového člověka z týmu?",
+      "Uvažoval jsi o dopadu nových pravidel na naši produktivitu?",
+      "Uvažovala jsi o dopadu této kampaně na image značky?",
+      "Uvažoval jsi o dopadu změny dodavatele na kvalitu?"
+    ],
+    "c1": [
+      "Uvažoval jsi o dopadu dlouhodobé izolace na mentální zdraví populace?",
+      "Uvažovala jsi o dopadu radikální digitalizace na kognitivní schopnosti mladé generace?",
+      "Uvažoval jsi o dopadu neomezeného růstu na ekologickou stabilitu regionu?",
+      "Uvažovala jsi o dopadu změny paradigmatu na dosavadní vědecké autority?",
+      "Uvažoval jsi o dopadu legislativních úprav na autonomii akademických institucí?"
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Jedním ze způsobů, jak to obejít, je ...",
+    "translation": "One way around this is to ...",
+    "b1": [
+      "Jedním ze způsobů, jak to obejít, je zavolat mu.",
+      "Jedním ze způsobů, jak to obejít, je koupit lístek online.",
+      "Jedním ze způsobů, jak to obejít, je zeptat se kamaráda.",
+      "Jedním ze způsob změn, jak to obejít, je jít jinudy.",
+      "Jedním ze způsobů, jak to obejít, je udělat to zítra."
+    ],
+    "b2": [
+      "Jedním ze způsobů, jak tento limit obejít, je využít alternativní zdroj.",
+      "Jedním ze způsobů, jak tento nedostatek obejít, je požádat o podporu partnery.",
+      "Jedním ze způsobů, jak toto omezení obejít, je změnit nastavení systému.",
+      "Jedním ze způsobů, jak tento problém obejít, je zkrátit dobu testování.",
+      "Jedním ze způsobů, jak tuto překážku obejít, je upravit harmonogram."
+    ],
+    "c1": [
+      "Jedním ze způsobů, jak tuto strukturální blokádu obejít, je vytvořit paralelní expertní strukturu.",
+      "Jedním ze způsobů, jak tuto byrokratickou zátěž obejít, je implementace automatizovaného protokolu.",
+      "Jedním ze způsobů, jak toto legislativní vakuum obejít, je aplikace mezinárodních standardů.",
+      "Jedním ze způsobů, jak tento patový stav obejít, je redefinice vyjednávacích podmínek.",
+      "Jedním ze způsobů, jak tuto systémovou anomálii obejít, je modifikace vstupních parametrů."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Riziko bychom mohli zmírnit tím, že ...",
+    "translation": "We could mitigate the risk by ...",
+    "b1": [
+      "Riziko bychom mohli zmírnit tím, že budeme opatrní.",
+      "Riziko bychom mohli zmírnit tím, že přijdeme dřív.",
+      "Riziko bychom mohli zmírnit tím, že si to ověříme.",
+      "Riziko bychom mohli zmírnit tím, že koupíme pojištění.",
+      "Riziko bychom mohli zmírnit tím, že se zeptáme."
+    ],
+    "b2": [
+      "Riziko bychom mohli zmírnit tím, že vytvoříme záložní plán.",
+      "Riziko bychom mohli zmírnit tím, že prověříme dodavatele předem.",
+      "Riziko bychom mohli zmírnit tím, že rozložíme investice do více projektů.",
+      "Riziko bychom mohli zmírnit tím, že zajistíme pravidelné testování softwaru.",
+      "Riziko bychom mohli zmírnit tím, že podepíšeme podrobné smlouvy."
+    ],
+    "c1": [
+      "Riziko bychom mohli zmírnit tím, že diversifikujeme naše institucionální partnery.",
+      "Riziko bychom mohli zmírnit tím, že implementujeme přísné verifikační protokoly.",
+      "Riziko bychom mohli zmírnit tím, že vytvoříme nezávislý krizový management.",
+      "Riziko bychom mohli zmírnit tím, že zajistíme multi-kriteriální audit našich výstupů.",
+      "Riziko bychom mohli zmírnit tím, že institucionalizujeme průběžnou zpětnou vazbu."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Možná bychom se měli podívat na hlavní příčinu ...",
+    "translation": "Perhaps we should look at the root cause of ...",
+    "b1": [
+      "Možná bychom se měli podívat na hlavní příčinu té chyby.",
+      "Možná bychom se měli podívat na hlavní příčinu toho problému.",
+      "Možná bychom se měli podívat na hlavní příčinu naší únavy.",
+      "Možná bychom se měli podívat na hlavní příčinu zpoždění.",
+      "Možná bychom se měli podívat na hlavní příčinu té hádky."
+    ],
+    "b2": [
+      "Možná bychom se měli podívat na hlavní příčinu poklesu prodejů.",
+      "Možná bychom se měli podívat na hlavní příčinu vysoké fluktuace zaměstnanců.",
+      "Možná bychom se měli podívat na hlavní příčinu neúspěchu tohoto projektu.",
+      "Možná bychom se měli podívat na hlavní příčinu stížností našich zákazníků.",
+      "Možná bychom se měli podívat na hlavní příčinu opakovaných technických selhání."
+    ],
+    "c1": [
+      "Možná bychom se měli podívat na hlavní příčinu hluboké morální krize v moderní společnosti.",
+      "Možná bychom se měli podívat na hlavní příčinu systémového selhání kontrolních mechanismů.",
+      "Možná bychom se měli podívat na hlavní příčinu eroze tradičních vzdělávacích hodnot.",
+      "Možná bychom se měli podívat na hlavní příčinu neudržitelného ekonomického růstu.",
+      "Možná bychom se měli podívat na hlavní příčinu ztráty důvěry v demokratické instituce."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Bezprostředním dalším krokem by mělo být ...",
+    "translation": "The immediate next step should be ...",
+    "b1": [
+      "Bezprostředním dalším krokem by mělo být zavolat mu.",
+      "Bezprostředním dalším krokem by mělo být koupit jídlo.",
+      "Bezprostředním dalším krokem by mělo být uklidit pokoj.",
+      "Bezprostředním dalším krokem by mělo být podepsat papír.",
+      "Bezprostředním dalším krokem by mělo být zeptat se šéfa."
+    ],
+    "b2": [
+      "Bezprostředním dalším krokem by mělo být schválení rozpočtu vedením.",
+      "Bezprostředním dalším krokem by mělo být odeslání oficiální nabídky klientovi.",
+      "Bezprostředním dalším krokem by mělo být uspořádání schůzky s týmem.",
+      "Bezprostředním dalším krokem by mělo být spuštění testovací verze.",
+      "Bezprostředním dalším krokem by mělo být vyřešení kritických chyb."
+    ],
+    "c1": [
+      "Bezprostředním dalším krokem by mělo být zahájení právního posouzení platnosti smlouvy.",
+      "Bezprostředním dalším krokem by mělo být sestavení expertní komise pro audit.",
+      "Bezprostředním dalším krokem by mělo být zveřejnění výsledků naší verifikační studie.",
+      "Bezprostředním dalším krokem by mělo být formální předložení návrhu správní radě.",
+      "Bezprostředním dalším krokem by mělo být okamžité pozastavení rizikových operací."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Má někdo jiný pohled na ...?",
+    "translation": "Does anyone have a different perspective on ...?",
+    "b1": [
+      "Má někdo jiný pohled na tento film?",
+      "Má někdo jiný pohled na ten nápad?",
+      "Má někdo jiný pohled na to řešení?",
+      "Má někdo jiný pohled na ten výlet?",
+      "Má někdo jiný pohled na tuto situaci?"
+    ],
+    "b2": [
+      "Má někdo jiný pohled na strategii, kterou jsme navrhli?",
+      "Má někdo jiný pohled na hodnocení tohoto projektu?",
+      "Má někdo jiný pohled na chování konkurence na trhu?",
+      "Má někdo jiný pohled na dopad těchto změn na oddělení?",
+      "Má někdo jiný pohled na rozdělení úkolů?"
+    ],
+    "c1": [
+      "Má někdo jiný pohled na teoretické ukotvení tohoto výzkumného rámce?",
+      "Má někdo jiný pohled na politické důsledky naší mezinárodní dohody?",
+      "Má někdo jiný pohled na filozofický význam tohoto uměleckého díla?",
+      "Má někdo jiný pohled na interpretaci těchto historických souvislostí?",
+      "Má někdo jiný pohled na etický rozměr současného technologického pokroku?"
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "V krátkodobém horizontu můžeme udělat ...",
+    "translation": "In the short term, we can do ...",
+    "b1": [
+      "V krátkodobém horizontu můžeme udělat menší nákup.",
+      "V krátkodobém horizontu můžeme udělat pauzu.",
+      "V krátkodobém horizontu můžeme udělat úklid.",
+      "V krátkodobém horizontu můžeme udělat změnu v plánu.",
+      "V krátkodobém horizontu můžeme udělat slevu."
+    ],
+    "b2": [
+      "V krátkodobém horizontu můžeme navýšit počet hodin zákaznické podpory.",
+      "V krátkodobém horizontu můžeme provést rychlou opravu systému.",
+      "V krátkodobém horizontu můžeme snížit výdaje na reklamu.",
+      "V krátkodobém horizontu můžeme přesunout dva lidi do tohoto týmu.",
+      "V krátkodobém horizontu můžeme otestovat nový způsob komunikace."
+    ],
+    "c1": [
+      "V krátkodobém horizontu můžeme implementovat nouzová opatření na stabilizaci likvidity.",
+      "V krátkodobém horizontu můžeme provést parciální revizi chybových kódů.",
+      "V krátkodobém horizontu můžeme zajistit externí mediaci sporných bodů.",
+      "V krátkodobém horizontu můžeme zastavit financování rizikových sub-projektů.",
+      "V krátkodobém horizontu můžeme aktivovat krizový komunikační protokol."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Měli bychom implementovat systém pro ...",
+    "translation": "We should implement a system for ...",
+    "b1": [
+      "Měli bychom implementovat systém pro sledování času.",
+      "Měli bychom implementovat systém pro úklid.",
+      "Měli bychom implementovat systém pro nákupy.",
+      "Měli bychom implementovat systém pro platby.",
+      "Měli bychom implementovat systém pro rezervace."
+    ],
+    "b2": [
+      "Měli bychom implementovat systém pro správu zákaznických požadavků.",
+      "Měli bychom implementovat systém pro hodnocení výkonu zaměstnanců.",
+      "Měli bychom implementovat systém pro pravidelnou zálohu dat.",
+      "Měli bychom implementovat systém pro sledování nákladů projektu.",
+      "Měli bychom implementovat systém pro sběr zpětné vazby."
+    ],
+    "c1": [
+      "Měli bychom implementovat systém pro kontinuální audit kvality našich výstupů.",
+      "Měli bychom implementovat systém pro de-eskalaci interních konfliktů.",
+      "Měli bychom implementovat systém pro sledování etických rizik v dodavatelském řetězci.",
+      "Měli bychom implementovat systém pro prediktivní analýzu tržních trendů.",
+      "Měli bychom implementovat systém pro verifikaci pravosti vědeckých dat."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Zhodnoťme klady a zápory ...",
+    "translation": "Let's evaluate the pros and cons of ...",
+    "b1": [
+      "Zhodnoťme klady a zápory tohoto návrhu.",
+      "Zhodnoťme klady a zápory koupě nového auta.",
+      "Zhodnoťme klady a zápory stěhování.",
+      "Zhodnoťme klady a zápory této práce.",
+      "Zhodnoťme klady a zápory toho plánu."
+    ],
+    "b2": [
+      "Zhodnoťme klady a zápory přechodu na práci na dálku.",
+      "Zhodnoťme klady a zápory spolupráce s touto agenturou.",
+      "Zhodnoťme klady a zápory investice do nového softwaru.",
+      "Zhodnoťme klady a zápory rozšíření našich služeb do zahraničí.",
+      "Zhodnoťme klady a zápory změny naší marketingové strategie."
+    ],
+    "c1": [
+      "Zhodnoťme klady a zápory celkové transformace naší organizační struktury.",
+      "Zhodnoťme klady a zápory integrace algoritmů umělé inteligence do rozhodování.",
+      "Zhodnoťme klady a zápory opuštění tradičních akademických publikačních platforem.",
+      "Zhodnoťme klady a zápory přijetí mezinárodních standardů financování.",
+      "Zhodnoťme klady a zápory decentralizace našich výzkumných aktivit."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Pro zajištění úspěchu musíme nejprve vyřešit ...",
+    "translation": "To ensure success, we must first address ...",
+    "b1": [
+      "Pro zajištění úspěchu musíme nejprve vyřešit peníze.",
+      "Pro zajištění úspěchu musíme nejprve vyřešit čas.",
+      "Pro zajištění úspěchu musíme nejprve vyřešit dopravu.",
+      "Pro zajištění úspěchu musíme nejprve vyřešit chyby.",
+      "Pro zajištění úspěchu musíme nejprve vyřešit dokumenty."
+    ],
+    "b2": [
+      "Pro zajištění úspěchu musíme nejprve vyřešit nedostatek kvalifikovaných lidí.",
+      "Pro zajištění úspěchu musíme nejprve vyřešit schválení projektu vedením.",
+      "Pro zajištění úspěchu musíme nejprve vyřešit stabilitu našeho serveru.",
+      "Pro zajištění úspěchu musíme nejprve vyřešit nejasnosti ve smlouvě.",
+      "Pro zajištění úspěchu musíme nejprve vyřešit dodávku klíčového materiálu."
+    ],
+    "c1": [
+      "Pro zajištění úspěchu musíme nejprve vyřešit hluboký rozpor v hodnotových prioritách týmu.",
+      "Pro zajištění úspěchu musíme nejprve vyřešit systémovou netransparentnost ve financování.",
+      "Pro zajištění úspěchu musíme nejprve vyřešit epistemologické nejasnosti naší hypotézy.",
+      "Pro zajištění úspěchu musíme nejprve vyřešit legislativní překážky v dané jurisdikci.",
+      "Pro zajištění úspěchu musíme nejprve vyřešit erozní procesy v našich komunikačních kanálech."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Největší překážka v cestě je ...",
+    "translation": "The biggest obstacle standing in the way is ...",
+    "b1": [
+      "Největší překážka v cestě je nedostatek peněz.",
+      "Největší překážka v cestě je špatné počasí.",
+      "Největší překážka v cestě je velká vzdálenost.",
+      "Největší překážka v cestě je strach z chyby.",
+      "Největší překážka v cestě je málo času."
+    ],
+    "b2": [
+      "Největší překážka v cestě je neochota managementu ke změnám.",
+      "Největší překážka v cestě je zastaralá technologie, kterou používáme.",
+      "Největší překážka v cestě je silná konkurence na trhu.",
+      "Největší překážka v cestě je nedostatek jasných pravidel pro spolupráci.",
+      "Největší překážka v cestě je byrokracie v úředním schvalování."
+    ],
+    "c1": [
+      "Největší překážka v cestě je hluboko zakřeněná kulturní rezistence vůči inovacím.",
+      "Největší překážka v cestě je dogmatické lpění na překonaných teoretických modelech.",
+      "Největší překážka v cestě je fragmentace moci v rozhodovacích strukturách.",
+      "Největší překážka v cestě je nepropustnost hranic mezi jednotlivými akademickými obory.",
+      "Největší překážka v cestě je systematická dezinformace veřejného prostoru."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Můj navrhovaný přístup zahrnuje ...",
+    "translation": "My proposed approach involves ...",
+    "b1": [
+      "Můj navrhovaný přístup zahrnuje více práce.",
+      "Můj navrhovaný přístup zahrnuje konzultaci s odborníkem.",
+      "Můj navrhovaný přístup zahrnuje jasný plán.",
+      "Můj navrhovaný přístup zahrnuje testování.",
+      "Můj navrhovaný přístup zahrnuje změnu času."
+    ],
+    "b2": [
+      "Můj navrhovaný přístup zahrnuje postupné navyšování investic do projektu.",
+      "Můj navrhovaný přístup zahrnuje pravidelné týdenní schůzky celého týmu.",
+      "Můj navrhovaný přístup zahrnuje aktivní zapojení koncových uživatelů.",
+      "Můj navrhovaný přístup zahrnuje detailní analýzu konkurenčního prostředí.",
+      "Můj navrhovaný přístup zahrnuje kombinaci online a offline aktivit."
+    ],
+    "c1": [
+      "Můj navrhovaný přístup zahrnuje syntézu kvantitativních dat a hloubkové etnografické analýzy.",
+      "Můj navrhovaný přístup zahrnuje horizontální integraci oddělení pod jednotné vedení.",
+      "Můj navrhovaný přístup zahrnuje aplikaci etických principů přímo do vývojového kódu.",
+      "Můj navrhovaný přístup zahrnuje vytvoření otevřené platformy pro participativní výzkum.",
+      "Můj navrhovaný přístup zahrnuje radikální revizi stávajících daňových a licenčních modelů."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Možná, že chybějícím dílkem je ...",
+    "translation": "Perhaps the missing piece is ...",
+    "b1": [
+      "Možná, že chybějícím dílkem je lepší plán.",
+      "Možná, že chybějícím dílkem je tvoje pomoc.",
+      "Možná, že chybějícím dílkem je více peněz.",
+      "Možná, že chybějícím dílkem je jasná odpověď.",
+      "Možná, že chybějícím dílkem je klid."
+    ],
+    "b2": [
+      "Možná, že chybějícím dílkem je upřímná zpětná vazba od zákazníků.",
+      "Možná, že chybějícím dílkem je jasná motivace pro členy týmu.",
+      "Možná, že chybějícím dílkem je zkušený člověk v oboru.",
+      "Možná, že chybějícím dílkem je lepší technické vybavení.",
+      "Možná, že chybějícím dílkem je efektivní komunikace mezi odděleními."
+    ],
+    "c1": [
+      "Možná, že chybějícím dílkem je hlubší filozofická reflexe našich dlouhodobých cílů.",
+      "Možná, že chybějícím dílkem je propojení teoretických modelů s reálnou sociální praxí.",
+      "Možná, že chybějícím dílkem je odvaha k radikální restrukturalizaci celého systému.",
+      "Možná, že chybějícím dílkem je transparentní mechanismus kontroly moci.",
+      "Možná, že chybějícím dílkem je citlivost k historickému kontextu celé problematiky."
+    ]
+  }
+]

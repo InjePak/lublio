@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Emlékszem, amikor ...",
+    "translation": "I remember when ...",
+    "b1": [
+      "Emlékszem, amikor először jártam Budapesten.",
+      "Emlékszem, amikor megkaptam az első biciklimet.",
+      "Emlékszem, amikor találkoztunk az iskolában.",
+      "Emlékszem, amikor nyáron nagyon meleg volt.",
+      "Emlékszem, amikor utoljára esett az eső."
+    ],
+    "b2": [
+      "Emlékszem, amikor először költöztem egyedül egy másik városba.",
+      "Emlékszem, amikor átvettem a diplomámat az egyetemen.",
+      "Emlékszem, amikor először kaptam meg a fizetésemet.",
+      "Emlékszem, amikor először utaztam repülővel külföldre.",
+      "Emlékszem, amikor a nagyszüleimnél töltöttem a gyerekkoromat."
+    ],
+    "c1": [
+      "Emlékszem, amikor gyerekként először szembesültem az elmúlás gondolatával egy hozzátartozóm elvesztésekor.",
+      "Emlékszem, amikor az első komolyabb szakmai projektem kudarcba fulladt, de ez mélyen formálta a szemléletemet.",
+      "Emlékszem, amikor a rendszerváltozás éveiben átéltem a társadalmi átalakulás szelegyet.",
+      "Emlékszem, amikor először léptem be egy külföldi kutatóintézet laboratóriumába.",
+      "Emlékszem, amikor a döntő pillanatban sikerült felülkerekednem a szorongásomon."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Egyszer volt, hol volt, ...",
+    "translation": "Once upon a time, ...",
+    "b1": [
+      "Egyszer volt, hol volt, élt egy kisegér.",
+      "Egyszer volt, hol volt, volt egy szép ház az erdőben.",
+      "Egyszer volt, hol volt, lakott ott egy öregember.",
+      "Egyszer volt, hol volt, nyílt egy csodás virág.",
+      "Egyszer volt, hol volt, utazott egy bátor lovag."
+    ],
+    "b2": [
+      "Egyszer volt, hol volt, egy kis falu mélyén történt ez a különös esemény.",
+      "Egyszer volt, hol volt, élt egyszer egy király, aki mindennél jobban szerette a könyveket.",
+      "Egyszer volt, hol volt, volt egy idő, amikor minden kicsit egyszerűbbnek tűnt.",
+      "Egyszer volt, hol volt, történt egy furcsa téli estén.",
+      "Egyszer volt, hol volt, indult egy hosszú utazásra a kis vándor."
+    ],
+    "c1": [
+      "Egyszer volt, hol volt, egy olyan korban, amikor a technológia még nem uralta az emberi kapcsolatokat...",
+      "Egyszer volt, hol volt, az ódon falak között megbúvó kis könyvtárban kezdődött minden...",
+      "Egyszer volt, hol volt, amikor a mesék és a valóság határvonala még elmosódottabb volt.",
+      "Egyszer volt, hol volt, egy olyan idilli közösségben, amely mára már csak az emlékekben él.",
+      "Egyszer volt, hol volt, a múlt homályába vész az a pillanat, amikor a történet kezdetét vette."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "A történet úgy kezdődik, hogy ...",
+    "translation": "The story begins with ...",
+    "b1": [
+      "A történet úgy kezdődik, hogy sütött a nap.",
+      "A történet úgy kezdődik, hogy találkoztunk a parkban.",
+      "A történet úgy kezdődik, hogy elveszett a kulcsom.",
+      "A történet úgy kezdődik, hogy megcsörrent a telefon.",
+      "A történet úgy kezdődik, hogy megérkezett a vonat."
+    ],
+    "b2": [
+      "A történet úgy kezdődik, hogy egy hirtelen ötlettől vezérelve elindultam.",
+      "A történet úgy kezdődik, hogy egy titokzatos levelet kaptam postán.",
+      "A történet úgy kezdődik, hogy rossz időt mondtak a meteorológusok.",
+      "A történet úgy kezdődik, hogy a főnök hívatott az irodájába.",
+      "A történet úgy kezdődik, hogy elromlott az autóm az autópályán."
+    ],
+    "c1": [
+      "A történet úgy kezdődik, hogy a váratlanul bejelentett gazdasági válság átírta a terveinket.",
+      "A történet úgy kezdődik, hogy egy eldugott levéltári dokumentum teljesen új megvilágításba helyezte a múltat.",
+      "A történet úgy kezdődik, hogy a megszokott rutin hirtelen megszakadt egy váratlan esemény hatására.",
+      "A történet úgy kezdődik, hogy egy apró, jelentéktelennek tűnő véletlen láncreakciót indított el.",
+      "A történet úgy kezdődik, hogy a tudományos közösség által addig vitatott hipotézis beigazolódott."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Ez arról az időről juttat eszembe, amikor ...",
+    "translation": "That reminds me of a time when ...",
+    "b1": [
+      "Ez arról az időről juttat eszembe, amikor kint játszottunk.",
+      "Ez arról az időről juttat eszembe, amikor nyaraltunk a tengerparton.",
+      "Ez arról az időről juttat eszembe, amikor kutyánk volt.",
+      "Ez arról az időről juttat eszembe, amikor együtt tanultunk.",
+      "Ez arról az időről juttat eszembe, amikor esett a hó."
+    ],
+    "b2": [
+      "Ez arról az időről juttat eszembe, amikor először próbáltam megfőzni egy bonyolult ebédet.",
+      "Ez arról az időről juttat eszembe, amikor éjszakába nyúlóan dolgoztam a vizsgákra.",
+      "Ez arról az időről juttat eszembe, amikor hónapokig egyedül utaztam Ázsiában.",
+      "Ez arról az időről juttat eszembe, amikor először költöztem össze a barátaimmal.",
+      "Ez arról az időről juttat eszembe, amikor elvesztettem a pénztárcámat a buszon."
+    ],
+    "c1": [
+      "Ez arról az időről juttat eszembe, amikor a legnehezebb egzisztenciális válságomat éltem át.",
+      "Ez arról az időről juttat eszembe, amikor az első önálló művészeti kiállításomat szerveztem.",
+      "Ez arról az időről juttat eszembe, amikor a kutatásaim során hónapokig zsákutcába jutottam.",
+      "Ez arról az időről juttat eszembe, amikor a családi vállalkozásunk a csőd szélén állt.",
+      "Ez arról az időről juttat eszembe, amikor radikális szemléletváltáson mentem keresztül."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Hagyd, hogy meséljek neked arról, amikor ...",
+    "translation": "Let me tell you about ...",
+    "b1": [
+      "Hagyd, hogy meséljek neked a tegnapi napomról.",
+      "Hagyd, hogy meséljek neked az új kutyámról.",
+      "Hagyd, hogy meséljek neked a szép utazásról.",
+      "Hagyd, hogy meséljek neked a barátomról.",
+      "Hagyd, hogy meséljek neked a filmről."
+    ],
+    "b2": [
+      "Hagyd, hogy meséljek neked arról a napról, amikor majdnem lekéstem a repülőgépet.",
+      "Hagyd, hogy meséljek neked arról, milyen volt az első munkanapom az új helyen.",
+      "Hagyd, hogy meséljek neked a múltheti emlékezetes kirándulásunkról.",
+      "Hagyd, hogy meséljek neked arról a furcsa találkozásról a vonaton.",
+      "Hagyd, hogy meséljek neked a spanyolországi élményeimről."
+    ],
+    "c1": [
+      "Hagyd, hogy meséljek neked arról a fordulópontról, amely alapvetően határozta meg a karrieremet.",
+      "Hagyd, hogy meséljek neked arról a komplex nemzetközi konferenciáról, ahol előadást tartottam.",
+      "Hagyd, hogy meséljek neked arról a kulturális sokkról, amit az első külföldi hónapjaimban átéltem.",
+      "Hagyd, hogy meséljek neked arról a kihívásokkal teli időszakról, amikor a csapatot vezettem.",
+      "Hagyd, hogy meséljek neked arról a ritka pillanatról, amikor a tudományos elmélet a gyakorlatban is tökéletesen működött."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Éppen azon voltunk, hogy ..., amikor hirtelen ...",
+    "translation": "We were just about to ... when suddenly ...",
+    "b1": [
+      "Éppen azon voltunk, hogy elindulunk, amikor hirtelen esni kezdett.",
+      "Éppen azon voltunk, hogy megebédelünk, amikor hirtelen csöngettek.",
+      "Éppen azon voltunk, hogy lefekszünk, amikor hirtelen kigyulladt a villany.",
+      "Éppen azon voltunk, hogy kinyissuk az ajtót, amikor hirtelen megláttuk őt.",
+      "Éppen azon voltunk, hogy felszállunk a buszra, amikor hirtelen elindult."
+    ],
+    "b2": [
+      "Éppen azon voltunk, hogy aláírjuk a szerződést, amikor hirtelen módosítást kértek.",
+      "Éppen azon voltunk, hogy kikapcsoljuk a számítógépet, amikor hirtelen megérkezett a fontos üzenet.",
+      "Éppen azon voltunk, hogy elhagyjuk a hotelt, amikor hirtelen észrevettük, hogy nincsenek meg az útlevelek.",
+      "Éppen azon voltunk, hogy befejezzük a munkát, amikor hirtelen áramszünet lett.",
+      "Éppen azon voltunk, hogy elindulunk a túrára, amikor hirtelen vihar kerekedett."
+    ],
+    "c1": [
+      "Éppen azon voltunk, hogy lezárjuk a kutatási fázist, amikor hirtelen egy addig figyelmen kívül hagyott anomália bukkant fel.",
+      "Éppen azon voltunk, hogy ratifikáljuk a megállapodást, amikor hirtelen geopolitikai változások léptek fel.",
+      "Éppen azon voltunk, hogy bemutassuk a prototípust, amikor hirtelen kritikus technikai hiba merült fel.",
+      "Éppen azon voltunk, hogy konszenzusra jussunk a vitában, amikor hirtelen új bizonyítékok kerültek elő.",
+      "Éppen azon voltunk, hogy konszolidáljuk a pénzügyi alapot, amikor hirtelen piaci zuhanás következett be."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "És akkor a legváratlanabb dolog történt: ...",
+    "translation": "And then, the most unexpected thing happened: ...",
+    "b1": [
+      "És akkor a legváratlanabb dolog történt: találkoztam egy régi baráttal.",
+      "És akkor a legváratlanabb dolog történt: megtaláltam a pénztárcámat.",
+      "És akkor a legváratlanabb dolog történt: sütni kezdett a nap.",
+      "És akkor a legváratlanabb dolog történt: nyertem egy kis ajándékot.",
+      "És akkor a legváratlanabb dolog történt: megérkezett a busz pontosan."
+    ],
+    "b2": [
+      "És akkor a legváratlanabb dolog történt: a főnök bejelentette, hogy mindenki kap bónuszt.",
+      "És akkor a legváratlanabb dolog történt: a repülőjáratot törölték a felszállás előtt.",
+      "És akkor a legváratlanabb dolog történt: az elveszettnek hitt kutyánk hazatért.",
+      "És akkor a legváratlanabb dolog történt: a vizsgán pont az a tétel jött ki, amit átismételtem.",
+      "És akkor a legváratlanabb dolog történt: valaki kifizette a kávémat a sorban."
+    ],
+    "c1": [
+      "És akkor a legváratlanabb dolog történt: az elméletem a legszélsőségesebb teszten is hibátlanul vizsgázott.",
+      "És akkor a legváratlanabb dolog történt: a befektetőcsoport anélkül hagyta jóvá a támogatást, hogy kérdéseket tett volna fel.",
+      "És akkor a legváratlanabb dolog történt: a régóta remélt archív dokumentum hiánytalanul előkerült.",
+      "És akkor a legváratlanabb dolog történt: a kritikus pillanatban a versenytársunk váratlanul visszalépett.",
+      "És akkor a legváratlanabb dolog történt: a krízishelyzet hirtelen teljesen új együttműködési lehetőségeket teremtett."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Soha nem felejtem el azt a pillanatot, amikor ...",
+    "translation": "I'll never forget the moment when ...",
+    "b1": [
+      "Soha nem felejtem el azt a pillanatot, amikor megláttam a tengert.",
+      "Soha nem felejtem el azt a pillanatot, amikor megkaptam a kutyámat.",
+      "Soha nem felejtem el azt a pillanatot, amikor letettem a vizsgát.",
+      "Soha nem felejtem el azt a pillanatot, amikor először ettem pizzát.",
+      "Soha nem felejtem el azt a pillanatot, amikor megérkeztem ide."
+    ],
+    "b2": [
+      "Soha nem felejtem el azt a pillanatot, amikor először álltam a színpadon.",
+      "Soha nem felejtem el azt a pillanatot, amikor átléptem a külföldi egyetem kapuját.",
+      "Soha nem felejtem el azt a pillanatot, amikor értesültem a felvételemről.",
+      "Soha nem felejtem el azt a pillanatot, amikor megláttam a hegycsúcsot a hosszú túra után.",
+      "Soha nem felejtem el azt a pillanatot, amikor először tartottam a kezemben a saját könyvemet."
+    ],
+    "c1": [
+      "Soha nem felejtem el azt a pillanatot, amikor a kutatócsoportunk megkapta a nemzetközi elismerést.",
+      "Soha nem felejtem el azt a pillanatot, amikor átvettem a rangos szakmai díjat a plenáris ülésen.",
+      "Soha nem felejtem el azt a pillanatot, amikor a legnehezebb krízis után újra stabilizálódott a helyzet.",
+      "Soha nem felejtem el azt a pillanatot, amikor szemtanúja voltam a történelmi eseménynek a főtéren.",
+      "Soha nem felejtem el azt a pillanatot, amikor a sokéves kemény munka végre beérett."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Először azt hittem, ..., de később rájöttem, hogy ...",
+    "translation": "At first, I thought ..., but later I realized ...",
+    "b1": [
+      "Először azt hittem, hogy esni fog, de később rájöttem, hogy sütni fog a nap.",
+      "Először azt hittem, hogy nehéz, de később rájöttem, hogy könnyű.",
+      "Először azt hittem, hogy ő unalmas, de később rájöttem, hogy kedves.",
+      "Először azt hittem, hogy elvesztem, de később rájöttem, hogy jó helyen járok.",
+      "Először azt hittem, hogy drága, de később rájöttem, hogy megéri."
+    ],
+    "b2": [
+      "Először azt hittem, hogy soha nem tanulom meg a nyelvtant, de később rájöttem, hogy csak gyakorlás kérdése.",
+      "Először azt hittem, hogy ez egy rossz munkahely, de később rájöttem, hogy remek a közösség.",
+      "Először azt hittem, hogy a probléma apróság, de később rájöttem, hogy komoly következményei vannak.",
+      "Először azt hittem, hogy egyedül is boldogulok, de később rájöttem, hogy szükségem van segítségre.",
+      "Először azt hittem, hogy a film félreértés volt, de később rájöttem, hogy van benne mély üzenet."
+    ],
+    "c1": [
+      "Először azt hittem, hogy a jelenség csupán statisztikai anomália, de később rájöttem, hogy rendszerszintű hibáról van szó.",
+      "Először azt hittem, hogy az új stratégia megbukik, de később rájöttem, hogy hosszú távon forradalmasítja a piacot.",
+      "Először azt hittem, hogy a kulturális különbségek áthidalhatatlanok, de később rájöttem, hogy a közös értékek összekötnek minket.",
+      "Először azt hittem, hogy a kudarc végleges, de később rájöttem, hogy a legértékesebb leckét adta.",
+      "Először azt hittem, hogy a jogi akadályok leküzdhetetlenek, de később rájöttem, hogy létezik kiskapu."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Utána minden megváltozott, mert ...",
+    "translation": "Everything changed after ..., because ...",
+    "b1": [
+      "Utána minden megváltozott, mert új iskolába mentem.",
+      "Utána minden megváltozott, mert kutyánk született.",
+      "Utána minden megváltozott, mert elköltöztünk.",
+      "Utána minden megváltozott, mert megkaptam a jogosítványt.",
+      "Utána minden megváltozott, mert találkoztam vele."
+    ],
+    "b2": [
+      "Utána minden megváltozott, mert kiderült, hogy elnyertem a külföldi ösztöndíjat.",
+      "Utána minden megváltozott, mert megszületett az első gyermekem.",
+      "Utána minden megváltozott, mert elindítottam a saját vállalkozásomat.",
+      "Utána minden megváltozott, mert sikeresen felgyógyultam a betegségből.",
+      "Utána minden megváltozott, mert átértékeltem a prioritásaimat az életben."
+    ],
+    "c1": [
+      "Utána minden megváltozott, mert a globális gazdasági válság elsöpörte a korábbi üzleti modellünket.",
+      "Utána minden megváltozott, mert a tudományos közösség elfogadta a kutatási eredményeimet.",
+      "Utána minden megváltozott, mert a váratlan családi tragédia kényszerű érettségre tanított.",
+      "Utána minden megváltozott, mert a digitális átállás kényszere teljesen új irányt szabott a cégnek.",
+      "Utána minden megváltozott, mert az addigi világnépzetem alapjaiban rendült meg."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Mielőtt észbe kaptam volna, ...",
+    "translation": "Before I knew it, ...",
+    "b1": [
+      "Mielőtt észbe kaptam volna, elment a busz.",
+      "Mielőtt észbe kaptam volna, vége lett a nyárnak.",
+      "Mielőtt észbe kaptam volna, megevettem a sütit.",
+      "Mielőtt észbe kaptam volna, beesteledett.",
+      "Mielőtt észbe kaptam volna, megérkeztünk."
+    ],
+    "b2": [
+      "Mielőtt észbe kaptam volna, eltelt a vizsgaidőszak fele.",
+      "Mielőtt észbe kaptam volna, a teli kosárral kiálltam a kasszához.",
+      "Mielőtt észbe kaptam volna, lezajlott a konferencia és már otthon ültem.",
+      "Mielőtt észbe kaptam volna, elrepült a külföldön töltött egy év.",
+      "Mielőtt észbe kaptam volna, a határidő lejárta előtt kellett leadni a papírokat."
+    ],
+    "c1": [
+      "Mielőtt észbe kaptam volna, a piaci spekulációk teljesen bedöntötték a részvényindexet.",
+      "Mielőtt észbe kaptam volna, a technológiai innováció elavulttá tette a fő termékünket.",
+      "Mielőtt észbe kaptam volna, a bürokratikus folyamatok felemésztették a projekt költségvetését.",
+      "Mielőtt észbe kaptam volna, a közvélemény-kutatások adatai teljesen átrendezték a politikai térképet.",
+      "Mielőtt észbe kaptam volna, a sürgős intézkedést igénylő helyzet kicsúszott a kezünkből."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Az egész élmény arra tanított, hogy ...",
+    "translation": "The whole experience taught me that ...",
+    "b1": [
+      "Az egész élmény arra tanított, hogy fontos a türelem.",
+      "Az egész élmény arra tanított, hogy segítsünk másokon.",
+      "Az egész élmény arra tanított, hogy jobb korán kelni.",
+      "Az egész élmény arra tanított, hogy a tanulás hasznos.",
+      "Az egész élmény arra tanított, hogy bízzunk magunkban."
+    ],
+    "b2": [
+      "Az egész élmény arra tanított, hogy a kudarc nem a vég, hanem egy új kezdet.",
+      "Az egész élmény arra tanított, hogy a kommunikáció kulcsfontosságú minden kapcsolatban.",
+      "Az egész élmény arra tanított, hogy soha ne adjuk fel a céljainkat.",
+      "Az egész élmény arra tanított, hogy a váratlan helyzetekben is meg kell találni a megoldást.",
+      "Az egész élmény arra tanított, hogy érdemes nyitottnak lenni az új kultúrákra."
+    ],
+    "c1": [
+      "Az egész élmény arra tanított, hogy a komplex rendszerekben a rugalmasság fontosabb a merev tervezésnél.",
+      "Az egész élmény arra tanított, hogy az intellektus alázat nélkül meddő próbálkozás.",
+      "Az egész élmény arra tanított, hogy a krízishelyzetek hozzák ki a valódi vezetői kompetenciákat az emberből.",
+      "Az egész élmény arra tanított, hogy a hitelesség hosszú távon mindig kifizetődőbb az opportunizmusnál.",
+      "Az egész élmény arra tanított, hogy a tudás megosztása értékesebb, mint annak kisajátítása."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Az első dolog, ami történt, az volt, hogy ...",
+    "translation": "The first thing that happened was that ...",
+    "b1": [
+      "Az első dolog, ami történt, az volt, hogy elesett a tollam.",
+      "Az első dolog, ami történt, az volt, hogy megszólalt az óra.",
+      "Az első dolog, ami történt, az volt, hogy kinyitottam az ablakot.",
+      "Az első dolog, ami történt, az volt, hogy megláttam egy cicát.",
+      "Az első dolog, ami történt, az volt, hogy köszöntem a tanárnak."
+    ],
+    "b2": [
+      "Az első dolog, ami történt, az volt, hogy elromlott a lift, és gyalog kellett felmennem.",
+      "Az első dolog, ami történt, az volt, hogy a recepciós nem találta a foglalásomat.",
+      "Az első dolog, ami történt, az volt, hogy a vonatom tíz percet késett.",
+      "Az első dolog, ami történt, az volt, hogy az interjú elején kiesett a tollam a kezemből.",
+      "Az első dolog, ami történt, az volt, hogy a kulcs beletörött a zárba."
+    ],
+    "c1": [
+      "Az első dolog, ami történt, az volt, hogy a plenáris ülésen bejelentették a váratlan napirend-módosítást.",
+      "Az első dolog, ami történt, az volt, hogy a laboratóriumi mérés során kiugróan magas értéket regisztráltunk.",
+      "Az első dolog, ami történt, az volt, hogy a cégvezető azonnali hatállyal felfüggesztette a tranzakciót.",
+      "Az első dolog, ami történt, az volt, hogy a delegáció tagjai visszautasították a tárgyalási feltételeket.",
+      "Az első dolog, ami történt, az volt, hogy az archívum digitalizált anyagai hozzáférhetetlenné váltak."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Visszatekintve most látom, hogy ...",
+    "translation": "Looking back now, I can see that ...",
+    "b1": [
+      "Visszatekintve most látom, hogy ez egy jó döntés volt.",
+      "Visszatekintve most látom, hogy milyen szép volt az az idő.",
+      "Visszatekintve most látom, hogy kellett egy kis pihenés.",
+      "Visszatekintve most látom, hogy igaza volt a mamának.",
+      "Visszatekintve most látom, hogy nem is volt olyan nehéz."
+    ],
+    "b2": [
+      "Visszatekintve most látom, hogy azok a nehéz idők formáltak igazán céltudatos emberré.",
+      "Visszatekintve most látom, hogy feleslegesen aggódtam a vizsga miatt.",
+      "Visszatekintve most látom, hogy az a munkahelyi konfliktus volt a fejlődésem kulcsa.",
+      "Visszatekintve most látom, hogy mekkora szerencsém volt a költözésnél.",
+      "Visszatekintve most látom, hogy a korábbi hibáimból tanultam a legtöbbet."
+    ],
+    "c1": [
+      "Visszatekintve most látom, hogy az akkori gazdasági strukturális reformok elkerülhetetlenek voltak a jövő szempontjából.",
+      "Visszatekintve most látom, hogy a szakmai elszigeteltségem valójában az intellektusom elmélyülését szolgálta.",
+      "Visszatekintve most látom, hogy a radikális döntésem alapozta meg a jelenlegi nemzetközi pozíciómat.",
+      "Visszatekintve most látom, hogy a korabeli társadalmi előítéletek mennyire gátolták az innovációt.",
+      "Visszatekintve most látom, hogy a krízis valójában egy rendszerszintű tisztulási folyamat része volt."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Teljesen ...-nak éreztem magam.",
+    "translation": "I felt completely ...",
+    "b1": [
+      "Teljesen boldognak éreztem magam a szülinapomon.",
+      "Teljesen fáradtnak éreztem magam este.",
+      "Teljesen egyedül éreztem magam az új helyen.",
+      "Teljesen meglepettnek éreztem magam a hír hallatán.",
+      "Teljesen nyugodtnak éreztem magam a parton."
+    ],
+    "b2": [
+      "Teljesen elégedettnek éreztem magam, amikor sikeresen befejeztem a projektet.",
+      "Teljesen elveszettnek éreztem magam a külföldi nagyváros forgatagában.",
+      "Teljesen kimerültnek éreztem magam az egész heti kemény munka után.",
+      "Teljesen magabiztosnak éreztem magam a prezentáció utolsó perceiben.",
+      "Teljesen megkönnyebbültem, amikor kiderült, hogy minden rendben van."
+    ],
+    "c1": [
+      "Teljesen tehetetlennek éreztem magam a bürokratikus akadályok falai előtt.",
+      "Teljesen kiszolgáltatottnak éreztem magam a hirtelen kibontakozó piaci válság közepette.",
+      "Teljesen felvillanyozva éreztem magam a tudományos áttörést hozó kísérlet eredményeitől.",
+      "Teljesen elszigeteltnek éreztem magam az elméleti viták és a valóság szakadékában.",
+      "Teljesen megsemmisültem, amikor a szakmai munkámat alaptalanul kritizálták."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Az volt a pillanat, amikor ...",
+    "translation": "It was the moment when ...",
+    "b1": [
+      "Az volt a pillanat, amikor elkezdtünk nevetni.",
+      "Az volt a pillanat, amikor megláttam őt a tömegben.",
+      "Az volt a pillanat, amikor elállt az eső.",
+      "Az volt a pillanat, amikor megszólalt a zene.",
+      "Az volt a pillanat, amikor megkaptam az ajándékot."
+    ],
+    "b2": [
+      "Az volt a pillanat, amikor rájöttem, hogy muszáj változtatnom az életvitelemen.",
+      "Az volt a pillanat, amikor a csapat elhitte, hogy megnyerhetjük a bajnokságot.",
+      "Az volt a pillanat, amikor a főnök elismerte a teljesítményemet.",
+      "Az volt a pillanat, amikor eldőlt, hogy külföldre költözöm.",
+      "Az volt a pillanat, amikor a feszültség végre feloldódott a teremben."
+    ],
+    "c1": [
+      "Az volt a pillanat, amikor a paradigmaváltás nemcsak elmélet, hanem a valóság kézzelfogható ténye lett.",
+      "Az volt a pillanat, amikor a kutatás megdöntötte a több évtizedes dogmatikus nézeteket.",
+      "Az volt a pillanat, amikor a nemzetközi partnerek végre bizalmat szavaztak a koncepciónknak.",
+      "Az volt a pillanat, amikor a történelmi felelősség súlya teljes egészében a vállamra nehezedett.",
+      "Az volt a pillanat, amikor a kríziskezelési stratégia átfordult egy fenntartható fejlődési pályába."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Röviden összefoglalva, ...",
+    "translation": "To cut a long story short, ...",
+    "b1": [
+      "Röviden összefoglalva, nagyon jó napunk volt.",
+      "Röviden összefoglalva, eltévedtünk az erdőben.",
+      "Röviden összefoglalva, sikerült megvenni.",
+      "Röviden összefoglalva, későn értünk haza.",
+      "Röviden összefoglalva, minden klasszul ment."
+    ],
+    "b2": [
+      "Röviden összefoglalva, az utazás fárasztó volt, de csodálatos emlékeket hoztunk.",
+      "Röviden összefoglalva, sikerült időben leadni a pályázatot a sok stressz ellenére.",
+      "Röviden összefoglalva, a félreértést tisztáztuk, és mindenki bocsánatot kért.",
+      "Röviden összefoglalva, az új üzlet terve bevált, és a cég növekedni kezdett.",
+      "Röviden összefoglalva, épségben megérkeztünk a vihar ellenére is."
+    ],
+    "c1": [
+      "Röviden összefoglalva, a komplex tárgyalássorozat végül kompromisszumos, de stabil megállapodáshoz vezetett.",
+      "Röviden összefoglalva, a technológiai akadályokat leküzdve a projekt a tervezett határidőre megvalósult.",
+      "Röviden összefoglalva, a kezdeti strukturális nehézségek ellenére a vállalat sikeresen pozicionálta magát a piacon.",
+      "Röviden összefoglalva, az elméleti anomáliákat tisztázva a kutatás igazolta a hipotézisünket.",
+      "Röviden összefoglalva, a külső nyomás hatására a döntéshozók visszavonták a vitatott törvénytervezetet."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "A hangulat nagyon ... volt.",
+    "translation": "The atmosphere was very ...",
+    "b1": [
+      "A hangulat nagyon jó volt a buliban.",
+      "A hangulat nagyon csendes volt a könyvtárban.",
+      "A hangulat nagyon vidám volt tegnap.",
+      "A hangulat nagyon meleg volt a szobában.",
+      "A hangulat nagyon kellemes volt a vacsorán."
+    ],
+    "b2": [
+      "A hangulat nagyon feszült volt a tárgyalóteremben az eredmény kihirdetése előtt.",
+      "A hangulat nagyon barátságos és nyitott volt az új kollégák körében.",
+      "A hangulat nagyon lehangoló volt a rossz hírek hallatán.",
+      "A hangulat nagyon ünnepélyes volt az évfordulós gálán.",
+      "A hangulat nagyon izgatott volt a fesztivál kezdete előtt."
+    ],
+    "c1": [
+      "A hangulat nagyon fojtogató volt a tudományos szimpóziumon a súlyos szakmai viták miatt.",
+      "A hangulat nagyon konszolidált volt a gazdasági fórum zárónapján.",
+      "A hangulat nagyon spekulatív és bizonytalan volt a tőzsdén a válság hírére.",
+      "A hangulat nagyon inspiráló volt a kreatív műhelymunka során.",
+      "A hangulat nagyon elidegenedett és hűvös volt a formális diplomáciai fogadáson."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Ha egy szóval kellene leírnom, azt mondanám, hogy ...",
+    "translation": "If I had to describe it in one word, I'd say ...",
+    "b1": [
+      "Ha egy szóval kellene leírnom, azt mondanám, hogy csodálatos.",
+      "Ha egy szóval kellene leírnom, azt mondanám, hogy vicces.",
+      "Ha egy szóval kellene leírnom, azt mondanám, hogy nehéz.",
+      "Ha egy szóval kellene leírnom, azt mondanám, hogy gyors.",
+      "Ha egy szóval kellene leírnom, azt mondanám, hogy szép."
+    ],
+    "b2": [
+      "Ha egy szóval kellene leírnom az utazást, azt mondanám, hogy felejthetetlen.",
+      "Ha egy szóval kellene leírnom a helyzetet, azt mondanám, hogy kaotikus.",
+      "Ha egy szóval kellene leírnom a munkát, azt mondanám, hogy kihívásokkal teli.",
+      "Ha egy szóval kellene leírnom a döntést, azt mondanám, hogy bátor.",
+      "Ha egy szóval kellene leírnom az élményt, azt mondanám, hogy tanulságos."
+    ],
+    "c1": [
+      "Ha egy szóval kellene leírnom ezt a történelmi fordulópontot, azt mondanám, hogy korszakalkotó.",
+      "Ha egy szóval kellene leírnom a kutatási folyamatot, azt mondanám, hogy paradigmaváltó.",
+      "Ha egy szóval kellene leírnom a korabeli válságot, azt mondanám, hogy katarzis.",
+      "Ha egy szóval kellene leírnom a nemzetközi együttműködést, azt mondanám, hogy ambivalens.",
+      "Ha egy szóval kellene leírnom az életművét, azt mondanám, hogy monumentális."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Az egészben a legviccesebb az volt, hogy ...",
+    "translation": "The funniest part of the whole thing was that ...",
+    "b1": [
+      "Az egészben a legviccesebb az volt, hogy elfelejtettem a nevem.",
+      "Az egészben a legviccesebb az volt, hogy fordítva vettem fel a pulóvert.",
+      "Az egészben a legviccesebb az volt, hogy mindketten ugyanazt hoztuk.",
+      "Az egészben a legviccesebb az volt, hogy a kutya elhozta a cipőmet.",
+      "Az egészben a legviccesebb az volt, hogy eltévedtünk a saját utcánkban."
+    ],
+    "b2": [
+      "Az egészben a legviccesebb az volt, hogy órákon át kerestem a napszemüvegem, ami a fejemen volt.",
+      "Az egészben a legviccesebb az volt, hogy a meglepetésbulin én ijedtem meg a legjobban.",
+      "Az egészben a legviccesebb az volt, hogy a GPS a mezőre vitt minket a szálloda helyett.",
+      "Az egészben a legviccesebb az volt, hogy a főnök is észrevette a vicces mémem.",
+      "Az egészben a legviccesebb az volt, hogy a vizsgán pont arról beszéltem, ami nem is szerepelt, de tetszett a tanárnak."
+    ],
+    "c1": [
+      "Az egészben a legviccesebb az volt, hogy a szigorú szakmai bírálat szerzője később kiderült, hogy a régi szobatársam volt.",
+      "Az egészben a legviccesebb az volt, hogy a milliós nagyságrendű pályázatot egy elgépelt adat miatt majdnem elutasították.",
+      "Az egészben a legviccesebb az volt, hogy a világelit által vitatott elmélet egy véletlen konyhai kísérletből indult ki.",
+      "Az egészben a legviccesebb az volt, hogy a hivatalos állásfoglalás szövegébe egy teljesen oda nem illő idézet csúszott be.",
+      "Az egészben a legviccesebb az volt, hogy a bonyolult diplomáciai protokoll egy apró technikai baki miatt omolt össze."
+    ]
+  }
+]

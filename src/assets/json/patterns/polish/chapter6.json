@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Chciał(a)bym poinformować Cię, że ...",
+    "translation": "I'd like to inform you that ...",
+    "b1": [
+      "Chciałbym poinformować Cię, że jutro będę pracować zdalnie.",
+      "Chciałbym poinformować Cię, że nasz lot został odwołany.",
+      "Chciałbym poinformować Cię, że kupiłem nowy samochód.",
+      "Chciałbym poinformować Cię, że spotkanie zostało przełożone na wtorek.",
+      "Chciałbym poinformować Cię, że zmieniłem swój numer telefonu."
+    ],
+    "b2": [
+      "Chciałbym poinformować Cię, że projekt został ukończony przed wyznaczonym terminem.",
+      "Chciałbym poinformować Cię, że zarząd zatwierdził nasz budżet na kolejny kwartał.",
+      "Chciałbym poinformować Cię, że klient zaakceptował warunki umowy.",
+      "Chciałbym poinformować Cię, że w przyszłym miesiącu awansuję na nowe stanowisko.",
+      "Chciałbym poinformować Cię, że wprowadziliśmy nowe procedury bezpieczeństwa."
+    ],
+    "c1": [
+      "Chciałbym poinformować Cię, że niezależny audyt wykazał pełną zgodność naszych operacji z nowymi unijnymi dyrektywami.",
+      "Chciałbym poinformować Cię, że po długich negocjacjach konsorcjum sfinalizowało umowę przejęcia spółki.",
+      "Chciałbym poinformować Cię, że wdrożony system zarządzania ryzykiem znacząco zredukował naszą ekspozycję.",
+      "Chciałbym poinformować Cię, że rada nadzorcza jednogłośnie przyjęła długoterminową strategię rozwoju.",
+      "Chciałbym poinformować Cię, że regulator wydał ostateczną zgode na rozpoczęcie działalności."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Główny wniosek płynący stąd to ...",
+    "translation": "The key takeaway here is ...",
+    "b1": [
+      "Główny wniosek płynący stąd to oszczędność czasu.",
+      "Główny wniosek płynący stąd to konieczność zmiany planów.",
+      "Główny wniosek płynący stąd to dobra zabawa.",
+      "Główny wniosek płynący stąd to wysoka cena biletów.",
+      "Główny wniosek płynący stąd to brak wolnych miejsc."
+    ],
+    "b2": [
+      "Główny wniosek płynący stąd to konieczność poprawy komunikacji wewnątrz naszego zespołu.",
+      "Główny wniosek płynący stąd to fakt, że klienci wolą zakupy online.",
+      "Główny wniosek płynący stąd to niedostateczny budżet przeznaczony na marketing.",
+      "Główny wniosek płynący stąd to wysoka efektywność pracy zdalnej.",
+      "Główny wniosek płynący stąd to spadek zainteresowania naszymi tradycyjnymi usługami."
+    ],
+    "c1": [
+      "Główny wniosek płynący stąd to bezwzględna konieczność dywersyfikacji naszych łańcuchów dostaw w obliczu ryzyka geopolitycznego.",
+      "Główny wniosek płynący stąd to strukturalna zmiana w zachowaniach konsumentów, wymagająca całkowitego przekształcenia modelu biznesowego.",
+      "Główny wniosek płynący stąd to drastyczny spadek zaufania społecznego do instytucji publicznych.",
+      "Główny wniosek płynący stąd to nieuchronność cyfrowej transformacji w sektorze usług prawnych.",
+      "Główny wniosek płynący stąd to konieczność natychmiastowej korekty polityki compliance."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Aby wyjaśnić, mam na myśli to, że ...",
+    "translation": "To clarify, I mean ...",
+    "b1": [
+      "Aby wyjaśnić, mam na myśli to, że musimy wyjść wcześniej.",
+      "Aby wyjaśnić, mam na myśli to, że ten kolor mi się nie podoba.",
+      "Aby wyjaśnić, mam na myśli to, że wolę kawę od herbaty.",
+      "Aby wyjaśnić, mam na myśli to, że dzisiaj nie mogę przyjść.",
+      "Aby wyjaśnić, mam na myśli to, że zapłacę kartą."
+    ],
+    "b2": [
+      "Aby wyjaśnić, mam na myśli to, że powinniśmy najpierw przetestować prototyp na małej grupie.",
+      "Aby wyjaśnić, mam na myśli to, że nie rezygnujemy z projektu, ale odkładamy go w czasie.",
+      "Aby wyjaśnić, mam na myśli to, że koszty tej inwestycji przekraczają nasze obecne możliwości.",
+      "Aby wyjaśnić, mam na myśli to, że każdy pracownik musi przejść dodatkowe szkolenie.",
+      "Aby wyjaśnić, mam na myśli to, że nie chodzi o samą cenę, ale o jakość wykonania."
+    ],
+    "c1": [
+      "Aby wyjaśnić, mam na myśli to, że obecna stagnacja gospodarcza wynika z strukturalnych barier rynkowych, a nie chwilowego kryzysu.",
+      "Aby wyjaśnić, mam na myśli to, że nasza strategia ekspansji musi uwzględniać lokalne uwarunkowania prawne.",
+      "Aby wyjaśnić, mam na myśli to, że redefinicja marki nie może odbywać się kosztem jej rdzennych wartości.",
+      "Aby wyjaśnić, mam na myśli to, że musimy natychmiast mitygować ryzyko związane z niestabilnością walutową.",
+      "Aby wyjaśnić, mam na myśli to, że autonomiczność algorytmów nie zwalnia nas z odpowiedzialności etycznej."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Według raportu, ...",
+    "translation": "According to the report, ...",
+    "b1": [
+      "Według raportu, pogoda jutro będzie ładna.",
+      "Według raportu, w sklepie skończyły się jabłka.",
+      "Według raportu, film trwa dwie godziny.",
+      "Według raportu, pociąg przyjedzie na czas.",
+      "Według raportu, bilety kosztują pięćdziesiąt złotych."
+    ],
+    "b2": [
+      "Według raportu, sprzedaż naszych produktów wzrosła o dwadzieścia procent w ubiegłym kwartale.",
+      "Według raportu, koszty logistyczne znacznie przewyższyły pierwotne szacunki.",
+      "Według raportu, większość klientów jest zadowolona z nowej obsługi.",
+      "Według raportu, na rynku pracy wciąż brakuje wykwalifikowanych specjalistów IT.",
+      "Według raportu, zużycie energii w biurze uległo zauważalnemu zmniejszeniu."
+    ],
+    "c1": [
+      "Według raportu, globalna inflacja ustabilizuje się dopiero po wdrożeniu restrykcyjnej polityki monetarnej.",
+      "Według raportu, skumulowany efekt zmian klimatycznych doprowadzi do nieodwracalnych strat w rolnictwie.",
+      "Według raportu, cyberbezpieczeństwo pozostaje najpoważniejszym zagrożeniem dla ciągłości operacyjnej przedsiębiorstw.",
+      "Według raportu, adopcja technologii chmurowych przyniosła firmom średnio trzydziestoprocentowe oszczędności.",
+      "Według raportu, niski wskaźnik dzietności stanowi fundamentalne zagrożenie dla stabilności systemu emerytalnego."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Pozwól, że ujmę to inaczej: ...",
+    "translation": "Let me rephrase that: ...",
+    "b1": [
+      "Pozwól, że ujmę to inaczej: po prostu nie mam czasu.",
+      "Pozwól, że ujmę to inaczej: ten pomysł mi się nie podoba.",
+      "Pozwól, że ujmę to inaczej: musimy kupić coś innego.",
+      "Pozwól, że ujmę to inaczej: spóźnimy się na film.",
+      "Pozwól, że ujmę to inaczej: zapomniałem kluczy."
+    ],
+    "b2": [
+      "Pozwól, że ujmę to inaczej: ten klient nie jest gotowy na podpisanie umowy w tym miesiącu.",
+      "Pozwól, że ujmę to inaczej: musimy natychmiast zmienić dostawcę, zanim stracimy klientów.",
+      "Pozwól, że ujmę to inaczej: nasz dotychczasowy model działania przestał być rentowny.",
+      "Pozwól, że ujmę to inaczej: oczekuję od zespołu większego zaangażowania w codzienne zadania.",
+      "Pozwól, że ujmę to inaczej: ta funkcja nie działa tak, jak pierwotnie zakładaliśmy."
+    ],
+    "c1": [
+      "Pozwól, że ujmę to inaczej: nasza dotychczasowa linia obrony w procesie sądowym jest całkowicie nieskuteczna.",
+      "Pozwól, że ujmę to inaczej: bez natychmiastowego dokapitalizowania spółki grozi nam utrata płynności finansowej.",
+      "Pozwól, że ujmę to inaczej: zarząd stracił zaufanie do zdolności menedżerskich dyrektora operacyjnego.",
+      "Pozwól, że ujmę to inaczej: ten projekt w obecnym kształcie narusza standardy korporacyjnego ładu.",
+      "Pozwól, że ujmę to inaczej: kontynuowanie tej strategii politycznej doprowadzi do całkowitej izolacji ugrupowania."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "To, co chciałem powiedzieć, to ...",
+    "translation": "What I meant to say was ...",
+    "b1": [
+      "To, co chciałem powiedzieć, to przepraszam.",
+      "To, co chciałem powiedzieć, to że jesteś fajna.",
+      "To, co chciałem powiedzieć, to że pomogę ci.",
+      "To, co chciałem powiedzieć, to spóźnię się.",
+      "To, co chciałem powiedzieć, to zapomniałem portfela."
+    ],
+    "b2": [
+      "To, co chciałem powiedzieć, to że twoja praca w tym projekcie była naprawdę świetna.",
+      "To, co chciałem powiedzieć, to że nie miałem na myśli nic złego.",
+      "To, co chciałem powiedzieć, to że musimy przełożyć to spotkanie na jutro.",
+      "To, co chciałem powiedzieć, to że szef ma rację w tej sprawie.",
+      "To, co chciałem powiedzieć, to że bardzo dziękuję za całą pomoc."
+    ],
+    "c1": [
+      "To, co chciałem powiedzieć, to fakt, że ignorowanie sygnałów ostrzegawczych z rynku doprowadziło do tej katastrofy.",
+      "To, co chciałem powiedzieć, to że bezkompromisowa obrona naszych wartości jest ważniejsza niż krótkoterminowy zysk.",
+      "To, co chciałem powiedzieć, to że eksperci jednoznacznie odradzali podejmowanie tak ryzykownej decyzji.",
+      "To, co chciałem powiedzieć, to że wina leży po stronie wadliwych procedur, a nie poszczególnych pracowników.",
+      "To, co chciałem powiedzieć, to że ta nominacja narusza dobre obyczaje instytucjonalne."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Obecna sytuacja wygląda tak, że ...",
+    "translation": "The current status is that ...",
+    "b1": [
+      "Obecna sytuacja wygląda tak, że nie mamy chleba.",
+      "Obecna sytuacja wygląda tak, że sklep jest zamknięty.",
+      "Obecna sytuacja wygląda tak, że pada deszcz.",
+      "Obecna sytuacja wygląda tak, że nie mam internetu.",
+      "Obecna sytuacja wygląda tak, że pociąg stoi."
+    ],
+    "b2": [
+      "Obecna sytuacja wygląda tak, że czekamy na ostateczną decyzję od naszego głównego inwestora.",
+      "Obecna sytuacja wygląda tak, że serwer nie działa i informatycy próbują go naprawić.",
+      "Obecna sytuacja wygląda tak, że brakuje nam dwóch osób do zamknięcia składu projektu.",
+      "Obecna sytuacja wygląda tak, że nasza strona internetowa ma poważną awarię.",
+      "Obecna sytuacja wygląda tak, że magazyn jest całkowicie pusty."
+    ],
+    "c1": [
+      "Obecna sytuacja wygląda tak, że toczymy skomplikowane spory arbitrażowe w trzech jurysdykcjach równocześnie.",
+      "Obecna sytuacja wygląda tak, że wstrzymaliśmy wszelkie wydatki inwestycyjne do odwołania.",
+      "Obecna sytuacja wygląda tak, że regulator prowadzi postępowanie wyjaśniające w sprawie naszych praktyk rynkowych.",
+      "Obecna sytuacja wygląda tak, że negocjacje płacowe utknęły w martwym punkcie z powodu obstawania przy stanowiskach.",
+      "Obecna sytuacja wygląda tak, że trwają intensywne prace nad awaryjnym planem ratunkowym."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Innymi słowy, ...",
+    "translation": "In other words, ...",
+    "b1": [
+      "Innymi słowy, jutro odpoczywamy.",
+      "Innymi słowy, nie ma dla nas nadziei.",
+      "Innymi słowy, wszystko jest gotowe.",
+      "Innymi słowy, musimy zapłacić więcej.",
+      "Innymi słowy, jesteś wolny."
+    ],
+    "b2": [
+      "Innymi słowy, musimy zacząć cały projekt od samego początku.",
+      "Innymi słowy, ta oferta jest dla nas całkowicie nieopłacalna.",
+      "Innymi słowy, szef dał nam zielone światło na realizację pomysłu.",
+      "Innymi słowy, spędzimy ten weekend w biurze nad raportem.",
+      "Innymi słowy, konkurencja nas wyprzedziła."
+    ],
+    "c1": [
+      "Innymi słowy, mamy do czynienia z permanentną erozją fundamentów prawnych naszego modelu biznesowego.",
+      "Innymi słowy, nastąpiła całkowita utrata płynności kapitałowej na skutek błędnych decyzzi menedżerskich.",
+      "Innymi słowy, ten traktat międzynarodowy stawia nas w pozycji bezwzględnego podporządkowania gospodarczego.",
+      "Innymi słowy, systemowa korupcja uniemożliwia uczciwą konkurencję w tym przetargu.",
+      "Innymi słowy, skazani jesteśmy na współpracę z podmiotem, którego wiarygodność budzi poważne wątpliwości."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Tylko żeby upewnić się, że nadajemy na tych samych falach, ...",
+    "translation": "Just to make sure we're on the same page, ...",
+    "b1": [
+      "Tylko żeby upewnić się, że nadajemy na tych samych falach, spotykamy się o ósmej?",
+      "Tylko żeby upewnić się, że nadajemy na tych samych falach, ty płacisz za obiad?",
+      "Tylko żeby upewnić się, że nadajemy na tych samych falach, masz mój adres?",
+      "Tylko żeby upewnić się, że nadajemy na tych samych falach, robimy to dzisiaj?",
+      "Tylko żeby upewnić się, że nadajemy na tych samych falach, kupujesz mleko?"
+    ],
+    "b2": [
+      "Tylko żeby upewnić się, że nadajemy na tych samych falach, ostateczny termin oddania raportu to piątek?",
+      "Tylko żeby upewnić się, że nadajemy na tych samych falach, ten budżet obejmuje również koszty podróży?",
+      "Tylko żeby upewnić się, że nadajemy na tych samych falach, czy wszyscy zgadzają się na te warunki pracy?",
+      "Tylko żeby upewnić się, że nadajemy na tych samych falach, kto odpowiada za kontakt z klientem?",
+      "Tylko żeby upewnić się, że nadajemy na tych samych falach, czy zmieniamy kolor logo na niebieski?"
+    ],
+    "c1": [
+      "Tylko żeby upewnić się, że nadajemy na tych samych falach, czy interpretujemy klauzulę poufności dokładnie w ten sam sposób?",
+      "Tylko żeby upewnić się, że nadajemy na tych samych falach, czy nasza strategia komunikacji kryzysowej została zaakceptowana przez radę?",
+      "Tylko żeby upewnić się, że nadajemy na tych samych falach, czy wszyscy członkowie konsorcjum rozumieją podział obowiązków?",
+      "Tylko żeby upewnić się, że nadajemy na tych samych falach, czy akceptujesz ryzyko związane z wejściem na ten rynek?",
+      "Tylko żeby upewnić się, że nadajemy na tych samych falach, czy harmonogram audytu jest wiążący dla obu stron?"
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "To potwierdza, że ...",
+    "translation": "This confirms that ...",
+    "b1": [
+      "To potwierdza, że masz rację.",
+      "To potwierdza, że jutro będzie padać.",
+      "To potwierdza, że sklep jest zamknięty.",
+      "To potwierdza, że pociąg spóźnia się.",
+      "To potwierdza, że egzamin był trudny."
+    ],
+    "b2": [
+      "To potwierdza, że nasze obawy dotyczące tego dostawcy były w pełni uzasadnione.",
+      "To potwierdza, że kampania reklamowa przyniosła oczekiwane rezultaty sprzedaży.",
+      "To potwierdza, że błąd w systemie został już całkowicie naprawiony.",
+      "To potwierdza, że pracownicy preferują model pracy hybrydowej.",
+      "To potwierdza, że podjęcie tej decyzji było konieczne dla ratowania firmy."
+    ],
+    "c1": [
+      "To potwierdza, że strukturalne mankamenty systemu nadzoru finansowego doprowadziły do eskalacji kryzysu.",
+      "To potwierdza, że hipoteza badawcza dotycząca korelacji między cyfryzacją a wydajnością była poprawna.",
+      "To potwierdza, że działania rządu miały na celu jedynie ochronę interesów oligarchów.",
+      "To potwierdza, że niezależność sądownictwa jest systemowo łamana w tym kraju.",
+      "To potwierdza, że przyjęty model matematyczny prawidłowo przewidział zachowania inwestorów."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Pozwól, że rozwinię ten temat: ...",
+    "translation": "Allow me to elaborate on ...",
+    "b1": [
+      "Pozwól, że rozwinię ten temat: wczoraj kupiłem nowy rower.",
+      "Pozwól, że rozwinię ten temat: ta książka jest bardzo ciekawa.",
+      "Pozwól, że rozwinię ten temat: moja praca bardzo mi się podoba.",
+      "Pozwól, że rozwinię ten temat: planujemy wycieczkę w góry.",
+      "Pozwól, że rozwinię ten temat: ten przepis jest bardzo prosty."
+    ],
+    "b2": [
+      "Pozwól, że rozwinię ten temat: dlaczego zdecydowaliśmy się zmienić dostawcę oprogramowania.",
+      "Pozwól, że rozwinię ten temat: jakie korzyści przyniesie nam wdrożenie nowej struktury działu.",
+      "Pozwól, że rozwinię ten temat: w jaki sposób zamierzamy zredukować koszty operacyjne w tym roku.",
+      "Pozwól, że rozwinię ten temat: dlaczego opinia klienta jest dla nas kluczowa przy projektowaniu.",
+      "Pozwól, że rozwinię ten temat: jakie wyzwania stoją przed nami w nadchodzącym kwartale."
+    ],
+    "c1": [
+      "Pozwól, że rozwinię ten temat: w jaki sposób mechanizmy sztucznej inteligencji rewolucyjne zmieniają paradygmat ochrony danych.",
+      "Pozwól, że rozwinię ten temat: jakie długofalowe skutki geopolityczne niesie za sobą ten traktat handlowy.",
+      "Pozwól, że rozwinię ten temat: dlaczego systemowa korupcja w tym regionie blokuje wszelkie zagraniczne inwestycje.",
+      "Pozwól, że rozwinię ten temat: w jakim stopniu zmiany demograficzne wpłyną na rynek pracy w najbliższej dekadzie.",
+      "Pozwól, że rozwinię ten temat: jakie implikacje etyczne niesie za sobą komercjalizacja badań genetycznych."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Szczegóły przedstawiają się następująco: ...",
+    "translation": "The details are as follows: ...",
+    "b1": [
+      "Szczegóły przedstawiają się następująco: spotkanie jest w piątek o dziesiątej.",
+      "Szczegóły przedstawiają się następująco: bilet kosztuje dwadzieścia złotych.",
+      "Szczegóły przedstawiają się następująco: jedziemy autem do Krakowa.",
+      "Szczegóły przedstawiają się następująco: sklep jest czynny do osiemnastej.",
+      "Szczegóły przedstawiają się następująco: obiad jemy w restauracji."
+    ],
+    "b2": [
+      "Szczegóły przedstawiają się następująco: budżet projektu wynosi pięćdziesiąt tysięcy złotych.",
+      "Szczegóły przedstawiają się następująco: pierwszy etap prac kończymy w przyszłym tygodniu.",
+      "Szczegóły przedstawiają się następująco: w konferencji weźmie udział pięciu prelegentów.",
+      "Szczegóły przedstawiają się następująco: nowe zasady wchodzą w życie od pierwszego lipca.",
+      "Szczegóły przedstawiają się następująco: zadanie zostało podzielone na trzy mniejsze części."
+    ],
+    "c1": [
+      "Szczegóły przedstawiają się następująco: harmonogram restrukturyzacji obejmuje czterofazowy plan naprawczy.",
+      "Szczegóły przedstawiają się następująco: podział udziałów w nowym konsorcjum został ustalone w proporcji sześćdziesiąt do czterdziestu.",
+      "Szczegóły przedstawiają się następująco: procedura notyfikacji w urzędzie unijnym wymaga złożenia trzydziestu załączników.",
+      "Szczegóły przedstawiają się następująco: warunki finansowe kontraktu przewidują zmienną marżę zależną od inflacji.",
+      "Szczegóły przedstawiają się następująco: struktura kosztów stałych ulegnie redukcji o dwadzieścia pięć procent."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Ważną kwestią nie jest tutaj ..., ale ...",
+    "translation": "The important point here is not ..., but ...",
+    "b1": [
+      "Ważną kwestią nie jest tutaj cena, ale jakość.",
+      "Ważną kwestią nie jest tutaj kolor, ale rozmiar.",
+      "Ważną kwestią nie jest tutaj czas, ale wynik.",
+      "Ważną kwestią nie jest tutaj miejsce, ale towarzystwo.",
+      "Ważną kwestią nie jest tutaj pogoda, ale nastrój."
+    ],
+    "b2": [
+      "Ważną kwestią nie jest tutaj sam zysk finansowy, ale reputacja naszej marki na rynku.",
+      "Ważną kwestią nie jest tutaj szybkość wykonania zadania, ale jego bezbłędność.",
+      "Ważną kwestią nie jest tutaj to, kto popełnił błąd, ale jak możemy go naprawić.",
+      "Ważną kwestią nie jest tutaj liczba sprzedanych sztuk, ale satysfakcja klienta.",
+      "Ważną kwestią nie jest tutaj początkowy koszt, ale oszczędności w dłuższej perspektywie."
+    ],
+    "c1": [
+      "Ważną kwestią nie jest tutaj doraźny sukces polityczny, ale trwałość i stabilność wdrożonych reform strukturalnych.",
+      "Ważną kwestią nie jest tutaj formalna zgodność z literą prawa, ale zachowanie najwyższych standardów etycznych.",
+      "Ważną kwestią nie jest tutaj pozyskanie nowych rynków zbytu, ale obrona naszej pozycji na rynkach macierzystych.",
+      "Ważną kwestią nie jest tutaj liczba złożonych pozwów, ale rzeczywista ochrona interesów akcjonariuszy mniejszościowych.",
+      "Ważną kwestią nie jest tutaj tempo wzrostu gospodarczego, ale jego sprawiedliwa dystrybucja społeczna."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Na przykład, spójrzmy na ...",
+    "translation": "For example, consider ...",
+    "b1": [
+      "Na przykład, spójrzmy na ten sklep.",
+      "Na przykład, spójrzmy na wczorajszą pogodę.",
+      "Na przykład, spójrzmy na ten film.",
+      "Na przykład, spójrzmy na mojego psa.",
+      "Na przykład, spójrzmy na ten dom."
+    ],
+    "b2": [
+      "Na przykład, spójrzmy na ostatni kryzys w branży turystycznej i reakcję firm.",
+      "Na przykład, spójrzmy na przypadek naszego głównego konkurenta i jego nową strategię cenową.",
+      "Na przykład, spójrzmy na to, jak praca zdalna wpłynęła na produktywność pracowników.",
+      "Na przykład, spójrzmy na koszty utrzymania biura w centrum dużego miasta.",
+      "Na przykład, spójrzmy na wyniki sprzedaży z analogicznego okresu w ubiegłym roku."
+    ],
+    "c1": [
+      "Na przykład, spójrzmy na bezprecedensowy upadek gigantów technologicznych, którzy zignorowali sygnały rynkowe.",
+      "Na przykład, spójrzmy na transformację energetyczną krajów skandynawskich i jej długofalowe efekty makroekonomiczne.",
+      "Na przykład, spójrzmy na mechanizmy kryzysu zadłużeniowego w państwach Europy Południowej.",
+      "Na przykład, spójrzmy na skutki wprowadzenia rygorystycznych ograniczeń antymonopolowych w sektorze big tech.",
+      "Na przykład, spójrzmy na model zarządzania kryzysowego zastosowany podczas pandemii w państwach Azji Wschodniej."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Konkluzja jest taka, że ...",
+    "translation": "The bottom line is ...",
+    "b1": [
+      "Konkluzja jest taka, że musimy iść.",
+      "Konkluzja jest taka, że nie mamy pieniędzy.",
+      "Konkluzja jest taka, że wygrywamy.",
+      "Konkluzja jest taka, że sklep jest zamknięty.",
+      "Konkluzja jest taka, że jesteś spóźniony."
+    ],
+    "b2": [
+      "Konkluzja jest taka, że bez dodatkowego budżetu nie uda nam się ukończyć projektu na czas.",
+      "Konkluzja jest taka, że musimy natychmiast zwolnić tempo i poprawić jakość.",
+      "Konkluzja jest taka, że klient odrzucił naszą ofertę z powodu zbyt wysokiej ceny.",
+      "Konkluzja jest taka, że ten produkt nie odniesie sukcesu na polskim rynku.",
+      "Konkluzja jest taka, że musimy zatrudnić nowego specjalistę do działu marketingu."
+    ],
+    "c1": [
+      "Konkluzja jest taka, że kontynuowanie tej działalności pod rządami obecnych regulacji jest ekonomicznie nieuzasadnione.",
+      "Konkluzja jest taka, że spółka stała się celem wrogiego przejęcia kapitałowego.",
+      "Konkluzja jest taka, że brak konsensusu politycznego uniemożliwia realizację kluczowej inwestycji publicznej.",
+      "Konkluzja jest taka, że model biznesowy oparty na długu całkowicie się wyczerpał.",
+      "Konkluzja jest taka, że bez restrukturyzacji zadłużenia upadłość jest tylko kwestią czasu."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Przejrzyjmy główne wnioski: ...",
+    "translation": "Let's review the main findings: ...",
+    "b1": [
+      "Przejrzyjmy główne wnioski: jest tanio i szybko.",
+      "Przejrzyjmy główne wnioski: pogoda dopisała.",
+      "Przejrzyjmy główne wnioski: wycieczka była udana.",
+      "Przejrzyjmy główne wnioski: wszyscy przyszli na czas.",
+      "Przejrzyjmy główne wnioski: zadanie jest zrobione."
+    ],
+    "b2": [
+      "Przejrzyjmy główne wnioski: sprzedaż wzrosła, ale koszty logistyki również poszły w górę.",
+      "Przejrzyjmy główne wnioski: klienci chwalą jakość obsługi, lecz narzekają na czas oczekiwania.",
+      "Przejrzyjmy główne wnioski: nasz nowy produkt zyskał popularność wśród młodszej grupy docelowej.",
+      "Przejrzyjmy główne wnioski: praca zdalna zwiększyła wydajność zespołu o piętnaście procent.",
+      "Przejrzyjmy główne wnioski: głównym problemem pozostaje wysoka rotacja pracowników w biurze."
+    ],
+    "c1": [
+      "Przejrzyjmy główne wnioski: audyt wykazał krytyczne luki w systemie zabezpieczeń oraz konieczność natychmiastowej modernizacji infrastruktury IT.",
+      "Przejrzyjmy główne wnioski: analiza rynku potwierdza dominującą pozycję konkurencji oraz niski wskaźnik lojalności naszych odbiorców.",
+      "Przejrzyjmy główne wnioski: z badań wynika strukturalne starzenie się społeczeństwa i spadek popytu na dobra luksusowe.",
+      "Przejrzyjmy główne wnioski: wdrożenie nowych norm prawnych drastycznie ograniczyło naszą marżę zysku netto.",
+      "Przejrzyjmy główne wnioski: konsorcjum odnotowało nadwyżkę kapitałową przy jednoczesnym wzroście ryzyk systemowych."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Podsumowując całą sytuację, ...",
+    "translation": "To sum up the situation, ...",
+    "b1": [
+      "Podsumowując całą sytuację, musimy kupić nowy bilet.",
+      "Podsumowując całą sytuację, jesteśmy bardzo zadowoleni.",
+      "Podsumowując całą sytuację, pogoda nas zaskoczyła.",
+      "Podsumowując całą sytuację, impreza była udana.",
+      "Podsumowując całą sytuację, spóźniliśmy się na pociąg."
+    ],
+    "b2": [
+      "Podsumowując całą sytuację, nasz projekt zakończył się sukcesem pomimo wielu początkowych trudności.",
+      "Podsumowując całą sytuację, musimy wyciągnąć wnioski z wczorajszej awarii systemu.",
+      "Podsumowując całą sytuację, współpraca z tym kontrahentem nie była dobrym pomysłem.",
+      "Podsumowując całą sytuację, udało nam się zamknąć budżet przed wyznaczonym terminem.",
+      "Podsumowując całą sytuację, klient ostatecznie podpisał umowę na kolejne dwa lata."
+    ],
+    "c1": [
+      "Podsumowując całą sytuację, pomimo niesprzyjających uwarunkowań makroekonomicznych, spółka utrzymała pozycję lidera w segmencie.",
+      "Podsumowując całą sytuację, kryzys wizerunkowy został zażegnany dzięki natychmiastowej i transparentnej komunikacji.",
+      "Podsumowując całą sytuację, bezwzględne przestrzeganie procedur compliance uchroniło nas przed katastrofalnymi karami finansowymi.",
+      "Podsumowując całą sytuację, strukturalne reformy wewnętrzne przyniosły oczekiwany zwrot z inwestycji.",
+      "Podsumowując całą sytuację, długofalowa strategia dywersyfikacji okazała się jedynym skutecznym lekiem na zawirowania rynkowe."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Rozumiem to tak, że ...",
+    "translation": "My understanding is that ...",
+    "b1": [
+      "Rozumiem to tak, że jutro masz wolne.",
+      "Rozumiem to tak, że spotykamy się w biurze.",
+      "Rozumiem to tak, że nie chcesz tego kupić.",
+      "Rozumiem to tak, że wszystko jest w porządku.",
+      "Rozumiem to tak, że sam pojadę autem."
+    ],
+    "b2": [
+      "Rozumiem to tak, że klient oczekuje od nas zniżki w zamian za podpisanie dłuższego kontraktu.",
+      "Rozumiem to tak, że szef akceptuje mój urlop w przyszłym miesiącu.",
+      "Rozumiem to tak, że od poniedziałku wszyscy pracujemy w biurze przez pięć dni w tygodniu.",
+      "Rozumiem to tak, że odpowiedzialność za ten błąd ponosi cały zespół projektowy.",
+      "Rozumiem to tak, że nasz budżet na szkolenia został całkowicie wykorzystany."
+    ],
+    "c1": [
+      "Rozumiem to tak, że zarząd dąży do całkowitego wygaszenia tej linii biznesowej na rzecz rozwoju innowacyjnych technologii.",
+      "Rozumiem to tak, że interpretacja nowych przepisów podatkowych przez urząd skarbowy jest dla nas wysoce niekorzystna.",
+      "Rozumiem to tak, że koalicja rządowa utraciła większość parlamentarną w wyniku ostatnich przetasowań.",
+      "Rozumiem to tak, że priorytetem agencji ratingowej jest obniżenie naszego wskaźnika zadłużenia.",
+      "Rozumiem to tak, że akcjonariusze większościowi blokują wszelkie próby restrukturyzacji."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Tylko żeby było jasne, ...",
+    "translation": "Just to be clear, ...",
+    "b1": [
+      "Tylko żeby było jasne, ja za to nie płacę.",
+      "Tylko żeby było jasne, jutro mnie nie ma.",
+      "Tylko żeby było jasne, to nie był mój pomysł.",
+      "Tylko żeby było jasne, spóźnię się dzisiaj.",
+      "Tylko żeby było jasne, klucze zostały na stole."
+    ],
+    "b2": [
+      "Tylko żeby było jasne, nie zgadzam się na pracę w nadgodzinach w ten weekend.",
+      "Tylko żeby było jasne, ten projekt musi być gotowy najpóźniej do czwartku.",
+      "Tylko żeby było jasne, nie mam nic wspólnego z tą wczorajszą awarią.",
+      "Tylko żeby było jasne, oczekuję pełnego raportu ze wszystkich działań do końca dnia.",
+      "Tylko żeby było jasne, nasza firma nie ponosi odpowiedzialności za te opóźnienia."
+    ],
+    "c1": [
+      "Tylko żeby było jasne, w przypadku naruszenia klauzuli poufności natychmiast skierujemy sprawę na drogę sądową.",
+      "Tylko żeby było jasne, nie akceptuję żadnych kompromisów naruszających standardy prawne naszej spółki.",
+      "Tylko żeby było jasne, odpowiedzialność za wdrożenie tych procedur spoczywa wyłącznie na dyrekcji.",
+      "Tylko żeby było jasne, zarząd nie wycofa się ze swoich decyzji pod presją strajkujących.",
+      "Tylko żeby było jasne, wszelkie koszty przekroczenia budżetu pokrywa strona zamawiająca."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Ostateczny wynik był taki, że ...",
+    "translation": "The final outcome was ...",
+    "b1": [
+      "Ostateczny wynik był taki, że wygraliśmy mecz.",
+      "Ostateczny wynik był taki, że spóźniłem się na pociąg.",
+      "Ostateczny wynik był taki, że kupiłem tańszy telefon.",
+      "Ostateczny wynik był taki, że egzamin zdałem.",
+      "Ostateczny wynik był taki, że nie było wolnych miejsc."
+    ],
+    "b2": [
+      "Ostateczny wynik był taki, że po długich negocjacjach udało nam się obniżyć cenę o dziesięć procent.",
+      "Ostateczny wynik był taki, że nasz zespół zajął drugie miejsce w ogólnokrajowym konkursie.",
+      "Ostateczny wynik był taki, że klient zrezygnował z zakupu z powodu braku wybranego koloru.",
+      "Ostateczny wynik był taki, że naprawa komputera kosztowała więcej niż jego wartość.",
+      "Ostateczny wynik był taki, że projekt został zatwierdzony bez żadnych poprawek."
+    ],
+    "c1": [
+      "Ostateczny wynik był taki, że sąd oddalił powództwo w całości, obciążając powoda kosztami procesowymi.",
+      "Ostateczny wynik był taki, że fuzja została zablokowana przez unijny urząd antymonopolowy.",
+      "Ostateczny wynik był taki, że po dwustronnych rozmowach podpisano bezprecedensowe porozumienie handlowe.",
+      "Ostateczny wynik był taki, że niezależny audyt wykazał pełną niegospodarność poprzedniego zarządu.",
+      "Ostateczny wynik był taki, że transakcja przejęcia spółki została sfinalizowana z kilkutygodniowym opóźnieniem."
+    ]
+  }
+]

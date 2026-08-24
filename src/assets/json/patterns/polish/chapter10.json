@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Naprawdę doceniam Twoją pomoc w sprawie ...",
+    "translation": "I truly appreciate your help with ...",
+    "b1": [
+      "Naprawdę doceniam Twoją pomoc w sprawie tej prezentacji.",
+      "Naprawdę doceniam Twoją pomoc w sprawie zakupu prezentu.",
+      "Naprawdę doceniam Twoją pomoc w sprawie nauki gotowania.",
+      "Naprawdę doceniam Twoją pomoc w sprawie znalezienia mieszkania.",
+      "Naprawdę doceniam Twoją pomoc w sprawie organizacji wyjazdu."
+    ],
+    "b2": [
+      "Naprawdę doceniam Twoją pomoc w sprawie przygotowania raportu miesięcznego.",
+      "Naprawdę doceniam Twoją pomoc w sprawie rozwiązywania konfliktów w zespole.",
+      "Naprawdę doceniam Twoją pomoc w sprawie wdrożenia nowego systemu.",
+      "Naprawdę doceniam Twoją pomoc w sprawie rekrutacji nowych pracowników.",
+      "Naprawdę doceniam Twoją pomoc w sprawie negocjacji z klientem."
+    ],
+    "c1": [
+      "Naprawdę doceniam Twoją pomoc w sprawie kompleksowej restrukturyzacji struktur kapitałowych.",
+      "Naprawdę doceniam Twoją pomoc w sprawie mitygacji ryzyka prawnego w sporze korporacyjnym.",
+      "Naprawdę doceniam Twoją pomoc w sprawie optymalizacji procedur compliance w holdingu.",
+      "Naprawdę doceniam Twoją pomoc w sprawie analizy makroekonomicznej rynków wschodzących.",
+      "Naprawdę doceniam Twoją pomoc w sprawie wdrożenia międzynarodowych standardów audytu."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Masz niezwykły talent do ...",
+    "translation": "You have a remarkable talent for ...",
+    "b1": [
+      "Masz niezwykły talent do opowiadania zabawnych historii.",
+      "Masz niezwykły talent do gotowania pysznych potraw.",
+      "Masz niezwykły talent do rysowania zwierząt.",
+      "Masz niezwykły talent do uczenia się języków obcych.",
+      "Masz niezwykły talent do robienia pięknych zdjęć."
+    ],
+    "b2": [
+      "Masz niezwykły talent do tłumaczenia skomplikowanych pojęć w prosty sposób.",
+      "Masz niezwykły talent do motywowania zespołu w trudnych chwilach.",
+      "Masz niezwykły talent do organizacji pracy pod presją czasu.",
+      "Masz niezwykły talent do znajywania kreatywnych rozwiązań problemów.",
+      "Masz niezwykły talent do nawiązywania trwałych relacji z klientami."
+    ],
+    "c1": [
+      "Masz niezwykły talent do syntetyzowania skomplikowanych danych statystycznych w przejrzyste wnioski.",
+      "Masz niezwykły talent do przewidywania rynkowych trendów gospodarczych.",
+      "Masz niezwykły talent do konstruktywnej mediacji w konfliktach o podłożu prawnym.",
+      "Masz niezwykły talent do strategicznego planowania rozwoju przedsiębiorstwa.",
+      "Masz niezwykły talent do identyfikowania luk regulacyjnych w nowych projektach."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "To było niezwykle miłe z Twojej strony, że ...",
+    "translation": "That was incredibly thoughtful of you to ...",
+    "b1": [
+      "To było niezwykle miłe z Twojej strony, że przyniósłeś kawę.",
+      "To było niezwykle miłe z Twojej strony, że pamiętałeś o moich urodzinach.",
+      "To było niezwykle miłe z Twojej strony, że pomogłeś mi w sprzątaniu.",
+      "To było niezwykle miłe z Twojej strony, że pożyczyłeś mi parasol.",
+      "To było niezwykle miłe z Twojej strony, że zapytałeś, jak się czuję."
+    ],
+    "b2": [
+      "To było niezwykle miłe z Twojej strony, że przejąłeś moje obowiązki podczas choroby.",
+      "To było niezwykle miłe z Twojej strony, że przygotowałeś dla nas podsumowanie spotkania.",
+      "To było niezwykle miłe z Twojej strony, że podzieliłeś się swoimi materiałami do nauki.",
+      "To było niezwykle miłe z Twojej strony, że zorganizowałeś pożegnalne spotkanie.",
+      "To było niezwykle miłe z Twojej strony, że zaproponowałeś pomoc przy projekcie."
+    ],
+    "c1": [
+      "To było niezwykle miłe z Twojej strony, że dokonałeś bezinteresownej analizy prawnej umowy.",
+      "To było niezwykle miłe z Twojej strony, że wsparłeś nasz zespół w kryzysowym momencie budżetowym.",
+      "To było niezwykle miłe z Twojej strony, że podzieliłeś się poufnymi spostrzeżeniami rynkowymi.",
+      "To było niezwykle miłe z Twojej strony, że zaaranżowałeś spotkanie z kluczowym inwestorem.",
+      "To było niezwykle miłe z Twojej strony, że zabezpieczyłeś dodatkowe fundusze na nasz projekt."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Jestem niezwykle wdzięczny za to, że ...",
+    "translation": "I'm so grateful for the fact that ...",
+    "b1": [
+      "Jestem niezwykle wdzięczny za to, że zawsze mogę na Ciebie liczyć.",
+      "Jestem niezwykle wdzięczny za to, że pomogłeś mi w przeprowadzce.",
+      "Jestem niezwykle wdzięczny za to, że znalazłeś dla mnie czas.",
+      "Jestem niezwykle wdzięczny za to, że przygotowałeś obiad.",
+      "Jestem niezwykle wdzięczny za to, że mnie wspierałeś."
+    ],
+    "b2": [
+      "Jestem niezwykle wdzięczny za to, że tak szybko odpowiedziałeś na moją wiadomość.",
+      "Jestem niezwykle wdzięczny za to, że podzieliłeś się ze mną swoim doświadczeniem.",
+      "Jestem niezwykle wdzięczny za to, że ułatwiłeś mi wdrożenie w nowej pracy.",
+      "Jestem niezwykle wdzięczny za to, że zaufałeś mi przy realizacji tego zadania.",
+      "Jestem niezwykle wdzięczny za to, że wyprostowałeś nieporozumienie z klientem."
+    ],
+    "c1": [
+      "Jestem niezwykle wdzięczny za to, że uratowałeś projekt przed katastrofą wizerunkową.",
+      "Jestem niezwykle wdzięczny za to, że poprowadziłeś skomplikowane negocjacje z organami nadzoru.",
+      "Jestem niezwykle wdzięczny za to, że dostarczyłeś rzetelną ekspertyzę przed terminem.",
+      "Jestem niezwykle wdzięczny za to, że ochroniłeś interesy spółki w trudnym sporze.",
+      "Jestem niezwykle wdzięczny za to, że zagwarantowałeś bezbłędność audytu finansowego."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Twoja dbałość o szczegóły w ... jest wybitna.",
+    "translation": "Your attention to detail on ... is outstanding.",
+    "b1": [
+      "Twoja dbałość o szczegóły w tym projekcie plastycznym jest wybitna.",
+      "Twoja dbałość o szczegóły w dekoracji sali jest wybitna.",
+      "Twoja dbałość o szczegóły w pisaniu tego tekstu jest wybitna.",
+      "Twoja dbałość o szczegóły w aranżacji ogrodu jest wybitna.",
+      "Twoja dbałość o szczegóły w przygotowaniu stołu jest wybitna."
+    ],
+    "b2": [
+      "Twoja dbałość o szczegóły w tworzeniu tego raportu finansowego jest wybitna.",
+      "Twoja dbałość o szczegóły w korekcie umowy jest wybitna.",
+      "Twoja dbałość o szczegóły w planowaniu logistyki konferencji jest wybitna.",
+      "Twoja dbałość o szczegóły w testowaniu oprogramowania jest wybitna.",
+      "Twoja dbałość o szczegóły w prezentacji dla zarządu jest wybitna."
+    ],
+    "c1": [
+      "Twoja dbałość o szczegóły w analizie klauzul odszkodowawczych jest wybitna.",
+      "Twoja dbałość o szczegóły w audycie zgodności procedur korporacyjnych jest wybitna.",
+      "Twoja dbałość o szczegóły w dekodowaniu przepisów podatkowych jest wybitna.",
+      "Twoja dbałość o szczegóły w weryfikacji struktury akcjonariatu jest wybitna.",
+      "Twoja dbałość o szczegóły w badaniu bilansu rocznego spółki jest wybitna."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Chciałem Ci podziękować szczególnie za ...",
+    "translation": "I wanted to thank you specifically for ...",
+    "b1": [
+      "Chciałem Ci podziękować szczególnie za ten wspaniały prezent.",
+      "Chciałem Ci podziękować szczególnie za opiekę nad moim psem.",
+      "Chciałem Ci podziękować szczególnie za miłe słowa otuchy.",
+      "Chciałem Ci podziękować szczególnie za podwiezienie do domu.",
+      "Chciałem Ci podziękować szczególnie za pomoc w nauce."
+    ],
+    "b2": [
+      "Chciałem Ci podziękować szczególnie za wsparcie w trudnym momencie zawodowym.",
+      "Chciałem Ci podziękować szczególnie za konstruktywną krytykę mojego projektu.",
+      "Chciałem Ci podziękować szczególnie za poprowadzenie prezentacji pod moją nieobecność.",
+      "Chciałem Ci podziękować szczególnie za zaangażowanie w akcję charytatywną.",
+      "Chciałem Ci podziękować szczególnie za terminowe dostarczenie materiałów."
+    ],
+    "c1": [
+      "Chciałem Ci podziękować szczególnie za profesjonalne poprowadzenie trudnych rozmów ugodowych.",
+      "Chciałem Ci podziękować szczególnie za wnikliwą analizę ryzyka w nowej transakcji.",
+      "Chciałem Ci podziękować szczególnie za obronę naszego stanowiska przed radą nadzorczą.",
+      "Chciałem Ci podziękować szczególnie za wzorowe przygotowanie dokumentacji do fuzji.",
+      "Chciałem Ci podziękować szczególnie za skuteczną mitygację kryzysu medialnego."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Poradziłeś sobie z tą sytuacją z niezwykłą klasą i ...",
+    "translation": "You handled that situation with such grace and ...",
+    "b1": [
+      "Poradziłeś sobie z tą sytuacją z niezwykłą klasą i spokojem.",
+      "Poradziłeś sobie z tą sytuacją z niezwykłą klasą i uśmiechem.",
+      "Poradziłeś sobie z tą sytuacją z niezwykłą klasą i odwagą.",
+      "Poradziłeś sobie z tą sytuacją z niezwykłą klasą i humorem.",
+      "Poradziłeś sobie z tą sytuacją z niezwykłą klasą i opanowaniem."
+    ],
+    "b2": [
+      "Poradziłeś sobie z tą sytuacją z niezwykłą klasą i profesjonalizmem.",
+      "Poradziłeś sobie z tą sytuacją z niezwykłą klasą i taktem.",
+      "Poradziłeś sobie z tą sytuacją z niezwykłą klasą i wyczuciem.",
+      "Poradziłeś sobie z tą sytuacją z niezwykłą klasą i determinacją.",
+      "Poradziłeś sobie z tą sytuacją z niezwykłą klasą i empatią."
+    ],
+    "c1": [
+      "Poradziłeś sobie z tą sytuacją z niezwykłą klasą i dyplomatyczną finezją.",
+      "Poradziłeś sobie z tą sytuacją z niezwykłą klasą i niezachwianym obiektywizmem.",
+      "Poradziłeś sobie z tą sytuacją z niezwykłą klasą i strategicznym dystansem.",
+      "Poradziłeś sobie z tą sytuacją z niezwykłą klasą i bezbłędnym wyczuciem procedur.",
+      "Poradziłeś sobie z tą sytuacją z niezwykłą klasą i chłodną kalkulacją ryzyka."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Nie poradziłbym sobie z tym bez ...",
+    "translation": "I couldn't have done this without ...",
+    "b1": [
+      "Nie poradziłbym sobie z tym bez Twojej pomocy.",
+      "Nie poradziłbym sobie z tym bez wskazówek mamy.",
+      "Nie poradziłbym sobie z tym bez tego klucza.",
+      "Nie poradziłbym sobie z tym bez dobrej mapy.",
+      "Nie poradziłbym sobie z tym bez filiżanki kawy."
+    ],
+    "b2": [
+      "Nie poradziłbym sobie z tym bez wsparcia całego zespołu.",
+      "Nie poradziłbym sobie z tym bez Twoich cennych rad.",
+      "Nie poradziłbym sobie z tym bez dostępu do tych danych.",
+      "Nie poradziłbym sobie z tym bez dodatkowego dnia wolnego.",
+      "Nie poradziłbym sobie z tym bez profesjonalnego sprzętu."
+    ],
+    "c1": [
+      "Nie poradziłbym sobie z tym bez Twojej autorskiej analizy prawnej.",
+      "Nie poradziłbym sobie z tym bez interwencji działu compliance.",
+      "Nie poradziłbym sobie z tym bez strategicznego wsparcia zarządu.",
+      "Nie poradziłbym sobie z tym bez natychmiastowego wsparcia płynnościowego.",
+      "Nie poradziłbym sobie z tym bez eksperckiej wiedzy audytorów."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Twoje pozytywne nastawienie jest prawdziwą inspiracją dla ...",
+    "translation": "Your positive attitude is truly inspiring to ...",
+    "b1": [
+      "Twoje pozytywne nastawienie jest prawdziwą inspiracją dla naszej grupy.",
+      "Twoje pozytywne nastawienie jest prawdziwą inspiracją dla dzieci.",
+      "Twoje pozytywne nastawienie jest prawdziwą inspiracją dla sąsiadów.",
+      "Twoje pozytywne nastawienie jest prawdziwą inspiracją dla mnie.",
+      "Twoje pozytywne nastawienie jest prawdziwą inspiracją dla całej rodziny."
+    ],
+    "b2": [
+      "Twoje pozytywne nastawienie jest prawdziwą inspiracją dla całego zespołu projektowego.",
+      "Twoje pozytywne nastawienie jest prawdziwą inspiracją dla nowych pracowników.",
+      "Twoje pozytywne nastawienie jest prawdziwą inspiracją dla młodszych kolegów.",
+      "Twoje pozytywne nastawienie jest prawdziwą inspiracją dla uczestników kursu.",
+      "Twoje pozytywne nastawienie jest prawdziwą inspiracją dla naszych partnerów."
+    ],
+    "c1": [
+      "Twoje pozytywne nastawienie jest prawdziwą inspiracją dla kadry menedżerskiej w kryzysie.",
+      "Twoje pozytywne nastawienie jest prawdziwą inspiracją dla inwestorów w niepewnych czasach.",
+      "Twoje pozytywne nastawienie jest prawdziwą inspiracją dla zespołu restrukturyzacyjnego.",
+      "Twoje pozytywne nastawienie jest prawdziwą inspiracją dla rady nadzorczej.",
+      "Twoje pozytywne nastawienie jest prawdziwą inspiracją dla liderów branży."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Dziękuję, że wyszedłeś poza standardowe obowiązki, aby ...",
+    "translation": "Thank you for going above and beyond to ...",
+    "b1": [
+      "Dziękuję, że wyszedłeś poza standardowe obowiązki, aby mi pomóc.",
+      "Dziękuję, że wyszedłeś poza standardowe obowiązki, aby skończyć pracę na czas.",
+      "Dziękuję, że wyszedłeś poza standardowe obowiązki, aby posprzątać salę.",
+      "Dziękuję, że wyszedłeś poza standardowe obowiązki, aby kupić brakujące materiały.",
+      "Dziękuję, że wyszedłeś poza standardowe obowiązki, aby nas odwiedzić."
+    ],
+    "b2": [
+      "Dziękuję, że wyszedłeś poza standardowe obowiązki, aby dopracować tę prezentację.",
+      "Dziękuję, że wyszedłeś poza standardowe obowiązki, aby pomóc klientowi w weekend.",
+      "Dziękuję, że wyszedłeś poza standardowe obowiązki, aby rozwiązać problem techniczny.",
+      "Dziękuję, że wyszedłeś poza standardowe obowiązki, aby wdrożyć nowego pracownika.",
+      "Dziękuję, że wyszedłeś poza standardowe obowiązki, aby uratować ten projekt."
+    ],
+    "c1": [
+      "Dziękuję, że wyszedłeś poza standardowe obowiązki, aby zabezpieczyć umowę z kluczowym partnerem.",
+      "Dziękuję, że wyszedłeś poza standardowe obowiązki, aby przeprowadzić dodatkowy audyt bezpieczeństwa.",
+      "Dziękuję, że wyszedłeś poza standardowe obowiązki, aby przygotować analizę dla zarządu w nocy.",
+      "Dziękuję, że wyszedłeś poza standardowe obowiązki, aby rozwiązać złożony spór prawny.",
+      "Dziękuję, że wyszedłeś poza standardowe obowiązki, aby zoptymalizować budżet spółki."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Naprawdę podziwiam sposób, w jaki ...",
+    "translation": "I really admire the way you ...",
+    "b1": [
+      "Naprawdę podziwiam sposób, w jaki gotujesz.",
+      "Naprawdę podziwiam sposób, w jaki rozmawiasz z dziećmi.",
+      "Naprawdę podziwiam sposób, w jaki organizujesz czas.",
+      "Naprawdę podziwiam sposób, w jaki śpiewasz.",
+      "Naprawdę podziwiam sposób, w jaki dbasz o rośliny."
+    ],
+    "b2": [
+      "Naprawdę podziwiam sposób, w jaki prowadzisz negocjacje.",
+      "Naprawdę podziwiam sposób, w jaki rozwiązujesz konflikty w grupie.",
+      "Naprawdę podziwiam sposób, w jaki radzisz sobie ze stresem.",
+      "Naprawdę podziwiam sposób, w jaki tłumaczysz trudne zagadnienia.",
+      "Naprawdę podziwiam sposób, w jaki utrzymujesz równowagę między pracą a życiem."
+    ],
+    "c1": [
+      "Naprawdę podziwiam sposób, w jaki zarządzasz kryzysem płynnościowym w spółce.",
+      "Naprawdę podziwiam sposób, w jaki interpretujesz zawiłe przepisy międzynarodowe.",
+      "Naprawdę podziwiam sposób, w jaki delegujesz zadania w strukturach korporacyjnych.",
+      "Naprawdę podziwiam sposób, w jaki prowadzisz trudne rozmowy z akcjonariuszami.",
+      "Naprawdę podziwiam sposób, w jaki wdrażasz innowacyjne strategie rynkowe."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Co za wspaniałą robotę wykonałeś w sprawie ...",
+    "translation": "What a wonderful job you did on ...",
+    "b1": [
+      "Co za wspaniałą robotę wykonałeś w sprawie remontu pokoju.",
+      "Co za wspaniałą robotę wykonałeś w sprawie tego rysunku.",
+      "Co za wspaniałą robotę wykonałeś w sprawie porządków w garażu.",
+      "Co za wspaniałą robotę wykonałeś w sprawie organizacji przyjęcia.",
+      "Co za wspaniałą robotę wykonałeś w sprawie naprawy roweru."
+    ],
+    "b2": [
+      "Co za wspaniałą robotę wykonałeś w sprawie przygotowania kampanii marketingowej.",
+      "Co za wspaniałą robotę wykonałeś w sprawie modernizacji strony internetowej.",
+      "Co za wspaniałą robotę wykonałeś w sprawie sprawozdania rocznego.",
+      "Co za wspaniałą robotę wykonałeś w sprawie aranżacji nowego biura.",
+      "Co za wspaniałą robotę wykonałeś w sprawie organizacji konferencji."
+    ],
+    "c1": [
+      "Co za wspaniałą robotę wykonałeś w sprawie konsolidacji sprawozdań finansowych grupy.",
+      "Co za wspaniałą robotę wykonałeś w sprawie audytu struktury własnościowej.",
+      "Co za wspaniałą robotę wykonałeś w sprawie restrukturyzacji zadłużenia dłużnika.",
+      "Co za wspaniałą robotę wykonałeś w sprawie wdrożenia procedur AML w organizacji.",
+      "Co za wspaniałą robotę wykonałeś w sprawie obrony pozycji patentowej spółki."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "To dla mnie ogromne znaczenie, że ...",
+    "translation": "It means the world to me that ...",
+    "b1": [
+      "To dla mnie ogromne znaczenie, że pamiętasz o mnie.",
+      "To dla mnie ogromne znaczenie, że mogłem na Ciebie liczyć.",
+      "To dla mnie ogromne znaczenie, że polubiłeś mój prezent.",
+      "To dla mnie ogromne znaczenie, że spędziłeś ze mną czas.",
+      "To dla mnie ogromne znaczenie, że mi pomogłeś."
+    ],
+    "b2": [
+      "To dla mnie ogromne znaczenie, że doceniłeś moją pracę nad projektem.",
+      "To dla mnie ogromne znaczenie, że stanąłeś w mojej obronie na spotkaniu.",
+      "To dla mnie ogromne znaczenie, że podzieliłeś się ze mną szczerą opinią.",
+      "To dla mnie ogromne znaczenie, że wsparłeś mnie w trudnym momencie.",
+      "To dla mnie ogromne znaczenie, że zaufałeś mojemu doświadczeniu."
+    ],
+    "c1": [
+      "To dla mnie ogromne znaczenie, że powierzyłeś mi tak odpowiedzialne zadanie strategiczne.",
+      "To dla mnie ogromne znaczenie, że poparłeś moją rekomendację przed zarządem.",
+      "To dla mnie ogromne znaczenie, że doceniłeś mój wkład w rozwój pionu prawnego.",
+      "To dla mnie ogromne znaczenie, że obroniłeś moją ekspertyzę w sporze z audytorami.",
+      "To dla mnie ogromne znaczenie, że zaufałeś mojej ocenie ryzyka biznesowego."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Twoja perspektywa na ... jest niezwykle cenna.",
+    "translation": "Your perspective on ... is incredibly valuable.",
+    "b1": [
+      "Twoja perspektywa na ten film jest niezwykle cenna.",
+      "Twoja perspektywa na tę sytuację jest niezwykle cenna.",
+      "Twoja perspektywa na nasz wyjazd jest niezwykle cenna.",
+      "Twoja perspektywa na ten problem jest niezwykle cenna.",
+      "Twoja perspektywa na ten wybór jest niezwykle cenna."
+    ],
+    "b2": [
+      "Twoja perspektywa na rozwój tego projektu jest niezwykle cenna.",
+      "Twoja perspektywa na oczekiwania klientów jest niezwykle cenna.",
+      "Twoja perspektywa na kulturę organizacyjną jest niezwykle cenna.",
+      "Twoja perspektywa na zarządzanie budżetem jest niezwykle cenna.",
+      "Twoja perspektywa na współpracę z partnerami jest niezwykle cenna."
+    ],
+    "c1": [
+      "Twoja perspektywa na zmiany w legislacji unijnej jest niezwykle cenna.",
+      "Twoja perspektywa na rynkowe trendy makroekonomiczne jest niezwykle cenna.",
+      "Twoja perspektywa na optymalizację struktur holdingowych jest niezwykle cenna.",
+      "Twoja perspektywa na ocenę ryzyka regulacyjnego jest niezwykle cenna.",
+      "Twoja perspektywa na długoterminową strategię inwestycyjną jest niezwykle cenna."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Pragnę wyrazić moją najgłębszą wdzięczność za ...",
+    "translation": "I want to express my deepest gratitude for ...",
+    "b1": [
+      "Pragnę wyrazić moją najgłębszą wdzięczność za Twoją pomoc.",
+      "Pragnę wyrazić moją najgłębszą wdzięczność za wspaniałą gościnność.",
+      "Pragnę wyrazić moją najgłębszą wdzięczność za ten miły gest.",
+      "Pragnę wyrazić moją najgłębszą wdzięczność za opiekę nad dziećmi.",
+      "Pragnę wyrazić moją najgłębszą wdzięczność za okazane wsparcie."
+    ],
+    "b2": [
+      "Pragnę wyrazić moją najgłębszą wdzięczność za lata owocnej współpracy.",
+      "Pragnę wyrazić moją najgłębszą wdzięczność za zaufanie, którym mnie obdarzyłeś.",
+      "Pragnę wyrazić moją najgłębszą wdzięczność za pomoc w uratowaniu tego kontraktu.",
+      "Pragnę wyrazić moją najgłębszą wdzięczność za Twoje zaangażowanie w rozwój zespołu.",
+      "Pragnę wyrazić moją najgłębszą wdzięczność za cenne rady życiowe."
+    ],
+    "c1": [
+      "Pragnę wyrazić moją najgłębszą wdzięczność za bezcenną pomoc przy obronie interesów spółki.",
+      "Pragnę wyrazić moją najgłębszą wdzięczność za strategiczne wsparcie w procesie fuzji.",
+      "Pragnę wyrazić moją najgłębszą wdzięczność za wybitny wkład w sukces całej organizacji.",
+      "Pragnę wyrazić moją najgłębszą wdzięczność za skuteczną mitygację kryzysu prawnego.",
+      "Pragnę wyrazić moją najgłębszą wdzięczność za niezłomne zaangażowanie w procedury compliance."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Wniosłeś ogromną zmianę w ...",
+    "translation": "You've made a huge difference in ...",
+    "b1": [
+      "Wniosłeś ogromną zmianę w wygląd tego pokoju.",
+      "Wniosłeś ogromną zmianę w atmosferę naszego domu.",
+      "Wniosłeś ogromną zmianę w codzienne nawyki gotowania.",
+      "Wniosłeś ogromną zmianę w nasz plan wycieczki.",
+      "Wniosłeś ogromną zmianę w moje podejście do życia."
+    ],
+    "b2": [
+      "Wniosłeś ogromną zmianę w efektywność działania naszego zespołu.",
+      "Wniosłeś ogromną zmianę w jakość obsługi klientów.",
+      "Wniosłeś ogromną zmianę w organizację pracy w biurze.",
+      "Wniosłeś ogromną zmianę w atmosferę panującą w firmie.",
+      "Wniosłeś ogromną zmianę w szybkość realizacji projektów."
+    ],
+    "c1": [
+      "Wniosłeś ogromną zmianę w stabilność finansową całej grupy kapitałowej.",
+      "Wniosłeś ogromną zmianę w transparentność procesów audytowych w spółce.",
+      "Wniosłeś ogromną zmianę w strategię zarządzania ryzykiem operacyjnym.",
+      "Wniosłeś ogromną zmianę w standardy przestrzegania ładu korporacyjnego.",
+      "Wniosłeś ogromną zmianę w jakość zabezpieczeń prawnych naszych kontraktów."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Jestem pod ogromnym wrażeniem Twojej zdolności do ...",
+    "translation": "I'm so impressed by your ability to ...",
+    "b1": [
+      "Jestem pod ogromnym wrażeniem Twojej zdolności do szybkiego uczenia się.",
+      "Jestem pod ogromnym wrażeniem Twojej zdolności do rysowania portretów.",
+      "Jestem pod ogromnym wrażeniem Twojej zdolności do zachowania spokoju.",
+      "Jestem pod ogromnym wrażeniem Twojej zdolności do gotowania dla wielu osób.",
+      "Jestem pod ogromnym wrażeniem Twojej zdolności do zapamiętywania imion."
+    ],
+    "b2": [
+      "Jestem pod ogromnym wrażeniem Twojej zdolności do zarządzania kilkoma projektami naraz.",
+      "Jestem pod ogromnym wrażeniem Twojej zdolności do szybkiego rozwiązywania konfliktów.",
+      "Jestem pod ogromnym wrażeniem Twojej zdolności do przekonywania ludzi do swoich racji.",
+      "Jestem pod ogromnym wrażeniem Twojej zdolności do pracy pod presją terminów.",
+      "Jestem pod ogromnym wrażeniem Twojej zdolności do szybkiego przyswajania wiedzy technicznej."
+    ],
+    "c1": [
+      "Jestem pod ogromnym wrażeniem Twojej zdolności do dekodowania złożonych struktur prawnych.",
+      "Jestem pod ogromnym wrażeniem Twojej zdolności do natychmiastowej oceny ryzyka giełdowego.",
+      "Jestem pod ogromnym wrażeniem Twojej zdolności do kierowania zespołem w warunkach silnego kryzysu.",
+      "Jestem pod ogromnym wrażeniem Twojej zdolności do syntezy masywnych zbiorów danych.",
+      "Jestem pod ogromnym wrażeniem Twojej zdolności do prowadzenia trudnych negocjacji międzynarodowych."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Dziękuję za poświęcenie czasu na ...",
+    "translation": "Thank you for taking the time to ...",
+    "b1": [
+      "Dziękuję za poświęcenie czasu na rozmowę ze mną.",
+      "Dziękuję za poświęcenie czasu na pomoc w ogrodzie.",
+      "Dziękuję za poświęcenie czasu na przeczytanie mojego opowiadania.",
+      "Dziękuję za poświęcenie czasu na wspólny spacer.",
+      "Dziękuję za poświęcenie czasu na wyjaśnienie tej zasady."
+    ],
+    "b2": [
+      "Dziękuję za poświęcenie czasu na przejrzenie mojego projektu.",
+      "Dziękuję za poświęcenie czasu na wdrożenie mnie w obowiązki.",
+      "Dziękuję za poświęcenie czasu na spotkanie konsultacyjne.",
+      "Dziękuję za poświęcenie czasu na odpowiedź na moje pytania.",
+      "Dziękuję za poświęcenie czasu na przygotowanie tej analizy."
+    ],
+    "c1": [
+      "Dziękuję za poświęcenie czasu na szczegółową weryfikację naszej dokumentacji prawnej.",
+      "Dziękuję za poświęcenie czasu na przeprowadzenie niezależnego audytu wewnętrznego.",
+      "Dziękuję za poświęcenie czasu na analizę ryzyka podatkowego w nowym przedsięwzięciu.",
+      "Dziękuję za poświęcenie czasu na konsultacje w sprawie restrukturyzacji zadłużenia.",
+      "Dziękuję za poświęcenie czasu na weryfikację zgodności procedur z nową dyrektywą."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Czujemy się szczęściarzami, mając kogoś, kto potrafi ...",
+    "translation": "We are fortunate to have someone who can ...",
+    "b1": [
+      "Czujemy się szczęściarzami, mając kogoś, kto potrafi tak świetnie gotować.",
+      "Czujemy się szczęściarzami, mając kogoś, kto potrafi rozśmieszyć każdego.",
+      "Czujemy się szczęściarzami, mając kogoś, kto potrafi naprawić wszystko.",
+      "Czujemy się szczęściarzami, mając kogoś, kto potrafi dobrze doradzić.",
+      "Czujemy się szczęściarzami, mając kogoś, kto potrafi zadbać o porządek."
+    ],
+    "b2": [
+      "Czujemy się szczęściarzami, mając kogoś, kto potrafi tak sprawnie zarządzać zespołem.",
+      "Czujemy się szczęściarzami, mając kogoś, kto potrafi rozwiązać każdy problem techniczny.",
+      "Czujemy się szczęściarzami, mając kogoś, kto potrafi bezbłędnie negocjować umowy.",
+      "Czujemy się szczęściarzami, mając kogoś, kto potrafi motywować nas w trudnych chwilach.",
+      "Czujemy się szczęściarzami, mając kogoś, kto potrafi świetnie organizować pracę."
+    ],
+    "c1": [
+      "Czujemy się szczęściarzami, mając kogoś, kto potrafi nawigować firmę przez zawiłe kryzysy prawne.",
+      "Czujemy się szczęściarzami, mając kogoś, kto potrafi precyzyjnie modelować ryzyko finansowe.",
+      "Czujemy się szczęściarzami, mając kogoś, kto potrafi skutecznie chronić interesy spółki przed sądem.",
+      "Czujemy się szczęściarzami, mając kogoś, kto potrafi optymalizować podatkowo struktury holdingu.",
+      "Czujemy się szczęściarzami, mając kogoś, kto potrafi wdrażać rygorystyczne standardy compliance."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Twoja gotowość do ... naprawdę się wyróżnia.",
+    "translation": "Your willingness to ... really stands out.",
+    "b1": [
+      "Twoja gotowość do pomocy innym naprawdę się wyróżnia.",
+      "Twoja gotowość do nauki nowych rzeczy naprawdę się wyróżnia.",
+      "Twoja gotowość do sprzątania po imprezie naprawdę się wyróżnia.",
+      "Twoja gotowość do dzielenia się jedzeniem naprawdę się wyróżnia.",
+      "Twoja gotowość do słuchania innych naprawdę się wyróżnia."
+    ],
+    "b2": [
+      "Twoja gotowość do przejmowania dodatkowych obowiązków naprawdę się wyróżnia.",
+      "Twoja gotowość do współpracy przy trudnych projektach naprawdę się wyróżnia.",
+      "Twoja gotowość do dzielenia się swoją wiedzą naprawdę się wyróżnia.",
+      "Twoja gotowość do wprowadzania innowacji naprawdę się wyróżnia.",
+      "Twoja gotowość do wspierania kolegów w potrzebie naprawdę się wyróżnia."
+    ],
+    "c1": [
+      "Twoja gotowość do brania odpowiedzialności za trudne decyzje zarządcze naprawdę się wyróżnia.",
+      "Twoja gotowość do uczestnictwa w skomplikowanych procesach arbitrażowych naprawdę się wyróżnia.",
+      "Twoja gotowość do ciągłego audytowania standardów bezpieczeństwa naprawdę się wyróżnia.",
+      "Twoja gotowość do konfrontacji z wyzwaniami regulacyjnymi naprawdę się wyróżnia.",
+      "Twoja gotowość do ochrony interesów korporacyjnych w sporach naprawdę się wyróżnia."
+    ]
+  }
+]

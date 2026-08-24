@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Pamiętam, kiedy ...",
+    "translation": "I remember when ...",
+    "b1": [
+      "Pamiętam, kiedy po raz pierwszy pojechałem nad morze.",
+      "Pamiętam, kiedy dostaliśmy naszego pierwszego psa.",
+      "Pamiętam, kiedy zaczęliśmy szkołę średnią.",
+      "Pamiętam, kiedy spotkaliśmy się po raz pierwszy.",
+      "Pamiętam, kiedy nauczyłem się jeździć na rowerze."
+    ],
+    "b2": [
+      "Pamiętam, kiedy mieszkałem za granicą i musiałem radzić sobie sam.",
+      "Pamiętam, kiedy firma po raz pierwszy zmieniła swoją strukturę organizacyjną.",
+      "Pamiętam, kiedy zaczęliśmy wdrażać ten nowy projekt w biurze.",
+      "Pamiętam, kiedy po raz pierwszy zetknąłem się z kulturą tego kraju.",
+      "Pamiętam, kiedy po raz pierwszy publicznie wygłosiłem prezentację."
+    ],
+    "c1": [
+      "Pamiętam, kiedy po raz pierwszy zdałem sobie sprawę z długofalowych skutków tamtego kryzysu gospodarczego.",
+      "Pamiętam, kiedy strukturalne zmiany w polityce państwa zaczęły bezpośrednio wpływać na codzienne życie obywateli.",
+      "Pamiętam, kiedy po raz pierwszy zetknąłem się z nowatorską wówczas koncepcją dekonstrukcji tekstów literackich.",
+      "Pamiętam, kiedy gwałtowny rozwój technologii cyfrowych zaczął radykalnie modyfikować nasze nawyki komunikacyjne.",
+      "Pamiętam, kiedy po raz pierwszy uświadomiłem sobie złożoność geopolitycznych uwarunkowań tamtego regionu."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Dawno, dawno temu, ...",
+    "translation": "Once upon a time, ...",
+    "b1": [
+      "Dawno, dawno temu żył król w pięknym zamku.",
+      "Dawno, dawno temu mała dziewczynka zgubiła się w lesie.",
+      "Dawno, dawno temu w tym mieście było zupełnie inaczej.",
+      "Dawno, dawno temu ludzie żyli w zgodzie z naturą.",
+      "Dawno, dawno temu istniała tu mała wioska rybacka."
+    ],
+    "b2": [
+      "Dawno, dawno temu metody zarządzania firmami były zupełnie inne niż obecnie.",
+      "Dawno, dawno temu ta branża opierała się na zupełnie odmiennych fundamentach rynkowych.",
+      "Dawno, dawno temu relacje międzyludzkie nie były tak bardzo zdominowane przez technologię.",
+      "Dawno, dawno temu dostęp do informacji był luksusem zarezerwowanym dla nielicznych.",
+      "Dawno, dawno temu zasady handlu międzynarodowego kształtowały się w zupełnie innych realiach."
+    ],
+    "c1": [
+      "Dawno, dawno temu, w epoce pre-nowoczesnej, paradygmat myślenia o państwie opierał się na całkowicie odmiennych przesłankach ontologicznych.",
+      "Dawno, dawno temu, zanim ukształtowały się współczesne instytucje prawne, sprawiedliwość wymierzano w oparciu o kodeksy zwyczajowe.",
+      "Dawno, dawno temu, w pierwotnych strukturach społecznych, spójność kolektywna wynikała z całkowicie innych mechanizmów solidarności.",
+      "Dawno, dawno temu, przed nadejściem rewolucji przemysłowej, rytm ludzkiego życia wyznaczały wyłącznie cykle przyrody.",
+      "Dawno, dawno temu, w dawnych systemach filozoficznych, poszukiwanie prawdy miało wymiar czysto metafizyczny."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Historia zaczyna się od ...",
+    "translation": "The story begins with ...",
+    "b1": [
+      "Historia zaczyna się od małego chłopca, który znalazł dziwny klucz.",
+      "Historia zaczyna się od tajemniczego telefonu w środku nocy.",
+      "Historia zaczyna się od podróży pociągiem przez całą Europę.",
+      "Historia zaczyna się od spotkania w starej kawiarni.",
+      "Historia zaczyna się od zgubienia ważnego dokumentu."
+    ],
+    "b2": [
+      "Historia zaczyna się od nagłej zmiany polityki gospodarczej, która zaskoczyła rynki.",
+      "Historia zaczyna się od małego błędu w kodzie systemu informatycznego.",
+      "Historia zaczyna się od decyzji o przeniesieniu fabryki do innego regionu.",
+      "Historia zaczyna się od odkrycia nieznanych dotąd archiwów w piwnicy muzeum.",
+      "Historia zaczyna się od kryzysu wizerunkowego, z którym musiała zmierzyć się firma."
+    ],
+    "c1": [
+      "Historia zaczyna się od pozornie błahego incydentu dyplomatycznego, który stał się katalizatorem globalnego konfliktu.",
+      "Historia zaczyna się od fundamentalnego pęknięcia w dotychczasowym paradygmacie naukowym.",
+      "Historia zaczyna się od systemowego niedoszacowania ryzyka finansowego w sektorze bankowym.",
+      "Historia zaczyna się od rewolucyjnego odkrycia w dziedzinie biologii molekularnej, które zdefiniowało nową erę medycyny.",
+      "Historia zaczyna się od instytucjonalnego kryzysu legitymizacji, który wstrząsnął strukturami państwa."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "To przypomina mi chwilę, kiedy ...",
+    "translation": "That reminds me of a time when ...",
+    "b1": [
+      "To przypomina mi chwilę, kiedy zgubiłem się w dużym mieście.",
+      "To przypomina mi chwilę, kiedy zdałem egzamin na prawo jazdy.",
+      "To przypomina mi chwilę, kiedy pierwszy raz próbowałam sushi.",
+      "To przypomina mi chwilę, kiedy wygraliśmy ważny mecz.",
+      "To przypomina mi chwilę, kiedy przeprowadziliśmy się do nowego domu."
+    ],
+    "b2": [
+      "To przypomina mi chwilę, kiedy nasz zespół musiał pracować całą noc nad dokończeniem projektu.",
+      "To przypomina mi chwilę, kiedy negocjowałem swoją pierwszą poważną umowę handlową.",
+      "To przypomina mi chwilę, kiedy organizowaliśmy dużą konferencję dla klientów.",
+      "To przypomina mi chwilę, kiedy nagła awaria systemu sparaliżowała całe biuro.",
+      "To przypomina mi chwilę, kiedy zmierzyłem się z pierwszym poważnym kryzysem w pracy."
+    ],
+    "c1": [
+      "To przypomina mi chwilę, kiedy w warunkach skrajnego napięcia negocjacyjnego musiałem podjąć decyzję o kluczowym znaczeniu strategicznym.",
+      "To przypomina mi chwilę, kiedy publiczna debata na temat reformy instytucjonalnej wymknęła się spod kontroli.",
+      "To przypomina mi chwilę, kiedy jako badacz stanąłem w obliczu całkowitej dezintegracji zebranych danych empirycznych.",
+      "To przypomina mi chwilę, kiedy instytucjonalny opór wobec zmian sparaliżował wdrażanie strategii naprawczej.",
+      "To przypomina mi chwilę, kiedy niespodziewany zwrot akcji w sądzie arbitrażowym całkowicie odwrócił losy sporu."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Pozwól, że opowiem ci o ...",
+    "translation": "Let me tell you about ...",
+    "b1": [
+      "Pozwól, że opowiem ci o mojej ostatniej wycieczce w góry.",
+      "Pozwól, że opowiem ci o moim nowym zwierzaku.",
+      "Pozwól, że opowiem ci o tym wspaniałym filmie.",
+      "Pozwól, że opowiem ci o mojej nowej pracy.",
+      "Pozwól, że opowiem ci o wczorajszym spotkaniu z przyjaciółmi."
+    ],
+    "b2": [
+      "Pozwól, że opowiem ci o wyzwaniach, z którymi mierzyłem się podczas pracy nad tym projektem.",
+      "Pozwól, że opowiem ci o kulisach powstawania tej nowej strategii marketingowej.",
+      "Pozwól, że opowiem ci o strukturze naszej organizacji i zasadach awansu.",
+      "Pozwól, że opowiem ci o procedurach bezpieczeństwa obowiązujących w naszej fabryce.",
+      "Pozwól, że opowiem ci o tym, jak poradziliśmy sobie z nagłym odpływem klientów."
+    ],
+    "c1": [
+      "Pozwól, że opowiem ci o zawiłościach metodologicznych, które napotkaliśmy podczas analizy danych longitudinalnych.",
+      "Pozwól, że opowiem ci o mechanizmach ukrytej cenzury w instytucjach kultury tamtego okresu.",
+      "Pozwól, że opowiem ci o strukturalnych dylematach etycznych, przed którymi stanął nasz komitet doradczy.",
+      "Pozwól, że opowiem ci o subtelnych niuansach dyplomatycznych, które zadecydowały o sukcesie tamtego szczytu.",
+      "Pozwól, że opowiem ci o kryzysie tożsamościowym, jaki dotknął tradycyjne elity w obliczu gwałtownej modernizacji."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Byliśmy właśnie w trakcie ..., kiedy nagle ...",
+    "translation": "We were just about to ... when suddenly ...",
+    "b1": [
+      "Byliśmy właśnie w trakcie kolacji, kiedy nagle zgasło światło.",
+      "Byliśmy właśnie w trakcie wyjścia z domu, kiedy nagle zaczął padać deszcz.",
+      "Byliśmy właśnie w trakcie oglądania filmu, kiedy nagle rozległ się głośny hałas.",
+      "Byliśmy właśnie w trakcie rozmowy, kiedy nagle rozłączyło połączenie.",
+      "Byliśmy właśnie w trakcie pakowania walizek, kiedy nagle odwołano lot."
+    ],
+    "b2": [
+      "Byliśmy właśnie w trakcie podpisywania umowy, kiedy nagle klient postanowił zmienić warunki.",
+      "Byliśmy właśnie w trakcie prezentacji dla zarządu, kiedy nagle zepsuł się rzutnik.",
+      "Byliśmy właśnie w trakcie wdrażania nowej aktualizacji, kiedy nagle padły serwery.",
+      "Byliśmy właśnie w trakcie narady zespołu, kiedy nagle ogłoszono alarm pożarowy.",
+      "Byliśmy właśnie w trakcie negocjacji cenowych, kiedy nagle wycofano ofertę."
+    ],
+    "c1": [
+      "Byliśmy właśnie w trakcie finalizacji skomplikowanej transakcji akwizycyjnej, kiedy nagle organy antymonopolowe wstrzymały proces.",
+      "Byliśmy właśnie w trakcie historycznego posiedzenia komisji, kiedy nagle doszło do bezprecedensowego wycieku dokumentów.",
+      "Byliśmy właśnie w trakcie audytu finansowego, kiedy nagle wyszły na jaw systemowe nieprawidłowości w księgowości.",
+      "Byliśmy właśnie w trakcie wdrażania przełomowej innowacji technologicznej, kiedy nagle wygasły kluczowe patenty.",
+      "Byliśmy właśnie w trakcie debaty nad projektem ustawy, kiedy nagle opozycja złożyła wniosek o wotum nieufności."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "A wtedy wydarzyło się coś całkowicie niespodziewanego: ...",
+    "translation": "And then, the most unexpected thing happened: ...",
+    "b1": [
+      "A wtedy wydarzyło się coś całkowicie niespodziewanego: spotkałem mojego starego nauczyciela w Paryżu.",
+      "A wtedy wydarzyło się coś całkowicie niespodziewanego: znalazłem zgubiony portfel na ulicy.",
+      "A wtedy wydarzyło się coś całkowicie niespodziewanego: wygraliśmy główną nagrodę w konkursie.",
+      "A wtedy wydarzyło się coś całkowicie niespodziewanego: pociąg odjechał o godzinę wcześniej.",
+      "A wtedy wydarzyło się coś całkowicie niespodziewanego: słońce wyszło dokładnie w trakcie burzy."
+    ],
+    "b2": [
+      "A wtedy wydarzyło się coś całkowicie niespodziewanego: nasz główny konkurent wycofał się z przetargu.",
+      "A wtedy wydarzyło się coś całkowicie niespodziewanego: klient zgodził się na podwójną stawkę bez żadnych negocjacji.",
+      "A wtedy wydarzyło się coś całkowicie niespodziewanego: system samoczynnie przywrócił utracone dane.",
+      "A wtedy wydarzyło się coś całkowicie niespodziewanego: ministerstwo nagle zmieniło kryteria przyznawania dotacji.",
+      "A wtedy wydarzyło się coś całkowicie niespodziewanego: kluczowy świadek zmienił swoje zeznania."
+    ],
+    "c1": [
+      "A wtedy wydarzyło się coś całkowicie niespodziewanego: giełda zareagowała na kryzys gwałtownym, całkowicie sprzecznym z wszelkimi prognozami wzrostem.",
+      "A wtedy wydarzyło się coś całkowicie niespodziewanego: Sąd Najwyższy wydał przełomowy wyrok unieważniający całą dotychczasową linię orzeczniczą.",
+      "A wtedy wydarzyło się coś całkowicie niespodziewanego: bezprecedensowy zwrot akcji w parlamencie doprowadził do upadku rządu w środku nocy.",
+      "A wtedy wydarzyło się coś całkowicie niespodziewanego: niezależne badania laboratoryjne wykazały całkowitą bezskuteczność dotychczas uznanej metody terapeutycznej.",
+      "A wtedy wydarzyło się coś całkowicie niespodziewanego: nagły napływ kapitału zagranicznego uratował projekt przed nieuchronną upadłością."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Nigdy nie zapomnę momentu, kiedy ...",
+    "translation": "I'll never forget the moment when ...",
+    "b1": [
+      "Nigdy nie zapomnę momentu, kiedy po raz pierwszy zobaczyłem ocean.",
+      "Nigdy nie zapomnę momentu, kiedy odebrałem dyplom ukończenia studiów.",
+      "Nigdy nie zapomnę momentu, kiedy po raz pierwszy wziąłem na ręce mojego siostrzeńca.",
+      "Nigdy nie zapomnę momentu, kiedy zdałem ten trudny egzamin.",
+      "Nigdy nie zapomnę momentu, kiedy wprowadziłem się do swojego pierwszego mieszkania."
+    ],
+    "b2": [
+      "Nigdy nie zapomnę momentu, kiedy dowiedziałem się o przyznaniu mi awansu na stanowisko menedżerskie.",
+      "Nigdy nie zapomnę momentu, kiedy nasz produkt po raz pierwszy trafił na półki sklepowe.",
+      "Nigdy nie zapomnę momentu, kiedy po miesiącach ciężkiej pracy udało nam się zamknąć ten kontrakt.",
+      "Nigdy nie zapomnę momentu, kiedy po raz pierwszy poprowadziłem samodzielnie międzynarodową konferencję.",
+      "Nigdy nie zapomnę momentu, kiedy ogłoszono wyniki rekrutacji do wymarzonej firmy."
+    ],
+    "c1": [
+      "Nigdy nie zapomnę momentu, kiedy w trakcie obrony doktoratu profesor zadał mi to fundamentalne, dekonstruujące całą moją tezę pytanie.",
+      "Nigdy nie zapomnę momentu, kiedy odebrałem telefon z informacją o przyznaniu mi prestiżowego stypendium badawczego za granicą.",
+      "Nigdy nie zapomnę momentu, kiedy po raz pierwszy zobaczyłem opublikowany artykuł z moimi badaniami w wiodącym czasopiśmie naukowym.",
+      "Nigdy nie zapomnę momentu, kiedy jako świadek historii obserwowałem upadek muru w Berlinie.",
+      "Nigdy nie zapomnę momentu, kiedy nagły werdykt międzynarodowego trybunału zmienił bieg mojego życia zawodowego."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Początkowo myślałem/myślałam, że ..., ale potem zdałem/zdałam sobie sprawę, że ...",
+    "translation": "At first, I thought ..., but later I realized ...",
+    "b1": [
+      "Początkowo myślałem, że ten film będzie nudny, ale potem zdałem sobie sprawę, że jest świetny.",
+      "Początkowo myślałam, że to zadanie jest łatwe, ale potem zdałam sobie sprawę, że wymaga dużo czasu.",
+      "Początkowo myślałem, że ta restauracja jest droga, ale potem zdałem sobie sprawę, że ceny są w porządku.",
+      "Początkowo myślałam, że nie polubię nowego sąsiada, ale potem zdałam sobie sprawę, że jest bardzo miły.",
+      "Początkowo myślałem, że zgubiłem drogę, ale potem zdałem sobie sprawę, że idę w dobrą stronę."
+    ],
+    "b2": [
+      "Początkowo myślałem, że ten problem wynika z błędu technologicznego, ale potem zdałem sobie sprawę, że to kwestia procedur.",
+      "Początkowo myślałam, że nowy współpracownik nie radzi sobie z obowiązkami, ale potem zdałam sobie sprawę, że potrzebuje lepszego wdrożenia.",
+      "Początkowo myślałem, że strategia firmy przyniesie natychmiastowe efekty, ale potem zdałem sobie sprawę, że to proces długofalowy.",
+      "Początkowo myślałam, że ta zmiana przepisów nas nie dotyczy, ale potem zdałam sobie sprawę, jak mocno wpłynie na nasze koszty.",
+      "Początkowo myślałem, że klient jest niezadowolony z ceny, ale potem zdałem sobie sprawę, że chodziło o termin realizacji."
+    ],
+    "c1": [
+      "Początkowo myślałem, że trudności z wdrażaniem reformy wynikają z oporu urzędników, ale potem zdałem sobie sprawę, że u podstaw leży głęboki kryzys zaufania strukturalnego.",
+      "Początkowo myślałam, że anomalia w danych empirycznych to błąd pomiarowy, ale potem zdałam sobie sprawę, że odkryliśmy zupełnie nowe zjawisko fizyczne.",
+      "Początkowo myślałem, że sprzeczność w wypowiedziach polityka to przejęzyczenie, ale potem zdałem sobie sprawę, że była to celowa strategia retoryczna.",
+      "Początkowo myślałam, że spadek sprzedaży to chwilowy trend rynkowy, ale potem zdałam sobie sprawę z długofalowej zmiany preferencji pokoleniowych konsumentów.",
+      "Początkowo myślałem, że kryzys w zespole ma podłoże personalne, ale potem zdałem sobie sprawę, że wynikał z błędnie zaprojektowanego systemu motywacyjnego."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Wszystko zmieniło się po tym, jak ...",
+    "translation": "Everything changed after ...",
+    "b1": [
+      "Wszystko zmieniło się po tym, jak przeprowadziliśmy się do stolicy.",
+      "Wszystko zmieniło się po tym, jak zdałem egzamin na prawo jazdy.",
+      "Wszystko zmieniło się po tym, jak zacząłem regularnie ćwiczyć.",
+      "Wszystko zmieniło się po tym, jak adoptowaliśmy kota.",
+      "Wszystko zmieniło się po tym, jak dostałem tę nową pracę."
+    ],
+    "b2": [
+      "Wszystko zmieniło się po tym, jak nasza firma przeszła na całkowity model pracy zdalnej.",
+      "Wszystko zmieniło się po tym, jak wprowadziliśmy na rynek nasz flagowy produkt.",
+      "Wszystko zmieniło się po tym, jak zmienił się dyrektor zarządzający w naszym dziale.",
+      "Wszystko zmieniło się po tym, jak wygraliśmy ten prestiżowy przetarg krajowy.",
+      "Wszystko zmieniło się po tym, jak ukończyłem te specjalistyczne studia podyplomowe."
+    ],
+    "c1": [
+      "Wszystko zmieniło się po tym, jak globalna pandemia zmusiła rządy do całkowitego przedefiniowania pojęcia bezpieczeństwa narodowego.",
+      "Wszystko zmieniło się po tym, jak rewolucja technologiczna oparta na sztucznej inteligencji wdarła się do sektora finansowego.",
+      "Wszystko zmieniło się po tym, jak opublikowano ten przełomowy raport obnażający praktyki korporacji.",
+      "Wszystko zmieniło się po tym, jak transformacja ustrojowa zniosła dotychczasowe bariery handlowe.",
+      "Wszystko zmieniło się po tym, jak nagły kryzys ekologiczny zmusił lokalną społeczność do radykalnej zmiany stylu życia."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Zanim się obejrzałem/obejrzałam, ...",
+    "translation": "Before I knew it, ...",
+    "b1": [
+      "Zanim się obejrzałem, minęły dwa tygodnie wakacji.",
+      "Zanim się obejrzałam, cały tort został zjedzony.",
+      "Zanim się obejrzałem, film dobiegł końca.",
+      "Zanim się obejrzałam, dzieci zdążyły dorosnąć.",
+      "Zanim się obejrzałem, zima już się skończyła."
+    ],
+    "b2": [
+      "Zanim się obejrzałem, minął cały rok pracy nad tym skomplikowanym projektem.",
+      "Zanim się obejrzałam, wszystkie miejsca na szkolenie zostały zarezerwowane.",
+      "Zanim się obejrzałem, termin realizacji zamówienia minął bez echa.",
+      "Zanim się obejrzałam, konkurencja przejęła znaczną część naszego rynku.",
+      "Zanim się obejrzałem, budżet na ten kwartał został całkowicie wyczerpany."
+    ],
+    "c1": [
+      "Zanim się obejrzałem, dynamiczny rozwój technologiczny uczynił nasze tradycyjne metody produkcyjne całkowicie przestarzałymi.",
+      "Zanim się obejrzałam, skomplikowane uwarunkowania makroekonomiczne zniweczyły lata oszczędności funduszu.",
+      "Zanim się obejrzałem, globalne zmiany klimatyczne nieodwracalnie przekształciły lokalny ekosystem rolniczy.",
+      "Zanim się obejrzałam, instytucjonalna inercja doprowadziła do marginalizacji naszego ośrodka naukowego.",
+      "Zanim się obejrzałem, lawinowy wzrost regulacji prawnych sparaliżował operacyjną elastyczność przedsiębiorstwa."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Całe to doświadczenie nauczyło mnie, że ...",
+    "translation": "The whole experience taught me ...",
+    "b1": [
+      "Całe to doświadczenie nauczyło mnie, że warto być cierpliwym.",
+      "Całe to doświadczenie nauczyło mnie, że nie należy poddawać się po pierwszej porażce.",
+      "Całe to doświadczenie nauczyło mnie, jak ważna jest szczerość w przyjaźni.",
+      "Całe to doświadczenie nauczyło mnie, że planowanie oszczędza czas.",
+      "Całe to doświadczenie nauczyło mnie, że pomoc innych jest bezcenna."
+    ],
+    "b2": [
+      "Całe to doświadczenie nauczyło mnie, że elastyczność i gotowość na zmiany są kluczem do przetrwania w biznesie.",
+      "Całe to doświadczenie nauczyło mnie, jak wielkie znaczenie ma skuteczna komunikacja w zespole.",
+      "Całe to doświadczenie nauczyło mnie, że dokładna analiza ryzyka chroni przed dużymi stratami.",
+      "Całe to doświadczenie nauczyło mnie, że zarządzanie kryzysowe wymaga przede wszystkim zimnej krewi.",
+      "Całe to doświadczenie nauczyło mnie, jak ważne jest budowanie trwałych relacji z klientami."
+    ],
+    "c1": [
+      "Całe to doświadczenie nauczyło mnie, że pozorna stabilność instytucjonalna kryje w sobie kruchość systemową wymagającą ciągłej czujności.",
+      "Całe to doświadczenie nauczyło mnie, że bezwzględne trzymanie się dogmatów teoretycznych uniemożliwia dostrzeżenie niuansów rzeczywistości społecznej.",
+      "Całe to doświadczenie nauczyło mnie, jak potężnym narzędziem manipulacji bywa język w rękach wytrawnego retora.",
+      "Całe to doświadczenie nauczyło mnie, że autentyczna innowacja rodzi się dopiero na styku całkowicie odmiennych dyscyplin naukowych.",
+      "Całe to doświadczenie nauczyło mnie, że etyczna odpowiedzialność badacza wykracza daleko poza ramy czysto technicznej poprawności analizy."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Pierwszą rzeczą, która się wydarzyła, było ...",
+    "translation": "The first thing that happened was ...",
+    "b1": [
+      "Pierwszą rzeczą, która się wydarzyła, było zgubienie mojego biletu na pociąg.",
+      "Pierwszą rzeczą, która się wydarzyła, było spotkanie starego znajomego na lotnisku.",
+      "Pierwszą rzeczą, która się wydarzyła, było zepsucie się ekspresu do kawy rano.",
+      "Pierwszą rzeczą, która się wydarzyła, było otrzymanie miłej wiadomości od szefa.",
+      "Pierwszą rzeczą, która się wydarzyła, było znalezienie wolnego miejsca w parku."
+    ],
+    "b2": [
+      "Pierwszą rzeczą, która się wydarzyła po moim przyjściu do biura, było zgłoszenie poważnej awarii sieci.",
+      "Pierwszą rzeczą, która się wydarzyła podczas wczorajszego spotkania, było przedstawienie raportu finansowego.",
+      "Pierwszą rzeczą, która się wydarzyła po wejściu nowych przepisów, był gwałtowny wzrost zapytań od klientów.",
+      "Pierwszą rzeczą, która się wydarzyła na początku negocjacji, było odrzucenie naszych wstępnych warunków.",
+      "Pierwszą rzeczą, która się wydarzyła w nowej pracy, było przydzielenie mnie do międzynarodowego projektu."
+    ],
+    "c1": [
+      "Pierwszą rzeczą, która się wydarzyła po ogłoszeniu werdyktu, było natychmiastowe załamanie notowań akcji spółki na giełdzie.",
+      "Pierwszą rzeczą, która się wydarzyła podczas inauguracji sympozjum, było wystąpienie keynote speakera podważające główne tezy konferencji.",
+      "Pierwszą rzeczą, która się wydarzyła po wdrożeniu kontrowersyjnej reformy, był masowy protest organizacji pozarządowych.",
+      "Pierwszą rzeczą, która się wydarzyła w reakcji na kryzys, było zwołanie nadzwyczajnego posiedzenia rady nadzorczej.",
+      "Pierwszą rzeczą, która się wydarzyła po otwarciu tajnych archiwów, było ujawnienie kompromitujących dokumentów rządowych."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Patrząc wstecz, teraz widzę, że ...",
+    "translation": "Looking back now, I can see that ...",
+    "b1": [
+      "Patrząc wstecz, teraz widzę, że to była najlepsza decyzja w moim życiu.",
+      "Patrząc wstecz, teraz widzę, że martwiłem się zupełnie niepotrzebnie.",
+      "Patrząc wstecz, teraz widzę, że ten błąd bardzo dużo mnie nauczył.",
+      "Patrząc wstecz, teraz widzę, że tamten nauczyciel miał rację.",
+      "Patrząc wstecz, teraz widzę, że zmiana pracy była mi potrzebna."
+    ],
+    "b2": [
+      "Patrząc wstecz, teraz widzę, że ignorowanie sygnałów ostrzegawczych od rynku doprowadziło do tamtego kryzysu.",
+      "Patrząc wstecz, teraz widzę, że brak odpowiedniej komunikacji wewnętrznej był główną przyczyną naszej porażki.",
+      "Patrząc wstecz, teraz widzę, że zainwestowanie w ten niszowy projekt okazało się strzałem w dziesiątkę.",
+      "Patrząc wstecz, teraz widzę, że nadmierna biurokracja skutecznie hamowała kreatywność naszego zespołu.",
+      "Patrząc wstecz, teraz widzę, że podjęcie ryzyka zawodowego otworzyło mi drzwi do kariery."
+    ],
+    "c1": [
+      "Patrząc wstecz, teraz widzę, że neoliberalny konsensus gospodarczy tamtej dekady systemowo fukcjonował kosztem warstw uboższych.",
+      "Patrząc wstecz, teraz widzę, że epistemologiczne ślepki naszej szkoły badawczej uniemożliwiły nam dostrzeżenie alternatywnych ścieżek rozwoju.",
+      "Patrząc wstecz, teraz widzę, że z pozoru techniczna zmiana konstytucyjna stanowiła podstępny zamach na trójpodział władzy.",
+      "Patrząc wstecz, teraz widzę, że eskalacja napięć geopolitycznych była logiczną konsekwencją nierozwiązanych konfliktów historycznych.",
+      "Patrząc wstecz, teraz widzę, że estetyczny zwrot w sztuce tamtej epoki proroczo zapowiadał nadchodzący kryzys egzystencjalny."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Czułem/czułam się całkowicie ...",
+    "translation": "I felt completely ...",
+    "b1": [
+      "Czułem się całkowicie zagubiony w tym wielkim mieście.",
+      "Czułam się całkowicie szczęśliwa po otrzymaniu tej wiadomości.",
+      "Czułem się całkowicie wykończony po całym dniu pracy.",
+      "Czułam się całkowicie zaskoczona tą niespodzianką.",
+      "Czułem się całkowicie bezpiecznie w jego towarzystwie."
+    ],
+    "b2": [
+      "Czułem się całkowicie przytłoczony ogromem obowiązków podczas pierwszego tygodnia w nowej pracy.",
+      "Czułam się całkowicie bezradna wobec nagłej awarii całego systemu informatycznego w firmie.",
+      "Czułem się całkowicie przygotowany do tej prezentacji przed wymagającym zarządem.",
+      "Czułam się całkowicie odizolowana od reszty zespołu pracując zdalnie z innego kraju.",
+      "Czułem się całkowicie usatysfakcjonowany efektami naszej wspólnej pracy nad projektem."
+    ],
+    "c1": [
+      "Czułem się całkowicie obcy w zabetonowanym przez akademicki żargon dyskursie tamtej konferencji naukowej.",
+      "Czułam się całkowicie zdezorientowana relatywizmem moralnym dominującym we współczesnych debatach filozoficznych.",
+      "Czułem się całkowicie bezsilny wobec biurokratycznej inercji urzędów państwowych blokujących sprawę.",
+      "Czułam się całkowicie pochłonięta lekturą tej monumentalnej monografii historycznej.",
+      "Czułem się całkowicie wyobcowany w zmediatyzowanej rzeczywistości wielkiego, bezdusznego megamiasta."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "To był moment, kiedy ...",
+    "translation": "It was the moment when ...",
+    "b1": [
+      "To był moment, kiedy zdałem sobie sprawę, że muszę zmienić swoje nawyki.",
+      "To był moment, kiedy poczułem, że naprawdę dorosłem.",
+      "To był moment, kiedy zapadła ostateczna decyzja o naszym wyjeździe.",
+      "To był moment, kiedy słońce wyszło zza chmur i rozświetliło całe miasto.",
+      "To był moment, kiedy nasza drużyna strzeliła zwycięskiego gola."
+    ],
+    "b2": [
+      "To był moment, kiedy zrozumiałem, że dalsze prowadzenie tej działalności w dotychczasowej formie nie ma sensu.",
+      "To był moment, kiedy zarząd oficjalnie ogłosił fuzję z naszym głównym partnerem strategicznym.",
+      "To był moment, kiedy nasz system obsłużył milionowego użytkownika bez żadnych zakłóceń.",
+      "To był moment, kiedy klient po raz pierwszy publicznie pochwalił jakość naszych usług.",
+      "To był moment, kiedy kryzys finansowy w firmie osiągnął swój absolutny punkt kulminacyjny."
+    ],
+    "c1": [
+      "To był moment, kiedy paradygmat myślenia o bezpieczeństwie danych uległ w naszej organizacji trwałemu i nieodwracalnemu przełomowi.",
+      "To był moment, kiedy strukturalne napięcia w koalicji rządowej doprowadziły do jej ostatecznego, spektakularnego rozpadu.",
+      "To był moment, kiedy w procesie mediacji osiągnięto kruchy, lecz historyczny kompromis pokojowy.",
+      "To był moment, kiedy przełomowe odkrycie laboratoryjne zburzyło dziesięciolecia dogmatów w fizyce cząstek.",
+      "To był moment, kiedy masowy gniew społeczny przekształcił się w zorganizowany ruch rewolucyjny."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Krótko mówiąc, ...",
+    "translation": "To cut a long story short, ...",
+    "b1": [
+      "Krótko mówiąc, spóźniłem się na pociąg i musiałem czekać kolejną godzinę.",
+      "Krótko mówiąc, egzamin był łatwy i wszyscy zdali.",
+      "Krótko mówiąc, zgubiliśmy klucze i musieliśmy wezwać ślusarza.",
+      "Krótko mówiąc, pogoda zepsuła nam całe plany na weekend.",
+      "Krótko mówiąc, nowa restauracja okazała się wielkim rozczarowaniem."
+    ],
+    "b2": [
+      "Krótko mówiąc, mimo licznych problemów technicznych, udało nam się ukończyć projekt na czas.",
+      "Krótko mówiąc, klient odrzucił naszą ofertę ze względu na zbyt wysoką cenę.",
+      "Krótko mówiąc, zmiana strategii marketingowej uratowała naszą sprzedaż w tym kwartale.",
+      "Krótko mówiąc, z powodu strajku pracowników transportu utknęliśmy na lotnisku na całą noc.",
+      "Krótko mówiąc, audyt wykazał poważne zaniedbania w procedurach bezpieczeństwa."
+    ],
+    "c1": [
+      "Krótko mówiąc, skomplikowane manewry polityczne opozycji doprowadziły do całkowitego paraliżu prac parlamentarnych.",
+      "Krótko mówiąc, fundamentalne błędy metodologiczne unieważniły wnioski z wieloletnich badań nad tym lekiem.",
+      "Krótko mówiąc, systemowa korupcja w przetargach publicznych doprowadziła do bankructwa kluczowego wykonawcy.",
+      "Krótko mówiąc, gwałtowny zwrot w polityce monetarnej banku centralnego wywołał głęboki szok na rynkach walutowych.",
+      "Krótko mówiąc, zderzenie idealistycznych wizji projektantów z brutalną rzeczywistością budżetową zakończyło się fiaskiem."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Atmosfera była bardzo ...",
+    "translation": "The atmosphere was very ...",
+    "b1": [
+      "Atmosfera była bardzo miła podczas wczorajszej kolacji.",
+      "Atmosfera była bardzo napięta przed ogłoszeniem wyników egzaminu.",
+      "Atmosfera była bardzo luźna na naszym spotkaniu zespołowym.",
+      "Atmosfera była bardzo głośna i radosna na tej imprezie.",
+      "Atmosfera była bardzo spokojna w tej starej bibliotece."
+    ],
+    "b2": [
+      "Atmosfera była bardzo nerwowa w biurze tuż przed ostatecznym terminem oddania projektu.",
+      "Atmosfera była bardzo profesjonalna podczas negocjacji z nowymi inwestorami zagranicznymi.",
+      "Atmosfera była bardzo chłodna na spotkaniu z niezadowoloną grupą klientów.",
+      "Atmosfera była bardzo motywująca podczas warsztatów kreatywnych dla menedżerów.",
+      "Atmosfera była bardzo sceptyczna, kiedy przedstawiliśmy zarządowi nasz nowy pomysł."
+    ],
+    "c1": [
+      "Atmosfera była bardzo naładowana intelektualnym napięciem podczas debaty oksfordzkiej na temat etyki sztucznej inteligencji.",
+      "Atmosfera była bardzo konfrontacyjna na nadzwyczajnym posiedzeniu rady wydziału w sprawie kontrowersyjnych zwolnień.",
+      "Atmosfera była bardzo uroczysta i podniosła podczas ceremonii wręczenia nagród państwowych wybitnym twórcom.",
+      "Atmosfera była bardzo paraliżująca w sali narad, gdy wyszły na jaw dowody na celowe zatajenie raportu.",
+      "Atmosfera była bardzo specyficzna, niemal surrealistyczna, w zamkniętych kuluarach szczytu dyplomatycznego."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Gdybym miał/miała to opisać jednym słowem, powiedziałbym/powiedziałabym, że ...",
+    "translation": "If I had to describe it in one word, I'd say ...",
+    "b1": [
+      "Gdybym miał to opisać jednym słowem, powiedziałbym, że to było niesamowite.",
+      "Gdybym miała to opisać jednym słowem, powiedziałabym, że wyjazd był koszmarny.",
+      "Gdybym miał to opisać jednym słowem, powiedziałbym, że film był nudny.",
+      "Gdybym miała to opisać jednym słowem, powiedziałabym, że jedzenie było pyszne.",
+      "Gdybym miał to opisać jednym słowem, powiedziałbym, że test był trudny."
+    ],
+    "b2": [
+      "Gdybym miał to opisać jednym słowem, powiedziałbym, że ta konferencja była inspirująca.",
+      "Gdybym miała to opisać jednym słowem, powiedziałabym, że cała ta sytuacja była stresująca.",
+      "Gdybym miał to opisać jednym słowem, powiedziałbym, że nowy system jest wydajny.",
+      "Gdybym miała to opisać jednym słowem, powiedziałabym, że ta fuzja była ryzykowna.",
+      "Gdybym miał to opisać jednym słowem, powiedziałbym, że ten projekt był przełomowy."
+    ],
+    "c1": [
+      "Gdybym miał to opisać jednym słowem, powiedziałbym, że ta interwencja urbanistyczna była transformacyjna.",
+      "Gdybym miała to opisać jednym słowem, powiedziałabym, że tamta debata filozoficzna była redukcjonistyczna.",
+      "Gdybym miał to opisać jednym słowem, powiedziałbym, że system prawny w tej kwestii jest anachroniczny.",
+      "Gdybym miała to opisać jednym słowem, powiedziałabym, że ta hipoteza badawcza była rewolucyjna.",
+      "Gdybym miał to opisać jednym słowem, powiedziałbym, że kryzys w instytucji był chroniczny."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Najzabawniejszą częścią tego wszystkiego było to, że ...",
+    "translation": "The funniest part of the whole thing was ...",
+    "b1": [
+      "Najzabawniejszą częścią tego wszystkiego było to, że zapomniałem kluczy i musiałem wchodzić przez okno.",
+      "Najzabawniejszą częścią tego wszystkiego było to, że zamówiliśmy pizzę, a dostaliśmy zupę.",
+      "Najzabawniejszą częścią tego wszystkiego było to, że pomyliliśmy dni tygodnia i przyszliśmy dzień wcześniej.",
+      "Najzabawniejszą częścią tego wszystkiego było to, że mój kot ukradł kawałek kurczaka ze stołu.",
+      "Najzabawniejszą częścią tego wszystkiego było to, że całą drogę szedłem w różnych butach."
+    ],
+    "b2": [
+      "Najzabawniejszą częścią tego wszystkiego było to, że szef spóźnił się na spotkanie, które sam zwołał na siódmą rano.",
+      "Najzabawniejszą częścią tego wszystkiego było to, że przez godzinę kłóciliśmy się o strategię, która okazała się już dawno nieaktualna.",
+      "Najzabawniejszą częścią tego wszystkiego było to, że klient chwalił system, który w ogóle nie był jeszcze podłączony do bazy.",
+      "Najzabawniejszą częścią tego wszystkiego było to, że tłumacz pomylił nazwisko prezesa z nazwą zagranicznego miasta.",
+      "Najzabawniejszą częścią tego wszystkiego było to, że całe zamieszanie wynikło z jednej literówki w adresie mailowym."
+    ],
+    "c1": [
+      "Najzabawniejszą częścią tego wszystkiego było to, że prestiżowy międzynarodowy think tank oparł całą swoją analizę na satyrycznym artykule prasowym.",
+      "Najzabawniejszą częścią tego wszystkiego było to, że rygorystyczny audyt bezpieczeństwa wykazał, iż jedyną luką w systemie była niezablokowana przez portiera boczna brama.",
+      "Najzabawniejszą częścią tego wszystkiego było to, że radykalny manifest antykapitalistyczny został opublikowany przez fundację należącą do globalnego funduszu hedge.",
+      "Najzabawniejszą częścią tego wszystkiego było to, że wielomiesięczne spory sądowe zakończyły się ugodą z powodu błędu w tłumaczeniu jednego słowa łacińskiego.",
+      "Najzabawniejszą częścią tego wszystkiego było to, że przełomowy algorytm sztucznej inteligencji wygenerował nagrodzoną pracę naukową bazując na błędnie sformułowanym zapytaniu studenta pierwszego roku."
+    ]
+  }
+]

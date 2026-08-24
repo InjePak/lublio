@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Jak ..., tak ... jsou důležité, protože ...",
+    "translation": "Both ... and ... are important because ...",
+    "b1": [
+      "Jak sport, tak zdravá strava jsou důležité, protože nám pomáhají žít lépe.",
+      "Jak čas, tak peníze jsou důležité, protože je potřebujeme každý den.",
+      "Jak škola, tak odpočinek jsou důležité, protože udržují rovnováhu.",
+      "Jak přátelé, tak rodina jsou důležité, protože nás podporují.",
+      "Jak čtení, tak psaní jsou důležité, protože zlepšují jazyk."
+    ],
+    "b2": [
+      "Jak teoretická příprava, tak praktické zkušenosti jsou důležité, protože vedou k úspěchu v kariéře.",
+      "Jak inovace, tak stabilita jsou důležité, protože zajišťují dlouhodobý růst firmy.",
+      "Jak ekonomický růst, tak ochrana životního prostředí jsou důležité, protože ovlivňují budoucnost.",
+      "Jak jasná komunikace, tak vzájemná důvěra jsou důležité, protože budují silný tým.",
+      "Jak formální vzdělání, tak osobní rozvoj jsou důležité, protože formují naši osobnost."
+    ],
+    "c1": [
+      "Jak institucionální legitimita, tak veřejná participace jsou důležité, protože garantují stabilitu demokratického systému.",
+      "Jak strukturální flexibilita, tak dodržování regulatorních norem jsou důležité, protože eliminují systémová rizika.",
+      "Jak metodologická přísnost, tak inovativní heuristický přístup jsou důležité, protože posouvají hranice vědeckého poznání.",
+      "Jak makroekonomická stabilita, tak sociální soudržnost jsou důležité, protože zabraňují hlubokým společenským krizím.",
+      "Jak zachování kulturní identity, tak otevřenost globálním vlivům jsou důležité, protože obohacují společnost."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Na rozdíl od ..., nicméně ...",
+    "translation": "Unlike ..., however, ...",
+    "b1": [
+      "Na rozdíl od včerejška, nicméně, dneska svítí slunce.",
+      "Na rozdíl od mého bratra, nicméně, já mám raději čaj.",
+      "Na rozdíl od velkého města, nicméně, tady je velký klid.",
+      "Na rozdíl od zimy, nicméně, léto je mnohem teplejší.",
+      "Na rozdíl od starého auta, nicméně, toto je velmi tiché."
+    ],
+    "b2": [
+      "Na rozdíl od loňského roku, nicménè, letos máme mnohem vyšší zisk.",
+      "Na rozdíl od tradičních médií, nicméně, internetové platformy nabízejí okamžitou zpětnou vazbu.",
+      "Na rozdíl od mého předchůdce, nicméně, já preferuji flexibilní pracovní dobu.",
+      "Na rozdíl od původního plánu, nicméně, realizace trvala mnohem déle.",
+      "Na rozdíl od městského prostředí, nicméně, život na venkově vyžaduje jiné tempo."
+    ],
+    "c1": [
+      "Na rozdíl od rigidních struktur minulého století, nicméně, moderní organizace vyžadují fluidní síťové uspořádání.",
+      "Na rozdíl od intuitivního rozhodování, nicméně, současná strategie se opírá o prediktivní datovou analytiku.",
+      "Na rozdíl od decentralizovaných modelů, nicméně, centralizovaná správa zajišťuje přísnější kontrolu zdrojů.",
+      "Na rozdíl od liberálních tržních mechanismů, nicméně, tento sektor podléhá přísné státní regulaci.",
+      "Na rozdíl od povrchních kazuistik, nicméně, tato studie poskytuje hloubkový kauzální vhled."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Hlavní rozdíl mezi ... a ... spočívá v tom, že ...",
+    "translation": "The main difference between ... and ... is that ...",
+    "b1": [
+      "Hlavní rozdíl mezi psem a kočkou spočívá v tom, že pes potřebuje víc pozornosti.",
+      "Hlavní rozdíl mezi létem a zimou spočívá v tom, že v létě je tepleji.",
+      "Hlavní rozdíl mezi tímto a tamtím telefonem spočívá v tom, že tenhle má lepší fotoaparát.",
+      "Hlavní rozdíl mezi ním a mnou spočívá v tom, že on mluví lépe anglicky.",
+      "Hlavní rozdíl mezi kávou a čajem spočívá v tom, že káva má víc kofeinu."
+    ],
+    "b2": [
+      "Hlavní rozdíl mezi HPP a OSVČ spočívá v tom, že podnikatel nese veškeré riziko sám.",
+      "Hlavní rozdíl mezi veřejnou a soukromou školou spočívá v tom, že soukromá nabízí širší spektrum aktivit.",
+      "Hlavní rozdíl mezi touto a předchozí verzí softwaru spočívá v tom, že nová verze je mnohem rychlejší.",
+      "Hlavní rozdíl mezi oběma přístupy spočívá v tom, že jeden klade důraz na rychlost a druhý na kvalitu.",
+      "Hlavní rozdíl mezi nákupem a pronájmem spočívá v tom, že nájem nezatěžuje dlouhodobý majetek."
+    ],
+    "c1": [
+      "Hlavní rozdíl mezi deduktivní a induktivní metodou spočívá v tom, že dedukce vychází z obecných axiomů k specifickým závěrům.",
+      "Hlavní rozdíl mezi formální a neformální institucí spočívá v tom, že formální pravidla jsou kodifikována státem.",
+      "Hlavní rozdíl mezi monetární a fiskální politikou spočívá v tom, že fiskální nástroje spravuje přímo vláda skrze rozpočet.",
+      "Hlavní rozdíl mezi přímou a zastupitelskou demokracií spočívá v tom, že přímá zapojuje občany do každého hlasování.",
+      "Hlavní rozdíl mezi ontologickým a epistemologickým přístupem spočívá v tom, že se zaměřují na podstatu bytí versus způsob poznání."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "... je podobný/á/é ... v tom, že ...",
+    "translation": "... is similar to ... in that ...",
+    "b1": [
+      "Tento dům je podobný tomu starému v tom, že má velkou zahradu.",
+      "Moje práce je podobná tvé práci v tom, že pracujeme na počítači.",
+      "Tento film je podobný knize v tom, že vypráví o lásce.",
+      "Toto město je podobné Praze v tom, že má krásné centrum.",
+      "Můj pes je podobný tvému psu v tom, že rád běhá."
+    ],
+    "b2": [
+      "Tento projekt je podobný předchozímu v tom, že vyžaduje úzkou spolupráci s externími partnery.",
+      "Naše strategie je podobná konkurenční v tom, že sází na digitální marketing.",
+      "Tento systém je podobný starému řešení v tom, že využívá stejnou databázi.",
+      "Evropský trh je podobný americkému v tom, že silně reaguje na inflaci.",
+      "Tento jazyk je podobný češtině v tom, že má podobnou gramatickou strukturu."
+    ],
+    "c1": [
+      "Tento autoritářský režim je podobný historickým precedentům v tom, že systematicky potlačuje opozici.",
+      "Současná ekonomická krize je podobná té z roku 2008 v tom, že vychází z bubliny na trhu s aktivy.",
+      "Tento biologický mechanismus je podobný lidskému imunitnímu systému v tom, že rozpoznává cizorodé látky.",
+      "Nová legislativa je podobná předchozí normě v tom, že zavádí přísné sankce za porušení pravidel.",
+      "Tento lingvistický jev je podobný románským jazykům v tom, že vykazuje znaky analytického vývoje."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Zatímco ... má X, ... má Y.",
+    "translation": "While ... has X, ... has Y.",
+    "b1": [
+      "Zatímco můj pokoj má velké okno, tvůj pokoj má balkon.",
+      "Zatímco léto má teplé dny, zima má sníh.",
+      "Zatímco moje auto má klimatizaci, tvé auto má střešní okno.",
+      "Zatímco tento dům má zahradu, ten byt má terasu.",
+      "Zatímco on má modré oči, ona má hnědé oči."
+    ],
+    "b2": [
+      "Zatímco náš tým má silné technické zázemí, konkurenční tým má lepší marketing.",
+      "Zatímco město má skvělou dopravní obslužnost, venkov má čistý vzduch.",
+      "Zatímco tento model má vestavěnou GPS navigaci, levnější verze má pouze Bluetooth.",
+      "Zatímco stará budova má historický šarm, nová kancelář má moderní vybavení.",
+      "Zatímco první návrh má propracovanou teorii, druhý má lepší praktické využití."
+    ],
+    "c1": [
+      "Zatímco rozvinuté ekonomiky mají silný sektor služeb, rozvojové země mají vysoký podíl primární výroby.",
+      "Zatímco federální systém má rozdělené pravomoci, unitární stát má silnou centralizovanou vládu.",
+      "Zatímco kvantitativní výzkum má velký statistický vzorek, kvalitativní výzkum má hloubkový kontext.",
+      "Zatímco krystalická inteligence má kumulativní znalostní základ, fluidní inteligence má schopnost adaptivního uvažování.",
+      "Zatímco zvykové právo má flexibilní precedenční charakter, psané právo má kodifikovanou závaznost."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Na jedné straně ..., ale na druhé straně ...",
+    "translation": "On the one hand ..., but on the other hand, ...",
+    "b1": [
+      "Na jedné straně je to levné, ale na druhé straně je to špatná kvalita.",
+      "Na jedné straně chci jít ven, ale na druhé straně musím pracovat.",
+      "Na jedné straně je to zajímavé, ale na druhé straně těžké.",
+      "Na jedné straně miluji léto, ale na druhé straně nesnáším horko.",
+      "Na jedné straně chci jet autem, ale na druhé straně je vlak rychlejší."
+    ],
+    "b2": [
+      "Na jedné straně nám práce z domova šetří čas, ale na druhé straně oslabuje týmového ducha.",
+      "Na jedné straně přinášejí technologie větší efektivitu, ale na druhé straně zvyšují závislost na síti.",
+      "Na jedné straně oceňuji jeho kreativitu, ale na druhé straně mu chybí smysl pro detail.",
+      "Na jedné straně chceme expandovat rychle, ale na druhé straně musíme šetřit kapitál.",
+      "Na jedné straně nabízí město nekonečné možnosti, ale na druhé straně je velmi hlučné."
+    ],
+    "c1": [
+      "Na jedné straně globalizace stimuluje ekonomickou výměnu, ale na druhé straně způsobuje erozi lokálních kultur.",
+      "Na jedné straně umělá inteligence optimalizuje procesy, ale na druhé straně vyvolává vážné etické otázky.",
+      "Na jedné straně přísná regulace chrání spotřebitele, ale na druhé straně brzdí tržní inovace.",
+      "Na jedné straně kolektivní rozhodování zvyšuje legitimitu, ale na druhé straně zpomaluje akceschopnost.",
+      "Na jedné straně vědecký pokrok prodlužuje život, ale na druhé straně zatěžuje důchodový systém."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "V porovnání s ... je ...",
+    "translation": "In comparison to ..., ...",
+    "b1": [
+      "V porovnání s včerejškem je dnes mnohem tepleji.",
+      "V porovnání s mým autem je tvé auto mnohem větší.",
+      "V porovnání s tímto kurzem byl tamten mnohem lehčí.",
+      "V porovnání s loňským rokem mám víc peněz.",
+      "V porovnání s Prahou je toto město docela malé."
+    ],
+    "b2": [
+      "V porovnání s loňskými výsledky je letošní obrat o dvacet procent vyšší.",
+      "V porovnání s mým předchozím zaměstnáním mám teď větší svobodu.",
+      "V porovnání s klasickými knihami jsou e-knihy mnohem praktičtější na cesty.",
+      "V porovnání s konkurencí nabízíme lepší poměr ceny a výkonu.",
+      "V porovnání s předchozím modelem má tato televize ostřejší obraz."
+    ],
+    "c1": [
+      "V porovnání s historickými standardy je současná míra inflace bezprecedentně vysoká.",
+      "V porovnání s monolitickou architekturou je mikroslužbový systém mnohem škálovatelnější.",
+      "V porovnání s tradičními médii vykazují sociální sítě radikálně vyšší míru polarizace.",
+      "V porovnání s extenzivním růstem vyžaduje moderní ekonomika hlubokou technologickou efektivitu.",
+      "V porovnání s dřívějšími dekádami čelí dnešní generace odlišným sociálním výzvám."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Naopak, situace s ... je zcela odlišná.",
+    "translation": "Conversely, the situation with ... is quite different.",
+    "b1": [
+      "Tady je hezky. Naopak, situace s počasím v Praze je zcela odlišná.",
+      "Můj pokoj je tichý. Naopak, situace s bytem mých přátel je zcela odlišná.",
+      "Tento obchod má otevřeno. Naopak, situace s poštou je zcela odlišná.",
+      "Můj bratr studuje rád. Naopak, situace s mou sestrou je zcela odlišná.",
+      "Moje práce je lehká. Naopak, situace s tvou prací je zcela odlišná."
+    ],
+    "b2": [
+      "V našem oddělení panuje klid. Naopak, situace s prodejním týmem je zcela odlišná.",
+      "Naše firma roste. Naopak, situace s tradičním maloobchodem je zcela odlišná.",
+      "V Evropě ceny klesají. Naopak, situace s energiemi v zámoří je zcela odlišná.",
+      "Tento projekt běží podle plánu. Naopak, situace s marketingovou kampaní je zcela odlišná.",
+      "Město investuje do infrastruktury. Naopak, situace s venkovskými obcemi je zcela odlišná."
+    ],
+    "c1": [
+      "Sektor služeb vykazuje stabilní expanzi. Naopak, situace s těžkým průmyslem je zcela odlišná.",
+      "Západní trhy zaznamenávají likviditní přebytek. Naopak, situace s rozvíjejícími se ekonomikami je zcela odlišná.",
+      "Veřejný sektor láká na jistotu. Naopak, situace se soukromými technologickými start-upy je zcela odlišná.",
+      "Tento region těží z turistického ruchu. Naopak, situace s průmyslovým vnitrozemím je zcela odlišná.",
+      "Demokratické státy posilují transparentnost. Naopak, situace s autokratickými režimy je zcela odlišná."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Sdílejí několik společných rysů, jako například ...",
+    "translation": "They share several common characteristics, such as ...",
+    "b1": [
+      "Oba psi sdílejí několik společných rysů, jako například velkou sílu a černou srst.",
+      "Tyto dva domy sdílejí několik společných rysů, jako například velká okna.",
+      "Ostatní telefony sdílejí několik společných rysů, jako například dotykový displej.",
+      "Oba jazyky sdílejí několik společných rysů, jako například latinku.",
+      "Tyto sporty sdílejí několik společných rysů, jako například běh."
+    ],
+    "b2": [
+      "Oba operační systémy sdílejí několik společných rysů, jako například intuitivní uživatelské rozhraní.",
+      "Oba romány sdílejí několik společných rysů, jako například téma vnitřního boje.",
+      "Tyto dvě společnosti sdílejí několik společných rysů, jako například důraz na ekologii.",
+      "Oba vozy sdílejí několik společných rysů, jako například hybridní pohon.",
+      "Oba státy sdílejí několik společných rysů, jako například federální uspořádání."
+    ],
+    "c1": [
+      "Oba totalitní režimy sdílejí několik společných rysů, jako například monopolizaci informačních toků.",
+      "Tyto ekonomické modely sdílejí několik společných rysů, jako například předpoklad racionálního chování.",
+      "Oba lingvistické systémy sdílejí několik společných rysů, jako například morfologickou flexi.",
+      "Tyto dvě umělecké směry sdílejí několik společných rysů, jako například dekonstrukci formálních pravidel.",
+      "Oba právní řády sdílejí několik společných rysů, jako například ochranu základních lidských práv."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Míra ... je mnohem větší u ... než u ...",
+    "translation": "The degree of ... is much greater in ... than in ...",
+    "b1": [
+      "Míra stresu je mnohem větší u zkoušek než u běžného učení.",
+      "Míra hluku je mnohem větší ve městě než na vesnici.",
+      "Míra radosti je mnohem větší u dětí než u dospělých.",
+      "Míra zimy je mnohem větší na horách než v údolí.",
+      "Míra tepla je mnohem větší v létě než na jaře."
+    ],
+    "b2": [
+      "Míra nezaměstnanosti je mnohem větší v tomto regionu než v hlavním městě.",
+      "Míra inflace je mnohem větší u potravin než u průmyslového zboží.",
+      "Míra fluktuace zaměstnanců je mnohem větší v obchodu než v administrativě.",
+      "Míra využití digitálních nástrojů je mnohem větší u mladé generace než u seniorů.",
+      "Míra spokojenosti zákazníků je mnohem větší u prémiových služeb než u levných variant."
+    ],
+    "c1": [
+      "Míra příjmové nerovnosti je mnohem větší v rozvojových zemích než ve státech severní Evropy.",
+      "Míra strukturální korupce je mnohem větší v netransparentním prostředí než v zavedené demokracii.",
+      "Míra kognitivní zátěže je mnohem větší při multitaskingu než při hluboké soustředěné práci.",
+      "Míra ekonomické volatility je mnohem větší u komoditních trhů než u státních dluhopisů.",
+      "Míra demografického stárnutí je mnohem větší ve východní Evropě než v rozvojových oblastech."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Přestože ... je pravda, musíme také zvážit ...",
+    "translation": "Although ... is true, we must also consider ...",
+    "b1": [
+      "Přestože je pravda, že prší, musíme také zvážit, zda půjdeme ven.",
+      "Přestože je pravda, že je to drahé, musíme také zvážit kvalitu.",
+      "Přestože je pravda, že nemáme čas, musíme také dokončit úkol.",
+      "Přestože je pravda, že jsem unavený, musím také pomoci mámě.",
+      "Přestože je pravda, že je to daleko, musíme tam jet."
+    ],
+    "b2": [
+      "Přestože je pravda, že tento plán šetří peníze, musíme také zvážit bezpečnostní rizika.",
+      "Přestože je pravda, že systém funguje, musíme také zvážit budoucí škálovatelnost.",
+      "Přestože je pravda, že poptávka roste, musíme také zvážit omezené kapacity výroby.",
+      "Přestože je pravda, že kandidát má skvělé zkušenosti, musíme také zvážit jeho platové požadavky.",
+      "Přestože je pravda, že tato metoda je rychlá, musíme také zvážit chybovost."
+    ],
+    "c1": [
+      "Přestože je pravda, že ekonomika roste, musíme také zvážit dlouhodobou udržitelnost zdrojů.",
+      "Přestože je pravda, že digitalizace přináší efektivitu, musíme také zvážit ochranu osobních údajů.",
+      "Přestože je pravda, že dohoda přináší krátkodobé výhody, musíme také zvážit geopolitické dopady.",
+      "Přestože je pravda, že model přesně predikuje minulé chování, musíme také zvážit jeho limitace při změně podmínek.",
+      "Přestože je pravda, že reforma zvyšuje příjmy rozpočtu, musíme také zvážit její dopad na sociální smír."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Významným bodem odlišnosti je ...",
+    "translation": "A significant point of divergence is ...",
+    "b1": [
+      "Významným bodem odlišnosti je cena.",
+      "Významným bodem odlišnosti je barva.",
+      "Významným bodem odlišnosti je velikost.",
+      "Významným bodem odlišnosti je čas.",
+      "Významným bodem odlišnosti je chuť."
+    ],
+    "b2": [
+      "Významným bodem odlišnosti je přístup k zákaznickému servisu.",
+      "Významným bodem odlišnosti je způsob financování celého projektu.",
+      "Významným bodem odlišnosti je rychlost zpracování dat.",
+      "Významným bodem odlišnosti je strategie v oblasti marketingu.",
+      "Významným bodem odlišnosti je úroveň zabezpečení systému."
+    ],
+    "c1": [
+      "Významným bodem odlišnosti je odlišná interpretace ústavních pravomocí.",
+      "Významným bodem odlišnosti je teoretický základ pro analýzu tržních rizik.",
+      "Významným bodem odlišnosti je stupeň centralizace rozhodovacích procesů.",
+      "Významným bodem odlišnosti je postoj k dodržování mezinárodních environmentálních dohod.",
+      "Významným bodem odlišnosti je metodika výpočtu makroekonomických ukazatelů."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Jsou v zásadě podobní/é, až na ...",
+    "translation": "They are fundamentally similar, except for ...",
+    "b1": [
+      "Tyto dva telefony jsou v zásadě podobné, až na cenu.",
+      "Tyto dva domy jsou v zásadě podobné, až na barvu.",
+      "Tyto dvě knihy jsou v zásadě podobné, až na konec.",
+      "Tito dva kluci jsou v zásadě podobní, až na výšku.",
+      "Tyto dva stoly jsou v zásadě podobné, až na materiál."
+    ],
+    "b2": [
+      "Tyto dva programy jsou v zásadě podobné, až na uživatelské rozhraní.",
+      "Oba návrhy smlouvy jsou v zásadě podobné, až na výši odměny.",
+      "Tyto modely aut jsou v zásadě podobné, až na výkon motoru.",
+      "Oba hotely jsou v zásadě podobné, až na vzdálenost od pláže.",
+      "Tyto přístupy jsou v zásadě podobné, až na rychlost realizace."
+    ],
+    "c1": [
+      "Tyto ekonomické teorie jsou v zásadě podobné, až na chápání úlohy státních zásahů.",
+      "Oba právní systémy jsou v zásadě podobné, až na váhu přikládanou soudním precedentům.",
+      "Tyto dvě metodologie výzkumu jsou v zásadě podobné, až na způsob sběru primárních dat.",
+      "Oba politické programy jsou v zásadě podobné, až na priority v daňové oblasti.",
+      "Tyto organizační struktury jsou v zásadě podobné, až na stupeň autonomie poboček."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "... je mnohem účinnější než ..., protože ...",
+    "translation": "... is far more effective than ... because ...",
+    "b1": [
+      "Běhání je mnohem účinnější než chůze, protože spálíš víc kalorií.",
+      "Tento lék je mnohem účinnější než čaj, protože rychle zabere.",
+      "Teplá voda je mnohem účinnější než studená, protože lépe umyje nádobí.",
+      "Tento krém je mnohem účinnější než mýdlo, protože hydratuje pokožku.",
+      "Učení s kartičkami je mnohem účinnější než čtení, protože víc zapamatuješ."
+    ],
+    "b2": [
+      "Tento marketingový nástroj je mnohem účinnější než letáky, protože cílí přímo na mladé lidi.",
+      "Automatizace je mnohem účinnější než ruční zadávání, protože snižuje chybovost.",
+      "Osobní jednání je mnohem účinnější než e-mail, protože buduje větší důvěru.",
+      "Tento systém filtrace je mnohem účinnější než starý model, protože zachytí i jemný prach.",
+      "Pravidelný trénink je mnohem účinnější než nárazové cvičení, protože přináší trvalé výsledky."
+    ],
+    "c1": [
+      "Cílená monetární intervence je mnohem účinnější než plošná opatření, protože stabilizuje klíčová odvětví.",
+      "Interdisciplinární přístup je mnohem účinnější než izolovaný výzkum, protože odhaluje komplexní kauzální vazby.",
+      "Decentralizovaná síťová struktura je mnohem účinnější než rigidní hierarchie, protože zvyšuje celkovou odolnost systému.",
+      "Formální participativní management je mnohem účinnější než direktivní styl řízení, protože zvyšuje vnitřní motivaci týmu.",
+      "Proaktivní krizová komunikace je mnohem účinnější než reaktivní hašení problémů, protože chrání reputaci instituce."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Můžeme vést paralelu mezi ... a ...",
+    "translation": "We can draw a parallel between ... and ...",
+    "b1": [
+      "Můžeme vést paralelu mezi mým dětstvím a tvým dětstvím.",
+      "Můžeme vést paralelu mezi touto knihou a tím filmem.",
+      "Můžeme vést paralelu mezi dnešním dnem a včerejškem.",
+      "Můžeme vést paralelu mezi sportem a životem.",
+      "Můžeme vést paralelu mezi tímto městem a mým domovem."
+    ],
+    "b2": [
+      "Můžeme vést paralelu mezi současnou ekonomickou krizí a ropou z 70. let.",
+      "Můžeme vést paralelu mezi vývojem internetu a nástupem umělé inteligence.",
+      "Můžeme vést paralelu mezi touto firemní strategií a úspěchem start-upů v Silicon Valley.",
+      "Můžeme vést paralelu mezi osudem této říše a historickými pády velmocí.",
+      "Můžeme vést paralelu mezi sportovním tréninkem a přípravou na zkoušku."
+    ],
+    "c1": [
+      "Můžeme vést paralelu mezi pozdní fází Římské republiky a současnou krizí liberální demokracie.",
+      "Můžeme vést paralelu mezi industrializační vlnou a probíhající digitální transformací trhu práce.",
+      "Můžeme vést paralelu mezi historickou recepcí knihtisku a šířením dezinformací na sociálních sítích.",
+      "Můžeme vést paralelu mezi kvantovou mechanikou a strukturou sociálních sítí v moderní společnosti.",
+      "Můžeme vést paralelu mezi merkantilistickou protekcí a novodobými obchodními válkami."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Ani ..., ani ... neposkytuje ...",
+    "translation": "Neither ... nor ... provides ...",
+    "b1": [
+      "Ani tenhle obchod, ani ten druhý neposkytuje slevu.",
+      "Ani káva, ani čaj mi neposkytuje tolik energie.",
+      "Ani tento hotel, ani penzion neposkytuje snídani v ceně.",
+      "Ani autobus, ani vlak neposkytuje přímé spojení.",
+      "Ani moje auto, ani kolo neposkytuje dostatek místa."
+    ],
+    "b2": [
+      "Ani tradiční reklama, ani sociální sítě neposkytují stoprocentní záruku úspěchu.",
+      "Ani levný tarif, ani dražší balíček neposkytují neomezená data v zahraničí.",
+      "Ani tento software, ani konkurence neposkytují požadovanou úroveň zabezpečení.",
+      "Ani dočasná výpomoc, ani stálý nábor neposkytují okamžité řešení pro náš tým.",
+      "Ani veřejná škola, ani soukromé zařízení neposkytují dostatečnou podporu pro talenty."
+    ],
+    "c1": [
+      "Ani kvantitativní uvolňování, ani daňové škrty neposkytují dlouhodobý lék na strukturální inflaci.",
+      "Ani rigidní direktivní řízení, ani naprostá volnost neposkytují optimální prostředí pro inovace.",
+      "Ani striktní národní protekcionismus, ani neregulovaný trh neposkytují ochranu před globální krizí.",
+      "Ani formální právní rámec, ani neformální morální normy neposkytují dostatečnou záruku etického chování korporací.",
+      "Ani primární data, ani teoretické modely neposkytují bezchybný obraz reality bez hlubší kontextuální analýzy."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Když to vyvážíme proti ..., ... se zdá být ...",
+    "translation": "When balanced against ..., ... appears to be ...",
+    "b1": [
+      "Když to vyvážíme proti ceně, tento telefon se zdá být dobrý.",
+      "Když to vyvážíme proti úsilí, tento výsledek se zdá být skvělý.",
+      "Když to vyvážíme proti vzdálenosti, cesta se zdá být dlouhá.",
+      "Když to vyvážíme proti počasí, výlet se zdá být riskantní.",
+      "Když to vyvážíme proti času, práce se zdá být těžká."
+    ],
+    "b2": [
+      "Když to vyvážíme proti vysokým nákladům, tato investice se zdá být příliš riziková.",
+      "Když to vyvážíme proti přínosům pro tým, nová změna se zdá být užitečná.",
+      "Když to vyvážíme proti omezenému rozpočtu, tato nabídka se zdá být nejlepší.",
+      "Když to vyvážíme proti časové náročnosti, kurz se zdá být velmi efektivní.",
+      "Když to vyvážíme proti zpětné vazbě klientů, projekt se zdá být úspěšný."
+    ],
+    "c1": [
+      "Když to vyvážíme proti systémovým rizikům, toto opatření centrální banky se zdá být nevyhnutelné.",
+      "Když to vyvážíme proti dlouhodobým environmentálním škodám, tento růst se zdá být iluzorní.",
+      "Když to vyvážíme proti přísným etickým standardům, tato studie se zdá být neobhajitelná.",
+      "Když to vyvážíme proti politickým nákladům, reforma se zdá být politicky sebevražedná.",
+      "Když to vyvážíme proti teoretické validitě, tento model se zdá být příliš zjednodušený."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "V jejich přístupu k ... je patrný ostrý kontrast.",
+    "translation": "There is a stark contrast in their approach to ...",
+    "b1": [
+      "V jejich přístupu k práci je patrný ostrý kontrast.",
+      "V jejich přístupu k penězům je patrný ostrý kontrast.",
+      "V jejich přístupu ke studiu je patrný ostrý kontrast.",
+      "V jejich přístupu k módě je patrný ostrý kontrast.",
+      "V jejich přístupu k vaření je patrný ostrý kontrast."
+    ],
+    "b2": [
+      "V jejich přístupu k řešení krizových situací je patrný ostrý kontrast.",
+      "V jejich přístupu k ochraně životního prostředí je patrný ostrý kontrast.",
+      "V jejich přístupu k inovacím a vývoji je patrný ostrý kontrast.",
+      "V jejich přístupu k rozvoji zaměstnanců je patrný ostrý kontrast.",
+      "V jejich přístupu k marketingu a propagaci je patrný ostrý kontrast."
+    ],
+    "c1": [
+      "V jejich přístupu k fiskální disciplíně a zadlužování státu je patrný ostrý kontrast.",
+      "V jejich přístupu k ochraně soukromí a zpracování dat je patrný ostrý kontrast.",
+      "V jejich přístupu k regulaci trhu a podpoře podnikání je patrný ostrý kontrast.",
+      "V jejich přístupu k zahraniční politice a mecoasijským aliancím je patrný ostrý kontrast.",
+      "V jejich přístupu k integraci menšin do společnosti je patrný ostrý kontrast."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Podoba spočívá v tom, že ...",
+    "translation": "The similarity lies in the fact that ...",
+    "b1": [
+      "Podoba spočívá v tom, že oba milují sport.",
+      "Podoba spočívá v tom, že oba domy mají červenou střechu.",
+      "Podoba spočívá v tom, že oba stojí stejně.",
+      "Podoba spočívá v tom, že oba mluví česky.",
+      "Podoba spočívá v tom, že oba chtějí jet k moři."
+    ],
+    "b2": [
+      "Podoba spočívá v tom, že obě firmy staví svůj úspěch na kvalitním servisu.",
+      "Podoba spočívá v tom, že oba systémy vyžadují pravidelnou aktualizaci.",
+      "Podoba spočívá v tom, že obě knihy popisují stejné historické období.",
+      "Podoba spočívá v tom, že oba projekty cílí na mladé podnikatele.",
+      "Podoba spočívá v tom, že obě strany odmítají jakýkoliv kompromis."
+    ],
+    "c1": [
+      "Podoba spočívá v tom, že oba ekonomické systémy generují strukturální nerovnováhu.",
+      "Podoba spočívá v tom, že oba vědecké týmy vycházejí z identických chyb nulté hypotézy.",
+      "Podoba spočívá v tom, že obě formace využívají stejné rétorické strategie k manipulaci veřejnosti.",
+      "Podoba spočívá v tom, že obě právní normy vykazují stejné mezerovité vymezení kompetencí.",
+      "Podoba spočívá v tom, že obě civilizace dospěly ke kolapsu v důsledku vyčerpání ekosystému."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Při vzájemném srovnání ... jasně překonává ...",
+    "translation": "Compared side by side, ... clearly outperforms ...",
+    "b1": [
+      "Při vzájemném srovnání toto auto jasně překonává to staré.",
+      "Při vzájemném srovnání můj tým jasně překonává soupeře.",
+      "Při vzájemném srovnání tento telefon jasně překonává levnější model.",
+      "Při vzájemném srovnání tato káva jasně překonává levnou instantní.",
+      "Při vzájemném srovnání tento hotel jasně překonává penzion."
+    ],
+    "b2": [
+      "Při vzájemném srovnání náš software jasně překonává konkurenční řešení v rychlosti.",
+      "Při vzájemném srovnání letošní model jasně překonává předchozí generaci v úspoře energie.",
+      "Při vzájemném srovnání tato strategie jasně překonává starý přístup v efektivitě.",
+      "Při vzájemném srovnání naše agentura jasně překonává trh v počtu úspěšných zakázek.",
+      "Při vzájemném srovnání tento materiál jasně překonává běžný plast svou odolností."
+    ],
+    "c1": [
+      "Při vzájemném srovnání decentralizovaná architektura jasně překonává monolitické systémy v celkové škálovatelnosti.",
+      "Při vzájemném srovnání empirická analýza jasně překonává teoretické spekulace v prediktivní validitě.",
+      "Při vzájemném srovnání moderní syntetické materiály jasně překonávají přírodní suroviny v mechanické pevnosti.",
+      "Při vzájemném srovnání hybridní model výuky jasně překonává čistě prezenční formu v flexibilitě studentů.",
+      "Při vzájemném srovnání prediktivní analytika jasně překonává reaktivní statistiky v prevenci provozních výpadků."
+    ]
+  }
+]

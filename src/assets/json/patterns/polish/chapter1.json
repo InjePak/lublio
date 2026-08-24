@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Moim zdaniem, ...",
+    "translation": "In my opinion, ...",
+    "b1": [
+      "Moim zdaniem, ten film jest bardzo interesujący.",
+      "Moim zdaniem, powinniśmy jeść więcej warzyw.",
+      "Moim zdaniem, miasto jest latem zbyt głośne.",
+      "Moim zdaniem, nauka polskiego to dobre wyzwanie.",
+      "Moim zdaniem, dziś po południu będzie padać."
+    ],
+    "b2": [
+      "Moim zdaniem, rząd powinien więcej inwestować w odnawialne źródła energii.",
+      "Moim zdaniem, praca zdalna sprzyja lepszemu balansowi między życiem zawodowym a prywatnym.",
+      "Moim zdaniem, ta reforma nie spełnia oczekiwań obywateli.",
+      "Moim zdaniem, niezwykle ważne jest uświadamianie młodych ludzi w kwestii ochrony środowiska.",
+      "Moim zdaniem, globalizacja ma złożony wpływ na lokalne kultury."
+    ],
+    "c1": [
+      "Moim zdaniem, wszechobecność technologii cyfrowej podstępnie zaburza nasze zdolności koncentracji.",
+      "Moim zdaniem, ten problem nie może zostać rozwiązany bez zwiększonych konsultacji międzynarodowych.",
+      "Moim zdaniem, estetyka tego dzieła przekracza tradycyjne kody epoki.",
+      "Moim zdaniem, złudne byłoby przekonanie, że wzrost gospodarczy może być nieskończony.",
+      "Moim zdaniem, prekaryzacja zatrudnienia stanowi główną barierę dla samorealizacji społecznej."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Wierzę, że ...",
+    "translation": "I believe that ...",
+    "b1": [
+      "Wierzę, że wszystko będzie dobrze.",
+      "Wierzę, że edukacja jest kluczem do sukcesu.",
+      "Wierzę, że ludzie są z natury dobrí.",
+      "Wierzę, że warto marzyć.",
+      "Wierzę, że ta praca przyniesie mi satysfakcję."
+    ],
+    "b2": [
+      "Wierzę, że innowacje technologiczne mogą rozwiązać problem zmiany klimatu.",
+      "Wierzę, że szczerość jest podstawą każdego trwałego związku.",
+      "Wierzę, że kultura ma moc zmieniania świata.",
+      "Wierzę, że każdy ma prawo do równego traktowania.",
+      "Wierzę, że wysiłek włożony w ten projekt przyniesie owoce."
+    ],
+    "c1": [
+      "Wierzę, że transcendentny wymiar sztuki ucieka racjonalnej analizie.",
+      "Wierzę, że fundamentalne wartości etyczne muszą dominować nad pragmatyzmem politycznym.",
+      "Wierzę, że kolektywna świadomość ewoluuje w stronę głębszej empatii ekologicznej.",
+      "Wierzę, że bezwzględna wolność słowa stanowi warunek sine qua non demokracji.",
+      "Wierzę, że subiektywność doświadczenia ludzkiego opiera się wszelkim unifikującym teoriom."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Wydaje mi się, że ...",
+    "translation": "It seems to me that ...",
+    "b1": [
+      "Wydaje mi się, że zapomniałem kluczy.",
+      "Wydaje mi się, że to dobra decyzja.",
+      "Wydaje mi się, że on ma rację.",
+      "Wydaje mi się, że sklep jest już zamknięty.",
+      "Wydaje mi się, że spotkaliśmy się wcześniej."
+    ],
+    "b2": [
+      "Wydaje mi się, że ten problem wymaga głębszej analizy.",
+      "Wydaje mi się, że nasza strategia marketingowa wymaga modyfikacji.",
+      "Wydaje mi się, że relacje między dwoma krajami ulegają poprawie.",
+      "Wydaje mi się, że konsumenci stają się bardziej świadomi swoich praw.",
+      "Wydaje mi się, że ten cel jest w zasięgu naszej ręki."
+    ],
+    "c1": [
+      "Wydaje mi się, że strukturalne sprzeczności tego systemu doprowadzą do jego nieuchronnego upadku.",
+      "Wydaje mi się, że subtelne niuanse tej dyplomatycznej negocjacji zostały zignorowane.",
+      "Wydaje mi się, że epistemologiczne podstawy tego nurtu naukowego są wątpliwe.",
+      "Wydaje mi się, że rosnąca polaryzacja społeczna zagraża spójności narodowej.",
+      "Wydaje mi się, że ta filozoficzna koncepcja wyprzedziła swoją epokę."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Z mojej perspektywy, ...",
+    "translation": "From my perspective, ...",
+    "b1": [
+      "Z mojej perspektywy, ta praca jest bardzo ciekawa.",
+      "Z mojej perspektywy, sytuacja wygląda zupełnie inaczej.",
+      "Z mojej perspektywy, nauka języków obcych otwiera drzwi.",
+      "Z mojej perspektywy, ten plan jest zbyt skomplikowany.",
+      "Z mojej perspektywy, podróże bardzo rozwijają."
+    ],
+    "b2": [
+      "Z mojej perspektywy, elastyczność godzin pracy jest kluczowa dla pracowników.",
+      "Z mojej perspektywy, transformacja cyfrowa niesie ze sobą zarówno szanse, jak i zagrożenia.",
+      "Z mojej perspektywy, inwestycje w kapitał ludzki przynoszą najlepsze rezultaty.",
+      "Z mojej perspektywy, lokalne społeczności potrzebują większej niezależności.",
+      "Z mojej perspektywy, ta zmiana przepisów wpłynie negatywnie na małe przedsiębiorstwa."
+    ],
+    "c1": [
+      "Z mojej perspektywy, globalna nierównowaga ekonomiczna stwarza systemowe ryzyko dla stabilności.",
+      "Z mojej perspektywy, redefinicja tradycyjnych ról społecznych rezonuje w całej architekturze instytucjonalnej.",
+      "Z mojej perspektywy, hermetyczność dyskursu akademickiego oddala go od realnych problemów obywateli.",
+      "Z mojej perspektywy, technologiczna singularność nie jest już tylko hipotezą science-fiction.",
+      "Z mojej perspektywy, geopolityczna zmiana wektorów siły na świecie wymaga rewizji naszych sojuszy."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Mam silne przekonanie, że ...",
+    "translation": "I strongly feel that ...",
+    "b1": [
+      "Mam silne przekonanie, że nam się uda.",
+      "Mam silne przekonanie, że warto pomagać innym.",
+      "Mam silne przekonanie, że prawda zawsze wychodzi na jaw.",
+      "Mam silne przekonanie, że ten wybór był właściwy.",
+      "Mam silne przekonanie, że sport uczy dyscypliny."
+    ],
+    "b2": [
+      "Mam silne przekonanie, że etyka biznesowa jest ważniejsza niż szybki zysk.",
+      "Mam silne przekonanie, że edukacja powinna być darmowa na wszystkich poziomach.",
+      "Mam silne przekonanie, że dialog jest jedynym sposobem rozwiązania tego konfliktu.",
+      "Mam silne przekonanie, że ochrona prywatności w sieci to fundamentalne prawo.",
+      "Mam silne przekonanie, że sztuka potrafi leczyć dusze."
+    ],
+    "c1": [
+      "Mam silne przekonanie, że bezwarunkowy dochód podstawowy stanie się wkrótce ekonomiczną koniecznością.",
+      "Mam silne przekonanie, że dehumanizacja w przestrzeni wirtualnej zagraża naszej strukturze społecznej.",
+      "Mam silne przekonanie, że integralność naukowa została naruszona przez presję komercyjną.",
+      "Mam silne przekonanie, że dziedzictwo kulturowe wymaga aktywnej ochrony przed komercjalizacją.",
+      "Mam silne przekonanie, że instinkt solidarności przetrwa kryzysy współczesności."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Twierdziłbym, że ...",
+    "translation": "I would argue that ...",
+    "b1": [
+      "Twierdziłbym, że ten film jest lepszy od książki.",
+      "Twierdziłbym, że technologia nam pomaga, a nie szkodzi.",
+      "Twierdziłbym, że czas wolny jest ważniejszy niż pieniądze.",
+      "Twierdziłbym, że ten miasto ma najlepsze jedzenie.",
+      "Twierdziłbym, że nauka języka wymaga przede wszystkim odwagi."
+    ],
+    "b2": [
+      "Twierdziłbym, że media społecznościowe częściej dzielą ludzi, niż ich łączą.",
+      "Twierdziłbym, że system edukacji nie nadąża za zmianami na rynku pracy.",
+      "Twierdziłbym, że globalizacja przyczynia się do zaniku tradycyjnych rzemiosł.",
+      "Twierdziłbym, że sztuczna inteligencja zrewolucjonizuje sektor opieki zdrowotnej.",
+      "Twierdziłbym, że turystyka masowa niszczy autentyczność historycznych miejsc."
+    ],
+    "c1": [
+      "Twierdziłbym, że postpozytywistyczna epistemologia radykalnie zmieniła sposób prowadzenia badań.",
+      "Twierdziłbym, że współczesna kultura spektaklu wypacza istotę debaty demokratycznej.",
+      "Twierdziłbym, że neoliberalny paradygmat wzrostu wyczerpał swój potencjał rozwojowy.",
+      "Twierdziłbym, że estetyzacja polityki prowadzi nieuchronnie do erozji krytycznego myślenia.",
+      "Twierdziłbym, że prawna ochrona praw własności intelektualnej hamuje innowacje otwarte."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Chodzi mi o to, że ...",
+    "translation": "What I mean is, ...",
+    "b1": [
+      "Chodzi mi o to, że musimy zacząć wcześniej.",
+      "Chodzi mi o to, że ten kolor do ciebie nie pasuje.",
+      "Chodzi mi o to, że nie mam czasu w tym tygodniu.",
+      "Chodzi mi o to, żebyśmy zrobili to razem.",
+      "Chodzi mi o to, że pogoda jest dzisiaj okropna."
+    ],
+    "b2": [
+      "Chodzi mi o to, że nie chodzi o same pieniądze, ale o zaangażowanie.",
+      "Chodzi mi o to, że powinniśmy najpierw przetestować ten produkt na małej grupie.",
+      "Chodzi mi o to, że zasady muszą być jasne dla każdego pracownika.",
+      "Chodzi mi o to, że stres w pracy odbija się na naszym życiu prywatnym.",
+      "Chodzi mi o to, że ta inwestycja zwróci się dopiero za kilka lat."
+    ],
+    "c1": [
+      "Chodzi mi o to, że semantyczna wieloznaczność tego pojęcia generuje nieporozumienia interpretacyjne.",
+      "Chodzi mi o to, że strukturalna nierówność nie wynika z jednostkowych wyborów, lecz z mechanizmów systemowych.",
+      "Chodzi mi o to, że pozorna neutralność algorytmów ukrywa głęboko zakorzenione uprzedzenia.",
+      "Chodzi mi o to, że instytucjonalna inercja skutecznie blokuje wszelkie próby głębokich reform.",
+      "Chodzi mi o to, że fenomen ten wymyka się prostym dychotomiom binarnym."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Jeśli mnie pytaśz, ...",
+    "translation": "If you ask me, ...",
+    "b1": [
+      "Jeśli mnie pytaśz, to miasto jest za drogie.",
+      "Jeśli mnie pytaśz, powinniśmy iść na pizzę.",
+      "Jeśli mnie pytaśz, ten test był bardzo trudny.",
+      "Jeśli mnie pytaśz, lepiej zostać dzisiaj w domu.",
+      "Jeśli mnie pytaśz, jego nowa piosenka jest świetna."
+    ],
+    "b2": [
+      "Jeśli mnie pytaśz, ta zmiana w grafiku to totalny chaos.",
+      "Jeśli mnie pytaśz, firma powinna zaoferować nam lepsze warunki.",
+      "Jeśli mnie pytaśz, ten projekt nie ma szans na powodzenie bez dodatkowego wsparcia.",
+      "Jeśli mnie pytaśz, powinniśmy zorganizować spotkanie z klientem jak najszybciej.",
+      "Jeśli mnie pytaśz, nowoczesne technologie ułatwiają życie, ale też uzależniają."
+    ],
+    "c1": [
+      "Jeśli mnie pytaśz, technokratyczne podejście do polityki społecznej całkowicie pomija wymiar ludzki.",
+      "Jeśli mnie pytaśz, eskalacja konfliktów geopolitycznych ma swoje źródło w głębokich kryzysach tożsamościowych.",
+      "Jeśli mnie pytaśz, dogmatyczna wiara w samoregulację rynku jest historycznie zdyskredytowana.",
+      "Jeśli mnie pytaśz, instytucjonalna korupcja podkopuje fundamenty państwa prawa.",
+      "Jeśli mnie pytaśz, ta artystyczna prowokacja przekroczyła granice dobrego smaku."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "W pełni się zgadzam z ...",
+    "translation": "I couldn't agree more with ...",
+    "b1": [
+      "W pełni się zgadzam z twoją opinią.",
+      "W pełni się zgadzam z tym pomysłem.",
+      "W pełni się zgadzam z tym, co powiedziałeś.",
+      "W pełni się zgadzam z Anną w tej sprawie.",
+      "W pełni się zgadzam z tym wyborem."
+    ],
+    "b2": [
+      "W pełni się zgadzam z argumentami przedstawionymi w tym artykule.",
+      "W pełni się zgadzam z tezą, że elastyczność jest kluczem do sukcesu.",
+      "W pełni się zgadzam z decyzją zarządu o restrukturyzacji.",
+      "W pełni się zgadzam z poglądem, że edukacja ekologiczna musi zacząć się w przedszkolu.",
+      "W pełni się zgadzam z oceną sytuacji dokonaną przez eksperta."
+    ],
+    "c1": [
+      "W pełni się zgadzam z krytyczną diagnozą współczesnego konsumpcjonizmu postawioną przez autora.",
+      "W pełni się zgadzam z koncepcją, że tożsamość kulturowa jest procesem ciągłego stawania się.",
+      "W pełni się zgadzam z argumentacją dotyczącą destrukcyjnego wpływu monokultur rolniczych na bioróżnorodność.",
+      "W pełni się zgadzam z tezą o konieczności dekolonizacji wiedzy w naukach humanistycznych.",
+      "W pełni się zgadzam z ujęciem relacji władzy i wiedzy w myśli Foucaulta."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "To słuszny punkt, ale ...",
+    "translation": "That's a valid point, but ...",
+    "b1": [
+      "To słuszny punkt, ale ja widzę to inaczej.",
+      "To słuszny punkt, ale musimy się spieszyć.",
+      "To słuszny punkt, ale zapominasz o kosztach.",
+      "To słuszny punkt, ale wolę zrobić to po swojemu.",
+      "To słuszny punkt, ale nie mamy na to czasu."
+    ],
+    "b2": [
+      "To słuszny punkt, ale musimy również wziąć pod uwagę zdanie klientów.",
+      "To słuszny punkt, ale budżet nie pozwala nam na takie działania.",
+      "To słuszny punkt, ale termin realizacji jest zbyt krótki, by to wdrożyć.",
+      "To słuszny punkt, ale przepisy prawne uniemożliwiają nam to rozwiązanie.",
+      "To słuszny punkt, ale długoterminowe skutki mogą być inne."
+    ],
+    "c1": [
+      "To słuszny punkt, ale abstrahuje od makroekonomicznych uwarunkowań kryzysu.",
+      "To słuszny punkt, ale całkowicie ignoruje historyczny kontekst kształtowania się tych instytucji.",
+      "To słuszny punkt, ale opiera się na redukcjonistycznym założeniu mechanizmów rynkowych.",
+      "To słuszny punkt, ale pomija milczeniem etyczne implikacje takiego wyboru.",
+      "To słuszny punkt, ale zakłada binarną opozycję tam, gdzie istnieje całe spektrum odcieni."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Pozwalam sobie mieć inne zdanie na temat ...",
+    "translation": "I beg to differ on ...",
+    "b1": [
+      "Pozwalam sobie mieć inne zdanie na temat tego filmu.",
+      "Pozwalam sobie mieć inne zdanie na temat jego zachowania.",
+      "Pozwalam sobie mieć inne zdanie na ten temat.",
+      "Pozwalam sobie mieć inne zdanie na temat tej propozycji.",
+      "Pozwalam sobie mieć inne zdanie na temat wczorajszego spotkania."
+    ],
+    "b2": [
+      "Pozwalam sobie mieć inne zdanie na temat strategii rozwoju firmy na kolejny rok.",
+      "Pozwalam sobie mieć inne zdanie na temat skuteczności tej kampanii reklamowej.",
+      "Pozwalam sobie mieć inne zdanie na temat oceny wyników finansowych za III kwartał.",
+      "Pozwalam sobie mieć inne zdanie na temat priorytetów naszego działu.",
+      "Pozwalam sobie mieć inne zdanie na temat przyczyn tego niepowodzenia."
+    ],
+    "c1": [
+      "Pozwalam sobie mieć inne zdanie na temat ontologicznego statusu sztucznej inteligencji.",
+      "Pozwalam sobie mieć inne zdanie na temat interpretacji tych wyników badań klinicznych.",
+      "Pozwalam sobie mieć inne zdanie na temat rzekomej nieuchronności globalizacji ekonomicznej.",
+      "Pozwalam sobie mieć inne zdanie na temat mechanizmów dziedziczenia kulturowego w ujęciu Pierre'a Bourdieu.",
+      "Pozwalam sobie mieć inne zdanie na temat spójności wewnętrznej tego systemu filozoficznego."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Choć rozumiem, że ..., to nadal uważam, że ...",
+    "translation": "While I understand that ..., I still feel ...",
+    "b1": [
+      "Choć rozumiem, że jesteś zmęczony, to nadal uważam, że powinniśmy to skończyć.",
+      "Choć rozumiem, że to drogie, to nadal uważam, że warto to kupić.",
+      "Choć rozumiem, że się boisz, to nadal uważam, że powinieneś spróbować.",
+      "Choć rozumiem, że nie masz czasu, to nadal uważam, że to ważne.",
+      "Choć rozumiem, że pogoda jest zła, to nadal uważam, że spacer dobrze nam zrobi."
+    ],
+    "b2": [
+      "Choć rozumiem, że koszty są wysokie, to nadal uważam, że inwestycja w jakość się opłaci.",
+      "Choć rozumiem, że zmiana wywołuje opór, to nadal uważam, że jest ona konieczna dla rozwoju.",
+      "Choć rozumiem, że procedury są skomplikowane, to nadal uważam, że musimy ich przestrzegać.",
+      "Choć rozumiem, że brakuje nam rąk do pracy, to nadal uważam, że nie powinniśmy obniżać standardów.",
+      "Choć rozumiem, że obawiasz się ryzyka, to nadal uważam, że gra jest w to warta świeczki."
+    ],
+    "c1": [
+      "Choć rozumiem, że względy bezpieczeństwa narodowego są priorytetem, to nadal uważam, że naruszają one wolności obywatelskie w sposób nieproporcjonalny.",
+      "Choć rozumiem, że strukturalne reformy budzą lęk społeczny, to nadal uważam, że ich odkładanie pogłębia kryzys.",
+      "Choć rozumiem, że autonomia uniwersytetu bywa uciążliwa dla administracji, to nadal uważam, że stanowi ona fundament wolności akademickiej.",
+      "Choć rozumiem, że technokratyczna efektywność kusi decydentów, to nadal uważam, że pozbawia ona decyzje wymiaru demokratycznego.",
+      "Choć rozumiem, że subiektywny punkt widzenia artysty może budzić kontrowersje, to nadal uważam, że prawo do ekspresji jest nienaruszalne."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Przy całym szacunku, ...",
+    "translation": "With all due respect, ...",
+    "b1": [
+      "Przy całym szacunku, nie masz racji w tej sprawie.",
+      "Przy całym szacunku, muszę się z tobą nie zgodzić.",
+      "Przy całym szacunku, to nie jest mój problem.",
+      "Przy całym szacunku, oczekiwałem czegoś innego.",
+      "Przy całym szacunku, robiłeś to w zły sposób."
+    ],
+    "b2": [
+      "Przy całym szacunku dla twojego doświadczenia, ta metoda nie sprawdzi się w tym przypadku.",
+      "Przy całym szacunku, te dane statystyczne nie odzwierciedlają rzeczywistej sytuacji na rynku.",
+      "Przy całym szacunku dla zarządu, decyzja ta została podjęta bez konsultacji z zespołem.",
+      "Przy całym szacunku, Twoje argumenty brzmią mało wiarygodnie w świetle nowych faktów.",
+      "Przy całym szacunku, nie możemy dłużej akceptować takich opóźnień."
+    ],
+    "c1": [
+      "Przy całym szacunku dla dotychczasowego dorobku naukowego autora, jego najnowsza publikacja opiera się na metodologicznym błędzie.",
+      "Przy całym szacunku dla tradycyjnych nurtów interpretacyjnych, ignorują one współczesne odkrycia lingwistyki kognitywnej.",
+      "Przy całym szacunku dla ekspertyzy ekonomicznej rządzących, całkowicie zignorowali oni koszty społeczne transformacji.",
+      "Przy całym szacunku dla powagi instytucji, jej obecna polityka kadrowa stoi w sprzeczności z jej statutem.",
+      "Przy całym szacunku dla uniwersalistycznych roszczeń tego systemu filozoficznego, jest on głęboko osadzony w konkretnym kontekście kulturowym."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Nie jestem do końca pewien / pewna, czy ...",
+    "translation": "I'm not entirely sure about ...",
+    "b1": [
+      "Nie jestem do końca pewien, czy to dobry pomysł.",
+      "Nie jestem do końca pewna, czy dobrze cię zrozumiałam.",
+      "Nie jestem do końca pewien, czy zdążymy na pociąg.",
+      "Nie jestem do końca pewna, co powinnam zrobić.",
+      "Nie jestem do końca pewien, czy ten adres jest poprawny."
+    ],
+    "b2": [
+      "Nie jestem do końca pewien, czy nasza strategia przyniesie oczekiwane rezultaty w wyznaczonym terminie.",
+      "Nie jestem do końca pewna, czy ten kandydat posiada wystarczające doświadczenie menedżerskie.",
+      "Nie jestem do końca pewien, czy te przepisy jednoznacznie regulują kwestię pracy zdalnej z zagranicy.",
+      "Nie jestem do końca pewna, czy budżet na ten projekt jest realistyczny.",
+      "Nie jestem do końca pewien, czy podjęcie ryzyka w tym momencie jest bezpieczne."
+    ],
+    "c1": [
+      "Nie jestem do końca pewien, czy epistemologiczne założenia tego modelu matematycznego są w pełni uprawnione.",
+      "Nie jestem do końca pewna, czy hermeneutyczna analiza tego tekstu literackiego wyczerpuje jego sensy.",
+      "Nie jestem do końca pewien, czy długoterminowe konsekwencje tej innowacji biotechnologicznej zostały należycie zbadane.",
+      "Nie jestem do końca pewna, czy uniwersalne stosowanie tych wskaźników efektywności ma sens w tak zróżnicowanym kontekście kulturowym.",
+      "Nie jestem do końca pewien, czy legitymizacja demokratyczna tej decyzji jest wystarczająco silna."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Czy mógłbyś / mogłabyś rozwinać tę myśl na temat ...?",
+    "translation": "Could you elaborate on ...?",
+    "b1": [
+      "Czy mógłbyś rozwinąć tę myśl na temat swojego nowego projektu?",
+      "Czy mogłabyś rozwinąć tę myśl na temat planów wakacyjnych?",
+      "Czy mógłbyś rozwinąć tę myśl na temat tej książki?",
+      "Czy mogłabyś rozwinąć tę myśl na temat wczorajszej rozmowy?",
+      "Czy mógłbyś rozwinąć tę myśl na temat swojego hobby?"
+    ],
+    "b2": [
+      "Czy mógłbyś rozwinąć tę myśl na temat strategii marketingowej, którą przed chwilą wspomniałeś?",
+      "Czy mogłabyś rozwinąć tę myśl na temat zmian w strukturze naszej organizacji?",
+      "Czy mógłbyś rozwinąć tę myśl na temat kryteriów oceny naszych pracowników?",
+      "Czy mogłabyś rozwinąć tę myśl na temat wyzwań związanych z ekspansją na rynki zagraniczne?",
+      "Czy mógłbyś rozwinąć tę myśl na temat optymalizacji kosztów operacyjnych?"
+    ],
+    "c1": [
+      "Czy mógłbyś rozwinąć tę myśl na temat dekonstrukcji binarnych opozycji w myśli postmodernistycznej?",
+      "Czy mogłabyś rozwinąć tę myśl na temat mechanizmów reprodukcji nierówności społecznych w systemie edukacji?",
+      "Czy mógłbyś rozwinąć tę myśl na temat wpływu transformacji cyfrowej na ewolucję form państwowości?",
+      "Czy mogłabyś rozwinąć tę myśl na temat metodologii badań jakościowych w studiach nad pamięcią zbiorową?",
+      "Czy mógłbyś rozwinąć tę myśl na temat relacji między etyką a estetyką w ujęciu filozofii kontynentalnej?"
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Mam mieszane uczucia co do ...",
+    "translation": "I have mixed feelings about ...",
+    "b1": [
+      "Mam mieszane uczucia co do tej restauracji.",
+      "Mam mieszane uczucia co do zakupu nowego samochodu.",
+      "Mam mieszane uczucia co do tej decyzji.",
+      "Mam mieszane uczucia co do mojej nowej pracy.",
+      "Mam mieszane uczucia co do tej niespodzianki."
+    ],
+    "b2": [
+      "Mam mieszane uczucia co do wprowadzenia sztucznej inteligencji do naszego działu obsługi klienta.",
+      "Mam mieszane uczucia co do propozycji fuzji z naszą konkurencyjną firmą.",
+      "Mam mieszane uczucia co do nowego systemu premiowania pracowników.",
+      "Mam mieszane uczucia co do przeniesienia naszego biura do innej dzielnicy.",
+      "Mam mieszane uczucia co do reformy egzaminów końcowych."
+    ],
+    "c1": [
+      "Mam mieszane uczucia co do etycznych implikacji edycji genomu ludzkiego.",
+      "Mam mieszane uczucia co do instytucjonalizacji pamięci historycznej w przestrzeni publicznej.",
+      "Mam mieszane uczucia co do komercjalizacji przestrzeni kosmicznej przez podmioty prywatne.",
+      "Mam mieszane uczucia co do rosnącej roli algorytmów w procesach rekrutacyjnych.",
+      "Mam mieszane uczucia co do postmodernistycznego relatywizmu w naukach humanistycznych."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Zgódźmy się, że się nie zgadzamy w kwestii ...",
+    "translation": "Let's agree to disagree on ...",
+    "b1": [
+      "Zgódźmy się, że się nie zgadzamy w kwestii muzyki.",
+      "Zgódźmy się, że się nie zgadzamy w kwestii tego filmu.",
+      "Zgódźmy się, że się nie zgadzamy w kwestii gotowania.",
+      "Zgódźmy się, że się nie zgadzamy w kwestii wyboru koloru ścian.",
+      "Zgódźmy się, że się nie zgadzamy w kwestii spędzania wolnego czasu."
+    ],
+    "b2": [
+      "Zgódźmy się, że się nie zgadzamy w kwestii najlepszego sposobu zarządzania czasem w zespole.",
+      "Zgódźmy się, że się nie zgadzamy w kwestii wyboru dostawcy oprogramowania.",
+      "Zgódźmy się, że się nie zgadzamy w kwestii polityki biurowej dotyczącej ubioru.",
+      "Zgódźmy się, że się nie zgadzamy w kwestii priorytetów rozwojowych projektu.",
+      "Zgódźmy się, że się nie zgadzamy w kwestii strategii negocjacyjnych."
+    ],
+    "c1": [
+      "Zgódźmy się, że się nie zgadzamy w kwestii interpretacji założeń ekonomii behawioralnej.",
+      "Zgódźmy się, że się nie zgadzamy w kwestii prymatu struktur nad sprawczością jednostki w socjologii.",
+      "Zgódźmy się, że się nie zgadzamy w kwestii estetycznej oceny realizmu magicznego.",
+      "Zgódźmy się, że się nie zgadzamy w kwestii dopuszczalności obywatelskiego nieposłuszeństwa.",
+      "Zgódźmy się, że się nie zgadzamy w kwestii filozoficznych podstaw praw człowieka."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Czy brałeś pod uwagę ...?",
+    "translation": "Have you considered ...?",
+    "b1": [
+      "Czy brałeś pod uwagę wyjazd w tym tygodniu?",
+      "Czy brałaś pod uwagę zmianę pracy?",
+      "Czy brałeś pod uwagę kupno tańszego biletu?",
+      "Czy brałaś pod uwagę naukę innego języka?",
+      "Czy brałeś pod uwagę zaproszenie Marka?"
+    ],
+    "b2": [
+      "Czy brałeś pod uwagę zatrudnienie dodatkowego freelancera do pomocy przy tym projekcie?",
+      "Czy brałaś pod uwagę zmianę terminu naszej konferencji na przyszły miesiąc?",
+      "Czy brałeś pod uwagę możliwość pracy w systemie hybrydowym?",
+      "Czy brałaś pod uwagę opinie naszych stałych klientów przy wprowadzaniu tej nowości?",
+      "Czy brałeś pod uwagę ryzyko przekroczenia założonego budżetu?"
+    ],
+    "c1": [
+      "Czy brałeś pod uwagę długofalowe skutki ekologiczne relokacji tej linii produkcyjnej?",
+      "Czy brałaś pod uwagę potencjalne ryzyko naruszenia prywatności użytkowników w tym projekcie algorytmicznym?",
+      "Czy brałeś pod uwagę historyczne uwarunkowania napięć etnicznych w tym regionie?",
+      "Czy brałaś pod uwagę metodologiczne ograniczenia tej bazy danych w swoich badaniach?",
+      "Czy brałeś pod uwagę alternatywne modele finansowania tej instytucji kultury?"
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "To nie zawsze tak wygląda, ponieważ ...",
+    "translation": "That's not always the case because ...",
+    "b1": [
+      "To nie zawsze tak wygląda, ponieważ każdy człowiek jest inny.",
+      "To nie zawsze tak wygląda, ponieważ pogoda bywa zmienna.",
+      "To nie zawsze tak wygląda, ponieważ ceny w sklepach się zmieniają.",
+      "To nie zawsze tak wygląda, ponieważ czasem mamy więcej wolnego czasu.",
+      "To nie zawsze tak wygląda, ponieważ ta zasada ma wyjątki."
+    ],
+    "b2": [
+      "To nie zawsze tak wygląda, ponieważ doświadczenie pokazuje, że teoria często mija się z praktyką w biznesie.",
+      "To nie zawsze tak wygląda, ponieważ motywacja pracowników zależy od wielu czynników.",
+      "To nie zawsze tak wygląda, ponieważ sukces kampanii zależy także od grupy docelowej.",
+      "To nie zawsze tak wygląda, ponieważ rynki finansowe są niezwykle nieprzewidywalne.",
+      "To nie zawsze tak wygląda, ponieważ wdrażanie innowacji napotyka na lokalne bariery."
+    ],
+    "c1": [
+      "To nie zawsze tak wygląda, ponieważ makroekonomiczne wskaźniki rzadko oddają realną kondycję ubogich warstw społecznych.",
+      "To nie zawsze tak wygląda, ponieważ instytucjonalne ramy prawa często ustępują pod naporem presji politycznej.",
+      "To nie zawsze tak wygląda, ponieważ recepcja dzieła sztuki zależy od zmiennych horyzontów oczekiwań odbiorców.",
+      "To nie zawsze tak wygląda, ponieważ empiryczna weryfikacja hipotez w naukach społecznych bywa zawodna.",
+      "To nie zawsze tak wygląda, ponieważ globalne trendy ulegają lokalnej reinterpretacji i oporowi."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Widzę to tak, że ...",
+    "translation": "I see things ...",
+    "b1": [
+      "Widzę to tak, że musimy zacząć od nowa.",
+      "Widzę to tak, że powinniśmy poprosić o pomoc.",
+      "Widzę to tak, że to świetna szansa dla nas.",
+      "Widzę to tak, że czas szybko leci.",
+      "Widzę to tak, że wszystko zależy od nas."
+    ],
+    "b2": [
+      "Widzę to tak, że nasz zespół potrzebuje teraz przede wszystkim jasnego podziału ról.",
+      "Widzę to tak, że ta kryzysowa sytuacja może stać się dla nas lekcją na przyszłość.",
+      "Widzę to tak, że klienci oczekują od nas większej przejrzystości działań.",
+      "Widzę to tak, że nowoczesne technologie powinny wspierać, a nie zastępować człowieka.",
+      "Widzę to tak, że musimy natychmiast zmienić podejście do marketingu internetowego."
+    ],
+    "c1": [
+      "Widzę to tak, że współczesna kryzysowa rzeczywistość wymaga całkowitego przemysłowego i społecznego przedefiniowania pojęcia wzrostu.",
+      "Widzę to tak, że procesy globalizacyjne nieuchronnie prowadzą do nowej fali lokalnych ruchów emancypacyjnych.",
+      "Widzę to tak, że relacja między nauką a społeczeństwem weszła w fazę głębokiego zwrotu partycypacyjnego.",
+      "Widzę to tak, że dekonstrukcja tradycyjnych narracji narodowych stwarza przestrzeń dla nowych form tożsamości.",
+      "Widzę to tak, że technologiczne przyspieszenie zmusza nas do filozoficznej refleksji nad granicami ludzkiej egzystencji."
+    ]
+  }
+]

@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Codziennie rano zazwyczaj ...",
+    "translation": "Every morning, I usually ...",
+    "b1": [
+      "Codziennie rano zazwyczaj piję kawę.",
+      "Codziennie rano zazwyczaj czytam wiadomości.",
+      "Codziennie rano zazwyczaj biegam w parku.",
+      "Codziennie rano zazwyczaj biorę zimny prysznic.",
+      "Codziennie rano zazwyczaj przygotowuję śniadanie."
+    ],
+    "b2": [
+      "Codziennie rano zazwyczaj przeglądam pocztę służbową przed rozpoczęciem pracy.",
+      "Codziennie rano zazwyczaj planuję najważniejsze zadania na dany dzień.",
+      "Codziennie rano zazwyczaj robię krótką sesję rozciągającą.",
+      "Codziennie rano zazwyczaj sprawdzam najnowsze doniesienia giełdowe.",
+      "Codziennie rano zazwyczaj medytuję przez dziesięć minut."
+    ],
+    "c1": [
+      "Codziennie rano zazwyczaj dokonuję szczegółowej priorytetyzacji portfela projektów.",
+      "Codziennie rano zazwyczaj analizuję raporty makroekonomiczne z rynków azjatyckich.",
+      "Codziennie rano zazwyczaj weryfikuję wskaźniki KPI naszej platformy online.",
+      "Codziennie rano zazwyczaj studiuję specjalistyczną literaturę branżową.",
+      "Codziennie rano zazwyczaj optymalizuję algorytmy automatyzujące powtarzalne procesy."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Mam tendencję do ... kiedy ...",
+    "translation": "I tend to ... when ...",
+    "b1": [
+      "Mam tendencję do zasypiania, kiedy oglądam nudny film.",
+      "Mam tendencję do jedzenia słodyczy, kiedy jestem zmęczony.",
+      "Mam tendencję do gubienia kluczy, kiedy się spiesze.",
+      "Mam tendencję do picia za dużo kawy, kiedy dużo pracuję.",
+      "Mam tendencję do milczenia, kiedy jestem zły."
+    ],
+    "b2": [
+      "Mam tendencję do odkładania trudnych zadań na później, kiedy brakuje mi motywacji.",
+      "Mam tendencję do zbytniego analizowania sytuacji, kiedy pojawia się konflikt w zespole.",
+      "Mam tendencję do brania na siebie zbyt wielu obowiązków, kiedy projekt zbliża się do końca.",
+      "Mam tendencję do rezygnowania z treningu, kiedy pogoda jest brzydka.",
+      "Mam tendencję do sprawdzania telefonu, kiedy czuję stres."
+    ],
+    "c1": [
+      "Mam tendencję do nadmiernej mitygacji ryzyka, kiedy rynki wykazują wysoką zmienność.",
+      "Mam tendencję do podważania konsensusu rady nadzorczej, kiedy brakuje twardych danych empirycznych.",
+      "Mam tendencję do kwestionowania tradycyjnych paradygmatów, kiedy wdrażam innowacyjne strategie.",
+      "Mam tendencję do izolowania się od szumu medialnego, kiedy pracuję nad krytycznymi decyzjami prawnymi.",
+      "Mam tendencję do eskalowania problemów prawnych, kiedy partner biznesowy łamie warunki umowy."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Z reguły nigdy nie ...",
+    "translation": "As a rule, I never ...",
+    "b1": [
+      "Z reguły nigdy nie piję zimnej wody zimą.",
+      "Z reguły nigdy nie zostawiam naczyń w zlewie na noc.",
+      "Z reguły nigdy nie oglądam horrorów wieczorem.",
+      "Z reguły nigdy nie spóźniam się na spotkania.",
+      "Z reguły nigdy nie kupuję rzeczy pod wpływem impulsu."
+    ],
+    "b2": [
+      "Z reguły nigdy nie podejmuję ważnych decyzji finansowych bez konsultacji z rodziną.",
+      "Z reguły nigdy nie odpowiadam na maile służbowe w weekendy.",
+      "Z reguły nigdy nie podpisuję umowy bez wcześniejszego dokładnego przeczytania.",
+      "Z reguły nigdy nie oceniam kompetencji nowego pracownika po pierwszej rozmowie.",
+      "Z reguły nigdy nie rezygnuję z zaplanowanego treningu z błahego powodu."
+    ],
+    "c1": [
+      "Z reguły nigdy nie angażuję kapitał spółki w transakcje o niezweryfikowanej transparentności podatkowej.",
+      "Z reguły nigdy nie akceptuję klauzul arbitrażowych niezgodnych z polskim porządkiem prawnym.",
+      "Z reguły nigdy nie ignoruję sygnałów ostrzegawczych audytu wewnętrznego w obszarze compliance.",
+      "Z reguły nigdy nie opieram kluczowych decyzji strategicznych na intuicji bez poparcia danymi.",
+      "Z reguły nigdy nie sankcjonuję działań noszących znamiona unikania odpowiedzialności korporacyjnej."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Dbam o to, aby ... przynajmniej raz dziennie.",
+    "translation": "I make it a point to ... at least once a day.",
+    "b1": [
+      "Dbam o to, aby wypić szklankę wody przynajmniej raz dziennie.",
+      "Dbam o to, aby wyjść na świeże powietrze przynajmniej raz dziennie.",
+      "Dbam o to, aby zadzwonić do mamy przynajmniej raz dziennie.",
+      "Dbam o to, aby przeczytać stronę książki przynajmniej raz dziennie.",
+      "Dbam o to, aby przewietrzyć pokój przynajmniej raz dziennie."
+    ],
+    "b2": [
+      "Dbam o to, aby zrobić przerwę od ekranu komputera przynajmniej raz dziennie.",
+      "Dbam o to, aby wykonać krótkie ćwiczenia rozciągające przynajmniej raz dziennie.",
+      "Dbam o to, aby skonsultować postępy projektu z zespołem przynajmniej raz dziennie.",
+      "Dbam o to, aby uporządkować biurko przynajmniej raz dziennie.",
+      "Dbam o to, aby zapisać trzy wnioski z pracy przynajmniej raz dziennie."
+    ],
+    "c1": [
+      "Dbam o to, aby zweryfikować płynność finansową kluczowych rachunków przynajmniej raz dziennie.",
+      "Dbam o to, aby audytować logi bezpieczeństwa systemów IT przynajmniej raz dziennie.",
+      "Dbam o to, aby zsynchronizować cele strategiczne z menedżerami działów przynajmniej raz dziennie.",
+      "Dbam o to, aby dokonać przeglądu zmian w ustawodawstwie podatkowym przynajmniej raz dziennie.",
+      "Dbam o to, aby monitorować wskaźniki sentymentu rynkowego przynajmniej raz dziennie."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Przede wszystkim zawsze ...",
+    "translation": "Before anything else, I always ...",
+    "b1": [
+      "Przede wszystkim zawsze myję ręce po przyjściu do domu.",
+      "Przede wszystkim zawsze sprawdzam pogodę przed wyjściem.",
+      "Przede wszystkim zawsze wyłączam żelazko po prasowaniu.",
+      "Przede wszystkim zawsze witam się z sąsiadami.",
+      "Przede wszystkim zawsze zamykam drzwi na klucz."
+    ],
+    "b2": [
+      "Przede wszystkim zawsze sprawdzam stan konta przed zaplanowaniem większych zakupów.",
+      "Przede wszystkim zawsze robię kopię zapasową ważnych plików przed aktualizacją systemu.",
+      "Przede wszystkim zawsze ustalam priorytety zadań przed rozpoczęciem pracy w biurze.",
+      "Przede wszystkim zawsze testuję nowy program na kopii testowej.",
+      "Przede wszystkim zawsze proszę klienta o sprecyzowanie wymagań przed wyceną."
+    ],
+    "c1": [
+      "Przede wszystkim zawsze zabezpieczam klauzule poufności przed rozpoczęciem rozmów biznesowych.",
+      "Przede wszystkim zawsze przeprowadzam szczegółowy due diligence przed akwizycją spółki.",
+      "Przede wszystkim zawsze analizuję ryzyko regulacyjne przed wejściem na nowy rynek zagraniczny.",
+      "Przede wszystkim zawsze weryfikuję status prawny nieruchomości przed podpisaniem umowy przedwstępnej.",
+      "Przede wszystkim zawsze zabezpieczam prawa własności intelektualnej przed wdrożeniem projektu."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Weszło mi w nawyk, że ...",
+    "translation": "I've gotten into the habit of ...",
+    "b1": [
+      "Weszło mi w nawyk, że gaszę światło wychodząc z pokoju.",
+      "Weszło mi w nawyk, że piję herbatę bez cukru.",
+      "Weszło mi w nawyk, że sprawdzam godzinę w telefonie.",
+      "Weszło mi w nawyk, że ścielę łóżko rano.",
+      "Weszło mi w nawyk, że noszę ze sobą torbę na zakupy."
+    ],
+    "b2": [
+      "Weszło mi w nawyk, że zapisuję wszystkie wydatki w aplikacji mobilnej.",
+      "Weszło mi w nawyk, że wyłączam powiadomienia w telefonie podczas pracy.",
+      "Weszło mi w nawyk, że czytam kilka stron książki przed snem.",
+      "Weszło mi w nawyk, że robię dziesięć tysięcy kroków dziennie.",
+      "Weszło mi w nawyk, że segreguję śmieci w kuchni."
+    ],
+    "c1": [
+      "Weszło mi w nawyk, że codziennie analizuję najnowsze orzecznictwo Sądu Najwyższego.",
+      "Weszło mi w nawyk, że weryfikuję wiarygodność kontrahentów w rejestrach publicznych.",
+      "Weszło mi w nawyk, że dywersyfikuję oszczędności w kilku niezależnych walutach.",
+      "Weszło mi w nawyk, że monitoruję wahania stóp procentowych banku centralnego.",
+      "Weszło mi w nawyk, że stosuję rygorystyczne procedury archiwizacji dokumentacji prawnej."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Moja rutyna zazwyczaj obejmuje ...",
+    "translation": "My routine typically involves ...",
+    "b1": [
+      "Moja rutyna zazwyczaj obejmuje poranną kawę i spacer z psem.",
+      "Moja rutyna zazwyczaj obejmuje gotowanie obiadu w niedzielę.",
+      "Moja rutyna zazwyczaj obejmuje zakupy w piątkowy wieczór.",
+      "Moja rutyna zazwyczaj obejmuje wieczorny relaks z książką.",
+      "Moja rutyna zazwyczaj obejmuje sprzątanie mieszkania w sobotę."
+    ],
+    "b2": [
+      "Moja rutyna zazwyczaj obejmuje przegląd maili i planowanie dnia w biurze.",
+      "Moja rutyna zazwyczaj obejmuje dwa treningi na siłowni w tygodniu.",
+      "Moja rutyna zazwyczaj obejmuje spotkanie podsumowujące z zespołem w piątek.",
+      "Moja rutyna zazwyczaj obejmuje naukę języka obcego przez trzydzieści minut.",
+      "Moja rutyna zazwyczaj obejmuje cotygodniowy backup danych komputera."
+    ],
+    "c1": [
+      "Moja rutyna zazwyczaj obejmuje kompleksowy audyt zgodności procesów z normami ISO.",
+      "Moja rutyna zazwyczaj obejmuje szczegółową analizę płynności finansowej portfela.",
+      "Moja rutyna zazwyczaj obejmuje okresową ocenę ryzyka operacyjnego w strukturach spółki.",
+      "Moja rutyna zazwyczaj obejmuje monitorowanie zmian w otoczeniu makroekonomicznym kraju.",
+      "Moja rutyna zazwyczaj obejmuje weryfikację poprawności struktur kapitałowych w holdingu."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Większość wieczorów spędzam na ...",
+    "translation": "Most evenings, I find myself ...",
+    "b1": [
+      "Większość wieczorów spędzam na oglądaniu seriali na Netflixie.",
+      "Większość wieczorów spędzam na gotowaniu kolacji z rodziną.",
+      "Większość wieczorów spędzam na spacerowaniu po okolicy.",
+      "Większość wieczorów spędzam na rozmowach z przyjaciółmi przez telefon.",
+      "Większość wieczorów spędzam na słuchaniu ulubionej muzyki."
+    ],
+    "b2": [
+      "Większość wieczorów spędzam na nadrabianiu zaległości w projektach zawodowych.",
+      "Większość wieczorów spędzam na nadrabianiu czytania prasie ekonomicznej.",
+      "Większość wieczorów spędzam na planowaniu jadłospisu na kolejny tydzień.",
+      "Większość wieczorów spędzam na rozwijaniu swoich umiejętności programistycznych.",
+      "Większość wieczorów spędzam na analizowaniu statystyk moich działań w mediach."
+    ],
+    "c1": [
+      "Większość wieczorów spędzam na zgłębianiu zawiłości nowych unijnych dyrektyw prawnych.",
+      "Większość wieczorów spędzam na studiowaniu raportów finansowych globalnych giełd.",
+      "Większość wieczorów spędzam na dopracowywaniu strategii restrukturyzacji zadłużenia.",
+      "Większość wieczorów spędzam na redagowaniu skomplikowanych ekspertyz dla zarządu.",
+      "Większość wieczorów spędzam na analizowaniu trendów demograficznych wpływających na rynek."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "To, co często robię, to ...",
+    "translation": "What I often do is ...",
+    "b1": [
+      "To, co często robię, to słucham podcastów w drodze do pracy.",
+      "To, co często robię, to piekę domowe ciasto na weekend.",
+      "To, co często robię, to robię zdjęcia ładnym widokom.",
+      "To, co często robię, to zamawiam jedzenie przez aplikację.",
+      "To, co często robię, to oglądam mecze piłki nożnej."
+    ],
+    "b2": [
+      "To, co często robię, to zmieniam format prezentacji przed spotkaniem z zarządem.",
+      "To, co często robię, to szukam nowych inspiracji w zagranicznych artykułach.",
+      "To, co często robię, to organizuję krótkie burze mózgów z zespołem.",
+      "To, co często robię, to negocjuję lepsze warunki z dostawcami sprzętu.",
+      "To, co często robię, to automatyzuję powtarzalne raporty w arkuszu kalkulacyjnym."
+    ],
+    "c1": [
+      "To, co często robię, to wdrażam alternatywne struktury holdingowe w celach optymalizacyjnych.",
+      "To, co często robię, to inicjuję procesy mediacyjne przed skierowaniem sprawy do sądu.",
+      "To, co często robię, to redefiniuję kluczowe wskaźniki efektywności w obliczu kryzysu.",
+      "To, co często robię, to przeprowadzam dogłębną dekonstrukcję umów handlowych kontrahenta.",
+      "To, co często robię, to renegocjuję warunki zabezpieczeń finansowych przy emisji obligacji."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Rzadko pomijam krok polegający na ...",
+    "translation": "I rarely skip the step of ...",
+    "b1": [
+      "Rzadko pomijam krok polegający na dokładnym myciu zębów.",
+      "Rzadko pomijam krok polegający na sprawdzeniu zamka w drzwiach.",
+      "Rzadko pomijam krok polegający na nasmarowaniu chleba masłem.",
+      "Rzadko pomijam krok polegający na założeniu czapki zimą.",
+      "Rzadko pomijam krok polegający na przeczytaniu etykiety produktu."
+    ],
+    "b2": [
+      "Rzadko pomijam krok polegający na wykonaniu kopii zapasowej przed instalacją aktualizacji.",
+      "Rzadko pomijam krok polegający na stworzeniu harmonogramu przed rozpoczęciem nowego projektu.",
+      "Rzadko pomijam krok polegający na dokładnym sprawdzeniu faktury przed jej opłaceniem.",
+      "Rzadko pomijam krok polegający na rozgrzewce przed intensywnym biegiem.",
+      "Rzadko pomijam krok polegający na wysłaniu podsumowania po spotkaniu biznesowym."
+    ],
+    "c1": [
+      "Rzadko pomijam krok polegający na weryfikacji beneficjenta rzeczywistego przed transakcją.",
+      "Rzadko pomijam krok polegający na audycie kodu źródłowego przed wdrożeniem na produkcję.",
+      "Rzadko pomijam krok polegający na analizie zgodności z RODO przed zbieraniem danych.",
+      "Rzadko pomijam krok polegający na uzyskaniu opinii prawnej przed podpisaniem kontraktu.",
+      "Rzadko pomijam krok polegający na symulacji skutków podatkowych przed restrukturyzacją."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Codziennym rytuałem jest dla mnie ...",
+    "translation": "It's a daily ritual for me to ...",
+    "b1": [
+      "Codziennym rytuałem jest dla mnie wypicie kubka gorącej herbaty.",
+      "Codziennym rytuałem jest dla mnie spacer z psem po południu.",
+      "Codziennym rytuałem jest dla mnie przeczytanie kilku stron książki.",
+      "Codziennym rytuałem jest dla mnie zjedzenie owocu po obiedzie.",
+      "Codziennym rytuałem jest dla mnie posłuchanie ulubionej piosenki."
+    ],
+    "b2": [
+      "Codziennym rytuałem jest dla mnie zrobienie piętnastominutowej przerwy na kawę bez komputera.",
+      "Codziennym rytuałem jest dla mnie przejrzenie kalendarza na kolejny dzień przed snem.",
+      "Codziennym rytuałem jest dla mnie wykonanie kilku ćwiczeń oddechowych w ciągu dnia.",
+      "Codziennym rytuałem jest dla mnie podsumowanie wykonanych zadań przed wyjściem z biura.",
+      "Codziennym rytuałem jest dla mnie przeczytanie najważniejszych wiadomości gospodarczych."
+    ],
+    "c1": [
+      "Codziennym rytuałem jest dla mnie przeanalizowanie notowań walutowych i stóp procentowych.",
+      "Codziennym rytuałem jest dla mnie przegląd nowych publikacji w dziennikach ustaw.",
+      "Codziennym rytuałem jest dla mnie weryfikacja kluczowych wskaźników płynności finansowej spółki.",
+      "Codziennym rytuałem jest dla mnie ocena ryzyka operacyjnego w otwieranych pozycjach.",
+      "Codziennym rytuałem jest dla mnie synchronizacja celów strategicznych z kluczowymi menedżerami."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Zwykle następuje po tym ...",
+    "translation": "I usually follow that up with ...",
+    "b1": [
+      "Zwykle zjem obiad, a następuje po tym krótki odpoczynek na kanapie.",
+      "Zwykle wypijam kawę, a następuje po tym sprawdzenie planu lekcji.",
+      "Zwykle kończę pracę, a następuje po tym spacer do domu.",
+      "Zwykle robię zakupy, a następuje po tym rozpakowanie torby.",
+      "Zwykle sprzątam kuchnię, a następuje po tym chwila relaksu."
+    ],
+    "b2": [
+      "Zwykle kończę poranne spotkanie z zespołem, a następuje po tym praca nad raportem.",
+      "Zwykle wysyłam ofertę do klienta, a następuje po tym telefon z potwierdzeniem.",
+      "Zwykle wprowadzam dane do systemu, a następuje po tym weryfikacja błędów.",
+      "Zwykle zamykam budżet miesięczny, a następuje po tym spotkanie z dyrekcją.",
+      "Zwykle instaluję nową aktualizację, a następuje po tym faza testów wydajnościowych."
+    ],
+    "c1": [
+      "Zwykle finalizuję umowę akwizycji, a następuje po tym kompleksowy proces integracji spółek.",
+      "Zwykle ogłaszamy wyniki kwartalne, a następuje po tym konferencja z analitykami giełdowymi.",
+      "Zwykle podpisujemy protokół rozbieżności, a następuje po tym faza negocjacji arbitrażowych.",
+      "Zwykle wdrażamy nową strategię podatkową, a następuje po tym audyt zewnętrzny urzędu.",
+      "Zwykle składamy wniosek o rejestrację patentu, a następuje po tym okres weryfikacji patentowej."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Bez wyjątku, każdego ...",
+    "translation": "Without fail, every ...",
+    "b1": [
+      "Bez wyjątku, każdego dnia wstaję o siódmej rano.",
+      "Bez wyjątku, każdego ranka piję świeżą herbatę.",
+      "Bez wyjątku, każdego popołudnia karmię mojego kota.",
+      "Bez wyjątku, każdego wieczoru gaszę światło w przedpokoju.",
+      "Bez wyjątku, każdego piątku robię większe zakupy."
+    ],
+    "b2": [
+      "Bez wyjątku, każdego miesiąca robię podsumowanie domowego budżetu.",
+      "Bez wyjątku, każdego tygodnia sprawdzam stan techniczny mojego samochodu.",
+      "Bez wyjątku, każdego ranka planuję najważniejsze zadania zawodowe.",
+      "Bez wyjątku, każdego roku robię kompleksowe badania krwi.",
+      "Bez wyjątku, każdego dnia poświęcam godzinę na rozwój osobisty."
+    ],
+    "c1": [
+      "Bez wyjątku, każdego kwartału zarząd sporządza szczegółowy raport dla akcjonariuszy.",
+      "Bez wyjątku, każdego miesiąca weryfikujemy wskaźniki wypłacalności podmiotów powiązanych.",
+      "Bez wyjątku, każdego roku przeprowadzany jest zewnętrzny niezależny audyt finansowy.",
+      "Bez wyjątku, każdego tygodnia dział prawny aktualizuje rejestr ryzyka korporacyjnego.",
+      "Bez wyjątku, każdego dnia monitorujemy zmiany w międzynarodowych sankcjach gospodarczych."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Nieustannie próbuję pamiętać o tym, aby ...",
+    "translation": "I'm constantly trying to remember to ...",
+    "b1": [
+      "Nieustannie próbuję pamiętać o tym, aby wyłączyć światło w łazience.",
+      "Nieustannie próbuję pamiętać o tym, aby pić więcej wody w ciągu dnia.",
+      "Nieustannie próbuję pamiętać o tym, aby kupić chleb po drodze.",
+      "Nieustannie próbuję pamiętać o tym, aby oddzwonić do przyjaciółki.",
+      "Nieustannie próbuję pamiętać o tym, aby zamknąć okno przed wyjściem."
+    ],
+    "b2": [
+      "Nieustannie próbuję pamiętać o tym, aby robić przerwy na odpoczynek podczas pracy przy komputerze.",
+      "Nieustannie próbuję pamiętać o tym, aby regularnie aktualizować hasła do kont.",
+      "Nieustannie próbuję pamiętać o tym, aby wysłać raport przed wyznaczonym terminem.",
+      "Nieustannie próbuję pamiętać o tym, aby oddawać dokumenty księgowe na czas.",
+      "Nieustannie próbuję pamiętać o tym, aby nie brać pracy do domu."
+    ],
+    "c1": [
+      "Nieustannie próbuję pamiętać o tym, aby przestrzegać rygorystycznych standardów procedur AML w transakcjach.",
+      "Nieustannie próbuję pamiętać o tym, aby zachować poufność informacji podczas rozmów telefonicznych w miejscach publicznych.",
+      "Nieustannie próbuję pamiętać o tym, aby skonsultować każdą istotną zmianę prawną z działem compliance.",
+      "Nieustannie próbuję pamiętać o tym, aby monitorować terminy przedawnienia roszczeń w prowadzonych sprawach.",
+      "Nieustannie próbuję pamiętać o tym, aby dokumentować wszystkie ustalenia z posiedzeń rady nadzorczej."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Mój nawyk rozwinął się, ponieważ ...",
+    "translation": "My habit developed because ...",
+    "b1": [
+      "Mój nawyk picia kawy rozwinął się, ponieważ potrzebowałem energii rano.",
+      "Mój nawyk czytania rozwinął się, ponieważ lubię ciekawe historie.",
+      "Mój nawyk biegania rozwinął się, ponieważ chciałem schudnąć.",
+      "Mój nawyk wczesnego wstawania rozwinął się, ponieważ zacząłem wcześnie pracę.",
+      "Mój nawyk robienia list rozwinął się, ponieważ zapominałem o zakupach."
+    ],
+    "b2": [
+      "Mój nawyk pracy zdalnej rozwinął się, ponieważ oszczędzam czas na dojazdach do biura.",
+      "Mój nawyk planowania tygodniowego rozwinął się, ponieważ miałem za dużo zadań na głowie.",
+      "Mój nawyk robienia notatek rozwinął się, ponieważ gubiłem ważne ustalenia ze spotkań.",
+      "Mój nawyk codziennej nauki słówek rozwinął się, ponieważ chciałbym płynnie mówić po angielsku.",
+      "Mój nawyk oszczędzania rozwinął się, ponieważ zbieram na własne mieszkanie."
+    ],
+    "c1": [
+      "Mój nawyk skrupulatnego audytu umów rozwinął się, ponieważ jednorazowe niedopatrzenie kosztowało spółkę fortunę.",
+      "Mój nawyk unikania ryzykownych inwestycji rozwinął się, ponieważ kryzys rynkowy obnażył kruchość długu.",
+      "Mój nawyk stałego monitorowania zmian prawnych rozwinął się, ponieważ niestabilność przepisów grozi sankcjami.",
+      "Mój nawyk dywersyfikacji źródeł finansowania rozwinął się, ponieważ zależy nam na stabilności holdingu.",
+      "Mój nawyk budowania rezerw kapitałowych rozwinął się, ponieważ nieprzewidziane kryzysy paraliżują rynek."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Zwykle przeznaczam czas na ...",
+    "translation": "I usually allocate time for ...",
+    "b1": [
+      "Zwykle przeznaczam czas na czytanie książek wieczorem.",
+      "Zwykle przeznaczam czas na gotowanie zdrowego obiadu w weekend.",
+      "Zwykle przeznaczam czas na spotkanie z przyjaciółmi w piątek.",
+      "Zwykle przeznaczam czas na odpoczynek po ciężkim dniu.",
+      "Zwykle przeznaczam czas na spacer z rodziną w niedzielę."
+    ],
+    "b2": [
+      "Zwykle przeznaczam czas na naukę języków obcych trzy razy w tygodniu.",
+      "Zwykle przeznaczam czas na tygodniowe podsumowanie zadań w piątkowe popołudnie.",
+      "Zwykle przeznaczam czas na rozwój umiejętności analitycznych w porannych godzinach.",
+      "Zwykle przeznaczam czas na regularny trening na siłowni we wtorki i czwartki.",
+      "Zwykle przeznaczam czas na przegląd korespondencji mailowej rano i po południu."
+    ],
+    "c1": [
+      "Zwykle przeznaczam czas na dogłębną analizę zmian w ustawodawstwie podatkowym na początku miesiąca.",
+      "Zwykle przeznaczam czas na strategiczne planowanie rozwoju portfela inwestycyjnego co kwartał.",
+      "Zwykle przeznaczam czas na indywidualne konsultacje z dyrektorami departamentów w każdy czwartek.",
+      "Zwykle przeznaczam czas na przegląd audytów bezpieczeństwa IT pod koniec roku.",
+      "Zwykle przeznaczam czas na ocenę efektywności wdrażanych programów compliance."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Stało się dla mnie drugą naturą, że ...",
+    "translation": "It's become second nature to me to ...",
+    "b1": [
+      "Stało się dla mnie drugą naturą, że zapinam pasy w samochodzie.",
+      "Stało się dla mnie drugą naturą, że mówię 'dzień dobry' sąsiadom.",
+      "Stało się dla mnie drugą naturą, że gaszę światło wychodząc.",
+      "Stało się dla mnie drugą naturą, że myję ręce przed jedzeniem.",
+      "Stało się dla mnie drugą naturą, że sprawdzam godzinę na telefonie."
+    ],
+    "b2": [
+      "Stało się dla mnie drugą naturą, że robię kopię zapasową ważnych dokumentów w chmurze.",
+      "Stało się dla mnie drugą naturą, że sprawdzam pisownię maila przed jego wysłaniem.",
+      "Stało się dla mnie drugą naturą, że planuję budżet na nadchodzący miesiąc.",
+      "Stało się dla mnie drugą naturą, że segreguję dokumenty na biurku pod koniec dnia.",
+      "Stało się dla mnie drugą naturą, że zadaję pytania doprecyzowujące podczas narad."
+    ],
+    "c1": [
+      "Stało się dla mnie drugą naturą, że automatycznie weryfikuję klauzule ograniczenia odpowiedzialności w umowach.",
+      "Stało się dla mnie drugą naturą, że oceniam ryzyko kursowe przy każdej transakcji walutowej.",
+      "Stało się dla mnie drugą naturą, że egzekwuję zasady korporacyjnego ładu w relacjach z kontrahentami.",
+      "Stało się dla mnie drugą naturą, że natychmiast zgłaszam wszelkie naruszenia compliance odpowiednim organom.",
+      "Stało się dla mnie drugą naturą, że analizuję każdy projekt pod kątem zgodności z polityką zrównoważonego rozwoju."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Mój typowy dzień pracy zaczyna się od ...",
+    "translation": "My typical workday starts with ...",
+    "b1": [
+      "Mój typowy dzień pracy zaczyna się od filiżanki mocnej kawy.",
+      "Mój typowy dzień pracy zaczyna się od sprawdzenia planu lekcji.",
+      "Mój typowy dzień pracy zaczyna się od otwarcia sklepu o ósmej.",
+      "Mój typowy dzień pracy zaczyna się od krótkiego spaceru do biura.",
+      "Mój typowy dzień pracy zaczyna się od powitania współpracowników."
+    ],
+    "b2": [
+      "Mój typowy dzień pracy zaczyna się od przejrzenia skrzynki mailowej i pilnych wiadomości.",
+      "Mój typowy dzień pracy zaczyna się od porannej odprawy z zespołem projektowym.",
+      "Mój typowy dzień pracy zaczyna się od ustalenia listy zadań na dany dzień.",
+      "Mój typowy dzień pracy zaczyna się od sprawdzenia aktualnych notowań i raportów.",
+      "Mój typowy dzień pracy zaczyna się od kawy i analizy kalendarza spotkań."
+    ],
+    "c1": [
+      "Mój typowy dzień pracy zaczyna się od weryfikacji nocnych raportów z rynków azjatyckich i amerykańskich.",
+      "Mój typowy dzień pracy zaczyna się od odprawy operacyjnej z dyrektorem finansowym i prawnym.",
+      "Mój typowy dzień pracy zaczyna się od analizy wskaźników płynnościowych kluczowych spółek.",
+      "Mój typowy dzień pracy zaczyna się od przeglądu najważniejszych zmian legislacyjnych w dziennikach urzędowych.",
+      "Mój typowy dzień pracy zaczyna się od oceny ryzyka dla otwartych pozycji kapitałowych."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Staram się unikać ... tak bardzo, jak to możliwe.",
+    "translation": "I try to avoid ... as much as possible.",
+    "b1": [
+      "Staram się unikać jedzenia słodyczy tak bardzo, jak to możliwe.",
+      "Staram się unikać spóźniania się tak bardzo, jak to możliwe.",
+      "Staram się unikać kupowania niepotrzebnych rzeczy tak bardzo, jak to możliwe.",
+      "Staram się unikać kłótni z bliskimi tak bardzo, jak to możliwe.",
+      "Staram się unikać picia gazowanych napojów tak bardzo, jak to możliwe."
+    ],
+    "b2": [
+      "Staram się unikać pracy po godzinach tak bardzo, jak to możliwe.",
+      "Staram się unikać wielozadaniowości podczas trudnych zadań tak bardzo, jak to możliwe.",
+      "Staram się unikać niepotrzebnych spotkań służbowych tak bardzo, jak to możliwe.",
+      "Staram się unikać zaciągania drogich kredytów tak bardzo, jak to możliwe.",
+      "Staram się unikać konfliktów w zespole tak bardzo, jak to możliwe."
+    ],
+    "c1": [
+      "Staram się unikać ekspozycji na ryzyko walutowe w niestabilnych okresach tak bardzo, jak to możliwe.",
+      "Staram się unikać angażowania kapitału w nietransparentne struktury offshore tak bardzo, jak to możliwe.",
+      "Staram się unikać podejmowania decyzji pod presją czasu tak bardzo, jak to możliwe.",
+      "Staram się unikać zawierania umów bez klauzul zabezpieczających tak bardzo, jak to możliwe.",
+      "Staram się unikać biurokratycznej redundancji w procesach zarządczych tak bardzo, jak to możliwe."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Ostatnią rzeczą, którą robię przed ..., jest ...",
+    "translation": "The last thing I do before ... is ...",
+    "b1": [
+      "Ostatnią rzeczą, którą robię przed snem, jest przeczytanie strony książki.",
+      "Ostatnią rzeczą, którą robię przed wyjściem, jest sprawdzenie kluczy w kieszeni.",
+      "Ostatnią rzeczą, którą robię przed wyjazdem, jest zamknięcie okien.",
+      "Ostatnią rzeczą, którą robię przed kolacją, jest umycie rąk.",
+      "Ostatnią rzeczą, którą robię przed pracą, jest wypicie wody."
+    ],
+    "b2": [
+      "Ostatnią rzeczą, którą robię przed wyjściem z biura, jest uporządkowanie biurka.",
+      "Ostatnią rzeczą, którą robię przed wysłaniem raportu, jest jego ostateczna korekta.",
+      "Ostatnią rzeczą, którą robię przed zamknięciem komputera, jest zrobienie kopii zapasowej.",
+      "Ostatnią rzeczą, którą robię przed snem, jest wyłączenie powiadomień w telefonie.",
+      "Ostatnią rzeczą, którą robię przed spotkaniem, jest przejrzenie notatek."
+    ],
+    "c1": [
+      "Ostatnią rzeczą, którą robię przed podpisaniem umowy, jest ostateczna weryfikacja klauzul przez prawnika.",
+      "Ostatnią rzeczą, którą robię przed zatwierdzeniem bilansu, jest audyt zgodności z przepisami.",
+      "Ostatnią rzeczą, którą robię przed wdrożeniem strategii, jest ocena ryzyka systemowego.",
+      "Ostatnią rzeczą, którą robię przed opublikowaniem raportu, jest sprawdzenie poprawności danych finansowych.",
+      "Ostatnią rzeczą, którą robię przed akceptacją budżetu, jest weryfikacja rezerw celowych."
+    ]
+  }
+]

@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Vzpomínám si, když ...",
+    "translation": "I remember when ...",
+    "b1": [
+      "Vzpomínám si, když jsme poprvé navštívili Prahu.",
+      "Vzpomínám si, když jsem dostal svůj první telefon.",
+      "Vzpomínám si, když pršelo celý týden.",
+      "Vzpomínám si, když jsme byli v létě u babičky.",
+      "Vzpomínám si, když jsem začal studovat češtinu."
+    ],
+    "b2": [
+      "Vzpomínám si, když jsem poprvé stál před publikem a měl velkou trému.",
+      "Vzpomínám si, když se celá naše rodina sešla na oslavě kulatých narozenin.",
+      "Vzpomínám si, když jsem poprvé cestoval sám do zahraničí.",
+      "Vzpomínám si, když jsme v práci úspěšně dokončili velký projekt.",
+      "Vzpomínám si, když jsem se poprvé setkal se svými novými kolegy."
+    ],
+    "c1": [
+      "Vzpomínám si, když náhlý zlom v mém osobním životě radikálně proměnil mé dosavadní priority.",
+      "Vzpomínám si, když hluboká společenská krize devadesátých let formovala naše dětství.",
+      "Vzpomínám si, když první setkání s tímto výjimečným dílem zcela přehodnotilo můj pohled na umění.",
+      "Vzpomínám si, když nečekané odhalení rodinných archivů vneslo světlo do naší minulosti.",
+      "Vzpomínám si, když mě intenzivní akademická debata přiměla přehodnotit moje teoretická východiska."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Byl jednou jeden ... / Bylo, nebylo, ...",
+    "translation": "Once upon a time, ...",
+    "b1": [
+      "Byl jednou jeden starý hrad na kopci.",
+      "Bylo, nebylo, žil jeden moudrý král.",
+      "Byl jednou jeden malý pes, který rád běhal.",
+      "Bylo, nebylo, v jednom lese zvířátka povídala.",
+      "Byl jednou jeden chlapec, který chtěl létat."
+    ],
+    "b2": [
+      "Byl jednou jeden zapomenutý příběh o odvaze a přátelství.",
+      "Bylo, nebylo, v malém městečku na konci světa se stalo něco zvláštního.",
+      "Byl jednou jeden starý dům, který skrýval nejedeno tajemství.",
+      "Bylo, nebylo, jedno velké království, kde lidé ztratili schopnost snít.",
+      "Byl jednou jeden básník, jehož slova dokázala měnit osudy."
+    ],
+    "c1": [
+      "Bylo, nebylo, v časech, kdy mýty splývaly s historií, zrodila se legenda.",
+      "Byl jednou jeden skrytý svět idejí, kam lidská mysl mohl vstoupit jen ve snech.",
+      "Bylo, nebylo, v éře velkých civilizací impérium, jež shořelo ve vlastním ohni.",
+      "Byl jednou jeden paradox, který po staletí mátl ty nejlepší filozofy.",
+      "Bylo, nebylo, v hlubinách lidského podvědomí místo, kam nikdo nikdy nedohlédl."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Příběh začíná tím, že ...",
+    "translation": "The story begins with ...",
+    "b1": [
+      "Příběh začíná tím, že hlavní hrdina přijede do města.",
+      "Příběh začíná tím, že se v noci zhasnou světla.",
+      "Příběh začíná tím, že zazvoní telefon.",
+      "Příběh začíná tím, že děti najdou starou mapu.",
+      "Příběh začíná tím, že venku začne silně pršet."
+    ],
+    "b2": [
+      "Příběh začíná tím, že mladý vědec učiní náhodný objev v laboratoři.",
+      "Příběh začíná tím, že se na obloze objeví podivný úkaz.",
+      "Příběh začíná tím, že starý muž obdrží dopis bez odesílatele.",
+      "Příběh začíná tím, že firma nečekaně vyhlásí krach.",
+      "Příběh začíná tím, že se dvě znepřátelené rodiny musejí spojit."
+    ],
+    "c1": [
+      "Příběh začíná tím, že eskalace geopolitického napětí vzedme vlnu globální nejistoty.",
+      "Příběh začíná tím, že prolomení jednoho digitálního šifrovacího kódu odhalí rozsáhlou korupci.",
+      "Příběh začíná tím, že systemické selhání kontrolních mechanismů vyústí v ekologickou katastrofu.",
+      "Příběh začíná tím, že radikální změna paradigmatu v umění rozmetá dosavadní estetické normy.",
+      "Příběh začíná tím, že střet dvou neslučitelných filosofických směrů rozpoutá intelektuální revoluci."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "To mi připomíná chvíli, kdy ...",
+    "translation": "That reminds me of a time when ...",
+    "b1": [
+      "To mi připomíná chvíli, kdy jsme ztratili klíče.",
+      "To mi připomíná chvíli, kdy jsem poprvé řídil auto.",
+      "To mi připomíná chvíli, kdy jsme spolu vařili večeři.",
+      "To mi připomíná chvíli, kdy jsem viděl moře.",
+      "To mi připomíná chvíli, kdy jsem zapomněl peněženku."
+    ],
+    "b2": [
+      "To mi připomíná chvíli, kdy jsem se musel rozhodnout mezi dvěma nabídkami práce.",
+      "To mi připomíná chvíli, kdy nás na výletě zastihla bouřka.",
+      "To mi připomíná chvíli, kdy jsem poprvé mluvil cizím jazykem na veřejnosti.",
+      "To mi připomíná chvíli, kdy jsme zmeškali vlak do Vídně.",
+      "To mi připomíná chvíli, kdy se mi podařilo opravit starý počítač."
+    ],
+    "c1": [
+      "To mi připomíná chvíli, kdy morální dilema při výzkumu zcela změnilo můj pohled na vědu.",
+      "To mi připomíná chvíli, kdy náhlé zřícení mého podnikatelského plánu otestovalo mou odolnost.",
+      "To mi připomíná chvíli, kdy konfrontace s radikálně odlišnou kulturou nabourala mé předsudky.",
+      "To mi připomíná chvíli, kdy jsem pochopil, že teoretická příprava nestačí na reálnou krizi.",
+      "To mi připomíná chvíli, kdy hluboká osobní ztráta vedla k naprosté duchovní transformaci."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Nech mě ti povědět o ...",
+    "translation": "Let me tell you about ...",
+    "b1": [
+      "Nech mě ti povědět o mém novém psovi.",
+      "Nech mě ti povědět o včerejším filmu.",
+      "Nech mě ti povědět o mém výletu do Brna.",
+      "Nech mě ti povědět o tom skvělém receptu.",
+      "Nech mě ti povědět o mém sousedovi."
+    ],
+    "b2": [
+      "Nech mě ti povědět o tom, jak jsem strávil léto v zahraničí.",
+      "Nech mě ti povědět o zajímavé knize, kterou jsem nedávno dočetl.",
+      "Nech mě ti povědět o projektu, na kterém teď pracujeme.",
+      "Nech mě ti povědět o mých zkušenostech s prací na dálku.",
+      "Nech mě ti povědět o tom, co se včera stalo v kanceláři."
+    ],
+    "c1": [
+      "Nech mě ti povědět o fascinujících souvislostech mezi lingvistikou a lidským chováním.",
+      "Nech mě ti povědět o netradičních metodách, které využíváme při analýze trhu.",
+      "Nech mě ti povědět o filozofických aspektech současného digitálního věku.",
+      "Nech mě ti povědět o tom, jak hluboká umělecká reflexe dokáže ovlivnit celou společnost.",
+      "Nech mě ti povědět o skrytých strukturách moci v moderních institucích."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Zrovna jsme se chystali ..., když tu najednou ...",
+    "translation": "We were just about to ... when suddenly ...",
+    "b1": [
+      "Zrovna jsme se chystali odejít, když tu najednou začalo pršet.",
+      "Zrovna jsme se chystali večeřet, když tu najednou zazvonil zvonek.",
+      "Zrovna jsme se chystali spát, když tu najednou vypadl proud.",
+      "Zrovna jsme se chystali vyrazit, když tu najednou přišel pes.",
+      "Zrovna jsme se chystali začít, když tu najednou někdo zaklepal."
+    ],
+    "b2": [
+      "Zrovna jsme se chystali podepsat smlouvu, když tu najednou zavolal ředitel.",
+      "Zrovna jsme se chystali vystoupit z auta, když tu najednou píchnula pneumatika.",
+      "Zrovna jsme se chystali dokončit prezentaci, když tu najednou spadl systém.",
+      "Zrovna jsme se chystali opustit budovu, když tu najednou spustil poplach.",
+      "Zrovna jsme se chystali zahájit poradu, když tu najednou přišla špatná zpráva."
+    ],
+    "c1": [
+      "Zrovna jsme se chystali ratifikovat mezinárodní dohodu, když tu najednou eskalovala krize.",
+      "Zrovna jsme se chystali publikovat výsledky výzkumu, když tu najednou vyšlo najevo pochybení.",
+      "Zrovna jsme se chystali implementovat novou strategii, když tu najednou došlo ke změně vedení.",
+      "Zrovna jsme se chystali dokončit architektonický návrh, když tu najednou objevili historické vykopávky.",
+      "Zrovna jsme se chystali uzavřít akvizici, když tu najednou trh prudce zkolaboval."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "A pak se stala ta nejneočekávanější věc: ...",
+    "translation": "And then, the most unexpected thing happened: ...",
+    "b1": [
+      "A pak se stala ta nejneočekávanější věc: potkal jsem starého kamaráda.",
+      "A pak se stala ta nejneočekávanější věc: kočka vyskočila na stůl.",
+      "A pak se stala ta nejneočekávanější věc: našel jsem ztracenou peněženku.",
+      "A pak se stala ta nejneočekávanější věc: z oblohy spadlo pár kapek a hned vylezlo slunce.",
+      "A pak se stala ta nejneočekávanější věc: autobus přijel o pět minut dříve."
+    ],
+    "b2": [
+      "A pak se stala ta nejneočekávanější věc: šéf mi na místě schválil celou dovolenou.",
+      "A pak se stala ta nejneočekávanější věc: ztratil jsem signál přesně v momentě důležitého hovoru.",
+      "A pak se stala ta nejneočekávanější věc: cizí člověk mi zaplatil kávu.",
+      "A pak se stala ta nejneočekávanější věc: zkoušku udělali všichni studenti kromě mě.",
+      "A pak se stala ta nejneočekávanější věc: zhasla všechna světla v celé ulici."
+    ],
+    "c1": [
+      "A pak se stala ta nejneočekávanější věc: náhlá revize mých názorů vyřešila celý paradox.",
+      "A pak se stala ta nejneočekávanější věc: klíčový svědek kompletně změnil svou výpověď.",
+      "A pak se stala ta nejneočekávanější věc: teoretický model v praxi selhal z naprosto neznámých důvodů.",
+      "A pak se stala ta nejneočekávanější věc: grantová komise schválila náš utopický projekt.",
+      "A pak se stala ta nejneočekávanější věc: ztracený rukopis se po desítkách let nečekaně našel v archivu."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Nikdy nezapomenu na moment, kdy ...",
+    "translation": "I'll never forget the moment when ...",
+    "b1": [
+      "Nikdy nezapomenu na moment, kdy jsem poprvé viděl moře.",
+      "Nikdy nezapomenu na moment, kdy jsem dostal klíče od nového bytu.",
+      "Nikdy nezapomenu na moment, kdy jsme vyhráli zápas.",
+      "Nikdy nezapomenu na moment, kdy jsem složil zkoušku z češtiny.",
+      "Nikdy nezapomenu na moment, kdy jsem poprvé ochutnal halušky."
+    ],
+    "b2": [
+      "Nikdy nezapomenu na moment, kdy mi poprvé zatleskalo celé auditorium.",
+      "Nikdy nezapomenu na moment, kdy jsem vynesl rozhodnutí opustit stabilní zaměstnání.",
+      "Nikdy nezapomenu na moment, kdy jsem stál na vrcholu zdolané hory.",
+      "Nikdy nezapomenu na moment, kdy mi oznámili, že jsem získal stipendium.",
+      "Nikdy nezapomenu na moment, kdy se mi narodilo první dítě."
+    ],
+    "c1": [
+      "Nikdy nezapomenu na moment, kdy hluboké procitnutí proměnilo mé vnímání lidské existence.",
+      "Nikdy nezapomenu na moment, kdy jsem poprvé držel v rukou vzácný prvotisk z patnáctého století.",
+      "Nikdy nezapomenu na moment, kdy selhaly všechny přístroje a musel jsem spolehnout čistě na intuici.",
+      "Nikdy nezapomenu na moment, kdy se mi otevřely dveře do světa mezinárodní vědecké elity.",
+      "Nikdy nezapomenu na moment, kdy přelomový objev v laboratoři potvrdil naši hypotézu."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Nejprve jsem si myslel ..., ale později jsem si uvědomil, že ...",
+    "translation": "At first, I thought ..., but later I realized ...",
+    "b1": [
+      "Nejprve jsem si myslel, že to bude těžké, ale později jsem si uvědomil, že je to snadné.",
+      "Nejprve jsem si myslel, že ztratil peněženku, ale později jsem si uvědomil, že ji mám v tašce.",
+      "Nejprve jsem si myslel, že mluví anglicky, ale později jsem si uvědomil, že je to Čech.",
+      "Nejprve jsem si myslel, že prší, ale později jsem si uvědomil, že to byla fontána.",
+      "Nejprve jsem si myslel, že je to nuda, ale později jsem si uvědomil, že je to skvělé."
+    ],
+    "b2": [
+      "Nejprve jsem si myslel, že nový kolega je uzavřený, ale později jsem si uvědomil, že je jenom stydlivý.",
+      "Nejprve jsem si myslel, že ten projekt selže, ale později jsem si uvědomil jeho obrovský potenciál.",
+      "Nejprve jsem si myslel, že pravidla jsou zbytečná, ale později jsem si uvědomil jejich hlubší smysl.",
+      "Nejprve jsem si myslel, že to zvládnu sám, ale později jsem si uvědomil, že potřebuji pomoc.",
+      "Nejprve jsem si myslel, že chyba je v počítači, ale později jsem si uvědomil, že jsem udělal překlep."
+    ],
+    "c1": [
+      "Nejprve jsem si myslel, že jde o povrchní anomálii, ale později jsem si uvědomil, že jde o hlubokou systémovou chybu.",
+      "Nejprve jsem si myslel, že text postrádá logiku, ale později jsem si uvědomil jeho sofistikovanou metaforiku.",
+      "Nejprve jsem si myslel, že tradice brzdí pokrok, ale později jsem si uvědomil, že tvoří oporu společnosti.",
+      "Nejprve jsem si myslel, že jde o náhodnou shodu okolností, ale později jsem si uvědomil kauzální propojení.",
+      "Nejprve jsem si myslel, že ekonomický model je neprůstřelný, ale později jsem si uvědomil jeho křehkost."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Potom se všechno změnilo, když ...",
+    "translation": "Everything changed after ...",
+    "b1": [
+      "Potom se všechno změnilo, když jsem začal pracovat v Praze.",
+      "Potom se všechno změnilo, když jsme si pořídili psa.",
+      "Potom se všechno změnilo, když jsem dostal nový počítač.",
+      "Potom se všechno změnilo, když jsem se přestěhoval.",
+      "Potom se všechno změnilo, když jsem potkal ji."
+    ],
+    "b2": [
+      "Potom se všechno změnilo, když společnost představila nový produkt na trhu.",
+      "Potom se všechno změnilo, když jsem úspěšně dokončil magisterské studium.",
+      "Potom se všechno změnilo, když jsme změnili přístup k našim zákazníkům.",
+      "Potom se všechno změnilo, když mi lékař doporučil více odpočívat.",
+      "Potom se všechno změnilo, když se objevily první výsledky výzkumu."
+    ],
+    "c1": [
+      "Potom se všechno změnilo, když globální pandemie narušila dosavadní dodavatelské řetězce.",
+      "Potom se všechno změnilo, když nástup generativní inteligence transformoval celý pracovní trh.",
+      "Potom se všechno změnilo, když radikální politická změna otevřela hranice světu.",
+      "Potom se všechno změnilo, když nový vědecký objev vyvrátil sto let staré dogma.",
+      "Potom se všechno změnilo, když přelomová soudní síň potvrdila ochranu soukromí."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Než jsem se nadál, ...",
+    "translation": "Before I knew it, ...",
+    "b1": [
+      "Než jsem se nadál, prázdniny skončily.",
+      "Než jsem se nadál, snědli jsme celý koláč.",
+      "Než jsem se nadál, byla tma.",
+      "Než jsem se nadál, autobus odjel.",
+      "Než jsem se nadál, uběhl celý rok."
+    ],
+    "b2": [
+      "Než jsem se nadál, uplynulo deset let od mého maturitního ročníku.",
+      "Než jsem se nadál, celá zásoba lístků byla beznadějně vyprodaná.",
+      "Než jsem se nadál, termín odevzdání projektu byl tady.",
+      "Než jsem se nadál, zima ustoupila teplému jarnímu počasí.",
+      "Než jsem se nadál, ocitnul jsem se v úplně cizím městě."
+    ],
+    "c1": [
+      "Než jsem se nadál, dynamika trhu zcela pohltila naši malou inovativní firmu.",
+      "Než jsem se nadál, technologický pokrok zastaral dříve, než jsme stihli aplikovat jeho výstupy.",
+      "Než jsem se nadál, akademický diskurs se posunul k úplně novým tématům.",
+      "Než jsem se nadál, byrokratická mašinérie zablokovala veškeré naše snahy o reformu.",
+      "Než jsem se nadál, eskalace událostí proměnila lokální protest v celonárodní hnutí."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Celá tato zkušenost mě naučila, že ...",
+    "translation": "The whole experience taught me ...",
+    "b1": [
+      "Celá tato zkušenost mě naučila, že trpělivost se vyplatí.",
+      "Celá tato zkušenost mě naučila, že musím víc mluvit.",
+      "Celá tato zkušenost mě naučila, že rodina je nejdůležitější.",
+      "Celá tato zkušenost mě naučila, že se nemám bát chyb.",
+      "Celá tato zkušenost mě naučila, že musím včas vstávat."
+    ],
+    "b2": [
+      "Celá tato zkušenost mě naučila, že v krizi poznáš své skutečné přátele.",
+      "Celá tato zkušenost mě naučila, že pečlivá příprava je klíčem k úspěchu.",
+      "Celá tato zkušenost mě naučila, že flexibilita je v moderní práci nezbytná.",
+      "Celá tato zkušenost mě naučila, že nemám věci odkládat na poslední chvíli.",
+      "Celá tato zkušenost mě naučila, že komunikace dokáže vyřešit každý problém."
+    ],
+    "c1": [
+      "Celá tato zkušenost mě naučila, že lidská odolnost často převyšuje teoretické limity.",
+      "Celá tato zkušenost mě naučila, že intelektuální pokora je cennější než dogmatická jistota.",
+      "Celá tato zkušenost mě naučila, že neúspěch představuje nejcennější odrazový můstek pro růst.",
+      "Celá tato zkušenost mě naučila, že komplexní systémy vyžadují holistický a trpělivý přístup.",
+      "Celá tato zkušenost mě naučila, že ztráta kontroly otevírá prostor pro nečekané příležitosti."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "První věc, která se stala, byla, že ...",
+    "translation": "The first thing that happened was ...",
+    "b1": [
+      "První věc, která se stala, byla, že mi vypadnul telefon z ruky.",
+      "První věc, která se stala, byla, že nám zrušili let.",
+      "První věc, která se stala, byla, že jsem zapomněl klíče.",
+      "První věc, která se stala, byla, že zvíře uteklo z domu.",
+      "První věc, která se stala, byla, že začalo hřmít."
+    ],
+    "b2": [
+      "První věc, která se stala, byla, že mi šéf hned po příchodu do kanceláře oznámil novinu.",
+      "První věc, která se stala, byla, že se po výpadku proudu vymazala všechna data.",
+      "První věc, která se stala, byla, že nám na letišti ztratili zavazadla.",
+      "První věc, která se stala, byla, že při zkoušce padla ta nejtěžší otázka.",
+      "První věc, která se stala, byla, že se zablokovaly vstupní dveře budovy."
+    ],
+    "c1": [
+      "První věc, která se stala, byla, že systém okamžitě zareagoval na anomálii v kódu.",
+      "První věc, která se stala, byla, že předseda komise zpochybnil platnost našich dat.",
+      "První věc, která se stala, byla, že uniklé interní dokumenty vyvolaly vlnu paniky na burze.",
+      "První věc, která se stala, byla, že nečekaná revize rozpočtu zablokovala výzkum.",
+      "První věc, která se stala, byla, že autoritativní režim zakázal distribuci knihy."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Když se teď ohlédnu zpět, vidím, že ...",
+    "translation": "Looking back now, I can see that ...",
+    "b1": [
+      "Když se teď ohlédnu zpět, vidím, že to bylo správné rozhodnutí.",
+      "Když se teď ohlédnu zpět, vidím, že jsem se hodně naučil.",
+      "Když se teď ohlédnu zpět, vidím, že ty prázdniny byly super.",
+      "Když se teď ohlédnu zpět, vidím, že jsem zbytečně bál.",
+      "Když se teď ohlédnu zpět, vidím, že to uteklo rychle."
+    ],
+    "b2": [
+      "Když se teď ohlédnu zpět, vidím, že mi ta změna práce nesmírně prospěla.",
+      "Když se teď ohlédnu zpět, vidím, že varování mých rodičů byla opodstatněná.",
+      "Když se teď ohlédnu zpět, vidím, že těžké časy mě nejvíc posunuly.",
+      "Když se teď ohlédnu zpět, vidím, že jsem měl tehdy reagovat mnohem dřív.",
+      "Když se teď ohlédnu zpět, vidím, že setkání s ním ovlivnilo celý můj život."
+    ],
+    "c1": [
+      "Když se teď ohlédnu zpět, vidím, že tehdejší krize byla nezbytnou fází pro evoluci společnosti.",
+      "Když se teď ohlédnu zpět, vidím, že naivní idealismus byl tehdy mou nejsilnější zbraní.",
+      "Když se teď ohlédnu zpět, vidím, že strukturální změny byly nevyhnutelné už o dekádu dříve.",
+      "Když se teď ohlédnu zpět, vidím, že odmítnutí kompromisu zachránilo mou morální integritu.",
+      "Když se teď ohlédnu zpět, vidím, že skryté dopady mého výzkumu daleko přesáhly mé úmysly."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Cítil/a jsem se úplně ...",
+    "translation": "I felt completely ...",
+    "b1": [
+      "Cítil jsem se úplně ztracený v novém městě.",
+      "Cítila jsem se úplně vyčerpaná po celém dni.",
+      "Cítil jsem se úplně šťastný, když jsem to vyhrál.",
+      "Cítila jsem se úplně sama v prázdném domě.",
+      "Cítil jsem se úplně zmatený z té otázky."
+    ],
+    "b2": [
+      "Cítil jsem se úplně neschopný, když mi technika v průběhu prezentace selhala.",
+      "Cítila jsem se úplně bezradná, když jsem nevěděla, jak situaci vyřešit.",
+      "Cítil jsem se úplně odříznutý od světa bez internetu v horách.",
+      "Cítila jsem se úplně zahlcená množstvím úkolů před zkouškovým obdobím.",
+      "Cítil jsem se úplně uvolněný po návratu z dlouhé dovolené."
+    ],
+    "c1": [
+      "Cítil jsem se úplně paralyzován tíhou odpovědnosti za osudy celého týmu.",
+      "Cítila jsem se úplně dezorientovaná v propletenci protichůdných ideologických interpretací.",
+      "Cítil jsem se úplně naplněn hlubokým vnitřním klidem po dokončení životního díla.",
+      "Cítila jsem se úplně izolovaná akademičtí elita v naší uzavřené slonové věži.",
+      "Cítil jsem se úplně konsternován mírou ignorance, se kterou jsem se setkal."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Byl to moment, kdy ...",
+    "translation": "It was the moment when ...",
+    "b1": [
+      "Byl to moment, kdy jsem pochopil gramatiku.",
+      "Byl to moment, kdy jsem se rozhodl zůstat.",
+      "Byl to moment, kdy se sunce schovalo za hory.",
+      "Byl to moment, kdy všichni zmlkli.",
+      "Byl to moment, kdy jsem si uvědomil, že tě mám rád."
+    ],
+    "b2": [
+      "Byl to moment, kdy se celá atmosféra v místnosti rázem proměnila.",
+      "Byl to moment, kdy jsem si uvědomil, že už není cesty zpět.",
+      "Byl to moment, kdy se naše dlouholetá snaha konečně vyplatila.",
+      "Byl to moment, kdy mi došlo, jak moc na tom záleží.",
+      "Byl to moment, kdy se z kolegů stali skuteční přátelé."
+    ],
+    "c1": [
+      "Byl to moment, kdy se paradigma lidského poznání posunulo do zcela nové roviny.",
+      "Byl to moment, kdy estetická síla uměleckého díla překonala bariéru času.",
+      "Byl to moment, kdy se skryté tenze ve společnosti projevily v plné síle.",
+      "Byl to moment, kdy racionální argumentace definitivně selhala tváří v tvář dogmatu.",
+      "Byl to moment, kdy se individuální ego rozpustilo ve prospěch kolektivního celku."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Abych to zkrátil, ...",
+    "translation": "To cut a long story short, ...",
+    "b1": [
+      "Abych to zkrátil, zmeškali jsme vlak.",
+      "Abych to zkrátil, nakonec to dopadlo dobře.",
+      "Abych to zkrátil, nic jsem nenašel.",
+      "Abych to zkrátil, museli jsme domů.",
+      "Abych to zkrátil, vyhráli jsme."
+    ],
+    "b2": [
+      "Abych to zkrátil, po třech hodinách hledání jsme ten hotel našli.",
+      "Abych to zkrátil, zkoušku jsem udělal, ale stálo mě to hodně nervů.",
+      "Abych to zkrátil, firma nabídku odmítla a my musíme začít znovu.",
+      "Abych to zkrátil, auto se na dálnici rozbilo a domů jsme jeli autobusem.",
+      "Abych to zkrátil, nakonec jsme našli skvělý kompromis."
+    ],
+    "c1": [
+      "Abych to zkrátil, složitá byrokratická jednání skončila naprostým patem.",
+      "Abych to zkrátil, navzdory slibným počátečním výsledkům projekt kvůli financím zkrachoval.",
+      "Abych to zkrátil, interdisciplinární střet názorů vyústil v originální teoretickou syntézu.",
+      "Abych to zkrátil, rozsáhlá restrukturalizace instituce přinesla očekávanou efektivitu.",
+      "Abych to zkrátil, krizový scenář se naplnil do posledního detailu."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Atmosféra byla velmi ...",
+    "translation": "The atmosphere was very ...",
+    "b1": [
+      "Atmosféra byla velmi příjemná.",
+      "Atmosféra byla velmi tichá.",
+      "Atmosféra byla velmi veselá.",
+      "Atmosféra byla velmi divná.",
+      "Atmosféra byla velmi horká."
+    ],
+    "b2": [
+      "Atmosféra byla velmi napjatá před začátkem důležitého zápasu.",
+      "Atmosféra byla velmi uvolněná během večerního posezení.",
+      "Atmosféra byla velmi slavnostní při předávání cen.",
+      "Atmosféra byla velmi chladná během jednání s vedením.",
+      "Atmosféra byla velmi inspirativní na té konferenci."
+    ],
+    "c1": [
+      "Atmosféra byla velmi elektrizující, když autoritativní řečník pronesl své zásadní poselství.",
+      "Atmosféra byla velmi depresivní v opuštěných prostorách zaniklé továrny.",
+      "Atmosféra byla velmi kontemplativní v tichu starobylého kláštera.",
+      "Atmosféra byla velmi nesnesitelná kvůli skrytým mocenským bojům v týmu.",
+      "Atmosféra byla velmi slavnostní a vznešená pod gotickými klenbami katedrály."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Kdybych to měl popsat jedním slovem, řekl bych ...",
+    "translation": "If I had to describe it in one word, I'd say ...",
+    "b1": [
+      "Kdybych to měl popsat jedním slovem, řekl bych skvělé.",
+      "Kdybych to měl popsat jedním slovem, řekl bych hrozné.",
+      "Kdybych to měl popsat jedním slovem, řekl bych zajímavé.",
+      "Kdybych to měl popsat jedním slovem, řekl bych rychlé.",
+      "Kdybych to měl popsat jedním slovem, řekl bych těžké."
+    ],
+    "b2": [
+      "Kdybych to měl popsat jedním slovem, řekl bych neuvěřitelné.",
+      "Kdybych to měl popsat jedním slovem, řekl bych poučné.",
+      "Kdybych to měl popsat jedním slovem, řekl bych chaotické.",
+      "Kdybych to měl popsat jedním slovem, řekl bych inspirativní.",
+      "Kdybych to měl popsat jedním slovem, řekl bych nezapomenutelné."
+    ],
+    "c1": [
+      "Kdybych to měl popsat jedním slovem, řekl bych katarzní.",
+      "Kdybych to měl popsat jedním slovem, řekl bych transcendentní.",
+      "Kdybych to měl popsat jedním slovem, řekl bych absurdní.",
+      "Kdybych to měl popsat jedním slovem, řekl bych epochální.",
+      "Kdybych to měl popsat jedním slovem, řekl bych fatální."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Nejzábavnější část na tom všem byla, když ...",
+    "translation": "The funniest part of the whole thing was ...",
+    "b1": [
+      "Nejzábavnější část na tom všem byla, když pes spadl do vody.",
+      "Nejzábavnější část na tom všem byla, když kuchař spálil koláč.",
+      "Nejzábavnější část na tom všem byla, když jsme ztratili cestu.",
+      "Nejzábavnější část na tom všem byla, když začal zpívat.",
+      "Nejzábavnější část na tom všem byla, když se dveře zablokovaly."
+    ],
+    "b2": [
+      "Nejzábavnější část na tom všem byla, když šéf omylem připojil kameru s legračním filtrem.",
+      "Nejzábavnější část na tom všem byla, když jsme na letišti zjistili, že stojíme u špatné brány.",
+      "Nejzábavnější část na tom všem byla, když se mi při prezentaci zasekl počítač na té nejhorší fotce.",
+      "Nejzábavnější část na tom všem byla, když se cizinec pokusil mluvit česky s legračním přízvukem.",
+      "Nejzábavnější část na tom všem byla, když nám číšník přinesl úplně jiné jídlo."
+    ],
+    "c1": [
+      "Nejzábavnější část na tom všem byla, když si nafoukaný akademik spletl vlastní teorii s tezí oponenta.",
+      "Nejzábavnější část na tom všem byla, když rigorózní protokol porušil sám jeho přísný autor.",
+      "Nejzábavnější část na tom všem byla, když honosná konference skončila totálním technickým fiaskem.",
+      "Nejzábavnější část na tom všem byla, když sofistikovaný algoritmický model vygeneroval zcela bizarní chybu.",
+      "Nejzábavnější část na tom všem byla, když pompézní oslava výročí skončila výpadkem proudu a zpěvem."
+    ]
+  }
+]

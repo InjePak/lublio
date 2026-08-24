@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Opravdu oceňuji tvou pomoc s ...",
+    "translation": "I truly appreciate your help with ...",
+    "b1": [
+      "Opravdu oceňuji tvou pomoc s úkoly.",
+      "Opravdu oceňuji tvou pomoc s vařením.",
+      "Opravdu oceňuji tvou pomoc s úklidem.",
+      "Opravdu oceňuji tvou pomoc s balením.",
+      "Opravdu oceňuji tvou pomoc s nákupem."
+    ],
+    "b2": [
+      "Opravdu oceňuji tvou pomoc s přípravou na prezentaci.",
+      "Opravdu oceňuji tvou pomoc s organizací naší oslavy.",
+      "Opravdu oceňuji tvou pomoc s technickým nastavením.",
+      "Opravdu oceňuji tvou pomoc s překladem tohoto dokumentu.",
+      "Opravdu oceňuji tvou pomoc s vyřizováním e-mailů."
+    ],
+    "c1": [
+      "Opravdu oceňuji tvou pomoc s hloubkovou analýzou tržních dat.",
+      "Opravdu oceňuji tvou pomoc s krizovým řízením projektu.",
+      "Opravdu oceňuji tvou pomoc s restrukturalizací našich interních procesů.",
+      "Opravdu oceňuji tvou pomoc s právní revizí smluvních podmínek.",
+      "Opravdu oceňuji tvou pomoc s implementací nového strategického plánu."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Máš neuvěřitelný talent na ...",
+    "translation": "You have a remarkable talent for ...",
+    "b1": [
+      "Máš neuvěřitelný talent na jazyky.",
+      "Máš neuvěřitelný talent na kreslení.",
+      "Máš neuvěřitelný talent na hudbu.",
+      "Máš neuvěřitelný talent na vaření.",
+      "Máš neuvěřitelný talent na sporty."
+    ],
+    "b2": [
+      "Máš neuvěřitelný talent na vysvětlování složitých věcí.",
+      "Máš neuvěřitelný talent na organizování lidí.",
+      "Máš neuvěřitelný talent na řešení technických problémů.",
+      "Máš neuvěřitelný talent na psaní poutavých textů.",
+      "Máš neuvěřitelný talent na navazování nových kontaktů."
+    ],
+    "c1": [
+      "Máš neuvěřitelný talent na deeskalaci napjatých vyjednávání.",
+      "Máš neuvěřitelný talent na syntézu komplexních teoretických konceptů.",
+      "Máš neuvěřitelný talent na predikci dlouhodobých tržních trendů.",
+      "Máš neuvěřitelný talent na formování vizionářské firemní kultury.",
+      "Máš neuvěřitelný talent na identifikaci skrytých systémových rizik."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Bylo od tebe neuvěřitelně pozorné, že jsi ...",
+    "translation": "That was incredibly thoughtful of you to ...",
+    "b1": [
+      "Bylo od tebe neuvěřitelně pozorné, že jsi mi koupil kávu.",
+      "Bylo od tebe neuvěřitelně pozorné, że jsi nezapomněl na mé narozeniny.",
+      "Bylo od tebe neuvěřitelně pozorné, že jsi pomohl babičce.",
+      "Bylo od tebe neuvěřitelně pozorné, že jsi přinesl deštník.",
+      "Bylo od tebe neuvěřitelně pozorné, že jsi uklidil kuchyň."
+    ],
+    "b2": [
+      "Bylo od tebe neuvěřitelně pozorné, že jsi mi nechal volný den po náročném týdnu.",
+      "Bylo od tebe neuvěřitelně pozorné, že jsi připravil záložní plán pro případ deště.",
+      "Bylo od tebe neuvěřitelně pozorné, že jsi myslel na mé dietní preference.",
+      "Bylo od tebe neuvěřitelně pozorné, že jsi vzal v úvahu názor celého týmu.",
+      "Bylo od tebe neuvěřitelně pozorné, že jsi mi poslal poznámky z porody."
+    ],
+    "c1": [
+      "Bylo od tebe neuvěřitelně pozorné, že jsi anticipoval mé obavy a upravil harmonogram.",
+      "Bylo od tebe neuvěřitelně pozorné, že jsi do dokumentace zahrnul i detailní kontext.",
+      "Bylo od tebe neuvěřitelně pozorné, že jsi chránil soukromí dotčených kolegů.",
+      "Bylo od tebe neuvěřitelně pozorné, že jsi zohlednil dopad rozhodnutí na slabší partnery.",
+      "Bylo od tebe neuvěřitelně pozorné, že jsi zajistil zpětnou vazbu před finálním schválením."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Jsem nesmírně vděčný/á za to, že ...",
+    "translation": "I'm so grateful for the fact that ...",
+    "b1": [
+      "Jsem nesmírně vděčný za to, že mám tak skvělé přátele.",
+      "Jsem nesmírně vděčná za to, že dneska svítí slunce.",
+      "Jsem nesmírně vděčný za to, že mi pomáháš s úkoly.",
+      "Jsem nesmírně vděčná za to, že žijeme v klidném městě.",
+      "Jsem nesmírně vděčný za to, že jsme všichni zdraví."
+    ],
+    "b2": [
+      "Jsem nesmírně vděčný za to, že se na tebe mohu vždy spolehnout.",
+      "Jsem nesmírně vděčná za to, že náš tým táhne za jeden provaz.",
+      "Jsem nesmírně vděčný za to, že máme prostor pro otevřenou diskusi.",
+      "Jsem nesmírně vděčná za to, že mi tato práce dává velkou svobodu.",
+      "Jsem nesmírně vděčný za to, že se z chyb dokážeme rychle poučit."
+    ],
+    "c1": [
+      "Jsem nesmírně vděčný za to, že sdílíme společnou vizi udržitelného rozvoje.",
+      "Jsem nesmírně vděčná za to, že institucionální podpora garantuje stabilitu projektu.",
+      "Jsem nesmírně vděčný za to, že kultura firmy umožňuje naprostou transparentnost.",
+      "Jsem nesmírně vděčná za to, že externí partneři projevují vysokou míru flexibility.",
+      "Jsem nesmírně vděčný za to, že metodologická přísnost přináší ověřitelné výsledky."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Tvůj smysl pro detail v ... je obdivuhodný.",
+    "translation": "Your attention to detail on ... is outstanding.",
+    "b1": [
+      "Tvůj smysl pro detail v kreslení je obdivuhodný.",
+      "Tvůj smysl pro detail v pečení je obdivuhodný.",
+      "Tvůj smysl pro detail v úklidu je obdivuhodný.",
+      "Tvůj smysl pro detail v módě je obdivuhodný.",
+      "Tvůj smysl pro detail v psaní je obdivuhodný."
+    ],
+    "b2": [
+      "Tvůj smysl pro detail v přípravě té smlouvy je obdivuhodný.",
+      "Tvůj smysl pro detail v designu uživatelského rozhraní je obdivuhodný.",
+      "Tvůj smysl pro detail při kontrole finančního rozpočtu je obdivuhodný.",
+      "Tvůj smysl pro detail v organizaci konference je obdivuhodný.",
+      "Tvůj smysl pro detail při korektuře textu je obdivuhodný."
+    ],
+    "c1": [
+      "Tvůj smysl pro detail v auditu kybernetické bezpečnosti je obdivuhodný.",
+      "Tvůj smysl pro detail při analýze právních kliček je obdivuhodný.",
+      "Tvůj smysl pro detail v kalibraci prediktivních modelů je obdivuhodný.",
+      "Tvůj smysl pro detail v kódování softwarové architektury je obdivuhodný.",
+      "Tvůj smysl pro detail při vyhodnocování makroekonomických rizik je obdivuhodný."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Chtěl/a jsem ti poděkovat konkrétně za ...",
+    "translation": "I wanted to thank you specifically for ...",
+    "b1": [
+      "Chtěl jsem ti poděkovat konkrétně za včerejší oběd.",
+      "Chtěla jsem ti poděkovat konkrétně za skvělý dárek.",
+      "Chtěl jsem ti poděkovat konkrétně za tvůj čas.",
+      "Chtěla jsem ti poděkovat konkrétně za pomoc s autem.",
+      "Chtěl jsem ti poděkovat konkrétně za zprávu."
+    ],
+    "b2": [
+      "Chtěl jsem ti poděkovat konkrétně za podporu během mé prezentace.",
+      "Chtěla jsem ti poděkovat konkrétně za skvělé nápady na včerejší poradě.",
+      "Chtěl jsem ti poděkovat konkrétně za rychlé vyřízení mé žádosti.",
+      "Chtěla jsem ti poděkovat konkrétně za záchranu celého projektu před uzávěrkou.",
+      "Chtěl jsem ti poděkovat konkrétně za užitečnou zpětnou vazbu."
+    ],
+    "c1": [
+      "Chtěl jsem ti poděkovat konkrétně za obhajobu mé strategie před představenstvem.",
+      "Chtěla jsem ti poděkovat konkrétně za mediaci během sporu se stakeholdery.",
+      "Chtěl jsem ti poděkovat konkrétně za včasnou identifikaci kritické systémové chyby.",
+      "Chtěla jsem ti poděkovat konkrétně za precizní revizi mých výzkumných dat.",
+      "Chtěl jsem ti poděkovat konkrétně za nasazení při krizovém řešení výpadku."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Zvládl/a jsi tu situaci s takovou elegancí a ...",
+    "translation": "You handled that situation with such grace and ...",
+    "b1": [
+      "Zvládla jsi tu situaci s takovou elegancí a klidem.",
+      "Zvládl jsi tu situaci s takovou elegancí a úsměvem.",
+      "Zvládla jsi tu situaci s takovou elegancí a trpělivostí.",
+      "Zvládl jsi tu situaci s takovou elegancí a silou.",
+      "Zvládla jsi tu situaci s takovou elegancí a přehledem."
+    ],
+    "b2": [
+      "Zvládl jsi tu situaci s takovou elegancí a profesionálním nadhledem.",
+      "Zvládla jsi tu situaci s takovou elegancí a obrovskou vnitřní silou.",
+      "Zvládl jsi tu situaci s takovou elegancí a diplomatickým taktem.",
+      "Zvládla jsi tu situaci s takovou elegancí a chladnou hlavou.",
+      "Zvládl jsi tu situaci s takovou elegancí a vzácnou pokorou."
+    ],
+    "c1": [
+      "Zvládl jsi tu situaci s takovou elegancí a neochvějnou mravní integritou.",
+      "Zvládla jsi tu situaci s takovou elegancí a brilantním strategickým důvtipem.",
+      "Zvládl jsi tu situaci s takovou elegancí a absolutní krizovou suverenitou.",
+      "Zvládla jsi tu situaci s takovou elegancí a hlubokým pochopením pro obě strany.",
+      "Zvládl jsi tu situaci s takovou elegancí a příkladnou odpovědností vůči kolektivu."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Bez ... bych to nezvládl/a.",
+    "translation": "I couldn't have done this without ...",
+    "b1": [
+      "Bez tvé pomoci bych to nezvládl.",
+      "Bez tvé rady bych to nezvládla.",
+      "Bez tvého auta bych to nezvládl.",
+      "Bez tvých peněz bych to nezvládla.",
+      "Bez tebe bych to nezvládl."
+    ],
+    "b2": [
+      "Bez tvé podpory bych ten projekt nikdy nedokončil.",
+      "Bez tvých cenných zkušeností bych to nezvládla včas.",
+      "Bez tvého skvělého vedení bych tu zkoušku neudělala.",
+      "Bez tvého nasazení bychom tento cíl nesplnili.",
+      "Bez tvých podkladů bych tu prezentaci nezvládl."
+    ],
+    "c1": [
+      "Bez tvé hluboké odborné analýzy bych tu krizovou situaci nezvládl.",
+      "Bez tvé precizní právní přípravy bychom obhajobu nezvládli.",
+      "Bez tvého systémového přístupu bychom tu transformaci nezvládli.",
+      "Bez tvé včasné intervence bych tu transakci nezvládl.",
+      "Bez tvé neúnavné mediace bychom tu dohodu nezvládli."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Tvůj pozitivní přístup je pro ... opravdu inspirující.",
+    "translation": "Your positive attitude is truly inspiring to ...",
+    "b1": [
+      "Tvůj pozitivní přístup je pro mě opravdu inspirující.",
+      "Tvůj pozitivní přístup je pro děti opravdu inspirující.",
+      "Tvůj pozitivní přístup je pro rodinu opravdu inspirující.",
+      "Tvůj pozitivní přístup je pro tátu opravdu inspirující.",
+      "Tvůj pozitivní přístup je pro přátele opravdu inspirující."
+    ],
+    "b2": [
+      "Tvůj pozitivní přístup je pro celý náš tým opravdu inspirující.",
+      "Tvůj pozitivní přístup je pro nové kolegy opravdu inspirující.",
+      "Tvůj pozitivní přístup je pro lidi v okolí opravdu inspirující.",
+      "Tvůj pozitivní přístup je pro studenty opravdu inspirující.",
+      "Tvůj pozitivní přístup je pro klienty opravdu inspirující."
+    ],
+    "c1": [
+      "Tvůj pozitivní přístup je pro exekutivní vedení společnosti opravdu inspirující.",
+      "Tvůj pozitivní přístup je pro podřízené pracovníky opravdu inspirující.",
+      "Tvůj pozitivní přístup je pro akademickou obec opravdu inspirující.",
+      "Tvůj pozitivní přístup je pro účastníky krizového programu opravdu inspirující.",
+      "Tvůj pozitivní přístup je pro mezinárodní partnery opravdu inspirující."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Děkuji ti, že ses vydal/a nad rámec svých povinností a ...",
+    "translation": "Thank you for going above and beyond to ...",
+    "b1": [
+      "Děkuji ti, že ses vydal nad rámec svých povinností a pomohl mi.",
+      "Děkuji ti, že ses vydala nad rámec svých povinností a uklidila to.",
+      "Děkuji ti, že ses vydal nad rámec svých povinností a přišel dřív.",
+      "Děkuji ti, že ses vydala nad rámec svých povinností a upekla koláč.",
+      "Děkuji ti, že ses vydal nad rámec svých povinností a koupil to."
+    ],
+    "b2": [
+      "Děkuji ti, že ses vydal nad rámec svých povinností a dokončil tu práci v noci.",
+      "Děkuji ti, že ses vydala nad rámec svých povinností a osobně navštívila klienta.",
+      "Děkuji ti, že ses vydal nad rámec svých povinností a připravil náhradní plán.",
+      "Děkuji ti, že ses vydala nad rámec svých povinností a zaučila nového kolegu.",
+      "Děkuji ti, že ses vydal nad rámec svých povinností a vyřešil ten problém."
+    ],
+    "c1": [
+      "Děkuji ti, že ses vydal nad rámec svých povinností a osobně dohlédl na bezpečnostní audit.",
+      "Děkuji ti, že ses vydala nad rámec svých povinností a zpracovala kompletní podklady pro investory.",
+      "Děkuji ti, že ses vydal nad rámec svých povinností a vedl vyjednávání během víkendu.",
+      "Děkuji ti, že ses vydala nad rámec svých povinností a zachránila ohroženou státní zakázku.",
+      "Děkuji ti, že ses vydal nad rámec svých povinností a zrevidoval celý kódový základ systému."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Opravdu obdivuji způsob, jakým ...",
+    "translation": "I really admire the way you ...",
+    "b1": [
+      "Opravdu obdivuji způsob, jakým mluvíš česky.",
+      "Opravdu obdivuji způsob, jakým vaříš.",
+      "Opravdu obdivuji způsob, jakým maluješ.",
+      "Opravdu obdivuji způsob, jakým běháš.",
+      "Opravdu obdivuji způsob, jakým zpíváš."
+    ],
+    "b2": [
+      "Opravdu obdivuji způsob, jakým komunikuješ s nespokojenými zákazníky.",
+      "Opravdu obdivuji způsob, jakým zvládáš stresové situace v práci.",
+      "Opravdu obdivuji způsob, jakým motivuješ lidi kolem sebe.",
+      "Opravdu obdivuji způsob, jakým si organizuješ svůj čas.",
+      "Opravdu obdivuji způsob, jakým řešíš složité konflikty."
+    ],
+    "c1": [
+      "Opravdu obdivuji způsob, jakým dekonstruuješ komplexní ekonomické modely.",
+      "Opravdu obdivuji způsob, jakým vyjednáváš o nejlepších podmínkách pro firmu.",
+      "Opravdu obdivuji způsob, jakým integruješ různorodé názory týmu do jednotné vize.",
+      "Opravdu obdivuji způsob, jakým udržuješ etické standardy pod obrovským tlakem.",
+      "Opravdu obdivuji způsob, jakým transformuješ teoretická data v praktická řešení."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Odvedl/a jsi skvělou práci na ...",
+    "translation": "What a wonderful job you did on ...",
+    "b1": [
+      "Odvedl jsi skvělou práci na domě.",
+      "Odvedla jsi skvělou práci na zahradě.",
+      "Odvedl jsi skvělou práci na autě.",
+      "Odvedla jsi skvělou práci na večeři.",
+      "Odvedl jsi skvělou práci na úkolu."
+    ],
+    "b2": [
+      "Odvedl jsi skvělou práci na té včerejší prezentaci.",
+      "Odvedla jsi skvělou práci na novém designu webu.",
+      "Odvedl jsi skvělou práci na přípravě té zprávy.",
+      "Odvedla jsi skvělou práci na organizaci festivalu.",
+      "Odvedl jsi skvělou práci na našem společném projektu."
+    ],
+    "c1": [
+      "Odvedl jsi skvělou práci na hloubkovém auditu korporátních financí.",
+      "Odvedla jsi skvělou práci na implementaci nového bezpečnostního protokolu.",
+      "Odvedl jsi skvělou práci na restrukturalizaci celého logistického řetězce.",
+      "Odvedla jsi skvělou práci na přípravě legislativního návrhu pro ministerstvo.",
+      "Odvedl jsi skvělou práci na migrovaném databázovém systému."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Znamená to pro mě celý svět, že ...",
+    "translation": "It means the world to me that ...",
+    "b1": [
+      "Znamená to pro mě celý svět, že jsi tady se mnou.",
+      "Znamená to pro mě celý svět, že mi věříš.",
+      "Znamená to pro mě celý svět, že mě podporuješ.",
+      "Znamená to pro mě celý svět, že mi pomáháš.",
+      "Znamená to pro mě celý svět, že jsi můj přítel."
+    ],
+    "b2": [
+      "Znamená to pro mě celý svět, že jsi při mně stál v těžkých časech.",
+      "Znamená to pro mě celý svět, že mi dáváš druhou šanci.",
+      "Znamená to pro mě celý svět, že oceňuješ moji snahu v práci.",
+      "Znamená to pro mě celý svět, že se s tebou mohu o všem poradit.",
+      "Znamená to pro mě celý svět, že sdílíme stejné životní hodnoty."
+    ],
+    "c1": [
+      "Znamená to pro mě celý svět, že respektuješ mou vizi a kráčíš za ní se mnou.",
+      "Znamená to pro mě celý svět, že jsi svou reputací zaštítil můj projekt.",
+      "Znamená to pro mě celý svět, že vnímáš mé morální dilema a kryješ mi záda.",
+      "Znamená to pro mě celý svět, že bezvýhradně důvěřuješ mým odborným úsudkům.",
+      "Znamená to pro mě celý svět, že jsi podpořil mou kandidaturu na vedoucí pozici."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Tvůj pohled na ... je neuvěřitelně cenný.",
+    "translation": "Your perspective on ... is incredibly valuable.",
+    "b1": [
+      "Tvůj pohled na věc je neuvěřitelně cenný.",
+      "Tvůj pohled na film je neuvěřitelně cenný.",
+      "Tvůj pohled na život je neuvěřitelně cenný.",
+      "Tvůj pohled na umění je neuvěřitelně cenný.",
+      "Tvůj pohled na lidi je neuvěřitelně cenný."
+    ],
+    "b2": [
+      "Tvůj pohled na marketingovou strategii je neuvěřitelně cenný.",
+      "Tvůj pohled na řízení lidí je neuvěřitelně cenný.",
+      "Tvůj pohled na rozpočet projektu je neuvěřitelně cenný.",
+      "Tvůj pohled na potřeby našich zákazníků je neuvěřitelně cenný.",
+      "Tvůj pohled na budoucí vývoj trhu je neuvěřitelně cenný."
+    ],
+    "c1": [
+      "Tvůj pohled na geopolitická rizika je neuvěřitelně cenný.",
+      "Tvůj pohled na strukturální reformu instituce je neuvěřitelně cenný.",
+      "Tvůj pohled na etické dopady umělé inteligence je neuvěřitelně cenný.",
+      "Tvůj pohled na makroekonomickou stabilitu je neuvěřitelně cenný.",
+      "Tvůj pohled na filozofické základy naší kultury je neuvěřitelně cenný."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Chci vyjádřit svou nejhlubší vděčnost za ...",
+    "translation": "I want to express my deepest gratitude for ...",
+    "b1": [
+      "Chci vyjádřit svou nejhlubší vděčnost za tvou pomoc.",
+      "Chci vyjádřit svou nejhlubší vděčnost za tvou laskavost.",
+      "Chci vyjádřit svou nejhlubší vděčnost za tvůj čas.",
+      "Chci vyjádřit svou nejhlubší vděčnost za tvou lásku.",
+      "Chci vyjádřit svou nejhlubší vděčnost za tvou podporu."
+    ],
+    "b2": [
+      "Chci vyjádřit svou nejhlubší vděčnost za záchranu celého obchodu.",
+      "Chci vyjádřit svou nejhlubší vděčnost za tvou loajalitu v těžkém období.",
+      "Chci vyjádřit svou nejhlubší vděčnost za tvé vedení během mé krize.",
+      "Chci vyjádřit svou nejhlubší vděčnost za poskytnutou finanční výpomoc.",
+      "Chci vyjádřit svou nejhlubší vděčnost za tvou vytrvalost a trpělivost."
+    ],
+    "c1": [
+      "Chci vyjádřit svou nejhlubší vděčnost za tvou bezpodmínečnou podporu mých zásadních rozhodnutí.",
+      "Chci vyjádřit svou nejhlubší vděčnost za tvůj osobní přínos k záchraně naší reputace.",
+      "Chci vyjádřit svou nejhlubší vděčnost za ochranu týmu před vnějšími politickými tlaky.",
+      "Chci vyjádřit svou nejhlubší vděčnost za celoživotní mentorství a sdílení zkušeností.",
+      "Chci vyjádřit svou nejhlubší vděčnost za oběti, které jsi přinesl pro rozvoj společnosti."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Udělal/a jsi obrovský rozdíl v ...",
+    "translation": "You've made a huge difference in ...",
+    "b1": [
+      "Udělal jsi obrovský rozdíl v mém životě.",
+      "Udělala jsi obrovský rozdíl v naší třídě.",
+      "Udělal jsi obrovský rozdíl v tomto domě.",
+      "Udělala jsi obrovský rozdíl v našem týmu.",
+      "Udělal jsi obrovský rozdíl v tomhle městě."
+    ],
+    "b2": [
+      "Udělala jsi obrovský rozdíl v našem celkovém prodeji.",
+      "Udělal jsi obrovský rozdíl v atmosféře na pracovišti.",
+      "Udělala jsi obrovský rozdíl v kvalitě zákaznického servisu.",
+      "Udělal jsi obrovský rozdíl v zabezpečení naší sítě.",
+      "Udělala jsi obrovský rozdíl v přístupu studentů k učení."
+    ],
+    "c1": [
+      "Udělal jsi obrovský rozdíl v celkové profitabilitě společnosti.",
+      "Udělala jsi obrovský rozdíl v nastavení etických norem v oboru.",
+      "Udělal jsi obrovský rozdíl v efektivitatingládního rozpočtu.",
+      "Udělala jsi obrovský rozdíl v udržitelnosti ekologických standardů.",
+      "Udělal jsi obrovský rozdíl v legislativním ukotvení lidských práv."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Jsem hluboce ohromen/a tvou schopností ...",
+    "translation": "I'm so impressed by your ability to ...",
+    "b1": [
+      "Jsem hluboce ohromen tvou schopností mluvit cizí řečí.",
+      "Jsem hluboce ohromena tvou schopností rychle běžet.",
+      "Jsem hluboce ohromen tvou schopností dobře vařit.",
+      "Jsem hluboce ohromena tvou schopností skvěle kreslit.",
+      "Jsem hluboce ohromen tvou schopností hrát na piano."
+    ],
+    "b2": [
+      "Jsem hluboce ohromen tvou schopností zachovat chladnou hlavu pod tlakem.",
+      "Jsem hluboce ohromena tvou schopností rychle se učit nové programy.",
+      "Jsem hluboce ohromen tvou schopností přesvědčit každého klienta.",
+      "Jsem hluboce ohromena tvou schopností zvládat více věcí najednou.",
+      "Jsem hluboce ohromen tvou schopností vést lidi k úspěchu."
+    ],
+    "c1": [
+      "Jsem hluboce ohromen tvou schopností predikovat krizové jevy na trhu.",
+      "Jsem hluboce ohromena tvou schopností syntetizovat rozporuplná právní data.",
+      "Jsem hluboce ohromen tvou schopností restrukturalizovat nefunkční struktury.",
+      "Jsem hluboce ohromena tvou schopností prosadit radikální inovace ve firmě.",
+      "Jsem hluboce ohromen tvou schopností navigovat instituci v geopolitické bouři."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Děkuji ti, že sis udělal/a čas na ...",
+    "translation": "Thank you for taking the time to ...",
+    "b1": [
+      "Děkuji ti, že sis udělal čas na mně.",
+      "Děkuji ti, že sis udělala čas na kávu.",
+      "Děkuji ti, že sis udělal čas na rozhovor.",
+      "Děkuji ti, že sis udělala čas na úklid.",
+      "Děkuji ti, že sis udělal čas na návštěvu."
+    ],
+    "b2": [
+      "Děkuji ti, že sis udělal čas na vysvětlení toho problému.",
+      "Děkuji ti, že sis udělala čas na osobní schůzku o víkendu.",
+      "Děkuji ti, že sis udělal čas na přečtenောက်ပ mého návrhu.",
+      "Děkuji ti, že sis udělala čas na zácvik nového zaměstnance.",
+      "Děkuji ti, že sis udělal čas na zodpovězení všech mých otázek."
+    ],
+    "c1": [
+      "Děkuji ti, že sis udělal čas na detailní supervizi mého výzkumu.",
+      "Děkuji ti, že sis udělala čas na individuální konzultaci mé strategické vize.",
+      "Děkuji ti, že sis udělal čas na osobní účast u řešení krizového incidentu.",
+      "Děkuji ti, že sis udělala čas na důkladnou recenzi mého odborného textu.",
+      "Děkuji ti, že sis udělal čas na mediaci v našem konfliktním týmu."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Máme velké štěstí, že máme někoho, kdo umí ...",
+    "translation": "We are fortunate to have someone who can ...",
+    "b1": [
+      "Máme velké štěstí, že máme někoho, kdo umí dobře vařit.",
+      "Máme velké štěstí, že máme někoho, kdo umí opravit auto.",
+      "Máme velké štěstí, že máme někoho, kdo umí bavit lidi.",
+      "Máme velké štěstí, že máme někoho, kdo umí zpívat.",
+      "Máme velké štěstí, že máme někoho, kdo umí počítat."
+    ],
+    "b2": [
+      "Máme velké štěstí, že máme někoho, kdo umí skvěle vyjednávat s partnery.",
+      "Máme velké štěstí, že máme někoho, kdo umí vyřešit každý technický problém.",
+      "Máme velké štěstí, že máme někoho, kdo umí udržet dobrou náladu.",
+      "Máme velké štěstí, že máme někoho, kdo umí psát perfektní texty.",
+      "Máme velké štěstí, že máme někoho, kdo umí vést účetnictví."
+    ],
+    "c1": [
+      "Máme velké štěstí, že máme někoho, kdo umí krizově řídit projekty pod tlakem.",
+      "Máme velké štěstí, že máme někoho, kdo umí interpretovat komplexní právní normy.",
+      "Máme velké štěstí, že máme někoho, kdo umí efektivně propojovat svět byznysu a vědy.",
+      "Máme velké štěstí, že máme někoho, kdo umí deeskalovat geopolitická napětí.",
+      "Máme velké štěstí, že máme někoho, kdo umí strukturálně inovovat celé portfolio."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Tvá ochota ... opravdu vyniká.",
+    "translation": "Your willingness to ... really stands out.",
+    "b1": [
+      "Tvá ochota pomáhat opravdu vyniká.",
+      "Tvá ochota učit se opravdu vyniká.",
+      "Tvá ochota sdílet opravdu vyniká.",
+      "Tvá ochota zkusit to opravdu vyniká.",
+      "Tvá ochota poslouchat opravdu vyniká."
+    ],
+    "b2": [
+      "Tvá ochota spolupracovat na novém projektu opravdu vyniká.",
+      "Tvá ochota riskovat pro dobrou věc opravdu vyniká.",
+      "Tvá ochota naslouchat názorům druhých opravdu vyniká.",
+      "Tvá ochota převzít odpovědnost opravdu vyniká.",
+      "Tvá ochota pomoci kolegům po pracovní době opravdu vyniká."
+    ],
+    "c1": [
+      "Tvá ochota podstoupit krizové řízení pod tlakem opravdu vyniká.",
+      "Tvá ochota obětovat osobní komfort kvůli úspěchu týmu opravdu vyniká.",
+      "Tvá ochota čelit systémovým chybám a kritice opravdu vyniká.",
+      "Tvá ochota implementovat radikální změny v procesech opravdu vyniká.",
+      "Tvá ochota hájit etické principy vůči vedení opravdu vyniká."
+    ]
+  }
+]

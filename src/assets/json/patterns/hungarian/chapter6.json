@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Szeretnék tájékoztatni, hogy ...",
+    "translation": "I'd like to inform you that ...",
+    "b1": [
+      "Szeretnék tájékoztatni, hogy holnap nem jövök.",
+      "Szeretnék tájékoztatni, hogy megérkezett a csomag.",
+      "Szeretnék tájékoztatni, hogy megváltozott a program.",
+      "Szeretnék tájékoztatni, hogy elkészült a feladat.",
+      "Szeretnék tájékoztatni, hogy nyitva vagyunk."
+    ],
+    "b2": [
+      "Szeretnék tájékoztatni, hogy a határidőt meghosszabbították.",
+      "Szeretnék tájékoztatni, hogy a találkozót elhalasztottuk.",
+      "Szeretnék tájékoztatni, hogy a jelentésedet elfogadták.",
+      "Szeretnék tájékoztatni, hogy új kolléga csatlakozik a csapathoz.",
+      "Szeretnék tájékoztatni, hogy a rendszer holnap karbantartás alatt áll."
+    ],
+    "c1": [
+      "Szeretnék tájékoztatni, hogy a konszorcium aláírta a keretmegállapodást.",
+      "Szeretnék tájékoztatni, hogy az audit eredménye alapján módosítani kell a büdzsét.",
+      "Szeretnék tájékoztatni, hogy a szabályzat legfrissebb módosítása hatályba lépett.",
+      "Szeretnék tájékoztatni, hogy a stratégiai átszervezés lezárult.",
+      "Szeretnék tájékoztatni, hogy a bírósági határozat jogerőre emelkedett."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "A legfontosabb tanulság itt az, hogy ...",
+    "translation": "The key takeaway here is ...",
+    "b1": [
+      "A legfontosabb tanulság itt az, hogy többet kell tanulni.",
+      "A legfontosabb tanulság itt az, hogy fontos a pontosság.",
+      "A legfontosabb tanulság itt az, hogy segítenünk kell egymásnak.",
+      "A legfontosabb tanulság itt az, hogy nem szabad feladni.",
+      "A legfontosabb tanulság itt az, hogy figyelni kell a részletekre."
+    ],
+    "b2": [
+      "A legfontosabb tanulság itt az, hogy a kommunikáció elengedhetetlen a sikerhez.",
+      "A legfontosabb tanulság itt az, hogy a tervezés megkönnyíti a munkát.",
+      "A legfontosabb tanulság itt az, hogy rugalmasnak kell lenni a változásokkal szemben.",
+      "A legfontosabb tanulság itt az, hogy az ügyfelek véleménye kulcsfontosságú.",
+      "A legfontosabb tanulság itt az, hogy a hibákból is lehet tanulni."
+    ],
+    "c1": [
+      "A legfontosabb tanulság itt az, hogy a proaktív kockázatkezelés megelőzi a rendszerszintű válságot.",
+      "A legfontosabb tanulság itt az, hogy az adatalapú döntéshozatal felülírja a megérzéseket.",
+      "A legfontosabb tanulság itt az, hogy az intézményi transzparencia növeli a bizalmat.",
+      "A legfontosabb tanulság itt az, hogy a fenntartható fejlődés alapfeltétele a hosszú távú növekedésnek.",
+      "A legfontosabb tanulság itt az, hogy a komplex projektekben elengedhetetlen a szinergia."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "A tisztázás végett úgy értem, hogy ...",
+    "translation": "To clarify, I mean ...",
+    "b1": [
+      "A tisztázás végett úgy értem, hogy holnap találkozunk.",
+      "A tisztázás végett úgy értem, hogy ez a táska az enyém.",
+      "A tisztázás végett úgy értem, hogy nem kérem a levest.",
+      "A tisztázás végett úgy értem, hogy korán indulunk.",
+      "A tisztázás végett úgy értem, hogy egyedül megyek."
+    ],
+    "b2": [
+      "A tisztázás végett úgy értem, hogy a jövő héten újra átnézzük a szerződést.",
+      "A tisztázás végett úgy értem, hogy a feladatot péntekig be kell fejezni.",
+      "A tisztázás végett úgy értem, hogy a költségeket fele-fele arányban osztjuk el.",
+      "A tisztázás végett úgy értem, hogy ez a szabály mindenmire vonatkozik.",
+      "A tisztázás végett úgy értem, hogy a támogatás csak a regisztráltakra érvényes."
+    ],
+    "c1": [
+      "A tisztázás végett úgy értem, hogy a konzorciumi szerződés nem tartalmaz kizárólagos jogokat.",
+      "A tisztázás végett úgy értem, hogy a határidő módosítása a pénzügyi feltételeket is érinti.",
+      "A tisztázás végett úgy értem, hogy a jogi felelősség a partnert terheli ebben a fázisban.",
+      "A tisztázás végett úgy értem, hogy a szerverfrissítés átmenetileg leállítja a tranzakciókat.",
+      "A tisztázás végett úgy értem, hogy a kutatási eredmények publikálása engedélyhez kötött."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "A jelentés szerint ...",
+    "translation": "According to the report, ...",
+    "b1": [
+      "A jelentés szerint holnap jó idő lesz.",
+      "A jelentés szerint minden rendben van.",
+      "A jelentés szerint késik a vonat.",
+      "A jelentés szerint drágább lett a benzin.",
+      "A jelentés szerint sokan érkeznek."
+    ],
+    "b2": [
+      "A jelentés szerint a gazdaság idén növekedést mutat.",
+      "A jelentés szerint a lakosság elégedett az új szolgáltatással.",
+      "A jelentés szerint az eladások harminc százalékkal nőttek.",
+      "A jelentés szerint a levegő minősége javult a városban.",
+      "A jelentés szerint a munkanélküliség csökkent az elmúlt hónapban."
+    ],
+    "c1": [
+      "A jelentés szerint a demográfiai mutatók drasztikus átrendeződést jeleznek előre.",
+      "A jelentés szerint a strukturális reformok elmaradása rontja a versenyképességet.",
+      "A jelentés szerint a szén-dioxid-kibocsátás túllépte az előírt határértéket.",
+      "A jelentés szerint a digitális gazdaság részaránya jelentősen bővült.",
+      "A jelentés szerint a makrogazdasági instabilitás gátolja a külföldi befektetéseket."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Más szavakkal kifejezve: ...",
+    "translation": "Let me rephrase that: ...",
+    "b1": [
+      "Más szavakkal kifejezve: nem tudok eljönni.",
+      "Más szavakkal kifejezve: nagyon tetszik a ruha.",
+      "Más szavakkal kifejezve: ez túl drága.",
+      "Más szavakkal kifejezve: holnap ráérek.",
+      "Más szavakkal kifejezve: ez a helyes út."
+    ],
+    "b2": [
+      "Más szavakkal kifejezve: a megbízást csak akkor kapjuk meg, ha időben végzünk.",
+      "Más szavakkal kifejezve: a tervünket teljesen át kell dolgozni.",
+      "Más szavakkal kifejezve: a jelenlegi helyzetben ez a legjobb opció.",
+      "Más szavakkal kifejezve: a költségvetés nem fedezi a plusz kiadásokat.",
+      "Más szavakkal kifejezve: a csapatnak jobban össze kell dolgoznia."
+    ],
+    "c1": [
+      "Más szavakkal kifejezve: a tőkebevonás hiánya ellehetetleníti a projekttágulást.",
+      "Más szavakkal kifejezve: a jogi kiskapuk megszüntetése radikális szemléletváltást igényel.",
+      "Más szavakkal kifejezve: az architekturális átalakítás az egész hálózatot érinti.",
+      "Más szavakkal kifejezve: a konszenzus hiánya miatt a határozat érvényét veszti.",
+      "Más szavakkal kifejezve: a humánerőforrás-gazdálkodás struktúráját fel kell számolni."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Amit mondani akartam, az az, hogy ...",
+    "translation": "What I meant to say was ...",
+    "b1": [
+      "Amit mondani akartam, az az, hogy köszönöm szépen.",
+      "Amit mondani akartam, az az, hogy nem értem.",
+      "Amit mondani akartam, az az, hogy holnap ráérek.",
+      "Amit mondani akartam, az az, hogy ez nehéz.",
+      "Amit mondani akartam, az az, hogy segítek."
+    ],
+    "b2": [
+      "Amit mondani akartam, az az, hogy a döntés nem volt szándékos.",
+      "Amit mondani akartam, az az, hogy a határidőt át kell ütemezni.",
+      "Amit mondani akartam, az az, hogy a korábbi javaslatod nagyon hasznos volt.",
+      "Amit mondani akartam, az az, hogy nem akartalak megbántani.",
+      "Amit mondani akartam, az az, hogy a cég jövője a mi kezünkben van."
+    ],
+    "c1": [
+      "Amit mondani akartam, az az, hogy a strukturális hiányosságok okozták a rendszerszintű összeomlást.",
+      "Amit mondani akartam, az az, hogy a jogi keretrendszer nem teszi lehetővé ezt a típusú manővert.",
+      "Amit mondani akartam, az az, hogy a konzorciumi partner kilépése veszélyezteti a finanszírozást.",
+      "Amit mondani akartam, az az, hogy a kutatási módszertanunkat teljesen felül kell vizsgálni.",
+      "Amit mondani akartam, az az, hogy az etikai aggályok felülírják a gazdasági érdekeket."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "A jelenlegi státusz az, hogy ...",
+    "translation": "The current status is that ...",
+    "b1": [
+      "A jelenlegi státusz az, hogy kész vagyok.",
+      "A jelenlegi státusz az, hogy még várok.",
+      "A jelenlegi státusz az, hogy zárva van.",
+      "A jelenlegi státusz az, hogy úton vagyok.",
+      "A jelenlegi státusz az, hogy szabad a hely."
+    ],
+    "b2": [
+      "A jelenlegi státusz az, hogy a dokumentumokat még vizsgálják.",
+      "A jelenlegi státusz az, hogy a weboldal frissítés alatt áll.",
+      "A jelenlegi státusz az, hogy a tárgyalások még folyamatban vannak.",
+      "A jelenlegi státusz az, hogy a jelentést elküldtük a főnöknek.",
+      "A jelenlegi státusz az, hogy a megbízást átmenetileg felfüggesztették."
+    ],
+    "c1": [
+      "A jelenlegi státusz az, hogy a jogi felülvizsgálat még nem zárult le hivatalosan.",
+      "A jelenlegi státusz az, hogy a tőkeemelési folyamat jóváhagyásra vár a hatóságnál.",
+      "A jelenlegi státusz az, hogy a konzorcium tagjai még vitatják a felelősségi köröket.",
+      "A jelenlegi státusz az, hogy a szoftver tesztelési fázisa késést szenvedett.",
+      "A jelenlegi státusz az, hogy a nemzetközi akkreditációs eljárás fellebbezési szakaszban van."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Más szavakkal, ...",
+    "translation": "In other words, ...",
+    "b1": [
+      "Más szavakkal, ez túl drága.",
+      "Más szavakkal, nem értek egyet.",
+      "Más szavakkal, nagyon tetszik.",
+      "Más szavakkal, el kell mennem.",
+      "Más szavakkal, minden rendben."
+    ],
+    "b2": [
+      "Más szavakkal, ha nem indulunk el most, elkéssük a vonatot.",
+      "Más szavakkal, a cégnek új stratégiára van szüksége a túléléshez.",
+      "Más szavakkal, a befektetésünk teljes mértékben megtérült.",
+      "Más szavakkal, a jelenlegi szabályzat korlátozza a lehetőségeinket.",
+      "Más szavakkal, a feladatot egyedül kell megoldanunk."
+    ],
+    "c1": [
+      "Más szavakkal, az elosztott főkönyvi technológia felszámolja a közvetítők szerepét.",
+      "Más szavakkal, a gazdasági stagnálás közvetlenül növeli a társadalmi feszültségeket.",
+      "Más szavakkal, a nyelvi homogenizáció veszélyezteti a kulturális örökséget.",
+      "Más szavakkal, a jogszabályi kétértelműség lehetőséget teremt a visszaélésekre.",
+      "Más szavakkal, a paradigmaváltás elkerülhetetlen a piacon maradáshoz."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Csak hogy biztosak lehessünk abban, hogy egyazon oldalon állunk, ...",
+    "translation": "Just to make sure we're on the same page, ...",
+    "b1": [
+      "Csak hogy biztosak lehessünk abban, hogy egyazon oldalon állunk, holnap találkozunk.",
+      "Csak hogy biztosak lehessünk abban, hogy egyazon oldalon állunk, ez a tiéd.",
+      "Csak hogy biztosak lehessünk abban, hogy egyazon oldalon állunk, segítesz nekem.",
+      "Csak hogy biztosak lehessünk abban, hogy egyazon oldalon állunk, én fizetek.",
+      "Csak hogy biztosak lehessünk abban, hogy egyazon oldalon állunk, elindulunk."
+    ],
+    "b2": [
+      "Csak hogy biztosak lehessünk abban, hogy egyazon oldalon állunk, a határidő péntek éjfél.",
+      "Csak hogy biztosak lehessünk abban, hogy egyazon oldalon állunk, tiéd a felelősség a projektért.",
+      "Csak hogy biztosak lehessünk abban, hogy egyazon oldalon állunk, a költségvetés nem változik.",
+      "Csak hogy biztosak lehessünk abban, hogy egyazon oldalon állunk, mindketten aláírjuk a papírt.",
+      "Csak hogy biztosak lehessünk abban, hogy egyazon oldalon állunk, a célunk a bevételek növelése."
+    ],
+    "c1": [
+      "Csak hogy biztosak lehessünk abban, hogy egyazon oldalon állunk, a szellemi tulajdonjogok nálunk maradnak.",
+      "Csak hogy biztosak lehessünk abban, hogy egyazon oldalon állunk, a konzorciumi megállapodás érvényesül.",
+      "Csak hogy biztosak lehessünk abban, hogy egyazon oldalon állunk, az audit feltételeit mindkét fél elfogadta.",
+      "Csak hogy biztosak lehessünk abban, hogy egyazon oldalon állunk, a jogi vitákat békés úton rendezzük.",
+      "Csak hogy biztosak lehessünk abban, hogy egyazon oldalon állunk, az erőforrásokat arányosan osztjuk el."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Ez alátámasztja, hogy ...",
+    "translation": "This confirms that ...",
+    "b1": [
+      "Ez alátámasztja, hogy igazad volt.",
+      "Ez alátámasztja, hogy esni fog az eső.",
+      "Ez alátámasztja, hogy ő a legjobb.",
+      "Ez alátámasztja, hogy itt volt.",
+      "Ez alátámasztja, hogy ez a helyes."
+    ],
+    "b2": [
+      "Ez alátámasztja, hogy a korábbi feltételezésünk helyes volt.",
+      "Ez alátámasztja, hogy a cég növekedési pályára állt.",
+      "Ez alátámasztja, hogy a reklámkampány sikeresnek bizonyult.",
+      "Ez alátámasztja, hogy a rendszer fejlesztésre szorul.",
+      "Ez alátámasztja, hogy a lakosság támogatja az új intézkedést."
+    ],
+    "c1": [
+      "Ez alátámasztja, hogy a strukturális reformok elengedhetetlenek a hosszú távú stabilitáshoz.",
+      "Ez alátámasztja, hogy a tőzsdei volatilitás közvetlen kapcsolatban áll a geopolitikai feszültségekkel.",
+      "Ez alátámasztja, hogy a digitális transzformáció érdemben csökkenti a működési költségeket.",
+      "Ez alátámasztja, hogy a klímaváltozás visszafordíthatatlan hatást gyakorol a lokális ökoszisztémára.",
+      "Ez alátámasztja, hogy az empirikus adatok felülírják a korábbi elméleti modelleket."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Engedd meg, hogy részletesebben kifejtsem ...",
+    "translation": "Allow me to elaborate on ...",
+    "b1": [
+      "Engedd meg, hogy részletesebben kifejtsem az ötletemet.",
+      "Engedd meg, hogy részletesebben kifejtsem a tervemet.",
+      "Engedd meg, hogy részletesebben kifejtsem a helyzetet.",
+      "Engedd meg, hogy részletesebben kifejtsem a problémát.",
+      "Engedd meg, hogy részletesebben kifejtsem a kérésemet."
+    ],
+    "b2": [
+      "Engedd meg, hogy részletesebben kifejtsem a jövő évi költségvetés tervezetét.",
+      "Engedd meg, hogy részletesebben kifejtsem az új marketingstratégia elemeit.",
+      "Engedd meg, hogy részletesebben kifejtsem a feladatelosztás szabályait.",
+      "Engedd meg, hogy részletesebben kifejtsem a partneri együttműködés előnyeit.",
+      "Engedd meg, hogy részletesebben kifejtsem a határidők módosításának okait."
+    ],
+    "c1": [
+      "Engedd meg, hogy részletesebben kifejtsem a portfólió-diverzifikáció makrogazdasági hátterét.",
+      "Engedd meg, hogy részletesebben kifejtsem a jogi kockázatértékelés legfőbb megállapításait.",
+      "Engedd meg, hogy részletesebben kifejtsem az intézményi reformok strukturális hatásait.",
+      "Engedd meg, hogy részletesebben kifejtsem a konzorciumi szerződés tervezetének jogi árnyalatait.",
+      "Engedd meg, hogy részletesebben kifejtsem a mesterséges intelligencia etikai szabályozásának dilemmáit."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "A részletek a következők: ...",
+    "translation": "The details are as follows: ...",
+    "b1": [
+      "A részletek a következők: időpont, helyszín, ár.",
+      "A részletek a következők: név, cím, telefonszám.",
+      "A részletek a következők: indulás, érkezés, vonatszám.",
+      "A részletek a következők: feladat, határidő, felelős.",
+      "A részletek a következők: étel, ital, desszert."
+    ],
+    "b2": [
+      "A részletek a következők: a rendezvény helyszíne, a belépő ára és a program.",
+      "A részletek a következők: a feladatok felosztása, a határidők és a céldokumentumok.",
+      "A részletek a következők: a költségek elszámolása, a számlaszám és a fizetési ütemezés.",
+      "A részletek a következők: a pályázat benyújtásának feltételei és a szükséges iratok.",
+      "A részletek a következők: a technikai követelmények és a szoftververziók."
+    ],
+    "c1": [
+      "A részletek a következők: a pénzügyi audit elszámolási tételei és a jogi záradékok.",
+      "A részletek a következők: a konzorciumi tagok hozzájárulási arányai és a profitmegosztási kulcsok.",
+      "A részletek a következők: a titoktartási nyilatkozat paragrafusai és a felelősségvállalási keretek.",
+      "A részletek a következők: az infrastruktúra-fejlesztési tender ütemterve és a mérföldkövek.",
+      "A részletek a következők: a munkavállalói juttatások struktúrája és a teljesítményértékelési metrikák."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "A fontos pont itt nem az, hogy ..., hanem az, hogy ...",
+    "translation": "The important point here is not ..., but ...",
+    "b1": [
+      "A fontos pont itt nem az, hogy mennyibe kerül, hanem az, hogy tetszik-e.",
+      "A fontos pont itt nem az, hogy mikor jössz, hanem az, hogy eljössz.",
+      "A fontos pont itt nem az, hogy mit mondott, hanem az, hogy mit tett.",
+      "A fontos pont itt nem az, hogy nehéz, hanem az, hogy megcsináljuk.",
+      "A fontos pont itt nem az, hogy esik, hanem az, hogy van autónk."
+    ],
+    "b2": [
+      "A fontos pont itt nem az, hogy mennyi pénzt költünk, hanem az, hogy milyen minőséget kapunk.",
+      "A fontos pont itt nem az, hogy ki a felelős, hanem az, hogy hogyan oldjuk meg a problémát.",
+      "A fontos pont itt nem az, hogy mikor érkezünk, hanem az, hogy biztonságban odaérjünk.",
+      "A fontos pont itt nem az, hogy egyetértünk-e mindenben, hanem az, hogy van közös célunk.",
+      "A fontos pont itt nem az, hogy elrontottuk, hanem az, hogy ki tudjuk javítani."
+    ],
+    "c1": [
+      "A fontos pont itt nem az, hogy mekkora a rövid távú nyereség, hanem az, hogy fenntartható-e a modell.",
+      "A fontos pont itt nem az, hogy milyen gyorsan növekszünk, hanem az, hogy mekkora a szervezet rezilienciája.",
+      "A fontos pont itt nem az, hogy ki kezdeményezte a reformot, hanem az, hogy milyen mélyrehatóak a változások.",
+      "A fontos pont itt nem az, hogy elkerülhetetlen-e a krízis, hanem az, hogy felkészültek vagyunk-e rá.",
+      "A fontos pont itt nem az, hogy megvannak-e a formális feltételek, hanem az, hogy létezik-e valós tartalmi konszenzus."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Például, tekintsük ...",
+    "translation": "For example, consider ...",
+    "b1": [
+      "Például, tekintsük ezt a könyvet.",
+      "Például, tekintsük a tegnapi esetet.",
+      "Például, tekintsük a kedvenc filmünket.",
+      "Például, tekintsük ezt az új autót.",
+      "Például, tekintsük a helyi piacot."
+    ],
+    "b2": [
+      "Például, tekintsük a tavalyi év eladási adatait a piacon.",
+      "Például, tekintsük a cégünk által bevezetett új környezetvédelmi szabályt.",
+      "Például, tekintsük egy átlagos magyar család havi kiadásait.",
+      "Például, tekintsük a budapesti tömegközlekedés fejlődését az elmúlt évtizedben.",
+      "Például, tekintsük a digitális oktatás hatását a diákok teljesítményére."
+    ],
+    "c1": [
+      "Például, tekintsük a skandináv jóléti államok adópolitikájának strukturális hatásait.",
+      "Például, tekintsük a mesterséges intelligencia integrációját a nemzetközi pénzügyi szektorba.",
+      "Például, tekintsük a lánc-technológia alkalmazását a globális ellátási láncok menedzsmentjében.",
+      "Például, tekintsük az uniós források elosztásának regionális egyenlőtlenségeit.",
+      "Például, tekintsük a multikulturális nagyvárosok integrációs kihívásait a migrációs hullámok fényében."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "A lényeg az, hogy ...",
+    "translation": "The bottom line is ...",
+    "b1": [
+      "A lényeg az, hogy sikerült.",
+      "A lényeg az, hogy jól vagyunk.",
+      "A lényeg az, hogy holnap találkozunk.",
+      "A lényeg az, hogy megvan a pénz.",
+      "A lényeg az, hogy nem esik."
+    ],
+    "b2": [
+      "A lényeg az, hogy a projeketet határidőre be kell fejezni.",
+      "A lényeg az, hogy az ügyfél elégedett legyen a szolgáltatással.",
+      "A lényeg az, hogy a költségeket a kereten belül kell tartanunk.",
+      "A lényeg az, hogy mindenki megértse a feladatát.",
+      "A lényeg az, hogy a minőségből nem engedhetünk."
+    ],
+    "c1": [
+      "A lényeg az, hogy tőkeinjekció nélkül a vállalkozás likviditása összeomlik.",
+      "A lényeg az, hogy a strukturális hiányosságok miatt a reform érvénytelen lesz.",
+      "A lényeg az, hogy a jogi megfelelés hiánya kizár a nemzetközi pályázatokból.",
+      "A lényeg az, hogy a globális versenyben csak az innováció tart életben.",
+      "A lényeg az, hogy a belső konszenzus nélkül a stratégia megvalósíthatatlan."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Tekintsük át a főbb megállapításokat: ...",
+    "translation": "Let's review the main findings: ...",
+    "b1": [
+      "Tekintsük át a főbb megállapításokat: ár, minőség, garancia.",
+      "Tekintsük át a főbb megállapításokat: előnyök és hátrányok.",
+      "Tekintsük át a főbb megállapításokat: időpontok és helyszínek.",
+      "Tekintsük át a főbb megállapításokat: a teszt eredménye.",
+      "Tekintsük át a főbb megállapításokat: a legfontosabb pontok."
+    ],
+    "b2": [
+      "Tekintsük át a főbb megállapításokat: a vevői elégedettség növekedett, de a költségek is magasabbak.",
+      "Tekintsük át a főbb megállapításokat: a piackutatás szerint új célközönséget kell elérnünk.",
+      "Tekintsük át a főbb megállapításokat: a tavalyi évhez képest javult a termelékenység.",
+      "Tekintsük át a főbb megállapításokat: a hibák túlnyomó többsége a kommunikáció hiányából adódik.",
+      "Tekintsük át a főbb megállapításokat: a felmérés alapján a dolgozók a rugalmas munkaidőt preferálják."
+    ],
+    "c1": [
+      "Tekintsük át a főbb megállapításokat: a makrogazdasági mutatók stagnálást, míg a technológiai szektor bővülést mutat.",
+      "Tekintsük át a főbb megállapításokat: a jogi audit során feltárt hiányosságok veszélyeztetik a fúziót.",
+      "Tekintsük át a főbb megállapításokat: a demográfiai elöregedés drasztikus terhet ró a nyugdíjrendszerre.",
+      "Tekintsük át a főbb megállapításokat: az empirikus adatok elvetik a korábbi hipotézis érvényességét.",
+      "Tekintsük át a főbb megállapításokat: a konszorciumi tagok elkötelezettsége kulcsfontosságú a fázis lezárásához."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "A helyzetet összefoglalva, ...",
+    "translation": "To sum up the situation, ...",
+    "b1": [
+      "A helyzetet összefoglalva, minden rendben van.",
+      "A helyzetet összefoglalva, holnap indulunk.",
+      "A helyzetet összefoglalva, szükségünk van segítségre.",
+      "A helyzetet összefoglalva, ez egy jó ötlet.",
+      "A helyzetet összefoglalva, kész vagyunk."
+    ],
+    "b2": [
+      "A helyzetet összefoglalva, a projekt a tervek szerint halad, de vannak kockázatok.",
+      "A helyzetet összefoglalva, a cég stabil lábakon áll, de a költségeket csökkenteni kell.",
+      "A helyzetet összefoglalva, a megegyezés közelebb van, mint gondoltuk.",
+      "A helyzetet összefoglalva, a hibákat időben észleltük és kijavítottuk.",
+      "A helyzetet összefoglalva, a sikerhez mindenkinek tennie kell a dolgát."
+    ],
+    "c1": [
+      "A helyzetet összefoglalva, a strukturális válság elhárításához azonnali intézkedésekre van szükség.",
+      "A helyzetet összefoglalva, a nemzetközi piaci nyomás miatt a stratégiát sürgősen át kell alakítani.",
+      "A helyzetet összefoglalva, a jogi és pénzügyi bizonytalanságok gátolják a tőkebevonást.",
+      "A helyzetet összefoglalva, a digitális transzformáció elkerülhetetlen feltétele a fennmaradásunknak.",
+      "A helyzetet összefoglalva, az intézményi autonómia megőrzése a legfontosabb prioritásunk."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Megítélésem szerint a helyzet az, hogy ...",
+    "translation": "My understanding is that ...",
+    "b1": [
+      "Megítélésem szerint a helyzet az, hogy mindenki készen áll.",
+      "Megítélésem szerint a helyzet az, hogy nem érkezett meg a csomag.",
+      "Megítélésem szerint a helyzet az, hogy holnap esni fog.",
+      "Megítélésem szerint a helyzet az, hogy ez a legjobb választás.",
+      "Megítélésem szerint a helyzet az, hogy segítséget kérnek."
+    ],
+    "b2": [
+      "Megítélésem szerint a helyzet az, hogy a cégünk jó pozícióban van a piacon.",
+      "Megítélésem szerint a helyzet az, hogy a megállapodás még nem végleges.",
+      "Megítélésem szerint a helyzet az, hogy a határidő tarthatatlan a jelenlegi erőforrásokkal.",
+      "Megítélésem szerint a helyzet az, hogy a kollégák támogatják a változtatást.",
+      "Megítélésem szerint a helyzet az, hogy a költségek nincsenek megfelelően kalkulálva."
+    ],
+    "c1": [
+      "Megítélésem szerint a helyzet az, hogy a konzorciumi partnerek érdekei részben ellentétesek.",
+      "Megítélésem szerint a helyzet az, hogy a jogszabályi változások új piacra lépési stratégiát igényelnek.",
+      "Megítélésem szerint a helyzet az, hogy az adatok elemzése komoly hiányosságokat mutat a menedzsmentben.",
+      "Megítélésem szerint a helyzet az, hogy a technológiai elmaradásunk visszafordíthatatlan károkat okozhat.",
+      "Megítélésem szerint a helyzet az, hogy a belső konfliktusok gátolják a szervezet fejlődését."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Csak hogy tiszta legyen, ...",
+    "translation": "Just to be clear, ...",
+    "b1": [
+      "Csak hogy tiszta legyen, én nem kérem.",
+      "Csak hogy tiszta legyen, holnap találkozunk.",
+      "Csak hogy tiszta legyen, ez az enyém.",
+      "Csak hogy tiszta legyen, egyedülmegyek.",
+      "Csak hogy tiszta legyen, kész vagyok."
+    ],
+    "b2": [
+      "Csak hogy tiszta legyen, a feladatot péntekig le kell adni.",
+      "Csak hogy tiszta legyen, a költségeket mi álljuk.",
+      "Csak hogy tiszta legyen, a találkozó online lesz.",
+      "Csak hogy tiszta legyen, nem értek egyet ezzel a döntéssel.",
+      "Csak hogy tiszta legyen, a támogatás csak egy alkalomra szól."
+    ],
+    "c1": [
+      "Csak hogy tiszta legyen, a konzorciumi szerződés nem fedezi a harmadik fél költségeit.",
+      "Csak hogy tiszta legyen, a jogi felelősség kizárólag a megbízót terheli ebben a fázisban.",
+      "Csak hogy tiszta legyen, az audit nem terjed ki a külföldi leányvállalatok tevékenységére.",
+      "Csak hogy tiszta legyen, a határidő lejárta után semmilyen módosítást nem fogadunk el.",
+      "Csak hogy tiszta legyen, a szellemi termékek kizárólagos tulajdonjoga nálunk marad."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "A végeredmény az volt, hogy ...",
+    "translation": "The final outcome was ...",
+    "b1": [
+      "A végeredmény az volt, hogy nyertünk.",
+      "A végeredmény az volt, hogy elkészült.",
+      "A végeredmény az volt, hogy nem jött el.",
+      "A végeredmény az volt, hogy esett.",
+      "A végeredmény az volt, hogy hazamentünk."
+    ],
+    "b2": [
+      "A végeredmény az volt, hogy a projektet határidő előtt lezártuk.",
+      "A végeredmény az volt, hogy az ügyfél elfogadta a módosított ajánlatot.",
+      "A végeredmény az volt, hogy a megbeszélés után mindenki egyetértett.",
+      "A végeredmény az volt, hogy a cég bevételei húsz százalékkal nőttek.",
+      "A végeredmény az volt, hogy a vizsgát mindenki sikeresen letette."
+    ],
+    "c1": [
+      "A végeredmény az volt, hogy a hosszas jogi viták ellenére sikerült elkerülni a csődöt.",
+      "A végeredmény az volt, hogy a konzorcium egyhangúlag jóváhagyta a stratégiai irányváltást.",
+      "A végeredmény az volt, hogy a tőkebevonási kör rekordösszegű befektetést eredményezett.",
+      "A végeredmény az volt, hogy a független audit semmilyen szabálytalanságot nem talált.",
+      "A végeredmény az volt, hogy a nemzetközi piacon a termékünk piacvezető pozíciót szerez"
+    ]
+  }
+]

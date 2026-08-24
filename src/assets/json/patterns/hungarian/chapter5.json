@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Hatalmasat érzek ...-vel kapcsolatban ...",
+    "translation": "I feel overwhelmingly ... about ...",
+    "b1": [
+      "Hatalmasat érzek örömöt a siker miatt.",
+      "Hatalmasat érzek büszkeséget a munka miatt.",
+      "Hatalmasat érzek izgalmat az utazás miatt.",
+      "Hatalmasat érzek hálát a segítségért.",
+      "Hatalmasat érzek nyomást a vizsga miatt."
+    ],
+    "b2": [
+      "Elsöprően pozitív érzéseim vannak az új lehetőséggel kapcsolatban.",
+      "Hatalmas bizonytalanságot érzek a jövőbeli terveinkkel kapcsolatban.",
+      "Elsöprő hálát érzek a barátaim támogatásával kapcsolatban.",
+      "Hatalmas lelkesedést érzek a közös projektünkkel kapcsolatban.",
+      "Elsöprő aggodalmat érzek a gazdasági helyzettel kapcsolatban."
+    ],
+    "c1": [
+      "Elsöprő egzisztenciális bizonytalanságot érzek a strukturális változásokkal kapcsolatban.",
+      "Hatalmas morális felelősséget érzek a döntéshozatali folyamat kimenetelével kapcsolatban.",
+      "Elsöprő megkönnyebbülést érzek a krízishelyzet elhárulásával kapcsolatban.",
+      "Hatalmas szakmai ambíciót érzek a nemzetközi pályázattal kapcsolatban.",
+      "Elsöprő elégedetlenséget érzek az intézményi reformok hiányával kapcsolatban."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Mélyen megérintette a szívem, amikor ...",
+    "translation": "It truly touched my heart when ...",
+    "b1": [
+      "Mélyen megérintette a szívem, amikor segített nekem.",
+      "Mélyen megérintette a szívem, amikor ezt mondta.",
+      "Mélyen megérintette a szívem, amikor megölelt.",
+      "Mélyen megérintette a szívem, amikor virágot hozott.",
+      "Mélyen megérintette a szívem, amikor rámosolygott."
+    ],
+    "b2": [
+      "Mélyen megérintette a szívem, amikor a kollégák megleptek a születésnapomon.",
+      "Mélyen megérintette a szívem, amikor láttam a hajléktalanoknak nyújtott segítséget.",
+      "Mélyen megérintette a szívem, amikor a nagymamám mesélni kezdett a múltból.",
+      "Mélyen megérintette a szívem, amikor az idegen ember visszaadta a pénztárcámat.",
+      "Mélyen megérintette a szívem, amikor a kisgyerek odaadta nekem a rajzát."
+    ],
+    "c1": [
+      "Mélyen megérintette a szívem, amikor a művész a koncert végén a közönségnek ajánlotta a darabot.",
+      "Mélyen megérintette a szívem, amikor a veterán elmesélte a túlélés történetét.",
+      "Mélyen megérintette a szívem, amikor a mentorom nyilvánosan elismerte a munkámat.",
+      "Mélyen megérintette a szívem, amikor a közösség összefogott a károsultak támogatására.",
+      "Mélyen megérintette a szívem, amikor az utolsó pillanatban megmentették a veszélyeztetett fajt."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Mélyen aggódom amiatt, hogy ...",
+    "translation": "I'm deeply concerned about ...",
+    "b1": [
+      "Mélyen aggódom amiatt, hogy megint esni fog az eső.",
+      "Mélyen aggódom amiatt, hogy nem érem el a vonatot.",
+      "Mélyen aggódom amiatt, hogy elrontom a tesztet.",
+      "Mélyen aggódom amiatt, hogy késik a barátom.",
+      "Mélyen aggódom amiatt, hogy beteg vagyok."
+    ],
+    "b2": [
+      "Mélyen aggódom amiatt, hogy a cég nem tudja tartani a határidőket.",
+      "Mélyen aggódom amiatt, hogy a fiatalok elveszítik a kapcsolatot a valósággal.",
+      "Mélyen aggódom amiatt, hogy a környezetszennyezés visszafordíthatatlan károkat okoz.",
+      "Mélyen aggódom amiatt, hogy a válság miatt sokan elveszítik a munkájukat.",
+      "Mélyen aggódom amiatt, hogy az egészségügyi rendszer túlterhelődik."
+    ],
+    "c1": [
+      "Mélyen aggódom amiatt, hogy a digitális omnipresencia insidieusan rombolja a kognitív funkciókat.",
+      "Mélyen aggódom amiatt, hogy a geopolitikai feszültségek fegyveres konfliktushoz vezetnek.",
+      "Mélyen aggódom amiatt, hogy a strukturális egyenlőtlenségek ellehetetlenítik a társadalmi mobilitást.",
+      "Mélyen aggódom amiatt, hogy az adatok korában a magánszféra védelme teljesen megszűnik.",
+      "Mélyen aggódom amiatt, hogy a makrogazdasági instabilitás bedönti a lokális piacokat."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Hatalmas kő esett le a szívemről, mert ...",
+    "translation": "There's a huge weight lifted off my shoulders because ...",
+    "b1": [
+      "Hatalmas kő esett le a szívemről, mert meglett a kulcsom.",
+      "Hatalmas kő esett le a szívemről, mert sikeres volt a vizsga.",
+      "Hatalmas kő esett le a szívemről, mert megérkezett a csomag.",
+      "Hatalmas kő esett le a szívemről, mert nem esett az eső.",
+      "Hatalmas kő esett le a szívemről, mert meggyógyult a kutyám."
+    ],
+    "b2": [
+      "Hatalmas kő esett le a szívemről, mert a főnök elfogadta a jelentésemet.",
+      "Hatalmas kő esett le a szívemről, mert sikeresen letelt a próbaidőm.",
+      "Hatalmas kő esett le a szívemről, mert a leletem negatív lett az orvosnál.",
+      "Hatalmas kő esett le a szívemről, mert megkaptam a várva várt igazolást.",
+      "Hatalmas kő esett le a szívemről, mert sikerült elkerülni a balesetet."
+    ],
+    "c1": [
+      "Hatalmas kő esett le a szívemről, mert a jogi audit sikeresen lezárult.",
+      "Hatalmas kő esett le a szívemről, mert a konzorcium aláírta a finanszírozási szerződést.",
+      "Hatalmas kő esett le a szívemről, mert a krízishelyzetet sikerült konszolidálni.",
+      "Hatalmas kő esett le a szívemről, mert a nemzetközi zsüri jóváhagyta a kutatási projektet.",
+      "Hatalmas kő esett le a szívemről, mert a tőkebevonás határidőre megvalósult."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Nem tudom elrejteni, mennyire értékelem ...",
+    "translation": "I can't hide how much I appreciate ...",
+    "b1": [
+      "Nem tudom elrejteni, mennyire értékelem a segítségedet.",
+      "Nem tudom elrejteni, mennyire értékelem ezt az ajándékot.",
+      "Nem tudom elrejteni, mennyire értékelem a kedvességedet.",
+      "Nem tudom elrejteni, mennyire értékelem a munkádat.",
+      "Nem tudom elrejteni, mennyire értékelem az idődet."
+    ],
+    "b2": [
+      "Nem tudom elrejteni, mennyire értékelem a támogatásodat a nehéz időszakban.",
+      "Nem tudom elrejteni, mennyire értékelem a türelmedet a projekt során.",
+      "Nem tudom elrejteni, mennyire értékelem a csapatmunkát és az összetartást.",
+      "Nem tudom elrejteni, mennyire értékelem az őszinte visszajelzésedet.",
+      "Nem tudom elrejteni, mennyire értékelem a rugalmasságodat a határidőkkel."
+    ],
+    "c1": [
+      "Nem tudom elrejteni, mennyire értékelem a szakmai mentorálásodat az akadémiai utamon.",
+      "Nem tudom elrejteni, mennyire értékelem a morális integritásodat a válsághelyzetben.",
+      "Nem tudom elrejteni, mennyire értékelem a stratégiai meglátásaidat a tárgyalások alatt.",
+      "Nem tudom elrejteni, mennyire értékelem az elhivatottságodat a közös értékek mentén.",
+      "Nem tudom elrejteni, mennyire értékelem a transzparens hozzáállásodat a vezetésben."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Mély szomorúságot érzek ... miatt.",
+    "translation": "I feel a profound sense of sadness over ...",
+    "b1": [
+      "Mély szomorúságot érzek a szakítás miatt.",
+      "Mély szomorúságot érzek a rossz hír miatt.",
+      "Mély szomorúságot érzek a macskám miatt.",
+      "Mély szomorúságot érzek az eső miatt.",
+      "Mély szomorúságot érzek a búcsú miatt."
+    ],
+    "b2": [
+      "Mély szomorúságot érzek a régi barátság megszakadása miatt.",
+      "Mély szomorúságot érzek a történelmi épület lebontása miatt.",
+      "Mély szomorúságot érzek a helyi park elhanyagolása miatt.",
+      "Mély szomorúságot érzek a családi hagyományok kopása miatt.",
+      "Mély szomorúságot érzek a kedvenc helyem bezárása miatt."
+    ],
+    "c1": [
+      "Mély szomorúságot érzek a kulturális örökségünk fokozatos erodálódása miatt.",
+      "Mély szomorúságot érzek a társadalmi szolidaritás hiánya miatt a válságban.",
+      "Mély szomorúságot érzek a biológiai sokféleség visszafordíthatatlan pusztulása miatt.",
+      "Mély szomorúságot érzek az értékrendek radikális átrendeződése felett.",
+      "Mély szomorúságot érzek a generációs szakadék mélyülése miatt."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Szavak sem kifejezhetik, hogy mennyire ...",
+    "translation": "Words can't describe how much ...",
+    "b1": [
+      "Szavak sem kifejezhetik, hogy mennyire örülök.",
+      "Szavak sem kifejezhetik, hogy mennyire köszönöm.",
+      "Szavak sem kifejezhetik, hogy mennyire szeretlek.",
+      "Szavak sem kifejezhetik, hogy mennyire hiányzol.",
+      "Szavak sem kifejezhetik, hogy mennyire sajnálom."
+    ],
+    "b2": [
+      "Szavak sem kifejezhetik, hogy mennyire hálás vagyok a meglepetésért.",
+      "Szavak sem kifejezhetik, hogy mennyire megkönnyebbültem a hír hallatán.",
+      "Szavak sem kifejezhetik, hogy mennyire lenyűgözött a teljesítményed.",
+      "Szavak sem kifejezhetik, hogy mennyire kimerültem a héten.",
+      "Szavak sem kifejezhetik, hogy mennyire büszke vagyok a csapatra."
+    ],
+    "c1": [
+      "Szavak sem kifejezhetik, hogy mennyire megrázott a tragikus esemény híre.",
+      "Szavak sem kifejezhetik, hogy mennyire inspirált a könyv filozófiai üzenete.",
+      "Szavak sem kifejezhetik, hogy mennyire elkötelezett vagyok a közös missziónk mellett.",
+      "Szavak sem kifejezhetik, hogy mennyire lenyűgözött a művészeti alkotás mélysége.",
+      "Szavak sem kifejezhetik, hogy mennyire megdöbbentett a döntéshozók közönye."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "A gondolattal is küzdök, hogy ...",
+    "translation": "I have been struggling with the thought of ...",
+    "b1": [
+      "A gondolattal is küzdök, hogy el kell mennem.",
+      "A gondolattal is küzdök, hogy meg kell tennem.",
+      "A gondolattal is küzdök, hogy egyedül leszek.",
+      "A gondolattal is küzdök, hogy vége a nyárnak.",
+      "A gondolattal is küzdök, hogy eladták a házat."
+    ],
+    "b2": [
+      "A gondolattal is küzdök, hogy fel kell adnom a vállalkozásomat.",
+      "A gondolattal is küzdök, hogy külföldre kell költöznöm a munka miatt.",
+      "A gondolattal is küzdök, hogy búcsút kell intenem a kollégáknak.",
+      "A gondolattal is küzdök, hogy teljesen új életet kell kezdenem.",
+      "A gondolattal is küzdök, hogy el kell fogadnom a vereséget."
+    ],
+    "c1": [
+      "A gondolattal is küzdök, hogy fel kell áldoznom az elveimet a karrieremért.",
+      "A gondolattal is küzdök, hogy a mesterséges intelligencia átveszi az alkotói szerepünket.",
+      "A gondolattal is küzdök, hogy a jelenlegi életformánk fenntarthatatlan a jövőre nézve.",
+      "A gondolattal is küzdök, hogy szembe kell néznem a saját korlátaimmal.",
+      "A gondolattal is küzdök, hogy le kell mondanom a többéves kutatói munkámról."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "A legnagyobb félelmem az, hogy ...",
+    "translation": "My greatest fear is that ...",
+    "b1": [
+      "A legnagyobb félelmem az, hogy eltévedek.",
+      "A legnagyobb félelmem az, hogy megbukom.",
+      "A legnagyobb félelmem az, hogy elkésem.",
+      "A legnagyobb félelmem az, hogy egyedül maradok.",
+      "A legnagyobb félelmem az, hogy nem értenek meg."
+    ],
+    "b2": [
+      "A legnagyobb félelmem az, hogy a befektetésem nem térül meg.",
+      "A legnagyobb félelmem az, hogy elveszítem a stabil munkámat.",
+      "A legnagyobb félelmem az, hogy nem tudom megfelelni az elvárásoknak.",
+      "A legnagyobb félelmem az, hogy elromlik az egészségem.",
+      "A legnagyobb félelmem az, hogy elszalasztom a legjobb lehetőséget."
+    ],
+    "c1": [
+      "A legnagyobb félelmem az, hogy a strukturális krízis teljesen felszámolja a középosztályt.",
+      "A legnagyobb félelmem az, hogy az embertelenség eluralja a globális intézményeket.",
+      "A legnagyobb félelmem az, hogy a technológiai fejlődés meghaladja az etikai kontrollunkat.",
+      "A legnagyobb félelmem az, hogy a kulturális identitásunk teljesen homogenizálódik.",
+      "A legnagyobb félelmem az, hogy a tudományos előrejelzések ellenére sem cselekszünk időben."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Ez a helyzet elég ... érzetet keltett bennem.",
+    "translation": "This situation has left me feeling quite ...",
+    "b1": [
+      "Ez a helyzet elég furcsa érzetet keltett bennem.",
+      "Ez a helyzet elég rossz érzetet keltett bennem.",
+      "Ez a helyzet elég kényelmetlen érzetet keltett bennem.",
+      "Ez a helyzet elég bizonytalan érzetet keltett bennem.",
+      "Ez a helyzet elég fura érzetet keltett bennem."
+    ],
+    "b2": [
+      "Ez a helyzet elég bizonytalan érzetet keltett bennem a jövőt illetően.",
+      "Ez a helyzet elég frusztráló érzetet keltett bennem a munkahelyen.",
+      "Ez a helyzet elég csalódott érzetet keltett bennem a barátaim miatt.",
+      "Ez a helyzet elég elszigetelt érzetet keltett bennem az új városban.",
+      "Ez a helyzet elég zavarodott érzetet keltett bennem a döntéskor."
+    ],
+    "c1": [
+      "Ez a helyzet elég ambivalens érzetet keltett bennem a strukturális reformokat illetően.",
+      "Ez a helyzet elég kiábrándult érzetet keltett bennem a hivatalos szervek hozzáállása miatt.",
+      "Ez a helyzet elég egzisztenciálisan bizonytalan érzetet keltett bennem a piacon.",
+      "Ez a helyzet elég alienált érzetet keltett bennem a modern technológiai környezetben.",
+      "Ez a helyzet elég morálisan megkérdőjelezhető érzetet keltett bennem a megállapodás után."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Megszakad a szívem, amikor látom, hogy ...",
+    "translation": "It breaks my heart to see ...",
+    "b1": [
+      "Megszakad a szívem, amikor látom, hogy sírsz.",
+      "Megszakad a szívem, amikor látom, hogy szomorú vagy.",
+      "Megszakad a szívem, amikor látom az elhagyott kutyákat.",
+      "Megszakad a szívem, amikor látom, hogy esik az eső.",
+      "Megszakad a szívem, amikor látom a fák vágását."
+    ],
+    "b2": [
+      "Megszakad a szívem, amikor látom az idős embereket egyedül a parkban.",
+      "Megszakad a szívem, amikor látom a kisboltok bezárását a környéken.",
+      "Megszakad a szívem, amikor látom az éhező gyerekeket a tévében.",
+      "Megszakad a szívem, amikor látom a lerombolt történelmi épületeket.",
+      "Megszakad a szívem, amikor látom a tehetetlen embereket a krízisben."
+    ],
+    "c1": [
+      "Megszakad a szívem, amikor látom az oktatási rendszerből kieső fiatalok reménytelenségét.",
+      "Megszakad a szívem, amikor látom az őshonos kultúrák és nyelvek pusztulását.",
+      "Megszakad a szívem, amikor látom a természeti katasztrófák áldozatainak küzdelmét.",
+      "Megszakad a szívem, amikor látom a humán értékek leértékelődését a gazdasági érdekekért.",
+      "Megszakad a szívem, amikor látom az igazságtalanságot a kiszolgáltatott emberekkel szemben."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Őszintén csodálom az erödet abban, hogy ...",
+    "translation": "I genuinely admire your strength in ...",
+    "b1": [
+      "Őszintén csodálom az erödet abban, hogy nem adod fel.",
+      "Őszintén csodálom az erödet abban, hogy mindent kibírsz.",
+      "Őszintén csodálom az erödet abban, hogy mosolyogsz.",
+      "Őszintén csodálom az erödet abban, hogy egyedül csinálod.",
+      "Őszintén csodálom az erödet abban, hogy segítesz másoknak."
+    ],
+    "b2": [
+      "Őszintén csodálom az erödet abban, hogy ilyen higgadtan kezeled a kritikát.",
+      "Őszintén csodálom az erödet abban, hogy újrakezdted az életed külföldön.",
+      "Őszintén csodálom az erödet abban, hogy végigcsináltad ezt a nehéz vizsgát.",
+      "Őszintén csodálom az erödet abban, hogy gondoskodsz a beteg családtagodról.",
+      "Őszintén csodálom az erödet abban, hogy bátran kiállsz az igazadért."
+    ],
+    "c1": [
+      "Őszintén csodálom az erödet abban, hogy a legsúlyosabb morális válságban is megőrizted az integritásodat.",
+      "Őszintén csodálom az erödet abban, hogy a kudarcaidból építkezve vezeted a konzorciumot.",
+      "Őszintén csodálom az erödet abban, hogy a szembenálló felek között konszenzust teremtettél.",
+      "Őszintén csodálom az erödet abban, hogy a magánéleti tragédia ellenére is fenntartottad a kutatást.",
+      "Őszintén csodálom az erödet abban, hogy a bürokratikus gátak ellenére végigvitted a reformot."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "A mély jelentés ... mögött az, hogy ...",
+    "translation": "The deep meaning behind ... is ...",
+    "b1": [
+      "A mély jelentés a csend mögött az, hogy pihenni akar.",
+      "A mély jelentés a szó mögött az, hogy szeret.",
+      "A mély jelentés a mosoly mögött az, hogy fél.",
+      "A mély jelentés a ajándék mögött az, hogy fontos vagyok.",
+      "A mély jelentés a levél mögött az, hogy búcsúzik."
+    ],
+    "b2": [
+      "A mély jelentés a döntése mögött az, hogy védeni akarja a családját.",
+      "A mély jelentés a gesztus mögött az, hogy bocsánatot kér tőlünk.",
+      "A mély jelentés a mondatai mögött az, hogy nem bízik a rendszerben.",
+      "A mély jelentés a kitartása mögött az, hogy hisz a céljában.",
+      "A mély jelentés a hallgatása mögött az, hogy nem akar veszekedni."
+    ],
+    "c1": [
+      "A mély jelentés a műalkotás allegóriája mögött az, hogy az emberi létezés mulandóságát mutatja be.",
+      "A mély jelentés a gazdasági stratégia váltása mögött az, hogy alkalmazkodni kell a globális paradigmához.",
+      "A mély jelentés a jogszabály-módosítás mögött az, hogy az intézményi autonómiát korlátozzák.",
+      "A mély jelentés a tudományos publikáció időzítése mögött az, hogy meg akarják előzni a versenytársakat.",
+      "A mély jelentés a strukturális reform elutasítása mögött az, hogy védik a megszerzett privilégiumokat."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Teljesen letaglózott az a hír, hogy ...",
+    "translation": "I'm absolutely devastated by ...",
+    "b1": [
+      "Teljesen letaglózott az a hír, hogy elmegy.",
+      "Teljesen letaglózott az a hír, hogy bezár a bolt.",
+      "Teljesen letaglózott az a hír, hogy törölték a programot.",
+      "Teljesen letaglózott az a hír, hogy esni fog.",
+      "Teljesen letaglózott az a hír, hogy elvesztette a kulcsát."
+    ],
+    "b2": [
+      "Teljesen letaglózott az a hír, hogy a barátom elveszítette a munkahelyét.",
+      "Teljesen letaglózott az a hír, hogy a kedvenc éttermünk végleg bezárt.",
+      "Teljesen letaglózott az a hír, hogy a projektünket nem finanszírozzák tovább.",
+      "Teljesen letaglózott az a hír, hogy a tanárunk súlyos beteg lett.",
+      "Teljesen letaglózott az a hír, hogy elmarad a várva várt utazásunk."
+    ],
+    "c1": [
+      "Teljesen letaglózott az a hír, hogy a kutatócsoportunk évtizedes munkáját érvénytelenítették.",
+      "Teljesen letaglózott az a hír, hogy a történelmi műemléket elsodorta a katasztrófa.",
+      "Teljesen letaglózott az a hír, hogy a mentorunk hirtelen elhunyt a konferencia előtt.",
+      "Teljesen letaglózott az a hír, hogy a nemzetközi partnercég csődbe ment az ügyletünkkor.",
+      "Teljesen letaglózott az a hír, hogy az intézményt megfosztották az akkreditációjától."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Nehéz szavakba önteni azt az örömet, amit akkor érzek, amikor ...",
+    "translation": "It's hard to articulate the joy I feel when ...",
+    "b1": [
+      "Nehéz szavakba önteni azt az örömet, amit akkor érzek, amikor hazajövök.",
+      "Nehéz szavakba önteni azt az örömet, amit akkor érzek, amikor látlak.",
+      "Nehéz szavakba önteni azt az örömet, amit akkor érzek, amikor süt a nap.",
+      "Nehéz szavakba önteni azt az örömet, amit akkor érzek, amikor együtt vagyunk.",
+      "Nehéz szavakba önteni azt az örömet, amit akkor érzek, amikor megölelsz."
+    ],
+    "b2": [
+      "Nehéz szavakba önteni azt az örömet, amit akkor érzek, amikor sikerül elérni a kitűzött célt.",
+      "Nehéz szavakba önteni azt az örömet, amit akkor érzek, amikor átölelem a családtagjaimat.",
+      "Nehéz szavakba önteni azt az örömet, amit akkor érzek, amikor a zene hallgatása közben kikapcsolódom.",
+      "Nehéz szavakba önteni azt az örömet, amit akkor érzek, amikor meglátom a tengert nyaraláskor.",
+      "Nehéz szavakba önteni azt az örömet, amit akkor érzek, amikor egy nehéz feladat végére érek."
+    ],
+    "c1": [
+      "Nehéz szavakba önteni azt az örömet, amit akkor érzek, amikor a többéves kutatásom igazolódik az adatokban.",
+      "Nehéz szavakba önteni azt az örömet, amit akkor érzek, amikor a növendékeim sikeresen megvédik a diplomájukat.",
+      "Nehéz szavakba önteni azt az örömet, amit akkor érzek, amikor a művészeti alkotásom megérinti a közönséget.",
+      "Nehéz szavakba önteni azt az örömet, amit akkor érzek, amikor a krízis után újraépül a közösségi egység.",
+      "Nehéz szavakba önteni azt az örömet, amit akkor érzek, amikor egy nemzetközi projektben a víziónk valósággá válik."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Ez a tapasztalat új perspektívát adott nekem ...-vel kapcsolatban.",
+    "translation": "This experience has given me a new perspective on ...",
+    "b1": [
+      "Ez a tapasztalat új perspektívát adott nekem az élettel kapcsolatban.",
+      "Ez a tapasztalat új perspektívát adott nekem a barátsággal kapcsolatban.",
+      "Ez a tapasztalat új perspektívát adott nekem a munkával kapcsolatban.",
+      "Ez a tapasztalat új perspektívát adott nekem a pénzzel kapcsolatban.",
+      "Ez a tapasztalat új perspektívát adott nekem a tanulással kapcsolatban."
+    ],
+    "b2": [
+      "Ez a tapasztalat új perspektívát adott nekem a stresszkezeléssel kapcsolatban a munkában.",
+      "Ez a tapasztalat új perspektívát adott nekem a kulturális különbségekkel kapcsolatban.",
+      "Ez a tapasztalat új perspektívát adott nekem a prioritásaim meghatározásával kapcsolatban.",
+      "Ez a tapasztalat új perspektívát adott nekem a csapatmunka hatékonyságával kapcsolatban.",
+      "Ez a tapasztalat új perspektívát adott nekem a hibaértékeléssel kapcsolatban az életben."
+    ],
+    "c1": [
+      "Ez a tapasztalat új perspektívát adott nekem a humántőke menedzsmentjével kapcsolatban a válság idején.",
+      "Ez a tapasztalat új perspektívát adott nekem a makrogazdasági folyamatok és az egyéni felelősség viszonyában.",
+      "Ez a tapasztalat új perspektívát adott nekem a jogi normák és az etikai elvek konfliktusáról.",
+      "Ez a tapasztalat új perspektívát adott nekem a fenntartható fejlődés és a technológia kapcsolatáról.",
+      "Ez a tapasztalat új perspektívát adott nekem az intézményi struktúrák rugalmasságáról."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Hatalmas megkönnyebbülést érzek amiatt, hogy ...",
+    "translation": "I feel an immense sense of relief that ...",
+    "b1": [
+      "Hatalmas megkönnyebbülést érzek amiatt, hogy vége a vizsgának.",
+      "Hatalmas megkönnyebbülést érzek amiatt, hogy megjött a pénz.",
+      "Hatalmas megkönnyebbülést érzek amiatt, hogy nem esett az eső.",
+      "Hatalmas megkönnyebbülést érzek amiatt, hogy felhívott.",
+      "Hatalmas megkönnyebbülést érzek amiatt, hogy megtaláltam."
+    ],
+    "b2": [
+      "Hatalmas megkönnyebbülést érzek amiatt, hogy a műtét sikeresen lezajlott.",
+      "Hatalmas megkönnyebbülést érzek amiatt, hogy sikerült leadni a pályázatot időben.",
+      "Hatalmas megkönnyebbülést érzek amiatt, hogy tisztáztuk a félreértést a főnökkel.",
+      "Hatalmas megkönnyebbülést érzek amiatt, hogy megkaptam a pozitív visszajelzést.",
+      "Hatalmas megkönnyebbülést érzek amiatt, hogy a gépem pontosan landolt."
+    ],
+    "c1": [
+      "Hatalmas megkönnyebbülést érzek amiatt, hogy a bírósági eljárás felmentést hozott számunkra.",
+      "Hatalmas megkönnyebbülést érzek amiatt, hogy a tőkeinjekció megmentette a céget a csődtől.",
+      "Hatalmas megkönnyebbülést érzek amiatt, hogy az audit során nem találtak szabálytalanságot.",
+      "Hatalmas megkönnyebbülést érzek amiatt, hogy a globális partner elfogadta a módosításainkat.",
+      "Hatalmas megkönnyebbülést érzek amiatt, hogy a krízishelyzetet sikerült ellenőrzés alatt tartani."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Üresség érzése uralkodik el rajtam azóta, hogy ...",
+    "translation": "There is a feeling of emptiness since ...",
+    "b1": [
+      "Üresség érzése uralkodik el rajtam azóta, hogy elmentél.",
+      "Üresség érzése uralkodik el rajtam azóta, hogy vége a filmnek.",
+      "Üresség érzése uralkodik el rajtam azóta, hogy kiürült a ház.",
+      "Üresség érzése uralkodik el rajtam azóta, hogy elköltöztél.",
+      "Üresség érzése uralkodik el rajtam azóta, hogy elaludtál."
+    ],
+    "b2": [
+      "Üresség érzése uralkodik el rajtam azóta, hogy befejeztem a többéves egyetemet.",
+      "Üresség érzése uralkodik el rajtam azóta, hogy elköltöztek a legjobb barátaim.",
+      "Üresség érzése uralkodik el rajtam azóta, hogy leadtam a sikeres projektemet.",
+      "Üresség érzése uralkodik el rajtam azóta, hogy véget ért a nyári szabadságom.",
+      "Üresség érzése uralkodik el rajtam azóta, hogy leszereltem a munkahelyemről."
+    ],
+    "c1": [
+      "Üresség érzése uralkodik el rajtam azóta, hogy a nagyszabású kutatómunka végére értem.",
+      "Üresség érzése uralkodik el rajtam azóta, hogy a konzorciumi megállapodást lezárták.",
+      "Üresség érzése uralkodik el rajtam azóta, hogy a szellemi mentori feladataimat átadtam.",
+      "Üresség érzése uralkodik el rajtam azóta, hogy az intézményi reformokat véglegesítették.",
+      "Üresség érzése uralkodik el rajtam azóta, hogy a krízisstáb feloszlatta magát."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Teljes felelősséget vállalok az ... érzésemért.",
+    "translation": "I take full responsibility for my feeling of ...",
+    "b1": [
+      "Teljes felelősséget vállalok a dühös érzésemért.",
+      "Teljes felelősséget vállalok a szomorú érzésemért.",
+      "Teljes felelősséget vállalok a csalódott érzésemért.",
+      "Teljes felelősséget vállalok a félős érzésemért.",
+      "Teljes felelősséget vállalok a meglepett érzésemért."
+    ],
+    "b2": [
+      "Teljes felelősséget vállalok a döntésem okozta bizonytalan érzésemért.",
+      "Teljes felelősséget vállalok a hibás jelentés miatti frusztrált érzésemért.",
+      "Teljes felelősséget vállalok a vita alatti hirtelen dühös érzésemért.",
+      "Teljes felelősséget vállalok a félreértésből fakadó csalódott érzésemért.",
+      "Teljes felelősséget vállalok a felkészületlenségem miatti szorongó érzésemért."
+    ],
+    "c1": [
+      "Teljes felelősséget vállalok a stratégiai tévedésből eredő morális felelősségérzésemért.",
+      "Teljes felelősséget vállalok a projektcsúszás miatti szakmai kudarctudatomért.",
+      "Teljes felelősséget vállalok a rossz kommunikációból adódó izolációs érzésemért.",
+      "Teljes felelősséget vállalok a túlzott elvárásaim okozta kiégettségi érzésemért.",
+      "Teljes felelősséget vállalok a vezetési hiányosságokból fakadó bűntudatomért."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "A helyzet intenzitása arra késztetett, hogy ... érezzek.",
+    "translation": "The intensity of the situation made me feel ...",
+    "b1": [
+      "A helyzet intenzitása arra késztetett, hogy félelmet érezzek.",
+      "A helyzet intenzitása arra késztetett, hogy zavart érezzek.",
+      "A helyzet intenzitása arra késztetett, hogy stresszt érezzek.",
+      "A helyzet intenzitása arra késztetett, hogy örömet érezzek.",
+      "A helyzet intenzitása arra késztetett, hogy erőt érezzek."
+    ],
+    "b2": [
+      "A helyzet intenzitása arra késztetett, hogy egyszerre érezzek dühöt és tehetetlenséget.",
+      "A helyzet intenzitása arra késztetett, hogy mély bizonytalanságot érezzek a jövőre nézve.",
+      "A helyzet intenzitása arra késztetett, hogy extrém nyomást érezzek a döntéshozatalban.",
+      "A helyzet intenzitása arra késztetett, hogy hatalmas megkönnyebbülést érezzek a végén.",
+      "A helyzet intenzitása arra késztetett, hogy átmeneti zavarodottságot érezzek a megbeszélésen."
+    ],
+    "c1": [
+      "A helyzet intenzitása arra késztetett, hogy egzisztenciális magányt és teljes elszigeteltséget érezzek a krízis alatt.",
+      "A helyzet intenzitása arra késztetett, hogy fokozott morális felelősséget és bénító feszültséget érezzek.",
+      "A helyzet intenzitása arra késztetett, hogy kognitív túlterheltséget és teljes kimerültséget érezzek az audit során.",
+      "A helyzet intenzitása arra késztetett, hogy egyszerre érezzek radikális kétségbeesést és katarzist.",
+      "A helyzet intenzitása arra késztetett, hogy rendszerszintű bizonytalanságot és stratégiai bénultságot érezzek."
+    ]
+  }
+]

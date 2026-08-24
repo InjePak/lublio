@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Rád(a) bych vás informoval(a), že ...",
+    "translation": "I'd like to inform you that ...",
+    "b1": [
+      "Rád bych vás informoval, že schůzka byla zrušena.",
+      "Ráda bych vás informovala, že dokument je připraven.",
+      "Rád bych vás informoval, že zítra nepřijdu do práce.",
+      "Ráda bych vás informovala, že balíček dorazil.",
+      "Rád bych vás informoval, že kurz začíná v pondělí."
+    ],
+    "b2": [
+      "Rád bych vás informoval, že projekt byl schválen vedením.",
+      "Ráda bych vás informovala, že termín odevzdání byl prodloužen.",
+      "Rád bych vás informoval, že došlo ke změně v harmonogramu.",
+      "Ráda bych vás informovala, že smlouva byla úspěšně podepsána.",
+      "Rád bych vás informoval, že rozpočet na příští rok byl navýšen."
+    ],
+    "c1": [
+      "Rád bych vás informoval, že audit neodhalil žádné závažné nesrovnalosti.",
+      "Ráda bych vás informovala, že představenstvo ratifikovalo novou strategii.",
+      "Rád bych vás informoval, že institucionální financování bylo plně obnoveno.",
+      "Ráda bych vás informovala, že implementace bezpečnostního protokolu proběhla bez chyb.",
+      "Rád bych vás informoval, že licenční smlouva vstoupí v platnost počátkem měsíce."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Hlavním poznatkem je, že ...",
+    "translation": "The key takeaway here is ...",
+    "b1": [
+      "Hlavním poznatkem je, že musíme šetřit peníze.",
+      "Hlavním poznatkem je, že tento přístup funguje.",
+      "Hlavním poznatkem je, že lidi to baví.",
+      "Hlavním poznatkem je, že zítra bude pršet.",
+      "Hlavním poznatkem je, že se musíme víc učit."
+    ],
+    "b2": [
+      "Hlavním poznatkem je, že zákazníci preferují online nakupování.",
+      "Hlavním poznatkem je, že efektivita týmu výrazně vzrostla.",
+      "Hlavním poznatkem je, že náklady na provoz se podařilo snížit.",
+      "Hlavním poznatkem je, že trh vyžaduje nové inovativní produkty.",
+      "Hlavním poznatkem je, že komunikace separtmentů byla klíčová."
+    ],
+    "c1": [
+      "Hlavním poznatkem je, že systematická digitalizace radikálně transformuje strukturu trhu.",
+      "Hlavním poznatkem je, že neúprosná inflace eroduje kupní sílu střední třídy.",
+      "Hlavním poznatkem je, že institucionální stabilita předchází ekonomickému růstu.",
+      "Hlavním poznatkem je, že diverzifikace zdrojů minimalizuje geopolitická rizika.",
+      "Hlavním poznatkem je, že decentralizované řízení zvyšuje flexibilitu organizace."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Abych to upřesnil(a), myslím tím, že ...",
+    "translation": "To clarify, I mean ...",
+    "b1": [
+      "Abych to upřesnil, myslím tím, že přijdeme dříve.",
+      "Abych to upřesnila, myslím tím, že to uděláme spolu.",
+      "Abych to upřesnil, myslím tím, že to stačí.",
+      "Abych to upřesnila, myslím tím, že koupíme lístky.",
+      "Abych to upřesnil, myslím tím, že zavolám šéfovi."
+    ],
+    "b2": [
+      "Abych to upřesnil, myslím tím, že musíme změnit dodavatele do konce měsíce.",
+      "Abych to upřesnila, myslím tím, že rozpočet na kampaň bude navýšen o deset procent.",
+      "Abych to upřesnil, myslím tím, že tato pozice vyžaduje pokročilou znalost němčiny.",
+      "Abych to upřesnila, myslím tím, že schůzku přesuneme na čtvrteční dopoledne.",
+      "Abych to upřesnil, myslím tím, že výsledky testů musí být ověřeny nezávislou laboratoří."
+    ],
+    "c1": [
+      "Abych to upřesnil, myslím tím, že metodologický posun vyžaduje kompletní revizi dosavadních dat.",
+      "Abych to upřesnila, myslím tím, že právní rámec smlouvy vylučuje jakékoliv jednostranné změny.",
+      "Abych to upřesnil, myslím tím, že intervenční politika státu narušuje tržní rovnováhu.",
+      "Abych to upřesnila, myslím tím, že epistemologický základ výzkumu stojí na empirických datech.",
+      "Abych to upřesnil, myslím tím, že strukturální reforma instituce se neobejde bez politické vůle."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Podle zprávy ...",
+    "translation": "According to the report, ...",
+    "b1": [
+      "Podle zprávy bude zítra hezky.",
+      "Podle zprávy je to velmi drahé.",
+      "Podle zprávy se autobus opozdil.",
+      "Podle zprávy restaurace zavírá brzy.",
+      "Podle zprávy dostal cenu."
+    ],
+    "b2": [
+      "Podle zprávy prodeje v tomto čtvrtletí vzrostly o patnáct procent.",
+      "Podle zprávy ministerstva zdravotnictví se situace v nemocnicích stabilizovala.",
+      "Podle zprávy analytiků trh s energiemi čeká další růst cen.",
+      "Podle zprávy policie byla nehoda způsobená špatným počasím.",
+      "Podle zprávy nezávislé komise byly standardy porušeny."
+    ],
+    "c1": [
+      "Podle zprávy Mezivládního panelu o změně klimatu jsou současné emise neudržitelné.",
+      "Podle zprávy Evropské centrální banky inflace postupně směřuje k cílové hodnotě.",
+      "Podle zprávy Světové banky se globální ekonomický růst výrazně zpomalí.",
+      "Podle zprávy finančního auditorského úřadu došlo k systémovému selhání kontroly.",
+      "Podle zprávy demografického institutu porodnost v regionu nadále klesá."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Dovolte mi to říci jinak: ...",
+    "translation": "Let me rephrase that: ...",
+    "b1": [
+      "Dovolte mi to říci jinak: nemám čas.",
+      "Dovolte mi to říci jinak: je to moc těžké.",
+      "Dovolte mi to říci jinak: potřebuji pomoci.",
+      "Dovolte mi to říci jinak: líbí se mi to.",
+      "Dovolte mi to říci jinak: už musím jít."
+    ],
+    "b2": [
+      "Dovolte mi to říci jinak: náš tým na tom musí pracovat intenzivněji.",
+      "Dovolte mi to říci jinak: tento návrh pro nás není finančně výhodný.",
+      "Dovolte mi to říci jinak: musíme najít řešení dříve, než bude pozdě.",
+      "Dovolte mi to říci jinak: klient požaduje kompletní přepracování designu.",
+      "Dovolte mi to říci jinak: bez vaší podpory tento úkol nezvládneme."
+    ],
+    "c1": [
+      "Dovolte mi to říci jinak: institucionální setrvačnost ohrožuje samotnou podstatu naší mise.",
+      "Dovolte mi to říci jinak: teoretický koncept selhává při konfrontaci s praxí.",
+      "Dovolte mi to říci jinak: prioritou je zachování kontinuity projektu navzdory výpadkům financování.",
+      "Dovolte mi to říci jinak: paradigma se změnilo a my se musíme přizpůsobit.",
+      "Dovolte mi to říci jinak: vyjednávací pozice partnerů je zcela nekompromisní."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Chtěl(a) jsem tím říci, že ...",
+    "translation": "What I meant to say was ...",
+    "b1": [
+      "Chtěl jsem tím říci, že přijdu později.",
+      "Chtěla jsem tím říci, že to nevadí.",
+      "Chtěl jsem tím říci, že je to skvělé.",
+      "Chtěla jsem tím říci, že nemám peníze.",
+      "Chtěl jsem tím říci, že ti pomůžu."
+    ],
+    "b2": [
+      "Chtěl jsem tím říci, že projekt potřebuje víc času a zdrojů.",
+      "Chtěla jsem tím říci, že vaše účast na schůzce je naprosto nezbytná.",
+      "Chtěl jsem tím říci, že podmínky smlouvy je nutné ještě prodiskutovat.",
+      "Chtěla jsem tím říci, že bychom měli počkat na oficiální vyjádření.",
+      "Chtěl jsem tím říci, že tento problém vyřešíme společně."
+    ],
+    "c1": [
+      "Chtěl jsem tím říci, že celková koncepce vyžaduje hlubší filozofickou reflexi.",
+      "Chtěla jsem tím říci, že interpretace dat byla zatížena metodologickou chybou.",
+      "Chtěl jsem tím říci, že bez restrukturalizace dluhu firma nepřežije.",
+      "Chtěla jsem tím říci, že konsensus mezi zúčastněnými stranami je v nedohlednu.",
+      "Chtěl jsem tím říci, že primární motivací nebyl zisk, nýbrž společenský dopad."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Aktuální stav je takový, že ...",
+    "translation": "The current status is that ...",
+    "b1": [
+      "Aktuální stav je takový, že obchod je zavřený.",
+      "Aktuální stav je takový, že venku prší.",
+      "Aktuální stav je takový, že auto nefunguje.",
+      "Aktuální stav je takový, že lístky nejsou.",
+      "Aktuální stav je takový, že všichni spí."
+    ],
+    "b2": [
+      "Aktuální stav je takový, že většina zaměstnanců pracuje na dálku.",
+      "Aktuální stav je takový, že dokončujeme poslední fázi testování.",
+      "Aktuální stav je takový, že čekáme na vyjádření právního oddělení.",
+      "Aktuální stav je takový, že zásoby ve skladě se rychle tenčí.",
+      "Aktuální stav je takový, že server je momentálně přetížený."
+    ],
+    "c1": [
+      "Aktuální stav je takový, že legislativní proces byl dočasně pozastaven v Senátu.",
+      "Aktuální stav je takový, že implementace systému probíhá v synchronním režimu.",
+      "Aktuální stav je takový, že finanční rezervy pokrývají provozní náklady na čtvrtletí.",
+      "Aktuální stav je takový, že diplomatická jednáání uvízla na mrtvém bodě.",
+      "Aktuální stav je takový, že institucionální restrukturalizace je v závěrečné fázi."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Jinými slovy, ...",
+    "translation": "In other words, ...",
+    "b1": [
+      "Jinými slovy, nemáš pravdu.",
+      "Jinými slovy, je to zadarmo.",
+      "Jinými slovy, musíme jít.",
+      "Jinými slovy, líbí se mi to.",
+      "Jinými slovy, zítra máme volno."
+    ],
+    "b2": [
+      "Jinými slovy, pokud nezvýšíme výkon, smlouvu nezískáme.",
+      "Jinými slovy, tato investice se nám vrátí až za několik let.",
+      "Jinými slovy, vedení odmítlo náš původní návrh.",
+      "Jinými slovy, musíme začít s prací od začátku.",
+      "Jinými slovy, zákazník požaduje vrácení peněz v plné výši."
+    ],
+    "c1": [
+      "Jinými slovy, systém vykazuje strukturální neefektivitu na všech úrovních.",
+      "Jinými slovy, dogmatická interpretace textu popírá jeho historický kontext.",
+      "Jinými slovy, ekonomická stagnace je přímým důsledkem špatné měnové politiky.",
+      "Jinými slovy, formální autorita instituce ustoupila vlivu neformálních sítí.",
+      "Jinými slovy, jakákoliv změna legislativy vyžaduje dvoutřetinovou většinu v parlamentu."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Abychom se ujistili, že jsme na stejné vlně, ...",
+    "translation": "Just to make sure we're on the same page, ...",
+    "b1": [
+      "Abychom se ujistili, že jsme na stejné vlně, zopakujme to.",
+      "Abychom se ujistili, že jsme na stejné vlně, zavoláme si.",
+      "Abychom se ujistili, že jsme na stejné vlně, podíváme se na to.",
+      "Abychom se ujistili, že jsme na stejné vlně, napíšeme email.",
+      "Abychom se ujistili, že jsme na stejné vlně, zeptám se tě."
+    ],
+    "b2": [
+      "Abychom se ujistili, že jsme na stejné vlně, shrňme si hlavní úkoly.",
+      "Abychom se ujistili, že jsme na stejné vlně, potvrdíte mi termín schůzky?",
+      "Abychom se ujistili, že jsme na stejné vlně, projděme si ještě jednou rozpočet.",
+      "Abychom se ujistili, že jsme na stejné vlně, má každý z vás jasné zadání?",
+      "Abychom se ujistili, že jsme na stejné vlně, zkontrolujme společně výsledky."
+    ],
+    "c1": [
+      "Abychom se ujistili, že jsme na stejné vlně ohledně strategického směřování, definujme si priority.",
+      "Abychom se ujistili, že jsme na stejné vlně v interpretaci smlouvy, prodiskutujme doložky.",
+      "Abychom se ujistili, že jsme na stejné vlně před prezentací představenstvu, sjednoťte výstupy.",
+      "Abychom se ujistili, že jsme na stejné vlně v otázce dodržování etického kodexu, stanovme pravidla.",
+      "Abychom se ujistili, že jsme na stejné vlně v metodologii výzkumu, odsouhlaste protokol."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "To potvrzuje, že ...",
+    "translation": "This confirms that ...",
+    "b1": [
+      "To potvrzuje, že máš pravdu.",
+      "To potvrzuje, že zítra nejdeme do školy.",
+      "To potvrzuje, že to byla chyba.",
+      "To potvrzuje, že vyhráli.",
+      "To potvrzuje, že se scházíme."
+    ],
+    "b2": [
+      "To potvrzuje, že naše strategie přináší první konkrétní výsledky.",
+      "To potvrzuje, že zájem o naše služby neustále stoupá.",
+      "To potvrzuje, že obavy ohledbergementu byly oprávněné.",
+      "To potvrzuje, že kvalita materiálu odpovídá všem normám.",
+      "To potvrzuje, že rozhodnutí managementu bylo správné."
+    ],
+    "c1": [
+      "To potvrzuje, že hypotéza o lineární korelaci je v tomto případě platná.",
+      "To potvrzuje, že strukturální eroze institucí má nezvratný charakter.",
+      "To potvrzuje, že diplomatická iniciativa přinesla očekávaný deeskalační efekt.",
+      "To potvrzuje, že empirická data zcela vyvracejí dosavadní teoretické modely.",
+      "To potvrzuje, že monopolní postavení podniku narušuje zdravé konkurenční prostředí."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Dovolte mi to rozvést: ...",
+    "translation": "Allow me to elaborate on ...",
+    "b1": [
+      "Dovolte mi to rozvést: včera jsem to koupil.",
+      "Dovolte mi to rozvést: líbí se mi tvoje práce.",
+      "Dovolte mi to rozvést: je to velmi jednoduché.",
+      "Dovolte mi to rozvést: máme tři možnosti.",
+      "Dovolte mi to rozvést: on mi to řekl."
+    ],
+    "b2": [
+      "Dovolte mi rozvést tento bod týkající se finančního plánu.",
+      "Dovolte mi rozvést důvody, proč jsme se rozhodli pro tuto změnu.",
+      "Dovolte mi rozvést naši vizi do příštích let.",
+      "Dovolte mi rozvést specifika této nové pracovní pozice.",
+      "Dovolte mi rozvést výhody, které nám tento systém přináší."
+    ],
+    "c1": [
+      "Dovolte mi rozvést komplexní důsledky tohoto geopolitického posunu.",
+      "Dovolte mi rozvést metodologické pozadí našeho výzkumného projektu.",
+      "Dovolte mi rozvést teoretické implikace publikovaných závěrů.",
+      "Dovolte mi rozvést strukturální příčiny současné ekonomické krize.",
+      "Dovolte mi rozvést filosofické kořeny tohoto uměleckého směru."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Podrobnosti jsou následující: ...",
+    "translation": "The details are as follows: ...",
+    "b1": [
+      "Podrobnosti jsou následující: schůzka bude v pondělí.",
+      "Podrobnosti jsou následující: cena je sto korun.",
+      "Podrobnosti jsou následující: začínáme v deset.",
+      "Podrobnosti jsou následující: potřebujeme lístky.",
+      "Podrobnosti jsou následující: sraz je u vchodu."
+    ],
+    "b2": [
+      "Podrobnosti jsou následující: projekt zahájíme začátkem příštího měsíce.",
+      "Podrobnosti jsou následující: rozpočet je rozdělen na tři hlavní kapitoly.",
+      "Podrobnosti jsou následující: technické požadavky najdete v příloze.",
+      "Podrobnosti jsou následující: registrace účastníků proběhne online.",
+      "Podrobnosti jsou následující: termín odevzdání prací je pátek."
+    ],
+    "c1": [
+      "Podrobnosti jsou následující: harmonogram implementace se skládá ze čtyř fází.",
+      "Podrobnosti jsou následující: licenční podmínky definují práva a povinnosti stran.",
+      "Podrobnosti jsou následující: revize rozpočtu vyžaduje souhlas tří komisí.",
+      "Podrobnosti jsou následující: evaluační kritéria zohledňují ekonomický i společenský dopad.",
+      "Podrobnosti jsou následující: distribuční kanály budou rozšířeny o zahraniční trhy."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Důležité zde není ..., nýbrž ...",
+    "translation": "The important point here is not ..., but ...",
+    "b1": [
+      "Důležité zde není co říkáš, nýbrž jak to děláš.",
+      "Důležité zde není kolik to stojí, nýbrž jak je to dobré.",
+      "Důležité zde není kde jsi, nýbrž s kým.",
+      "Důležité zde není kdy přijdeš, nýbrž že přijdeš.",
+      "Důležité zde není tvoje auto, nýbrž tvé zdraví."
+    ],
+    "b2": [
+      "Důležité zde není rychlost dodávky, nýbrž kvalita odvedené práce.",
+      "Důležité zde není to, kolik utratíme, nýbrž jaký bude zisk.",
+      "Důležité zde není bezvýhradní souhlas, nýbrž konstruktivní kritika.",
+      "Důležité zde není množství informací, nýbrž jejich relevance.",
+      "Důležité zde není osobní názor, nýbrž ověřená fakta."
+    ],
+    "c1": [
+      "Důležité zde není formální dodržování předpisů, nýbrž reálná ochrana zájmů občanů.",
+      "Důležité zde není kvantitativní růst HDP, nýbrž udržitelnost rozvoje společnosti.",
+      "Důležité zde není okamžitý politický efekt, nýbrž dlouhodobý institucionální dopad.",
+      "Důležité zde není bezbřehá svoboda projevu, nýbrž její etická zodpovědnost.",
+      "Důležité zde není technologická vyspělost nástroje, nýbrž jeho bezpečné uplatnění."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Například uvažujme ...",
+    "translation": "For example, consider ...",
+    "b1": [
+      "Například uvažujme tento malý příklad.",
+      "Například uvažujme situaci v obchodě.",
+      "Například uvažujme našeho učitele.",
+      "Například uvažujme dnešní počasí.",
+      "Například uvažujme letní prázdniny."
+    ],
+    "b2": [
+      "Například uvažujme dopad nové daně na malé podnikatele.",
+      "Například uvažujme situaci na trhu s nemovitostmi v Praze.",
+      "Například uvažujme změny v chování spotřebitelů po pandemii.",
+      "Například uvažujme, jak funguje veřejná doprava v jiných městech.",
+      "Například uvažujme případ, kdy dodavatel nesplní termín."
+    ],
+    "c1": [
+      "Například uvažujme historický kontext vzniku moderních evropských ústav.",
+      "Například uvažujme důsledky demografického stárnutí na důchodový systém.",
+      "Například uvažujme krizový management v podmínkách globálního kybernetického útoku.",
+      "Například uvažujme etické dilema spojené s autonomním řízením vozidel.",
+      "Například uvažujme posun v uměleckém vyjadřování během meziválečného období."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Konečný výsledek je takový, že ...",
+    "translation": "The bottom line is ...",
+    "b1": [
+      "Konečný výsledek je takový, že nemáme peníze.",
+      "Konečný výsledek je takový, že vyhráli.",
+      "Konečný výsledek je takový, že musíme počkat.",
+      "Konečný výsledek je takový, že je to hotové.",
+      "Konečný výsledek je takový, že prší."
+    ],
+    "b2": [
+      "Konečný výsledek je takový, že musíme snížit výdaje o deset procent.",
+      "Konečný výsledek je takový, že zakázku jsme nakonec nezískali.",
+      "Konečný výsledek je takový, že projekt byl úspěšně dokončen před termínem.",
+      "Konečný výsledek je takový, že zájem o náš produkt předčil očekávání.",
+      "Konečný výsledek je takový, že se musíme vydat jinou cestou."
+    ],
+    "c1": [
+      "Konečný výsledek je takový, že instituce ztratila svou pozici na trhu.",
+      "Konečný výsledek je takový, že legislativní norma nebyla v Senátu schválena.",
+      "Konečný výsledek je takový, že strukturální reforma přinesla očekávané úspory.",
+      "Konečný výsledek je takový, že diplomacie nedokázala zabránit eskalaci konfliktu.",
+      "Konečný výsledek je takový, že výzkumný tým potvrdil platnost původní teorie."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Pojďme si shrnout hlavní zjištění: ...",
+    "translation": "Let's review the main findings: ...",
+    "b1": [
+      "Pojďme si shrnout hlavní zjištění: úkol je hotov.",
+      "Pojďme si shrnout hlavní zjištění: všichni přišli.",
+      "Pojďme si shrnout hlavní zjištění: test dopadl dobře.",
+      "Pojďme si shrnout hlavní zjištění: peníze stačí.",
+      "Pojďme si shrnout hlavní zjištění: problém je vyřešen."
+    ],
+    "b2": [
+      "Pojďme si shrnout hlavní zjištění: prodeje v regionu vzrostly o dvacet procent.",
+      "Pojďme si shrnout hlavní zjištění: zákazníci oceňují zejména rychlost dodání.",
+      "Pojďme si shrnout hlavní zjištění: náklady na provoz se podařilo optimalizovat.",
+      "Pojďme si shrnout hlavní zjištění: týmová komunikace vyžaduje zlepšení.",
+      "Pojďme si shrnout hlavní zjištění: průzkum ukázal vysokou loajalitu klientů."
+    ],
+    "c1": [
+      "Pojďme si shrnout hlavní zjištění: digitální transformace výrazně zvýšila produktivitu.",
+      "Pojďme si shrnout hlavní zjištění: eroze důvěry v instituce ohrožuje stabilitu.",
+      "Pojďme si shrnout hlavní zjištění: metodologická replikace potvrdila validitu dat.",
+      "Pojďme si shrnout hlavní zjištění: diverzifikace portfolia zmírnila tržní rizika.",
+      "Pojďme si shrnout hlavní zjištění: legislativní změny měly pozitivní vad na podnikání."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Abych situaci shrnul(a), ...",
+    "translation": "To sum up the situation, ...",
+    "b1": [
+      "Abych situaci shrnul, všechno je v pořádku.",
+      "Abych situaci shrnula, musíme jet domů.",
+      "Abych situaci shrnul, je to moc drahé.",
+      "Abych situaci shrnula, nikdo to neví.",
+      "Abych situaci shrnul, zítra se uvidíme."
+    ],
+    "b2": [
+      "Abych situaci shrnul, projekt běží podle plánu a bez komplikací.",
+      "Abych situaci shrnula, musíme rychle reagovat na změnu trhu.",
+      "Abych situaci shrnul, naši partneři souhlasí s navrženými podmínkami.",
+      "Abych situaci shrnula, bez dodatečné finanční podpory nepostoupíme dál.",
+      "Abych situaci shrnul, výsledek auditu předčil naše očekávání."
+    ],
+    "c1": [
+      "Abych situaci shrnul, strukturální krize vyžaduje okamžitou a radikální intervenci.",
+      "Abych situaci shrnula, institucionální konsensus je základním předpokladem úspěchu.",
+      "Abych situaci shrnul, geopolitické napětí přímo ohrožuje dodavatelské řetězce.",
+      "Abych situaci shrnula, epistemologický základ naší studie byl plně validován.",
+      "Abych situaci shrnul, současná legislativní patová situace nemá snadné řešení."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Mým chápáním je, že ...",
+    "translation": "My understanding is that ...",
+    "b1": [
+      "Mým chápáním je, že zítra máme volno.",
+      "Mým chápáním je, že to stojí sto korun.",
+      "Mým chápáním je, že on přijde později.",
+      "Mým chápáním je, že se to tak nesmí.",
+      "Mým chápáním je, že s tím souhlasíš."
+    ],
+    "b2": [
+      "Mým chápáním je, že smlouva pokrývá veškeré možné dodatečné náklady.",
+      "Mým chápáním je, že vedení podpoří náš návrh na rozšíření týmu.",
+      "Mým chápáním je, že dodávka dorazí do konce tohoto týdne.",
+      "Mým chápáním je, že klient požaduje exkluzivitu na tomto trhu.",
+      "Mým chápáním je, že podmínky spolupráce byly předem jasně stanoveny."
+    ],
+    "c1": [
+      "Mým chápáním je, že interpretace zákona umožňuje širší administrativní výklad.",
+      "Mým chápáním je, že teoretická východiska studie vycházejí z moderní sociologie.",
+      "Mým chápáním je, že finanční závazky vůči partnerům jsou plně vyrovnány.",
+      "Mým chápáním je, že diplomatický protokol vylučuje takový typ vyjednávání.",
+      "Mým chápáním je, že institucionální reforma proběhne ve dvou samostatných fázích."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Abych byl(a) zcela upřímný(á), ...",
+    "translation": "Just to be clear, ...",
+    "b1": [
+      "Abych byl zcela upřímný, nevím to.",
+      "Abych byla zcela upřímná, nelíbí se mi to.",
+      "Abych byl zcela upřímný, nemám peníze.",
+      "Abych byla zcela upřímná, je to moc těžké.",
+      "Abych byl zcela upřímný, nestíhám to."
+    ],
+    "b2": [
+      "Abych byl zcela upřímný, tento termín nestihneme bez přesčasů.",
+      "Abych byla zcela upřímná, s tímto rozhodnutím vedení nesouhlasím.",
+      "Abych byl zcela upřímný, rozpočet je příliš optimistický.",
+      "Abych byla zcela upřímná, kvalita dodaných materiálů mě zklamala.",
+      "Abych byl zcela upřímný, bez pomoci ostatních to nezvládnu."
+    ],
+    "c1": [
+      "Abych byl zcela upřímný, celý systém postrádá jakoukoliv vnitřní logiku.",
+      "Abych byla zcela upřímná, navrhované řešení ignoruje reálná ekonomická data.",
+      "Abych byl zcela upřímný, akademická debata se odchýlila od věcného jádra.",
+      "Abych byla zcela upřímná, institucionální kultura naší organizace je zastaralá.",
+      "Abych byl zcela upřímný, politická vůle k hluboké reformě chybí."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Konečným výsledkem bylo, že ...",
+    "translation": "The final outcome was ...",
+    "b1": [
+      "Konečným výsledkem bylo, že jsme vyhráli.",
+      "Konečným výsledkem bylo, že zmeškal vlak.",
+      "Konečným výsledkem bylo, že to koupil.",
+      "Konečným výsledkem bylo, že pršelo.",
+      "Konečným výsledkem bylo, že odjeli."
+    ],
+    "b2": [
+      "Konečným výsledkem bylo, že cena projektu vzrostla o deset procent.",
+      "Konečným výsledkem bylo, že jsme po dlouhém jednání podepsali smlouvu.",
+      "Konečným výsledkem bylo, že se oddělení rozdělilo na dva samostatné týmy.",
+      "Konečným výsledkem bylo, že kampaň oslovila tisíce nových zákazníků.",
+      "Konečným výsledkem bylo, že termín dokončení byl posunut o měsíc."
+    ],
+    "c1": [
+      "Konečným výsledkem bylo, že parlament schválil kontroverzní novelu zákona.",
+      "Konečným výsledkem bylo, že univerzita získala prestižní mezinárodní akreditaci.",
+      "Konečným výsledkem bylo, že firma kompletně restrukturalizovala své portfolio.",
+      "Konečným výsledkem bylo, že audit potvrdil plnou finanční transparentnost.",
+      "Konečným výsledkem bylo, že se podařilo odvrátit hrozbu soudní žaloby."
+    ]
+  }
+]

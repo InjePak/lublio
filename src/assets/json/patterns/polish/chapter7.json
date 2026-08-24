@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Jeśli ..., to ...",
+    "translation": "If we ..., then we will ...",
+    "b1": [
+      "Jeśli szybko skończymy, to pójdziemy na lody.",
+      "Jeśli jutro będzie padać, to zostaniemy w domu.",
+      "Jeśli kupisz te bilety, to pojadę z tobą.",
+      "Jeśli nie pospieszysz się, to spóźnimy się na pociąg.",
+      "Jeśli znajdę czas, to ci pomogę."
+    ],
+    "b2": [
+      "Jeśli zwiększymy budżet na reklamy, to zdobędziemy nowych klientów.",
+      "Jeśli przełożymy to spotkanie na piątek, to wszyscy będą mogli w nim uczestniczyć.",
+      "Jeśli poprawimy jakość naszych usług, to zatrzymamy dotychczasowych odbiorców.",
+      "Jeśli zmienimy dostawcę oprogramowania, to obniżymy koszty operacyjne.",
+      "Jeśli zatrudnimy nowego specjalistę, to szybciej ukończymy ten projekt."
+    ],
+    "c1": [
+      "Jeśli zdywersyfikujemy nasze rynki zbytu, to zminimalizujemy ryzyko nagłego załamania koniunktury.",
+      "Jeśli wdrożymy rygorystyczne standardy compliance, to uchronimy spółkę przed surowymi sankcjami.",
+      "Jeśli zrestrukturyzujemy zadłużenie, to odzyskamy pełną płynność finansową w nadchodzącym kwartale.",
+      "Jeśli zmodyfikujemy nasz model biznesowy, to dostosujemy się do dynamicznych zmian strukturalnych.",
+      "Jeśli przeprowadzimy gruntowny audyt technologiczny, to wykryjemy ukryte luki w systemie."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Co by się stało, gdyby ...?",
+    "translation": "What would happen if ...?",
+    "b1": [
+      "Co by się stało, gdybyśmy jutro nie pojechali nad morze?",
+      "Co by się stało, gdyby zgubił te klucze?",
+      "Co by się stało, gdyby zabrakło chleba w sklepie?",
+      "Co by się stało, gdyby ten film ci się nie podobał?",
+      "Co by się stało, gdybyśmy zmienili plan?"
+    ],
+    "b2": [
+      "Co by się stało, gdyby nasz główny inwestor wycofał się z finansowania projektu?",
+      "Co by się stało, gdybyśmy stracili dostęp do firmowego serwera w trakcie pracy?",
+      "Co by się stało, gdyby klient zażądał natychmiastowego zwrotu zaliczki?",
+      "Co by się stało, gdyby nikt z zespołu nie przyszedł na poniedziałkowe spotkanie?",
+      "Co by się stało, gdybyśmy przesunęli premierę produktu o kolejny miesiąc?"
+    ],
+    "c1": [
+      "Co by się stało, gdyby sąd ostatecznie unieważnił kluczową umowę licencyjną naszej spółki?",
+      "Co by się stało, gdyby nagła zmiana przepisów podatkowych całkowicie zniweczyła naszą strategię?",
+      "Co by się stało, gdyby doszło do masowego odpływu wykwalifikowanych pracowników do konkurencji?",
+      "Co by się stało, gdyby międzynarodowe sankcje objęły również sektor naszej działalności?",
+      "Co by się stało, gdyby audyt wykazał systemowe fałszowanie danych finansowych przez zarząd?"
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Jeżeli wynik będzie ..., musimy ...",
+    "translation": "Should the outcome be ..., we must ...",
+    "b1": [
+      "Jeżeli wynik będzie negatywny, musimy powtórzyć test.",
+      "Jeżeli wynik będzie dobry, musimy to świętować.",
+      "Jeżeli wynik będzie niski, musimy poszukać przyczyny.",
+      "Jeżeli wynik będzie znany, musimy zadzwonić do mamy.",
+      "Jeżeli wynik będzie inny, musimy zmienić decyzję."
+    ],
+    "b2": [
+      "Jeżeli wynik będzie niesatysfakcjonujący, musimy natychmiast zmodyfikować strategię marketingową.",
+      "Jeżeli wynik będzie odbiegał od normy, musimy przeprowadzić dodatkowe badania techniczne.",
+      "Jeżeli wynik będzie korzystny dla nas, musimy natychmiast podpisać umowę z partnerem.",
+      "Jeżeli wynik będzie zależał od głosowania, musimy upewnić się, że wszyscy będą obecni.",
+      "Jeżeli wynik będzie niższy od planowanego, musimy ograniczyć koszty stałe."
+    ],
+    "c1": [
+      "Jeżeli wynik będzie negatywny dla naszej linii obrony, musimy niezwłocznie wnieść apelację do sądu wyższej instancji.",
+      "Jeżeli wynik będzie potwierdzał ryzyko naruszenia norm ekologicznych, musimy wstrzymać wszelkie prace budowlane.",
+      "Jeżeli wynik będzie wskazywał na deficyt kapitałowy, musimy bezzwłocznie uruchomić awaryjny plan dokapitalizowania.",
+      "Jeżeli wynik będzie sprzeczny z naszymi założeniami, musimy zakwestionować metodologię zastosowaną w tym audycie.",
+      "Jeżeli wynik będzie determinował dalszy los fuzji, musimy skonsultować się z niezależnymi doradcami prawnymi."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Gdybym wiedział(-a) wcześniej, że ..., to ...",
+    "translation": "If I had known ..., I would have ...",
+    "b1": [
+      "Gdybym wiedział wcześniej, że będzie padać, to wziąłbym parasol.",
+      "Gdybym wiedziała wcześniej, że przyjedziesz, to upiekłbym ciasto.",
+      "Gdybym wiedział wcześniej, że sklep jest zamknięty, to poszedłbym do innego.",
+      "Gdybym wiedziała wcześniej, że ten film jest nudny, to nie oglądalibyśmy go.",
+      "Gdybym wiedział wcześniej, że spóźnisz się, to poczekałbym w kawiarni."
+    ],
+    "b2": [
+      "Gdybym wiedział wcześniej, że projekt zajmie tyle czasu, to poprosiłbym o pomoc.",
+      "Gdybym wiedziała wcześniej, że cena biletów wzrośnie, to kupiłam je tydzień temu.",
+      "Gdybym wiedział wcześniej, że szef odwoła spotkanie, to zaplanowałbym wolne popołudnie.",
+      "Gdybym wiedziała wcześniej, że ta restauracja jest pełna, to zarezerwowałabym stolik.",
+      "Gdybym wiedział wcześniej, że warunki umowy są inne, to nie podpisałbym jej."
+    ],
+    "c1": [
+      "Gdybym wiedział wcześniej, że klauzula poufności zostanie złamana, to zażądałbym dodatkowych zabezpieczeń prawnych.",
+      "Gdybym wiedziała wcześniej, że spółka ma tak ukryte zadłużenie, to nigdy nie zaangażowałbym się w tę transakcję.",
+      "Gdybym wiedział wcześniej, że zmiana regulacji uderzy w naszą marżę, to wdrożyłbym plan awaryjny rok temu.",
+      "Gdybym wiedziała wcześniej, że opinia publiczna tak ostro zareaguje, to zmieniłabym strategię komunikacyjną.",
+      "Gdybym wiedział wcześniej, że dostawca zawiedzie w krytycznym momencie, to wybrałbym inną firmę."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Zakładając, że ..., jest prawdopodobne, że ...",
+    "translation": "Assuming that ..., it is likely that ...",
+    "b1": [
+      "Zakładając, że pogoda dopisze, jest prawdopodobne, że pójdziemy w góry.",
+      "Zakładając, że zdasz egzamin, jest prawdopodobne, że dostaniesz prezent.",
+      "Zakładając, że sklep będzie otwarty, jest prawdopodobne, że kupimy chleb.",
+      "Zakładając, że pociąg przyjedzie na czas, jest prawdopodobne, że zdążymy na obiad.",
+      "Zakładając, że dostaniemy wolne, jest prawdopodobne, że pojadziemy nad jezioro."
+    ],
+    "b2": [
+      "Zakładając, że popyt utrzyma się na obecnym poziomie, jest prawdopodobne, że zwiększymy produkcję.",
+      "Zakładając, że inflacja zacznie spadać, jest prawdopodobne, że stopy procentowe ulegną obniżeniu.",
+      "Zakładając, że dostawca dostarczy materiały na czas, jest prawdopodobne, że ukończymy remont w terminie.",
+      "Zakładając, że klienci polubią nową funkcję, jest prawdopodobne, że wzrośnie liczba subskrypcji.",
+      "Zakładając, że budżet zostanie zatwierdzony, jest prawdopodobne, że rozpoczniemy rekrutację w przyszłym miesiącu."
+    ],
+    "c1": [
+      "Zakładając, że trend cyfryzacji utrzyma się w tej dynamice, jest prawdopodobne, że tradycyjne placówki stracą znaczenie.",
+      "Zakładając, że napięcia geopolityczne eskalują, jest prawdopodobne, że łańcuchy dostaw ulegną całkowitemu przerwaniu.",
+      "Zakładając, że regulator zatwierdzi naszą strukturę, jest prawdopodobne, że fuzja zostanie zamknięta w tym kwartale.",
+      "Zakładając, że wskaźnik rotacji pracowników wzrośnie, jest prawdopodobne, że poniesiemy dodatkowe koszty rekrutacyjne.",
+      "Zakładając, że polityka monetarna banku centralnego pozostanie restrykcyjna, jest prawdopodobne, że nastąpi stagnacja."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Przewiduję, że stanie się ...",
+    "translation": "I predict that ... will happen.",
+    "b1": [
+      "Przewiduję, że jutro będzie padać deszcz.",
+      "Przewiduję, że nasza drużyna wygra ten mecz.",
+      "Przewiduję, że ten film bardzo ci się spodoba.",
+      "Przewiduję, że w weekend spędzimy czas na dworze.",
+      "Przewiduję, że cena tego swetra spadnie."
+    ],
+    "b2": [
+      "Przewiduję, że w najbliższym kwartale nasze zyski wzrosną o dziesięć procent.",
+      "Przewiduję, że praca hybrydowa stanie się stałym standardem w naszej branży.",
+      "Przewiduję, że konkurencja wkrótce wprowadzi podobną usługę na rynek.",
+      "Przewiduję, że koszty wynajmu biur w centrum będą stale rosły.",
+      "Przewiduję, że popyt na ekologiczne rozwiązania technologiczne znacznie się zwiększy."
+    ],
+    "c1": [
+      "Przewiduję, że automatyzacja procesów oparta na sztucznej inteligencji wyeliminuje tradycyjne stanowiska administracyjne.",
+      "Przewiduję, że kryzys klimatyczny zmusi rządy do wprowadzenia drastycznych ograniczeń emisyjnych dla przemysłu.",
+      "Przewiduję, że skumulowany efekt recesji doprowadzi do fali bankructw w sektorze małych przedsiębiorstw.",
+      "Przewiduję, że zmiana preferencji konsumenckich wymusi całkowitą redefinicję marek luksusowych.",
+      "Przewiduję, że globalna architektura finansowa ulegnie głębokiej decentralizacji w ciągu najbliższej dekady."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Chyba że ..., nie będziemy w stanie ...",
+    "translation": "Unless ... happens, we won't be able to ...",
+    "b1": [
+      "Chyba że dostanę wolne, nie będziemy w stanie pojechać.",
+      "Chyba że pospieszysz się, nie będziemy w stanie zdążyć.",
+      "Chyba że kupisz bilet, nie będziemy w stanie wejść.",
+      "Chyba że pogoda się poprawi, nie będziemy w stanie wyjść.",
+      "Chyba że znajdziesz klucze, nie będziemy w stanie wejść do środka."
+    ],
+    "b2": [
+      "Chyba że dostaniemy dodatkowe fundusze, nie będziemy w stanie ukończyć tego projektu w tym roku.",
+      "Chyba że klient zmieni zdanie, nie będziemy w stanie podpisać tej umowy.",
+      "Chyba że naprawimy ten błąd, nie będziemy w stanie wypuścić nowej wersji aplikacji.",
+      "Chyba że zatrudnimy wsparcie, nie będziemy w stanie obsłużyć wszystkich zamówień.",
+      "Chyba że szef wyrazi zgodę, nie będziemy w stanie pracować zdalnie."
+    ],
+    "c1": [
+      "Chyba że uzyskamy bezwzględną akceptację regulatora, nie będziemy w stanie sfinalizować tej transakcji kapitałowej.",
+      "Chyba że zreformujemy nasz wewnętrzny system compliance, nie będziemy w stanie przejść kolejnego audytu.",
+      "Chyba że zabezpieczymy stabilne źródła dostaw, nie będziemy w stanie utrzymać ciągłości produkcyjnej.",
+      "Chyba że konsorcjum zmieni warunki finansowe, nie będziemy w stanie podjąć dalszych negocjacji.",
+      "Chyba że unieważnimy wadliwe postanowienia umowy, nie będziemy w stanie chronić interesów spółki."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "W przypadku ..., powinniśmy ...",
+    "translation": "In the event of ..., we should ...",
+    "b1": [
+      "W przypadku deszczu, powinniśmy zostać w domu.",
+      "W przypadku opóźnienia, powinniśmy do nich zadzwonić.",
+      "W przypadku braku miejsc, powinniśmy usiąść tutaj.",
+      "W przypadku awarii, powinniśmy wyłączyć sprzęt.",
+      "W przypadku zmiany planów, powinniśmy się poinformować."
+    ],
+    "b2": [
+      "W przypadku pogorszenia wyników sprzedaży, powinniśmy natychmiast uruchomić plan awaryjny.",
+      "W przypadku nagłego braku dostępu do serwera, powinniśmy przejść na system zapasowy.",
+      "W przypadku skargi od klienta, powinniśmy zareagować w ciągu dwudziestu czterech godzin.",
+      "W przypadku przekroczenia budżetu, powinniśmy wstrzymać dodatkowe wydatki marketingowe.",
+      "W przypadku odwołania spotkania, powinniśmy zaproponować nowy termin."
+    ],
+    "c1": [
+      "W przypadku eskalacji konfliktu prawnego, powinniśmy natychmiast zaangażować zewnętrzną kancelarię adwokacką.",
+      "W przypadku wykrycia luki w zabezpieczeniach IT, powinniśmy wdrożyć procedurę powiadamiania regulatora.",
+      "W przypadku nagłego załamania płynności finansowej, powinniśmy uruchomić kredyt kupiecki i linie rezerwowe.",
+      "W przypadku utraty kluczowego dostawcy, powinniśmy aktywować alternatywne kanały zaopatrzenia w regionie.",
+      "W przypadku zablokowania fuzji przez urząd antymonopolowy, powinniśmy złożyć odwołanie do sądu europejskiego."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Istnieje duże prawdopodobieństwo, że ...",
+    "translation": "There's a high probability that ...",
+    "b1": [
+      "Istnieje duże prawdopodobieństwo, że jutro będzie ładna pogoda.",
+      "Istnieje duże prawdopodobieństwo, że spóźnię się na autobus.",
+      "Istnieje duże prawdopodobieństwo, że ten sklep jest już zamknięty.",
+      "Istnieje duże prawdopodobieństwo, że zapomnisz kluczy.",
+      "Istnieje duże prawdopodobieństwo, że dostanę tę pracę."
+    ],
+    "b2": [
+      "Istnieje duże prawdopodobieństwo, że nasz wniosek o dofinansowanie zostanie zaakceptowany.",
+      "Istnieje duże prawdopodobieństwo, że w przyszłym miesiącu zmienimy system rozliczeń.",
+      "Istnieje duże prawdopodobieństwo, że cena paliwa wzrośnie przed długim weekendem.",
+      "Istnieje duże prawdopodobieństwo, że klient poprosi o dodatkowe poprawki w projekcie.",
+      "Istnieje duże prawdopodobieństwo, że na konferencji pojawią się wszyscy zaproszeni goście."
+    ],
+    "c1": [
+      "Istnieje duże prawdopodobieństwo, że nowelizacja prawa podatkowego drastycznie obniży naszą rentowność operacyjną.",
+      "Istnieje duże prawdopodobieństwo, że utrzymująca się presja inflacyjna zmusi bank do kolejnej podwyżki stóp.",
+      "Istnieje duże prawdopodobieństwo, że strukturalne zmiany na rynku zmuszą nas do przedterminowej spłaty długu.",
+      "Istnieje duże prawdopodobieństwo, że trwający spór pracowniczy przerodzi się w legalny strajk generalny.",
+      "Istnieje duże prawdopodobieństwo, że niezależny audyt zakwestionuje poprawność dotychczasowych rozliczeń."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Możemy zauważyć ..., jeśli ...",
+    "translation": "We might see ... if ...",
+    "b1": [
+      "Możemy zauważyć poprawę, jeśli zaczniesz regularnie ćwiczyć.",
+      "Możemy zauważyć różnicę, jeśli zmienimy ten kolor.",
+      "Możemy zauważyć postępy, jeśli będziemy dużo czytać.",
+      "Możemy zauważyć oszczędności, jeśli wyłączymy światło.",
+      "Możemy zauważyć efekt, jeśli dodasz więcej cukru."
+    ],
+    "b2": [
+      "Możemy zauważyć spadek zaangażowania pracowników, jeśli nie podniesiemy stawek.",
+      "Możemy zauważyć wzrost liczby odwiedzin, jeśli zoptymalizujemy naszą stronę pod kątem mobilnym.",
+      "Możemy zauważyć błędy w systemie, jeśli przeprowadzimy testy obciążeniowe.",
+      "Możemy zauważyć poprawę nastrojów w biurze, jeśli skrócimy czas spotkań.",
+      "Możemy zauważyć odpływ klientów, jeśli podniesiemy ceny o ponad dziesięć procent."
+    ],
+    "c1": [
+      "Możemy zauważyć drastyczną erozję zaufania akcjonariuszy, jeśli zarząd nie przedstawi wiarygodnego planu naprawczego.",
+      "Możemy zauważyć znaczące pogorszenie pozycji konkurencyjnej, jeśli zignorujemy trendy technologiczne.",
+      "Możemy zauważyć systemowy spadek produktywności, jeśli przepisy dotyczące pracy zdalnej zostaną zbytnio zaostrzone.",
+      "Możemy zauważyć gwałtowną reakcję rynków finansowych, jeśli prognozy kwartalne okażą się gorsze od oczekiwań.",
+      "Możemy zauważyć całkowite zerwanie ciągłości operacyjnej, jeśli zabezpieczenia cybernetyczne zawiodą."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "To sugeruje, że przyszłość przyniesie ...",
+    "translation": "This suggests that the future holds ...",
+    "b1": [
+      "To sugeruje, że przyszłość przyniesie nam wiele radości.",
+      "To sugeruje, że przyszłość przyniesie zmianę pogody.",
+      "To sugeruje, że przyszłość przyniesie nowe możliwości.",
+      "To sugeruje, że przyszłość przyniesie ciekawe wyzwania.",
+      "To sugeruje, że przyszłość przyniesie lepsze czasy."
+    ],
+    "b2": [
+      "To sugeruje, że przyszłość przyniesie większy nacisk na elastyczne formy zatrudnienia.",
+      "To sugeruje, że przyszłość przyniesie konieczność inwestycji w odnawialne źródła energii.",
+      "To sugeruje, że przyszłość przyniesie gwałtowny rozwój technologii opartych na chmurze.",
+      "To sugeruje, że przyszłość przyniesie powszechną cyfryzację usług administracyjnych.",
+      "To sugeruje, że przyszłość przyniesie silną konkurencję na rynku edukacji online."
+    ],
+    "c1": [
+      "To sugeruje, że przyszłość przyniesie fundamentalną transformację paradygmatu globalnych łańcuchów dostaw.",
+      "To sugeruje, że przyszłość przyniesie systemową konieczność redefinicji roli państwa w gospodarce cyfrowej.",
+      "To sugeruje, że przyszłość przyniesie nieodwracalną erozję tradycyjnych modeli instytucjonalnych w sektorze finansowym.",
+      "To sugeruje, że przyszłość przyniesie konieczność wdrożenia globalnych mechanizmów regulacji sztucznej inteligencji.",
+      "To sugeruje, że przyszłość przyniesie strukturalny zwrot ku zrównoważonemu konsumpcjonizmowi i lokalności."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Wynik zależy całkowicie od tego, czy ...",
+    "translation": "The outcome depends entirely on whether or not ...",
+    "b1": [
+      "Wynik zależy całkowicie od tego, czy zdasz ten egzamin.",
+      "Wynik zależy całkowicie od tego, czy pogoda będzie dobra.",
+      "Wynik zależy całkowicie od tego, czy zdążysz na czas.",
+      "Wynik zależy całkowicie od tego, czy kupisz te bilety.",
+      "Wynik zależy całkowicie od tego, czy mi pomożesz."
+    ],
+    "b2": [
+      "Wynik zależy całkowicie od tego, czy klient zaakceptuje naszą nową ofertę cenową.",
+      "Wynik zależy całkowicie od tego, czy uda nam się zdobyć brakujące finansowanie w tym miesiącu.",
+      "Wynik zależy całkowicie od tego, czy system zostanie uruchomiony bez żadnych błędów.",
+      "Wynik zależy całkowicie od tego, czy dostawca wywiąże się z terminów dostaw.",
+      "Wynik zależy całkowicie od tego, czy pracownicy zgodzą się na zmianę grafiku pracy."
+    ],
+    "c1": [
+      "Wynik zależy całkowicie od tego, czy sąd przychyli się do naszej argumentacji prawnej w kluczowej kwestii.",
+      "Wynik zależy całkowicie od tego, czy konsorcjum utrzyma jedność stanowiska podczas nadchodzących negocjacji.",
+      "Wynik zależy całkowicie od tego, czy niezależny audytor potwierdzi pełną poprawność naszych ksiąg rachunkowych.",
+      "Wynik zależy całkowicie od tego, czy regulator wyda pozytywną decyzję notyfikacyjną w wyznaczonym terminie.",
+      "Wynik zależy całkowicie od tego, czy akcjonariusze mniejszościowi poprą plan restrukturyzacji na walnym zgromadzeniu."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Jeśli ten trend się utrzyma, to ...",
+    "translation": "If the trend continues, then ...",
+    "b1": [
+      "Jeśli ten trend się utrzyma, to wkrótce zabraknie nam miejsc.",
+      "Jeśli ten trend się utrzyma, to polubimy tę naukę.",
+      "Jeśli ten trend się utrzyma, to ceny w sklepach wzrosną.",
+      "Jeśli ten trend się utrzyma, to będziemy częściej podróżować.",
+      "Jeśli ten trend się utrzyma, to szybko skończymy pracę."
+    ],
+    "b2": [
+      "Jeśli ten trend się utrzyma, to w przyszłym roku staniemy się liderem w naszej branży.",
+      "Jeśli ten trend się utrzyma, to praca zdalna całkowicie wyepchnie model stacjonarny.",
+      "Jeśli ten trend się utrzyma, to koszty wynajmu w miastach staną się zaporowe dla młodych.",
+      "Jeśli ten trend się utrzyma, to zanotujemy rekordowy poziom sprzedaży w tym kwartale.",
+      "Jeśli ten trend się utrzyma, to wkrótce będziemy musieli powiększyć nasz zespół o połowę."
+    ],
+    "c1": [
+      "Jeśli ten trend się utrzyma, to tradycyjny sektor bankowy straci dominującą pozycję na rzecz fintechów.",
+      "Jeśli ten trend się utrzyma, to system emerytalny ulegnie całkowitemu bankructwu w ciągu dekady.",
+      "Jeśli ten trend się utrzyma, to globalne ocieplenie przekroczy krytyczny punkt bez powrotu szybciej niż zakładano.",
+      "Jeśli ten trend się utrzyma, to polaryzacja społeczna uniemożliwi sformułowanie jakiegokolwiek stabilnego rządu.",
+      "Jeśli ten trend się utrzyma, to ochrona prywatności w sieci przestanie realnie istnieć."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Gdyby wzięto pod uwagę ..., wynik byłby ...",
+    "translation": "Had they considered ..., the result would have been ...",
+    "b1": [
+      "Gdyby wzięto pod uwagę moją opinię, wynik byłby inny.",
+      "Gdyby wzięto pod uwagę pogodę, wycieczka byłaby lepsza.",
+      "Gdyby wzięto pod uwagę ten koszt, plan byłby lepszy.",
+      "Gdyby wzięto pod uwagę czas, zdążylibyśmy na film.",
+      "Gdyby wzięto pod uwagę jej radę, błąd nie wydarzyłby się."
+    ],
+    "b2": [
+      "Gdyby wzięto pod uwagę wcześniejsze ostrzeżenia zespołu, wynik audytu byłby o wiele lepszy.",
+      "Gdyby wzięto pod uwagę opinie klientów, ten produkt odniósłby znacznie większy sukces.",
+      "Gdyby wzięto pod uwagę koszty logistyczne, budżet projektu byłby realistyczny.",
+      "Gdyby wzięto pod uwagę ryzyko rynkowe, straty finansowe byłyby znacznie mniejsze.",
+      "Gdyby wzięto pod uwagę brak doświadczenia nowego pracownika, zadanie byłoby inne."
+    ],
+    "c1": [
+      "Gdyby wzięto pod uwagę długofalowe skutki geopolityczne, ta umowa handlowa miała zupełnie inny kształt.",
+      "Gdyby wzięto pod uwagę opinie ekspertów ds. bezpieczeństwa, ta luka w systemie nie zostałaby zignorowana.",
+      "Gdyby wzięto pod uwagę zmienność walutową, szacunki zysków byłyby znacznie bardziej powściągliwe.",
+      "Gdyby wzięto pod uwagę protesty lokalnej społeczności, ta inwestycja nie zostałaby wstrzymana.",
+      "Gdyby wzięto pod uwagę kryteria etyczne compliance, ta transakcja nigdy nie doszłaby do skutku."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Potrzebujemy planu awaryjnego na wypadek, gdyby ...",
+    "translation": "We need a backup plan in case ...",
+    "b1": [
+      "Potrzebujemy planu awaryjnego na wypadek, gdyby zaczął padać deszcz.",
+      "Potrzebujemy planu awaryjnego na wypadek, gdyby pociąg się spóźnił.",
+      "Potrzebujemy planu awaryjnego na wypadek, gdyby sklep był zamknięty.",
+      "Potrzebujemy planu awaryjnego na wypadek, gdyby zabrakło nam pieniędzy.",
+      "Potrzebujemy planu awaryjnego na wypadek, gdyby zapomnieli kluczy."
+    ],
+    "b2": [
+      "Potrzebujemy planu awaryjnego na wypadek, gdyby nasz główny dostawca odmówił współpracy.",
+      "Potrzebujemy planu awaryjnego na wypadek, gdyby serwer uległ awarii w trakcie prezentacji.",
+      "Potrzebujemy planu awaryjnego na wypadek, gdyby klient odrzucił przedstawiony projekt.",
+      "Potrzebujemy planu awaryjnego na wypadek, gdyby kluczowy członek zespołu nagle odszedł.",
+      "Potrzebujemy planu awaryjnego na wypadek, gdyby budżet został niespodziewanie obcięty."
+    ],
+    "c1": [
+      "Potrzebujemy planu awaryjnego na wypadek, gdyby regulator odrzucił wniosek o rejestrację nowego produktu.",
+      "Potrzebujemy planu awaryjnego na wypadek, gdyby doszło do masowego wycieku danych z bazy klientów.",
+      "Potrzebujemy planu awaryjnego na wypadek, gdyby trwający spór arbitrażowy zakończył się niekorzystnym wyrokiem.",
+      "Potrzebujemy planu awaryjnego na wypadek, gdyby nagłe sankcje gospodarcze odcięły nas od rynków wschodnich.",
+      "Potrzebujemy planu awaryjnego na wypadek, gdyby wrogie przejęcie kapitałowe zagroziło niezależności spółki."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Jest do wyobrażenia, że ...",
+    "translation": "It is conceivable that ...",
+    "b1": [
+      "Jest do wyobrażenia, że jutro pójdziemy na spacer.",
+      "Jest do wyobrażenia, że kupię ten samochód.",
+      "Jest do wyobrażenia, że zmienimy mieszkanie.",
+      "Jest do wyobrażenia, że on wkrótce przyjedzie.",
+      "Jest do wyobrażenia, że wygramy ten konkurs."
+    ],
+    "b2": [
+      "Jest do wyobrażenia, że w przyszłym roku cała firma przejdzie na czterodniowy tydzień pracy.",
+      "Jest do wyobrażenia, że ceny nieruchomości w tym mieście zaczną wkrótce spadać.",
+      "Jest do wyobrażenia, że klient poprosi o całkowitą zmianę koncepcji graficznej.",
+      "Jest do wyobrażenia, że nasza marka otworzy nową placówkę za granicą.",
+      "Jest do wyobrażenia, że budżet na ten dział zostanie wkrótce zwiększony."
+    ],
+    "c1": [
+      "Jest do wyobrażenia, że w wyniku kryzysu energetycznego nastąpi całkowita reorientacja polityki przemysłowej.",
+      "Jest do wyobrażenia, że sztuczna inteligencja wkrótce całkowicie zastąpi tradycyjne doradztwo prawne.",
+      "Jest do wyobrażenia, że postępująca recesja wymusi fuzję dwóch największych graczy na rynku.",
+      "Jest do wyobrażenia, że zmiana unijnych dyrektyw wymusi całkowite wycofanie tego produktu.",
+      "Jest do wyobrażenia, że presja społeczna doprowadzi do przedterminowych wyborów parlamentarnych."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Bez ..., nie da się ...",
+    "translation": "Without ..., it is impossible to ...",
+    "b1": [
+      "Bez twojej pomocy nie da się tego zrobić.",
+      "Bez biletu nie da się wejść do kina.",
+      "Bez klucza nie da się otworzyć drzwi.",
+      "Bez słońca nie da się opalać.",
+      "Bez pieniędzy nie da się kupić chleba."
+    ],
+    "b2": [
+      "Bez dokładnych danych nie da się przygotować rzetelnego raportu finansowego.",
+      "Bez zgody szefa nie da się podpisać tego dokumentu.",
+      "Bez zaangażowania całego zespołu nie da się ukończyć projektu na czas.",
+      "Bez znajomości języka obcego nie da się pracować w tej międzynarodowej firmie.",
+      "Bez regularnych testów nie da się wykryć błędów w oprogramowaniu."
+    ],
+    "c1": [
+      "Bez niezależnego audytu prawnego nie da się rzetelnie wycenić wartości spółki przed fuzją.",
+      "Bez strukturalnych reform systemu podatkowego nie da się zahamować długu publicznego.",
+      "Bez ścisłej koordynacji międzynarodowej nie da się skutecznie zwalczyć cyberprzestępczości.",
+      "Bez pełnej przejrzystości procedur compliance nie da się pozyskać zagranicznych inwestorów instytucjonalnych.",
+      "Bez akceptacji komitetu monitorującego nie da się uruchomić kolejnej transzy grantu."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Dowody wskazują na to, że dojdzie do ...",
+    "translation": "The evidence points towards ... happening.",
+    "b1": [
+      "Dowody wskazują na to, że dojdzie do zmiany pogody.",
+      "Dowody wskazują na to, że dojdzie do spotkania.",
+      "Dowody wskazują na to, że dojdzie do pomyłki.",
+      "Dowody wskazują na to, że dojdzie do opóźnienia.",
+      "Dowody wskazują na to, że dojdzie do zwrotu."
+    ],
+    "b2": [
+      "Dowody wskazują na to, że dojdzie do spadku sprzedaży w segmencie tradycyjnym.",
+      "Dowody wskazują na to, że dojdzie do renegocjacji umowy z głównym dostawcą.",
+      "Dowody wskazują na to, że dojdzie do konieczności zatrudnienia nowych specjalistów.",
+      "Dowody wskazują na to, że dojdzie do opóźnienia w dostawie komponentów.",
+      "Dowody wskazują na to, że dojdzie do wzrostu zainteresowania naszymi usługami."
+    ],
+    "c1": [
+      "Dowody wskazują na to, że dojdzie do systemowej zmiany w sposobie regulacji sektora technologicznego.",
+      "Dowody wskazują na to, że dojdzie do trwałego załamania wzrostu gospodarczego w tym regionie.",
+      "Dowody wskazują na to, że dojdzie do ujawnienia rażących nieprawidłowości w zarządzaniu funduszami.",
+      "Dowody wskazują na to, że dojdzie do zaostrzenia polityki monetarnej przez bank centralny.",
+      "Dowody wskazują na to, že dojdzie do bezprecedensowego kryzysu w strukturach dotychczasowej koalicji."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Pod warunkiem, że ..., możemy przejść do ...",
+    "translation": "On the condition that ..., we can proceed with ...",
+    "b1": [
+      "Pod warunkiem, że skończysz pracę, możemy przejść do zabawy.",
+      "Pod warunkiem, że kupisz bilet, możemy przejść do filmu.",
+      "Pod warunkiem, że posprzątasz, możemy przejść do obiadu.",
+      "Pod warunkiem, że będziesz cicho, możemy przejść do czytania.",
+      "Pod warunkiem, że zapłacisz, możemy przejść do zakupu."
+    ],
+    "b2": [
+      "Pod warunkiem, że klient zaakceptuje kosztorys, możemy przejść do realizacji projektu.",
+      "Pod warunkiem, że otrzymamy zielone światło od zarządu, możemy przejść do rekrutacji.",
+      "Pod warunkiem, że testy wypadną pomyślnie, możemy przejść do wdrażania systemu.",
+      "Pod warunkiem, że budżet zostanie domknięty, możemy przejść do podpisywania umów.",
+      "Pod warunkiem, że dostaniemy pełną dokumentację, możemy przejść do analizy danych."
+    ],
+    "c1": [
+      "Pod warunkiem, że urząd antymonopolowy wyda pozytywną opinię, możemy przejść do finalizacji fuzji.",
+      "Pod warunkiem, że akcjonariusze mniejszościowi zatwierdzą warunki, możemy przejść do restrukturyzacji.",
+      "Pod warunkiem, że audyt prawny nie wykaże uchybień, możemy przejść do podpisania umowy inwestycyjnej.",
+      "Pod warunkiem, że komitet ds. ryzyka wyda rekomendację, możemy przejść do zakupu obligacji.",
+      "Pod warunkiem, że obie strony podpiszą klauzulę poufności, możemy przejść do prezentacji strategii."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Długoterminową implikacją jest ...",
+    "translation": "The long-term implication is ...",
+    "b1": [
+      "Długoterminową implikacją jest lepsze zdrowie.",
+      "Długoterminową implikacją jest oszczędność pieniędzy.",
+      "Długoterminową implikacją jest nowa wiedza.",
+      "Długoterminową implikacją jest zmiana nawyków.",
+      "Długoterminową implikacją jest silniejsza przyjaźń."
+    ],
+    "b2": [
+      "Długoterminową implikacją tej decyzji jest utrata zaufania ze strony naszych stałych klientów.",
+      "Długoterminową implikacją przejścia na pracę zdalną jest zmniejszenie kosztów biurowych.",
+      "Długoterminową implikacją tej inwestycji jest wzrost naszej konkurencyjności na rynku.",
+      "Długoterminową implikacją braku szkoleń jest spadek efektywności całego zespołu.",
+      "Długoterminową implikacją tej zmiany jest poprawa jakości obsługi klienta."
+    ],
+    "c1": [
+      "Długoterminową implikacją tej reformy strukturalnej jest trwałe uzdrowienie finansów publicznych kraju.",
+      "Długoterminową implikacją bezrefleksyjnego wdrażania sztucznej inteligencji jest zanik tradycyjnych kompetencji.",
+      "Długoterminową implikacją tego traktatu handlowego jest całkowite uzależnienie energetyczne od zewnętrznych dostawców.",
+      "Długoterminową implikacją braku polityki klimatycznej jest nieodwracalna degradacja ekosystemów.",
+      "Długoterminową implikacją tej fuzji monopolowej jest drastyczne ograniczenie wyboru dla konsumentów."
+    ]
+  }
+]

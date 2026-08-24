@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Mind a ..., mind a ... fontos, mert ...",
+    "translation": "Both ... and ... are important because ...",
+    "b1": [
+      "Mind a munka, mind a pihenés fontos, mert szükségünk van egyensúlyra.",
+      "Mind a gyümölcs, mind a zöldség fontos, mert egészségesek.",
+      "Mind a zene, mind a csend fontos, mert segít a tanulásban.",
+      "Mind az idő, mind a pénz fontos, mert mindkettőre szükség van.",
+      "Mind a család, mind a barátok fontosak, mert támogatnak minket."
+    ],
+    "b2": [
+      "Mind az elméleti tudás, mind a gyakorlati tapasztalat fontos, mert így lehetünk sikeresek a munkánkban.",
+      "Mind a környezetvédelem, mind a gazdasági növekedés fontos, mert fenntartható jövőt kell építenünk.",
+      "Mind a digitális készségek, mind a kommunikáció fontos, mert a modern világban ezek nélkülözhetetlenek.",
+      "Mind a kreativitás, mind a fegyelem fontos, mert mindkettő kell egy jó projekthez.",
+      "Mind a fizikai egészség, mind a mentális jólét fontos, mert szorosan összefüggnek egymással."
+    ],
+    "c1": [
+      "Mind az innovatív technológiák alkalmazása, mind a hagyományos strukturalizmus megőrzése fontos, mert csak így biztosítható a harmonikus fejlődés.",
+      "Mind a jogi megfelelés, mind az etikai normák tiszteletben tartása fontos, mert ezek alapozzák meg a hosszú távú intézményi bizalmat.",
+      "Mind a makrogazdasági mutatók elemzése, mind a mikrokörnyezeti tényezők vizsgálata fontos, mert a komplexitás megértése ezt követeli meg.",
+      "Mind a konzorciumi partnerek érdekeinek összehangolása, mind a belső compliance szabályzat szigorú betartása fontos, mert a fúzió sikeressége ezen múlik.",
+      "Mind a strukturális reformok bevezetése, mind a kulturális sajátosságok megóvása fontos, mert a kettő integrációja elengedhetetlen a társadalmi kohézióhoz."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Ellentétben a ...-val/vel, azonban ...",
+    "translation": "Unlike ..., however, ...",
+    "b1": [
+      "Ellentétben a várossal, azonban a faluban csend van.",
+      "Ellentétben a nyárral, azonban télen hideg van.",
+      "Ellentétben a kávéval, azonban a tea nem tartalmaz annyi koffeint.",
+      "Ellentétben a tegnapi nappal, azonban ma süt a nap.",
+      "Ellentétben az öcsémmel, azonban én szeretek olvasni."
+    ],
+    "b2": [
+      "Ellentétben a tavalyi évvel, azonban idén sokkal több projektünk van.",
+      "Ellentétben a hagyományos marketinggel, azonban a digitális hirdetés gyorsabb eredményt hoz.",
+      "Ellentétben a többi jelölttel, azonban ő rendelkezik nemzetközi tapasztalattal.",
+      "Ellentétben a várakozásokkal, azonban a vállalat profitja jelentősen nőtt.",
+      "Ellentétben az eddigi gyakorlattal, azonban most új szoftvert vezetünk be."
+    ],
+    "c1": [
+      "Ellentétben a korábbi konszolidációs ciklusokkal, azonban a jelenlegi piaci volatilitás teljesen új kihívásokat generál.",
+      "Ellentétben a formális jogi állásfoglalással, azonban a gyakorlati implementáció során számos kiskapu merül fel.",
+      "Ellentétben az elméleti modellekkel, azonban a valós adatok drasztikus eltéréseket mutatnak.",
+      "Ellentétben a központosított döntéshozatali mechanizmussal, azonban a partnercég decentralizált struktúrát alkalmaz.",
+      "Ellentétben a statikus elemzési módszerekkel, azonban az új paradigmák dinamikus monitorozást követelnek meg."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "A fő különbség a ... és a ... között az, hogy ...",
+    "translation": "The main difference between ... and ... is that ...",
+    "b1": [
+      "A fő különbség a kávé és a tea között az, hogy a kávéban több a koffein.",
+      "A fő különbség a nyár és a tél között az, hogy nyáron meleg van.",
+      "A fő különbség a kisteherautó és a személyautó között az, hogy a kisteherautó nagyobb.",
+      "A fő különbség a busz és a vonat között az, hogy a vonat a síneken jár.",
+      "A fő különbség a macska és a kutya között az, hogy a kutya jobban igényli a társaságot."
+    ],
+    "b2": [
+      "A fő különbség a távmunka és az irodai munka között az, hogy az előbbi nagyobb rugalmasságot biztosít.",
+      "A fő különbség a fix és a változó kamatozású hitel között az, hogy a fix kamat nem változik.",
+      "A fő különbség a két javaslat között az, hogy az első sokkal költséghatékonyabb.",
+      "A fő különbség a nyilvános és a zárt körű cég között az, hogy a részvények hogyan forognak.",
+      "A fő különbség a formális és az informális kommunikáció között az, hogy az utóbbi közvetlenebb."
+    ],
+    "c1": [
+      "A fő különbség a tradicionális tőkebevonás és a konzorciumi finanszírozás között az, hogy az utóbbi megosztja a strukturális kockázatokat.",
+      "A fő különbség a statikus audit és a dinamikus compliance ellenőrzés között az, hogy az utóbbi valós idejű adatelemzésre épül.",
+      "A fő különbség a direkt jogi szankció és a közvetett piaci szabályozás között az, hogy az előbbi kényszerítő erejű.",
+      "A fő különbség a kvantitatív modellezés és a kvalitatív elemzés között az, hogy az előbbi kizárólag mérhető metrikákra támaszkodik.",
+      "A fő különbség a centralizált jogrendszer és a precedensalapú joggyakorlat között az, hogy a jogértelmezés alapvetően eltérő."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "... hasonló a ...-hoz/hez abban, hogy ...",
+    "translation": "... is similar to ... in that ...",
+    "b1": [
+      "Ez a film hasonló a másikhoz abban, hogy nagyon vicces.",
+      "Ez a város hasonló Budapesthez abban, hogy szép folyója van.",
+      "Ez a gyümölcs hasonló az almához abban, hogy édes.",
+      "Ez a kabát hasonló a tiédhez abban, hogy meleg.",
+      "Ez a feladat hasonló az előzőhöz abban, hogy könnyű."
+    ],
+    "b2": [
+      "Ez a vállalkozás hasonló a miénkhez abban, hogy a külpiacra fókuszál.",
+      "Ez a szoftver hasonló az elődjéhez abban, hogy felhasználóbarát felülettel rendelkezik.",
+      "Ez a stratégia hasonló a versenytársakéhoz abban, hogy az online csatornákat helyezi előtérbe.",
+      "Ez a szerződés hasonló a korábbiakhoz abban, hogy tartalmaz titoktartási záradékot.",
+      "Ez a jelölt hasonló a többihez abban, hogy kiváló nyelvtudással bír."
+    ],
+    "c1": [
+      "Ez a pénzügyi modell hasonló a makrogazdasági előrejelzésekhez abban, hogy sztochasztikus változókkal operál.",
+      "Ez a jogi konstrukció hasonló a nemzetközi fúziókhoz abban, hogy szigorú compliance előírásoknak kell megfelelnie.",
+      "Ez az innovatív megközelítés hasonló a csúcstechnológiai ágazatokhoz abban, hogy magas fokú kockázatvállalást igényel.",
+      "Ez a strukturális reform hasonló a korábbi válságkezelő csomagokhoz abban, hogy centralizált felügyeletet követel.",
+      "Ez az analitikus keretrendszer hasonló a tudományos kutatásokhoz abban, hogy empirikus validálást feltételez."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Míg a ...-nak megvan az X-e, addig a ...-nak Y-a van.",
+    "translation": "While ... has X, ... has Y.",
+    "b1": [
+      "Míg a kávénak megvan az íze, addig a teának gyógyhatása van.",
+      "Míg a nyárnak megvan a melege, addig a télnek a hava van.",
+      "Míg az autónak megvan a sebessége, addig a biciklinek a csendje van.",
+      "Míg a macskának megvan a függetlensége, addig a kutyának a hűsége van.",
+      "Míg a lakásnak megvan a helye, addig a háznak kertje van."
+    ],
+    "b2": [
+      "Míg a távmunkának megvan a rugalmassága, addig az irodai munkának a személyes kapcsolatai vannak.",
+      "Míg a fix kamatnak megvan a biztonsága, addig a változónak a kezdeti alacsonyabb értéke van.",
+      "Míg az új autónak megvan a garanciája, addig a használtnak az alacsonyabb ára van.",
+      "Míg az elméleti oktatásnak megvan az alapja, addig a gyakorlatnak a rutinja van.",
+      "Míg a kisvállalatnak megvan a gyorsasága, addig a multinak a tőkeereje van."
+    ],
+    "c1": [
+      "Míg a kvantitatív elemzésnek megvan a statisztikai pontossága, addig a kvalitatív kutatásnak a mélyreható kontextusa van.",
+      "Míg a centralizált döntéshozatalnak megvan a gyorsasága, addig a konzorciumi konszenzusnak a stabilitása van.",
+      "Míg a formális jogi keretnek megvan a szigorú kötötttsége, addig a rugalmas megállapodásnak a mozgástere van.",
+      "Míg a makrogazdasági mutatóknak megvan az átfogó képe, addig a mikroadatoknak a részletgazdagsága van.",
+      "Míg az automatizált szoftvernek megvan a hatékonysága, addig az emberi felügyeletnek a kritikus kontrollja van."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Egyrészt ..., másrészt viszont ...",
+    "translation": "On the one hand ..., but on the other hand, ...",
+    "b1": [
+      "Egyrészt olcsó ez a ruha, másrészt viszont nem túl szép.",
+      "Egyrészt jó a meleg idő, másrészt viszont nagyon fárasztó.",
+      "Egyrészt szeretek városon élni, másrészt viszont túl sok a zaj.",
+      "Egyrészt finom a torta, másrészt viszont sok benne a cukor.",
+      "Egyrészt izgalmas a film, másrészt viszont kicsit hosszú."
+    ],
+    "b2": [
+      "Egyrészt a távmunka több szabadidőt ad, másrészt viszont elszigetelhet a kollégáktól.",
+      "Egyrészt a nagyváros sok lehetőséget kínál, másrészt viszont magas a megélhetési költség.",
+      "Egyrészt ez a befektetés jövedelmező lehet, másrészt viszont komoly kockázattal jár.",
+      "Egyrészt a modern technológia felgyorsítja a munkát, másrészt viszont növeli a stresszt.",
+      "Egyrészt fontos a gyors döntés, másrészt viszont alaposan át kell gondolni a lépéseket."
+    ],
+    "c1": [
+      "Egyrészt a globális piac nyitottsága gazdasági növekedést generál, másrészt viszont fokozza a lokális kultúrák kiszolgáltatottságát.",
+      "Egyrészt az adatalapú automatizáció növeli a hatékonyságot, másrészt viszont insidieusement leépíti az emberi kreativitást.",
+      "Egyrészt a konzorciumi együttműködés megosztja a terheket, másrészt viszont lassítja a bürokratikus döntéshozatalt.",
+      "Egyrészt a szigorú compliance szabályzat védi a céget, másrészt viszont gátolja az üzleti agilitást.",
+      "Egyrészt a makrogazdasági reformok elengedhetetlenek, másrészt viszont rövid távon növelik a társadalmi feszültséget."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "A ...-hoz/hez képest a ...",
+    "translation": "In comparison to ..., ...",
+    "b1": [
+      "A tavalyi évhez képest a nyár melegebb.",
+      "A városhoz képest a falu sokkal csendesebb.",
+      "A kávéhoz képest a tea gyengébb.",
+      "Az előző lakáshoz képest ez a ház nagyobb.",
+      "A tegnapi naphoz képest ma jobban érzem magam."
+    ],
+    "b2": [
+      "A többi jelentkezőhöz képest ő sokkal több tapasztalattal rendelkezik.",
+      "A tervezett költségvetéshez képest a projekt végösszege alacsonyabb lett.",
+      "A hagyományos módszerekhez képest az új eljárás feleannyi időt vesz igénybe.",
+      "A korábbi negyedévhez képest a cég árbevétele jelentősen emelkedett.",
+      "A fővároshoz képest a vidéki régiókban olcsóbb az élet."
+    ],
+    "c1": [
+      "A korábbi gazdasági válságokhoz képest a mostani inflációs hullám teljesen eltérő strukturális dinamikát mutat.",
+      "A formális belső auditokhoz képest a külső szakértői vizsgálat sokkal mélyrehatóbb hiányosságokat tárt fel.",
+      "A statikus jogi iránymutatásokhoz képest az új uniós direktíva lényegesen szigorúbb compliance követelményeket támaszt.",
+      "A standard marketing elemzésekhez képest a prediktív adatalapú modellezés nagyságrenddel pontosabb előrejelzést ad.",
+      "A hagyományos hierarchikus struktúrákhoz képest a mátrixszervezet sokkal komplexebb koordinációt igényel."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Ezzel szemben a ...-mal/vel kapcsolatos helyzet egészen más.",
+    "translation": "Conversely, the situation with ... is quite different.",
+    "b1": [
+      "Ezzel szemben a tanulással kapcsolatos helyzet egészen más.",
+      "Ezzel szemben az időjárással kapcsolatos helyzet egészen más.",
+      "Ezzel szemben a munkahelyi helyzet egészen más.",
+      "Ezzel szemben az utazással kapcsolatos helyzet egészen más.",
+      "Ezzel szemben a sporttal kapcsolatos helyzet egészen más."
+    ],
+    "b2": [
+      "Ezzel szemben a külföldi piacokkal kapcsolatos helyzet egészen más.",
+      "Ezzel szemben a kisvállalkozásokkal kapcsolatos helyzet egészen más.",
+      "Ezzel szemben az online oktatással kapcsolatos helyzet egészen más.",
+      "Ezzel szemben a turizmussal kapcsolatos helyzet egészen más.",
+      "Ezzel szemben a lakásvásárlással kapcsolatos helyzet egészen más."
+    ],
+    "c1": [
+      "Ezzel szemben a konzorciumi partnerekkel kapcsolatos jogi helyzet egészen más.",
+      "Ezzel szemben a tőzsdei részvényekkel kapcsolatos piaci helyzet egészen más.",
+      "Ezzel szemben a szoftverfejlesztési metrikákkal kapcsolatos audit helyzet egészen más.",
+      "Ezzel szemben a makrogazdasági mutatókkal kapcsolatos prognózis egészen más.",
+      "Ezzel szemben a belső compliance protokollokkal kapcsolatos helyzet egészen más."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Számos közös vonásuk van, mint például ...",
+    "translation": "They share several common characteristics, such as ...",
+    "b1": [
+      "Számos közös vonásuk van, mint például a színük.",
+      "Számos közös vonásuk van, mint például a méretük.",
+      "Számos közös vonásuk van, mint például az ízük.",
+      "Számos közös vonásuk van, mint például a hasznuk.",
+      "Számos közös vonásuk van, mint például a nevük."
+    ],
+    "b2": [
+      "Számos közös vonásuk van, mint például a célközönségük.",
+      "Számos közös vonásuk van, mint például az árszintjük.",
+      "Számos közös vonásuk van, mint például a működési elvük.",
+      "Számos közös vonásuk van, mint például a felhasznált anyagok.",
+      "Számos közös vonásuk van, mint például a dizájn."
+    ],
+    "c1": [
+      "Számos közös vonásuk van, mint például a szigorú compliance követelmények.",
+      "Számos közös vonásuk van, mint például a strukturális kockázatkezelési protokoll.",
+      "Számos közös vonásuk van, mint például az empirikus adatokra épülő módszertan.",
+      "Számos közös vonásuk van, mint például a nemzetközi piaci integráció.",
+      "Számos közös vonásuk van, mint például a centralizált döntéshozatali struktúra."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "A ... mértéke sokkal nagyobb a ...-ban/ben, mint a ...-ban/ben.",
+    "translation": "The degree of ... is much greater in ... than in ...",
+    "b1": [
+      "A víz mértéke sokkal nagyobb a pohárban, mint a csészében.",
+      "A zaj mértéke sokkal nagyobb a városban, mint a faluban.",
+      "A cukor mértéke sokkal nagyobb ebben a süteményben, mint a másikban.",
+      "A hó mértéke sokkal nagyobb a hegyekben, mint a völgyben.",
+      "A meleg mértéke sokkal nagyobb a szobában, mint az udvaron."
+    ],
+    "b2": [
+      "A munkanélküliség mértéke sokkal nagyobb ebben a régióban, mint a fővárosban.",
+      "A digitalizáció mértéke sokkal nagyobb a bankszektorban, mint az oktatásban.",
+      "A kockázat mértéke sokkal nagyobb a tőzsdén, mint az állampapírban.",
+      "A fluktuáció mértéke sokkal nagyobb ebben a cégben, mint a versenytársnál.",
+      "A nyereség mértéke sokkal nagyobb az exportban, mint a belföldi piacon."
+    ],
+    "c1": [
+      "A piaci volatilitás mértéke sokkal nagyobb a fejletlen gazdaságokban, mint a stabil konzorciumi zónákban.",
+      "A bürokratikus teher mértéke sokkal nagyobb a központi intézményekben, mint a magánszektorban.",
+      "A strukturális munkanélküliség mértéke sokkal nagyobb az ipari átalakulás érintett területein, mint a szolgáltatási szektorban.",
+      "A jogi bizonytalanság mértéke sokkal nagyobb a nem szabályozott digitális piacokon, mint a hagyományos szektorokban.",
+      "A tőkeintenzitás mértéke sokkal nagyobb a csúcstechnológiai beruházásokban, mint a hagyományos termelésben."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Bár az igaz, hogy ..., de figyelembe kell vennünk azt is, hogy ...",
+    "translation": "Although ... is true, we must also consider ...",
+    "b1": [
+      "Bár az igaz, hogy drága ez a ruha, de figyelembe kell vennünk azt is, hogy nagyon jó minőségű.",
+      "Bár az igaz, hogy hideg van odakint, de figyelembe kell vennünk azt is, hogy süt a nap.",
+      "Bár az igaz, hogy nehéz a teszt, de figyelembe kell vennünk azt is, hogy sokat tanultunk.",
+      "Bár az igaz, hogy messze van a bolt, de figyelembe kell vennünk azt is, hogy olcsó.",
+      "Bár az igaz, hogy fáradt vagyok, de figyelembe kell vennünk azt is, hogy be kell fejeznem."
+    ],
+    "b2": [
+      "Bár az igaz, hogy a távmunka kényelmes, de figyelembe kell vennünk azt is, hogy csökkentheti a csapatszellemet.",
+      "Bár az igaz, hogy a projekt drága lesz, de figyelembe kell vennünk azt is, hogy hosszú távon megtérül.",
+      "Bár az igaz, hogy a cég nyereséges, de figyelembe kell vennünk azt is, hogy a piaci kockázatok növekednek.",
+      "Bár az igaz, hogy a jelöltnek van tapasztalata, de figyelembe kell vennünk azt is, hogy hiányoznak a vezetői készségei.",
+      "Bár az igaz, hogy a szabályok szigorúak, de figyelembe kell vennünk azt is, hogy a biztonságot szolgálják."
+    ],
+    "c1": [
+      "Bár az igaz, hogy a globalizáció gazdasági növekedést generál, de figyelembe kell vennünk azt is, hogy mélyíti a társadalmi egyenlőtlenségeket.",
+      "Bár az igaz, hogy a konzorciumi megállapodás előnyös, de figyelembe kell vennünk azt is, hogy komoly jogi kockázatokat rejt magában.",
+      "Bár az igaz, hogy a mesterséges intelligencia növeli a hatékonyságot, de figyelembe kell vennünk azt is, hogy insidieusement leépíti a kritikus gondolkodást.",
+      "Bár az igaz, hogy a makrogazdasági adatok kedvezőek, de figyelembe kell vennünk azt is, hogy a mikroszintű stabilitás sérülékeny.",
+      "Bár az igaz, hogy a belső audit hiánytalan volt, de figyelembe kell vennünk azt is, hogy a compliance protokollok folyamatos felülvizsgálatot igényelnek."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Jelentős eltérést mutat az a pont, ahol ...",
+    "translation": "A significant point of divergence is ...",
+    "b1": [
+      "Jelentős eltérést mutat az a pont, ahol a két út elválik egymástól.",
+      "Jelentős eltérést mutat az a pont, ahol az ár megváltozik.",
+      "Jelentős eltérést mutat az a pont, ahol a folyó keskenyebb lesz.",
+      "Jelentős eltérést mutat az a pont, ahol a hegy kezdődik.",
+      "Jelentős eltérést mutat az a pont, ahol a történet véget ér."
+    ],
+    "b2": [
+      "Jelentős eltérést mutat az a pont, ahol a költségvetési tervezés találkozik a valósággal.",
+      "Jelentős eltérést mutat az a pont, ahol a cég stratégiai iránya megváltozik.",
+      "Jelentős eltérést mutat az a pont, ahol a vevői elvárások találkoznak a termékkel.",
+      "Jelentős eltérést mutat az a pont, ahol a jogi felelősség átszáll a másik félre.",
+      "Jelentős eltérést mutat az a pont, ahol a statisztikai adatok eltérnek a vártaktól."
+    ],
+    "c1": [
+      "Jelentős eltérést mutat az a pont, ahol a konzorciumi szerződés jogi interpretációja szétválik a felek között.",
+      "Jelentős eltérést mutat az a pont, ahol a kvantitatív modellezés konklúziói ellentmondanak a kvalitatív elemzésnek.",
+      "Jelentős eltérést mutat az a pont, ahol a centralizált döntéshozatal átcsap bürokratikus akadályozásba.",
+      "Jelentős eltérést mutat az a pont, ahol a makrogazdasági trendek már nem fedik le a lokális piaci valóságot.",
+      "Jelentős eltérést mutat az a pont, ahol a belső compliance előírások ütköznek a nemzetközi sztenderdekkel."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Alapvetően hasonlóak, kivéve azt, hogy ...",
+    "translation": "They are fundamentally similar, except for ...",
+    "b1": [
+      "Alapvetően hasonlóak, kivéve azt, hogy a színe más.",
+      "Alapvetően hasonlóak, kivéve azt, hogy az egyik nagyobb.",
+      "Alapvetően hasonlóak, kivéve azt, hogy az áruk eltérő.",
+      "Alapvetően hasonlóak, kivéve azt, hogy a tiéd újabb.",
+      "Alapvetően hasonlóak, kivéve azt, hogy kicsit más az íze."
+    ],
+    "b2": [
+      "Alapvetően hasonlóak, kivéve azt, hogy a szoftver újabb verziójáról van szó.",
+      "Alapvetően hasonlóak, kivéve azt, hogy a határidő egy héttel korábbi.",
+      "Alapvetően hasonlóak, kivéve azt, hogy a célcsoport kissé eltér.",
+      "Alapvetően hasonlóak, kivéve azt, hogy az egyik cég külföldi székhelyű.",
+      "Alapvetően hasonlóak, kivéve azt, hogy a garancia hossza más."
+    ],
+    "c1": [
+      "Alapvetően hasonlóak, kivéve azt, hogy a jogi felelősségvállalás mértéke eltérő a szerződésekben.",
+      "Alapvetően hasonlóak, kivéve azt, hogy az egyik modellbe beépítették a prediktív kockázatelemzést.",
+      "Alapvetően hasonlóak, kivéve azt, hogy a konzorciumi megállapodás szigorúbb compliance záradékot tartalmaz.",
+      "Alapvetően hasonlóak, kivéve azt, hogy a kvantitatív adatok forrása más földrajzi régióból származik.",
+      "Alapvetően hasonlóak, kivéve azt, hogy az új struktúra decentralizált döntéshozatalt alkalmaz."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "A ... sokkal hatékonyabb, mint a ..., mert ...",
+    "translation": "... is far more effective than ... because ...",
+    "b1": [
+      "Ez a gép sokkal hatékonyabb, mint a régi, mert gyorsabban dolgozik.",
+      "A futás sokkal hatékonyabb, mint a séta, mert jobban égeti a kalóriát.",
+      "Ez a mosószer sokkal hatékonyabb, mint a másik, mert kiszedi a foltot.",
+      "A tanulás sokkal hatékonyabb reggel, mint este, mert frissebb az agy.",
+      "A reklám sokkal hatékonyabb a neten, mint tévében, mert több fiatal látja."
+    ],
+    "b2": [
+      "Az új szoftver sokkal hatékonyabb, mint az előző, mert automatizálja a rutinfeladatokat.",
+      "A személyes egyeztetés sokkal hatékonyabb, mint az e-mail, mert gyorsabban tisztázhatók a félreértések.",
+      "Ez a marketingstratégia sokkal hatékonyabb, mint a hagyományos, mert közvetlenül éri el a célközönséget.",
+      "A rendszeres sportolás sokkal hatékonyabb a stressz ellen, mint a pihenés, mert levezeti a feszültséget.",
+      "A projektmenedzsment-eszköz sokkal hatékonyabb, mint a papíralapú nyilvántartás, mert átláthatóbb."
+    ],
+    "c1": [
+      "A prediktív adatelemzés sokkal hatékonyabb a kockázatkezelésben, mint a reaktív audit, mert proaktívan szűri ki a rendszerszintű hibákat.",
+      "A konzorciumi konszenzuson alapuló döntéshozatal sokkal hatékonyabb a fúzióknál, mint az egyoldalú irányítás, mert elkerüli a jogi vitákat.",
+      "A strukturált komponensekre bontott feladatkezelés sokkal hatékonyabb a komplex projekteknél, mint a kaotikus munkavégzés, mert átlátható metrikákat biztosít.",
+      "A szigorú belső compliance protokoll sokkal hatékonyabb a jogi büntetések elkerülésében, mint az utólagos kármentés, mert minimalizálja a kockázatokat.",
+      "A makrogazdasági tendenciákra épülő stratégia sokkal hatékonyabb a tőkebevonásban, mint a megérzéseken alapuló tervek, mert empirikusan validált."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Párhuzamot vonhatunk a ... és a ... között.",
+    "translation": "We can draw a parallel between ... and ...",
+    "b1": [
+      "Párhuzamot vonhatunk a két film története között.",
+      "Párhuzamot vonhatunk a téli és a nyári időjárás változásai között.",
+      "Párhuzamot vonhatunk a tegnapi és a mai meccs között.",
+      "Párhuzamot vonhatunk a két város fejlődése között.",
+      "Párhuzamot vonhatunk a te és a testvéred szokásai között."
+    ],
+    "b2": [
+      "Párhuzamot vonhatunk a mai gazdasági válság és a múlt századbeli folyamatok között.",
+      "Párhuzamot vonhatunk a két cég marketingstratégiája között.",
+      "Párhuzamot vonhatunk a digitális oktatás és a hagyományos iskolai rendszer kihívásai között.",
+      "Párhuzamot vonhatunk a vállalkozás indítása és egy sportverseny felkészülése között.",
+      "Párhuzamot vonhatunk a két politikai rendszer működési mechanizmusa között."
+    ],
+    "c1": [
+      "Párhuzamot vonhatunk a jelenkori információs túlterheltség és a korábbi ipari forradalmak társadalmi átalakulásai között.",
+      "Párhuzamot vonhatunk a nemzetközi fúziós jogi szabályozások és a történelmi birodalmi integrációk struktúrái között.",
+      "Párhuzamot vonhatunk a konzorciumi érdekellentétek kezelése és a diplomáciai tárgyalások protokolljai között.",
+      "Párhuzamot vonhatunk a szoftverfejlesztési architektúrák evolúciója és a modern várostervezési modellek fejlődése között.",
+      "Párhuzamot vonhatunk a tőzsdei buborékok kialakulása és a makrogazdasági ciklusok elméleti modelljei között."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Sem a ..., sem a ... nem biztosít ...",
+    "translation": "Neither ... nor ... provides ...",
+    "b1": [
+      "Sem a busz, sem a vonat nem biztosít közvetlen utat oda.",
+      "Sem a kávé, sem a tea nem biztosít elegendő energiát egész napra.",
+      "Sem ez a kabát, sem a másik nem biztosít elég meleget télen.",
+      "Sem a bolt, sem a piac nem biztosít ilyen olcsó árut.",
+      "Sem a barátod, sem te nem biztosítjátok a pontosságot."
+    ],
+    "b2": [
+      "Sem a fix kamatú hitel, sem a változó nem biztosít teljes védelmet a piaci infláció ellen.",
+      "Sem a távmunka, sem az irodai modell nem biztosít mindenki számára tökéletes egyensúlyt.",
+      "Sem a gyors döntés, sem a hosszas halogatás nem biztosít sikeres kimenetelt a projektben.",
+      "Sem az elméleti képzés, sem a puszta gyakorlat nem biztosít átfogó tudást önmagában.",
+      "Sem a kisvállalati struktúra, sem a rideg bürokrácia nem biztosít rugalmas növekedést."
+    ],
+    "c1": [
+      "Sem a formális jogi kiskapukra épülő stratégia, sem a puszta szerencse nem biztosít hosszú távú piaci stabilitást.",
+      "Sem a centralizált döntéshozatal, sem az anarchikus szabadság nem biztosít hatékony konzorciumi működést.",
+      "Sem a statikus compliance audit, sem a felszíni adatelemzés nem biztosít valós betekintést a rendszerszintű kockázatokba.",
+      "Sem a kvantitatív adatok vak követése, sem az intuícióra hagyatkozás nem biztosít tévedhetetlen döntéshozatalt.",
+      "Sem a makrogazdasági reformok elmaradása, sem a megalapozatlan tőkeinjekció nem biztosít fenntartható növekedést."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "A ...-hoz/hez mérve a ... ...-nak tűnik.",
+    "translation": "When balanced against ..., ... appears to be ...",
+    "b1": [
+      "A nyári időhöz mérve a tavasz kifejezetten hűvösnek tűnik.",
+      "A városhoz mérve a falu sokkal nyugodtabbnak tűnik.",
+      "A tegnapi teszthez mérve ez a feladat könnyebbnek tűnik.",
+      "A többi ruhához mérve ez a kabát drágábbnak tűnik.",
+      "A múltkori filmhez mérve ez a mozi izgalmasabbnak tűnik."
+    ],
+    "b2": [
+      "A tavalyi év eredményeihez mérve a mostani növekedés jelentősnek tűnik.",
+      "A versenytársak ajánlatához mérve a mi árunk versenyképesebbnek tűnik.",
+      "A kezdeti nehézségekhez mérve a projekt most simábbnak tűnik.",
+      "A többi jelölt profiljához mérve az ő tapasztalata meggyőzőbbnek tűnik.",
+      "A tervezett büdzséthez mérve a tényleges kiadás magasabbnak tűnik."
+    ],
+    "c1": [
+      "A globális piaci volatilitáshoz mérve a mi konzorciumi portfóliónk stabilabbnak tűnik.",
+      "A szigorú jogi normákhoz mérve a partnercég javaslata kockázatosabbnak tűnik.",
+      "A statikus belső auditokhoz mérve a dinamikus compliance ellenőrzés átfogóbbnak tűnik.",
+      "A hagyományos hierarchikus struktúrához mérve a mátrixszervezet rugalmasabbnak tűnik.",
+      "A felszíni makrogazdasági adatokhoz mérve a mikroszintű valóság sokkal sötétebbnek tűnik."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Kirívó kontraszt mutatkozik abban, ahogyan ...",
+    "translation": "There is a stark contrast in their approach to ...",
+    "b1": [
+      "Kirívó kontraszt mutatkozik abban, ahogyan a két testvér tanul.",
+      "Kirívó kontraszt mutatkozik abban, ahogyan a város és a falu éjszaka él.",
+      "Kirívó kontraszt mutatkozik abban, ahogyan az időjárás változik.",
+      "Kirívó kontraszt mutatkozik abban, ahogyan a vásárlók választanak.",
+      "Kirívó kontraszt mutatkozik abban, ahogyan a tanárok magyaráznak."
+    ],
+    "b2": [
+      "Kirívó kontraszt mutatkozik abban, ahogyan a két cég kezeli a válsághelyzeteket.",
+      "Kirívó kontraszt mutatkozik abban, ahogyan a vezetőség kommunikál a dolgozókkal.",
+      "Kirívó kontraszt mutatkozik abban, ahogyan a fix és a flexibilis munkarendet alkalmazzák.",
+      "Kirívó kontraszt mutatkozik abban, ahogyan a hazai és a külföldi piacon terjeszkednek.",
+      "Kirívó kontraszt mutatkozik abban, ahogyan a panaszokat kezelik az ügyfélszolgálaton."
+    ],
+    "c1": [
+      "Kirívó kontraszt mutatkozik abban, ahogyan a konzorciumi tagok viszonyulnak a jogi compliance előírásokhoz.",
+      "Kirívó kontraszt mutatkozik abban, ahogyan a centralizált intézmények és a startupok kezelik az innovációt.",
+      "Kirívó kontraszt mutatkozik abban, ahogyan a kvantitatív modellek és az intuitív menedzsment kezeli a kockázatokat.",
+      "Kirívó kontraszt mutatkozik abban, ahogyan a makrogazdasági reformok és a lokális érdekek ütköznek.",
+      "Kirívó kontraszt mutatkozik abban, ahogyan a belső audit hiányosságait a különböző részlegek értékelik."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "A hasonlóság abban rejlik, hogy ...",
+    "translation": "The similarity lies in the fact that ...",
+    "b1": [
+      "A hasonlóság abban rejlik, hogy mindkettő nagyon hasznos.",
+      "A hasonlóság abban rejlik, hogy mindkét film vicces.",
+      "A hasonlóság abban rejlik, hogy mind a kettő piros színű.",
+      "A hasonlóság abban rejlik, hogy mindkét helyen csend van.",
+      "A hasonlóság abban rejlik, hogy mindketten korán kelnek."
+    ],
+    "b2": [
+      "A hasonlóság abban rejlik, hogy mindkét vállalkozás az online piacra épít.",
+      "A hasonlóság abban rejlik, hogy mindkét szoftver ingyenesen letölthető.",
+      "A hasonlóság abban rejlik, hogy mindkét jelölt kiváló nyelvismerettel bír.",
+      "A hasonlóság abban rejlik, hogy mindkét szerződés tartalmazza a felmondási feltételeket.",
+      "A hasonlóság abban rejlik, hogy mindkét csapat agilis módszertant használ."
+    ],
+    "c1": [
+      "A hasonlóság abban rejlik, hogy mindkét modell szigorú compliance előírásokra támaszkodik.",
+      "A hasonlóság abban rejlik, hogy mindkét konzorciumi megállapodás centralizált döntéshozatalt követel meg.",
+      "A hasonlóság abban rejlik, hogy mindkét elemzés empirikus adatokon alapuló validálást igényel.",
+      "A hasonlóság abban rejlik, hogy mindkét struktúra magas fokú strukturális kockázatkezelést feltételez.",
+      "A hasonlóság abban rejlik, hogy mindkét jogi keretrendszer uniós direktíváknak felel meg."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Egymás mellé állítva a dolgokat, a ... egyértelműen felülmúlja a ...-t.",
+    "translation": "Compared side by side, ... clearly outperforms ...",
+    "b1": [
+      "Egymás mellé állítva a dolgokat, a kávé egyértelműen felülmúlja a teát reggel.",
+      "Egymás mellé állítva a dolgokat, ez a telefon egyértelműen felülmúlja a régit.",
+      "Egymás mellé állítva a dolgokat, az új kocsi egyértelműen felülmúlja a biciklit távon.",
+      "Egymás mellé állítva a dolgokat, ez a film egyértelműen felülmúlja a másikat.",
+      "Egymás mellé állítva a dolgokat, a nyár egyértelműen felülmúlja a telet hangulatban."
+    ],
+    "b2": [
+      "Egymás mellé állítva a dolgokat, az új marketingterv egyértelműen felülmúlja a tavalyit.",
+      "Egymás mellé állítva a dolgokat, ez a jelölt egyértelműen felülmúlja a többi pályázót.",
+      "Egymás mellé állítva a dolgokat, a digitális platform egyértelműen felülmúlja a papíralapú ügyintézést.",
+      "Egymás mellé állítva a dolgokat, a mi cégünk ajánlata egyértelműen felülmúlja a versenytársét.",
+      "Egymás mellé állítva a dolgokat, az online oktatás egyértelműen felülmúlja a hagyományos előadást rugalmasságban."
+    ],
+    "c1": [
+      "Egymás mellé állítva a dolgokat, a prediktív adatelemzés egyértelműen felülmúlja a reaktív auditot a kockázatkezelésben.",
+      "Egymás mellé állítva a dolgokat, a konzorciumi modell egyértelműen felülmúlja a tradicionális tőkebevonást a terhek megosztásában.",
+      "Egymás mellé állítva a dolgokat, a strukturált compliance protokoll egyértelműen felülmúlja az ad hoc jogi megoldásokat.",
+      "Egymás mellé állítva a dolgokat, az automatizált szoftverfejlesztési metrika egyértelműen felülmúlja a manuális ellenőrzést.",
+      "Egymás mellé állítva a dolgokat, a makrogazdasági adatokra épülő stratégia egyértelműen felülmúlja a megérzéseken alapuló terveket."
+    ]
+  }
+]

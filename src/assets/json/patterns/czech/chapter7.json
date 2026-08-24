@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Pokud ..., pak ...",
+    "translation": "If we ..., then we will ...",
+    "b1": [
+      "Pokud budeme mít čas, pak navštívíme muzeum.",
+      "Pokud zítra neprší, pak půjdeme do parku.",
+      "Pokud dokončíme práci včas, pak si dám kávu.",
+      "Pokud koupíš lístky, pak půjdeme do kina.",
+      "Pokud se dobře připravíš, pak zkoušku uděláš."
+    ],
+    "b2": [
+      "Pokud zvýšíme rozpoktu na reklamu, pak získáme více zákazníků.",
+      "Pokud se nám podaří snížit náklady, pak budeme konkurenceschopnější.",
+      "Pokud dodržíme stanovený termín, pak klient podepíše smlouvu.",
+      "Pokud zlepšíme komunikaci v týmu, pak předejdeme chybám.",
+      "Pokud investujeme do nových technologií, pak zvýšíme produktivitu."
+    ],
+    "c1": [
+      "Pokud internalizujeme externí náklady výroby, pak radikálně transformujeme cenovou politiku.",
+      "Pokud akcelerujeme proces digitalizace, pak optimalizujeme administrativní kapacity.",
+      "Pokud zavedeme přísnější etické standardy, pak posílíme důvěru veřejnosti v instituci.",
+      "Pokud implementujeme decentralizovaný systém řízení, pak zvýšíme flexibilitu organizace.",
+      "Pokud revidujeme legislativní rámec, pak odstraníme přetrvávající systémové bariéry."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Co by se stalo, kdyby ...?",
+    "translation": "What would happen if ...?",
+    "b1": [
+      "Co by se stalo, kdybychom zmeškali vlak?",
+      "Co by se stalo, kdyby začalo pršet?",
+      "Co by se stalo, kdybychom to neudělali?",
+      "Co by se stalo, kdyby nepřišel?",
+      "Co by se stalo, kdybych ztratil telefon?"
+    ],
+    "b2": [
+      "Co by se stalo, kdybychom odmítli tuto nabídku?",
+      "Co by se stalo, kdybychom museli projekt dokončit dříve?",
+      "Co by se stalo, kdyby se cena surovin prudce zvýšila?",
+      "Co by se stalo, kdybychom změnili dodavatele?",
+      "Co by se stalo, kdybychom zrušili naši pobočku?"
+    ],
+    "c1": [
+      "Co by se stalo, kdybychom čelili systémovému kolapsu platební bilance?",
+      "Co by se stalo, kdybychom ignorovali dlouhodobé ekologické dopady naší strategie?",
+      "Co by se stalo, kdybychom ztratili přístup ke klíčovým zdrojům financování?",
+      "Co by se stalo, kdybychom revidovali základní axiomy našeho výzkumného modelu?",
+      "Co by se stalo, kdybychom čelili hromadnému odchodu vysoce kvalifikovaných odborníků?"
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Pokud by výsledek byl ..., musíme ...",
+    "translation": "Should the outcome be ..., we must ...",
+    "b1": [
+      "Pokud by výsledek byl špatný, musíme to zkusit znovu.",
+      "Pokud by výsledek byl dobrý, musíme to oslavit.",
+      "Pokud by výsledek byl jiný, musíme zavolat šéfovi.",
+      "Pokud by výsledek byl nejasný, musíme počkat.",
+      "Pokud by výsledek byl záporný, musíme změnit plán."
+    ],
+    "b2": [
+      "Pokud by výsledek auditu byl negativní, musíme okamžitě přijmout nápravná opatření.",
+      "Pokud by výsledek testu byl neprůkazný, musíme provést dodatečné měření.",
+      "Pokud by výsledek hlasování byl příznivý, musíme zahájit druhou fázi projektu.",
+      "Pokud by výsledek jednání byl nepříznivý, musíme upravit naše požadavky.",
+      "Pokud by výsledek analýzy byl sporný, musíme přizvat nezávislé experty."
+    ],
+    "c1": [
+      "Pokud by výsledek recenzního řízení byl zamítavý, musíme restrukturalizovat teoretický základ studie.",
+      "Pokud by výsledek krizové simulace byl varovný, musíme kompletně přepracovat bezpečnostní protokol.",
+      "Pokud by výsledek politických renegociací byl patový, musíme hledat alternativní diplomatické kanály.",
+      "Pokud by výsledek verifikace dat byl diskrepantní, musíme provést hloubkový audit zdrojů.",
+      "Pokud by výsledek arbitráže byl nepříznivý, musíme podat odvolání k vyšší instanci."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Kdybych býval věděl ..., byl bych ...",
+    "translation": "If I had known ..., I would have ...",
+    "b1": [
+      "Kdybych býval věděl, že prší, byl bych vzal deštník.",
+      "Kdybych býval věděl, že je to drahé, byl bych to nekoupil.",
+      "Kdybych býval věděl, že máš narozeniny, byl bych koupil dárek.",
+      "Kdybych býval věděl, že nepřijdeš, byl bych zůstal doma.",
+      "Kdybych býval věděl, že je to těžké, byl bych se víc učil."
+    ],
+    "b2": [
+      "Kdybych býval věděl o těch problémech dříve, byl bych jednal jinak.",
+      "Kdybych býval věděl, jak dlouho to potrvá, byl bych si vzal volno.",
+      "Kdybych býval věděl, že klient zruší schůzku, byl bych plán změnil.",
+      "Kdybych býval věděl, jaké budou náklady, byl bych rozpočet navýšil.",
+      "Kdybych býval věděl o této nabídce, byl bych na ni reagoval."
+    ],
+    "c1": [
+      "Kdybych býval věděl o skrytých slabinách systému, byl bych zvolil jinou strategii.",
+      "Kdybych býval věděl, jaké dopady bude mít legislativa, byl bych ji veřejně kritizoval.",
+      "Kdybych býval věděl, že data byla zkreslená, byl bych celou analýzu odmítl.",
+      "Kdybych býval věděl, že partner ustoupí od dohody, byl bych se pojistil smluvně.",
+      "Kdybych býval věděl o hrozícím střetu zájmů, byl bych se z hlasování vyloučil."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Za předpokladu, že ..., je pravděpodobné, že ...",
+    "translation": "Assuming that ..., it is likely that ...",
+    "b1": [
+      "Za předpokladu, že bude hezky, je pravděpodobné, že pojedeme k vodě.",
+      "Za předpokladu, že dostanu výplatu, je pravděpodobné, že si to koupím.",
+      "Za předpokladu, že skončíme brzy, je pravděpodobné, že se uvidíme.",
+      "Za předpokladu, že nezmeškáme vlak, je pravděpodobné, že přijedeme včas.",
+      "Za předpokladu, že se mi to podaří, je pravděpodobné, že budu mít radost."
+    ],
+    "b2": [
+      "Za předpokladu, že schválí rozpočet, je pravděpodobné, že zahájíme stavbu.",
+      "Za předpokladu, že poptávka poroste, je pravděpodobné, že přijmeme nové lidi.",
+      "Za předpokladu, že dodržíme termín, je pravděpodobné, že zakázku obhájíme.",
+      "Za předpokladu, že se situace stabilizuje, je pravděpodobné, že ceny klesnou.",
+      "Za předpokladu, že získáme podporu, je pravděpodobné, že projekt uspěje."
+    ],
+    "c1": [
+      "Za předpokladu, že inflace setrvá na současné úrovni, je pravděpodobné, že centrální banka zvýší sazby.",
+      "Za předpokladu, že digitální transformace proběhne hladce, je pravděpodobné, že efektivita vzroste.",
+      "Za předpokladu, že se prohloubí geopolitické napětí, je pravděpodobné, že dodavatelské řetězce zkolabují.",
+      "Za předpokladu, že univerzita získá grant, je pravděpodobné, že rozšíříme výzkumný tým.",
+      "Za předpokladu, že norma vstoupí v platnost, je pravděpodobné, že trh projde hlubokou konsolidací."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Předpovídám, že se stane ...",
+    "translation": "I predict that ... will happen.",
+    "b1": [
+      "Předpovídám, že zítra bude pršet.",
+      "Předpovídám, že náš tým vyhraje.",
+      "Předpovídám, že to bude drahé.",
+      "Předpovídám, že přijde pozdě.",
+      "Předpovídám, že se ti to bude líbit."
+    ],
+    "b2": [
+      "Předpovídám, že zájem o tento produkt během léta výrazně stoupne.",
+      "Předpovídám, že se pravidla pro práci na dálku v brzké době změní.",
+      "Předpovídám, že inflace na konci roku mírně poklesne.",
+      "Předpovídám, že konkurence na trhu s technologiemi bude silnější.",
+      "Předpovídám, že se setkáme s velkým záporným ohlasem veřejnosti."
+    ],
+    "c1": [
+      "Předpovídám, že umělá inteligence radikálně promění strukturu akademického vzdělávání.",
+      "Předpovídám, že demografický vývoj přinese nezbytnost reformy důchodového systému.",
+      "Předpovídám, že stupňující se tlak na zdroje vyústí v nové mezinárodní konflikty.",
+      "Předpovídám, že tradiční média budou postupně nahrazena decentralizovanými platformami.",
+      "Předpovídám, že urbanizace dosáhne v rozvojových oblastech svého kritického vrcholu."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Pokud se nestane ..., nebudeme moci ...",
+    "translation": "Unless ... happens, we won't be able to ...",
+    "b1": [
+      "Pokud nezaplatíš lístky, nebudeme moci jet.",
+      "Pokud neuklidíš pokoj, nebudeme moci jít ven.",
+      "Pokud se to nenaučíš, nebudeme moci slavit.",
+      "Pokud mi nepomůžeš, nebudeme moci to stihnout.",
+      "Pokud nepřijde včas, nebudeme moci začít."
+    ],
+    "b2": [
+      "Pokud nezvýšíme obrat, nebudeme moci investovat do nových projektů.",
+      "Pokud nezískáme povolení, nebudeme moci stavbu dokončit.",
+      "Pokud nenajdeme nového dodavatele, nebudeme moci udržet ceny.",
+      "Pokud se neshodneme na podmínkách, nebudeme moci podepsat smlouvu.",
+      "Pokud nezlepšíme kvalitu, nebudeme moci konkurovat ostatním."
+    ],
+    "c1": [
+      "Pokud nedojde k restrukturalizaci dluhu, nebudeme moci odvrátit insolvenci.",
+      "Pokud nezískáme institucionální podporu, nebudeme moci pokračovat ve výzkumu.",
+      "Pokud se nezmění právní rámec, nebudeme moci implementovat inovativní řešení.",
+      "Pokud nedojde k mezinárodní shodě, nebudeme moci efektivně regulovat emise.",
+      "Pokud nezajistíme transparentnost dat, nebudeme moci obhájit naše závěry."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "V případě ..., bychom měli ...",
+    "translation": "In the event of ..., we should ...",
+    "b1": [
+      "V případě nouze bychom měli zavolat policii.",
+      "V případě deště bychom měli zůstat doma.",
+      "V případě problému bychom měli zavolat.",
+      "V případě zpoždění bychom měli napsat.",
+      "V případě potřeby bychom měli pomoci."
+    ],
+    "b2": [
+      "V případě výpadku proudu bychom měli použít záložní generátor.",
+      "V případě nespokojenosti zákazníka bychom měli nabídnout slevu.",
+      "V případě neočekávaných nákladů bychom měli upravit rozpočet.",
+      "V případě technických potíží bychom měli kontaktovat podporu.",
+      "V případě změny plánu bychom měli informovat tým."
+    ],
+    "c1": [
+      "V případě kybernetického útoku bychom měli okamžitě aktivovat nouzový protokol.",
+      "V případě likvidační hrozby bychom měli požádat o právní ochranu.",
+      "V případě systémového selhání serveru bychom měli obnovit data ze zálohy.",
+      "V případě eskalace napětí bychom měli evakuovat diplomatický personál.",
+      "V případě rozporu s normou bychom měli předložit vědeckou oponenturu."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Existuje vysoká pravděpodobnost, že ...",
+    "translation": "There's a high probability that ...",
+    "b1": [
+      "Existuje vysoká pravděpodobnost, že zítra bude pršet.",
+      "Existuje vysoká pravděpodobnost, že dostanu jedničku.",
+      "Existuje vysoká pravděpodobnost, že to nestihneme.",
+      "Existuje vysoká pravděpodobnost, že přijde pozdě.",
+      "Existuje vysoká pravděpodobnost, že se mýlíš."
+    ],
+    "b2": [
+      "Existuje vysoká pravděpodobnost, že se projekt protáhne o dva týdny.",
+      "Existuje vysoká pravděpodobnost, że ceny energií na podzim vzrostou.",
+      "Existuje vysoká pravděpodobnost, že klient naše podmínky odmítne.",
+      "Existuje vysoká pravděpodobnost, že se v týmu objeví nové spory.",
+      "Existuje vysoká pravděpodobnost, že získáme nového investora."
+    ],
+    "c1": [
+      "Existuje vysoká pravděpodobnost, že pokračující monetární politika vyvolá recesi.",
+      "Existuje vysoká pravděpodobnost, že navrhovaná reforma narazí na odpor v Senátu.",
+      "Existuje vysoká pravděpodobnost, že se objevila skrytá chyba v metodologii výzkumu.",
+      "Existuje vysoká pravděpodobnost, že klimatické změny urychlí migraci obyvatel.",
+      "Existuje vysoká pravděpodobnost, že monopolní postavení podniku bude pokutováno."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Můžeme zaznamenat ..., pokud ...",
+    "translation": "We might see ... if ...",
+    "b1": [
+      "Můžeme zaznamenat růst cen, pokud to koupíme hned.",
+      "Můžeme zaznamenat změnu, pokud se zeptáme.",
+      "Můžeme zaznamenat úspěch, pokud budeme spolupracovat.",
+      "Můžeme zaznamenat problém, pokud to nezkontrolujeme.",
+      "Můžeme zaznamenat radost, pokud jim pomůžeme."
+    ],
+    "b2": [
+      "Můžeme zaznamenat pokles prodejů, pokud konkurence sníží ceny.",
+      "Můžeme zaznamenat zlepšení výkonu, pokud upravíme systém.",
+      "Můžeme zaznamenat nespokojenost klientů, pokud se prodlouží dodací lhůta.",
+      "Můžeme zaznamenat nárůst zájmu, pokud spustíme novou kampaň.",
+      "Můžeme zaznamenat komplikace, pokud ignorujeme varování."
+    ],
+    "c1": [
+      "Můžeme zaznamenat radikální posun paradigmatu, pokud se potvrdí tato hypotéza.",
+      "Můžeme zaznamenat systémovou nestabilitu, pokud nezasáhne regulační úřad.",
+      "Můžeme zaznamenat odliv talentů, pokud firma nezlepší pracovní podmínky.",
+      "Můžeme zaznamenat erozí důvěry, pokud se potvrdí podezření z korupce.",
+      "Můžeme zaznamenat prudký rozvoj trhu, pokud vstoupí v platnost nová deregulace."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "To naznačuje, že budoucnost přinese ...",
+    "translation": "This suggests that the future holds ...",
+    "b1": [
+      "To naznačuje, že budoucnost přinese změny.",
+      "To naznačuje, že budoucnost přinese nové úkoly.",
+      "To naznačuje, že budoucnost přinese lepší dny.",
+      "To naznačuje, že budoucnost přinese víc práce.",
+      "To naznačuje, že budoucnost přinese překvapení."
+    ],
+    "b2": [
+      "To naznačuje, že budoucnost přinese větší důraz na udržitelnost.",
+      "To naznačuje, že budoucnost přinese automatizaci mnoha procesů.",
+      "To naznačuje, že budoucnost přinese nové výzvy v oblasti bezpečnosti.",
+      "To naznačuje, že budoucnost přinese růst poptávky po odbornících.",
+      "To naznačuje, že budoucnost přinese hlubší propojení trhů."
+    ],
+    "c1": [
+      "To naznačuje, že budoucnost přinese zásadní transformaci sociálních struktur.",
+      "To naznačuje, že budoucnost přinese redefinici tradičních státních hranic.",
+      "To naznačuje, že budoucnost přinese epistemologický posun ve vědeckém bádání.",
+      "To naznačuje, že budoucnost přinese permanentní tlak na flexibilitu pracovní síly.",
+      "To naznačuje, že budoucnost přinese radikální odklon od fosilních paliv."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Výsledek závisí zcela na tom, zda ..., či nikoliv.",
+    "translation": "The outcome depends entirely on whether or not ...",
+    "b1": [
+      "Výsledek závisí zcela na tom, zda přijdeš, či nikoliv.",
+      "Výsledek závisí zcela na tom, zda to stihneme, či nikoliv.",
+      "Výsledek závisí zcela na tom, zda vyhraremos, či nikoliv.",
+      "Výsledek závisí zcela na tom, zda pomůžeš, či nikoliv.",
+      "Výsledek závisí zcela na tom, zda se zeptáš, či nikoliv."
+    ],
+    "b2": [
+      "Výsledek závisí zcela na tom, zda klient schválí rozpočet, či nikoliv.",
+      "Výsledek závisí zcela na tom, zda dodržíme termín, či nikoliv.",
+      "Výsledek závisí zcela na tom, zda se nám podaří najít chybu, či nikoliv.",
+      "Výsledek závisí zcela na tom, zda získáme podporu vedení, či nikoliv.",
+      "Výsledek závisí zcela na tom, zda se trh stabilizuje, či nikoliv."
+    ],
+    "c1": [
+      "Výsledek závisí zcela na tom, zda parlament schválí novelu zákona, či nikoliv.",
+      "Výsledek závisí zcela na tom, zda metodologie projde nezávislým auditem, či nikoliv.",
+      "Výsledek závisí zcela na tom, zda dojde k mezinárodní deeskalaci napětí, či nikoliv.",
+      "Výsledek závisí zcela na tom, zda instituce obhájí svou akreditaci, či nikoliv.",
+      "Výsledek závisí zcela na tom, zda se potvrdí platnost výzkumného modelu, či nikoliv."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Pokud bude trend pokračovat, pak ...",
+    "translation": "If the trend continues, then ...",
+    "b1": [
+      "Pokud bude trend pokračovat, pak to bude dražší.",
+      "Pokud bude trend pokračovat, pak vyhrajeme.",
+      "Pokud bude trend pokračovat, pak budeme mít víc peněz.",
+      "Pokud bude trend pokračovat, pak se to naučíme.",
+      "Pokud bude trend pokračovat, pak se uvidíme."
+    ],
+    "b2": [
+      "Pokud bude trend pokračovat, pak v příštím roce dosáhneme rekordního obratu.",
+      "Pokud bude trend pokračovat, pak budeme muset rozšířit náš tým.",
+      "Pokud bude trend pokračovat, pak se ceny nemovitostí stanou nedostupnými.",
+      "Pokud bude trend pokračovat, pak ztratíme naši pozici na trhu.",
+      "Pokud bude trend pokračovat, pak se práce na dálku stane standardem."
+    ],
+    "c1": [
+      "Pokud bude trend pokračovat, pak ekologická krize dosáhne nevratného bodu zlomu.",
+      "Pokud bude trend pokračovat, pak eroze demokracie ohrozí stabilitu celého regionu.",
+      "Pokud bude trend pokračovat, pak digitální polarizace společnosti zásadně naroste.",
+      "Pokud bude trend pokračovat, pak státní dluh překročí ústavní brzdová pravidla.",
+      "Pokud bude trend pokračovat, pak tradiční peněžní systém zcela ztratí svou legitimitu."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Kdyby byli bývali zvážili ..., výsledek by býval byl ...",
+    "translation": "Had they considered ..., the result would have been ...",
+    "b1": [
+      "Kdyby byli bývali zvážili cenu, výsledek by býval byl lepší.",
+      "Kdyby byli bývali zvážili čas, výsledek by býval byl jiný.",
+      "Kdyby byli bývali zvážili názor, výsledek by býval byl levnější.",
+      "Kdyby byli bývali zvážili počasí, výsledek by býval byl fajn.",
+      "Kdyby byli bývali zvážili varování, výsledek by býval byl bez chyb."
+    ],
+    "b2": [
+      "Kdyby byli bývali zvážili rizika, výsledek by býval byl mnohem příznivější.",
+      "Kdyby byli bývali zvážili zpětnou vazbu, výsledek by býval byl úspěšnější.",
+      "Kdyby byli bývali zvážili náklady, výsledek by býval byl udržitelnější.",
+      "Kdyby byli bývali zvážili kapacity týmu, výsledek by býval byl bez stresu.",
+      "Kdyby byli bývali zvážili připomínky, výsledek by býval byl bez chyb."
+    ],
+    "c1": [
+      "Kdyby byli bývali zvážili dlouhodobé dopady, výsledek by býval byl systémově stabilnější.",
+      "Kdyby byli bývali zvážili historický kontext, výsledek by býval byl věcně přesnější.",
+      "Kdyby byli bývali zvážili etické implikace, výsledek by býval byl společensky prospěšnější.",
+      "Kdyby byli bývali zvážili legislativní omezení, výsledek by býval byl právně napadnutelný méně.",
+      "Kdyby byli bývali zvážili alternativní scenáře, výsledek by býval byl strategicky odolnější."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Potřebujeme záložní plán pro případ, že ...",
+    "translation": "We need a backup plan in case ...",
+    "b1": [
+      "Potřebujeme záložní plán pro případ, že prší.",
+      "Potřebujeme záložní plán pro případ, že nepřijdou.",
+      "Potřebujeme záložní plán pro případ, že to ztratíme.",
+      "Potřebujeme záložní plán pro případ, že nemáme peníze.",
+      "Potřebujeme záložní plán pro případ, že se zpozdíme."
+    ],
+    "b2": [
+      "Potřebujeme záložní plán pro případ, že klient odmítne náš návrh.",
+      "Potřebujeme záložní plán pro případ, že selže hlavní dodavatel.",
+      "Potřebujeme záložní plán pro případ, že se projekt protáhne.",
+      "Potřebujeme záložní plán pro případ, že server padne.",
+      "Potřebujeme záložní plán pro případ, že se rozpočet sníží."
+    ],
+    "c1": [
+      "Potřebujeme záložní plán pro případ, že dojde k výpadku financování z grantu.",
+      "Potřebujeme záložní plán pro případ, že nastane krizová situace v dodavatelském řetězci.",
+      "Potřebujeme záložní plán pro případ, že legislativní změna ohrozí náš byznys model.",
+      "Potřebujeme záložní plán pro případ, že dojde k úniku citlivých dat.",
+      "Potřebujeme záložní plán pro případ, že mezinárodní sankce omezí náš trh."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Je možné, že ...",
+    "translation": "It is conceivable that ...",
+    "b1": [
+      "Je možné, že zítra přijde.",
+      "Je možné, že to stojí moc.",
+      "Je možné, že se mýlím.",
+      "Je možné, že je to pravda.",
+      "Je možné, že to nestihneme."
+    ],
+    "b2": [
+      "Je možné, že se podmínky smlouvy do konce týdne ještě změní.",
+      "Je možné, že budeme muset přijmout externího konzultanta.",
+      "Je možné, že nákladovost projektu překročí původní odhad.",
+      "Je možné, že se na schůzce objeví nové komplikace.",
+      "Je možné, že klient požádá o další úpravy designu."
+    ],
+    "c1": [
+      "Je možné, že současná krize vyústí v hlubokou strukturální transformaci trhu.",
+      "Je možné, že teoretický model bude vyžadovat kompletní revizi dat.",
+      "Je možné, że geopolitické tlaky donutí instituci přehodnotit svou strategii.",
+      "Je možné, že se objeví neočekávané právní překážky při realizaci normy.",
+      "Je možné, že vědecká komunita přehodnotí dosavadní výklad tohoto jevu."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Bez ... je nemožné ...",
+    "translation": "Without ..., it is impossible to ...",
+    "b1": [
+      "Bez peněz je nemožné nic koupit.",
+      "Bez tvé pomoci je nemožné to stihnout.",
+      "Bez tréninku je nemožné vyhrát.",
+      "Bez mapy je nemožné to najít.",
+      "Bez klíče je nemožné otevřít dveře."
+    ],
+    "b2": [
+      "Bez podpory týmu je nemožné dokončit tento projekt včas.",
+      "Bez zpětné vazby od klientů je nemožné zlepšit naše služby.",
+      "Bez schválení vedení je nemožné změnit rozpočet.",
+      "Bez důkladné přípravy je nemožné uspět u zkoušky.",
+      "Bez kvalitních dat je nemožné provést správnou analýzu."
+    ],
+    "c1": [
+      "Bez hluboké strukturální reformy je nemožné zastavit ekonomický úpadek.",
+      "Bez mezinárodního konsensu je nemožné efektivně regulovat globální emise.",
+      "Bez dodržení metodologické přísnosti je nemožné obhájit validitu výzkumu.",
+      "Bez institucionální podpory je nemožné realizovat takto rozsáhlou inovaci.",
+      "Bez transparentního právního rámce je nemožné přilákat zahraniční investory."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Důkazy ukazují na to, že dojde k ...",
+    "translation": "The evidence points towards ... happening.",
+    "b1": [
+      "Důkazy ukazují na to, že dojde ke změně.",
+      "Důkazy ukazují na to, že dojde k dešti.",
+      "Důkazy ukazují na to, že dojde k problému.",
+      "Důkazy ukazují na to, že dojde k poklesu.",
+      "Důkazy ukazují na to, že dojde k úspěchu."
+    ],
+    "b2": [
+      "Důkazy ukazují na to, že dojde ke zvýšení poptávky na podzim.",
+      "Důkazy ukazují na to, że dojde k nutnosti upravit rozpočet.",
+      "Důkazy ukazují na to, že dojde k vylepšení celkových výsledků.",
+      "Důkazy ukazují na to, že dojde k odložení schválení normy.",
+      "Důkazy ukazují na to, že dojde k posílení pozice firmy."
+    ],
+    "c1": [
+      "Důkazy ukazují na to, že dojde k systémovému kolapsu zastaralých sítí.",
+      "Důkazy ukazují na to, že dojde k radikálnímu přehodnocení monetární politiky.",
+      "Důkazy ukazují na to, že dojde k prohloubení polarizace ve společnosti.",
+      "Důkazy ukazují na to, že dojde k významnému posunu v oblasti výzkumu.",
+      "Důkazy ukazují na to, že dojde k trvalému odklonu od tradičních kanálů."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Za podmínky, že ..., můžeme pokračovat s ...",
+    "translation": "On the condition that ..., we can proceed with ...",
+    "b1": [
+      "Za podmínky, že uklidíš, můžeme pokračovat s hrou.",
+      "Za podmínky, že zaplatíš, můžeme pokračovat s nákupem.",
+      "Za podmínky, že skončíš, můžeme pokračovat s prací.",
+      "Za podmínky, že mi pomůžeš, můžeme pokračovat s úklidem.",
+      "Za podmínky, že to schválí, můžeme pokračovat s plánem."
+    ],
+    "b2": [
+      "Za podmínky, že klient uplatní zálohu, můžeme pokračovat s realizací zakázky.",
+      "Za podmínky, že získáme souhlas, můžeme pokračovat s touto kampaní.",
+      "Za podmínky, že dodržíme standardy, můžeme pokračovat s certifikací.",
+      "Za podmínky, že se sníží náklady, můžeme pokračovat s náborem.",
+      "Za podmínky, že projdeme auditem, můžeme pokračovat s expanzí."
+    ],
+    "c1": [
+      "Za podmínky, že budou splněny etické normy, můžeme pokračovat s klinickými testy.",
+      "Za podmínky, že představenstvo ratifikuje dohodu, můžeme pokračovat s fúzí.",
+      "Za podmínky, že výzkumný tým doloží data, můžeme pokračovat s publikací.",
+      "Za podmínky, že soud zamítne žalobu, můžeme pokračovat s výstavbou.",
+      "Za podmínky, že grantová agentura schválí rozpočet, můžeme pokračovat s projektem."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Dlouhodobým důsledkem je ...",
+    "translation": "The long-term implication is ...",
+    "b1": [
+      "Dlouhodobým důsledkem je lepší život.",
+      "Dlouhodobým důsledkem je víc peněz.",
+      "Dlouhodobým důsledkem je klid.",
+      "Dlouhodobým důsledkem je nová zkušenost.",
+      "Dlouhodobým důsledkem je zdraví."
+    ],
+    "b2": [
+      "Dlouhodobým důsledkem je stabilní růst naší společnosti.",
+      "Dlouhodobým důsledkem je ztráta důvěry našich zákazníků.",
+      "Dlouhodobým důsledkem je nutnost modernizace celého systému.",
+      "Dlouhodobým důsledkem je vytvoření nových pracovních míst.",
+      "Dlouhodobým důsledkem je snížení provozních nákladů."
+    ],
+    "c1": [
+      "Dlouhodobým důsledkem je nevratná eroze sociálního státu a jeho funkcí.",
+      "Dlouhodobým důsledkem je strukturální změna globálních ekonomických center.",
+      "Dlouhodobým důsledkem je trvalá ztráta biodiverzity v ohrožených oblastech.",
+      "Dlouhodobým důsledkem je posun od zastupitelské k digitální participativní demokracii.",
+      "Dlouhodobým důsledkem je kompletní redifinuce kybernetické bezpečnosti státu."
+    ]
+  }
+]

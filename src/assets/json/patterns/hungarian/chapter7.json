@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Ha ..., akkor ...",
+    "translation": "If we ..., then we will ...",
+    "b1": [
+      "Ha ma esik az eső, akkor otthon maradunk.",
+      "Ha időben elindulunk, akkor elérjük a vonatot.",
+      "Ha spórolunk, akkor vehetünk egy új autót.",
+      "Ha elfáradtál, akkor pihenj egy kicsit.",
+      "Ha kérdésed van, akkor keress meg."
+    ],
+    "b2": [
+      "Ha a költségvetés engedi, akkor beruházunk az új szoftverbe.",
+      "Ha mindenki határidőre leadja a munkát, akkor sikeresen zárjuk a projektet.",
+      "Ha jobban odafigyelünk a részletekre, akkor elkerülhetjük a hibákat.",
+      "Ha a vevői elégedettség növekszik, akkor a bevételeink is emelkedni fog.",
+      "Ha a tárgyalások jól alakulnak, akkor aláírjuk a szerződést a jövő héten."
+    ],
+    "c1": [
+      "Ha a strukturális reformokat végrehajtják, akkor a gazdaság hosszú távú növekedési pályára áll.",
+      "Ha a konzorciumi tagok hozzájárulnak a tőkeemeléshez, akkor a projekt megvalósul.",
+      "Ha a jogi keretrendszer módosul, akkor a piacon teljesen új feltételek lépnek érvénybe.",
+      "Ha az empirikus adatok igazolják a hipotézist, akkor át kell írnunk a kutatási modellt.",
+      "Ha a nemzetközi partnerek visszalépnek, akkor alternatív finanszírozási forrást kell találnunk."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Mi történne, ha ...?",
+    "translation": "What would happen if ...?",
+    "b1": [
+      "Mi történne, ha elkéne mennem?",
+      "Mi történne, ha nem jönnél el?",
+      "Mi történne, ha esne a hó holnap?",
+      "Mi történne, ha elfelejteném a kulcsot?",
+      "Mi történne, ha most indulnánk?"
+    ],
+    "b2": [
+      "Mi történne, ha a főnök elutasítaná a javaslatunkat?",
+      "Mi történne, ha a határidőt egy héttel elhalasztanánk?",
+      "Mi történne, ha a cég áttérne a négynapos munkahétre?",
+      "Mi történne, ha az ügyfél visszamondaná a megrendelést?",
+      "Mi történne, ha a szerverek váratlanul leállnának?"
+    ],
+    "c1": [
+      "Mi történne, ha a központi bank hirtelen megemelné az alapkamatot?",
+      "Mi történne, ha a konzorciumi megállapodást felbontanák jogi viták miatt?",
+      "Mi történne, ha a mesterséges intelligencia teljesen átvenné az adminisztrációs szerepet?",
+      "Mi történne, ha a geopolitikai feszültségek miatt leállna a nemzetközi kereskedelem?",
+      "Mi történne, ha a klímaváltozás hatásai miatt a mezőgazdasági termelés összeomlana?"
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Amennyiben az eredmény ..., akkor ... kell tennünk.",
+    "translation": "Should the outcome be ..., we must ...",
+    "b1": [
+      "Amennyiben az eredmény rossz, akkor újra kell próbálnunk.",
+      "Amennyiben az eredmény kész, akkor szólnod kell.",
+      "Amennyiben az eredmény pozitív, akkor ünnepelünk.",
+      "Amennyiben az eredmény nem tetszik, akkor megváltoztatjuk.",
+      "Amennyiben az eredmény megvan, akkor elküldöm."
+    ],
+    "b2": [
+      "Amennyiben az eredmény elmarad a várakozásoktól, akkor felül kell vizsgálnunk a stratégiát.",
+      "Amennyiben az eredmény pozitív lesz, akkor bővítenünk kell a csapatot.",
+      "Amennyiben az eredmény nem igazolja a költségeket, akkor le kell állítanunk a kampányt.",
+      "Amennyiben az eredmény hiányos, akkor pótlást kell kérnünk.",
+      "Amennyiben az eredmény meggyőző, akkor elfogadjuk az ajánlatot."
+    ],
+    "c1": [
+      "Amennyiben az eredmény sérti a hatályos jogszabályokat, akkor azonnal fel kell függesztenünk a folyamatot.",
+      "Amennyiben az eredmény megerősíti a kockázatokat, akkor aktiválnunk kell a vészhelyzeti protokollt.",
+      "Amennyiben az eredmény nem éri el a mérföldkövet, akkor módosítanunk kell a konzorciumi szerződést.",
+      "Amennyiben az eredmény igazolja a piaci rést, akkor meg kell kezdenünk a tőkebevonást.",
+      "Amennyiben az eredmény kedvezőtlen az audit során, akkor korrekciós lépéseket kell tennünk."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Ha tudtam volna, hogy ..., akkor ...",
+    "translation": "If I had known ..., I would have ...",
+    "b1": [
+      "Ha tudtam volna, hogy esni fog, akkor hoztam volna esernyőt.",
+      "Ha tudtam volna, hogy jössz, akkor főztem volna.",
+      "Ha tudtam volna, hogy drága, akkor nem vettem volna meg.",
+      "Ha tudtam volna, hogy késel, akkor vártam volna.",
+      "Ha tudtam volna, hogy beteg vagy, akkor meglátogattalak volna."
+    ],
+    "b2": [
+      "Ha tudtam volna, hogy ilyen sokáig tart a munka, akkor másképp terveztem volna a napomat.",
+      "Ha tudtam volna, hogy a főnök ott lesz, akkor alaposabban felkészültem volna.",
+      "Ha tudtam volna, hogy a szálloda ilyen rossz, akkor mást választottam volna.",
+      "Ha tudtam volna, hogy a határidő szigorúbb, akkor korábban elkezdem.",
+      "Ha tudtam volna, hogy ekkora a forgalom, akkor inkább a metróval mentem volna."
+    ],
+    "c1": [
+      "Ha tudtam volna, hogy a jogi audit során problémák merülnek fel, akkor átstrukturáltam volna a portfóliót.",
+      "Ha tudtam volna, hogy a partnercég likviditási gondokkal küzd, akkor nem írtam volna alá a megállapodást.",
+      "Ha tudtam volna, hogy a szoftverfrissítés összeomlasztja a rendszert, akkor elhalasztottam volna a bevezetést.",
+      "Ha tudtam volna, hogy a tőkeinjekció elmarad, akkor más források után néztem volna.",
+      "Ha tudtam volna, hogy a konzorciumban belső viták vannak, akkor feltételekhez kötöttem volna a részvételemet."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Feltételezve, hogy ..., valószínű, hogy ...",
+    "translation": "Assuming that ..., it is likely that ...",
+    "b1": [
+      "Feltételezve, hogy jó idő lesz, valószínű, hogy elmentünk kirándulni.",
+      "Feltételezve, hogy időben megérkezik, valószínű, hogy elkapjuk a buszt.",
+      "Feltételezve, hogy segít nekünk, valószínű, hogy hamar kész leszünk.",
+      "Feltételezve, hogy nyitva van a bolt, valószínű, hogy veszek kenyeret.",
+      "Feltételezve, hogy igazad van, valószínű, hogy ez a helyes út."
+    ],
+    "b2": [
+      "Feltételezve, hogy a piacon növekszik a kereslet, valószínű, hogy többet fogunk termelni.",
+      "Feltételezve, hogy a kollégák támogatják az ötletet, valószínű, hogy bevezetjük az új rendszert.",
+      "Feltételezve, hogy a költségek nem emelkednek tovább, valószínű, hogy nyereségesek leszünk.",
+      "Feltételezve, hogy a vizsga nehéz lesz, valószínű, hogy egész este tanulni fogok.",
+      "Feltételezve, hogy a vonatok pontosak lesznek, valószínű, hogy időben odaérünk."
+    ],
+    "c1": [
+      "Feltételezve, hogy a gazdasági stagnálás folytatódik, valószínű, hogy a cégek csökkenteni fogják a beruházásokat.",
+      "Feltételezve, hogy a jogi akadályok elhárulnak, valószínű, hogy a fúzió még ebben az évben megvalósul.",
+      "Feltételezve, hogy a demográfiai trendek nem változnak, valószínű, hogy a nyugdíjrendszer reformra szorul.",
+      "Feltételezve, hogy a technológiai fejlesztés sikeres lesz, valószínű, hogy piacvezető pozíciót szerzünk.",
+      "Feltételezve, hogy a nemzetközi szankciók fennmaradnak, valószínű, hogy átszervezzük az ellátási láncot."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Megjósolom, hogy ... fognak történni.",
+    "translation": "I predict that ... will happen.",
+    "b1": [
+      "Megjósolom, hogy holnap esni fog a hó.",
+      "Megjósolom, hogy megnyerjük a meccset.",
+      "Megjósolom, hogy el fogsz késni.",
+      "Megjósolom, hogy tetszeni fog neked a film.",
+      "Megjósolom, hogy hamarosan megérkezik a csomag."
+    ],
+    "b2": [
+      "Megjósolom, hogy a cég bevételei növekedni fognak az új évben.",
+      "Megjósolom, hogy az online vásárlás aránya tovább fog emelkedni.",
+      "Megjósolom, hogy a következő hónapban sok nehézséggel kell szembenéznünk.",
+      "Megjósolom, hogy a vevők kedvezően fognak fogadni az új terméket.",
+      "Megjósolom, hogy a csapattagok elégedettek lesznek az eredménnyel."
+    ],
+    "c1": [
+      "Megjósolom, hogy a mesterséges intelligencia térnyerése gyökeresen át fogja alakítani a munkaerőpiacot.",
+      "Megjósolom, hogy a makrogazdasági instabilitás miatt a tőzsdéken korrekció fog bekövetkezni.",
+      "Megjósolom, hogy a szigorodó környezetvédelmi előírások miatt a járműipar drasztikus változásokon fog átesni.",
+      "Megjósolom, hogy a digitális fizetőeszközök elterjedése fel fogja számolni a hagyományos banki struktúrákat.",
+      "Megjósolom, hogy a globális klímaváltozás következtében új migrációs hullámok fognak elindulni."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Hacsak nem történik meg ..., nem leszünk képesek ...",
+    "translation": "Unless ... happens, we won't be able to ...",
+    "b1": [
+      "Hacsak nem kapunk pénzt, nem leszünk képesek elutazni.",
+      "Hacsak nem sietsz, nem leszünk képesek elérni a buszt.",
+      "Hacsak nem gyakorolsz, nem leszünk képesek megcsinálni.",
+      "Hacsak nem segít, nem leszünk képesek időben kész lenni.",
+      "Hacsak nem süt a nap, nem leszünk képesek kint enni."
+    ],
+    "b2": [
+      "Hacsak nem kapunk további támogatást, nem leszünk képesek befejezni a projektet.",
+      "Hacsak nem csökkentjük a kiadásokat, nem leszünk képesek elkerülni a veszteséget.",
+      "Hacsak nem érkezik meg az alkatrész, nem leszünk képesek folytatni a gyártást.",
+      "Hacsak nem javítunk a kommunikáción, nem leszünk képesek együttműködni.",
+      "Hacsak nem kapunk jóváhagyást, nem leszünk képesek aláírni a szerződést."
+    ],
+    "c1": [
+      "Hacsak nem hajtunk végre radikális struktúraváltást, nem leszünk képesek fennmaradni a versenypiacon.",
+      "Hacsak nem biztosítunk azonnali tőkeinjekciót, nem leszünk képesek elkerülni a fizetésképtelenséget.",
+      "Hacsak nem szüntetjük meg a jogi kiskapukat, nem leszünk képesek megvédeni a szellemi tulajdonunkat.",
+      "Hacsak nem jön létre érdemi konszenzus, nem leszünk képesek ratifikálni a konzorciumi egyezményt.",
+      "Hacsak nem alkalmazunk proaktív kockázatkezelést, nem leszünk képesek megelőzni a válságot."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "... esetén ... kell tennünk.",
+    "translation": "In the event of ..., we should ...",
+    "b1": [
+      "Eső esetén otthon kell maradnunk.",
+      "Késés esetén szólnod kell nekem.",
+      "Baleset esetén hívni kell a mentőket.",
+      "Változás esetén újra kell egyeztetnünk.",
+      "Probléma esetén segítséget kell kérnünk."
+    ],
+    "b2": [
+      "Áramszünet esetén át kell váltanunk a tartalék generátorra.",
+      "A határidő módosítása esetén azonnal értesítenünk kell az ügyfelet.",
+      "Sztrájk esetén alternatív szállítási útvonalat kell keresnünk.",
+      "Panasz esetén fel kell vinnünk az esetet a rendszerbe.",
+      "Pénzügyi hiány esetén vissza kell fognunk a kiadásokat."
+    ],
+    "c1": [
+      "Fúziós kudarc esetén azonnal aktiválnunk kell a tőkekivonási stratégiát.",
+      "Jogi eljárás indulása esetén át kell adnunk az ügyet a jogi képviselőnknek.",
+      "Rendszerösszeomlás esetén a mentett adatokból kell visszaállítanunk a hálózatot.",
+      "Sztrájkhelyzet esetén a konzorciumi partnerekkel egyeztetve kell új ütemtervet készítenünk.",
+      "Regulációs változás esetén felül kell vizsgálnunk a belső compliance szabályzatunkat."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Nagy a valószínűsége annak, hogy ...",
+    "translation": "There's a high probability that ...",
+    "b1": [
+      "Nagy a valószínűsége annak, hogy megint esni fog.",
+      "Nagy a valószínűsége annak, hogy elkésem a vonattól.",
+      "Nagy a valószínűsége annak, hogy ő nyeri a versenyt.",
+      "Nagy a valószínűsége annak, hogy elfogynak a jegyek.",
+      "Nagy a valószínűsége annak, hogy holnap ráérek."
+    ],
+    "b2": [
+      "Nagy a valószínűsége annak, hogy a cég idén is növekedést mutat.",
+      "Nagy a valószínűsége annak, hogy az árak emelkedni fognak a jövő hónapban.",
+      "Nagy a valószínűsége annak, hogy a találkozót el kell halasztanunk.",
+      "Nagy a valószínűsége annak, hogy a jelentést át kell írnunk.",
+      "Nagy a valószínűsége annak, hogy a vevők elégedettek lesznek az új modellel."
+    ],
+    "c1": [
+      "Nagy a valószínűsége annak, hogy a strukturális reformok hiánya mélyíti a gazdasági válságot.",
+      "Nagy a valószínűsége annak, hogy a mesterséges intelligencia etikai szabályozása szigorodni fog.",
+      "Nagy a valószínűsége annak, hogy a tőzsdék volatilitása fennmarad a következő negyedévben.",
+      "Nagy a valószínűsége annak, hogy a klímaváltozás miatt korlátozni kell a vízfogyasztást.",
+      "Nagy a valószínűsége annak, hogy a konzorciumi szerződést év végéig újra kell tárgyalni."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Láthatunk ..., ha ...",
+    "translation": "We might see ... if ...",
+    "b1": [
+      "Láthatunk egy szép naplementét, ha jó idő lesz.",
+      "Láthatunk sok állatkát, ha elmegyünk az állatkertbe.",
+      "Láthatunk egy jó filmet, ha ma este moziba megyünk.",
+      "Láthatunk új arcokat, ha csatlakozunk a klubhoz.",
+      "Láthatunk érdekes dolgokat, ha nyitva tartjuk a szemünket."
+    ],
+    "b2": [
+      "Láthatunk árcsökkenést, ha a piaci verseny fokozódik a szektorban.",
+      "Láthatunk pozitív változásokat, ha a munkatársak jobban együttműködnek.",
+      "Láthatunk új befektetőket, ha a cég bemutatja az új tervet.",
+      "Láthatunk minőségromlást, ha túl gyorsan próbáljuk megvalósítani a feladatot.",
+      "Láthatunk elégedettséget az ügyfelek körében, ha javítjuk a szolgáltatást."
+    ],
+    "c1": [
+      "Láthatunk strukturális összeomlást, ha a monetáris politika nem alkalmazkodik a válsághoz.",
+      "Láthatunk tömeges migrációt, ha a klímaváltozás hatásait nem kezeljük globális szinten.",
+      "Láthatunk jogi precedenst, ha a bíróság helyt ad a panaszos keresetének.",
+      "Láthatunk technológiai áttörést, ha a kutatócsoport megkapja a szükséges forrásokat.",
+      "Láthatunk piaci konszolidációt, ha a kisvállalkozások nem bírják a versenyt a multikkal."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Ez azt sugallja, hogy a jövő ...",
+    "translation": "This suggests that the future holds ...",
+    "b1": [
+      "Ez azt sugallja, hogy a jövő szép lesz.",
+      "Ez azt sugallja, hogy a jövő sok jót hoz.",
+      "Ez azt sugallja, hogy a jövő nehéz lehet.",
+      "Ez azt sugallja, hogy a jövő változást hoz.",
+      "Ez azt sugallja, hogy a jövő kiszámíthatatlan."
+    ],
+    "b2": [
+      "Ez azt sugallja, hogy a jövőben nagyobb hangsúlyt kell fektetnünk az online marketingre.",
+      "Ez azt sugallja, hogy a jövő munkaerőpiaca teljesen más elvárásokat fog támasztani.",
+      "Ez azt sugallja, hogy a jövőbeni projektek sikere a rugalmasságunkon múlik.",
+      "Ez azt sugallja, hogy a jövőben szigorúbb ellenőrzésekre számíthatunk.",
+      "Ez azt sugallja, hogy a jövőben a fenntarthatóság lesz a legfontosabb szempont."
+    ],
+    "c1": [
+      "Ez azt sugallja, hogy a jövő gazdasági paradigmái radikálisan eltérnek a mai modellektől.",
+      "Ez azt sugallja, hogy a jövő társadalmi szerkezete a digitális egyenlőtlenségekre fog épülni.",
+      "Ez azt sugallja, hogy a jövő nemzetközi kapcsolatait a multilaterális kooperáció fogja meghatározni.",
+      "Ez azt sugallja, hogy a jövőben a szellemi tőke felülmúlja a fizikai eszközök értékét.",
+      "Ez azt sugallja, hogy a jövőbeni intézményi működés alapfeltétele a teljes transzparencia."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Az eredmény attól függ, hogy ... vagy sem.",
+    "translation": "The outcome depends entirely on whether or not ...",
+    "b1": [
+      "Az eredmény attól függ, hogy esik-e az eső vagy sem.",
+      "Az eredmény attól függ, hogy megjön-e a vonat vagy sem.",
+      "Az eredmény attól függ, hogy segít-e nekünk vagy sem.",
+      "Az eredmény attól függ, hogy időben odaérünk-e vagy sem.",
+      "Az eredmény attól függ, hogy kész van-e a feladat vagy sem."
+    ],
+    "b2": [
+      "Az eredmény attól függ, hogy a főnök elfogadja-e a javaslatunkat vagy sem.",
+      "Az eredmény attól függ, hogy sikerül-e tartani a költségvetést vagy sem.",
+      "Az eredmény attól függ, hogy az ügyfél aláírja-e a szerződést vagy sem.",
+      "Az eredmény attól függ, hogy a csapat teljesíti-e a célokat vagy sem.",
+      "Az eredmény attól függ, hogy a technikai hibát időben kijavítjuk-e vagy sem."
+    ],
+    "c1": [
+      "Az eredmény attól függ, hogy a konzorciumi partnerek megállapodnak-e a feltételekben vagy sem.",
+      "Az eredmény attól függ, hogy a szabályozó hatóság jóváhagyja-e a fúziót vagy sem.",
+      "Az eredmény attól függ, hogy a tőkebevonási kör sikeresen lezárul-e vagy sem.",
+      "Az eredmény attól függ, hogy az empirikus vizsgálat alátámasztja-e a hipotézist vagy sem.",
+      "Az eredmény attól függ, hogy a belső audit semmilyen hiányosságot nem talál-e vagy sem."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Ha a tendencia így folytatódik, akkor ...",
+    "translation": "If the trend continues, then ...",
+    "b1": [
+      "Ha a tendencia így folytatódik, akkor hamarosan elfogy a pénzünk.",
+      "Ha a tendencia így folytatódik, akkor minden nap esni fog.",
+      "Ha a tendencia így folytatódik, akkor hamar kész leszünk.",
+      "Ha a tendencia így folytatódik, akkor drágább lesz minden.",
+      "Ha a tendencia így folytatódik, akkor többet fogunk pihenni."
+    ],
+    "b2": [
+      "Ha a tendencia így folytatódik, akkor a cég rekord bevételeket fog elérni az idén.",
+      "Ha a tendencia így folytatódik, akkor a lakásárak elérhetetlen magasságokba szöknek.",
+      "Ha a tendencia így folytatódik, akkor hamarosan új raktárat kell bérelnünk.",
+      "Ha a tendencia így folytatódik, akkor a környezetszennyezés visszafordíthatatlan lesz.",
+      "Ha a tendencia így folytatódik, akkor az ügyfélszolgálatunk túlterheltté válik."
+    ],
+    "c1": [
+      "Ha a tendencia így folytatódik, akkor a középosztály aránya drasztikusan lecsökken a társadalomban.",
+      "Ha a tendencia így folytatódik, akkor a mesterséges intelligencia teljesen kiszorítja a junior munkatársakat.",
+      "Ha a tendencia így folytatódik, akkor a szén-dioxid-kibocsátás túllépi a kritikus küszöbértéket.",
+      "Ha a tendencia így folytatódik, akkor a helyi valuták teljesen leértékelődnek a globális piacon.",
+      "Ha a tendencia így folytatódik, akkor a felsőoktatás intézményei strukturális válságba kerülnek."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Ha átgondolták volna ..., az eredmény ... lett volna.",
+    "translation": "Had they considered ..., the result would have been ...",
+    "b1": [
+      "Ha átgondolták volna a terveket, az eredmény jobb lett volna.",
+      "Ha átgondolták volna az időt, az eredmény más lett volna.",
+      "Ha átgondolták volna a költségeket, az eredmény kedvezőbb lett volna.",
+      "Ha átgondolták volna a szabályokat, az eredmény tisztább lett volna.",
+      "Ha átgondolták volna a kérést, az eredmény gyorsabb lett volna."
+    ],
+    "b2": [
+      "Ha átgondolták volna a piaci kockázatokat, az eredmény nem lett volna ilyen veszteséges.",
+      "Ha átgondolták volna a logisztikai nehézségeket, az eredmény pontosabb szállítás lett volna.",
+      "Ha átgondolták volna a vevői visszajelzéseket, az eredmény sikeresebb kampány lett volna.",
+      "Ha átgondolták volna a csapattagok kapacitását, az eredmény kevesebb stressz lett volna.",
+      "Ha átgondolták volna a jogi feltételeket, az eredmény simább megállapodás lett volna."
+    ],
+    "c1": [
+      "Ha átgondolták volna a strukturális hiányosságokat, az eredmény elkerülte volna a rendszerszintű összeomlást.",
+      "Ha átgondolták volna a konzorciumi partner motivációit, az eredmény nem torkollott volna jogi vitába.",
+      "Ha átgondolták volna a tőkeellátottság ütemezését, az eredmény stabilabb növekedés lett volna.",
+      "Ha átgondolták volna a technológiai elavulás ütemét, az eredmény versenyképesebb portfólió lett volna.",
+      "Ha átgondolták volna a makrogazdasági előrejelzéseket, az eredmény óvatosabb költségvetés lett volna."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Szükségünk van egy vésztervre arra az esetre, ha ...",
+    "translation": "We need a backup plan in case ...",
+    "b1": [
+      "Szükségünk van egy vésztervre arra az esetre, ha esni fog.",
+      "Szükségünk van egy vésztervre arra az esetre, ha elkésem.",
+      "Szükségünk van egy vésztervre arra az esetre, ha nem jön össze.",
+      "Szükségünk van egy vésztervre arra az esetre, ha elfogy a pénz.",
+      "Szükségünk van egy vésztervre arra az esetre, ha bezár a bolt."
+    ],
+    "b2": [
+      "Szükségünk van egy vésztervre arra az esetre, ha az ügyfél elutasítja a koncepciót.",
+      "Szükségünk van egy vésztervre arra az esetre, ha a fő beszállító csődbe megy.",
+      "Szükségünk van egy vésztervre arra az esetre, ha a rendszer összeomlik a rendezvény alatt.",
+      "Szükségünk van egy vésztervre arra az esetre, ha a projektvezető hirtelen távozik.",
+      "Szükségünk van egy vésztervre arra az esetre, ha a költségvetést megvágják."
+    ],
+    "c1": [
+      "Szükségünk van egy vésztervre arra az esetre, ha a konzorciumi megállapodást jogi úton megtámadják.",
+      "Szükségünk van egy vésztervre arra az esetre, ha a tőkebevonási kör elbukik a határidő lejárta előtt.",
+      "Szükségünk van egy vésztervre arra az esetre, ha a globális ellátási lánc végleg megbénul.",
+      "Szükségünk van egy vésztervre arra az esetre, ha a hatósági audit negatív minősítést ad.",
+      "Szükségünk van egy vésztervre arra az esetre, ha a kulcsfontosságú kutatóink átigazolnak a versenytárshoz."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Elképzelhető, hogy ...",
+    "translation": "It is conceivable that ...",
+    "b1": [
+      "Elképzelhető, hogy holnap találkozunk.",
+      "Elképzelhető, hogy igaza van.",
+      "Elképzelhető, hogy olcsóbb lesz.",
+      "Elképzelhető, hogy eljön az eseményre.",
+      "Elképzelhető, hogy eltévedtünk."
+    ],
+    "b2": [
+      "Elképzelhető, hogy a cég jövőre új piacokra lép be.",
+      "Elképzelhető, hogy a határidőt mégis meg kell hosszabbítanunk.",
+      "Elképzelhető, hogy a kollégák többsége támogatja a home office-t.",
+      "Elképzelhető, hogy a költségek magasabbak lesznek a vártnál.",
+      "Elképzelhető, hogy a találkozót online formában tartjuk meg."
+    ],
+    "c1": [
+      "Elképzelhető, hogy a monetarista politika kudarca miatt globális likviditási válság alakul ki.",
+      "Elképzelhető, hogy a nemzetközi szerződések felülvizsgálata új geopolitikai egyensúlyt teremt.",
+      "Elképzelhető, hogy a biotechnológiai innovációk alapjaiban változtatják meg az egészségügyet.",
+      "Elképzelhető, hogy a strukturális egyenlőtlenségek civil unrestet váltanak ki a nagyvárosokban.",
+      "Elképzelhető, hogy a jogszabályi szigorítások miatt a startupok külföldre települnek át."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "... nélkül lehetetlen ...",
+    "translation": "Without ..., it is impossible to ...",
+    "b1": [
+      "Pénz nélkül lehetetlen utazni.",
+      "Idő nélkül lehetetlen elkészülni.",
+      "Kulcs nélkül lehetetlen bemenni.",
+      "Segítség nélkül lehetetlen megcsinálni.",
+      "Tudás nélkül lehetetlen levizsgázni."
+    ],
+    "b2": [
+      "Jó tervezés nélkül lehetetlen sikeresen lezárni egy nagy projektet.",
+      "Csapatmunka nélkül lehetetlen elérni a kitűzött éves célokat.",
+      "Világos kommunikáció nélkül lehetetlen elkerülni a félreértéseket.",
+      "Megfelelő szoftver nélkül lehetetlen hatékonyan elemezni az adatokat.",
+      "Ügyfélbizalom nélkül lehetetlen hosszú távon fennmaradni a piacon."
+    ],
+    "c1": [
+      "Mélyreható strukturális reformok nélkül lehetetlen megállítani a gazdasági visszaesést.",
+      "A szellemi tulajdon védelme nélkül lehetetlen vonzóvá tenni a kutatási környezetet.",
+      "A konzorciumi felek transzparenciája nélkül lehetetlen fenntartani a befektetői bizalmat.",
+      "A kockázatelemzés integrációja nélkül lehetetlen elkerülni a rendszerszintű kudarcot.",
+      "A nemzetközi konszenzus nélkül lehetetlen hatékonyan fellépni a klímaváltozás ellen."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "A bizonyítékok arra mutatnak, hogy ... történik.",
+    "translation": "The evidence points towards ... happening.",
+    "b1": [
+      "A bizonyítékok arra mutatnak, hogy eső történik.",
+      "A bizonyítékok arra mutatnak, hogy változás történik.",
+      "A bizonyítékok arra mutatnak, hogy hiba történik.",
+      "A bizonyítékok arra mutatnak, hogy javulás történik.",
+      "A bizonyítékok arra mutatnak, hogy baj történik."
+    ],
+    "b2": [
+      "A bizonyítékok arra mutatnak, hogy a cég piacvezető pozícióba lépése történik.",
+      "A bizonyítékok arra mutatnak, hogy a vevői elégedettség csökkenése történik a rossz szolgáltatás miatt.",
+      "A bizonyítékok arra mutatnak, hogy a költségek emelkedése történik a beszállítói árak miatt.",
+      "A bizonyítékok arra mutatnak, hogy a dolgozók fluktuációja történik az elégedetlenség miatt.",
+      "A bizonyítékok arra mutatnak, hogy a stratégiánk sikeres kibontakozása történik."
+    ],
+    "c1": [
+      "A bizonyítékok arra mutatnak, hogy a makrogazdasági mutatók lassulása és a likviditás szűkülése történik.",
+      "A bizonyítékok arra mutatnak, hogy a jogi környezet szigorodása és az compliance követelmények bővülése történik.",
+      "A bizonyítékok arra mutatnak, hogy a humántőke elvándorlása és a szakemberhiány súlyosbodása történik.",
+      "A bizonyítékok arra mutatnak, hogy a hagyományos iparágak digitalizáció általi felmorzsolódása történik.",
+      "A bizonyítékok arra mutatnak, hogy a konzorciumi partnerek közötti érdekellentét kiéleződése történik."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Azzal a feltétellel, hogy ..., folytathatjuk ...",
+    "translation": "On the condition that ..., we can proceed with ...",
+    "b1": [
+      "Azzal a feltétellel, hogy időben megjössz, folytathatjuk a játékot.",
+      "Azzal a feltétellel, hogy segít, folytathatjuk a munkát.",
+      "Azzal a feltétellel, hogy befizeted, folytathatjuk a jelentkezést.",
+      "Azzal a feltétellel, hogy bocsánatot kérsz, folytathatjuk a beszélgetést.",
+      "Azzal a feltétellel, hogy megcsinálod, folytathatjuk a programot."
+    ],
+    "b2": [
+      "Azzal a feltétellel, hogy a költségvetés nem léphető túl, folytathatjuk a projektet.",
+      "Azzal a feltétellel, hogy az ügyfél jóváhagyja a tervet, folytathatjuk a kivitelezést.",
+      "Azzal a feltétellel, hogy a határidőt betartjuk, folytathatjuk a tárgyalásokat.",
+      "Azzal a feltétellel, hogy mindenki aláírja a papírt, folytathatjuk az egyeztetést.",
+      "Azzal a feltétellel, hogy a hibákat kijavítjuk, folytathatjuk a tesztelést."
+    ],
+    "c1": [
+      "Azzal a feltétellel, hogy a konzorciumi partnerek elfogadják a jogi záradékokat, folytathatjuk a fúziót.",
+      "Azzal a feltétellel, hogy a független audit semmilyen szabálytalanságot nem talál, folytathatjuk a tőkebevonást.",
+      "Azzal a feltétellel, hogy a környezetvédelmi hatóság kiadja az engedélyt, folytathatjuk az építkezést.",
+      "Azzal a feltétellel, hogy a szellemi tulajdonjogok nálunk maradnak, folytathatjuk a kutatási megállapodást.",
+      "Azzal a feltétellel, hogy a belső konszenzus biztosított, folytathatjuk az intézményi reformot."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "A hosszú távú következmény az, hogy ...",
+    "translation": "The long-term implication is ...",
+    "b1": [
+      "A hosszú távú következmény az, hogy spórolni fogunk.",
+      "A hosszú távú következmény az, hogy jobban megismerjük egymást.",
+      "A hosszú távú következmény az, hogy könnyebb lesz a tanulás.",
+      "A hosszú távú következmény az, hogy egészségesebbek leszünk.",
+      "A hosszú távú következmény az, hogy új szokásaink lesznek."
+    ],
+    "b2": [
+      "A hosszú távú következmény az, hogy a cégünk piaci részesedése jelentősen növekedni fog.",
+      "A hosszú távú következmény az, hogy a munkahelyi kultúránk sokkal rugalmasabbá válik.",
+      "A hosszú távú következmény az, hogy a költségeink tartósan alacsonyabbak lesznek.",
+      "A hosszú távú következmény az, hogy az ügyfeleink hűségesebbek maradnak hozzánk.",
+      "A hosszú távú következmény az, hogy a technológiai lemaradásunkat nehéz lesz behozni."
+    ],
+    "c1": [
+      "A hosszú távú következmény az, hogy a strukturális reformok hiánya teljesen felőrli a gazdasági versenyképességünket.",
+      "A hosszú távú következmény az, hogy a digitális transzformáció teljes mértékben átírja az iparági sztenderdeket.",
+      "A hosszú távú következmény az, hogy a demográfiai elöregedés fenntarthatatlan terhet ró az állami újraelosztásra.",
+      "A hosszú távú következmény az, hogy a globális klímaváltozás korlátozni fogja a tradicionális gazdálkodási formákat.",
+      "A hosszú távú következmény az, hogy az intézményi autonómia elvesztése a tudományos élet hanyatlásához vezet."
+    ]
+  }
+]
