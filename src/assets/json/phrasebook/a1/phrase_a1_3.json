@@ -13,7 +13,11 @@
     "nld": "Hoeveel mensen zijn er in je familie?",
     "swe": "Hur många personer finns det i din familj?",
     "dan": "Hvor mange mennesker er der i din familie?",
-    "lux": "Wéi vill Leit si bei dir an der Famill?"
+    "lux": "Wéi vill Leit si bei dir an der Famill?",
+    "spa": "¿Cuántas personas hay en tu familia?",
+    "por": "Quantas pessoas há na tua família?",
+    "ell": "Πόσα άτομα είναι στην οικογένειά σου;",
+    "hrv": "Koliko članova ima tvoja obitelj?"
   },
   {
     "kor": "우리 가족은 네 명입니다.",
@@ -29,7 +33,11 @@
     "nld": "Er zijn vier mensen in mijn familie.",
     "swe": "Det är fyra personer i min familj.",
     "dan": "Vi er fire personer i min familie.",
-    "lux": "Mir si véier Leit an eiser Famill."
+    "lux": "Mir si véier Leit an eiser Famill.",
+    "spa": "Hay cuatro personas en mi familia.",
+    "por": "Há quatro pessoas na minha família.",
+    "ell": "Είμαστε τέσσερα άτομα στην οικογένειά μου.",
+    "hrv": "U mojoj obitelji ima četvero ljudi."
   },
   {
     "kor": "형제나 자매가 있나요?",
@@ -45,7 +53,11 @@
     "nld": "Heb je broers of zussen?",
     "swe": "Har du några syskon?",
     "dan": "Har du søskende?",
-    "lux": "Hues du Geschwëster?"
+    "lux": "Hues du Geschwëster?",
+    "spa": "¿Tienes hermanos?",
+    "por": "Tens irmãos ou irmãs?",
+    "ell": "Έχεις αδέλφια;",
+    "hrv": "Imaš li braće ili sestara?"
   },
   {
     "kor": "저는 외동입니다.",
@@ -61,7 +73,11 @@
     "nld": "Ik ben enig kind.",
     "swe": "Jag är ensambarn.",
     "dan": "Jeg er enebarn.",
-    "lux": "Ech sinn en Einzelkand."
+    "lux": "Ech sinn en Einzelkand.",
+    "spa": "Soy hijo único.",
+    "por": "Sou filho único.",
+    "ell": "Είμαι μοναχοπαίδι.",
+    "hrv": "Ja sam jedinac."
   },
   {
     "kor": "제 아버지는 의사입니다.",
@@ -77,7 +93,11 @@
     "nld": "Mijn vader is arts.",
     "swe": "Min far är läkare.",
     "dan": "Min far er læge.",
-    "lux": "Mäi Papp ass Dokter."
+    "lux": "Mäi Papp ass Dokter.",
+    "spa": "Mi padre es médico.",
+    "por": "O meu pai é médico.",
+    "ell": "Ο πατέρας μου είναι γιατρός.",
+    "hrv": "Moj otac je liječnik."
   },
   {
     "kor": "제 어머니는 선생님입니다.",
@@ -93,7 +113,11 @@
     "nld": "Mijn moeder is lerares.",
     "swe": "Min mor är lärare.",
     "dan": "Min mor er lærer.",
-    "lux": "Meng Mamm ass Enseignante."
+    "lux": "Meng Mamm ass Enseignante.",
+    "spa": "Mi madre es profesora.",
+    "por": "A minha mãe é professora.",
+    "ell": "Η μητέρα μου είναι δασκάλα.",
+    "hrv": "Moja majka je učiteljica."
   },
   {
     "kor": "이 사람은 제 남동생입니다.",
@@ -109,7 +133,11 @@
     "nld": "Dit is mijn jongere broer.",
     "swe": "Det här är min lillebror.",
     "dan": "Dette er min lillebror.",
-    "lux": "Dat ass mäi jéngere Brudder."
+    "lux": "Dat ass mäi jéngere Brudder.",
+    "spa": "Este es mi hermano menor.",
+    "por": "Este é o meu irmão mais novo.",
+    "ell": "Αυτό είναι το μικρό μου αδέρχι.",
+    "hrv": "Ovo je moj mlađi brat."
   },
   {
     "kor": "이 사람은 제 언니입니다.",
@@ -125,7 +153,11 @@
     "nld": "Dit is mijn oudere zus.",
     "swe": "Det här är min storasyster.",
     "dan": "Dette er min storesøster.",
-    "lux": "Dat ass meng eeler Schwëster."
+    "lux": "Dat ass meng eeler Schwëster.",
+    "spa": "Esta es mi hermana mayor.",
+    "por": "Esta é a minha irmã mais velha.",
+    "ell": "Αυτό είναι το μεγαλύτερο αδέρχι μου.",
+    "hrv": "Ovo je moja starija sestra."
   },
   {
     "kor": "부모님은 어디에 사세요?",
@@ -141,7 +173,11 @@
     "nld": "Waar wonen je ouders?",
     "swe": "Var bor dina föräldrar?",
     "dan": "Hvor bor dine forældre?",
-    "lux": "Wou wunnen deng Elteren?"
+    "lux": "Wou wunnen deng Elteren?",
+    "spa": "¿Dónde viven tus padres?",
+    "por": "Onde vivem os teus pais?",
+    "ell": "Πού ζουν οι γονείς σου;",
+    "hrv": "Gdje žive tvoji roditelji?"
   },
   {
     "kor": "저는 할머니와 할아버지를 사랑합니다.",
@@ -157,7 +193,11 @@
     "nld": "Ik houd van mijn grootouders.",
     "swe": "Jag älskar mina mor- och farföräldrar.",
     "dan": "Jeg elsker mine bedsteforældre.",
-    "lux": "Ech hunn meng Grousselteren gären."
+    "lux": "Ech hunn meng Grousselteren gären.",
+    "spa": "Amo a mis abuelos.",
+    "por": "Amo os meus avós.",
+    "ell": "Αγαπώ τους παππούδες μου.",
+    "hrv": "Volim svoje djedove i bake."
   },
   {
     "kor": "제 가장 친한 친구 이름은 샘입니다.",
@@ -173,7 +213,11 @@
     "nld": "Mijn beste vriend heet Sam.",
     "swe": "Min bästa vän heter Sam.",
     "dan": "Min bedste ven hedder Sam.",
-    "lux": "Mäi beschte Frënd heescht Sam."
+    "lux": "Mäi beschte Frënd heescht Sam.",
+    "spa": "Mi mejor amigo se llama Sam.",
+    "por": "O meu melhor amigo chama-se Sam.",
+    "ell": "Ο καλύτερός μου φίλος λένε Σαμ.",
+    "hrv": "Moj najbolji prijatelj zove se Sam."
   },
   {
     "kor": "우리는 학교 친구입니다.",
@@ -189,7 +233,11 @@
     "nld": "Wij zijn schoolvrienden.",
     "swe": "Vi är skolkompisar.",
     "dan": "Vi er skolevenner.",
-    "lux": "Mir si Schoulfrënn."
+    "lux": "Mir si Schoulfrënn.",
+    "spa": "Somos amigos de la escuela.",
+    "por": "Somos amigos da escola.",
+    "ell": "Είμαστε φίλοι από το σχολείο.",
+    "hrv": "Mi smo školski prijatelji."
   },
   {
     "kor": "제 친구는 매우 친절합니다.",
@@ -205,7 +253,11 @@
     "nld": "Mijn vriend is erg aardig.",
     "swe": "Min vän är väldigt snäll.",
     "dan": "Min ven er meget venlig.",
-    "lux": "Mäi Frënd ass ganz léif."
+    "lux": "Mäi Frënd ass ganz léif.",
+    "spa": "Mi amigo es muy amable.",
+    "por": "O meu amigo é muito simpático.",
+    "ell": "Ο φίλος μου είναι πολύ ευγενικός.",
+    "hrv": "Moj prijatelj je vrlo ljubazan."
   },
   {
     "kor": "저는 친구들과 노는 것을 좋아합니다.",
@@ -221,7 +273,11 @@
     "nld": "Ik vind het leuk om met mijn vrienden op te trekken.",
     "swe": "Jag tycker om att umgås med mina vänner.",
     "dan": "Jeg kan godt lide at være sammen med mine venner.",
-    "lux": "Ech si gär mat menge Frënn ënnerwee."
+    "lux": "Ech si gär mat menge Frënn ënnerwee.",
+    "spa": "Me gusta pasar tiempo con mis amigos.",
+    "por": "Gosto de conviver com os meus amigos.",
+    "ell": "Μου αρέσει να περνάω χρόνο με τους φίλους μου.",
+    "hrv": "Volim se družiti s prijateljima."
   },
   {
     "kor": "결혼하셨나요?",
@@ -237,7 +293,11 @@
     "nld": "Ben je getrouwd?",
     "swe": "Är du gift?",
     "dan": "Er du gift?",
-    "lux": "Bass du bestuet?"
+    "lux": "Bass du bestuet?",
+    "spa": "¿Estás casado?",
+    "por": "Estás casado?",
+    "ell": "Είσαι παντρεμένος;",
+    "hrv": "Jesi li oženjen / udana?"
   },
   {
     "kor": "저는 미혼입니다.",
@@ -253,7 +313,11 @@
     "nld": "Ik ben vrijgezel.",
     "swe": "Jag är singel.",
     "dan": "Jeg er single.",
-    "lux": "Ech sinn eenzel."
+    "lux": "Ech sinn eenzel.",
+    "spa": "Estoy soltero.",
+    "por": "Estou solteiro.",
+    "ell": "Είμαι ανύπαντρος.",
+    "hrv": "Ja sam slobodan."
   },
   {
     "kor": "자녀가 있으신가요?",
@@ -269,7 +333,11 @@
     "nld": "Heb je kinderen?",
     "swe": "Har du barn?",
     "dan": "Har du børn?",
-    "lux": "Hues du Kanner?"
+    "lux": "Hues du Kanner?",
+    "spa": "¿Tienes hijos?",
+    "por": "Tens filhos?",
+    "ell": "Έχεις παιδιά;",
+    "hrv": "Imaš li djecu?"
   },
   {
     "kor": "저는 아들 한 명과 딸 한 명이 있습니다.",
@@ -285,7 +353,11 @@
     "nld": "Ik heb een zoon en een dochter.",
     "swe": "Jag har en son och en dotter.",
     "dan": "Jeg har en søn og en datter.",
-    "lux": "Ech hunn e Jong an e Meedchen."
+    "lux": "Ech hunn e Jong an e Meedchen.",
+    "spa": "Tengo un hijo y una hija.",
+    "por": "Tenho um filho e uma filha.",
+    "ell": "Έχω έναν γιο και μία κόρη.",
+    "hrv": "Imam sina i kćer."
   },
   {
     "kor": "제 친구는 런던에 삽니다.",
@@ -301,7 +373,11 @@
     "nld": "Mijn vriend woont in Londen.",
     "swe": "Min vän bor i London.",
     "dan": "Min ven bor i London.",
-    "lux": "Mäi Frënd wunnt zu London."
+    "lux": "Mäi Frënd wunnt zu London.",
+    "spa": "Mi amigo vive en Londres.",
+    "por": "O meu amigo vive em Londres.",
+    "ell": "Ο φίλος μου ζει στο Λονδίνο.",
+    "hrv": "Moj prijatelj živi u Londonu."
   },
   {
     "kor": "우리는 주말에 만납니다.",
@@ -317,7 +393,11 @@
     "nld": "Wij ontmoeten elkaar in het weekend.",
     "swe": "Vi träffas på helgerna.",
     "dan": "Vi mødes i weekenderne.",
-    "lux": "Mir treffen eis um Weekend."
+    "lux": "Mir treffen eis um Weekend.",
+    "spa": "Nos vemos los fines de semana.",
+    "por": "Vemo-nos aos fins de semana.",
+    "ell": "Συναντιόμαστε τα Σαββατοκύριακα.",
+    "hrv": "Nalazimo se vikendom."
   },
   {
     "kor": "그녀는 저와 동갑입니다.",
@@ -333,7 +413,11 @@
     "nld": "Zij is van dezelfde leeftijd als ik.",
     "swe": "Hon är i samma ålder som jag.",
     "dan": "Hun er på samme alder som mig.",
-    "lux": "Si ass am selwechten Alter wéi ech."
+    "lux": "Si ass am selwechten Alter wéi ech.",
+    "spa": "Ella tiene mi misma edad.",
+    "por": "Ela tem a minha idade.",
+    "ell": "Είναι στην ίδια ηλικία με εμένα.",
+    "hrv": "Ona je mojih godina."
   },
   {
     "kor": "제 남동생은 축구를 좋아합니다.",
@@ -349,7 +433,11 @@
     "nld": "Mijn jongere broer houdt van voetbal.",
     "swe": "Min lillebror gillar fotboll.",
     "dan": "Min lillebror kan lide fodbold.",
-    "lux": "Mäi jéngere Brudder spillt gär Fussball."
+    "lux": "Mäi jéngere Brudder spillt gär Fussball.",
+    "spa": "A mi hermano menor le gusta el fútbol.",
+    "por": "O meu irmão mais novo gosta de futebol.",
+    "ell": "Στον μικρό μου αδελφό αρέσει το ποδόσφαιρο.",
+    "hrv": "Moj mlađi brat voli nogomet."
   },
   {
     "kor": "제 여자친구는 똑똑합니다.",
@@ -365,7 +453,11 @@
     "nld": "Mijn vriendin is slim.",
     "swe": "Min flickvän är smart.",
     "dan": "Min kæreste er klog.",
-    "lux": "Meng Frëndin ass schlau."
+    "lux": "Meng Frëndin ass schlau.",
+    "spa": "Mi novia es inteligente.",
+    "por": "A minha namorada é inteligente.",
+    "ell": "Η κοπέλα μου είναι έξυπνη.",
+    "hrv": "Moja djevojka je pametna."
   },
   {
     "kor": "가족들과 함께 저녁을 먹습니다.",
@@ -381,7 +473,11 @@
     "nld": "Ik eet avondeten met mijn familie.",
     "swe": "Jag äter middag med min familj.",
     "dan": "Jeg spiser aftensmad med min familie.",
-    "lux": "Ech iessen Owes mat menger Famill."
+    "lux": "Ech iessen Owes mat menger Famill.",
+    "spa": "Ceno con mi familia.",
+    "por": "Janto com a minha família.",
+    "ell": "Δειπνώ με την οικογένειά μου.",
+    "hrv": "Večeram sa svojom obitelji."
   },
   {
     "kor": "그는 저의 친척입니다.",
@@ -397,6 +493,10 @@
     "nld": "Hij is een familielid van mij.",
     "swe": "Han är en släkting till mig.",
     "dan": "Han er en slægtning til mig.",
-    "lux": "Hien ass ee vu menge Familljememberen."
+    "lux": "Hien ass ee vu menge Familljememberen.",
+    "spa": "Él es un pariente mío.",
+    "por": "Ele é um familiar meu.",
+    "ell": "Είναι συγγενής μου.",
+    "hrv": "On je moj rođak."
   }
 ]

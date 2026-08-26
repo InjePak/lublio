@@ -13,7 +13,11 @@
     "nld": "Pardon, mag ik u de weg vragen?",
     "swe": "Ursäkta, kan jag fråga om vägen?",
     "dan": "Undskyld, kan jeg spørge om vej?",
-    "lux": "Pardon, kann ech Iech no dem Wee froen?"
+    "lux": "Pardon, kann ech Iech no dem Wee froen?",
+    "spa": "Disculpe, ¿puede indicarme el camino?",
+    "por": "Com licença, pode me indicar o caminho?",
+    "ell": "Συγγνώμη, μπορείτε να μου δείξετε τον δρόμο;",
+    "hrv": "Oprostite, možete li mi reći put?"
   },
   {
     "kor": "기차역이 어디에 있나요?",
@@ -29,7 +33,11 @@
     "nld": "Waar is het treinstation?",
     "swe": "Var är tågstationen?",
     "dan": "Hvor er togstationen?",
-    "lux": "Wou ass den Zuchgare?"
+    "lux": "Wou ass den Zuchgare?",
+    "spa": "¿Dónde está la estación de tren?",
+    "por": "Onde fica a estação de trem?",
+    "ell": "Πού είναι ο σιδηροδρομικός σταθμός;",
+    "hrv": "Gdje je željeznička stanica?"
   },
   {
     "kor": "가장 가까운 지하철역이 어디인가요?",
@@ -45,7 +53,11 @@
     "nld": "Waar is het dichtstbijzijnde metrostation?",
     "swe": "Var är närmaste tunnelbanestation?",
     "dan": "Hvor er den nærmeste metrostation?",
-    "lux": "Wou ass déi næchst Metrostation?"
+    "lux": "Wou ass déi næchst Metrostation?",
+    "spa": "¿Dónde está la estación de metro más cercana?",
+    "por": "Onde fica a estação de metrô mais próxima?",
+    "ell": "Πού είναι ο κοντινότερος σταθμός μετρό;",
+    "hrv": "Gdje je najbliža stanica podzemne željeznice?"
   },
   {
     "kor": "박물관에 어떻게 가나요?",
@@ -61,7 +73,11 @@
     "nld": "Hoe kom ik bij het museum?",
     "swe": "Hur kommer jag till museet?",
     "dan": "Hvordan kommer jeg til museet?",
-    "lux": "Wéi kommen ech an de Musée?"
+    "lux": "Wéi kommen ech an de Musée?",
+    "spa": "¿Cómo llego al museo?",
+    "por": "Como chego ao museu?",
+    "ell": "Πώς πάω στο μουσείο;",
+    "hrv": "Kako doći do muzeja?"
   },
   {
     "kor": "여기서 먼가요?",
@@ -77,7 +93,11 @@
     "nld": "Is het ver hier vandaan?",
     "swe": "Är det långt härifrån?",
     "dan": "Er det langt væk herfra?",
-    "lux": "Ass et wäit vun hei?"
+    "lux": "Ass et wäit vun hei?",
+    "spa": "¿Está lejos de aquí?",
+    "por": "Fica longe daqui?",
+    "ell": "Είναι μακριά από εδώ;",
+    "hrv": "Je li daleko odavde?"
   },
   {
     "kor": "걸어서 갈 수 있나요?",
@@ -93,7 +113,11 @@
     "nld": "Kan ik erheen lopen?",
     "swe": "Kan jag gå dit?",
     "dan": "Kan jeg gå derhen?",
-    "lux": "Kann ech dohin goen?"
+    "lux": "Kann ech dohin goen?",
+    "spa": "¿Puedo ir a pie?",
+    "por": "Posso ir a pé?",
+    "ell": "Μπορώ να πάω με τα πόδια;",
+    "hrv": "Mogu li ići pješice?"
   },
   {
     "kor": "똑바로 가세요.",
@@ -109,7 +133,11 @@
     "nld": "Ga rechtdoor.",
     "swe": "Gå rakt fram.",
     "dan": "Gå lige ud.",
-    "lux": "Gitt just aus."
+    "lux": "Gitt just aus.",
+    "spa": "Vaya todo recto.",
+    "por": "Vá em frente.",
+    "ell": "Πηγαίνετε ευθεία.",
+    "hrv": "Idite ravno."
   },
   {
     "kor": "왼쪽으로 도세요.",
@@ -125,7 +153,11 @@
     "nld": "Sla linksaf.",
     "swe": "Sväng vänster.",
     "dan": "Drej til venstre.",
-    "lux": "Dreift lénks."
+    "lux": "Dreift lénks.",
+    "spa": "Gire a la izquierda.",
+    "por": "Vire à esquerda.",
+    "ell": "Στρίψτε αριστερά.",
+    "hrv": "Skrenite lijevo."
   },
   {
     "kor": "오른쪽으로 도세요.",
@@ -141,7 +173,11 @@
     "nld": "Sla rechtsaf.",
     "swe": "Sväng höger.",
     "dan": "Drej til højre.",
-    "lux": "Dreift riets."
+    "lux": "Dreift riets.",
+    "spa": "Gire a la derecha.",
+    "por": "Vire à direita.",
+    "ell": "Στρίψτε δεξιά.",
+    "hrv": "Skrenite desno."
   },
   {
     "kor": "길을 잃었습니다.",
@@ -157,7 +193,11 @@
     "nld": "Ik ben de weg kwijt.",
     "swe": "Jag har gått vilse.",
     "dan": "Jeg er gået tabt.",
-    "lux": "Ech hunn mech verwiesselt."
+    "lux": "Ech hunn mech verwiesselt.",
+    "spa": "Estoy perdido.",
+    "por": "Estou perdido.",
+    "ell": "Έχω χαθεί.",
+    "hrv": "Izgubio sam se."
   },
   {
     "kor": "지도가 있나요?",
@@ -173,7 +213,11 @@
     "nld": "Heb je een plattegrond?",
     "swe": "Har du en karta?",
     "dan": "Har du et kort?",
-    "lux": "Hues du eng Kaart?"
+    "lux": "Hues du eng Kaart?",
+    "spa": "Estoy perdido.",
+    "por": "Estou perdido.",
+    "ell": "Έχω χαθεί.",
+    "hrv": "Izgubio sam se."
   },
   {
     "kor": "이 근처에 은행이 있나요?",
@@ -189,7 +233,11 @@
     "nld": "Is er een bank in de buurt?",
     "swe": "Finns det en bank i närheten?",
     "dan": "Er der en bank i nærheden?",
-    "lux": "Gëtt et eng Bank an der Géigend?"
+    "lux": "Gëtt et eng Bank an der Géigend?",
+    "spa": "¿Hay algún banco por aquí cerca?",
+    "por": "Tem algum banco aqui por perto?",
+    "ell": "Υπάρχει κάποια τράπεζα εδώ κοντά;",
+    "hrv": "Ima li banke ovdje u blizini?"
   },
   {
     "kor": "모퉁이에 있습니다.",
@@ -205,7 +253,11 @@
     "nld": "Het is op de hoek.",
     "swe": "Det är på hörnet.",
     "dan": "Det er på hjørnet.",
-    "lux": "Et ass um Eck."
+    "lux": "Et ass um Eck.",
+    "spa": "Está en la esquina.",
+    "por": "Fica na esquina.",
+    "ell": "Είναι στη γωνία.",
+    "hrv": "Nalazi se na uglu."
   },
   {
     "kor": "슈퍼마켓 옆에 있습니다.",
@@ -221,7 +273,11 @@
     "nld": "Het is naast de supermarkt.",
     "swe": "Det är bredvid stormarknaden.",
     "dan": "Det er ved siden af supermarkedet.",
-    "lux": "Et ass nieft dem Supermaart."
+    "lux": "Et ass nieft dem Supermaart.",
+    "spa": "Está al lado del supermercado.",
+    "por": "Fica ao lado do supermercado.",
+    "ell": "Είναι δίπλα στο σούπερ μάρκετ.",
+    "hrv": "Nalazi se pored supermercata."
   },
   {
     "kor": "병원은 공원 맞은편에 있습니다.",
@@ -237,7 +293,11 @@
     "nld": "Het ziekenhuis is tegenover het park.",
     "swe": "Sjukhuset ligger mitt emot parken.",
     "dan": "Hospitalet er over for parken.",
-    "lux": "D'Spidol ass géintiwwer vum Park."
+    "lux": "D'Spidol ass géintiwwer vum Park.",
+    "spa": "El hospital está enfrente del parque.",
+    "por": "O hospital fica em frente ao parque.",
+    "ell": "Το νοσοκομείο είναι απέναντι από το πάρκο.",
+    "hrv": "Bolnica je preko puta parka."
   },
   {
     "kor": "두 번째 골목에서 왼쪽으로 도세요.",
@@ -253,7 +313,11 @@
     "nld": "Neem de tweede straat links.",
     "swe": "Ta andra gatan till vänster.",
     "dan": "Tag den anden gade til venstre.",
-    "lux": "Huel déi zweet Strooss lénks."
+    "lux": "Huel déi zweet Strooss lénks.",
+    "spa": "Gire a la izquierda en la segunda calle.",
+    "por": "Vire à esquerda na segunda rua.",
+    "ell": "Στρίψτε αριστερά στον δεύτερο δρόμο.",
+    "hrv": "Skrenite lijevo u drugu ulicu."
   },
   {
     "kor": "신호등에서 멈추세요.",
@@ -269,7 +333,11 @@
     "nld": "Stop bij de stoplichten.",
     "swe": "Stanna vid trafikljusen.",
     "dan": "Stop ved trafiklysene.",
-    "lux": "Bleift bei de Luuchten stoen."
+    "lux": "Bleift bei de Luuchten stoen.",
+    "spa": "Deténgase en el semáforo.",
+    "por": "Pare no semáforo.",
+    "ell": "Σταματήστε στο φανάρι.",
+    "hrv": "Zaustavite se na semaforu."
   },
   {
     "kor": "다리를 건너세요.",
@@ -285,7 +353,11 @@
     "nld": "Steek de brug over.",
     "swe": "Korsa bron.",
     "dan": "Kryds broen.",
-    "lux": "Iwwerholl d'Bréck."
+    "lux": "Iwwerholl d'Bréck.",
+    "spa": "Cruce el puente.",
+    "por": "Atravesse a ponte.",
+    "ell": "Διασχίστε τη γέφυρα.",
+    "hrv": "Prijeđite preko mosta."
   },
   {
     "kor": "버스 정류장은 어디인가요?",
@@ -301,7 +373,11 @@
     "nld": "Waar is de bushalte?",
     "swe": "Var är busshållplatsen?",
     "dan": "Hvor er busstoppestedet?",
-    "lux": "Wou ass d'Busarrêt?"
+    "lux": "Wou ass d'Busarrêt?",
+    "spa": "¿Dónde está la parada de autobús?",
+    "por": "Onde fica o ponto de ônibus?",
+    "ell": "Πού είναι η στάση του λεωφορείου;",
+    "hrv": "Gdje je autobusna stanica?"
   },
   {
     "kor": "화장실이 어디에 있나요?",
@@ -317,7 +393,11 @@
     "nld": "Waar zijn de toiletten?",
     "swe": "Var är toaletterna?",
     "dan": "Hvor er toiletterne?",
-    "lux": "Wou sinn d'Toilette?"
+    "lux": "Wou sinn d'Toilette?",
+    "spa": "¿Dónde están los baños?",
+    "por": "Onde ficam os banheiros?",
+    "ell": "Πού είναι οι τουαλέτες;",
+    "hrv": "Gdje su toaleti?"
   },
   {
     "kor": "엘리베이터가 어디 있나요?",
@@ -333,7 +413,11 @@
     "nld": "Waar is de lift?",
     "swe": "Var är hissen?",
     "dan": "Hvor er elevatoren?",
-    "lux": "Wou ass den Ascenseur?"
+    "lux": "Wou ass den Ascenseur?",
+    "spa": "¿Dónde está el ascensor?",
+    "por": "Onde fica o elevador?",
+    "ell": "Πού είναι ο ασανσέρ;",
+    "hrv": "Gdje je dizalo?"
   },
   {
     "kor": "이 주소로 가고 싶습니다.",
@@ -349,7 +433,11 @@
     "nld": "Ik wil naar dit adres.",
     "swe": "Jag vill till den här adressen.",
     "dan": "Jeg vil gerne til denne adresse.",
-    "lux": "Ech wëll op dës Adress goen."
+    "lux": "Ech wëll op dës Adress goen.",
+    "spa": "Quiero ir a esta dirección.",
+    "por": "Quero ir para este endereço.",
+    "ell": "Θέλω να πάω σε αυτή τη διεύθυνση.",
+    "hrv": "Želim ići na ovu adresu."
   },
   {
     "kor": "걸어서 5분 걸립니다.",
@@ -365,7 +453,11 @@
     "nld": "Het is vijf minuten lopen.",
     "swe": "Det tar fem minuter till fots.",
     "dan": "Det tager fem minutter til fots.",
-    "lux": "Et dauert fënnef Minutten zu Fouss."
+    "lux": "Et dauert fënnef Minutten zu Fouss.",
+    "spa": "Toma cinco minutos a pie.",
+    "por": "Leva cinco minutos a pé.",
+    "ell": "Παίρνει πέντε λεπτά με τα πόδια.",
+    "hrv": "Treba pet minuta pješice."
   },
   {
     "kor": "근처에 주유소가 있나요?",
@@ -381,7 +473,11 @@
     "nld": "Is er een benzinestation in de buurt?",
     "swe": "Finns det en bensinmack i närheten?",
     "dan": "Er der en tankstation i nærheden?",
-    "lux": "Gëtt et eng Bensinsstatioun an der Géigend?"
+    "lux": "Gëtt et eng Bensinsstatioun an der Géigend?",
+    "spa": "¿Hay alguna gasolinera cerca?",
+    "por": "Tem algum posto de gasolina por perto?",
+    "ell": "Υπάρχει βενzinάδικο εδώ κοντά;",
+    "hrv": "Ima li benzinske crpke u blizini?"
   },
   {
     "kor": "가르쳐 주셔서 감사합니다.",
@@ -397,6 +493,10 @@
     "nld": "Bedankt voor de routebeschrijving.",
     "swe": "Tack för vägbeskrivningen.",
     "dan": "Mange tak for kørselsvejledningen.",
-    "lux": "Merci fir de Wee ze weisen."
+    "lux": "Merci fir de Wee ze weisen.",
+    "spa": "Gracias por las indicaciones.",
+    "por": "Obrigado pelas indicações.",
+    "ell": "Ευχαριστώ για τις οδηγίες.",
+    "hrv": "Hvala na uputama."
   }
 ]

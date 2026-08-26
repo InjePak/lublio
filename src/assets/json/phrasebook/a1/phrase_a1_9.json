@@ -13,7 +13,11 @@
     "nld": "Ik voel me niet goed.",
     "swe": "Jag mår inte bra.",
     "dan": "Jeg har det ikke godt.",
-    "lux": "Ech fill mech net gutt."
+    "lux": "Ech fill mech net gutt.",
+    "spa": "No me siento bien.",
+    "por": "Não me sinto bem.",
+    "ell": "Δεν αισθάνομαι καλά.",
+    "hrv": "Ne osjećam se dobro."
   },
   {
     "kor": "어디가 아프신가요?",
@@ -29,7 +33,11 @@
     "nld": "Waar doet het pijn?",
     "swe": "Var gör det ont?",
     "dan": "Hvor gør det ondt?",
-    "lux": "Wou deet et wéi?"
+    "lux": "Wou deet et wéi?",
+    "spa": "¿Dónde te duele?",
+    "por": "Onde dói?",
+    "ell": "Πού σε πονάει;",
+    "hrv": "Gdje te boli?"
   },
   {
     "kor": "머리가 아파요.",
@@ -45,7 +53,11 @@
     "nld": "Ik heb hoofdpijn.",
     "swe": "Jag har huvudvärk.",
     "dan": "Jeg har hovedpine.",
-    "lux": "Ech hunn Kappwéi."
+    "lux": "Ech hunn Kappwéi.",
+    "spa": "Me duele la cabeza.",
+    "por": "Estou com dor de cabeça.",
+    "ell": "Έχω πονοκέφαλο.",
+    "hrv": "Boli me glava."
   },
   {
     "kor": "배가 아파요.",
@@ -61,7 +73,11 @@
     "nld": "Ik heb buikpijn.",
     "swe": "Jag har ont i magen.",
     "dan": "Jeg har mavesmerter.",
-    "lux": "Ech hunn Bauchwéi."
+    "lux": "Ech hunn Bauchwéi.",
+    "spa": "Me duele el estómago.",
+    "por": "Estou com dor de barriga.",
+    "ell": "Έχω πόνο στο στομάχι.",
+    "hrv": "Boli me trbuh."
   },
   {
     "kor": "목이 아파요.",
@@ -77,7 +93,11 @@
     "nld": "Ik heb keelpijn.",
     "swe": "Jag har ont i halsen.",
     "dan": "Jeg har ondt i halsen.",
-    "lux": "Ech hunn Halswéi."
+    "lux": "Ech hunn Halswéi.",
+    "spa": "Me duele la garganta.",
+    "por": "Estou com dor de garganta.",
+    "ell": "Έχω πονόλαιμο.",
+    "hrv": "Boli me grlo."
   },
   {
     "kor": "감기에 걸렸어요.",
@@ -93,7 +113,11 @@
     "nld": "Ik ben verkouden.",
     "swe": "Jag är förkyld.",
     "dan": "Jeg er forkølet.",
-    "lux": "Ech si verkielt."
+    "lux": "Ech si verkielt.",
+    "spa": "Estoy resfriado.",
+    "por": "Estou resfriado.",
+    "ell": "Είμαι κρυωμένος.",
+    "hrv": "Prehlađen sam."
   },
   {
     "kor": "열이 나요.",
@@ -109,7 +133,11 @@
     "nld": "Ik heb koorts.",
     "swe": "Jag har feber.",
     "dan": "Jeg har feber.",
-    "lux": "Ech hunn Féiwer."
+    "lux": "Ech hunn Féiwer.",
+    "spa": "Tengo fiebre.",
+    "por": "Estou com febre.",
+    "ell": "Έχω πυρετό.",
+    "hrv": "Imam temperaturu."
   },
   {
     "kor": "기침을 많이 해요.",
@@ -125,7 +153,11 @@
     "nld": "Ik hoest erg.",
     "swe": "Jag hostar mycket.",
     "dan": "Jeg hoster meget.",
-    "lux": "Ech houschten däitlech."
+    "lux": "Ech houschten däitlech.",
+    "spa": "Tengo mucha tos.",
+    "por": "Tenho muita tosse.",
+    "ell": "Βήχω πολύ.",
+    "hrv": "Jako kašljem."
   },
   {
     "kor": "피곤해요.",
@@ -141,7 +173,11 @@
     "nld": "Ik ben moe.",
     "swe": "Jag är trött.",
     "dan": "Jeg er træt.",
-    "lux": "Ech sinn müdeg."
+    "lux": "Ech sinn müdeg.",
+    "spa": "Estoy cansado.",
+    "por": "Estou cansado.",
+    "ell": "Είμαι κουρασμένος.",
+    "hrv": "Uoran sam."
   },
   {
     "kor": "의사가 필요해요.",
@@ -157,7 +193,11 @@
     "nld": "Ik heb een dokter nodig.",
     "swe": "Jag behöver en läkare.",
     "dan": "Jeg har brug for en læge.",
-    "lux": "Ech brauche en Dokter."
+    "lux": "Ech brauche en Dokter.",
+    "spa": "Necesito un médico.",
+    "por": "Preciso de um médico.",
+    "ell": "Χρειάζομαι γιατρό.",
+    "hrv": "Trebam liječnika."
   },
   {
     "kor": "병원에 가야 해요.",
@@ -173,7 +213,11 @@
     "nld": "Ik moet naar het ziekenhuis.",
     "swe": "Jag måste gå till sjukhuset.",
     "dan": "Jeg skal på hospitalet.",
-    "lux": "Ech muss an d'Spidol goen."
+    "lux": "Ech muss an d'Spidol goen.",
+    "spa": "Tengo que ir al hospital.",
+    "por": "Preciso ir ao hospital.",
+    "ell": "Πρέπει να πάω στο νοσοκομείο.",
+    "hrv": "Moram ići u bolnicu."
   },
   {
     "kor": "약국이 어디에 있나요?",
@@ -189,7 +233,11 @@
     "nld": "Waar is de apotheek?",
     "swe": "Var är apoteket?",
     "dan": "Hvor er apoteket?",
-    "lux": "Wou ass d'Apdikt?"
+    "lux": "Wou ass d'Apdikt?",
+    "spa": "¿Dónde está la farmacia?",
+    "por": "Onde fica a farmácia?",
+    "ell": "Πού είναι το φαρμακείο;",
+    "hrv": "Gdje je ljekarna?"
   },
   {
     "kor": "약이 좀 필요합니다.",
@@ -205,7 +253,11 @@
     "nld": "Ik heb medicijnen nodig.",
     "swe": "Jag behöver medicin.",
     "dan": "Jeg har brug for noget medicin.",
-    "lux": "Ech brauche Medikamenter."
+    "lux": "Ech brauche Medikamenter.",
+    "spa": "Necesito un poco de medicina.",
+    "por": "Preciso de algum remédio.",
+    "ell": "Χρειάζομαι κάποιο φάρμακο.",
+    "hrv": "Trebam neki lijek."
   },
   {
     "kor": "눈이 아파요.",
@@ -221,7 +273,11 @@
     "nld": "Mijn ogen doen pijn.",
     "swe": "Mina ögon gör ont.",
     "dan": "Mine øjne gør ondt.",
-    "lux": "Meng Aen deen wéi."
+    "lux": "Meng Aen deen wéi.",
+    "spa": "Me duelen los ojos.",
+    "por": "Meus olhos doem.",
+    "ell": "Τα μάτια μου πονάνε.",
+    "hrv": "Bole me oči."
   },
   {
     "kor": "다리가 부러졌어요.",
@@ -237,7 +293,11 @@
     "nld": "Ik heb mijn been gebroken.",
     "swe": "Jag bröt benet.",
     "dan": "Jeg har brækket mit ben.",
-    "lux": "Ech hunn mir d'Been gebrach."
+    "lux": "Ech hunn mir d'Been gebrach.",
+    "spa": "Me he roto la pierna.",
+    "por": "Quebrei a perna.",
+    "ell": "Έσπασα το πόδι μου.",
+    "hrv": "Slomio sam nogu."
   },
   {
     "kor": "손을 씻으세요.",
@@ -253,7 +313,11 @@
     "nld": "Was je handen.",
     "swe": "Tvätta händerna.",
     "dan": "Vask dine hænder.",
-    "lux": "Basch d'Hänn."
+    "lux": "Basch d'Hänn.",
+    "spa": "Lávese las manos.",
+    "por": "Lave as mãos.",
+    "ell": "Πλύνετε τα χέρια σας.",
+    "hrv": "Operite ruke."
   },
   {
     "kor": "건강에 좋은 음식을 드세요.",
@@ -269,7 +333,11 @@
     "nld": "Eet gezond eten.",
     "swe": "Ät hälsosam mat.",
     "dan": "Spis sund mad.",
-    "lux": "Iess gesond."
+    "lux": "Iess gesond.",
+    "spa": "Coma alimentos saludables.",
+    "por": "Coma comida saudável.",
+    "ell": "Να τρώτε υγιεινά τρόφιμα.",
+    "hrv": "Jedite zdravu hranu."
   },
   {
     "kor": "충분히 자야 해요.",
@@ -285,7 +353,11 @@
     "nld": "Je hebt genoeg slaap nodig.",
     "swe": "Du behöver tillräckligt med sömn.",
     "dan": "Du har brug for nok søvn.",
-    "lux": "Du brauchs genuch Schlof."
+    "lux": "Du brauchs genuch Schlof.",
+    "spa": "Necesitas dormir lo suficiente.",
+    "por": "Você precisa dormir o suficiente.",
+    "ell": "Χρειάζεστε αρκετό ύπνο.",
+    "hrv": "Trebate dovoljno sna."
   },
   {
     "kor": "숨을 깊게 들이마시세요.",
@@ -301,7 +373,11 @@
     "nld": "Haal diep adem.",
     "swe": "Ta ett djupt andetag.",
     "dan": "Tag en dyb indånding.",
-    "lux": "Huel en déif Zuch."
+    "lux": "Huel en déif Zuch.",
+    "spa": "Respire hondo.",
+    "por": "Respire fundo.",
+    "ell": "Πάρτε μια βαθιά ανάσα.",
+    "hrv": "Udahnite duboko."
   },
   {
     "kor": "혈압이 높아요.",
@@ -317,7 +393,11 @@
     "nld": "Mijn bloeddruk is hoog.",
     "swe": "Mitt blodtryck är högt.",
     "dan": "Mit blodtryk er højt.",
-    "lux": "Mäi Bluttndrock ass héich."
+    "lux": "Mäi Bluttndrock ass héich.",
+    "spa": "Mi presión arterial está alta.",
+    "por": "Minha pressão arterial está alta.",
+    "ell": "Η αρτηριακή μου πίεση είναι υψηλή.",
+    "hrv": "Krvni tlak mi je visok."
   },
   {
     "kor": "알레르기가 있나요?",
@@ -333,7 +413,11 @@
     "nld": "Heb je allergieën?",
     "swe": "Har du några allergier?",
     "dan": "Har du nogle allergier?",
-    "lux": "Hues du Allergien?"
+    "lux": "Hues du Allergien?",
+    "spa": "¿Tiene alguna alergia?",
+    "por": "Você tem alguma alergia?",
+    "ell": "Έχετε κάποιες αλλεργίες;",
+    "hrv": "Imate li kakvih alergija?"
   },
   {
     "kor": "저는 견과류 알레르기가 있어요.",
@@ -349,7 +433,11 @@
     "nld": "Ik ben allergisch voor noten.",
     "swe": "Jag är allergisk mot nötter.",
     "dan": "Jeg er allergisk over for nødder.",
-    "lux": "Ech sinn allergesch géint Nëss."
+    "lux": "Ech sinn allergesch géint Nëss.",
+    "spa": "Soy alérgico a los frutos secos.",
+    "por": "Sou alérgico a nozes.",
+    "ell": "Είμαι αλλεργικός στους ξηρούς καρπούς.",
+    "hrv": "Alergičan sam na orašaste plodove."
   },
   {
     "kor": "이 약을 하루에 세 번 드세요.",
@@ -365,7 +453,11 @@
     "nld": "Neem dit medicijn driemaal daags.",
     "swe": "Ta den här medicinen tre gånger om dagen.",
     "dan": "Tag denne medicin tre gange om dagen.",
-    "lux": "Huel dës Medikamenter dräimol am Dag."
+    "lux": "Huel dës Medikamenter dräimol am Dag.",
+    "spa": "Tome este medicamento tres veces al día.",
+    "por": "Tome este medicamento três vezes ao dia.",
+    "ell": "Πάρτε αυτό το φάρμακο τρεις φορές την ημέρα.",
+    "hrv": "Uzimajte ovaj lijek tri puta dnevno."
   },
   {
     "kor": "안경을 써야 해요.",
@@ -381,7 +473,11 @@
     "nld": "Ik moet een bril dragen.",
     "swe": "Jag behöver ha glasögon.",
     "dan": "Jeg skal have briller på.",
-    "lux": "Ech muss eng Brëll droen."
+    "lux": "Ech muss eng Brëll droen.",
+    "spa": "Necesito usar gafas.",
+    "por": "Preciso usar óculos.",
+    "ell": "Πρέπει να φορώ γυαλιά.",
+    "hrv": "Moram nositi naočale."
   },
   {
     "kor": "빨리 낫길 바라요.",
@@ -397,6 +493,10 @@
     "nld": "Beterschap!",
     "swe": "Krya på dig!",
     "dan": "God bedring!",
-    "lux": "Gutt Besserung!"
+    "lux": "Gutt Besserung!",
+    "spa": "Que te mejores pronto.",
+    "por": "Melhoras.",
+    "ell": "Περαστικά.",
+    "hrv": "Brzo ozdravi."
   }
 ]

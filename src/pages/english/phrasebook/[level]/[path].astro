@@ -243,11 +243,13 @@ switch (level) {
 }
 ---
 
-<BaseLayout pageTitle={chapter.kor + " | Lublio"}>
-  <Box2 title={chapter.kor} subtitle={chapter.eng} language="eng" />
+<BaseLayout pageTitle={chapter.eng + " | Lublio"}>
+  <Box2 title={chapter.eng} subtitle={chapter.spa} language="eng" />
 
   <select id="lang-switcher">
+    <option value="spa">Español</option>
     <option value="eng">English</option>
+    <option value="por">Português</option>
     <option value="fra">Français</option>
     <option value="deu">Deutsch</option>
     <option value="ita">Italiano</option>
@@ -272,13 +274,15 @@ switch (level) {
           <h2 lang="en">
             <img
               alt="United Kingdom"
-              src="https://purecatamphetamine.github.io/country-flag-icons/1x1/GB.svg"
+              src="https://purecatamphetamine.github.io/country-flag-icons/3x2/GB.svg"
             />
             {data.eng}
           </h2>
           <p
             class="translation"
             data-eng={data.eng}
+            data-spa={data.spa}
+            data-por={data.por}
             data-fra={data.fra}
             data-deu={data.deu}
             data-ita={data.ita}
@@ -292,7 +296,7 @@ switch (level) {
             data-hun={data.hun}
             data-tur={data.tur}
           >
-            {data.kor}
+            {data.spa}
           </p>
         </div>
       ))
@@ -304,7 +308,8 @@ switch (level) {
   .phrase-box {
     margin-bottom: 2rem;
     padding: 2rem;
-    border: 1px solid var(--neutral400);
+    background-color: var(--white);
+    border-radius: 10px;
   }
 
   .phrase-box > h1 {
@@ -317,7 +322,7 @@ switch (level) {
     font-size: 16px;
     font-weight: 600;
     margin-bottom: 2rem;
-    border-bottom: 1px solid var(--neutral400);
+    border-bottom: 1px solid var(--neutral700);
   }
 
   .phrase-box > h2 {
@@ -345,7 +350,7 @@ switch (level) {
     margin-top: 1.5rem;
     margin-bottom: 1rem;
     line-height: 1rem;
-    color: var(--neutral500);
+    color: var(--neutral700);
   }
 
   .phrase-box > p > span {
@@ -357,8 +362,6 @@ switch (level) {
       margin-bottom: 2rem;
       padding: 1rem 1.5rem;
       border: none;
-      border-top: 1px solid var(--neutral400);
-      border-bottom: 1px solid var(--neutral400);
       border-radius: 0px;
     }
 

@@ -13,7 +13,11 @@
     "nld": "Ik wil graag geld terug voor dit overhemd.",
     "swe": "Jag skulle vilja få en återbetalning för den här skjortan.",
     "dan": "Jeg vil gerne have pengene tilbage for denne skjorte.",
-    "lux": "Ech wéilt gär d'Sue fir dës Hiem zeréckkréien."
+    "lux": "Ech wéilt gär d'Sue fir dës Hiem zeréckkréien.",
+    "spa": "Quiero devolver esta camisa.",
+    "por": "Gostaria de obter um reembolso por esta camisa.",
+    "ell": "Θα ήθελα να πάρω επιστροφή χρημάτων για αυτό το πουκάμισο.",
+    "hrv": "Želio bih dobiti povrat novca za ovu košulju."
   },
   {
     "kor": "영수증을 여기 가지고 있습니다.",
@@ -29,7 +33,11 @@
     "nld": "Ik heb de bon hier.",
     "swe": "Jag har kvittot här.",
     "dan": "Jeg har kvitteringen her.",
-    "lux": "Ech hunn d'Kwittung hei."
+    "lux": "Ech hunn d'Kwittung hei.",
+    "spa": "Tengo el recibo aquí.",
+    "por": "Tenho o recibo aqui.",
+    "ell": "Έχω την απόδειξη εδώ.",
+    "hrv": "Imam račun ovdje."
   },
   {
     "kor": "근처에 약국이 있나요?",
@@ -45,7 +53,11 @@
     "nld": "Is er een apotheek in de buurt?",
     "swe": "Finns det ett apotek i närheten?",
     "dan": "Er der et apotek i nærheden?",
-    "lux": "Gëtt et eng Apdikt an der Noperschaft?"
+    "lux": "Gëtt et eng Apdikt an der Noperschaft?",
+    "spa": "¿Hay una farmacia cerca de aquí?",
+    "por": "Há uma farmácia perto daqui?",
+    "ell": "Υπάρχει κάποιο φαρmeκείο εδώ κοντά;",
+    "hrv": "Ima li ljekarne u blizini?"
   },
   {
     "kor": "이 구두를 다른 사이즈로 교환할 수 있나요?",
@@ -61,7 +73,11 @@
     "nld": "Kan ik deze schoenen ruilen voor een andere maat?",
     "swe": "Kan jag byta de här skorna till en annan storlek?",
     "dan": "Kan jeg ombytte disse sko til en anden størrelse?",
-    "lux": "Kann ech dës Schong an enger anerer Gréisst tauschen?"
+    "lux": "Kann ech dës Schong an enger anerer Gréisst tauschen?",
+    "spa": "¿Puedo cambiar estos zapatos por otra talla?",
+    "por": "Posso trocar estes sapatos por um tamanho diferente?",
+    "ell": "Μπορώ να αλλάξω αυτά τα παπούτσια με άλλο νούμερο;",
+    "hrv": "Mogu li zamijeniti ove cipele za drugu veličinu?"
   },
   {
     "kor": "탈의실은 2층에 있습니다.",
@@ -77,7 +93,11 @@
     "nld": "De passend kamers bevinden zich op de eerste verdieping.",
     "swe": "Provrummen ligger på första våningen.",
     "dan": "Prøverummene er på første sal.",
-    "lux": "D'Probezëmmer sinn um éischte Stack."
+    "lux": "D'Probezëmmer sinn um éischte Stack.",
+    "spa": "Los probadores están en la primera planta.",
+    "por": "Os provadores ficam no primeiro andar.",
+    "ell": "Τα δοκιμαστήρια είναι στον πρώτο όροφο.",
+    "hrv": "Garderobe se nalaze na prvom katu."
   },
   {
     "kor": "카드로 결제해도 괜찮나요?",
@@ -93,7 +113,11 @@
     "nld": "Kan ik met pin betalen?",
     "swe": "Går det bra att betala med kort?",
     "dan": "Kan man betale med kort?",
-    "lux": "Kann ech mat Kaart bezuelen?"
+    "lux": "Kann ech mat Kaart bezuelen?",
+    "spa": "¿Puedo pagar con tarjeta?",
+    "por": "Posso pagar com cartão?",
+    "ell": "Μπορώ να πληρώσω με κάρτα;",
+    "hrv": "Mogu li platiti karticom?"
   },
   {
     "kor": "이 가격에 할인이 포함된 건가요?",
@@ -109,7 +133,11 @@
     "nld": "Is de korting bij deze prijs inbegrepen?",
     "swe": "Ingår rabatten i det här priset?",
     "dan": "Er rabatten inkluderet i denne pris?",
-    "lux": "Ass de Rabatt an dësem Präis abegraff?"
+    "lux": "Ass de Rabatt an dësem Präis abegraff?",
+    "spa": "¿El descuento está incluido en este precio?",
+    "por": "O desconto está incluído neste preço?",
+    "ell": "Περιλαμβάνεται η έκπτωση σε αυτή την τιμή;",
+    "hrv": "Je li popust uključen u ovu cijenu?"
   },
   {
     "kor": "제 신발을 수선하는 데 얼마나 걸릴까요?",
@@ -125,7 +153,11 @@
     "nld": "Hoe lang duurt het om mijn schoenen te repareren?",
     "swe": "Hur lång tid tar det att laga mina skor?",
     "dan": "Hvor lang tid vil det tage at reparere mine sko?",
-    "lux": "Wéi laang dauert et fir meng Schong ze reparéieren?"
+    "lux": "Wéi laang dauert et fir meng Schong ze reparéieren?",
+    "spa": "¿Cuánto tiempo se tarda en arreglar mis zapatos?",
+    "por": "Quanto tempo levará para consertar meus sapatos?",
+    "ell": "Πόσος χρόνος θα χρειαστεί για να επισκευαστούν τα παπούτσια μου;",
+    "hrv": "Koliko će trebati da mi poprave cipele?"
   },
   {
     "kor": "식료품점은 몇 시에 문을 닫나요?",
@@ -141,7 +173,11 @@
     "nld": "Hoe laat sluit de supermarkt?",
     "swe": "Vilken tid stänger matvarubutiken?",
     "dan": "Hvad tid lukker supermarkedet?",
-    "lux": "Wéi eng Zäit mécht den Supermarché zou?"
+    "lux": "Wéi eng Zäit mécht den Supermarché zou?",
+    "spa": "¿A qué hora cierra el supermercado?",
+    "por": "A que horas o supermercado fecha?",
+    "ell": "Τι ώρα κλείνει το σούπερ μάρκετ;",
+    "hrv": "U koliko sati se zatvara supermarket?"
   },
   {
     "kor": "줄 끝이 어디인가요?",
@@ -157,7 +193,11 @@
     "nld": "Waar is het einde van de rij?",
     "swe": "Var är slutet på kön?",
     "dan": "Hvor er enden af køen?",
-    "lux": "Wou ass d'Enn vun der Rei?"
+    "lux": "Wou ass d'Enn vun der Rei?",
+    "spa": "¿Dónde está el final de la fila?",
+    "por": "Onde fica o fim da fila?",
+    "ell": "Πού είναι το τέλος της ουράς;",
+    "hrv": "Gdje je kraj reda?"
   },
   {
     "kor": "이 바지는 저에게 너무 깁니다.",
@@ -173,7 +213,11 @@
     "nld": "Deze broek is te lang voor mij.",
     "swe": "De här byxorna är för långa för mig.",
     "dan": "Disse bukser er for lange til mig.",
-    "lux": "Dës Hues ass mir ze laang."
+    "lux": "Dës Hues ass mir ze laang.",
+    "spa": "Estos pantalones son demasiado largos para mí.",
+    "por": "Estas calças são muito compridas para mim.",
+    "ell": "Αυτό το παντελόνι είναι πολύ μακρύ για μένα.",
+    "hrv": "Ove hlače su mi predugačke."
   },
   {
     "kor": "배달 서비스를 제공하시나요?",
@@ -189,7 +233,11 @@
     "nld": "Biedt u een bezorgservice aan?",
     "swe": "Erbjuder ni hemkörning?",
     "dan": "Tilbyder I leveringsservice?",
-    "lux": "Bitt Dir e Liwwerservice un?"
+    "lux": "Bitt Dir e Liwwerservice un?",
+    "spa": "¿Ofrecen servicio a domicilio?",
+    "por": "Vocês oferecem serviço de entrega?",
+    "ell": "Παρέχετε υπηρεσία παράδοσης;",
+    "hrv": "Nudite li uslugu dostave?"
   },
   {
     "kor": "학생 할인을 받을 수 있나요?",
@@ -205,7 +253,11 @@
     "nld": "Kan ik studentenkorting krijgen?",
     "swe": "Kan jag få studentrabatt?",
     "dan": "Kan jeg få studierabat?",
-    "lux": "Kann ech e Studentenrabatt kréien?"
+    "lux": "Kann ech e Studentenrabatt kréien?",
+    "spa": "¿Puedo obtener un descuento para estudiantes?",
+    "por": "Posso conseguir um desconto de estudante?",
+    "ell": "Μπορώ να έχω φοιτητική έκπτωση;",
+    "hrv": "Mogu li dobiti studentski popust?"
   },
   {
     "kor": "그것을 선물용으로 포장해 주시겠어요?",
@@ -221,7 +273,11 @@
     "nld": "Kunt u het als cadeautje inpakken, alstublieft?",
     "swe": "Kan du slå in den som en present, tack?",
     "dan": "Vil du pakke den ind som en gave, tak?",
-    "lux": "Kënnt Dir et wgl. als Cadeau abauen?"
+    "lux": "Kënnt Dir et wgl. als Cadeau abauen?",
+    "spa": "¿Podría envolverlo para regalo, por favor?",
+    "por": "Poderia embrulhar para presente, por favor?",
+    "ell": "Θα μπορούσατε να το τυλίξετε για δώρο, παρακαλώ;",
+    "hrv": "Možete li to zamotati kao poklon, molim vas?"
   },
   {
     "kor": "이 제품의 보증 기간은 얼마인가요?",
@@ -237,7 +293,11 @@
     "nld": "Hoe lang is de garantie op dit product?",
     "swe": "Hur lång är garantin på den här produkten?",
     "dan": "Hvor lang er garantien på dette produkt?",
-    "lux": "Wéi laang ass d'Garantie op dëse Produit?"
+    "lux": "Wéi laang ass d'Garantie op dëse Produit?",
+    "spa": "¿Cuánto dura la garantía de este producto?",
+    "por": "Qual é o prazo de garantia deste produto?",
+    "ell": "Πόσο είναι η εγγύηση σε αυτό το προϊόν;",
+    "hrv": "Koliko traje garancija na ovaj proizvod?"
   },
   {
     "kor": "찾으시는 특별한 것이 있나요?",
@@ -253,7 +313,11 @@
     "nld": "Bent u ergens specifiek naar op zoek?",
     "swe": "Letar du efter något särskilt?",
     "dan": "Leder du efter noget bestemt?",
-    "lux": "Sicht Dir eppes Bestëmmtes?"
+    "lux": "Sicht Dir eppes Bestëmmtes?",
+    "spa": "¿Busca algo en particular?",
+    "por": "Procura alguma coisa em especial?",
+    "ell": "Ψάχνετε κάτι συγκεκριμένο;",
+    "hrv": "Tražite li nešto posebno?"
   },
   {
     "kor": "재고가 있는지 확인해 보겠습니다.",
@@ -269,7 +333,11 @@
     "nld": "Ik ga controleren of het op voorraad is.",
     "swe": "Jag ska kolla om den finns i lager.",
     "dan": "Jeg vil tjekke, om den er på lager.",
-    "lux": "Ech kucken ob et op Stock ass."
+    "lux": "Ech kucken ob et op Stock ass.",
+    "spa": "Voy a comprobar si hay stock.",
+    "por": "Vou verificar se está disponível em estoque.",
+    "ell": "Θα ελέγξω αν υπάρχει σε απόθεμα.",
+    "hrv": "Provjerit ću ima li na zalihama."
   },
   {
     "kor": "이것은 가죽으로 만들어졌나요?",
@@ -285,7 +353,11 @@
     "nld": "Is dit gemaakt van leer?",
     "swe": "Är den här gjord av läder?",
     "dan": "Er denne lavet af læder?",
-    "lux": "Ass dat aus Lieder gemaach?"
+    "lux": "Ass dat aus Lieder gemaach?",
+    "spa": "¿Esto está hecho de cuero?",
+    "por": "Isto é feito de couro?",
+    "ell": "Είναι φτιαγμένο από δέρμα;",
+    "hrv": "Je li ovo napravljeno od kože?"
   },
   {
     "kor": "현금 인출기가 어디에 있는지 아시나요?",
@@ -301,7 +373,11 @@
     "nld": "Weet u waar de geldautomaat is?",
     "swe": "Vet du var uttagsautomaten är?",
     "dan": "Ved du, hvor hæveautomaten er?",
-    "lux": "Wësst Dir wou den Bankomat ass?"
+    "lux": "Wësst Dir wou den Bankomat ass?",
+    "spa": "¿Sabe dónde hay un cajero automático?",
+    "por": "Sabe onde fica o caixa eletrônico?",
+    "ell": "Ξέρετε πού είναι το ΑΤΜ;",
+    "hrv": "Znate li gdje je bankomat?"
   },
   {
     "kor": "소포를 보내기 위해 우체국에 가야 합니다.",
@@ -317,7 +393,11 @@
     "nld": "Ik moet naar het postkantoor om een pakket te versturen.",
     "swe": "Jag måste gå till posten för att skicka ett paket.",
     "dan": "Jeg skal på posthuset for at sende en pakke.",
-    "lux": "Ech muss op d'Post goen fir e Pak ze schécken."
+    "lux": "Ech muss op d'Post goen fir e Pak ze schécken.",
+    "spa": "Tengo que ir a correos para enviar un paquete.",
+    "por": "Preciso ir aos correios para enviar um pacote.",
+    "ell": "Πρέπει να πάω στο ταχυδρομείο για να στείλω ένα δέμα.",
+    "hrv": "Moram ići u poštu poslati paket."
   },
   {
     "kor": "봉투값으로 10펜스를 더 내야 합니다.",
@@ -333,7 +413,11 @@
     "nld": "U moet tien cent extra betalen voor een tas.",
     "swe": "Du måste betala tio cent extra för en påse.",
     "dan": "Du skal betale ti øre ekstra for en pose.",
-    "lux": "Dir musst zéng Cent extra fir eng Sak bezuelen."
+    "lux": "Dir musst zéng Cent extra fir eng Sak bezuelen.",
+    "spa": "Tiene que pagar diez céntimos extra por la bolsa.",
+    "por": "Você precisa pagar dez centavos a mais por uma sacola.",
+    "ell": "Πρέπει να πληρώσετε δέκα λεπτά επιπλέον για μια σακούλα.",
+    "hrv": "Morate platiti deset centi više za vrećicu."
   },
   {
     "kor": "이 카트 좀 사용해도 될까요?",
@@ -349,7 +433,11 @@
     "nld": "Mag ik deze winkelwagen gebruiken?",
     "swe": "Får jag använda den här vagnen?",
     "dan": "Må jeg bruge denne indkøbsvogn?",
-    "lux": "Derf ech dëse Won benotzen?"
+    "lux": "Derf ech dëse Won benotzen?",
+    "spa": "¿Puedo usar este carrito?",
+    "por": "Posso usar este carrinho?",
+    "ell": "Μπορώ να χρησιμοποιήσω αυτό το καρότσι;",
+    "hrv": "Mogu li koristiti ovu kolica?"
   },
   {
     "kor": "가격표가 어디에 있나요?",
@@ -365,7 +453,11 @@
     "nld": "Waar hangt het prijskaartje?",
     "swe": "Var sitter prislappen?",
     "dan": "Hvor er prisskiltet?",
-    "lux": "Wou ass d'Präisschëld?"
+    "lux": "Wou ass d'Präisschëld?",
+    "spa": "¿Dónde está la etiqueta de precio?",
+    "por": "Onde está a etiqueta de preço?",
+    "ell": "Πού είναι η ετικέτα τιμής;",
+    "hrv": "Gdje je oznaka cijene?"
   },
   {
     "kor": "미용실 예약을 하고 싶습니다.",
@@ -381,7 +473,11 @@
     "nld": "Ik wil graag een afspraak maken bij de kapper.",
     "swe": "Jag skulle vilja boka en tid hos frisören.",
     "dan": "Jeg vil gerne bestille en tid hos frisøren.",
-    "lux": "Ech wéilt gär en Rendez-vous beim Coiffeur maachen."
+    "lux": "Ech wéilt gär en Rendez-vous beim Coiffeur maachen.",
+    "spa": "Me gustaría pedir cita en la peluquería.",
+    "por": "Gostaria de marcar um horário no cabeleireiro.",
+    "ell": "Θα ήθελα να κλείσω ραντεβού στο κομμωτήριο.",
+    "hrv": "Želio/željela bih naručiti se kod frizera."
   },
   {
     "kor": "도와주셔서 정말 감사합니다.",
@@ -397,6 +493,10 @@
     "nld": "Hartelijk dank voor uw hulp.",
     "swe": "Tack så mycket för din hjälp.",
     "dan": "Mange tak for din hjælp.",
-    "lux": "Vill Muech Merci fir Är Hëllef."
+    "lux": "Vill Muech Merci fir Är Hëllef.",
+    "spa": "Muchas gracias por su ayuda.",
+    "por": "Muito obrigado pela sua ajuda.",
+    "ell": "Σας ευχαριστώ πολύ για τη βοήθειά σας.",
+    "hrv": "Puno hvala na pomoći."
   }
 ]

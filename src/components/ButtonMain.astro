@@ -14,6 +14,9 @@ interface Props {
 const { title, subtitle, description, language, path, level } = Astro.props;
 
 const colorMap800: Record<string, string> = {
+  eng: "var(--periwinkle800)",
+  spa: "var(--apricot800)",
+  por: "var(--green800)",
   fra: "var(--sky800)",
   deu: "var(--amber800)",
   ita: "var(--emerald800)",
@@ -28,6 +31,9 @@ const colorMap800: Record<string, string> = {
   lux: "var(--cyan800)",
 };
 const colorMap700: Record<string, string> = {
+  eng: "var(--periwinkle700)",
+  spa: "var(--apricot700)",
+  por: "var(--green700)",
   fra: "var(--sky700)",
   deu: "var(--amber700)",
   ita: "var(--emerald700)",
@@ -42,6 +48,9 @@ const colorMap700: Record<string, string> = {
   lux: "var(--cyan700)",
 };
 const colorMap600: Record<string, string> = {
+  eng: "var(--periwinkle600)",
+  spa: "var(--apricot600)",
+  por: "var(--green600)",
   fra: "var(--sky600)",
   deu: "var(--amber600)",
   ita: "var(--emerald600)",
@@ -56,6 +65,9 @@ const colorMap600: Record<string, string> = {
   lux: "var(--cyan600)",
 };
 const colorMap500: Record<string, string> = {
+  eng: "var(--periwinkle500)",
+  spa: "var(--apricot500)",
+  por: "var(--green500)",
   fra: "var(--sky500)",
   deu: "var(--amber500)",
   ita: "var(--emerald500)",
@@ -70,6 +82,9 @@ const colorMap500: Record<string, string> = {
   lux: "var(--cyan500)",
 };
 const colorMap400: Record<string, string> = {
+  eng: "var(--periwinkle400)",
+  spa: "var(--apricot400)",
+  por: "var(--green400)",
   fra: "var(--sky400)",
   deu: "var(--amber400)",
   ita: "var(--emerald400)",
@@ -84,6 +99,9 @@ const colorMap400: Record<string, string> = {
   lux: "var(--cyan400)",
 };
 const colorMap300: Record<string, string> = {
+  eng: "var(--periwinkle300)",
+  spa: "var(--apricot300)",
+  por: "var(--green300)",
   fra: "var(--sky300)",
   deu: "var(--amber300)",
   ita: "var(--emerald300)",
@@ -98,6 +116,9 @@ const colorMap300: Record<string, string> = {
   lux: "var(--cyan300)",
 };
 const colorMap200: Record<string, string> = {
+  eng: "var(--periwinkle200)",
+  spa: "var(--apricot200)",
+  por: "var(--green200)",
   fra: "var(--sky200)",
   deu: "var(--amber200)",
   ita: "var(--emerald200)",
@@ -112,6 +133,9 @@ const colorMap200: Record<string, string> = {
   lux: "var(--cyan200)",
 };
 const colorMap100: Record<string, string> = {
+  eng: "var(--periwinkle100)",
+  spa: "var(--apricot100)",
+  por: "var(--green100)",
   fra: "var(--sky100)",
   deu: "var(--amber100)",
   ita: "var(--emerald100)",
@@ -135,6 +159,9 @@ const color200 = colorMap200[language] || "var(--neutral200)";
 const color100 = colorMap100[language] || "var(--neutral100)";
 
 const greetingMap: Record<string, string> = {
+  eng: "Welcome",
+  spa: "Bienvenidos",
+  por: "Bem-vindo",
   fra: "Bienvenue",
   deu: "Willkommen",
   ita: "Benvenuti",
@@ -149,19 +176,37 @@ const greetingMap: Record<string, string> = {
   lux: "Wëllkomm",
 };
 const greeting = greetingMap[language] || "Welcome";
+
+const langToCountryCode: Record<string, string> = {
+  eng: "GB",
+  spa: "ES",
+  por: "BR",
+  fra: "FR",
+  deu: "DE",
+  ita: "IT",
+  rus: "RU",
+  tur: "TR",
+  pol: "PL",
+  ces: "CZ",
+  hun: "HU",
+  nld: "NL",
+  swe: "SE",
+  dan: "DK",
+  lux: "LU",
+};
 ---
 
 <style define:vars={{ color500, color400, color300, color200, color100 }}>
   .btn > h3 {
-    color: var(--color500);
+    color: var(--color400);
   }
 
   .btn {
     background: linear-gradient(
       -45deg,
-      var(--color300),
-      var(--color100),
-      var(--color200)
+      var(--stone300),
+      var(--stone100),
+      var(--stone300)
     );
     background-size: 300% 300%;
     animation: gradient 4s ease infinite;
@@ -197,6 +242,10 @@ const greeting = greetingMap[language] || "Welcome";
 
 <a href={path}>
   <div class="btn">
+    <img
+      alt="Flag"
+      src={`https://purecatamphetamine.github.io/country-flag-icons/3x2/${langToCountryCode[language]}.svg`}
+    />
     <h1>{title}</h1>
     <h2>{subtitle}</h2>
     <p>{description}</p>
@@ -207,17 +256,28 @@ const greeting = greetingMap[language] || "Welcome";
 <style>
   .btn {
     position: relative;
-    padding: 1.5rem;
+    padding: 1.2rem;
     width: 100%;
     height: 100%;
     transition: all 0.4s;
-    border-radius: 15px;
+    border-radius: 10px;
+  }
+
+  .btn > img {
+    display: inline-block;
+    position: absolute;
+    top: 1.2rem;
+    right: 1.2rem;
+    height: 18px;
+    transform: translateY(2px);
+    border-radius: 2px;
+    margin-right: 0.5rem;
   }
 
   .btn > h1 {
     position: relative;
     font-family: "Inter", sans-serif;
-    font-size: 26px;
+    font-size: 18px;
     font-weight: 700;
     text-transform: uppercase;
     margin-bottom: 0rem;
@@ -227,24 +287,25 @@ const greeting = greetingMap[language] || "Welcome";
   .btn > h2 {
     position: relative;
     font-family: "Inter", sans-serif;
-    font-size: 16px;
+    font-size: 12px;
     font-weight: 600;
     text-transform: uppercase;
-    margin-bottom: 0.5rem;
+    margin-bottom: 0rem;
     color: var(--neutral500);
     transition: all 0.4s;
+    transform: translateY(-5px);
   }
 
   .btn > p {
     display: inline-block;
     position: absolute;
-    right: 1.5rem;
-    bottom: 1.5rem;
+    right: 1.2rem;
+    bottom: 1rem;
     text-align: right;
-    margin-top: 2rem;
+    margin-top: 1rem;
     margin-bottom: 0rem;
-    font-size: 16px;
-    font-weight: 500;
+    font-size: 13px;
+    font-weight: 600;
     color: var(--neutral500);
   }
 
@@ -258,8 +319,8 @@ const greeting = greetingMap[language] || "Welcome";
     font-family: "Inter", sans-serif;
     text-transform: uppercase;
     width: 90%;
-    font-size: 20px;
-    font-weight: 600;
+    font-size: 14px;
+    font-weight: 700;
     color: var(--neutral800);
     opacity: 0;
     transition: all 0.4s;
@@ -269,22 +330,30 @@ const greeting = greetingMap[language] || "Welcome";
   @media (max-width: 1280px) {
     .btn {
       padding: 1rem;
-      min-height: 200px;
+      min-height: 160px;
       border-radius: 0px;
     }
 
+    .btn > img {
+      top: 1rem;
+      right: 1rem;
+      height: 16px;
+      border-radius: 2px;
+      margin-right: 0.3rem;
+    }
+
     .btn > h1 {
-      font-size: 24px;
+      font-size: 22px;
     }
 
     .btn > h2 {
-      font-size: 14px;
+      font-size: 13px;
       font-weight: 600;
       margin-bottom: 0rem;
     }
 
     .btn > h3 {
-      font-size: 20px;
+      font-size: 14px;
     }
 
     .btn > p {

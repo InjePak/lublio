@@ -39,6 +39,9 @@ import LogoSVG from "../../public/lublio-logo-light.svg?raw";
       <a href="/dutch" class="menu-link">Dutch</a>
     </li>
     <li>
+      <a href="/english" class="menu-link">English</a>
+    </li>
+    <li>
       <a href="/french" class="menu-link">French</a>
     </li>
     <li>
@@ -57,7 +60,13 @@ import LogoSVG from "../../public/lublio-logo-light.svg?raw";
       <a href="/polish" class="menu-link">Polish</a>
     </li>
     <li>
+      <a href="/portuguese" class="menu-link">Portuguese</a>
+    </li>
+    <li>
       <a href="/russian" class="menu-link">Russian</a>
+    </li>
+    <li>
+      <a href="/spanish" class="menu-link">Spanish</a>
     </li>
     <li>
       <a href="/swedish" class="menu-link">Swedish</a>
@@ -130,17 +139,18 @@ import LogoSVG from "../../public/lublio-logo-light.svg?raw";
   .menu {
     position: absolute;
     display: block;
-    top: 50%;
-    transform: translateY(-50%);
+    /* top: 50%; */
+    /* transform: translateY(-50%); */
+    bottom: 0%;
     width: 100%;
     height: auto;
-    padding: 1rem 0;
+    padding: 1rem 1.5rem;
     text-align: center;
   }
 
   .menu > li {
     width: auto;
-    margin-bottom: 1rem;
+    margin-bottom: 0.1rem;
   }
 
   .menu > li:last-child {
@@ -150,7 +160,7 @@ import LogoSVG from "../../public/lublio-logo-light.svg?raw";
   .menu-link {
     display: inline-block;
     font-family: "Inter", sans-serif;
-    font-size: 18px;
+    font-size: 14px;
     font-weight: 600;
     color: var(--neutral700);
     padding: 0.5rem 1rem;
@@ -159,7 +169,7 @@ import LogoSVG from "../../public/lublio-logo-light.svg?raw";
 
   .menu-link:hover {
     background-color: var(--neutral200);
-    border-radius: 15px;
+    border-radius: 10px;
   }
 
   @media (max-width: 1280px) {

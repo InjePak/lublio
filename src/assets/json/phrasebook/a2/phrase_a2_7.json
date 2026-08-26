@@ -13,7 +13,11 @@
     "nld": "Wat is de snelste manier om naar het stadscentrum te gaan?",
     "swe": "Vad är det snabbaste sättet att komma till stadskärnan?",
     "dan": "Hvad er den hurtigste måde at komme til byens centrum på?",
-    "lux": "Wat ass de séierste Wee an d'Stadzenter?"
+    "lux": "Wat ass de séierste Wee an d'Stadzenter?",
+    "spa": "¿Cuál es la forma más rápida de llegar al centro de la ciudad?",
+    "por": "Qual é a maneira mais rápida de ir para o centro da cidade?",
+    "ell": "Πιος είναι ο πιο γρήγορος τρόπος για να πας στο κέντρο της πόλης;",
+    "hrv": "Koji je najbrži način da se dođe do centra grada?"
   },
   {
     "kor": "런던행 왕복 티켓 한 장 주세요.",
@@ -29,7 +33,11 @@
     "nld": "Een retourtje naar Londen, alstublieft.",
     "swe": "En tur- och returbiljett till London, tack.",
     "dan": "En returbillet til London, tak.",
-    "lux": "En Hin- an Zréckbilljee op London, wgl."
+    "lux": "En Hin- an Zréckbilljee op London, wgl.",
+    "spa": "Un billete de ida y vuelta a Londres, por favor.",
+    "por": "Uma passagem de ida e volta para Londres, por favor.",
+    "ell": "Ένα εισιτήριο με επιστροφή για Λονδίνο, παρακαλώ.",
+    "hrv": "Molim vas povratnu kartu za London."
   },
   {
     "kor": "다음 버스는 10분 후에 도착합니다.",
@@ -45,7 +53,11 @@
     "nld": "De volgende bus arriveert over tien minuten.",
     "swe": "Nästa buss anländer om tio minuter.",
     "dan": "Den næste bus ankommer om ti minutter.",
-    "lux": "Den nächsten Bus kënnt an zéng Minutten."
+    "lux": "Den nächsten Bus kënnt an zéng Minutten.",
+    "spa": "El próximo autobús llega en diez minutos.",
+    "por": "O próximo ônibus chega em dez minutos.",
+    "ell": "Το επόμενο λεωφορείο φτάνει σε δέκα λεπτά.",
+    "hrv": "Sljedeći autobus stiže za deset minuta."
   },
   {
     "kor": "기차역에 가려면 어디서 내려야 하나요?",
@@ -61,7 +73,11 @@
     "nld": "Waar moet ik uitstappen voor het treinstation?",
     "swe": "Var ska jag gå av för tågstationen?",
     "dan": "Hvor skal jeg stå af for at komme til banegården?",
-    "lux": "Wou muss ech fir d'Gare aussteigen?"
+    "lux": "Wou muss ech fir d'Gare aussteigen?",
+    "spa": "¿Dónde debo bajarme para ir a la estación de tren?",
+    "por": "Onde devo descer para ir à estação de trem?",
+    "ell": "Πού πρέπει να κατέβω για τον σιδηροδρομικό σταθμό;",
+    "hrv": "Gdje trebam sići za željezničku stanicu?"
   },
   {
     "kor": "여기서 차를 빌릴 수 있나요?",
@@ -77,7 +93,11 @@
     "nld": "Is het mogelijk om hier een auto te huren?",
     "swe": "Går det att hyra en bil här?",
     "dan": "Er det muligt at leje en bil her?",
-    "lux": "Ass et méiglech, hei en Auto ze lounen?"
+    "lux": "Ass et méiglech, hei en Auto ze lounen?",
+    "spa": "¿Es posible alquilar un coche aquí?",
+    "por": "É possível alugar um carro aqui?",
+    "ell": "Είναι δυνατόν να νοικιάσω αυτοκίνητο εδώ;",
+    "hrv": "Je li moguće iznajmiti automobil ovdje?"
   },
   {
     "kor": "교통 체증 때문에 늦었습니다.",
@@ -93,7 +113,11 @@
     "nld": "Ik ben te laat vanwege de file.",
     "swe": "Jag är sen på grund av trafikstockningen.",
     "dan": "Jeg er forsinket på grund af trafikproppen.",
-    "lux": "Ech sinn ze späte wéinst dem Stau."
+    "lux": "Ech sinn ze späte wéinst dem Stau.",
+    "spa": "Llego tarde debido al atasco.",
+    "por": "Estou atrasado por causa do engarrafamento.",
+    "ell": "Αργώ εξαιτίας της κίνησης.",
+    "hrv": "Kasnim zbog prometne gužve."
   },
   {
     "kor": "박물관까지 가려면 버스를 갈아타야 하나요?",
@@ -109,7 +133,11 @@
     "nld": "Moet ik overstappen op een andere bus om bij het museum te komen?",
     "swe": "Måste jag byta buss för att komma till museet?",
     "dan": "Skal jeg skifte bus for at komme til museet?",
-    "lux": "Muss ech de Bus wiesselen fir an de Musée ze kommen?"
+    "lux": "Muss ech de Bus wiesselen fir an de Musée ze kommen?",
+    "spa": "¿Necesito hacer transbordo de autobús para ir al museo?",
+    "por": "Preciso trocar de ônibus para ir ao museu?",
+    "ell": "Χρειάζεται να αλλάξω λεωφορείο για να πάω στο μουσείο;",
+    "hrv": "Trebam li presjedati na autobus da bih došao do muzeja?"
   },
   {
     "kor": "기차가 정시에 출발하나요?",
@@ -125,7 +153,11 @@
     "nld": "Vertrekt de trein op tijd?",
     "swe": "Avgår tåget i tid?",
     "dan": "Afgår toget til tiden?",
-    "lux": "Fiert den Zuch op Zäit fort?"
+    "lux": "Fiert den Zuch op Zäit fort?",
+    "spa": "¿Sale el tren a tiempo?",
+    "por": "O trem está saindo no horário?",
+    "ell": "Φεύγει το τρένο στην ώρα του;",
+    "hrv": "Kreće li vlak na vrijeme?"
   },
   {
     "kor": "공항까지 택시비가 얼마나 나오나요?",
@@ -141,7 +173,11 @@
     "nld": "Hoeveel kost een taxirit naar het vlieghaven?",
     "swe": "Hur mycket kostar taxiresan till flygplatsen?",
     "dan": "Hvor meget koster en taxitur til lufthavnen?",
-    "lux": "Wéi vill kascht d'Taxifahrt op den Flughafen?"
+    "lux": "Wéi vill kascht d'Taxifahrt op den Flughafen?",
+    "spa": "¿Cuánto cuesta el viaje en taxi al aeropuerto?",
+    "por": "Quanto custa a corrida de táxi para o aeroporto?",
+    "ell": "Πόσο κοστίζει η ταξιδιωτική διαδρομή με ταξί για το αεροδρόμιο;",
+    "hrv": "Koliko košta taksi do zračne luke?"
   },
   {
     "kor": "저는 보통 자전거를 타고 출근합니다.",
@@ -157,7 +193,11 @@
     "nld": "Ik ga meestal met de fiets naar mijn werk.",
     "swe": "Jag brukar cykla till jobbet.",
     "dan": "Jeg cykler normalt på arbejde.",
-    "lux": "Ech fueren normalerweis mat dem Vëlo op d'Schicht."
+    "lux": "Ech fueren normalerweis mat dem Vëlo op d'Schicht.",
+    "spa": "Suelo ir a trabajar en bicicleta.",
+    "por": "Costumo ir trabalhar de bicicleta.",
+    "ell": "Συνήθως πηγαίνω στη δουλειά με ποδήλατο.",
+    "hrv": "Obično idem na posao biciklom."
   },
   {
     "kor": "이 티켓으로 지하철을 탈 수 있나요?",
@@ -173,7 +213,11 @@
     "nld": "Kan ik dit kaartje gebruiken voor de metro?",
     "swe": "Kan jag använda den här biljetten för tunnelbanan?",
     "dan": "Kan jeg bruge denne billett til metroen?",
-    "lux": "Kann ech dëse Billjee fir d'Metro benotzen?"
+    "lux": "Kann ech dëse Billjee fir d'Metro benotzen?",
+    "spa": "¿Puedo usar este billete para el metro?",
+    "por": "Posso usar este bilhete para o metrô?",
+    "ell": "Μπορώ να χρησιμοποιήσω αυτό το εισιτήριο για το μετρό;",
+    "hrv": "Mogu li koristiti ovu kartu za metro?"
   },
   {
     "kor": "가장 가까운 주유소가 어디인가요?",
@@ -189,7 +233,11 @@
     "nld": "Waar is het dichtstbijzijnde benzinestation?",
     "swe": "Var är närmaste mack?",
     "dan": "Hvor er den nærmeste tankstation?",
-    "lux": "Wou ass déi næchst Bensinstatioun?"
+    "lux": "Wou ass déi næchst Bensinstatioun?",
+    "spa": "¿Dónde está la gasolinera más cercana?",
+    "por": "Onde fica o posto de gasolina mais próximo?",
+    "ell": "Πού είναι το πλησιέστερο βενζινάδικο;",
+    "hrv": "Gdje je najbliža benzinska crpka?"
   },
   {
     "kor": "기차 안에서 음식을 먹어도 되나요?",
@@ -205,7 +253,11 @@
     "nld": "Mogen we eten in de trein?",
     "swe": "Får man äta på tåget?",
     "dan": "Må man spise i toget?",
-    "lux": "Derf een am Zuch iessen?"
+    "lux": "Derf een am Zuch iessen?",
+    "spa": "¿Se permite comer en el tren?",
+    "por": "É permitido comer no trem?",
+    "ell": "Επιτρέπεται να τρώμε στο τρένο;",
+    "hrv": "Smijemo li jesti u vlaku?"
   },
   {
     "kor": "막차를 놓쳤습니다.",
@@ -221,7 +273,11 @@
     "nld": "Ik heb de laatste trein gemist.",
     "swe": "Jag missade sista tåget.",
     "dan": "Jeg missede det sidste tog.",
-    "lux": "Ech hunn de leschten Zuch verpasst."
+    "lux": "Ech hunn de leschten Zuch verpasst.",
+    "spa": "He perdido el último tren.",
+    "por": "Perdi o último trem.",
+    "ell": "Έχασα το τελευταίο τρένο.",
+    "hrv": "Propustio sam posljednji vlak."
   },
   {
     "kor": "비행기 체크인 카운터는 어디인가요?",
@@ -237,7 +293,11 @@
     "nld": "Waar is de incheckbalie voor de vlucht?",
     "swe": "Var är incheckningsdisken för flyget?",
     "dan": "Hvor er check-in-skranken til flyet?",
-    "lux": "Wou ass den Check-in-Schalter fir de Fluch?"
+    "lux": "Wou ass den Check-in-Schalter fir de Fluch?",
+    "spa": "¿Dónde está el mostrador de facturación para el vuelo?",
+    "por": "Onde fica o balcão de check-in para o voo?",
+    "ell": "Πού είναι το γκισέ check-in για την πτήση;",
+    "hrv": "Gdje je šalter za prijavu na let?"
   },
   {
     "kor": "어디서 택시를 잡을 수 있나요?",
@@ -253,7 +313,11 @@
     "nld": "Waar kan ik een taxi nemen?",
     "swe": "Var kan jag ta en taxi?",
     "dan": "Hvor kan jeg fange en taxa?",
-    "lux": "Wou kann ech en Taxi huelen?"
+    "lux": "Wou kann ech en Taxi huelen?",
+    "spa": "¿Dónde puedo coger un taxi?",
+    "por": "Onde posso pegar um táxi?",
+    "ell": "Πού μπορώ να πάρω ταξί;",
+    "hrv": "Gdje mogu uhvatiti taksi?"
   },
   {
     "kor": "이 버스는 매 15분마다 운행됩니다.",
@@ -269,7 +333,11 @@
     "nld": "Deze bus rijdt elke vijftien minuten.",
     "swe": "Den här bussen går var femtonde minut.",
     "dan": "Denne bus kører hvert kvarter.",
-    "lux": "Dëse Bus fiert all fofzéng Minutten."
+    "lux": "Dëse Bus fiert all fofzéng Minutten.",
+    "spa": "Este autobús pasa cada quince minutos.",
+    "por": "Este ônibus passa a cada quinze minutos.",
+    "ell": "Αυτό το λεωφορείο περνάει κάθε δεκαπέντε λεπτά.",
+    "hrv": "Ovaj autobus vozi svakih petnaest minuta."
   },
   {
     "kor": "길을 건널 때 조심하세요.",
@@ -285,7 +353,11 @@
     "nld": "Kijk goed uit als je de straat oversteekt.",
     "swe": "Var försiktig när du korsar gatan.",
     "dan": "Pas på, når du krydser vejen.",
-    "lux": "Pas op, wann Dir d'Strooss iwwerquint."
+    "lux": "Pas op, wann Dir d'Strooss iwwerquint.",
+    "spa": "Ten cuidado al cruzar la calle.",
+    "por": "Tome cuidado ao atravessar a rua.",
+    "ell": "Πρόσεχε όταν διασχίζεις τον δρόμο.",
+    "hrv": "Pazi kad prelaziš cestu."
   },
   {
     "kor": "항상 안전벨트를 매야 합니다.",
@@ -301,7 +373,11 @@
     "nld": "Je moet altijd je autogordel dragen.",
     "swe": "Du måste alltid ha bälte på dig.",
     "dan": "Du skal altid have sikkerhedssele på.",
-    "lux": "Dir musst ëmmer Äre Sécherheetsgurt unhues."
+    "lux": "Dir musst ëmmer Äre Sécherheetsgurt unhues.",
+    "spa": "Siempre debes llevar el cinturón de seguridad.",
+    "por": "Você deve sempre usar o cinto de segurança.",
+    "ell": "Πρέπει πάντα να φοράς τη ζώνη ασφαλείας σου.",
+    "hrv": "Uvijek moraš vezati sigurnosni pojas."
   },
   {
     "kor": "기차가 사고 때문에 지연되었습니다.",
@@ -317,7 +393,11 @@
     "nld": "De trein heeft vertraging door een ongeval.",
     "swe": "Tåget är försenat på grund av en olycka.",
     "dan": "Toget er forsinket på grund af en ulykke.",
-    "lux": "Den Zuch huet Retard wéinst engem Accident."
+    "lux": "Den Zuch huet Retard wéinst engem Accident.",
+    "spa": "El tren se retrasó debido a un accidente.",
+    "por": "O trem está atrasado devido a um acidente.",
+    "ell": "Το τρένο καθυστέρησε λόγω ενός ατυχήματος.",
+    "hrv": "Vlak kasni zbog nesreće."
   },
   {
     "kor": "이 근처에 주차할 곳이 있나요?",
@@ -333,7 +413,11 @@
     "nld": "Is er hier in de buurt een parkeerplaats?",
     "swe": "Finns det någon parkering här i närheten?",
     "dan": "Er der et sted at parkere i nærheden?",
-    "lux": "Gëtt et hei an der Neetecht eng Parkméiglechkeet?"
+    "lux": "Gëtt et hei an der Neetecht eng Parkméiglechkeet?",
+    "spa": "¿Hay algún lugar para aparcar por aquí cerca?",
+    "por": "Tem algum lugar para estacionar por aqui perto?",
+    "ell": "Υπάρχει κάποιο μέρος για πάρκινγκ εδώ κοντά;",
+    "hrv": "Ima li ovdje u blizini mjesta za parkiranje?"
   },
   {
     "kor": "여기는 일방통행 도로입니다.",
@@ -349,7 +433,11 @@
     "nld": "Dit is een eenrichtingsweg.",
     "swe": "Det här är en enkelriktad gata.",
     "dan": "Dette er en ensrettet gade.",
-    "lux": "Dëst ass eng Eeërrichtungstrooss."
+    "lux": "Dëst ass eng Eeërrichtungstrooss.",
+    "spa": "Esta es una calle de dirección única.",
+    "por": "Esta é uma rua de mão única.",
+    "ell": "Αutos είναι δρόμος μονής κατεύθυνσης.",
+    "hrv": "Ovo je jednosmjerna ulica."
   },
   {
     "kor": "오이스터 카드(교통카드)를 충전해야 합니다.",
@@ -365,7 +453,11 @@
     "nld": "Ik moet mijn OV-chipkaart opwaarderen.",
     "swe": "Jag måste ladda mitt resekort.",
     "dan": "Jeg skal tanke mit rejsekort op.",
-    "lux": "Ech muss meng Fahrkaart oplueden."
+    "lux": "Ech muss meng Fahrkaart oplueden.",
+    "spa": "Necesito recargar mi tarjeta de transporte.",
+    "por": "Preciso recarregar meu cartão de transporte.",
+    "ell": "Πρέπει να φορτίσω την κάρτα μεταφορών μου.",
+    "hrv": "Moram nadopuniti svoju putnu kartu."
   },
   {
     "kor": "버스 정류장에서 사람들이 줄을 서 있습니다.",
@@ -381,7 +473,11 @@
     "nld": "Mensen staan in de rij bij de bushalte.",
     "swe": "Folk står i kö vid busshållplatsen.",
     "dan": "Folk står i kø ved busstoppestedet.",
-    "lux": "D'Leit stinn an der Rei un der Bushalt."
+    "lux": "D'Leit stinn an der Rei un der Bushalt.",
+    "spa": "La gente está haciendo cola en la parada de autobús.",
+    "por": "As pessoas estão fazendo fila no ponto de ônibus.",
+    "ell": "Ο κόσμος περιμένει στην ουρά στη στάση λεωφορείου.",
+    "hrv": "Ljudi čekaju u redu na autobusnoj stanici."
   },
   {
     "kor": "목적지까지 얼마나 걸리나요?",
@@ -397,6 +493,10 @@
     "nld": "Hoe lang duurt het om de bestemming te bereiken?",
     "swe": "Hur lång tid tar det att nå destinationen?",
     "dan": "Hvor lang tid tager det at nå destinationen?",
-    "lux": "Wéi lang dauert et bis op d'Destinatioun?"
+    "lux": "Wéi lang dauert et bis op d'Destinatioun?",
+    "spa": "¿Cuánto tiempo se tarda en llegar al destino?",
+    "por": "Quanto tempo leva para chegar ao destino?",
+    "ell": "Πόσος χρόνος χρειάζεται για να φτάσεις στον προορισμό;",
+    "hrv": "Koliko je vremena potrebno da se stigne do odredišta?"
   }
 ]

@@ -13,7 +13,11 @@
     "nld": "Ik woon in een appartement.",
     "swe": "Jag bor i en lägenhet.",
     "dan": "Jeg bor i en lejlighed.",
-    "lux": "Ech wunnen an engem Appartement."
+    "lux": "Ech wunnen an engem Appartement.",
+    "spa": "Vivo en un piso.",
+    "por": "Moro num apartamento.",
+    "ell": "Ζω σε ένα διαμέρισμα.",
+    "hrv": "Živim u stanu."
   },
   {
     "kor": "제 집은 작지만 편안합니다.",
@@ -29,7 +33,11 @@
     "nld": "Mijn huis is klein maar comfortabel.",
     "swe": "Mitt hem är litet men bekvämt.",
     "dan": "Mit hjem er lille, men behageligt.",
-    "lux": "Mäi Haus ass kleng, awer gemittlech."
+    "lux": "Mäi Haus ass kleng, awer gemittlech.",
+    "spa": "Mi casa es pequeña pero cómoda.",
+    "por": "A minha casa é pequena mas confortável.",
+    "ell": "Το σπίτι μου είναι μικρό αλλά άνετο.",
+    "hrv": "Moja kuća je mala, ali udobna."
   },
   {
     "kor": "우리 집에는 방이 세 개 있습니다.",
@@ -45,7 +53,11 @@
     "nld": "Er zijn drie kamers in mijn huis.",
     "swe": "Det finns tre rum i mitt hem.",
     "dan": "Der er tre rum i mit hjem.",
-    "lux": "Et gi dräi Zëmmer an mengem Haus."
+    "lux": "Et gi dräi Zëmmer an mengem Haus.",
+    "spa": "Hay tres habitaciones en mi casa.",
+    "por": "Há três divisões na minha casa.",
+    "ell": "Υπάρχουν τρία δωμάτια στο σπίτι μου.",
+    "hrv": "U mojoj kući su tri sobe."
   },
   {
     "kor": "이곳은 거실입니다.",
@@ -61,7 +73,11 @@
     "nld": "Dit is de woonkamer.",
     "swe": "Det här är vardagsrummet.",
     "dan": "Dette er stuen.",
-    "lux": "Dat ass d'Wunnzëmmer."
+    "lux": "Dat ass d'Wunnzëmmer.",
+    "spa": "Esta es la sala de estar.",
+    "por": "Esta é a sala de estar.",
+    "ell": "Αυτό είναι το σαλόνι.",
+    "hrv": "Ovo je dnevna soba."
   },
   {
     "kor": "부엌은 어디에 있나요?",
@@ -77,7 +93,11 @@
     "nld": "Waar is de keuken?",
     "swe": "Var är köket?",
     "dan": "Hvor er køkkenet?",
-    "lux": "Wou ass d'Kichen?"
+    "lux": "Wou ass d'Kichen?",
+    "spa": "¿Dónde está la cocina?",
+    "por": "Onde fica a cozinha?",
+    "ell": "Πού είναι η κουζίνα;",
+    "hrv": "Gdje je kuhinja?"
   },
   {
     "kor": "침실은 위층에 있습니다.",
@@ -93,7 +113,11 @@
     "nld": "De slaapkamer is boven.",
     "swe": "Sovrummet ligger en trappa upp.",
     "dan": "Soveværelset er ovenpå.",
-    "lux": "D'Schlofzëmmer ass uewen."
+    "lux": "D'Schlofzëmmer ass uewen.",
+    "spa": "El dormitorio está arriba.",
+    "por": "O quarto fica no andar de cima.",
+    "ell": "Το υπνοδωμάτιο είναι επάνω.",
+    "hrv": "Spavaća soba je na katu."
   },
   {
     "kor": "화장실은 깨끗합니다.",
@@ -109,7 +133,11 @@
     "nld": "De badkamer is schoon.",
     "swe": "Badrummet är rent.",
     "dan": "Badeværelset er rent.",
-    "lux": "D'Buedzëmmer ass propper."
+    "lux": "D'Buedzëmmer ass propper.",
+    "spa": "El baño está limpio.",
+    "por": "A casa de banho está limpa.",
+    "ell": "Το μπάνιο είναι καθαρό.",
+    "hrv": "Kupaonica je čista."
   },
   {
     "kor": "거실에 소파가 있습니다.",
@@ -125,7 +153,11 @@
     "nld": "Er staat een bank in de woonkamer.",
     "swe": "Det finns en soffa i vardagsrummet.",
     "dan": "Der er en sofa i stuen.",
-    "lux": "Et steet en Canapé an der Wunnzëmmer."
+    "lux": "Et steet en Canapé an der Wunnzëmmer.",
+    "spa": "Hay un sofá en la sala de estar.",
+    "por": "Há um sofá na sala de estar.",
+    "ell": "Υπάρχει ένας καναπές στο σαλόνι.",
+    "hrv": "U dnevnoj sobi je kauč."
   },
   {
     "kor": "침대 위에 베개가 있습니다.",
@@ -141,7 +173,11 @@
     "nld": "Er ligt een kussen op het bed.",
     "swe": "Det ligger en kudde på sängen.",
     "dan": "Der ligger en pude på sengen.",
-    "lux": "Et läit e Këssen um Bett."
+    "lux": "Et läit e Këssen um Bett.",
+    "spa": "Hay una almohada en la cama.",
+    "por": "Há uma almofada na cama.",
+    "ell": "Υπάρχει ένα μαξιλάρι στο κρεβάτι.",
+    "hrv": "Na krevetu je jastuk."
   },
   {
     "kor": "저는 제 방에 책상이 있습니다.",
@@ -157,7 +193,11 @@
     "nld": "Ik heb een bureau in mijn kamer.",
     "swe": "Jag har ett skrivbord i mitt rum.",
     "dan": "Jeg har et skrivebord på mit værelse.",
-    "lux": "Ech hunn en Schreifdësch a mengem Zëmmer."
+    "lux": "Ech hunn en Schreifdësch a mengem Zëmmer.",
+    "spa": "Tengo un escritorio en mi habitación.",
+    "por": "Tenho uma secretária no meu quarto.",
+    "ell": "Έχω ένα γραφείο στο δωμάτιό μου.",
+    "hrv": "Imam pisaći stol u svojoj sobi."
   },
   {
     "kor": "벽에 시계가 걸려 있습니다.",
@@ -173,7 +213,11 @@
     "nld": "Er hangt een klok aan de muur.",
     "swe": "Det hänger en klocka på väggen.",
     "dan": "Der hænger et ur på væggen.",
-    "lux": "Et hänkt eng Auer un der Mauer."
+    "lux": "Et hänkt eng Auer un der Mauer.",
+    "spa": "Hay un reloj en la pared.",
+    "por": "Há um relógio na parede.",
+    "ell": "Υπάρχει ένα ρολόι στον τοίχο.",
+    "hrv": "Na zidu je sat."
   },
   {
     "kor": "창문을 열어 주세요.",
@@ -189,7 +233,11 @@
     "nld": "Open het raam, alsjeblieft.",
     "swe": "Vänligen öppna fönstret.",
     "dan": "Åbn venligst vinduet.",
-    "lux": "Maach d'Fënster op, wann ech gelift."
+    "lux": "Maach d'Fënster op, wann ech gelift.",
+    "spa": "Por favor, abre la ventana.",
+    "por": "Por favor, abre a janela.",
+    "ell": "Παρακαλώ άνοιξε το παράθυρο.",
+    "hrv": "Molim te, otvori prozor."
   },
   {
     "kor": "문을 닫아 주세요.",
@@ -205,7 +253,11 @@
     "nld": "Sluit de deur, alsjeblieft.",
     "swe": "Stäng dörren, tack.",
     "dan": "Luk venligst døren.",
-    "lux": "Maach d'Dier zou, wann ech gelift."
+    "lux": "Maach d'Dier zou, wann ech gelift.",
+    "spa": "Por favor, cierra la puerta.",
+    "por": "Por favor, fecha a porta.",
+    "ell": "Παρακαλώ κλείσε την πόρτα.",
+    "hrv": "Molim te, zatvori vrata."
   },
   {
     "kor": "텔레비전이 켜져 있습니다.",
@@ -221,7 +273,11 @@
     "nld": "De televisie staat aan.",
     "swe": "Tv:n är på.",
     "dan": "Fjernsynet er tændt.",
-    "lux": "Den Tëlee ass un."
+    "lux": "Den Tëlee ass un.",
+    "spa": "La televisión está encendida.",
+    "por": "A televisão está ligada.",
+    "ell": "Η τηλεόραση είναι αναμμένη.",
+    "hrv": "Televizor je uključen."
   },
   {
     "kor": "부엌에 냉장고가 있습니다.",
@@ -237,7 +293,11 @@
     "nld": "Er staat een koelkast in de keuken.",
     "swe": "Det finns ett kylskåp i köket.",
     "dan": "Der er et køleskab i køkkenet.",
-    "lux": "Et steet e Frigo an der Kichen."
+    "lux": "Et steet e Frigo an der Kichen.",
+    "spa": "Hay una nevera en la cocina.",
+    "por": "Há um frigorífico na cozinha.",
+    "ell": "Υπάρχει ένα ψυγείο στην κουζίνα.",
+    "hrv": "U kuhinji je hladnjak."
   },
   {
     "kor": "우리 집에는 작은 정원이 있습니다.",
@@ -253,7 +313,11 @@
     "nld": "Mijn huis heeft een kleine tuin.",
     "swe": "Mitt hus har en liten trädgård.",
     "dan": "Mit hus har en lille have.",
-    "lux": "Mäi Haus huet e klenge Gaart."
+    "lux": "Mäi Haus huet e klenge Gaart.",
+    "spa": "Mi casa tiene un pequeño jardín.",
+    "por": "A minha casa tem um pequeno jardim.",
+    "ell": "Το σπίτι μου έχει έναν μικρό κήπο.",
+    "hrv": "Moja kuća ima mali vrt."
   },
   {
     "kor": "저는 가족과 함께 삽니다.",
@@ -269,7 +333,11 @@
     "nld": "Ik woon samen met mijn familie.",
     "swe": "Jag bor med min familj.",
     "dan": "Jeg bor sammen med min familie.",
-    "lux": "Ech wunnen zesumme mat menger Famill."
+    "lux": "Ech wunnen zesumme mat menger Famill.",
+    "spa": "Vivo con mi familia.",
+    "por": "Moro com a minha família.",
+    "ell": "Ζω με την οικογένειά μου.",
+    "hrv": "Živim s obitelji."
   },
   {
     "kor": "열쇠를 찾을 수 없습니다.",
@@ -285,7 +353,11 @@
     "nld": "Ik kan de sleutels niet vinden.",
     "swe": "Jag kan inte hitta nycklarna.",
     "dan": "Jeg kan ikke finde nøglerne.",
-    "lux": "Ech fannen d'Schlësselen net."
+    "lux": "Ech fannen d'Schlësselen net.",
+    "spa": "No puedo encontrar las llaves.",
+    "por": "Não consigo encontrar as chaves.",
+    "ell": "Δεν μπορώ να βρω τα κλειδιά.",
+    "hrv": "Ne mogu pronaći ključeve."
   },
   {
     "kor": "탁자 위에 책이 있습니다.",
@@ -301,7 +373,11 @@
     "nld": "Er ligt een boek op de tafel.",
     "swe": "Det ligger en bok på bordet.",
     "dan": "Der ligger en bog på bordet.",
-    "lux": "Et läit e Buch um Dësch."
+    "lux": "Et läit e Buch um Dësch.",
+    "spa": "Hay un libro sobre la mesa.",
+    "por": "Há um livro sobre a mesa.",
+    "ell": "Υπάρχει ένα βιβλίο στο τραπέζι.",
+    "hrv": "Na stolu je knjiga."
   },
   {
     "kor": "저는 매일 방을 청소합니다.",
@@ -317,7 +393,11 @@
     "nld": "Ik maak elke dag mijn kamer schoon.",
     "swe": "Jag städar mitt rum varje dag.",
     "dan": "Jeg gør mit værelse rent hver dag.",
-    "lux": "Ech botzen all Dag mäi Zëmmer."
+    "lux": "Ech botzen all Dag mäi Zëmmer.",
+    "spa": "Limpio mi habitación todos los días.",
+    "por": "Limpo o meu quarto todos os dias.",
+    "ell": "Καθαρίζω το δωμάτιό μου κάθε μέρα.",
+    "hrv": "Čistim svoju sobu svaki dan."
   },
   {
     "kor": "전등을 꺼 주세요.",
@@ -333,7 +413,11 @@
     "nld": "Doe het licht uit, alsjeblieft.",
     "swe": "Släck ljuset, tack.",
     "dan": "Sluk venligst lyset.",
-    "lux": "Maach d'Luucht aus, wann ech gelift."
+    "lux": "Maach d'Luucht aus, wann ech gelift.",
+    "spa": "Por favor, apaga la luz.",
+    "por": "Por favor, apaga a luz.",
+    "ell": "Παρακαλώ σβήσε το φως.",
+    "hrv": "Molim te, ugasi svjetlo."
   },
   {
     "kor": "바닥에 카페트가 있습니다.",
@@ -349,7 +433,11 @@
     "nld": "Er ligt een tapijt op de vloer.",
     "swe": "Det ligger en matta på golvet.",
     "dan": "Der ligger et tæppe på gulvet.",
-    "lux": "Et läit en Teppech um Buedem."
+    "lux": "Et läit en Teppech um Buedem.",
+    "spa": "Hay una alfombra en el suelo.",
+    "por": "Há um tapete no chão.",
+    "ell": "Υπάρχει ένα χαλί στο πάτωμα.",
+    "hrv": "Na podu je tepih."
   },
   {
     "kor": "옷장 안에 옷이 많습니다.",
@@ -365,7 +453,11 @@
     "nld": "Er hangen veel kleren in de kledingkast.",
     "swe": "Det finns många kläder i garderoben.",
     "dan": "Der er mange klæder i garderoben.",
-    "lux": "Et hänken vill Kleeder am Kleederschaf."
+    "lux": "Et hänken vill Kleeder am Kleederschaf.",
+    "spa": "Hay mucha ropa en el armario.",
+    "por": "Há muita roupa no roupeiro.",
+    "ell": "Υπάρχουν πολλά ρούχα στη ντουλάπα.",
+    "hrv": "U ormaru ima puno odjeće."
   },
   {
     "kor": "거울 앞에 서 있습니다.",
@@ -381,7 +473,11 @@
     "nld": "Ik sta voor de spiegel.",
     "swe": "Jag står framför spegeln.",
     "dan": "Jeg står foran spejlet.",
-    "lux": "Ech stinn viru spigel."
+    "lux": "Ech stinn viru spigel.",
+    "spa": "Estoy de pie frente al espejo.",
+    "por": "Estou de pé em frente ao espelho.",
+    "ell": "Στέκομαι μπροστά στον καθρέφτη.",
+    "hrv": "Stojim ispred ogledala."
   },
   {
     "kor": "우리 집은 학교 근처에 있습니다.",
@@ -397,6 +493,10 @@
     "nld": "Mijn huis is in de buurt van de school.",
     "swe": "Mitt hus ligger nära skolan.",
     "dan": "Mit hus ligger tæt på skolen.",
-    "lux": "Mäi Haus ass an der Noperschaft vun der Schoul."
+    "lux": "Mäi Haus ass an der Noperschaft vun der Schoul.",
+    "spa": "Mi casa está cerca de la escuela.",
+    "por": "A minha casa fica perto da escola.",
+    "ell": "Το σπίτι μου είναι κοντά στο σχολείο.",
+    "hrv": "Moja kuća je blizu škole."
   }
 ]

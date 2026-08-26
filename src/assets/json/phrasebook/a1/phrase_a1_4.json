@@ -13,7 +13,11 @@
     "nld": "Hoe laat is het nu?",
     "swe": "Vad är klockan nu?",
     "dan": "Hvad er klokken nu?",
-    "lux": "Wéi vill Auer ass et elo?"
+    "lux": "Wéi vill Auer ass et elo?",
+    "spa": "¿Qué hora es ahora?",
+    "por": "Que horas são agora?",
+    "ell": "Τι ώρα είναι τώρα;",
+    "hrv": "Koliko je sati sada?"
   },
   {
     "kor": "현재 시각은 오후 3시입니다.",
@@ -29,7 +33,11 @@
     "nld": "Het is drie uur 's middags.",
     "swe": "Klockan är tre på eftermiddagen.",
     "dan": "Klokken er tre om eftermiddagen.",
-    "lux": "Et ass dräi Auer noëttes."
+    "lux": "Et ass dräi Auer noëttes.",
+    "spa": "Son las tres de la tarde.",
+    "por": "São três horas da tarde.",
+    "ell": "Είναι τρεις το μεσημέρι.",
+    "hrv": "Sada je tri sata popodne."
   },
   {
     "kor": "8시 30분입니다.",
@@ -45,7 +53,11 @@
     "nld": "Het is half negen.",
     "swe": "Klockan är halv nio.",
     "dan": "Klokken er halv ni.",
-    "lux": "Et ass halwer néng."
+    "lux": "Et ass halwer néng.",
+    "spa": "Son las ocho y media.",
+    "por": "São oito e meia.",
+    "ell": "Είναι οκτώ και μισή.",
+    "hrv": "Pola je devet."
   },
   {
     "kor": "10시 15분 전입니다.",
@@ -61,7 +73,11 @@
     "nld": "Het is kwart voor tien.",
     "swe": "Klockan är kvart i tio.",
     "dan": "Klokken er et kvarter i ti.",
-    "lux": "Et ass e Véirel vir zéng."
+    "lux": "Et ass e Véirel vir zéng.",
+    "spa": "Faltan quince para las diez.",
+    "por": "São dez para as dez (faltam quinze para as dez).",
+    "ell": "Είναι δέκα παρά τέταρto.",
+    "hrv": "Petnaest do deset je."
   },
   {
     "kor": "오늘은 무슨 요일인가요?",
@@ -77,7 +93,11 @@
     "nld": "Welke dag is het vandaag?",
     "swe": "Vilken dag är det idag?",
     "dan": "Hvilken dag er det i dag?",
-    "lux": "Wéi een Dag ass haut?"
+    "lux": "Wéi een Dag ass haut?",
+    "spa": "¿Qué día es hoy?",
+    "por": "Que dia é hoje?",
+    "ell": "Τι μέρα είναι σήμερα;",
+    "hrv": "Koji je danas dan?"
   },
   {
     "kor": "오늘은 월요일입니다.",
@@ -93,7 +113,11 @@
     "nld": "Vandaag is het maandag.",
     "swe": "Idag är det måndag.",
     "dan": "I dag er det mandag.",
-    "lux": "Haut ass Méindeg."
+    "lux": "Haut ass Méindeg.",
+    "spa": "Hoy es lunes.",
+    "por": "Hoje é segunda-feira.",
+    "ell": "Σήμερα είναι Δευτέρα.",
+    "hrv": "Danas je ponedjeljak."
   },
   {
     "kor": "내일은 5월 1일입니다.",
@@ -109,7 +133,11 @@
     "nld": "Morgen is het één mei.",
     "swe": "Imorgon är det första maj.",
     "dan": "I morgen er det første maj.",
-    "lux": "Muer ass den éischte Mee."
+    "lux": "Muer ass den éischte Mee.",
+    "spa": "Mañana es primero de mayo.",
+    "por": "Amanhã é primeiro de maio.",
+    "ell": "Αύριο είναι η πρώτη Μαΐου.",
+    "hrv": "Sutra je prvi svibnja."
   },
   {
     "kor": "제 생일은 10월입니다.",
@@ -125,7 +153,11 @@
     "nld": "Mijn verjaardag is in oktober.",
     "swe": "Min födelsedag är i oktober.",
     "dan": "Min fødselsdag er i oktober.",
-    "lux": "Mäi Gebuertsdag ass am Oktober."
+    "lux": "Mäi Gebuertsdag ass am Oktober.",
+    "spa": "Mi cumpleaños es en octubre.",
+    "por": "O meu aniversário é em outubro.",
+    "ell": "Τα γενέθλιά μου είναι τον Οκτώβριο.",
+    "hrv": "Moj rođendan je u listopadu."
   },
   {
     "kor": "저는 아침 7시에 일어납니다.",
@@ -141,7 +173,11 @@
     "nld": "Ik sta om zeven uur op.",
     "swe": "Jag går upp klockan sju.",
     "dan": "Jeg står op klokken syv.",
-    "lux": "Ech stinn um siwen Auer op."
+    "lux": "Ech stinn um siwen Auer op.",
+    "spa": "Me levanto a las siete de la mañana.",
+    "por": "Levanto-me às sete horas da manhã.",
+    "ell": "Ξυπνάω στις επτά το πρωί.",
+    "hrv": "Ustajem u sedam sati ujutro."
   },
   {
     "kor": "수업은 언제 시작하나요?",
@@ -157,7 +193,11 @@
     "nld": "Wanneer begint de les?",
     "swe": "När börjar lektionen?",
     "dan": "Hvornår starter timen?",
-    "lux": "Wéini fänkt de Cours un?"
+    "lux": "Wéini fänkt de Cours un?",
+    "spa": "¿A qué hora empieza la clase?",
+    "por": "A que horas começa a aula?",
+    "ell": "Πότε ξεκινάει το μάθημα;",
+    "hrv": "Kada počinje lekcija?"
   },
   {
     "kor": "이것은 얼마인가요?",
@@ -173,7 +213,11 @@
     "nld": "Hoeveel kost dit?",
     "swe": "Hur mycket kostar det här?",
     "dan": "Hvor meget koster dette?",
-    "lux": "Wéi vill kascht dat?"
+    "lux": "Wéi vill kascht dat?",
+    "spa": "¿Cuánto cuesta esto?",
+    "por": "Quanto custa isto?",
+    "ell": "Πόσο κάνει αυτό;",
+    "hrv": "Koliko ovo košta?"
   },
   {
     "kor": "그것은 20파운드입니다.",
@@ -189,7 +233,11 @@
     "nld": "Het is twintig pond.",
     "swe": "Det kostar tjugo pund.",
     "dan": "Det koster tyve pund.",
-    "lux": "Dat kascht zwanzeg Pond."
+    "lux": "Dat kascht zwanzeg Pond.",
+    "spa": "Cuesta veinte libras.",
+    "por": "Custa vinte libras.",
+    "ell": "Κοστίζει είκοσι λίρες.",
+    "hrv": "To je dvadeset funti."
   },
   {
     "kor": "전화번호가 무엇인가요?",
@@ -205,7 +253,11 @@
     "nld": "Wat is je telefoonnummer?",
     "swe": "Vad är ditt telefonnummer?",
     "dan": "Hvad er dit telefonnummer?",
-    "lux": "Wat ass deng Telefonsnummer?"
+    "lux": "Wat ass deng Telefonsnummer?",
+    "spa": "¿Cuál es tu número de teléfono?",
+    "por": "Qual é o teu número de telefone?",
+    "ell": "Πιος είναι ο αριθμός του τηλεφώνου σου;",
+    "hrv": "Koji je tvoj broj telefona?"
   },
   {
     "kor": "저는 100까지 셀 수 있습니다.",
@@ -221,7 +273,11 @@
     "nld": "Ik kan tot honderd tellen.",
     "swe": "Jag kan räkna till hundra.",
     "dan": "Jeg kan tælle til hundrede.",
-    "lux": "Ech kann bis honnert zielen."
+    "lux": "Ech kann bis honnert zielen.",
+    "spa": "Puedo contar hasta cien.",
+    "por": "Consigo contar até cem.",
+    "ell": "Μπορώ να μετρήσω έως εκατό.",
+    "hrv": "Mogu nabrojati do sto."
   },
   {
     "kor": "사과 다섯 개 주세요.",
@@ -237,7 +293,11 @@
     "nld": "Vijf appels, alstublieft.",
     "swe": "Fem äpplen, tack.",
     "dan": "Fem æbler, tak.",
-    "lux": "Fënnef Äppel, wann ech gelift."
+    "lux": "Fënnef Äppel, wann ech gelift.",
+    "spa": "Cinco manzanas, por favor.",
+    "por": "Cinco maçãs, por favor.",
+    "ell": "Πέντε μήλα, παρακαλώ.",
+    "hrv": "Molim vas pet jabuka."
   },
   {
     "kor": "10분 기다려 주세요.",
@@ -253,7 +313,11 @@
     "nld": "Wacht tien minuten, alstublieft.",
     "swe": "Vänta tio minuter, tack.",
     "dan": "Vent ti minutter, tak.",
-    "lux": "Waart w.e.g. zéng Minutten."
+    "lux": "Waart w.e.g. zéng Minutten.",
+    "spa": "Por favor, espera diez minutos.",
+    "por": "Por favor, espera dez minutos.",
+    "ell": "Παρακαλώ περίμενε δέκα λεπτά.",
+    "hrv": "Molim te pričekaj deset minuta."
   },
   {
     "kor": "일주일은 7일입니다.",
@@ -269,7 +333,11 @@
     "nld": "Een week heeft zeven dagen.",
     "swe": "En vecka har sju dagar.",
     "dan": "En uge har syv dage.",
-    "lux": "Eng Woch huet siwe Deeg."
+    "lux": "Eng Woch huet siwe Deeg.",
+    "spa": "Una semana tiene siete días.",
+    "por": "Uma semana tem sete dias.",
+    "ell": "Μια εβδομάδα έχει επτά ημέρες.",
+    "hrv": "Tjedan ima sedam dana."
   },
   {
     "kor": "지금은 정오입니다.",
@@ -285,7 +353,11 @@
     "nld": "Het is nu middag.",
     "swe": "Det är middag nu.",
     "dan": "Det er middag nu.",
-    "lux": "Et ass elo Mëtteg."
+    "lux": "Et ass elo Mëtteg.",
+    "spa": "Ahora es mediodía.",
+    "por": "Agora é meio-dia.",
+    "ell": "Τώρα είναι μεσημέρι.",
+    "hrv": "Sada je podne."
   },
   {
     "kor": "한 시간 후에 만나요.",
@@ -301,7 +373,11 @@
     "nld": "Tot over een uur.",
     "swe": "Vi ses om en timme.",
     "dan": "Vi ses om en time.",
-    "lux": "Bis an enger Stonn."
+    "lux": "Bis an enger Stonn.",
+    "spa": "Nos vemos en una hora.",
+    "por": "Vemo-nos daqui a uma hora.",
+    "ell": "Τα λέμε σε μία ώρα.",
+    "hrv": "Vidimo se za sat vremena."
   },
   {
     "kor": "저는 매일 8시간씩 잡니다.",
@@ -317,7 +393,11 @@
     "nld": "Ik slaap elke dag acht uur.",
     "swe": "Jag sover åtta timmar varje dag.",
     "dan": "Jeg sover otte timer hver dag.",
-    "lux": "Ech schloen all Dag aacht Stonnen."
+    "lux": "Ech schloen all Dag aacht Stonnen.",
+    "spa": "Duermo ocho horas todos los días.",
+    "por": "Durmo oito horas todos os dias.",
+    "ell": "Κοιμάμαι οκτώ ώρες κάθε μέρα.",
+    "hrv": "Spavam osam sati svaki dan."
   },
   {
     "kor": "그는 30살입니다.",
@@ -333,7 +413,11 @@
     "nld": "Hij is dertig jaar oud.",
     "swe": "Han är trettio år gammal.",
     "dan": "Han er tredive år gammel.",
-    "lux": "Hien ass drësseg Joer al."
+    "lux": "Hien ass drësseg Joer al.",
+    "spa": "Él tiene treinta años.",
+    "por": "Ele tem trinta anos.",
+    "ell": "Είναι τριάντα χρονών.",
+    "hrv": "On ima trideset godina."
   },
   {
     "kor": "박물관은 9시에 엽니다.",
@@ -349,7 +433,11 @@
     "nld": "Het museum opent om negen uur.",
     "swe": "Museet öppnar klockan nio.",
     "dan": "Museet åbner klokken ni.",
-    "lux": "De Musée mécht um néng Auer op."
+    "lux": "De Musée mécht um néng Auer op.",
+    "spa": "El museo abre a las nueve.",
+    "por": "O museu abre às nove.",
+    "ell": "Το μουσείο ανοίγει στις εννέα.",
+    "hrv": "Muzej se otvara u devet."
   },
   {
     "kor": "버스는 15분마다 옵니다.",
@@ -365,7 +453,11 @@
     "nld": "De bus komt elke vijftien minuten.",
     "swe": "Bussen kommer var femtonde minut.",
     "dan": "Bussen kommer hvert femtende minut.",
-    "lux": "De Bus kënnt all fofzéng Minutten."
+    "lux": "De Bus kënnt all fofzéng Minutten.",
+    "spa": "El autobús pasa cada quince minutos.",
+    "por": "O autocarro passa a cada quinze minutos.",
+    "ell": "Το λεωφορείο έρχεται κάθε δεκαπέντε λεπτά.",
+    "hrv": "Autobus dolazi svakih petnaest minuta."
   },
   {
     "kor": "오늘은 2024년 6월 10일입니다.",
@@ -381,7 +473,11 @@
     "nld": "Vandaag is het 10 juni 2024.",
     "swe": "Idag är det 10 juni 2024.",
     "dan": "I dag er det 10. juni 2024.",
-    "lux": "Haut ass den 10. Juni 2024."
+    "lux": "Haut ass den 10. Juni 2024.",
+    "spa": "Hoy es 10 de junio de 2024.",
+    "por": "Hoje é 10 de junho de 2024.",
+    "ell": "Σήμερα είναι 10 Ιουνίου 2024.",
+    "hrv": "Danas je 10. lipnja 2024."
   },
   {
     "kor": "시간이 거의 다 됐어요.",
@@ -397,6 +493,10 @@
     "nld": "De tijd is bijna om.",
     "swe": "Tiden är nästan ute.",
     "dan": "Tiden er næsten gået.",
-    "lux": "D'Zäit ass bal ëm."
+    "lux": "D'Zäit ass bal ëm.",
+    "spa": "El tiempo casi se ha acabado.",
+    "por": "O tempo está quase a esgotar-se.",
+    "ell": "Ο χρόνος έχει σχεδόν τελειώσει.",
+    "hrv": "Vrijeme je gotovo isteklo."
   }
 ]

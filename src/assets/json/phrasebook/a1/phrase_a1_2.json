@@ -13,7 +13,11 @@
     "nld": "Goedemorgen.",
     "swe": "God morgon.",
     "dan": "Godmorgen.",
-    "lux": "Gudde Moien."
+    "lux": "Gudde Moien.",
+    "spa": "Buenos días.",
+    "por": "Bom dia.",
+    "ell": "Καλημέρα.",
+    "hrv": "Dobro jutro."
   },
   {
     "kor": "안녕히 가세요.",
@@ -29,7 +33,11 @@
     "nld": "Tot ziens.",
     "swe": "Hejdå.",
     "dan": "Farvel.",
-    "lux": "Äddi."
+    "lux": "Äddi.",
+    "spa": "Adiós.",
+    "por": "Adeus.",
+    "ell": "Γεια σας.",
+    "hrv": "Doviđenja."
   },
   {
     "kor": "감사합니다.",
@@ -45,7 +53,11 @@
     "nld": "Dank u wel.",
     "swe": "Tack så mycket.",
     "dan": "Mange tak.",
-    "lux": "Merci villmools."
+    "lux": "Merci villmools.",
+    "spa": "Gracias.",
+    "por": "Obrigado.",
+    "ell": "Ευχαριστώ.",
+    "hrv": "Hvala."
   },
   {
     "kor": "대단히 감사합니다.",
@@ -61,7 +73,11 @@
     "nld": "Hartelijk dank.",
     "swe": "Tack så hemskt mycket.",
     "dan": "Tusind tak.",
-    "lux": "Villmools Merci."
+    "lux": "Villmools Merci.",
+    "spa": "Muchas gracias.",
+    "por": "Muito obrigado.",
+    "ell": "Ευχαριστώ πολύ.",
+    "hrv": "Puno hvala."
   },
   {
     "kor": "천만에요.",
@@ -77,7 +93,11 @@
     "nld": "Graag gedaan.",
     "swe": "Varsågod.",
     "dan": "Selv tak.",
-    "lux": "Gäre geschitt."
+    "lux": "Gäre geschitt.",
+    "spa": "De nada.",
+    "por": "De nada.",
+    "ell": "Παρακαλώ.",
+    "hrv": "Nema na čemu."
   },
   {
     "kor": "실례합니다.",
@@ -93,7 +113,11 @@
     "nld": "Neem me niet kwalijk.",
     "swe": "Ursäkta mig.",
     "dan": "Undskyld mig.",
-    "lux": "Entschëllegt."
+    "lux": "Entschëllegt.",
+    "spa": "Disculpa.",
+    "por": "Com licença.",
+    "ell": "Με συγχωρείτε.",
+    "hrv": "Oprosti."
   },
   {
     "kor": "미안합니다.",
@@ -109,7 +133,11 @@
     "nld": "Het spijt me.",
     "swe": "Jag är ledsen.",
     "dan": "Jeg er ked af det.",
-    "lux": "Et deet mir leed."
+    "lux": "Et deet mir leed.",
+    "spa": "Lo siento.",
+    "por": "Desculpa.",
+    "ell": "Λυπάμαι.",
+    "hrv": "Žao mi je."
   },
   {
     "kor": "괜찮아요.",
@@ -125,7 +153,11 @@
     "nld": "Dat is in orde.",
     "swe": "Det är okej.",
     "dan": "Det er i orden.",
-    "lux": "Dat ass an der Rei."
+    "lux": "Dat ass an der Rei.",
+    "spa": "No pasa nada.",
+    "por": "Não faz mal.",
+    "ell": "Δεν πειράζει.",
+    "hrv": "U redu je."
   },
   {
     "kor": "부탁합니다.",
@@ -141,7 +173,11 @@
     "nld": "Alstublieft.",
     "swe": "Snälla.",
     "dan": "Vær venlig.",
-    "lux": "Wann ech gelift."
+    "lux": "Wann ech gelift.",
+    "spa": "Por favor.",
+    "por": "Por favor.",
+    "ell": "Παρακαλώ.",
+    "hrv": "Molim."
   },
   {
     "kor": "어떻게 지내세요?",
@@ -157,7 +193,11 @@
     "nld": "Hoe gaat het?",
     "swe": "Hur mår du?",
     "dan": "Hvordan går det?",
-    "lux": "Wéi geet et?"
+    "lux": "Wéi geet et?",
+    "spa": "¿Cómo estás?",
+    "por": "Como estás?",
+    "ell": "Πώς είσαι;",
+    "hrv": "Kako si?"
   },
   {
     "kor": "잘 지내요, 감사합니다.",
@@ -173,7 +213,11 @@
     "nld": "Het gaat goed, dank u.",
     "swe": "Jag mår bra, tack.",
     "dan": "Jeg har det godt, tak.",
-    "lux": "Et geet mir gutt, merci."
+    "lux": "Et geet mir gutt, merci.",
+    "spa": "Estoy bien, gracias.",
+    "por": "Estou bem, obrigado.",
+    "ell": "Είμαι καλά, ευχαριστώ.",
+    "hrv": "Dobro sam, hvala."
   },
   {
     "kor": "당신은요?",
@@ -189,7 +233,11 @@
     "nld": "En met u?",
     "swe": "Och med dig?",
     "dan": "Og med dig?",
-    "lux": "An dir?"
+    "lux": "An dir?",
+    "spa": "¿Y tú?",
+    "por": "E tu?",
+    "ell": "Και εσύ;",
+    "hrv": "A ti?"
   },
   {
     "kor": "잘 자요.",
@@ -205,7 +253,11 @@
     "nld": "Goedenacht.",
     "swe": "God natt.",
     "dan": "Godnat.",
-    "lux": "Gutt Nuecht."
+    "lux": "Gutt Nuecht.",
+    "spa": "Buenas noches.",
+    "por": "Boa noite.",
+    "ell": "Καληνύχτα.",
+    "hrv": "Laku noć."
   },
   {
     "kor": "나중에 봐요.",
@@ -221,7 +273,11 @@
     "nld": "Tot later.",
     "swe": "Vi ses senare.",
     "dan": "Vi ses senere.",
-    "lux": "Bis spéider."
+    "lux": "Bis spéider.",
+    "spa": "Hasta luego.",
+    "por": "Até logo.",
+    "ell": "Τα λέμε αργότερα.",
+    "hrv": "Vidimo se kasnije."
   },
   {
     "kor": "내일 봐요.",
@@ -237,7 +293,11 @@
     "nld": "Tot morgen.",
     "swe": "Vi ses imorgon.",
     "dan": "Vi ses i morgen.",
-    "lux": "Bis muer."
+    "lux": "Bis muer.",
+    "spa": "Hasta mañana.",
+    "por": "Até amanhã.",
+    "ell": "Τα λέμε αύριο.",
+    "hrv": "Vidimo se sutra."
   },
   {
     "kor": "만나서 반가워요.",
@@ -253,7 +313,11 @@
     "nld": "Aangenaam.",
     "swe": "Trevligt att träffas.",
     "dan": "Rart at møde dig.",
-    "lux": "Pleséier dech kennenzeléieren."
+    "lux": "Pleséier dech kennenzeléieren.",
+    "spa": "Mucho gusto.",
+    "por": "Prazer em conhecer-te.",
+    "ell": "Χάρηκα πολύ.",
+    "hrv": "Drago mi je."
   },
   {
     "kor": "도와드릴까요?",
@@ -269,7 +333,11 @@
     "nld": "Kan ik u helpen?",
     "swe": "Kan jag hjälpa dig?",
     "dan": "Kan jeg hjælpe dig?",
-    "lux": "Kann ech Iech hëllefen?"
+    "lux": "Kann ech Iech hëllefen?",
+    "spa": "¿Te puedo ayudar?",
+    "por": "Posso ajudar-te?",
+    "ell": "Μπορώ να σε βοηθήσω;",
+    "hrv": "Mogu li ti pomoći?"
   },
   {
     "kor": "네, 부탁해요.",
@@ -285,7 +353,11 @@
     "nld": "Ja, graag.",
     "swe": "Ja, tack.",
     "dan": "Ja, tak.",
-    "lux": "Jo, gäre."
+    "lux": "Jo, gäre.",
+    "spa": "Sí, por favor.",
+    "por": "Sim, por favor.",
+    "ell": "Ναι, παρακαλώ.",
+    "hrv": "Da, molim."
   },
   {
     "kor": "아니요, 괜찮습니다.",
@@ -301,7 +373,11 @@
     "nld": "Nee, dank u.",
     "swe": "Nej, tack.",
     "dan": "Nej tak.",
-    "lux": "Nee, merci."
+    "lux": "Nee, merci.",
+    "spa": "No, gracias.",
+    "por": "Não, obrigado.",
+    "ell": "Όχι, ευχαριστώ.",
+    "hrv": "Ne, hvala."
   },
   {
     "kor": "조금만 천천히 말씀해 주시겠어요?",
@@ -317,7 +393,11 @@
     "nld": "Kunt u wat langzamer spreken?",
     "swe": "Kan du tala lite långsammare?",
     "dan": "Kan du tale lidt langsommere?",
-    "lux": "Kënnt Dir e bëssen méi lues schwätzen?"
+    "lux": "Kënnt Dir e bëssen méi lues schwätzen?",
+    "spa": "¿Podría hablar más despacio, por favor?",
+    "por": "Poderia falar mais devagar, por favor?",
+    "ell": "Θα μπορούσατε να μιλάτε πιο αργά, παρακαλώ;",
+    "hrv": "Možeš li govoriti malo sporije, molim te?"
   },
   {
     "kor": "다시 한번 말씀해 주시겠어요?",
@@ -333,7 +413,11 @@
     "nld": "Kunt u dat herhalen?",
     "swe": "Kan du upprepa det?",
     "dan": "Kan du gentage det?",
-    "lux": "Kënnt Dir dat widderhuelen?"
+    "lux": "Kënnt Dir dat widderhuelen?",
+    "spa": "¿Podría repetir eso, por favor?",
+    "por": "Poderia repetir isso, por favor?",
+    "ell": "Θα μπορούσατε να το επαναλάβετε, παρακαλώ;",
+    "hrv": "Možeš li to ponoviti, molim te?"
   },
   {
     "kor": "이해하지 못했습니다.",
@@ -349,7 +433,11 @@
     "nld": "Ik begrijp het niet.",
     "swe": "Jag förstår inte.",
     "dan": "Jeg forstår ikke.",
-    "lux": "Ech verstinn net."
+    "lux": "Ech verstinn net.",
+    "spa": "No entiendo.",
+    "por": "Não percebo.",
+    "ell": "Δεν καταλαβαίνω.",
+    "hrv": "Ne razumijem."
   },
   {
     "kor": "좋은 주말 보내세요.",
@@ -365,7 +453,11 @@
     "nld": "Fijn weekend.",
     "swe": "Trevlig helg.",
     "dan": "God weekend.",
-    "lux": "Schéint Weekend."
+    "lux": "Schéint Weekend.",
+    "spa": "Que pases un buen fin de semana.",
+    "por": "Bom fim de semana.",
+    "ell": "Να έχετε ένα ωραίο Σαββατοκύριακο.",
+    "hrv": "Ugodan vikend."
   },
   {
     "kor": "즐거운 시간 보내세요.",
@@ -381,7 +473,11 @@
     "nld": "Veel plezier.",
     "swe": "Ha så kul.",
     "dan": "God fornøjelse.",
-    "lux": "Vill Spaass."
+    "lux": "Vill Spaass.",
+    "spa": "Pásatelo bien.",
+    "por": "Diverte-te.",
+    "ell": "Να περάσεις καλά.",
+    "hrv": "Lijepo se provedi."
   },
   {
     "kor": "조심하세요.",
@@ -397,6 +493,10 @@
     "nld": "Doe voorzichtig.",
     "swe": "Ta hand om dig.",
     "dan": "Pas på dig selv.",
-    "lux": "Maach et gutt."
+    "lux": "Maach et gutt.",
+    "spa": "Cuídate.",
+    "por": "Cuida-te.",
+    "ell": "Πρόσεχε τον εαυτό σου.",
+    "hrv": "Čuvaj se."
   }
 ]

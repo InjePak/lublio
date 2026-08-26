@@ -13,7 +13,11 @@
     "nld": "Hoe is het weer vandaag?",
     "swe": "Hur är vädret idag?",
     "dan": "Hvordan er vejret i dag?",
-    "lux": "Wéi ass d'Wieder haut?"
+    "lux": "Wéi ass d'Wieder haut?",
+    "spa": "¿Qué tiempo hace hoy?",
+    "por": "Como está o tempo hoje?",
+    "ell": "Πώς είναι ο καιρός σήμερα;",
+    "hrv": "Kakvo je vrijeme danas?"
   },
   {
     "kor": "날씨가 아주 좋습니다.",
@@ -29,7 +33,11 @@
     "nld": "Het weer is heerlijk.",
     "swe": "Vädret är underbart.",
     "dan": "Vejret er dejligt.",
-    "lux": "D'Wieder ass ganz schéin."
+    "lux": "D'Wieder ass ganz schéin.",
+    "spa": "Hace un tiempo maravilloso.",
+    "por": "O tempo está ótimo.",
+    "ell": "Ο καιρός είναι υπέροχος.",
+    "hrv": "Vrijeme je prekrasno."
   },
   {
     "kor": "오늘은 화창합니다.",
@@ -45,7 +53,11 @@
     "nld": "Het is zonnig vandaag.",
     "swe": "Det är soligt idag.",
     "dan": "Det er solrigt i dag.",
-    "lux": "Haut ass et sonneg."
+    "lux": "Haut ass et sonneg.",
+    "spa": "Hoy está soleado.",
+    "por": "Está ensolarado hoje.",
+    "ell": "Είναι ηλιοφάνεια σήμερα.",
+    "hrv": "Danas je sunčano."
   },
   {
     "kor": "밖은 덥습니다.",
@@ -61,7 +73,11 @@
     "nld": "Het is warm buiten.",
     "swe": "Det är varmt ute.",
     "dan": "Det er varmt udenfor.",
-    "lux": "Et ass waarm doussen."
+    "lux": "Et ass waarm doussen.",
+    "spa": "Hace calor afuera.",
+    "por": "Está calor lá fora.",
+    "ell": "Κάνει ζέστη έξω.",
+    "hrv": "Vani je vruće."
   },
   {
     "kor": "조금 춥네요.",
@@ -77,7 +93,11 @@
     "nld": "Het is een beetje koud.",
     "swe": "Det är lite kallt.",
     "dan": "Det er lidt koldt.",
-    "lux": "Et ass e bëssen a kale."
+    "lux": "Et ass e bëssen a kale.",
+    "spa": "Hace un poco de frío.",
+    "por": "Está um pouco frio.",
+    "ell": "Κάνει λίγο κρύο.",
+    "hrv": "Malo je hladno."
   },
   {
     "kor": "비가 오고 있어요.",
@@ -93,7 +113,11 @@
     "nld": "Het regent.",
     "swe": "Det regnar.",
     "dan": "Det regner.",
-    "lux": "Et reent."
+    "lux": "Et reent.",
+    "spa": "Está lloviendo.",
+    "por": "Está chovendo.",
+    "ell": "Βρέχει.",
+    "hrv": "Pada kiša."
   },
   {
     "kor": "하늘에 구름이 많아요.",
@@ -109,7 +133,11 @@
     "nld": "Het is bewolkt.",
     "swe": "Det är molnigt.",
     "dan": "Det er skyet.",
-    "lux": "Et ass wolwëg."
+    "lux": "Et ass wolwëg.",
+    "spa": "Está nublado.",
+    "por": "Está nublado.",
+    "ell": "Έχει συννεφιά.",
+    "hrv": "Oblačno je."
   },
   {
     "kor": "바람이 많이 불어요.",
@@ -125,7 +153,11 @@
     "nld": "Het waait erg hard.",
     "swe": "Det blåser mycket.",
     "dan": "Det blæser meget.",
-    "lux": "Et wéiert vill."
+    "lux": "Et wéiert vill.",
+    "spa": "Hace mucho viento.",
+    "por": "Está ventando muito.",
+    "ell": "Φυσάει πολύ.",
+    "hrv": "Jako puše."
   },
   {
     "kor": "눈이 오고 있습니다.",
@@ -141,7 +173,11 @@
     "nld": "Het sneeuwt.",
     "swe": "Det snöar.",
     "dan": "Det sneer.",
-    "lux": "Et schneit."
+    "lux": "Et schneit.",
+    "spa": "Está nevando.",
+    "por": "Está nevando.",
+    "ell": "Χιονίζει.",
+    "hrv": "Pada snijeg."
   },
   {
     "kor": "안개가 꼈어요.",
@@ -157,7 +193,11 @@
     "nld": "Het is mistig.",
     "swe": "Det är dimmigt.",
     "dan": "Det er tåget.",
-    "lux": "Et ass niwweleg."
+    "lux": "Et ass niwweleg.",
+    "spa": "Hay niebla.",
+    "por": "Está com neblina.",
+    "ell": "Έχει ομίχλη.",
+    "hrv": "Maglovito je."
   },
   {
     "kor": "오늘은 시원합니다.",
@@ -173,7 +213,11 @@
     "nld": "Het is koel vandaag.",
     "swe": "Det är svalt idag.",
     "dan": "Det er køligt i dag.",
-    "lux": "Haut ass et kill."
+    "lux": "Haut ass et kill.",
+    "spa": "Hoy está fresco.",
+    "por": "Está fresco hoje.",
+    "ell": "Σήμερα κάνει δροσιά.",
+    "hrv": "Danas je svježe."
   },
   {
     "kor": "날씨가 따뜻해지고 있어요.",
@@ -189,7 +233,11 @@
     "nld": "Het weer wordt warmer.",
     "swe": "Vädret blir varmare.",
     "dan": "Vejret bliver varmere.",
-    "lux": "D'Wieder gëtt méi waarm."
+    "lux": "D'Wieder gëtt méi waarm.",
+    "spa": "El tiempo está calentando.",
+    "por": "O tempo está esquentando.",
+    "ell": "Ο καιρός ζεσταίνει.",
+    "hrv": "Vrijeme postaje toplije."
   },
   {
     "kor": "우산이 필요해요.",
@@ -205,7 +253,11 @@
     "nld": "Ik heb een paraplu nodig.",
     "swe": "Jag behöver ett paraply.",
     "dan": "Jeg har brug for en paraply.",
-    "lux": "Ech brauche en Iesschirm."
+    "lux": "Ech brauche en Iesschirm.",
+    "spa": "Necesito un paraguas.",
+    "por": "Preciso de um guarda-chuva.",
+    "ell": "Χρειάζομαι μια ομπρέλα.",
+    "hrv": "Trebam kišobran."
   },
   {
     "kor": "하늘이 파랗습니다.",
@@ -221,7 +273,11 @@
     "nld": "De hemel is blauw.",
     "swe": "Himlen är blå.",
     "dan": "Himlen er blå.",
-    "lux": "Den Himmel ass blo."
+    "lux": "Den Himmel ass blo.",
+    "spa": "El cielo está azul.",
+    "por": "O céu está azul.",
+    "ell": "Ο ουρανός είναι μπλε.",
+    "hrv": "Nebo je plavo."
   },
   {
     "kor": "기온이 몇 도인가요?",
@@ -237,7 +293,11 @@
     "nld": "Wat is de temperatuur?",
     "swe": "Vad är det för temperatur?",
     "dan": "Hvad er temperaturen?",
-    "lux": "Wat ass d'Temperatur?"
+    "lux": "Wat ass d'Temperatur?",
+    "spa": "¿Qué temperatura hace?",
+    "por": "Qual é a temperatura?",
+    "ell": "Ποια είναι η θερμοκρασία;",
+    "hrv": "Kolika je temperatura?"
   },
   {
     "kor": "영하 5도입니다.",
@@ -253,7 +313,11 @@
     "nld": "Het is vijf graden onder nul.",
     "swe": "Det är fem grader minus.",
     "dan": "Det er fem grader frost.",
-    "lux": "Et si fënnef Grad ënner Null."
+    "lux": "Et si fënnef Grad ënner Null.",
+    "spa": "Estamos a cinco grados bajo cero.",
+    "por": "Está cinco graus abaixo de zero.",
+    "ell": "Είναι πέντε βαθμοί κάτω από το μηδέν.",
+    "hrv": "Minus je pet stupnjeva."
   },
   {
     "kor": "저는 여름을 좋아합니다.",
@@ -269,7 +333,11 @@
     "nld": "Ik hou van de zomer.",
     "swe": "Jag gillar sommaren.",
     "dan": "Jeg kan lide sommeren.",
-    "lux": "Ech hu gär de Summer."
+    "lux": "Ech hu gär de Summer.",
+    "spa": "Me gusta el verano.",
+    "por": "Eu gosto do verão.",
+    "ell": "Μου αρέσει το καλοκαίρι.",
+    "hrv": "Volim ljeto."
   },
   {
     "kor": "겨울은 너무 추워요.",
@@ -285,7 +353,11 @@
     "nld": "De winter is te koud.",
     "swe": "Vintern är för kall.",
     "dan": "Vinteren er for kold.",
-    "lux": "De Wanter ass ze kal."
+    "lux": "De Wanter ass ze kal.",
+    "spa": "El invierno hace demasiado frío.",
+    "por": "O inverno é muito frio.",
+    "ell": "Ο χειμώνας είναι πολύ κρύος.",
+    "hrv": "Zima je prehladna."
   },
   {
     "kor": "봄에는 꽃이 피어요.",
@@ -301,7 +373,11 @@
     "nld": "Bloemen bloeien in de lente.",
     "swe": "Blommor blommar på våren.",
     "dan": "Blomster springer ud om foråret.",
-    "lux": "Blummen bléien am Fréijoer."
+    "lux": "Blummen bléien am Fréijoer.",
+    "spa": "Las flores florecen en primavera.",
+    "por": "As flores florescem na primavera.",
+    "ell": "Τα λουλούδια ανθίζουν την άνοιξη.",
+    "hrv": "Cvijeće cvate u proljeće."
   },
   {
     "kor": "가을은 아름답습니다.",
@@ -317,7 +393,11 @@
     "nld": "De herfst is prachtig.",
     "swe": "Hösten är vacker.",
     "dan": "Efteråret er smukt.",
-    "lux": "Den Hierscht ass schéin."
+    "lux": "Den Hierscht ass schéin.",
+    "spa": "El otoño es hermoso.",
+    "por": "O outono é lindo.",
+    "ell": "Το φθινόπωρο είναι όμορφο.",
+    "hrv": "Jesen je lijepa."
   },
   {
     "kor": "내일 날씨 예보는 어때요?",
@@ -333,7 +413,11 @@
     "nld": "Wat is de weersverwachting voor morgen?",
     "swe": "Vad är väderprognosen för imorgon?",
     "dan": "Hvad er vejrudsigten for i morgen?",
-    "lux": "Wéi ass d'Wiederprognos fir muer?"
+    "lux": "Wéi ass d'Wiederprognos fir muer?",
+    "spa": "¿Cuál es el pronóstico del tiempo para mañana?",
+    "por": "Qual é a previsão do tempo para amanhã?",
+    "ell": "Ποια είναι η πρόγνωση καιρού για αύριο;",
+    "hrv": "Kakva je vremenska prognoza za sutra?"
   },
   {
     "kor": "폭풍이 오고 있어요.",
@@ -349,7 +433,11 @@
     "nld": "Er komt een storm aan.",
     "swe": "En storm är på väg.",
     "dan": "Der er en storm på vej.",
-    "lux": "En Stuerm kënnt."
+    "lux": "En Stuerm kënnt.",
+    "spa": "Se acercá una tormenta.",
+    "por": "Uma tempestade está chegando.",
+    "ell": "Μια καταιγίδα έρχεται.",
+    "hrv": "Oluja dolazi."
   },
   {
     "kor": "해가 떴어요.",
@@ -365,7 +453,11 @@
     "nld": "De zon schijnt.",
     "swe": "Solen skiner.",
     "dan": "Solen skinner.",
-    "lux": "D'Sonn schéngt."
+    "lux": "D'Sonn schéngt.",
+    "spa": "Ha salido el sol.",
+    "por": "O sol saiu.",
+    "ell": "Ο ήλιος έχει βγεί.",
+    "hrv": "Izašlo je sunce."
   },
   {
     "kor": "공기가 매우 건조합니다.",
@@ -381,7 +473,11 @@
     "nld": "De lucht is erg droog.",
     "swe": "Luften är väldigt torr.",
     "dan": "Luften er meget tør.",
-    "lux": "D'Loft ass ganz dréchen."
+    "lux": "D'Loft ass ganz dréchen.",
+    "spa": "El aire está muy seco.",
+    "por": "O ar está muito seco.",
+    "ell": "Ο αέρας είναι πολύ ξηρός.",
+    "hrv": "Zrak je vrlo suh."
   },
   {
     "kor": "코트를 입으세요.",
@@ -397,6 +493,10 @@
     "nld": "Draag een jas.",
     "swe": "Ta på dig en jacka.",
     "dan": "Tag en frakke på.",
-    "lux": "Drei e Mantel."
+    "lux": "Drei e Mantel.",
+    "spa": "Ponte un abrigo.",
+    "por": "Use um casaco.",
+    "ell": "Φόρεσε ένα παλτό.",
+    "hrv": "Obuci kaput."
   }
 ]

@@ -171,6 +171,8 @@ p {
 
 .animated-underline,
 .animated-underline-eng,
+.animated-underline-spa,
+.animated-underline-por,
 .animated-underline-fra,
 .animated-underline-deu,
 .animated-underline-rus,
@@ -191,6 +193,8 @@ p {
 
 .animated-underline::after,
 .animated-underline-eng::after,
+.animated-underline-spa::after,
+.animated-underline-por::after,
 .animated-underline-fra::after,
 .animated-underline-deu::after,
 .animated-underline-rus::after,
@@ -222,7 +226,15 @@ p {
 }
 
 .animated-underline-eng::after {
-  background-color: var(--pink100);
+  background-color: var(--periwinkle100);
+}
+
+.animated-underline-spa::after {
+  background-color: var(--apricot100);
+}
+
+.animated-underline-por::after {
+  background-color: var(--green100);
 }
 
 .animated-underline-fra::after {
@@ -283,6 +295,8 @@ p {
 
 .animated-underline:hover,
 .animated-underline-eng:hover,
+.animated-underline-spa:hover,
+.animated-underline-por:hover,
 .animated-underline-fra:hover,
 .animated-underline-deu:hover,
 .animated-underline-rus:hover,
@@ -302,6 +316,8 @@ p {
 
 .animated-underline.is-active::after,
 .animated-underline-eng.is-active::after,
+.animated-underline-spa.is-active::after,
+.animated-underline-por.is-active::after,
 .animated-underline-fra.is-active::after,
 .animated-underline-deu.is-active::after,
 .animated-underline-rus.is-active::after,

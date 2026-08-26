@@ -2,7 +2,7 @@
   {
     "id": 1,
     "pattern": "The main issue seems to be ...",
-    "translation": "주요 문제는 ...인 것 같습니다.",
+    "translation": "El problema principal parece ser ...",
     "b1": [
       "The main issue seems to be the lack of time.",
       "The main issue seems to be the price of the product.",
@@ -28,7 +28,7 @@
   {
     "id": 2,
     "pattern": "How can we best approach ...?",
-    "translation": "...에 어떻게 가장 잘 접근할 수 있을까요?",
+    "translation": "¿Cuál es el mejor enfoque para ...?",
     "b1": [
       "How can we best approach this problem?",
       "How can we best approach our new neighbors?",
@@ -54,7 +54,7 @@
   {
     "id": 3,
     "pattern": "I suggest that we ...",
-    "translation": "저는 저희가 ...해야 한다고 제안합니다.",
+    "translation": "Sugiero que ...",
     "b1": [
       "I suggest that we take a short break.",
       "I suggest that we go to the park together.",
@@ -80,7 +80,7 @@
   {
     "id": 4,
     "pattern": "A potential solution is to ...",
-    "translation": "잠재적인 해결책은 ...하는 것입니다.",
+    "translation": "Una solución potencial es ...",
     "b1": [
       "A potential solution is to ask for help.",
       "A potential solution is to save more money.",
@@ -106,7 +106,7 @@
   {
     "id": 5,
     "pattern": "What if we tried ... instead of ...?",
-    "translation": "... 대신 ...을 해보는 건 어떨까요?",
+    "translation": "¿Y si probamos ... en lugar de ...?",
     "b1": [
       "What if we tried tea instead of coffee?",
       "What if we tried walking instead of taking the bus?",
@@ -132,7 +132,7 @@
   {
     "id": 6,
     "pattern": "We need to prioritize ...",
-    "translation": "저희는 ...을 우선시 해야 돼요.",
+    "translation": "Debemos priorizar ...",
     "b1": [
       "We need to prioritize safety.",
       "We need to prioritize our health.",
@@ -158,7 +158,7 @@
   {
     "id": 7,
     "pattern": "Let's break the problem down into ...",
-    "translation": "문제를 ...로 나누어 봅시다.",
+    "translation": "Dividamos el problema en ...",
     "b1": [
       "Let's break the problem down into small steps.",
       "Let's break the problem down into three parts.",
@@ -184,7 +184,7 @@
   {
     "id": 8,
     "pattern": "Have you considered the impact of ...?",
-    "translation": "...의 영향을 고려해 보셨나요?",
+    "translation": "¿Ha considerado el impacto de ...?",
     "b1": [
       "Have you considered the impact of the rain?",
       "Have you considered the impact of the noise?",
@@ -210,7 +210,7 @@
   {
     "id": 9,
     "pattern": "One way around this is to ...",
-    "translation": "이를 해결하는 한 가지 방법은 ...하는 것입니다.",
+    "translation": "Una forma de evitar esto es ...",
     "b1": [
       "One way around this is to use a map.",
       "One way around this is to ask a friend.",
@@ -236,7 +236,7 @@
   {
     "id": 10,
     "pattern": "We could mitigate the risk by ...",
-    "translation": "저희는 ...함으로써 위험을 완화할 수 있습니다.",
+    "translation": "Podríamos mitigar el riesgo ...",
     "b1": [
       "We could mitigate the risk by wearing a helmet.",
       "We could mitigate the risk by checking the weather.",
@@ -262,7 +262,7 @@
   {
     "id": 11,
     "pattern": "Perhaps we should look at the root cause of ...",
-    "translation": "어쩌면 ...의 근본 원인을 살펴봐야 할 것 같습니다.",
+    "translation": "Tal vez deberíamos analizar la causa raíz de ...",
     "b1": [
       "Perhaps we should look at the root cause of the noise.",
       "Perhaps we should look at the root cause of the smell.",
@@ -288,7 +288,7 @@
   {
     "id": 12,
     "pattern": "The immediate next step should be ...",
-    "translation": "당장 다음 단계는 ...여야 합니다.",
+    "translation": "El siguiente paso inmediato debería ser ...",
     "b1": [
       "The immediate next step should be to call the police.",
       "The immediate next step should be to clean the floor.",
@@ -314,7 +314,7 @@
   {
     "id": 13,
     "pattern": "Does anyone have a different perspective on ...?",
-    "translation": "...에 대해 다른 의견이 있는 분 계신가요?",
+    "translation": "¿Alguien tiene una perspectiva diferente sobre ...?",
     "b1": [
       "Does anyone have a different perspective on this movie?",
       "Does anyone have a different perspective on the food?",
@@ -340,7 +340,7 @@
   {
     "id": 14,
     "pattern": "In the short term, we can do ...",
-    "translation": "단기적으로는 ...을 할 수 있습니다.",
+    "translation": "A corto plazo, podemos ...",
     "b1": [
       "In the short term, we can do more exercise.",
       "In the short term, we can save some money.",
@@ -366,7 +366,7 @@
   {
     "id": 15,
     "pattern": "We should implement a system for ...",
-    "translation": "...을 위한 시스템을 도입해야 합니다.",
+    "translation": "Deberíamos implementar un sistema para ...",
     "b1": [
       "We should implement a system for cleaning the house.",
       "We should implement a system for saving water.",
@@ -392,7 +392,7 @@
   {
     "id": 16,
     "pattern": "Let's evaluate the pros and cons of ...",
-    "translation": "...의 장단점을 평가해 봅시다.",
+    "translation": "Evaluemos los pros y los contras de ...",
     "b1": [
       "Let's evaluate the pros and cons of living in a city.",
       "Let's evaluate the pros and cons of having a dog.",
@@ -418,7 +418,7 @@
   {
     "id": 17,
     "pattern": "To ensure success, we must first address ...",
-    "translation": "성공을 보장하기 위해서는 먼저 ...을 해결해야 합니다.",
+    "translation": "Para asegurar el éxito, primero debemos abordar ...",
     "b1": [
       "To ensure success, we must first address the money problem.",
       "To ensure success, we must first address the time issue.",
@@ -444,7 +444,7 @@
   {
     "id": 18,
     "pattern": "The biggest obstacle standing in the way is ...",
-    "translation": "앞길을 가로막는 가장 큰 장애물은 ...입니다.",
+    "translation": "El mayor obstáculo que se presenta es ...",
     "b1": [
       "The biggest obstacle standing in the way is the rain.",
       "The biggest obstacle standing in the way is the high price.",
@@ -470,7 +470,7 @@
   {
     "id": 19,
     "pattern": "My proposed approach involves ...",
-    "translation": "제가 제안하는 접근 방식은 ...을 포함합니다.",
+    "translation": "Mi enfoque propuesto implica ...",
     "b1": [
       "My proposed approach involves a lot of practice.",
       "My proposed approach involves asking for help.",
@@ -496,7 +496,7 @@
   {
     "id": 20,
     "pattern": "Perhaps the missing piece is ...",
-    "translation": "아마도 빠진 조각은 ...일 것입니다.",
+    "translation": "Tal vez la pieza que falta es ...",
     "b1": [
       "Perhaps the missing piece is the right tool.",
       "Perhaps the missing piece is more time.",

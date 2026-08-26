@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Na minha opinião, ...",
+    "translation": "In my opinion, ...",
+    "b1": [
+      "Na minha opinião, este filme é muito interessante.",
+      "Na minha opinião, deveríamos comer mais vegetais.",
+      "Na minha opinião, a cidade é muito barulhenta no verão.",
+      "Na minha opinião, aprender português é um bom desafio.",
+      "Na minha opinião, vai chover esta tarde."
+    ],
+    "b2": [
+      "Na minha opinião, o governo deveria investir mais em energias renováveis.",
+      "Na minha opinião, o teletrabalho favorece um melhor equilíbrio entre vida profissional e pessoal.",
+      "Na minha opinião, esta reforma não responde às expectativas dos cidadãos.",
+      "Na minha opinião, é fundamental conscientizar os jovens sobre a proteção ambiental.",
+      "Na minha opinião, a globalização tem um impacto complexo nas culturas locais."
+    ],
+    "c1": [
+      "Na minha opinião, a onipresença do digital altera insidiosamente nossas capacidades de concentração.",
+      "Na minha opinião, esta problemática não pode ser resolvida sem uma concertação internacional ampliada.",
+      "Na minha opinião, a estética desta obra transcende os códigos tradicionais da época.",
+      "Na minha opinião, seria ilusório acreditar que o crescimento econômico pode ser infinito.",
+      "Na minha opinião, a precariedade do emprego constitui um obstáculo maior para a realização social."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Eu acredito que ...",
+    "translation": "I believe that ...",
+    "b1": [
+      "Eu acredito que a educação é muito importante.",
+      "Eu acredito que vamos conseguir terminar a tarefa.",
+      "Eu acredito que ele vai gostar do presente.",
+      "Eu acredito que o futuro será melhor.",
+      "Eu acredito que viajar abre a mente."
+    ],
+    "b2": [
+      "Eu acredito que a tecnologia pode melhorar a nossa qualidade de vida.",
+      "Eu acredito que a comunicação clara evita muitos conflitos.",
+      "Eu acredito que as dificuldades nos tornam mais fortes.",
+      "Eu acredito que a honestidade é a base de qualquer relação.",
+      "Eu acredito que a criatividade é essencial no trabalho."
+    ],
+    "c1": [
+      "Eu acredito que a resiliência institucional é o fator determinante para a sobrevivência a longo prazo.",
+      "Eu acredito que a assimetria de informações no mercado financeiro requer uma regulamentação mais rigorosa.",
+      "Eu acredito que o paradigma da inovação aberta transformará radicalmente o setor industrial.",
+      "Eu acredito que a descarbonização da economia exige uma transição estrutural profunda.",
+      "Eu acredito que a soberania digital deve ser uma prioridade estratégica para os estados modernos."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Me parece que ...",
+    "translation": "It seems to me that ...",
+    "b1": [
+      "Me parece que o tempo está mudando.",
+      "Me parece que você está cansado hoje.",
+      "Me parece que este exercício é fácil.",
+      "Me parece que eles esqueceram a reunião.",
+      "Me parece que a loja já está fechada."
+    ],
+    "b2": [
+      "Me parece que as prioridades da empresa mudaram este mês.",
+      "Me parece que há um mal-entendido entre os departamentos.",
+      "Me parece que esta solução resolve o problema temporariamente.",
+      "Me parece que o custo do projeto vai ultrapassar o orçamento.",
+      "Me parece que a equipe está mais motivada agora."
+    ],
+    "c1": [
+      "Me parece que a retórica política atual mascara a complexidade sistêmica da crise econômica.",
+      "Me parece que a convergência entre IA e biotecnologia redefine os limites da própria condição humana.",
+      "Me parece que a polarização ideológica inibe qualquer debate público construtivo.",
+      "Me parece que o arcabouço jurídico vigente está obsoleto diante da disrupção tecnológica.",
+      "Me parece que a deslocalização industrial gerou vulnerabilidades estruturais imprevistas."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Na minha perspectiva, ...",
+    "translation": "From my perspective, ...",
+    "b1": [
+      "Na minha perspectiva, este problema tem solução.",
+      "Na minha perspectiva, o plano precisa de ajustes.",
+      "Na minha perspectiva, a viagem foi um sucesso.",
+      "Na minha perspectiva, trabalhar em grupo é melhor.",
+      "Na minha perspectiva, a escolha foi correta."
+    ],
+    "b2": [
+      "Na minha perspectiva, o foco deve estar na satisfação do cliente.",
+      "Na minhal perspectiva, a reestruturação trará benefícios a médio prazo.",
+      "Na minha perspectiva, a diversidade cultural enriquece o ambiente corporativo.",
+      "Na minha perspectiva, os riscos assumidos foram calculados e necessários.",
+      "Na minha perspectiva, a flexibilidade horária aumenta a produtividade."
+    ],
+    "c1": [
+      "Na minha perspectiva, a governança corporativa deve incorporar métricas de sustentabilidade de forma imperativa.",
+      "Na minha perspectiva, a dinâmica demográfica atual alterará irreversivelmente os sistemas previdenciários.",
+      "Na minha perspectiva, a hegemonia cultural contemporânea é indissociável da infraestrutura digital.",
+      "Na minha perspectiva, a transição para energias limpas exige uma reengenharia completa da matriz econômica.",
+      "Na minha perspectiva, a fragmentação geopolítica atual compromete a eficácia das respostas globais."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Eu sinto fortemente que ...",
+    "translation": "I strongly feel that ...",
+    "b1": [
+      "Eu sinto fortemente que devemos ajudar os outros.",
+      "Eu sinto fortemente que a família é o mais importante.",
+      "Eu sinto fortemente que fizemos a escolha certa.",
+      "Eu sinto fortemente que a honestidade compensa.",
+      "Eu sinto fortemente que precisamos praticar mais."
+    ],
+    "b2": [
+      "Eu sinto fortemente que a educação pública precisa de mais investimentos.",
+      "Eu sinto fortemente que os funcionários devem ser ouvidos pela diretoria.",
+      "Eu sinto fortemente que a transparência é vital para a confiança da equipe.",
+      "Eu sinto fortemente que a preservação histórica deve ser priorizada.",
+      "Eu sinto fortemente que as leis de proteção ao consumidor são insuficientes."
+    ],
+    "c1": [
+      "Eu sinto fortemente que a mercantilização da educação superior compromete a missão crítica do pensamento crítico.",
+      "Eu sinto fortemente que a erosão dos direitos trabalhistas constitui uma ameaça existencial à coesão social.",
+      "Eu sinto fortemente que a integridade ética da pesquisa científica não pode ser subjugada por interesses comerciais.",
+      "Eu sinto fortemente que a negligência frente às mudanças climáticas configura uma irresponsabilidade geracional imperdoável.",
+      "Eu sinto fortemente que a salvaguarda da privacidade individual é um pilar inegociável do estado democrático."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Eu argumentaria que ...",
+    "translation": "I would argue that ...",
+    "b1": [
+      "Eu argumentaria que o livro é melhor que o filme.",
+      "Eu argumentaria que praticar esportes faz bem à saúde.",
+      "Eu argumentaria que aprender inglês é mais fácil hoje.",
+      "Eu argumentaria que o inverno é a melhor estação.",
+      "Eu argumentaria que a experiência vale mais que a teoria."
+    ],
+    "b2": [
+      "Eu argumentaria que a inteligência emocional é mais importante que o QI no trabalho.",
+      "Eu argumentaria que as redes sociais isolam as pessoas em vez de uni-las.",
+      "Eu argumentaria que o investimento em inovação superou as expectativas.",
+      "Eu argumentaria que a liderança participativa gera melhores resultados.",
+      "Eu argumentaria que a legislação atual desestimula o empreendedorismo."
+    ],
+    "c1": [
+      "Eu argumentaria que a proliferação de algoritmos de recomendação homogeneíza insidiosamente o discurso público.",
+      "Eu argumentaria que a rigidez do modelo burocrático tradicional inibe a agilidade institucional necessária.",
+      "Eu argumentaria que a arquitetura financeira global perpetua assimetrias estruturais entre o Norte e o Sul.",
+      "Eu argumentaria que a estética do consumo conspícuo atingiu um ponto de saturação cultural.",
+      "Eu argumentaria que a autonomia universitária é o baluarte essencial contra o revisionismo histórico."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "O que eu quero dizer é que ...",
+    "translation": "What I mean is, ...",
+    "b1": [
+      "O que eu quero dizer é que precisamos de mais tempo.",
+      "O que eu quero dizer é que você fez um ótimo trabalho.",
+      "O que eu quero dizer é que o preço está muito alto.",
+      "O que eu quero dizer é que não podemos desistir agora.",
+      "O que eu quero dizer é que estou aqui para ajudar."
+    ],
+    "b2": [
+      "O que eu quero dizer é que o processo precisa ser simplificado.",
+      "O que eu quero dizer é que a responsabilidade é compartilhada por todos.",
+      "O que eu quero dizer é que os resultados compensam o esforço.",
+      "O que eu quero dizer é que devemos focar no plano principal.",
+      "O que eu quero dizer é que a comunicação falhou na etapa final."
+    ],
+    "c1": [
+      "O que eu quero dizer é que a interdependência sistêmica dos mercados amplifica qualquer volatilidade local.",
+      "O que eu quero dizer é que a codificação de vieses em sistemas autônomos reproduz desigualdades históricas.",
+      "O que eu quero dizer é que a retórica da sustentabilidade corporativa muitas vezes mascara o greenwashing.",
+      "O que eu quero dizer é que a desregulação dos mercados laborais precariza irremediavelmente a base produtiva.",
+      "O que eu quero dizer é que a complexidade hermenêutica deste texto desafia traduções literais."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Se você me perguntar, ...",
+    "translation": "If you ask me, ...",
+    "b1": [
+      "Se você me perguntar, este lugar é maravilhoso.",
+      "Se você me perguntar, a comida estava deliciosa.",
+      "Se você me perguntar, o teste foi muito difícil.",
+      "Se você me perguntar, deveríamos ir embora agora.",
+      "Se você me perguntar, ele tem razão."
+    ],
+    "b2": [
+      "Se você me perguntar, a empresa deveria mudar de estratégia.",
+      "Se você me perguntar, o projeto foi cancelado cedo demais.",
+      "Se você me perguntar, a decisão do gerente foi precipitada.",
+      "Se você me perguntar, o novo sistema é bem mais complicado.",
+      "Se você me perguntar, o evento superou todas as expectativas."
+    ],
+    "c1": [
+      "Se você me perguntar, a expansão agressiva da empresa ignorou sinais claros de saturação de mercado.",
+      "Se você me perguntar, a centralização excessiva do poder decisório paralisa a inovação interna.",
+      "Se você me perguntar, a adoção acrítica dessa metodologia compromete a integridade dos dados.",
+      "Se você me perguntar, a transição para o modelo híbrido gerou silos comunicacionais profundos.",
+      "Se você me perguntar, a sustentabilidade financeira da instituição depende de uma diversificação urgente."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Eu concordo plenamente com ...",
+    "translation": "I couldn't agree more with ...",
+    "b1": [
+      "Eu concordo plenamente com você.",
+      "Eu concordo plenamente com esta ideia.",
+      "Eu concordo plenamente com a sua escolha.",
+      "Eu concordo plenamente com o professor.",
+      "Eu concordo plenamente com o plano."
+    ],
+    "b2": [
+      "Eu concordo plenamente com a análise feita no relatório.",
+      "Eu concordo plenamente com a necessidade de reestruturar a equipe.",
+      "Eu concordo plenamente com a posição do diretor sobre o assunto.",
+      "Eu concordo plenamente com os critérios de avaliação propostos.",
+      "Eu concordo plenamente com a importância da segurança no trabalho."
+    ],
+    "c1": [
+      "Eu concordo plenamente com a tese de que a inovação disruptiva descentraliza os monopólios estabelecidos.",
+      "Eu concordo plenamente com a avaliação de que a volatilidade cambial compromete o planejamento orçamentário.",
+      "Eu concordo plenamente com a premissa de que a integridade metodológica valida qualquer pesquisa científica.",
+      "Eu concordo plenamente com o diagnóstico de que a obsolescência regulatória penaliza o setor tecnológico.",
+      "Eu concordo plenamente com a visão de que a cooperação transnacional é imprescindível face aos desafios globais."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Esse é um ponto válido, mas ...",
+    "translation": "That's a valid point, but ...",
+    "b1": [
+      "Esse é um ponto válido, mas precisamos de mais tempo.",
+      "Esse é um ponto válido, mas o preço é muito alto.",
+      "Esse é um ponto válido, mas prefiro a outra opção.",
+      "Esse é um ponto válido, mas ainda tenho dúvidas.",
+      "Esse é um ponto válido, mas o plano mudou."
+    ],
+    "b2": [
+      "Esse é um ponto válido, mas o orçamento não permite essa despesa.",
+      "Esse é um ponto válido, mas os riscos operacionais são muito elevados.",
+      "Esse é um ponto válido, mas precisamos considerar o prazo de entrega.",
+      "Esse é um ponto válido, mas a opinião dos clientes difere.",
+      "Esse é um ponto válido, mas a prioridade atual é outra."
+    ],
+    "c1": [
+      "Esse é um ponto válido, mas a implementação dessa diretriz colide com restrições regulatórias severas.",
+      "Esse é um ponto válido, mas a premissa macroeconômica subjacente desconsidera a inflação estrutural.",
+      "Esse é um ponto válido, mas a arquitetura técnica atual impede essa escalabilidade imediata.",
+      "Esse é um ponto válido, mas a assunção de tal passivo atuarial compromete a solvência a longo prazo.",
+      "Esse é um ponto válido, mas a sinergia operacional esperada é inferior ao custo de transição."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Eu ouso discordar sobre ...",
+    "translation": "I beg to differ on ...",
+    "b1": [
+      "Eu ouso discordar sobre este assunto.",
+      "Eu ouso discordar sobre qual filme é melhor.",
+      "Eu ouso discordar sobre a cor da parede.",
+      "Eu ouso discordar sobre a hora do encontro.",
+      "Eu ouso discordar sobre a facilidade do teste."
+    ],
+    "b2": [
+      "Eu ouso discordar sobre a eficácia desta estratégia de marketing.",
+      "Eu ouso discordar sobre a viabilidade financeira do projeto.",
+      "Eu ouso discordar sobre a distribuição das tarefas na equipe.",
+      "Eu ouso discordar sobre o impacto real desta mudança.",
+      "Eu ouso discordar sobre a prioridade dada a esta demanda."
+    ],
+    "c1": [
+      "Eu ouso discordar sobre a interpretação causal atribuída àquele indicador macroeconômico.",
+      "Eu ouso discordar sobre a suposta neutralidade ideológica desse arcabouço tecnológico.",
+      "Eu ouso discordar sobre a validade estatística da amostra utilizada no estudo.",
+      "Eu ouso discordar sobre a premissa de que a desregulamentação fomenta espontaneamente a concorrência.",
+      "Eu ouso discordar sobre a eficácia das sanções econômicas na alteração do comportamento geopolítico."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Embora eu entenda que ..., ainda sinto que ...",
+    "translation": "While I understand that ..., I still feel ...",
+    "b1": [
+      "Embora eu entenda que você está ocupado, ainda sinto que precisamos conversar.",
+      "Embora eu entenda que o preço é alto, ainda sinto que vale a pena.",
+      "Embora eu entenda que está chovendo, ainda sinto vontade de sair.",
+      "Embora eu entenda o seu lado, ainda sinto que você errou.",
+      "Embora eu entenda que é difícil, ainda sinto que devemos tentar."
+    ],
+    "b2": [
+      "Embora eu entenda que o prazo é curto, ainda sinto que a qualidade foi comprometida.",
+      "Embora eu entenda as restrições orçamentárias, ainda sinto que este investimento é essencial.",
+      "Embora eu entenda a posição da diretoria, ainda sinto que os funcionários merecem explicações.",
+      "Embora eu entenda a complexidade da tarefa, ainda sinto que faltou planejamento.",
+      "Embora eu entenda as críticas, ainda sinto que o projeto trouxe resultados positivos."
+    ],
+    "c1": [
+      "Embora eu entenda que a reestruturação reduza os custos imediatos, ainda sinto que ela destrói o capital intelectual da empresa.",
+      "Embora eu entenda que o modelo preditivo minimize incertezas, ainda sinto que ele elimina o discernimento intuitivo humano.",
+      "Embora eu entenda que a conformidade legal exija protocolos rígidos, ainda sinto que ela sufoca a inovação criativa.",
+      "Embora eu entenda que a pressão competitiva justifique a expansão, ainda sinto que negligenciamos a sustentabilidade local.",
+      "Embora eu entenda que a polarização gere engajamento digital, ainda sinto que ela corrói a deliberação democrática."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Com todo o respeito, ...",
+    "translation": "With all due respect, ...",
+    "b1": [
+      "Com todo o respeito, eu não acho isso.",
+      "Com todo o respeito, você está errado.",
+      "Com todo o respeito, essa não é a melhor solução.",
+      "Com todo o respeito, eu prefiro fazer do meu jeito.",
+      "Com todo o respeito, isso não faz sentido."
+    ],
+    "b2": [
+      "Com todo o respeito, a sua avaliação desconsidera os dados recentes.",
+      "Com todo o respeito, esta decisão ultrapassa a sua alçada.",
+      "Com todo o respeito, os resultados provam o oposto do que você disse.",
+      "Com todo o respeito, o cronograma apresentado é irrealista.",
+      "Com todo o respeito, não podemos aceitar essa condição."
+    ],
+    "c1": [
+      "Com todo o respeito, a premissa central do seu argumento carece de qualquer sustentação empírica.",
+      "Com todo o respeito, essa diretriz operativa contradiz frontalmente os estatutos de governança da instituição.",
+      "Com todo o respeito, a sua leitura da conjuntura econômica omite variáveis estruturais fundamentais.",
+      "Com todo o respeito, o viés metodológico invalida as conclusões apresentadas no relatório.",
+      "Com todo o respeito, essa interpretação jurídica ignora a jurisprudência dominante nos tribunais superiores."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Eu não tenho certeza absoluta sobre ...",
+    "translation": "I'm not entirely sure about ...",
+    "b1": [
+      "Eu não tenho certeza absoluta sobre este endereço.",
+      "Eu não tenho certeza absoluta sobre o horário do trem.",
+      "Eu não tenho certeza absoluta sobre a resposta.",
+      "Eu não tenho certeza absoluta sobre o preço.",
+      "Eu não tenho certeza absoluta sobre a data."
+    ],
+    "b2": [
+      "Eu não tenho certeza absoluta sobre a viabilidade deste cronograma.",
+      "Eu não tenho certeza absoluta sobre a reação dos clientes a essa mudança.",
+      "Eu não tenho certeza absoluta sobre os termos do contrato.",
+      "Eu não tenho certeza absoluta sobre a exatidão destes dados financeiros.",
+      "Eu não tenho certeza absoluta sobre a decisão que tomamos."
+    ],
+    "c1": [
+      "Eu não tenho certeza absoluta sobre a robustez do modelo econométrico frente a choques externos imprevistos.",
+      "Eu não tenho certeza absoluta sobre a integridade jurídica da transferência transfronteiriça de dados.",
+      "Eu não tenho certeza absoluta sobre a sustentabilidade a longo prazo desta vantagem competitiva.",
+      "Eu não tenho certeza absoluta sobre a eficácia do mecanismo de mitigação de riscos proposto.",
+      "Eu não tenho certeza absoluta sobre a imparcialidade da auditoria externa contratada."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Você poderia elaborar mais sobre ...?",
+    "translation": "Could you elaborate on ...?",
+    "b1": [
+      "Você poderia elaborar mais sobre este plano?",
+      "Você poderia elaborar mais sobre a sua ideia?",
+      "Você poderia elaborar mais sobre o que aconteceu?",
+      "Você poderia elaborar mais sobre a sua viagem?",
+      "Você poderia elaborar mais sobre este ponto?"
+    ],
+    "b2": [
+      "Você poderia elaborar mais sobre os objetivos desta nova campanha?",
+      "Você poderia elaborar mais sobre os critérios de seleção utilizados?",
+      "Você poderia elaborar mais sobre as etapas do processo de fabricação?",
+      "Você poderia elaborar mais sobre a origem deste problema técnico?",
+      "Você poderia elaborar mais sobre as expectativas da diretoria?"
+    ],
+    "c1": [
+      "Você poderia elaborar mais sobre a formulação teórica subjacente a este modelo analítico?",
+      "Você poderia elaborar mais sobre as implicações sistêmicas da reestruturação societária?",
+      "Você poderia elaborar mais sobre a metodologia empregada na apuração desses indicadores de desempenho?",
+      "Você poderia elaborar mais sobre a articulação entre as diretrizes macroestratégicas e a execução operacional?",
+      "Você poderia elaborar mais sobre a arquitetura de conformidade regulatória adotada pelo conselho?"
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Eu tenho sentimentos mistos sobre ...",
+    "translation": "I have mixed feelings about ...",
+    "b1": [
+      "Eu tenho sentimentos mistos sobre mudar de casa.",
+      "Eu tenho sentimentos mistos sobre este trabalho.",
+      "Eu tenho sentimentos mistos sobre o final do filme.",
+      "Eu tenho sentimentos mistos sobre a festa.",
+      "Eu tenho sentimentos mistos sobre a surpresa."
+    ],
+    "b2": [
+      "Eu tenho sentimentos mistos sobre a proposta de fusão das empresas.",
+      "Eu tenho sentimentos mistos sobre a implementação do novo sistema de ponto.",
+      "I Eu tenho sentimentos mistos sobre a promoção para o cargo de chefia.",
+      "Eu tenho sentimentos mistos sobre a expansão para o mercado internacional.",
+      "Eu tenho sentimentos mistos sobre a contratação desta consultoria externa."
+    ],
+    "c1": [
+      "Eu tenho sentimentos mistos sobre a adoção massiva de inteligência artificial generativa na produção acadêmica.",
+      "Eu tenho sentimentos mistos sobre a liberalização irrestrita dos fluxos de capitais especulativos.",
+      "Eu tenho sentimentos mistos sobre a centralização regulatória das plataformas digitais globais.",
+      "Eu tenho sentimentos mistos sobre a transição para o modelo de avaliação de desempenho por algoritmos.",
+      "Eu tenho sentimentos mistos sobre a mercantilização do espaço urbano através do turismo de massa."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Vamos concordar em discordar sobre ...",
+    "translation": "Let's agree to disagree on ...",
+    "b1": [
+      "Vamos concordar em discordar sobre futebol.",
+      "Vamos concordar em discordar sobre música.",
+      "Vamos concordar em discordar sobre este tema.",
+      "Vamos concordar em discordar sobre qual comida é melhor.",
+      "Vamos concordar em discordar sobre isso."
+    ],
+    "b2": [
+      "Vamos concordar em discordar sobre qual estratégia trará melhores resultados.",
+      "Vamos concordar em discordar sobre a melhor forma de organizar o projeto.",
+      "Vamos concordar em discordar sobre a escolha do fornecedor.",
+      "Vamos concordar em discordar sobre a prioridade das tarefas.",
+      "Vamos concordar em discordar sobre a interpretação desta política."
+    ],
+    "c1": [
+      "Vamos concordar em discordar sobre a premissa filosófica que sustenta este modelo de governança.",
+      "Vamos concordar em discordar sobre a etiologia da crise sistêmica que afetou o setor.",
+      "Vamos concordar em discordar sobre a interpretação teleológica do texto constitucional.",
+      "Vamos concordar em discordar sobre a viabilidade histórica de uma economia sem crescimento.",
+      "Vamos concordar em discordar sobre a validade estética dos cânones artísticos contemporâneos."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Você já considerou ...?",
+    "translation": "Have you considered ...?",
+    "b1": [
+      "Você já considerou mudar de ideia?",
+      "Você já considerou comprar um carro novo?",
+      "Você já considerou pedir ajuda?",
+      "Você já considerou viajar no fim de semana?",
+      "Você já considerou estuda mais?"
+    ],
+    "b2": [
+      "Você já considerou terceirizar este serviço para reduzir custos?",
+      "Você já considerou implementar o trabalho remoto na empresa?",
+      "Você já considerou adiar o lançamento para o próximo mês?",
+      "Você já considerou consultar a opinião dos clientes antes?",
+      "Você já considerou reescrever esta parte do relatório?"
+    ],
+    "c1": [
+      "Você já considerou a hipótese de reestruturar a dívida através de emissão de títulos conversíveis?",
+      "Você já considerou submeter o código-fonte a uma auditoria de segurança de código aberto?",
+      "Você já considerou mitigar o risco cambial por meio de derivativos financeiros?",
+      "Você já considerou auditar a cadeia de suprimentos sob critérios rigorosos de direitos humanos?",
+      "Você já considerou a possibilidade de instituir um conselho consultivo independente?"
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Este não é sempre o caso porque ...",
+    "translation": "That's not always the case because ...",
+    "b1": [
+      "Este não é sempre o caso porque cada pessoa é diferente.",
+      "Este não é sempre o caso porque o tempo pode mudar.",
+      "Este não é sempre o caso porque os preços variam.",
+      "Este não é sempre o caso porque depende da situação.",
+      "Este não é sempre o caso porque nem todos gostam disso."
+    ],
+    "b2": [
+      "Este não é sempre o caso porque a experiência do usuário muda conforme o setor.",
+      "Este não é sempre o caso porque o comportamento do consumidor é imprevisível.",
+      "Este não é sempre o caso porque as regras da empresa mudaram recentemente.",
+      "Este não é sempre o caso porque os custos de produção flutuam.",
+      "Este não é sempre o caso porque a concorrência atua de forma diferente."
+    ],
+    "c1": [
+      "Este não é sempre o caso porque a dinâmica de elasticidade-preço da demanda varia conforme o segmento de luxo.",
+      "Este não é sempre o caso porque a correlatividade estatística não implica necessariamente causalidade direta.",
+      "Este não é sempre o caso porque o ambiente institucional condiciona de forma distinta a aplicação das normas.",
+      "Este não é sempre o caso porque a assimetria informacional altera o equilíbrio de Nash entre os agentes.",
+      "Este não é sempre o caso porque os efeitos de rede locais suplantam as tendências macroeconômicas globais."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Eu vejo as coisas de ...",
+    "translation": "I see things ...",
+    "b1": [
+      "Eu vejo as coisas de outro modo.",
+      "Eu vejo as coisas de forma mais simples.",
+      "Eu vejo as coisas de perto.",
+      "Eu vejo as coisas de maneira diferente.",
+      "Eu vejo as coisas de outra maneira."
+    ],
+    "b2": [
+      "Eu vejo as coisas de uma perspetiva mais ampla no momento.",
+      "Eu vejo as coisas de forma mais prática para o nosso dia a dia.",
+      "Eu vejo as coisas de acordo com a experiência que tive na área.",
+      "Eu vejo as coisas de maneira mais otimista em relação ao futuro.",
+      "Eu vejo as coisas de um ângulo completamente diferente agora."
+    ],
+    "c1": [
+      "Eu vejo as coisas de uma perspectiva hermenêutica que contextualiza o fenômeno na sua totalidade histórica.",
+      "Eu vejo as coisas de um prisma estrutural que prioriza as forças sistêmicas sobre os eventos contingentes.",
+      "Eu vejo as coisas de acordo com uma lógica de governança adaptativa face à complexidade incontrolável.",
+      "Eu vejo as coisas de maneira a integrar a teoria crítica com a práxis institucional pragmática.",
+      "Eu vejo as coisas de um ponto de vista que desconstri os binarismos tradicionais da nossa disciplina."
+    ]
+  }
+]

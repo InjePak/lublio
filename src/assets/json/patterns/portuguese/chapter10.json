@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Eu sou realmente grato pela sua ajuda com ...",
+    "translation": "I truly appreciate your help with ...",
+    "b1": [
+      "Eu sou realmente grato pela sua ajuda com o projeto.",
+      "Eu sou realmente grato pela sua ajuda com a mudança.",
+      "Eu sou realmente grato pela sua ajuda com a lição de casa.",
+      "Eu sou realmente grato pela sua ajuda com a festa.",
+      "Eu sou realmente grato pela sua ajuda com o relatório."
+    ],
+    "b2": [
+      "Eu sou realmente grato pela sua ajuda com a preparação da apresentação.",
+      "Eu sou realmente grato pela sua ajuda com a organização do evento.",
+      "Eu sou realmente grato pela sua ajuda com a resolução deste problema.",
+      "Eu sou realmente grato pela sua ajuda com a transição da equipe.",
+      "Eu sou realmente grato pela sua ajuda com a análise dos dados."
+    ],
+    "c1": [
+      "Eu sou realmente grato pela sua ajuda com a reestruturação estratégica da empresa.",
+      "Eu sou realmente grato pela sua ajuda com a implementação da nova política de conformidade.",
+      "Eu sou realmente grato pela sua ajuda com a mediação deste conflito complexo.",
+      "Eu sou realmente grato pela sua ajuda com a auditoria financeira trimestral.",
+      "Eu sou realmente grato pela sua ajuda com a consolidação da nossa infraestrutura tecnológica."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Você tem um talento notável para ...",
+    "translation": "You have a remarkable talent for ...",
+    "b1": [
+      "Você tem um talento notável para desenhar.",
+      "Você tem um talento notável para cozinhar.",
+      "Você tem um talento notável para línguas.",
+      "Você tem um talento notável para cantar.",
+      "Você tem um talento notável para ensinar."
+    ],
+    "b2": [
+      "Você tem um talento notável para motivar a equipe.",
+      "Você tem um talento notável para resolver conflitos.",
+      "Você tem um talento notável para falar em público.",
+      "Você tem um talento notável para gerenciar o tempo.",
+      "Você tem um talento notável para negociar acordos."
+    ],
+    "c1": [
+      "Você tem um talento notável para decifrar dinâmicas organizacionais complexas.",
+      "Você tem um talento notável para sintetizar conceitos abstratos de forma acessível.",
+      "Você tem um talento notável para antecipar crises e mitigá-las preventivamente.",
+      "Você tem um talento notável para articular visões de longo prazo com precisão cirúrgica.",
+      "Você tem um talento notável para harmonizar interesses divergentes em ambientes altamente competitivos."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Foi incrivelmente atencioso da sua parte ...",
+    "translation": "That was incredibly thoughtful of you to ...",
+    "b1": [
+      "Foi incrivelmente atencioso da sua parte trazer café.",
+      "Foi incrivelmente atencioso da sua parte me enviar uma mensagem.",
+      "Foi incrivelmente atencioso da sua parte lembrar do meu aniversário.",
+      "Foi incrivelmente atencioso da sua parte me ajudar hoje.",
+      "Foi incrivelmente atencioso da sua parte perguntar como eu estou."
+    ],
+    "b2": [
+      "Foi incrivelmente atencioso da sua parte preparar tudo para a minha chegada.",
+      "Foi incrivelmente atencioso da sua parte notar que eu estava cansado.",
+      "Foi incrivelmente atencioso da sua parte adaptar o cardápio às minhas restrições.",
+      "Foi incrivelmente atencioso da sua parte cuidar dos meus compromissos.",
+      "Foi incrivelmente atencioso da sua parte verificar se eu precisava de algo."
+    ],
+    "c1": [
+      "Foi incrivelmente atencioso da sua parte antecipar minhas necessidades operacionais sem que eu precisasse verbalizá-las.",
+      "Foi incrivelmente atencioso da sua parte intervir discretamente para proteger minha reputação profissional.",
+      "Foi incrivelmente atencioso da sua parte considerar as implicações culturais daquela decisão para o meu departamento.",
+      "Foi incrivelmente atencioso da sua parte coordenar uma rede de apoio nos bastidores durante o meu período de ausência.",
+      "Foi incrivelmente atencioso da sua parte resguardar minha confidencialidade naquele momento delicado."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Sou muito grato pelo fato de que ...",
+    "translation": "I'm so grateful for the fact that ...",
+    "b1": [
+      "Sou muito grato pelo fato de que você mora perto.",
+      "Sou muito grato pelo fato de que o tempo está bom.",
+      "Sou muito grato pelo fato de que temos comida na geladeira.",
+      "Sou muito grato pelo fato de que você me escuta.",
+      "Sou muito grato pelo fato de que você encontrou meu gato."
+    ],
+    "b2": [
+      "Sou muito grato pelo fato de que a nossa equipe trabalha tão bem junta.",
+      "Sou muito grato pelo fato de que pudemos resolver este mal-entendidos.",
+      "Sou muito grato pelo fato de que você sempre cumpre suas promessas.",
+      "Sou muito grato pelo fato de que o projeto terminou no prazo.",
+      "Sou muito grato pelo fato de que você me deu uma segunda chance."
+    ],
+    "c1": [
+      "Sou muito grato pelo fato de que nossa visão estratégica permanece perfeitamente alinhada diante das incertezas do mercado.",
+      "Sou muito grato pelo fato de que você manteve a integridade ética da instituição sob imensa pressão.",
+      "Sou muito grato pelo fato de que a transição de liderança ocorreu de forma totalmente transparente e colaborativa.",
+      "Sou muito grato pelo fato de que pudemos transformar uma crise sistêmica em uma oportunidade de inovação.",
+      "Sou muito grato pelo fato de que seu compromisso com a excelência nunca foi comprometido pelas conveniências."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Sua atenção aos detalhes em ... é impressionante.",
+    "translation": "Your attention to detail on ... is outstanding.",
+    "b1": [
+      "Sua atenção aos detalhes em suas pinturas é impressionante.",
+      "Sua atenção aos detalhes em seu quarto é impressionante.",
+      "Sua atenção aos detalhes em sua escrita é impressionante.",
+      "Sua atenção aos detalhes em suas roupas é impressionante.",
+      "Sua atenção aos detalhes em sua casa é impressionante."
+    ],
+    "b2": [
+      "Sua atenção aos detalhes no relatório financeiro é impressionante.",
+      "Sua atenção aos detalhes na organização do evento é impressionante.",
+      "Sua atenção aos detalhes no design do site é impressionante.",
+      "Sua atenção aos detalhes na edição do vídeo é impressionante.",
+      "Sua atenção aos detalhes na preparação dos documentos é impressionante."
+    ],
+    "c1": [
+      "Sua atenção aos detalhes na auditoria de conformidade regulatória é impressionante.",
+      "Sua atenção aos detalhes na verificação do código-fonte é impressionante.",
+      "Sua atenção aos detalhes na tradução e adaptação cultural do manuscrito é impressionante.",
+      "Sua atenção aos detalhes na arquitetura jurídica do contrato é impressionante.",
+      "Sua atenção aos detalhes na curadoria da exposição artística é impressionante."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Eu queria agradecer especificamente por ...",
+    "translation": "I wanted to thank you specifically for ...",
+    "b1": [
+      "Eu queria agradecer especificamente por este presente.",
+      "Eu queria agradecer especificamente por me convidar.",
+      "Eu queria agradecer especificamente por sua carta.",
+      "Eu queria agradecer especificamente por sua companhia.",
+      "Eu queria agradecer especificamente por sua comida."
+    ],
+    "b2": [
+      "Eu queria agradecer especificamente por sua ajuda com a minha entrevista.",
+      "Eu queria agradecer especificamente por cobrir meu turno no trabalho.",
+      "Eu queria agradecer especificamente por suas palavras gentis ontem.",
+      "Eu queria agradecer especificamente por me emprestar seu carro.",
+      "Eu queria agradecer especificamente por coordenar a nossa reunião."
+    ],
+    "c1": [
+      "Eu queria agradecer especificamente por sua intervenção decisiva na defesa do nosso orçamento.",
+      "Eu queria agradecer especificamente por sua perspicácia ao identificar aquela falha estrutural no projeto.",
+      "Eu queria agradecer especificamente por sua lealdade inabalável durante a reestruturação corporativa.",
+      "Eu queria agradecer especificamente por sua contribuição fundamental na formulação da nossa tese acadêmica.",
+      "Eu queria agradecer especificamente por seu suporte técnico durante a migração crítica dos nossos sistemas."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Você lidou com essa situação com tanta graça e ...",
+    "translation": "You handled that situation with such grace and ...",
+    "b1": [
+      "Você lidou com essa situação com tanta graça e calma.",
+      "Você lidou com essa situação com tanta graça e paciência.",
+      "Você lidou com essa situação com tanta graça e coragem.",
+      "Você lidou com essa situação com tanta graça e bondade.",
+      "Você lidou com essa situação com tanta graça e força."
+    ],
+    "b2": [
+      "Você lidou com essa situação com tanta graça e profissionalismo.",
+      "Você lidou com essa situação com tanta graça e maturidade.",
+      "Você lidou com essa situação com tanta graça e diplomacia.",
+      "Você lidou com essa situação com tanta graça e resiliência.",
+      "Você lidou com essa situação com tanta graça e compostura."
+    ],
+    "c1": [
+      "Você lidou com essa situação com tanta graça e discernimento impecável diante de ataques públicos.",
+      "Você lidou com essa situação com tanta graça e imparcialidade transcendental.",
+      "Você lidou com essa situação com tanta graça e serenidade estoica sob imensa pressão emocional.",
+      "Você lidou com essa situação com tanta graça e sagacidade política inegável.",
+      "Você lidou com essa situação com tanta graça e integridade moral inegociável."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Eu não teria conseguido fazer isso sem ...",
+    "translation": "I couldn't have done this without ...",
+    "b1": [
+      "Eu não teria conseguido fazer isso sem você.",
+      "Eu não teria conseguido fazer isso sem o seu carro.",
+      "Eu não teria conseguido fazer isso sem o seu conselho.",
+      "Eu não teria conseguido fazer isso sem o seu dinheiro.",
+      "Eu não teria conseguido fazer isso sem o seu livro."
+    ],
+    "b2": [
+      "Eu não teria conseguido fazer isso sem o seu apoio constante.",
+      "Eu não teria conseguido fazer isso sem a sua experiência na área.",
+      "Eu não teria conseguido fazer isso sem a sua ajuda na pesquisa.",
+      "Eu não teria conseguido fazer isso sem as suas ferramentas.",
+      "Eu não teria conseguido fazer isso sem a sua orientação."
+    ],
+    "c1": [
+      "Eu não teria conseguido fazer isso sem a sua rede de contatos estratégicos no setor.",
+      "Eu não teria conseguido fazer isso sem a sua perspicácia analítica na modelagem financeira.",
+      "Eu não teria conseguido fazer isso sem o seu rigor metodológico na validação dos dados.",
+      "Eu não teria conseguido fazer isso sem a sua liderança visionária durante a fase de concepção.",
+      "Eu não teria conseguido fazer isso sem a sua intervenção diplomática junto aos acionistas."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Sua atitude positiva é realmente inspiradora para ...",
+    "translation": "Your positive attitude is truly inspiring to ...",
+    "b1": [
+      "Sua atitude positiva é realmente inspiradora para mim.",
+      "Sua atitude positiva é realmente inspiradora para a classe.",
+      "Sua atitude positiva é realmente inspiradora para a família.",
+      "Sua atitude positiva é realmente inspiradora para os alunos.",
+      "Sua atitude positiva é realmente inspiradora para o grupo."
+    ],
+    "b2": [
+      "Sua atitude positiva é realmente inspiradora para todos na equipe.",
+      "Sua atitude positiva é realmente inspiradora para os novos funcionários.",
+      "Sua atitude positiva é realmente inspiradora para quem está desanimado.",
+      "Sua atitude positiva é realmente inspiradora para a comunidade local.",
+      "Sua atitude positiva é realmente inspiradora para os voluntários."
+    ],
+    "c1": [
+      "Sua atitude positiva é realmente inspiradora para os líderes que enfrentam cenários de disrupção econômica.",
+      "Sua atitude positiva é realmente inspiradora para os pesquisadores imersos em investigações altamente complexas.",
+      "Sua atitude positiva é realmente inspiradora para o conselho diretivo em momentos de transição estrutural.",
+      "Sua atitude positiva é realmente inspiradora para os profissionais que lidam com a pressão de entregas críticas.",
+      "Sua atitude positiva é realmente inspiradora para a comunidade científica que busca soluções inovadoras."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Obrigado por ir além do esperado para ...",
+    "translation": "Thank you for going above and beyond to ...",
+    "b1": [
+      "Obrigado por ir além do esperado para me ajudar.",
+      "Obrigado por ir além do esperado para terminar o trabalho.",
+      "Obrigado por ir além do esperado para fazer a festa.",
+      "Obrigado por ir além do esperado para limpar a casa.",
+      "Obrigado por ir além do esperado para encontrar o cachorro."
+    ],
+    "b2": [
+      "Obrigado por ir além do esperado para garantir o sucesso do projeto.",
+      "Obrigado por ir além do esperado para atender bem o cliente.",
+      "Obrigado por ir além do esperado para apoiar o seu colega.",
+      "Obrigado por ir além do esperado para cumprir o prazo.",
+      "Obrigado por ir além do esperado para resolver o problema técnico."
+    ],
+    "c1": [
+      "Obrigado por ir além do esperado para assegurar a conformidade regulatória da instituição.",
+      "Obrigado por ir além do esperado para resguardar a integridade dos dados confidenciais.",
+      "Obrigado por ir além do esperado para otimizar os fluxos de trabalho operacionais da holding.",
+      "Obrigado por ir além do esperado para mitigar os riscos associados à expansão internacional.",
+      "Obrigado por ir além do esperado para consolidar a parceria estratégica de longo prazo."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Eu realmente admiro a maneira como você ...",
+    "translation": "I really admire the way you ...",
+    "b1": [
+      "Eu realmente admiro a maneira como você fala inglês.",
+      "Eu realmente admiro a maneira como você trata as pessoas.",
+      "Eu realmente admiro a maneira como você cozinha.",
+      "Eu realmente admiro a maneira como você desenha.",
+      "Eu realmente admiro a maneira como você canta."
+    ],
+    "b2": [
+      "Eu realmente admiro a maneira como você equilibra o trabalho e a vida pessoal.",
+      "Eu realmente admiro a maneira como você lida com o estresse.",
+      "Eu realmente admiro a maneira como você lidera sua equipe.",
+      "Eu realmente admiro a maneira como você resolve conflitos.",
+      "Eu realmente admiro a maneira como você se expressa publicamente."
+    ],
+    "c1": [
+      "Eu realmente admiro a maneira como você articula argumentos complexos com tanta clareza intelectual.",
+      "Eu realmente admiro a maneira como você navega por ambiguidades corporativas sem perder o norte ético.",
+      "Eu realmente admiro a maneira como você integra perspectivas multidisciplinares na resolução de problemas.",
+      "Eu realmente admiro a maneira como você conduz negociações de alto risco com total maestria.",
+      "Eu realmente admiro a maneira como você transforma críticas severas em oportunidades de aprimoramento contínuo."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Que excelente trabalho você fez em ...",
+    "translation": "What a wonderful job you did on ...",
+    "b1": [
+      "Que excelente trabalho você fez na sua pintura.",
+      "Que excelente trabalho você fez no jardim.",
+      "Que excelente trabalho você fez no bolo.",
+      "Que excelente trabalho você fez na redação.",
+      "Que excelente trabalho você fez no cartaz."
+    ],
+    "b2": [
+      "Que excelente trabalho você fez na apresentação de ontem.",
+      "Que excelente trabalho você fez na reforma da casa.",
+      "Que excelente trabalho você fez na organização da festa.",
+      "Que excelente trabalho você fez no relatório mensal.",
+      "Que excelente trabalho você fez no design do logotipo."
+    ],
+    "c1": [
+      "Que excelente trabalho você fez na estruturação da tese de doutorado.",
+      "Que excelente trabalho você fez na redação do memorando jurídico.",
+      "Que excelente trabalho você fez na curadoria da coleção museológica.",
+      "Que excelente trabalho você fez na reconfiguração da arquitetura de software.",
+      "Que excelente trabalho você fez na formulação do plano diretor urbano."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Significa muito para mim que ...",
+    "translation": "It means the world to me that ...",
+    "b1": [
+      "Significa muito para mim que você veio.",
+      "Significa muito para mim que você se importa.",
+      "Significa muito para mim que você me ligou.",
+      "Significa muito para mim que você gostou do presente.",
+      "Significa muito para mim que você está aqui."
+    ],
+    "b2": [
+      "Significa muito para mim que você confiou em mim para esse segredo.",
+      "Significa muito para mim que você me apoiou naquela decisão difícil.",
+      "Significa muito para mim que você tirou tempo para me visitar.",
+      "Significa muito para mim que você reconheceu meu esforço.",
+      "Significa muito para mim que nossa amizade permaneceu forte."
+    ],
+    "c1": [
+      "Significa muito para mim que você validou minha pesquisa acadêmica diante de tal ceticismo.",
+      "Significa muito para mim que você endossou minha candidatura para a diretoria executiva.",
+      "Significa muito para mim que você compartilhou sua visão íntima sobre os rumos da instituição.",
+      "Significa muito para mim que você permaneceu ao meu lado durante a auditoria externa.",
+      "Significa muito para mim que você confiou na minha liderança para atravessar aquela crise institucional."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Sua perspectiva sobre ... é incrivelmente valiosa.",
+    "translation": "Your perspective on ... is incredibly valuable.",
+    "b1": [
+      "Sua perspectiva sobre este assunto é incrivelmente valiosa.",
+      "Sua perspectiva sobre o filme é incrivelmente valiosa.",
+      "Sua perspectiva sobre a viagem é incrivelmente valiosa.",
+      "Sua perspectiva sobre o livro é incrivelmente valiosa.",
+      "Sua perspectiva sobre a ideia é incrivelmente valiosa."
+    ],
+    "b2": [
+      "Sua perspectiva sobre o mercado financeiro é incrivelmente valiosa.",
+      "Sua perspectiva sobre a estratégia de marketing é incrivelmente valiosa.",
+      "Sua perspectiva sobre a cultura da empresa é incrivelmente valiosa.",
+      "Sua perspectiva sobre o desenvolvimento da carreira é incrivelmente valiosa.",
+      "Sua perspectiva sobre a gestão de equipes é incrivelmente valiosa."
+    ],
+    "c1": [
+      "Sua perspectiva sobre a geopolítica da América Latina é incrivelmente valiosa.",
+      "Sua perspectiva sobre as implicações macroeconômicas da inflação é incrivelmente valiosa.",
+      "Sua perspectiva sobre a ética na inteligência artificial é incrivelmente valiosa.",
+      "Sua perspectiva sobre a governança corporativa em empresas familiares é incrivelmente valiosa.",
+      "Sua perspectiva sobre a sustentabilidade ambiental a longo prazo é incrivelmente valiosa."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Quero expressar minha mais profunda gratidão por ...",
+    "translation": "I want to express my deepest gratitude for ...",
+    "b1": [
+      "Quero expressar minha mais profunda gratidão por sua ajuda.",
+      "Quero expressar minha mais profunda gratidão por seu apoio.",
+      "Quero expressar minha mais profunda gratidão por sua bondade.",
+      "Quero expressar minha mais profunda gratidão por sua paciência.",
+      "Quero expressar minha mais profunda gratidão por seu tempo."
+    ],
+    "b2": [
+      "Quero expressar minha mais profunda gratidão por sua dedicação ao projeto.",
+      "Quero expressar minha mais profunda gratidão por sua lealdade durante os momentos difíceis.",
+      "Quero expressar minha mais profunda gratidão por sua generosidade financeira.",
+      "Quero expressar minha mais profunda gratidão por sua orientação profissional.",
+      "Quero expressar minha mais profunda gratidão por sua amizade sincera."
+    ],
+    "c1": [
+      "Quero expressar minha mais profunda gratidão por sua mentoria transformadora ao longo da minha trajetória acadêmica.",
+      "Quero expressar minha mais profunda gratidão por seu sacrifício pessoal em prol da estabilidade da organização.",
+      "Quero expressar minha mais profunda gratidão por sua defesa incondicional dos princípios democráticos da instituição.",
+      "Quero expressar minha mais profunda gratidão por sua contribuição seminal para o avanço da nossa pesquisa científica.",
+      "Quero expressar minha mais profunda gratidão por seu legado de excelência institucional que moldou gerações."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Você fez uma enorme diferença em ...",
+    "translation": "You've made a huge difference in ...",
+    "b1": [
+      "Você fez uma enorme diferença na minha vida.",
+      "Você fez uma enorme diferença no projeto.",
+      "Você fez uma enorme diferença na nossa turma.",
+      "Você fez uma enorme diferença no escritório.",
+      "Você fez uma enorme diferença na escola."
+    ],
+    "b2": [
+      "Você fez uma enorme diferença na produtividade da equipe este mês.",
+      "K Você fez uma enorme diferença na qualidade do atendimento ao cliente.",
+      "Você fez uma enorme diferença na atmosfera do nosso departamento.",
+      "Você fez uma enorme diferença no sucesso desta campanha.",
+      "Você fez uma enorme diferença na vida dos novos voluntários."
+    ],
+    "c1": [
+      "Você fez uma enorme diferença na reestruturação operacional da nossa divisão internacional.",
+      "Você fez uma enorme diferença na consolidação da nossa reputação perante os órgãos reguladores.",
+      "Você fez uma enorme diferença na mitigação dos riscos sistêmicos do portfólio de investimentos.",
+      "Você fez uma enorme diferença na evolução cultural da empresa rumo à inclusão total.",
+      "Você fez uma enorme diferença na eficácia das nossas políticas de conservação ambiental."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Estou muito impressionado com a sua capacidade de ...",
+    "translation": "I'm so impressed by your ability to ...",
+    "b1": [
+      "Estou muito impressionado com a sua capacidade de falar várias línguas.",
+      "Estou muito impressionado com a sua capacidade de desenhar bem.",
+      "Estou muito impressionado com a sua capacidade de correr rápido.",
+      "Estou muito impressionado com a sua capacidade de lembrar nomes.",
+      "Estou muito impressionado com a sua capacidade de cozinhar rápido."
+    ],
+    "b2": [
+      "Estou muito impressionado com a sua capacidade de manter a calma sob pressão.",
+      "Estou muito impressionado com a sua capacidade de aprender novas tecnologias rapidamente.",
+      "Estou muito impressionado com a sua capacidade de gerenciar múltiplos projetos.",
+      "Estou muito impressionado com a sua capacidade de explicar conceitos difíceis.",
+      "Estou muito impressionado com a sua capacidade de negociar com firmeza."
+    ],
+    "c1": [
+      "Estou muito impressionado com a sua capacidade de sintetizar milhares de páginas de dados em insights acionáveis.",
+      "Estou muito impressionado com a sua capacidade de alternar entre raciocínios macro e micro com extrema fluidez.",
+      "Estou muito impressionado com a sua capacidade de manter a lucidez analítica em cenários de crise extrema.",
+      "Estou muito impressionado com a sua capacidade de decodificar matrizes jurídicas altamente complexas.",
+      "Estou muito impressionado com a sua capacidade de articular discursos altamente persuasivos de improviso."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Obrigado por reservar um tempo para ...",
+    "translation": "Thank you for taking the time to ...",
+    "b1": [
+      "Obrigado por reservar um tempo para conversar comigo.",
+      "Obrigado por reservar um tempo para me ajudar.",
+      "Obrigado por reservar um tempo para ler o livro.",
+      "Obrigado por reservar um tempo para vir à festa.",
+      "Obrigado por reservar um tempo para ouvir."
+    ],
+    "b2": [
+      "Obrigado por reservar um tempo para revisar o meu relatório.",
+      "Obrigado por reservar um tempo para treinar os novos funcionários.",
+      "Obrigado por reservar um tempo para esclarecer minhas dúvidas.",
+      "Obrigado por reservar um tempo para participar da reunião.",
+      "Obrigado por reservar um tempo para avaliar minha proposta."
+    ],
+    "c1": [
+      "Obrigado por reservar um tempo para conduzir a auditoria interna dos nossos processos.",
+      "Obrigado por reservar um tempo para analisar a viabilidade técnica da nossa patente.",
+      "Obrigado por reservar um tempo para arbitrar a disputa contratual entre as partes.",
+      "Obrigado por reservar um tempo para debater as diretrizes macroestratégicas do grupo.",
+      "Obrigado por reservar um tempo para supervisionar a implementação do protocolo de segurança."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Somos afortunados por ter alguém que pode ...",
+    "translation": "We are fortunate to have someone who can ...",
+    "b1": [
+      "Somos afortunados por ter alguém que pode consertar carros.",
+      "Somos afortunados por ter alguém que pode falar espanhol.",
+      "Somos afortunados por ter alguém que pode cozinhar bem.",
+      "Somos afortunados por ter alguém que pode dirigir à noite.",
+      "Somos afortunados por ter alguém que pode ajudar na mudança."
+    ],
+    "b2": [
+      "Somos afortunados por ter alguém que pode liderar a equipe com tanta competência.",
+      "Somos afortunados por ter alguém que pode resolver problemas técnicos com facilidade.",
+      "Somos afortunados por ter alguém que pode mediar conflitos com tanta habilidade.",
+      "Somos afortunados por ter alguém que pode gerenciar o orçamento com precisão.",
+      "Somos afortunados por ter alguém que pode manter o moral da equipe elevado."
+    ],
+    "c1": [
+      "Somos afortunados por ter alguém que pode navegar por labirintos regulatórios internacionais com tanta desenvoltura.",
+      "Somos afortunados por ter alguém que pode antecipar rupturas tecnológicas e reorientar nossa estratégia.",
+      "Somos afortunados por ter alguém que pode estruturar operações financeiras complexas sob restrições severas.",
+      "Somos afortunados por ter alguém que pode harmonizar visões corporativas diametralmente opostas.",
+      "Somos afortunados por ter alguém que pode liderar processos de transição institucional de alta volatilidade."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Sua disposição para ... realmente se destaca.",
+    "translation": "Your willingness to ... really stands out.",
+    "b1": [
+      "Sua disposição para ajudar os outros realmente se destaca.",
+      "Sua disposição para aprender coisas novas realmente se destaca.",
+      "Sua disposição para trabalhar em equipe realmente se destaca.",
+      "Sua disposição para ouvir opiniões realmente se destaca.",
+      "Sua disposição para tentar de novo realmente se destaca."
+    ],
+    "b2": [
+      "Sua disposição para assumir novas responsabilidades realmente se destaca.",
+      "Sua disposição para aceitar críticas construtivas realmente se destaca.",
+      "Sua disposição para viajar a trabalho em cima da hora realmente se destaca.",
+      "Sua disposição para apoiar os colegas em apuros realmente se destaca.",
+      "Sua disposição para adaptar-se às mudanças de planos realmente se destaca."
+    ],
+    "c1": [
+      "Sua disposição para desafiar o status quo organizacional com argumentos fundamentados realmente se destaca.",
+      "Sua disposição para assumir a responsabilidade por falhas sistêmicas complexas realmente se destaca.",
+      "Sua disposição para abdicar de interesses particulares em prol do consenso coletivo realmente se destaca.",
+      "Sua disposição para mergulhar em domínios de conhecimento completamente desconhecidos realmente se destaca.",
+      "Sua disposição para submeter suas próprias teorias a um rigoroso escrutínio crítico realmente se destaca."
+    ]
+  }
+]

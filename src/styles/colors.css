@@ -94,6 +94,19 @@
   --orange900: rgba(124, 45, 18, 1);
   --orange950: rgba(67, 20, 7, 1);
 
+  /* Apricot */
+  --apricot50: rgba(255, 251, 240, 1);
+  --apricot100: rgba(255, 236, 214, 1);
+  --apricot200: rgba(255, 218, 169, 1);
+  --apricot300: rgba(255, 195, 125, 1);
+  --apricot400: rgba(255, 165, 82, 1);
+  --apricot500: rgba(255, 138, 42, 1);
+  --apricot600: rgba(230, 110, 24, 1);
+  --apricot700: rgba(204, 82, 18, 1);
+  --apricot800: rgba(153, 60, 13, 1);
+  --apricot900: rgba(102, 41, 9, 1);
+  --apricot950: rgba(51, 20, 4, 1);
+
   /* Amber */
   --amber50: rgba(255, 251, 235, 1);
   --amber100: rgba(254, 243, 199, 1);
@@ -158,6 +171,19 @@
   --emerald800: rgba(6, 95, 70, 1);
   --emerald900: rgba(6, 78, 59, 1);
   --emerald950: rgba(2, 44, 34, 1);
+
+  /* Mint */
+  --mint50: rgba(240, 254, 250, 1);
+  --mint100: rgba(204, 252, 243, 1);
+  --mint200: rgba(167, 249, 233, 1);
+  --mint300: rgba(120, 245, 220, 1);
+  --mint400: rgba(74, 238, 205, 1);
+  --mint500: rgba(34, 227, 185, 1);
+  --mint600: rgba(20, 184, 151, 1);
+  --mint700: rgba(16, 150, 123, 1);
+  --mint800: rgba(13, 110, 92, 1);
+  --mint900: rgba(10, 80, 67, 1);
+  --mint950: rgba(5, 48, 40, 1);
 
   /* Teal */
   --teal50: rgba(240, 253, 250, 1);
@@ -224,6 +250,19 @@
   --indigo900: rgba(49, 46, 129, 1);
   --indigo950: rgba(30, 27, 75, 1);
 
+  /* Periwinkle */
+  --periwinkle50: rgba(243, 241, 255, 1);
+  --periwinkle100: rgba(230, 224, 255, 1);
+  --periwinkle200: rgba(210, 200, 254, 1);
+  --periwinkle300: rgba(185, 170, 252, 1);
+  --periwinkle400: rgba(155, 135, 250, 1);
+  --periwinkle500: rgba(120, 95, 245, 1);
+  --periwinkle600: rgba(100, 70, 235, 1);
+  --periwinkle700: rgba(85, 55, 215, 1);
+  --periwinkle800: rgba(70, 45, 180, 1);
+  --periwinkle900: rgba(55, 35, 145, 1);
+  --periwinkle950: rgba(35, 20, 90, 1);
+
   /* Violet */
   --violet50: rgba(245, 243, 255, 1);
   --violet100: rgba(237, 233, 254, 1);
@@ -263,6 +302,19 @@
   --fuchsia900: rgba(112, 26, 117, 1);
   --fuchsia950: rgba(74, 4, 78, 1);
 
+  /* Magenta */
+  --magenta50: rgba(255, 240, 253, 1);
+  --magenta100: rgba(255, 230, 249, 1);
+  --magenta200: rgba(255, 199, 241, 1);
+  --magenta300: rgba(255, 158, 230, 1);
+  --magenta400: rgba(255, 92, 209, 1);
+  --magenta500: rgba(255, 0, 195, 1);
+  --magenta600: rgba(214, 0, 164, 1);
+  --magenta700: rgba(170, 0, 128, 1);
+  --magenta800: rgba(128, 0, 96, 1);
+  --magenta900: rgba(85, 0, 64, 1);
+  --magenta950: rgba(43, 0, 32, 1);
+
   /* Pink */
   --pink50: rgba(253, 242, 248, 1);
   --pink100: rgba(252, 231, 243, 1);
@@ -288,4 +340,17 @@
   --rose800: rgba(159, 18, 57, 1);
   --rose900: rgba(136, 19, 55, 1);
   --rose950: rgba(76, 5, 25, 1);
+
+  /* Coral */
+  --coral50: rgba(255, 244, 240, 1);
+  --coral100: rgba(255, 230, 220, 1);
+  --coral200: rgba(255, 209, 189, 1);
+  --coral300: rgba(255, 182, 157, 1);
+  --coral400: rgba(255, 139, 104, 1);
+  --coral500: rgba(255, 87, 60, 1);
+  --coral600: rgba(230, 60, 35, 1);
+  --coral700: rgba(204, 45, 26, 1);
+  --coral800: rgba(153, 34, 19, 1);
+  --coral900: rgba(102, 23, 13, 1);
+  --coral950: rgba(51, 11, 6, 1);
 }

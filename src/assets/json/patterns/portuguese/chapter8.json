@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Tanto ... quanto ... são importantes porque ...",
+    "translation": "Both ... and ... are important because ...",
+    "b1": [
+      "Tanto o estudo quanto o descanso são importantes porque precisamos de equilíbrio.",
+      "Tanto comer bem quanto fazer exercício são importantes porque ajudam a saúde.",
+      "Tanto a prática quanto a teoria são importantes porque completam o aprendizado.",
+      "Tanto a água quanto o sol são importantes porque alimentam as plantas.",
+      "Tanto ouvir quanto falar são importantes porque melhoram a conversa."
+    ],
+    "b2": [
+      "Tanto a inovação quanto a estabilidade são importantes porque sustentam o crescimento da empresa.",
+      "Tanto o planejamento estratégico quanto a execução são importantes porque garantem o sucesso do projeto.",
+      "Tanto a satisfação do cliente quanto o lucro são importantes porque mantêm o negócio viável.",
+      "Tanto a comunicação interna quanto a externa são importantes porque evitam ruídos na equipe.",
+      "Tanto a flexibilidade quanto o rigor são importantes porque lidam bem com os imprevistos."
+    ],
+    "c1": [
+      "Tanto a governança corporativa rigorosa quanto a agilidade operacional são importantes porque mitigam riscos sistêmicos sem paralisar a inovação.",
+      "Tanto a proteção de ativos intangíveis quanto a liquidez financeira imediata são importantes porque asseguram a resiliência patrimonial da holding.",
+      "Tanto a conformidade regulatória estrita quanto a flexibilidade contratual são importantes porque viabilizam operações complexas sem sanções.",
+      "Tanto a auditoria independente quanto o controle interno descentralizado são importantes porque garantem a integridade das demonstrações contábeis.",
+      "Tanto a retenção de talentos estratégicos quanto a otimização de custos são importantes porque sustentam a competitividade no longo prazo."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Ao contrário de ..., no entanto, ...",
+    "translation": "Unlike ..., however, ...",
+    "b1": [
+      "Ao contrário de ontem, no entanto, hoje está fazendo muito sol.",
+      "Ao contrário do meu irmão, no entanto, eu prefiro café.",
+      "Ao contrário do esperado, no entanto, a prova foi fácil.",
+      "Ao contrário da cidade, no entanto, o campo é muito calmo.",
+      "Ao contrário de mim, no entanto, ela gosta de correr."
+    ],
+    "b2": [
+      "Ao contrário do trimestre passado, no entanto, as vendas registraram uma alta expressiva.",
+      "Ao contrário do plano original, no entanto, tivemos que mudar o cronograma.",
+      "Ao contrário da nossa equipe, no entanto, eles optaram por uma abordagem mais conservadora.",
+      "Ao contrário do software antigo, no entanto, este sistema é bem mais intuitivo.",
+      "Ao contrário das expectativas da diretoria, no entanto, o projeto foi concluído antes do prazo."
+    ],
+    "c1": [
+      "Ao contrário da tese de investimento inicial, no entanto, a due diligence revelou assimetrias contábeis profundas.",
+      "Ao contrário do cenário macroeconômico adverso, no entanto, a empresa expandiu suas margens operacionais brutas.",
+      "Ao contrário do acórdão anterior, no entanto, a jurisprudência atual restringe a dedutibilidade dessas despesas.",
+      "Ao contrário do pactuado no memorando de entendimento, no entanto, o contrato definitivo incluiu novas restrições fiduciárias.",
+      "Ao contrário da volatilidade observada no setor, no entanto, a liquidez da companhia permaneceu blindada por hedges."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "A principal diferença entre ... e ... é que ...",
+    "translation": "The main difference between ... and ... is that ...",
+    "b1": [
+      "A principal diferença entre o gato e o cachorro é que o gato mia e o cachorro late.",
+      "A principal diferença entre hoje e amanhã é que amanhã é sábado.",
+      "A principal diferença entre este livro e aquele é que este é mais curto.",
+      "A principal diferença entre o meu carro e o seu é que o meu é elétrico.",
+      "A principal diferença entre o verão e o inverno é a temperatura."
+    ],
+    "b2": [
+      "A principal diferença entre o marketing digital e o tradicional é que o digital permite métricas em tempo real.",
+      "A principal diferença entre o modelo remoto e o presencial é que o remoto oferece maior flexibilidade de horário.",
+      "A principal diferença entre a nossa proposta e a da concorrência é o suporte pós-venda.",
+      "A principal diferença entre este plano e o básico é a quantidade de recursos incluídos.",
+      "A principal diferença entre o lucro bruto e o líquido é a dedução dos impostos e despesas."
+    ],
+    "c1": [
+      "A principal diferença entre a recuperação judicial e a extrajudicial é que a segunda dispensa a tutela assemblear formal em sua fase inicial.",
+      "A principal diferença entre a dívida subordinada e a quirografária é a prioridade de recebimento em caso de liquidação.",
+      "A principal diferença entre o ato de concentração e a joint venture societária é o grau de integração estrutural exigido pelo regulador.",
+      "A principal diferença entre o goodwill gerado internamente e o adquirido é o reconhecimento contábil no balanço patrimonial.",
+      "A principal diferença entre o compliance preventivo e o reativo é a capacidade de antecipar sanções penais corporativas."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "... é semelhante a ... no fato de que ...",
+    "translation": "... is similar to ... in that ...",
+    "b1": [
+      "Este filme é semelhante ao anterior no fato de que ambos são muito divertidos.",
+      "A minha rotina é semelhante à sua no fato de que acordamos cedo.",
+      "Esta cidade é semelhante à minha no fato de que tem muitas praias.",
+      "Este carro é semelhante àquele no fato de que consomem pouco combustível.",
+      "O meu gato é semelhante ao seu no fato de que dormem o dia todo."
+    ],
+    "b2": [
+      "O nosso novo produto é semelhante ao concorrente no fato de que atende ao mesmo público-alvo.",
+      "Esta estratégia de vendas é semelhante à do ano passado no fato de que prioriza o mercado corporativo.",
+      "O relatório financeiro de maio é semelhante ao de abril no fato de que os custos operacionais se mantiveram estáveis.",
+      "A estrutura da nossa equipe é semelhante à deles no fato de que dividimos as tarefas por squads.",
+      "Este contrato é semelhante ao anterior no fato de que inclui cláusulas de confidencialidade rigorosas."
+    ],
+    "c1": [
+      "A atual crise de liquidez é semelhante à de dois mil e oito no fato de que decorre de uma retração sistêmica no crédito interbancário.",
+      "Esta modalidade de emissão de debêntures é semelhante ao project finance tradicional no fato de que o fluxo de caixa serve como garantia primária.",
+      "A tese de reestruturação operacional é semelhante à adotada no setor de telecomunicações no fato de que busca a desmobilização de ativos pesados.",
+      "O passivo contingente desta aquisição é semelhante ao do caso anterior no fato de que envolve litígios trabalhistas coletivos de longa duração.",
+      "A governança deste fundo de private equity é semelhante à de um trust no fato de que confere amplos poderes de gestão fiduciária aos administradores."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Enquanto ... tem X, ... tem Y.",
+    "translation": "While ... has X, ... has Y.",
+    "b1": [
+      "Enquanto o meu quarto tem janela para a rua, o seu quarto tem vista para o jardim.",
+      "Enquanto o meu carro tem quatro portas, o dele tem apenas duas.",
+      "Enquanto esta blusa tem mangas longas, aquela tem mangas curtas.",
+      "Enquanto o suco tem açúcar, a água tem apenas minerais.",
+      "Enquanto a minha cidade tem praia, a sua cidade tem montanha."
+    ],
+    "b2": [
+      "Enquanto o plano básico tem limite de armazenamento, o plano profissional tem espaço ilimitado.",
+      "Enquanto a equipe de marketing tem foco na aquisição de clientes, a equipe de produto tem foco na retenção.",
+      "Enquanto o relatório trimestral tem dados sobre vendas, o relatório anual tem análises macroeconômicas completas.",
+      "Enquanto o fornecedor A tem preços mais baixos, o fornecedor B tem prazos de entrega mais rápidos.",
+      "Enquanto a nossa filial tem autonomia financeira, a matriz tem controle centralizado de decisões."
+    ],
+    "c1": [
+      "Enquanto a classe de ações ordinárias tem direito a voto pleno, a classe preferencial tem prioridade na distribuição de dividendos.",
+      "Enquanto o passivo circulante tem exigibilidade de curto prazo, o passivo não circulante tem vencimentos de longo prazo estruturados.",
+      "Enquanto a holding tem responsabilidade limitada ao capital subscrito, o sócio gestor tem obrigações fiduciárias específicas.",
+      "Enquanto o contrato bilateral tem rigidez nas penalidades, o acordo multilateral tem flexibilidade de rediscussão de escopo.",
+      "Enquanto a auditoria externa tem o escopo restrito às demonstrações contábeis, a auditoria interna tem abrangência operacional irrestrita."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Por um lado ..., mas por outro lado, ...",
+    "translation": "On the one hand ..., but on the other hand, ...",
+    "b1": [
+      "Por um lado o filme é divertido, mas por outro lado é muito longo.",
+      "Por um lado morar no centro é prático, mas por outro lado é muito barulhento.",
+      "Por um lado eu quero ir à festa, but por outro lado preciso estudar.",
+      "Por um lado o carro é barato, mas por outro lado gasta muita gasolina.",
+      "Por um lado o trabalho é cansativo, mas por outro lado paga bem."
+    ],
+    "b2": [
+      "Por um lado o home office traz flexibilidade de horário, mas por outro lado dificulta a integração da equipe.",
+      "Por um lado a expansão para o exterior aumenta a receita, mas por outro lado eleva os riscos cambiais.",
+      "Por um lado automatizar o processo economiza tempo, mas por outro lado exige um alto investimento inicial.",
+      "Por um lado o novo software é completo, mas por outro lado sua interface é complexa para os usuários.",
+      "Por um lado aceitar a proposta garante o contrato, mas por outro lado reduz a nossa margem de lucro."
+    ],
+    "c1": [
+      "Por um lado a abertura de capital atrai liquidez institucional, mas por outro lado expõe a companhia a exigências severas de governança e volatilidade trimestral.",
+      "Por um lado a adoção de estruturas offshore otimiza a carga tributária, mas por outro lado atrai escrutínio rigoroso dos órgãos de conformidade fiscal.",
+      "Por um lado a consolidação via fusão elimina concorrentes diretos, mas por outro lado atrai o veto antitruste do Cade por concentração de mercado.",
+      "Por um lado a emissão de dívida subordinada preserva o controle acionário, mais por outro lado encarece o custo de capital da holding.",
+      "Por um lado a transição para modelos baseados em IA reduz custos operacionais, mas por outro lado gera um risco sistêmico de obsolescência de talentos."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Em comparação com ..., ...",
+    "translation": "In comparison to ..., ...",
+    "b1": [
+      "Em comparação com o ano passado, este inverno está bem mais frio.",
+      "Em comparação com o meu antigo emprego, este paga muito melhor.",
+      "Em comparación com a minha casa velha, este apartamento é menor.",
+      "Em comparação com a semana passada, hoje temos menos trabalho.",
+      "Em comparação com o preço de ontem, o produto encareceu hoje."
+    ],
+    "b2": [
+      "Em comparação com os concorrentes, a nossa taxa de retenção de clientes é bastante superior.",
+      "Em comparação com o orçamento previsto, os custos da obra ficaram abaixo do esperado.",
+      "Em comparación com a versão anterior, este aplicativo consome muito menos bateria.",
+      "Em comparação com o mercado nacional, o setor de tecnologia cresceu de forma acelerada.",
+      "Em comparação com a média da equipe, o seu desempenho superou todas as metas."
+    ],
+    "c1": [
+      "Em comparação com os pares do setor, a alavancagem financeira da empresa encontra-se em patamares desfavoráveis.",
+      "Em comparação com o arcabouço normativo anterior, a nova lei de licitações impõe controles de conformidade mais rigorosos.",
+      "Em comparación com a volatilidade histórica do Ibovespa, este ativo apresentou um índice de Sharpe consideravelmente superior.",
+      "Em comparação com o passivo contingente apurado na due diligence, as provisões registradas no balanço revelaram-se insuficientes.",
+      "Em comparação com a expansão orgânica, a estratégia de M&A acelerou significativamente o nosso ganho de market share."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Por outro lado, a situação com ... é bem diferente.",
+    "translation": "Conversely, the situation with ... is quite different.",
+    "b1": [
+      "Na minha casa todos gostam de peixe; por outro lado, a situação com o meu irmão é bem diferente.",
+      "Aqui o tempo está ótimo; por outro lado, a situação no sul do país é bem diferente.",
+      "O meu projeto foi aprovado rápido; por outro lado, a situação com os meus colegas é bem diferente.",
+      "Eu entendi a matéria logo; por outro lado, a situação com os outros alunos é bem diferente.",
+      "Este mês tivemos lucro; por outro lado, a situação com o estoque é bem diferente."
+    ],
+    "b2": [
+      "No nosso setor as vendas estão subindo; por outro lado, a situação com o varejo físico é bem diferente.",
+      "A nossa filial na capital está lucrando; por outro lado, a situação com as unidades do interior é bem diferente.",
+      "O nosso projeto de software correu bem; por outro lado, a situação com a infraestrutura de rede é bem diferente.",
+      "Nossa equipe conseguiu bater a meta; por outro lado, a situação com o departamento financeiro é bem diferente.",
+      "O mercado europeu aceitou bem o produto; por outro lado, a situação com o mercado asiático é bem diferente."
+    ],
+    "c1": [
+      "As empresas de grande capitalização absorveram bem o choque dos juros; por outro lado, a situação com as mid-caps listadas é bem diferente.",
+      "Os ativos imobiliários mantiveram sua valorização nominal; por outro lado, a situação com os títulos públicos prefixados é bem diferente.",
+      "O passivo trabalhista da holding foi integralmente saneado; por outro lado, a situação com as subsidiárias operacionais é bem diferente.",
+      "A conformidade regulatória no setor financeiro é altamente padronizada; por outro lado, a situação com o mercado de criptoativos é bem diferente.",
+      "A liquidez no segmento de alta renda permaneceu resiliente; por outro lado, a situação com o crédito ao consumidor de massa é bem diferente."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Eles compartilham várias características comuns, tais como ...",
+    "translation": "They share several common characteristics, such as ...",
+    "b1": [
+      "Eles compartilham várias características comuns, tais como a cor do cabelo e a altura.",
+      "Os dois carros compartilham várias características comuns, tais como o motor econômico e quatro portas.",
+      "Essas cidades compartilham várias características comuns, tais como o clima quente e praias lindas.",
+      "Esses livros compartilham várias características comuns, tais como o autor e o estilo de escrita.",
+      "Os meus irmãos compartilham várias características comuns, tais como o gosto pela música."
+    ],
+    "b2": [
+      "As duas empresas compartilham várias características comuns, tais como a cultura ágil e o foco em inovação.",
+      "Esses softwares compartilham várias características comuns, tais como a interface intuitiva e a integração com a nuvem.",
+      "Os candidatos compartilham várias características comuns, tais como fluência em inglês e experiência em gestão.",
+      "Esses mercados compartilham várias características comuns, tais como alta concorrência e margens apertadas.",
+      "Os projetos compartilham várias características comuns, tais como prazos curtos e dependência de tecnologia."
+    ],
+    "c1": [
+      "Essas operações de M&A compartilham várias características comuns, tais como a complexidade regulatória e a exigência de due diligence exaustiva.",
+      "Os fundos de private equity compartilham várias características comuns, tais como a alavancagem estruturada e o horizonte de desinvestimento de médio prazo.",
+      "Esses passivos contingentes compartilham várias características comuns, tais como a incerteza probabilística e o potencial impacto patrimonial relevante.",
+      "As holdings familiares compartilham várias características comuns, tais como a concentração de voto e a blindagem patrimonial via acordo de acionistas.",
+      "Esses instrumentos derivativos compartilham várias características comuns, tais como a exposição à volatilidade cambial e a exigência de margem de garantia."
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "O grau de ... é muito maior em ... do que em ...",
+    "translation": "The degree of ... is much greater in ... than in ...",
+    "b1": [
+      "O grau de dificuldade é muito maior nesta prova do que na anterior.",
+      "O grau de umidade é muito maior no litoral do que no interior.",
+      "O grau de calor é muito maior em janeiro do que em julho.",
+      "O grau de atenção exigido é muito maior neste jogo do que naquele.",
+      "O grau de cansaço é muito maior hoje do que ontem."
+    ],
+    "b2": [
+      "O grau de exigência do cliente é muito maior no setor corporativo do que no varejo.",
+      "O grau de automação é muito maior na nossa nova fábrica do que na antiga.",
+      "O grau de incerteza econômica é muito maior neste trimestre do que no anterior.",
+      "O grau de complexidade do projeto é muito maior do que imaginávamos no início.",
+      "O grau de concorrência é muito maior no mercado digital do que no físico."
+    ],
+    "c1": [
+      "O grau de assimetria informacional é muito maior nas negociações de empresas fechadas do que nas companhias abertas.",
+      "O grau de endividamento estrutural é muito maior no setor industrial do que no segmento de tecnologia de ponta.",
+      "O grau de rigidez regulatória é muito maior nas instituições financeiras do que nas empresas comerciais.",
+      "O grau de exposição cambial é muito maior nas empresas importadoras do que naquelas com receita estritamente doméstica.",
+      "O grau de volatilidade estocástica é muito maior nos mercados emergentes do que nas economias desenvolvidas consolidadas."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Embora ... seja verdade, nós também devemos considerar ...",
+    "translation": "Although ... is true, we must also consider ...",
+    "b1": [
+      "Embora o preço seja alto, nós também devemos considerar a qualidade do produto.",
+      "Embora o filme seja longo, nós também devemos considerar que a história é ótima.",
+      "Embora faça frio, nós também devemos considerar que a paisagem é linda.",
+      "Embora o trabalho seja difícil, nós também devemos considerar que o salário é bom.",
+      "Embora o dia esteja nublado, nós também devemos considerar dar uma caminhada."
+    ],
+    "b2": [
+      "Embora o lucro tenha aumentado, nós também devemos considerar a alta nos custos operacionais.",
+      "Embora o prazo seja apertado, nós também devemos considerar a importância deste cliente para a empresa.",
+      "Embora a equipe seja pequena, nós também devemos considerar a alta produtividade de cada membro.",
+      "Embora a ferramenta seja cara, nós também devemos considerar o tempo que ela poupará da equipe.",
+      "Embora a proposta seja arriscada, nós também devemos considerar o potencial de retorno financeiro."
+    ],
+    "c1": [
+      "Embora a rentabilidade bruta seja expressiva, nós também devemos considerar o impacto dos passivos contingentes trabalhistas.",
+      "Embora o ato de concentração tenha sido aprovado, nós também devemos considerar as restrições impostas pelo Cade.",
+      "Embora a taxa de juros esteja em queda, nós também devemos considerar a persistência da inflação de serviços.",
+      "Embora a due diligence não tenha apontado fraudes, nós também devemos considerar as brechas de governança interna.",
+      "Embora a captação via debêntures tenha sido bem-sucedida, nós também devemos considerar o encarecimento do serviço da dívida."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Um ponto significativo de divergência é ...",
+    "translation": "A significant point of divergence is ...",
+    "b1": [
+      "Um ponto significativo de divergência é o preço do bilhete.",
+      "Um ponto significativo de divergência é o horário de saída.",
+      "Um ponto significativo de divergência é a escolha do restaurante.",
+      "Um ponto significativo de divergência é a cor da parede.",
+      "Um ponto significativo de divergência é o roteiro da viagem."
+    ],
+    "b2": [
+      "Um ponto significativo de divergência entre as equipes é a prioridade das tarefas do projeto.",
+      "Um ponto significativo de divergência na reunião foi a divisão do orçamento trimestral.",
+      "Um ponto significativo de divergência com o fornecedor foi o prazo de pagamento das faturas.",
+      "Um ponto significativo de divergência na proposta contratual foi a cláusula de rescisão.",
+      "Um ponto significativo de divergência entre os sócios foi a estratégia de expansão internacional."
+    ],
+    "c1": [
+      "Um ponto significativo de divergência no acordo de acionistas foi a inclusão de mecanismos de tag-along e drag-along.",
+      "Um ponto significativo de divergência durante a due diligence foi a mensuração contábil dos ativos intangíveis.",
+      "Um ponto significativo de divergência na assembleia de credores foi o deságio proposto no plano de recuperação.",
+      "Um ponto significativo de divergência com o órgão antitruste foi a definição do mercado relevante de atuação.",
+      "Um ponto significativo de divergência na modelagem financeira foi a taxa de desconto aplicada ao fluxo de caixa."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Eles são fundamentalmente semelhantes, exceto por ...",
+    "translation": "They are fundamentally similar, except for ...",
+    "b1": [
+      "Eles são fundamentalmente semelhantes, exceto pela cor.",
+      "Esses dois computadores são fundamentalmente semelhantes, exceto pelo tamanho da tela.",
+      "Os prédios são fundamentalmente semelhantes, exceto pela entrada principal.",
+      "As duas blusas são fundamentalmente semelhantes, exceto pelo tecido.",
+      "Esses telefones são fundamentalmente semelhantes, exceto pela capacidade de memória."
+    ],
+    "b2": [
+      "Os dois planos de assinatura são fundamentalmente semelhantes, exceto pelo limite de usuários ativos.",
+      "Esses relatórios financeiros são fundamentalmente semelhantes, exceto pela inclusão dos custos de marketing.",
+      "As propostas comerciais são fundamentalmente semelhantes, exceto pelo prazo de garantia oferecido.",
+      "Os softwares são fundamentalmente semelhantes, exceto pela compatibilidade com sistemas legados.",
+      "Esses contratos de trabalho são fundamentalmente semelhantes, exceto pela cláusula de exclusividade."
+    ],
+    "c1": [
+      "As estruturas dessas debêntures são fundamentalmente semelhantes, exceto pela garantia real oferecida aos credores.",
+      "Essas holdings de investimentos são fundamentalmente semelhantes, exceto pela composição do comitê deliberativo.",
+      "Os acordos de leniência são fundamentalmente semelhantes, exceto pelo escopo das sanções pecuniárias aplicadas.",
+      "Esses modelos de governança são fundamentalmente semelhantes, exceto pela proporção de conselheiros independentes.",
+      "As classes de ações são fundamentalmente semelhantes, exceto pelo direito ao dividendo mínimo obrigatório."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "... é muito mais eficaz do que ... porque ...",
+    "translation": "... is far more effective than ... because ...",
+    "b1": [
+      "Estudar com flashcards é muito mais eficaz do que ler apenas o livro porque ajuda a fixar melhor a matéria.",
+      "Correr de manhã é muito mais eficaz do que à noite porque nos dá energia o dia todo.",
+      "Beber água é muito mais eficaz do que refrigerante porque hidrata o corpo de verdade.",
+      "Planejar o dia é muito mais eficaz do que improvisar porque evita desperdício de tempo.",
+      "Falar inglês com nativos é muito mais eficaz do que só estudar gramática porque treina a fala real."
+    ],
+    "b2": [
+      "Automatizar o fluxo de aprovação é muito mais eficaz do que o processo manual porque reduz drasticamente os erros humanos.",
+      "Oferecer suporte via chat ao vivo é muito mais eficaz do que por e-mail porque resolve o problema do cliente na hora.",
+      "Fazer testes A/B nas campanhas é muito mais eficaz do que adivinhar gostos porque se baseia em dados reais de conversão.",
+      "Investir em marketing de conteúdo é muito mais eficaz do que anúncios tradicionais porque atrai clientes mais qualificados.",
+      "Dividir o projeto em sprints semanais é muito mais eficaz do que uma entrega única porque permite correções rápidas de rota."
+    ],
+    "c1": [
+      "A adoção de contratos inteligentes baseados em blockchain é muito mais eficaz do que a arbitragem tradicional porque automatiza a execução de garantias sem atrito judicial.",
+      "A due diligence preventiva integrada é muito mais eficaz do que a auditoria reativa pós-aquisição porque identifica passivos ocultos antes da assinatura do contrato.",
+      "A estruturação de derivativos de hedge cambial é muito mais eficaz do que a retenção de caixa em moeda estrangeira porque protege a margem operacional sem imobilizar capital de giro.",
+      "A implementação de compliance baseado em inteligência artificial é muito mais eficaz do que o controle manual porque detecta desvios regulatórios em tempo real.",
+      "A emissão de dívida com covenants atrelados a metas ESG é muito mais eficaz do que empréstimos convencionais porque reduz o custo de capital ao alinhar incentivos sustentáveis."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "Nós podemos traçar um paralelo entre ... e ...",
+    "translation": "We can draw a parallel between ... and ...",
+    "b1": [
+      "Nós podemos traçar um paralelo entre aprender a tocar piano e aprender a falar uma língua.",
+      "Nós podemos traçar um paralelo entre a vida das plantas e a vida humana.",
+      "Nós podemos traçar um paralelo entre este livro e o filme que vimos ontem.",
+      "Nós podemos traçar um paralelo entre o trânsito de hoje e o de feriado.",
+      "Nós podemos traçar um paralelo entre a minha infância e a do meu irmão."
+    ],
+    "b2": [
+      "Nós podemos traçar um paralelo entre a expansão desta startup e o crescimento das grandes techs nos anos 2000.",
+      "Nós podemos traçar um paralelo entre a crise de abastecimento atual e a que ocorreu na década passada.",
+      "Nós podemos traçar um paralelo entre a gestão desta equipe e a dinâmica de um time de alto rendimento.",
+      "Nós podemos traçar um paralelo entre a estratégia de marketing deste produto e o lançamento do ano passado.",
+      "Nós podemos traçar um paralelo entre a transição para o home office e a revolução industrial."
+    ],
+    "c1": [
+      "Nós podemos traçar um paralelo entre a atual concentração do mercado de tecnologia e os monopólios formados na era industrial.",
+      "Nós podemos traçar um paralelo entre a bolha das pontocom e o comportamento especulativo recente em determinados ativos digitais.",
+      "Nós podemos traçar um paralelo entre a derrocada deste conglomerado e a falência sistêmica de instituições financeiras em crises passadas.",
+      "Nós podemos traçar um paralelo entre a rigidez do arcabouço regulatório atual e as restrições protecionistas do pós-guerra.",
+      "Nós podemos traçar um paralelo entre a reestruturação desta dívida soberana e os acordos de renegociação de passivos corporativos privados."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Nem ... nem ... oferece ...",
+    "translation": "Neither ... nor ... provides ...",
+    "b1": [
+      "Nem o hotel nem a pousada oferece café da manhã incluído.",
+      "Nem este livro nem aquele oferece respostas para o exercício.",
+      "Nem o ônibus nem o metrô oferece viagens diretas para lá.",
+      "Nem o meu celular nem o do meu irmão oferece boa câmera.",
+      "Nem a loja física nem a virtual oferece desconto hoje."
+    ],
+    "b2": [
+      "Nem o plano básico nem o intermediário oferece suporte técnico vinte e quatro horas por dia.",
+      "Nem a proposta do fornecedor A nem a do fornecedor B oferece garantia estendida para o equipamento.",
+      "Nem o relatório trimestral nem o balanço anual oferece detalhes sobre os custos por departamento.",
+      "Nem a ferramenta gratuita nem a versão de testes oferece acesso completo às funções avançadas.",
+      "Nem o candidato interno nem o externo oferece experiência prévia no nosso segmento de mercado."
+    ],
+    "c1": [
+      "Nem a cláusula de earn-out nem o mecanismo de escrow oferece proteção integral contra fraudes contábeis ocultas na empresa alvo.",
+      "Nem o parecer da auditoria independente nem a análise interna oferece garantias absolutas sobre a inexistência de passivos fiscais latentes.",
+      "Nem a recuperação judicial padrão nem a extrajudicial oferece ferramentas para a repactuação automática de contratos com órgãos públicos.",
+      "Nem a governança descentralizada nem o conselho consultivo oferece segurança jurídica suficiente para operações em jurisdições de alto risco.",
+      "Nem o seguro de responsabilidade civil direcional nem a apólice corporativa oferece cobertura integral para multas decorrentes de infrações dolosas."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Quando comparado com ..., ... parece ser ...",
+    "translation": "When balanced against ..., ... appears to be ...",
+    "b1": [
+      "Quando comparado com o preço de ontem, este valor parece ser justo.",
+      "Quando comparado com o meu carro antigo, este parece ser bem mais rápido.",
+      "Quando comparado com o teste de ontem, este parece ser mais fácil.",
+      "Quando comparado com o mês passado, o clima parece ser mais ameno.",
+      "Quando comparado com o plano inicial, este roteiro parece ser melhor."
+    ],
+    "b2": [
+      "Quando comparado com o investimento necessário, o retorno deste projeto parece ser bastante vantajoso.",
+      "Quando comparado com as opções do mercado, este software parece ser a escolha mais econômica.",
+      "Quando comparado com o cronograma anterior, este novo prazo parece ser mais realista.",
+      "Quando comparado com a média do setor, o nosso crescimento parece ser expressivo.",
+      "Quando comparado com o relatório anterior, este balanço parece ser mais sólido."
+    ],
+    "c1": [
+      "Quando comparado com os riscos sistêmicos da operação, o prêmio de aquisição negociado parece ser excessivamente elevado.",
+      "Quando comparado com a complexidade da due diligence, o escopo contratual acordado parece ser simplista.",
+      "Quando comparado com a perda de receita gerada pela inatividade, o custo do suporte técnico parece ser insignificante.",
+      "Quando comparado com as exigências de conformidade da CVM, o modelo de governança atual parece ser deficitário.",
+      "Quando comparado com a volatilidade do câmbio, o ganho de eficiência operacional parece ser marginal."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Há um contraste evidente na abordagem deles sobre ...",
+    "translation": "There is a stark contrast in their approach to ...",
+    "b1": [
+      "Há um contraste evidente na abordagem deles sobre como organizar a festa.",
+      "Há um contraste evidente na abordagem deles sobre a educação dos filhos.",
+      "Há um contraste evidente na abordagem deles sobre a escolha da casa nova.",
+      "Há um contraste evidente na abordagem deles sobre como gastar o dinheiro.",
+      "Há um contraste evidente na abordagem deles sobre resolver este problema."
+    ],
+    "b2": [
+      "Há um contraste evidente na abordagem deles sobre a gestão de equipes e prazos de entrega.",
+      "Há um contraste evidente na abordagem deles sobre o investimento em marketing digital versus tradicional.",
+      "Há um contraste evidente na abordagem deles sobre a segurança de dados e privacidade dos usuários.",
+      "Há um contraste evidente na abordagem deles sobre a expansão internacional e foco local.",
+      "Há um contraste evidente na abordagem deles sobre a inovação de produtos e redução de custos."
+    ],
+    "c1": [
+      "Há um contraste evidente na abordagem deles sobre a alocação de capital e a política de endividamento da holding.",
+      "Há um contraste evidente na abordagem deles sobre a gestão de passivos contingentes e a estratégia de contencioso judicial.",
+      "Há um contraste evidente na abordagem deles sobre a governança de dados sensíveis e a conformidade com a LGPD.",
+      "Há um contraste evidente na abordagem deles sobre a fusão societária e a preservação da cultura organizacional nativa.",
+      "Há um contraste evidente na abordagem deles sobre a remuneração executiva vinculada a metas ESG e o lucro de curto prazo."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "A semelhança está no fato de que ...",
+    "translation": "The similarity lies in the fact that ...",
+    "b1": [
+      "A semelhança entre os dois filmes está no fato de que ambos têm finais surpreendentes.",
+      "A semelhança nas nossas casas está no fato de que as duas ficam perto da praia.",
+      "A semelhança entre estes carros está no fato de que gastam pouca gasolina.",
+      "A semelhança nos meus empregos está no fato de que exigem falar inglês.",
+      "A semelhança entre os irmãos está no fato de que gostam muito de futebol."
+    ],
+    "b2": [
+      "A semelhança entre as campanhas está no fato de que ambas focam no público jovem.",
+      "A semelhança entre os relatórios está no fato de que apontam uma queda nas vendas de maio.",
+      "A semelhança entre as empresas está no fato de que utilizam a mesma metodologia ágil.",
+      "A semelhança entre os softwares está no fato de que exigem conexão constante com a internet.",
+      "A semelhança entre os contratos está no fato de que preveem reajuste anual pelo IPCA."
+    ],
+    "c1": [
+      "A semelhança entre essas recuperações judiciais está no fato de que ambas compartilham a mesma escassez de capital de giro.",
+      "A semelhança entre as operações de M&A está no fato de que dependem da aprovação prévia do Cade.",
+      "A semelhança entre esses passivos está no fato de que derivam da mesma linha jurisprudencial trabalhista desfavorável.",
+      "A semelhança entre as emissões de debêntures está no fato de que os covenants exigem índices rígidos de alavancagem.",
+      "A semelhança entre os fundos está no fato de que aplicam a mesma tese de desinvestimento em ativos distressed."
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Comparado lado a lado, ... claramente supera ...",
+    "translation": "Compared side by side, ... clearly outperforms ...",
+    "b1": [
+      "Comparado lado a lado, o meu celular novo claramente supera o antigo.",
+      "Comparado lado a lado, este restaurante claramente supera o outro em sabor.",
+      "Comparado lado a lado, o meu computador claramente supera o do meu irmão em velocidade.",
+      "Comparado lado a lado, este casaco claramente supera o outro no frio.",
+      "Comparado lado a lado, o meu time claramente supera o adversário em campo."
+    ],
+    "b2": [
+      "Comparado lado a lado, o nosso software claramente supera a concorrência em usabilidade.",
+      "Comparado lado a lado, o novo modelo de negócios claramente supera o anterior em margem de lucro.",
+      "Comparado lado a lado, o plano corporativo claramente supera o básico em recursos de segurança.",
+      "Comparado lado a lado, o desempenho da equipe de vendas deste trimestre claramente supera o do ano passado.",
+      "Comparado lado a lado, este fornecedor claramente supera o antigo em pontualidade de entrega."
+    ],
+    "c1": [
+      "Comparado lado a lado, o modelo de governança da empresa adquirida claramente supera o da nossa estrutura legada em transparência.",
+      "Comparado lado a lado, o fundo de private equity com gestão ativa claramente supera o índice de referência em rentabilidade líquida ajustada ao risco.",
+      "Comparado lado a lado, o sistema de compliance preditivo claramente supera os controles manuais tradicionais em eficácia preventiva.",
+      "Comparado lado a lado, a estratégia de expansão internacional via aquisições claramente supera o crescimento orgânico em velocidade de penetração de mercado.",
+      "Comparado lado a lado, o fluxo de caixa gerado pelas operações essenciais claramente supera a receita financeira de investimentos especulativos."
+    ]
+  }
+]

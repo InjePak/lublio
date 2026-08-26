@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "pattern": "Gostaria de informar que ...",
+    "translation": "I'd like to inform you that ...",
+    "b1": [
+      "Gostaria de informar que o evento foi cancelado.",
+      "Gostaria de informar que cheguei bem.",
+      "Gostaria de informar que mudei de número.",
+      "Gostaria de informar que a encomenda chegou.",
+      "Gostaria de informar que estarei ausente amanhã."
+    ],
+    "b2": [
+      "Gostaria de informar que o cronograma do projeto sofreu alterações.",
+      "Gostaria de informar que a reunião foi remarcada para quinta-feira.",
+      "Gostaria de informar que o relatório financeiro já está disponível.",
+      "Gostaria de informar que concluímos a primeira fase dos testes.",
+      "Gostaria de informar que o contrato foi assinado com sucesso."
+    ],
+    "c1": [
+      "Gostaria de informar que o arranjo societário foi homologado pelas instâncias competentes.",
+      "Gostaria de informar que a due diligence não apontou passivos contingentes relevantes.",
+      "Gostaria de informar que a reestruturação da dívida foi pactuada com os credores.",
+      "Gostaria de informar que o ato de concentração foi aprovado pelo órgão antitruste.",
+      "Gostaria de informar que a auditoria independente concluiu o parecer sem ressalvas."
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "O principal aprendizado aqui é ...",
+    "translation": "The key takeaway here is ...",
+    "b1": [
+      "O principal aprendizado aqui é estudar mais.",
+      "O principal aprendizado aqui é economizar dinheiro.",
+      "O principal aprendizado aqui é prestar atenção.",
+      "O principal aprendizado aqui é pedir ajuda quando necessário.",
+      "O principal aprendizado aqui é chegar na hora."
+    ],
+    "b2": [
+      "O principal aprendizado aqui é a importância da comunicação entre as equipes.",
+      "O principal aprendizado aqui é que o planejamento evita muitos erros.",
+      "O principal aprendizado aqui é ouvir o feedback dos clientes com atenção.",
+      "O principal aprendizado aqui é a flexibilidade diante de imprevistos.",
+      "O principal aprendizado aqui é testar o produto antes de lançá-lo."
+    ],
+    "c1": [
+      "O principal aprendizado aqui é a indissociabilidade entre governança e resiliência sistêmica.",
+      "O principal aprendizado aqui é que a assimetria informacional corrói a tese de investimento.",
+      "O principal aprendizado aqui é a urgência de mitigar riscos regulatórios em mercados emergentes.",
+      "O principal aprendizado aqui é que a rigidez estrutural compromete a adaptabilidade corporativa.",
+      "O principal aprendizado aqui é a necessidade de alinhar o incentivo financeiro aos critérios ESG."
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Para esclarecer, quero dizer ...",
+    "translation": "To clarify, I mean ...",
+    "b1": [
+      "Para esclarecer, quero dizer que podemos ir amanhã.",
+      "Para esclarecer, quero dizer que não gosto de café.",
+      "Para esclarecer, quero dizer que a chave está ali.",
+      "Para esclarecer, quero dizer que fiz isso sozinho.",
+      "Para esclarecer, quero dizer que a blusa é azul."
+    ],
+    "b2": [
+      "Para esclarecer, quero dizer que precisamos revisar o orçamento antes de aprovar.",
+      "Para esclarecer, quero dizer que a nossa meta mudou para este trimestre.",
+      "Para esclarecer, quero dizer que a prioridade é o atendimento ao cliente.",
+      "Para esclarecer, quero dizer que o sistema ficará fora do ar à noite.",
+      "Para esclarecer, quero dizer que a contratação depende da aprovação da diretoria."
+    ],
+    "c1": [
+      "Para esclarecer, quero dizer que a reestruturação não implica a liquidação dos ativos centrais.",
+      "Para esclarecer, quero dizer que a cláusula penal se aplica apenas em caso de descumprimento culposo.",
+      "Para esclarecer, quero dizer que a emissão de ações secundárias visa exclusivamente à capitalização.",
+      "Para esclarecer, quero dizer que o comitê deliberativo possui autonomia sob o escopo estatutário.",
+      "Para esclarecer, quero dizer que a cisão parcial resguarda o núcleo rentável de passivos legados."
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "De acordo com o relatório, ...",
+    "translation": "According to the report, ...",
+    "b1": [
+      "De acordo com o relatório, vai chover muito.",
+      "De acordo com o relatório, os preços subiram.",
+      "De acordo com o relatório, o teste foi fácil.",
+      "De acordo com o relatório, faltam dados.",
+      "De acordo com o relatório, o trem atrasou."
+    ],
+    "b2": [
+      "De acordo com o relatório, as vendas aumentaram no último trimestre.",
+      "De acordo com o relatório, o engajamento dos usuários caiu em maio.",
+      "De acordo com o relatório, os custos operacionais estão dentro do esperado.",
+      "De acordo com o relatório, a maioria dos clientes prefere o plano básico.",
+      "De acordo com o relatório, o prazo de entrega foi cumprido pela equipe."
+    ],
+    "c1": [
+      "De acordo com o relatório, a volatilidade macroeconômica comprimiu as margens operacionais brutas.",
+      "De acordo com o relatório, a concentração de receitas em poucos clientes representa um risco sistêmico.",
+      "De acordo com o relatório, a ineficiência logística elevou os custos logísticos em quarenta por cento.",
+      "De acordo com o relatório, o passivo contingente trabalhista superou as provisões estimadas.",
+      "De acordo com o relatório, a adoção da nova tecnologia gerou ganhos exponenciais de produtividade."
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "Deixe-me reformular isso: ...",
+    "translation": "Let me rephrase that: ...",
+    "b1": [
+      "Deixe-me reformular isso: o plano mudou.",
+      "Deixe-me reformular isso: eu não entendi.",
+      "Deixe-me reformular isso: vamos mais tarde.",
+      "Deixe-me reformular isso: ela não quer vir.",
+      "Deixe-me reformular isso: o preço é alto."
+    ],
+    "b2": [
+      "Deixe-me reformular isso: a equipe precisa de mais tempo para finalizar a tarefa.",
+      "Deixe-me reformular isso: o cliente não recusou a oferta, ele pediu mais prazo.",
+      "Deixe-me reformular isso: o problema não é o software, mas a nossa conexão.",
+      "Deixe-me reformular isso: precisamos focar no mercado corporativo e não no varejo.",
+      "Deixe-me reformular isso: o investimento não foi cancelado, foi apenas adiado."
+    ],
+    "c1": [
+      "Deixe-me reformular isso: a contingência jurídica não invalida o contrato, mas exige salvaguardas.",
+      "Deixe-me reformular isso: a descontinuidade do produto visa preservar a margem e não reduzir receita.",
+      "Deixe-me reformular isso: a assimetria de dados não decorre de má-fé, mas de limitações sistêmicas.",
+      "Deixe-me reformular isso: o conselho não vetou a fusão, mas impôs condições regulatórias estritas.",
+      "Deixe-me reformular isso: a reestruturação busca otimizar a alocação de capital e não cortar pessoal."
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "O que eu quis dizer foi que ...",
+    "translation": "What I meant to say was ...",
+    "b1": [
+      "O que eu quis dizer foi que podemos tentar de novo.",
+      "O que eu quis dizer foi que a cor é bonita.",
+      "O que eu quis dizer foi que eu pego a conta.",
+      "O que eu quis dizer foi que cheguei cedo.",
+      "O que eu quis dizer foi que não gosto de peixe."
+    ],
+    "b2": [
+      "O que eu quis dizer foi que o projeto deve seguir as novas diretrizes da empresa.",
+      "O que eu quis dizer foi que a nossa prioridade é entregar o relatório até sexta.",
+      "O que eu quis dizer foi que a decisão final cabe ao departamento financeiro.",
+      "O que eu quis dizer foi que precisamos de mais dados antes de decidir.",
+      "O que eu quis dizer foi que a comunicação entre os setores precisa melhorar."
+    ],
+    "c1": [
+      "O que eu quis dizer foi que a adoção de derivativos protege a operação contra flutuações cambiais.",
+      "O que eu quis dizer foi que a governança corporativa deve antecipar riscos de conformidade.",
+      "O que eu quis dizer foi que a valorização do ativo reflete expectativas futuras e não o fluxo atual.",
+      "O que eu quis dizer foi que a rigidez do arcabouço legal limita a flexibilidade negocial.",
+      "O que eu quis dizer foi que a expansão internacional exige uma estrutura societária dedicada."
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "O status atual é que ...",
+    "translation": "The current status is that ...",
+    "b1": [
+      "O status atual é que o documento está pronto.",
+      "O status atual é que a loja está fechada.",
+      "O status atual é que o carro está na oficina.",
+      "O status atual é que eles já viajaram.",
+      "O status atual é que o sistema caiu."
+    ],
+    "b2": [
+      "O status atual é que o projeto foi aprovado pela gerência.",
+      "O status atual é que estamos aguardando a resposta do fornecedor.",
+      "O status atual é que o relatório está em fase de revisão final.",
+      "O status atual é que a equipe de TI está resolvendo o bug.",
+      "O status atual é que as negociações estão em andamento."
+    ],
+    "c1": [
+      "O status atual é que a due diligence jurídica se encontra na fase de análise de passivos.",
+      "O status atual é que o ato de concentração aguarda o parecer vinculante do Cade.",
+      "O status atual é que a emissão de debêntures está sob análise da comissão de valores mobiliários.",
+      "O status atual é que o plano de recuperação extrajudicial foi protocolado e aguarda homologação.",
+      "O status atual é que o comitê de auditoria avalia a conformidade dos controles internos."
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "Em outras palavras, ...",
+    "translation": "In other words, ...",
+    "b1": [
+      "Em outras palavras, precisamos sair agora.",
+      "Em outras palavras, a resposta é não.",
+      "Em outras palavras, o teste foi difícil.",
+      "Em outras palavras, ela está ocupada.",
+      "Em outras palavras, o preço é bom."
+    ],
+    "b2": [
+      "Em outras palavras, precisamos cortar gastos para equilibrar o orçamento.",
+      "Em outras palavras, se o cliente não aprovar, teremos que refazer o design.",
+      "Em outras palavras, a responsabilidade pelo erro é compartilhada pela equipe.",
+      "Em outras palavras, o sucesso da campanha depende do engajamento nas redes.",
+      "Em outras palavras, o prazo foi estendido por mais uma semana."
+    ],
+    "c1": [
+      "Em outras palavras, a empresa está transferindo o risco operacional para o parceiro estratégico.",
+      "Em outras palavras, a consolidação do mercado reduz a concorrência e eleva o poder de barganha.",
+      "Em outras palavras, a opacidade do balanço patrimonial inviabiliza uma avaliação precisa de valuation.",
+      "Em outras palavras, o cumprimento da meta regulatória é condição sine qua non para a licença.",
+      "Em outras palavras, a desalavancagem financeira tornou-se imperativa diante da alta dos juros."
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Apenas para garantir que estamos na mesma página, ...",
+    "translation": "Just to make sure we're on the same page, ...",
+    "b1": [
+      "Apenas para garantir que estamos na mesma página, quem vai comprar o bolo?",
+      "Apenas para garantir que estamos na mesma página, a reunião é às dez?",
+      "Apenas para garantir que estamos na mesma página, você tem o endereço?",
+      "Apenas para garantir que estamos na mesma página, o documento está salvo?",
+      "Apenas para garantir que estamos na mesma página, vamos de ônibus?"
+    ],
+    "b2": [
+      "Apenas para garantir que estamos na mesma página, o prazo final é sexta-feira?",
+      "Apenas para garantir que estamos na mesma página, cada equipe fará sua própria apresentação?",
+      "Apenas para garantir que estamos na mesma página, o orçamento aprovado inclui os impostos?",
+      "Apenas para garantir que estamos na mesma página, o cliente confirmou a presença na reunião?",
+      "Apenas para garantir que estamos na mesma página, o suporte técnico assume a partir de amanhã?"
+    ],
+    "c1": [
+      "Apenas para garantir que estamos na mesma página, o gatilho de reajuste contratual está atrelado ao IPCA?",
+      "Apenas para garantir que estamos na mesma página, a responsabilidade civil por eventuais falhas é solidária?",
+      "Apenas para garantir que estamos na mesma página, o escopo da auditoria abrange apenas as filiais locais?",
+      "Apenas para garantir que estamos na mesma página, a cláusula de earn-out depende do atingimento do EBITDA?",
+      "Apenas para garantir que estamos na mesma página, o conselho exige ququalificada para a aprovação da cisão?"
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Isso confirma que ...",
+    "translation": "This confirms that ...",
+    "b1": [
+      "Isso confirma que vai chover hoje.",
+      "Isso confirma que ele ganhou o prêmio.",
+      "Isso confirma que a loja está aberta.",
+      "Isso confirma que o voo saiu no horário.",
+      "Isso confirma que a reserva foi feita."
+    ],
+    "b2": [
+      "Isso confirma que a nossa estratégia de marketing digital está funcionando.",
+      "Isso confirma que o erro no sistema foi causado por uma falha na atualização.",
+      "Isso confirma que o cliente aceitou os novos termos do contrato.",
+      "Isso confirma que a equipe atingiu a meta de vendas antes do prazo.",
+      "Isso confirma que a documentação enviada estava correta e completa."
+    ],
+    "c1": [
+      "Isso confirma que a tese de desvalorização dos ativos legados estava correta.",
+      "Isso confirma que a assimetria regulatória impacta diretamente a competitividade do setor.",
+      "Isso confirma que a provisão para devedores duvidosos era insuficiente para o cenário atual.",
+      "Isso confirma que a governança descentralizada mitiga os riscos de fraudes operacionais.",
+      "Isso confirma que o modelo estocástico de projeção de fluxo de caixa possui alta precisão."
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Permita-me detalhar sobre ...",
+    "translation": "Allow me to elaborate on ...",
+    "b1": [
+      "Permita-me detalhar sobre o meu plano.",
+      "Permita-me detalhar sobre a viagem.",
+      "Permita-me detalhar sobre o preço.",
+      "Permita-me detalhar sobre a ideia.",
+      "Permita-me detalhar sobre o horário."
+    ],
+    "b2": [
+      "Permita-me detalhar sobre as etapas do novo processo de seleção.",
+      "Permita-me detalhar sobre os custos estimados para o evento deste mês.",
+      "Permita-me detalhar sobre as mudanças na política de reembolso.",
+      "Permita-me detalhar sobre os resultados da pesquisa de satisfação.",
+      "Permita-me detalhar sobre a distribuição das tarefas na equipe."
+    ],
+    "c1": [
+      "Permita-me detalhar sobre a arquitetura jurídica do acordo de acionistas.",
+      "Permita-me detalhar sobre a metodologia de cálculo do valor residual dos ativos.",
+      "Permita-me detalhar sobre os critérios de elegibilidade para a emissão de dívida subordinada.",
+      "Permita-me detalhar sobre o plano de contingência para mitigação de riscos cibernéticos.",
+      "Permita-me detalhar sobre a estrutura de remuneração variável atrelada ao desempenho ESG."
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Os detalhes são os seguintes: ...",
+    "translation": "The details are as follows: ...",
+    "b1": [
+      "Os detalhes são os seguintes: data, hora e local.",
+      "Os detalhes são os seguintes: nome, telefone e e-mail.",
+      "Os detalhes são os seguintes: preço, tamanho e cor.",
+      "Os detalhes são os seguintes: cardápio, música e convidados.",
+      "Os detalhes são os seguintes: rota, voo e hotel."
+    ],
+    "b2": [
+      "Os detalhes são os seguintes: cronograma, orçamento e lista de entregas.",
+      "Os detalhes são os seguintes: regras, horários e documentos necessários.",
+      "Os detalhes são os seguintes: tarefas, responsáveis e prazos de conclusão.",
+      "Os detalhes são os seguintes: metas, indicadores e ferramentas de monitoramento.",
+      "Os detalhes são os seguintes: etapas, custos e fornecedores contratados."
+    ],
+    "c1": [
+      "Os detalhes são os seguintes: premissas macroeconômicas, taxas de desconto e projeções de fluxo de caixa.",
+      "Os detalhes são os seguintes: cláusulas de rescisão, penalidades pecuniárias e fóruns de arbitragem.",
+      "Os detalhes são os seguintes: cronograma de desembolso, garantias fidejussórias e covenants financeiros.",
+      "Os detalhes são os seguintes: escopo da auditoria, amostragem estatística e restrições de acesso.",
+      "Os detalhes são os seguintes: matriz de responsabilidade, governança de dados e relatórios de conformidade."
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "O ponto importante aqui não é ..., mas ...",
+    "translation": "The important point here is not ..., but ...",
+    "b1": [
+      "O ponto importante aqui não é o preço, mas a qualidade.",
+      "O ponto importante aqui não é a cor, mas o tamanho.",
+      "O ponto importante aqui não é quem começou, mas como resolver.",
+      "O ponto importante aqui não é o lugar, mas a companhia.",
+      "O ponto importante aqui não é o tempo, mas o resultado."
+    ],
+    "b2": [
+      "O ponto importante aqui não é o lucro trimestral, mas o crescimento a longo prazo.",
+      "O ponto importante aqui não é culpar a equipe, mas entender o erro.",
+      "O ponto importante aqui não é a quantidade de tarefas, mas a eficiência na entrega.",
+      "O ponto importante aqui não é a ferramenta escolhida, mas a forma como a usamos.",
+      "O ponto importante aqui não é o custo do projeto, mas o retorno sobre o investimento."
+    ],
+    "c1": [
+      "O ponto importante aqui não é a expansão da receita bruta, mas a preservação da margem líquida.",
+      "O ponto importante aqui não é a conformidade formal, mas a eficácia real dos controles internos.",
+      "O ponto importante aqui não é o volume de transações, mas a solidez do patrimônio de referência.",
+      "O ponto importante aqui não é a velocidade da expansão, mas a resiliência da governança.",
+      "O ponto importante aqui não é o valor nominal do ativo, mas o risco regulatório associado."
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "Por exemplo, considere ...",
+    "translation": "For example, consider ...",
+    "b1": [
+      "Por exemplo, considere comprar o modelo mais barato.",
+      "Por exemplo, considere ir de metrô em vez de carro.",
+      "Por exemplo, considere estudar um pouco cada dia.",
+      "Por exemplo, considere mudar a cor da parede.",
+      "Por exemplo, considere ligar antes de ir."
+    ],
+    "b2": [
+      "Por exemplo, considere automatizar o envio de relatórios semanais.",
+      "Por exemplo, considere oferecer um desconto para pagamentos à vista.",
+      "Por exemplo, considere contratar um consultor para auditar o sistema.",
+      "Por exemplo, considere alterar o horário de atendimento para o período noturno.",
+      "Por exemplo, considere dividir o projeto em três fases menores."
+    ],
+    "c1": [
+      "Por exemplo, considere a emissão de dívida subordinada convertible para mitigar a alavancagem.",
+      "Por exemplo, considere a adoção de estruturas de trust offshore para salvaguardar ativos estratégicos.",
+      "Por exemplo, considere a implementação de contratos inteligentes baseados em blockchain para rastreabilidade.",
+      "Por exemplo, considere a reestruturação societária via cisão parcial para otimizar a carga tributária.",
+      "Por exemplo, considere a contratação de seguros de responsabilidade civil direcional contra riscos de litígio."
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "O resumo da ópera é ...",
+    "translation": "The bottom line is ...",
+    "b1": [
+      "O resumo da ópera é que precisamos trabalhar mais.",
+      "O resumo da ópera é que o plano deu errado.",
+      "O resumo da ópera é que não temos dinheiro.",
+      "O resumo da ópera é que a viagem foi cancelada.",
+      "O resumo da ópera é que precisamos de ajuda."
+    ],
+    "b2": [
+      "O resumo da ópera é que precisamos cortar custos para salvar o projeto.",
+      "O resumo da ópera é que o cliente quer um desconto de dez por cento.",
+      "O resumo da ópera é que sem a aprovação da diretoria nada pode avançar.",
+      "O resumo da ópera é que a equipe precisa entregar o relatório até amanhã.",
+      "O resumo da ópera é que o novo sistema deve ser implementado até o fim do mês."
+    ],
+    "c1": [
+      "O resumo da ópera é que a transação só será viável se o passivo contingente for totalmente expurgado.",
+      "O resumo da ópera é que a margem de lucro foi corroída pela inflação e pela alta dos insumos.",
+      "O resumo da ópera é que a governança corporativa deve ser totalmente reformulada antes do IPO.",
+      "O resumo da ópera é que o compliance rigoroso é a única barreira contra sanções regulatórias severas.",
+      "O resumo da ópera é que a desalavancagem é imperativa para evitar um rebaixamento de rating."
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "Vamos revisar as principais conclusões: ...",
+    "translation": "Let's review the main findings: ...",
+    "b1": [
+      "Vamos revisar as principais conclusões: preço, qualidade e prazo.",
+      "Vamos revisar as principais conclusões: o plano funcionou bem.",
+      "Vamos revisar as principais conclusões: precisamos de mais tempo.",
+      "Vamos revisar as principais conclusões: a ideia foi aceita.",
+      "Vamos revisar as principais conclusões: os custos subiram."
+    ],
+    "b2": [
+      "Vamos revisar as principais conclusões: o engajamento caiu e o churn aumentou.",
+      "Vamos revisar as principais conclusões: o processo automatizado reduziu os erros em trinta por cento.",
+      "Vamos revisar as principais conclusões: a pesquisa mostrou alta satisfação dos usuários.",
+      "Vamos revisar as principais conclusões: os gargalos estão localizados no setor logístico.",
+      "Vamos revisar as principais conclusões: o orçamento inicial foi totalmente consumido."
+    ],
+    "c1": [
+      "Vamos revisar as principais conclusões: a due diligence revelou assimetrias patrimoniais críticas.",
+      "Vamos revisar as principais conclusões: o teste de estresse indicou vulnerabilidade na liquidez de curto prazo.",
+      "Vamos revisar as principais conclusões: a auditoria confirmou a eficácia dos novos controles de conformidade.",
+      "Vamos revisar as principais conclusões: a análise setorial evidenciou a obsolescência do modelo legado.",
+      "Vamos revisar as principais conclusões: a modelagem financeira ratificou a viabilidade da tese de investimento."
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "Para resumir a situação, ...",
+    "translation": "To sum up the situation, ...",
+    "b1": [
+      "Para resumir a situação, estamos sem dinheiro.",
+      "Para resumir a situação, o carro quebrou.",
+      "Para resumir a situação, tudo deu certo.",
+      "Para resumir a situação, precisamos esperar.",
+      "Para resumir a situação, a loja fechou."
+    ],
+    "b2": [
+      "Para resumir a situação, o projeto está atrasado e o orçamento estourado.",
+      "Para resumir a situação, o cliente mudou de ideia e quer cancelar o contrato.",
+      "Para resumir a situação, a equipe está dividida sobre a nova estratégia.",
+      "Para resumir a situação, o sistema caiu no pior momento possível.",
+      "Para resumir a situação, conseguimos fechar a venda após muita negociação."
+    ],
+    "c1": [
+      "Para resumir a situação, a empresa enfrenta um passivo contencioso vultoso em meio a uma crise de liquidez.",
+      "Para resumir a situação, o ato de concentração foi travado por restrições antitruste intransigentes.",
+      "Para resumir a situação, a tese de reestruturação depende da aprovação unânime dos credores quirografários.",
+      "Para resumir a situação, a perda do principal fornecedor compromete a estabilidade da cadeia produtiva.",
+      "Para resumir a situação, o descumprimento de diretrizes de compliance expõe a companhia a sanções severas."
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "Meu entendimento é que ...",
+    "translation": "My understanding is that ...",
+    "b1": [
+      "Meu entendimento é que vamos nos encontrar amanhã.",
+      "Meu entendimento é que o livro é muito bom.",
+      "Meu entendimento é que a prova será difícil.",
+      "Meu entendimento é que o preço inclui o frete.",
+      "Meu entendimento é que ela aceitou o convite."
+    ],
+    "b2": [
+      "Meu entendimento é que a diretoria aprovou a verba para o projeto.",
+      "Meu entendimento é que o contrato deve ser renovado automaticamente em dezembro.",
+      "Meu entendimento é que a responsabilidade pelo suporte é da equipe de TI.",
+      "Meu entendimento é que o cliente tem direito ao reembolso em até sete dias.",
+      "Meu entendimento é que a nova regra vale para todos os funcionários."
+    ],
+    "c1": [
+      "Meu entendimento é que a cláusula de não concorrência abrange todo o território nacional por cinco anos.",
+      "Meu entendimento é que a responsabilidade subsidiária da holding depende da insolvência da subsidiária.",
+      "Meu entendimento é que a submissão prévia ao Cade não é obrigatória para este formato societário.",
+      "Meu entendimento é que o direito de preferência dos acionistas minoritários deve ser respeitado na emissão.",
+      "Meu entendimento é que a provisão para contingências fiscais cobre integralmente o risco autuado."
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "Apenas para esclarecer, ...",
+    "translation": "Just to be clear, ...",
+    "b1": [
+      "Apenas para esclarecer, você vai comigo?",
+      "Apenas para esclarecer, a festa é hoje?",
+      "Apenas para esclarecer, eu paguei a conta.",
+      "Apenas para esclarecer, o ônibus já passou.",
+      "Apenas para esclarecer, eu não posso ir."
+    ],
+    "b2": [
+      "Apenas para esclarecer, esta alteração no design afeta o prazo de entrega?",
+      "Apenas para esclarecer, a participação na reunião é obrigatória para todos?",
+      "Apenas para esclarecer, o reembolso será feito em dinheiro ou crédito?",
+      "Apenas para esclarecer, o novo software será instalado em todos os computadores?",
+      "Apenas para esclarecer, a verba aprovada cobre apenas os custos de marketing?"
+    ],
+    "c1": [
+      "Apenas para esclarecer, a assunção de dívida exige a anuência formal prévia de todos os credores?",
+      "Apenas para esclarecer, a desoneração fiscal aplica-se de forma retroativa ao exercício anterior?",
+      "Apenas para esclarecer, a cláusula de earn-out está condicionada à permanência dos fundadores?",
+      "Apenas para esclarecer, a auditoria externa possui autonomia irrestrita para acessar os livros contábeis?",
+      "Apenas para esclarecer, a medida cautelar suspende integralmente a exigibilidade do tributo?"
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "O resultado final foi ...",
+    "translation": "The final outcome was ...",
+    "b1": [
+      "O resultado final foi um sucesso.",
+      "O resultado final foi muito bom.",
+      "O resultado final foi um empate.",
+      "O resultado final foi divulgado hoje.",
+      "O resultado final foi melhor que o esperado."
+    ],
+    "b2": [
+      "O resultado final foi a aprovação do projeto sem nenhuma restrição.",
+      "O resultado final foi a assinatura do contrato com o novo parceiro.",
+      "O resultado final foi um aumento de vinte por cento nas vendas.",
+      "O resultado final foi a entrega do relatório dentro do prazo estabelecido.",
+      "O resultado final foi a resolução de todos os bugs críticos do sistema."
+    ],
+    "c1": [
+      "O resultado final foi a homologação do plano de recuperação judicial pelos credores.",
+      "O resultado final foi a aprovação incondicional do ato de concentração pelo Cade.",
+      "O resultado final foi a captação bem-sucedida de cem milhões de reais via debêntures.",
+      "O resultado final foi a celebração do acordo de leniência com as autoridades competentes.",
+      "O resultado final foi a conclusão da due diligence sem apontamento de passivos ocultos."
+    ]
+  }
+]

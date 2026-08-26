@@ -96,64 +96,30 @@ const tabItems = [
 
   {
     !post ? (
-      <p>서버 에러입니다.</p>
+      <p>Internal Server Error</p>
     ) : (
       <>
-        {[post.b1, post.b2, post.c1].filter(Boolean).map((level, index) => (
-          <>
-            {index === 0 && (
-              <>
-                <div class={`phrase-box phrase-b1 riseUp_1`}>
-                  {level.map((phrase, index) => {
-                    return (
-                      <>
-                        <p lang="nl">
-                          <span>{index + 1}.</span>
-                          <br />
-                          {phrase}
-                        </p>
-                      </>
-                    );
-                  })}
-                </div>
-              </>
-            )}
-            {index === 1 && (
-              <>
-                <div class={`phrase-box phrase-b2 riseUp_1`}>
-                  {level.map((phrase, index) => {
-                    return (
-                      <>
-                        <p lang="nl">
-                          <span>{index + 1}.</span>
-                          <br />
-                          {phrase}
-                        </p>
-                      </>
-                    );
-                  })}
-                </div>
-              </>
-            )}
-            {index === 2 && (
-              <>
-                <div class={`phrase-box phrase-c1 riseUp_1`}>
-                  {level.map((phrase, index) => {
-                    return (
-                      <>
-                        <p lang="nl">
-                          <span>{index + 1}.</span>
-                          <br />
-                          {phrase}
-                        </p>
-                      </>
-                    );
-                  })}
-                </div>
-              </>
-            )}
-          </>
-        ))}
+        {[
+          { data: post.b1, className: "phrase-b1" },
+          { data: post.b2, className: "phrase-b2" },
+          { data: post.c1, className: "phrase-c1" },
+        ]
+          .filter((item) => item.data)
+          .map(({ data, className }) => (
+            <div class={`phrase-box ${className} riseUp_1`}>
+              {data.map((phrase, i) => (
+                <p lang="nl">
+                  <span>{i + 1}</span>
+                  <br />
+                  <img
+                    alt="Netherlands"
+                    src="https://purecatamphetamine.github.io/country-flag-icons/3x2/NL.svg"
+                  />
+                  {phrase}
+                </p>
+              ))}
+            </div>
+          ))}
       </>
     )
   }
@@ -190,15 +156,15 @@ const tabItems = [
     display: inline-block;
     text-align: left;
     width: 100%;
-    padding: 2rem;
-    font-size: 20px;
+    padding: 2.5rem 3rem;
+    font-size: 18px;
     font-weight: 500;
     line-height: 2rem;
     margin-bottom: 1.5rem;
     hyphens: auto;
     overflow-wrap: break-word;
     font-family: "Inter", sans-serif;
-    background-color: var(--neutral50);
+    background-color: var(--white);
     border-radius: 10px;
   }
 
@@ -206,10 +172,19 @@ const tabItems = [
     display: inline-block;
     text-transform: uppercase;
     width: 100%;
-    font-weight: 700;
+    font-weight: 500;
     direction: ltr;
-    color: var(--orange400);
-    margin-bottom: 0.5rem;
+    color: var(--neutral700);
+    border-bottom: 1px solid var(--neutral700);
+    margin-bottom: 2rem;
+  }
+
+  .phrase-box > p > img {
+    display: inline-block;
+    height: 16px;
+    transform: translateY(2px);
+    border-radius: 2px;
+    margin-right: 0.5rem;
   }
 
   .phrase-box > h1,
@@ -219,12 +194,20 @@ const tabItems = [
 
   @media (max-width: 1280px) {
     .phrase-box > p {
-      padding: 1.5rem;
-      font-size: 18px;
+      padding: 2rem;
+      font-size: 16px;
       line-height: 26px;
       margin-bottom: 1rem;
       border: none;
       border-radius: 0px;
+    }
+
+    .phrase-box > p > img {
+      display: block;
+      height: 14px;
+      transform: translateY(0px);
+      border-radius: 2px;
+      margin-bottom: 1rem;
     }
 
     .phrase-box > h1,
