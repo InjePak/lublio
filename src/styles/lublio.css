@@ -110,7 +110,8 @@ p {
   height: auto;
   color: var(--neutral700);
   margin-bottom: 1.5rem;
-  font-family: "Inter", sans-serif;
+  letter-spacing: -0.5px;
+  font-family: "Google Sans", sans-serif;
 }
 
 h1::selection,
@@ -501,7 +502,7 @@ select {
   width: 100%;
   color: var(--neutral700);
   font-size: 16px;
-  font-family: "Inter", sans-serif;
+  font-family: "Google Sans", sans-serif;
   font-weight: 500;
   outline: none;
   -o-appearance: none;
@@ -576,7 +577,7 @@ select > option:hover {
 
 button {
   position: relative;
-  font-family: "Inter", sans-serif;
+  font-family: "Google Sans", sans-serif;
   width: calc(100% - 20px);
   letter-spacing: 0px;
   margin: 10px;

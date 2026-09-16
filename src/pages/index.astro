@@ -39,7 +39,6 @@ const pageTitle = "Lublio";
 
     <section id="languages" class="languages">
       <div class="section-header">
-        <p class="eyebrow">LANGUAGES</p>
         <h2>Choose your language.</h2>
       </div>
 
@@ -178,7 +177,7 @@ const pageTitle = "Lublio";
 
     .hero {
       position: relative;
-      min-height: calc(100vh - 3rem);
+      min-height: calc(100vh - 5rem);
       display: flex;
       align-items: center;
       justify-content: center;
@@ -193,22 +192,13 @@ const pageTitle = "Lublio";
       text-align: center;
     }
 
-    .eyebrow {
-      margin: 0 0 1.5rem;
-      font-size: 0.75rem;
-      font-weight: 700;
-      letter-spacing: 0.18em;
-      text-transform: uppercase;
-      opacity: 0.55;
-    }
-
     h1 {
       margin: 0;
       font-size: clamp(3.5rem, 8vw, 7.5rem);
       line-height: 0.95;
       letter-spacing: -0.055em;
       font-weight: 700;
-      font-family: "Inter", sans-serif;
+      font-family: "Google Sans", sans-serif;
     }
 
     h1 span {
@@ -221,7 +211,7 @@ const pageTitle = "Lublio";
       font-size: clamp(1rem, 1.5vw, 1.25rem);
       line-height: 1.6;
       opacity: 0.65;
-      font-family: "Inter", sans-serif;
+      font-family: "Google Sans", sans-serif;
     }
 
     .hero-button {
@@ -241,7 +231,7 @@ const pageTitle = "Lublio";
         color 0.25s ease,
         transform 0.25s ease;
       width: 300px;
-      font-family: "Inter", sans-serif;
+      font-family: "Google Sans", sans-serif;
     }
 
     .hero-button span {
@@ -275,7 +265,7 @@ const pageTitle = "Lublio";
       letter-spacing: -0.06em;
       white-space: nowrap;
       opacity: 0.03;
-      font-family: "Inter", sans-serif;
+      font-family: "Google Sans", sans-serif;
     }
 
     .word-1 {
@@ -340,7 +330,7 @@ const pageTitle = "Lublio";
     }
 
     .button-wrapper {
-      height: 700px;
+      height: 800px;
       display: grid;
       grid-template-columns: repeat(3, 1fr);
       gap: 1rem;
@@ -353,35 +343,20 @@ const pageTitle = "Lublio";
         padding: 7rem 2rem 5rem;
       }
 
-      .button-wrapper {
-        grid-template-columns: repeat(2, 1fr);
-      }
-    }
-
-    @media (max-width: 600px) {
-      .hero {
-        min-height: calc(100svh - 3rem);
-        padding: 4rem 1.5rem;
-      }
-
       h1 {
-        font-size: clamp(3.2rem, 15vw, 5rem);
-      }
-
-      .hero-description {
-        font-size: 1rem;
-      }
-
-      .languages {
-        padding: 5rem 1.25rem 3rem;
+        margin: 0;
+        font-size: 36px;
+        line-height: 60px;
+        letter-spacing: -0.055em;
+        font-weight: 700;
+        font-family: "Google Sans", sans-serif;
       }
 
       .button-wrapper {
-        grid-template-columns: 1fr;
-      }
-
-      .word {
-        font-size: 4rem;
+        height: auto;
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        gap: 1rem;
       }
     }
   </style>

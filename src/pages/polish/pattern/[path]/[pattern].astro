@@ -2,6 +2,7 @@
 import BaseLayout from "../../../../layouts/BaseLayout.astro";
 import SectionSwitcher from "../../../../components/SectionSwitcher.astro";
 import Box3 from "../../../../components/Box3.astro";
+import PhraseBox from "../../../../components/PhraseBox.astro";
 
 import chapters from "../../../../assets/json/patterns/chapters.json";
 import chapter1 from "../../../../assets/json/patterns/polish/chapter1.json";
@@ -106,113 +107,9 @@ const tabItems = [
         ]
           .filter((item) => item.data)
           .map(({ data, className }) => (
-            <div class={`phrase-box ${className} riseUp_1`}>
-              {data.map((phrase, i) => (
-                <p lang="pl">
-                  <span>{i + 1}</span>
-                  <br />
-                  <img
-                    alt="Poland"
-                    src="https://purecatamphetamine.github.io/country-flag-icons/3x2/PL.svg"
-                  />
-                  {phrase}
-                </p>
-              ))}
-            </div>
+            <PhraseBox data={data} className={className} language="pol" />
           ))}
       </>
     )
   }
-
-  <script>
-    // 페이지 내의 모든 체크박스를 가져옵니다.
-    const toggles = document.querySelectorAll(".toggle-lang");
-
-    toggles.forEach((toggle) => {
-      toggle.addEventListener("change", (e) => {
-        const targetClass = (e.target as HTMLInputElement).dataset.target;
-        const isVisible = (e.target as HTMLInputElement).checked;
-
-        // 해당 클래스를 가진 모든 요소를 찾아 숨기거나 보입니다.
-        const elements = document.querySelectorAll(`.${targetClass}`);
-        elements.forEach((el) => {
-          (el as HTMLElement).style.display = isVisible ? "block" : "none";
-        });
-      });
-    });
-  </script>
 </BaseLayout>
-
-<style>
-  .phrase-box {
-    margin-bottom: 1.5rem;
-  }
-
-  .phrase-box > h2 {
-    text-align: left;
-  }
-
-  .phrase-box > p {
-    display: inline-block;
-    text-align: left;
-    width: 100%;
-    padding: 2.5rem 3rem;
-    font-size: 18px;
-    font-weight: 500;
-    line-height: 2rem;
-    margin-bottom: 1.5rem;
-    hyphens: auto;
-    overflow-wrap: break-word;
-    font-family: "Inter", sans-serif;
-    background-color: var(--white);
-    border-radius: 10px;
-  }
-
-  .phrase-box > p > span {
-    display: inline-block;
-    text-transform: uppercase;
-    width: 100%;
-    font-weight: 500;
-    direction: ltr;
-    color: var(--neutral700);
-    border-bottom: 1px solid var(--neutral700);
-    margin-bottom: 2rem;
-  }
-
-  .phrase-box > p > img {
-    display: inline-block;
-    height: 16px;
-    transform: translateY(2px);
-    border-radius: 2px;
-    margin-right: 0.5rem;
-  }
-
-  .phrase-box > h1,
-  .phrase-box > p {
-    color: var(--neutral800);
-  }
-
-  @media (max-width: 1280px) {
-    .phrase-box > p {
-      padding: 2rem;
-      font-size: 16px;
-      line-height: 26px;
-      margin-bottom: 1rem;
-      border: none;
-      border-radius: 0px;
-    }
-
-    .phrase-box > p > img {
-      display: block;
-      height: 14px;
-      transform: translateY(0px);
-      border-radius: 2px;
-      margin-bottom: 1rem;
-    }
-
-    .phrase-box > h1,
-    .phrase-box > p {
-      color: var(--neutral800);
-    }
-  }
-</style>

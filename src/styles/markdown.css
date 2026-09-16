@@ -28,7 +28,7 @@
   height: auto;
   color: var(--neutral800);
   margin-bottom: 1.5rem;
-  font-family: "Inter", sans-serif;
+  font-family: "Google Sans", sans-serif;
 }
 
 .post-body h1::selection,
@@ -125,7 +125,7 @@
   margin-bottom: 1.5rem;
   padding-left: 1.5rem; /* 숫자가 들어갈 왼쪽 여백 */
   counter-reset: custom-counter; /* 숫자를 직접 제어하고 싶을 때 사용 */
-  font-family: "Inter", sans-serif;
+  font-family: "Google Sans", sans-serif;
   font-size: 16px;
   list-style-type: decimal;
 }
@@ -148,7 +148,7 @@
 .post-body ul li::marker {
   color: var(--neutral800);
   font-weight: bold;
-  font-family: "Inter", sans-serif;
+  font-family: "Google Sans", sans-serif;
 }
 
 .post-body ol ol,
@@ -176,7 +176,7 @@
   margin-bottom: 1.5rem;
   table-layout: fixed; /* 핵심: 모든 열의 너비를 고정된 비율로 분배 */
   display: table;
-  font-family: "Inter", sans-serif;
+  font-family: "Google Sans", sans-serif;
   font-size: 16px;
 }
 

@@ -1,4 +1,12 @@
 @font-face {
+  font-family: "Google Sans";
+  src: url("/fonts/GoogleSans-VariableFont_GRAD,opsz,wght.ttf")
+    format("truetype");
+  font-display: swap;
+}
+/* font-family: "Google Sans", sans-serif; */
+
+@font-face {
   font-family: "Roboto Condensed";
   src: url("/fonts/RobotoCondensed-VariableFont_wght.ttf") format("truetype");
   font-display: swap;

@@ -111,7 +111,7 @@ p {
   height: auto;
   color: var(--neutral100);
   margin-bottom: 1.5rem;
-  font-family: "Inter", sans-serif;
+  font-family: "Google Sans", sans-serif;
 }
 
 h1::selection,
